@@ -1,0 +1,219 @@
+"1.1":
+  indicator: "Domestic violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Domestic violence? yes or no"'
+
+"1.2":
+  indicator: "Sexual violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Sexual violence? yes or no"'
+
+"1.3":
+  indicator: "Physical violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Physical violence? yes or no"'
+
+"1.4":
+  indicator: "Psychological violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Psychological violence? yes or no"'
+
+"1.5":
+  indicator: "Economic violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Economic violence / economic exploitation / domestic neglect? yes or no"'
+
+"1.6":
+  indicator: "Harmful practices"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Harmful practices, including early marriage, female genital mutilation, honour crimes, female infanticide? yes or no"'
+
+"1.7":
+  indicator: "Femicide/feminicide"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Femicide/feminicide? yes or no"'
+
+"1.8":
+  indicator: "Human trafficking"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Human trafficking? yes or no"'
+
+"1.9":
+  indicator: "Sexual slavery/exploitation"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Sexual exploitation? yes or no"'
+
+"1.10":
+  indicator: "Technology facilitated violence"
+  prompt: 'using the below text, answer the following question and reference the portion of text "does the policy include Technology facilitated violence? yes or no"'
+
+"2.1":
+  indicator: "Institutional network"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any institutional network: coordination or cooperation with governments across jurisdictions? yes or no"'
+
+"2.2":
+  indicator: "Collaboration with NGOs"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Collaboration/cooperation mechanism with non-government service provides (e.g., forum, working group)? yes or no"'
+
+"2.3":
+  indicator: "Data collection systems"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any establishment of data collection or information system for VAW and women''s protection? yes or no"'
+
+"2.4":
+  indicator: "Gender mainstreaming institutionalisation"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any specific mention of gender mainstreaming institutionalisation or working group for gender mainstreaming to deliver VAW policies and programs? yes or no"'
+
+"2.5":
+  indicator: "Training and capacity building"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any training and capacity building for government officials and service workers? yes or no"'
+
+"2.6":
+  indicator: "Monitoring and evaluation"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any monitoring and evaluation of policy implementation and service delivery? yes or no"'
+
+"3.1":
+  indicator: "Integrated service unit"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Integrated service unit for VAW? yes or no"'
+
+"3.2":
+  indicator: "Police specialised service unit"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Specialised service unit for victims of VAW in police offices? yes or no"'
+
+"3.3":
+  indicator: "Reporting/hotline service"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would receive reports or complaints of violence? yes or no"'
+
+"3.4":
+  indicator: "Safety/protection shelter"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Safety/protection shelter? yes or no"'
+
+"3.5":
+  indicator: "Legal assistance"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Legal assistance? yes or no"'
+
+"3.6":
+  indicator: "Health/medical services"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Health/medical services? yes or no"'
+
+"3.7":
+  indicator: "Psychosocial counselling"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Psychosocial counseling services? yes or no"'
+
+"3.8":
+  indicator: "Religious/spiritual counselling"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Religious/spiritual counseling? yes or no"'
+
+"3.9":
+  indicator: "Resocialisation services"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Resocialisation (rehabilitation/reintegration) services? yes or no"'
+
+"3.10":
+  indicator: "Economic support"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any service unit that would provide Economic empowerment/support (e.g., skill training, financial support)? yes or no"'
+
+"4.1":
+  indicator: "Information and education about VAW"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about VAW? yes or no"'
+
+"4.2":
+  indicator: "Information and education about gender equality"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about gender equality and/or women’s rights? yes or no"'
+
+"4.3":
+  indicator: "Information about VAW laws and policies"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about VAW laws and policies? yes or no"'
+
+"4.4":
+  indicator: "Prevention through education"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Prevention through education and improving the quality of education? yes or no"'
+
+"5.1":
+  indicator: "Collaboration with NGOs"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with civil society organisations/NGOs? yes or no"'
+
+"5.2":
+  indicator: "Collaboration with religious organisations"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with religious organisations/leaders? yes or no"'
+
+"5.3":
+  indicator: "Collaboration with traditional organisations"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with traditional/cultural organisations/leaders? yes or no"'
+
+"5.4":
+  indicator: "Collaboration with education institutions"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with education institutions, including universities? yes or no"'
+
+"5.5":
+  indicator: "Collaboration with international organisations"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholder Engagement for Services and Prevention, specifically Engagement/collaboration with international organizations or international support to assist with service delivery? yes or no"'
+
+"5.6":
+  indicator: "Collaboration with media"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with media? yes or no"'
+
+"5.7":
+  indicator: "Collaboration with community"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement/collaboration with community/society? yes or no"'
+
+"5.8":
+  indicator: "Collaboration with business/private sector"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Stakeholders Engagement for Services and Prevention, specifically Engagement with business/private sector? yes or no"'
+
+"6.1":
+  indicator: "Women in conflict/disaster areas"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women in conflict and disaster prone area? yes or no"'
+
+"6.2":
+  indicator: "Women victims of trafficking"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women victims of human trafficking? yes or no"'
+
+"6.3":
+  indicator: "Women workers"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any specific mention of protection for women workers or special protection measures specifically targeted at women workers/employees? yes or no"'
+
+"6.4":
+  indicator: "Elderly women"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at elderly women? yes or no"'
+
+"6.5":
+  indicator: "People with disability"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women with disability or people with disability? yes or no"'
+
+"6.6":
+  indicator: "Women heads of household"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women head of households/families? yes or no"'
+
+"6.7":
+  indicator: "Women from minority groups"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women from minority or isolated groups? yes or no"'
+
+"6.8":
+  indicator: "Women in legal process"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any specific mention of protection of women in conflict with the law as witness or perpetrator? yes or no"'
+
+"6.9":
+  indicator: "Indigenous people/groups"
+  prompt: 'using the below text, answer the following question and reference the portion of text "Is there any special protection measures specifically targeted at Indigenous people/groups (masyarakat adat)? Yes or no"'
+
+"6.10":
+  indicator: "Refugee/forced displacement"
+  prompt: 'using the below text, answer the following question and reference the portion of text "Is there any special protection measures specifically targeted at Refugee / forced displacement? Yes or no"'
+
+"6.11":
+  indicator: "Domestic worker"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at Domestic worker? Yes or no"'
+
+"6.12":
+  indicator: "Women experiencing homelessness"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women experiencing homelessness? Yes or no"'
+
+"6.13":
+  indicator: "Formerly incarcerated women"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at women who are former inmates in correctional institutions or formerly incarcerated women? Yes or no"'
+
+"7.1":
+  indicator: "Local government budget"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically Local government budget? Yes or no"'
+
+"7.2":
+  indicator: "National government budget"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically National government budget? Yes or no"'
+
+"7.3":
+  indicator: "International support/donors"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically explicit mention of international support/donors, including international organizations, foreign governments, bilateral or multilateral donors, UN agencies, development partners, or other international funding support? yes or no"'
+
+"7.4":
+  indicator: "Other legal sources"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically Other legal sources? Yes or no"'
