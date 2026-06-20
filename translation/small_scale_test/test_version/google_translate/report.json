@@ -1,0 +1,135 @@
+{
+  "version": 1,
+  "evaluations": [
+    {
+      "file_name": "ACEH_BIREUEN.txt",
+      "average_score": 3.0,
+      "metrics": {
+        "accuracy_and_fidelity": {
+          "score": 3,
+          "rationale": "The translation is generally accurate and preserves the core legal mandates of the regional policy text, but it suffers from several partial omissions and minor semantic distortions. For instance, in the preamble section (Mengingat #7), 'Cipta Kerja' is translated as 'Job Creation', but the structural legal context 'Lembaran Negara...' is translated haphazardly as 'Sheet Republic of Indonesia'. In Article 5(1)a, 'mempertahankan hidupnya' is translated using a gendered pronoun ('defend his life') which distorts a policy explicitly written for women. Furthermore, in the final signatory lines, OCR noise and corrupt dates in the source text ('24 loit', 'TA AjufW lozi') were copied mechanically or translated literalistically into '24th loit' and 'TA date AjufW lozi' without contextual notes or administrative reconstruction. The signature of 'AULIA SOFYAN' was translated inversely as 'SOFYAN HALL' ('Sofyan Aulia' mistakenly transformed into a 'Hall'). These structural and semantic lapses require manual intervention to prevent administrative or legal misinterpretation."
+        },
+        "terminology_and_domain_appropriateness": {
+          "score": 3,
+          "rationale": "The translation frequently uses non-standard, literal, or overly generic terms instead of official public administration jargon. The Indonesian regulatory term 'TENTANG' is translated as 'ABOUT' instead of the standard statutory 'CONCERNING'. 'Lembaran Negara' and 'Tambahan Lembaran Negara' are translated inconsistently as 'State Gazette' and 'Supplement to the State Gazette' in some places, but elsewhere degraded to 'Sheet Republic of Indonesia' (Mengingat #7). Local government divisions are poorly adapted: 'Kabupaten' is translated interchangeably as 'District' and 'Regency' within the exact same paragraphs (e.g., the title uses 'BIREUEN DISTRICT' but the text uses 'Regent of Bireuen' and 'Regency Government'). Local terms like 'Gampong' are sometimes kept as 'Gampong' and other times translated as 'village' without institutional standardization, introducing unacceptable administrative ambiguity."
+        },
+        "tone_and_style": {
+          "score": 4,
+          "rationale": "The overall tone of the translated document remains formal, objective, and neutral, successfully imitating the structural layout of a statutory instrument. However, authoritative phrasing suffers in sections due to literal machine-translation tendencies. For example, in the structural headers, using 'ABOUT' instead of 'CONCERNING' diminishes the institutional dignity of the document. Translating 'Menimbang' as 'Considering' and 'Mengingat' as 'Bearing in mind' is acceptable, but the style becomes clunky and less authoritative in the 'Explanation' (Penjelasan) section where complex legal-religious contexts are flattened into basic literal phrasing."
+        },
+        "fluency_and_grammar": {
+          "score": 3,
+          "rationale": "The text is completely understandable but heavily plagued by a rigid 'machine translation' syntax and structural awkwardness. Sentences frequently lack proper English legal connective syntax. For example, in Chapter I, Article 1, Paragraph 3: '...as the administration of affairs carried out by the regency government...' is grammatically stiff. In the Section II 'Article by Article' section, cross-language corruption occurred where the Indonesian 'Pasal 6' was erroneously translated to 'Pasal6', and its explanation ('Cukup jelas') was translated as 'With reconciliation / Quite clear' instead of staying structurally consistent with the rest of the articles which read 'Quite clear'."
+        },
+        "consistency_and_alignment": {
+          "score": 2,
+          "rationale": "The document displays severe internal instability across key terms and parallel structures. The core institutional word 'Kabupaten' shifts constantly between 'District' (in headers like 'BIREUEN DISTRICT QANUN') and 'Regency' (in body text like 'Bireuen Regency' or 'Regency Government'). The local administrative term 'Gampong' shifts unpredictably to 'village' (e.g., Chapter VIII alternates between 'GAMPONG GOVERNMENT SUPPORT' in the header and 'village-level regulations' or 'village environment' in the text). Structurally identical lines in the 'Explanation' section are handled haphazardly: while most instances of 'Pasal [X] - Cukup jelas' are mapped correctly to 'Article [X] - Quite clear', Article 6 breaks pattern to become 'Pasal6 - With reconciliation / Quite clear', and Articles 7, 8, and 9 are abruptly replaced by 'Chapter 7', 'Chapter 8', and 'Chapter 9' instead of 'Article'. This violates the critical requirements for internal stability and parallel structure alignment."
+        }
+      }
+    },
+    {
+      "file_name": "LAMPUNG_LAMPUNG_TIMUR.txt",
+      "average_score": 4.0,
+      "metrics": {
+        "accuracy_and_fidelity": {
+          "score": 4,
+          "rationale": "The translation is highly accurate and preserves the core legal mandates, responsibilities, and structural elements of the regional regulation. Almost all clauses, legislative citations, and contextual explanations match their source. However, a few minor inaccuracies exist: in Law No. 1 of 2000, 'U.N Convention' was mistranslated as 'U.N Concentration', which is a clear typo/distortion. Additionally, in the Explanation section of the title, the source text reads 'NOMOR 15 TAHUN 2012' (likely a typo in the original Indonesian law itself since the main text says 2013), and the translation preserved it as '2012' which is technically faithful to the source's defect but perpetuates an internal contradiction. These do not severely impact policy implementation, hence a score of 4."
+        },
+        "terminology_and_domain_appropriateness": {
+          "score": 4,
+          "rationale": "The translator successfully navigates standard Indonesian public administration terms into English equivalents (e.g., 'Lembaran Negara' as 'State Gazette', 'Peraturan Daerah' as 'Regional Regulation', and 'Mengingat' as 'Remember'—though 'Considering' or 'Having regard to' is more standard in international legal contexts, 'Remember' is frequently used in literal Indonesian legal translations). However, some official institutional names are slightly non-standard: 'Bupati' is translated shiftingly between 'Regent' and 'Bupati', and 'Kabupaten' is translated alternatively as 'District' and 'Regency'. Additionally, in Article 20, 'pedoman dan standar pemenuhan' is translated as 'compliance guidelines and standards', whereas 'fulfillment guidelines and standards' would be more domain-appropriate for human/women/child rights documentation."
+        },
+        "tone_and_style": {
+          "score": 5,
+          "rationale": "The tone is appropriately formal, authoritative, objective, and neutral. It matches the structural requirements of legislative translations perfectly. Phrases like 'By the Grace of Almighty God' and 'comes into force on the date of promulgation' perfectly preserve the dignified, legalistic style required of statutory instruments."
+        },
+        "fluency_and_grammar": {
+          "score": 4,
+          "rationale": "The text reads well and possesses sound grammatical structures. There are minor rigidities influenced by the Indonesian source language syntax, such as using 'Weigh' for 'Menimbang' instead of the more natural legal participle 'Considering', and using 'About' for 'Tentang' instead of 'Regarding' or 'Concerning'. In Article 15, sentence (1) ends awkwardly with '...women's protection services and child' instead of '...and child protection services'. These are minor flaws that do not impede overall readability."
+        },
+        "consistency_and_alignment": {
+          "score": 3,
+          "rationale": "The translation suffers from moderate internal consistency issues regarding key administrative terms and structures. Specifically: 1) 'Kabupaten Lampung Timur' is mapped inconsistently to 'EAST LAMPUNG DISTRICT' (in headers, Chapter II, Chapter IV Part One) and 'East Lampung Regency' (in Menimbang, Chapter I, Chapter V). 2) 'Bupati' is translated as 'REGENT' in headers but remains 'The Regent' or 'Bupati' in Chapter I. 3) 'Ayat' is translated as 'paragraph' in early chapters (e.g., Article 4, 5, 6, 7) but shifts to 'Sentence' in the Explanation section (Article 4, 10, 15). 4) Parallel headings are broken: BAB I, II, V, VI, VII, IX use the source term 'BAB' in the target translation (e.g., 'BAB III PLANNING', 'BAB V'), whereas Chapters IV, VIII, and X are correctly translated as 'CHAPTER'."
+        }
+      }
+    },
+    {
+      "file_name": "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+      "average_score": 3.0,
+      "metrics": {
+        "accuracy_and_fidelity": {
+          "score": 3,
+          "rationale": "The translation is generally accurate and captures the core message of the policy text, but it contains partial distortions and awkward semantic mappings that affect legal/administrative implementation. For example, in the preamble (c), 'untuk mengisi kekosongan hukum' (to fill a legal vacuum/lacuna) is translated as 'to fill legal gaps', which is slightly weak for a legislative context. More importantly, in the same clause, 'perlu adanya pengaturan dalam Peraturan Daerah' is mistranslated as 'there needs to be internal regulation Regional Regulations', distorting the text. In Law No. 9 of 2015, 'Amandemen Kedua atas...' is translated as 'Second Amendment to the top', which is a literal mistranslation of the Indonesian phrase 'atas' (on/regarding) in a regulatory title. In Article 15(2), 'tahap' and 'level' are used interchangeably for the source term 'tahap', and in Article 32(2) 'Pendahuluan' is translated as 'advance' instead of 'Introduction' or 'Preamble', which distorts the structural meaning of a standard policy document framework."
+        },
+        "terminology_and_domain_appropriateness": {
+          "score": 3,
+          "rationale": "The translation frequently relies on generic or literal translations instead of standard target-language statutory jargon. 'Penyelenggaraan' is routinely translated as 'Implementation' or 'Organizing' instead of the standard administrative term 'Administration' or 'Management' for a public policy framework. 'Dinas' is translated as 'Department' or 'Service' interchangeably instead of an official term like 'Agency' or 'Office' (or maintaining 'Dinas' as an institutional proper noun). 'Badan' is translated as 'Agency' or 'Body'. In Article 1, 'Ketentuan Umum' is translated as 'General Requirements' rather than the standard legal phrase 'General Provisions'. Proper names are anglicized inconsistently (e.g., proper names like 'Fransiskus Tilis' translated as 'Francis Tilus', and 'Raymundus Sau Fernandes' altered to 'Raymond Sau Fernandes'), which violates protocols for official legal documents."
+        },
+        "tone_and_style": {
+          "score": 4,
+          "rationale": "The tone remains mostly formal, objective, and neutral, avoiding conversational language. However, it suffers from structural clunkiness that slightly impairs the authoritative dignity expected of an official government regulation. For example, leaving phrases uncapitalized randomly (e.g., 'article 1' instead of 'Article 1' in the header) and using clunky, literal phrasings derived from raw translation strings prevents it from achieving a flawless score in this domain."
+        },
+        "fluency_and_grammar": {
+          "score": 3,
+          "rationale": "The translation suffers from a prominent 'machine translation' feel due to strict adherence to source-language syntax. It leaves chunks of text entirely untranslated in the middle of sentences (e.g., Article 9, paragraph 3: 'Kepengurusan Focal Point PUG sebagaimana dimaksud pada ayat (1) terdiri atas:' and Article 9, paragraph 3(d): 'Anggota oleh perwakilan Pejabat or staf dari bidang dan sekretariat pada PD.'). There are also awkward word order errors and literal spacing issues directly carried over from the source document (e.g., 'P ENYELENGGARAAN', 'e n a m', and 'TIMOR CENTRAL URATA')."
+        },
+        "consistency_and_alignment": {
+          "score": 2,
+          "rationale": "The document exhibits severe instability in core terms and structural alignment. 1) 'Dinas' is translated as 'Department' in Article 1(6) but shifts to 'Service' in Article 29(1), Article 33(3), and Article 35(1). 2) 'Badan' is translated as 'Agency' in Article 1(10) but shifts to 'Body' in Article 6(4)(a). 3) Structural headers alternate unpredictably between English and Indonesian (e.g., 'CHAPTER I', 'CHAPTER II', then switching back to 'BAB III', 'BAB V', 'BAB VI', 'BAB VII', 'BAB IX'). 4) Parallel list structures have broken alignments—some bullets use lowercase starts, others uppercase, and some parallel clauses are translated with completely haphazard sentence structures. 5) The location name shifts from 'North Central Timor' to 'TIMOR CENTRAL URATA' at the end of the text."
+        }
+      }
+    },
+    {
+      "file_name": "SUMATERA_BARAT_PADANG_PARIAMAN.txt",
+      "average_score": 3.2,
+      "metrics": {
+        "accuracy_and_fidelity": {
+          "score": 3,
+          "rationale": "The target text is generally accurate and captures the core mandate of the policy, but it suffers from several partial omissions, mistranslations, and mechanical errors that alter legal nuances. For example, in Article 21(1)(a), 'korban' (victim) is mistranslated as 'age' (likely a bizarre machine-translation hallucination or structural shift). In Article 55(e), the phrase 'waktu kerja paling lama 3 (tiga) jam dalam sehari' is translated as 'maximum working time of 3 (three) hours a day', but the formatting strips the semantic cohesion from the preceding text. In Article 9(b), 'wali nagari' is translated as 'nagari mayors', which distorts the distinct sub-district local governance level in West Sumatra. Throughout the text, small structural words like 'internal regulation' for 'pengaturan dalam bentuk peraturan Daerah' (Article 1.b) completely alter the jurisdictional weight of the local law."
+        },
+        "terminology_and_domain_appropriateness": {
+          "score": 3,
+          "rationale": "The translation frequently resorts to generic or literal translations instead of standardized statutory and public administration terminology. 'Peraturan Daerah' is translated inconsistently, sometimes as 'Regional Regulations' and other times loosely as 'Regulations Areas' (Article 1.c). The official acronym 'SKPD' is expanded to 'Regional Work Units' instead of the standard public administration term 'Regional Government Task Force' or 'Regional Device Work Unit'. In Article 22(3)(d), 'visum' is translated as 'view', which is a severe domain failure; 'visum' refers to a forensic medical report (visum et repertum) used as legal evidence in violence cases, not a visual sight. 'Pemerintahan Daerah' is translated as 'regional government, there needs to be internal regulation' in Article 1(b), failing to capture statutory governance parameters."
+        },
+        "tone_and_style": {
+          "score": 4,
+          "rationale": "The document mostly maintains an authoritative, formal, and objective legal tone suitable for government publications. However, its dignity is slightly undermined by machine-translation leakage. Prepositions and headers are sometimes translated in an unauthoritative, raw manner (e.g., using 'ABOUT' for 'TENTANG' instead of the standard legislative English 'CONCERNING'). The presence of uncorrected placeholder strings like 'Law.......' preserved from the source text's typo line in Clause 5 diminishes its professional publication standard."
+        },
+        "fluency_and_grammar": {
+          "score": 3,
+          "rationale": "The syntax is understandable but exhibits a severe, rigid 'machine translation' quality that impedes natural readability. Sentence structures are often overly mapped to Indonesian word orders, creating awkward phrasing. For instance, in Article 1(b), 'there needs to be internal regulation form of Regional regulations' lacks proper articles and prepositions ('there needs to be an internal regulation in the form of...'). In Article 2, the phrasing 'Implementation of Women's Empowerment and Child Protection based on the principles of' is left hanging ungrammatically before the list. Typographical artifacts like ']prevent' in Article 64(c) also reveal a lack of human polish."
+        },
+        "consistency_and_alignment": {
+          "score": 3,
+          "rationale": "The text exhibits moderate internal instability and structural inconsistency. Specific instances include: 1) 'Peraturan Daerah' switches haphazardly between 'Regional Regulations' (Title), 'Regional regulations' (Article 1.b), 'Regulations Areas' (Article 1.c), and 'Regional Regulation' (Article 1, introductory sentence). 2) 'Mengingat' is translated as 'Bearing in mind', while 'Menimbang' is translated as 'Considering', which is consistent, but the parallel structures within the lists lose uniformity. 3) The phrase 'Pembinaan' is translated as 'construction' in Article 4(g) and Article 35(a), but shifting it to 'construction' makes no sense in a human development policy where it means 'guidance' or 'capacity building'. 4) Structural shifts occur in Chapter headers where 'BAB I' becomes 'CHAPTER I' but later shifts back to the Indonesian 'BAB III', 'BAB V', 'BAB VI', 'BAB VII', and 'BAB XI' in the target text, failing structural stability entirely."
+        }
+      }
+    },
+    {
+      "file_name": "JAWA_TENGAH_SEMARANG.txt",
+      "average_score": 3.2,
+      "metrics": {
+        "accuracy_and_fidelity": {
+          "score": 3,
+          "rationale": "The translation is generally accurate and captures the core message, but it contains critical semantic distortions and structural mapping errors. In Menimbang (a), 'sesuai dengan kapasitasnya' is translated as 'with its capacity', treating a human group ('women') with an inappropriate impersonal pronoun. In Menimbang (b), 'masyarakat, bangsa dan negara' is mistranslated as 'society, race and country'; 'bangsa' means nation, and substituting it with 'race' severely alters the political and statutory intent of the document. Additionally, under the 'PASAL DEMI PASAL' section for Article 5, the Indonesian structural term 'Ayat' (Paragraph/Subsection) is systematically mistranslated as 'Sentence', creating an analytical and regulatory mismatch since an 'Ayat' in Indonesian law can contain multiple sentences."
+        },
+        "terminology_and_domain_appropriateness": {
+          "score": 3,
+          "rationale": "The translation fluctuates between appropriate statutory English vocabulary and overly literal, non-standard phrases. Translating 'Peraturan Daerah' as 'Regional Regulations' is acceptable, but using 'Bupati Semarang' as 'Regent of Semarang' can be improved by adding institutional markers. The legal citations are direct calques. Crucially, translating 'Lembaga Pemasyarakatan' as 'community institutions' in the title of Article 20, but then as 'correctional institutions' in the body text, represents a failure in domain-specific terminology mapping. 'Lembaga Pemasyarakatan' specifically means correctional facility/prison, and calling it a 'community institution' obscures its penal nature. Furthermore, translating the placeholder explanation 'Cukup jelas' literally as 'Quite clear' rather than the standard legal translation 'Self-explanatory' reduces its professionalism."
+        },
+        "tone_and_style": {
+          "score": 4,
+          "rationale": "The text maintains a formal and objective tone appropriate for public administration. It avoids emotional language and presents mandates cleanly. However, it suffers from machine-translation style structures (e.g., leaving the typographic typo 'hooray e' instead of 'letter e' for 'huruf e' due to an uncorrected auto-replace or literal rendering of phonetic sounds, and using 'UPON' or 'UP' for 'ATAS' instead of 'REGARDING'). These minor instances of clunkiness slightly lower the authoritative weight but do not fully destroy the document's dignity."
+        },
+        "fluency_and_grammar": {
+          "score": 3,
+          "rationale": "While individual sentences are largely understandable, the syntax heavily mirrors Indonesian sentence structures, leading to a strong machine-translated feel. Examples include 'The area mentioned in essence is...' and 'established which is determined by...'. There are minor typos and grammatical artifacts generated by literal processing, such as 'Establish Regional Regulations regarding...' instead of 'Enact a Regional Regulation...'. The readability is disrupted in the Explanation section where lines are clipped unnaturally to match the source text's physical line breaks, breaking the natural flow of English syntax."
+        },
+        "consistency_and_alignment": {
+          "score": 3,
+          "rationale": "The text contains significant internal inconsistencies and parallel structural collapses. Most notably: 1) 'Huruf e' is translated accurately as 'letter e' in the main body text (Article 2, Article 5, Article 8), but shifts randomly to 'hooray e' in the Explanation section (Article 5 Ayat 1, Article 8, Article 14). 2) 'Lembaga Pemasyarakatan' is translated as 'prison inmates' in Article 13, 'correctional institutions' in Article 20(1) and 20(2), and 'community institutions' in the heading of Article 20. 3) 'Mengingat' is translated as 'Bearing in mind', but 'Menimbang' is translated as 'Considering', which is consistent, yet structural alignment fails when 'Ayat' is translated correctly as 'paragraph' in Article 6 but shifts to 'Sentence' throughout the entire Article-by-Article commentary section."
+        }
+      }
+    }
+  ]
+}

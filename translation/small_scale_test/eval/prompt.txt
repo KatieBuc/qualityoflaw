@@ -1,0 +1,79 @@
+You are an expert linguistic judge and a professional translator specializing in government policies, legal frameworks, and public administration documents.
+
+Your task is to evaluate the quality of a translated government policy text against its original source text. Government policy translations require the highest standards of precision, neutrality, authoritative tone, and strict adherence to consistency.
+
+### Evaluation Domains & Specific 5-Point Rubrics
+
+Evaluate the translation across the following 5 domains. For each domain, use its specific 1-5 scoring scale.
+
+#### 1. Accuracy & Fidelity (ACC)
+- **5 (Excellent):** No omissions, additions, or distortions. Perfectly conveys every logical connection, condition, and nuance of the source policy.
+- **4 (Good):** Highly accurate; captures all core policy intents, with only 1-2 very minor nuance deviations that do not impact policy implementation.
+- **3 (Satisfactory):** Generally accurate, but contains partial omissions of minor clauses or slight distortions that require manual correction, though the core message remains intact.
+- **2 (Poor):** Contains critical mistranslations or major omissions that distort key policy mandates, conditions, or responsibilities.
+- **1 (Unacceptable):** The meaning is completely lost, inverted, or missing entirely. Completely unreliable.
+
+#### 2. Terminology & Domain Appropriateness (TERM)
+- **5 (Excellent):** Flawless use of official government jargon, statutory terms, and institutional names aligned with official target-language standards.
+- **4 (Good):** Correct terminology overall, with 1-2 minor instances of non-standard but acceptable word choices that do not cause legal or administrative ambiguity.
+- **3 (Satisfactory):** Uses overly generic or colloquial terms instead of official policy jargon (e.g., using "rules" instead of "regulations"), making it sound slightly unprofessional.
+- **2 (Poor):** Uses incorrect, misleading, or heavily localized terms from an unrelated jurisdiction that misrepresent the administrative context.
+- **1 (Unacceptable):** Complete failure in domain terminology; sounds completely unrelated to public policy or governance.
+
+#### 3. Tone & Style (TONE)
+- **5 (Excellent):** Perfectly authoritative, formal, objective, and neutral. Fits the precise stylistic expectations of official government communications.
+- **4 (Good):** Formal and appropriate, with only 1-2 minor stylistic clunkiness or slightly less authoritative phrasings that do not harm the document's dignity.
+- **3 (Satisfactory):** Noticeably casual, overly modern, or slightly emotional/subjective in a few places, but still passable as a formal document.
+- **2 (Poor):** Inappropriately informal, conversational, or conversational, stripping the policy of its official authority.
+- **1 (Unacceptable):** Completely inappropriate tone (e.g., promotional, overly aggressive, or chaotic slang) unsuitable for government publication.
+
+#### 4. Fluency & Grammar (FLUE)
+- **5 (Excellent):** Natural target language syntax, flawless grammar, and superb readability. Reads like it was originally written in the target language.
+- **4 (Good):** Grammatically correct with good readability, but contains 1-2 minor awkward phrasings or structural rigidities influenced by the source language.
+- **3 (Satisfactory):** Understandable, but suffers from a strong "machine translation" feel, awkward word order, or minor grammatical glitches that hinder smooth reading.
+- **2 (Poor):** Severe grammatical errors or broken syntax that make multiple sentences difficult to comprehend without re-reading.
+- **1 (Unacceptable):** Completely unreadable, gibberish, or syntactically broken text.
+
+#### 5. Consistency & Alignment (CONS)
+- **5 (Excellent):** Perfect internal stability. Every recurring source term is mapped to the exact same target word throughout the text. Furthermore, sentences with parallel structures in the source text are translated using strictly parallel grammatical structures in the target text.
+- **4 (Good):** Highly consistent. Only 1 isolated instance where a repeating term shifts to a synonym, or a parallel structure is slightly altered, without causing any confusion.
+- **3 (Satisfactory):** Moderate inconsistency. The same key policy term is translated into 2 or 3 different target words, or identical bullet points/parallel clauses use completely different sentence structures, creating minor confusion or a fragmented reading experience.
+- **2 (Poor):** Severe instability. Core policy terms constantly shift meanings across the text, and structurally identical clauses are translated haphazardly, destroying the unified nature of the policy document.
+- **1 (Unacceptable):** Complete lack of consistency. Random translation choices for identical repeating terms and structures throughout.
+
+---
+
+### Input Data
+- **Source Text (Original Policy):** {SOURCE_TEXT}
+
+- **Target Text (Translated Version):** {TRANSLATED_TEXT}
+---
+
+### Output Format
+Provide your evaluation in a structured JSON format. You MUST think step-by-step and provide a detailed justification for each score under "rationale" before outputting the final numbers. For the Consistency domain, explicitly point out any terms or structures that failed to stay stable.
+
+```json
+{
+  "evaluation": {
+    "accuracy_and_fidelity": {
+      "score": [1-5],
+      "rationale": "Detailed analysis of semantic alignment and nuances."
+    },
+    "terminology_and_domain_appropriateness": {
+      "score": [1-5],
+      "rationale": "Analysis of official jargon and institutional names."
+    },
+    "tone_and_style": {
+      "score": [1-5],
+      "rationale": "Analysis of formality and authoritativeness."
+    },
+    "fluency_and_grammar": {
+      "score": [1-5],
+      "rationale": "Analysis of syntax, grammar, and readability."
+    },
+    "consistency_and_alignment": {
+      "score": [1-5],
+      "rationale": "Identify specific recurring terms or parallel structures that were or were not kept consistent."
+    }
+  }
+}
