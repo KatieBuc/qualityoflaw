@@ -217,3 +217,7 @@
 "7.4":
   indicator: "Other legal sources"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically Other legal sources? Yes or no"'
+
+"7.5":
+  indicator: "Provincial government budget"
+  prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically provincial government budget? Yes or no"'
