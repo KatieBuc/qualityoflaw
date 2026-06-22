@@ -16,17 +16,12 @@ The following source files were used for this test (randomly selected):
 
 ```
 ./translation/small_scale_test
-├─ eval                  (evaluation prompt)
-└─ test_version          (translation results & evaluation reports)
-   ├─ claude
-   │  └─ version1        (versions for further testing)
-   │  └─ ...
-   │  └─ report.json     (evlauation report)
-   ├─ gemini
-   │  └─ version1
-   │  └─ ...
-   └─ google_translate
-      └─ translated
+│  └─v1
+│      ├─eval           (evaluation prompt)
+│      ├─claude             
+│      ├─gemini
+│      └─google_translate
+│      └─prompt.txt     (prompt for LLM translation)    
 ```
 
 ## Test Versions
