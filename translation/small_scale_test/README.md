@@ -30,7 +30,7 @@ Translations were generated using the following methods:
 
 - **Google Translate**
 - **LLM Translation** (tested via web chat interfaces)
-  - 1 prompt version used: `translation/small_scale_test/test_version/prompt1.txt`
+  - 1 prompt version used: `translation/small_scale_test/<version>/prompt.txt`
   - 2 models tested:
     - Gemini 3.1 Flash Lite
     - Claude Sonnet 4.6
@@ -40,7 +40,7 @@ Translations were generated using the following methods:
 Translation outputs were assessed using an **LLM-as-a-Judge** approach (via web chat interfaces):
 
 - **Judge Model:** Gemini 3.5 Flash (selected for its larger context window)
-- **Evaluation Prompt:** `translation/small_scale_test/eval/prompt.txt`
+- **Evaluation Prompt:** `translation/small_scale_test/<version>/eval/eval_prompt.txt`
 
 ## Evaluation Criteria & Metrics
 
