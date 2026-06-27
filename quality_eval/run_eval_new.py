@@ -4,10 +4,11 @@ import sys
 import argparse
 from typing import Dict, Optional, List
 from pydantic import BaseModel, Field
-from openai import AzureOpenAI
+from openai import OpenAI
 from quality_eval.v1.prompts.prompt_loader import generate_judge_prompt
 from dotenv import load_dotenv
 import traceback
+from datetime import datetime
 
 CRITERIA_FILES = [
     "01_scope_of_violence.txt",
@@ -20,6 +21,7 @@ CRITERIA_FILES = [
 ]
 
 class CriterionResult(BaseModel):
+    id: str = Field(description="The ID of the indicator being evaluated. Only contain numbers and a single dot for seperation.")
     indicator: str = Field(description="The name of the indicator being evaluated.")
     included: str = Field(description="Must be 'Yes' or 'No'.")
     evidence: Optional[str] = Field(default=None, description="Exact quote from the text if included is 'Yes', otherwise null.")
@@ -31,14 +33,15 @@ class PolicyEvaluationResponse(BaseModel):
 load_dotenv()
 
 def run_policy_evaluation(prompt: str) -> dict:
-    client = AzureOpenAI(
-        azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-        api_version=os.getenv("AZURE_OPENAI_API_VERSION")
+    client = OpenAI(
+        base_url=os.getenv("AZURE_OPENAI_ENDPOINT"),  
+        api_key=os.getenv("AZURE_OPENAI_API_KEY")
     )
-    deployment_name = os.getenv("AZURE_OPENAI_MODEL", "gpt-4o")
+    
+    deployment_name = os.getenv("AZURE_OPENAI_MODEL", "gpt-4o") 
+    
     print("requesting...")
-    print(prompt)
+    # print(prompt)
     
     response = client.beta.chat.completions.parse(
         model=deployment_name,
@@ -55,7 +58,7 @@ def run_policy_evaluation(prompt: str) -> dict:
         
         # Reconstruct the original Dict structure if needed by your application
         output_dict['evaluation_results'] = {
-            item['indicator']: item for item in output_dict['evaluation_results']
+            item['id']: item for item in output_dict['evaluation_results']
         }
         
         # print(output_dict)
@@ -66,8 +69,9 @@ def run_policy_evaluation(prompt: str) -> dict:
 def main():
     parser = argparse.ArgumentParser(description="policy quality evaluation.")
     parser.add_argument('-p', '--policy', required=True, help="filepath of policy document.")
-    parser.add_argument('-f', '--policy_folder', required=True, help="base folder of policy document.")
-    parser.add_argument('-o', '--output', default="eval_result.json", help="output path of the evalutaion.")
+    parser.add_argument('-o', '--output_folder', required=True, help="output folder of the evalutaion.")
+    parser.add_argument('-c', '--criteria_folder', required=True, help="base folder of the criteria text file.")
+    parser.add_argument('-t', '--template',  required=True, help="path of the prompt template text file.")
 
     args = parser.parse_args()
 
@@ -92,13 +96,18 @@ def main():
         
         try:
             final_prompt = generate_judge_prompt(
-                criteria_file_path=os.path.join(args.policy_folder, criteria_file), 
-                template_file_path=args.policy
+                criteria_file_path=os.path.join(args.criteria_folder, criteria_file), 
+                template_file_path=args.template,
+                policy_file_path=args.policy
             )
             
             batch_result = run_policy_evaluation(final_prompt)
-            
             batch_evals = batch_result.get("evaluation_results", {})
+
+            for k, item in batch_evals.items():
+                if k in final_report["evaluation_results"]:
+                    print(f"Warning: ID '{k}' ({item['indicator']}) is already exist, it will be renew by new outcome.")
+
             final_report["evaluation_results"].update(batch_evals)
             
             print(f"{criteria_file} completed")
@@ -108,10 +117,15 @@ def main():
             traceback.print_exc()
 
     print(f"\n==================================================")
-    with open(args.output, 'w', encoding='utf-8') as f:
+    output_name = now = datetime.now()
+    dt = now.strftime("%d%m%Y%H%M%S")
+    basename = os.path.basename(args.policy).replace(".txt", ".json")
+    output_name = dt + '-' + os.getenv("AZURE_OPENAI_MODEL") + '-' + basename
+    output_path = os.path.join(args.output_folder, output_name)
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(final_report, f, ensure_ascii=False, indent=2)
         
-    print(f"All evaluation completed, output: {args.output}")
+    print(f"All evaluation completed, output: {output_path}")
 
 if __name__ == "__main__":
     main()
