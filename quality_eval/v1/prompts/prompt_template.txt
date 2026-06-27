@@ -10,15 +10,14 @@ Here is the list of criteria you need to evaluate. Each item contains an ID, the
 ### Response Format
 You must output the evaluation results strictly in a single JSON object. Do not include any introductory or concluding text. Do not wrap the response in markdown code blocks (e.g., do not use ```json ... ```). Output ONLY the raw JSON string.
 Response in English
-The JSON must follow this structure, where keys correspond to the Criterion IDs:
+The JSON must follow this structure, where keys correspond to the IDs:
 {
   "evaluation_results": {
-    "[Criterion ID]": {
+      "id": "[ID]"
       "indicator": "[Indicator Name]",
       "included": "Yes" or "No",
       "evidence": "Exact quote from the text if Yes, or null if No",
       "rationale": "Explanation of how the text addresses or fails to address this indicator."
-    }
   }
 }
 

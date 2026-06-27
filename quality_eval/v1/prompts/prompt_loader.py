@@ -2,7 +2,7 @@ import argparse
 import os
 import sys
 
-def generate_judge_prompt(criteria_file_path, template_file_path):
+def generate_judge_prompt(criteria_file_path, template_file_path, policy_file_path):
     for file_path in [criteria_file_path, template_file_path]:
         if not os.path.exists(file_path):
             print(f"Cannot find the file: {file_path}", file=sys.stderr)
@@ -25,25 +25,30 @@ def generate_judge_prompt(criteria_file_path, template_file_path):
             else:
                 print(f"Error in line {line_num}, continue to '{line}'", file=sys.stderr)
 
+    with open(policy_file_path, 'r', encoding='utf-8') as f:
+        policy = f.read()
+    
     with open(template_file_path, 'r', encoding='utf-8') as f:
         prompt_template = f.read()
 
 
-    final_prompt = prompt_template.replace("{{CRITERIA_LIST}}", criteria_list_str)
+    final_prompt = prompt_template.replace("{{CRITERIA_LIST}}", criteria_list_str).replace("{{POLICY_TEXT}}", policy)
     
     return final_prompt
 
 def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    criteria_file_path = os.path.join(current_dir, "budget_funding_sources.txt")
+    criteria_file_path = os.path.join(current_dir, "01_scope_of_violence.txt")
     template_path = os.path.join(current_dir, "prompt_template.txt")
+    policy_file_path = os.path.join(current_dir, "../translated_policy\ACEH_BIREUEN.txt")
 
     final_prompt = generate_judge_prompt(
         criteria_file_path=criteria_file_path,
-        template_file_path=template_path
+        template_file_path=template_path,
+        policy_file_path=policy_file_path
     )
 
-    print(final_prompt)
+    print(final_prompt[:8000])
 
 if __name__ == "__main__":
     main()
