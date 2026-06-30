@@ -40,7 +40,7 @@ def main():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     criteria_file_path = os.path.join(current_dir, "01_scope_of_violence.txt")
     template_path = os.path.join(current_dir, "prompt_template.txt")
-    policy_file_path = os.path.join(current_dir, "../translated_policy\ACEH_BIREUEN.txt")
+    policy_file_path = os.path.join(current_dir, "..", "translated_policy", "ACEH_BIREUEN.txt")
 
     final_prompt = generate_judge_prompt(
         criteria_file_path=criteria_file_path,
