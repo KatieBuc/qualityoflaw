@@ -1,53 +1,41 @@
-import os
-from openai import AzureOpenAI
-import requests
-from dotenv import load_dotenv
+import sys
+from pathlib import Path
 
-load_dotenv()
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
-# Read config from environment variables
-AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
-AZURE_OPENAI_MODEL = os.getenv("AZURE_OPENAI_MODEL") # e.g. "gpt-4o" or your model name
+from translation.llm.azure_client import get_api_style, get_azure_client, get_azure_model
 
-print(AZURE_OPENAI_ENDPOINT)
-print(AZURE_OPENAI_API_KEY)
-print(AZURE_OPENAI_MODEL)
 
 def ask_azure_llm(user_message: str) -> str:
-   """
-   Send a chat completion request to Azure OpenAI using only `requests`.
-   """
-   if not (AZURE_OPENAI_API_KEY and AZURE_OPENAI_MODEL):
-       raise RuntimeError("Azure OpenAI env vars are not set correctly.")
+    client = get_azure_client()
+    model = get_azure_model()
+    messages = [
+        {"role": "system", "content": "You are a helpful assistant."},
+        {"role": "user", "content": user_message},
+    ]
 
+    if get_api_style() == "responses":
+        response = client.responses.create(
+            model=model,
+            input=messages,
+            temperature=0.7,
+            max_output_tokens=256,
+        )
+        if hasattr(response, "output_text") and response.output_text:
+            return response.output_text
+        return response.output[0].content[0].text
 
-   url = AZURE_OPENAI_ENDPOINT
-   headers = {
-       "Content-Type": "application/json",
-       "api-key": AZURE_OPENAI_API_KEY,
-   }
-
-
-   payload = {
-       'model': AZURE_OPENAI_MODEL,
-       "input": [
-           {"role": "system", "content": "You are a helpful assistant."},
-           {"role": "user", "content": user_message},
-       ],
-       "temperature": 0.7,
-       "max_output_tokens": 256,
-   }
-
-
-   response = requests.post(url, headers=headers, json=payload)
-   response.raise_for_status()  # raise if HTTP error
-
-
-   data = response.json()
-   return data['output'][0]['content'][0]['text']
+    response = client.chat.completions.create(
+        model=model,
+        messages=messages,
+        temperature=0.7,
+        max_tokens=256,
+    )
+    return response.choices[0].message.content or ""
 
 
 if __name__ == "__main__":
-   reply = ask_azure_llm("Say hi from Azure OpenAI in one sentence.")
-   print("Model reply:", reply)
+    reply = ask_azure_llm("Say hi from Azure OpenAI in one sentence.")
+    print("Model reply:", reply)
