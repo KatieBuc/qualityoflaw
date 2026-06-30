@@ -10,8 +10,11 @@ from quality_eval.v1.criteria import (
 )
 from quality_eval.v1.prompts.prompt_loader import generate_judge_prompt
 from quality_eval.evaluate_accuracy import (
+    build_error_analysis_df,
     deduplicate_reports,
     filter_golden_to_evaluated,
+    find_unmatched_indicator_pairs,
+    load_golden_dataframe,
     load_llm_results,
     parse_report_timestamp,
 )
@@ -156,6 +159,71 @@ def test_resolve_policy_paths_folder(tmp_path):
     paths = resolve_policy_paths(str(tmp_path))
     assert len(paths) == 2
     assert all(path.endswith(".txt") for path in paths)
+
+
+def test_golden_indicator_id_preserves_dot_ten_suffix(tmp_path):
+    csv_path = tmp_path / "golden.csv"
+    csv_path.write_text(
+        "fullname,filename,year,indicator_id,value,indicator_value\n"
+        "ACEH BIREUEN,ACEH_BIREUEN.txt,2022,1.1,1.0,Domestic violence\n"
+        "ACEH BIREUEN,ACEH_BIREUEN.txt,2022,1.10,0.0,Technology-facilitated violence\n",
+        encoding="utf-8",
+    )
+
+    golden_df = load_golden_dataframe(str(csv_path))
+    ids = set(golden_df["indicator_id"])
+    assert ids == {"1.1", "1.10"}
+
+
+def test_build_error_analysis_df_labels_and_error_type():
+    import pandas as pd
+
+    errors_df = pd.DataFrame(
+        [
+            {
+                "fullname": "ACEH BIREUEN",
+                "filename": "ACEH_BIREUEN.txt",
+                "indicator_id": "1.1",
+                "indicator_value": "Domestic violence",
+                "value": 0.0,
+                "pred_value": 1.0,
+            },
+            {
+                "fullname": "ACEH BIREUEN",
+                "filename": "ACEH_BIREUEN.txt",
+                "indicator_id": "6.7",
+                "indicator_value": "Minority groups",
+                "value": 1.0,
+                "pred_value": 0.0,
+            },
+        ]
+    )
+    output = build_error_analysis_df(errors_df)
+    assert output.iloc[0]["error_type"] == "false_positive"
+    assert output.iloc[0]["golden_label"] == "No"
+    assert output.iloc[0]["pred_label"] == "Yes"
+    assert output.iloc[1]["error_type"] == "false_negative"
+    assert "dimension" in output.columns
+
+
+def test_find_unmatched_indicator_pairs():
+    import pandas as pd
+
+    golden_filtered = pd.DataFrame(
+        [
+            {"filename": "A.txt", "indicator_id": "1.1", "fullname": "A", "indicator_value": "x", "value": 1.0},
+            {"filename": "A.txt", "indicator_id": "1.2", "fullname": "A", "indicator_value": "y", "value": 0.0},
+        ]
+    )
+    llm_df = pd.DataFrame(
+        [
+            {"filename": "A.txt", "indicator_id": "1.1", "pred_value": 1.0},
+            {"filename": "A.txt", "indicator_id": "1.3", "pred_value": 0.0},
+        ]
+    )
+    unmatched = find_unmatched_indicator_pairs(golden_filtered, llm_df)
+    assert len(unmatched) == 2
+    assert set(unmatched["match_status"]) == {"golden_only", "llm_only"}
 
 
 def test_load_llm_results_on_sample_policy():

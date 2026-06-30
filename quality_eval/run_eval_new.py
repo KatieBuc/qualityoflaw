@@ -6,7 +6,7 @@ import time
 import traceback
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Optional, List
+from typing import Callable, Optional, List
 
 from pydantic import BaseModel, Field
 from openai import OpenAI
@@ -119,13 +119,15 @@ def evaluate_policy(
     policy_path: str,
     criteria_folder: str,
     template_path: str,
-    client: OpenAI,
-    deployment_name: str,
+    client: OpenAI | None = None,
+    deployment_name: str | None = None,
+    complete_fn: Callable[[str], dict] | None = None,
 ) -> dict:
     evaluated_at = datetime.now(timezone.utc).isoformat()
+    resolved_deployment = deployment_name or os.getenv("AZURE_OPENAI_MODEL", "gpt-4o")
     final_report = {
         "policy_file": os.path.basename(policy_path),
-        "model": deployment_name,
+        "model": resolved_deployment,
         "evaluated_at": evaluated_at,
         "prompt_version": PROMPT_VERSION,
         "completed_dimensions": [],
@@ -148,7 +150,12 @@ def evaluate_policy(
             )
 
             print("Requesting...")
-            batch_result = call_with_retry(client, deployment_name, final_prompt)
+            if complete_fn is not None:
+                batch_result = complete_fn(final_prompt)
+            else:
+                if client is None or deployment_name is None:
+                    raise ValueError("client and deployment_name required when complete_fn is not provided")
+                batch_result = call_with_retry(client, deployment_name, final_prompt)
             batch_evals = batch_result.get("evaluation_results", {})
 
             for key, item in batch_evals.items():
@@ -229,16 +236,18 @@ def run_evaluations(
     allow_partial: bool = False,
     client: OpenAI | None = None,
     deployment_name: str | None = None,
+    complete_fn: Callable[[str], dict] | None = None,
 ) -> tuple[list[str], list[str]]:
     if not os.getenv("AZURE_OPENAI_API_KEY"):
         raise RuntimeError("API key not found.")
 
     policy_paths = resolve_policy_paths(policy_input)
     deployment_name = deployment_name or os.getenv("AZURE_OPENAI_MODEL", "gpt-4o")
-    client = client or OpenAI(
-        base_url=os.getenv("AZURE_OPENAI_ENDPOINT"),
-        api_key=os.getenv("AZURE_OPENAI_API_KEY"),
-    )
+    if complete_fn is None:
+        client = client or OpenAI(
+            base_url=os.getenv("AZURE_OPENAI_ENDPOINT"),
+            api_key=os.getenv("AZURE_OPENAI_API_KEY"),
+        )
 
     saved_paths: list[str] = []
     failed_policies: list[str] = []
@@ -254,6 +263,7 @@ def run_evaluations(
             template_path=template_path,
             client=client,
             deployment_name=deployment_name,
+            complete_fn=complete_fn,
         )
 
         success, output_path = finalize_and_save_report(

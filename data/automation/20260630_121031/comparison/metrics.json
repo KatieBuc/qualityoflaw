@@ -1,0 +1,245 @@
+{
+  "overall": {
+    "accuracy": 0.8285714285714286,
+    "matched_pairs": 280,
+    "evaluated_policies": 5,
+    "golden_policies_total": 198,
+    "evaluated_policy_files": [
+      "ACEH_BIREUEN.txt",
+      "JAWA_TENGAH_SEMARANG.txt",
+      "LAMPUNG_LAMPUNG_TIMUR.txt",
+      "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+      "SUMATERA_BARAT_PADANG_PARIAMAN.txt"
+    ],
+    "value_mismatch_count": 48,
+    "unmatched_pair_count": 0
+  },
+  "confusion_matrix": {
+    "true_negative": 83,
+    "false_positive": 46,
+    "false_negative": 2,
+    "true_positive": 149
+  },
+  "by_dimension": {
+    "budget_funding_sources": {
+      "accuracy": 0.88,
+      "matched": 25,
+      "correct": 22
+    },
+    "institutional_mechanism": {
+      "accuracy": 1.0,
+      "matched": 30,
+      "correct": 30
+    },
+    "intersectional_approach": {
+      "accuracy": 0.8615384615384616,
+      "matched": 65,
+      "correct": 56
+    },
+    "primary_prevention": {
+      "accuracy": 0.45,
+      "matched": 20,
+      "correct": 9
+    },
+    "scope_of_violence": {
+      "accuracy": 0.82,
+      "matched": 50,
+      "correct": 41
+    },
+    "specialised_support_services": {
+      "accuracy": 0.8,
+      "matched": 50,
+      "correct": 40
+    },
+    "stakeholder_engagement": {
+      "accuracy": 0.85,
+      "matched": 40,
+      "correct": 34
+    }
+  },
+  "error_summary": {
+    "total_errors": 48,
+    "by_error_type": {
+      "false_positive": 46,
+      "false_negative": 2
+    },
+    "by_dimension": {
+      "budget_funding_sources": 3,
+      "intersectional_approach": 9,
+      "primary_prevention": 11,
+      "scope_of_violence": 9,
+      "specialised_support_services": 10,
+      "stakeholder_engagement": 6
+    },
+    "by_indicator": [
+      {
+        "indicator_id": "4.2",
+        "indicator_value": "Gender equality education",
+        "dimension": "primary_prevention",
+        "error_count": 4
+      },
+      {
+        "indicator_id": "4.4",
+        "indicator_value": "Prevention through education",
+        "dimension": "primary_prevention",
+        "error_count": 4
+      },
+      {
+        "indicator_id": "6.8",
+        "indicator_value": "Legal process involvement",
+        "dimension": "intersectional_approach",
+        "error_count": 4
+      },
+      {
+        "indicator_id": "3.4",
+        "indicator_value": "Safety / protection shelter",
+        "dimension": "specialised_support_services",
+        "error_count": 3
+      },
+      {
+        "indicator_id": "5.4",
+        "indicator_value": "Education institutions engagement",
+        "dimension": "stakeholder_engagement",
+        "error_count": 3
+      },
+      {
+        "indicator_id": "7.3",
+        "indicator_value": "International donors",
+        "dimension": "budget_funding_sources",
+        "error_count": 3
+      },
+      {
+        "indicator_id": "1.5",
+        "indicator_value": "Economic violence",
+        "dimension": "scope_of_violence",
+        "error_count": 2
+      },
+      {
+        "indicator_id": "1.6",
+        "indicator_value": "Harmful practices",
+        "dimension": "scope_of_violence",
+        "error_count": 2
+      },
+      {
+        "indicator_id": "3.10",
+        "indicator_value": "Economic support services",
+        "dimension": "specialised_support_services",
+        "error_count": 2
+      },
+      {
+        "indicator_id": "4.3",
+        "indicator_value": "VAW laws awareness",
+        "dimension": "primary_prevention",
+        "error_count": 2
+      },
+      {
+        "indicator_id": "6.2",
+        "indicator_value": "Trafficking victims",
+        "dimension": "intersectional_approach",
+        "error_count": 2
+      },
+      {
+        "indicator_id": "1.1",
+        "indicator_value": "Domestic violence",
+        "dimension": "scope_of_violence",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "1.2",
+        "indicator_value": "Sexual violence",
+        "dimension": "scope_of_violence",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "1.3",
+        "indicator_value": "Physical violence",
+        "dimension": "scope_of_violence",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "1.4",
+        "indicator_value": "Psychological violence",
+        "dimension": "scope_of_violence",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "1.9",
+        "indicator_value": "Sexual slavery / exploitation",
+        "dimension": "scope_of_violence",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "3.2",
+        "indicator_value": "Police specialised service unit",
+        "dimension": "specialised_support_services",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "3.5",
+        "indicator_value": "Legal assistance",
+        "dimension": "specialised_support_services",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "3.6",
+        "indicator_value": "Health / medical services",
+        "dimension": "specialised_support_services",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "3.7",
+        "indicator_value": "Psychosocial counselling",
+        "dimension": "specialised_support_services",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "3.9",
+        "indicator_value": "Resocialisation services",
+        "dimension": "specialised_support_services",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "4.1",
+        "indicator_value": "Information & education on VAW",
+        "dimension": "primary_prevention",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "5.1",
+        "indicator_value": "NGO collaboration",
+        "dimension": "stakeholder_engagement",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "5.5",
+        "indicator_value": "International organisations engagement",
+        "dimension": "stakeholder_engagement",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "5.6",
+        "indicator_value": "Media engagement",
+        "dimension": "stakeholder_engagement",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "6.3",
+        "indicator_value": "Women workers",
+        "dimension": "intersectional_approach",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "6.5",
+        "indicator_value": "Disability",
+        "dimension": "intersectional_approach",
+        "error_count": 1
+      },
+      {
+        "indicator_id": "6.7",
+        "indicator_value": "Minority groups",
+        "dimension": "intersectional_approach",
+        "error_count": 1
+      }
+    ]
+  }
+}

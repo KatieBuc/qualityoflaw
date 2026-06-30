@@ -1,0 +1,51 @@
+{
+  "run_id": "20260630_121031",
+  "experiment_name": "baseline_v1",
+  "created_at": "2026-06-30T12:10:31.583325+00:00",
+  "updated_at": "2026-06-30T12:53:53.160839+00:00",
+  "status": "completed",
+  "steps_executed": [
+    "translation",
+    "evaluation",
+    "comparison"
+  ],
+  "small_scale": true,
+  "file_counts": {
+    "translation": {
+      "total": 5,
+      "succeeded": 5,
+      "skipped": 0,
+      "failed": 0
+    },
+    "evaluation": {
+      "total": 5,
+      "succeeded": 5,
+      "failed": 0,
+      "saved_reports": 5
+    },
+    "comparison": {
+      "matched_pairs": 280,
+      "evaluated_policies": 5,
+      "accuracy": 0.8285714285714286
+    }
+  },
+  "timing": {
+    "translation_s": 364.02,
+    "evaluation_s": 363.06,
+    "comparison_s": 0.1,
+    "total_s": 0.1
+  },
+  "token_usage": {
+    "translation": {
+      "prompt_tokens": 51612,
+      "completion_tokens": 41380,
+      "total_tokens": 92992
+    }
+  },
+  "config": {
+    "translation_model": "gpt-5.2-translate",
+    "evaluation_model": "gpt-4o-eval",
+    "translation_prompt_version": "v1",
+    "evaluation_prompt_version": "v1"
+  }
+}
