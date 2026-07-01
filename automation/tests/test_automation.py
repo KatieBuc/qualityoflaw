@@ -10,7 +10,7 @@ from automation.src.constants import AUTOMATION_ROOT, SMALL_SCALE_FILES
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.llm.wrapper import AzureLLMWrapper, clean_translation_response
 from automation.src.metadata import generate_run_id, init_run_metadata, load_metadata, update_metadata
-from automation.src.run_pipeline import parse_steps
+from automation.src.run_pipeline import parse_steps, requires_run_id
 from automation.src.translate import resolve_input_files
 
 
@@ -90,6 +90,17 @@ def test_resolve_input_files_small_scale(tmp_path):
     assert [f.name for f in files] == SMALL_SCALE_FILES
 
 
+def test_resolve_input_files_full_corpus(tmp_path):
+    input_dir = tmp_path / "input"
+    input_dir.mkdir()
+    for name in SMALL_SCALE_FILES:
+        (input_dir / name).write_text("x", encoding="utf-8")
+    (input_dir / "OTHER.txt").write_text("x", encoding="utf-8")
+
+    files = resolve_input_files(input_dir, small_scale=False)
+    assert [f.name for f in files] == sorted([*SMALL_SCALE_FILES, "OTHER.txt"])
+
+
 def test_clean_translation_response():
     assert clean_translation_response("```\nHello\n```") == "Hello"
     assert clean_translation_response("Here's the translation:\nHi") == "Hi"
@@ -159,21 +170,9 @@ def test_generate_run_id_collision(tmp_path, monkeypatch):
     assert second == "20250101_120000_2"
 
 
-def test_full_pipeline_default_steps_do_not_require_run_id():
-    steps = parse_steps(None)
-    eval_or_compare_only = (
-        any(s in steps for s in ("evaluation", "comparison")) and "translation" not in steps
-    )
-    assert "translation" in steps
-    assert not eval_or_compare_only
-
-
-def test_eval_only_steps_require_run_id():
-    steps = parse_steps("evaluation,comparison")
-    eval_or_compare_only = (
-        any(s in steps for s in ("evaluation", "comparison")) and "translation" not in steps
-    )
-    assert eval_or_compare_only
+def test_requires_run_id_helpers():
+    assert requires_run_id(parse_steps(None), None) is False
+    assert requires_run_id(parse_steps("evaluation,comparison"), None) is True
 
 
 def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):

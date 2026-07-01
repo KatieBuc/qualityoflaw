@@ -117,16 +117,6 @@ Written only when some `(filename, indicator_id)` pairs cannot be joined:
 
 These rows are **excluded from accuracy**. An empty or absent file means all pairs joined successfully.
 
-### Standalone comparison CLI
-
-```bash
-python -m automation.src.evaluate_accuracy \
-  -g data/processed/long_policy_encoding.csv \
-  -l data/automation/<run_id>/evaluation \
-  -e data/automation/<run_id>/comparison/error_analysis.csv \
-  -m data/automation/<run_id>/comparison/metrics.json
-```
-
 ## Configuration
 
 ### `config/model_config.yaml`
@@ -182,17 +172,11 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps evaluatio
 | `--run-id` | Existing run ID (required for eval/comparison without translation) |
 | `--force` | Re-translate files even if output exists |
 | `--allow-partial` | Save incomplete evaluation reports |
-| `--pipeline-config` | Path to experiment YAML |
-| `--model-config` | Path to model parameters YAML |
+| `--pipeline-config` | Path to experiment YAML (default: [`automation\config\pipeline_config.yaml`](.\config\pipeline_config.yaml))|
+| `--model-config` | Path to model parameters YAML (default: [`automation\config\model_config.yaml`](.\config\model_config.yaml)) |
 
 ### Step rules
 
 - **New run** (no `--run-id`): auto-generates `run_id`, runs all steps by default
 - **Eval only**: requires `--run-id` and existing `translation/` outputs
 - **Comparison only**: requires `--run-id` and existing `evaluation/` JSON reports
-
-## Tests
-
-```bash
-python -m pytest automation/tests/ -v
-```

@@ -32,6 +32,14 @@ def parse_steps(steps_arg: str | None) -> list[str]:
     return steps
 
 
+def requires_run_id(steps: list[str], run_id: str | None) -> bool:
+    eval_or_compare_only = (
+        any(step in steps for step in ("evaluation", "comparison"))
+        and "translation" not in steps
+    )
+    return run_id is None and eval_or_compare_only
+
+
 def build_config_summary(config) -> dict:
     return {
         "translation_model": config.translation_model.name,
@@ -86,8 +94,7 @@ def main() -> None:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    eval_or_compare_only = any(s in steps for s in ("evaluation", "comparison")) and "translation" not in steps
-    if args.run_id is None and eval_or_compare_only:
+    if requires_run_id(steps, args.run_id):
         print(
             "Error: --run-id is required when running evaluation or comparison without translation.",
             file=sys.stderr,
