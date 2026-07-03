@@ -1,0 +1,123 @@
+import json
+from pathlib import Path
+from unittest.mock import MagicMock, patch
+
+import pytest
+
+from automation.src.concurrency import ConcurrencyLimiter
+from automation.src.config_loader import ConcurrencyConfig, PipelinePaths, ResolvedPipelineConfig
+from automation.src.constants import AUTOMATION_ROOT, PROJECT_ROOT
+from automation.src.llm.model_profile import ModelProfile
+from automation.src.run_eval import _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
+from automation.src.run_eval import DimensionResult
+
+
+@pytest.fixture
+def pipeline_config():
+    translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
+    eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
+    return ResolvedPipelineConfig(
+        experiment_name="test",
+        translation_model=translate_model,
+        evaluation_model=eval_model,
+        translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
+        evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
+        evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
+        paths=PipelinePaths(
+            input_dir=PROJECT_ROOT / "data" / "raw" / "localpolicies",
+            golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
+            index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
+        ),
+        concurrency=ConcurrencyConfig(enabled=True, max_workers=5),
+        pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
+        model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
+    )
+
+
+def test_merge_dimension_results_handles_failures():
+    policy_path = Path("ACEH_BIREUEN.txt")
+    results = [
+        DimensionResult("01_scope_of_violence.txt", {"1.1": {"id": "1.1", "indicator": "x", "included": "Yes"}}),
+        DimensionResult("02_institutional_mechanism.txt", {}, error="02_institutional_mechanism.txt: boom"),
+    ]
+    report = _merge_dimension_results(policy_path, "gpt-4o", results)
+    assert report["completed_dimensions"] == ["01_scope_of_violence.txt"]
+    assert report["failed_dimensions"] == ["02_institutional_mechanism.txt"]
+    assert "1.1" in report["evaluation_results"]
+
+
+@patch("automation.src.run_eval.generate_judge_prompt", return_value="prompt")
+def test_evaluate_policy_parallel_merges_dimensions(mock_prompt):
+    from quality_eval.v1.criteria import CRITERIA_FILES
+
+    policy_path = Path("policy.txt")
+    calls: list[str] = []
+
+    def complete_fn(prompt: str) -> dict:
+        criteria = CRITERIA_FILES[len(calls)]
+        calls.append(criteria)
+        indicator_id = f"{len(calls)}.1"
+        return {
+            "evaluation_results": {
+                indicator_id: {
+                    "id": indicator_id,
+                    "indicator": f"ind-{indicator_id}",
+                    "included": "Yes",
+                }
+            }
+        }
+
+    limiter = ConcurrencyLimiter(max_workers=3, enabled=True)
+    report = _evaluate_policy_parallel(
+        policy_path=policy_path,
+        criteria_folder=Path("/criteria"),
+        template_path=Path("/template.txt"),
+        deployment_name="gpt-4o",
+        complete_fn=complete_fn,
+        limiter=limiter,
+    )
+
+    assert len(calls) == len(CRITERIA_FILES)
+    assert len(report["completed_dimensions"]) == len(CRITERIA_FILES)
+    assert report["indicator_count"] == len(CRITERIA_FILES)
+
+
+@pytest.fixture
+def data_root(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+    return tmp_path
+
+
+@patch("automation.src.run_eval.finalize_and_save_report")
+@patch("automation.src.run_eval._evaluate_policy_parallel")
+def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_config, data_root):
+    run_id = "eval_parallel"
+    policy_dir = data_root / run_id / "translation"
+    policy_dir.mkdir(parents=True)
+    (policy_dir / "A.txt").write_text("policy A", encoding="utf-8")
+    (policy_dir / "B.txt").write_text("policy B", encoding="utf-8")
+
+    mock_eval_policy.side_effect = [
+        {"policy_file": "A.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []},
+        {"policy_file": "B.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []},
+    ]
+    mock_finalize.return_value = (True, str(data_root / run_id / "evaluation" / "report.json"))
+
+    wrapper = MagicMock()
+    wrapper.profile.deployment = "gpt-4o"
+    wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
+
+    result = run_evaluation_step(
+        run_id=run_id,
+        config=pipeline_config,
+        wrapper=wrapper,
+        limiter=limiter,
+        small_scale=False,
+        allow_partial=False,
+    )
+
+    assert result["counts"]["total"] == 2
+    assert result["counts"]["succeeded"] == 2
+    assert mock_eval_policy.call_count == 2

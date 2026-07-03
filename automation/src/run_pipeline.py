@@ -9,7 +9,8 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from automation.src.compare import run_comparison_step
-from automation.src.config_loader import get_run_dir, load_pipeline_config
+from automation.src.concurrency import ConcurrencyLimiter
+from automation.src.config_loader import ConcurrencyConfig, get_run_dir, load_pipeline_config
 from automation.src.constants import ALL_STEPS, DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.metadata import (
@@ -46,7 +47,36 @@ def build_config_summary(config) -> dict:
         "evaluation_model": config.evaluation_model.name,
         "translation_prompt_version": config.translation_prompt_path.parent.name,
         "evaluation_prompt_version": config.evaluation_criteria_dir.name,
+        "concurrency": {
+            "enabled": config.concurrency.enabled,
+            "max_workers": config.concurrency.max_workers,
+        },
     }
+
+
+def resolve_concurrency_config(
+    config_concurrency: ConcurrencyConfig,
+    *,
+    max_workers_override: int | None,
+    no_concurrency: bool,
+) -> ConcurrencyConfig:
+    if no_concurrency:
+        return ConcurrencyConfig(enabled=False, max_workers=1)
+    if max_workers_override is not None:
+        if max_workers_override < 1:
+            raise ValueError("--max-workers must be >= 1")
+        return ConcurrencyConfig(
+            enabled=config_concurrency.enabled,
+            max_workers=max_workers_override,
+        )
+    return config_concurrency
+
+
+def build_limiter(concurrency: ConcurrencyConfig) -> ConcurrencyLimiter:
+    return ConcurrencyLimiter(
+        max_workers=concurrency.max_workers,
+        enabled=concurrency.enabled,
+    )
 
 
 def main() -> None:
@@ -84,6 +114,17 @@ def main() -> None:
         default=str(DEFAULT_MODEL_CONFIG),
         help="Path to model_config.yaml.",
     )
+    parser.add_argument(
+        "--max-workers",
+        type=int,
+        default=None,
+        help="Override concurrency.max_workers from pipeline config.",
+    )
+    parser.add_argument(
+        "--no-concurrency",
+        action="store_true",
+        help="Disable parallel API calls (equivalent to max_workers=1).",
+    )
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
@@ -106,6 +147,12 @@ def main() -> None:
             pipeline_config_path=Path(args.pipeline_config),
             model_config_path=Path(args.model_config),
         )
+        concurrency = resolve_concurrency_config(
+            config.concurrency,
+            max_workers_override=args.max_workers,
+            no_concurrency=args.no_concurrency,
+        )
+        limiter = build_limiter(concurrency)
     except (FileNotFoundError, ValueError) as exc:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
@@ -147,11 +194,12 @@ def main() -> None:
 
         if "translation" in steps:
             print("\nStep: translation")
-            wrapper = AzureLLMWrapper.from_profile(config.translation_model)
+            wrapper = AzureLLMWrapper.from_profile(config.translation_model, limiter=limiter)
             result = run_translation_step(
                 run_id=run_id,
                 config=config,
                 wrapper=wrapper,
+                limiter=limiter,
                 small_scale=args.small_scale,
                 force=args.force,
             )
@@ -172,11 +220,12 @@ def main() -> None:
 
         if "evaluation" in steps:
             print("\nStep: evaluation")
-            wrapper = AzureLLMWrapper.from_profile(config.evaluation_model)
+            wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
             result = run_evaluation_step(
                 run_id=run_id,
                 config=config,
                 wrapper=wrapper,
+                limiter=limiter,
                 small_scale=args.small_scale,
                 allow_partial=args.allow_partial,
             )
@@ -185,6 +234,7 @@ def main() -> None:
                 steps_executed=["evaluation"],
                 file_counts={"evaluation": result["counts"]},
                 timing={"evaluation_s": result["elapsed_s"]},
+                token_usage={"evaluation": result["token_usage"]},
             )
             print(
                 f"Evaluation: {result['counts']['succeeded']} succeeded, "

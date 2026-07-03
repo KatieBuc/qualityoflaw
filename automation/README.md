@@ -53,7 +53,7 @@ data/automation/<run_id>/
 | `small_scale` | Whether only the 5 benchmark policies were processed |
 | `file_counts` | Per-step success/failure counts |
 | `timing` | Elapsed seconds per step and total |
-| `token_usage` | Aggregated LLM token usage (translation step) |
+| `token_usage` | Aggregated LLM token usage (translation and evaluation steps) |
 | `config` | Model and prompt versions used |
 
 ### `translation/`
@@ -138,6 +138,9 @@ Selects which models and prompt versions to use:
 
 ```yaml
 experiment_name: baseline_v1
+concurrency:
+  enabled: true
+  max_workers: 5
 translation:
   model: gpt-5.2-translate
   prompt_version: v1
@@ -145,6 +148,17 @@ evaluation:
   model: gpt-4o-eval
   prompt_version: v1
 ```
+
+#### Concurrency
+
+Translation and evaluation issue Azure OpenAI requests in parallel, capped by a shared `max_workers` semaphore. Evaluation parallelizes both across policies and across the 7 criteria dimensions per policy. The comparison step remains local (no API calls).
+
+| Key | Default | Description |
+|-----|---------|-------------|
+| `concurrency.enabled` | `true` | When `false`, all API calls run serially |
+| `concurrency.max_workers` | `5` | Maximum simultaneous in-flight API requests |
+
+Start with `max_workers: 5` and increase gradually while monitoring for rate-limit (`429`) errors. Real speedup depends on deployment TPM/RPM limits and prompt size.
 
 Override config paths with `--pipeline-config` and `--model-config`.
 
@@ -172,6 +186,8 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps evaluatio
 | `--run-id` | Existing run ID (required for eval/comparison without translation) |
 | `--force` | Re-translate files even if output exists |
 | `--allow-partial` | Save incomplete evaluation reports |
+| `--max-workers` | Override `concurrency.max_workers` from pipeline config |
+| `--no-concurrency` | Disable parallel API calls (serial mode) |
 | `--pipeline-config` | Path to experiment YAML (default: [`automation\config\pipeline_config.yaml`](.\config\pipeline_config.yaml))|
 | `--model-config` | Path to model parameters YAML (default: [`automation\config\model_config.yaml`](.\config\model_config.yaml)) |
 

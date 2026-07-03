@@ -5,7 +5,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 import yaml
 
-from automation.src.config_loader import PipelinePaths, ResolvedPipelineConfig
+from automation.src.config_loader import ConcurrencyConfig, PipelinePaths, ResolvedPipelineConfig
 from automation.src.constants import ALL_STEPS, AUTOMATION_ROOT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.run_pipeline import main, parse_steps, requires_run_id
@@ -21,6 +21,7 @@ EVALUATION_RESULT = {
     "counts": {"total": 5, "succeeded": 5, "failed": 0, "saved_reports": 5},
     "failed_policies": [],
     "elapsed_s": 2.0,
+    "token_usage": {"prompt_tokens": 50, "completion_tokens": 100, "total_tokens": 150},
     "output_dir": "",
 }
 
@@ -96,6 +97,7 @@ def mock_config():
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
         ),
+        concurrency=ConcurrencyConfig(enabled=True, max_workers=5),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )

@@ -1,0 +1,412 @@
+{
+  "policy_file": "NUSA_TENGGARA_BARAT_DOMPU.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-02T08:00:52.644106+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Domestic violence is any action or act against a person, especially women, that results in suffering or neglect of the household including threats to commit acts of coercion or deprivation of freedom unlawfully within the scope of the household.",
+      "rationale": "The regulation explicitly defines domestic violence in Article 1(12), indicating it is included as a covered form of violence."
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Forms of Violence against Women and Children include: a. Physical violence; b. Psychological violence; c. Sexual violence;",
+      "rationale": "Sexual violence is explicitly listed as a form of violence in Article 5(c) and further detailed in Article 8."
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Forms of Violence against Women and Children include: a. Physical violence;",
+      "rationale": "Physical violence is explicitly included as a form of violence in Article 5(a) and defined in Article 6."
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Forms of Violence against Women and Children include: b. Psychological violence;",
+      "rationale": "Psychological violence is explicitly included in Article 5(b) and defined in Article 7."
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Violence Against Women is any action based on gender differences that results or may result in suffering or distress to women physically, sexually, or psychologically, economic exploitation, social, including threats of certain actions, coercion, or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.",
+      "rationale": "The policy explicitly includes economic exploitation within the definition of violence against women (Article 1(10)) and also includes 'Domestic neglect' as a form of violence (Article 5(d)), which aligns with economic violence/domestic neglect."
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Sexual violence as referred to in Article 5 letter c, includes: ... e. forced marriage;",
+      "rationale": "The regulation explicitly includes forced marriage under sexual violence (Article 8(1)(e)), which is a harmful practice. It also establishes a 'Task Force for Prevention of Child Marriage' (Article 23(2)(c)), addressing early/child marriage prevention."
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions death as a possible outcome of physical violence but does not explicitly address femicide/feminicide as a distinct concept or gender-motivated killing of women."
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Forms of Violence against Women and Children include: ... f. Trafficking in persons;",
+      "rationale": "Trafficking in persons is explicitly listed as a form of violence in Article 5(f), and the regulation also references a dedicated task force for trafficking (Article 23(2)(a))."
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Sexual violence as referred to in Article 5 letter c, includes: ... g. sexual exploitation; h. sexual slavery;",
+      "rationale": "The regulation explicitly includes both sexual exploitation and sexual slavery within the definition of sexual violence (Article 8(1)(g)-(h))."
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "Yes",
+      "evidence": "Sexual violence as referred to in Article 5 letter c, includes: ... i. electronic-based sexual violence.",
+      "rationale": "The policy explicitly includes electronic-based sexual violence (Article 8(1)(i)), which is a form of technology-facilitated violence."
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 55\n(1) In order to achieve the goal of protecting women and children victims of violence, the Regional Government may cooperate with:\na. central government;\nb. provincial government;\nc. other regency/city governments;",
+      "rationale": "The regulation explicitly provides for cooperation with other levels of government (central, provincial) and other regency/city governments, indicating cross-jurisdictional institutional coordination."
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 16 letter a include:\n...\nc. cooperating with law enforcement apparatus, government apparatus, as well as educational institutions, health, hospitals, and various non-governmental organizations concerned with women and children from acts of violence;",
+      "rationale": "The policy explicitly mandates cooperation with non-governmental organizations; this constitutes a collaboration mechanism with non-state service providers (even if not framed as a formal forum/working group)."
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 25\n(2) Satgas PPA as referred to in paragraph (1) aims to:\n...\nc. collect, compile and present reports on violence.",
+      "rationale": "The task force mandate to collect, compile, and present reports on violence implies an organized data/reporting function for violence cases, addressing establishment of data collection/information for protection efforts."
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation references \"justice and gender equality\" as a principle and defines violence against women as gender-based, it does not mention institutionalized gender mainstreaming (e.g., a gender mainstreaming working group, PUG mechanisms, or mainstreaming requirements across agencies) as a specific governance approach for delivering VAW policies/programs."
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 54\n(2) Guidance as referred to in paragraph (1) includes:\n...\nb. technical guidance and training;",
+      "rationale": "The regulation explicitly includes technical guidance and training as part of guidance/supervision by the Regent, which constitutes training/capacity building for implementation actors (government/service delivery personnel)."
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 57\n(1) Monitoring, evaluation and reporting on the implementation of protection for women and children from acts of violence includes supervision in preventive, rehabilitative and curative efforts.\n(2) Monitoring as referred to in paragraph (1) is carried out every 3 (three) months.\n(3) Evaluation and reporting as referred to in paragraph (1) is carried out every 6 (six) months.",
+      "rationale": "The regulation establishes a clear monitoring, evaluation, and reporting framework with specified periodicity and responsible agency, directly addressing M&E of implementation."
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "In order to carry out services and protection for women and children from acts of violence, the Regional Government establishes UPTD PPA.",
+      "rationale": "The regulation establishes UPTD PPA as a dedicated unit providing multiple coordinated services (complaints, outreach, case management, shelter, mediation, assistance), functioning as an integrated service unit for women and children victims of violence."
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions accompaniment at the police level and cooperation with law enforcement, but it does not establish or describe a specialised police unit/service desk within police offices for VAW victims."
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "UPTD PPA as referred to in paragraph (1), functions to carry out services for: a. public complaints;",
+      "rationale": "The policy creates complaint/report-receiving functions through UPTD PPA (public complaints) and also mentions opening complaint posts, which are mechanisms to receive reports/complaints of violence (even if not explicitly a hotline)."
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Victims may be placed in a safe house or alternative residence.",
+      "rationale": "The regulation explicitly provides for safe houses/temporary shelter for victims, including management by the PPPA Agency and confidentiality measures."
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Legal aid services as referred to in Article 28 paragraph (1) letter c, aim to assist victims in undergoing the judicial process.",
+      "rationale": "Legal aid is explicitly listed as a service form and further detailed (consultation, accompaniment through reporting/investigation/prosecution/court)."
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Health services as referred to in Article 28 paragraph (1) letter b, include: a. first aid to victims; b. care and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; and c. referral to health services; d. medicolegal; e. psychological assistance.",
+      "rationale": "The regulation explicitly provides health services including first aid, medical care, referrals, and medicolegal services."
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Social rehabilitation services as referred to in Article 28 paragraph (1) letter f, include: ... g. social guidance and psychosocial counseling;",
+      "rationale": "Psychosocial counseling is explicitly included within social rehabilitation services, and psychological assistance is also referenced under health services."
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Social rehabilitation services as referred to in Article 28 paragraph (1) letter f, include: ... e. mental spiritual guidance;",
+      "rationale": "The regulation explicitly includes “mental spiritual guidance” as part of social rehabilitation services, which corresponds to religious/spiritual counseling/guidance."
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Repatriation and social reintegration services as referred to in Article 28 paragraph (1) letter e, aim to return victims to be accepted back into their social environment.",
+      "rationale": "The policy explicitly provides for repatriation and social reintegration and also lists resocialization guidance within social rehabilitation, covering reintegration/resocialisation services."
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Social rehabilitation services as referred to in Article 28 paragraph (1) letter f, include: ... d. vocational training and entrepreneurship development;",
+      "rationale": "Economic empowerment/support is addressed through vocational training, entrepreneurship development, and related supports (skills training, apprenticeships, business capital/tools, and business assistance)."
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Empowerment and awareness as referred to in paragraph (1) are carried out by: a. providing material on the prevention of acts of violence against women and children in both formal and informal education;",
+      "rationale": "The regulation includes awareness-raising and educational materials specifically aimed at preventing violence against women and children, which constitutes primary prevention through information/education about VAW."
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "The Implementation of Protection for Women and Children Victims of Violence is carried out based on the principles of: ... b. justice and gender equality;",
+      "rationale": "The policy explicitly includes 'gender equality' as a guiding principle. While it does not detail a standalone gender-equality education curriculum, it does embed gender equality as a normative basis for implementation, which implicitly supports information/education framing around gender equality and women’s rights."
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "conducting socialization on laws and regulations related to the protection of women and children victims of violence;",
+      "rationale": "The prevention section explicitly mandates socialization (public dissemination/education) about laws and regulations related to protection of women and children victims of violence, which is information/education about VAW-related laws and policies."
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "providing material on the prevention of acts of violence against women and children in both formal and informal education;",
+      "rationale": "The regulation integrates prevention content into formal and informal education settings, indicating an education-based prevention approach (primary prevention through education)."
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "\"cooperating with law enforcement apparatus, government apparatus, as well as educational institutions, health, hospitals, and various non-governmental organizations concerned with women and children from acts of violence;\"",
+      "rationale": "The regulation explicitly mandates cooperation with various non-governmental organizations concerned with women and children in implementing protection efforts."
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions 'mental and spiritual' as a prevention field and includes 'religious values' in education for child victims, but it does not explicitly or implicitly describe engagement/collaboration with religious organizations or religious leaders as stakeholders for services/prevention."
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the explanatory section references cultural factors and Article 41 mentions children enjoying their culture, there is no stated collaboration with traditional/cultural organizations or leaders for service delivery or prevention."
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "\"building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children;\"",
+      "rationale": "The policy explicitly includes cooperation with universities and educational institutions as part of empowerment/prevention and protection implementation."
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation cites international conventions in the legal basis, but it does not describe stakeholder engagement or cooperation with international organizations for services, prevention, or service delivery support."
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "\"the Regional Government may cooperate with: ... h. mass media.\"",
+      "rationale": "The cooperation chapter explicitly lists mass media as a party the regional government may cooperate with to achieve protection goals."
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "\"The Implementation of Protection for Women and Children Victims of Violence is the joint obligation and responsibility of: ... c. Community;\"",
+      "rationale": "Community engagement is explicitly embedded through shared responsibility and cooperation provisions, including community participation and cooperation with the community."
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "\"The Regional Government may establish partnerships with the Business World in the protection of women and children from acts of violence\"",
+      "rationale": "The policy explicitly provides for partnerships with the business world/private sector to support protection efforts, including employment information and training for victims."
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation provides special protection for children in emergency situations (including refugees, natural disasters, and armed conflict), but it does not specify any special protection measures targeted at women in conflict or disaster-prone areas."
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Trafficking in persons is listed as a form of violence and there is a task force for trafficking, but the text does not explicitly provide special protection measures specifically targeted at women victims of trafficking (it does so for child victims of trafficking)."
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "\"creating a friendly and safe work environment atmosphere for women;\"",
+      "rationale": "The policy includes a prevention/empowerment measure aimed at ensuring a safe work environment for women, which constitutes a protection-related measure targeted at women in the workplace."
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of elderly women or any tailored protection measures for older women."
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "\"Children with Disabilities;\"",
+      "rationale": "The regulation explicitly includes persons with disabilities in the context of special protection for children (children with disabilities). While it does not mention women with disabilities specifically, it does address disability as a target group for special protection measures."
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention women-headed households/families or provide any specific measures targeted to them."
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Special protection for minority and isolated groups is provided for children, not for women. There are no special protection measures specifically targeted at women from minority/isolated groups."
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "Yes",
+      "evidence": "\"the right of victims and their families to obtain facilities in the judicial process;\"",
+      "rationale": "The regulation provides protections for victims (including women) in relation to the judicial process, including legal aid and accompaniment through reporting, investigation, prosecution, and court examination stages."
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of Indigenous peoples/groups (masyarakat adat). The only related provision concerns children from minority and isolated groups, without referencing Indigenous peoples specifically."
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Refugees are mentioned only in the context of children in emergency situations (\"Children who become refugees\"). The regulation does not provide special protection measures targeted at refugees/forced displacement generally (including adult women)."
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not mention domestic workers or provide any specific protections targeted at domestic workers."
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation provides for safe houses/temporary shelter for victims of violence, it does not specifically target women experiencing homelessness as a group."
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention formerly incarcerated women or provide reintegration/protection measures specifically for women who are former inmates."
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Article 58\nFinancing for the implementation of protection for women and children is sourced from:\na. Regional Revenue and Expenditure Budget (APBD);",
+      "rationale": "The policy explicitly states financing comes from the Regional Revenue and Expenditure Budget (APBD), which is the local/regional government budget for Dompu Regency."
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation mentions cooperation with the central government, it does not specify any financing source from the national government budget (e.g., APBN) or other national budget allocations."
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of international donors, UN agencies, foreign governments, development partners, or other international funding support as a financing source."
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Article 58\nFinancing for the implementation of protection for women and children is sourced from:\n...\nb. other legal and non-binding sources.",
+      "rationale": "The policy explicitly includes 'other legal and non-binding sources' as a financing source, which corresponds to other legally permissible sources beyond the APBD."
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation mentions potential cooperation with the provincial government, but it does not state that financing will come from the provincial government budget or specify any provincial budget allocation."
+    }
+  },
+  "indicator_count": 56
+}

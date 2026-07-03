@@ -1,0 +1,412 @@
+{
+  "policy_file": "KEPULAUAN_RIAU_KARIMUN.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-02T07:57:54.472586+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Law Number 23 Year 2004 concerning the Elimination of Domestic Violence",
+      "rationale": "The policy text explicitly references the national law on the elimination of domestic violence, indicating domestic violence is within the scope of the regulation's legal basis."
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided excerpt mentions violence against women and children in general and cites several laws, but it does not explicitly mention sexual violence or related terms (e.g., rape, sexual assault)."
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text refers broadly to 'all forms of Violence Against Women and Children' but does not explicitly specify physical violence in the excerpt provided."
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not explicitly mention psychological violence (e.g., emotional abuse, intimidation), only general 'violence'."
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of economic violence, economic exploitation, or domestic neglect in the provided text."
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not mention harmful practices such as early/forced marriage, FGM, honour crimes, or female infanticide."
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Femicide/feminicide is not mentioned in the provided policy text."
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons",
+      "rationale": "The policy explicitly cites the national law on trafficking in persons, indicating human trafficking is included in the legal framework referenced."
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While trafficking in persons is referenced, the excerpt does not explicitly mention sexual exploitation or sexual slavery."
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt contains no references to online/digital abuse, cyber harassment, non-consensual image sharing, or other technology-facilitated violence."
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided excerpt contains legal bases and general obligations of the Regional Government but does not describe any coordination or cooperation mechanisms with other governments across jurisdictions (e.g., provincial/national/other districts)."
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of collaboration mechanisms (forums, working groups, MoUs) with non-governmental service providers/NGOs in the provided text."
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not mention establishing data collection, case recording, reporting, or an information system related to violence against women (VAW) or protection services."
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not reference gender mainstreaming, institutional arrangements for mainstreaming, or a dedicated gender mainstreaming working group to deliver VAW policies/programs."
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provisions on training, capacity building, or competency development for government officials or service workers are included in the provided excerpt."
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not include monitoring, evaluation, performance indicators, reporting requirements, or oversight mechanisms for implementation and service delivery."
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided excerpt contains only the regulation title, considerations, and legal bases. It does not mention establishing or operating an integrated service unit (e.g., one-stop service/P2TP2A) for violence against women (VAW)."
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no reference in the provided text to a specialised police unit/service desk for VAW victims (e.g., women/children service unit within police offices)."
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not describe any reporting mechanism such as a hotline, complaint desk, or service unit designated to receive reports/complaints of violence."
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No shelter, safe house, temporary housing, or protection facility/service unit is mentioned in the provided text."
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation cites laws related to protection and violence, the excerpt does not specify any service unit providing legal aid/assistance to victims."
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided text does not mention health facilities, medical examinations, treatment, or any service unit responsible for medical services for victims."
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of counselling, psychological services, social work support, or trauma recovery services in the excerpt."
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not reference religious leaders, spiritual guidance, or any religious/spiritual counselling service unit."
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No rehabilitation, reintegration, resocialisation, or follow-up support services are described in the provided text."
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not mention economic empowerment measures such as skills training, livelihood support, financial assistance, or related service units for victims."
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided excerpt recognizes violence against women and children as a human rights violation and focuses on establishing a regulation for protection, but it does not describe any information or education activities aimed at preventing violence against women (e.g., awareness campaigns, public education, community outreach)."
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references protection and fulfillment of rights but does not mention gender equality education, women’s rights education, or related awareness-raising/primary prevention programming."
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation lists relevant national laws (e.g., domestic violence law, trafficking law), it does not include provisions on educating the public or stakeholders about VAW laws/policies as a primary prevention measure."
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There are no provisions in the excerpt about integrating prevention into schools, curricula, teacher training, or improving education quality as a strategy to prevent violence against women and children."
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided policy excerpt contains only the preamble (considerations and legal bases) and does not mention engagement or collaboration with civil society organisations/NGOs for services or prevention."
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no reference to religious organisations or religious leaders as stakeholders for service delivery or prevention in the provided text."
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not mention traditional/cultural organisations or leaders, nor any collaboration mechanism with them."
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No education institutions (schools, universities, or other educational bodies) are referenced as partners or stakeholders in the provided text."
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention international organizations, international assistance, or cooperation for service delivery or prevention."
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of media engagement, public communication partnerships, or collaboration with media outlets."
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation states a need for legal certainty for 'all parties involved,' it does not explicitly or implicitly describe collaboration/engagement with the community/society for services or prevention in the provided excerpt."
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt contains no reference to business actors, employers, or private sector engagement in protection services or prevention efforts."
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided policy text contains general statements about protection from violence against women and children and lists national laws, but it does not mention conflict zones, disasters, or special measures for women in conflict/disaster-prone areas."
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text cites Law Number 21 Year 2007 on trafficking in persons, it does not describe any specific protection measures targeted at women victims of trafficking within this regional regulation excerpt."
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of women workers/employees or any labor/workplace-related protection measures in the provided text."
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention elderly women or any age-specific protection measures for older women."
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention persons with disabilities (including women with disabilities) or any disability-specific protections."
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provisions or references are included regarding women heads of households/families or targeted protections for them."
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not mention minority/isolated groups or special protections for women from such groups."
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references laws on witness and victim protection and juvenile justice, it does not explicitly or implicitly set out protections specifically for women involved in legal processes as witnesses, victims, or perpetrators."
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of Indigenous peoples/groups (masyarakat adat) or any targeted protection measures for them."
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention refugees, internally displaced persons, or forced displacement, nor any related protection measures."
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No mention is made of domestic workers or protections targeted to domestic work contexts."
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpt does not address homelessness or special protections for women experiencing homelessness."
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of formerly incarcerated women/ex-inmates or any reintegration/protection measures for them."
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided policy text contains legal considerations and references to national laws but does not mention any funding mechanism or allocation from a local/regency budget (e.g., APBD Kabupaten/Karimun Regency budget)."
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit or implicit reference to funding from the national government budget (e.g., APBN) or central government financing; the text only lists constitutional and statutory bases."
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention any international organizations, donors, UN agencies, development partners, foreign governments, or other international funding support."
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provisions are included on financing from 'other legal sources' (e.g., grants, CSR, community contributions, or other lawful sources). The excerpt is limited to preambular considerations and legal references."
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the header references 'RIAU ISLANDS PROVINCE,' the text does not state any funding source from the provincial government budget (e.g., APBD Provinsi) or provincial financing arrangements."
+    }
+  },
+  "indicator_count": 56
+}

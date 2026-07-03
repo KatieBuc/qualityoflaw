@@ -23,6 +23,12 @@ class PipelinePaths:
 
 
 @dataclass
+class ConcurrencyConfig:
+    enabled: bool
+    max_workers: int
+
+
+@dataclass
 class ResolvedPipelineConfig:
     experiment_name: str
     translation_model: ModelProfile
@@ -31,6 +37,7 @@ class ResolvedPipelineConfig:
     evaluation_criteria_dir: Path
     evaluation_template_path: Path
     paths: PipelinePaths
+    concurrency: ConcurrencyConfig
     pipeline_config_path: Path
     model_config_path: Path
 
@@ -75,6 +82,20 @@ def get_model_profile(profiles: dict[str, ModelProfile], key: str) -> ModelProfi
         available = ", ".join(sorted(profiles))
         raise ValueError(f"Unknown model key '{key}'. Available: {available}")
     return profiles[key]
+
+
+def parse_concurrency_config(raw: dict | None) -> ConcurrencyConfig:
+    if not raw:
+        return ConcurrencyConfig(enabled=True, max_workers=5)
+
+    max_workers = int(raw.get("max_workers", 5))
+    if max_workers < 1:
+        raise ValueError("concurrency.max_workers must be >= 1")
+
+    return ConcurrencyConfig(
+        enabled=bool(raw.get("enabled", True)),
+        max_workers=max_workers,
+    )
 
 
 def resolve_prompt_paths(
@@ -138,6 +159,7 @@ def load_pipeline_config(
                 paths_cfg.get("index_schema", "data/mapping/index_schema.yaml")
             ),
         ),
+        concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
     )

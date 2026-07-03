@@ -67,6 +67,8 @@ def test_load_pipeline_config(pipeline_config_path, model_config_path):
     assert config.experiment_name == "test_experiment"
     assert config.translation_model.name == "test-translate"
     assert config.evaluation_model.name == "test-eval"
+    assert config.concurrency.enabled is True
+    assert config.concurrency.max_workers == 5
     assert config.translation_prompt_path.exists()
     assert config.evaluation_template_path.exists()
 

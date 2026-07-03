@@ -1,13 +1,17 @@
 import logging
 import re
+import threading
 import time
-from typing import Any, Callable, TypeVar
+from typing import TYPE_CHECKING, Any, Callable, TypeVar
 
 from openai import APIConnectionError, APIStatusError, AzureOpenAI, OpenAI, RateLimitError
 from pydantic import BaseModel
 
 from automation.src.llm.client import ApiStyle
 from automation.src.llm.model_profile import ModelProfile
+
+if TYPE_CHECKING:
+    from automation.src.concurrency import ConcurrencyLimiter
 
 logger = logging.getLogger(__name__)
 
@@ -66,19 +70,33 @@ class AzureLLMWrapper:
         profile: ModelProfile,
         client: OpenAI | AzureOpenAI,
         api_style: ApiStyle,
+        limiter: "ConcurrencyLimiter | None" = None,
     ):
         self.profile = profile
         self.client = client
         self.api_style = api_style
+        self.limiter = limiter
+        self._usage_lock = threading.Lock()
+        self.token_usage = {
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "total_tokens": 0,
+        }
 
     @classmethod
-    def from_profile(cls, profile: ModelProfile) -> "AzureLLMWrapper":
+    def from_profile(
+        cls,
+        profile: ModelProfile,
+        *,
+        limiter: "ConcurrencyLimiter | None" = None,
+    ) -> "AzureLLMWrapper":
         from automation.src.llm.client import get_api_style, get_azure_client
 
         return cls(
             profile=profile,
             client=get_azure_client(),
             api_style=get_api_style(),
+            limiter=limiter,
         )
 
     def _build_request_kwargs(self) -> dict[str, Any]:
@@ -87,10 +105,20 @@ class AzureLLMWrapper:
             kwargs["max_tokens"] = self.profile.max_tokens
         return kwargs
 
+    def _record_usage(self, usage: dict[str, int]) -> None:
+        if not usage:
+            return
+        with self._usage_lock:
+            for key in self.token_usage:
+                self.token_usage[key] += usage.get(key, 0)
+
     def _call_with_retry(self, fn: Callable[[], T]) -> T:
         last_error: Exception | None = None
         for attempt in range(self.profile.max_retries):
             try:
+                if self.limiter is not None:
+                    with self.limiter.semaphore:
+                        return fn()
                 return fn()
             except (RateLimitError, APIConnectionError, APIStatusError, Exception) as exc:
                 last_error = exc
@@ -126,7 +154,9 @@ class AzureLLMWrapper:
                 )
 
             text = _extract_response_text(response, self.api_style)
-            return text, _extract_usage(response, self.api_style)
+            usage = _extract_usage(response, self.api_style)
+            self._record_usage(usage)
+            return text, usage
 
         text, usage = self._call_with_retry(_call)
         return clean_translation_response(text), usage
@@ -154,6 +184,7 @@ class AzureLLMWrapper:
                 output_dict["evaluation_results"] = {
                     item["id"]: item for item in output_dict["evaluation_results"]
                 }
+            self._record_usage(_extract_usage(response, "chat"))
             return output_dict
 
         return self._call_with_retry(_call)

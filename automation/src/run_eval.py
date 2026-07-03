@@ -1,15 +1,31 @@
+import logging
 import time
+from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
+from typing import Callable
 
 from quality_eval.run_eval_new import (
     PolicyEvaluationResponse,
     evaluate_policy,
     finalize_and_save_report,
 )
+from quality_eval.v1.criteria import CRITERIA_FILES, PROMPT_VERSION
+from quality_eval.v1.prompts.prompt_loader import generate_judge_prompt
 
+from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir
 from automation.src.constants import SMALL_SCALE_FILES
 from automation.src.llm.wrapper import AzureLLMWrapper
+
+logger = logging.getLogger(__name__)
+
+
+@dataclass
+class DimensionResult:
+    criteria_file: str
+    batch_evals: dict
+    error: str | None = None
 
 
 def _filter_policy_files(policy_dir: Path, small_scale: bool) -> list[Path]:
@@ -20,11 +36,121 @@ def _filter_policy_files(policy_dir: Path, small_scale: bool) -> list[Path]:
     return files
 
 
+def _evaluate_dimension(
+    policy_path: Path,
+    criteria_file: str,
+    criteria_folder: Path,
+    template_path: Path,
+    complete_fn: Callable[[str], dict],
+) -> DimensionResult:
+    try:
+        final_prompt = generate_judge_prompt(
+            criteria_file_path=str(criteria_folder / criteria_file),
+            template_file_path=str(template_path),
+            policy_file_path=str(policy_path),
+        )
+        batch_result = complete_fn(final_prompt)
+        batch_evals = batch_result.get("evaluation_results", {})
+        logger.info("[%s] %s completed", policy_path.name, criteria_file)
+        return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
+    except Exception as exc:
+        logger.error("[%s] %s failed: %s", policy_path.name, criteria_file, exc)
+        return DimensionResult(
+            criteria_file=criteria_file,
+            batch_evals={},
+            error=f"{criteria_file}: {exc}",
+        )
+
+
+def _merge_dimension_results(
+    policy_path: Path,
+    deployment_name: str,
+    dimension_results: list[DimensionResult | BaseException],
+) -> dict:
+    evaluated_at = datetime.now(timezone.utc).isoformat()
+    final_report = {
+        "policy_file": policy_path.name,
+        "model": deployment_name,
+        "evaluated_at": evaluated_at,
+        "prompt_version": PROMPT_VERSION,
+        "completed_dimensions": [],
+        "failed_dimensions": [],
+        "errors": [],
+        "evaluation_results": {},
+    }
+
+    for result in dimension_results:
+        if isinstance(result, BaseException):
+            final_report["errors"].append(str(result))
+            continue
+
+        if result.error:
+            final_report["failed_dimensions"].append(result.criteria_file)
+            final_report["errors"].append(result.error)
+            continue
+
+        for key, item in result.batch_evals.items():
+            if key in final_report["evaluation_results"]:
+                logger.warning(
+                    "[%s] ID '%s' (%s) already exists; overwriting with new outcome.",
+                    policy_path.name,
+                    key,
+                    item.get("indicator", ""),
+                )
+        final_report["evaluation_results"].update(result.batch_evals)
+        final_report["completed_dimensions"].append(result.criteria_file)
+
+    final_report["indicator_count"] = len(final_report["evaluation_results"])
+    return final_report
+
+
+def _evaluate_policy_parallel(
+    policy_path: Path,
+    criteria_folder: Path,
+    template_path: Path,
+    deployment_name: str,
+    complete_fn: Callable[[str], dict],
+    limiter: ConcurrencyLimiter,
+) -> dict:
+    logger.info("Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES))
+    tasks = [
+        lambda cf=cf: _evaluate_dimension(
+            policy_path,
+            cf,
+            criteria_folder,
+            template_path,
+            complete_fn,
+        )
+        for cf in CRITERIA_FILES
+    ]
+    dimension_results = limiter.run_parallel(tasks)
+    return _merge_dimension_results(policy_path, deployment_name, dimension_results)
+
+
+def _process_policy_result(
+    policy_path: Path,
+    final_report: dict,
+    output_dir: Path,
+    deployment_name: str,
+    allow_partial: bool,
+) -> tuple[bool, str | None, bool]:
+    success, output_path = finalize_and_save_report(
+        final_report=final_report,
+        policy_path=str(policy_path),
+        output_folder=str(output_dir),
+        deployment_name=deployment_name,
+        allow_partial=allow_partial,
+    )
+    policy_failed = not success
+    return success, output_path, policy_failed
+
+
 def run_evaluation_step(
     run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
     *,
+    limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     allow_partial: bool = False,
 ) -> dict:
@@ -40,36 +166,67 @@ def run_evaluation_step(
     def complete_fn(prompt: str) -> dict:
         return wrapper.complete_structured(prompt, PolicyEvaluationResponse)
 
+    deployment_name = wrapper.profile.deployment
+    use_serial = not limiter.enabled or limiter.max_workers == 1
     start = time.time()
     saved_paths: list[str] = []
     failed_policies: list[str] = []
 
-    for index, policy_path in enumerate(policy_files, 1):
-        print("\n" + "=" * 50)
-        print(f"Policy [{index}/{len(policy_files)}]: {policy_path.name}")
-        print("=" * 50)
+    if use_serial:
+        for index, policy_path in enumerate(policy_files, 1):
+            print("\n" + "=" * 50)
+            print(f"Policy [{index}/{len(policy_files)}]: {policy_path.name}")
+            print("=" * 50)
 
-        final_report = evaluate_policy(
-            policy_path=str(policy_path),
-            criteria_folder=str(config.evaluation_criteria_dir),
-            template_path=str(config.evaluation_template_path),
-            deployment_name=wrapper.profile.deployment,
-            complete_fn=complete_fn,
-        )
-
-        success, output_path = finalize_and_save_report(
-            final_report=final_report,
-            policy_path=str(policy_path),
-            output_folder=str(output_dir),
-            deployment_name=wrapper.profile.deployment,
-            allow_partial=allow_partial,
-        )
-        if success and output_path:
-            saved_paths.append(output_path)
-        else:
-            failed_policies.append(policy_path.name)
+            final_report = evaluate_policy(
+                policy_path=str(policy_path),
+                criteria_folder=str(config.evaluation_criteria_dir),
+                template_path=str(config.evaluation_template_path),
+                deployment_name=deployment_name,
+                complete_fn=complete_fn,
+            )
+            success, output_path, policy_failed = _process_policy_result(
+                policy_path,
+                final_report,
+                output_dir,
+                deployment_name,
+                allow_partial,
+            )
             if output_path:
                 saved_paths.append(output_path)
+            if policy_failed:
+                failed_policies.append(policy_path.name)
+    else:
+        tasks = [
+            lambda p=p: _evaluate_policy_parallel(
+                p,
+                config.evaluation_criteria_dir,
+                config.evaluation_template_path,
+                deployment_name,
+                complete_fn,
+                limiter,
+            )
+            for p in policy_files
+        ]
+        policy_results = limiter.run_parallel(tasks)
+
+        for policy_path, result in zip(policy_files, policy_results, strict=True):
+            if isinstance(result, BaseException):
+                logger.error("[%s] evaluation failed: %s", policy_path.name, result)
+                failed_policies.append(policy_path.name)
+                continue
+
+            success, output_path, policy_failed = _process_policy_result(
+                policy_path,
+                result,
+                output_dir,
+                deployment_name,
+                allow_partial,
+            )
+            if output_path:
+                saved_paths.append(output_path)
+            if policy_failed:
+                failed_policies.append(policy_path.name)
 
     elapsed = round(time.time() - start, 2)
     total = len(policy_files)
@@ -84,5 +241,6 @@ def run_evaluation_step(
         },
         "failed_policies": failed_policies,
         "elapsed_s": elapsed,
+        "token_usage": dict(wrapper.token_usage),
         "output_dir": str(output_dir),
     }
