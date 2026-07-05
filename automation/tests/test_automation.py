@@ -8,7 +8,7 @@ import yaml
 from automation.src.config_loader import load_model_profiles, load_pipeline_config
 from automation.src.constants import AUTOMATION_ROOT, SMALL_SCALE_FILES
 from automation.src.llm.model_profile import ModelProfile
-from automation.src.llm.wrapper import AzureLLMWrapper, clean_translation_response
+from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, clean_translation_response, format_api_error
 from automation.src.metadata import generate_run_id, init_run_metadata, load_metadata, update_metadata
 from automation.src.run_pipeline import parse_steps, requires_run_id
 from automation.src.translate import resolve_input_files
@@ -71,6 +71,8 @@ def test_load_pipeline_config(pipeline_config_path, model_config_path):
     assert config.concurrency.max_workers == 5
     assert config.translation_prompt_path.exists()
     assert config.evaluation_template_path.exists()
+    assert config.chunking.enabled is False
+    assert config.chunking.safe_limit == 32000
 
 
 def test_load_pipeline_config_unknown_model(pipeline_config_path, model_config_path):
@@ -79,6 +81,25 @@ def test_load_pipeline_config_unknown_model(pipeline_config_path, model_config_p
     pipeline_config_path.write_text(yaml.dump(data), encoding="utf-8")
     with pytest.raises(ValueError, match="Unknown model key"):
         load_pipeline_config(pipeline_config_path, model_config_path)
+
+
+def test_load_pipeline_config_chunking_enabled(pipeline_config_path, model_config_path):
+    data = yaml.safe_load(pipeline_config_path.read_text(encoding="utf-8"))
+    data["translation"]["chunking"] = {"enabled": True, "safe_limit": 1000}
+    pipeline_config_path.write_text(yaml.dump(data), encoding="utf-8")
+
+    config = load_pipeline_config(pipeline_config_path, model_config_path)
+
+    assert config.chunking.enabled is True
+    assert config.chunking.safe_limit == 1000
+    assert config.chunking.fallback_prompt_path.exists()
+
+
+def test_parse_chunking_config_invalid_safe_limit():
+    from automation.src.config_loader import parse_chunking_config
+
+    with pytest.raises(ValueError, match="safe_limit"):
+        parse_chunking_config({"enabled": True, "safe_limit": 0})
 
 
 def test_resolve_input_files_small_scale(tmp_path):
@@ -101,6 +122,19 @@ def test_resolve_input_files_full_corpus(tmp_path):
 
     files = resolve_input_files(input_dir, small_scale=False)
     assert [f.name for f in files] == sorted([*SMALL_SCALE_FILES, "OTHER.txt"])
+
+
+def test_resolve_input_files_full_corpus_skips_non_txt_files(tmp_path):
+    input_dir = tmp_path / "input"
+    input_dir.mkdir()
+    (input_dir / "POLICY.txt").write_text("x", encoding="utf-8")
+    (input_dir / "SCAN.pdf").write_text("not a real pdf, just bytes", encoding="utf-8")
+    (input_dir / "notes.docx").write_text("x", encoding="utf-8")
+    (input_dir / "subdir").mkdir()
+
+    files = resolve_input_files(input_dir, small_scale=False)
+
+    assert [f.name for f in files] == ["POLICY.txt"]
 
 
 def test_clean_translation_response():
@@ -131,6 +165,39 @@ def test_azure_llm_wrapper_complete_text_retries():
     assert text == "translated"
     assert usage["total_tokens"] == 3
     assert client.chat.completions.create.call_count == 2
+
+
+def test_format_api_error_generic():
+    error_type, details = format_api_error(RuntimeError("connection reset"))
+    assert error_type == "RuntimeError"
+    assert details["message"] == "connection reset"
+
+
+def test_format_api_error_api_status():
+    exc = MagicMock()
+    exc.status_code = 429
+    exc.message = "Rate limit exceeded"
+    exc.response = MagicMock(headers={"x-request-id": "req-123"})
+    exc.body = {"error": {"code": "429"}}
+
+    error_type, details = format_api_error(exc)
+    assert error_type == "MagicMock"
+    assert details["status_code"] == 429
+    assert details["request_id"] == "req-123"
+
+
+def test_azure_llm_wrapper_raises_llm_call_error_after_retries():
+    profile = ModelProfile(name="t", deployment="m", temperature=0.2, max_retries=2)
+    client = MagicMock()
+    client.chat.completions.create.side_effect = RuntimeError("fail")
+    wrapper = AzureLLMWrapper(profile=profile, client=client, api_style="chat")
+
+    with patch("automation.src.llm.wrapper.time.sleep"):
+        with pytest.raises(LLMCallError) as exc_info:
+            wrapper.complete_text("prompt")
+
+    assert exc_info.value.error_type == "RuntimeError"
+    assert exc_info.value.attempts == 2
 
 
 def test_metadata_round_trip(tmp_path, monkeypatch):

@@ -6,6 +6,7 @@ DEFAULT_MODEL_CONFIG = AUTOMATION_ROOT / "config" / "model_config.yaml"
 DEFAULT_PIPELINE_CONFIG = AUTOMATION_ROOT / "config" / "pipeline_config.yaml"
 DEFAULT_DATA_ROOT = PROJECT_ROOT / "data" / "automation"
 PROMPTS_ROOT = AUTOMATION_ROOT / "prompts"
+CHUNKING_FALLBACK_PROMPT = PROMPTS_ROOT / "translation" / "chunking" / "fallback_prompt.txt"
 
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
@@ -13,6 +14,7 @@ SMALL_SCALE_FILES = [
     "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
     "SUMATERA_BARAT_PADANG_PARIAMAN.txt",
     "JAWA_TENGAH_SEMARANG.txt",
+    # "KALIMANTAN_TENGAH_SUKAMARA.txt"
 ]
 
 ALL_STEPS = ("translation", "evaluation", "comparison")

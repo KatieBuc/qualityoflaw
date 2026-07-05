@@ -4,8 +4,13 @@ from unittest.mock import MagicMock
 import pytest
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ConcurrencyConfig, PipelinePaths, ResolvedPipelineConfig
-from automation.src.constants import AUTOMATION_ROOT, PROJECT_ROOT
+from automation.src.config_loader import (
+    ChunkingConfig,
+    ConcurrencyConfig,
+    PipelinePaths,
+    ResolvedPipelineConfig,
+)
+from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.translate import run_translation_step
 
@@ -28,6 +33,9 @@ def pipeline_config(tmp_path):
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
         ),
         concurrency=ConcurrencyConfig(enabled=True, max_workers=3),
+        chunking=ChunkingConfig(
+            enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
+        ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )
@@ -92,6 +100,34 @@ def test_run_translation_step_skips_existing(pipeline_config, data_root):
         limiter=limiter,
         small_scale=False,
         force=False,
+    )
+
+    assert result["counts"]["skipped"] == 1
+    assert result["counts"]["succeeded"] == 0
+    wrapper.complete_text.assert_not_called()
+
+
+def test_run_translation_step_skips_existing_with_run_missing(pipeline_config, data_root):
+    run_id = "translate_run_missing"
+    input_dir = pipeline_config.paths.input_dir
+    input_dir.mkdir(parents=True)
+    (input_dir / "A.txt").write_text("source", encoding="utf-8")
+
+    out_dir = data_root / run_id / "translation"
+    out_dir.mkdir(parents=True)
+    (out_dir / "A.txt").write_text("existing", encoding="utf-8")
+
+    wrapper = MagicMock()
+    limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
+
+    result = run_translation_step(
+        run_id=run_id,
+        config=pipeline_config,
+        wrapper=wrapper,
+        limiter=limiter,
+        small_scale=False,
+        force=False,
+        run_missing=True,
     )
 
     assert result["counts"]["skipped"] == 1

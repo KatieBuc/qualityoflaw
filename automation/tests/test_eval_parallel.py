@@ -5,8 +5,13 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ConcurrencyConfig, PipelinePaths, ResolvedPipelineConfig
-from automation.src.constants import AUTOMATION_ROOT, PROJECT_ROOT
+from automation.src.config_loader import (
+    ChunkingConfig,
+    ConcurrencyConfig,
+    PipelinePaths,
+    ResolvedPipelineConfig,
+)
+from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.run_eval import _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
 from automation.src.run_eval import DimensionResult
@@ -29,6 +34,9 @@ def pipeline_config():
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
         ),
         concurrency=ConcurrencyConfig(enabled=True, max_workers=5),
+        chunking=ChunkingConfig(
+            enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
+        ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )

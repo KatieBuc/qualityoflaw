@@ -1,0 +1,412 @@
+{
+  "policy_file": "BALI_BANGLI.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-04T09:41:45.402527+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Law Number 24 of 2004 concerning the Elimination of Domestic Violence",
+      "rationale": "The regulation explicitly references the national law on elimination of domestic violence as part of its legal basis, indicating domestic violence is within the policy’s addressed scope."
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "The definition of violence explicitly includes sexual harm, and the regulation provides services for victims of such violence."
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "Physical violence is explicitly included in the definition of violence covered by the regulation."
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "Psychological violence is explicitly included in the definition of violence and is also referenced in victim recovery rights (psychological health services)."
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation includes neglect as part of violence, but it does not explicitly mention economic violence, economic exploitation, deprivation of economic resources, or domestic neglect in an economic sense (e.g., controlling finances)."
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of harmful practices such as early/forced marriage, female genital mutilation, honour crimes, or female infanticide."
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention femicide/feminicide or gender-related killing of women."
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons",
+      "rationale": "Human trafficking is explicitly referenced through the inclusion of the national anti-trafficking law in the regulation’s legal basis."
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence is included, the regulation does not explicitly address sexual exploitation or sexual slavery as distinct forms (nor does it define or mention exploitation)."
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not mention online/digital abuse, cyber harassment, non-consensual image sharing, or any other technology-facilitated forms of violence."
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "The Regent is responsible for preparing a report on the implementation of SPM in the Field of Integrated Services for Women and Children Victims of Violence and submitting it to the Governor with a copy submitted to the State Minister for Women's Empowerment and Child Protection and the Minister of Home Affairs.",
+      "rationale": "The policy establishes coordination/reporting across levels of government (regency to provincial governor and national ministries), indicating an inter-jurisdictional governmental network."
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The regulation explicitly includes non-governmental organizations and other non-state actors as participants in protection efforts, implying cooperation mechanisms with NGOs/non-government service providers."
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation includes 'reporting' and requires annual reporting to higher levels of government, it does not explicitly establish a dedicated data collection system/database/information management system for VAW/women’s protection cases or services."
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references 'justice and gender equality' as a principle, but it does not mention gender mainstreaming institutionalisation, a gender mainstreaming working group, or institutional mechanisms specifically for mainstreaming gender in VAW policy delivery."
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "SPM as referred to in Article 10 has performance indicators including: coverage of Women and Children victims of violence who receive complaint handling by trained officers in integrated service units; coverage of Women and Children victims of violence who receive health services by trained health workers at Puskesmas and at Hospitals: coverage of social rehabilitation services provided by trained social rehabilitation officers",
+      "rationale": "The minimum service standards include indicators requiring services to be delivered by 'trained' officers/health workers/social rehabilitation officers, which implies training/capacity building requirements for service workers."
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of Women and Children victims of violence.",
+      "rationale": "A dedicated chapter sets out monitoring and evaluation, including regular monitoring and end-of-fiscal-year evaluation of implementation, satisfying the M&E criterion."
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Integrated Service Center for Women and Children Empowerment (P2TP2A) is an integrated service unit established by the Regency government to provide services to Women and Children victims of violence comprehensively including complaint services, health rehabilitation; social rehabilitation; repatriation; social reintegration, and legal aid.",
+      "rationale": "The regulation explicitly establishes/recognizes integrated service units (PPT and P2TP2A) to provide integrated services for women and children victims of violence."
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While police are mentioned among parties that can provide protection, the text does not specify a specialised police unit/service desk within police offices for VAW victims."
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The forms of services implemented by PPT include: complaints;",
+      "rationale": "The policy explicitly includes complaint-handling as a service provided by the integrated service center (PPT/P2TP2A), which functions as a mechanism to receive reports/complaints. It does not specifically mention a hotline, but it does establish complaint/report handling services."
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Regional Governments are obligated to establish Social Protection Houses and/or Safe Houses.",
+      "rationale": "The regulation explicitly mandates establishment of Social Protection Houses/Safe Houses, which are shelters providing temporary residence and protection."
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "The forms of services implemented by PPT include: complaints; health rehabilitation; social rehabilitation; Legal assistance; repatriation; and social reintegration.",
+      "rationale": "Legal assistance is explicitly listed as a service provided through the integrated service center (PPT), and legal aid is also defined and included in P2TP2A services."
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "The forms of services implemented by PPT include: complaints; health rehabilitation; social rehabilitation; Legal assistance; repatriation; and social reintegration.",
+      "rationale": "Health rehabilitation/health services are explicitly included among the services delivered under PPT and minimum service standards also include health services."
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text refers to psychological recovery and mentions psychologists/psychiatrists in the elucidation, but it does not explicitly establish a psychosocial counselling service unit/service as such (it focuses on health rehabilitation and social rehabilitation without clearly specifying counselling services)."
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Every Woman and Child Victim of Violence has the right: ... spiritual guidance services;",
+      "rationale": "The regulation explicitly provides for spiritual guidance services as a right of victims and includes spiritual guidance performance indicators under minimum service standards."
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "The forms of services implemented by PPT include: ... social rehabilitation; ... social reintegration.",
+      "rationale": "The policy explicitly includes social rehabilitation and social reintegration services, which correspond to resocialisation/rehabilitation and reintegration support."
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation mentions empowerment in objectives, it does not specify economic empowerment/support measures (e.g., skills training, livelihood assistance, financial support) as a service unit or service package."
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation focuses on protection, service provision (complaints, health/social rehabilitation, legal aid, shelters), institutional arrangements, and community obligations to prevent/report violence. It does not explicitly provide for public information or educational campaigns specifically about violence against women (VAW) as a primary prevention measure."
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation lists 'justice and gender equality' as an implementation principle, it does not include measures for information/education activities to promote gender equality or women’s rights as primary prevention."
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references multiple national laws and regulations as legal bases, but it does not establish activities to educate the public about VAW-related laws/policies (e.g., awareness-raising on legal rights, legal literacy campaigns)."
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not include school-based or broader education-system interventions (curriculum, teacher training, improving education quality) aimed at preventing violence or promoting respectful relationships; it is primarily a service and protection framework."
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors in community participation for providing protection and related activities, indicating engagement/collaboration with NGOs."
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The text explicitly names religious institutions as participants in community participation for protection efforts, implying engagement with religious organizations/leaders."
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "In providing protection to Women and Children victims of violence, the community may: establish family partners at the kelurahan/village level coordinating with Desa Pakraman;",
+      "rationale": "The regulation references coordination with Desa Pakraman (a customary/traditional community unit), indicating collaboration with traditional/cultural institutions."
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "Educational institutions are explicitly listed as participants in community participation, which constitutes engagement with education institutions (though universities are not specifically mentioned)."
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation discusses cooperation with various domestic institutions (e.g., hospitals, community institutions, NGOs, media) but does not mention international organizations or international support for service delivery."
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "Mass media is explicitly included as a participant in community participation, indicating engagement/collaboration with media."
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "The community has the obligation and responsibility in providing Protection to Women and Child Victims of Violence.",
+      "rationale": "The policy assigns obligations and responsibilities to the community in providing protection and prevention/reporting, demonstrating explicit engagement with the community/society."
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The private sector is explicitly listed among actors carrying out community participation, indicating engagement with business/private sector stakeholders."
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation focuses on protection and services for women and children victims of violence generally, without mentioning conflict zones, disasters, or disaster-prone areas, and without specifying special measures for women in such contexts."
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text cites Law Number 21 of 2007 on trafficking in persons in the legal basis, the operative provisions do not specify protection measures targeted at women victims of human trafficking; it addresses women and children victims of violence broadly."
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of women workers/employees or workplace-related protections; the regulation is framed around victims of violence in general."
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not identify elderly women as a specific target group nor provide special measures for them."
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not mention persons with disabilities or provide disability-specific accommodations or protections."
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provisions specifically address women heads of household/families or provide targeted measures for them."
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation includes a general non-discrimination principle but does not specify minority or isolated groups of women or targeted protections for them."
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "Yes",
+      "evidence": "\"assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\"",
+      "rationale": "The policy explicitly provides assistance and legal aid for women (as victims) throughout the examination process, which is a protection measure for women involved in legal proceedings (as witnesses/victims). It does not address women perpetrators, but it does cover women in the legal process as victims."
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines and references \"Desa Pakraman\" (customary community unit) in relation to community participation, it does not establish special protection measures targeted at Indigenous peoples/groups (masyarakat adat) as beneficiaries."
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation mentions repatriation (returning victims to their region of origin) but does not address refugees, asylum seekers, or forced displacement as a protected category with special measures."
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of domestic workers or protections specifically targeted to them."
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation provides for social protection houses/safe houses for victims of violence, it does not identify homelessness as a target condition nor provide special measures specifically for homeless women."
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not mention former inmates/correctional institutions or provide reintegration measures specifically for formerly incarcerated women."
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Article 20\nFunds for the implementation of protection for Women and Children Victims of violence, are sourced from: regional revenue and expenditure budget;",
+      "rationale": "The policy explicitly states that funding comes from the regional revenue and expenditure budget (APBD), which is the local/regency government budget."
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention funding from the national/state budget (e.g., APBN) or any specific national government budget allocation; it only references the regional budget and other legal sources."
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of international donors, UN agencies, foreign governments, development partners, or other international funding support as a funding source."
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Article 20\nFunds for the implementation of protection for Women and Children Victims of violence, are sourced from: regional revenue and expenditure budget; and other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly includes 'other legal and non-binding sources' as a funding source."
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation is within Bali Province and mentions reporting to the Governor, it does not identify the provincial revenue and expenditure budget (provincial APBD) as a funding source."
+    }
+  },
+  "indicator_count": 56
+}

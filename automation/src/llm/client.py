@@ -7,6 +7,8 @@ from openai import AzureOpenAI, OpenAI
 
 ApiStyle = Literal["chat", "responses"]
 
+DEFAULT_API_TIMEOUT_S = 300.0
+
 
 def get_project_root() -> Path:
     return Path(__file__).resolve().parents[3]
@@ -42,10 +44,14 @@ def get_azure_client() -> OpenAI | AzureOpenAI:
         return OpenAI(
             api_key=api_key,
             base_url=endpoint.rstrip("/") + "/",
+            max_retries=0,
+            timeout=DEFAULT_API_TIMEOUT_S,
         )
 
     return AzureOpenAI(
         api_key=api_key,
         azure_endpoint=endpoint,
         api_version=clean_env_value(os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21")),
+        max_retries=0,
+        timeout=DEFAULT_API_TIMEOUT_S,
     )

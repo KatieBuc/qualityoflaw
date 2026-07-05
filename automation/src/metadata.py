@@ -60,7 +60,7 @@ def update_metadata(run_id: str, **updates: Any) -> dict[str, Any]:
     metadata = load_metadata(run_id)
     metadata["updated_at"] = datetime.now(timezone.utc).isoformat()
     for key, value in updates.items():
-        if key in ("file_counts", "timing", "token_usage", "config") and isinstance(value, dict):
+        if key in ("file_counts", "timing", "token_usage", "config", "failures") and isinstance(value, dict):
             existing = metadata.get(key, {})
             existing.update(value)
             metadata[key] = existing

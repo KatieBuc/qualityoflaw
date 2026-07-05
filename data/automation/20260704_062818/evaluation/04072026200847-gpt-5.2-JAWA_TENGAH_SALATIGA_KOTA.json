@@ -1,0 +1,412 @@
+{
+  "policy_file": "JAWA_TENGAH_SALATIGA_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-04T09:49:38.866907+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Gender-Based Violence is any act based on gender differences that results in misery or suffering physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life, including domestic violence.",
+      "rationale": "The policy’s definition of gender-based violence explicitly includes domestic violence, and it also references the national law on elimination of domestic violence."
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "The policy explicitly includes sexual violence within its definition of violence and also notes that violence against children includes sexual violence."
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "Physical violence is explicitly listed as a form of violence covered by the regulation."
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.",
+      "rationale": "Psychological violence is explicitly included in the definition of violence and in the definitions of gender-based violence and violence against children."
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Violence against Children is any form of restriction, differentiation, exclusion, and all forms of treatment carried out against children that results in and is not limited to physical, sexual, psychological violence, economic exploitation, including neglect and maltreatment that degrades the dignity of the Child.",
+      "rationale": "The policy explicitly mentions economic exploitation and neglect (a form of economic/domestic neglect) within violence against children, and also includes “economically” in the definition of gender-based violence."
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention harmful practices such as early/child marriage, female genital mutilation, honour crimes, or female infanticide."
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of femicide/feminicide or gender-related killing of women/girls."
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not reference trafficking in persons, trafficking crimes, or related prevention/response measures."
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence and economic exploitation are mentioned, the policy does not explicitly address sexual exploitation in the sense of sexual slavery, forced prostitution, or exploitation networks."
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention online/digital abuse, cyber harassment, non-consensual image sharing, or any other technology-facilitated forms of violence."
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Coordination and cooperation as referred to in Article 10 letter d, includes:\na. conducting coordination and cooperation between regions in handling cases of Gender-Based Violence and Children;",
+      "rationale": "The policy explicitly mandates coordination and cooperation “between regions,” indicating an inter-jurisdictional institutional network across government areas."
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) In the Implementation of Protection for Victims of Gender-Based Violence and Children, the Regional Government has the obligation and responsibility to:\n...\nh. cooperate with service provider institutions in efforts to prevent, protect and Recovery of Victims of Violence.\n\nArticle 17\n(2) The non-structural institution as referred to in paragraph (1) shall consist of elements of the Regional Government, elements of vertical agencies in the field of law enforcement, elements of the community, and elements of related stakeholders.",
+      "rationale": "The regulation requires cooperation with “service provider institutions” and creates a multi-stakeholder non-structural institution including “elements of the community” and “related stakeholders,” which implicitly covers NGO/non-government service providers as part of collaboration mechanisms."
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 16\nMonitoring and reporting as referred to in Article 10 letter f includes monitoring, documentation, and reporting on the handling and resolution of cases of Gender-Based Violence and Child Violence.",
+      "rationale": "While it does not establish a standalone database, it explicitly requires documentation and reporting of cases, which constitutes a data/information collection component for VAW and child protection case handling."
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references gender equality/justice principles but does not mention gender mainstreaming as an institutionalized approach, nor does it establish a specific gender mainstreaming working group/mechanism to deliver VAW policies and programs."
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) In the Implementation of Protection for Victims of Gender-Based Violence and Children, the Regional Government has the obligation and responsibility to:\n...\nf. enhance the capacity of service provider institutions;\n\nArticle 13\nPost-crisis handling as referred to in Article 10 letter c includes:\n...\nf. providing skills training services and increasing economic access.",
+      "rationale": "The policy explicitly includes capacity enhancement for service provider institutions (which implies training/capacity building for personnel) and also mentions “skills training services” (though oriented to victims). The capacity-enhancement clause directly addresses training/capacity building for service delivery institutions."
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 8\n(2) To carry out the obligations and responsibilities as referred to in paragraph (1), the Regional Government has the authority to:\n...\nc. conduct monitoring and evaluation.\n\nArticle 23\nGuidance and control of the Implementation of Protection for Victims of Gender-Based Violence and Children includes:\n...\nd. implementation of monitoring and evaluation.",
+      "rationale": "Monitoring and evaluation are explicitly mandated both as a government authority and as part of guidance/control functions, covering oversight of implementation and services."
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 3 The implementation of Gender and Child-Based Protection aims to: ... d. provide integrated services to victims;",
+      "rationale": "The regulation explicitly states that protection implementation includes providing integrated services to victims, indicating the existence/mandate of an integrated service unit/system for handling VAW cases."
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While police are mentioned as parties involved in protection and coordination (e.g., Article 1(5) and the elucidation of Article 2 letter i), the text does not establish or describe a specialised police unit/service desk within police offices for VAW victims."
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 12 Case handling ... includes: a. providing Complaint services for cases of Gender-Based Violence and Violence Against Children;",
+      "rationale": "The policy mandates complaint services to receive reports/complaints of violence (even though it does not specifically mention a hotline)."
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 12 ... includes: b. providing temporary Protection in safe houses (shelters);",
+      "rationale": "The regulation explicitly provides for temporary protection through safe houses/shelters."
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 12 ... includes: d. conducting legal Assistance in the handling and resolution of cases of Gender-Based Violence and Violence Against Children, both inside and outside the court;",
+      "rationale": "The policy explicitly includes legal assistance for handling and resolving cases, including in-court and out-of-court processes."
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 13 Post-crisis handling ... includes: a. providing physical recovery at health service institutions;",
+      "rationale": "The regulation provides for health/medical services via physical recovery at health service institutions (and also mentions medicolegal services in Article 12(c))."
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 13 Post-crisis handling ... includes: c. providing psychosocial recovery and assistance;",
+      "rationale": "The policy explicitly includes psychosocial recovery/assistance, which covers psychosocial counselling-type services."
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 13 Post-crisis handling as referred to in Article 10 letter c includes: ... d. providing spiritual guidance services;",
+      "rationale": "The regulation explicitly mandates spiritual guidance services, corresponding to religious/spiritual counselling."
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 13 Post-crisis handling ... includes: e. preparing families and communities in the social reintegration process;",
+      "rationale": "The policy explicitly addresses social reintegration (resocialisation) through preparation of families/communities for reintegration."
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 13 Post-crisis handling ... includes: f. providing skills training services and increasing economic access.",
+      "rationale": "The regulation explicitly provides economic empowerment/support through skills training and increasing economic access."
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 11\nPrevention as referred to in Article 10 letter a, includes:\n... \nc. conducting communication, information, and education regarding Gender-Based and Child Violence as well as prevention and handling efforts;",
+      "rationale": "The policy explicitly includes communication, information, and education (CIE) on gender-based violence and violence against children as part of prevention, which constitutes primary prevention through information/education about VAW/GBV."
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation states principles of \"justice and Gender equality\" and defines gender equality in the elucidation, it does not specify primary-prevention activities that provide information/education specifically about gender equality and/or women’s rights (e.g., awareness campaigns, curricula, community education on equality/rights). The explicit education provisions focus on violence and related prevention/handling, not gender equality/women’s rights education."
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 11\nPrevention as referred to in Article 10 letter a, includes:\n... \nd. conducting socialization of Laws and Regulations related to Gender-Based and Child Violence.",
+      "rationale": "The policy explicitly mandates socialization (public dissemination/awareness-raising) of laws and regulations related to gender-based and child violence, which is primary prevention via information/education about VAW laws and policies."
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes CIE activities and legal socialization, but it does not address prevention through formal education systems (e.g., school-based programs, curriculum integration, teacher training) or measures to improve the quality of education as a prevention strategy."
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "\"cooperate with service provider institutions in efforts to prevent, protect and Recovery of Victims of Violence.\"",
+      "rationale": "The regulation mandates cooperation with service provider institutions, and the definition of protection explicitly includes \"social institutions,\" which commonly covers NGOs/civil society organizations involved in service provision."
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "\"integration\" is that in the Implementation of Protection for Victims of Gender-Based and Child Violence it is carried out by building coordination between service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, and police.",
+      "rationale": "The elucidation explicitly includes coordination with \"religious counselors\" as part of integrated service providers, indicating engagement with religious actors in service delivery/support."
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "\"fostering local wisdom in handling Victims of Gender-Based and Child Violence;\"",
+      "rationale": "The policy includes fostering local wisdom in handling victims, which implicitly involves engagement with traditional/cultural practices and likely traditional/community cultural leaders or structures."
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "\"Human resources as referred to in Article 18 letter a may originate from civil servants, academics, practitioners, and professionals.\"",
+      "rationale": "By explicitly allowing human resources to come from \"academics,\" the policy implicitly engages education institutions (including universities) as potential contributors to service provision capacity."
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention international organizations, international partners, or external international support mechanisms for service delivery; funding sources listed are domestic budgets and unspecified \"other legitimate and non-binding\" sources without identifying international actors."
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions communication, information, education, and dissemination/socialization, it does not explicitly reference collaboration with media organizations or media actors."
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "\"encourage and increase community participation;\"",
+      "rationale": "Multiple provisions assign roles to the community and require increasing community participation, indicating explicit engagement/collaboration with community/society in prevention and response."
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of private sector/business engagement, employer roles, corporate partnerships, or workplace-based collaboration for services or prevention."
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation concerns protection for victims of gender-based violence and children, with prevention, case handling, shelters, and recovery services, but it does not mention conflict zones, disasters, or disaster-prone areas, nor any special measures for women in those contexts."
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of human trafficking/trafficking in persons, nor specific protections tailored to women trafficking victims. The text addresses gender-based violence generally."
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy does not mention women workers/employees or workplace-related protections; it focuses on victims of gender-based violence and children in general."
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No provisions specifically reference elderly women or age-specific protections for older women."
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "\"What is meant by \\\"non-discrimination\\\" is protection for all victims of Gender-Based and Child Violence without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status, and physical and mental condition.\"",
+      "rationale": "In the elucidation of the non-discrimination principle, the regulation explicitly includes 'physical and mental condition' as a protected ground, which implicitly covers persons with disabilities (physical/mental)."
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The regulation does not mention women-headed households/families or provide targeted measures for them."
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "\"What is meant by \\\"non-discrimination\\\" is protection for all victims of Gender-Based and Child Violence without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status, and physical and mental condition.\"",
+      "rationale": "The non-discrimination clause explicitly covers ethnicity, religion, race, culture, and language, which implicitly includes minority groups; however, it is not specific to women from minority groups, but it does apply to all victims including women."
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "Yes",
+      "evidence": "\"Every Victim of Gender-Based Violence and Child has the right to: ... d. obtain information regarding case developments and court decisions;\"",
+      "rationale": "The regulation includes protections/rights connected to legal proceedings (information on case developments and court decisions, legal assistance). It addresses victims as participants in legal processes (e.g., witnesses/victims), though it does not address women perpetrators specifically."
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of Indigenous peoples/masyarakat adat or special measures targeted to them."
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text does not mention refugees, asylum seekers, internally displaced persons, or forced displacement-specific protections."
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No specific mention of domestic workers or tailored protections for them; the regulation is framed around victims of gender-based violence and children generally."
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation provides for temporary shelter/safe houses for victims, it does not address homelessness as a category or provide special measures targeted at homeless women."
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of former inmates/correctional institution releasees or any targeted protections for formerly incarcerated women."
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Article 21\nFinancing as referred to in Article 18 letter c is sourced from:\n... \nc. Regional Revenue and Expenditure Budget of Salatiga City;",
+      "rationale": "The policy explicitly lists the Regional Revenue and Expenditure Budget of Salatiga City (a city/local government budget) as a financing source."
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Article 21\nFinancing as referred to in Article 18 letter c is sourced from:\n\na. State Revenue and Expenditure Budget;",
+      "rationale": "The policy explicitly cites the State Revenue and Expenditure Budget (national budget) as a funding source."
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing provisions list state, provincial, city budgets, and other legitimate non-binding sources, but do not explicitly mention international donors, UN agencies, foreign governments, or other international support."
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Article 21\nFinancing as referred to in Article 18 letter c is sourced from:\n... \nd. other legitimate and non-binding funding sources in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The policy explicitly includes 'other legitimate and non-binding funding sources' as an allowable financing source, which corresponds to other legal sources."
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "Article 21\nFinancing as referred to in Article 18 letter c is sourced from:\n... \nb. Regional Revenue and Expenditure Budget of Central Java Province;",
+      "rationale": "The policy explicitly identifies the Central Java Province Regional Revenue and Expenditure Budget as a financing source, which is a provincial government budget."
+    }
+  },
+  "indicator_count": 56
+}

@@ -18,6 +18,42 @@ logger = logging.getLogger(__name__)
 RETRY_BASE_DELAY = 2.0
 T = TypeVar("T")
 
+
+class LLMCallError(Exception):
+    """Raised when all API retry attempts are exhausted."""
+
+    def __init__(self, message: str, *, error_type: str, details: dict[str, Any], attempts: int):
+        super().__init__(message)
+        self.error_type = error_type
+        self.details = details
+        self.attempts = attempts
+
+
+def format_api_error(exc: Exception) -> tuple[str, dict[str, Any]]:
+    error_type = type(exc).__name__
+    details: dict[str, Any] = {}
+
+    status_code = getattr(exc, "status_code", None)
+    if status_code is not None:
+        details["status_code"] = status_code
+
+    message = getattr(exc, "message", None) or str(exc)
+    details["message"] = message
+
+    response = getattr(exc, "response", None)
+    if response is not None:
+        headers = getattr(response, "headers", None)
+        if headers is not None:
+            request_id = headers.get("x-request-id") or headers.get("x-ms-request-id")
+            if request_id:
+                details["request_id"] = request_id
+
+    body = getattr(exc, "body", None)
+    if body is not None:
+        details["body"] = body
+
+    return error_type, details
+
 PREAMBLE_PATTERNS = [
     re.compile(r"^here(?:'s| is) the translation[:\s]*", re.IGNORECASE),
     re.compile(r"^translation[:\s]*", re.IGNORECASE),
@@ -114,6 +150,8 @@ class AzureLLMWrapper:
 
     def _call_with_retry(self, fn: Callable[[], T]) -> T:
         last_error: Exception | None = None
+        last_error_type = "Exception"
+        last_details: dict[str, Any] = {}
         for attempt in range(self.profile.max_retries):
             try:
                 if self.limiter is not None:
@@ -122,18 +160,46 @@ class AzureLLMWrapper:
                 return fn()
             except (RateLimitError, APIConnectionError, APIStatusError, Exception) as exc:
                 last_error = exc
+                last_error_type, last_details = format_api_error(exc)
                 if attempt == self.profile.max_retries - 1:
-                    raise
+                    message = last_details.get("message", str(exc))
+                    status_code = last_details.get("status_code", "n/a")
+                    request_id = last_details.get("request_id", "n/a")
+                    logger.error(
+                        "API error (attempt %d/%d) [%s]: %s | status=%s request_id=%s",
+                        attempt + 1,
+                        self.profile.max_retries,
+                        last_error_type,
+                        message,
+                        status_code,
+                        request_id,
+                    )
+                    raise LLMCallError(
+                        message,
+                        error_type=last_error_type,
+                        details=last_details,
+                        attempts=attempt + 1,
+                    ) from exc
                 delay = RETRY_BASE_DELAY ** (attempt + 1)
+                status_code = last_details.get("status_code", "n/a")
+                request_id = last_details.get("request_id", "n/a")
                 logger.warning(
-                    "API error on attempt %d/%d: %s. Retrying in %.1fs.",
+                    "API error (attempt %d/%d) [%s]: %s | status=%s request_id=%s — retrying in %.1fs",
                     attempt + 1,
                     self.profile.max_retries,
-                    exc,
+                    last_error_type,
+                    last_details.get("message", str(exc)),
+                    status_code,
+                    request_id,
                     delay,
                 )
                 time.sleep(delay)
-        raise last_error  # pragma: no cover
+        raise LLMCallError(
+            str(last_error),
+            error_type=last_error_type,
+            details=last_details,
+            attempts=self.profile.max_retries,
+        ) from last_error  # pragma: no cover
 
     def complete_text(self, prompt: str) -> tuple[str, dict[str, int]]:
         def _call() -> tuple[str, dict[str, int]]:

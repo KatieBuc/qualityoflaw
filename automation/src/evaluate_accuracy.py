@@ -274,6 +274,23 @@ def calculate_metrics(
             f"(golden_only={golden_only}, llm_only={llm_only})"
         )
 
+    missing_golden_value = merged_df[merged_df["value"].isna()]
+    missing_golden_value_count = int(len(missing_golden_value))
+    if missing_golden_value_count:
+        pairs = ", ".join(
+            f"{row.filename}/{row.indicator_id}"
+            for row in missing_golden_value.itertuples()
+        )
+        print(
+            f"Warning: excluding {missing_golden_value_count} matched pair(s) with missing "
+            f"golden value (NaN) in {csv_path}: {pairs}"
+        )
+        merged_df = merged_df[merged_df["value"].notna()].copy()
+
+    if merged_df.empty:
+        print("Error: No matching data after excluding missing golden values.")
+        return None, None, None
+
     y_true = merged_df["value"]
     y_pred = merged_df["pred_value"]
 
@@ -312,6 +329,7 @@ def calculate_metrics(
             "evaluated_policy_files": evaluated_policies,
             "value_mismatch_count": int(len(errors)),
             "unmatched_pair_count": int(len(unmatched_df)),
+            "missing_golden_value_count": missing_golden_value_count,
         },
         "confusion_matrix": {
             "true_negative": int(tn),

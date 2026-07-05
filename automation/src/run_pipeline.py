@@ -12,8 +12,10 @@ from automation.src.compare import run_comparison_step
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import ConcurrencyConfig, get_run_dir, load_pipeline_config
 from automation.src.constants import ALL_STEPS, DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG
+from automation.src.failure_log import summarize_failures
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.metadata import (
+    ensure_run_exists,
     generate_run_id,
     init_run_metadata,
     update_metadata,
@@ -50,6 +52,10 @@ def build_config_summary(config) -> dict:
         "concurrency": {
             "enabled": config.concurrency.enabled,
             "max_workers": config.concurrency.max_workers,
+        },
+        "chunking": {
+            "enabled": config.chunking.enabled,
+            "safe_limit": config.chunking.safe_limit,
         },
     }
 
@@ -100,9 +106,22 @@ def main() -> None:
     )
     parser.add_argument("--force", action="store_true", help="Re-translate existing outputs.")
     parser.add_argument(
+        "--run-missing",
+        action="store_true",
+        help="Resume an existing run; each step skips items that already have output (requires --run-id).",
+    )
+    parser.add_argument(
         "--allow-partial",
         action="store_true",
         help="Save incomplete LLM evaluation reports.",
+    )
+    parser.add_argument(
+        "--keep-chunk-result",
+        action="store_true",
+        help=(
+            "When translation.chunking is enabled, also save the clean and chunk "
+            "results for each policy under data/automation/<run_id>/chunks/."
+        ),
     )
     parser.add_argument(
         "--pipeline-config",
@@ -128,11 +147,21 @@ def main() -> None:
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(message)s")
+    logging.getLogger("openai").setLevel(logging.WARNING)
+    logging.getLogger("httpx").setLevel(logging.WARNING)
 
     try:
         steps = parse_steps(args.steps)
     except ValueError as exc:
         print(f"Error: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+    if args.run_missing and not args.run_id:
+        print("Error: --run-missing requires --run-id.", file=sys.stderr)
+        sys.exit(1)
+
+    if args.run_missing and args.force:
+        print("Error: --run-missing and --force are mutually exclusive.", file=sys.stderr)
         sys.exit(1)
 
     if requires_run_id(steps, args.run_id):
@@ -163,7 +192,11 @@ def main() -> None:
 
     try:
         run_dir = get_run_dir(run_id)
-        if not args.run_id:
+        if args.run_missing:
+            ensure_run_exists(run_id)
+            validate_run_for_steps(run_id, steps)
+            print(f"Using existing run (run-missing): {run_id}")
+        elif not args.run_id:
             init_run_metadata(
                 run_id=run_id,
                 experiment_name=config.experiment_name,
@@ -194,6 +227,12 @@ def main() -> None:
 
         if "translation" in steps:
             print("\nStep: translation")
+            if args.keep_chunk_result and not config.chunking.enabled:
+                print(
+                    "Note: --keep-chunk-result has no effect because translation.chunking "
+                    "is not enabled in the pipeline config.",
+                    file=sys.stderr,
+                )
             wrapper = AzureLLMWrapper.from_profile(config.translation_model, limiter=limiter)
             result = run_translation_step(
                 run_id=run_id,
@@ -202,6 +241,8 @@ def main() -> None:
                 limiter=limiter,
                 small_scale=args.small_scale,
                 force=args.force,
+                run_missing=args.run_missing,
+                keep_chunk_result=args.keep_chunk_result,
             )
             update_metadata(
                 run_id,
@@ -209,12 +250,21 @@ def main() -> None:
                 file_counts={"translation": result["counts"]},
                 timing={"translation_s": result["elapsed_s"]},
                 token_usage={"translation": result["token_usage"]},
+                failures=summarize_failures(run_id),
             )
             print(
                 f"Translation: {result['counts']['succeeded']} succeeded, "
                 f"{result['counts']['skipped']} skipped, "
                 f"{result['counts']['failed']} failed"
             )
+            if result.get("failed_files"):
+                for entry in result["failed_files"]:
+                    status = entry.get("details", {}).get("status_code", "n/a")
+                    print(
+                        f"  {entry['filename']}: [{entry['error_type']}] {entry['message']} "
+                        f"(status={status})",
+                        file=sys.stderr,
+                    )
             if result["counts"]["failed"] > 0:
                 exit_code = 1
 
@@ -228,6 +278,7 @@ def main() -> None:
                 limiter=limiter,
                 small_scale=args.small_scale,
                 allow_partial=args.allow_partial,
+                run_missing=args.run_missing,
             )
             update_metadata(
                 run_id,
@@ -235,10 +286,13 @@ def main() -> None:
                 file_counts={"evaluation": result["counts"]},
                 timing={"evaluation_s": result["elapsed_s"]},
                 token_usage={"evaluation": result["token_usage"]},
+                failures=summarize_failures(run_id),
             )
+            skipped = result["counts"].get("skipped", 0)
+            skipped_str = f", {skipped} skipped" if skipped else ""
             print(
                 f"Evaluation: {result['counts']['succeeded']} succeeded, "
-                f"{result['counts']['failed']} failed"
+                f"{result['counts']['failed']} failed{skipped_str}"
             )
             if result["failed_policies"]:
                 print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
@@ -260,9 +314,17 @@ def main() -> None:
 
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
-        update_metadata(run_id, status=status, timing={"total_s": total_elapsed})
+        failure_summary = summarize_failures(run_id)
+        update_metadata(run_id, status=status, timing={"total_s": total_elapsed}, failures=failure_summary)
 
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
+        if failure_summary["translation"] or failure_summary["evaluation"]:
+            failures_path = get_run_dir(run_id) / "failures.json"
+            print(
+                f"Failures logged: {failure_summary['translation']} translation, "
+                f"{failure_summary['evaluation']} evaluation → {failures_path}",
+                file=sys.stderr,
+            )
 
     except (FileNotFoundError, ValueError, RuntimeError) as exc:
         print(f"Error: {exc}", file=sys.stderr)

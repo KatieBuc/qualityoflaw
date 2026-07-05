@@ -4,8 +4,10 @@ from pathlib import Path
 
 import yaml
 
+from automation.src.chunking import SAFE_LIMIT_DEFAULT
 from automation.src.constants import (
     AUTOMATION_ROOT,
+    CHUNKING_FALLBACK_PROMPT,
     DEFAULT_DATA_ROOT,
     DEFAULT_MODEL_CONFIG,
     DEFAULT_PIPELINE_CONFIG,
@@ -29,6 +31,13 @@ class ConcurrencyConfig:
 
 
 @dataclass
+class ChunkingConfig:
+    enabled: bool
+    safe_limit: int
+    fallback_prompt_path: Path
+
+
+@dataclass
 class ResolvedPipelineConfig:
     experiment_name: str
     translation_model: ModelProfile
@@ -38,6 +47,7 @@ class ResolvedPipelineConfig:
     evaluation_template_path: Path
     paths: PipelinePaths
     concurrency: ConcurrencyConfig
+    chunking: ChunkingConfig
     pipeline_config_path: Path
     model_config_path: Path
 
@@ -95,6 +105,30 @@ def parse_concurrency_config(raw: dict | None) -> ConcurrencyConfig:
     return ConcurrencyConfig(
         enabled=bool(raw.get("enabled", True)),
         max_workers=max_workers,
+    )
+
+
+def parse_chunking_config(raw: dict | None) -> ChunkingConfig:
+    if not raw:
+        return ChunkingConfig(
+            enabled=False,
+            safe_limit=SAFE_LIMIT_DEFAULT,
+            fallback_prompt_path=CHUNKING_FALLBACK_PROMPT,
+        )
+
+    enabled = bool(raw.get("enabled", False))
+    safe_limit = int(raw.get("safe_limit", SAFE_LIMIT_DEFAULT))
+    if safe_limit < 1:
+        raise ValueError("translation.chunking.safe_limit must be >= 1")
+
+    fallback_prompt_path = CHUNKING_FALLBACK_PROMPT
+    if enabled and not fallback_prompt_path.exists():
+        raise FileNotFoundError(f"Chunking fallback prompt not found: {fallback_prompt_path}")
+
+    return ChunkingConfig(
+        enabled=enabled,
+        safe_limit=safe_limit,
+        fallback_prompt_path=fallback_prompt_path,
     )
 
 
@@ -160,6 +194,7 @@ def load_pipeline_config(
             ),
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
+        chunking=parse_chunking_config(translation_cfg.get("chunking")),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
     )

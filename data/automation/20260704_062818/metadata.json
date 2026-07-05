@@ -1,0 +1,69 @@
+{
+  "run_id": "20260704_062818",
+  "experiment_name": "first-full-run",
+  "created_at": "2026-07-04T06:28:18.354534+00:00",
+  "updated_at": "2026-07-04T14:00:25.951478+00:00",
+  "status": "completed",
+  "steps_executed": [
+    "translation",
+    "evaluation",
+    "comparison"
+  ],
+  "small_scale": false,
+  "file_counts": {
+    "translation": {
+      "total": 190,
+      "succeeded": 1,
+      "skipped": 189,
+      "failed": 0
+    },
+    "evaluation": {
+      "total": 190,
+      "succeeded": 1,
+      "failed": 0,
+      "skipped": 189,
+      "saved_reports": 1
+    },
+    "comparison": {
+      "matched_pairs": 10638,
+      "evaluated_policies": 190,
+      "accuracy": 0.8988531678887008
+    }
+  },
+  "timing": {
+    "translation_s": 257.79,
+    "evaluation_s": 13.13,
+    "comparison_s": 0.27,
+    "total_s": 0.29
+  },
+  "token_usage": {
+    "translation": {
+      "prompt_tokens": 15458,
+      "completion_tokens": 7397,
+      "total_tokens": 22855
+    },
+    "evaluation": {
+      "prompt_tokens": 50772,
+      "completion_tokens": 4309,
+      "total_tokens": 55081
+    }
+  },
+  "config": {
+    "translation_model": "claude-sonnet-4-5",
+    "evaluation_model": "gpt-5.2",
+    "translation_prompt_version": "v2",
+    "evaluation_prompt_version": "v1",
+    "concurrency": {
+      "enabled": true,
+      "max_workers": 5
+    },
+    "chunking": {
+      "enabled": true,
+      "safe_limit": 32000
+    }
+  },
+  "failures": {
+    "translation": 0,
+    "evaluation": 0
+  }
+}

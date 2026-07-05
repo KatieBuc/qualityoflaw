@@ -1,3 +1,4 @@
+import json
 import logging
 import time
 from dataclasses import dataclass
@@ -16,7 +17,8 @@ from quality_eval.v1.prompts.prompt_loader import generate_judge_prompt
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir
 from automation.src.constants import SMALL_SCALE_FILES
-from automation.src.llm.wrapper import AzureLLMWrapper
+from automation.src.failure_log import clear_failure, record_failure
+from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 
 logger = logging.getLogger(__name__)
 
@@ -26,6 +28,8 @@ class DimensionResult:
     criteria_file: str
     batch_evals: dict
     error: str | None = None
+    error_type: str | None = None
+    error_details: dict | None = None
 
 
 def _filter_policy_files(policy_dir: Path, small_scale: bool) -> list[Path]:
@@ -34,6 +38,65 @@ def _filter_policy_files(policy_dir: Path, small_scale: bool) -> list[Path]:
         allowed = set(SMALL_SCALE_FILES)
         files = [f for f in files if f.name in allowed]
     return files
+
+
+def _has_eval_report(output_dir: Path, policy_name: str) -> bool:
+    if not output_dir.is_dir():
+        return False
+    for json_path in output_dir.glob("*.json"):
+        try:
+            data = json.loads(json_path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            continue
+        if data.get("policy_file") == policy_name:
+            return True
+        basename = policy_name.replace(".txt", ".json")
+        if json_path.name.endswith(f"-{basename}"):
+            return True
+    return False
+
+
+def _failure_entry_from_exc(
+    policy_file: str,
+    exc: Exception,
+    *,
+    failed_dimensions: list[str] | None = None,
+    errors: list[str] | None = None,
+) -> dict:
+    if isinstance(exc, LLMCallError):
+        return {
+            "policy_file": policy_file,
+            "failed_dimensions": failed_dimensions or [],
+            "errors": errors or [str(exc)],
+            "error_type": exc.error_type,
+            "message": str(exc),
+            "details": exc.details,
+            "attempts": exc.attempts,
+        }
+    error_type, details = format_api_error(exc)
+    return {
+        "policy_file": policy_file,
+        "failed_dimensions": failed_dimensions or [],
+        "errors": errors or [str(exc)],
+        "error_type": error_type,
+        "message": str(exc),
+        "details": details,
+        "attempts": 1,
+    }
+
+
+def _failure_entry_from_report(final_report: dict) -> dict:
+    errors = final_report.get("errors", [])
+    message = errors[0] if errors else "evaluation incomplete"
+    return {
+        "policy_file": final_report["policy_file"],
+        "failed_dimensions": final_report.get("failed_dimensions", []),
+        "errors": errors,
+        "error_type": "EvaluationError",
+        "message": message,
+        "details": {},
+        "attempts": 1,
+    }
 
 
 def _evaluate_dimension(
@@ -54,11 +117,21 @@ def _evaluate_dimension(
         logger.info("[%s] %s completed", policy_path.name, criteria_file)
         return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
     except Exception as exc:
-        logger.error("[%s] %s failed: %s", policy_path.name, criteria_file, exc)
+        error_type, details = format_api_error(exc)
+        logger.error(
+            "[%s] %s failed [%s]: %s | status=%s",
+            policy_path.name,
+            criteria_file,
+            error_type,
+            str(exc),
+            details.get("status_code", "n/a"),
+        )
         return DimensionResult(
             criteria_file=criteria_file,
             batch_evals={},
             error=f"{criteria_file}: {exc}",
+            error_type=error_type,
+            error_details=details,
         )
 
 
@@ -81,7 +154,9 @@ def _merge_dimension_results(
 
     for result in dimension_results:
         if isinstance(result, BaseException):
-            final_report["errors"].append(str(result))
+            error_type, details = format_api_error(result)
+            final_report["errors"].append(f"{error_type}: {result}")
+            final_report["failed_dimensions"].append("unknown")
             continue
 
         if result.error:
@@ -153,6 +228,7 @@ def run_evaluation_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     allow_partial: bool = False,
+    run_missing: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
     policy_dir = run_dir / "translation"
@@ -163,6 +239,18 @@ def run_evaluation_step(
     if not policy_files:
         raise FileNotFoundError(f"No policy files to evaluate in {policy_dir}")
 
+    total_candidates = len(policy_files)
+    skipped = 0
+    if run_missing:
+        pending_files: list[Path] = []
+        for policy_path in policy_files:
+            if _has_eval_report(output_dir, policy_path.name):
+                skipped += 1
+                logger.info("[%s] skipped (eval report exists)", policy_path.name)
+            else:
+                pending_files.append(policy_path)
+        policy_files = pending_files
+
     def complete_fn(prompt: str) -> dict:
         return wrapper.complete_structured(prompt, PolicyEvaluationResponse)
 
@@ -171,6 +259,22 @@ def run_evaluation_step(
     start = time.time()
     saved_paths: list[str] = []
     failed_policies: list[str] = []
+
+    if not policy_files:
+        elapsed = round(time.time() - start, 2)
+        return {
+            "counts": {
+                "total": total_candidates,
+                "succeeded": 0,
+                "failed": 0,
+                "skipped": skipped,
+                "saved_reports": 0,
+            },
+            "failed_policies": failed_policies,
+            "elapsed_s": elapsed,
+            "token_usage": dict(wrapper.token_usage),
+            "output_dir": str(output_dir),
+        }
 
     if use_serial:
         for index, policy_path in enumerate(policy_files, 1):
@@ -196,6 +300,9 @@ def run_evaluation_step(
                 saved_paths.append(output_path)
             if policy_failed:
                 failed_policies.append(policy_path.name)
+                record_failure(run_id, "evaluation", _failure_entry_from_report(final_report))
+            elif success:
+                clear_failure(run_id, "evaluation", policy_path.name)
     else:
         tasks = [
             lambda p=p: _evaluate_policy_parallel(
@@ -212,7 +319,14 @@ def run_evaluation_step(
 
         for policy_path, result in zip(policy_files, policy_results, strict=True):
             if isinstance(result, BaseException):
-                logger.error("[%s] evaluation failed: %s", policy_path.name, result)
+                entry = _failure_entry_from_exc(policy_path.name, result)
+                record_failure(run_id, "evaluation", entry)
+                logger.error(
+                    "[%s] evaluation failed [%s]: %s",
+                    policy_path.name,
+                    entry["error_type"],
+                    entry["message"],
+                )
                 failed_policies.append(policy_path.name)
                 continue
 
@@ -227,16 +341,20 @@ def run_evaluation_step(
                 saved_paths.append(output_path)
             if policy_failed:
                 failed_policies.append(policy_path.name)
+                record_failure(run_id, "evaluation", _failure_entry_from_report(result))
+            elif success:
+                clear_failure(run_id, "evaluation", policy_path.name)
 
     elapsed = round(time.time() - start, 2)
-    total = len(policy_files)
-    succeeded = total - len(failed_policies)
+    total = total_candidates
+    succeeded = len(policy_files) - len(failed_policies)
 
     return {
         "counts": {
             "total": total,
             "succeeded": succeeded,
             "failed": len(failed_policies),
+            "skipped": skipped,
             "saved_reports": len(saved_paths),
         },
         "failed_policies": failed_policies,

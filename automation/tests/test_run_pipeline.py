@@ -5,13 +5,19 @@ from unittest.mock import MagicMock, patch
 import pytest
 import yaml
 
-from automation.src.config_loader import ConcurrencyConfig, PipelinePaths, ResolvedPipelineConfig
-from automation.src.constants import ALL_STEPS, AUTOMATION_ROOT, PROJECT_ROOT
+from automation.src.config_loader import (
+    ChunkingConfig,
+    ConcurrencyConfig,
+    PipelinePaths,
+    ResolvedPipelineConfig,
+)
+from automation.src.constants import ALL_STEPS, AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.run_pipeline import main, parse_steps, requires_run_id
 
 TRANSLATION_RESULT = {
     "counts": {"total": 5, "succeeded": 5, "skipped": 0, "failed": 0},
+    "failed_files": [],
     "elapsed_s": 1.0,
     "token_usage": {"prompt_tokens": 10, "completion_tokens": 20, "total_tokens": 30},
     "output_dir": "",
@@ -98,6 +104,9 @@ def mock_config():
             index_schema=PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml",
         ),
         concurrency=ConcurrencyConfig(enabled=True, max_workers=5),
+        chunking=ChunkingConfig(
+            enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
+        ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )
@@ -288,6 +297,64 @@ def test_main_translation_only_passes_force_flag(
 
 @patch("automation.src.run_pipeline.update_metadata")
 @patch("automation.src.run_pipeline.init_run_metadata")
+@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureLLMWrapper")
+@patch("automation.src.run_pipeline.load_pipeline_config")
+def test_main_translation_only_passes_keep_chunk_result_flag(
+    mock_load_config,
+    mock_wrapper,
+    mock_translate,
+    mock_init_metadata,
+    mock_update_metadata,
+    mock_config,
+    data_root,
+):
+    mock_config.chunking.enabled = True
+    mock_load_config.return_value = mock_config
+
+    with patch.object(
+        sys,
+        "argv",
+        ["run_pipeline", "--steps", "translation", "--run-id", "chunk_run", "--keep-chunk-result"],
+    ):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 0
+    mock_translate.assert_called_once()
+    assert mock_translate.call_args.kwargs["keep_chunk_result"] is True
+
+
+@patch("automation.src.run_pipeline.update_metadata")
+@patch("automation.src.run_pipeline.init_run_metadata")
+@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureLLMWrapper")
+@patch("automation.src.run_pipeline.load_pipeline_config")
+def test_main_keep_chunk_result_defaults_false(
+    mock_load_config,
+    mock_wrapper,
+    mock_translate,
+    mock_init_metadata,
+    mock_update_metadata,
+    mock_config,
+    data_root,
+):
+    mock_load_config.return_value = mock_config
+
+    with patch.object(
+        sys,
+        "argv",
+        ["run_pipeline", "--steps", "translation", "--run-id", "no_chunk_run"],
+    ):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 0
+    assert mock_translate.call_args.kwargs["keep_chunk_result"] is False
+
+
+@patch("automation.src.run_pipeline.update_metadata")
+@patch("automation.src.run_pipeline.init_run_metadata")
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
@@ -421,3 +488,23 @@ def test_main_custom_config_paths(
         pipeline_config_path=Path(pipeline_config_path),
         model_config_path=Path(model_config_path),
     )
+
+
+def test_main_run_missing_without_run_id_exits():
+    with patch.object(sys, "argv", ["run_pipeline", "--run-missing", "--steps", "translation"]):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 1
+
+
+def test_main_run_missing_with_force_exits():
+    with patch.object(
+        sys,
+        "argv",
+        ["run_pipeline", "--run-id", "20250101_120000", "--run-missing", "--force"],
+    ):
+        with pytest.raises(SystemExit) as exc:
+            main()
+
+    assert exc.value.code == 1
