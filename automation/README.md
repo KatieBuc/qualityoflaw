@@ -40,7 +40,7 @@ data/automation/<run_id>/
 ├── evaluation/                # LLM JSON reports (one per policy)
 ├── failures.json              # Persistent log of translation/evaluation failures (when present)
 └── comparison/                # Golden-dataset comparison outputs
-    ├── metrics.json
+    ├── metrics.csv
     ├── error_analysis.csv
     └── unmatched_indicators.csv   # Only when join pairs are missing on one side
 ```
@@ -51,14 +51,53 @@ data/automation/<run_id>/
 |-------|-------------|
 | `run_id` | Unique run identifier |
 | `experiment_name` | From `pipeline_config.yaml` |
-| `created_at` / `updated_at` | UTC timestamps |
 | `status` | `running`, `completed`, `completed_with_errors`, or `failed` |
-| `steps_executed` | List of completed steps: `translation`, `evaluation`, `comparison` |
-| `small_scale` | Whether only the 5 benchmark policies were processed |
-| `file_counts` | Per-step success/failure counts |
-| `timing` | Elapsed seconds per step and total |
-| `token_usage` | Aggregated LLM token usage (translation and evaluation steps) |
+| `timestamps.created_at` / `timestamps.updated_at` | UTC timestamps |
 | `config` | Model and prompt versions used |
+| `execution_scope.steps_executed` | List of completed steps: `translation`, `evaluation`, `comparison` |
+| `execution_scope.small_scale` | Whether only the 5 benchmark policies were processed |
+| `execution_scope.evaluated_policy_files` | Policy filenames compared during the comparison step |
+| `file_counts` | Per-step (`translation`, `evaluation`) success/failure counts |
+| `failures` | Count of logged failures per step (see `failures.json`) |
+| `token_usage` | Aggregated LLM token usage (translation and evaluation steps) |
+| `timing_seconds` | Elapsed seconds per step (`translation`, `evaluation`, `comparison`) and `total` |
+
+Example:
+
+```json
+{
+  "run_id": "20260704_062818",
+  "experiment_name": "first-full-run",
+  "status": "completed",
+  "timestamps": {
+    "created_at": "2026-07-04T06:28:18.354534+00:00",
+    "updated_at": "2026-07-05T04:01:01.378106+00:00"
+  },
+  "config": {
+    "translation_model": "claude-sonnet-4-5",
+    "evaluation_model": "gpt-5.2",
+    "translation_prompt_version": "v2",
+    "evaluation_prompt_version": "v1",
+    "concurrency": { "enabled": true, "max_workers": 5 },
+    "chunking": { "enabled": true, "safe_limit": 32000 }
+  },
+  "execution_scope": {
+    "steps_executed": ["translation", "evaluation", "comparison"],
+    "small_scale": false,
+    "evaluated_policy_files": ["ACEH_BIREUEN.txt", "ACEH_SUBULUSSALAM_KOTA.txt"]
+  },
+  "file_counts": {
+    "translation": { "total": 190, "succeeded": 1, "skipped": 189, "failed": 0 },
+    "evaluation": { "total": 190, "succeeded": 1, "skipped": 189, "failed": 0, "saved_reports": 1 }
+  },
+  "failures": { "translation": 0, "evaluation": 0 },
+  "token_usage": {
+    "translation": { "prompt_tokens": 15458, "completion_tokens": 7397, "total_tokens": 22855 },
+    "evaluation": { "prompt_tokens": 50772, "completion_tokens": 4309, "total_tokens": 55081 }
+  },
+  "timing_seconds": { "translation": 257.79, "evaluation": 13.13, "comparison": 0.21, "total": 271.13 }
+}
+```
 
 ### `translation/`
 
@@ -98,22 +137,29 @@ Written when translation or evaluation failures occur. Each step maintains its o
 
 Comparison joins LLM results to [`data/processed/long_policy_encoding.csv`](../data/processed/long_policy_encoding.csv) on **`(filename, indicator_id)`**. Golden rows are filtered to evaluated policies only; when a `year` column exists, the latest year per policy is used.
 
-#### `metrics.json`
+#### `metrics.csv`
 
-Overall accuracy summary:
+One row per evaluation dimension, plus a leading `overall` row:
 
-| Section | Contents |
-|---------|----------|
-| `overall.accuracy` | Fraction of matched indicator pairs where LLM agrees with golden |
-| `overall.matched_pairs` | Number of `(filename, indicator_id)` pairs compared |
-| `overall.evaluated_policies` | Policies in this run with LLM reports |
-| `overall.golden_policies_total` | Total unique policies in the full golden CSV (e.g. 198) |
-| `overall.evaluated_policy_files` | List of policy filenames compared |
-| `overall.value_mismatch_count` | Rows where golden and LLM disagree |
-| `overall.unmatched_pair_count` | Pairs present on only one side (see below) |
-| `confusion_matrix` | TN / FP / FN / TP counts |
-| `by_dimension` | Per-dimension accuracy, matched count, correct count |
-| `error_summary` | Error counts by type, dimension, and indicator |
+| Column | Description |
+|--------|-------------|
+| `Dimension` | `overall`, or an evaluation dimension name (e.g. `budget_funding_sources`) |
+| `Accuracy` | Fraction of matched indicator pairs where LLM agrees with golden, to 6 decimal places |
+| `Matched_Pairs` | Number of `(filename, indicator_id)` pairs compared |
+| `Correct_Pairs` | Matched pairs where golden and LLM agree |
+| `Error_Count` | Matched pairs where golden and LLM disagree |
+| `Notes` | Only set on the `overall` row: confusion-matrix counts as `TP:.., TN:.., FP:.., FN:..` |
+
+Example:
+
+```csv
+Dimension,Accuracy,Matched_Pairs,Correct_Pairs,Error_Count,Notes
+overall,0.898853,10638,9562,1076,"TP:5575, TN:3987, FP:838, FN:238"
+budget_funding_sources,0.956842,950,909,41,
+institutional_mechanism,0.863916,1139,984,155,
+```
+
+Policy filenames evaluated in the run are recorded in `metadata.json` under `execution_scope.evaluated_policy_files` instead of in this file.
 
 #### `error_analysis.csv`
 

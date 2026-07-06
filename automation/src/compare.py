@@ -15,7 +15,7 @@ def run_comparison_step(
     comparison_dir.mkdir(parents=True, exist_ok=True)
 
     export_errors = str(comparison_dir / "error_analysis.csv")
-    export_metrics = str(comparison_dir / "metrics.json")
+    export_metrics = str(comparison_dir / "metrics.csv")
 
     start = time.time()
     result = run_accuracy_evaluation(
@@ -38,6 +38,7 @@ def run_comparison_step(
             "evaluated_policies": overall.get("evaluated_policies", 0),
             "accuracy": overall.get("accuracy"),
         },
+        "evaluated_policy_files": overall.get("evaluated_policy_files", []),
         "elapsed_s": elapsed,
         "metrics_path": result["metrics_path"],
         "errors_path": result.get("errors_path"),

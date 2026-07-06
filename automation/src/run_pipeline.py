@@ -246,9 +246,9 @@ def main() -> None:
             )
             update_metadata(
                 run_id,
-                steps_executed=["translation"],
+                execution_scope={"steps_executed": ["translation"]},
                 file_counts={"translation": result["counts"]},
-                timing={"translation_s": result["elapsed_s"]},
+                timing_seconds={"translation": result["elapsed_s"]},
                 token_usage={"translation": result["token_usage"]},
                 failures=summarize_failures(run_id),
             )
@@ -282,9 +282,9 @@ def main() -> None:
             )
             update_metadata(
                 run_id,
-                steps_executed=["evaluation"],
+                execution_scope={"steps_executed": ["evaluation"]},
                 file_counts={"evaluation": result["counts"]},
-                timing={"evaluation_s": result["elapsed_s"]},
+                timing_seconds={"evaluation": result["elapsed_s"]},
                 token_usage={"evaluation": result["token_usage"]},
                 failures=summarize_failures(run_id),
             )
@@ -304,9 +304,11 @@ def main() -> None:
             result = run_comparison_step(run_id=run_id, config=config)
             update_metadata(
                 run_id,
-                steps_executed=["comparison"],
-                file_counts={"comparison": result["counts"]},
-                timing={"comparison_s": result["elapsed_s"]},
+                execution_scope={
+                    "steps_executed": ["comparison"],
+                    "evaluated_policy_files": result["evaluated_policy_files"],
+                },
+                timing_seconds={"comparison": result["elapsed_s"]},
             )
             accuracy = result["counts"].get("accuracy")
             acc_str = f"{accuracy:.2%}" if accuracy is not None else "n/a"
@@ -315,7 +317,12 @@ def main() -> None:
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
         failure_summary = summarize_failures(run_id)
-        update_metadata(run_id, status=status, timing={"total_s": total_elapsed}, failures=failure_summary)
+        update_metadata(
+            run_id,
+            status=status,
+            timing_seconds={"total": total_elapsed},
+            failures=failure_summary,
+        )
 
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
         if failure_summary["translation"] or failure_summary["evaluation"]:

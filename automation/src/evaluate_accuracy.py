@@ -1,4 +1,5 @@
 import argparse
+import csv
 import json
 import os
 from datetime import datetime, timezone
@@ -350,6 +351,51 @@ def calculate_metrics(
     return errors, unmatched_df, metrics_summary
 
 
+METRICS_CSV_HEADER = [
+    "Dimension",
+    "Accuracy",
+    "Matched_Pairs",
+    "Correct_Pairs",
+    "Error_Count",
+    "Notes",
+]
+
+
+def build_metrics_rows(metrics_summary: dict) -> list[list]:
+    """Build metrics.csv rows: one 'overall' row (with confusion-matrix notes)
+    followed by one row per evaluation dimension, sorted by dimension name.
+    """
+    overall = metrics_summary["overall"]
+    cm = metrics_summary["confusion_matrix"]
+    matched = overall["matched_pairs"]
+    errors = overall["value_mismatch_count"]
+    correct = matched - errors
+    notes = (
+        f"TP:{cm['true_positive']}, TN:{cm['true_negative']}, "
+        f"FP:{cm['false_positive']}, FN:{cm['false_negative']}"
+    )
+    rows = [["overall", overall["accuracy"], matched, correct, errors, notes]]
+
+    by_dimension = metrics_summary.get("by_dimension", {})
+    for dimension in sorted(by_dimension):
+        stats = by_dimension[dimension]
+        dim_matched = stats["matched"]
+        dim_correct = stats["correct"]
+        dim_errors = dim_matched - dim_correct
+        rows.append([dimension, stats["accuracy"], dim_matched, dim_correct, dim_errors, ""])
+
+    return rows
+
+
+def write_metrics_csv(metrics_summary: dict, metrics_path: str) -> None:
+    rows = build_metrics_rows(metrics_summary)
+    with open(metrics_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(METRICS_CSV_HEADER)
+        for dimension, accuracy, matched, correct, error_count, notes in rows:
+            writer.writerow([dimension, f"{accuracy:.6f}", matched, correct, error_count, notes])
+
+
 def run_accuracy_evaluation(
     golden_csv: str,
     llm_input: str,
@@ -367,13 +413,12 @@ def run_accuracy_evaluation(
 
     metrics_path = export_metrics
     if metrics_path is None:
-        metrics_path = str(Path(export_errors).with_suffix(".metrics.json"))
+        metrics_path = str(Path(export_errors).with_suffix(".metrics.csv"))
 
     export_dir = Path(export_errors).parent
     unmatched_path = str(export_dir / "unmatched_indicators.csv")
 
-    with open(metrics_path, "w", encoding="utf-8") as f:
-        json.dump(metrics_summary, f, ensure_ascii=False, indent=2)
+    write_metrics_csv(metrics_summary, metrics_path)
     print(f"Metrics summary saved: {metrics_path}")
 
     if unmatched_df is not None and not unmatched_df.empty:
@@ -415,7 +460,7 @@ def main() -> None:
         "-m",
         "--export_metrics",
         default=None,
-        help="Export metrics summary JSON path (default: alongside error CSV)",
+        help="Export metrics summary CSV path (default: alongside error CSV)",
     )
     args = parser.parse_args()
 

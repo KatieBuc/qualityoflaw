@@ -216,13 +216,17 @@ def test_metadata_round_trip(tmp_path, monkeypatch):
 
     meta = load_metadata(run_id)
     assert meta["run_id"] == run_id
-    assert meta["small_scale"] is True
+    assert meta["execution_scope"]["small_scale"] is True
     assert (tmp_path / run_id / "config" / "pipeline_config.yaml").exists()
 
-    update_metadata(run_id, steps_executed=["translation"], timing={"translation_s": 1.5})
+    update_metadata(
+        run_id,
+        execution_scope={"steps_executed": ["translation"]},
+        timing_seconds={"translation": 1.5},
+    )
     updated = load_metadata(run_id)
-    assert updated["steps_executed"] == ["translation"]
-    assert updated["timing"]["translation_s"] == 1.5
+    assert updated["execution_scope"]["steps_executed"] == ["translation"]
+    assert updated["timing_seconds"]["translation"] == 1.5
 
 
 def test_generate_run_id_collision(tmp_path, monkeypatch):

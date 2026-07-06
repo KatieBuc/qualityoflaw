@@ -33,15 +33,21 @@ def init_run_metadata(
     metadata = {
         "run_id": run_id,
         "experiment_name": experiment_name,
-        "created_at": now,
-        "updated_at": now,
         "status": "running",
-        "steps_executed": [],
-        "small_scale": small_scale,
-        "file_counts": {},
-        "timing": {},
-        "token_usage": {},
+        "timestamps": {
+            "created_at": now,
+            "updated_at": now,
+        },
         "config": config_summary,
+        "execution_scope": {
+            "steps_executed": [],
+            "small_scale": small_scale,
+            "evaluated_policy_files": [],
+        },
+        "file_counts": {},
+        "failures": {},
+        "token_usage": {},
+        "timing_seconds": {},
     }
 
     metadata_path = run_dir / "metadata.json"
@@ -56,20 +62,33 @@ def load_metadata(run_id: str) -> dict[str, Any]:
     return json.loads(metadata_path.read_text(encoding="utf-8"))
 
 
+def _merge_execution_scope(existing: dict[str, Any], value: dict[str, Any]) -> dict[str, Any]:
+    for key, v in value.items():
+        if key == "steps_executed" and isinstance(v, list):
+            executed = list(existing.get("steps_executed", []))
+            for step in v:
+                if step not in executed:
+                    executed.append(step)
+            existing["steps_executed"] = executed
+        else:
+            existing[key] = v
+    return existing
+
+
 def update_metadata(run_id: str, **updates: Any) -> dict[str, Any]:
     metadata = load_metadata(run_id)
-    metadata["updated_at"] = datetime.now(timezone.utc).isoformat()
+    metadata.setdefault("timestamps", {})["updated_at"] = datetime.now(timezone.utc).isoformat()
+
     for key, value in updates.items():
-        if key in ("file_counts", "timing", "token_usage", "config", "failures") and isinstance(value, dict):
+        if key == "execution_scope" and isinstance(value, dict):
+            existing = metadata.setdefault("execution_scope", {})
+            metadata["execution_scope"] = _merge_execution_scope(existing, value)
+        elif key in ("file_counts", "timing_seconds", "token_usage", "failures") and isinstance(value, dict):
             existing = metadata.get(key, {})
             existing.update(value)
             metadata[key] = existing
-        elif key == "steps_executed" and isinstance(value, list):
-            executed = list(metadata.get("steps_executed", []))
-            for step in value:
-                if step not in executed:
-                    executed.append(step)
-            metadata["steps_executed"] = executed
+        elif key == "config" and isinstance(value, dict):
+            metadata["config"] = value
         else:
             metadata[key] = value
 

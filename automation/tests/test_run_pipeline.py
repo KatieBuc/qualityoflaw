@@ -33,8 +33,9 @@ EVALUATION_RESULT = {
 
 COMPARISON_RESULT = {
     "counts": {"matched_pairs": 280, "evaluated_policies": 5, "accuracy": 0.82},
+    "evaluated_policy_files": ["ACEH_BIREUEN.txt"],
     "elapsed_s": 0.1,
-    "metrics_path": "/tmp/metrics.json",
+    "metrics_path": "/tmp/metrics.csv",
     "errors_path": None,
     "output_dir": "",
 }
