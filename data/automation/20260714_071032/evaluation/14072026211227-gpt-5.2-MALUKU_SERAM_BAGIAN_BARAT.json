@@ -1,0 +1,469 @@
+{
+  "policy_file": "MALUKU_SERAM_BAGIAN_BARAT.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:00:21.505245+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection for women and children victims of violence in general, including rights, obligations, and services, but none explicitly mention domestic violence or violence in the household as a distinct category.",
+      "evidence_verified": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: (1) Region is the Regency of West Seram.\n(2) Regional Government is the Administration of Government Affairs by the regional government and the Regional House of Representatives.\n(3) Regent is the Regent of West Seram.\n(4) Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of West Seram Regency as an element of Regional Government administration.\n(5) Administration is the form of implementation of Protection for Women and Child Victims of Violence.\n(6) Protection is all efforts aimed at providing a sense of security to Victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n(7) Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that Violence against Women will occur or has occurred.\n(8) Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow and develop and participate optimally in accordance with human dignity and receive Protection from Violence and discrimination.\n(9) Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n(10) Violence against Women is any action based on gender differentiation that results in or may result in misery or suffering of Women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. (11) Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n(12) Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n(13) Sexual Violence is any act that violates a person's human dignity based on gender discrimination, which targets a person's body and sexuality that results in or may result in physical, psychological, economic, sexual, political, and/or social harm or suffering to the victim.\n(14) Economic violence is any act that neglects family members in the form of not providing proper care or maintenance.\n(15) Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n(16) Victim is Women and Children, as well as vulnerable groups, such as persons with disabilities, who experience acts of Violence.\n(17) Victim of acts of Violence is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of Violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals.\n(18) Service is immediate activities and actions carried out by companions/paralegals, Professional personnel in accordance with their profession in the form of psychologists and social workers, including advocates for the empowerment and recovery of Violence Victims.\n(19) Assistance is activities and actions carried out by companions during the service process.\n(20) Companion is a person or representative from an institution who has the expertise to provide assistance.\n(21) Repatriation is an effort to return Victims of acts of Violence to family, substitute family, or community or other social institutions that can provide social support and prevention efforts.\n(22) Rehabilitation is the recovery of Victims from psychosocial disorders and restoration of normal social functioning, both in the family and in society.\n(23) Recovery in the broad sense, hereinafter abbreviated as PDML, is the process of supporting women and child victims of violence to become empowered to make decisions and pursue a just, dignified, and prosperous life, through a victim-centered, rights-based, multidimensional, community-based, and sustainable, continuous, and participatory approach, carried out by the regional government involving the role of family and community.\n(24) Women and child protection implementation institution (hereinafter abbreviated as LPPA) is an integrated service unit established by the regional government to provide services to women and child victims of violence comprehensively, with quality, including complaint and information services, assistance and legal aid, PDML (recovery in the broad sense) services, consisting of counseling, psychosocial, fulfillment of economic, social and cultural rights, medical services, and safe houses through referral mechanisms;\n(25) Counseling is an effort to help and or assist victims in making interpretations about facts related to choices, plans, or adjustments that need to be made in the psychological development of victims carried out by psychologists or psychiatrists.\n(26) Psychosocial is a victim recovery mechanism that integrates social support in the community and fulfillment of victims' rights by the government including opening access and information for victims.\n(27) Social Reintegration is an effort to reunite Victims with family, community, institutions, or other social environments that can provide Protection.\n(28) Social Reintegration is an effort to reunite victims with family, community, institutions or other social environments that can provide protection and fulfillment of needs for victims.\n(29) Integrated Service Center for Women and Child Empowerment, hereinafter abbreviated as LPPA, is an Integrated Service Unit established by the Regional government to provide services to Women and Child victims of violence comprehensively and with quality including information services related to victims' rights, complaint handling services for victims of violence against women and children, Health services for women and child victims of violence, Psychosocial services for women and child victims of violence, legal assistance services and repatriation and Social Reintegration services as well as safe house services through referral mechanisms.\n(30) Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the Implementation of Prevention and Protection of Women and Child Victims of acts of Violence.\n(31) Safe House is temporary housing provided to provide Protection to Victims in accordance with predetermined standards.\n(32) Child is a person who has not reached the age of 18 (eighteen) years, including Children who are still in the womb.\n(33) Woman is an adult human of female gender and a person recognized by law as a Woman.\n(34) Community is individuals, families, groups, social organizations and/or community organizations.\n(35) Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman and/or Child.\n(36) Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n(37) The Implementation of Protection of Women and Children is carried out based on the principles of:\na. respect for human rights;\nb. non-discrimination;\nc. justice and gender equality;\nd. the best interests of the Child;\ne. respect for the opinions of Women and Children; and f. justice and protection for women and child Victims of Violence.\ng. The right of children to life, survival, and development. (38) The Implementation of Protection of Women and Children aims to: a. provide Services and Protection to Women and child victims of violence from gender-based violence and the best interests of children that occur in the home and community (public);\nb. prevent all forms of Violence against Women and Children; and\nc. empower Women and Child Victims of Violence.\n(39) The scope of Protection for Women and Children includes: a. institutions;\nb. forms and handling mechanisms;\nc. prevention of acts of violence against women and children; d. assistance mechanisms;\ne. services for Victims of acts of Violence;\nf. Recovery of victims of acts of violence; and\ng. empowerment of Victims and their families.",
+      "rationale": "The policy explicitly defines and includes “Sexual Violence” within its general provisions, indicating it is covered under the regulation.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: (1) Region is the Regency of West Seram.\n(2) Regional Government is the Administration of Government Affairs by the regional government and the Regional House of Representatives.\n(3) Regent is the Regent of West Seram.\n(4) Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of West Seram Regency as an element of Regional Government administration.\n(5) Administration is the form of implementation of Protection for Women and Child Victims of Violence.\n(6) Protection is all efforts aimed at providing a sense of security to Victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n(7) Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that Violence against Women will occur or has occurred.\n(8) Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow and develop and participate optimally in accordance with human dignity and receive Protection from Violence and discrimination.\n(9) Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n(10) Violence against Women is any action based on gender differentiation that results in or may result in misery or suffering of Women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. (11) Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n(12) Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n(13) Sexual Violence is any act that violates a person's human dignity based on gender discrimination, which targets a person's body and sexuality that results in or may result in physical, psychological, economic, sexual, political, and/or social harm or suffering to the victim.\n(14) Economic violence is any act that neglects family members in the form of not providing proper care or maintenance.\n(15) Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n(16) Victim is Women and Children, as well as vulnerable groups, such as persons with disabilities, who experience acts of Violence.\n(17) Victim of acts of Violence is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of Violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals.\n(18) Service is immediate activities and actions carried out by companions/paralegals, Professional personnel in accordance with their profession in the form of psychologists and social workers, including advocates for the empowerment and recovery of Violence Victims.\n(19) Assistance is activities and actions carried out by companions during the service process.\n(20) Companion is a person or representative from an institution who has the expertise to provide assistance.\n(21) Repatriation is an effort to return Victims of acts of Violence to family, substitute family, or community or other social institutions that can provide social support and prevention efforts.\n(22) Rehabilitation is the recovery of Victims from psychosocial disorders and restoration of normal social functioning, both in the family and in society.\n(23) Recovery in the broad sense, hereinafter abbreviated as PDML, is the process of supporting women and child victims of violence to become empowered to make decisions and pursue a just, dignified, and prosperous life, through a victim-centered, rights-based, multidimensional, community-based, and sustainable, continuous, and participatory approach, carried out by the regional government involving the role of family and community.\n(24) Women and child protection implementation institution (hereinafter abbreviated as LPPA) is an integrated service unit established by the regional government to provide services to women and child victims of violence comprehensively, with quality, including complaint and information services, assistance and legal aid, PDML (recovery in the broad sense) services, consisting of counseling, psychosocial, fulfillment of economic, social and cultural rights, medical services, and safe houses through referral mechanisms;\n(25) Counseling is an effort to help and or assist victims in making interpretations about facts related to choices, plans, or adjustments that need to be made in the psychological development of victims carried out by psychologists or psychiatrists.\n(26) Psychosocial is a victim recovery mechanism that integrates social support in the community and fulfillment of victims' rights by the government including opening access and information for victims.\n(27) Social Reintegration is an effort to reunite Victims with family, community, institutions, or other social environments that can provide Protection.\n(28) Social Reintegration is an effort to reunite victims with family, community, institutions or other social environments that can provide protection and fulfillment of needs for victims.\n(29) Integrated Service Center for Women and Child Empowerment, hereinafter abbreviated as LPPA, is an Integrated Service Unit established by the Regional government to provide services to Women and Child victims of violence comprehensively and with quality including information services related to victims' rights, complaint handling services for victims of violence against women and children, Health services for women and child victims of violence, Psychosocial services for women and child victims of violence, legal assistance services and repatriation and Social Reintegration services as well as safe house services through referral mechanisms.\n(30) Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the Implementation of Prevention and Protection of Women and Child Victims of acts of Violence.\n(31) Safe House is temporary housing provided to provide Protection to Victims in accordance with predetermined standards.\n(32) Child is a person who has not reached the age of 18 (eighteen) years, including Children who are still in the womb.\n(33) Woman is an adult human of female gender and a person recognized by law as a Woman.\n(34) Community is individuals, families, groups, social organizations and/or community organizations.\n(35) Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman and/or Child.\n(36) Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n(37) The Implementation of Protection of Women and Children is carried out based on the principles of:\na. respect for human rights;\nb. non-discrimination;\nc. justice and gender equality;\nd. the best interests of the Child;\ne. respect for the opinions of Women and Children; and f. justice and protection for women and child Victims of Violence.\ng. The right of children to life, survival, and development. (38) The Implementation of Protection of Women and Children aims to: a. provide Services and Protection to Women and child victims of violence from gender-based violence and the best interests of children that occur in the home and community (public);\nb. prevent all forms of Violence against Women and Children; and\nc. empower Women and Child Victims of Violence.\n(39) The scope of Protection for Women and Children includes: a. institutions;\nb. forms and handling mechanisms;\nc. prevention of acts of violence against women and children; d. assistance mechanisms;\ne. services for Victims of acts of Violence;\nf. Recovery of victims of acts of violence; and\ng. empowerment of Victims and their families.",
+      "rationale": "The policy explicitly defines “Physical Violence” in its general provisions, demonstrating that physical violence is included.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: (1) Region is the Regency of West Seram.\n(2) Regional Government is the Administration of Government Affairs by the regional government and the Regional House of Representatives.\n(3) Regent is the Regent of West Seram.\n(4) Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of West Seram Regency as an element of Regional Government administration.\n(5) Administration is the form of implementation of Protection for Women and Child Victims of Violence.\n(6) Protection is all efforts aimed at providing a sense of security to Victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n(7) Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that Violence against Women will occur or has occurred.\n(8) Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow and develop and participate optimally in accordance with human dignity and receive Protection from Violence and discrimination.\n(9) Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n(10) Violence against Women is any action based on gender differentiation that results in or may result in misery or suffering of Women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. (11) Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n(12) Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n(13) Sexual Violence is any act that violates a person's human dignity based on gender discrimination, which targets a person's body and sexuality that results in or may result in physical, psychological, economic, sexual, political, and/or social harm or suffering to the victim.\n(14) Economic violence is any act that neglects family members in the form of not providing proper care or maintenance.\n(15) Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n(16) Victim is Women and Children, as well as vulnerable groups, such as persons with disabilities, who experience acts of Violence.\n(17) Victim of acts of Violence is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of Violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals.\n(18) Service is immediate activities and actions carried out by companions/paralegals, Professional personnel in accordance with their profession in the form of psychologists and social workers, including advocates for the empowerment and recovery of Violence Victims.\n(19) Assistance is activities and actions carried out by companions during the service process.\n(20) Companion is a person or representative from an institution who has the expertise to provide assistance.\n(21) Repatriation is an effort to return Victims of acts of Violence to family, substitute family, or community or other social institutions that can provide social support and prevention efforts.\n(22) Rehabilitation is the recovery of Victims from psychosocial disorders and restoration of normal social functioning, both in the family and in society.\n(23) Recovery in the broad sense, hereinafter abbreviated as PDML, is the process of supporting women and child victims of violence to become empowered to make decisions and pursue a just, dignified, and prosperous life, through a victim-centered, rights-based, multidimensional, community-based, and sustainable, continuous, and participatory approach, carried out by the regional government involving the role of family and community.\n(24) Women and child protection implementation institution (hereinafter abbreviated as LPPA) is an integrated service unit established by the regional government to provide services to women and child victims of violence comprehensively, with quality, including complaint and information services, assistance and legal aid, PDML (recovery in the broad sense) services, consisting of counseling, psychosocial, fulfillment of economic, social and cultural rights, medical services, and safe houses through referral mechanisms;\n(25) Counseling is an effort to help and or assist victims in making interpretations about facts related to choices, plans, or adjustments that need to be made in the psychological development of victims carried out by psychologists or psychiatrists.\n(26) Psychosocial is a victim recovery mechanism that integrates social support in the community and fulfillment of victims' rights by the government including opening access and information for victims.\n(27) Social Reintegration is an effort to reunite Victims with family, community, institutions, or other social environments that can provide Protection.\n(28) Social Reintegration is an effort to reunite victims with family, community, institutions or other social environments that can provide protection and fulfillment of needs for victims.\n(29) Integrated Service Center for Women and Child Empowerment, hereinafter abbreviated as LPPA, is an Integrated Service Unit established by the Regional government to provide services to Women and Child victims of violence comprehensively and with quality including information services related to victims' rights, complaint handling services for victims of violence against women and children, Health services for women and child victims of violence, Psychosocial services for women and child victims of violence, legal assistance services and repatriation and Social Reintegration services as well as safe house services through referral mechanisms.\n(30) Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the Implementation of Prevention and Protection of Women and Child Victims of acts of Violence.\n(31) Safe House is temporary housing provided to provide Protection to Victims in accordance with predetermined standards.\n(32) Child is a person who has not reached the age of 18 (eighteen) years, including Children who are still in the womb.\n(33) Woman is an adult human of female gender and a person recognized by law as a Woman.\n(34) Community is individuals, families, groups, social organizations and/or community organizations.\n(35) Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman and/or Child.\n(36) Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n(37) The Implementation of Protection of Women and Children is carried out based on the principles of:\na. respect for human rights;\nb. non-discrimination;\nc. justice and gender equality;\nd. the best interests of the Child;\ne. respect for the opinions of Women and Children; and f. justice and protection for women and child Victims of Violence.\ng. The right of children to life, survival, and development. (38) The Implementation of Protection of Women and Children aims to: a. provide Services and Protection to Women and child victims of violence from gender-based violence and the best interests of children that occur in the home and community (public);\nb. prevent all forms of Violence against Women and Children; and\nc. empower Women and Child Victims of Violence.\n(39) The scope of Protection for Women and Children includes: a. institutions;\nb. forms and handling mechanisms;\nc. prevention of acts of violence against women and children; d. assistance mechanisms;\ne. services for Victims of acts of Violence;\nf. Recovery of victims of acts of violence; and\ng. empowerment of Victims and their families.",
+      "rationale": "The policy explicitly defines “Psychological Violence” in its general provisions, indicating psychological violence is included.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: (1) Region is the Regency of West Seram.\n(2) Regional Government is the Administration of Government Affairs by the regional government and the Regional House of Representatives.\n(3) Regent is the Regent of West Seram.\n(4) Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of West Seram Regency as an element of Regional Government administration.\n(5) Administration is the form of implementation of Protection for Women and Child Victims of Violence.\n(6) Protection is all efforts aimed at providing a sense of security to Victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n(7) Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that Violence against Women will occur or has occurred.\n(8) Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow and develop and participate optimally in accordance with human dignity and receive Protection from Violence and discrimination.\n(9) Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n(10) Violence against Women is any action based on gender differentiation that results in or may result in misery or suffering of Women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. (11) Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n(12) Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n(13) Sexual Violence is any act that violates a person's human dignity based on gender discrimination, which targets a person's body and sexuality that results in or may result in physical, psychological, economic, sexual, political, and/or social harm or suffering to the victim.\n(14) Economic violence is any act that neglects family members in the form of not providing proper care or maintenance.\n(15) Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n(16) Victim is Women and Children, as well as vulnerable groups, such as persons with disabilities, who experience acts of Violence.\n(17) Victim of acts of Violence is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of Violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals.\n(18) Service is immediate activities and actions carried out by companions/paralegals, Professional personnel in accordance with their profession in the form of psychologists and social workers, including advocates for the empowerment and recovery of Violence Victims.\n(19) Assistance is activities and actions carried out by companions during the service process.\n(20) Companion is a person or representative from an institution who has the expertise to provide assistance.\n(21) Repatriation is an effort to return Victims of acts of Violence to family, substitute family, or community or other social institutions that can provide social support and prevention efforts.\n(22) Rehabilitation is the recovery of Victims from psychosocial disorders and restoration of normal social functioning, both in the family and in society.\n(23) Recovery in the broad sense, hereinafter abbreviated as PDML, is the process of supporting women and child victims of violence to become empowered to make decisions and pursue a just, dignified, and prosperous life, through a victim-centered, rights-based, multidimensional, community-based, and sustainable, continuous, and participatory approach, carried out by the regional government involving the role of family and community.\n(24) Women and child protection implementation institution (hereinafter abbreviated as LPPA) is an integrated service unit established by the regional government to provide services to women and child victims of violence comprehensively, with quality, including complaint and information services, assistance and legal aid, PDML (recovery in the broad sense) services, consisting of counseling, psychosocial, fulfillment of economic, social and cultural rights, medical services, and safe houses through referral mechanisms;\n(25) Counseling is an effort to help and or assist victims in making interpretations about facts related to choices, plans, or adjustments that need to be made in the psychological development of victims carried out by psychologists or psychiatrists.\n(26) Psychosocial is a victim recovery mechanism that integrates social support in the community and fulfillment of victims' rights by the government including opening access and information for victims.\n(27) Social Reintegration is an effort to reunite Victims with family, community, institutions, or other social environments that can provide Protection.\n(28) Social Reintegration is an effort to reunite victims with family, community, institutions or other social environments that can provide protection and fulfillment of needs for victims.\n(29) Integrated Service Center for Women and Child Empowerment, hereinafter abbreviated as LPPA, is an Integrated Service Unit established by the Regional government to provide services to Women and Child victims of violence comprehensively and with quality including information services related to victims' rights, complaint handling services for victims of violence against women and children, Health services for women and child victims of violence, Psychosocial services for women and child victims of violence, legal assistance services and repatriation and Social Reintegration services as well as safe house services through referral mechanisms.\n(30) Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the Implementation of Prevention and Protection of Women and Child Victims of acts of Violence.\n(31) Safe House is temporary housing provided to provide Protection to Victims in accordance with predetermined standards.\n(32) Child is a person who has not reached the age of 18 (eighteen) years, including Children who are still in the womb.\n(33) Woman is an adult human of female gender and a person recognized by law as a Woman.\n(34) Community is individuals, families, groups, social organizations and/or community organizations.\n(35) Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman and/or Child.\n(36) Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n(37) The Implementation of Protection of Women and Children is carried out based on the principles of:\na. respect for human rights;\nb. non-discrimination;\nc. justice and gender equality;\nd. the best interests of the Child;\ne. respect for the opinions of Women and Children; and f. justice and protection for women and child Victims of Violence.\ng. The right of children to life, survival, and development. (38) The Implementation of Protection of Women and Children aims to: a. provide Services and Protection to Women and child victims of violence from gender-based violence and the best interests of children that occur in the home and community (public);\nb. prevent all forms of Violence against Women and Children; and\nc. empower Women and Child Victims of Violence.\n(39) The scope of Protection for Women and Children includes: a. institutions;\nb. forms and handling mechanisms;\nc. prevention of acts of violence against women and children; d. assistance mechanisms;\ne. services for Victims of acts of Violence;\nf. Recovery of victims of acts of violence; and\ng. empowerment of Victims and their families.",
+      "rationale": "The policy explicitly defines “Economic violence” as neglecting family members by not providing proper care or maintenance, which directly covers economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide, nor do they clearly address these practices as specific forms of violence.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address violence against women and children broadly but do not explicitly reference femicide/feminicide or gender-related killing of women as a specific issue.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention human trafficking or trafficking-related concepts; they focus on general violence prevention, protection, and victim services.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence is defined, none of the passages explicitly address sexual exploitation or sexual slavery as distinct concepts.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe general prevention activities (e.g., socialization, training, coordination) but do not mention online/technology-facilitated abuse, cyber harassment, or related forms of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Regional Government may conduct cooperation in order to achieve the objectives of the Implementation of Protection of Women and Children. (2) Cooperation as referred to in paragraph (1) is conducted with:\na. government;\nb. provincial government;\nc. district government/other District; and\nd. non-governmental institutions.\n(3) Cooperation as referred to in paragraph (1), includes:\na. exchange of data and information;\nb. rehabilitation of Victims of acts of Violence;\nc. repatriation and social reintegration; and\nd. provision of evidence and witnesses and followed up in accordance with laws and regulations.\n(4) Cooperation as referred to in paragraph (2) and paragraph (3), is conducted in the form of mutual agreement.",
+      "rationale": "The policy provides for inter-jurisdictional cooperation by the Regional Government with government, provincial government, and other district governments, indicating an institutional coordination network across jurisdictions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Regional Government may conduct cooperation in order to achieve the objectives of the Implementation of Protection of Women and Children. (2) Cooperation as referred to in paragraph (1) is conducted with:\na. government;\nb. provincial government;\nc. district government/other District; and\nd. non-governmental institutions.\n(3) Cooperation as referred to in paragraph (1), includes:\na. exchange of data and information;\nb. rehabilitation of Victims of acts of Violence;\nc. repatriation and social reintegration; and\nd. provision of evidence and witnesses and followed up in accordance with laws and regulations.\n(4) Cooperation as referred to in paragraph (2) and paragraph (3), is conducted in the form of mutual agreement.",
+      "rationale": "The policy explicitly allows cooperation with non-governmental institutions and specifies cooperation areas and that it is conducted via mutual agreement, constituting a cooperation mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government conducts empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling to prevent acts of Violence against Women and Children\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for Women;\nd. building community participation and concern to implement prevention and against Women and Children from acts of Violence;\ne. building and providing a complete information system that is easily accessible by women and victims of violence including poor women\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or are concerned and focused on Women and Children victims of violence; and\ng. opening community-based complaint posts at the village/Negeri level for Protection of Women and Children from acts of Violence.",
+      "rationale": "The policy includes an explicit commitment to build and provide a complete information system accessible to women and victims of violence, which addresses establishment of an information system relevant to VAW and protection.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention gender equality as a principle and various institutional arrangements, none explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group/mechanism to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of prevention of acts of Violence against Women and Children carried out by P2TP2A. can be implemented through: a. socialization activities of laws and regulations to the community related to the Protection of the rights of Women and Children; and b. training of P2TP2A. members and OPD, vertical institutions and other related service institutions regarding the implementation of their duties in preventing acts of Violence against Women and Children. c. Implementation of coordination mechanisms between institutions that have main duties and functions related to the prevention and handling of violence against women and children\nd. Implementation of referral mechanisms in the handling and recovery of victims of violence against women and children",
+      "rationale": "The policy explicitly includes training for P2TP2A members and OPD/vertical institutions/other service institutions regarding their duties in preventing violence, which constitutes capacity building for officials and service workers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Regional Apparatus is obligated to conduct supervision of the Implementation of Protection for Women and Children Victims of Violence.\n(2) Supervision as referred to in paragraph (1), is conducted with the principles of:\na. professional;\nb. transparent; and\nc. accountable.\n(3) In addition to supervision conducted by the Regional Government as referred to in paragraph (1), the community may conduct supervision of the Implementation of Protection for Women and Children Victims of Violence.\n(4) Supervision conducted by the community as referred to in paragraph (3) is by conveying aspirations to the Regent or DPRD.",
+      "rationale": "The policy mandates supervision of implementation by regional apparatus and allows community supervision, which functions as monitoring of policy implementation and service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The Implementation of Protection for Women and Children Victims of Violence is carried out in an integrated manner through P2TP2A.\n(2) The establishment of P2TP2A as referred to in paragraph (1) is determined by Regent's Decree.\n(3) Further provisions regarding the position, duties, functions and working procedures of P2TP2A as referred to in paragraph (1) are regulated by Regent's Regulation.",
+      "rationale": "The policy states that protection implementation is carried out in an integrated manner through P2TP2A, indicating an integrated service unit for handling violence against women (and children).",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages mention police as possible actors in protection generally, but do not establish or describe any specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 16\n(1) The Regional Government is obligated to provide complaint services, in order to provide Protection for Women and Children from acts of Violence.\n(2) The Regional Government is obligated to provide recovery houses or safe houses.\n(3) Further provisions regarding complaint services and social services as referred to in paragraph (1) and paragraph (2) shall be regulated by Regent Regulation.",
+      "rationale": "The policy obligates the regional government to provide complaint services to provide protection for women and children from violence, indicating a service that receives reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 16\n(1) The Regional Government is obligated to provide complaint services, in order to provide Protection for Women and Children from acts of Violence.\n(2) The Regional Government is obligated to provide recovery houses or safe houses.\n(3) Further provisions regarding complaint services and social services as referred to in paragraph (1) and paragraph (2) shall be regulated by Regent Regulation.",
+      "rationale": "The policy obligates the regional government to provide recovery houses or safe houses, which constitutes provision of safety/protection shelter services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 10\nService standards for Victims organized by P2TP2A in cooperation with relevant institutions, include:\na. medical services;\nb. medicolegal services;\nc. psychosocial services;\nd. legal services; and\ne. support services for economic independence.",
+      "rationale": "The service standards organized by P2TP2A explicitly include legal services, indicating provision of legal assistance as part of the service unit’s functions.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 10\nService standards for Victims organized by P2TP2A in cooperation with relevant institutions, include:\na. medical services;\nb. medicolegal services;\nc. psychosocial services;\nd. legal services; and\ne. support services for economic independence.",
+      "rationale": "The service standards organized by P2TP2A explicitly include medical services, indicating provision of health/medical services for victims.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 10\nService standards for Victims organized by P2TP2A in cooperation with relevant institutions, include:\na. medical services;\nb. medicolegal services;\nc. psychosocial services;\nd. legal services; and\ne. support services for economic independence.",
+      "rationale": "The service standards organized by P2TP2A explicitly include psychosocial services, indicating psychosocial counselling/support is provided.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious or spiritual counselling services or a service unit responsible for such counselling.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) The Regent establishes minimum service standards for services provided to Women and Children Victims of acts of Violence.\n(2) Forms of services provided to Women and Children Victims of acts of Violence, are as follows:\na. complaint services;\nb. health services;\nc. legal assistance services;\nd. repatriation services;\ne. social reintegration;\nf. identification services; and\ng. Rehabilitation services, Psychosocial and psychological services.\n(3) The Regional Government cooperates with government agencies, Provincial Government, other district/District governments and the community in carrying out duties and functions as referred to in paragraph (2).\n(4) Further provisions regarding procedures for services and handling of Women and Children Victims of acts of Violence as referred to in paragraph (1), paragraph (2) and paragraph (3) shall be regulated by Regent Regulation.",
+      "rationale": "The policy lists social reintegration and rehabilitation services among the forms of services for victims, which corresponds to resocialisation (rehabilitation/reintegration) services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) The Regional Government is obligated to conduct empowerment of Women Victims of acts of Violence.\n(2) Empowerment of Victims of acts of Violence as referred to in paragraph (1), is implemented by P2TP2A by involving other service institutions (3) In conducting empowerment of Women Victims of acts of Violence as referred to in paragraph (1), the Regional Government prepares empowerment programs in the economic field, which include:\na. Facilitating the needs required for entrepreneurship training for Women Victims of acts of Violence, in order to increase knowledge, attitude and business skills;\nb. facilitating the implementation of various job training and skills training;\nc. providing assistance in developing productive economic enterprises;\nd. exploring cooperation with small, medium and large companies, as well as financial institutions to develop the businesses of Women Victims of acts of Violence;\ne. endeavoring to provide capital for Women Victims of acts of Violence; and\nf. expanding access to information and promoting the products of Women Victims of acts of Violence.\n(4) In conducting empowerment of Women Victims of acts of Violence as referred to in paragraph (1), the Regional Government may establish cooperation with job training institutions organized by the private sector.",
+      "rationale": "The policy obligates empowerment of women victims and specifies economic-field programs such as entrepreneurship training, job/skills training, assistance for enterprises, and efforts to provide capital, indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government conducts empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling to prevent acts of Violence against Women and Children\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for Women;\nd. building community participation and concern to implement prevention and against Women and Children from acts of Violence;\ne. building and providing a complete information system that is easily accessible by women and victims of violence including poor women\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or are concerned and focused on Women and Children victims of violence; and\ng. opening community-based complaint posts at the village/Negeri level for Protection of Women and Children from acts of Violence.",
+      "rationale": "The policy includes primary prevention via empowerment and awareness-raising that provides information, guidance, and/or counseling to prevent violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention awareness-raising to prevent violence and reference principles such as gender equality and rights, none explicitly describe information/education activities specifically about gender equality and/or women’s rights as a primary prevention measure.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of prevention of acts of Violence against Women and Children carried out by P2TP2A. can be implemented through: a. socialization activities of laws and regulations to the community related to the Protection of the rights of Women and Children; and b. training of P2TP2A. members and OPD, vertical institutions and other related service institutions regarding the implementation of their duties in preventing acts of Violence against Women and Children. c. Implementation of coordination mechanisms between institutions that have main duties and functions related to the prevention and handling of violence against women and children\nd. Implementation of referral mechanisms in the handling and recovery of victims of violence against women and children",
+      "rationale": "The policy specifies prevention through community socialization of laws and regulations related to protection of women’s and children’s rights, which constitutes information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government conducts empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling to prevent acts of Violence against Women and Children\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for Women;\nd. building community participation and concern to implement prevention and against Women and Children from acts of Violence;\ne. building and providing a complete information system that is easily accessible by women and victims of violence including poor women\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or are concerned and focused on Women and Children victims of violence; and\ng. opening community-based complaint posts at the village/Negeri level for Protection of Women and Children from acts of Violence.",
+      "rationale": "The policy explicitly includes increasing the quantity and quality of education (formal, non-formal, and informal) as part of prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government conducts empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling to prevent acts of Violence against Women and Children\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for Women;\nd. building community participation and concern to implement prevention and against Women and Children from acts of Violence;\ne. building and providing a complete information system that is easily accessible by women and victims of violence including poor women\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or are concerned and focused on Women and Children victims of violence; and\ng. opening community-based complaint posts at the village/Negeri level for Protection of Women and Children from acts of Violence.",
+      "rationale": "The policy explicitly mentions building networks and cooperation with various non-governmental organizations focused on women and children victims of violence, indicating engagement/collaboration with NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The community participates in the Implementation of Protection for Women and Children Victims of Violence.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the sub-district and village level by the community;\nb. establishing women and children protection units within community organizations;\nc. provision of safe houses or shelters;\nd. provision and management of orphanages for children;\ne. establishing rehabilitation centers for women and children victims of violence;\nf. conducting independent socialization of women's and children's rights;\ng. providing first aid to victims; and\nh. reporting to the competent authorities if violence against victims occurs in their environment.\n(3) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes religious institutions among the actors through which community participation in protection implementation is carried out, indicating engagement with religious organizations.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention traditional/cultural organizations or leaders, nor do they clearly imply collaboration with such actors beyond general references to 'the community' or 'community organizations'.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government conducts empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling to prevent acts of Violence against Women and Children\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for Women;\nd. building community participation and concern to implement prevention and against Women and Children from acts of Violence;\ne. building and providing a complete information system that is easily accessible by women and victims of violence including poor women\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or are concerned and focused on Women and Children victims of violence; and\ng. opening community-based complaint posts at the village/Negeri level for Protection of Women and Children from acts of Violence.",
+      "rationale": "The policy explicitly references building networks and cooperation with universities, which are educational institutions, indicating stakeholder engagement with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss cooperation with government levels, non-governmental institutions, and community actors, but do not explicitly mention international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The community participates in the Implementation of Protection for Women and Children Victims of Violence.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the sub-district and village level by the community;\nb. establishing women and children protection units within community organizations;\nc. provision of safe houses or shelters;\nd. provision and management of orphanages for children;\ne. establishing rehabilitation centers for women and children victims of violence;\nf. conducting independent socialization of women's and children's rights;\ng. providing first aid to victims; and\nh. reporting to the competent authorities if violence against victims occurs in their environment.\n(3) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes mass media among the actors through which community participation is carried out, indicating engagement/collaboration with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) The Regent establishes minimum service standards for services provided to Women and Children Victims of acts of Violence.\n(2) Forms of services provided to Women and Children Victims of acts of Violence, are as follows:\na. complaint services;\nb. health services;\nc. legal assistance services;\nd. repatriation services;\ne. social reintegration;\nf. identification services; and\ng. Rehabilitation services, Psychosocial and psychological services.\n(3) The Regional Government cooperates with government agencies, Provincial Government, other district/District governments and the community in carrying out duties and functions as referred to in paragraph (2).\n(4) Further provisions regarding procedures for services and handling of Women and Children Victims of acts of Violence as referred to in paragraph (1), paragraph (2) and paragraph (3) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly states that the regional government cooperates with 'the community' in carrying out service-related duties and functions, demonstrating stakeholder engagement with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 20\n(1) The Regional Government establishes partnerships with the business sector in the Implementation of Protection of Women and Children.\n(2) Partnerships as referred to in paragraph (1), are carried out through: a. Provision of information on employment opportunities for Women Victims of Violence;\nb. education and training for Women Victims of Violence; c. educational assistance for Women and Child Victims of Violence who have been withdrawn from education; and\nd. fostering and increasing economic independence of Women Victims of Violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are implemented in the form of an agreement.",
+      "rationale": "The policy explicitly provides for partnerships with the business sector in implementing protection for women and children, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages define and regulate protection for women and children victims of violence generally (rights, services, safe houses, empowerment), but none mention conflict zones, disasters, or disaster-prone areas, nor any special measures tailored to such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate passages, the policy addresses women victims of violence in general and related services/empowerment, but it does not explicitly mention human trafficking or provide trafficking-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference employment opportunities and training for women victims of violence, but do not mention women workers/employees as a protected group or establish workplace/labour-specific protections for women workers.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text provides general protections for women and children victims of violence and mentions vulnerable groups broadly, but does not identify elderly women or provide elderly-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: (1) Region is the Regency of West Seram.\n(2) Regional Government is the Administration of Government Affairs by the regional government and the Regional House of Representatives.\n(3) Regent is the Regent of West Seram.\n(4) Regional House of Representatives, hereinafter abbreviated as DPRD, is the regional people's representative institution of West Seram Regency as an element of Regional Government administration.\n(5) Administration is the form of implementation of Protection for Women and Child Victims of Violence.\n(6) Protection is all efforts aimed at providing a sense of security to Victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n(7) Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that Violence against Women will occur or has occurred.\n(8) Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow and develop and participate optimally in accordance with human dignity and receive Protection from Violence and discrimination.\n(9) Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n(10) Violence against Women is any action based on gender differentiation that results in or may result in misery or suffering of Women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. (11) Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n(12) Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n(13) Sexual Violence is any act that violates a person's human dignity based on gender discrimination, which targets a person's body and sexuality that results in or may result in physical, psychological, economic, sexual, political, and/or social harm or suffering to the victim.\n(14) Economic violence is any act that neglects family members in the form of not providing proper care or maintenance.\n(15) Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n(16) Victim is Women and Children, as well as vulnerable groups, such as persons with disabilities, who experience acts of Violence.\n(17) Victim of acts of Violence is an individual or group of people who experience physical, mental or emotional suffering, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of Violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals.\n(18) Service is immediate activities and actions carried out by companions/paralegals, Professional personnel in accordance with their profession in the form of psychologists and social workers, including advocates for the empowerment and recovery of Violence Victims.\n(19) Assistance is activities and actions carried out by companions during the service process.\n(20) Companion is a person or representative from an institution who has the expertise to provide assistance.\n(21) Repatriation is an effort to return Victims of acts of Violence to family, substitute family, or community or other social institutions that can provide social support and prevention efforts.\n(22) Rehabilitation is the recovery of Victims from psychosocial disorders and restoration of normal social functioning, both in the family and in society.\n(23) Recovery in the broad sense, hereinafter abbreviated as PDML, is the process of supporting women and child victims of violence to become empowered to make decisions and pursue a just, dignified, and prosperous life, through a victim-centered, rights-based, multidimensional, community-based, and sustainable, continuous, and participatory approach, carried out by the regional government involving the role of family and community.\n(24) Women and child protection implementation institution (hereinafter abbreviated as LPPA) is an integrated service unit established by the regional government to provide services to women and child victims of violence comprehensively, with quality, including complaint and information services, assistance and legal aid, PDML (recovery in the broad sense) services, consisting of counseling, psychosocial, fulfillment of economic, social and cultural rights, medical services, and safe houses through referral mechanisms;\n(25) Counseling is an effort to help and or assist victims in making interpretations about facts related to choices, plans, or adjustments that need to be made in the psychological development of victims carried out by psychologists or psychiatrists.\n(26) Psychosocial is a victim recovery mechanism that integrates social support in the community and fulfillment of victims' rights by the government including opening access and information for victims.\n(27) Social Reintegration is an effort to reunite Victims with family, community, institutions, or other social environments that can provide Protection.\n(28) Social Reintegration is an effort to reunite victims with family, community, institutions or other social environments that can provide protection and fulfillment of needs for victims.\n(29) Integrated Service Center for Women and Child Empowerment, hereinafter abbreviated as LPPA, is an Integrated Service Unit established by the Regional government to provide services to Women and Child victims of violence comprehensively and with quality including information services related to victims' rights, complaint handling services for victims of violence against women and children, Health services for women and child victims of violence, Psychosocial services for women and child victims of violence, legal assistance services and repatriation and Social Reintegration services as well as safe house services through referral mechanisms.\n(30) Regional Action Plan is the foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the Implementation of Prevention and Protection of Women and Child Victims of acts of Violence.\n(31) Safe House is temporary housing provided to provide Protection to Victims in accordance with predetermined standards.\n(32) Child is a person who has not reached the age of 18 (eighteen) years, including Children who are still in the womb.\n(33) Woman is an adult human of female gender and a person recognized by law as a Woman.\n(34) Community is individuals, families, groups, social organizations and/or community organizations.\n(35) Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a Woman and/or Child.\n(36) Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n(37) The Implementation of Protection of Women and Children is carried out based on the principles of:\na. respect for human rights;\nb. non-discrimination;\nc. justice and gender equality;\nd. the best interests of the Child;\ne. respect for the opinions of Women and Children; and f. justice and protection for women and child Victims of Violence.\ng. The right of children to life, survival, and development. (38) The Implementation of Protection of Women and Children aims to: a. provide Services and Protection to Women and child victims of violence from gender-based violence and the best interests of children that occur in the home and community (public);\nb. prevent all forms of Violence against Women and Children; and\nc. empower Women and Child Victims of Violence.\n(39) The scope of Protection for Women and Children includes: a. institutions;\nb. forms and handling mechanisms;\nc. prevention of acts of violence against women and children; d. assistance mechanisms;\ne. services for Victims of acts of Violence;\nf. Recovery of victims of acts of violence; and\ng. empowerment of Victims and their families.",
+      "rationale": "The policy explicitly includes persons with disabilities within the definition of victims/vulnerable groups covered by the regulation, indicating that protection measures apply to them.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss protection for women and children victims of violence and responsibilities of government/community/family, but do not mention women heads of household/families or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy emphasizes non-discrimination and general protection for women and children victims of violence, but does not identify minority/isolated women as a specific target group or set out special measures for them.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy provides for legal aid/assistance to victims and defines protection broadly, none of the passages specifically address women in conflict with the law as witnesses or perpetrators, nor special protections for such legal-process roles.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages contain general provisions on protection for women and children victims of violence and community participation, but do not mention Indigenous peoples/masyarakat adat or provide Indigenous-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy includes repatriation and safe house concepts for victims of violence, but does not mention refugees, internally displaced persons, or forced displacement contexts, nor special measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention domestic workers as a category, nor provide protections specifically tailored to domestic work situations.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although safe houses are mentioned for victims of violence, the text does not address homelessness as a condition or provide special protection measures specifically targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on women and children victims of violence and related services/empowerment, but do not mention former inmates/correctional institutions or provide targeted measures for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nSOURCES OF FUNDS\nArticle 25\nFunds for the Implementation of Protection of Women and Children Victims of Violence, are sourced from:\na. regional revenue and expenditure budget; and\nb. other legitimate sources in accordance with statutory provisions.",
+      "rationale": "The policy explicitly lists the regional revenue and expenditure budget as a source of funds, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "Article 25\nLetter b, what is meant by other lawful sources is assistance, financial assistance from the Central Government, Province, or assistance from domestic or foreign NGOs.",
+      "rationale": "The policy clarifies that “other lawful sources” include assistance/financial assistance from the Central Government, which constitutes national government budget support.",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "Article 25\nLetter b, what is meant by other lawful sources is assistance, financial assistance from the Central Government, Province, or assistance from domestic or foreign NGOs.",
+      "rationale": "The policy explicitly mentions assistance from foreign NGOs as a lawful funding source, which constitutes international support/donor funding.",
+      "evidence_verified": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nSOURCES OF FUNDS\nArticle 25\nFunds for the Implementation of Protection of Women and Children Victims of Violence, are sourced from:\na. regional revenue and expenditure budget; and\nb. other legitimate sources in accordance with statutory provisions.",
+      "rationale": "The policy explicitly includes “other legitimate sources in accordance with statutory provisions” as a funding source.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "Article 25\nLetter b, what is meant by other lawful sources is assistance, financial assistance from the Central Government, Province, or assistance from domestic or foreign NGOs.",
+      "rationale": "The policy clarifies that “other lawful sources” include assistance/financial assistance from the Province, indicating provincial government budget support.",
+      "evidence_verified": true
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

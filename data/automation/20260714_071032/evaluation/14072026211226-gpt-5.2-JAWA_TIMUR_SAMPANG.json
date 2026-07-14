@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TIMUR_SAMPANG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:51:43.682577+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages define and discuss violence against women and children generally and outline prevention/response services, but none explicitly mention domestic violence or violence within the household/intimate partner context as a distinct category.",
+      "evidence_verified": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines “Sexual violence” in the general provisions, indicating it is included within the scope of violence addressed.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines “Physical violence” in the general provisions, showing it is included within the scope of violence addressed.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines “Psychological violence” in the general provisions, showing it is included within the scope of violence addressed.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention violence broadly and include the term “neglect” within a definition of violence against a child, they do not explicitly address economic violence, economic exploitation, or domestic neglect as a specific form/category.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address violence against women and children in general but do not explicitly mention femicide/feminicide or gender-related killing of women as a specific issue.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly references “criminal acts of human trafficking” within the definition of integrated services for victims, indicating trafficking is included.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although sexual violence is defined (including forced intercourse for commercial purposes), the passages do not explicitly address sexual exploitation/sexual slavery as a distinct category or concept beyond the general sexual violence definition.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention online/technology-facilitated forms of violence (e.g., cyber harassment, digital abuse, non-consensual image sharing).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nCOORDINATION MECHANISM\nArticle 18\nIn carrying out the functions as referred to in Article 15, coordination shall be conducted with Regional Apparatus or other units that handle women's empowerment and child protection.",
+      "rationale": "The policy establishes a coordination mechanism requiring coordination with regional apparatus/units responsible for women's empowerment and child protection, indicating an institutional coordination network across governmental units.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Regional Government, community, non-governmental organizations, or other institutions establish technical service units in realizing an integrated, one-stop and networked system for women's empowerment and child protection;\n(2) The technical service unit as referred to in paragraph (1) is P2TP2A.",
+      "rationale": "The policy explicitly includes non-governmental organizations among the actors that establish technical service units within an integrated, networked system, indicating a cooperation mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 5\nIn order to realize the objectives as referred to in Article 3 letter b, efforts shall be made through:\na. establishment, development, and capacity strengthening of institutions for the protection of women and children including complaint service units for violence against women and children, as well as legal aid services;\nb. improvement of the quality of human resources management;\nc. institutional capacity strengthening of Gender Mainstreaming (PUG) and children;\nd. strengthening and development of gender and children data systems.",
+      "rationale": "The policy explicitly calls for strengthening and development of gender and child data systems, which constitutes establishing/maintaining a data/information system relevant to women's protection and VAW-related programming.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 5\nIn order to realize the objectives as referred to in Article 3 letter b, efforts shall be made through:\na. establishment, development, and capacity strengthening of institutions for the protection of women and children including complaint service units for violence against women and children, as well as legal aid services;\nb. improvement of the quality of human resources management;\nc. institutional capacity strengthening of Gender Mainstreaming (PUG) and children;\nd. strengthening and development of gender and children data systems.",
+      "rationale": "The policy explicitly mentions strengthening the institutional capacity of Gender Mainstreaming (PUG), indicating institutionalisation of gender mainstreaming within the system (even if it does not specify a dedicated working group).",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 5\nIn order to realize the objectives as referred to in Article 3 letter b, efforts shall be made through:\na. establishment, development, and capacity strengthening of institutions for the protection of women and children including complaint service units for violence against women and children, as well as legal aid services;\nb. improvement of the quality of human resources management;\nc. institutional capacity strengthening of Gender Mainstreaming (PUG) and children;\nd. strengthening and development of gender and children data systems.",
+      "rationale": "The policy includes improving the quality of human resources management and capacity strengthening of institutions, which implies capacity-building measures for officials/service workers involved in women and child protection.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 22\nMonitoring and evaluation are intended to determine the progress and obstacles in the implementation of policies, programs, and activities that have been established. Monitoring is conducted periodically through coordination and direct monitoring of OPD implementing policies, programs, and activities - 16 - for the empowerment of women and child victims of violence. This monitoring - 4 - is conducted from the planning stage through to the implementation of policies, programs, and activities for the empowerment of women and child victims of violence for the current year and evaluation will be conducted at the end of each fiscal year.",
+      "rationale": "The policy explicitly provides for periodic monitoring and end-of-fiscal-year evaluation to assess progress and obstacles in implementation of policies, programs, and activities, covering monitoring and evaluation of implementation and service-related activities.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Regional Government, community, non-governmental organizations, or other institutions establish technical service units in realizing an integrated, one-stop and networked system for women's empowerment and child protection;\n(2) The technical service unit as referred to in paragraph (1) is P2TP2A.",
+      "rationale": "The passages explicitly establish P2TP2A as a technical service unit within an integrated, one-stop and networked system for women's empowerment and child protection, indicating an integrated service unit for violence against women (and children).",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions police as possible actors in protection and refers to handling by law enforcement officials, none of the provided passages explicitly establish a specialised service unit for VAW within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 16\n- 15 - - 3 - The Implementation Guidelines and/or Technical Guidelines of P2TP2A contain technical matters regarding services for handling women and children victims of violence including service human resources, facilities and infrastructure, rights and obligations of victims, referral system including handling starting from complaint services, medical rehabilitation services, social rehabilitation services, spiritual guidance services, repatriation and social reintegration services. In addition, it also contains service flow and Standard Operating Procedures for each service.",
+      "rationale": "The passages describe P2TP2A service handling that includes a referral system starting from complaint services, indicating a service unit that receives reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although a 'Safe House' is defined in the general provisions, none of the candidate passages for this criterion state that a service unit provides or operates shelter/safe house services.",
+      "evidence_verified": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 5\nIn order to realize the objectives as referred to in Article 3 letter b, efforts shall be made through:\na. establishment, development, and capacity strengthening of institutions for the protection of women and children including complaint service units for violence against women and children, as well as legal aid services;\nb. improvement of the quality of human resources management;\nc. institutional capacity strengthening of Gender Mainstreaming (PUG) and children;\nd. strengthening and development of gender and children data systems.",
+      "rationale": "The passages explicitly include the establishment and strengthening of institutions for protection of women and children, including legal aid services, indicating provision of legal assistance as part of service delivery.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 9\nCurative efforts as referred to in Article 6 are as follows: a. optimizing technical services related to complaints of violence against women and children;\nb. providing adequate facilities and infrastructure for handling health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\nc. conducting handling for victims of crime and violence quickly, precisely, and accurately by law enforcement officials.",
+      "rationale": "The passages explicitly refer to providing facilities and infrastructure for health rehabilitation as part of curative efforts for handling violence cases, indicating health/medical services are included.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 10\nRehabilitative efforts as referred to in Article 6 are as follows: a. providing accompanying personnel for victims of crime and violence which includes among others psychologists, psychiatrists, religious counselors/spiritual companions, lawyers, medical personnel;\nb. strengthening work networks and coordination in the reintegration process as well as the return of victims to their families and/or social environment.\n- 9 -",
+      "rationale": "The passages specify provision of accompanying personnel including psychologists and psychiatrists for victims, which constitutes psychosocial counseling/support services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 10\nRehabilitative efforts as referred to in Article 6 are as follows: a. providing accompanying personnel for victims of crime and violence which includes among others psychologists, psychiatrists, religious counselors/spiritual companions, lawyers, medical personnel;\nb. strengthening work networks and coordination in the reintegration process as well as the return of victims to their families and/or social environment.\n- 9 -",
+      "rationale": "The passages explicitly include religious counselors/spiritual companions among accompanying personnel for victims, indicating religious/spiritual counseling support is provided.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 10\nRehabilitative efforts as referred to in Article 6 are as follows: a. providing accompanying personnel for victims of crime and violence which includes among others psychologists, psychiatrists, religious counselors/spiritual companions, lawyers, medical personnel;\nb. strengthening work networks and coordination in the reintegration process as well as the return of victims to their families and/or social environment.\n- 9 -",
+      "rationale": "The passages describe rehabilitative efforts including coordination for reintegration and return of victims to their families and/or social environment, which corresponds to resocialisation/reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 15\nP2TP2A is one form of integrated service unit that functions as:\na. an information center for women and children;\nb. a service center for women and children victims of violence; and c. an empowerment center for women and children.",
+      "rationale": "P2TP2A is described as functioning as an empowerment center for women and children, which implies provision of empowerment/support services that can include economic empowerment/support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 7\nPromotive efforts as referred to in Article 6 are as follows: a. strengthening coordination mechanisms and networks between service units in efforts to handle cases of violence;\nb. providing Communication, Information, and Education (IEC) materials related to prevention and handling of violence;\nc. conducting socialization, advocacy and social campaigns in the context of prevention and handling of violence.",
+      "rationale": "The policy includes promotive efforts that provide Communication, Information, and Education (IEC) materials and conduct socialization/campaigns for prevention and handling of violence, which constitutes information and education aimed at preventing VAW.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy defines gender equality and gender justice as principles, the provided passages on promotive/preventive actions focus on violence prevention/handling and legal awareness generally, without explicitly describing information/education activities specifically about gender equality or women’s rights.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 8\nPreventive measures as referred to in Article 6 are as follows:\na. conducting legal awareness education for the community, especially for women and children;\nb. conducting massive and sustainable movements involving the community in prevention and handling of violence;\nc. instilling character values, morals, and family resilience;\nd. involving the role and participation of the community in women's empowerment and child protection.",
+      "rationale": "The policy explicitly includes preventive measures to conduct legal awareness education for the community, especially for women and children, which covers education about relevant laws/policies related to violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 8\nPreventive measures as referred to in Article 6 are as follows:\na. conducting legal awareness education for the community, especially for women and children;\nb. conducting massive and sustainable movements involving the community in prevention and handling of violence;\nc. instilling character values, morals, and family resilience;\nd. involving the role and participation of the community in women's empowerment and child protection.",
+      "rationale": "The policy lists preventive measures that include conducting legal awareness education for the community and instilling character values/morals/family resilience, which are education-based prevention actions.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Regional Government, community, non-governmental organizations, or other institutions establish technical service units in realizing an integrated, one-stop and networked system for women's empowerment and child protection;\n(2) The technical service unit as referred to in paragraph (1) is P2TP2A.",
+      "rationale": "The policy explicitly includes non-governmental organizations among the actors involved in establishing technical service units for an integrated system, indicating collaboration/engagement with NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention religious counselors/spiritual companions as service personnel, but do not describe engagement or collaboration with religious organizations or leaders as stakeholders for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly or implicitly refer to traditional/cultural organizations or leaders, nor to collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nPARTICIPATION\nArticle 21\nThe community, business sector, academics, and other professional groups may participate in the implementation of the women's empowerment and child protection system.",
+      "rationale": "The policy states that academics and other professional groups may participate in implementing the system, which implicitly covers engagement with education institutions such as universities.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference coordination with a national Ministry and other domestic actors, but do not mention international organizations or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions IEC materials and social campaigns, none of the passages explicitly identify media as a stakeholder or describe collaboration/engagement with media entities.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 8\nPreventive measures as referred to in Article 6 are as follows:\na. conducting legal awareness education for the community, especially for women and children;\nb. conducting massive and sustainable movements involving the community in prevention and handling of violence;\nc. instilling character values, morals, and family resilience;\nd. involving the role and participation of the community in women's empowerment and child protection.",
+      "rationale": "The policy includes preventive measures that involve the community in prevention and handling of violence and explicitly calls for community participation, indicating stakeholder engagement with society/community.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nPARTICIPATION\nArticle 21\nThe community, business sector, academics, and other professional groups may participate in the implementation of the women's empowerment and child protection system.",
+      "rationale": "The policy explicitly states that the business sector may participate in implementation of the system, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict zones, disasters, disaster-prone areas, or any women-specific protection measures tailored to such contexts; the text focuses on general women’s empowerment and protection from violence.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The definition of integrated services explicitly includes protection for victims of violence including criminal acts of human trafficking, which applies to women victims within the regulation’s scope.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sampang Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and DPRD according to the principles of autonomy and assistance tasks with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n3. Regent is the Regent of Sampang.\n4. Regional Secretary is the Regional Secretary of Sampang Regency.\n- 4 -\n5. Regional Apparatus is an auxiliary element of the Regional Head and the Regional House of Representatives in the administration of Governmental Affairs that are the authority of the Region.\n6. The Office of Family Planning for Women's Empowerment and Child Protection, hereinafter referred to as DKBP3A, is a Regional Apparatus Organization that has the main duties and functions in the field of Women's Empowerment and Child Protection in Sampang Regency.\n7. Child is a person who is not yet 18 years old, including a child still in the womb.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination;\n9. Child protection is all activities to guarantee and protect children and their rights, so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination;\n10. Violence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering of children physically, mentally, socially, psychosocially, and sexually.\n13. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n- 5 -\n15. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\n16. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs that results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n17. Victim is a woman including Female Workers who work abroad and children who experience misery and/or suffering either directly or indirectly as a result of such violence.\n18. Women's Empowerment is any effort to improve physical, mental, spiritual, social, knowledge, and skills capacity so that women are ready to be utilized according to their respective abilities.\n19. Gender equality and justice is equal opportunity between men and women to participate in the development process, equal access to all forms of services, and have balanced social and economic status.\n20. Integrated service is a series of activities to provide protection for victims of violence including criminal acts of human trafficking carried out jointly by relevant agencies or institutions as a unified implementation of health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance;\n21. Integrated Service Center for Women's Empowerment and Child Protection, hereinafter referred to as P2TP2A, is an integrated service institution for victims of violence against women and children;\n22. Protection of women is any act aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n23. The system of women's empowerment and child protection is the entire process of implementing women's empowerment and child protection carried out comprehensively, inclusively, integratively starting from the stage of report/complaint handling services, health services, social rehabilitation, law enforcement and legal assistance up to - 6 - repatriation and social reintegration for women and children victims of crime and violence to their social environment;\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n25. Legal act is any act or action of a legal subject that has legal consequences and such legal consequences are indeed desired by the legal subject.\n26. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred;\n27. Companion is a person who has expertise to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n28. Social worker is a person who has expertise to listen empathetically and explore problems to provide counseling in efforts to strengthen the victim's psychology.\n29. Medicolegal is an effort to collect evidence for the purposes of proof in the judicial process.\n30. Women's Crisis Center is a service center for women and children victims of violence.\n31. Safe House is a temporary residence for victims, in order to obtain a sense of security and not be reached by the perpetrator or the perpetrator's messenger, while their case has not been resolved.\n32. Standard Operational Procedure, hereinafter referred to as SOP, is a procedure that serves as a reference for service actions established by Regent's Decree.\n33. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly mentions “Female Workers who work abroad” within the definition of victim, indicating recognition and inclusion of women workers as a protected group under the system.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention elderly women or any age-specific protection measures for older women; protections described are general for women and children.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage references disability, persons with disabilities, or disability-specific accommodations/protections.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not identify women heads of household/families as a target group or provide tailored protection measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention minority/isolated groups or special protections targeted to women from such groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text discusses legal aid and law enforcement handling for victims of violence, it does not specifically mention women in conflict with the law as witnesses or perpetrators, nor special protections for them in legal processes.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention indigenous peoples/masyarakat adat or any special protection measures targeted at them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage refers to refugees, internally displaced persons, forced displacement, or protection measures tailored to those situations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not mention domestic workers or provide any specific protections targeted at domestic work.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no mention of homelessness or housing insecurity among women, nor any targeted protection measures for homeless women.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although reintegration and rehabilitation services are mentioned for victims of crime and violence, the passages do not specifically address women who are former inmates or formerly incarcerated women as a target group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nFUNDING\nArticle 23\nFunding for the implementation of Women's Empowerment and Child Protection is sourced from:\na. Regional Revenue and Expenditure Budget (APBD);\nb. other legal and non-binding sources based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that funding is sourced from the Regional Revenue and Expenditure Budget (APBD), which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages mention regional budget (APBD), reporting to a Minister, and other legal/non-binding sources, but none explicitly identify the national government budget (e.g., APBN) as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages list funding from the regional budget (APBD) and other legal/non-binding sources, but do not explicitly mention international donors, foreign governments, UN agencies, or other international funding support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nFUNDING\nArticle 23\nFunding for the implementation of Women's Empowerment and Child Protection is sourced from:\na. Regional Revenue and Expenditure Budget (APBD);\nb. other legal and non-binding sources based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly includes 'other legal and non-binding sources' as a funding source, which directly matches the criterion of other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the passages mention coordination/reporting with the province, the only explicitly stated funding source is the regional budget (APBD) plus other legal/non-binding sources; there is no explicit mention of a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

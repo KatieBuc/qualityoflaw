@@ -4,7 +4,7 @@ from typing import Any
 
 from automation.src.config_loader import get_run_dir
 
-STEPS = ("translation", "storage", "evaluation")
+STEPS = ("translation", "storage", "evaluation", "discrepancy_diagnosis")
 
 
 def _failures_path(run_id: str):
@@ -17,6 +17,7 @@ def _empty_log() -> dict[str, Any]:
         "translation": [],
         "storage": [],
         "evaluation": [],
+        "discrepancy_diagnosis": [],
     }
 
 
@@ -37,7 +38,7 @@ def _write_failures(run_id: str, log: dict[str, Any]) -> None:
 def _item_key(step: str, entry: dict[str, Any]) -> str:
     if step in ("translation", "storage"):
         return entry["filename"]
-    if step == "evaluation":
+    if step in ("evaluation", "discrepancy_diagnosis"):
         return entry["policy_file"]
     raise ValueError(f"Unknown failure step: {step}")
 
@@ -73,7 +74,12 @@ def clear_failure(run_id: str, step: str, item_key: str) -> None:
         return
 
     log[step] = filtered
-    if not log["translation"] and not log["storage"] and not log["evaluation"]:
+    if (
+        not log.get("translation")
+        and not log.get("storage")
+        and not log.get("evaluation")
+        and not log.get("discrepancy_diagnosis")
+    ):
         path.unlink(missing_ok=True)
         return
     _write_failures(run_id, log)
@@ -85,4 +91,5 @@ def summarize_failures(run_id: str) -> dict[str, int]:
         "translation": len(log.get("translation", [])),
         "storage": len(log.get("storage", [])),
         "evaluation": len(log.get("evaluation", [])),
+        "discrepancy_diagnosis": len(log.get("discrepancy_diagnosis", [])),
     }

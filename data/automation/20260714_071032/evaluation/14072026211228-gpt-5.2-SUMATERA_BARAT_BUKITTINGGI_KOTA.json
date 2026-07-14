@@ -1,0 +1,469 @@
+{
+  "policy_file": "SUMATERA_BARAT_BUKITTINGGI_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:07:41.682934+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "ELUCIDATION OF\nREGIONAL REGULATION OF BUKITTINGGI CITY\nNUMBER 4 YEAR 2015\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nI. GENERAL\nThe protection of women and children, until now, remains something that is widely discussed globally. There are still many, even in the most developed countries, violations of the rights of women and children continue to occur to this very moment. The understanding or view of some communities that see women and children as parties of lower status, or under the domination of men, until now still cannot be completely eliminated.\n\nRecognizing this, in line with national development priorities, the Regional Government of Bukittinggi strives to produce local policies formulated within the framework of regional regulations, a guideline or reference for the empowerment and protection of women and children in a more institutionalized manner.\n\nThe objectives of formulating this Draft Regional Regulation are as follows:\n1. To protect women and children from actions, decisions and policies that violate basic human rights.\n2. To provide clear responsibility for the government, community, family, ninik mamak, and parents toward the rights of children and women.\n3. To provide clear boundaries regarding the role of mamak toward kemenakan and parents toward children.\n4. To protect women and children from acts of violence, neglect, exploitation, and human trafficking as well as the rights of women in the event of divorce.\n5. To contribute to the realization of gender equality and justice in various activities and to improve the welfare of women and children in Bukittinggi City.\n6. To organize the structure and institutions of government and customary institutions in efforts to protect women and children.\n7. As a guideline in making policies for the Regional Government and social institutions in matters related to the protection of women and children in Bukittinggi City.\n8. To protect women and children domiciled in Bukittinggi City from actions that violate their basic rights.\n9. To provide guidance on the role of the Regional Government, community, parents and other parties concerned with the interests of women and children.\n\nWith the presence of this Regional Regulation as a part of the national legal system concerning the protection and empowerment of women and children, all forms of violations of their rights such as being neglected, exploited, discriminated against and even frequently experiencing domestic violence (KDRT), low quality of life, inability to contribute to the progress of development, can be institutionally eliminated and eradicated in our region.\n\nIt can be affirmed that this Regional Regulation will later establish the basic rules regarding the authority, rights and obligations of the government, community and elements concerned with children and women, by making local wisdom, customary values and the Minangkabau cultural worldview toward women and children as the foundation of the main philosophy, which can simply be expressed through customary sayings or expressions such as \"bundo kanduang limpapeh rumah nan gadang\", and \"anak dipangku kemenakan dibimbing\".",
+      "rationale": "The policy explicitly references domestic violence (KDRT) as a form of rights violation to be eliminated, indicating domestic violence is included within the scope of protection.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 6\nEvery child has the right:\na. To live, grow, develop and participate reasonably in accordance with human dignity and worth, and to receive protection from acts of violence, exploitation, discrimination and neglect.\nb. To a name as personal identity and citizenship status.\nc. To worship according to their religion, to think and express themselves in accordance with their level of intelligence and age, under the guidance of parents.\nd. To know their parents, to be cared for and raised by their own parents.\ne. In the event that for any reason the parents cannot guarantee the child's growth and development, or the child is in a state of neglect, then the child has the right to be cared for or adopted as a foster child or adopted child by other persons in accordance with the provisions of applicable laws and regulations.\nf. To obtain health services and social security in accordance with physical, mental, spiritual, and social needs.\ng. To obtain education and instruction in the context of developing their personality and level of intelligence in accordance with their interests and talents.\nh. To receive protection in educational units from sexual crimes and violence committed by educators, education personnel, fellow students, and/or other parties.\ni. To receive special and extraordinary education for children with disabilities and children who have excellence.\nj. To express and have their opinions heard, to receive, seek, and provide information in accordance with their level of intelligence and age for their self-development in accordance with the values of decency and propriety.\nk. To rest and utilize leisure time, to associate with peers, to play, to recreate, and to create in accordance with their interests, talents, and level of intelligence for self-development.\nl. To obtain rehabilitation, social assistance and restoration of social welfare standards for children with disabilities.\nm. To receive protection from treatment during the care of parents, guardians, or any other party responsible for care, from discriminatory treatment, exploitation, whether economic or sexual, neglect, cruelty, violence, and abuse, injustice and other mistreatment.\nn. To be cared for by their own parents, unless there are reasons and/or valid legal rules showing that the separation is in the best interests of the child and is a last consideration.\no. In the event of separation between the child and their parents, the child still has the right to:\n1. meet directly and maintain personal contact regularly with both parents;\n2. receive care, maintenance, education and protection for the growth and development process from both parents in accordance with their abilities, talents and interests;\n3. obtain financial support for living from both parents; and\n4. obtain other children's rights.\np. To obtain protection from abuse in political activities, involvement in armed conflicts, involvement in social unrest, involvement in events containing elements of violence, involvement in warfare and sexual crimes.\nq. To obtain protection from being targets of persecution, torture or imposition of punishment or inhuman sanctions.\nr. To obtain freedom in accordance with the law.\ns. Every child who is deprived of their freedom has the right to:\n1. receive humane treatment and placement separated from adults;\n2. obtain legal assistance or other assistance effectively at every stage of applicable legal remedies; and\n3. defend themselves and obtain justice before an objective and impartial juvenile court in a closed session to the public.\nt. Every child who becomes a victim or perpetrator of sexual violence or who is in conflict with the law has the right to confidentiality.\nu. To receive legal assistance and other assistance if they become a victim or perpetrator of a criminal act.",
+      "rationale": "The policy explicitly addresses sexual crimes/sexual violence against children, including protection from sexual crimes in educational settings and confidentiality rights for victims/perpetrators of sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nIMPLEMENTATION OF PROTECTION AGAINST\nVIOLATIONS OF WOMEN'S AND CHILDREN'S RIGHTS\nArticle 20\n(1) Violations of women's rights, whether in the form of physical, psychological, discriminatory treatment, and exploitation must receive legal protection and be prosecuted legally.\n(2) In addition to the application of state law as referred to in paragraph (1), perpetrators of violations of women's rights may be subject to sanctions according to customary law that lives and develops in the midst of society.",
+      "rationale": "The policy explicitly includes violations in the form of physical harm as requiring legal protection and prosecution, indicating physical violence is covered.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nIMPLEMENTATION OF PROTECTION AGAINST\nVIOLATIONS OF WOMEN'S AND CHILDREN'S RIGHTS\nArticle 20\n(1) Violations of women's rights, whether in the form of physical, psychological, discriminatory treatment, and exploitation must receive legal protection and be prosecuted legally.\n(2) In addition to the application of state law as referred to in paragraph (1), perpetrators of violations of women's rights may be subject to sanctions according to customary law that lives and develops in the midst of society.",
+      "rationale": "The policy explicitly includes psychological forms of violations of women's rights as requiring legal protection and prosecution, covering psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is the City of Bukittinggi.\n2. Regional Government is the administration of governmental affairs by the regional government and the regional house of representatives according to the principles of autonomy and assistance duties with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the regional head as an element of regional government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Mayor is the Mayor of Bukittinggi.\n5. Regional House of Representatives of the City of Bukittinggi, hereinafter abbreviated as DPRD, is a regional people's representative institution as an element of regional government administration.\n6. Regional Work Unit, hereinafter abbreviated as SKPD, is one that has authority in the field of women's empowerment and family planning.\n7. Community is individuals, families, groups and social organizations and/or community organizations.\n8. Customs are eternal patterns of behavior passed down from one generation to another generation as heritage so that they are strongly integrated with community behavior patterns.\n9. Non-Governmental Organization, hereinafter abbreviated as LSM, is an organization/institution formed by citizens of the Republic of Indonesia voluntarily of their own will and interested in and engaged in the field of social welfare business as a manifestation of community participation in improving the standard of living and welfare of the community with emphasis on voluntary service.\n10. Social Organization is an institution/foundation/social association formed by the community, whether legally incorporated or not, which functions as a means of community participation in implementing social welfare efforts.\n11. Empowerment is a process, method and action of providing power and strength so that a person is able to explore potential and positive energy and provide an impact on a better quality of life.\n12. Woman is every person who is born, recognized by society and registered as a woman or female.\n13. Protection of Women is all efforts to guarantee and protect women's rights so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and receive protection from neglect, violence and discrimination whether in the form of preventive, repressive or post-remedial protection (assistance and treatment).\n14. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.\n15. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n16. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren).\n17. Household Scope is husband, wife and child(ren), people who have family relations with the husband, wife and child(ren), whether due to blood relations, marriage, milk kinship, foster care, and guardianship who reside in the household, and/or people who work to help the household and reside in that household.\n18. Parents are biological father and/or mother, or stepfather and stepmother, or adoptive father and/or mother.\n19. Guardian is a person or body who in reality exercises parental authority as a parent toward a child.\n20. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n21. Child with Disability is a child who experiences physical and/or mental obstacles that disrupt his/her growth and development naturally.\n22. Toddler is a child aged 1 (one) to 5 (five) years, in the early stage of human development.\n23. School-Age Child is a child aged 6 (six) to 18 (eighteen) years.\n24. Delinquent Child is a child who behaves deviating from community norms, harming/endangering his/her own health/safety, disturbing the peace and order of the community and family and community life, but still below the category that can be prosecuted by law/court.\n25. Child Who is a Victim of Violence is a child who receives mistreatment such as being abused, humiliated physically, mentally and socially as a child.\n26. Child in Conflict with the Law is a child who is in conflict with the law and a child who is a victim of a criminal act.\n27. Economically Exploited Child is a child who is forced and deceived to be employed by parents or other people without being paid or being paid.\n28. Child Who is a Victim of Narcotics Abuse is a child who suffers from dependence on narcotics caused by narcotics abuse either by his/her own will or due to encouragement or coercion by others.\n29. Child Trafficking is a criminal act or action that meets one or more elements of recruitment, transfer, handover of a child using violence or threat of violence, fraud, kidnapping, confinement, abuse of power, exploitation of a position of vulnerability or debt bondage for the purpose of and/or resulting in exploiting the child.\n30. Social Work Profession is a profession based on a framework of knowledge, values and technical skills and can be used as a vehicle in implementing social welfare efforts.\n31. Child Care Center, hereinafter abbreviated as TPA, is a forum for guidance and welfare services for children aged 0-5 years whose parents do not have the ability and opportunity in child care, which is possible for playgroup services.\n32. Playgroup is a forum for child welfare efforts prioritizing play activities and organizing pre-school education for children aged 3 years until entering basic education.\n33. Marriage is a physical and spiritual bond between a man and a woman as husband and wife with the aim of forming a happy and eternal family (household) based on Belief in the One and Only God.\n34. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n35. Violence is any act unlawfully with or without using means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n36. Violence Against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n37. Violence Against Children is acts of physical violence, sexual violence, emotional abuse and neglect of children as well as acts of exploitation and discrimination against children that make children become physically and/or psychologically ill, depressed, emotionally underdeveloped, feel excluded and lose self-confidence.\n38. Acts of Domestic Violence are any actions against a person, especially women, that result in misery or suffering physically, sexually, psychologically and/or domestic neglect including threats to commit acts, coercion or deprivation of freedom unlawfully within the household scope.\n39. Victim of Domestic Violence is a person who experiences violence and/or threat of violence within the household scope.\n40. Divorce is the release of the marriage bond from the husband's side by uttering a specific phrase such as \"I divorce you\".\n41. Integrated Service Center for Women and Child Empowerment Saayun Salangkah, hereinafter abbreviated as P2TP2A Saayun Salangkah, is one form of service facility for women and children in efforts to fulfill information and needs in the fields of education, health, economy, politics and law, protection and prevention of acts of violence and trafficking against women and children in the City of Bukittinggi.\n42. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of government, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.\n43. Child-Friendly City Task Force, hereinafter abbreviated as Gugus Tugas KLA, is a coordinative institution at the city level that coordinates policies, programs and activities to realize KLA.",
+      "rationale": "The policy explicitly defines domestic violence to include domestic neglect and also defines economically exploited children, indicating coverage of economic violence/economic exploitation/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women generally but do not explicitly address femicide/feminicide (gender-related killing of women).",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "ELUCIDATION OF\nREGIONAL REGULATION OF BUKITTINGGI CITY\nNUMBER 4 YEAR 2015\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nI. GENERAL\nThe protection of women and children, until now, remains something that is widely discussed globally. There are still many, even in the most developed countries, violations of the rights of women and children continue to occur to this very moment. The understanding or view of some communities that see women and children as parties of lower status, or under the domination of men, until now still cannot be completely eliminated.\n\nRecognizing this, in line with national development priorities, the Regional Government of Bukittinggi strives to produce local policies formulated within the framework of regional regulations, a guideline or reference for the empowerment and protection of women and children in a more institutionalized manner.\n\nThe objectives of formulating this Draft Regional Regulation are as follows:\n1. To protect women and children from actions, decisions and policies that violate basic human rights.\n2. To provide clear responsibility for the government, community, family, ninik mamak, and parents toward the rights of children and women.\n3. To provide clear boundaries regarding the role of mamak toward kemenakan and parents toward children.\n4. To protect women and children from acts of violence, neglect, exploitation, and human trafficking as well as the rights of women in the event of divorce.\n5. To contribute to the realization of gender equality and justice in various activities and to improve the welfare of women and children in Bukittinggi City.\n6. To organize the structure and institutions of government and customary institutions in efforts to protect women and children.\n7. As a guideline in making policies for the Regional Government and social institutions in matters related to the protection of women and children in Bukittinggi City.\n8. To protect women and children domiciled in Bukittinggi City from actions that violate their basic rights.\n9. To provide guidance on the role of the Regional Government, community, parents and other parties concerned with the interests of women and children.\n\nWith the presence of this Regional Regulation as a part of the national legal system concerning the protection and empowerment of women and children, all forms of violations of their rights such as being neglected, exploited, discriminated against and even frequently experiencing domestic violence (KDRT), low quality of life, inability to contribute to the progress of development, can be institutionally eliminated and eradicated in our region.\n\nIt can be affirmed that this Regional Regulation will later establish the basic rules regarding the authority, rights and obligations of the government, community and elements concerned with children and women, by making local wisdom, customary values and the Minangkabau cultural worldview toward women and children as the foundation of the main philosophy, which can simply be expressed through customary sayings or expressions such as \"bundo kanduang limpapeh rumah nan gadang\", and \"anak dipangku kemenakan dibimbing\".",
+      "rationale": "The policy explicitly lists human trafficking as one of the acts from which women and children must be protected.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 6\nEvery child has the right:\na. To live, grow, develop and participate reasonably in accordance with human dignity and worth, and to receive protection from acts of violence, exploitation, discrimination and neglect.\nb. To a name as personal identity and citizenship status.\nc. To worship according to their religion, to think and express themselves in accordance with their level of intelligence and age, under the guidance of parents.\nd. To know their parents, to be cared for and raised by their own parents.\ne. In the event that for any reason the parents cannot guarantee the child's growth and development, or the child is in a state of neglect, then the child has the right to be cared for or adopted as a foster child or adopted child by other persons in accordance with the provisions of applicable laws and regulations.\nf. To obtain health services and social security in accordance with physical, mental, spiritual, and social needs.\ng. To obtain education and instruction in the context of developing their personality and level of intelligence in accordance with their interests and talents.\nh. To receive protection in educational units from sexual crimes and violence committed by educators, education personnel, fellow students, and/or other parties.\ni. To receive special and extraordinary education for children with disabilities and children who have excellence.\nj. To express and have their opinions heard, to receive, seek, and provide information in accordance with their level of intelligence and age for their self-development in accordance with the values of decency and propriety.\nk. To rest and utilize leisure time, to associate with peers, to play, to recreate, and to create in accordance with their interests, talents, and level of intelligence for self-development.\nl. To obtain rehabilitation, social assistance and restoration of social welfare standards for children with disabilities.\nm. To receive protection from treatment during the care of parents, guardians, or any other party responsible for care, from discriminatory treatment, exploitation, whether economic or sexual, neglect, cruelty, violence, and abuse, injustice and other mistreatment.\nn. To be cared for by their own parents, unless there are reasons and/or valid legal rules showing that the separation is in the best interests of the child and is a last consideration.\no. In the event of separation between the child and their parents, the child still has the right to:\n1. meet directly and maintain personal contact regularly with both parents;\n2. receive care, maintenance, education and protection for the growth and development process from both parents in accordance with their abilities, talents and interests;\n3. obtain financial support for living from both parents; and\n4. obtain other children's rights.\np. To obtain protection from abuse in political activities, involvement in armed conflicts, involvement in social unrest, involvement in events containing elements of violence, involvement in warfare and sexual crimes.\nq. To obtain protection from being targets of persecution, torture or imposition of punishment or inhuman sanctions.\nr. To obtain freedom in accordance with the law.\ns. Every child who is deprived of their freedom has the right to:\n1. receive humane treatment and placement separated from adults;\n2. obtain legal assistance or other assistance effectively at every stage of applicable legal remedies; and\n3. defend themselves and obtain justice before an objective and impartial juvenile court in a closed session to the public.\nt. Every child who becomes a victim or perpetrator of sexual violence or who is in conflict with the law has the right to confidentiality.\nu. To receive legal assistance and other assistance if they become a victim or perpetrator of a criminal act.",
+      "rationale": "The policy explicitly includes protection from exploitation, including economic or sexual exploitation, indicating sexual exploitation is covered.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly address technology-facilitated violence (e.g., online harassment, cyberstalking, non-consensual image sharing).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages describe intra-city institutions and service providers (e.g., P2TP2A, police units, health facilities) and city-level task forces, but do not mention coordination or cooperation with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The passages indicate NGOs/social organizations can be involved in the complaint handling pathway (e.g., referrals), demonstrating an operational cooperation mechanism with non-government actors.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 31\n(1) In order to ensure the effectiveness of the implementation of CFC policy in the Region, a CFC Task Force shall be established.\n(2) The implementation of CFC policy as referred to in paragraph (1), shall be stipulated by Mayor's Decree.\n(3) The CFC Task Force as referred to in paragraph (1), shall have the following main duties:\na. coordinating the implementation of policy and development of CFC;\nb. determining the tasks of the Task Force members;\nc. conducting socialization, advocacy and communication of information and education on CFC policy;\nd. collecting baseline data;\ne. conducting needs analysis sourced from baseline data;\nf. disseminating baseline data;\ng. determining the focus and priority of programs in realizing CFC, which are adjusted to regional potential;\nh. formulating a 5 (five) year regional action plan for CFC and work mechanisms; and\ni. conducting monitoring, evaluation and reporting at least once every 1 (one) year.\n(4) The membership of the CFC Task Force shall be stipulated by Mayor's Decree.",
+      "rationale": "The policy assigns a task force duties that include collecting and disseminating baseline data and conducting needs analysis, which constitutes an information/data collection system relevant to protection policy implementation.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 9\nProtection of women includes:\na. Conducting socialization, education and anti-violence against women campaigns by actively involving all Regional Work Unit Apparatus, work partners and the community.\nb. Ensuring gender mainstreaming programs in every Regional Work Unit Apparatus, to guarantee equality between men and women, which is reflected in the Budget Plan of the Regional Work Unit Apparatus.\nc. Conducting early detection of cases of violence against women.\nd. Providing service facilities for victims of violence against women, both services for physical victims and psychological services for victims, through improvement of special facilities and infrastructure at Hospitals and at P2TP2A.\ne. Requiring all Hospitals to be willing to accept women victims of violence for visum and to undergo health care.\nf. Granting women's rights in accordance with their dignity and worth as women.\ng. Protecting women workers from acts of discrimination, exploitation and violence.\nh. Requiring the provision of special infrastructure for women according to criteria, in every government building, private office and other public facilities.\ni. Requiring the provision of lactation room facilities for government buildings that provide public services and other public facility places such as malls, supermarkets, doctor's practice places and the like.",
+      "rationale": "The policy explicitly requires gender mainstreaming programs within every Regional Work Unit Apparatus, indicating institutionalization of gender mainstreaming within government structures.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss socialization, education, and legal counseling aimed at the public/community, but do not explicitly establish training or capacity-building programs for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 31\n(1) In order to ensure the effectiveness of the implementation of CFC policy in the Region, a CFC Task Force shall be established.\n(2) The implementation of CFC policy as referred to in paragraph (1), shall be stipulated by Mayor's Decree.\n(3) The CFC Task Force as referred to in paragraph (1), shall have the following main duties:\na. coordinating the implementation of policy and development of CFC;\nb. determining the tasks of the Task Force members;\nc. conducting socialization, advocacy and communication of information and education on CFC policy;\nd. collecting baseline data;\ne. conducting needs analysis sourced from baseline data;\nf. disseminating baseline data;\ng. determining the focus and priority of programs in realizing CFC, which are adjusted to regional potential;\nh. formulating a 5 (five) year regional action plan for CFC and work mechanisms; and\ni. conducting monitoring, evaluation and reporting at least once every 1 (one) year.\n(4) The membership of the CFC Task Force shall be stipulated by Mayor's Decree.",
+      "rationale": "The policy explicitly mandates monitoring, evaluation, and reporting at least annually as part of the task force’s duties, indicating a monitoring and evaluation mechanism for implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is the City of Bukittinggi.\n2. Regional Government is the administration of governmental affairs by the regional government and the regional house of representatives according to the principles of autonomy and assistance duties with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the regional head as an element of regional government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Mayor is the Mayor of Bukittinggi.\n5. Regional House of Representatives of the City of Bukittinggi, hereinafter abbreviated as DPRD, is a regional people's representative institution as an element of regional government administration.\n6. Regional Work Unit, hereinafter abbreviated as SKPD, is one that has authority in the field of women's empowerment and family planning.\n7. Community is individuals, families, groups and social organizations and/or community organizations.\n8. Customs are eternal patterns of behavior passed down from one generation to another generation as heritage so that they are strongly integrated with community behavior patterns.\n9. Non-Governmental Organization, hereinafter abbreviated as LSM, is an organization/institution formed by citizens of the Republic of Indonesia voluntarily of their own will and interested in and engaged in the field of social welfare business as a manifestation of community participation in improving the standard of living and welfare of the community with emphasis on voluntary service.\n10. Social Organization is an institution/foundation/social association formed by the community, whether legally incorporated or not, which functions as a means of community participation in implementing social welfare efforts.\n11. Empowerment is a process, method and action of providing power and strength so that a person is able to explore potential and positive energy and provide an impact on a better quality of life.\n12. Woman is every person who is born, recognized by society and registered as a woman or female.\n13. Protection of Women is all efforts to guarantee and protect women's rights so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and receive protection from neglect, violence and discrimination whether in the form of preventive, repressive or post-remedial protection (assistance and treatment).\n14. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.\n15. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n16. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren).\n17. Household Scope is husband, wife and child(ren), people who have family relations with the husband, wife and child(ren), whether due to blood relations, marriage, milk kinship, foster care, and guardianship who reside in the household, and/or people who work to help the household and reside in that household.\n18. Parents are biological father and/or mother, or stepfather and stepmother, or adoptive father and/or mother.\n19. Guardian is a person or body who in reality exercises parental authority as a parent toward a child.\n20. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n21. Child with Disability is a child who experiences physical and/or mental obstacles that disrupt his/her growth and development naturally.\n22. Toddler is a child aged 1 (one) to 5 (five) years, in the early stage of human development.\n23. School-Age Child is a child aged 6 (six) to 18 (eighteen) years.\n24. Delinquent Child is a child who behaves deviating from community norms, harming/endangering his/her own health/safety, disturbing the peace and order of the community and family and community life, but still below the category that can be prosecuted by law/court.\n25. Child Who is a Victim of Violence is a child who receives mistreatment such as being abused, humiliated physically, mentally and socially as a child.\n26. Child in Conflict with the Law is a child who is in conflict with the law and a child who is a victim of a criminal act.\n27. Economically Exploited Child is a child who is forced and deceived to be employed by parents or other people without being paid or being paid.\n28. Child Who is a Victim of Narcotics Abuse is a child who suffers from dependence on narcotics caused by narcotics abuse either by his/her own will or due to encouragement or coercion by others.\n29. Child Trafficking is a criminal act or action that meets one or more elements of recruitment, transfer, handover of a child using violence or threat of violence, fraud, kidnapping, confinement, abuse of power, exploitation of a position of vulnerability or debt bondage for the purpose of and/or resulting in exploiting the child.\n30. Social Work Profession is a profession based on a framework of knowledge, values and technical skills and can be used as a vehicle in implementing social welfare efforts.\n31. Child Care Center, hereinafter abbreviated as TPA, is a forum for guidance and welfare services for children aged 0-5 years whose parents do not have the ability and opportunity in child care, which is possible for playgroup services.\n32. Playgroup is a forum for child welfare efforts prioritizing play activities and organizing pre-school education for children aged 3 years until entering basic education.\n33. Marriage is a physical and spiritual bond between a man and a woman as husband and wife with the aim of forming a happy and eternal family (household) based on Belief in the One and Only God.\n34. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n35. Violence is any act unlawfully with or without using means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n36. Violence Against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n37. Violence Against Children is acts of physical violence, sexual violence, emotional abuse and neglect of children as well as acts of exploitation and discrimination against children that make children become physically and/or psychologically ill, depressed, emotionally underdeveloped, feel excluded and lose self-confidence.\n38. Acts of Domestic Violence are any actions against a person, especially women, that result in misery or suffering physically, sexually, psychologically and/or domestic neglect including threats to commit acts, coercion or deprivation of freedom unlawfully within the household scope.\n39. Victim of Domestic Violence is a person who experiences violence and/or threat of violence within the household scope.\n40. Divorce is the release of the marriage bond from the husband's side by uttering a specific phrase such as \"I divorce you\".\n41. Integrated Service Center for Women and Child Empowerment Saayun Salangkah, hereinafter abbreviated as P2TP2A Saayun Salangkah, is one form of service facility for women and children in efforts to fulfill information and needs in the fields of education, health, economy, politics and law, protection and prevention of acts of violence and trafficking against women and children in the City of Bukittinggi.\n42. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of government, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.\n43. Child-Friendly City Task Force, hereinafter abbreviated as Gugus Tugas KLA, is a coordinative institution at the city level that coordinates policies, programs and activities to realize KLA.",
+      "rationale": "The policy defines an Integrated Service Center for Women and Child Empowerment (P2TP2A Saayun Salangkah) as a service facility addressing protection and prevention of violence and trafficking against women and children, indicating an integrated service unit exists.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy states that complaint-handling services are implemented by, among others, “PPA Units at Polres,” indicating a specialized unit within police offices for handling complaints related to violations of women’s and children’s rights (including VAW).",
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy establishes complaint-handling services and specifies reporting channels including direct reporting, telephone, and letter, showing there is a service mechanism to receive reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) Protection of women and children is carried out in the form of:\na. preventive;\nb. repressive; and\nc. postremedial protection.\n(2) Preventive protection as referred to in paragraph (1) letter a is implemented through socialization and guidance to parents, heads of families, housewives, guardians, teaching/educational staff, experts, caregivers (owners and officers of orphanages) and customary law communities regarding their obligations in the protection of women and children.\n(3) Repressive protection as referred to in paragraph (1) letter b is implemented through law enforcement by law enforcers to establish and implement legal sanctions against persons who commit violations of the rights of certain children and women.\n(4) Postremedial protection as referred to in paragraph (1) letter c is implemented through efforts of assistance in law enforcement by lawyers, psychological guidance by psychologists and or religious counselors, and placement of victims in safe houses.",
+      "rationale": "The policy includes post-remedial protection measures that explicitly mention “placement of victims in safe houses,” indicating provision of safety/protection shelter.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 24\n(1) Every woman or child who becomes a victim of violations of women's and children's rights shall be accompanied by a lawyer provided by the regional government in the context of case handling.\n(2) The costs of accompaniment as referred to in paragraph (1) shall be budgeted in the APBD.",
+      "rationale": "The policy explicitly provides that victims shall be accompanied by a lawyer provided by the regional government for case handling, with costs budgeted, indicating legal assistance services.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 25\nEvery woman or child who becomes a victim of violations of women's and children's rights shall receive free medical services at Community Health Centers, government hospitals.",
+      "rationale": "The policy guarantees free medical services for women or children who are victims at community health centers and government hospitals, indicating provision of health/medical services.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 26\nEvery woman or child who becomes a victim of violation of women's and children's rights in the context of rehabilitation shall be accompanied by a psychologist and/or religious counselor at the expense of the government.",
+      "rationale": "The policy provides that victims in rehabilitation shall be accompanied by a psychologist (and/or religious counselor) at government expense, indicating psychosocial counseling support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 26\nEvery woman or child who becomes a victim of violation of women's and children's rights in the context of rehabilitation shall be accompanied by a psychologist and/or religious counselor at the expense of the government.",
+      "rationale": "The policy states that victims in rehabilitation shall be accompanied by a religious counselor at government expense, indicating religious/spiritual counseling support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 26\nEvery woman or child who becomes a victim of violation of women's and children's rights in the context of rehabilitation shall be accompanied by a psychologist and/or religious counselor at the expense of the government.",
+      "rationale": "The policy explicitly refers to victim “rehabilitation” and provides accompaniment (psychologist and/or religious counselor) in that context, indicating resocialisation/rehabilitation services are addressed.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions general rights to knowledge/skills and references entrepreneurship development in a general sense, none of the provided passages explicitly establish a service unit or program providing economic empowerment/support specifically (e.g., skills training or financial support) for victims.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 9\nProtection of women includes:\na. Conducting socialization, education and anti-violence against women campaigns by actively involving all Regional Work Unit Apparatus, work partners and the community.\nb. Ensuring gender mainstreaming programs in every Regional Work Unit Apparatus, to guarantee equality between men and women, which is reflected in the Budget Plan of the Regional Work Unit Apparatus.\nc. Conducting early detection of cases of violence against women.\nd. Providing service facilities for victims of violence against women, both services for physical victims and psychological services for victims, through improvement of special facilities and infrastructure at Hospitals and at P2TP2A.\ne. Requiring all Hospitals to be willing to accept women victims of violence for visum and to undergo health care.\nf. Granting women's rights in accordance with their dignity and worth as women.\ng. Protecting women workers from acts of discrimination, exploitation and violence.\nh. Requiring the provision of special infrastructure for women according to criteria, in every government building, private office and other public facilities.\ni. Requiring the provision of lactation room facilities for government buildings that provide public services and other public facility places such as malls, supermarkets, doctor's practice places and the like.",
+      "rationale": "The policy includes primary prevention measures through socialization and education, including anti-violence against women campaigns, which constitutes information/education about violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 9\nProtection of women includes:\na. Conducting socialization, education and anti-violence against women campaigns by actively involving all Regional Work Unit Apparatus, work partners and the community.\nb. Ensuring gender mainstreaming programs in every Regional Work Unit Apparatus, to guarantee equality between men and women, which is reflected in the Budget Plan of the Regional Work Unit Apparatus.\nc. Conducting early detection of cases of violence against women.\nd. Providing service facilities for victims of violence against women, both services for physical victims and psychological services for victims, through improvement of special facilities and infrastructure at Hospitals and at P2TP2A.\ne. Requiring all Hospitals to be willing to accept women victims of violence for visum and to undergo health care.\nf. Granting women's rights in accordance with their dignity and worth as women.\ng. Protecting women workers from acts of discrimination, exploitation and violence.\nh. Requiring the provision of special infrastructure for women according to criteria, in every government building, private office and other public facilities.\ni. Requiring the provision of lactation room facilities for government buildings that provide public services and other public facility places such as malls, supermarkets, doctor's practice places and the like.",
+      "rationale": "The policy explicitly references ensuring gender mainstreaming programs to guarantee equality between men and women, alongside socialization and education efforts, which addresses information/education about gender equality and women’s rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nIMPLEMENTATION OF SOCIALIZATION ON THE PROTECTION\nOF WOMEN AND CHILDREN\nArticle 19\n(1) The Regional Government is obligated to conduct socialization and education regarding the protection of women and children by involving all elements of customary stakeholders, as well as universities and other community organizations in the Region.\n(2) Socialization and education as referred to in paragraph (1) shall be conducted through the implementation of legal counseling, either through lecture methods, discussions, pamphlets, films, drama, randai, saluang, rabab, and other traditional arts.\n(3) Financing of programs and activities for socialization and education on the protection of women and children shall be budgeted in the Regional Budget annually in accordance with the regional financial capacity and laws and regulations.",
+      "rationale": "The policy mandates socialization and education implemented through legal counseling, which directly supports providing information/education about relevant laws and policies concerning protection of women and children (including VAW).",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 10\n(1) Protection of children starts from the womb until the age of 18 (eighteen) years.\n(2) Protection of children in the womb, infants and toddlers includes:\na. protection of children in the womb, including ensuring children are born in a healthy condition, to reduce maternal mortality rates and reduce child mortality rates;\nb. ensuring every child is born with medical processes in accordance with SOPs from the Ministry of Health;\nc. ensuring every child after birth, is conducted with religious guidance processes adhered to by their parents;\nd. provision of complete immunization facilities both at posyandu, puskesmas or government hospitals;\ne. improvement of quality and competence of cadres at Posyandu, to ensure correct procedures in order to guarantee the health of mothers and children including the immunization process;\nf. provision of proper facilities for every posyandu and Bina Keluarga Balita (BKB) in every kelurahan;\ng. ensuring the quality of knowledge of posyandu cadres and bina keluarga balita cadres in accordance with government standards;\nh. provision of education to the community about becoming great parents, to ensure child health, both at posyandu, bina keluarga balita together with government and community work partners;\ni. provision of playgrounds and childcare facilities managed by local government or organizations under the auspices of the Regional Government;\nj. provision of Breastfeeding Corners in offices that have female workers; and\nk. provision of attention and affection from the family.\n(3) Protection for school-age children:\na. prohibiting acts of bullying against children at school;\nb. ensuring there are no acts of oppression (bullying) between children, teachers to children, parents to children and community to children whether at school, at home or in the midst of the community;\nc. providing education to schools, families and the community about child-friendly schools;\nd. requiring every school at all levels to meet child-friendly school criteria;\ne. receiving full attention and affection from family and community;\nf. receiving religious guidance and local customs/culture including sumbang 12 (dua baleh);\ng. receiving compulsory education of twelve years;\nh. providing scholarship programs for underprivileged children and children with achievements;\ni. providing supporting facilities for extracurricular activities such as for sports subjects, arts and other local content as well as activity supervising teachers; and\nj. prohibiting school children from being at internet cafes during school hours and after 18.00 WIB.\n(4) Every person and/or any party is obligated to protect school-age children from acts of violence in the family, school and community environment.\n(5) Protection of neglected children:\na. local government, NGOs/Social organizations and the community are obligated to provide protection for neglected children domiciled in the Region in accordance with laws and regulations;\nb. local government ensures children do not live on the streets;\nc. protection for neglected children whose parents do not have the ability and/or commit neglect as well as children who do not have parents, which is implemented through institutional and non-institutional services by local government and the community;\nd. the form of institutional services as referred to in letter (c), is implemented in a family atmosphere and in the child's nearest environment managed by the community and in the form of an institution;\ne. the form of non-institutional services as referred to in letter (c) is implemented in a family atmosphere managed by the community and not in the form of an institution; and\nf. community-owned institutions as referred to in letter (d) must meet requirements in accordance with applicable laws and regulations.",
+      "rationale": "The policy includes preventive measures through education-related actions in schools and communities (e.g., education on child-friendly schools, compulsory education, and related supports), which constitutes prevention through education and improving educational quality/conditions.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy explicitly references NGOs as part of the complaint-handling pathway, including referrals by NGOs, indicating engagement/collaboration with civil society organizations in service delivery.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 26\nEvery woman or child who becomes a victim of violation of women's and children's rights in the context of rehabilitation shall be accompanied by a psychologist and/or religious counselor at the expense of the government.",
+      "rationale": "The policy provides for rehabilitation accompaniment by a religious counselor at government expense, indicating engagement of religious actors in service provision.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nIMPLEMENTATION OF SOCIALIZATION ON THE PROTECTION\nOF WOMEN AND CHILDREN\nArticle 19\n(1) The Regional Government is obligated to conduct socialization and education regarding the protection of women and children by involving all elements of customary stakeholders, as well as universities and other community organizations in the Region.\n(2) Socialization and education as referred to in paragraph (1) shall be conducted through the implementation of legal counseling, either through lecture methods, discussions, pamphlets, films, drama, randai, saluang, rabab, and other traditional arts.\n(3) Financing of programs and activities for socialization and education on the protection of women and children shall be budgeted in the Regional Budget annually in accordance with the regional financial capacity and laws and regulations.",
+      "rationale": "The policy requires socialization and education efforts to involve customary stakeholders, which constitutes engagement/collaboration with traditional/cultural organizations/leaders.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nIMPLEMENTATION OF SOCIALIZATION ON THE PROTECTION\nOF WOMEN AND CHILDREN\nArticle 19\n(1) The Regional Government is obligated to conduct socialization and education regarding the protection of women and children by involving all elements of customary stakeholders, as well as universities and other community organizations in the Region.\n(2) Socialization and education as referred to in paragraph (1) shall be conducted through the implementation of legal counseling, either through lecture methods, discussions, pamphlets, films, drama, randai, saluang, rabab, and other traditional arts.\n(3) Financing of programs and activities for socialization and education on the protection of women and children shall be budgeted in the Regional Budget annually in accordance with the regional financial capacity and laws and regulations.",
+      "rationale": "The policy explicitly includes universities among the parties to be involved in socialization and education on protection of women and children, indicating collaboration with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention international organizations or international support for service delivery; references are limited to local government, community, NGOs, customary stakeholders, and domestic institutions.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy explicitly mentions mass media as a referral source for complaint handling, indicating engagement with media within the service pathway.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nRESPONSIBILITY FOR THE PROTECTION OF WOMEN AND CHILDREN Article 11 The Regional Government together with the community is obligated and responsible to provide support for facilities and infrastructure in the implementation of protection of women and children.",
+      "rationale": "The policy states that the Regional Government together with the community is obligated and responsible to support facilities and infrastructure for protection implementation, indicating collaboration with the community.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 13\nRegional Government together with the community and business sector shall fulfill facilities and infrastructure in accordance with child-friendly city indicators.",
+      "rationale": "The policy explicitly states that the Regional Government together with the community and business sector shall fulfill facilities and infrastructure according to child-friendly city indicators, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict- or disaster-prone areas, emergencies, or special measures for women in such contexts; they describe general protections for women and children and services for victims of violence.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference human trafficking as an objective, but do not specify any protection measures targeted specifically at women victims of trafficking (e.g., tailored services or procedures for trafficking survivors).",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 4\nEvery woman has the right to:\na. Obtain protection from discrimination, exploitation (economic and social), neglect, cruelty, violence, abuse (physical, psychological, and sexual), injustice and other wrongful treatment.\nb. Obtain equal opportunities and rights with men as human beings, in order to be able to play a role and participate in political, economic, social and cultural activities, defense and security and equality in enjoying the results of development.\nc. For women workers:\n1. obtain leave/rest for 1.5 (one and a half) months before the time of childbirth and 1.5 (one and a half) months after childbirth according to the calculation of an obstetrician or midwife, while still receiving wages or salary in accordance with applicable laws and regulations;\n2. obtain leave/rest for 1.5 (one and a half) months in the event of a miscarriage while still receiving wages or salary in accordance with applicable laws and regulations;\n3. obtain appropriate opportunities to provide breast milk to her child if this must be done during working hours, while still receiving wages or salary in accordance with applicable laws and regulations.\nd. Every woman who is married has the right to receive material support and spiritual support from her husband.\ne. Every woman who is left by her husband due to a divorce process must be given material support by her husband until there is a court decision in accordance with laws and regulations.\nf. Every woman has the right to obtain decent work in accordance with her dignity, honor and nature.\ng. Obtain knowledge and skills that are useful for improving self-quality and family welfare.",
+      "rationale": "The policy explicitly provides specific rights and protections for women workers, including maternity-related leave and breastfeeding opportunities.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage identifies elderly women as a distinct group or provides age-specific protection measures; the provisions are general for women/children or victims of rights violations.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not set out special protection measures for women with disabilities or persons with disabilities; the only disability references relate to children’s education/rehabilitation rights rather than targeted protections.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage provides special protection measures for women who are heads of household/family; references to “head of family” concern obligations generally, not targeted protections for women-headed households.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention minority or isolated groups or provide targeted measures for women from such groups; the protections described are general.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss law enforcement and legal protection for violations of women’s rights generally, but do not specifically address women in conflict with the law as witnesses or perpetrators, nor provide tailored procedural protections for them.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although customary law communities are mentioned, the passages do not establish special protection measures targeted at Indigenous peoples/groups (masyarakat adat) as beneficiaries; references are mainly about obligations and possible customary sanctions.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions refugees, internally displaced persons, evacuation, displacement, or special protections in forced-displacement contexts.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention “women workers” generally but do not specifically identify domestic workers or provide protections tailored to domestic work.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage addresses homelessness among women or provides special protection measures for homeless women; child street-living is mentioned but not women’s homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention former inmates/correctional institutions or provide reintegration or protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy explicitly states that P2TP2A is financed by APBD (the regional/local government budget), which is a local government funding source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention APBD (regional budget) and general references to government responsibility, but none explicitly identify a national government budget (e.g., APBN) as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention international donors, UN agencies, foreign governments, or other international funding support; references are to APBD/regional government and generic 'other legitimate sources' without specifying international origin.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Article 23\n(1) Services for Handling Complaints of violations of women's and children's rights are implemented by P2TP2A, PPA Units at Polres, Puskesmas, Government Hospitals, and Legal Aid Institutions.\n(2) P2TP2A is established by the Regional Government.\n(3) The Management of P2TP2A is formed by Decree of the Mayor with a management period of 2 (two) years.\n(4) In carrying out its main duties and functions, P2TP2A is financed by APBD or other legitimate sources.\n(5) Complaint Handling Services are conducted in the form of:\na. the reporter (victim or family, community and/or institution) comes directly, through telephone and/or letter to report acts of violence;\nb. the reporter is referred by NGOs, social organizations, the community or mass media; and\nc. in certain cases officers may visit the victim (reporter) directly.",
+      "rationale": "The policy explicitly allows financing from 'APBD or other legitimate sources,' which directly corresponds to funding from other legal sources beyond the local budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference APBD (regional/city budget) but do not explicitly mention a provincial government budget as a distinct funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

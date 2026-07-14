@@ -17,6 +17,7 @@ from automation.src.config_loader import (
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
+from automation.src.rag.retriever import RetrievedChunk
 from automation.src.run_eval import DimensionResult, _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
 
 
@@ -24,13 +25,18 @@ from automation.src.run_eval import DimensionResult, _evaluate_policy_parallel, 
 def pipeline_config():
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
+    diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
         evaluation_model=eval_model,
+        discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2" / "prompt_template.txt",
+        discrepancy_diagnosis_template_path=(
+            AUTOMATION_ROOT / "prompts" / "discrepancy_diagnosis" / "v1" / "prompt_template.txt"
+        ),
         paths=PipelinePaths(
             input_dir=PROJECT_ROOT / "data" / "raw" / "localpolicies",
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
@@ -81,10 +87,11 @@ def test_merge_dimension_results_handles_failures():
         DimensionResult("01_scope_of_violence.txt", {"1.1": {"id": "1.1", "indicator": "x", "included": "Yes"}}),
         DimensionResult("02_institutional_mechanism.txt", {}, error="02_institutional_mechanism.txt: boom"),
     ]
-    report = _merge_dimension_results(policy_path, "gpt-4o", results)
+    report, candidates_by_id = _merge_dimension_results(policy_path, "gpt-4o", results)
     assert report["completed_dimensions"] == ["01_scope_of_violence.txt"]
     assert report["failed_dimensions"] == ["02_institutional_mechanism.txt"]
     assert "1.1" in report["evaluation_results"]
+    assert candidates_by_id == {}
 
 
 def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
@@ -119,7 +126,7 @@ def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
         }
 
     limiter = ConcurrencyLimiter(max_workers=3, enabled=True)
-    report = _evaluate_policy_parallel(
+    report, candidates_by_id = _evaluate_policy_parallel(
         policy_path=policy_path,
         criteria_folder=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2",
         template_text="{{CRITERIA_WITH_CANDIDATES}}",
@@ -140,6 +147,7 @@ def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
     assert report["indicator_count"] == EXPECTED_INDICATOR_COUNT
     assert report["evidence_verification_failures"] == []
     assert all(item["evidence_verified"] is True for item in report["evaluation_results"].values())
+    assert set(candidates_by_id.keys()) == set(report["evaluation_results"].keys())
 
 
 @pytest.fixture
@@ -159,8 +167,11 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     (policy_dir / "B.txt").write_text("policy B", encoding="utf-8")
 
     mock_eval_policy.side_effect = [
-        {"policy_file": "A.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []},
-        {"policy_file": "B.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []},
+        (
+            {"policy_file": "A.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []},
+            {"1.1": [RetrievedChunk(chunk_id=0, text="Evidence for A.", score=0.9)]},
+        ),
+        ({"policy_file": "B.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []}, {}),
     ]
     mock_finalize.return_value = (True, str(data_root / run_id / "evaluation" / "report.json"))
 
@@ -183,3 +194,12 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     assert result["counts"]["total"] == 2
     assert result["counts"]["succeeded"] == 2
     assert mock_eval_policy.call_count == 2
+
+    rag_candidates_dir = data_root / run_id / "rag_candidates"
+    a_candidates = json.loads((rag_candidates_dir / "A.json").read_text(encoding="utf-8"))
+    assert a_candidates["policy_file"] == "A.txt"
+    assert a_candidates["candidates"] == {
+        "1.1": [{"chunk_id": 0, "text": "Evidence for A.", "score": 0.9}]
+    }
+    b_candidates = json.loads((rag_candidates_dir / "B.json").read_text(encoding="utf-8"))
+    assert b_candidates["candidates"] == {}

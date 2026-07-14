@@ -1,0 +1,78 @@
+{
+  "diagnoses": {
+    "2.1": {
+      "indicator": "Institutional network / coordination mechanism",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The passages describe internal regional coordination and networks with community/private sector/NGOs and law enforcement, but do not show coordination or cooperation with governments across jurisdictions (e.g., other regional governments).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 33,
+          "text": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nPart One\nEstablishment of PPT",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 45\n(1) Regional Government may provide financing assistance to community organizations, social organizations or non-governmental organizations and universities that carry out protection of women and children who are victims of acts of violence.\n(2) Financing assistance as referred to in paragraph (1) shall be adjusted to the financial capacity of the Region and implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 42,
+          "text": "Fourth Part\nMechanism for Assistance and Recovery Services by Persons and/or Institutions Cooperating with PPT",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for or look after children as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts that neglect a wife within the household sphere, whereas according to the law applicable to them or due to agreement or contract, he is obligated to provide livelihood, care or maintenance to his wife; and/or\nd. acts that result in economic dependence, by means of limiting and/or prohibiting the wife from working properly inside or outside the home so that the wife is under the control of her husband.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 23\n(1) Prevention of the occurrence of acts of violence against women is implemented through activities:\na. establishment of work networks;\nb. implementation of coordination, integration, synchronization of violence prevention based on partnership patterns with the community, including the private sector and community organizations; and\nc. socialization of laws and regulations that regulate the protection of women.\n(2) Prevention of the occurrence of acts of violence against children is implemented through activities:\na. establishment of work networks;\nb. implementation of coordination, integration, synchronization of violence prevention based on partnership patterns with the community including the private sector and existing community organizations;\nc. socialization of laws and regulations that regulate the protection of children; and\nd. education to parents.\n(3) Prevention as referred to in paragraph (1) and paragraph (2) is implemented by involving:\na. family;\nb. community;\nc. private sector;\nd. community organizations; and\ne. educational institutions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 31\nPPT consists of elements:\na. regional apparatus that administers governmental affairs in the field of health;\nb. regional apparatus that administers governmental affairs in the field of education;\nc. regional apparatus that administers governmental affairs in the field of social affairs;\nd. regional apparatus that administers governmental affairs in the field of trade;\ne. regional apparatus that administers governmental affairs in the field of population;\nf. regional apparatus that administers governmental affairs in the field of women's empowerment and child protection;\ng. regional apparatus that administers governmental affairs in the field of community empowerment;\nh. regional apparatus that administers governmental affairs in the field of public peace and order;\ni. City Police Resort; and\nj. Non-Governmental Organizations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "FROM ACTS OF VIOLENCE IN THE CITY OF BITUNG.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bitung.\n2. Regional Government is the Mayor and regional apparatus as elements of the Regional government administration.\n3. Mayor is the Mayor of Bitung.\n4. Regional House of Representatives, hereinafter abbreviated as DPRD is the DPRD of the City of Bitung.\n5. Agency is the Agency that administers government affairs in the field of women's empowerment and child protection of the Region.\n6. Woman is a person who has the female sex from birth or based on a court determination who is over 18 years of age.\n7. Child is a person who is not yet 18 (eighteen) years of age, including a child in the womb.\n8. Act of violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Victim of violence is a woman and child who experiences misery and/or suffering, either directly or indirectly as a result of acts of violence.\n10. Protection of women and children from acts of violence is action, deed, activity that includes prevention of the occurrence of acts of violence against women and children, handling services, assistance, recovery, reunification, empowerment of women and rehabilitation of child victims of acts of violence, carried out by the Regional Government, parents, husband, family or community, including therein is the Integrated Service Center.\n11. Prevention is a process, method, act to prevent the occurrence of acts of violence against women and children.\n12. Handling is a process, method, act to handle women and child victims as a result of acts of violence.\n13. Assistance and recovery is all activities in order to assist and restore the physical, psychological condition and health disorders of women and child victims of acts of violence.\n14. Reunification is an activity in order to reunite women and child victims of acts of violence with parents and/or family.\n15. Empowerment is a process, method and act to empower women victims of acts of violence.\n16. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that child victims of acts of violence can carry out their roles again properly both in the family and in society.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife or husband and wife and their child or father and his child or mother and her child or blood relatives in direct line upward or downward up to the third degree.\n19. Parent/guardian is biological father and/or mother or step father and/or mother or adoptive father and/or mother or guardian based on the provisions of laws and regulations.\n20. Integrated Service Center, hereinafter abbreviated as PPT is various institutions that provide services for victims of violence, such as the Integrated Service Center for Women and Children's Empowerment, Safe House, Child Social Protection House, Trauma Centre Protection House, Women's Social Protection House, Shelter and the like.\n21. Regional Action Plan, hereinafter abbreviated as RAD is the foundation and guideline for related regional apparatus, vertical agencies and the community in order to carry out activities for the implementation of prevention and protection of women and child victims of acts of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 18\n(1) Regional Government implements efforts to prevent acts of violence against women and children through:\na. implementation of policies for preventing acts of violence against women and children in accordance with policies established by the Government;\nb. establishment of policies, programs and activities for preventing acts of violence against women and children;\nc. formation of PPT;\nd. awareness raising to families, parents and the community by providing information, guidance and/or counseling;\ne. increasing the quantity and quality of education, both formal and non-formal and informal;\nf. opening accessibility to obtain education, training, funding, income enhancement and social services;\ng. opening employment opportunities for women;\nh. seeking participation and concern of the community to implement prevention and protection of women and children from acts of violence;\ni. development and provision of a complete and easily accessible information system;\nj. development of networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\nk. opening complaint posts for protection and prevention of acts of violence against women and children.\n(2) Prevention as referred to in paragraph (1) is implemented by Regional Apparatus that administer governmental affairs in the fields of:\na. women's empowerment and child protection;\nb. health;\nc. education;\nd. manpower;\ne. social;\nf. mental and spiritual; and\ng. peace and order.\n(3) Prevention by regional apparatus as referred to in paragraph (2) is coordinated by the Agency.\n(4) Prevention of violence by regional apparatus as referred to in paragraph (2) is implemented in an integrated and continuous manner based on RAD.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 8\nSexual violence as referred to in Article 5 paragraph (2) letter c is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural or unwanted manner; and\nd. forced sexual intercourse with another person for commercial purposes and/or specific purposes.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian regulation DOES specify an inter-jurisdictional coordination mechanism. Pasal 39(c) states the local government must “berkoordinasi dengan Pemerintah, Pemerintah Daerah tempat tinggal perempuan dan anak … dan pihak Kepolisian Republik Indonesia” to return (reunify) victims to their families—explicitly including coordination with the national Government and with other regional governments where the victim resides. This satisfies an institutional network/coordination mechanism beyond internal city agencies. The judge’s rationale was too narrow/incorrect in concluding there was no cross-jurisdiction coordination, especially since the retrieved candidates already showed coordination/cooperation mechanisms (e.g., Article 18(j) ‘development of networks and cooperation with law enforcement apparatus, government apparatus, universities and NGOs’ and Article 23 on coordination/integration/synchronization). Even if Article 39 was not retrieved, the indicator as stated (“Institutional network / coordination mechanism”) is met by the mechanisms present in the retrieved passages; the judge improperly required explicit cross-jurisdiction language.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_UTARA_BITUNG_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-14T11:55:58.948644+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 1,
+  "diagnosed_count": 1
+}

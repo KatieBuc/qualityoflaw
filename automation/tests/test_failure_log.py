@@ -142,7 +142,7 @@ def test_summarize_failures(data_root):
     )
 
     summary = summarize_failures(run_id)
-    assert summary == {"translation": 1, "storage": 0, "evaluation": 1}
+    assert summary == {"translation": 1, "storage": 0, "evaluation": 1, "discrepancy_diagnosis": 0}
 
 
 def test_load_failures_empty_run(data_root):
@@ -151,4 +151,5 @@ def test_load_failures_empty_run(data_root):
         "translation": [],
         "storage": [],
         "evaluation": [],
+        "discrepancy_diagnosis": [],
     }

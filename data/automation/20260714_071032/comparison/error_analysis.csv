@@ -1,0 +1,1088 @@
+fullname,filename,indicator_id,indicator_value,dimension,golden_label,pred_label,value,pred_value,error_type
+ACEH BIREUEN,ACEH_BIREUEN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+ACEH BIREUEN,ACEH_BIREUEN.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+ACEH BIREUEN,ACEH_BIREUEN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+ACEH BIREUEN,ACEH_BIREUEN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+ACEH BIREUEN,ACEH_BIREUEN.txt,5.1,NGO collaboration,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+ACEH BIREUEN,ACEH_BIREUEN.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+ACEH BIREUEN,ACEH_BIREUEN.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+ACEH BIREUEN,ACEH_BIREUEN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+ACEH BIREUEN,ACEH_BIREUEN.txt,6.7,Minority groups,intersectional_approach,Yes,No,1.0,0.0,false_negative
+ACEH BIREUEN,ACEH_BIREUEN.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+ACEH SUBULUSSALAM KOTA,ACEH_SUBULUSSALAM_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BALI BADUNG,BALI_BADUNG.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+BALI BADUNG,BALI_BADUNG.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+BALI BADUNG,BALI_BADUNG.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI BADUNG,BALI_BADUNG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI BADUNG,BALI_BADUNG.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BALI BANGLI,BALI_BANGLI.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+BALI BANGLI,BALI_BANGLI.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI BANGLI,BALI_BANGLI.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI BANGLI,BALI_BANGLI.txt,6.9,Indigenous groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BALI BULELENG,BALI_BULELENG.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+BALI BULELENG,BALI_BULELENG.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+BALI BULELENG,BALI_BULELENG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI BULELENG,BALI_BULELENG.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BALI BULELENG,BALI_BULELENG.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BALI TABANAN,BALI_TABANAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+BALI TABANAN,BALI_TABANAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+BALI TABANAN,BALI_TABANAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BALI TABANAN,BALI_TABANAN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BANTEN TANGERANG SELATAN KOTA,BANTEN_TANGERANG_SELATAN_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+BENGKULU KEPAHIANG,BENGKULU_KEPAHIANG.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+BENGKULU KEPAHIANG,BENGKULU_KEPAHIANG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BENGKULU KEPAHIANG,BENGKULU_KEPAHIANG.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+BENGKULU KEPAHIANG,BENGKULU_KEPAHIANG.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BENGKULU KEPAHIANG,BENGKULU_KEPAHIANG.txt,6.9,Indigenous groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BENGKULU REJANG LEBONG,BENGKULU_REJANG_LEBONG.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+BENGKULU SELUMA,BENGKULU_SELUMA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+BENGKULU SELUMA,BENGKULU_SELUMA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+BENGKULU SELUMA,BENGKULU_SELUMA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+BENGKULU SELUMA,BENGKULU_SELUMA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+BENGKULU SELUMA,BENGKULU_SELUMA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL.txt,3.2,Police specialised service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,3.2,Police specialised service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA BANTUL,DI_YOGYAKARTA_BANTUL_v2.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,3.10,Economic support services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,4.2,Gender equality education,primary_prevention,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,4.2,Gender equality education,primary_prevention,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA GUNUNGKIDUL,DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA KULON PROGO,DI_YOGYAKARTA_KULON_PROGO.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA KULON PROGO,DI_YOGYAKARTA_KULON_PROGO.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA KULON PROGO,DI_YOGYAKARTA_KULON_PROGO.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA KULON PROGO,DI_YOGYAKARTA_KULON_PROGO.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA SLEMAN,DI_YOGYAKARTA_SLEMAN.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+DI YOGYAKARTA SLEMAN,DI_YOGYAKARTA_SLEMAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA SLEMAN,DI_YOGYAKARTA_SLEMAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA SLEMAN,DI_YOGYAKARTA_SLEMAN.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+DI YOGYAKARTA SLEMAN,DI_YOGYAKARTA_SLEMAN.txt,7.1,Local government budget,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+DKI JAKARTA KEPULAUAN SERIBU,DKI_JAKARTA_KEPULAUAN_SERIBU.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+DKI JAKARTA KEPULAUAN SERIBU,DKI_JAKARTA_KEPULAUAN_SERIBU.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+DKI JAKARTA KEPULAUAN SERIBU,DKI_JAKARTA_KEPULAUAN_SERIBU.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+DKI JAKARTA KEPULAUAN SERIBU,DKI_JAKARTA_KEPULAUAN_SERIBU.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO,GORONTALO_GORONTALO.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO,GORONTALO_GORONTALO.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO KOTA,GORONTALO_GORONTALO_KOTA.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+GORONTALO GORONTALO KOTA,GORONTALO_GORONTALO_KOTA.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO KOTA,GORONTALO_GORONTALO_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO UTARA,GORONTALO_GORONTALO_UTARA.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO UTARA,GORONTALO_GORONTALO_UTARA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO UTARA,GORONTALO_GORONTALO_UTARA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+GORONTALO GORONTALO UTARA,GORONTALO_GORONTALO_UTARA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+GORONTALO GORONTALO UTARA,GORONTALO_GORONTALO_UTARA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+GORONTALO POHUWATO,GORONTALO_POHUWATO.txt,5.5,International organisations engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+GORONTALO POHUWATO,GORONTALO_POHUWATO.txt,5.6,Media engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAMBI BUNGO,JAMBI_BUNGO.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAMBI BUNGO,JAMBI_BUNGO.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,4.1,Information & education on VAW,primary_prevention,Yes,No,1.0,0.0,false_negative
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAMBI SAROLANGUN,JAMBI_SAROLANGUN.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANDUNG,JAWA_BARAT_BANDUNG.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG,JAWA_BARAT_BANDUNG.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANDUNG,JAWA_BARAT_BANDUNG.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANDUNG,JAWA_BARAT_BANDUNG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,5.5,International organisations engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG BARAT,JAWA_BARAT_BANDUNG_BARAT.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG KOTA,JAWA_BARAT_BANDUNG_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG KOTA,JAWA_BARAT_BANDUNG_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BANDUNG KOTA,JAWA_BARAT_BANDUNG_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANJAR KOTA,JAWA_BARAT_BANJAR_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANJAR KOTA,JAWA_BARAT_BANJAR_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANJAR KOTA,JAWA_BARAT_BANJAR_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BANJAR KOTA,JAWA_BARAT_BANJAR_KOTA.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI,JAWA_BARAT_BEKASI.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI,JAWA_BARAT_BEKASI.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI,JAWA_BARAT_BEKASI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI,JAWA_BARAT_BEKASI.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA_v2.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA_v2.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA_v2.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT BEKASI KOTA,JAWA_BARAT_BEKASI_KOTA_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIMAHI KOTA,JAWA_BARAT_CIMAHI_KOTA.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIREBON,JAWA_BARAT_CIREBON.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIREBON,JAWA_BARAT_CIREBON.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIREBON,JAWA_BARAT_CIREBON.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT CIREBON,JAWA_BARAT_CIREBON.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT CIREBON,JAWA_BARAT_CIREBON.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIREBON KOTA,JAWA_BARAT_CIREBON_KOTA.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA BARAT CIREBON KOTA,JAWA_BARAT_CIREBON_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT CIREBON KOTA,JAWA_BARAT_CIREBON_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT CIREBON KOTA,JAWA_BARAT_CIREBON_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA BARAT GARUT,JAWA_BARAT_GARUT.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT GARUT,JAWA_BARAT_GARUT.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT GARUT,JAWA_BARAT_GARUT.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT INDRAMAYU,JAWA_BARAT_INDRAMAYU.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA BARAT KARAWANG,JAWA_BARAT_KARAWANG.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA BARAT KARAWANG,JAWA_BARAT_KARAWANG.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT KARAWANG,JAWA_BARAT_KARAWANG.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT KARAWANG,JAWA_BARAT_KARAWANG.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT KARAWANG,JAWA_BARAT_KARAWANG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT MAJALENGKA,JAWA_BARAT_MAJALENGKA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA BARAT MAJALENGKA,JAWA_BARAT_MAJALENGKA.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT MAJALENGKA,JAWA_BARAT_MAJALENGKA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT MAJALENGKA,JAWA_BARAT_MAJALENGKA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT MAJALENGKA,JAWA_BARAT_MAJALENGKA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PANGANDARAN,JAWA_BARAT_PANGANDARAN.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PANGANDARAN,JAWA_BARAT_PANGANDARAN.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT PANGANDARAN,JAWA_BARAT_PANGANDARAN.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT PANGANDARAN,JAWA_BARAT_PANGANDARAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PANGANDARAN,JAWA_BARAT_PANGANDARAN.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PURWAKARTA,JAWA_BARAT_PURWAKARTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PURWAKARTA,JAWA_BARAT_PURWAKARTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PURWAKARTA,JAWA_BARAT_PURWAKARTA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PURWAKARTA,JAWA_BARAT_PURWAKARTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT PURWAKARTA,JAWA_BARAT_PURWAKARTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA BARAT TASIKMALAYA,JAWA_BARAT_TASIKMALAYA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BANYUMAS,JAWA_TENGAH_BANYUMAS.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH BANYUMAS,JAWA_TENGAH_BANYUMAS.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BANYUMAS,JAWA_TENGAH_BANYUMAS.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BLORA,JAWA_TENGAH_BLORA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BLORA,JAWA_TENGAH_BLORA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BLORA,JAWA_TENGAH_BLORA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH BLORA,JAWA_TENGAH_BLORA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BOYOLALI,JAWA_TENGAH_BOYOLALI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BOYOLALI,JAWA_TENGAH_BOYOLALI.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH BOYOLALI,JAWA_TENGAH_BOYOLALI.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH BOYOLALI,JAWA_TENGAH_BOYOLALI.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH DEMAK,JAWA_TENGAH_DEMAK.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH DEMAK,JAWA_TENGAH_DEMAK.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH DEMAK,JAWA_TENGAH_DEMAK.txt,7.4,Other legal sources,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,3.8,Religious / spiritual counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KARANGANYAR,JAWA_TENGAH_KARANGANYAR_v2.txt,7.4,Other legal sources,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KEBUMEN,JAWA_TENGAH_KEBUMEN.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,1.5,Economic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KLATEN,JAWA_TENGAH_KLATEN.txt,6.7,Minority groups,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH KUDUS,JAWA_TENGAH_KUDUS.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH MAGELANG,JAWA_TENGAH_MAGELANG.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG,JAWA_TENGAH_MAGELANG.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG,JAWA_TENGAH_MAGELANG.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG,JAWA_TENGAH_MAGELANG.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG,JAWA_TENGAH_MAGELANG.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG KOTA,JAWA_TENGAH_MAGELANG_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH MAGELANG KOTA,JAWA_TENGAH_MAGELANG_KOTA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH MAGELANG KOTA,JAWA_TENGAH_MAGELANG_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH MAGELANG KOTA,JAWA_TENGAH_MAGELANG_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH MAGELANG KOTA,JAWA_TENGAH_MAGELANG_KOTA.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PATI,JAWA_TENGAH_PATI.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PATI,JAWA_TENGAH_PATI.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PATI,JAWA_TENGAH_PATI.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PATI,JAWA_TENGAH_PATI.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PATI,JAWA_TENGAH_PATI.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,5.1,NGO collaboration,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN,JAWA_TENGAH_PEKALONGAN.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN KOTA,JAWA_TENGAH_PEKALONGAN_KOTA.txt,3.2,Police specialised service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PEKALONGAN KOTA,JAWA_TENGAH_PEKALONGAN_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PEKALONGAN KOTA,JAWA_TENGAH_PEKALONGAN_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PEKALONGAN KOTA,JAWA_TENGAH_PEKALONGAN_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PURBALINGGA,JAWA_TENGAH_PURBALINGGA.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PURBALINGGA,JAWA_TENGAH_PURBALINGGA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PURBALINGGA,JAWA_TENGAH_PURBALINGGA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PURBALINGGA,JAWA_TENGAH_PURBALINGGA.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH PURWOREJO,JAWA_TENGAH_PURWOREJO.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SALATIGA KOTA,JAWA_TENGAH_SALATIGA_KOTA.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,1.4,Psychological violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG,JAWA_TENGAH_SEMARANG.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA.txt,5.5,International organisations engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SEMARANG KOTA,JAWA_TENGAH_SEMARANG_KOTA_v2.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SUKOHARJO,JAWA_TENGAH_SUKOHARJO.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,6.6,Heads of household,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH SURAKARTA KOTA,JAWA_TENGAH_SURAKARTA_KOTA.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,7.2,National government budget,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH TEMANGGUNG,JAWA_TENGAH_TEMANGGUNG.txt,7.4,Other legal sources,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOGIRI,JAWA_TENGAH_WONOGIRI.txt,6.11,Domestic workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,3.1,Integrated service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,7.1,Local government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TENGAH WONOSOBO,JAWA_TENGAH_WONOSOBO.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BANGKALAN,JAWA_TIMUR_BANGKALAN.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BANGKALAN,JAWA_TIMUR_BANGKALAN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BANGKALAN,JAWA_TIMUR_BANGKALAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BANGKALAN,JAWA_TIMUR_BANGKALAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BANYUWANGI,JAWA_TIMUR_BANYUWANGI.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BANYUWANGI,JAWA_TIMUR_BANYUWANGI.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BANYUWANGI,JAWA_TIMUR_BANYUWANGI.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BLITAR,JAWA_TIMUR_BLITAR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BLITAR,JAWA_TIMUR_BLITAR.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BLITAR,JAWA_TIMUR_BLITAR.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BLITAR,JAWA_TIMUR_BLITAR.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BLITAR KOTA,JAWA_TIMUR_BLITAR_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BLITAR KOTA,JAWA_TIMUR_BLITAR_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR BOJONEGORO,JAWA_TIMUR_BOJONEGORO.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR BOJONEGORO,JAWA_TIMUR_BOJONEGORO.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR JEMBER,JAWA_TIMUR_JEMBER.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR JEMBER,JAWA_TIMUR_JEMBER.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR JEMBER,JAWA_TIMUR_JEMBER.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR JEMBER,JAWA_TIMUR_JEMBER.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR JOMBANG,JAWA_TIMUR_JOMBANG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR JOMBANG,JAWA_TIMUR_JOMBANG.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR LUMAJANG,JAWA_TIMUR_LUMAJANG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MADIUN,JAWA_TIMUR_MADIUN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MADIUN,JAWA_TIMUR_MADIUN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MADIUN,JAWA_TIMUR_MADIUN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MADIUN,JAWA_TIMUR_MADIUN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MADIUN KOTA,JAWA_TIMUR_MADIUN_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MADIUN KOTA,JAWA_TIMUR_MADIUN_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MADIUN KOTA,JAWA_TIMUR_MADIUN_KOTA.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MADIUN KOTA,JAWA_TIMUR_MADIUN_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MADIUN KOTA,JAWA_TIMUR_MADIUN_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MAGETAN,JAWA_TIMUR_MAGETAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MAGETAN,JAWA_TIMUR_MAGETAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR MAGETAN,JAWA_TIMUR_MAGETAN.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR MAGETAN,JAWA_TIMUR_MAGETAN.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PASURUAN,JAWA_TIMUR_PASURUAN.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PROBOLINGGO,JAWA_TIMUR_PROBOLINGGO.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO,JAWA_TIMUR_PROBOLINGGO.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO,JAWA_TIMUR_PROBOLINGGO.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO KOTA,JAWA_TIMUR_PROBOLINGGO_KOTA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO KOTA,JAWA_TIMUR_PROBOLINGGO_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR PROBOLINGGO KOTA,JAWA_TIMUR_PROBOLINGGO_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO KOTA,JAWA_TIMUR_PROBOLINGGO_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR PROBOLINGGO KOTA,JAWA_TIMUR_PROBOLINGGO_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SAMPANG,JAWA_TIMUR_SAMPANG.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR SITUBONDO,JAWA_TIMUR_SITUBONDO.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SUMENEP,JAWA_TIMUR_SUMENEP.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR SUMENEP,JAWA_TIMUR_SUMENEP.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,5.6,Media engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+JAWA TIMUR TRENGGALEK,JAWA_TIMUR_TRENGGALEK.txt,7.1,Local government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT BENGKAYANG,KALIMANTAN_BARAT_BENGKAYANG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT KUBU RAYA,KALIMANTAN_BARAT_KUBU_RAYA.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT KUBU RAYA,KALIMANTAN_BARAT_KUBU_RAYA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT KUBU RAYA,KALIMANTAN_BARAT_KUBU_RAYA.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT KUBU RAYA,KALIMANTAN_BARAT_KUBU_RAYA.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT MELAWI,KALIMANTAN_BARAT_MELAWI.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SAMBAS,KALIMANTAN_BARAT_SAMBAS.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SAMBAS,KALIMANTAN_BARAT_SAMBAS.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SAMBAS,KALIMANTAN_BARAT_SAMBAS.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SAMBAS,KALIMANTAN_BARAT_SAMBAS.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SAMBAS,KALIMANTAN_BARAT_SAMBAS.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SANGGAU,KALIMANTAN_BARAT_SANGGAU.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SANGGAU,KALIMANTAN_BARAT_SANGGAU.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SANGGAU,KALIMANTAN_BARAT_SANGGAU.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,5.1,NGO collaboration,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,6.5,Disability,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINGKAWANG KOTA,KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,5.1,NGO collaboration,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN BARAT SINTANG,KALIMANTAN_BARAT_SINTANG.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN BALANGAN,KALIMANTAN_SELATAN_BALANGAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN BALANGAN,KALIMANTAN_SELATAN_BALANGAN.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN BALANGAN,KALIMANTAN_SELATAN_BALANGAN.txt,3.8,Religious / spiritual counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN BALANGAN,KALIMANTAN_SELATAN_BALANGAN.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN BALANGAN,KALIMANTAN_SELATAN_BALANGAN.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN BARITO KUALA,KALIMANTAN_SELATAN_BARITO_KUALA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN BARITO KUALA,KALIMANTAN_SELATAN_BARITO_KUALA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN HULU SUNGAI SELATAN,KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN HULU SUNGAI SELATAN,KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN HULU SUNGAI SELATAN,KALIMANTAN_SELATAN_HULU_SUNGAI_SELATAN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN HULU SUNGAI UTARA,KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN HULU SUNGAI UTARA,KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN HULU SUNGAI UTARA,KALIMANTAN_SELATAN_HULU_SUNGAI_UTARA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN KOTABARU,KALIMANTAN_SELATAN_KOTABARU.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN KOTABARU,KALIMANTAN_SELATAN_KOTABARU.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN KOTABARU,KALIMANTAN_SELATAN_KOTABARU.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TABALONG,KALIMANTAN_SELATAN_TABALONG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,1.1,Domestic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,4.2,Gender equality education,primary_prevention,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TANAH BUMBU,KALIMANTAN_SELATAN_TANAH_BUMBU.txt,6.9,Indigenous groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN SELATAN TAPIN,KALIMANTAN_SELATAN_TAPIN.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH BARITO TIMUR,KALIMANTAN_TENGAH_BARITO_TIMUR.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH BARITO TIMUR,KALIMANTAN_TENGAH_BARITO_TIMUR.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH BARITO TIMUR,KALIMANTAN_TENGAH_BARITO_TIMUR.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,3.10,Economic support services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH GUNUNG MAS,KALIMANTAN_TENGAH_GUNUNG_MAS.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KATINGAN,KALIMANTAN_TENGAH_KATINGAN.txt,1.5,Economic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KATINGAN,KALIMANTAN_TENGAH_KATINGAN.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KATINGAN,KALIMANTAN_TENGAH_KATINGAN.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KATINGAN,KALIMANTAN_TENGAH_KATINGAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KOTAWARINGIN TIMUR,KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH KOTAWARINGIN TIMUR,KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KOTAWARINGIN TIMUR,KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH KOTAWARINGIN TIMUR,KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH LAMANDAU,KALIMANTAN_TENGAH_LAMANDAU.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH PALANGKA RAYA KOTA,KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH PULANG PISAU,KALIMANTAN_TENGAH_PULANG_PISAU.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH PULANG PISAU,KALIMANTAN_TENGAH_PULANG_PISAU.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH PULANG PISAU,KALIMANTAN_TENGAH_PULANG_PISAU.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH PULANG PISAU,KALIMANTAN_TENGAH_PULANG_PISAU.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TENGAH SUKAMARA,KALIMANTAN_TENGAH_SUKAMARA.txt,6.4,Elderly women,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR BONTANG KOTA,KALIMANTAN_TIMUR_BONTANG_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR BONTANG KOTA,KALIMANTAN_TIMUR_BONTANG_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR BONTANG KOTA,KALIMANTAN_TIMUR_BONTANG_KOTA.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR BONTANG KOTA,KALIMANTAN_TIMUR_BONTANG_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR BONTANG KOTA,KALIMANTAN_TIMUR_BONTANG_KOTA.txt,6.3,Women workers,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR KUTAI BARAT,KALIMANTAN_TIMUR_KUTAI_BARAT.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI BARAT,KALIMANTAN_TIMUR_KUTAI_BARAT.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI BARAT,KALIMANTAN_TIMUR_KUTAI_BARAT.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI BARAT,KALIMANTAN_TIMUR_KUTAI_BARAT.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,1.2,Sexual violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,1.3,Physical violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,1.4,Psychological violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR KUTAI TIMUR,KALIMANTAN_TIMUR_KUTAI_TIMUR.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PASER,KALIMANTAN_TIMUR_PASER.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PASER,KALIMANTAN_TIMUR_PASER.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PASER,KALIMANTAN_TIMUR_PASER.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR PASER,KALIMANTAN_TIMUR_PASER.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,3.10,Economic support services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN TIMUR PENAJAM PASER UTARA,KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KALIMANTAN UTARA NUNUKAN,KALIMANTAN_UTARA_NUNUKAN.txt,6.5,Disability,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,4.1,Information & education on VAW,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA,KEPULAUAN_BANGKA_BELITUNG_BANGKA.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA BARAT,KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,1.5,Economic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,4.2,Gender equality education,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA SELATAN,KEPULAUAN_BANGKA_BELITUNG_BANGKA_SELATAN_v2.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA TENGAH,KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA TENGAH,KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BANGKA TENGAH,KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BANGKA TENGAH,KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt,7.4,Other legal sources,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG BELITUNG,KEPULAUAN_BANGKA_BELITUNG_BELITUNG.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN BANGKA BELITUNG PANGKALPINANG KOTA,KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.4,Psychological violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,2.6,Monitoring and evaluation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.1,Integrated service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.5,Legal assistance,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.6,Health / medical services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,3.10,Economic support services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,4.1,Information & education on VAW,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,4.4,Prevention through education,primary_prevention,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,5.1,NGO collaboration,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,5.7,Community engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+KEPULAUAN RIAU KARIMUN,KEPULAUAN_RIAU_KARIMUN.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+LAMPUNG BANDAR LAMPUNG KOTA,LAMPUNG_BANDAR_LAMPUNG_KOTA.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG TIMUR,LAMPUNG_LAMPUNG_TIMUR.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+LAMPUNG LAMPUNG TIMUR,LAMPUNG_LAMPUNG_TIMUR.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG TIMUR,LAMPUNG_LAMPUNG_TIMUR.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG TIMUR,LAMPUNG_LAMPUNG_TIMUR.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+LAMPUNG LAMPUNG TIMUR,LAMPUNG_LAMPUNG_TIMUR.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG UTARA,LAMPUNG_LAMPUNG_UTARA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG UTARA,LAMPUNG_LAMPUNG_UTARA.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG UTARA,LAMPUNG_LAMPUNG_UTARA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG UTARA,LAMPUNG_LAMPUNG_UTARA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG LAMPUNG UTARA,LAMPUNG_LAMPUNG_UTARA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,4.2,Gender equality education,primary_prevention,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESAWARAN,LAMPUNG_PESAWARAN.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESISIR BARAT,LAMPUNG_PESISIR_BARAT.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+LAMPUNG PESISIR BARAT,LAMPUNG_PESISIR_BARAT.txt,3.2,Police specialised service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESISIR BARAT,LAMPUNG_PESISIR_BARAT.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+LAMPUNG PESISIR BARAT,LAMPUNG_PESISIR_BARAT.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG PRINGSEWU,LAMPUNG_PRINGSEWU.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+LAMPUNG PRINGSEWU,LAMPUNG_PRINGSEWU.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+LAMPUNG PRINGSEWU,LAMPUNG_PRINGSEWU.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+LAMPUNG PRINGSEWU,LAMPUNG_PRINGSEWU.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+LAMPUNG PRINGSEWU,LAMPUNG_PRINGSEWU.txt,7.4,Other legal sources,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+LAMPUNG TANGGAMUS,LAMPUNG_TANGGAMUS.txt,2.3,Data collection / information systems,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+LAMPUNG TANGGAMUS,LAMPUNG_TANGGAMUS.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+LAMPUNG TANGGAMUS,LAMPUNG_TANGGAMUS.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+MALUKU KEPULAUAN TANIMBAR,MALUKU_KEPULAUAN_TANIMBAR.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+MALUKU KEPULAUAN TANIMBAR,MALUKU_KEPULAUAN_TANIMBAR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+MALUKU KEPULAUAN TANIMBAR,MALUKU_KEPULAUAN_TANIMBAR.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU KEPULAUAN TANIMBAR,MALUKU_KEPULAUAN_TANIMBAR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU KEPULAUAN TANIMBAR,MALUKU_KEPULAUAN_TANIMBAR.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+MALUKU MALUKU TENGAH,MALUKU_MALUKU_TENGAH.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+MALUKU MALUKU TENGAH,MALUKU_MALUKU_TENGAH.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+MALUKU MALUKU TENGAH,MALUKU_MALUKU_TENGAH.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+MALUKU MALUKU TENGAH,MALUKU_MALUKU_TENGAH.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,5.5,International organisations engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+MALUKU SERAM BAGIAN BARAT,MALUKU_SERAM_BAGIAN_BARAT.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+MALUKU TUAL KOTA,MALUKU_TUAL_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+MALUKU TUAL KOTA,MALUKU_TUAL_KOTA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+MALUKU TUAL KOTA,MALUKU_TUAL_KOTA.txt,5.2,Religious engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA HALMAHERA TIMUR,MALUKU_UTARA_HALMAHERA_TIMUR.txt,6.4,Elderly women,intersectional_approach,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA TERNATE KOTA,MALUKU_UTARA_TERNATE_KOTA.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA TERNATE KOTA,MALUKU_UTARA_TERNATE_KOTA.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA TERNATE KOTA,MALUKU_UTARA_TERNATE_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA TERNATE KOTA,MALUKU_UTARA_TERNATE_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+MALUKU UTARA TERNATE KOTA,MALUKU_UTARA_TERNATE_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,3.5,Legal assistance,specialised_support_services,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,6.4,Elderly women,intersectional_approach,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA,NUSA_TENGGARA_BARAT_BIMA.txt,6.7,Minority groups,intersectional_approach,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT BIMA KOTA,NUSA_TENGGARA_BARAT_BIMA_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT DOMPU,NUSA_TENGGARA_BARAT_DOMPU.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT DOMPU,NUSA_TENGGARA_BARAT_DOMPU.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT DOMPU,NUSA_TENGGARA_BARAT_DOMPU.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT DOMPU,NUSA_TENGGARA_BARAT_DOMPU.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT DOMPU,NUSA_TENGGARA_BARAT_DOMPU.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,4.1,Information & education on VAW,primary_prevention,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,5.2,Religious engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK TENGAH,NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT LOMBOK UTARA,NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK UTARA,NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT LOMBOK UTARA,NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT MATARAM KOTA,NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA BARAT MATARAM KOTA,NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA BARAT MATARAM KOTA,NUSA_TENGGARA_BARAT_MATARAM_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI,NUSA_TENGGARA_TIMUR_MANGGARAI.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI,NUSA_TENGGARA_TIMUR_MANGGARAI.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI,NUSA_TENGGARA_TIMUR_MANGGARAI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR MANGGARAI,NUSA_TENGGARA_TIMUR_MANGGARAI.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI,NUSA_TENGGARA_TIMUR_MANGGARAI.txt,5.6,Media engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR MANGGARAI BARAT,NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI BARAT,NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR MANGGARAI BARAT,NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR SIKKA,NUSA_TENGGARA_TIMUR_SIKKA.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR SIKKA,NUSA_TENGGARA_TIMUR_SIKKA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR SIKKA,NUSA_TENGGARA_TIMUR_SIKKA.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR SIKKA,NUSA_TENGGARA_TIMUR_SIKKA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,3.5,Legal assistance,specialised_support_services,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,3.6,Health / medical services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,3.7,Psychosocial counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+NUSA TENGGARA TIMUR TIMOR TENGAH UTARA,NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA SORONG,PAPUA_BARAT_DAYA_SORONG.txt,7.4,Other legal sources,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA TAMBRAUW,PAPUA_BARAT_DAYA_TAMBRAUW.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA TAMBRAUW,PAPUA_BARAT_DAYA_TAMBRAUW.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+PAPUA BARAT DAYA TAMBRAUW,PAPUA_BARAT_DAYA_TAMBRAUW.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+RIAU BENGKALIS,RIAU_BENGKALIS.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+RIAU BENGKALIS,RIAU_BENGKALIS.txt,2.6,Monitoring and evaluation,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+RIAU BENGKALIS,RIAU_BENGKALIS.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+RIAU BENGKALIS,RIAU_BENGKALIS.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,1.1,Domestic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,6.4,Elderly women,intersectional_approach,Yes,No,1.0,0.0,false_negative
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,6.6,Heads of household,intersectional_approach,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+RIAU PEKANBARU KOTA,RIAU_PEKANBARU_KOTA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,1.3,Physical violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,1.4,Psychological violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,1.5,Economic violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,1.10,Technology-facilitated violence,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT MAMUJU,SULAWESI_BARAT_MAMUJU.txt,6.7,Minority groups,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,4.1,Information & education on VAW,primary_prevention,Yes,No,1.0,0.0,false_negative
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SULAWESI BARAT PASANGKAYU,SULAWESI_BARAT_PASANGKAYU.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,4.3,VAW laws awareness,primary_prevention,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,6.3,Women workers,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,6.4,Elderly women,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN BULUKUMBA,SULAWESI_SELATAN_BULUKUMBA.txt,6.7,Minority groups,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR.txt,1.5,Economic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR_v2.txt,1.9,Sexual slavery / exploitation,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR_v2.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR_v2.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN LUWU TIMUR,SULAWESI_SELATAN_LUWU_TIMUR_v2.txt,5.2,Religious engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN PALOPO KOTA,SULAWESI_SELATAN_PALOPO_KOTA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN PALOPO KOTA,SULAWESI_SELATAN_PALOPO_KOTA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN PALOPO KOTA,SULAWESI_SELATAN_PALOPO_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN PALOPO KOTA,SULAWESI_SELATAN_PALOPO_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,6.1,Women in crisis settings,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI SELATAN TANA TORAJA,SULAWESI_SELATAN_TANA_TORAJA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,3.1,Integrated service unit,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH DONGGALA,SULAWESI_TENGAH_DONGGALA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH MOROWALI,SULAWESI_TENGAH_MOROWALI.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH MOROWALI,SULAWESI_TENGAH_MOROWALI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH MOROWALI,SULAWESI_TENGAH_MOROWALI.txt,6.5,Disability,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH PARIGI MOUTONG,SULAWESI_TENGAH_PARIGI_MOUTONG.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH PARIGI MOUTONG,SULAWESI_TENGAH_PARIGI_MOUTONG.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH PARIGI MOUTONG,SULAWESI_TENGAH_PARIGI_MOUTONG.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH PARIGI MOUTONG,SULAWESI_TENGAH_PARIGI_MOUTONG.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH POSO,SULAWESI_TENGAH_POSO.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH POSO,SULAWESI_TENGAH_POSO.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH POSO,SULAWESI_TENGAH_POSO.txt,2.6,Monitoring and evaluation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH POSO,SULAWESI_TENGAH_POSO.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH SIGI,SULAWESI_TENGAH_SIGI.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH SIGI,SULAWESI_TENGAH_SIGI.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH SIGI,SULAWESI_TENGAH_SIGI.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH SIGI,SULAWESI_TENGAH_SIGI.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGAH SIGI,SULAWESI_TENGAH_SIGI.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH TOLI TOLI,SULAWESI_TENGAH_TOLI_TOLI.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH TOLI TOLI,SULAWESI_TENGAH_TOLI_TOLI.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGAH TOLI TOLI,SULAWESI_TENGAH_TOLI_TOLI.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON,SULAWESI_TENGGARA_BUTON.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON,SULAWESI_TENGGARA_BUTON.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON SELATAN,SULAWESI_TENGGARA_BUTON_SELATAN.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON SELATAN,SULAWESI_TENGGARA_BUTON_SELATAN.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON SELATAN,SULAWESI_TENGGARA_BUTON_SELATAN.txt,5.5,International organisations engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA BUTON SELATAN,SULAWESI_TENGGARA_BUTON_SELATAN.txt,5.6,Media engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA BUTON UTARA,SULAWESI_TENGGARA_BUTON_UTARA.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA BUTON UTARA,SULAWESI_TENGGARA_BUTON_UTARA.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE,SULAWESI_TENGGARA_KONAWE.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA KONAWE,SULAWESI_TENGGARA_KONAWE.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE,SULAWESI_TENGGARA_KONAWE.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE KEPULAUAN,SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt,3.4,Safety / protection shelter,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA KONAWE KEPULAUAN,SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA KONAWE KEPULAUAN,SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE KEPULAUAN,SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA KONAWE UTARA,SULAWESI_TENGGARA_KONAWE_UTARA.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,3.6,Health / medical services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SULAWESI TENGGARA MUNA BARAT,SULAWESI_TENGGARA_MUNA_BARAT.txt,7.3,International donors,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+SULAWESI UTARA BITUNG KOTA,SULAWESI_UTARA_BITUNG_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,2.2,Collaboration with non-government service providers,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,2.3,Data collection / information systems,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,2.6,Monitoring and evaluation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,5.6,Media engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT BUKITTINGGI KOTA,SUMATERA_BARAT_BUKITTINGGI_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,1.4,Psychological violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT DHARMASRAYA,SUMATERA_BARAT_DHARMASRAYA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,3.7,Psychosocial counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,3.8,Religious / spiritual counselling,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,3.9,Resocialisation services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,6.7,Minority groups,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,7.2,National government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT KEPULAUAN MENTAWAI,SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt,7.5,Provincial government budget,budget_funding_sources,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,1.1,Domestic violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PADANG PARIAMAN,SUMATERA_BARAT_PADANG_PARIAMAN.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,1.2,Sexual violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PAYAKUMBUH KOTA,SUMATERA_BARAT_PAYAKUMBUH_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,1.3,Physical violence,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,5.4,Education institutions engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,6.1,Women in crisis settings,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT PESISIR SELATAN,SUMATERA_BARAT_PESISIR_SELATAN.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,5.1,NGO collaboration,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,5.8,Private sector engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA BARAT SOLOK KOTA,SUMATERA_BARAT_SOLOK_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUARA ENIM,SUMATERA_SELATAN_MUARA_ENIM.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,4.3,VAW laws awareness,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI BANYUASIN,SUMATERA_SELATAN_MUSI_BANYUASIN.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI RAWAS,SUMATERA_SELATAN_MUSI_RAWAS.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI RAWAS,SUMATERA_SELATAN_MUSI_RAWAS.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI RAWAS,SUMATERA_SELATAN_MUSI_RAWAS.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN MUSI RAWAS,SUMATERA_SELATAN_MUSI_RAWAS.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,3.3,Reporting / hotline,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,3.7,Psychosocial counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,3.8,Religious / spiritual counselling,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,3.9,Resocialisation services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,5.2,Religious engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,5.5,International organisations engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU,SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt,6.6,Heads of household,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,3.2,Police specialised service unit,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,5.3,Traditional/cultural engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN OGAN KOMERING ULU SELATAN,SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,2.5,Training and capacity building,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,5.6,Media engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,7.1,Local government budget,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,7.2,National government budget,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PALEMBANG KOTA,SUMATERA_SELATAN_PALEMBANG_KOTA.txt,7.4,Other legal sources,budget_funding_sources,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PENUKAL ABAB LEMATANG ILIR,SUMATERA_SELATAN_PENUKAL_ABAB_LEMATANG_ILIR.txt,6.11,Domestic workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,1.6,Harmful practices,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,2.1,Institutional network / coordination mechanism,institutional_mechanism,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,2.4,Gender mainstreaming institutionalisation,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,5.4,Education institutions engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,5.8,Private sector engagement,stakeholder_engagement,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,6.2,Trafficking victims,intersectional_approach,Yes,No,1.0,0.0,false_negative
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,6.5,Disability,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA SELATAN PRABUMULIH KOTA,SUMATERA_SELATAN_PRABUMULIH_KOTA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA BATU BARA,SUMATERA_UTARA_BATU_BARA.txt,1.8,Human trafficking,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA BATU BARA,SUMATERA_UTARA_BATU_BARA.txt,2.5,Training and capacity building,institutional_mechanism,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA BATU BARA,SUMATERA_UTARA_BATU_BARA.txt,4.1,Information & education on VAW,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA BATU BARA,SUMATERA_UTARA_BATU_BARA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA BATU BARA,SUMATERA_UTARA_BATU_BARA.txt,6.8,Legal process involvement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA LABUHANBATU SELATAN,SUMATERA_UTARA_LABUHANBATU_SELATAN.txt,1.6,Harmful practices,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA UTARA LABUHANBATU SELATAN,SUMATERA_UTARA_LABUHANBATU_SELATAN.txt,1.8,Human trafficking,scope_of_violence,Yes,No,1.0,0.0,false_negative
+SUMATERA UTARA LABUHANBATU SELATAN,SUMATERA_UTARA_LABUHANBATU_SELATAN.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA LABUHANBATU SELATAN,SUMATERA_UTARA_LABUHANBATU_SELATAN.txt,6.10,Refugees / displacement,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,3.4,Safety / protection shelter,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,3.10,Economic support services,specialised_support_services,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,4.4,Prevention through education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,5.8,Private sector engagement,stakeholder_engagement,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PADANGSIDIMPUAN KOTA,SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt,6.3,Women workers,intersectional_approach,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PAKPAK BHARAT,SUMATERA_UTARA_PAKPAK_BHARAT.txt,1.9,Sexual slavery / exploitation,scope_of_violence,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PAKPAK BHARAT,SUMATERA_UTARA_PAKPAK_BHARAT.txt,3.10,Economic support services,specialised_support_services,Yes,No,1.0,0.0,false_negative
+SUMATERA UTARA PAKPAK BHARAT,SUMATERA_UTARA_PAKPAK_BHARAT.txt,4.2,Gender equality education,primary_prevention,No,Yes,0.0,1.0,false_positive
+SUMATERA UTARA PAKPAK BHARAT,SUMATERA_UTARA_PAKPAK_BHARAT.txt,6.2,Trafficking victims,intersectional_approach,No,Yes,0.0,1.0,false_positive

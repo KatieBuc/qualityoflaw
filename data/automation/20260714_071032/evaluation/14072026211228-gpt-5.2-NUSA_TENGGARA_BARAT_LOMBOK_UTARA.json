@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:01:51.986885+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 24\n(1) \tRegional Government conducts prevention of Violence against Women and Children by means of:\na. \tsocializing laws and regulations;\nb. \tproviding counseling/guidance;\nc. \tproviding education on the dangers of domestic Violence;\nd. \tconducting seminars/workshops or the like;\ne. \testablishing work networks in efforts to prevent Violence;\nf. \tconducting coordination, integration, synchronization of Violence prevention based on partnership patterns;\ng. \testablishing a Violence prevention system, mapping of locations or areas prone to occurrence of Violence; and\nh. \tincreasing Community awareness in behaving in accordance with religious norms and morality.\n(2) \tIn addition to Regional Government, prevention as referred to in paragraph (1) must be implemented by:\na. \tfamily and/or closest relatives;\nb. \tCommunity;\nc. \teducational institutions;\nd. \thealth institutions;\ne. \tsocial Community institutions; and\nf. \tbusiness sector and other institutions.",
+      "rationale": "The policy explicitly references domestic violence by providing prevention measures including education on the dangers of domestic violence.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 22\nThe Regional Government is responsible for efforts to protect Women and Children from acts of Violence that occur in the forms of:\na. \tPhysical violence;\nb. \tSexual violence;\nc. \tEconomic violence;\nd. \tSocial violence;\ne. \tPsychological violence;\nf. \tdomestic neglect;\ng. \tcoercion or deprivation of freedom; and\nh. \tthreat of certain actions.",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence against women and children for which the regional government is responsible to provide protection.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 22\nThe Regional Government is responsible for efforts to protect Women and Children from acts of Violence that occur in the forms of:\na. \tPhysical violence;\nb. \tSexual violence;\nc. \tEconomic violence;\nd. \tSocial violence;\ne. \tPsychological violence;\nf. \tdomestic neglect;\ng. \tcoercion or deprivation of freedom; and\nh. \tthreat of certain actions.",
+      "rationale": "The policy explicitly lists physical violence as a form of violence against women and children covered by protection responsibilities.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 22\nThe Regional Government is responsible for efforts to protect Women and Children from acts of Violence that occur in the forms of:\na. \tPhysical violence;\nb. \tSexual violence;\nc. \tEconomic violence;\nd. \tSocial violence;\ne. \tPsychological violence;\nf. \tdomestic neglect;\ng. \tcoercion or deprivation of freedom; and\nh. \tthreat of certain actions.",
+      "rationale": "The policy explicitly includes psychological violence among the forms of violence against women and children addressed by the regulation.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 22\nThe Regional Government is responsible for efforts to protect Women and Children from acts of Violence that occur in the forms of:\na. \tPhysical violence;\nb. \tSexual violence;\nc. \tEconomic violence;\nd. \tSocial violence;\ne. \tPsychological violence;\nf. \tdomestic neglect;\ng. \tcoercion or deprivation of freedom; and\nh. \tthreat of certain actions.",
+      "rationale": "The policy explicitly includes economic violence and domestic neglect as forms of violence against women and children.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Article 8\nfamilies and parents have obligations and responsibilities toward Children in the form of: caring for, maintaining, educating, and protecting Children;\npreventing the occurrence of marriage at an early age;\nensuring the continuity of Children's education in accordance with the Children's abilities, talents and interests; and reporting every birth of a Child to the authorized agency to conduct birth registration.\nIn the event that parents do not exist or their whereabouts are unknown or due to a certain reason, cannot carry out their obligations and responsibilities, then the obligations and responsibilities as referred to in paragraph (1) may be transferred to the family, which shall be implemented in accordance with the applicable laws and regulations.",
+      "rationale": "The policy explicitly addresses a harmful practice by assigning families/parents responsibility for preventing marriage at an early age.",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention femicide/feminicide or gender-related killing of women; they discuss general forms of violence and protection services without this specific concept.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages discuss violence, exploitation in general terms, and rights, but do not explicitly mention human trafficking or trafficking-related acts.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention 'exploitation' generally and 'sexual violence,' none explicitly address sexual exploitation/sexual slavery as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention online/technology-facilitated abuse, cyber harassment, or any technology-related modality of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 29\nP2TP2A as referred to in Article 28 letter a functions as a coordinating institution among Regional Governments, law enforcement apparatus, service institutions, educational institutions, Legal Aid Institutions, Individuals, Private Sector and/or NGOs, which have capacity in the Protection of Women and Children.\nThe duties of P2TP2A as referred to in paragraph (1) include:\na. providing Services, including: preparing and developing information related to Women and Children as well as coordinating to all Regencies and reporting to the Province/Province of West Nusa Tenggara;\ndeveloping a central database obtained from the Region regarding the condition of Violence against Women and Children;\nreceiving complaints both in writing and orally;\nconducting Services, mediation and Assistance to victims of Violence against Women and Children;\nconducting education/training; and coordinating with related institutions/individuals both in other Regencies/Cities, Provincial Government in the context of providing Protection to Women and Children.\nb. providing Protection to victims of acts of Violence, reporters and witnesses.\n(3) The appointment of P2TP2A management as referred to in paragraph (1) shall be stipulated by Regent's Decree.\n(4) P2TP2A is under the coordination of SKPD or work unit that handles women's empowerment and Child Protection.",
+      "rationale": "The policy establishes P2TP2A as a coordinating institution that coordinates among regional governments and other actors, including coordination with other regencies/cities and the provincial government, indicating an institutional network across jurisdictions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 16\n(1) \tRelated SKPD with authority over social affairs, health, and Protection of Women and Children, shall organize Handling and Recovery in the form of:\na. \tconducting Assistance in legal processes;\nb. \tconducting mediation and/or dispute resolution;\nc. \taccompanying referrals, psychological and medical recovery;\nd. \taccompanying legal identity processes for Women and Children; and\ne. \tconducting counseling.\n(2) \tThe implementation of Handling and Recovery as referred to in paragraph (1) may cooperate with, the Police, Hospitals, Integrated Service Centers, Legal Aid Institutions, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly allows implementation of handling and recovery to cooperate with NGOs (alongside police, hospitals, legal aid institutions, etc.), which constitutes a cooperation mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy assigns the relevant SKPD to conduct prevention and protection including developing data centers, which indicates establishment of a data/information system relevant to violence against women and children.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 20\n(1) \tThe cultivation of a gender-equitable social system includes:\na. \tgender-based planning, budgeting and development systems;\nb. \tgender-based human resource capacity building; and\nc. \tgender-based political rights.\n(2) \tThe provisions referred to in paragraph (1) shall be implemented in the form of gender mainstreaming in every policy and community life.",
+      "rationale": "The policy explicitly states that provisions on gender-equitable systems are to be implemented in the form of gender mainstreaming in every policy and community life, addressing gender mainstreaming institutionalisation (though not necessarily a specific working group).",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Regional Government plays a role in facilitating the handling of Children in conflict with the law.\n(2) the handling of Children in conflict with the law as referred to in paragraph (1) includes:\na. capacity building for government apparatus, social workers and the Community;\nb. improving coordination with law enforcement apparatus;\nc. provision of supporting facilities and infrastructure for the implementation of the juvenile criminal justice system;\nd. development of effective methods through information support, facilities and positive activities as well as taking immediate action on gaps that encourage Children and/or groups of Children to commit legal violations;\ne. provision and delivery of legal and psychosocial assistance services in realizing restorative justice and diversion processes for Children in conflict with the law;\nf. encouraging paradigm shifts in the Community towards Children in conflict with the law; and\ng. developing diversion mechanisms for Children in conflict with the law in accordance with applicable laws and regulations.\n(3) Related SKPD with authority over social affairs and education shall organize social Rehabilitation and education for Children in conflict with the law in the form of:\na. provision of safe houses;\nb. psychosocial Rehabilitation;\nc. mental spiritual Rehabilitation;\nd. fulfillment of the right to education; and\ne. social Reintegration.",
+      "rationale": "The policy includes capacity building for government apparatus and social workers as part of handling children in conflict with the law, which constitutes training/capacity building for officials and service workers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 36\nSupervision as referred to in Article 35 paragraph (1) includes: conducting monitoring and evaluation of the Implementation of Protection of Women and Children; and receiving and following up on reports.\nThe Implementation of Supervision as referred to in paragraph (1) shall be carried out in a transparent and accountable manner.",
+      "rationale": "The policy defines supervision to include conducting monitoring and evaluation of implementation of protection for women and children and following up reports, directly addressing monitoring and evaluation of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 28\nIn the framework of Protection of Women and Children, in the Region shall be established: Integrated Service Center, in the form of Integrated Service Center for Women and Children Empowerment (P2TP2A);\nb. \tChild Protection Institution (LPA); and\nc. \tOther institutions in accordance with needs and/or provisions of laws and regulations.",
+      "rationale": "The policy explicitly requires establishment of an Integrated Service Center (P2TP2A) as part of protection for women and children, indicating an integrated service unit for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+      "rationale": "The policy specifies that integrated services must be supported by facilities including “special Service rooms within the police force,” indicating a specialised service provision within police offices for victims.",
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 29\nP2TP2A as referred to in Article 28 letter a functions as a coordinating institution among Regional Governments, law enforcement apparatus, service institutions, educational institutions, Legal Aid Institutions, Individuals, Private Sector and/or NGOs, which have capacity in the Protection of Women and Children.\nThe duties of P2TP2A as referred to in paragraph (1) include:\na. providing Services, including: preparing and developing information related to Women and Children as well as coordinating to all Regencies and reporting to the Province/Province of West Nusa Tenggara;\ndeveloping a central database obtained from the Region regarding the condition of Violence against Women and Children;\nreceiving complaints both in writing and orally;\nconducting Services, mediation and Assistance to victims of Violence against Women and Children;\nconducting education/training; and coordinating with related institutions/individuals both in other Regencies/Cities, Provincial Government in the context of providing Protection to Women and Children.\nb. providing Protection to victims of acts of Violence, reporters and witnesses.\n(3) The appointment of P2TP2A management as referred to in paragraph (1) shall be stipulated by Regent's Decree.\n(4) P2TP2A is under the coordination of SKPD or work unit that handles women's empowerment and Child Protection.",
+      "rationale": "The policy assigns P2TP2A duties that include “receiving complaints both in writing and orally,” demonstrating a service unit that receives reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+      "rationale": "The policy states services must be supported by facilities including “service centers and safe houses,” indicating provision of shelter/safe housing for victims.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 18\nLegal aid services are intended to provide Assistance and Protection to Women and Children victims of Violence with a gender-responsive approach so that victims and perpetrators obtain justice and certainty of their legal rights.\n(2) \tTypes of legal aid services include:\na. \tlitigation legal aid; and\nb. \tnon-litigation legal aid.\n(3) \tThe Regional Government provides legal aid in accordance with applicable laws and regulations.\n(4) \tIn providing legal aid as referred to in paragraph (3), the Regional Government cooperates with advocate organizations in the Region.",
+      "rationale": "The policy explicitly provides for legal aid services for women and children victims of violence and states the regional government provides legal aid, indicating legal assistance is included.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+      "rationale": "The integrated services list explicitly includes “Health services,” showing provision of health/medical services for victims.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+      "rationale": "The integrated services include “counseling,” which covers psychosocial counselling services for victims within the integrated service framework.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+      "rationale": "The integrated services explicitly include “spiritual guidance,” indicating religious/spiritual counselling support is provided.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) \tThe related SKPD responsible for social affairs and the Protection of Women and Children shall organize Rehabilitation, Reintegration and Empowerment in the form of:\na. \tAssistance for Women and Child victims;\nb. \tprovision of Safe houses;\nc. \thealing or recovery;\nd. \treturn to family and Community;\ne. \tfacilitating the development of interests and talents for Women and Children;\nf. \tdeveloping economic enterprises for adult Women;\ng. \tdeveloping creative spaces for Children; and\nh. \tconducting Supervision, monitoring and evaluation of the Rehabilitation, Reintegration and Empowerment process.\n(2) \tThe implementation of Rehabilitation, Reintegration and Empowerment as referred to in paragraph (1) letters a through d may cooperate with educational institutions, Rehabilitation centers, Safe houses, private institutions and/or NGOs.\n(3) \tThe mechanism for Organizing Protection against Violence toward Women and Children shall be organized according to Standard Operating Procedures (SOP) and Service Standards (SP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy mandates the responsible SKPD to organize “Rehabilitation, Reintegration and Empowerment,” including return to family/community and recovery, which constitutes resocialisation services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) \tThe related SKPD responsible for social affairs and the Protection of Women and Children shall organize Rehabilitation, Reintegration and Empowerment in the form of:\na. \tAssistance for Women and Child victims;\nb. \tprovision of Safe houses;\nc. \thealing or recovery;\nd. \treturn to family and Community;\ne. \tfacilitating the development of interests and talents for Women and Children;\nf. \tdeveloping economic enterprises for adult Women;\ng. \tdeveloping creative spaces for Children; and\nh. \tconducting Supervision, monitoring and evaluation of the Rehabilitation, Reintegration and Empowerment process.\n(2) \tThe implementation of Rehabilitation, Reintegration and Empowerment as referred to in paragraph (1) letters a through d may cooperate with educational institutions, Rehabilitation centers, Safe houses, private institutions and/or NGOs.\n(3) \tThe mechanism for Organizing Protection against Violence toward Women and Children shall be organized according to Standard Operating Procedures (SOP) and Service Standards (SP) which will be further regulated by Regent Regulation.",
+      "rationale": "The rehabilitation/reintegration/empowerment provisions include “developing economic enterprises for adult Women,” indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy includes primary prevention measures that explicitly mention dissemination of information and education aimed at preventing violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references women’s rights and gender-equitable systems (e.g., gender mainstreaming), the provided passages do not explicitly describe information/education activities focused on gender equality or women’s rights as a primary prevention intervention.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 24\n(1) \tRegional Government conducts prevention of Violence against Women and Children by means of:\na. \tsocializing laws and regulations;\nb. \tproviding counseling/guidance;\nc. \tproviding education on the dangers of domestic Violence;\nd. \tconducting seminars/workshops or the like;\ne. \testablishing work networks in efforts to prevent Violence;\nf. \tconducting coordination, integration, synchronization of Violence prevention based on partnership patterns;\ng. \testablishing a Violence prevention system, mapping of locations or areas prone to occurrence of Violence; and\nh. \tincreasing Community awareness in behaving in accordance with religious norms and morality.\n(2) \tIn addition to Regional Government, prevention as referred to in paragraph (1) must be implemented by:\na. \tfamily and/or closest relatives;\nb. \tCommunity;\nc. \teducational institutions;\nd. \thealth institutions;\ne. \tsocial Community institutions; and\nf. \tbusiness sector and other institutions.",
+      "rationale": "The policy explicitly includes prevention through “socializing laws and regulations,” which constitutes information/education about relevant laws and policies related to violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly includes prevention through education measures, including conducting education on prevention of violence and developing child-friendly school models, indicating education-based primary prevention.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly allows cooperation with NGOs in implementing prevention activities, indicating stakeholder engagement with civil society/NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly states that prevention implementation may cooperate with Religious Institutions, demonstrating engagement with religious organizations.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention collaboration with traditional/cultural organizations or leaders; references to community participation and religious norms do not specifically identify traditional/cultural institutions.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly states that prevention implementation may cooperate with Educational Institutions, which covers engagement with education institutions (including potentially universities, though not named).",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages mention cooperation with domestic actors (e.g., NGOs, business entities, police, hospitals) but do not reference international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly includes Media among entities that prevention implementation may cooperate with, indicating stakeholder engagement with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 7\nThe Community has obligations and responsibilities toward the Protection of Women and Children through Community participation activities in the Implementation of Protection of Women and Children in the form of: providing information and/or reporting every occurrence of vulnerability risk and Violence that comes to their knowledge;\nfacilitating deliberation to reach consensus for the creation of restorative justice for Children in conflict with the law through informal channels and implemented at the village/kelurahan government level and institutional authorities;\nidentifying/early detection and initial handling of Children at risk;\nmediation and guidance for families experiencing Violence in the household, household conflicts, and divorce;\npreparation of families and the Community in receiving Children who are victims of maltreatment and/or Children at risk; and the process of repatriation, social Rehabilitation, and social Reintegration.",
+      "rationale": "The policy assigns obligations and responsibilities to the Community through participation activities in protection implementation, demonstrating explicit engagement with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+      "rationale": "The policy explicitly states that prevention implementation may cooperate with Business Entities, indicating engagement with the business/private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages define “Children in emergency situations” including refugees, disasters, and conflict, but do not specify any special protection measures targeted at women in conflict or disaster-prone areas.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection for women and children victims of violence generally, but do not mention human trafficking or specific measures for women victims of trafficking.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include a general right for women to obtain work and fair wages, but do not provide specific protection measures targeted at women workers/employees.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention elderly women or provide any special protection measures targeted to elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 10\nEvery Woman has the right to:\na. \tlive, sustain life and improve her standard of living;\nb. \tlive peacefully, safely, in peace, happily, prosperously both physically and spiritually;\nc. \tenjoy a good and healthy living environment;\nd. \tlive in a family within the bonds of lawful marriage based on the provisions of laws and regulations;\ne. \tobtain work in accordance with her abilities, appropriate conditions and fair and just wages;\nf. \tspecifically for Women with disabilities, the right to obtain facilities and special treatment in public services;\ng. \tplay an active role in the field of politics and government in accordance with the potential and capabilities she possesses;\nh. \tobtain legal information and services;\ni. \tobtain services to increase her income; and\nj. \tobtain other rights in accordance with her human dignity and based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly recognizes women with disabilities and provides for facilities and special treatment in public services, indicating special protection measures for this group.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to obligations of regional government, society, family, and parents, but do not mention women heads of household/families or special measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages emphasize non-discrimination and general protection from violence, but do not identify minority/isolated women as a specific target group with special protection measures.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address handling of children in conflict with the law, but do not mention women in conflict with the law (as witnesses or perpetrators) or special protections for them.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention considering religion, customs, social culture, and local wisdom, but do not explicitly provide special protection measures targeted at Indigenous peoples/groups (masyarakat adat).",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although “children in emergency situations” is defined to include refugees, the passages do not set out special protection measures specifically targeted at refugees/forced displacement (and the reference is limited to children, not refugees generally).",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention domestic workers as a category or provide any special protection measures targeted at domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide integrated services and safe houses for victims of violence, but do not address homelessness or special protection measures specifically targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss rehabilitation, reintegration, and empowerment for women and child victims of violence, but do not mention former inmates/formerly incarcerated women or special measures for them.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFINANCING\nArticle 38\nFinancing for the implementation of the Administration of Protection for Women and Children shall be charged to the APBD and other legitimate and non-binding sources of funds.",
+      "rationale": "The policy explicitly states that financing for implementation is charged to the APBD (the regional/local revenue and expenditure budget), which is a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages mention regional government assistance, APBD, and other legitimate/non-binding sources, but do not explicitly reference national-level budget funding (e.g., APBN) or national government budget allocations.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international donors, foreign governments, UN agencies, development partners, or other international funding sources; only regional budget and generic/other lawful sources are referenced.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFINANCING\nArticle 38\nFinancing for the implementation of the Administration of Protection for Women and Children shall be charged to the APBD and other legitimate and non-binding sources of funds.",
+      "rationale": "The financing provision includes funding from the APBD and also from “other legitimate and non-binding sources of funds,” which constitutes other legally permissible sources beyond the local budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to the regional budget (APBD) and regional government assistance but do not explicitly identify the provincial government budget as a distinct funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

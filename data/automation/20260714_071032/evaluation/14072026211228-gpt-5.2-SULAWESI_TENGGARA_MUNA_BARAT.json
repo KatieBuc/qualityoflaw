@@ -1,0 +1,469 @@
+{
+  "policy_file": "SULAWESI_TENGGARA_MUNA_BARAT.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:07:12.251817+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 9\nEvery person is prohibited from committing acts against women in the form of:\na. Physical violence;\nb. Psychological violence;\nc. Sexual violence; and/or\nd. Abandonment within the household.",
+      "rationale": "The policy explicitly prohibits and defines violence occurring within the household, including abandonment/neglect within the household, which is a form of domestic violence.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Sexual violence as referred to in article 9 letter c includes:\na. Sexual violence within the household; and\nb. Sexual violence outside the household.\n(2) Sexual violence within the household as referred to in paragraph (1) letter a includes:\na. Forced sexual relations committed against a person residing within the scope of that household; and\nb. Forced sexual relations against someone within the scope of the household with another person for commercial purposes and/or certain purposes.\n(3) Sexual violence outside the household as referred to in paragraph (1) letter b is sexual violence against women who have no connection with the scope of the perpetrator's household.",
+      "rationale": "The policy explicitly defines sexual violence and distinguishes sexual violence within and outside the household, including forced sexual relations.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 10\nPhysical violence as referred to in article 9 letter a is an act that results in pain, falling ill or serious injury as well as death.",
+      "rationale": "The policy explicitly defines physical violence as acts resulting in pain, illness, serious injury, or death.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 11\nPsychological violence as referred to in article 9 letter b is an act that results in fear, loss of self-confidence, loss of ability to act, sense of helplessness, and/or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly defines psychological violence and describes its impacts such as fear, loss of self-confidence, helplessness, and severe psychological suffering.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 13\n(1) Neglect within the household as referred to in article 9 letter d, namely neglecting a wife within the scope of the household, whereas according to the law applicable to him or due to agreement or contract he is obligated to provide livelihood, care, or maintenance to his wife.\n(2) Neglect as referred to in paragraph (1) also applies to every woman in the household which results in economic dependence by means of limiting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+      "rationale": "The policy explicitly addresses household neglect that creates economic dependence by restricting/prohibiting proper work, which constitutes economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention or address harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women generally, but do not explicitly address femicide/feminicide or gender-related killing of women as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "REGIONAL REGULATION ON PROTECTION\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is West Muna Regency.\n2. Regional Government is the administration of governmental affairs by the regional government and regional house of representatives according to the principles of autonomy and assistance duties with the principle of the broadest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of regional government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of West Muna.\n5. Regional House of Representatives of West Muna Regency, hereinafter abbreviated as DPRD, is a regional people's representative institution as an element of regional government administration.\n6. Regional Apparatus Organization, hereinafter referred to as OPD, is an organization or regional people's representative institution as an element of regional government administration.\n7. Human Rights are a set of rights inherent in the nature and existence of human beings as creatures of God Almighty and constitute His gift that must be respected, upheld and protected by the state, law, government, and every person for the sake of honor and protection of human dignity and worth.\n8. Protection of Women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil, or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n10. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n11. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings in order to be able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n12. Society is individuals, families, groups, and social organizations and/or community organizations.\n13. Family is the smallest unit in society consisting of husband and wife, husband-wife and their children, or father and children, or mother and children.\n14. Labor Force is every person who is capable of performing work to produce goods and/or services either to meet their own needs or for society.\n15. Worker/Laborer is every person who works by receiving wages or remuneration in other forms.\n16. Criminal Act of Human Trafficking, hereinafter abbreviated as TPPO, is any action or series of actions that meet the elements of criminal acts determined in Law Number 21 of 2007, namely concerning the Eradication of the Criminal Act of Human Trafficking.",
+      "rationale": "The policy explicitly defines the criminal act of human trafficking (TPPO) in its general provisions.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Sexual violence as referred to in article 9 letter c includes:\na. Sexual violence within the household; and\nb. Sexual violence outside the household.\n(2) Sexual violence within the household as referred to in paragraph (1) letter a includes:\na. Forced sexual relations committed against a person residing within the scope of that household; and\nb. Forced sexual relations against someone within the scope of the household with another person for commercial purposes and/or certain purposes.\n(3) Sexual violence outside the household as referred to in paragraph (1) letter b is sexual violence against women who have no connection with the scope of the perpetrator's household.",
+      "rationale": "The policy includes forced sexual relations, including forcing someone within the household to have sexual relations with another person for commercial and/or certain purposes, which constitutes sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention technology, online abuse, digital harassment, or any form of technology-facilitated violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe regional government structures, coordination among service providers, and working groups within sub-districts/villages, but do not show coordination or cooperation with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nCOMMUNITY PARTICIPATION\nArticle 16\n(1) Every person, family, group, community organization and/or Non-Governmental Organization may participate in efforts to protect women.\n(2) Participation as referred to in paragraph (1) may be conducted through related agencies coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.\n(3) Further provisions regarding the form and procedures for participation as referred to in paragraph (1) and paragraph (2) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly allows participation by non-governmental organizations in women's protection efforts and describes that such participation can be conducted through relevant agencies coordinated by the responsible regional apparatus.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Protection of women is implemented by integrating gender mainstreaming and disaggregated gender data in an integrated manner based on the provisions of laws and regulations.\n(2) In the implementation of protection of women, a Working Group and Integrated Services shall be established.\n(3) Protection of women is coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.\n(4) The Working Group as referred to in paragraph (2) shall be established in each sub-district and village/urban village.\n(5) The Working Group carries out women's protection activities under the coordination of the Regional Apparatus Organization responsible for women's empowerment and protection.\n(6) Further provisions regarding the Working Group as referred to in paragraph (2), paragraph (4), and paragraph (5) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly references integrating disaggregated gender data in implementing women's protection, indicating a data-related system/component for women's protection.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Protection of women is implemented by integrating gender mainstreaming and disaggregated gender data in an integrated manner based on the provisions of laws and regulations.\n(2) In the implementation of protection of women, a Working Group and Integrated Services shall be established.\n(3) Protection of women is coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.\n(4) The Working Group as referred to in paragraph (2) shall be established in each sub-district and village/urban village.\n(5) The Working Group carries out women's protection activities under the coordination of the Regional Apparatus Organization responsible for women's empowerment and protection.\n(6) Further provisions regarding the Working Group as referred to in paragraph (2), paragraph (4), and paragraph (5) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly requires integrating gender mainstreaming and establishes a Working Group and Integrated Services for implementation, indicating institutionalization mechanisms to deliver women's protection policies/programs.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The guidance provisions include facilitating capacity building of women's protection institutions, which constitutes training/capacity-building support for actors involved in service delivery and implementation.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) The mechanism for implementing the protection of women is carried out through stages:\na. Formulation of policy planning for programs and activities;\nb. Budgeting of programs and activities;\nc. Implementation of programs and activities; and\nd. Monitoring, evaluation and reporting.\n(2) Further provisions regarding the mechanism for implementing the protection of women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The implementation mechanism explicitly includes monitoring, evaluation, and reporting as a stage of policy implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 14\nParagraph (1) What is meant by \"Gender Mainstreaming\" is a strategy built to integrate gender as an integral dimension of planning, budgeting, implementation, monitoring, and evaluation of development policies, programs and activities.\nGender Mainstreaming is a strategy that can reduce gender gaps to achieve gender equality by using a gender perspective in the development process, women's empowerment is an affirmative strategy to achieve gender equality that aims to increase the fulfillment of women's rights to protection from acts of violence and discrimination.\nParagraph (2) Integrated services can be in the form of Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA or other Integrated Service Centers which are regional technical implementation units established by regional governments in providing services for women and children who experience violence, discrimination, special protection, and other problems.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.\nParagraph (5) Sufficiently clear.\nParagraph (6) Sufficiently clear.",
+      "rationale": "The policy explicitly mentions integrated services for women and children experiencing violence, including UPTD PPA or other integrated service centers established by regional governments.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention a specialised service unit located in police offices or any police-specific victim service unit.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages refer to integrated services and handling/service provision generally, they do not explicitly or implicitly specify a reporting/complaints reception unit or hotline for violence reports.",
+      "evidence_verified": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss integrated services and social protection/fulfillment of decent living needs, but do not mention shelters, safe houses, or any service unit providing protective accommodation.",
+      "evidence_verified": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) Protection of women includes:\na. Social protection;\nb. Economic protection; and\nc. Legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is provided in the form of guarantees for the survival of women and ensuring the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is provided in the form of empowerment of women to prevent and address the risk of vulnerability resulting from economic shocks and social vulnerability of individuals, families, groups and/or communities for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in the form of legal consultation services, legal assistance and provision of legal aid to women who become witnesses and victims of acts of violence and discrimination.",
+      "rationale": "The policy explicitly includes legal protection implemented through legal consultation services, legal assistance, and provision of legal aid for women who are witnesses and victims of violence and discrimination.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference service provision and integrated services in general, but do not specify health/medical services for victims of violence as a service unit function.",
+      "evidence_verified": null
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 7 Article 8\nSufficiently clear.\nParagraph (1) Letter a What is meant by \"Female Worker/Laborer\" is a woman who works by receiving wages or remuneration in other forms.\nLetter b What is meant by \"Elderly Woman\" is a woman who has reached 60 years of age and above.\nLetter c What is meant by \"Woman with disability\" is a woman who experiences physical and/or mental barriers that disrupt her activities and social interaction normally.\nLetter d What is meant by \"Homeless Woman\" is a woman who does not have a permanent residence and based on various reasons must live under bridge overpasses, public parks, roadsides or various other public facilities to sleep and carry out daily life.\nLetter e What is meant by \"Domestic Worker Woman\" is a person who works for a person or several people in a household to perform household work by receiving wages.\nLetter f What is meant by \"Female Head of Household\" is a woman who due to various reasons, is left by her husband, and ultimately acts or contributes and functions to carry out the role and responsibilities as head of household.\nLetter g What is meant by \"Female former resident\" of correctional institution is a woman who has served a sentence in a correctional institution.\nLetter h What is meant by \"Female disaster victim\" is a woman who suffers or dies as a result of natural and social disasters. Post-disaster recovery includes psychological services for victims, health services, residential facilities, public facilities and infrastructure, economic access recovery as well as population data services and legal aid.\nLetter i What is meant by \"Female former commercial sex worker\" is a woman who has worked and has stopped as a commercial sex worker.\nLife skills improvement for female former commercial sex workers is intended to provide additional knowledge through training and skills in accordance with the talents and abilities possessed so that they can live more independently and obtain decent work to improve living standards and change their social status so as not to become commercial sex workers again because such work is not legalized.\nLetter j What is meant by \"Female Victim of Violence\" is a woman who experiences physical, mental suffering, and/or economic loss caused by a criminal act.\nLetter k What is meant by \"witness\" is a person who can provide information for the purposes of investigation, inquiry, prosecution, and examination in court regarding a criminal case that he heard himself, he saw himself, and/or he experienced himself.\nWhat is meant by \"Victim\" is a person who experiences physical, mental suffering, and/or economic loss caused by a criminal act.\nLetter l Sufficiently clear.\nParagraph (2) Sufficiently clear.",
+      "rationale": "The policy’s elucidation explicitly mentions psychological services as part of post-disaster recovery, indicating provision of psychosocial/psychological support services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention religious guidance, spiritual counselling, or faith-based counselling services as part of the protection framework.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy explicitly refers to facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 7 Article 8\nSufficiently clear.\nParagraph (1) Letter a What is meant by \"Female Worker/Laborer\" is a woman who works by receiving wages or remuneration in other forms.\nLetter b What is meant by \"Elderly Woman\" is a woman who has reached 60 years of age and above.\nLetter c What is meant by \"Woman with disability\" is a woman who experiences physical and/or mental barriers that disrupt her activities and social interaction normally.\nLetter d What is meant by \"Homeless Woman\" is a woman who does not have a permanent residence and based on various reasons must live under bridge overpasses, public parks, roadsides or various other public facilities to sleep and carry out daily life.\nLetter e What is meant by \"Domestic Worker Woman\" is a person who works for a person or several people in a household to perform household work by receiving wages.\nLetter f What is meant by \"Female Head of Household\" is a woman who due to various reasons, is left by her husband, and ultimately acts or contributes and functions to carry out the role and responsibilities as head of household.\nLetter g What is meant by \"Female former resident\" of correctional institution is a woman who has served a sentence in a correctional institution.\nLetter h What is meant by \"Female disaster victim\" is a woman who suffers or dies as a result of natural and social disasters. Post-disaster recovery includes psychological services for victims, health services, residential facilities, public facilities and infrastructure, economic access recovery as well as population data services and legal aid.\nLetter i What is meant by \"Female former commercial sex worker\" is a woman who has worked and has stopped as a commercial sex worker.\nLife skills improvement for female former commercial sex workers is intended to provide additional knowledge through training and skills in accordance with the talents and abilities possessed so that they can live more independently and obtain decent work to improve living standards and change their social status so as not to become commercial sex workers again because such work is not legalized.\nLetter j What is meant by \"Female Victim of Violence\" is a woman who experiences physical, mental suffering, and/or economic loss caused by a criminal act.\nLetter k What is meant by \"witness\" is a person who can provide information for the purposes of investigation, inquiry, prosecution, and examination in court regarding a criminal case that he heard himself, he saw himself, and/or he experienced himself.\nWhat is meant by \"Victim\" is a person who experiences physical, mental suffering, and/or economic loss caused by a criminal act.\nLetter l Sufficiently clear.\nParagraph (2) Sufficiently clear.",
+      "rationale": "The policy explicitly refers to life skills improvement through training and skills development to support women (e.g., former commercial sex workers) toward independent living and decent work, which constitutes economic empowerment/support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy includes community socialization and dissemination of informational materials (books/leaflets/brochures) on women’s protection, which encompasses preventing and addressing violence against women as part of women’s protection efforts.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages define gender mainstreaming and state principles/objectives related to gender equality and women’s rights, none of the provided passages explicitly describe information/education activities aimed at teaching gender equality or women’s rights to the public.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy provides for socialization to the community regarding women’s protection policies and dissemination of related informational materials, which constitutes educating the public about relevant policies (including those addressing violence against women).",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention prevention generally and include community socialization and dissemination of materials, but they do not specifically address prevention through formal education systems or improving the quality of education.",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nCOMMUNITY PARTICIPATION\nArticle 16\n(1) Every person, family, group, community organization and/or Non-Governmental Organization may participate in efforts to protect women.\n(2) Participation as referred to in paragraph (1) may be conducted through related agencies coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.\n(3) Further provisions regarding the form and procedures for participation as referred to in paragraph (1) and paragraph (2) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly allows Non-Governmental Organizations to participate in efforts to protect women, indicating engagement/collaboration with NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious organizations or religious leaders as stakeholders for engagement/collaboration in services or prevention.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not explicitly reference traditional/cultural organizations or leaders, nor describe collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention schools, universities, or other educational institutions as partners or stakeholders for engagement/collaboration.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy explicitly mentions coordinating participation of other institutions including international assistance for women's protection, which indicates international support/collaboration.",
+      "evidence_verified": true
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions socialization and dissemination of materials, none of the passages explicitly identify media organizations as stakeholders or partners for collaboration.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nCOMMUNITY PARTICIPATION\nArticle 16\n(1) Every person, family, group, community organization and/or Non-Governmental Organization may participate in efforts to protect women.\n(2) Participation as referred to in paragraph (1) may be conducted through related agencies coordinated by the Regional Apparatus Organization responsible for women's empowerment and protection.\n(3) Further provisions regarding the form and procedures for participation as referred to in paragraph (1) and paragraph (2) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly provides for participation by every person, family, group, and community organization in efforts to protect women, indicating engagement with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy explicitly includes coordinating participation of the business sector and providing awards to the community and business sector for efforts in women's protection, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Women victims of disasters” among the categories of women to whom protection implementation is provided, indicating special measures targeted at women affected by disasters.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "Article 6\n(1) Regional Government has the obligation and responsibility for the protection of women.\n(2) Efforts for the protection of women are carried out in the form of: a. Prevention;\nb. Handling; and\nc. Recovery.\n(3) Prevention as referred to in paragraph (2) letter a is implemented in the form of policy determination, implementation guidelines, programs, and activities.\n(4) Handling as referred to in paragraph (2) letter b is implemented in the form of service provision and coordination between service providers.\n(5) Recovery as referred to in paragraph (2) letter c is all efforts to empower women victims of violence and victims of TPPO to be more empowered, physically, psychologically, and economically.\n(6) Efforts for the protection of women as referred to in paragraph (2) are carried out in an integrated manner in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly provides for recovery efforts aimed at empowering “women victims of violence and victims of TPPO,” directly addressing protection measures for women victims of human trafficking.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly lists “Women workers/laborers” as a group for whom protection implementation is provided, indicating targeted protection for women workers/employees.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Elderly women” among the groups receiving implementation of protection, indicating special protection measures targeted at elderly women.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Women with disabilities” among the groups receiving implementation of protection, indicating targeted protection measures for women with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Women heads of household” among the groups receiving implementation of protection, indicating targeted protection measures for women heads of households/families.",
+      "evidence_verified": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention minority or isolated groups, nor do they specify protection measures targeted at women from such groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Women witnesses and victims” as a category receiving protection implementation, which addresses protection for women involved in legal processes as witnesses/victims (though not as perpetrators).",
+      "evidence_verified": true
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention Indigenous peoples/groups (masyarakat adat) or specify any special protection measures targeted at them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly address refugees or forced displacement, nor do they specify protection measures targeted at such populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Domestic women workers” among the groups receiving implementation of protection, indicating targeted protection measures for domestic workers.",
+      "evidence_verified": true
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Homeless women” among the groups receiving implementation of protection, indicating targeted protection measures for women experiencing homelessness.",
+      "evidence_verified": true
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Implementation of protection for women is provided to: a. Women workers/laborers;\nb. Elderly women;\nc. Women with disabilities;\nd. Homeless women;\ne. Domestic women workers;\nf. Women heads of household;\ng. Women former inmates of correctional institutions; h. Women victims of disasters;\ni. Women former commercial sex workers;\nj. Women victims of violence;\nk. Women witnesses and victims; and L Women victims of TPPO.\n(2) Further provisions regarding the form of implementation of protection for women as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Women former inmates of correctional institutions” among the groups receiving implementation of protection, indicating targeted protection measures for formerly incarcerated women.",
+      "evidence_verified": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nFINANCING\nArticle 17\nAll costs for the implementation of planning policies, programs and activities related to Women's Empowerment and Protection are sourced from:\na. Regional Revenue and Expenditure Budget;\nb. Village Revenue and Expenditure Budget;\nc. Corporate Social Responsibility in accordance with the provisions of laws and regulations;\nd. Community participation; and/or\ne. Other sources that are legal and non-binding.",
+      "rationale": "The policy explicitly lists the Regional Revenue and Expenditure Budget as a financing source, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The listed financing sources include regional and village budgets, CSR, community participation, and other legal non-binding sources, but do not explicitly mention any national government budget.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nGUIDANCE AND SUPERVISION\nArticle 18\n(1) The Regent or OPD responsible for women's empowerment and protection shall conduct guidance and supervision over the protection of women.\n(2) The forms of guidance as referred to in paragraph (1) are as follows:\na. Providing socialization to the community regarding women's protection policies;\nb. Providing books, leaflets, brochures regarding women's protection, and other related issues and disseminating them to the community;\nc. Facilitating capacity building of women's protection institutions;\nd. Facilitating women's participation forums and women's organizations;\ne. Facilitating rehabilitation and reintegration services for women victims of disasters and victims of violence;\nf. Coordinating the participation of the business sector and other institutions, including international assistance for women's protection; and\ng. Providing awards to the community and business sector both individually and institutionally that have made efforts in women's protection.\n(3) The form of supervision as referred to in paragraph (1) may be in the form of monitoring and evaluation activities over the protection of women.",
+      "rationale": "The policy explicitly mentions coordinating participation of institutions including international assistance for women's protection, indicating international support/donors.",
+      "evidence_verified": true
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nFINANCING\nArticle 17\nAll costs for the implementation of planning policies, programs and activities related to Women's Empowerment and Protection are sourced from:\na. Regional Revenue and Expenditure Budget;\nb. Village Revenue and Expenditure Budget;\nc. Corporate Social Responsibility in accordance with the provisions of laws and regulations;\nd. Community participation; and/or\ne. Other sources that are legal and non-binding.",
+      "rationale": "The financing article explicitly includes 'other sources that are legal and non-binding' as a funding source.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing sources cited do not explicitly mention a provincial government budget; they refer to regional and village budgets and other non-provincial sources.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

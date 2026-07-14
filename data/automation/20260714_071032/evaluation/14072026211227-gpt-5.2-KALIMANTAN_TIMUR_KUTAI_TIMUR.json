@@ -1,0 +1,469 @@
+{
+  "policy_file": "KALIMANTAN_TIMUR_KUTAI_TIMUR.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:56:41.424622+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women generally and related services/rights, but none explicitly mention domestic violence or violence occurring within the household/intimate partner context.",
+      "evidence_verified": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nRIGHTS OF WOMEN VICTIMS OF VIOLENCE\nArticle 5 Every woman victim of violence has the right:\na. to have her dignity and worth as a human being respected;\nb. to obtain protection from family, community, Regional Government and/or other parties either temporarily or based on the determination of a protection order from the court;\nc. to physical, psychological and sexual health recovery in accordance with the suffering experienced by the Woman Victim of Violence;\nd. to special handling related to the confidentiality of the Woman Victim of Violence;\ne. to assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\nf. to spiritual guidance services; and\ng. to determine her own decisions.",
+      "rationale": "The passages explicitly reference sexual aspects of harm and recovery for women victims of violence, indicating the policy addresses sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nRIGHTS OF WOMEN VICTIMS OF VIOLENCE\nArticle 5 Every woman victim of violence has the right:\na. to have her dignity and worth as a human being respected;\nb. to obtain protection from family, community, Regional Government and/or other parties either temporarily or based on the determination of a protection order from the court;\nc. to physical, psychological and sexual health recovery in accordance with the suffering experienced by the Woman Victim of Violence;\nd. to special handling related to the confidentiality of the Woman Victim of Violence;\ne. to assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\nf. to spiritual guidance services; and\ng. to determine her own decisions.",
+      "rationale": "The passages explicitly mention physical health recovery for women victims of violence, indicating the policy addresses physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nRIGHTS OF WOMEN VICTIMS OF VIOLENCE\nArticle 5 Every woman victim of violence has the right:\na. to have her dignity and worth as a human being respected;\nb. to obtain protection from family, community, Regional Government and/or other parties either temporarily or based on the determination of a protection order from the court;\nc. to physical, psychological and sexual health recovery in accordance with the suffering experienced by the Woman Victim of Violence;\nd. to special handling related to the confidentiality of the Woman Victim of Violence;\ne. to assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\nf. to spiritual guidance services; and\ng. to determine her own decisions.",
+      "rationale": "The passages explicitly mention psychological health recovery for women victims of violence, indicating the policy addresses psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text includes economic empowerment measures (skills courses, employment opportunities) but does not describe economic violence/exploitation/domestic neglect as a form of violence or harm addressed by the policy.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention harmful practices such as early/child marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address violence against women in general but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention human trafficking or trafficking-related prevention/protection measures.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference violence against women and sexual health recovery, they do not explicitly address sexual exploitation or sexual slavery.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention online/digital/technology-facilitated forms of violence (e.g., cyber harassment, non-consensual image sharing, digital stalking).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe coordination within the regional government (e.g., coordination and monitoring of related regional apparatus) and reporting to higher levels, but they do not explicitly indicate an institutional network for coordination/cooperation with governments across jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-15- (3) For the implementation of Services as referred to in paragraph (2), the Regional Government may utilize social Protection houses and/or Safe Houses owned by the community or other social service institutions.",
+      "rationale": "The policy provides a mechanism for service implementation that allows the Regional Government to utilize safe houses owned by the community or other social service institutions, indicating cooperation with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address monitoring, evaluation, service standards, and community reporting, but do not establish a data collection system or information system for violence against women or women’s protection.",
+      "evidence_verified": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention achieving gender equality and integrating women’s protection policies into regional planning and institutions, they do not specifically mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Part Five\nArticle 16\n(1) SPM in the field of integrated services for women and children victims of violence aims to ensure that Women Victims of violence receive the minimum services needed.\n(2) SPM in the field of integrated services for Women Victims of violence, includes services:\na. handling of complaints/reports of Victims of Violence Against Women;\nb. health services for women Victims of violence; c. social rehabilitation for women Victims of violence;\nd. law enforcement and Legal Aid for women Victims of violence;\ne. Repatriation and Social Reintegration for women Victims of violence; and\nf. in the event that Women Victims of Violence experience trauma or illness that endangers themselves as a result of acts of violence so as to require immediate assistance, the Regional Government is obligated to provide first aid no later than 7 (seven) days after the complaint is filed.\nArticle 17 (1) SPM as referred to in Article 16 has performance indicators including:\na. coverage of women victims of violence who receive complaint handling by trained officers within integrated Service units;\nb. coverage ...",
+      "rationale": "The policy includes performance indicators referencing services delivered by trained officers/personnel within integrated service units, implying training/capacity requirements for service workers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nMONITORING AND EVALUATION\nArticle 19\n(1) Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women.\n(2) Monitoring as referred to in paragraph (1) is conducted to determine the progress and obstacles in the implementation of policies, programs, and activities for the protection of women in the Region.\nArticle 20 (1) Monitoring is conducted through coordination and direct monitoring of related Regional apparatus on a regular basis.\n(2) Monitoring is conducted from planning through implementation of policies, programs, and activities for the protection of women for the current year.\nArticle 21 (1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year or when necessary according to needs.\n(2) Results ...",
+      "rationale": "The policy explicitly sets out monitoring and evaluation provisions for implementation of policies, programs, and activities for the protection of women, including regular monitoring and end-of-year evaluation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "REGENT OF KUTAI TIMUR\nEAST KALIMANTAN PROVINCE\n- 5-\n15. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying witnesses and/or Women Victims of Violence.\n16. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for Women Victims of Violence.\n17. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is an integrated service unit established by the Regional Government to provide Services to Women Victims of Violence and children comprehensively including complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid.\n18. Minimum Service Standards hereinafter abbreviated as SPM is a performance benchmark for UPTD PPA services in providing complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid for Women Victims of Violence and children.\n19. Safe House is a temporary residence, provided to give protection to Women Victims of Violence in accordance with predetermined standards.\nArticle 2 This Regional Regulation is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. Non ...",
+      "rationale": "The policy defines an integrated service unit (UPTD PPA) established by the Regional Government to provide comprehensive services to women victims of violence, indicating the existence of an integrated service unit for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss integrated service units and law enforcement processes, but none explicitly establish or describe a specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Part Five\nArticle 16\n(1) SPM in the field of integrated services for women and children victims of violence aims to ensure that Women Victims of violence receive the minimum services needed.\n(2) SPM in the field of integrated services for Women Victims of violence, includes services:\na. handling of complaints/reports of Victims of Violence Against Women;\nb. health services for women Victims of violence; c. social rehabilitation for women Victims of violence;\nd. law enforcement and Legal Aid for women Victims of violence;\ne. Repatriation and Social Reintegration for women Victims of violence; and\nf. in the event that Women Victims of Violence experience trauma or illness that endangers themselves as a result of acts of violence so as to require immediate assistance, the Regional Government is obligated to provide first aid no later than 7 (seven) days after the complaint is filed.\nArticle 17 (1) SPM as referred to in Article 16 has performance indicators including:\na. coverage of women victims of violence who receive complaint handling by trained officers within integrated Service units;\nb. coverage ...",
+      "rationale": "The minimum service standards for integrated services explicitly include handling of complaints/reports of violence against women, indicating a service function for receiving reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Sixth Part\nSocial Protection House Article 18 (1) Regional Governments are obligated to establish social protection houses and / or Safe Houses or other designations.\n(2) Social protection houses and /or Safe Houses as referred to in paragraph (1) guarantee the implementation of Health Rehabilitation Services, Social Rehabilitation, Repatriation, and Social Reintegration.\n(3)For ...",
+      "rationale": "The policy obligates regional governments to establish social protection houses and/or safe houses, which function as shelters providing protection-related services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "REGENT OF KUTAI TIMUR\nEAST KALIMANTAN PROVINCE\n- 5-\n15. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying witnesses and/or Women Victims of Violence.\n16. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for Women Victims of Violence.\n17. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is an integrated service unit established by the Regional Government to provide Services to Women Victims of Violence and children comprehensively including complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid.\n18. Minimum Service Standards hereinafter abbreviated as SPM is a performance benchmark for UPTD PPA services in providing complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid for Women Victims of Violence and children.\n19. Safe House is a temporary residence, provided to give protection to Women Victims of Violence in accordance with predetermined standards.\nArticle 2 This Regional Regulation is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. Non ...",
+      "rationale": "The policy states that the UPTD PPA provides comprehensive services including legal aid, indicating a service unit that provides legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Part Five\nArticle 16\n(1) SPM in the field of integrated services for women and children victims of violence aims to ensure that Women Victims of violence receive the minimum services needed.\n(2) SPM in the field of integrated services for Women Victims of violence, includes services:\na. handling of complaints/reports of Victims of Violence Against Women;\nb. health services for women Victims of violence; c. social rehabilitation for women Victims of violence;\nd. law enforcement and Legal Aid for women Victims of violence;\ne. Repatriation and Social Reintegration for women Victims of violence; and\nf. in the event that Women Victims of Violence experience trauma or illness that endangers themselves as a result of acts of violence so as to require immediate assistance, the Regional Government is obligated to provide first aid no later than 7 (seven) days after the complaint is filed.\nArticle 17 (1) SPM as referred to in Article 16 has performance indicators including:\na. coverage of women victims of violence who receive complaint handling by trained officers within integrated Service units;\nb. coverage ...",
+      "rationale": "The integrated services minimum standards explicitly include health services for women victims of violence, indicating provision of health/medical services within the service framework.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention social rehabilitation and the involvement of psychologists/psychiatrists as implementing officers, none explicitly state the provision of psychosocial counselling services as a defined service unit/function.",
+      "evidence_verified": null
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nRIGHTS OF WOMEN VICTIMS OF VIOLENCE\nArticle 5 Every woman victim of violence has the right:\na. to have her dignity and worth as a human being respected;\nb. to obtain protection from family, community, Regional Government and/or other parties either temporarily or based on the determination of a protection order from the court;\nc. to physical, psychological and sexual health recovery in accordance with the suffering experienced by the Woman Victim of Violence;\nd. to special handling related to the confidentiality of the Woman Victim of Violence;\ne. to assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\nf. to spiritual guidance services; and\ng. to determine her own decisions.",
+      "rationale": "The policy lists spiritual guidance services as a right of women victims of violence, implying provision of religious/spiritual counselling as part of victim services.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "REGENT OF KUTAI TIMUR\nEAST KALIMANTAN PROVINCE\n- 5-\n15. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying witnesses and/or Women Victims of Violence.\n16. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for Women Victims of Violence.\n17. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is an integrated service unit established by the Regional Government to provide Services to Women Victims of Violence and children comprehensively including complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid.\n18. Minimum Service Standards hereinafter abbreviated as SPM is a performance benchmark for UPTD PPA services in providing complaint services, health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal aid for Women Victims of Violence and children.\n19. Safe House is a temporary residence, provided to give protection to Women Victims of Violence in accordance with predetermined standards.\nArticle 2 This Regional Regulation is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. Non ...",
+      "rationale": "The UPTD PPA is defined as providing comprehensive services including social rehabilitation, repatriation, and social reintegration, which constitute resocialisation/rehabilitation and reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention economic empowerment/support measures such as skills training, livelihood assistance, or financial support as part of service units or service packages.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 10\nPrevention of acts of violence against women as referred to in article 6 paragraph (2) letter a, the Regional Government shall undertake efforts as follows:\na. conduct counseling and socialization regarding matters relating to violence against women;\nb. conduct socialization on women's rights;\nc. endeavor to improve education for women;\nd. open skills courses for women to support the economic needs of families;\ne. create employment opportunities for women;\nf. provide counseling to immediately report to local authorities if violence against women occurs;\ng. empower social community organizations and women's organizations to increase women's knowledge and insight;\nh. establish Women's Protection Complaint Posts; and i. form networks in efforts to prevent violence.",
+      "rationale": "The policy includes primary prevention measures that explicitly involve counseling and socialization related to violence against women, which constitutes information and education about VAW.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 10\nPrevention of acts of violence against women as referred to in article 6 paragraph (2) letter a, the Regional Government shall undertake efforts as follows:\na. conduct counseling and socialization regarding matters relating to violence against women;\nb. conduct socialization on women's rights;\nc. endeavor to improve education for women;\nd. open skills courses for women to support the economic needs of families;\ne. create employment opportunities for women;\nf. provide counseling to immediately report to local authorities if violence against women occurs;\ng. empower social community organizations and women's organizations to increase women's knowledge and insight;\nh. establish Women's Protection Complaint Posts; and i. form networks in efforts to prevent violence.",
+      "rationale": "The policy explicitly mandates socialization on women's rights as a prevention effort, which is information/education related to gender equality and women’s rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention socialization about violence against women and women’s rights, none explicitly refer to educating the public about specific VAW laws, legal provisions, or policies.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 10\nPrevention of acts of violence against women as referred to in article 6 paragraph (2) letter a, the Regional Government shall undertake efforts as follows:\na. conduct counseling and socialization regarding matters relating to violence against women;\nb. conduct socialization on women's rights;\nc. endeavor to improve education for women;\nd. open skills courses for women to support the economic needs of families;\ne. create employment opportunities for women;\nf. provide counseling to immediately report to local authorities if violence against women occurs;\ng. empower social community organizations and women's organizations to increase women's knowledge and insight;\nh. establish Women's Protection Complaint Posts; and i. form networks in efforts to prevent violence.",
+      "rationale": "The prevention article includes an explicit effort to improve education for women, which aligns with prevention through education and improving educational quality as a primary prevention approach.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as part of community participation, indicating engagement with NGOs/civil society.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly lists religious institutions as part of community participation, implying engagement/collaboration with religious organizations/leaders.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention traditional/cultural organizations or leaders as stakeholders for engagement or collaboration.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly includes educational institutions within community participation, indicating engagement/collaboration with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss service standards, community/other social service institutions, and networks, but do not mention international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly includes mass media as part of community participation, indicating engagement/collaboration with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly provides for community participation and enumerates community actors, demonstrating engagement/collaboration with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "REGENT OF EAST KUTAI\nEAST KALIMANTAN PROVINCE\n-18-\nh. the form and role of the community shall be carried out responsibly in accordance with the provisions of laws and regulations.\n(2) Community participation as referred to in paragraph (1) includes: a. Individuals;\nb. social community institutions;\nc. non-governmental organizations;\nd. educational institutions;\ne. religious institutions;\nf. private sector; and\ng. mass media.",
+      "rationale": "The policy explicitly includes the private sector within community participation, indicating engagement with business/private sector stakeholders.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict zones, disasters, disaster-prone areas, emergency response, or any women-specific protections tied to such contexts; they focus generally on women victims of violence and service provision.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages define and provide rights/services for women victims of violence generally, but do not explicitly mention human trafficking/trafficking victims or establish trafficking-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only employment-related reference is a definition of gender equality including access to employment opportunities, but there are no specific protections or measures targeted at women workers/employees.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage explicitly references elderly women or provides age-specific protection measures; the text addresses women victims of violence in general.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention disability or provide disability-specific accommodations or protections for women with disabilities/people with disabilities.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention women heads of household/families or provide targeted measures for them; they address women victims of violence and general service mechanisms.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although one passage notes protection without distinguishing ethnicity/religion/race/class, there are no special or targeted protection measures for minority or isolated groups of women.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide legal aid and law-enforcement-related services for women victims of violence, but do not specifically address women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage explicitly mentions Indigenous peoples/masyarakat adat or provides special protection measures targeted to Indigenous groups.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While repatriation and safe houses are mentioned as services for women victims of violence, there is no explicit reference to refugees, forced displacement, or protections specifically targeted at displaced/refugee populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention domestic workers or provide protections specifically targeted to domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Safe houses/social protection houses are mentioned for women victims of violence, but homelessness is not referenced and no measures are targeted specifically at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions former inmates/correctional institutions or provides reintegration/protection measures specifically for formerly incarcerated women (social reintegration is framed for women victims of violence generally).",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFUNDING\nArticle 26 Funding for the implementation of women's protection is sourced from: a. regional revenue and expenditure budget; and\nb. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly lists the regional revenue and expenditure budget as a funding source, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited funding provision mentions regional budget and other legal/non-binding sources, but none of the passages explicitly identify the national government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international organizations, foreign governments, UN agencies, or other international donors as funding sources; the text only refers to regional budget and other legal/non-binding sources in general terms.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFUNDING\nArticle 26 Funding for the implementation of women's protection is sourced from: a. regional revenue and expenditure budget; and\nb. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly includes 'other legal and non-binding sources' as a funding source, which directly corresponds to other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference the regional revenue and expenditure budget (regency-level) and other sources, but do not explicitly identify a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

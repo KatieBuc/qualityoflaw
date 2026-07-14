@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 22\n(1) Regional Government conducts prevention as referred to in Article 21 letter a by means of:\na. socializing laws and regulations related to the implementation of protection of women and children;\nb. providing counseling/guidance;\nc. providing education about the dangers of domestic violence;\nd. forming cooperation networks in efforts to prevent violence;\ne. conducting coordination, integration, and synchronization of violence prevention based on partnership patterns;\nf. collecting data and information as well as establishing a violence prevention system, mapping of locations or areas prone to violence;\ng. conducting monitoring and evaluation of the implementation of protection of women and children;\nh. increasing public awareness in behaving in accordance with social norms.\n(2) In addition to prevention efforts conducted by the Regional Government as referred to in paragraph (1), prevention efforts are also conducted by families and/or communities.\n(3) Prevention as referred to in paragraph (1) is implemented in an integrated manner by PPT",
+      "evaluator_rationale": "The prevention section includes providing education about the dangers of domestic violence as a prevention method, which reflects prevention through education (even if it does not detail broader education quality improvements).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 29,
+          "text": "Article 22\n(1) Regional Government conducts prevention as referred to in Article 21 letter a by means of:\na. socializing laws and regulations related to the implementation of protection of women and children;\nb. providing counseling/guidance;\nc. providing education about the dangers of domestic violence;\nd. forming cooperation networks in efforts to prevent violence;\ne. conducting coordination, integration, and synchronization of violence prevention based on partnership patterns;\nf. collecting data and information as well as establishing a violence prevention system, mapping of locations or areas prone to violence;\ng. conducting monitoring and evaluation of the implementation of protection of women and children;\nh. increasing public awareness in behaving in accordance with social norms.\n(2) In addition to prevention efforts conducted by the Regional Government as referred to in paragraph (1), prevention efforts are also conducted by families and/or communities.\n(3) Prevention as referred to in paragraph (1) is implemented in an integrated manner by PPT",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 21\nProtection of women and children victims of violence includes:\na. prevention;\nb. services; and\nc. empowerment.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 36\n(1) Supervision as referred to in Article 35 is conducted on: a. the implementation of policies, programs and activities for the protection of women and children; and\nb. the fulfillment of guidelines and minimum service standards in the implementation of prevention, services and empowerment of women and children victims of violence.\n(2) Supervision is conducted at the end of each fiscal year and the results are used as input material for the formulation of policies, programs, and activities for the protection of women and children for the following year.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nProtection of Women and Children Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Probolinggo Regency.\n2. Regional Government is the Government of Probolinggo Regency. 3. Regent is the Regent of Probolinggo.\n4. Agency is a Regional Apparatus that has the duties and functions of protection of women and children.\n5. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as PPT, is an integrated service center in efforts to empower women in various fields of development as well as protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the Regional Government or community-based.\n6. Protection of Women and Children is all activities to protect the rights of women and children and provide a sense of security in the fulfillment of their rights without violence and discrimination in accordance with human dignity.\n7. Woman is an adult human being of female sex and a person who is recognized by law as a woman.\n8. Child is a person who has not reached the age of 18 (eighteen) years or a child who is suspected, charged, sentenced to a crime and a child who becomes a victim of a criminal act.\n9. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of liberty unlawfully.\n10. Discrimination is any distinction, exclusion or restriction made on the basis of sex, ethnicity, religion, race, and skin color that has the effect or purpose of reducing or eliminating the recognition, enjoyment or exercise of human rights.\n11. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n12. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n13. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-strengthening of victims of violence to resolve the problems they face.\n14. Repatriation is an effort to return women and children victims of violence to the family, substitute family, or community that can provide protection and fulfillment of their needs.\n15. Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.\n16. Safe House, hereinafter referred to as Shelter, is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 13,
+          "text": "Paragraph 1\nForms of Violence",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nNeglect as referred to in Article 10 letter d is caused by: a. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care; b. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care; c. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 32,
+          "text": "Third Part\nSpecial Protection of Children",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 56,
+          "text": "CHAPTER XVI\nCLOSING PROVISIONS\nArticle 46\nThe implementing regulations of this Regional Regulation must be established no later than 1 (one) year from the promulgation of this Regional Regulation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of protection for women and children aims to: a. guarantee the fulfillment of the rights of women and children so they can participate optimally in society in accordance with human dignity and worth; b. provide protection and provide a sense of security to women and children from all forms of violence and discrimination;\nc. prevent and eliminate all forms of violence and exploitation against women and children including human trafficking;\nd. provide services to women and children victims of violence, reporters, and witnesses; and\ne. empower women and children victims of violence.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 22 ayat (1) huruf c explicitly states prevention is carried out by “memberikan pendidikan tentang bahaya kekerasan dalam rumah tangga” (providing education about the dangers of domestic violence). This is a clear prevention-through-education measure. The retrieved English passage accurately reflects this, and the judge’s reasoning matches the text. Therefore the golden label “No” appears incorrect for this indicator.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 25\n(1) Regional Government is obligated and responsible to provide special protection for children.\n(2) Special protection for children as referred to in paragraph (1) is provided to:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children with HIV/AIDS;\nh. children who are victims of kidnapping, sale, and/or trafficking;\ni. children who are victims of physical and/or psychological violence;\nj. children who are victims of sexual crimes;\nk. children who are victims of terrorist networks;\nl. children with disabilities;\nm. children who are victims of maltreatment and neglect;\nn. children with deviant social behavior; and\no. children who are victims of stigmatization from labeling related to their parents' condition.\n(3) Provisions regarding procedures for special protection of children as referred to in paragraph (2) shall be further regulated by Regent Regulation.",
+      "evaluator_rationale": "The policy explicitly includes “children with disabilities” as a category entitled to special protection, which constitutes a targeted protection measure for people with disabilities (at least for children).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 23,
+          "text": "Article 18\n(1) In the event that women and child victims of violence require continuous handling, then women and child victims of violence have the right to stay in a safe house or alternative residence.\n(2) Continuous handling as referred to in paragraph (1) constitutes handling at the rehabilitation stage, whether conducted by PPT, individuals, non-governmental organizations, or by the community.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\n(1) Regional Government is obligated and responsible to provide special protection for children.\n(2) Special protection for children as referred to in paragraph (1) is provided to:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children with HIV/AIDS;\nh. children who are victims of kidnapping, sale, and/or trafficking;\ni. children who are victims of physical and/or psychological violence;\nj. children who are victims of sexual crimes;\nk. children who are victims of terrorist networks;\nl. children with disabilities;\nm. children who are victims of maltreatment and neglect;\nn. children with deviant social behavior; and\no. children who are victims of stigmatization from labeling related to their parents' condition.\n(3) Provisions regarding procedures for special protection of children as referred to in paragraph (2) shall be further regulated by Regent Regulation.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 40\n(1) Regional Governments may provide funding assistance to community organizations, social organizations, or non-governmental organizations and universities that implement protection for women and children.\n(2) Funding assistance as referred to in paragraph (1) shall be provided in accordance with regional financial capacity and implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.02857142857142857
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nProtection of Women and Children Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Probolinggo Regency.\n2. Regional Government is the Government of Probolinggo Regency. 3. Regent is the Regent of Probolinggo.\n4. Agency is a Regional Apparatus that has the duties and functions of protection of women and children.\n5. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as PPT, is an integrated service center in efforts to empower women in various fields of development as well as protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the Regional Government or community-based.\n6. Protection of Women and Children is all activities to protect the rights of women and children and provide a sense of security in the fulfillment of their rights without violence and discrimination in accordance with human dignity.\n7. Woman is an adult human being of female sex and a person who is recognized by law as a woman.\n8. Child is a person who has not reached the age of 18 (eighteen) years or a child who is suspected, charged, sentenced to a crime and a child who becomes a victim of a criminal act.\n9. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of liberty unlawfully.\n10. Discrimination is any distinction, exclusion or restriction made on the basis of sex, ethnicity, religion, race, and skin color that has the effect or purpose of reducing or eliminating the recognition, enjoyment or exercise of human rights.\n11. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n12. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n13. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-strengthening of victims of violence to resolve the problems they face.\n14. Repatriation is an effort to return women and children victims of violence to the family, substitute family, or community that can provide protection and fulfillment of their needs.\n15. Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.\n16. Safe House, hereinafter referred to as Shelter, is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 20\n(1) Every woman and child who becomes a witness or victim of violence has the right to obtain information, protection, rehabilitation, confidential handling, psychological and legal assistance, as well as the fulfillment of their rights related to their status as a wife, mother, child, family member or as a member of society.\n(2) The fulfillment of rights as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nPhysical violence as referred to in Article 10 letter a is caused by acts that result in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and/or causing death.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 21\nProtection of women and children victims of violence includes:\na. prevention;\nb. services; and\nc. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nNeglect as referred to in Article 10 letter d is caused by: a. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care; b. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care; c. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nEvery woman and child victim of violence has the right to receive:\na. protection;\nb. information;\nc. excellent service;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes disability. Pasal 25 ayat (2) huruf l lists “anak penyandang disabilitas” as a group receiving “perlindungan khusus anak” (special protection for children). Pasal 41 huruf b also prohibits discriminatory treatment of “perempuan dan anak penyandang disabilitas.” The retrieved candidates include Pasal 25 with this language, so the judge had correct evidence and interpreted it reasonably. Thus the golden label “No” appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Legal process involvement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 28\n(1) Women and children who are victims, witnesses and perpetrators of violence have the right to receive health examination services by Health Facilities in accordance with professional standards.\n(2) In the event that women and children who are victims, witnesses, and perpetrators of violence require treatment, health workers are obligated to provide health recovery and rehabilitation services.\n(3) The provision of health recovery and rehabilitation services as referred to in paragraph (2) shall be implemented in accordance with the provisions of laws and regulations.",
+      "evaluator_rationale": "The policy explicitly addresses rights of women (and children) who are victims, witnesses, and perpetrators of violence to receive health examination and recovery/rehabilitation services, covering women in legal-process roles as witnesses or perpetrators.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 20\n(1) Every woman and child who becomes a witness or victim of violence has the right to obtain information, protection, rehabilitation, confidential handling, psychological and legal assistance, as well as the fulfillment of their rights related to their status as a wife, mother, child, family member or as a member of society.\n(2) The fulfillment of rights as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Probolinggo Regency.\n2. Regional Government is the Government of Probolinggo Regency. 3. Regent is the Regent of Probolinggo.\n4. Agency is a Regional Apparatus that has the duties and functions of protection of women and children.\n5. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as PPT, is an integrated service center in efforts to empower women in various fields of development as well as protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the Regional Government or community-based.\n6. Protection of Women and Children is all activities to protect the rights of women and children and provide a sense of security in the fulfillment of their rights without violence and discrimination in accordance with human dignity.\n7. Woman is an adult human being of female sex and a person who is recognized by law as a woman.\n8. Child is a person who has not reached the age of 18 (eighteen) years or a child who is suspected, charged, sentenced to a crime and a child who becomes a victim of a criminal act.\n9. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of liberty unlawfully.\n10. Discrimination is any distinction, exclusion or restriction made on the basis of sex, ethnicity, religion, race, and skin color that has the effect or purpose of reducing or eliminating the recognition, enjoyment or exercise of human rights.\n11. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n12. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n13. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-strengthening of victims of violence to resolve the problems they face.\n14. Repatriation is an effort to return women and children victims of violence to the family, substitute family, or community that can provide protection and fulfillment of their needs.\n15. Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.\n16. Safe House, hereinafter referred to as Shelter, is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nProtection of Women and Children Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nNeglect as referred to in Article 10 letter d is caused by: a. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care; b. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care; c. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 25,
+          "text": "Paragraph 3\nRights of Witnesses and Perpetrators",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nEvery woman and child victim of violence has the right to receive:\na. protection;\nb. information;\nc. excellent service;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\nSexual violence as referred to in Article 10 letter c is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural or unwanted manner; and/or d. forced sexual intercourse with another person for commercial purposes and or specific purposes.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 21\nProtection of women and children victims of violence includes:\na. prevention;\nb. services; and\nc. empowerment.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER XII\nPROHIBITIONS\nArticle 41\nEvery person is prohibited from:\na. treating women and children in a discriminatory manner which results in women and children experiencing losses, both material and moral, thereby hindering their social function;\nb. treating women and children with disabilities in a discriminatory manner;\nc. placing, allowing, involving, ordering the involvement of children in situations of maltreatment and neglect;\nd. placing, allowing, committing, ordering the commission of or participating in committing violence against women and children;\ne. committing violence or threat of violence to force women and children to engage in sexual intercourse with him/her or with another person;\nf. committing violence or threat of violence, coercing, committing deceit, committing a series of lies, or persuading women and children to commit or allow obscene acts to be committed;\ng. placing, allowing, committing, ordering the commission of or participating in committing kidnapping, sale and/or trafficking of women and children;\nh. obstructing women and children from enjoying their own culture, acknowledging and practicing their religious teachings and/or using their own language without neglecting access to community and cultural development;\ni. placing, allowing, committing, ordering the commission of or participating in committing economic and/or sexual exploitation of women and children;\nj. intentionally placing, allowing, involving women and children in the abuse, as well as production and distribution of narcotics and/or psychotropic substances and/or\nk. intentionally placing, allowing, involving, ordering the involvement of women and children in the abuse, as well as production and distribution of alcohol and other addictive substances.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 28\n(1) Women and children who are victims, witnesses and perpetrators of violence have the right to receive health examination services by Health Facilities in accordance with professional standards.\n(2) In the event that women and children who are victims, witnesses, and perpetrators of violence require treatment, health workers are obligated to provide health recovery and rehabilitation services.\n(3) The provision of health recovery and rehabilitation services as referred to in paragraph (2) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly covers people involved in legal processes (witnesses and perpetrators), not only victims. Pasal 20 ayat (1) states “Setiap perempuan dan anak yang menjadi saksi atau pelaku kekerasan berhak…” (every woman and child who becomes a witness or perpetrator of violence has rights including information, protection, rehabilitation, confidentiality, and psychological/legal assistance). Pasal 28 also grants victims, witnesses, and perpetrators rights to health examination and rehabilitation services. These provisions were present in the retrieved passages (Pasal 20 and Pasal 28), and the judge’s conclusion that the policy addresses such legal-process roles is consistent with the Indonesian text. Therefore the golden label “No” likely is incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_TIMUR_PROBOLINGGO.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-14T11:55:58.648992+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

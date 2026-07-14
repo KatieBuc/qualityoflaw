@@ -146,4 +146,30 @@ def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
         if not json_files:
             raise FileNotFoundError(f"No evaluation .json files in {evaluation_dir}")
 
+    if "discrepancy_diagnosis" in steps:
+        rag_candidates_dir = run_dir / "rag_candidates"
+        if not rag_candidates_dir.is_dir() or not list(rag_candidates_dir.glob("*.json")):
+            raise FileNotFoundError(
+                f"RAG candidates required for discrepancy_diagnosis: {rag_candidates_dir}. "
+                "Run (or re-run with --force) the evaluation step first — rag_candidates/ is "
+                "only written by the evaluation step."
+            )
+
+        evaluation_dir = run_dir / "evaluation"
+        if not evaluation_dir.is_dir() or not list(evaluation_dir.glob("*.json")):
+            raise FileNotFoundError(
+                f"Evaluation output required for discrepancy_diagnosis: {evaluation_dir}. "
+                "Run the evaluation step first."
+            )
+
+        comparison_dir = run_dir / "comparison"
+        if not comparison_dir.is_dir():
+            raise FileNotFoundError(
+                f"Comparison output required for discrepancy_diagnosis: {comparison_dir}. "
+                "Run the comparison step first."
+            )
+        # comparison_dir existing but with no error_analysis.csv is VALID — it means
+        # comparison ran and found zero mismatches. run_diagnosis_step handles that
+        # itself (returns a no-op result), so no further check is made here.
+
     return run_dir

@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_BARAT_BIMA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:01:03.488111+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of service facilities and infrastructure for women victims of violence in the region;\ni. provision of information infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+      "rationale": "The policy addresses violence against women and establishes services for women victims of violence (complaints, outreach, case management, shelter, mediation, assistance, emergency response), which encompasses domestic violence cases even if not labeled explicitly as \"domestic\".",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages refer generally to \"violence against women\" and \"acts of violence\" but do not explicitly mention sexual violence/sexual assault, nor do they specify sexual forms of violence in the cited excerpts.",
+      "evidence_verified": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "ELUCIDATION\nOF\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional government is to make regional policies with the aim of improving the welfare of the people in their region.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the parties most authorized in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. Such regulation is expected to be able to encourage efforts to improve the physical and mental condition of women and children who are victims of violence.",
+      "rationale": "The passages discuss protection from violence and efforts to prevent and eradicate all forms of violence against women and children, including improving the physical condition of victims, which implies coverage of physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which becomes the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children that is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+      "rationale": "The elucidation of principles includes being free from fear and threats and references psychological conditions, indicating attention to psychological dimensions of violence and victim protection.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy mentions \"exploitation\" and empowerment in economic fields, none of the provided passages explicitly address economic violence, economic exploitation as a form of violence, or domestic neglect in the context of violence against women/children.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children as well as child protection;\nc. conducting prevention of acts of violence within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+      "rationale": "The community participation provisions explicitly mention socialization/education on prevention of unregistered marriages and the dangers of child marriage, which are harmful practices (including early marriage).",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss violence against women generally but do not mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention human trafficking; references to violence, exploitation, and discrimination are general and not tied to trafficking.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While \"exploitation\" is mentioned generally, the provided passages do not explicitly address sexual exploitation, sexual slavery, or related forms.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "Yes",
+      "evidence": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of service facilities and infrastructure for women victims of violence in the region;\ni. provision of information infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+      "rationale": "The policy includes developing an emergency response system for acts of violence through applications and references information infrastructure, indicating use of technology-enabled mechanisms related to responding to violence.",
+      "evidence_verified": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe coordination and network strengthening among institutions within the Region (government, NGOs, media, business) and internal regional government working groups, but do not show coordination/cooperation with governments across jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+      "rationale": "The policy establishes a Working Group as a discussion forum that explicitly includes NGOs among stakeholders, indicating a formal collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 20\n(1) The Regional Government develops a database and information system for gender and Child data that is integrated with the provincial government and central government.\n(2) The Regional Government in developing the database and information system for gender and Child data as referred to in paragraph (1) provides human resources and infrastructure facilities.\n(3) The implementation of the Gender and Child Data System is carried out by means of collection, processing, analysis, and presentation of gender and child data within the data institution in the Region.",
+      "rationale": "The policy provides for development of an integrated database and information system for gender and child data, including collection, processing, analysis, and presentation—covering data systems relevant to women’s protection/VAW.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+      "rationale": "The policy explicitly defines and institutionalizes gender mainstreaming (PUG) through a working group and focal points within regional government structures.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+      "rationale": "The policy includes capacity building for service providers handling and protecting the rights of women victims of violence, which constitutes training/capacity building for service workers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nGUIDANCE AND SUPERVISION\nArticle 43\n(1) Guidance and supervision of the implementation of women's empowerment and child protection shall be carried out by the Regent.\n(2) Guidance and supervision as referred to in paragraph (1) shall be coordinated by the Regional Inspectorate.\n(3) Guidance and supervision as referred to in paragraph (1) and paragraph (2) shall be implemented in the form of audits, reviews, monitoring, evaluation, observation, and technical guidance, as well as other forms of guidance and supervision.\n(4) Guidance and supervision as referred to in paragraph (1), paragraph (2), and paragraph (3) shall be implemented from the stages of planning, budgeting, organizing, implementation, reporting, evaluation, and accountability of Regional Government administration.\n(5) Supervision as referred to in paragraph (1) shall be implemented at least 1 (one) time in 1 (one) year.\n(6) The results of supervision as referred to in paragraph (1) shall constitute evaluation material for women's empowerment and child protection program policies in the Region.",
+      "rationale": "The policy mandates guidance and supervision by the Regent/Inspectorate including monitoring and evaluation (and related oversight activities) across implementation stages, indicating monitoring and evaluation of implementation and service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 5\n(1) Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection in providing services for women and children who experience problems of violence, discrimination, special protection, and other technical problems shall be implemented by UPTD P3AP2KB.\n(2) UPTD P3AP2KB as referred to in paragraph (1) shall carry out service functions:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) In the implementation of service functions as referred to in paragraph (2) letter b, a task force for women's empowerment and child protection may be established which is facilitated by the Regional Apparatus in charge of Women's Empowerment and Child Protection.\n(4) Service functions provided by UPTD P3AP2KB as referred to in paragraph (2) shall refer to service standards that have been established in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy establishes UPTD P3AP2KB as the implementing unit for providing services to women and children experiencing violence and lists its service functions, indicating an integrated service unit.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions coordination with various institutions and refers to UPTD P3AP2KB and work units handling PPA affairs, none of the provided passages explicitly establish a specialised service unit within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 5\n(1) Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection in providing services for women and children who experience problems of violence, discrimination, special protection, and other technical problems shall be implemented by UPTD P3AP2KB.\n(2) UPTD P3AP2KB as referred to in paragraph (1) shall carry out service functions:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) In the implementation of service functions as referred to in paragraph (2) letter b, a task force for women's empowerment and child protection may be established which is facilitated by the Regional Apparatus in charge of Women's Empowerment and Child Protection.\n(4) Service functions provided by UPTD P3AP2KB as referred to in paragraph (2) shall refer to service standards that have been established in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy assigns UPTD P3AP2KB the function of handling \"public complaints,\" which constitutes a service unit receiving reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 5\n(1) Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection in providing services for women and children who experience problems of violence, discrimination, special protection, and other technical problems shall be implemented by UPTD P3AP2KB.\n(2) UPTD P3AP2KB as referred to in paragraph (1) shall carry out service functions:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) In the implementation of service functions as referred to in paragraph (2) letter b, a task force for women's empowerment and child protection may be established which is facilitated by the Regional Apparatus in charge of Women's Empowerment and Child Protection.\n(4) Service functions provided by UPTD P3AP2KB as referred to in paragraph (2) shall refer to service standards that have been established in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy includes \"temporary shelter\" as a service function of UPTD P3AP2KB, indicating provision of safety/protection shelter services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages list service functions such as complaints, outreach, case management, shelter, mediation, and victim assistance, but do not explicitly mention legal assistance or legal aid services.",
+      "evidence_verified": null
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly state that a service unit provides health/medical services for victims; references to \"health\" appear only in relation to child care facilitation by various apparatus, not medical services for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The listed service functions and other provisions do not explicitly mention psychosocial counselling or psychological support services.",
+      "evidence_verified": null
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although one passage references children's needs including \"spiritual\" in the context of care, none of the passages establish a service unit providing religious/spiritual counselling.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe complaint handling, outreach, case management, shelter, mediation, and assistance, but do not explicitly address rehabilitation/reintegration (resocialisation) services.",
+      "evidence_verified": null
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss women's empowerment in political/legal/social/economic fields and institutional strengthening, but do not specify a service unit providing economic empowerment/support (e.g., skills training or financial support) for victims of violence.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against women involving parties within the regional scope;\nb. provision of education on prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in prevention of violence against women in the region; and\nd. creation and/or utilization of Citizen Information System applications in submitting reports of cases of violence against women and children.",
+      "rationale": "The policy explicitly includes primary prevention via education on preventing violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 17\nImprovement of family quality as referred to in Article 16 letter a is carried out through:\na. implementation of policies, programs and activities for improving family quality to realize gender equality and child protection in the region; and\nb. development of materials and implementation of Communication, Information, and Education on gender equality and child protection for families in the region.",
+      "rationale": "The policy explicitly calls for development of materials and implementation of communication, information, and education on gender equality (and child protection) for families.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children as well as child protection;\nc. conducting prevention of acts of violence within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+      "rationale": "The policy includes community-led socialization and education on laws and regulations related to women's empowerment and protection of women and children, which encompasses informing people about relevant legal frameworks.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against women involving parties within the regional scope;\nb. provision of education on prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in prevention of violence against women in the region; and\nd. creation and/or utilization of Citizen Information System applications in submitting reports of cases of violence against women and children.",
+      "rationale": "The policy frames prevention as including the provision of education on prevention of violence against women, which constitutes prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+      "rationale": "The policy defines a regional Working Group as a stakeholder forum that explicitly includes NGOs, indicating engagement/collaboration with civil society organizations in policy formulation and recommendations.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious organizations or religious leaders as stakeholders or partners; references are to community, NGOs, business, media, and government/non-government institutions generally.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not explicitly reference traditional/cultural organizations or leaders; they only mention general community participation and various stakeholder categories (e.g., NGOs, business, media).",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+      "rationale": "The policy explicitly includes Higher Education Institutions as part of the stakeholder Working Group, demonstrating engagement/collaboration with education institutions (including universities).",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate passage mentions international organizations or international support; stakeholder references are limited to regional apparatus, NGOs, business sector, higher education, media, and community.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+      "rationale": "The policy includes media as part of enhanced community participation for violence prevention, indicating engagement with media in prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children as well as child protection;\nc. conducting prevention of acts of violence within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+      "rationale": "A dedicated chapter on community participation states that the community (including families/parents) may participate in implementation and lists multiple forms of participation, demonstrating engagement/collaboration with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+      "rationale": "The policy explicitly includes the Business Sector among stakeholders in the Working Group, indicating engagement with business/private sector actors in formulating agreements/policies and recommendations.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+      "rationale": "The policy includes measures for women in emergency situations and special conditions in the regions, which covers disaster-prone contexts.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection and services for women victims of violence and general victim protection principles, but do not specifically mention human trafficking or targeted measures for trafficking victims.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention women workers/employees or provide worker-specific protection measures; they focus on women victims of violence and general protection services.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While one passage references 'the elderly' in a general principle explanation, the excerpts do not set out special protection measures specifically targeted at elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which becomes the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children that is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+      "rationale": "The policy’s principles explicitly recognize disability groups among those with differing needs and aspirations to be fulfilled under gender equality, indicating inclusion of disability groups within the protection framework.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention women heads of household/families or any tailored protection measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts include general non-discrimination and references to vulnerable/marginalized groups, but do not specifically identify minority or isolated women groups or provide targeted protection measures for them.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe services for women victims of violence and general victim protection, but do not specifically address women in conflict with the law (as witnesses or perpetrators) or legal-process-specific protections.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention Indigenous peoples/groups (masyarakat adat) or provide special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the text mentions emergency situations and special conditions, it does not explicitly address refugees or forced displacement or provide measures specifically targeted at displaced/refugee populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention domestic workers or provide any protection measures specifically targeted at domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While temporary shelter services are mentioned for women victims of violence, the excerpts do not specifically address homelessness or provide targeted measures for women experiencing homelessness as such.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention former inmates/correctional institutions or any special protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 45\nFunding for the implementation of women's empowerment and child protection which is the authority of regional government is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that funding is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The funding provision lists the Regional Revenue and Expenditure Budget and other legal/non-binding sources, but does not explicitly mention national/central government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international donors, foreign governments, UN agencies, or other international funding support; the funding clause only refers to regional budget and other legal/non-binding sources without specifying international sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 45\nFunding for the implementation of women's empowerment and child protection which is the authority of regional government is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The funding article explicitly includes 'other legal and non-binding sources' as a funding source, which qualifies as other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions integration with provincial government in a data system context, it does not identify the provincial government budget as a funding source; the funding article only specifies the regional budget and other legal/non-binding sources.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

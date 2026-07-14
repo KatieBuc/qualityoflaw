@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_BARAT_CIREBON_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:43:31.594447+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "I. GENERAL\nViolence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.\nThis situation requires serious handling because it relates to the quality of human beings and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking, provide obligations to the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and development of women's protection service institutions.\nServices for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the Sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, Regional Apparatus that handles the affairs of women's empowerment and child protection is implemented by the Agency.",
+      "rationale": "The policy explicitly lists domestic violence as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "I. GENERAL\nViolence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.\nThis situation requires serious handling because it relates to the quality of human beings and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking, provide obligations to the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and development of women's protection service institutions.\nServices for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the Sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, Regional Apparatus that handles the affairs of women's empowerment and child protection is implemented by the Agency.",
+      "rationale": "The policy explicitly includes forms of sexual violence such as rape and sexual harassment as violence against women.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) Health rehabilitation services as referred to in Article 12 paragraph (1) letter b, shall be adjusted to the needs of victims based on medical and non-medical considerations, consisting of:\na. physical and mental health examination and treatment; b. psychological examination and recovery;\n- 11 -\nc. pregnancy, childbirth, and reproductive health services;\nd. medical resume and psychological examination results; e. visum et repertum and visum et psikiatrikum; f. deoxyribonucleic acid test; and\ng. other forms of health services needed. (2) Health rehabilitation services for female victims shall be conducted by trained officers in a special room that is safe and comfortable.\n(3) Health rehabilitation services as referred to in paragraph (1), shall be conducted through a special mechanism of integrated services based on hospitals and shall be the responsibility of the Regional Apparatus with authority in the field.",
+      "rationale": "The policy includes responses to physical harm through health rehabilitation services that cover physical examination and treatment, indicating physical violence is addressed.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) Health rehabilitation services as referred to in Article 12 paragraph (1) letter b, shall be adjusted to the needs of victims based on medical and non-medical considerations, consisting of:\na. physical and mental health examination and treatment; b. psychological examination and recovery;\n- 11 -\nc. pregnancy, childbirth, and reproductive health services;\nd. medical resume and psychological examination results; e. visum et repertum and visum et psikiatrikum; f. deoxyribonucleic acid test; and\ng. other forms of health services needed. (2) Health rehabilitation services for female victims shall be conducted by trained officers in a special room that is safe and comfortable.\n(3) Health rehabilitation services as referred to in paragraph (1), shall be conducted through a special mechanism of integrated services based on hospitals and shall be the responsibility of the Regional Apparatus with authority in the field.",
+      "rationale": "The policy addresses psychological harm by including psychological examination and recovery within health rehabilitation services for victims.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Social reintegration services as referred to in Article 12 paragraph (1) letter e, shall be implemented with the following activities:\na. repatriation and/or retrieval of victims; b. population document or personal identity services; c. alternative family;\nd. scholarships and educational supporting facilities; e. non-formal education;\nf. skills training and economic enterprise;\ng. financial assistance and business capital;\nh. economic enterprise assistance;\ni. food and/or nutrition assistance for victims and their families;\nj. provision of social protection programs and poverty alleviation programs; and\nk. other forms of repatriation and social reintegration services needed by victims.\n(2) Social reintegration services as referred to in paragraph (1), shall be provided to victims, families and people whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.\n(3) Social reintegration services as referred to in paragraph (1), shall be conducted in an integrated manner with the Integrated Referral Service System for Social Protection and Poverty Alleviation and the Child Social Welfare Center.\n(4) Social reintegration services as referred to in paragraph (1), shall be the responsibility of Regional Apparatus that oversee social affairs, population administration and civil registration affairs, labor affairs, small and medium enterprise cooperative affairs, education affairs, health affairs, public works and spatial planning affairs, land affairs, women's empowerment and child protection affairs and other related affairs.",
+      "rationale": "The policy includes economic support measures (e.g., skills training, economic enterprise, financial assistance and business capital) as part of social reintegration services for victims, addressing economic violence/economic exploitation impacts.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women generally but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "I. GENERAL\nViolence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.\nThis situation requires serious handling because it relates to the quality of human beings and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking, provide obligations to the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and development of women's protection service institutions.\nServices for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the Sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, Regional Apparatus that handles the affairs of women's empowerment and child protection is implemented by the Agency.",
+      "rationale": "The policy explicitly lists human trafficking as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "I. GENERAL\nViolence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.\nThis situation requires serious handling because it relates to the quality of human beings and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking, provide obligations to the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and development of women's protection service institutions.\nServices for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the Sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, Regional Apparatus that handles the affairs of women's empowerment and child protection is implemented by the Agency.",
+      "rationale": "The policy explicitly lists sexual exploitation as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "Yes",
+      "evidence": "I. GENERAL\nViolence against women still occurs in society today. Various forms of such violence include rape, sexual harassment, human trafficking, domestic violence, sexual exploitation, violence against domestic workers, pornography, bullying, cyber bullying, and cyber porn.\nThis situation requires serious handling because it relates to the quality of human beings and the future of the Indonesian Nation. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination against Women, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, and Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking, provide obligations to the Government and City Regional Government to provide protection for women. The provision of protection for women, according to Law Number 23 of 2014 concerning Regional Government and its amendments, includes prevention, referral services for women victims of violence, strengthening and development of women's protection service institutions.\nServices for women victims of violence include complaint services, referrals, health rehabilitation, legal assistance and protection, social rehabilitation, repatriation and social reintegration, and encouraging community participation in prevention and recovery efforts. Based on Article 12 paragraph (2) of Law Number 23 of 2014 concerning Regional Government and its amendments, the Sub-affair of women's protection is a mandatory non-basic service affair. Based on Article 217, Regional Apparatus that handles the affairs of women's empowerment and child protection is implemented by the Agency.",
+      "rationale": "The policy explicitly includes cyber bullying and cyber porn among forms of violence against women, which are technology-facilitated.",
+      "evidence_verified": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 21\nIn the context of implementing the Protection of Women from violence, exploitation and discrimination, the City Regional Government carries out coordination and cooperation with the central government, the West Java Provincial regional government, other regency/city governments, related agencies, law enforcement institutions, service institutions, educational institutions, boarding educational institutions, religious institutions, community social institutions, professional organizations, legal aid organizations, youth organizations, broadcasting supervisory institutions, media, communities, professional institutions, the business sector as well as other related stakeholders.",
+      "rationale": "The policy states that the City Regional Government conducts coordination and cooperation with multiple levels of government (central, provincial, other regency/city governments) and other institutions, indicating an institutional network across jurisdictions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 9\nPrevention of violence, exploitation and discrimination against women is carried out in an integrated and coordinated manner with the City Regional Government, relevant agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities, and media which are coordinated by the Agency.",
+      "rationale": "The policy describes prevention being carried out in an integrated and coordinated manner with a wide range of non-government actors (e.g., legal aid organizations, communities, media, service institutions), coordinated by the Agency, which constitutes a cooperation mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nDATA AND INFORMATION SYSTEM\nArticle 25\n(1) The City Regional Government uses a data and information system in the implementation of Women's Protection.\n(2) The data and information system as referred to in paragraph (1), is provided by the Ministry that administers Government Affairs in the Field of Women's Empowerment and Child Protection in an integrated and interconnected manner.\n(3) The data and information system as referred to in paragraph (1), involves vertical agencies, City Regional Government, law enforcement agencies, regional apparatus, service institutions, community social institutions, media, universities, professional institutions, business sector, and other related stakeholders.\n(4) Women's Protection data and information is published to the public and submitted to regional apparatus and related agencies for the development of Women's Protection programs and policies.\n(5) The Women's Protection data and information system as referred to in paragraph (1), is implemented in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly establishes the use of a data and information system for Women's Protection, including integrated/interconnected provision and multi-stakeholder involvement, which meets the criterion for a VAW/women’s protection information system.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group to deliver VAW policies/programs; they discuss coordination, prevention fields, and general institutional arrangements but not gender mainstreaming structures.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 32\n(1) Control, guidance and supervision as referred to in Article 31, shall be implemented through the following activities:\na. routine coordination;\nb. preparation of modules and work guidelines;\nc. technical guidance and training;\nd. preparation of standard operating procedures;\ne. providing facilities and mechanisms for managing complaints or grievances related to services for female victims from the community;\n- 17 -\nf. service access testing;\ng. mapping and studies;\nh. resolution of inter-agency disputes;\ni. monitoring and evaluation; and\nj. reporting.\n(2) Control, guidance and supervision shall be implemented at least 1 (one) time in 1 (one) year.\n(3) The results of the implementation of control, guidance and supervision shall be reported to the Mayor.",
+      "rationale": "The policy includes technical guidance and training as part of control, guidance, and supervision activities, indicating training/capacity-building measures relevant to officials/service delivery.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 32\n(1) Control, guidance and supervision as referred to in Article 31, shall be implemented through the following activities:\na. routine coordination;\nb. preparation of modules and work guidelines;\nc. technical guidance and training;\nd. preparation of standard operating procedures;\ne. providing facilities and mechanisms for managing complaints or grievances related to services for female victims from the community;\n- 17 -\nf. service access testing;\ng. mapping and studies;\nh. resolution of inter-agency disputes;\ni. monitoring and evaluation; and\nj. reporting.\n(2) Control, guidance and supervision shall be implemented at least 1 (one) time in 1 (one) year.\n(3) The results of the implementation of control, guidance and supervision shall be reported to the Mayor.",
+      "rationale": "The policy explicitly includes “monitoring and evaluation” within the control, guidance, and supervision framework and requires reporting, demonstrating monitoring and evaluation of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 1\nIn this Regional Regulation, what is meant by:\n1. City Region hereinafter referred to as Region is the City Region of Cirebon.\n2. City Regional Government is the Mayor as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Cirebon.\n4. Regional Apparatus is an auxiliary element of the Mayor and Regional House of Representatives in the administration of government affairs that are the authority of the region.\n5. Agency is a Regional Apparatus that administers government affairs in the field of women's empowerment and child protection.\n6. Women's Empowerment is an effort to obtain access and control over resources, economic, political, social, cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems, so as to be able to build capacity and self-concept.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Women Victims are women who experience suffering physically, psychologically, sexually, economically, socially, - 4 - and other losses resulting from violence, exploitation and/or gender-based discrimination whether occurring in the public sphere or in the sphere of personal life.\n9. Vulnerable Women are women who live in conditions at risk of experiencing violence, exploitation and discrimination due to age, disability, poverty, geography, disaster, education, inequality and other conditions so that they require special protection and support.\n10. Prevention is a direct effort carried out by the City Regional Government to prevent acts of violence against women.\n11. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status on the basis of equality between men and women.\n12. Violence Against Women is any act based on gender differences that results in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in personal life.\n13. Exploitation is an act with or without the consent of the victim which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial.\n14. Services are all efforts and actions to fulfill the rights of women victims of violence, exploitation and discrimination against women which include complaint services, health, social rehabilitation, legal assistance and enforcement, repatriation, social reintegration, and restitution.\n15. Assistance is all efforts and actions to provide a sense of security and comfort for women victims so that they have readiness and/or ability to obtain services and live their lives.\n16. Technical Implementation Unit hereinafter abbreviated as UPT is the UPT for Women's and Children's Protection. 17. Integrated Services is a system of organizing services for women victims that is comprehensive, integrated, cross-sectoral and professional, quality and - 5 - sustainable which includes health services, legal, social and economic.\n18. Integrated Service Center hereinafter abbreviated as PPT is a non-structural institution that coordinates the implementation of integrated service systems for women victims.\n19. Service Institutions are institutions that provide protection services for women victims, both government-owned and community service institutions.\n20. Social Rehabilitation is all efforts to restore and develop the capacity of women victims so that they can carry out their social roles and functions both in family life and/or society.\n21. Social Reintegration is all efforts to strengthen the readiness and ability of women victims to regain their welfare in social, political, economic, and cultural life with dignity, including strengthening acceptance and support from family and/or society for the protection and fulfillment of women victims' rights.\n22. Restitution is payment of compensation charged to the perpetrator based on a court decision that has permanent legal force for material and/or immaterial losses suffered by the victim or their heirs.\n23. Legal Aid Organization is a community organization that provides legal aid services. 24. Society is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or similar others.\n25. Family is a person who has a blood relationship in a straight line upward or downward and collateral lines up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n26. Boarding Educational Institution is a formal or non-formal Educational Institution that organizes general education, and/or religious or integrated education (general education with religious education, or general education with vocational education or religious education with vocational education), in which some or all of its students reside during their education.",
+      "rationale": "The policy defines an Integrated Service Center (PPT) as an institution coordinating an integrated service system for women victims, indicating the existence of an integrated service unit for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss complaint services, integrated service centers (PPT), and service principles, but do not mention a specialised service unit specifically located in police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 13\nParagraph (1) Letter a Sufficiently clear.\nLetter b What is meant by \"special complaint\" is a special mechanism to facilitate reporting from victims, the community and/or social institutions regarding a case of violence, exploitation and/or discrimination against women.\nThe special mechanism may take the form of a special telephone number or online complaint application technology.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nParagraph (2) Sufficiently clear.",
+      "rationale": "The policy explicitly provides for a special complaint mechanism that may include a special telephone number or online complaint application, indicating a reporting/hotline-type service for complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nOBLIGATIONS OF THE CITY REGIONAL GOVERNMENT\nArticle 30\n(1) The obligations of the City Regional Government in the implementation of Women's Protection, are as follows: a. formulate policies and include Women's Protection programs in regional development planning and budgeting;\nb. provide complaint services, health, social rehabilitation, legal assistance and enforcement as well as repatriation and social reintegration for women victims;\nc. establish shelter services and/or safe houses; d. establish special mechanisms for integrated hospital-based services;\ne. establish PPT;\nf. establish UPT for Women and Children Protection; g. formulate standard operating procedures and service referral systems;\n- 16 -\nh. conduct prevention of violence, exploitation and discrimination against women;\ni. provide human resources and infrastructure facilities for Women's Protection;\nj. increase support and develop women's protection service institutions owned by the City Regional Government and the community;\nk. develop victim services based on communities, boarding educational institutions, basic educational institutions, religious institutions, and the business sector;\nl. conduct capacity building;\nm. conduct coordination and cooperation;\nn. conduct empowerment to increase community participation;\no. develop an integrated data and information system for women's protection; p. conduct control, guidance and supervision of the implementation of women's protection administration; and\nq. provide awards to the community, community organizations, educational institutions, religious institutions, boarding educational institutions, the business sector and other parties.\n(2) The planning and budgeting of Women's Protection as referred to in paragraph (1) letter a, shall be the responsibility of Regional Apparatus implementing supporting functions of Government Affairs and the Agency.",
+      "rationale": "The policy lists as a government obligation the establishment of shelter services and/or safe houses, indicating provision of safety/protection shelter services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 1\nIn this Regional Regulation, what is meant by:\n1. City Region hereinafter referred to as Region is the City Region of Cirebon.\n2. City Regional Government is the Mayor as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Cirebon.\n4. Regional Apparatus is an auxiliary element of the Mayor and Regional House of Representatives in the administration of government affairs that are the authority of the region.\n5. Agency is a Regional Apparatus that administers government affairs in the field of women's empowerment and child protection.\n6. Women's Empowerment is an effort to obtain access and control over resources, economic, political, social, cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems, so as to be able to build capacity and self-concept.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Women Victims are women who experience suffering physically, psychologically, sexually, economically, socially, - 4 - and other losses resulting from violence, exploitation and/or gender-based discrimination whether occurring in the public sphere or in the sphere of personal life.\n9. Vulnerable Women are women who live in conditions at risk of experiencing violence, exploitation and discrimination due to age, disability, poverty, geography, disaster, education, inequality and other conditions so that they require special protection and support.\n10. Prevention is a direct effort carried out by the City Regional Government to prevent acts of violence against women.\n11. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status on the basis of equality between men and women.\n12. Violence Against Women is any act based on gender differences that results in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in personal life.\n13. Exploitation is an act with or without the consent of the victim which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial.\n14. Services are all efforts and actions to fulfill the rights of women victims of violence, exploitation and discrimination against women which include complaint services, health, social rehabilitation, legal assistance and enforcement, repatriation, social reintegration, and restitution.\n15. Assistance is all efforts and actions to provide a sense of security and comfort for women victims so that they have readiness and/or ability to obtain services and live their lives.\n16. Technical Implementation Unit hereinafter abbreviated as UPT is the UPT for Women's and Children's Protection. 17. Integrated Services is a system of organizing services for women victims that is comprehensive, integrated, cross-sectoral and professional, quality and - 5 - sustainable which includes health services, legal, social and economic.\n18. Integrated Service Center hereinafter abbreviated as PPT is a non-structural institution that coordinates the implementation of integrated service systems for women victims.\n19. Service Institutions are institutions that provide protection services for women victims, both government-owned and community service institutions.\n20. Social Rehabilitation is all efforts to restore and develop the capacity of women victims so that they can carry out their social roles and functions both in family life and/or society.\n21. Social Reintegration is all efforts to strengthen the readiness and ability of women victims to regain their welfare in social, political, economic, and cultural life with dignity, including strengthening acceptance and support from family and/or society for the protection and fulfillment of women victims' rights.\n22. Restitution is payment of compensation charged to the perpetrator based on a court decision that has permanent legal force for material and/or immaterial losses suffered by the victim or their heirs.\n23. Legal Aid Organization is a community organization that provides legal aid services. 24. Society is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or similar others.\n25. Family is a person who has a blood relationship in a straight line upward or downward and collateral lines up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n26. Boarding Educational Institution is a formal or non-formal Educational Institution that organizes general education, and/or religious or integrated education (general education with religious education, or general education with vocational education or religious education with vocational education), in which some or all of its students reside during their education.",
+      "rationale": "The policy’s definition of services for women victims explicitly includes legal assistance and enforcement, indicating that legal assistance is part of the service provision framework.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 15\n(1) Health rehabilitation services as referred to in Article 12 paragraph (1) letter b, shall be adjusted to the needs of victims based on medical and non-medical considerations, consisting of:\na. physical and mental health examination and treatment; b. psychological examination and recovery;\n- 11 -\nc. pregnancy, childbirth, and reproductive health services;\nd. medical resume and psychological examination results; e. visum et repertum and visum et psikiatrikum; f. deoxyribonucleic acid test; and\ng. other forms of health services needed. (2) Health rehabilitation services for female victims shall be conducted by trained officers in a special room that is safe and comfortable.\n(3) Health rehabilitation services as referred to in paragraph (1), shall be conducted through a special mechanism of integrated services based on hospitals and shall be the responsibility of the Regional Apparatus with authority in the field.",
+      "rationale": "The policy specifies health rehabilitation services including examinations, treatment, and other medical services, and describes how these services are to be delivered, indicating health/medical service provision.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 18\n(1) Social rehabilitation services as referred to in Article 12 paragraph (1) letter d, shall be implemented with the following activities:\na. counseling;\nb. assistance;\nc. provision of language expert services, and certified translators;\nd. spiritual guidance;\ne. safe houses;\nf. shelter/temporary shelter;\ng. strengthening based on family and/or group support;\nh. mobility support for victims with disabilities;\ni. provision of social assistance for victims; and - 12 -\nj. other forms of social rehabilitation services needed by victims.\n(2) Social rehabilitation services as referred to in paragraph (1) letter a, letter b, letter c, letter d, letter e and letter g, shall be the responsibility of the Agency.\n(3) Social rehabilitation services as referred to in paragraph (1) letter f, letter h, letter i and letter j, shall be the responsibility of Regional Apparatus with authority over social affairs.",
+      "rationale": "The policy includes counseling as a component of social rehabilitation services for women victims, which constitutes psychosocial counselling support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages for this criterion mention spiritual guidance or religious/spiritual counseling services, so this indicator is not supported by the candidate text shown.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Social reintegration services as referred to in Article 12 paragraph (1) letter e, shall be implemented with the following activities:\na. repatriation and/or retrieval of victims; b. population document or personal identity services; c. alternative family;\nd. scholarships and educational supporting facilities; e. non-formal education;\nf. skills training and economic enterprise;\ng. financial assistance and business capital;\nh. economic enterprise assistance;\ni. food and/or nutrition assistance for victims and their families;\nj. provision of social protection programs and poverty alleviation programs; and\nk. other forms of repatriation and social reintegration services needed by victims.\n(2) Social reintegration services as referred to in paragraph (1), shall be provided to victims, families and people whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.\n(3) Social reintegration services as referred to in paragraph (1), shall be conducted in an integrated manner with the Integrated Referral Service System for Social Protection and Poverty Alleviation and the Child Social Welfare Center.\n(4) Social reintegration services as referred to in paragraph (1), shall be the responsibility of Regional Apparatus that oversee social affairs, population administration and civil registration affairs, labor affairs, small and medium enterprise cooperative affairs, education affairs, health affairs, public works and spatial planning affairs, land affairs, women's empowerment and child protection affairs and other related affairs.",
+      "rationale": "The policy details social reintegration services and associated activities and responsibilities, which constitute resocialisation/rehabilitation and reintegration support.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 19\n(1) Social reintegration services as referred to in Article 12 paragraph (1) letter e, shall be implemented with the following activities:\na. repatriation and/or retrieval of victims; b. population document or personal identity services; c. alternative family;\nd. scholarships and educational supporting facilities; e. non-formal education;\nf. skills training and economic enterprise;\ng. financial assistance and business capital;\nh. economic enterprise assistance;\ni. food and/or nutrition assistance for victims and their families;\nj. provision of social protection programs and poverty alleviation programs; and\nk. other forms of repatriation and social reintegration services needed by victims.\n(2) Social reintegration services as referred to in paragraph (1), shall be provided to victims, families and people whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.\n(3) Social reintegration services as referred to in paragraph (1), shall be conducted in an integrated manner with the Integrated Referral Service System for Social Protection and Poverty Alleviation and the Child Social Welfare Center.\n(4) Social reintegration services as referred to in paragraph (1), shall be the responsibility of Regional Apparatus that oversee social affairs, population administration and civil registration affairs, labor affairs, small and medium enterprise cooperative affairs, education affairs, health affairs, public works and spatial planning affairs, land affairs, women's empowerment and child protection affairs and other related affairs.",
+      "rationale": "The policy includes skills training, economic enterprise support, and financial assistance/business capital within social reintegration services, indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. justice;\nf. public works and spatial planning;\ng. public housing and residential areas; h. social affairs;\n- 8 -\ni. labor;\nj. women's empowerment and child protection; k. defense;\nl. environment;\nm. population administration and civil registration; n. population control and family planning; o. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other fields.\n(2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum in accordance with regional authority;\nc. developing safe transportation systems and public spaces;\nd. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;\ne. implementing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and society;\ng. developing regional policies, schools, boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. establishing and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. increasing the capacity of City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;\nm. conducting cooperation with religious institutions, community social institutions, service institutions, - 9 - universities, media, youth organizations, religious leaders and community leaders; and\nn. conducting socialization of laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that handle related affairs in accordance with their authority based on the provisions of laws and regulations.",
+      "rationale": "The policy includes primary prevention measures that explicitly involve developing communication/information/education media and public campaigns, educational materials/curriculum, and other awareness and education actions aimed at preventing violence, exploitation, and discrimination against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention prevention activities using communication, information, and education, and define women's protection as aimed at achieving gender equality, none of the provided passages explicitly describe information/education specifically about gender equality or women’s rights as an educational content focus.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. justice;\nf. public works and spatial planning;\ng. public housing and residential areas; h. social affairs;\n- 8 -\ni. labor;\nj. women's empowerment and child protection; k. defense;\nl. environment;\nm. population administration and civil registration; n. population control and family planning; o. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other fields.\n(2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum in accordance with regional authority;\nc. developing safe transportation systems and public spaces;\nd. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;\ne. implementing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and society;\ng. developing regional policies, schools, boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. establishing and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. increasing the capacity of City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;\nm. conducting cooperation with religious institutions, community social institutions, service institutions, - 9 - universities, media, youth organizations, religious leaders and community leaders; and\nn. conducting socialization of laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that handle related affairs in accordance with their authority based on the provisions of laws and regulations.",
+      "rationale": "The prevention measures explicitly include conducting socialization of laws and regulations, which constitutes information/education about relevant laws and policies related to violence against women.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. justice;\nf. public works and spatial planning;\ng. public housing and residential areas; h. social affairs;\n- 8 -\ni. labor;\nj. women's empowerment and child protection; k. defense;\nl. environment;\nm. population administration and civil registration; n. population control and family planning; o. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other fields.\n(2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum in accordance with regional authority;\nc. developing safe transportation systems and public spaces;\nd. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;\ne. implementing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and society;\ng. developing regional policies, schools, boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. establishing and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. increasing the capacity of City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;\nm. conducting cooperation with religious institutions, community social institutions, service institutions, - 9 - universities, media, youth organizations, religious leaders and community leaders; and\nn. conducting socialization of laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that handle related affairs in accordance with their authority based on the provisions of laws and regulations.",
+      "rationale": "The policy frames prevention as occurring in the education field and includes education-focused actions such as developing educational materials and curriculum and establishing safe and women-friendly schools/universities, indicating prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 21\nIn the context of implementing the Protection of Women from violence, exploitation and discrimination, the City Regional Government carries out coordination and cooperation with the central government, the West Java Provincial regional government, other regency/city governments, related agencies, law enforcement institutions, service institutions, educational institutions, boarding educational institutions, religious institutions, community social institutions, professional organizations, legal aid organizations, youth organizations, broadcasting supervisory institutions, media, communities, professional institutions, the business sector as well as other related stakeholders.",
+      "rationale": "The policy states that the City Regional Government carries out coordination and cooperation with multiple stakeholders, explicitly including legal aid organizations and other community/service institutions, which are forms of civil society/NGO engagement.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. justice;\nf. public works and spatial planning;\ng. public housing and residential areas; h. social affairs;\n- 8 -\ni. labor;\nj. women's empowerment and child protection; k. defense;\nl. environment;\nm. population administration and civil registration; n. population control and family planning; o. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other fields.\n(2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum in accordance with regional authority;\nc. developing safe transportation systems and public spaces;\nd. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;\ne. implementing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and society;\ng. developing regional policies, schools, boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. establishing and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. increasing the capacity of City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;\nm. conducting cooperation with religious institutions, community social institutions, service institutions, - 9 - universities, media, youth organizations, religious leaders and community leaders; and\nn. conducting socialization of laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that handle related affairs in accordance with their authority based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly includes cooperation with religious institutions and religious leaders as part of prevention efforts, indicating stakeholder engagement with religious organizations/leaders.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the definition of society mentions traditional leaders, the provided passages do not explicitly describe engagement or collaboration with traditional/cultural organizations or leaders for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Prevention of violence, exploitation and discrimination against women, is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. justice;\nf. public works and spatial planning;\ng. public housing and residential areas; h. social affairs;\n- 8 -\ni. labor;\nj. women's empowerment and child protection; k. defense;\nl. environment;\nm. population administration and civil registration; n. population control and family planning; o. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other fields.\n(2) Prevention of violence, exploitation and discrimination against women as referred to in paragraph (1), is carried out by:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum in accordance with regional authority;\nc. developing safe transportation systems and public spaces;\nd. building early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, boarding educational environments, and other public spaces;\ne. implementing consultation services for families, prospective brides and grooms, students, Islamic students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and society;\ng. developing regional policies, schools, boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. establishing and developing cadres, communities, young people, students, Islamic students, university students, journalists, social media influencers, educators, community leaders and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. increasing the capacity of City Regional Government, government agencies, educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, youth organizations, legal aid organizations, media, religious leaders, community leaders and communities;\nm. conducting cooperation with religious institutions, community social institutions, service institutions, - 9 - universities, media, youth organizations, religious leaders and community leaders; and\nn. conducting socialization of laws and regulations. (3) The fields and forms of prevention of violence, exploitation and discrimination against women as referred to in paragraph (1) and paragraph (2) are implemented by agencies, regional apparatus, institutions, community institutions, organizations, communities, professional institutions that handle related affairs in accordance with their authority based on the provisions of laws and regulations.",
+      "rationale": "The policy includes prevention actions involving schools and universities and references cooperation involving universities, indicating collaboration with educational institutions including higher education.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention international organizations, international cooperation, or international support for service delivery or prevention.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 6\nThe City Regional Government together with educational institutions, religious institutions, health service provider institutions, professional institutions, business sector, service institutions, Islamic boarding schools, youth organizations, legal aid organizations, communities and media, are responsible for implementing the prevention of violence, exploitation and discrimination against women.",
+      "rationale": "The policy explicitly includes media among the parties responsible together with the City Regional Government for implementing prevention, indicating engagement/collaboration with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The City Regional Government has the obligation to strengthen community participation in the implementation of women's protection.\n(2) Community participation as referred to in paragraph (1), shall be conducted in the form of:\na. prevention;\nb. services and referral;\nc. development of information data systems;\nd. strengthening of service institutions;\ne. research and policy advocacy;\nf. control, guidance and supervision; and g. financing.\n(3) Strengthening of community participation as referred to in paragraph (1), may be conducted through:\na. strengthening cooperation; and\nb. strengthening institutional capacity for prevention and services from the community, boarding educational institutions, and the business sector.\n(4) The business sector has responsibility in the implementation of Women's Protection in accordance with the objectives of Corporate Social and Environmental Responsibility.\n- 14 - (5) The form of business sector responsibility as referred to in paragraph (4), shall be conducted as follows: a. financial assistance to service institutions; b. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and services for violence complaints; and\ng. social assistance that is non-binding.",
+      "rationale": "The policy contains a dedicated chapter on community participation and obligates the City Regional Government to strengthen community participation across prevention, services/referral, and other functions, demonstrating collaboration with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The City Regional Government has the obligation to strengthen community participation in the implementation of women's protection.\n(2) Community participation as referred to in paragraph (1), shall be conducted in the form of:\na. prevention;\nb. services and referral;\nc. development of information data systems;\nd. strengthening of service institutions;\ne. research and policy advocacy;\nf. control, guidance and supervision; and g. financing.\n(3) Strengthening of community participation as referred to in paragraph (1), may be conducted through:\na. strengthening cooperation; and\nb. strengthening institutional capacity for prevention and services from the community, boarding educational institutions, and the business sector.\n(4) The business sector has responsibility in the implementation of Women's Protection in accordance with the objectives of Corporate Social and Environmental Responsibility.\n- 14 - (5) The form of business sector responsibility as referred to in paragraph (4), shall be conducted as follows: a. financial assistance to service institutions; b. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and services for violence complaints; and\ng. social assistance that is non-binding.",
+      "rationale": "The policy assigns responsibility to the business sector in implementing women's protection and specifies forms of business sector responsibility (e.g., financial assistance, facilities, special institutions), demonstrating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly identifies “women in disaster and social conflict situations” as a vulnerable group of women for whom prevention efforts are intended to reduce vulnerability, indicating special protection focus for women in disaster/conflict contexts.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While human trafficking is mentioned as a form of violence and the policy provides general services for women victims, none of the provided passages specify special protection measures targeted specifically at women victims of human trafficking.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly lists multiple categories of women workers (e.g., women migrant workers, domestic women workers, home-based women workers, informal women workers) as vulnerable groups whose vulnerability is to be reduced through prevention efforts, indicating targeted protection attention for women workers.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly includes “elderly women” among vulnerable groups of women whose vulnerability is to be reduced through prevention of violence, exploitation, and discrimination.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly identifies “women with disabilities” as a vulnerable group of women for whom prevention efforts aim to reduce vulnerability, indicating special protection focus.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly lists “women heads of household” as a vulnerable group of women whose vulnerability is to be reduced through prevention measures.",
+      "evidence_verified": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "Article 7\nLetter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nLetter j Sufficiently clear.\nLetter k Sufficiently clear.\nLetter l What is included in \"other vulnerable women groups\" are rural women groups, women groups from minority tribes, religions and beliefs, fisherwomen groups, women farmer groups, and poor women groups.",
+      "rationale": "The policy explicitly clarifies that “other vulnerable women groups” include women from minority tribes, religions and beliefs, indicating recognition and targeted inclusion of minority-group women within vulnerable groups.",
+      "evidence_verified": true
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe general rights (e.g., to report and provide testimony) and legal assistance for women victims, but do not specifically mention protection for women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention Indigenous peoples/groups (masyarakat adat) or specify special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference women in disaster and social conflict situations and general victim services, but do not explicitly address refugees or forced displacement as a targeted group.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "Yes",
+      "evidence": "Article 7\nPrevention of violence, exploitation and discrimination against women is intended to create a safe environment for women and to reduce the vulnerability to violence, exploitation and discrimination of vulnerable groups of women, as follows:\na. women in disaster and social conflict situations; b. women with disabilities; c. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. domestic women workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+      "rationale": "The policy explicitly lists “domestic women workers” as a vulnerable group of women whose vulnerability is to be reduced through prevention of violence, exploitation, and discrimination, indicating targeted protection attention.",
+      "evidence_verified": true
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention homelessness or women experiencing homelessness as a targeted group for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide general victim services and rights but do not explicitly mention women who are former inmates or formerly incarcerated women as a group receiving special protection measures.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nFINANCING\nArticle 34\nFinancing for the implementation of Women's Protection is sourced from:\na. Regional Revenue and Expenditure Budget; and b. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that financing for implementation is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly identify the national/central government budget as a funding source; the financing clause lists the regional budget and other legal/non-binding sources without specifying national budget allocations.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not explicitly mention international donors, UN agencies, foreign governments, or other international funding sources; the financing provision only refers to the regional budget and unspecified other legal/non-binding sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nFINANCING\nArticle 34\nFinancing for the implementation of Women's Protection is sourced from:\na. Regional Revenue and Expenditure Budget; and b. other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing article explicitly includes 'other legal and non-binding sources' as a funding source, which directly matches the criterion of other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions coordination and cooperation with the West Java Provincial regional government, it does not state that provincial government budget funds the policy; the financing provision does not list provincial budget as a source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

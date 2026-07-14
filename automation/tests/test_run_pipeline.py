@@ -15,7 +15,7 @@ from automation.src.config_loader import (
     RetrievalConfig,
     StorageConfig,
 )
-from automation.src.constants import ALL_STEPS, AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
+from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, DEFAULT_STEPS, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.run_pipeline import main, parse_steps, requires_run_id
 
@@ -51,6 +51,21 @@ COMPARISON_RESULT = {
     "output_dir": "",
 }
 
+DIAGNOSIS_RESULT = {
+    "counts": {
+        "total": 0,
+        "succeeded": 0,
+        "failed": 0,
+        "skipped": 0,
+        "saved_reports": 0,
+        "discrepancies_total": 0,
+    },
+    "failed_policies": [],
+    "elapsed_s": 0.05,
+    "token_usage": {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0},
+    "output_dir": "",
+}
+
 
 @pytest.fixture
 def model_config_path(tmp_path):
@@ -68,6 +83,12 @@ def model_config_path(tmp_path):
                 "max_tokens": None,
                 "max_retries": 2,
             },
+            "test-diagnosis": {
+                "deployment": "gpt-5.2",
+                "temperature": 0.2,
+                "max_tokens": None,
+                "max_retries": 2,
+            },
         }
     }
     path = tmp_path / "model_config.yaml"
@@ -81,6 +102,7 @@ def pipeline_config_path(tmp_path, model_config_path):
         "experiment_name": "test_experiment",
         "translation": {"model": "test-translate", "prompt_version": "v1"},
         "evaluation": {"model": "test-eval", "prompt_version": "v1"},
+        "discrepancy_diagnosis": {"model": "test-diagnosis", "prompt_version": "v1"},
         "paths": {
             "input_dir": "data/raw/localpolicies",
             "golden_csv": "data/processed/long_policy_encoding.csv",
@@ -103,13 +125,18 @@ def data_root(tmp_path, monkeypatch):
 def mock_config():
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
+    diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
     return ResolvedPipelineConfig(
         experiment_name="test_experiment",
         translation_model=translate_model,
         evaluation_model=eval_model,
+        discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
+        discrepancy_diagnosis_template_path=(
+            AUTOMATION_ROOT / "prompts" / "discrepancy_diagnosis" / "v1" / "prompt_template.txt"
+        ),
         paths=PipelinePaths(
             input_dir=PROJECT_ROOT / "data" / "raw" / "localpolicies",
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
@@ -132,7 +159,15 @@ def mock_config():
 
 
 def test_parse_steps_defaults_to_all():
-    assert parse_steps(None) == list(ALL_STEPS)
+    assert parse_steps(None) == list(DEFAULT_STEPS)
+
+
+def test_parse_steps_default_includes_discrepancy_diagnosis():
+    assert "discrepancy_diagnosis" in parse_steps(None)
+
+
+def test_parse_steps_accepts_discrepancy_diagnosis_explicitly():
+    assert parse_steps("discrepancy_diagnosis") == ["discrepancy_diagnosis"]
 
 
 def test_parse_steps_accepts_single_step():
@@ -152,10 +187,11 @@ def test_requires_run_id_for_eval_only():
     assert requires_run_id(["evaluation"], None) is True
     assert requires_run_id(["comparison"], None) is True
     assert requires_run_id(["evaluation", "comparison"], None) is True
+    assert requires_run_id(["discrepancy_diagnosis"], None) is True
 
 
 def test_requires_run_id_false_for_full_pipeline():
-    assert requires_run_id(list(ALL_STEPS), None) is False
+    assert requires_run_id(list(DEFAULT_STEPS), None) is False
     assert requires_run_id(["translation", "evaluation"], None) is False
 
 
@@ -166,6 +202,7 @@ def test_requires_run_id_false_when_run_id_provided():
 @patch("automation.src.run_pipeline.update_metadata")
 @patch("automation.src.run_pipeline.init_run_metadata")
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
@@ -181,6 +218,7 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_storage,
     mock_eval,
     mock_compare,
+    mock_diagnose,
     mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
@@ -198,15 +236,19 @@ def test_main_full_pipeline_small_scale_without_run_id(
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
+    mock_diagnose.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is True
     assert mock_translate.call_args.kwargs["force"] is False
     assert mock_eval.call_args.kwargs["small_scale"] is True
     assert mock_eval.call_args.kwargs["allow_partial"] is False
+    assert mock_diagnose.call_args.kwargs["small_scale"] is True
+    assert mock_diagnose.call_args.kwargs["allow_partial"] is False
 
 
 @patch("automation.src.run_pipeline.update_metadata")
 @patch("automation.src.run_pipeline.init_run_metadata")
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
+@patch("automation.src.run_pipeline.run_diagnosis_step", return_value=DIAGNOSIS_RESULT)
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
 @patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
@@ -222,6 +264,7 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     mock_storage,
     mock_eval,
     mock_compare,
+    mock_diagnose,
     mock_generate_run_id,
     mock_init_metadata,
     mock_update_metadata,
@@ -239,8 +282,10 @@ def test_main_full_pipeline_without_small_scale_passes_false(
     mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
+    mock_diagnose.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is False
     assert mock_eval.call_args.kwargs["small_scale"] is False
+    assert mock_diagnose.call_args.kwargs["small_scale"] is False
     mock_init_metadata.assert_called_once()
     assert mock_init_metadata.call_args.kwargs["small_scale"] is False
 

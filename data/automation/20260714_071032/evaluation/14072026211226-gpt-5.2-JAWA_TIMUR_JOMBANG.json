@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TIMUR_JOMBANG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:50:16.748734+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 9\nParagraph (1) What is meant by fast, safe, empathetic, non-discriminatory, easily accessible and with guaranteed confidentiality in the handling/examination of women and children victims of violence, victims are examined at the P2T-P2A Secretariat or the Women and Children Protection Unit (UPPA) Room, which is a special closed and comfortable room at the Police Unit, where women and children victims of Domestic Violence and violence or sexual harassment can report their cases safely to Policewomen who are empathetic, understanding and professional.\nParagraph (2) What is meant by no fees charged is that there is a waiver of free visum fees for women and children victims of physical and sexual violence that can be carried out at the Jombang Regency Regional General Hospital as well as at the Community Health Center (PUSKESMAS) with a visum letter of introduction from the Police, which is subsequently stipulated in the Technical Guidelines Book;",
+      "rationale": "The policy explicitly references women and children victims of Domestic Violence and provides reporting/handling arrangements for such cases.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": ": REGIONAL REGULATION\nOF JOMBANG REGENCY\nIMPLEMENTATION OF PROTECTION FOR CHILD VICTIMS OF VIOLENCE\nCONCERNING\nWOMEN\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Jombang Regency;\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration;\n3. Regent is the Regent of Jombang;\n4. Regional House of Representatives hereinafter referred to as DPRD is a regional people's representative institution as an element of regional government administration;\n5. Regional Governance is the administration of government affairs by the Regional Government and DPRD according to the principles of Autonomy and assistance tasks with the principle of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n6. Agency is a Regional Apparatus Work Unit whose main duties and functions include the fields of social affairs, women's empowerment and child protection;\n7. Child is a person who has not reached 18 years of age, including those in the womb;\n8. Violence is any act that results in or may result in misery or suffering to the victim;\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person:\n11. Sexual violence is any act in the form of sexual harassment, coercion of sexual relations in an unnatural or unwanted manner against another person whether for commercial purposes and/or certain purposes;\n12. Victim is a Woman and Child who experiences misery and or suffering as a result of violence;\n13. Protection is all efforts aimed at providing a sense of security to victims either temporarily or based on a Court decision;\n14. Service is an action that must be immediately taken to victims when seeing, hearing and reasonably suspected that violence against victims will, is or has occurred; 15. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;\n16. Integrated Service Center for the Protection of Women and Children hereinafter referred to as P2T-P2A is a service provider institution based in a Hospital for victims of violence, especially women and children, which is managed jointly by the regional government and the community incorporated in a Team carried out in a cross-functional and cross-sectoral manner in the form of medical services (including medico-legal), psycho-social and legal services;\n17. Safe house is a temporary residence used to provide protection to victims; 18. Community is individuals, individuals, families, groups, communities and social organizations;\n19. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, and mother and her children;\n# }\n20. Household is family members and relatives (a person who has a blood relationship with family members) and non-relatives, who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines sexual violence, including sexual harassment and coercion of sexual relations.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": ": REGIONAL REGULATION\nOF JOMBANG REGENCY\nIMPLEMENTATION OF PROTECTION FOR CHILD VICTIMS OF VIOLENCE\nCONCERNING\nWOMEN\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Jombang Regency;\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration;\n3. Regent is the Regent of Jombang;\n4. Regional House of Representatives hereinafter referred to as DPRD is a regional people's representative institution as an element of regional government administration;\n5. Regional Governance is the administration of government affairs by the Regional Government and DPRD according to the principles of Autonomy and assistance tasks with the principle of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n6. Agency is a Regional Apparatus Work Unit whose main duties and functions include the fields of social affairs, women's empowerment and child protection;\n7. Child is a person who has not reached 18 years of age, including those in the womb;\n8. Violence is any act that results in or may result in misery or suffering to the victim;\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person:\n11. Sexual violence is any act in the form of sexual harassment, coercion of sexual relations in an unnatural or unwanted manner against another person whether for commercial purposes and/or certain purposes;\n12. Victim is a Woman and Child who experiences misery and or suffering as a result of violence;\n13. Protection is all efforts aimed at providing a sense of security to victims either temporarily or based on a Court decision;\n14. Service is an action that must be immediately taken to victims when seeing, hearing and reasonably suspected that violence against victims will, is or has occurred; 15. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;\n16. Integrated Service Center for the Protection of Women and Children hereinafter referred to as P2T-P2A is a service provider institution based in a Hospital for victims of violence, especially women and children, which is managed jointly by the regional government and the community incorporated in a Team carried out in a cross-functional and cross-sectoral manner in the form of medical services (including medico-legal), psycho-social and legal services;\n17. Safe house is a temporary residence used to provide protection to victims; 18. Community is individuals, individuals, families, groups, communities and social organizations;\n19. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, and mother and her children;\n# }\n20. Household is family members and relatives (a person who has a blood relationship with family members) and non-relatives, who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines physical violence and describes it as acts causing pain, injury, disability, miscarriage, fainting, and/or death.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": ": REGIONAL REGULATION\nOF JOMBANG REGENCY\nIMPLEMENTATION OF PROTECTION FOR CHILD VICTIMS OF VIOLENCE\nCONCERNING\nWOMEN\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Jombang Regency;\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration;\n3. Regent is the Regent of Jombang;\n4. Regional House of Representatives hereinafter referred to as DPRD is a regional people's representative institution as an element of regional government administration;\n5. Regional Governance is the administration of government affairs by the Regional Government and DPRD according to the principles of Autonomy and assistance tasks with the principle of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n6. Agency is a Regional Apparatus Work Unit whose main duties and functions include the fields of social affairs, women's empowerment and child protection;\n7. Child is a person who has not reached 18 years of age, including those in the womb;\n8. Violence is any act that results in or may result in misery or suffering to the victim;\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person:\n11. Sexual violence is any act in the form of sexual harassment, coercion of sexual relations in an unnatural or unwanted manner against another person whether for commercial purposes and/or certain purposes;\n12. Victim is a Woman and Child who experiences misery and or suffering as a result of violence;\n13. Protection is all efforts aimed at providing a sense of security to victims either temporarily or based on a Court decision;\n14. Service is an action that must be immediately taken to victims when seeing, hearing and reasonably suspected that violence against victims will, is or has occurred; 15. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;\n16. Integrated Service Center for the Protection of Women and Children hereinafter referred to as P2T-P2A is a service provider institution based in a Hospital for victims of violence, especially women and children, which is managed jointly by the regional government and the community incorporated in a Team carried out in a cross-functional and cross-sectoral manner in the form of medical services (including medico-legal), psycho-social and legal services;\n17. Safe house is a temporary residence used to provide protection to victims; 18. Community is individuals, individuals, families, groups, communities and social organizations;\n19. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, and mother and her children;\n# }\n20. Household is family members and relatives (a person who has a blood relationship with family members) and non-relatives, who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines psychological violence, describing fear, loss of self-confidence, loss of ability to act, helplessness, and/or severe psychological suffering.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "ELUCIDATION OF\nREGIONAL REGULATION OF JOMBANG REGENCY\nNUMBER 14. YEAR 2008\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\n1. GENERAL ELUCIDATION\nVICTIMS OF VIOLENCE\nThe State has an obligation to provide a sense of security for its citizens from threats and actions that can disturb or damage psychological, physical, sexual and economic security, this is philosophically stated in the Preamble of the 1945 Constitution of the Republic of Indonesia, that the purpose of establishing the Unitary State of the Republic of Indonesia, first is to protect all the people and the entire homeland of Indonesia.\nBecause the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women), it is obliged to comply with these provisions.\nLikewise in the 1945 Constitution of the Republic of Indonesia fourth amendment, Chapter X.A concerning Human Rights, states that the enforcement and fulfillment of Human Rights is the responsibility of the State, especially the Government.\nFurthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that women as mothers of the nation and children as successors of the nation are creatures created by God Almighty, so they must be protected and their honor, dignity and self-esteem must be safeguarded in a reasonable and proportional manner both legally, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.\n. From the series of provisions above, the Government is responsible for taking actions both legally, politically, and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.",
+      "rationale": "The policy explicitly mentions protection from threats/actions that can disturb or damage economic security, indicating inclusion of economic dimensions of violence.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women and children generally but do not explicitly address femicide/feminicide (gender-related killing of women).",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention human trafficking or trafficking-specific provisions; references to a national action plan in the legal basis do not constitute inclusion of trafficking in the policy content shown.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address sexual violence/harassment but do not explicitly mention sexual exploitation or sexual slavery as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention technology-facilitated forms of violence (e.g., online harassment, cyberstalking, image-based abuse).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe integrated services within Jombang Regency (e.g., P2T-P2A, police unit rooms, hospital/puskesmas) and involvement of various institutions, but they do not indicate coordination or cooperation with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": ": REGIONAL REGULATION\nOF JOMBANG REGENCY\nIMPLEMENTATION OF PROTECTION FOR CHILD VICTIMS OF VIOLENCE\nCONCERNING\nWOMEN\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Jombang Regency;\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration;\n3. Regent is the Regent of Jombang;\n4. Regional House of Representatives hereinafter referred to as DPRD is a regional people's representative institution as an element of regional government administration;\n5. Regional Governance is the administration of government affairs by the Regional Government and DPRD according to the principles of Autonomy and assistance tasks with the principle of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n6. Agency is a Regional Apparatus Work Unit whose main duties and functions include the fields of social affairs, women's empowerment and child protection;\n7. Child is a person who has not reached 18 years of age, including those in the womb;\n8. Violence is any act that results in or may result in misery or suffering to the victim;\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person:\n11. Sexual violence is any act in the form of sexual harassment, coercion of sexual relations in an unnatural or unwanted manner against another person whether for commercial purposes and/or certain purposes;\n12. Victim is a Woman and Child who experiences misery and or suffering as a result of violence;\n13. Protection is all efforts aimed at providing a sense of security to victims either temporarily or based on a Court decision;\n14. Service is an action that must be immediately taken to victims when seeing, hearing and reasonably suspected that violence against victims will, is or has occurred; 15. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;\n16. Integrated Service Center for the Protection of Women and Children hereinafter referred to as P2T-P2A is a service provider institution based in a Hospital for victims of violence, especially women and children, which is managed jointly by the regional government and the community incorporated in a Team carried out in a cross-functional and cross-sectoral manner in the form of medical services (including medico-legal), psycho-social and legal services;\n17. Safe house is a temporary residence used to provide protection to victims; 18. Community is individuals, individuals, families, groups, communities and social organizations;\n19. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, and mother and her children;\n# }\n20. Household is family members and relatives (a person who has a blood relationship with family members) and non-relatives, who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy defines P2T-P2A as being managed jointly by the regional government and the community incorporated in a team, implying a cooperation mechanism with non-government actors/service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against women and children in the form of:\na. conducting socialization regarding laws and regulations related to the implementation of protection for women and children victims of violence as well as anti-violence values toward women and children; b. conducting monitoring and evaluation of the implementation of socialization and understanding of anti-violence values. (2) The Regional Government has the obligation and responsibility to implement efforts to protect victims in the form of:\na. collecting data and information about victims;\nb. establishing and facilitating integrated service institutions and safe houses for victims;\nc. encouraging public awareness of the importance of protection for victims;\n(3) The implementation of obligations as referred to in paragraph (1) and paragraph (2), shall be technically implemented in an integrated manner by the relevant Regional Work Units.",
+      "rationale": "The Regional Government’s obligations explicitly include collecting data and information about victims, which constitutes establishment/operation of a data collection function for violence against women and children.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference gender justice/equality and gender-based violence, none mention gender mainstreaming institutionalisation or a specific gender mainstreaming working group/mechanism to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention socialization, monitoring/evaluation, service provision, SOPs, and assistance by qualified persons, but do not explicitly describe training or capacity-building programs for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against women and children in the form of:\na. conducting socialization regarding laws and regulations related to the implementation of protection for women and children victims of violence as well as anti-violence values toward women and children; b. conducting monitoring and evaluation of the implementation of socialization and understanding of anti-violence values. (2) The Regional Government has the obligation and responsibility to implement efforts to protect victims in the form of:\na. collecting data and information about victims;\nb. establishing and facilitating integrated service institutions and safe houses for victims;\nc. encouraging public awareness of the importance of protection for victims;\n(3) The implementation of obligations as referred to in paragraph (1) and paragraph (2), shall be technically implemented in an integrated manner by the relevant Regional Work Units.",
+      "rationale": "The Regional Government’s obligations include conducting monitoring and evaluation (at least of socialization and understanding of anti-violence values), indicating an M&E component related to implementation efforts.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nIMPLEMENTATION OF PROTECTION\nFirst Part Institutional\nArticle 7\nThe Implementation of Protection for victims is carried out in an integrated manner within the Integrated Service Center for the Protection of Women and Children (P2T-P2A).",
+      "rationale": "The policy states that protection for victims is implemented in an integrated manner within the Integrated Service Center for the Protection of Women and Children (P2T-P2A), indicating an integrated service unit.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "Article 9\nParagraph (1) What is meant by fast, safe, empathetic, non-discriminatory, easily accessible and with guaranteed confidentiality in the handling/examination of women and children victims of violence, victims are examined at the P2T-P2A Secretariat or the Women and Children Protection Unit (UPPA) Room, which is a special closed and comfortable room at the Police Unit, where women and children victims of Domestic Violence and violence or sexual harassment can report their cases safely to Policewomen who are empathetic, understanding and professional.\nParagraph (2) What is meant by no fees charged is that there is a waiver of free visum fees for women and children victims of physical and sexual violence that can be carried out at the Jombang Regency Regional General Hospital as well as at the Community Health Center (PUSKESMAS) with a visum letter of introduction from the Police, which is subsequently stipulated in the Technical Guidelines Book;",
+      "rationale": "The policy describes the Women and Children Protection Unit (UPPA) Room as a special closed and comfortable room at the Police Unit where victims can report cases, indicating a specialized police service unit.",
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nWhat is meant by obtaining protection is obtaining protection from family, the Police, the Prosecutor's Office, the Court, Advocates, Social Institutions or other parties either temporarily or based on the determination of a protection order from the court, husband, wife and children.\nWhat is meant by obtaining information is knowing about the existence of complaint centers, P2T-P2A and or other competent supporting institutions regarding matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the development of case handling.\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial, legal and socio-political. What is meant by continuous handling up to the rehabilitation stage is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of good name and the victim has the right to obtain socio-economic empowerment.\nWhat is meant by the victim having the right to report is that the victim can report acts of violence to the Secretariat of P2T-P2A Jombang Regency or Jombang Police Resort (UPPA), or Women's Crisis Center (WCC) Jombang, What is meant by obtaining psychological and legal assistance is obtaining psychological and legal assistance at every level of examination and throughout the judicial process.\nSufficiently clear",
+      "rationale": "The policy specifies that victims can report acts of violence to the P2T-P2A Secretariat, the Police Resort (UPPA), or WCC Jombang, demonstrating the existence of units that receive reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Services for victims organized by P2T-P2A include:\na. Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; \nb. Medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. Psychosocial services constitute services provided by companions to help restore the traumatic condition of victims, including the provision of safe houses that protect victims from various threats and intimidation for victims as well as providing social support so that victims have self-confidence, strength, and independence in resolving their problems as well as undergoing legal processes;\nd. Legal assistance services to victims during the legal process;\ne. Socio-political services in the form of policy advocacy that is preventive and curative in nature for victims.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy includes psychosocial services that encompass the provision of safe houses to protect victims from threats and intimidation, indicating a shelter/protection service.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Services for victims organized by P2T-P2A include:\na. Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; \nb. Medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. Psychosocial services constitute services provided by companions to help restore the traumatic condition of victims, including the provision of safe houses that protect victims from various threats and intimidation for victims as well as providing social support so that victims have self-confidence, strength, and independence in resolving their problems as well as undergoing legal processes;\nd. Legal assistance services to victims during the legal process;\ne. Socio-political services in the form of policy advocacy that is preventive and curative in nature for victims.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy explicitly lists legal assistance services to victims during the legal process as part of services organized by P2T-P2A.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Services for victims organized by P2T-P2A include:\na. Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; \nb. Medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. Psychosocial services constitute services provided by companions to help restore the traumatic condition of victims, including the provision of safe houses that protect victims from various threats and intimidation for victims as well as providing social support so that victims have self-confidence, strength, and independence in resolving their problems as well as undergoing legal processes;\nd. Legal assistance services to victims during the legal process;\ne. Socio-political services in the form of policy advocacy that is preventive and curative in nature for victims.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes medical services (treatment and recovery of physical injuries) among the services organized by P2T-P2A.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Services for victims organized by P2T-P2A include:\na. Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics; \nb. Medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. Psychosocial services constitute services provided by companions to help restore the traumatic condition of victims, including the provision of safe houses that protect victims from various threats and intimidation for victims as well as providing social support so that victims have self-confidence, strength, and independence in resolving their problems as well as undergoing legal processes;\nd. Legal assistance services to victims during the legal process;\ne. Socio-political services in the form of policy advocacy that is preventive and curative in nature for victims.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes psychosocial services provided by companions to restore victims’ traumatic condition, which constitutes psychosocial counseling/support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention religious or spiritual counseling services or a unit providing such support.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nWhat is meant by obtaining protection is obtaining protection from family, the Police, the Prosecutor's Office, the Court, Advocates, Social Institutions or other parties either temporarily or based on the determination of a protection order from the court, husband, wife and children.\nWhat is meant by obtaining information is knowing about the existence of complaint centers, P2T-P2A and or other competent supporting institutions regarding matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the development of case handling.\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial, legal and socio-political. What is meant by continuous handling up to the rehabilitation stage is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of good name and the victim has the right to obtain socio-economic empowerment.\nWhat is meant by the victim having the right to report is that the victim can report acts of violence to the Secretariat of P2T-P2A Jombang Regency or Jombang Police Resort (UPPA), or Women's Crisis Center (WCC) Jombang, What is meant by obtaining psychological and legal assistance is obtaining psychological and legal assistance at every level of examination and throughout the judicial process.\nSufficiently clear",
+      "rationale": "The policy references continuous handling up to the rehabilitation stage, including enabling the victim to resume life in society and restoration of good name, which aligns with rehabilitation/reintegration (resocialisation) services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nWhat is meant by obtaining protection is obtaining protection from family, the Police, the Prosecutor's Office, the Court, Advocates, Social Institutions or other parties either temporarily or based on the determination of a protection order from the court, husband, wife and children.\nWhat is meant by obtaining information is knowing about the existence of complaint centers, P2T-P2A and or other competent supporting institutions regarding matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the development of case handling.\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial, legal and socio-political. What is meant by continuous handling up to the rehabilitation stage is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of good name and the victim has the right to obtain socio-economic empowerment.\nWhat is meant by the victim having the right to report is that the victim can report acts of violence to the Secretariat of P2T-P2A Jombang Regency or Jombang Police Resort (UPPA), or Women's Crisis Center (WCC) Jombang, What is meant by obtaining psychological and legal assistance is obtaining psychological and legal assistance at every level of examination and throughout the judicial process.\nSufficiently clear",
+      "rationale": "The policy states that continuous handling up to the rehabilitation stage includes the victim’s right to obtain socio-economic empowerment, indicating economic empowerment/support as part of services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against women and children in the form of:\na. conducting socialization regarding laws and regulations related to the implementation of protection for women and children victims of violence as well as anti-violence values toward women and children; b. conducting monitoring and evaluation of the implementation of socialization and understanding of anti-violence values. (2) The Regional Government has the obligation and responsibility to implement efforts to protect victims in the form of:\na. collecting data and information about victims;\nb. establishing and facilitating integrated service institutions and safe houses for victims;\nc. encouraging public awareness of the importance of protection for victims;\n(3) The implementation of obligations as referred to in paragraph (1) and paragraph (2), shall be technically implemented in an integrated manner by the relevant Regional Work Units.",
+      "rationale": "The policy assigns the regional government responsibility to prevent violence against women and children by conducting socialization on relevant laws/regulations and anti-violence values, which constitutes information/education as a primary prevention measure.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines and lists principles such as gender justice/equality and non-discrimination, the provided passages do not describe any information or education activities specifically aimed at promoting gender equality or women’s rights (e.g., awareness campaigns, trainings, curricula).",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against women and children in the form of:\na. conducting socialization regarding laws and regulations related to the implementation of protection for women and children victims of violence as well as anti-violence values toward women and children; b. conducting monitoring and evaluation of the implementation of socialization and understanding of anti-violence values. (2) The Regional Government has the obligation and responsibility to implement efforts to protect victims in the form of:\na. collecting data and information about victims;\nb. establishing and facilitating integrated service institutions and safe houses for victims;\nc. encouraging public awareness of the importance of protection for victims;\n(3) The implementation of obligations as referred to in paragraph (1) and paragraph (2), shall be technically implemented in an integrated manner by the relevant Regional Work Units.",
+      "rationale": "The policy explicitly includes prevention efforts through socialization regarding laws and regulations related to protection for women and children victims of violence, which is direct information/education about VAW-related laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on socialization about laws/anti-violence values and on service provision for victims, but they do not mention prevention through the education sector or improving the quality of education (e.g., school-based programs, curriculum changes, teacher training, educational quality measures).",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nWhat is meant by obtaining protection is obtaining protection from family, the Police, the Prosecutor's Office, the Court, Advocates, Social Institutions or other parties either temporarily or based on the determination of a protection order from the court, husband, wife and children.\nWhat is meant by obtaining information is knowing about the existence of complaint centers, P2T-P2A and or other competent supporting institutions regarding matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the development of case handling.\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial, legal and socio-political. What is meant by continuous handling up to the rehabilitation stage is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of good name and the victim has the right to obtain socio-economic empowerment.\nWhat is meant by the victim having the right to report is that the victim can report acts of violence to the Secretariat of P2T-P2A Jombang Regency or Jombang Police Resort (UPPA), or Women's Crisis Center (WCC) Jombang, What is meant by obtaining psychological and legal assistance is obtaining psychological and legal assistance at every level of examination and throughout the judicial process.\nSufficiently clear",
+      "rationale": "The policy references a non-governmental civil society organization (Women's Crisis Center/WCC) as a place where victims can report cases, indicating engagement/collaboration with NGOs in service provision.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention engagement or collaboration with religious organisations or religious leaders in services or prevention.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not explicitly reference traditional/cultural organisations or leaders, nor describe collaboration with them for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages describe service types and institutions (e.g., police units, hospitals) but do not mention collaboration with educational institutions or universities.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references international instruments (e.g., UDHR, CEDAW) in general elucidation, none of the passages indicate collaboration with international organizations or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate passage mentions media engagement or collaboration for prevention or service delivery.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": ": REGIONAL REGULATION\nOF JOMBANG REGENCY\nIMPLEMENTATION OF PROTECTION FOR CHILD VICTIMS OF VIOLENCE\nCONCERNING\nWOMEN\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Jombang Regency;\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration;\n3. Regent is the Regent of Jombang;\n4. Regional House of Representatives hereinafter referred to as DPRD is a regional people's representative institution as an element of regional government administration;\n5. Regional Governance is the administration of government affairs by the Regional Government and DPRD according to the principles of Autonomy and assistance tasks with the principle of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia;\n6. Agency is a Regional Apparatus Work Unit whose main duties and functions include the fields of social affairs, women's empowerment and child protection;\n7. Child is a person who has not reached 18 years of age, including those in the womb;\n8. Violence is any act that results in or may result in misery or suffering to the victim;\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Psychological Violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person:\n11. Sexual violence is any act in the form of sexual harassment, coercion of sexual relations in an unnatural or unwanted manner against another person whether for commercial purposes and/or certain purposes;\n12. Victim is a Woman and Child who experiences misery and or suffering as a result of violence;\n13. Protection is all efforts aimed at providing a sense of security to victims either temporarily or based on a Court decision;\n14. Service is an action that must be immediately taken to victims when seeing, hearing and reasonably suspected that violence against victims will, is or has occurred; 15. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;\n16. Integrated Service Center for the Protection of Women and Children hereinafter referred to as P2T-P2A is a service provider institution based in a Hospital for victims of violence, especially women and children, which is managed jointly by the regional government and the community incorporated in a Team carried out in a cross-functional and cross-sectoral manner in the form of medical services (including medico-legal), psycho-social and legal services;\n17. Safe house is a temporary residence used to provide protection to victims; 18. Community is individuals, individuals, families, groups, communities and social organizations;\n19. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, and mother and her children;\n# }\n20. Household is family members and relatives (a person who has a blood relationship with family members) and non-relatives, who live and eat from one kitchen and reside in one house.",
+      "rationale": "The definition of P2T-P2A states it is managed jointly by the regional government and the community incorporated in a team, indicating stakeholder engagement/collaboration with the community in service provision.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention businesses, employers, private sector entities, or any collaboration/engagement with them for services or prevention.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection and services for women and children victims of violence (e.g., integrated services, confidentiality, free visum), but none mention conflict zones, disasters, or disaster-prone areas, nor any special measures tailored to such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Across the candidate passages, the policy addresses women and children victims of violence generally (medical, legal, psychosocial services), but it does not explicitly or implicitly identify human trafficking victims or provide trafficking-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on victims of violence and service delivery mechanisms; there is no mention of women workers/employees or workplace-specific protections.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text defines victims as women and children and outlines general rights and services, but it does not reference elderly women or provide age-specific protection measures for older women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages include general non-discriminatory service principles and victim rights, but they do not mention disability or provide disability-specific accommodations or protections.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention victims’ rights related to status in family/society and general protection/services, they do not identify women heads of household/families as a target group or provide special measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy includes general non-discrimination language, but none of the passages specify minority or isolated groups of women or set out targeted protection measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address women and children as victims of violence and provide for legal assistance during the legal process, but they do not mention women in conflict with the law as witnesses or perpetrators, nor protections for women accused/convicted or otherwise in conflict with the law.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts provide general victim services and rights but do not mention Indigenous peoples/groups (masyarakat adat) or any tailored protections for them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not reference refugees, internally displaced persons, or forced displacement contexts, nor any special protections for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy passages concern women and children victims of violence generally and do not mention domestic workers or provide occupation-specific protections.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although safe houses are mentioned as part of psychosocial services for victims, the passages do not identify homelessness as a target condition/group or provide special protection measures specifically for women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address victims of violence and related services/assistance but do not mention former inmates/correctional institutions or any protections targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe regional government obligations and free/waived service fees, but none explicitly identify a local government budget (e.g., APBD) or local budget line as a funding source.",
+      "evidence_verified": null
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference national laws and state obligations, but do not mention any national government budget allocation (e.g., APBN) or national funding source for implementation.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention international human rights instruments (UDHR, CEDAW) only as legal/rights context, not as sources of international donor funding or support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss services, assistance, and fee waivers, but do not specify any alternative funding/budget sources (e.g., private sector, CSR, grants, community contributions) as legal sources of financing.",
+      "evidence_verified": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on regency/regional government roles and service provisions, but do not mention provincial budget funding or provincial government budget sources.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

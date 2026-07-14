@@ -1,0 +1,469 @@
+{
+  "policy_file": "SUMATERA_UTARA_PAKPAK_BHARAT.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:11:33.510009+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "ELUCIDATION\nOF\nREGIONAL REGULATION OF PAKPAK BHARAT REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM VICTIMS OF VIOLENCE\n\nI. GENERAL\n\nThe national objectives of the Unitary State of the Republic of Indonesia, as stipulated in the Preamble of the 1945 Constitution in the fourth paragraph are stated to include: (1) protecting the entire Indonesian nation and all of Indonesia's homeland, (2) advancing public welfare, (3) developing the intellectual life of the nation and (4) participating in implementing world order based on (a) independence, (b) lasting peace, and (c) social justice.\n\nThe Republic of Indonesia is a State of Law (rechtstaat) and not a state of power (machstaat), so that all actions of its citizens, including those in the form of violence, committed by both men and women, are also regulated by law.\n\nThe rights of women and children are recognized as Human Rights (HAM), which must be upheld and respected by all parties, however in reality there are still many women and children who become victims of violence. The commitment of the Central Government to protect children and women is reflected in the legislation beneath it.\n\nVarious acts of violence both against women and children within the household and outside the household continue to increase from time to time. This condition, if without serious handling will destroy the life of households, society, nation and state. Therefore, the government of Pakpak Bharat Regency is obligated to provide protection to women and children from acts of violence which is an implementation of various laws and regulations, including Law Number 39 of 1999 concerning Human Rights, Law Number 23 of 2002 concerning Child Protection, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking.\n\nProtection of women and children from acts of violence is the obligation of Regional Government as regulated in Law Number 23 of 2014 concerning Regional Government which states that: \"in carrying out regional autonomy has the obligation to protect the community, maintain unity, oneness and national harmony as well as the integrity of the Unitary State of the Republic of Indonesia.\"\n\nBased on that, the Government of Pakpak Bharat Regency has taken steps as an effort to provide protection to women and children from acts of violence, however it has not been able to provide maximum and adequate protection against acts of violence that occur in the social life of the community especially to women and children jdih.pakpakbharatkab.go.id - 13 - due to the still low understanding of the community regarding the rights of women and children, handling has not been well coordinated, its implementation has not been sustainable and so forth. Therefore, a regulation in the form of a Regional Regulation concerning the protection of women and children from acts of violence is needed to answer while providing legal certainty in the protection of women and children from acts of violence that occur.\n\nWith the enactment of this Regional Regulation concerning the Protection of Women and Children from Acts of Violence, in Pakpak Bharat Regency in particular, then handling, rehabilitation and reintegration can be carried out properly and more smoothly in the process of prevention and handling of violence against women and children which in its implementation the Regional Government cooperates with government agencies, other regional governments, the community and also the participation of the business world in preventing violence against women and children from the beloved Pakpak Bharat Regency.",
+      "rationale": "The policy explicitly references violence occurring within the household and cites the national law on the elimination of domestic violence, indicating domestic violence is within scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence covered under its protection objectives.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly lists physical violence as a form of violence covered under its protection objectives.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly lists psychological violence as a form of violence covered under its protection objectives.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly includes economic neglect as a form of violence addressed by the regulation, which aligns with economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss violence against women and children generally, but do not explicitly address femicide/feminicide (gender-related killing of women) as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly includes human trafficking within the objectives of preventing violence against women and children.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy states an objective to eliminate all forms of violence and exploitation against women and children, which encompasses sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages reference technology, online abuse, digital harassment, or other technology-facilitated forms of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "ELUCIDATION\nOF\nREGIONAL REGULATION OF PAKPAK BHARAT REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM VICTIMS OF VIOLENCE\n\nI. GENERAL\n\nThe national objectives of the Unitary State of the Republic of Indonesia, as stipulated in the Preamble of the 1945 Constitution in the fourth paragraph are stated to include: (1) protecting the entire Indonesian nation and all of Indonesia's homeland, (2) advancing public welfare, (3) developing the intellectual life of the nation and (4) participating in implementing world order based on (a) independence, (b) lasting peace, and (c) social justice.\n\nThe Republic of Indonesia is a State of Law (rechtstaat) and not a state of power (machstaat), so that all actions of its citizens, including those in the form of violence, committed by both men and women, are also regulated by law.\n\nThe rights of women and children are recognized as Human Rights (HAM), which must be upheld and respected by all parties, however in reality there are still many women and children who become victims of violence. The commitment of the Central Government to protect children and women is reflected in the legislation beneath it.\n\nVarious acts of violence both against women and children within the household and outside the household continue to increase from time to time. This condition, if without serious handling will destroy the life of households, society, nation and state. Therefore, the government of Pakpak Bharat Regency is obligated to provide protection to women and children from acts of violence which is an implementation of various laws and regulations, including Law Number 39 of 1999 concerning Human Rights, Law Number 23 of 2002 concerning Child Protection, Law Number 23 of 2004 concerning the Elimination of Domestic Violence, Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Human Trafficking.\n\nProtection of women and children from acts of violence is the obligation of Regional Government as regulated in Law Number 23 of 2014 concerning Regional Government which states that: \"in carrying out regional autonomy has the obligation to protect the community, maintain unity, oneness and national harmony as well as the integrity of the Unitary State of the Republic of Indonesia.\"\n\nBased on that, the Government of Pakpak Bharat Regency has taken steps as an effort to provide protection to women and children from acts of violence, however it has not been able to provide maximum and adequate protection against acts of violence that occur in the social life of the community especially to women and children jdih.pakpakbharatkab.go.id - 13 - due to the still low understanding of the community regarding the rights of women and children, handling has not been well coordinated, its implementation has not been sustainable and so forth. Therefore, a regulation in the form of a Regional Regulation concerning the protection of women and children from acts of violence is needed to answer while providing legal certainty in the protection of women and children from acts of violence that occur.\n\nWith the enactment of this Regional Regulation concerning the Protection of Women and Children from Acts of Violence, in Pakpak Bharat Regency in particular, then handling, rehabilitation and reintegration can be carried out properly and more smoothly in the process of prevention and handling of violence against women and children which in its implementation the Regional Government cooperates with government agencies, other regional governments, the community and also the participation of the business world in preventing violence against women and children from the beloved Pakpak Bharat Regency.",
+      "rationale": "The policy indicates cooperation with other regional governments (i.e., across jurisdictions) in implementing prevention and handling of violence against women and children, which constitutes an institutional network beyond a single jurisdiction.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy explicitly mentions building networks and cooperation with various non-governmental organizations that work and/or care about women and children, indicating a collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy includes an effort to build and provide a complete and easily accessible information system as part of prevention, which implies establishment of an information system relevant to violence against women and children.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles of gender equality and justice, none of the provided passages explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group/mechanism to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 13\nSPM as referred to in Article 12 has performance indicators including:\na. coverage of women and children victims of violence who receive complaint handling, health services, social rehabilitation services, spiritual guidance services conducted by trained officers within integrated service units;\nb. coverage of law enforcement from the investigation level up to court decisions on cases of violence against women and children;\nc. coverage of women and children victims of violence who receive legal aid services;\nd. coverage of repatriation services for women and children victims of violence; and\ne. coverage of social reintegration services for women and children victims of violence.",
+      "rationale": "The policy refers to services being conducted by trained officers within integrated service units, indicating attention to training/capacity of service workers (and potentially relevant officials) involved in service delivery.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nMONITORING AND EVALUATION\nArticle 14\n(1) To ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women and children victims of violence, the Regional Government shall conduct monitoring.\n(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the protection of women and children victims of violence in the region.\n(3) Monitoring shall be conducted periodically through coordination and direct monitoring of regional apparatus units that implement policies, programs, and activities for the protection of women and children victims of violence.\n(4) Monitoring shall be conducted from the planning stage through to the implementation of policies, programs, and activities for the protection of women and children victims of violence for the current year.",
+      "rationale": "The policy explicitly establishes monitoring of implementation of policies, programs, and activities for protection of women and children victims of violence, including periodic coordination and direct monitoring, which addresses monitoring and evaluation of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nArticle 11\n(1) In the case of providing protection to women and children victims of violence, the regional government may establish an Integrated Service Center (PPT).\njdih.pakpakbharatkab.go.id - 8 - (2) The establishment and development of PPT shall be adjusted to the development of priority needs, regional financial capacity, and institutional capacity of existing personnel in the region.\n(3) PPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, Safe Houses, Child Social Protection Houses, Trauma Center Houses, Women's Social Protection Houses, Shelters and other service activities in accordance with applicable laws and regulations.\n(4) Forms of services implemented by PPT include:\na. complaints;\nb. health rehabilitation;\nc. social rehabilitation;\nd. legal assistance;\ne. repatriation;\nf. social reintegration.\n(5) In providing protection to women and children victims of violence, PPT is obligated to:\na. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. network with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. provide convenience, comfort, and safety for victims; f. maintain confidentiality of victims;\ng. provide fulfillment of legal assistance for victims;\nh. in the case that integrated service provision is carried out through networking, PPT remains responsible for the entire referral process of services needed by victims.\n(6) The provision of integrated services as referred to in paragraph (3) shall be implemented in accordance with SPM.",
+      "rationale": "The policy states that the regional government may establish an Integrated Service Center (PPT) to provide protection and integrated services for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss integrated service centers (PPT/P2TP2A), minimum service standards, and law enforcement coverage, but do not mention a specialised service unit located in police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy includes the opening of complaint posts for protection of women and children from acts of violence, indicating a mechanism to receive reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nArticle 11\n(1) In the case of providing protection to women and children victims of violence, the regional government may establish an Integrated Service Center (PPT).\njdih.pakpakbharatkab.go.id - 8 - (2) The establishment and development of PPT shall be adjusted to the development of priority needs, regional financial capacity, and institutional capacity of existing personnel in the region.\n(3) PPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, Safe Houses, Child Social Protection Houses, Trauma Center Houses, Women's Social Protection Houses, Shelters and other service activities in accordance with applicable laws and regulations.\n(4) Forms of services implemented by PPT include:\na. complaints;\nb. health rehabilitation;\nc. social rehabilitation;\nd. legal assistance;\ne. repatriation;\nf. social reintegration.\n(5) In providing protection to women and children victims of violence, PPT is obligated to:\na. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. network with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. provide convenience, comfort, and safety for victims; f. maintain confidentiality of victims;\ng. provide fulfillment of legal assistance for victims;\nh. in the case that integrated service provision is carried out through networking, PPT remains responsible for the entire referral process of services needed by victims.\n(6) The provision of integrated services as referred to in paragraph (3) shall be implemented in accordance with SPM.",
+      "rationale": "The policy provides that the PPT may accommodate service units such as Safe Houses and Shelters, indicating provision of safety/protection shelter services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nArticle 11\n(1) In the case of providing protection to women and children victims of violence, the regional government may establish an Integrated Service Center (PPT).\njdih.pakpakbharatkab.go.id - 8 - (2) The establishment and development of PPT shall be adjusted to the development of priority needs, regional financial capacity, and institutional capacity of existing personnel in the region.\n(3) PPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, Safe Houses, Child Social Protection Houses, Trauma Center Houses, Women's Social Protection Houses, Shelters and other service activities in accordance with applicable laws and regulations.\n(4) Forms of services implemented by PPT include:\na. complaints;\nb. health rehabilitation;\nc. social rehabilitation;\nd. legal assistance;\ne. repatriation;\nf. social reintegration.\n(5) In providing protection to women and children victims of violence, PPT is obligated to:\na. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. network with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. provide convenience, comfort, and safety for victims; f. maintain confidentiality of victims;\ng. provide fulfillment of legal assistance for victims;\nh. in the case that integrated service provision is carried out through networking, PPT remains responsible for the entire referral process of services needed by victims.\n(6) The provision of integrated services as referred to in paragraph (3) shall be implemented in accordance with SPM.",
+      "rationale": "The policy lists legal assistance as a form of service implemented by the PPT and includes obligations to fulfill legal assistance for victims.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nMINIMUM SERVICE STANDARDS\nArticle 12\nMSS in the field of integrated services for women and children victims of violence, includes services for:\na. handling complaints/reports of victims of violence against women and children;\nb. health services for women and children victims of violence;\nc. social rehabilitation for women and children victims of violence;\nd. law enforcement and legal assistance for women and children victims of violence;\ne. repatriation and social reintegration for women and children victims of violence.\njdih.pakpakbharatkab.go.id - 9 -",
+      "rationale": "The minimum service standards for integrated services explicitly include health services for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nArticle 11\n(1) In the case of providing protection to women and children victims of violence, the regional government may establish an Integrated Service Center (PPT).\njdih.pakpakbharatkab.go.id - 8 - (2) The establishment and development of PPT shall be adjusted to the development of priority needs, regional financial capacity, and institutional capacity of existing personnel in the region.\n(3) PPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, Safe Houses, Child Social Protection Houses, Trauma Center Houses, Women's Social Protection Houses, Shelters and other service activities in accordance with applicable laws and regulations.\n(4) Forms of services implemented by PPT include:\na. complaints;\nb. health rehabilitation;\nc. social rehabilitation;\nd. legal assistance;\ne. repatriation;\nf. social reintegration.\n(5) In providing protection to women and children victims of violence, PPT is obligated to:\na. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. network with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. provide convenience, comfort, and safety for victims; f. maintain confidentiality of victims;\ng. provide fulfillment of legal assistance for victims;\nh. in the case that integrated service provision is carried out through networking, PPT remains responsible for the entire referral process of services needed by victims.\n(6) The provision of integrated services as referred to in paragraph (3) shall be implemented in accordance with SPM.",
+      "rationale": "The PPT’s service forms include social rehabilitation, which constitutes psychosocial support/counselling-type services for victims within the integrated service framework.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRIGHTS OF VICTIMS\nArticle 4\nEvery woman and child victim of violence has the right to obtain:\na. respect for dignity and worth as a human being;\nb. protection from family, community, Regional Government and/or other parties either temporarily or based on the determination of a protection order from the court;\nc. health services according to medical needs;\nd. special handling related to the confidentiality of victims;\ne. assistance by social workers and legal aid at every level of the examination process in accordance with the provisions of laws and regulations;\nf. spiritual guidance services;\ng. to determine their own decisions.\njdih.pakpakbharatkab.go.id - 6 -",
+      "rationale": "The policy states that victims have the right to obtain spiritual guidance services, indicating provision of religious/spiritual counselling.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nINSTITUTIONAL ARRANGEMENTS\nArticle 11\n(1) In the case of providing protection to women and children victims of violence, the regional government may establish an Integrated Service Center (PPT).\njdih.pakpakbharatkab.go.id - 8 - (2) The establishment and development of PPT shall be adjusted to the development of priority needs, regional financial capacity, and institutional capacity of existing personnel in the region.\n(3) PPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, Safe Houses, Child Social Protection Houses, Trauma Center Houses, Women's Social Protection Houses, Shelters and other service activities in accordance with applicable laws and regulations.\n(4) Forms of services implemented by PPT include:\na. complaints;\nb. health rehabilitation;\nc. social rehabilitation;\nd. legal assistance;\ne. repatriation;\nf. social reintegration.\n(5) In providing protection to women and children victims of violence, PPT is obligated to:\na. provide services as quickly as possible and free of charge to victims; b. organize protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperate with certain institutions in providing translators and volunteer assistants needed for victims; d. network with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. provide convenience, comfort, and safety for victims; f. maintain confidentiality of victims;\ng. provide fulfillment of legal assistance for victims;\nh. in the case that integrated service provision is carried out through networking, PPT remains responsible for the entire referral process of services needed by victims.\n(6) The provision of integrated services as referred to in paragraph (3) shall be implemented in accordance with SPM.",
+      "rationale": "The PPT’s service forms include social rehabilitation and social reintegration, directly addressing resocialisation (rehabilitation/reintegration) services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While prevention efforts mention access to training, funding, and income enhancement, the passages do not establish a service unit that provides economic empowerment/support specifically as a victim service unit.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy includes primary prevention measures that involve providing information, guidance, and/or counseling to families, parents, and the community to prevent violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nCOMMUNITY PARTICIPATION\nArticle 19\nIn providing protection to women and children victims of violence, the community may:\na. establish family partners at the village level by the community; b. conduct socialization of women's and children's rights independently; c. provide first aid to victims;\nd. participate with the authorized agencies if violence against victims occurs in their environment.\ne. community participation is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\njdih.pakpakbharatkab.go.id - 11 -",
+      "rationale": "The policy explicitly mentions community-led socialization of women's and children's rights, which constitutes information/education about women’s rights as a form of primary prevention.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference laws in the general elucidation and mention providing information and legal assistance, none explicitly describe information/education activities specifically about VAW laws and policies as a prevention measure.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy explicitly includes improving the quantity and quality of education (formal, non-formal, and informal) as part of efforts to prevent violence against women and children.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy explicitly mentions building networks and cooperation with various non-governmental organizations for prevention and protection efforts.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nCOMMUNITY PARTICIPATION\nArticle 19\nIn providing protection to women and children victims of violence, the community may:\na. establish family partners at the village level by the community; b. conduct socialization of women's and children's rights independently; c. provide first aid to victims;\nd. participate with the authorized agencies if violence against victims occurs in their environment.\ne. community participation is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\njdih.pakpakbharatkab.go.id - 11 -",
+      "rationale": "The policy explicitly includes religious institutions as part of community participation in providing protection to women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention engagement or collaboration with traditional/cultural organizations or leaders; references to 'local wisdom' are definitional and do not establish stakeholder collaboration.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 9\n(1) To prevent the occurrence of acts of violence against women and children, the regional government shall conduct empowerment and awareness-raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and non-formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern towards prevention and protection of women and children from acts of violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence.",
+      "rationale": "The policy explicitly calls for building networks and cooperation with universities as part of prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss cooperation with NGOs, universities, and various institutions, but do not explicitly reference international organizations or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nCOMMUNITY PARTICIPATION\nArticle 19\nIn providing protection to women and children victims of violence, the community may:\na. establish family partners at the village level by the community; b. conduct socialization of women's and children's rights independently; c. provide first aid to victims;\nd. participate with the authorized agencies if violence against victims occurs in their environment.\ne. community participation is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\njdih.pakpakbharatkab.go.id - 11 -",
+      "rationale": "The policy explicitly includes mass media as one of the actors through which community participation is carried out in providing protection to victims.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nCOMMUNITY PARTICIPATION\nArticle 19\nIn providing protection to women and children victims of violence, the community may:\na. establish family partners at the village level by the community; b. conduct socialization of women's and children's rights independently; c. provide first aid to victims;\nd. participate with the authorized agencies if violence against victims occurs in their environment.\ne. community participation is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\njdih.pakpakbharatkab.go.id - 11 -",
+      "rationale": "The policy explicitly provides for community participation in protection efforts and lists multiple ways the community may engage in providing protection to victims.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nCOMMUNITY PARTICIPATION\nArticle 19\nIn providing protection to women and children victims of violence, the community may:\na. establish family partners at the village level by the community; b. conduct socialization of women's and children's rights independently; c. provide first aid to victims;\nd. participate with the authorized agencies if violence against victims occurs in their environment.\ne. community participation is carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\njdih.pakpakbharatkab.go.id - 11 -",
+      "rationale": "The policy explicitly includes the private sector as part of the actors through which community participation is carried out in providing protection to victims.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages describe general principles, victims’ rights, institutional service centers, and government obligations for women and children victims of violence, but none mention conflict zones, disaster-prone areas, or special measures tailored to women in those contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The objectives of providing protection for women and children victims of violence are to:\na. prevent acts of violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household.\n(2) Violence as referred to in paragraph (1) may take the form of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. economic neglect;\ne. restriction of movement.",
+      "rationale": "The policy explicitly includes human trafficking within the objectives of protection for women and children, indicating targeted attention to trafficking as a form of violence/exploitation covered by the protection framework.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions opening employment opportunities for women as a prevention effort, it does not provide protection measures specifically targeted at women workers/employees as a group (e.g., workplace protections or worker-specific victim protections).",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages specifically mention elderly women or provide tailored protection measures for older women; the provisions apply generally to women and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general non-discrimination principles and general victim services, but do not specifically mention persons with disabilities or provide disability-specific protection measures or accommodations.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss protection for women and children victims of violence and shared responsibilities among government/community/family/parents, but do not identify women heads of household as a specific target group or provide special measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although non-discrimination is stated generally (including by race, ethnicity, tribe, religion), there are no specific protection measures targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on women and children as victims of violence and their rights (including legal aid), but do not specifically address women in conflict with the law as witnesses or perpetrators, nor provide protections tailored to those roles.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage explicitly mentions Indigenous peoples/groups (masyarakat adat) or provides special protection measures targeted to them; only general non-discrimination and general services are described.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention refugees, internally displaced persons, or forced displacement contexts, nor any special protection measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Domestic workers are referenced only in explanatory examples of economic neglect/restriction of movement, but there are no explicit special protection measures targeted at domestic workers as a group.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide general victim protection services (including safe houses) but do not specifically address homelessness or women experiencing homelessness as a target group for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention former inmates or formerly incarcerated women, nor do they provide reintegration/protection measures specifically tailored to that population.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFUNDING\nArticle 17\nFunding for the implementation of protection for women and children from acts of violence, is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. Other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that funding is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly identify the national/central government budget as a funding source; the funding clause lists the regional budget and other legal/non-binding sources only.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not explicitly mention international donors, UN agencies, foreign governments, or other international funding sources; the funding clause refers only to the regional budget and unspecified other legal/non-binding sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFUNDING\nArticle 17\nFunding for the implementation of protection for women and children from acts of violence, is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. Other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The funding provision explicitly includes 'other legal and non-binding sources' as a funding source, which matches the criterion of other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage explicitly mentions a provincial government budget as a funding source; the only specified budget source is the Regional Revenue and Expenditure Budget.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

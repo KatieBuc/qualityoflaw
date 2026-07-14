@@ -1,0 +1,469 @@
+{
+  "policy_file": "KALIMANTAN_BARAT_SINTANG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:53:20.842853+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The purpose of Protection of Women and Children Victims of Violence is to provide protection and services for the best interests of women and children victims of violence that occurs in the domestic and/or public sphere.\n(2) Forms of violence against women and children as referred to in paragraph (1) include among others:\na. physical violence;\nb. sexual violence; and/or\nc. psychological violence.",
+      "rationale": "The policy explicitly covers violence occurring in the domestic sphere, indicating inclusion of domestic violence within its scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The purpose of Protection of Women and Children Victims of Violence is to provide protection and services for the best interests of women and children victims of violence that occurs in the domestic and/or public sphere.\n(2) Forms of violence against women and children as referred to in paragraph (1) include among others:\na. physical violence;\nb. sexual violence; and/or\nc. psychological violence.",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence against women and children.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The purpose of Protection of Women and Children Victims of Violence is to provide protection and services for the best interests of women and children victims of violence that occurs in the domestic and/or public sphere.\n(2) Forms of violence against women and children as referred to in paragraph (1) include among others:\na. physical violence;\nb. sexual violence; and/or\nc. psychological violence.",
+      "rationale": "The policy explicitly lists physical violence as a form of violence against women and children.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 3\n(1) The purpose of Protection of Women and Children Victims of Violence is to provide protection and services for the best interests of women and children victims of violence that occurs in the domestic and/or public sphere.\n(2) Forms of violence against women and children as referred to in paragraph (1) include among others:\na. physical violence;\nb. sexual violence; and/or\nc. psychological violence.",
+      "rationale": "The policy explicitly lists psychological violence as a form of violence against women and children.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "ELUCIDATION\nOF\nREGIONAL REGULATION OF SINTANG REGENCY\nNUMBER 8 OF 2015\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nVICTIMS OF VIOLENCE\n\nI. GENERAL\nThe State has an obligation to provide a sense of security to its citizens from threats and actions that can disturb or damage psychological, physical, sexual or economic security, this philosophy is stated in the Preamble of the 1945 Constitution that the purpose of establishing the Unitary State of the Republic of Indonesia, first and foremost is to protect the entire nation and all Indonesian territory.\n\nFurthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as mothers of the nation and children as assets and successors of the nation are creatures created by God Almighty and therefore must be protected and their honor, dignity and self-respect must be safeguarded appropriately and proportionally, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.\n\nFrom the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because such acts constitute crimes against human existence.",
+      "rationale": "The policy explicitly references protection from threats/actions that damage economic security, indicating economic violence is within the policy’s concern.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss forms of violence generally (physical/sexual/psychological) but do not explicitly address femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention human trafficking or trafficking-related provisions.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Sintang Regency.\n2. Regional Government is the Regent and Regional Apparatus as elements of the regional government administration.\n3. Regent is the Regent of Sintang.\n4. Woman is a person of female gender.\n5. Child is a person who has not reached the age of 18 (eighteen) years, including those in the womb (who are not married).\n6. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against children is any action that results in suffering of children physically, sexually, economically, socially and psychologically.\n9. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n10. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n11. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n12. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n13. Protection...\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will occur, is occurring or has occurred.\n16. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n17. Judicial body is the general court that has the authority to receive, examine, and adjudicate, as well as resolve every case submitted to it, to realize law enforcement and justice.\n18. Prosecution is the action of the public prosecutor to transfer a case to the competent district court in the manner and according to the procedures regulated in the law with a request that it be examined and decided by a judge in a court hearing.\n19. Lawsuit is a notification accompanied by a request by an interested party to a judge to take action according to law against a person who has harmed them in a civil manner.\n20. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an institution providing services to victims of violence based at the Regional General Hospital managed jointly in the form of medical services (including medicolegal), psychosocial and legal services.\n21. Safe House is a shelter for victims during the accompaniment process, for the safety and comfort of victims from threats and dangers of perpetrators.\n22. Standard Operating Procedure, hereinafter abbreviated as SOP, is a standard operational procedure that serves as a reference for service actions established by Regent Regulation.\n23. Community is individuals, families, groups, social organizations and/or community organizations.\n24. Family...\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, and mother and children.\n25. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (housemaids, drivers and so on) who live and eat from one kitchen and reside in one house.\n26. Regional Revenue and Expenditure Budget, hereinafter abbreviated as APBD, is the Regional Revenue and Expenditure Budget of Sintang Regency.\n27. Prosecutor's Office is the Prosecutor's Office of the Republic of Indonesia, which is a government institution that exercises state power in the field of prosecution and other authorities based on law.\n28. Police is all matters related to the functions and institutions of the police in accordance with statutory regulations.\n29. Advocate is a person who carries out activities related to facilitating and fighting for the rights and obligations of clients/persons based on applicable regulations.\n30. Social Worker is a profession whose main field is engaged in organized social service activities, where these activities aim to provide facilities and strengthen relations, especially in mutually beneficial and reciprocal adjustment between individuals and their social environment through the use of social work methods.\n31. Psychiatrist is a specialist medical professional who has specialization in the diagnosis and treatment of emotional disorders.\n32. Visum et Repertum is a statement given by a Doctor regarding matters required to clarify a criminal and civil case for the purposes of examination.\n33. Visum et Repertum Psikiatrikum is a statement given by a Doctor specializing in Psychiatry regarding the mental health condition of a person required to clarify a criminal and civil case for the purposes of examination.",
+      "rationale": "The policy’s definition of sexual violence includes forced sexual intercourse with others for commercial purposes and/or certain purposes, which constitutes sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention technology, online abuse, digital harassment, or other technology-facilitated forms of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages describe roles of regional government, investigators, police/prosecutors/courts, and community obligations, but do not indicate any coordination or cooperation mechanism with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention assistance by police, prosecution, advocates, and social workers, SOPs, and community involvement, but do not explicitly establish a collaboration/cooperation mechanism (e.g., forum/working group/MoU) with non-government service providers/NGOs.",
+      "evidence_verified": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The policy assigns the regional government responsibility for collecting data and information about women and children victims of violence, which constitutes an explicit data collection function (even if not a detailed information system).",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference gender justice/equality as principles and discuss gender-based violence, they do not mention institutionalizing gender mainstreaming or creating a specific gender mainstreaming working group to deliver VAW policies/programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages cover education/socialization to the public, service roles, and sanctions, but do not specify training or capacity-building programs for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The regional government is explicitly tasked with monitoring and evaluation of protection for women and children victims of violence, directly addressing monitoring and evaluation of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Sintang Regency.\n2. Regional Government is the Regent and Regional Apparatus as elements of the regional government administration.\n3. Regent is the Regent of Sintang.\n4. Woman is a person of female gender.\n5. Child is a person who has not reached the age of 18 (eighteen) years, including those in the womb (who are not married).\n6. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against children is any action that results in suffering of children physically, sexually, economically, socially and psychologically.\n9. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n10. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n11. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n12. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n13. Protection...\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will occur, is occurring or has occurred.\n16. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n17. Judicial body is the general court that has the authority to receive, examine, and adjudicate, as well as resolve every case submitted to it, to realize law enforcement and justice.\n18. Prosecution is the action of the public prosecutor to transfer a case to the competent district court in the manner and according to the procedures regulated in the law with a request that it be examined and decided by a judge in a court hearing.\n19. Lawsuit is a notification accompanied by a request by an interested party to a judge to take action according to law against a person who has harmed them in a civil manner.\n20. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an institution providing services to victims of violence based at the Regional General Hospital managed jointly in the form of medical services (including medicolegal), psychosocial and legal services.\n21. Safe House is a shelter for victims during the accompaniment process, for the safety and comfort of victims from threats and dangers of perpetrators.\n22. Standard Operating Procedure, hereinafter abbreviated as SOP, is a standard operational procedure that serves as a reference for service actions established by Regent Regulation.\n23. Community is individuals, families, groups, social organizations and/or community organizations.\n24. Family...\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, and mother and children.\n25. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (housemaids, drivers and so on) who live and eat from one kitchen and reside in one house.\n26. Regional Revenue and Expenditure Budget, hereinafter abbreviated as APBD, is the Regional Revenue and Expenditure Budget of Sintang Regency.\n27. Prosecutor's Office is the Prosecutor's Office of the Republic of Indonesia, which is a government institution that exercises state power in the field of prosecution and other authorities based on law.\n28. Police is all matters related to the functions and institutions of the police in accordance with statutory regulations.\n29. Advocate is a person who carries out activities related to facilitating and fighting for the rights and obligations of clients/persons based on applicable regulations.\n30. Social Worker is a profession whose main field is engaged in organized social service activities, where these activities aim to provide facilities and strengthen relations, especially in mutually beneficial and reciprocal adjustment between individuals and their social environment through the use of social work methods.\n31. Psychiatrist is a specialist medical professional who has specialization in the diagnosis and treatment of emotional disorders.\n32. Visum et Repertum is a statement given by a Doctor regarding matters required to clarify a criminal and civil case for the purposes of examination.\n33. Visum et Repertum Psikiatrikum is a statement given by a Doctor specializing in Psychiatry regarding the mental health condition of a person required to clarify a criminal and civil case for the purposes of examination.",
+      "rationale": "The policy defines an Integrated Service Center for Women and Children Empowerment (P2TP2A) as an institution providing services to victims of violence, indicating an integrated service unit exists.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the police are mentioned as providing assistance, none of the passages specify a specialised police service unit within police offices for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nINVESTIGATION\nArticle 18\n(1) Certain Civil Servant Officials within the Regional Government are given special authority as investigators to conduct investigations of criminal acts in the field of protection of women and children as referred to in the Criminal Procedure Law.\n(2) Investigators as referred to in paragraph (1) are certain Civil Servant Officials within the Regional Government who are appointed by authorized Officials in accordance with the provisions of laws and regulations.\n(3) The authority of Civil Servant Investigators as referred to in paragraph (1) and paragraph (2) is:\na. to receive reports or complaints from a person regarding the existence of a criminal act;\nb. to take first action and examination at the scene;\nc. to order a person to stop and examine the identity of the suspect;\nd. to conduct seizure of objects and documents;\ne. to take fingerprints and photograph a person;\nf. to summon...\nf. to summon persons to be heard and examined as suspects or witnesses;\ng. to bring in experts needed in connection with the examination of the case;\nh. to conduct termination of investigation after receiving instructions from the investigator of the Police of the Republic of Indonesia that there is insufficient evidence or the incident does not constitute a criminal act and subsequently through the investigator notify such matter to the Public Prosecutor, the suspect or their family.",
+      "rationale": "The passages explicitly state that investigators have authority to receive reports or complaints regarding criminal acts, indicating a unit/function that receives complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Sintang Regency.\n2. Regional Government is the Regent and Regional Apparatus as elements of the regional government administration.\n3. Regent is the Regent of Sintang.\n4. Woman is a person of female gender.\n5. Child is a person who has not reached the age of 18 (eighteen) years, including those in the womb (who are not married).\n6. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against children is any action that results in suffering of children physically, sexually, economically, socially and psychologically.\n9. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n10. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n11. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n12. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n13. Protection...\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will occur, is occurring or has occurred.\n16. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n17. Judicial body is the general court that has the authority to receive, examine, and adjudicate, as well as resolve every case submitted to it, to realize law enforcement and justice.\n18. Prosecution is the action of the public prosecutor to transfer a case to the competent district court in the manner and according to the procedures regulated in the law with a request that it be examined and decided by a judge in a court hearing.\n19. Lawsuit is a notification accompanied by a request by an interested party to a judge to take action according to law against a person who has harmed them in a civil manner.\n20. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an institution providing services to victims of violence based at the Regional General Hospital managed jointly in the form of medical services (including medicolegal), psychosocial and legal services.\n21. Safe House is a shelter for victims during the accompaniment process, for the safety and comfort of victims from threats and dangers of perpetrators.\n22. Standard Operating Procedure, hereinafter abbreviated as SOP, is a standard operational procedure that serves as a reference for service actions established by Regent Regulation.\n23. Community is individuals, families, groups, social organizations and/or community organizations.\n24. Family...\n24. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, and mother and children.\n25. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (housemaids, drivers and so on) who live and eat from one kitchen and reside in one house.\n26. Regional Revenue and Expenditure Budget, hereinafter abbreviated as APBD, is the Regional Revenue and Expenditure Budget of Sintang Regency.\n27. Prosecutor's Office is the Prosecutor's Office of the Republic of Indonesia, which is a government institution that exercises state power in the field of prosecution and other authorities based on law.\n28. Police is all matters related to the functions and institutions of the police in accordance with statutory regulations.\n29. Advocate is a person who carries out activities related to facilitating and fighting for the rights and obligations of clients/persons based on applicable regulations.\n30. Social Worker is a profession whose main field is engaged in organized social service activities, where these activities aim to provide facilities and strengthen relations, especially in mutually beneficial and reciprocal adjustment between individuals and their social environment through the use of social work methods.\n31. Psychiatrist is a specialist medical professional who has specialization in the diagnosis and treatment of emotional disorders.\n32. Visum et Repertum is a statement given by a Doctor regarding matters required to clarify a criminal and civil case for the purposes of examination.\n33. Visum et Repertum Psikiatrikum is a statement given by a Doctor specializing in Psychiatry regarding the mental health condition of a person required to clarify a criminal and civil case for the purposes of examination.",
+      "rationale": "The policy defines a Safe House as a shelter for victims during the accompaniment process for safety and comfort, indicating provision of protective shelter as part of services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 12\nForms of services for victims include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. medicolegal services, which are a form of medical services for evidentiary purposes in the legal field;\nc. services...\nc. psychosocial services, which are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\nd. Legal services, which are services to assist victims in undergoing the judicial process;\ne. Economic independence services, in the form of services for skills training and providing economic access so that victims can be independent;\nf. Information Services (Informed Consent), related to services and assistance.",
+      "rationale": "The policy lists legal services as a form of service for victims, specifically to assist victims in undergoing the judicial process.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 12\nForms of services for victims include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. medicolegal services, which are a form of medical services for evidentiary purposes in the legal field;\nc. services...\nc. psychosocial services, which are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\nd. Legal services, which are services to assist victims in undergoing the judicial process;\ne. Economic independence services, in the form of services for skills training and providing economic access so that victims can be independent;\nf. Information Services (Informed Consent), related to services and assistance.",
+      "rationale": "The policy explicitly includes medical services as a form of service for victims, describing treatment and recovery of physical injuries by medical personnel.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 12\nForms of services for victims include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. medicolegal services, which are a form of medical services for evidentiary purposes in the legal field;\nc. services...\nc. psychosocial services, which are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\nd. Legal services, which are services to assist victims in undergoing the judicial process;\ne. Economic independence services, in the form of services for skills training and providing economic access so that victims can be independent;\nf. Information Services (Informed Consent), related to services and assistance.",
+      "rationale": "The policy explicitly includes psychosocial services aimed at restoring victims’ traumatic condition, which constitutes psychosocial counseling/support services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention religious or spiritual counseling services or a unit providing such support.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nASSISTANCE\nArticle 14\n(1) Assistance to victims is carried out by, among others:\na. Police;\nb. Prosecution Service;\nc. Advocates; and\nd. Social Workers.\n(2) Assistance by the Police, Prosecution Service, and Advocates as referred to in paragraph (1) letter a, letter b, and letter c, shall be in accordance with the provisions of applicable laws and regulations.\n(3) The duties of social workers as referred to in paragraph (1) letter d as assistants are as follows:\na. providing sufficient information to victims about their rights;\nb. providing psychosocial services to victims so that victims feel safe and comfortable;\nc. assisting victims during the examination and medical recovery process;\nd. assisting victims during the medicolegal process;\ne. assisting victims during the examination process at the Police, Prosecution Service, and Court;\nf. monitoring...\nf. monitoring the interests and rights of victims in the examination process at the Police, Prosecution Service, and Court;\ng. maintaining the privacy and confidentiality of victims from all parties who have no interest, including reporting by mass media;\nh. coordinating with other assistants;\ni. providing continuous handling up to the rehabilitation stage.",
+      "rationale": "The policy assigns social workers duties including providing continuous handling up to the rehabilitation stage, indicating rehabilitation/reintegration (resocialisation) support.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 12\nForms of services for victims include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. medicolegal services, which are a form of medical services for evidentiary purposes in the legal field;\nc. services...\nc. psychosocial services, which are services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\nd. Legal services, which are services to assist victims in undergoing the judicial process;\ne. Economic independence services, in the form of services for skills training and providing economic access so that victims can be independent;\nf. Information Services (Informed Consent), related to services and assistance.",
+      "rationale": "The policy explicitly includes economic independence services, described as skills training and providing economic access so victims can be independent.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The policy assigns the regional government responsibility to prevent violence by implementing education on anti-violence values and socialization, which constitutes primary prevention through information/education about violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a Respect for the rights of victims is intended to guarantee the fulfillment of the rights of victims as referred to in Article 5.\nLetter b...Number alS Letter b Gender justice is a condition where every person, both men and women, are treated equally and obtain equal opportunities to gain access, as well as welfare.\nGender equality is the equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.\nLetter c Non-Discrimination is an attitude and treatment toward victims by not making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter d The best interests of victims are all best actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.",
+      "rationale": "The policy explicitly defines and discusses gender justice and gender equality (equal treatment, opportunities, rights, benefits, and decision-making), indicating an informational/educational framing about gender equality and related rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The policy includes prevention efforts requiring the regional government to conduct socialization of laws and regulations related to protection of women and children victims of violence, which is information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The policy explicitly includes prevention efforts through implementing education on anti-violence values toward women and children, which is a form of prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe service providers (police, prosecution, advocates, social workers), funding, and general community obligations/definitions, but none explicitly mention engagement or collaboration with civil society organisations/NGOs.",
+      "evidence_verified": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages reference religious organisations or religious leaders, nor any collaboration mechanism involving them.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to general community involvement and service actors, but do not mention traditional/cultural organisations or leaders or collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions education on anti-violence values as a government obligation, the passages do not specify engagement/collaboration with educational institutions (schools/universities) as stakeholders.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRIGHTS AND OBLIGATIONS OF VICTIMS\nArticle 5\nEvery victim has the right to:\na. obtain protection from the community and government as well as non-governmental institutions at the local, national and international levels;\nb. obtain information about the location of complaint centers.\nc. obtain integrated services in accordance with service principles;\nd. file claims and/or legal suits through judicial bodies and/or courts outside the judiciary;\ne. obtain information about laws and regulations that protect victims;\nf. obtain confidential handling;\ng. obtain...\ng. obtain information and be involved in every decision-making process related to assistance and developments in case handling;\nh. obtain guarantees of their rights related to their status as a wife, mother or child, family member, household member, and community member.\ni. obtain assistance at every level of examination and throughout the judicial process.\nj. obtain continuous handling up to the rehabilitation stage.\nk. obtain protection from the disclosure of identity through mass media.",
+      "rationale": "The policy explicitly recognizes victims’ right to protection from non-governmental institutions at the international level, indicating inclusion of international-level non-governmental actors in protection.",
+      "evidence_verified": true
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Media is only referenced in relation to protecting victim privacy/confidentiality in reporting, not as a stakeholder to engage or collaborate with for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nFirst Part\nObligations and Responsibilities of Regional Government Article 7 (1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. collecting data and information about women and children who are victims of violence as well as laws and regulations related to women and children who are victims of violence;\nb. implementing education on anti-violence values towards women and children;\nc. implementing socialization of laws and regulations related to the protection of women and children victims of violence;\nd. implementing monitoring and evaluation of the protection of women and children victims of violence.\n(2) Regional Government...\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and ensuring the operation of integrated service institutions for victims by involving community elements;\nb. facilitating the formation of service institutions;\nc. encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government has the obligation and responsibility to ensure the implementation of protection for victims by taking into account the rights and obligations of parents, guardians, husbands or other persons legally.\n(4) The Regional Government has the obligation and responsibility to supervise the implementation of services for victims, with service standards that involve the community.\n(5) The Regional Government has the obligation and responsibility to provide funds for the protection of women and children victims of violence through the APBD as well as other sources that are legal and non-binding.\n(6) The Regent appoints an Official to carry out the obligations and responsibilities of implementing protection for women and children victims of violence.",
+      "rationale": "The Regional Government’s obligations include establishing and ensuring operation of integrated service institutions for victims by involving community elements, which constitutes stakeholder engagement with the community.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention businesses, employers, private sector entities, or any engagement/collaboration mechanisms with them.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict zones, disaster-prone areas, emergencies, or any special measures tailored to women in such contexts; they describe general protections and services for women and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages define and address violence against women and children and general victim services, but do not explicitly mention human trafficking victims or provide trafficking-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved text focuses on protection for women and children victims of violence generally and does not specifically address women workers/employees or workplace-related protections.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage identifies elderly women as a specific target group or provides age-specific protection measures; protections are framed generally for women and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention disability or provide disability-specific accommodations or protections; they provide general victim rights and services.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of women heads of household/families or tailored measures for them; the text provides general victim protections.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While non-discrimination is referenced in general terms, none of the passages establish special protection measures specifically targeted at minority or isolated women/groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss victims’ rights and assistance during police/prosecution/court processes, but do not specifically address women 'in conflict with the law' as witnesses or perpetrators (i.e., women as offenders/accused) or provide protections tailored to that status.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions Indigenous peoples/groups (masyarakat adat) or provides any special protections targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not reference refugees, internally displaced persons, or forced displacement contexts, nor any tailored protection measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation covers violence in the domestic sphere, none of the passages specifically mention domestic workers or provide protections targeted to domestic workers as a group.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions homelessness or provides special measures for women experiencing homelessness; shelters are referenced as services for victims generally, not homelessness-specific protections.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention former inmates/correctional institutions or provide reintegration or protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 15\n(1) Funding for the implementation of protection for women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, and medication costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government which is conducted transparently and accounted for in accordance with applicable laws and regulations.\n(3) Sources of funds in the implementation of protection for women and children are sourced from the State Revenue and Expenditure Budget, the Provincial Revenue and Expenditure Budget, the Sintang Regency APBD as well as other legitimate and non-binding sources.",
+      "rationale": "The policy explicitly lists the Sintang Regency APBD (a local/regency budget) as a source of funds for implementing protection for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 15\n(1) Funding for the implementation of protection for women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, and medication costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government which is conducted transparently and accounted for in accordance with applicable laws and regulations.\n(3) Sources of funds in the implementation of protection for women and children are sourced from the State Revenue and Expenditure Budget, the Provincial Revenue and Expenditure Budget, the Sintang Regency APBD as well as other legitimate and non-binding sources.",
+      "rationale": "The policy explicitly includes the State Revenue and Expenditure Budget as a funding source, which corresponds to the national government budget.",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions victims' rights to protection at international levels, none of the provided passages explicitly identify international donors/organizations or international funding as a budget source.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 15\n(1) Funding for the implementation of protection for women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, and medication costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government which is conducted transparently and accounted for in accordance with applicable laws and regulations.\n(3) Sources of funds in the implementation of protection for women and children are sourced from the State Revenue and Expenditure Budget, the Provincial Revenue and Expenditure Budget, the Sintang Regency APBD as well as other legitimate and non-binding sources.",
+      "rationale": "The policy explicitly states that funding sources include \"other legitimate and non-binding sources,\" which constitutes other legal sources beyond government budgets.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 15\n(1) Funding for the implementation of protection for women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, and medication costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government which is conducted transparently and accounted for in accordance with applicable laws and regulations.\n(3) Sources of funds in the implementation of protection for women and children are sourced from the State Revenue and Expenditure Budget, the Provincial Revenue and Expenditure Budget, the Sintang Regency APBD as well as other legitimate and non-binding sources.",
+      "rationale": "The policy explicitly lists the Provincial Revenue and Expenditure Budget as a source of funds for implementation, indicating provincial government budget support.",
+      "evidence_verified": true
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

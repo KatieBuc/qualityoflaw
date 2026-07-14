@@ -1,0 +1,469 @@
+{
+  "policy_file": "KALIMANTAN_TIMUR_PASER.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:56:48.881526+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nPROHIBITION OF VIOLENCE AGAINST WOMEN\nArticle 24\nEvery person is prohibited from committing violence against women both within the household and/or outside the household, by means of: physical violence;\npsychological violence;\nverbal violence;\nsexual violence; or neglect.",
+      "rationale": "The policy explicitly prohibits violence against women occurring \"within the household,\" which directly covers domestic violence.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region of Paser Regency.\nRegent is the Regent of Paser Women are all women who are both inside and outside the household Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\nPhysical violence is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causing death.\nPsychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nSexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\nHousehold neglect is any person who neglects another person in their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental to victims or witnesses from threats, disturbances, terror and violence from any party given at the investigation, inquiry, determination and examination stages in court hearings.\nProtection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\nService is an action that must be immediately taken for the victim when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against the victim (woman).\nCompanion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\nIntegrated Service Center, hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.\nSafe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\nCommunity is individuals, families, groups, social organizations and/or community organizations.\nFamily is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and their children, and mother and their children.\nHousehold is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers and so on) who live and eat from one kitchen and reside in one house Gender is a characteristic inherent to men and women that is socially and culturally constructed.\nGender injustice is a system and structure in which both men and women become victims of that system.\nGender justice is a condition where fair treatment is created for men and women by considering experiences, needs, difficulties, concerns as women and also as men Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so they are able to play a role and participate in political, legal, economic, socio-cultural, educational and defense and security activities, as well as equality in enjoying the results of development.\nGender mainstreaming (PUG) is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of development policies and programs.",
+      "rationale": "The policy explicitly defines sexual violence (including sexual harassment and forced sexual intercourse), demonstrating clear inclusion of sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 25\nPhysical violence as referred to in Article 24 letter a, is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and/or causes death.",
+      "rationale": "The policy explicitly defines physical violence as acts resulting in pain, injury, disability, miscarriage, loss of consciousness, and/or death.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 26\nPsychological violence as referred to in Article 24 letter b, is an act that results in fear, loss of self-confidence, loss of ability to act, sense of helplessness and or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly defines psychological violence as acts resulting in fear, loss of self-confidence, loss of ability to act, helplessness, and/or severe psychological suffering.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 29\nNeglect as referred to in Article 21 letter e, includes: Every person is prohibited from neglecting a person within their household scope, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person.\nNeglect as referred to in paragraph (1) also applies to every person who causes economic dependency by means of limiting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+      "rationale": "The policy explicitly addresses neglect and economic control, including causing economic dependency by limiting/prohibiting proper work, which constitutes economic violence/exploitation.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention or address harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss violence against women generally (including physical violence that may cause death) but do not explicitly or implicitly address femicide/feminicide as a distinct concept or targeted form of killing women because they are women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention human trafficking or trafficking in persons as a form of violence addressed by the policy.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 28\nSexual violence as referred to in Article 24 letter d, includes: forced sexual relations committed against women residing within the scope of the household or outside the household;\nforced sexual relations against women within the scope of the household or outside the household with other persons for commercial purposes and/or specific purposes;",
+      "rationale": "The policy’s description of sexual violence includes forced sexual relations involving other persons for commercial and/or specific purposes, which constitutes sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not mention online/digital abuse, cyber harassment, non-consensual image sharing, stalking via technology, or any other technology-facilitated forms of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe coordination among local/regional government bodies and with police, prosecutors, courts, NGOs, and the community, but they do not show coordination or cooperation with governments across different jurisdictions (e.g., inter-regional or national-local coordination mechanisms).",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Pasal 18\nThe role of community participation as referred to in Article 17 paragraph (1) can be carried out by: individuals;\nfamilies;\nnon-governmental organizations;\nsocial community organizations;\nprofessional organizations;\nbusiness entities.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors in community participation for prevention and handling, indicating a cooperation/collaboration role for NGOs within implementation.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 31\nVictim identification is the data collection of women who are victims of violence. Data collection is carried out by SKPD and/or service institutions established by the regional government that are authorized to carry out that function.\nLegal assistance is legal services to help victims go through the judicial process.\nMedical rehabilitation is medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.\nPsychosocial rehabilitation is services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems. Social reintegration is an effort by the regional government through SKPD and/or service institutions together with the community to help women victims of violence in adapting and integrating in the community environment where they live.\nRepatriation assistance is an effort by the regional government through SKPD and/or service institutions to help repatriate women victims of violence to their homes or other intended destinations safely.\nEmpowerment is the regional government through SKPD and/or service institutions providing assistance to women victims of violence in the form of training and opening access to capital with the aim that women victims of violence can be independent.",
+      "rationale": "The policy explicitly establishes victim identification as data collection of women victims of violence and assigns responsibility for data collection to SKPD and/or authorized service institutions.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although gender mainstreaming (PUG) is defined, none of the passages mention institutionalizing gender mainstreaming through a specific mechanism such as a dedicated working group or institutional arrangement to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 20\nRegional governments are obligated to conduct guidance and supervision of the implementation of protection for women victims of violence.\nGuidance as referred to in paragraph (1), includes: Guidelines and fulfillment standards;\nTechnical guidance and training;\nProvision of facilities;\nMonitoring;\nEvaluation.\nGuidance as referred to in paragraph (2), is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\nSKPD as referred to in paragraph (3) is the Regional Work Unit within the Regional Government of Paser Regency that is related to the protection of women against acts of violence.",
+      "rationale": "The policy includes technical guidance and training as part of regional government guidance and supervision for implementing protection for women victims of violence, indicating capacity-building measures.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 20\nRegional governments are obligated to conduct guidance and supervision of the implementation of protection for women victims of violence.\nGuidance as referred to in paragraph (1), includes: Guidelines and fulfillment standards;\nTechnical guidance and training;\nProvision of facilities;\nMonitoring;\nEvaluation.\nGuidance as referred to in paragraph (2), is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\nSKPD as referred to in paragraph (3) is the Regional Work Unit within the Regional Government of Paser Regency that is related to the protection of women against acts of violence.",
+      "rationale": "The policy explicitly includes monitoring and evaluation within the regional government's guidance and supervision responsibilities for implementation of protection for women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region of Paser Regency.\nRegent is the Regent of Paser Women are all women who are both inside and outside the household Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\nPhysical violence is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causing death.\nPsychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nSexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\nHousehold neglect is any person who neglects another person in their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental to victims or witnesses from threats, disturbances, terror and violence from any party given at the investigation, inquiry, determination and examination stages in court hearings.\nProtection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\nService is an action that must be immediately taken for the victim when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against the victim (woman).\nCompanion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\nIntegrated Service Center, hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.\nSafe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\nCommunity is individuals, families, groups, social organizations and/or community organizations.\nFamily is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and their children, and mother and their children.\nHousehold is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers and so on) who live and eat from one kitchen and reside in one house Gender is a characteristic inherent to men and women that is socially and culturally constructed.\nGender injustice is a system and structure in which both men and women become victims of that system.\nGender justice is a condition where fair treatment is created for men and women by considering experiences, needs, difficulties, concerns as women and also as men Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so they are able to play a role and participate in political, legal, economic, socio-cultural, educational and defense and security activities, as well as equality in enjoying the results of development.\nGender mainstreaming (PUG) is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of development policies and programs.",
+      "rationale": "The passages define an \"Integrated Service Center (PPT)\" as an institution providing services to victims of violence, indicating the existence of an integrated service unit for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While police institutions are mentioned as actors in prevention, none of the passages describe a specialised service unit for VAW victims located in police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention that the community can report incidents and that failure to report may be sanctioned, but they do not establish or identify any specific service unit (e.g., hotline/complaints desk) designated to receive reports or complaints.",
+      "evidence_verified": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 10\nForms of services for women victims of violence that are provided include: medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nmedicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\npsychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nlegal services to assist victims in undergoing the judicial process;\neconomic independence services in the form of services for skills training and providing economic access so that victims can be independent.\nThe service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures which will be further regulated by Regent Regulation.",
+      "rationale": "The services listed include psychosocial services that include the provision of safe houses to protect victims, indicating availability of shelter/protection services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 31\nVictim identification is the data collection of women who are victims of violence. Data collection is carried out by SKPD and/or service institutions established by the regional government that are authorized to carry out that function.\nLegal assistance is legal services to help victims go through the judicial process.\nMedical rehabilitation is medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.\nPsychosocial rehabilitation is services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems. Social reintegration is an effort by the regional government through SKPD and/or service institutions together with the community to help women victims of violence in adapting and integrating in the community environment where they live.\nRepatriation assistance is an effort by the regional government through SKPD and/or service institutions to help repatriate women victims of violence to their homes or other intended destinations safely.\nEmpowerment is the regional government through SKPD and/or service institutions providing assistance to women victims of violence in the form of training and opening access to capital with the aim that women victims of violence can be independent.",
+      "rationale": "The passages explicitly define legal assistance as legal services to help victims through the judicial process, indicating provision of legal assistance services.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 10\nForms of services for women victims of violence that are provided include: medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nmedicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\npsychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nlegal services to assist victims in undergoing the judicial process;\neconomic independence services in the form of services for skills training and providing economic access so that victims can be independent.\nThe service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures which will be further regulated by Regent Regulation.",
+      "rationale": "The passages list medical services (treatment and recovery of physical injuries) as a form of service provided to women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 10\nForms of services for women victims of violence that are provided include: medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nmedicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\npsychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nlegal services to assist victims in undergoing the judicial process;\neconomic independence services in the form of services for skills training and providing economic access so that victims can be independent.\nThe service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures which will be further regulated by Regent Regulation.",
+      "rationale": "The passages explicitly include psychosocial services for restoring victims' traumatic condition (including safe houses and social support), which constitutes psychosocial counselling/support services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention religious or spiritual counselling services or any unit providing such support.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 31\nVictim identification is the data collection of women who are victims of violence. Data collection is carried out by SKPD and/or service institutions established by the regional government that are authorized to carry out that function.\nLegal assistance is legal services to help victims go through the judicial process.\nMedical rehabilitation is medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.\nPsychosocial rehabilitation is services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems. Social reintegration is an effort by the regional government through SKPD and/or service institutions together with the community to help women victims of violence in adapting and integrating in the community environment where they live.\nRepatriation assistance is an effort by the regional government through SKPD and/or service institutions to help repatriate women victims of violence to their homes or other intended destinations safely.\nEmpowerment is the regional government through SKPD and/or service institutions providing assistance to women victims of violence in the form of training and opening access to capital with the aim that women victims of violence can be independent.",
+      "rationale": "The passages explicitly include social reintegration (and related rehabilitation elements) as part of services for women victims of violence, indicating resocialisation/rehabilitation-reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 10\nForms of services for women victims of violence that are provided include: medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nmedicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\npsychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nlegal services to assist victims in undergoing the judicial process;\neconomic independence services in the form of services for skills training and providing economic access so that victims can be independent.\nThe service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures which will be further regulated by Regent Regulation.",
+      "rationale": "The passages explicitly include economic independence services (skills training and providing economic access) for victims, indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 8\nPrevention as referred to in article 5 letter a, includes: collecting data and information about women victims of violence as well as laws and regulations;\nconducting education about anti-violence values towards women;\nsocializing laws and regulations related to the implementation of protection for women victims of violence;\nestablishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\nencouraging community awareness of the importance of protection for women victims of violence;\nIncreasing women's awareness of the importance of complying with ethics, religious norms and cultural norms in behavior.\nPrevention as referred to in paragraph (1) is carried out by the Regional Government of the Regency, police institutions, prosecutorial institutions, judicial institutions, non-governmental organizations, and the community in accordance with their duties, functions, and responsibilities.",
+      "rationale": "The policy’s prevention measures explicitly include conducting education about anti-violence values towards women, which constitutes primary prevention through information/education on violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines gender justice/equality and mentions education on anti-violence values and socialization of laws related to protection for victims, none of the provided passages explicitly describe information/education activities focused on gender equality and/or women’s rights as a primary prevention measure.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 8\nPrevention as referred to in article 5 letter a, includes: collecting data and information about women victims of violence as well as laws and regulations;\nconducting education about anti-violence values towards women;\nsocializing laws and regulations related to the implementation of protection for women victims of violence;\nestablishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\nencouraging community awareness of the importance of protection for women victims of violence;\nIncreasing women's awareness of the importance of complying with ethics, religious norms and cultural norms in behavior.\nPrevention as referred to in paragraph (1) is carried out by the Regional Government of the Regency, police institutions, prosecutorial institutions, judicial institutions, non-governmental organizations, and the community in accordance with their duties, functions, and responsibilities.",
+      "rationale": "The prevention provisions explicitly include socializing laws and regulations related to the implementation of protection for women victims of violence, which is information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 8\nPrevention as referred to in article 5 letter a, includes: collecting data and information about women victims of violence as well as laws and regulations;\nconducting education about anti-violence values towards women;\nsocializing laws and regulations related to the implementation of protection for women victims of violence;\nestablishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\nencouraging community awareness of the importance of protection for women victims of violence;\nIncreasing women's awareness of the importance of complying with ethics, religious norms and cultural norms in behavior.\nPrevention as referred to in paragraph (1) is carried out by the Regional Government of the Regency, police institutions, prosecutorial institutions, judicial institutions, non-governmental organizations, and the community in accordance with their duties, functions, and responsibilities.",
+      "rationale": "The prevention section explicitly includes conducting education about anti-violence values towards women, which is a form of prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 8\nPrevention as referred to in article 5 letter a, includes: collecting data and information about women victims of violence as well as laws and regulations;\nconducting education about anti-violence values towards women;\nsocializing laws and regulations related to the implementation of protection for women victims of violence;\nestablishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\nencouraging community awareness of the importance of protection for women victims of violence;\nIncreasing women's awareness of the importance of complying with ethics, religious norms and cultural norms in behavior.\nPrevention as referred to in paragraph (1) is carried out by the Regional Government of the Regency, police institutions, prosecutorial institutions, judicial institutions, non-governmental organizations, and the community in accordance with their duties, functions, and responsibilities.",
+      "rationale": "The policy explicitly includes non-governmental organizations among the actors responsible for prevention activities, indicating engagement/collaboration with NGOs in services and prevention.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text references \"religious norms\" in prevention content, none of the provided passages explicitly mention engagement or collaboration with religious organizations or religious leaders as stakeholders.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention cultural norms and general community participation, but do not explicitly identify traditional/cultural organizations or leaders as partners or collaborators.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss conducting education and involving community elements, but do not explicitly mention collaboration with educational institutions (schools, universities) as stakeholders.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention international organizations or international support for service delivery or prevention.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe community participation and prevention/socialization activities, but do not explicitly mention engagement or collaboration with media organizations.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 17\nThe community can participate in prevention and handling efforts for women victims of violence through individuals or institutions.\nCommunity participation as referred to in paragraph (1) is implemented through: providing information and/or reporting any potential violence and incidents of violence that become known;\nconducting prevention against the occurrence of acts of violence against women;\nproviding protection services to women who become victims of violence;\nassisting in the process of repatriation, social rehabilitation, and social reintegration of women victims of acts of violence.",
+      "rationale": "The policy explicitly provides for community participation in prevention and handling efforts, describing roles the community can play, which constitutes stakeholder engagement with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Pasal 18\nThe role of community participation as referred to in Article 17 paragraph (1) can be carried out by: individuals;\nfamilies;\nnon-governmental organizations;\nsocial community organizations;\nprofessional organizations;\nbusiness entities.",
+      "rationale": "The policy explicitly includes \"business entities\" as actors through which community participation can be carried out, indicating engagement with the business/private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "Article 6\nProtection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\nProtection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+      "rationale": "The policy explicitly includes protection of women from violence in \"conflict and disaster areas,\" indicating special protection measures for women in those contexts.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention human trafficking or specific protection measures targeted at women trafficking victims; they address women victims of violence generally.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 6\nProtection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\nProtection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+      "rationale": "The policy explicitly includes protection of women from violence in the workplace, which covers women workers/employees.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "Article 6\nProtection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\nProtection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+      "rationale": "The policy explicitly states that protection of women from violence includes elderly women, indicating targeted inclusion of this group.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 6\nProtection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\nProtection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+      "rationale": "The policy explicitly states that protection of women from violence includes women with disabilities, indicating targeted inclusion of this group.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not specifically mention women heads of household/families or provide measures targeted to them; references to roles like wife/mother/family member are not the same as head of household.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly refer to minority or isolated groups of women or provide targeted measures for them; general non-discrimination principles do not constitute specific targeted protection for minority/isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines protection in relation to investigation/court stages and provides legal assistance for victims, it does not specifically mention women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention Indigenous peoples/groups (masyarakat adat) or any special protection measures targeted at them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention refugees or forced displacement; references to repatriation assistance are framed generally for women victims of violence and do not specifically target refugees/forcibly displaced persons.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not explicitly mention domestic workers or provide special protection measures targeted at domestic workers as a group.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not explicitly mention homelessness or women experiencing homelessness, nor do they provide targeted measures for this group.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention former inmates/correctional institutions or provide special protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFINANCING\nArticle 23\nFinancing for the implementation of protection of women against acts of violence is sourced from: Regional Revenue and Expenditure Budget (APBD); and other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that financing is sourced from the Regional Revenue and Expenditure Budget (APBD), which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages specify funding from the regional budget (APBD) and 'other legitimate sources' but do not explicitly mention a national/central government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international organizations, foreign governments, UN agencies, or other international donors as funding sources; financing is described only as APBD and other legitimate sources without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFINANCING\nArticle 23\nFinancing for the implementation of protection of women against acts of violence is sourced from: Regional Revenue and Expenditure Budget (APBD); and other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing provision explicitly includes 'other legitimate sources in accordance with the provisions of laws and regulations,' which constitutes other legal sources beyond the regional budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing passages mention the regional APBD and other legitimate sources but do not explicitly identify the provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

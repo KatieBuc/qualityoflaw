@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TENGAH_PEKALONGAN.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:47:01.439487+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 3\nThe purpose of implementing protection for victims of gender-based violence is to provide services and protection to male and female victims of gender-based violence and child victims of violence that occurs within the household and/or outside the household.",
+      "rationale": "The policy states that protection covers violence occurring within the household, which constitutes domestic violence coverage.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nFORMS OF VIOLENCE\nArticle 5\n(1) Forms of Gender-Based Violence include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\n(2) Forms of Violence against Children include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\nd. Neglect;\ne. Exploitation;\nf. Maltreatment",
+      "rationale": "The policy explicitly lists sexual violence as a form of gender-based violence and violence against children.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nFORMS OF VIOLENCE\nArticle 5\n(1) Forms of Gender-Based Violence include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\n(2) Forms of Violence against Children include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\nd. Neglect;\ne. Exploitation;\nf. Maltreatment",
+      "rationale": "The policy explicitly lists physical violence as a form of gender-based violence and violence against children.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nFORMS OF VIOLENCE\nArticle 5\n(1) Forms of Gender-Based Violence include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\n(2) Forms of Violence against Children include a. Physical Violence;\nb. Psychological Violence;\nc. Sexual Violence;\nd. Neglect;\ne. Exploitation;\nf. Maltreatment",
+      "rationale": "The policy explicitly lists psychological violence as a form of gender-based violence and violence against children.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence / economic exploitation / domestic neglect",
+      "included": "Yes",
+      "evidence": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after children as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the household sphere, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+      "rationale": "The policy defines neglect to include failure to provide livelihood/care within the household and actions creating economic dependence through restricting/prohibiting decent work, addressing economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss forms of violence generally (including physical violence that may cause death) but do not explicitly address femicide/feminicide as gender-motivated killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While exploitation is described (including prostitution, forced labor, slavery-like practices), the provided passages do not explicitly mention human trafficking or trafficking in persons as a form addressed by the policy.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits either material or immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities or sexual abuse.",
+      "rationale": "The policy explicitly includes sexual exploitation within its definition of exploitation, including prostitution and slavery or similar practices and exploitation of sexual organs for benefit.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only reference to information and communication technology concerns formats for providing information to victims, not technology-facilitated violence (e.g., online harassment, cyberstalking), which is not addressed in the passages.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 20\nThe field of repatriation and social reintegration as referred to in Article 15 paragraph (2) letter e has the following duties:\na. coordinating and facilitating the repatriation process of victims and/or facilitating repatriation referrals to the Provincial PPT;\njdih.pekalongankab.go.id\nb. facilitating the reintegration process of victims of violence to families, guardians, substitute families, communities, educational institutions or social institutions;\nc. preparing progress reports on the accompaniment process of repatriation and social rehabilitation; and\nc. conducting monitoring for at least three months after the victim is returned to their family, guardian, substitute family, community.",
+      "rationale": "The policy describes coordination across jurisdictions by facilitating repatriation referrals to the Provincial PPT, indicating an institutional linkage beyond the local/regency level.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) The PPT as referred to in Article 13 is established by the Regional Government by involving Regional Apparatus Work Units, institutions, agencies and community organizations that have competence in the implementation of protection for victims of gender-based violence and children.\n(2) The PPT as referred to in paragraph (1) is a functional work unit that has the main duties and functions of providing protection to victims of gender-based violence and child victims of violence in the form of pursuing prevention, recovery, and social reintegration, providing legal protection, conducting coordination and, pursuing increased community participation, as well as monitoring and reporting",
+      "rationale": "The policy establishes the PPT by involving community organizations and other institutions/agencies with competence in victim protection, which constitutes a cooperation mechanism with non-government actors.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 4\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. providing data and information regarding gender and child victims of violence in accordance with laws and regulations;\nb. conducting education on anti-violence values based on gender and violence against children; and\nc. conducting socialization of laws and regulations related to the implementation of protection against gender-based violence and child victims of violence.\njdih.pekalongankab.go.id (2) To anticipate the occurrence of acts of violence, the Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving elements of SKPD, Agencies, Institutions, Community Organizations, Communities;\nb. providing facilities and infrastructure;\nc. increasing the capacity of service provider institutions;\nd. conducting coordination and cooperation in the implementation of protection for victims of gender-based violence and children;\ne. conducting monitoring and evaluation.\nf. encouraging public awareness of the importance of protection for victims.\n(3) The Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy assigns the Regional Government responsibility for providing data and information regarding gender and child victims of violence, indicating a data/information provision function for VAW and related protection.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender justice/equality principles and institutional arrangements for victim protection, none of the provided passages explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group to deliver VAW policies/programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 4\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. providing data and information regarding gender and child victims of violence in accordance with laws and regulations;\nb. conducting education on anti-violence values based on gender and violence against children; and\nc. conducting socialization of laws and regulations related to the implementation of protection against gender-based violence and child victims of violence.\njdih.pekalongankab.go.id (2) To anticipate the occurrence of acts of violence, the Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving elements of SKPD, Agencies, Institutions, Community Organizations, Communities;\nb. providing facilities and infrastructure;\nc. increasing the capacity of service provider institutions;\nd. conducting coordination and cooperation in the implementation of protection for victims of gender-based violence and children;\ne. conducting monitoring and evaluation.\nf. encouraging public awareness of the importance of protection for victims.\n(3) The Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy includes an obligation to increase the capacity of service provider institutions, which implies capacity building for those delivering services under the policy.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 4\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. providing data and information regarding gender and child victims of violence in accordance with laws and regulations;\nb. conducting education on anti-violence values based on gender and violence against children; and\nc. conducting socialization of laws and regulations related to the implementation of protection against gender-based violence and child victims of violence.\njdih.pekalongankab.go.id (2) To anticipate the occurrence of acts of violence, the Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving elements of SKPD, Agencies, Institutions, Community Organizations, Communities;\nb. providing facilities and infrastructure;\nc. increasing the capacity of service provider institutions;\nd. conducting coordination and cooperation in the implementation of protection for victims of gender-based violence and children;\ne. conducting monitoring and evaluation.\nf. encouraging public awareness of the importance of protection for victims.\n(3) The Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy explicitly requires the Regional Government to conduct monitoring and evaluation as part of organizing services for victims, addressing oversight of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 13\nIn carrying out the obligation of protection for victims of gender-based violence and children, the Regional Government shall establish an Integrated Service Center (PPT) institution",
+      "rationale": "The policy states that the Regional Government shall establish an Integrated Service Center (PPT) to protect victims of gender-based violence and children, which constitutes an integrated service unit.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention police as possible actors in protection generally, and describe an Integrated Service Center (PPT), but do not specify any specialised service unit for VAW victims located in police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 16\nThe complaint service sector as referred to in Article 15 paragraph (2) letter a has the following duties:\na. conduct interviews and observation of the victim's condition; 10 jdih.pekalongankab.go.id\nb. make recommendations for follow-up services;\nc. conduct coordination and referrals to services and certain parties and related parties according to the victim's needs; and d. carry out administration of the complaint process.",
+      "rationale": "The policy defines a complaint service sector with duties including interviewing victims, making follow-up recommendations, coordinating referrals, and administering the complaint process, indicating a unit that receives complaints/reports.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 19\nThe social rehabilitation service sector as referred to in Article 15 paragraph (2) letter d has the duties of:\na. providing psychological assistance and social counseling by psychologists, counselors and social workers;\nb. conducting spiritual guidance by spiritual advisors; c. providing assistance during the case handling process; and\nd. implementation of social rehabilitation is carried out at a \"shelter/safe house\".",
+      "rationale": "The policy specifies that social rehabilitation is carried out at a shelter/safe house, indicating provision of a safety/protection shelter service.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 18\nThe field of legal aid services as referred to in Article 15 paragraph (2) letter c has the following duties:\na. provide legal assistance to victims of violence both litigation and non-litigation.\nb. prepare reports on the progress of legal handling.",
+      "rationale": "The policy establishes legal aid services with duties to provide legal assistance to victims (litigation and non-litigation), demonstrating a service unit for legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 17\nThe health service sector as referred to in Article 15 paragraph (2) letter b has the following duties:\na. to conduct examination, treatment, and follow-up care for victims\nb. to coordinate the implementation of health rehabilitation and medicolegal;\nc. to conduct medicolegal examination including collection of evidence from victims and preparation of visum et repertum;\nd. to conduct supporting and laboratory examinations of evidence;\ne. to conduct consultation with specialist doctors or make referrals; and\nf. to prepare case reports.",
+      "rationale": "The policy assigns duties to a health service sector, including examination, treatment, follow-up care, and medicolegal functions, indicating a health/medical service unit.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 19\nThe social rehabilitation service sector as referred to in Article 15 paragraph (2) letter d has the duties of:\na. providing psychological assistance and social counseling by psychologists, counselors and social workers;\nb. conducting spiritual guidance by spiritual advisors; c. providing assistance during the case handling process; and\nd. implementation of social rehabilitation is carried out at a \"shelter/safe house\".",
+      "rationale": "The social rehabilitation service sector is tasked with providing psychological assistance and social counseling by psychologists, counselors, and social workers, which constitutes psychosocial counseling services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 19\nThe social rehabilitation service sector as referred to in Article 15 paragraph (2) letter d has the duties of:\na. providing psychological assistance and social counseling by psychologists, counselors and social workers;\nb. conducting spiritual guidance by spiritual advisors; c. providing assistance during the case handling process; and\nd. implementation of social rehabilitation is carried out at a \"shelter/safe house\".",
+      "rationale": "The social rehabilitation service sector includes conducting spiritual guidance by spiritual advisors, indicating provision of religious/spiritual counseling or guidance.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 20\nThe field of repatriation and social reintegration as referred to in Article 15 paragraph (2) letter e has the following duties:\na. coordinating and facilitating the repatriation process of victims and/or facilitating repatriation referrals to the Provincial PPT;\njdih.pekalongankab.go.id\nb. facilitating the reintegration process of victims of violence to families, guardians, substitute families, communities, educational institutions or social institutions;\nc. preparing progress reports on the accompaniment process of repatriation and social rehabilitation; and\nc. conducting monitoring for at least three months after the victim is returned to their family, guardian, substitute family, community.",
+      "rationale": "The policy establishes a repatriation and social reintegration field with duties to facilitate reintegration of victims and monitor after return, which are resocialisation/reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nEMPOWERMENT OF VICTIMS\nArticle 22\nEmpowerment of Gender and Child Victims of Violence is implemented in the form of:\na. Empowerment of gender-based violence victims includes job training, productive economic enterprises and joint business groups with capital assistance.\nb. Empowerment of child victims of violence who are not in school is to ensure child victims of violence obtain the right to continue their education, and/or obtain job training with capital assistance.",
+      "rationale": "The policy provides for empowerment of victims through job training, productive economic enterprises, joint business groups, and capital assistance, indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 4\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. providing data and information regarding gender and child victims of violence in accordance with laws and regulations;\nb. conducting education on anti-violence values based on gender and violence against children; and\nc. conducting socialization of laws and regulations related to the implementation of protection against gender-based violence and child victims of violence.\njdih.pekalongankab.go.id (2) To anticipate the occurrence of acts of violence, the Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving elements of SKPD, Agencies, Institutions, Community Organizations, Communities;\nb. providing facilities and infrastructure;\nc. increasing the capacity of service provider institutions;\nd. conducting coordination and cooperation in the implementation of protection for victims of gender-based violence and children;\ne. conducting monitoring and evaluation.\nf. encouraging public awareness of the importance of protection for victims.\n(3) The Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy includes primary prevention measures that involve education and socialization related to gender-based violence and violence against children, which constitutes information/education about VAW.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing tribe, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.\nLetter b What is meant by \"best interests of the victim\" is that all actions concerning victims carried out by the government, community, legislative bodies and judicial bodies, the best interests of the victim must be the primary consideration.\nLetter c What is meant by \"gender justice\" is fair treatment given to both women and men.\nWhat is meant by \"gender equality\" is a condition and position that describes a harmonious, aligned and jdih.pekalongankab.go.id balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in community, national and state life.\nLetter d What is meant by \"victim protection\" is providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nLetter e What is meant by \"maternal survival\" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions Letter f.\nWhat is meant by \"growth and development\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.\nWhat is meant by \"survival\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.\nLetter g.\nWhat is meant by \"respect for the views of the child\" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.\nLetter h What is meant by \"transparency\" is that in the implementation of protection for victims of gender-based violence and children it is transparent among integrated service providers.\nLetter i What is meant by \"integration\" is that in the implementation of protection for victims of gender-based violence and children it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, police.\nLetter j What is meant by \"not blaming the victim\" is an attitude and treatment of not blaming the victim for the occurrence of violence they experienced.\nLetter k What is meant by \"empowering\" is that every effort provided must be able to strengthen the victim, whether physically, psychologically, socially or economically.\njdih.pekalongankab.go.id Letter l What is meant by \"victim confidentiality\" is every action taken to ensure the victim is in a safe condition from threats or other actions that threaten the life and psychological state of the victim.\nLetter m What is meant by \"decision-making in the hands of the victim\" is the victim's right to determine the best choice in resolving their problem.",
+      "rationale": "The policy explicitly defines and explains gender justice and gender equality, providing an educational framing about gender equality as a principle guiding protection efforts.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 25\n(1) The community participates in the implementation of protection for victims.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing protection for victims;\nb. providing emergency assistance;\nc. providing advocacy to victims and or the community regarding the handling of gender-based and child violence cases;\nd. assisting in the process of submitting applications for protection orders;\ne. conveying information to the authorized authorities related to gender-based and child violence cases;\nf. organizing the strengthening of community groups in handling gender-based and child violence; and\ng. disseminating information about laws and regulations related to gender-based and child violence.",
+      "rationale": "The policy calls for disseminating information about laws and regulations related to gender-based and child violence, which directly addresses education/information about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 4\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\na. providing data and information regarding gender and child victims of violence in accordance with laws and regulations;\nb. conducting education on anti-violence values based on gender and violence against children; and\nc. conducting socialization of laws and regulations related to the implementation of protection against gender-based violence and child victims of violence.\njdih.pekalongankab.go.id (2) To anticipate the occurrence of acts of violence, the Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving elements of SKPD, Agencies, Institutions, Community Organizations, Communities;\nb. providing facilities and infrastructure;\nc. increasing the capacity of service provider institutions;\nd. conducting coordination and cooperation in the implementation of protection for victims of gender-based violence and children;\ne. conducting monitoring and evaluation.\nf. encouraging public awareness of the importance of protection for victims.\n(3) The Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy assigns the regional government responsibility to prevent violence by conducting education on anti-violence values, which is prevention through education (even if it does not detail broader education-quality reforms).",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe general community participation and involvement of community organizations in service provision, but none explicitly mention civil society organisations/NGOs or collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references spiritual guidance and mentions religious counselors as part of integrated coordination, it does not explicitly indicate engagement/collaboration with religious organisations or religious leaders as stakeholders.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss community participation generally but do not mention traditional/cultural organisations or leaders or any collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although education and reintegration to educational institutions are mentioned, there is no explicit engagement/collaboration with education institutions (including universities) as stakeholders for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention international organizations or international support; cooperation is described only in general terms without specifying international partners.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include dissemination of information and socialization, but do not explicitly reference collaboration or engagement with media organizations.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 25\n(1) The community participates in the implementation of protection for victims.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing protection for victims;\nb. providing emergency assistance;\nc. providing advocacy to victims and or the community regarding the handling of gender-based and child violence cases;\nd. assisting in the process of submitting applications for protection orders;\ne. conveying information to the authorized authorities related to gender-based and child violence cases;\nf. organizing the strengthening of community groups in handling gender-based and child violence; and\ng. disseminating information about laws and regulations related to gender-based and child violence.",
+      "rationale": "The policy explicitly provides for community participation in implementing protection for victims and lists forms of such participation, indicating engagement/collaboration with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss empowerment activities (job training, economic enterprises) but do not explicitly mention engagement with businesses/private sector actors as stakeholders or partners.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict zones, disaster-prone areas, emergencies/disasters, or any women-specific protection measures tailored to such contexts; the text focuses generally on victims of gender-based violence and children in Pekalongan Regency.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss general protection for victims of gender-based violence and children, including exploitation broadly, but do not explicitly mention human trafficking or specify protection measures targeted at women trafficking victims.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts contain no specific reference to women workers/employees or workplace-related protections; they address gender-based violence victims generally.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of elderly women or age-specific protection measures; the provisions are framed for victims of gender-based violence and children generally.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing tribe, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.\nLetter b What is meant by \"best interests of the victim\" is that all actions concerning victims carried out by the government, community, legislative bodies and judicial bodies, the best interests of the victim must be the primary consideration.\nLetter c What is meant by \"gender justice\" is fair treatment given to both women and men.\nWhat is meant by \"gender equality\" is a condition and position that describes a harmonious, aligned and jdih.pekalongankab.go.id balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in community, national and state life.\nLetter d What is meant by \"victim protection\" is providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nLetter e What is meant by \"maternal survival\" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions Letter f.\nWhat is meant by \"growth and development\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.\nWhat is meant by \"survival\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.\nLetter g.\nWhat is meant by \"respect for the views of the child\" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.\nLetter h What is meant by \"transparency\" is that in the implementation of protection for victims of gender-based violence and children it is transparent among integrated service providers.\nLetter i What is meant by \"integration\" is that in the implementation of protection for victims of gender-based violence and children it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, police.\nLetter j What is meant by \"not blaming the victim\" is an attitude and treatment of not blaming the victim for the occurrence of violence they experienced.\nLetter k What is meant by \"empowering\" is that every effort provided must be able to strengthen the victim, whether physically, psychologically, socially or economically.\njdih.pekalongankab.go.id Letter l What is meant by \"victim confidentiality\" is every action taken to ensure the victim is in a safe condition from threats or other actions that threaten the life and psychological state of the victim.\nLetter m What is meant by \"decision-making in the hands of the victim\" is the victim's right to determine the best choice in resolving their problem.",
+      "rationale": "The policy includes disability within its non-discrimination principle by stating protection applies without distinguishing based on physical or mental condition, which implicitly covers persons with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions women-headed households/families or provides targeted measures for them; references to household are definitional rather than a special protection category.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing tribe, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.\nLetter b What is meant by \"best interests of the victim\" is that all actions concerning victims carried out by the government, community, legislative bodies and judicial bodies, the best interests of the victim must be the primary consideration.\nLetter c What is meant by \"gender justice\" is fair treatment given to both women and men.\nWhat is meant by \"gender equality\" is a condition and position that describes a harmonious, aligned and jdih.pekalongankab.go.id balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in community, national and state life.\nLetter d What is meant by \"victim protection\" is providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nLetter e What is meant by \"maternal survival\" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions Letter f.\nWhat is meant by \"growth and development\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.\nWhat is meant by \"survival\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.\nLetter g.\nWhat is meant by \"respect for the views of the child\" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.\nLetter h What is meant by \"transparency\" is that in the implementation of protection for victims of gender-based violence and children it is transparent among integrated service providers.\nLetter i What is meant by \"integration\" is that in the implementation of protection for victims of gender-based violence and children it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, police.\nLetter j What is meant by \"not blaming the victim\" is an attitude and treatment of not blaming the victim for the occurrence of violence they experienced.\nLetter k What is meant by \"empowering\" is that every effort provided must be able to strengthen the victim, whether physically, psychologically, socially or economically.\njdih.pekalongankab.go.id Letter l What is meant by \"victim confidentiality\" is every action taken to ensure the victim is in a safe condition from threats or other actions that threaten the life and psychological state of the victim.\nLetter m What is meant by \"decision-making in the hands of the victim\" is the victim's right to determine the best choice in resolving their problem.",
+      "rationale": "The non-discrimination principle explicitly covers categories such as tribe, religion, race, ethnicity, culture, and language, which implicitly includes minority or isolated groups among victims, though not women-specific beyond the general victim framework.",
+      "evidence_verified": true
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions facilitation in the judicial process for victims, it does not specifically address women in conflict with the law as witnesses or perpetrators, nor provide protections tailored to that status.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention Indigenous peoples/groups (masyarakat adat) or provide special measures targeted to them; general non-discrimination language does not specifically identify Indigenous groups.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss repatriation and social reintegration of victims, but do not mention refugees, asylum seekers, or forced displacement contexts, nor special protections for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although 'domestic workers' appear in the definition of household, there are no special protection measures specifically targeted at domestic workers in the provided excerpts.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage refers to homelessness, unhoused women, or sheltering measures specifically for homeless women (safe house is for violence victims generally, not homelessness-specific).",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not mention former inmates/correctional institutions or formerly incarcerated women, nor any tailored protections for that group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 24\nFunding for the implementation of protection activities for victims of gender-based violence and children carried out by the Regional Government is sourced from the APBD, Provincial APBD and/or APBN as well as other legitimate sources in accordance with the provisions of laws and regulations.\njdih.pekalongankab.go.id",
+      "rationale": "The policy explicitly states that funding is sourced from the APBD (regional revenue and expenditure budget), which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 24\nFunding for the implementation of protection activities for victims of gender-based violence and children carried out by the Regional Government is sourced from the APBD, Provincial APBD and/or APBN as well as other legitimate sources in accordance with the provisions of laws and regulations.\njdih.pekalongankab.go.id",
+      "rationale": "The policy explicitly includes APBN as a funding source, which refers to the national government budget.",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention international donors, foreign governments, UN agencies, or other international funding sources; the funding clause only lists domestic budgets and a generic reference to 'other legitimate sources' without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 24\nFunding for the implementation of protection activities for victims of gender-based violence and children carried out by the Regional Government is sourced from the APBD, Provincial APBD and/or APBN as well as other legitimate sources in accordance with the provisions of laws and regulations.\njdih.pekalongankab.go.id",
+      "rationale": "The funding provision explicitly includes 'other legitimate sources in accordance with the provisions of laws and regulations,' which constitutes other legally permissible funding sources beyond government budgets.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 24\nFunding for the implementation of protection activities for victims of gender-based violence and children carried out by the Regional Government is sourced from the APBD, Provincial APBD and/or APBN as well as other legitimate sources in accordance with the provisions of laws and regulations.\njdih.pekalongankab.go.id",
+      "rationale": "The policy explicitly lists 'Provincial APBD' as a funding source, indicating provincial government budget support.",
+      "evidence_verified": true
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TENGAH_BANYUMAS.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:45:07.067412+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "REGENT OF BANYUMAS\nCENTRAL JAVA PROVINCE\nREGIONAL REGULATION OF BANYUMAS REGENCY\nNUMBER 3 OF 2015\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION\nFOR VICTIMS OF GENDER-BASED VIOLENCE AND CHILD VIOLENCE\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF BANYUMAS,\n\nConsidering : a. that all forms of acts of violence, especially gender-based violence and violence against children constitute violations of human rights and crimes against human dignity;\nb. that victims of gender-based violence and violence against children in the Region continue to increase;\nc. that victims of violence need to have their dignity protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nd. that based on Law Number 23 of 2002 concerning Child Protection and Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the Regional Government together with the community is obligated to undertake prevention, protection, and recovery efforts for victims of gender-based violence and violence against children;\ne. that based on the considerations as referred to in letter a, letter b, letter c, and letter d, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children;\n\nIn View of 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 13 of 1950 concerning the Establishment of Regency Regions within Central Java Province;\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235);\n5. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n7. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);\n8. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n9. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 12, Supplement to the State Gazette of the Republic of Indonesia Number 4976);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244 Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended by Government Regulation in Lieu of Law Number 2 of 2014 concerning Amendments to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 246, Supplement to the State Gazette of the Republic of Indonesia Number 5589);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);\n13. Regional Regulation of Central Java Province Number 03 of 2009 concerning the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children (Regional Gazette of Central Java Province of 2009 Number 3, Supplement to the Regional Gazette of Central Java Province Number 20);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF BANYUMAS REGENCY, and",
+      "rationale": "The policy explicitly references the legal framework on the elimination of domestic violence, indicating domestic violence is within scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nFORMS OF VIOLENCE\nArticle 5\nForms of violence are:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+      "rationale": "The policy explicitly lists sexual violence as one of the forms of violence covered.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nFORMS OF VIOLENCE\nArticle 5\nForms of violence are:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+      "rationale": "The policy explicitly lists physical violence as one of the forms of violence covered.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 7\nPsychological violence as referred to in Article 5 letter b is caused by acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.",
+      "rationale": "The policy explicitly defines psychological violence and describes its effects, indicating it is included.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence / economic exploitation / domestic neglect",
+      "included": "Yes",
+      "evidence": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the household scope; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+      "rationale": "The policy explicitly includes neglect within the household and acts causing economic dependence through restricting/prohibiting decent work, which aligns with economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss general forms of violence and victim protection but do not explicitly address femicide/feminicide (gender-related killing of women).",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Repatriation Services as referred to in Article 16, letter f include:\na. repatriation of migrant workers with problems;\nb. repatriation of victims of gender-based violence and children; •\\3 T\nc. repatriation of victims of the criminal act of trafficking in persons. (2) Social Reintegration Services as referred to in Article 16, letter f include:\na. reintegration with family;\nb. reintegration with substitute family;\nc. reintegration with the environment;\nd. educational reintegration.",
+      "rationale": "The policy explicitly mentions services for repatriation of victims of the criminal act of trafficking in persons, indicating trafficking is included.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others; b. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+      "rationale": "The policy explicitly defines exploitation to include sexual exploitation and references prostitution and slavery or similar practices, covering sexual exploitation/sexual slavery.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions threats of violence via speech, writing, images, and symbols, it does not explicitly address technology-facilitated or online/digital forms of violence in the provided passages.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 33\n(1) In providing protection for victims of gender-based violence and children, the Regional Government may cooperate with the Government, Provincial Government, other Regency/City Governments and other institutions. -yv (2) Cooperation between the Regional Government and the Provincial Government or the Government includes consultation, coordination, advocacy, referral, monitoring, evaluation and reporting.\n(3) Cooperation between the Regional Government and Regency/City includes coordination, advocacy and referral.\n(4) Implementation of cooperation as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.",
+      "rationale": "The cited passage explicitly provides for cooperation across jurisdictions (Government, Provincial Government, other Regency/City Governments) and specifies forms of cooperation such as coordination, monitoring, evaluation, and reporting.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The cited passage explicitly includes non-governmental organizations among actors that may participate in prevention and handling of victims, indicating a cooperation/engagement mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly establish a data collection or information system; while monitoring/documentation/reporting of cases is mentioned elsewhere, the criterion asks for establishment of a data collection/information system, which is not shown in the candidate passages for this criterion.",
+      "evidence_verified": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference principles like gender justice and equality and describe service institutions, but do not mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government has the obligation and responsibility to implement efforts to protect victims of violence in the form of: a. preventing the occurrence of all forms of gender-based and child violence;\nb. providing protection by providing complaint services, health services, social rehabilitation services, legal assistance and enforcement services, repatriation and social reintegration services, seeking to increase community participation, as well as monitoring and reporting;\nc. encouraging and increasing community participation; d. cooperating with service providers in efforts to prevent, protect and recover victims of violence. (2) To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:\na. formulate policies and programs on the elimination of gender-based and child violence;\nb. establish an integrated service center;\nc. establish complaint service institutions at the sub-district level; T\nd. facilitate the implementation of integrated service centers and activities of complaint service institutions at the sub-district level; e. provide facilities and infrastructure;\nf. increase the capacity of service provider institutions;\ng. coordinate and cooperate in the implementation of protection for victims of gender-based and child violence; h. encourage and increase community participation; i. conduct monitoring and evaluation.\n(3) In the implementation of its obligations, responsibilities and authorities, the Regent may delegate to related SKPD.\n(4) Related SKPD that receive delegation from the Regent as referred to in paragraph (3) shall in its implementation prepare a Regional Action Plan for the protection of victims.",
+      "rationale": "The cited passage includes an explicit authority/responsibility to \"increase the capacity of service provider institutions,\" which constitutes capacity building for relevant service workers/institutions.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government has the obligation and responsibility to implement efforts to protect victims of violence in the form of: a. preventing the occurrence of all forms of gender-based and child violence;\nb. providing protection by providing complaint services, health services, social rehabilitation services, legal assistance and enforcement services, repatriation and social reintegration services, seeking to increase community participation, as well as monitoring and reporting;\nc. encouraging and increasing community participation; d. cooperating with service providers in efforts to prevent, protect and recover victims of violence. (2) To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:\na. formulate policies and programs on the elimination of gender-based and child violence;\nb. establish an integrated service center;\nc. establish complaint service institutions at the sub-district level; T\nd. facilitate the implementation of integrated service centers and activities of complaint service institutions at the sub-district level; e. provide facilities and infrastructure;\nf. increase the capacity of service provider institutions;\ng. coordinate and cooperate in the implementation of protection for victims of gender-based and child violence; h. encourage and increase community participation; i. conduct monitoring and evaluation.\n(3) In the implementation of its obligations, responsibilities and authorities, the Regent may delegate to related SKPD.\n(4) Related SKPD that receive delegation from the Regent as referred to in paragraph (3) shall in its implementation prepare a Regional Action Plan for the protection of victims.",
+      "rationale": "The cited passage explicitly states that the Regional Government has authority to \"conduct monitoring and evaluation,\" directly addressing monitoring and evaluation of implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) The Regional Government has the obligation and responsibility to implement efforts to protect victims of violence in the form of: a. preventing the occurrence of all forms of gender-based and child violence;\nb. providing protection by providing complaint services, health services, social rehabilitation services, legal assistance and enforcement services, repatriation and social reintegration services, seeking to increase community participation, as well as monitoring and reporting;\nc. encouraging and increasing community participation; d. cooperating with service providers in efforts to prevent, protect and recover victims of violence. (2) To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:\na. formulate policies and programs on the elimination of gender-based and child violence;\nb. establish an integrated service center;\nc. establish complaint service institutions at the sub-district level; T\nd. facilitate the implementation of integrated service centers and activities of complaint service institutions at the sub-district level; e. provide facilities and infrastructure;\nf. increase the capacity of service provider institutions;\ng. coordinate and cooperate in the implementation of protection for victims of gender-based and child violence; h. encourage and increase community participation; i. conduct monitoring and evaluation.\n(3) In the implementation of its obligations, responsibilities and authorities, the Regent may delegate to related SKPD.\n(4) Related SKPD that receive delegation from the Regent as referred to in paragraph (3) shall in its implementation prepare a Regional Action Plan for the protection of victims.",
+      "rationale": "The policy authorizes the Regional Government to establish an integrated service center, indicating an integrated service unit for handling gender-based violence and violence against children.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references law enforcement services and mentions police among service providers, none of the provided passages explicitly establish or describe a specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 29\nLPPTK as referred to in Article 28, has the duties of: a. receiving complaints of gender-based violence and child cases; b. providing initial consultation to victims of gender-based violence and children;\nc. conducting crisis intervention for victims of gender-based violence and children;\nd. providing referrals for handling gender-based violence and child cases to PPT PKBGA.",
+      "rationale": "The policy assigns LPPTK duties that include receiving complaints of gender-based violence and child cases, which constitutes a service unit for reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 20\nSocial Rehabilitation Services as referred to in Article 16, letter d include:\na. initial counseling services;\nb. follow-up counseling services;\nc. provision of safe houses;\nd. spiritual guidance services.",
+      "rationale": "The policy includes provision of safe houses as part of social rehabilitation services, indicating a service function that provides shelters.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 21\nServices for Assistance and Law Enforcement as referred to in Article 16, letter e include:\na. legal assistance services include litigation legal assistance and support and non-litigation legal assistance and support;\nb. law enforcement services include law enforcement at the Police level, law enforcement at the Prosecutor's Office level and law enforcement at the Court level;\nc. law enforcement services at the police level as referred to in letter b include law enforcement in the Investigation and/or inquiry process;\nd. law enforcement services at the Prosecutor's Office level as referred to in letter b include: law enforcement in the Pre-Prosecution and Prosecution process;\ne. law enforcement services at the Court level as referred to in letter b include law enforcement at the Pre-Trial, Trial and Verdict stages.",
+      "rationale": "The policy specifies that assistance and law enforcement services include legal assistance services (litigation and non-litigation), indicating provision of legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 19\nHealth Services as referred to in Article 16, letter c include:\na. medical services;\nb. psychiatric medical services;\nc. medicolegal services, including: visum et repertum (VER), visum et psikiatrum and DNA identification.",
+      "rationale": "The policy defines health services to include medical, psychiatric medical, and medicolegal services, demonstrating provision of health/medical services.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 20\nSocial Rehabilitation Services as referred to in Article 16, letter d include:\na. initial counseling services;\nb. follow-up counseling services;\nc. provision of safe houses;\nd. spiritual guidance services.",
+      "rationale": "The policy lists initial and follow-up counseling services within social rehabilitation services, which are psychosocial counseling services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 20\nSocial Rehabilitation Services as referred to in Article 16, letter d include:\na. initial counseling services;\nb. follow-up counseling services;\nc. provision of safe houses;\nd. spiritual guidance services.",
+      "rationale": "The policy includes spiritual guidance services as part of social rehabilitation services, indicating religious/spiritual counseling support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Repatriation Services as referred to in Article 16, letter f include:\na. repatriation of migrant workers with problems;\nb. repatriation of victims of gender-based violence and children; •\\3 T\nc. repatriation of victims of the criminal act of trafficking in persons. (2) Social Reintegration Services as referred to in Article 16, letter f include:\na. reintegration with family;\nb. reintegration with substitute family;\nc. reintegration with the environment;\nd. educational reintegration.",
+      "rationale": "The policy specifies social reintegration services (e.g., reintegration with family, substitute family, environment, and educational reintegration), which are resocialisation/reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention economic empowerment/support services such as skills training, livelihood assistance, or financial support for victims.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 17\nPrevention efforts as referred to in Article 16 letter a include:\na. conducting communication, information, and education about gender-based and child violence;\nb. socializing laws and regulations related to gender-based and child violence.",
+      "rationale": "The policy explicitly includes prevention efforts consisting of communication, information, and education about gender-based and child violence, which covers information/education to prevent violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy lists 'gender justice and equality' as an implementation principle, the retrieved passages do not describe primary prevention activities providing information/education specifically about gender equality or women’s rights.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 17\nPrevention efforts as referred to in Article 16 letter a include:\na. conducting communication, information, and education about gender-based and child violence;\nb. socializing laws and regulations related to gender-based and child violence.",
+      "rationale": "The policy explicitly includes prevention efforts to socialize laws and regulations related to gender-based and child violence, which constitutes information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention conducting communication/information/education about violence and define 'education' generally, but they do not set out prevention through the education system or measures to improve the quality of education as a primary prevention strategy.",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors that may carry out community participation to assist prevention efforts and handling of victims, indicating engagement/collaboration with NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly lists religious institutions among the entities that may carry out community participation in prevention and victim handling, indicating engagement/collaboration with religious organizations.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages mention community participation by individuals, social community institutions, NGOs, educational institutions, religious institutions, private sector, and mass media, but do not explicitly reference traditional/cultural organizations or leaders.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly includes educational institutions as entities that may carry out community participation in prevention efforts and handling of victims, indicating engagement/collaboration with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages describe coordination/cooperation with sub-district complaint institutions, integrated service centers between regencies/cities, service-providing institutions, and regional governments, but do not mention international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly lists mass media among the entities that may carry out community participation in prevention and victim handling, indicating engagement/collaboration with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly provides for community participation in assisting prevention efforts and handling of victims, detailing forms of participation, which constitutes engagement/collaboration with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and children.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. providing information and or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;T 17\nd. providing advocacy to victims and or the community regarding the handling of gender-based violence and children;\ne. assisting in the process of submitting applications for protection orders; f. assisting in the repatriation and social reintegration process.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.",
+      "rationale": "The policy explicitly lists the private sector among the entities that may carry out community participation in prevention and victim handling, indicating engagement/collaboration with business/private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection for victims of gender-based violence and children generally (rights, services, community obligations), but do not mention conflict zones, disasters, or disaster-prone areas, nor any special measures for women in such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide general protections for victims of gender-based violence and children, including services and rights, but do not explicitly identify women victims of human trafficking as a target group or specify trafficking-focused protection measures for women.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address victims of gender-based violence and children broadly and do not specifically mention women workers/employees or provide worker-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not reference elderly women or age-specific protections; they focus on victims of gender-based violence and children in general.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.\nLetter b What is meant by \"best interests of the victim\" is that all actions concerning victims carried out by the government, society, and judicial bodies, the best interests of the victim must be the primary consideration.\nLetter c What is meant by \"gender justice\" is fair treatment given to both women and men.\nWhat is meant by \"gender equality\" is a condition and position that describes a harmonious, aligned, and balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in society, nationhood and statehood.\nLetter d What is meant by \"victim protection\" is providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nLetter e What is meant by \"maternal survival\" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions.\nLetter f What is meant by \"growth and development\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.\nWhat is meant by \"survival\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.\nLetter g What is meant by \"respect for the views of the child\" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.\nLetter h What is meant by \"openness\" is that in the implementation of protection for victims of gender-based violence and children, it is transparent among service providers.\nLetter i What is meant by \"integration\" is that in the implementation of protection for victims of gender-based violence and children, it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, police.\nLetter j What is meant by \"not blaming the victim\" is an attitude and treatment of not blaming the victim for the occurrence of violence they experienced.\nLetter k What is meant by \"empowerment\" is that every effort provided must be able to strengthen victims, both physically, psychologically, socially and economically.\nLetter l What is meant by \"victim confidentiality\" is every action taken to ensure victims are in a safe condition from threats or other actions that threaten the life and psychology of victims.\nLetter m What is meant by \"decision-making in the hands of the victim\" is the victim's right to determine the best choice in resolving their problem.",
+      "rationale": "The policy includes disability within its non-discrimination principle by referencing protection without distinguishing physical or mental condition, which implicitly covers people with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions women heads of household/families or provides targeted measures for them; the text remains general to victims of gender-based violence and children.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing ethnicity, religion, race, class, gender, ethnicity, culture and language, legal status and physical or mental condition.\nLetter b What is meant by \"best interests of the victim\" is that all actions concerning victims carried out by the government, society, and judicial bodies, the best interests of the victim must be the primary consideration.\nLetter c What is meant by \"gender justice\" is fair treatment given to both women and men.\nWhat is meant by \"gender equality\" is a condition and position that describes a harmonious, aligned, and balanced relationship between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in society, nationhood and statehood.\nLetter d What is meant by \"victim protection\" is providing a sense of security to victims carried out by family members, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nLetter e What is meant by \"maternal survival\" is ensuring that a mother does not experience death that occurs during pregnancy, childbirth, and postpartum, whether caused by physical or non-physical conditions.\nLetter f What is meant by \"growth and development\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to education, the right to play, the right to create and recreate.\nWhat is meant by \"survival\" of children is as stated in the principles of the Convention on the Rights of the Child, including the right to identity and the right to enjoy the highest attainable health status.\nLetter g What is meant by \"respect for the views of the child\" is respect for children's rights to participate and express their opinions in decision-making, especially if it concerns matters that affect their lives.\nLetter h What is meant by \"openness\" is that in the implementation of protection for victims of gender-based violence and children, it is transparent among service providers.\nLetter i What is meant by \"integration\" is that in the implementation of protection for victims of gender-based violence and children, it is carried out by building coordination among service providers, including medical services, legal advocates, psychologists, religious counselors, social workers, police.\nLetter j What is meant by \"not blaming the victim\" is an attitude and treatment of not blaming the victim for the occurrence of violence they experienced.\nLetter k What is meant by \"empowerment\" is that every effort provided must be able to strengthen victims, both physically, psychologically, socially and economically.\nLetter l What is meant by \"victim confidentiality\" is every action taken to ensure victims are in a safe condition from threats or other actions that threaten the life and psychology of victims.\nLetter m What is meant by \"decision-making in the hands of the victim\" is the victim's right to determine the best choice in resolving their problem.",
+      "rationale": "The non-discrimination provision explicitly includes categories such as ethnicity, religion, race, class, culture and language, implying protection for minority-group women without specifying separate special measures.",
+      "evidence_verified": true
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While victims’ rights include protection related to testimony and legal aid, the passages do not specifically mention women in conflict with the law as witnesses or perpetrators, nor provide protections tailored to that status.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention Indigenous peoples/masyarakat adat or provide any targeted measures for Indigenous groups; only general non-discrimination and community participation are described.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although repatriation services are mentioned, the passages do not refer to refugees or forced displacement as a target group or set out protections specifically for refugees/displaced persons.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions domestic workers as a specific group or provides targeted protection measures for domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention provision of safe houses/shelters for victims, but do not specifically target women experiencing homelessness as a group or establish homelessness-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention former inmates/correctional institutions or formerly incarcerated women, nor any tailored protections for them.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 35\nFunding for protection activities for victims of gender-based violence and children carried out by the Regional Government - shall be charged to the APBD and/or other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that funding for protection activities carried out by the Regional Government is charged to the APBD, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention cooperation with the Government (national level) but do not specify any national government budget as a funding source; the only explicit funding source cited is APBD and other legitimate sources.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international organizations, foreign governments, UN agencies, or other international donors as funding sources; funding is described as APBD and/or other legitimate sources without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 35\nFunding for protection activities for victims of gender-based violence and children carried out by the Regional Government - shall be charged to the APBD and/or other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The funding provision explicitly includes 'other legitimate sources' in addition to APBD, which constitutes other legally permissible funding sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While cooperation with the Provincial Government is mentioned, there is no explicit reference to provincial government budget as a funding source; the funding clause specifies APBD and/or other legitimate sources without identifying provincial budget allocations.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

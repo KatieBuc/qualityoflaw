@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_BARAT_BIMA_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:01:21.748547+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "REGIONAL REGULATION OF BIMA CITY\nNUMBER 6 YEAR 2018\nCONCERNING\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nBY THE GRACE OF GOD ALMIGHTY\nMAYOR OF BIMA,\n\nConsidering: a. that every citizen has the right to be free from torture or treatment that degrades human dignity and has the right to obtain security and freedom from all forms of violence;\nb. that all forms of violence against women constitute violations of human rights so that their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and destiny without discrimination;\nc. that based on the considerations as referred to in letters a and b, it is necessary to establish a Regional Regulation concerning Protection of Women Victims of Violence;\n\nIn View of: 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 69 Year 1958 concerning Establishment of Level II Regions Within Level I Regions of Bali, West Nusa Tenggara and East Nusa Tenggara (State Gazette Year 1958 Number 122, Supplement to State Gazette Number 1655);\n3. Law Number 7 Year 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to State Gazette of the Republic of Indonesia 3886);\n5. Law Number 13 Year 2002 concerning Establishment of Bima City in West Nusa Tenggara Province (State Gazette of the Republic of Indonesia Year 2002 Number 26, Supplement to State Gazette of the Republic of Indonesia Number 4188);\n6. Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to State Gazette of the Republic of Indonesia 4279);\n7. Law Number 23 Year 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to State Gazette of the Republic of Indonesia 4419);\n8. Law Number 39 Year 2004 concerning Placement and Protection of Indonesian Migrant Workers Abroad (State Gazette of the Republic of Indonesia Year 2004 Number 137, Supplement to State Gazette of the Republic of Indonesia Number 4447);\n9. Law Number 13 Year 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia Year 2006 Number 64, Supplement to State Gazette of the Republic of Indonesia Number 4636);\n10. Law Number 21 Year 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to State Gazette of the Republic of Indonesia Number 4720);\n11. Law Number 11 Year 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia Year 2009 Number 12, Supplement to State Gazette of the Republic of Indonesia Number 4976);\n12. Law Number 12 Year 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to State Gazette of the Republic of Indonesia Number 5234);\n13. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to State Gazette of the Republic of Indonesia Number 5587) as has been amended several times most recently by Law Number 9 Year 2015 (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to State Gazette of the Republic of Indonesia Number 5659);\n14. Government Regulation Number 4 Year 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to State Gazette of the Republic of Indonesia number 64);\n15. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 Year 2008 concerning Implementation of Women's Protection;\n16. Regulation of the State Minister for Women's Empowerment and Child Protection Number 01 Year 2010 concerning Minimum Service Standards (SPM) for Integrated Services for Women and Children Victims of Violence (State News of the Republic of Indonesia Year 2010 Number 56);\n17. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 Year 2010 concerning Guidelines for Establishment and Development of Integrated Service Centers;\n18. Regulation of the State Minister for Women's Empowerment and Child Protection Number 19 Year 2011 concerning Empowerment of Women Victims of Violence;\n\nWith Mutual Approval",
+      "rationale": "The policy explicitly references the legal framework on elimination of domestic violence, indicating domestic violence is within scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 4\nForms of violence against women can be in the form of: physical violence;\npsychological violence;\nsexual violence;\nneglect; and exploitation.",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 4\nForms of violence against women can be in the form of: physical violence;\npsychological violence;\nsexual violence;\nneglect; and exploitation.",
+      "rationale": "The policy explicitly lists physical violence as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 4\nForms of violence against women can be in the form of: physical violence;\npsychological violence;\nsexual violence;\nneglect; and exploitation.",
+      "rationale": "The policy explicitly lists psychological violence as a form of violence against women.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 8\nNeglect as referred to in Article 4 letter d is caused by: an act that results in the unfulfillment of a woman's needs in a proper manner, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nan act of deliberately neglecting to maintain, care for, or look after a woman as appropriate, committed by parents, guardians or any other party responsible for her care;\nan act of neglecting a person within the household environment, whereas according to the law applicable to him or her or due to an agreement or contract he or she is obligated to provide livelihood, care, or maintenance to that person; and/or an act that results in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+      "rationale": "The policy defines neglect to include acts causing economic dependence by restricting/prohibiting proper work, which constitutes economic violence/economic abuse and domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention or clearly cover harmful practices such as early marriage, FGM, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address violence against women generally, but do not explicitly mention femicide/feminicide or gender-related killing of women as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 3\nThe objectives of implementing protection for women victims of violence are to: prevent violence against women including trafficking in persons;\neliminate all forms of violence and exploitation against women;\nprotect and provide a sense of security for women;\nprovide services to women victims of violence, reporters, witnesses; and facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\nThe objectives of implementing protection for women victims of violence as referred to in paragraph (1), include aspects of: prevention;\nservices and assistance;\nreunification; and empowerment.",
+      "rationale": "The objectives explicitly include preventing violence against women including trafficking in persons.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 9\nExploitation as referred to in Article 4 letter e is caused by: acts that exploit economically or sexually with the intention of benefiting oneself or others;\nacts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or ability of a person by other parties to obtain benefits both material and immaterial; and/or all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including and not limited to all activities of prostitution or sexual abuse.",
+      "rationale": "The policy explicitly defines exploitation to include sexual exploitation and related practices such as prostitution and sexual abuse, which covers sexual exploitation/sexual slavery-type conduct.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly or implicitly address technology-facilitated forms of violence (e.g., online harassment, cyberstalking, image-based abuse).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 25\nForms of services provided to women victims of violence, include: complaint services;\nhealth services;\nlegal aid;\nrepatriation;\nrehabilitation, social reintegration, and medicolegal;\nidentification services; and psychological services.\nForms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\nwomen's empowerment and protection; and mental and spiritual.\nIn carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial governments, other district/city governments and the community.\nFurther provisions regarding procedures for services and handling of women victims of violence as referred to in paragraph (1) are regulated by Mayor Regulation.",
+      "rationale": "The policy describes cooperation across jurisdictions by stating that the Regional Government cooperates with provincial governments and other district/city governments in carrying out services for women victims of violence, indicating an intergovernmental coordination network.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 23\nAssistance is carried out by persons and/or institutions that cooperate with PPT.\nThe assistance mechanism as referred to in paragraph (1), is organized according to Standard Operating Procedures (SOP) which are further regulated by Mayoral Regulation.",
+      "rationale": "The policy provides a cooperation mechanism by specifying that assistance is carried out by persons and/or institutions that cooperate with the PPT, with the mechanism organized through SOPs regulated by Mayoral Regulation.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+      "rationale": "The policy explicitly mentions building and providing a complete and easily accessible information system as part of prevention efforts, which implies an information system relevant to violence against women and protection.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles such as gender equality, none of the provided passages mention institutionalizing gender mainstreaming or establishing a specific gender mainstreaming working group to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 26\nThe Regional Government shall conduct guidance and supervision of the implementation of protection for women victims of violence.\nThe guidance as referred to in paragraph (1), includes: guidelines and fulfillment standards;\ntechnical guidance and training;\nprovision of facilities;\nmonitoring; and evaluation The supervision as referred to in paragraph (1), shall be conducted with the principles of: professional;\ntransparent; and accountable.",
+      "rationale": "The policy includes capacity-building elements by requiring guidance that includes technical guidance and training as part of government guidance and supervision for implementing protection for women victims of violence.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 26\nThe Regional Government shall conduct guidance and supervision of the implementation of protection for women victims of violence.\nThe guidance as referred to in paragraph (1), includes: guidelines and fulfillment standards;\ntechnical guidance and training;\nprovision of facilities;\nmonitoring; and evaluation The supervision as referred to in paragraph (1), shall be conducted with the principles of: professional;\ntransparent; and accountable.",
+      "rationale": "The policy explicitly includes monitoring and evaluation within the Regional Government’s guidance and supervision of implementation of protection for women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 16\nIn order to provide services and protection to women from violence, the Regional Government establishes PPT as an integrated service center for women victims of violence.\nPPT as referred to in paragraph (1), consists of elements from the Health Service, Education and Culture Service, Social Service, Cooperatives Industry and Trade Service, Population and Civil Registration Service, Women's Empowerment and Child Protection Service, Civil Service Police Unit, Regional General Hospital, City Police Resort, Non-Governmental Organizations, and Higher Education Institutions.\nThe elements of PPT as referred to in paragraph (2), shall be determined by Mayor's Decree.\nThe provision of services to victims shall be carried out in an integrated manner by PPT.\nPPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\nPPT provides services and temporary protection in the form of safe houses.\nIn the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\nPPT consists of several counseling fields.\nThe counseling fields as referred to in paragraph (8) consist of: legal field;\nhealth field;\nspiritual field; and psychology field.\nFurther provisions regarding the organizational structure of PPT shall be regulated by Mayor's Regulation.",
+      "rationale": "The policy establishes PPT as an integrated service center for women victims of violence and specifies it provides integrated services and protection.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention police elements (e.g., City Police Resort) participating in the PPT, but do not describe a specialised service unit within police offices dedicated to VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 25\nForms of services provided to women victims of violence, include: complaint services;\nhealth services;\nlegal aid;\nrepatriation;\nrehabilitation, social reintegration, and medicolegal;\nidentification services; and psychological services.\nForms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\nwomen's empowerment and protection; and mental and spiritual.\nIn carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial governments, other district/city governments and the community.\nFurther provisions regarding procedures for services and handling of women victims of violence as referred to in paragraph (1) are regulated by Mayor Regulation.",
+      "rationale": "The policy lists 'complaint services' among the forms of services provided to women victims of violence, indicating a service function to receive complaints/reports.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 16\nIn order to provide services and protection to women from violence, the Regional Government establishes PPT as an integrated service center for women victims of violence.\nPPT as referred to in paragraph (1), consists of elements from the Health Service, Education and Culture Service, Social Service, Cooperatives Industry and Trade Service, Population and Civil Registration Service, Women's Empowerment and Child Protection Service, Civil Service Police Unit, Regional General Hospital, City Police Resort, Non-Governmental Organizations, and Higher Education Institutions.\nThe elements of PPT as referred to in paragraph (2), shall be determined by Mayor's Decree.\nThe provision of services to victims shall be carried out in an integrated manner by PPT.\nPPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\nPPT provides services and temporary protection in the form of safe houses.\nIn the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\nPPT consists of several counseling fields.\nThe counseling fields as referred to in paragraph (8) consist of: legal field;\nhealth field;\nspiritual field; and psychology field.\nFurther provisions regarding the organizational structure of PPT shall be regulated by Mayor's Regulation.",
+      "rationale": "The policy states that PPT provides services and temporary protection in the form of safe houses and provides referral arrangements if a safe house is not available.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 25\nForms of services provided to women victims of violence, include: complaint services;\nhealth services;\nlegal aid;\nrepatriation;\nrehabilitation, social reintegration, and medicolegal;\nidentification services; and psychological services.\nForms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\nwomen's empowerment and protection; and mental and spiritual.\nIn carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial governments, other district/city governments and the community.\nFurther provisions regarding procedures for services and handling of women victims of violence as referred to in paragraph (1) are regulated by Mayor Regulation.",
+      "rationale": "The policy explicitly includes 'legal aid' as a form of service provided to women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 19\nForms of services for victims organized by PPT include: Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nMedicolegal services constitute a form of medical services for evidentiary purposes in the legal field;\nPsychosocial services constitute services provided in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and to provide social support so that victims have self-confidence, strength and independence, in resolving their problems;\nLegal services to assist victims in undergoing legal processes; and Economic independence services in the form of skills training and providing economic access so that victims can be independent.",
+      "rationale": "The policy specifies that PPT-organized services include medical services (treatment and recovery of physical injuries) delivered by medical personnel and paramedics.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 19\nForms of services for victims organized by PPT include: Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nMedicolegal services constitute a form of medical services for evidentiary purposes in the legal field;\nPsychosocial services constitute services provided in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and to provide social support so that victims have self-confidence, strength and independence, in resolving their problems;\nLegal services to assist victims in undergoing legal processes; and Economic independence services in the form of skills training and providing economic access so that victims can be independent.",
+      "rationale": "The policy explicitly includes psychosocial services to restore victims' traumatic condition and provide social support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 16\nIn order to provide services and protection to women from violence, the Regional Government establishes PPT as an integrated service center for women victims of violence.\nPPT as referred to in paragraph (1), consists of elements from the Health Service, Education and Culture Service, Social Service, Cooperatives Industry and Trade Service, Population and Civil Registration Service, Women's Empowerment and Child Protection Service, Civil Service Police Unit, Regional General Hospital, City Police Resort, Non-Governmental Organizations, and Higher Education Institutions.\nThe elements of PPT as referred to in paragraph (2), shall be determined by Mayor's Decree.\nThe provision of services to victims shall be carried out in an integrated manner by PPT.\nPPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\nPPT provides services and temporary protection in the form of safe houses.\nIn the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\nPPT consists of several counseling fields.\nThe counseling fields as referred to in paragraph (8) consist of: legal field;\nhealth field;\nspiritual field; and psychology field.\nFurther provisions regarding the organizational structure of PPT shall be regulated by Mayor's Regulation.",
+      "rationale": "The policy states that PPT consists of several counseling fields, including a 'spiritual field,' indicating provision of spiritual/religious counseling.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 25\nForms of services provided to women victims of violence, include: complaint services;\nhealth services;\nlegal aid;\nrepatriation;\nrehabilitation, social reintegration, and medicolegal;\nidentification services; and psychological services.\nForms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\nwomen's empowerment and protection; and mental and spiritual.\nIn carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial governments, other district/city governments and the community.\nFurther provisions regarding procedures for services and handling of women victims of violence as referred to in paragraph (1) are regulated by Mayor Regulation.",
+      "rationale": "The policy includes 'rehabilitation' and 'social reintegration' among the forms of services provided to women victims of violence.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 19\nForms of services for victims organized by PPT include: Medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nMedicolegal services constitute a form of medical services for evidentiary purposes in the legal field;\nPsychosocial services constitute services provided in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and to provide social support so that victims have self-confidence, strength and independence, in resolving their problems;\nLegal services to assist victims in undergoing legal processes; and Economic independence services in the form of skills training and providing economic access so that victims can be independent.",
+      "rationale": "The policy includes 'Economic independence services' such as skills training and providing economic access to support victims’ independence.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+      "rationale": "The policy describes primary prevention measures that include awareness-raising and providing information, guidance, and/or counseling to families, parents, and the community to prevent violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 17\nForms of prevention of violence against women carried out by PPT, can be implemented through: Socialization activities of Laws and Regulations to the community related to the protection of women's rights; and Training of PPT members related to the implementation of their duties in preventing violence against women.",
+      "rationale": "The policy includes prevention activities involving socialization to the community related to the protection of women's rights, which constitutes information/education about women’s rights and aligns with gender equality education.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 17\nForms of prevention of violence against women carried out by PPT, can be implemented through: Socialization activities of Laws and Regulations to the community related to the protection of women's rights; and Training of PPT members related to the implementation of their duties in preventing violence against women.",
+      "rationale": "The policy explicitly provides for socialization activities of laws and regulations to the community related to protection of women's rights, which is information/education about relevant legal frameworks connected to VAW prevention.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+      "rationale": "The policy explicitly lists increasing the quantity and quality of education (formal, non-formal, and informal) as a prevention effort to prevent violence against women.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 14\nThe obligations and responsibilities of the community as referred to in Article 12 letter b, shall be implemented in the form of community participation.\nCommunity participation as referred to in paragraph (1), includes: the establishment of family partners at the kelurahan level;\nthe establishment of women's protection units within community organizations;\nthe implementation of independent socialization of women's rights;\nthe provision of first aid to victims; and reporting to the competent authorities if violence against victims occurs in their environment.\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors through which community participation obligations are carried out, indicating engagement/collaboration with NGOs in prevention/protection efforts.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 14\nThe obligations and responsibilities of the community as referred to in Article 12 letter b, shall be implemented in the form of community participation.\nCommunity participation as referred to in paragraph (1), includes: the establishment of family partners at the kelurahan level;\nthe establishment of women's protection units within community organizations;\nthe implementation of independent socialization of women's rights;\nthe provision of first aid to victims; and reporting to the competent authorities if violence against victims occurs in their environment.\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly lists religious institutions among the entities involved in community participation, indicating engagement with religious organizations/leaders in prevention/protection efforts.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention traditional or cultural organizations/leaders or collaboration with them; references to 'community' and 'social/community institutions' are not clearly specified as traditional/cultural leadership.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+      "rationale": "The policy explicitly mentions building networks and cooperation with universities, which are education institutions, as part of prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages mention cooperation with government entities, the community, universities, and NGOs, but do not explicitly reference international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 14\nThe obligations and responsibilities of the community as referred to in Article 12 letter b, shall be implemented in the form of community participation.\nCommunity participation as referred to in paragraph (1), includes: the establishment of family partners at the kelurahan level;\nthe establishment of women's protection units within community organizations;\nthe implementation of independent socialization of women's rights;\nthe provision of first aid to victims; and reporting to the competent authorities if violence against victims occurs in their environment.\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes mass media among the parties through which community participation is carried out, indicating engagement with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 25\nForms of services provided to women victims of violence, include: complaint services;\nhealth services;\nlegal aid;\nrepatriation;\nrehabilitation, social reintegration, and medicolegal;\nidentification services; and psychological services.\nForms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\nwomen's empowerment and protection; and mental and spiritual.\nIn carrying out duties and functions as referred to in paragraph (2), the Regional Government cooperates with government agencies, provincial governments, other district/city governments and the community.\nFurther provisions regarding procedures for services and handling of women victims of violence as referred to in paragraph (1) are regulated by Mayor Regulation.",
+      "rationale": "The policy explicitly states that the Regional Government cooperates with 'the community' in carrying out duties and functions related to service provision for women victims of violence.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 14\nThe obligations and responsibilities of the community as referred to in Article 12 letter b, shall be implemented in the form of community participation.\nCommunity participation as referred to in paragraph (1), includes: the establishment of family partners at the kelurahan level;\nthe establishment of women's protection units within community organizations;\nthe implementation of independent socialization of women's rights;\nthe provision of first aid to victims; and reporting to the competent authorities if violence against victims occurs in their environment.\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes the private sector among the entities involved in community participation, indicating engagement with business/private sector stakeholders.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention conflict zones, disasters, disaster-prone areas, or any tailored protection measures for women in such contexts; the text focuses generally on protection of women victims of violence.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "Article 3\nThe objectives of implementing protection for women victims of violence are to: prevent violence against women including trafficking in persons;\neliminate all forms of violence and exploitation against women;\nprotect and provide a sense of security for women;\nprovide services to women victims of violence, reporters, witnesses; and facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\nThe objectives of implementing protection for women victims of violence as referred to in paragraph (1), include aspects of: prevention;\nservices and assistance;\nreunification; and empowerment.",
+      "rationale": "The policy explicitly includes trafficking in persons within the objectives of protection and prevention efforts for violence against women, indicating targeted attention to trafficking-related harms.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not specifically mention women workers/employees or set out special protection measures for them; references to industrial environments or forced labor appear only as contextual factors/definitions, not worker-targeted protections.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage identifies elderly women as a specific target group or provides special measures tailored to older women; the provisions apply generally to women victims of violence.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention disability or women with disabilities, nor do they establish disability-specific protections or accommodations.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages refer to women heads of household/families or provide special protection measures targeted to that group; the text addresses women victims of violence generally.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention minority or isolated groups, nor do they provide group-specific protections; the non-discrimination principle is general and not targeted to minority/isolated women.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions services for reporters/witnesses in general, it does not specifically address women in conflict with the law as witnesses or perpetrators, nor provide protections tailored to women involved in legal processes in those roles.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions Indigenous peoples/groups (masyarakat adat) or provides special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not reference refugees, internally displaced persons, or forced displacement, and do not set out any displacement-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of domestic workers or any special protections targeted to domestic workers; the content addresses women victims of violence generally.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention homelessness or women experiencing homelessness, and do not establish homelessness-specific protection measures (safe houses are framed as temporary protection for victims of violence generally).",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages refer to former inmates/correctional institution releasees or provide special protection measures targeted to formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nFINANCING\nArticle 29\nFinancing for the implementation of protection for women victims of violence, is sourced from: Regional Revenue and Expenditure Budget; and other lawful sources in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The policy explicitly identifies the Regional Revenue and Expenditure Budget as a financing source, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention regional budget sources and cooperation with government agencies, but none explicitly identify the national government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing provisions refer to regional budget and other lawful sources, and to assistance to local organizations/universities, but do not explicitly mention international donors, UN agencies, foreign governments, or other international funding.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nFINANCING\nArticle 29\nFinancing for the implementation of protection for women victims of violence, is sourced from: Regional Revenue and Expenditure Budget; and other lawful sources in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The financing article explicitly includes 'other lawful sources' as a funding source beyond the regional budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions cooperation with provincial governments, it does not specify provincial government budget as a funding source; financing is stated as coming from the regional budget and other lawful sources.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

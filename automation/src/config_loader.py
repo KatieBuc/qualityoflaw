@@ -67,9 +67,11 @@ class ResolvedPipelineConfig:
     experiment_name: str
     translation_model: ModelProfile
     evaluation_model: ModelProfile
+    discrepancy_diagnosis_model: ModelProfile
     translation_prompt_path: Path
     evaluation_criteria_dir: Path
     evaluation_template_path: Path
+    discrepancy_diagnosis_template_path: Path
     paths: PipelinePaths
     concurrency: ConcurrencyConfig
     chunking: ChunkingConfig
@@ -195,10 +197,14 @@ def parse_retrieval_config(raw: dict | None) -> RetrievalConfig:
 def resolve_prompt_paths(
     translation_version: str,
     evaluation_version: str,
-) -> tuple[Path, Path, Path]:
+    discrepancy_diagnosis_version: str,
+) -> tuple[Path, Path, Path, Path]:
     translation_prompt = PROMPTS_ROOT / "translation" / translation_version / "prompt.txt"
     evaluation_dir = PROMPTS_ROOT / "quality_eval" / evaluation_version
     evaluation_template = evaluation_dir / "prompt_template.txt"
+    discrepancy_diagnosis_template = (
+        PROMPTS_ROOT / "discrepancy_diagnosis" / discrepancy_diagnosis_version / "prompt_template.txt"
+    )
 
     if not translation_prompt.exists():
         raise FileNotFoundError(f"Translation prompt not found: {translation_prompt}")
@@ -206,8 +212,12 @@ def resolve_prompt_paths(
         raise FileNotFoundError(f"Evaluation prompts dir not found: {evaluation_dir}")
     if not evaluation_template.exists():
         raise FileNotFoundError(f"Evaluation template not found: {evaluation_template}")
+    if not discrepancy_diagnosis_template.exists():
+        raise FileNotFoundError(
+            f"Discrepancy diagnosis template not found: {discrepancy_diagnosis_template}"
+        )
 
-    return translation_prompt, evaluation_dir, evaluation_template
+    return translation_prompt, evaluation_dir, evaluation_template, discrepancy_diagnosis_template
 
 
 def load_pipeline_config(
@@ -222,28 +232,36 @@ def load_pipeline_config(
 
     translation_cfg = pipeline_data.get("translation", {})
     evaluation_cfg = pipeline_data.get("evaluation", {})
+    diagnosis_cfg = pipeline_data.get("discrepancy_diagnosis", {})
     paths_cfg = pipeline_data.get("paths", {})
 
     translation_model_key = translation_cfg.get("model")
     evaluation_model_key = evaluation_cfg.get("model")
+    diagnosis_model_key = diagnosis_cfg.get("model")
     if not translation_model_key or not evaluation_model_key:
         raise ValueError("pipeline_config must define translation.model and evaluation.model")
+    if not diagnosis_model_key:
+        raise ValueError("pipeline_config must define discrepancy_diagnosis.model")
 
     translation_version = translation_cfg.get("prompt_version", "v1")
     evaluation_version = evaluation_cfg.get("prompt_version", "v1")
+    diagnosis_version = diagnosis_cfg.get("prompt_version", "v1")
 
-    translation_prompt, evaluation_dir, evaluation_template = resolve_prompt_paths(
+    translation_prompt, evaluation_dir, evaluation_template, diagnosis_template = resolve_prompt_paths(
         translation_version,
         evaluation_version,
+        diagnosis_version,
     )
 
     return ResolvedPipelineConfig(
         experiment_name=pipeline_data.get("experiment_name", "unnamed"),
         translation_model=get_model_profile(profiles, translation_model_key),
         evaluation_model=get_model_profile(profiles, evaluation_model_key),
+        discrepancy_diagnosis_model=get_model_profile(profiles, diagnosis_model_key),
         translation_prompt_path=translation_prompt,
         evaluation_criteria_dir=evaluation_dir,
         evaluation_template_path=evaluation_template,
+        discrepancy_diagnosis_template_path=diagnosis_template,
         paths=PipelinePaths(
             input_dir=_resolve_path(paths_cfg.get("input_dir", "data/raw/localpolicies")),
             golden_csv=_resolve_path(

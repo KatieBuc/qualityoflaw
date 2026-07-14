@@ -1,0 +1,469 @@
+{
+  "policy_file": "BALI_BULELENG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:38:19.824654+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The policy explicitly references domestic violence by including prevention activities such as education on the dangers of domestic violence.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 5\nThe Regional Government is responsible for efforts to protect women and children from acts of violence in the form of:\na. physical violence;\nb. sexual violence;\nc. economic violence;\nd. social violence;\ne. psychological violence;\nf. domestic neglect;\ng. coercion or deprivation of liberty; and\nh. threats of certain actions.",
+      "rationale": "The policy explicitly lists sexual violence as a form of violence for which the Regional Government is responsible to protect women and children.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 5\nThe Regional Government is responsible for efforts to protect women and children from acts of violence in the form of:\na. physical violence;\nb. sexual violence;\nc. economic violence;\nd. social violence;\ne. psychological violence;\nf. domestic neglect;\ng. coercion or deprivation of liberty; and\nh. threats of certain actions.",
+      "rationale": "The policy explicitly lists physical violence as a form of violence covered by the protection responsibilities of the Regional Government.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 5\nThe Regional Government is responsible for efforts to protect women and children from acts of violence in the form of:\na. physical violence;\nb. sexual violence;\nc. economic violence;\nd. social violence;\ne. psychological violence;\nf. domestic neglect;\ng. coercion or deprivation of liberty; and\nh. threats of certain actions.",
+      "rationale": "The policy explicitly includes psychological violence among the forms of violence addressed by the Regional Government’s protection efforts.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 5\nLetter a What is meant by \"physical violence\" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and or causes death Letter b What is meant by \"sexual violence\" is any act in the form of sexual harassment, forced sexual relations, forced sexual relations with another person for commercial purposes and or certain purposes.\nLetter c What is meant by \"economic violence\" is an action that restricts humans from working inside or outside the home to produce money and goods, including allowing humans who work to be exploited, while someone does not fulfill the economic needs of the family.\nLetter d What is meant by \"social violence\" is an act of a person or group of people that causes injury or loss of life of a person or can cause physical damage or damage to another person's property Letter e What is meant by \"psychological violence\" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nLetter f What is meant by \"Domestic Neglect\" is:\na. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;\nb. actions of deliberately neglecting to maintain, care for, or take care of children as they should be;\njdih.bulelengkab.go.id\nc. actions that neglect people within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person;\nd. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\nLetter g Sufficiently clear.\nLetter h What is meant by \"threat of certain actions\" is any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom.",
+      "rationale": "The policy explicitly defines and includes economic violence and also addresses domestic neglect within the same provision.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss various forms of violence generally but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "REGENT OF BULELENG,\n\nConsidering : a. that every citizen has the right to obtain a sense of security and freedom from all forms of violence that degrade human dignity;\nb. that women and children are vulnerable groups who tend to experience violence, thus need to receive optimal protection;\nc. that based on the provisions of Article 12 paragraph (2) letter b of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government, women's empowerment and child protection constitute mandatory government affairs for regional governments;\nc. that based on the considerations as referred to in letter a, letter b, and letter b, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children From Acts of Violence;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 69 of 1958 concerning the Establishment of Level II Regions within the Level I Regional Areas of Bali, West Nusa Tenggara and East Nusa Tenggara (State Gazette of the Republic of Indonesia jdih.bulelengkab.go.id Year 1958 Number 122, Supplement to the State Gazette of the Republic of Indonesia Number 1655);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as has been amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n7. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia Year 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n8. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587); as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number jdih.bulelengkab.go.id 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);\n9. Law Number 17 of 2016 concerning the Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2016 Number 99, Supplement to the State Gazette of the Republic of Indonesia Number 5882);\n10. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n11. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia Number 4818);\n12. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n13. Regulation of the State Minister for Women's Empowerment and Child Protection Number 3 of 2008 concerning Guidelines for the Implementation of Child Protection;\n14. Regulation of the State Minister for Women's Empowerment and Child Protection Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n15. Regulation of the State Minister for Women's Empowerment and Child Protection Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n16. Regulation of the State Minister for Women's Empowerment and Child Protection Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;\njdih.bulelengkab.go.id\n17. Regulation of the State Minister for Women's Empowerment and Child Protection Number 2 of 2011 concerning Guidelines for Handling Child Victims of Violence;\n18. Regulation of the State Minister for Women's Empowerment and Child Protection Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection;\n19. Regional Regulation of Bali Province Number 6 of 2014 concerning Child Protection (Regional Gazette of Bali Province Year 2014 Number 6, Supplement to the Regional Gazette of Bali Province Number 6 Year 2014);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF BULELENG REGENCY and",
+      "rationale": "The policy text references the legal framework on trafficking in persons, indicating inclusion of human trafficking within the policy’s scope/context.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 13\n(1) Special protection for children is provided to:\na. Children in emergency situations;\nb. Children in conflict with the law;\nc. Children from minority and isolated groups;\nd. Children who are exploited economically and/or sexually;\ne. Children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. Children who are victims of pornography;\ng. Children with HIV/AIDS;\nh. Children who are victims of kidnapping, sale, and/or trafficking;\njdih.bulelengkab.go.id\ni. Children who are victims of physical and/or psychological violence;\nj. Children who are victims of sexual crimes;\nk. Children who are victims of terrorist networks;\nl. Children with disabilities;\nm. Children who are victims of maltreatment and neglect;\nn. Children with deviant social behavior; and\no. Children who are victims of stigmatization from labeling related to their parents' condition.\n(2) Regional Government implements special protection for children as referred to in paragraph (1) in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The policy explicitly includes children who are exploited economically and/or sexually as a category receiving special protection.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention technology-facilitated violence (e.g., online harassment, cyberstalking, digital abuse) or related mechanisms.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 17\n(1) The Regent coordinates the protection of women and children from acts of violence with:\na. the government;\nb. the provincial government;\nc. vertical agencies;\nd. educational institutions; and\ne. community institutions.\n(2) Coordination as referred to in paragraph (1) includes: a. religious affairs;\nb. health affairs;\nc. education affairs;\nd. social affairs;\ne. legal affairs; and\nf. manpower affairs.\njdih.bulelengkab.go.id",
+      "rationale": "The policy establishes coordination across jurisdictions by specifying that the Regent coordinates protection efforts with the national government, provincial government, and vertical agencies, indicating an inter-governmental institutional network.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy provides a mechanism for integrated service delivery carried out by the Regional Government together with P2TP2A and other social institutions, including networked referrals, which constitutes collaboration with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nINFORMATION AND REPORTING SYSTEM\nArticle 24\n(1) The Regional Government prepares and develops an information and reporting system for the protection of women and children from acts of violence.\n(2) The Information and reporting system as referred to in paragraph (1) shall be in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The policy explicitly mandates that the Regional Government prepare and develop an information and reporting system for protection from violence, which is a formal data/information system component.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles such as justice and gender equality, none of the provided passages explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 22\nSPM as referred to in Article 21 has performance indicators including:\na. coverage of Women and Children Victims of Violence who receive complaint handling by trained officers in integrated service units;\nb. coverage of Women and Children Victims of Violence who receive health services by trained health workers at Puskesmas and Hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women and Children Victims of Violence in integrated service units;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women and Children Victims of Violence in integrated service units;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence against Women and Children;\nf. coverage of Women and Children Victims of Violence who receive legal aid services;\ng. coverage of Repatriation services for Women and Children Victims of Violence; and\nh. coverage of social reintegration services for Women and Children Victims of Violence.",
+      "rationale": "The policy includes minimum service standard performance indicators that require services to be delivered by trained officers/health workers/social rehabilitation officers/spiritual guidance officers, indicating training/capacity building expectations for service workers.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 23\n(1) The Regional Government provides guidance and supervises P2TP2A and other social institutions.\n(2) The guidance and supervision as referred to in paragraph (1) shall be implemented by regional apparatus that administers the affairs of women and children empowerment.\n(3) The results of the implementation of guidance and supervision as referred to in paragraph (2) shall be reported to the Regent.\njdih.bulelengkab.go.id",
+      "rationale": "The policy establishes guidance and supervision of P2TP2A and other social institutions, with results reported to the Regent, which constitutes monitoring/oversight of implementation and service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Buleleng Regency.\n2. Regional Government is the Government of Buleleng Regency.\n3. Regent is the Regent of Buleleng.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Buleleng Regency.\n5. Regional Apparatus is an auxiliary element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Community is individuals, families, groups, social organizations and community organizations and/or associations.\n8. Family is the smallest unit in society consisting of husband, wife, or husband and wife and their child, or father and his child, or mother and jdih.bulelengkab.go.id his/her child, or blood relatives in direct lineage upward or downward up to the third degree.\n9. Every person is an individual person or corporation.\n10. Violence is any act that results in suffering or hardship physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n11. Violence against women is any action based on gender differences that results in or may result in suffering or hardship to women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n12. Violence against children is any action that results in or may result in suffering to children physically, sexually, economically, socially and psychologically.\n13. Victim is a woman and child who experiences suffering and or hardship either directly or indirectly as a result of violence.\n14. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will or has occurred.\n15. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination.\n16. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n17. Cooperation is an activity or effort carried out by several people to achieve common goals.\n18. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is or has occurred.\njdih.bulelengkab.go.id\n19. Companion is a social worker who has professional competence in their field.\n20. Victim recovery is all efforts to strengthen victims of violence, both physically and psychologically.\n21. Integrated Service Center for Women and Children Empowerment hereinafter referred to as P2TP2A is an Integrated Service Unit established by the Regional Government to carry out the functions and main tasks of integrated services for Women and Children Victims of Violence, including complaint services, Health Rehabilitation, Social Rehabilitation, Repatriation, Social Reintegration, and Legal Aid.\n22. Minimum Service Standards hereinafter abbreviated as SPM is a performance benchmark for integrated service units in providing services for handling reports/complaints, health services, Social Rehabilitation, law enforcement and legal aid, as well as Repatriation and social reintegration for Women and Children Victims of Violence.",
+      "rationale": "The policy defines P2TP2A as an integrated service unit established by the Regional Government to provide integrated services for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy requires integrated services to be supported by facilities including special service rooms within the police force, indicating a specialized service unit/space in police offices for victims.",
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy includes 'complaint services' as part of integrated services for victims, which entails receiving and handling reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy specifies that integrated services must be supported by facilities including 'service centers and safe houses,' which corresponds to shelter/protection services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes 'legal aid and assistance services' as part of integrated services for victims of violence.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes 'health services' within the integrated services provided to victims of acts of violence.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes 'counseling' as one of the integrated services for victims, which covers psychosocial counseling support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes 'spiritual guidance' as part of integrated services for victims, indicating religious/spiritual counseling support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy includes social rehabilitation services and repatriation and reintegration as part of integrated services, addressing rehabilitation/reintegration (resocialisation).",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 12\n(1) Empowerment of victims of acts of violence against women is carried out by the Regional Government in the form of:\na. job training;\nb. productive economic enterprises and joint business groups; and c. capital assistance.\n(2) Empowerment of victims of acts of violence against children is carried out by the Regional Government in the form of providing education, guidance, and counseling.\n(3) Empowerment as referred to in paragraph (1) and paragraph (2) is implemented by Regional Apparatus in accordance with their duties and functions.",
+      "rationale": "The policy provides for empowerment of women victims through job training, productive economic enterprises, and capital assistance, which constitutes economic empowerment/support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The policy includes primary prevention measures that explicitly involve education and awareness-raising related to violence against women/children, including counseling/guidance, education on the dangers of domestic violence, and seminars/workshops.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy states gender equality as a guiding principle, the provided passages do not describe primary-prevention information/education activities specifically about gender equality and/or women’s rights (e.g., public education campaigns or curricula on equality/rights).",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The prevention provisions explicitly include socialization (public dissemination) of laws and regulations as a means of preventing violence against women and children, which constitutes information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The prevention section explicitly includes educational actions (e.g., providing education on the dangers of domestic violence and conducting seminars/workshops) as part of primary prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 11\n(1) Regional Government implements integrated services for victims of acts of violence through activities:\na. complaint services;\nb. health services;\nc. counseling;\nd. spiritual guidance;\ne. social rehabilitation services;\nf. legal aid and assistance services; and\ng. repatriation and reintegration.\n(2) Services as referred to in paragraph (1) must be supported by facilities in the form of:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and/or\nd. other facilities and infrastructure necessary for victim recovery.\n(3) Services as referred to in paragraph (1), including the preparation of visum et repertum, are conducted free of charge.\njdih.bulelengkab.go.id (4) Implementation of services for victims of acts of violence is conducted in an integrated manner by the Regional Government together with P2TP2A and other social institutions;\n(5) P2TP2A and other social institutions as referred to in paragraph (4) may receive and send case referrals from other service units in a networked manner;\n(6) Integrated services for victims of acts of violence as referred to in paragraph (1), paragraph (2), paragraph (3) and paragraph (4) are implemented in accordance with Standard Operating Procedures;\n(7) Provisions regarding Standard Operating Procedures as referred to in paragraph (6) are regulated by Regent Regulation.",
+      "rationale": "The policy states that implementation of integrated services is carried out by the Regional Government together with P2TP2A and other social institutions, indicating collaboration with civil society/NGO-type actors.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions spiritual guidance and increasing awareness in accordance with religious norms, none of the provided passages explicitly indicate engagement or collaboration with religious organizations or religious leaders.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The prevention provision lists \"Desa pakraman\" among institutions obligated to implement prevention, which indicates engagement with a traditional/cultural community institution.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) Regional Government conducts prevention of acts of violence against women and children by means of:\na. conducting socialization of laws and regulations; b. providing counseling/guidance;\nc. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like;\ne. forming work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\ng. forming a violence prevention system, mapping of locations or areas prone to violence occurrence; and\nh. increasing public awareness in behaving in accordance with religious norms.\n(2) In addition to conducting prevention as referred to in paragraph (1), prevention of acts of violence against children is also conducted by means of increasing family capacity in child protection and child care skills.\n(3) In addition to Regional Government, prevention as referred to in paragraph (1) is obligated to be implemented by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions;\nd. health institutions;\ne. social community institutions;\nf. Desa pakraman; and jdih.bulelengkab.go.id\ng. business sector and other institutions.",
+      "rationale": "The prevention provision explicitly includes \"educational institutions\" among those obligated to implement prevention activities, indicating engagement with the education sector.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention international organizations or international support; cooperation is described with domestic entities and unspecified \"certain institutions\" without indicating international actors.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention media entities or any collaboration/engagement with media for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nPARTICIPATION OF THE COMMUNITY AND BUSINESS SECTOR\nArticle 18\n(1) Every person may participate in providing protection to women and children from acts of violence.\n(2) Participation as referred to in paragraph (1) may be carried out by means of:\na. reporting acts of violence against women and/or children; b. providing first aid to victims of Acts of Violence; c. independently disseminating the rights of women and children; and/or\nd. establishing independent community social institutions.",
+      "rationale": "The policy explicitly provides for community participation in protection efforts and specifies ways the public can participate, demonstrating engagement with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 20\n(1) The Regional Government encourages the business sector to participate in the protection of women and children from acts of violence.\n(2) Participation as referred to in paragraph (1) may take the form of:\na. socialization to employees within the company environment regarding the dangers of acts of violence against women and children; and\nb. assistance as a form of corporate social responsibility.",
+      "rationale": "The policy explicitly encourages the business sector to participate in protection efforts and describes forms of participation (e.g., employee socialization and CSR assistance), indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited passages provide special protection measures for children in emergency situations and general rights/protection for women and child victims of violence, but none specify special protection measures targeted at women in conflict or disaster-prone areas.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention special protection for children who are victims of trafficking and general rights for women and child victims of violence, but do not specify special protection measures targeted specifically at women victims of human trafficking.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address protection of women and children from violence generally and encourage business sector participation (including employee socialization), but they do not specifically mention protection measures targeted at women workers/employees as a distinct group.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved text focuses on women and children victims of violence and special protection categories for children; there is no explicit or implicit special protection measure targeted at elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 13\n(1) Special protection for children is provided to:\na. Children in emergency situations;\nb. Children in conflict with the law;\nc. Children from minority and isolated groups;\nd. Children who are exploited economically and/or sexually;\ne. Children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. Children who are victims of pornography;\ng. Children with HIV/AIDS;\nh. Children who are victims of kidnapping, sale, and/or trafficking;\njdih.bulelengkab.go.id\ni. Children who are victims of physical and/or psychological violence;\nj. Children who are victims of sexual crimes;\nk. Children who are victims of terrorist networks;\nl. Children with disabilities;\nm. Children who are victims of maltreatment and neglect;\nn. Children with deviant social behavior; and\no. Children who are victims of stigmatization from labeling related to their parents' condition.\n(2) Regional Government implements special protection for children as referred to in paragraph (1) in accordance with the provisions of Laws and Regulations.",
+      "rationale": "The policy explicitly includes a special protection category for children with disabilities, indicating targeted special protection measures for persons with disabilities (at least within the child protection framework).",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide general victim rights and definitions of family/community, but do not identify women heads of household/families as a group receiving special protection measures.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy provides special protection for children from minority and isolated groups, but does not specify special protection measures targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include special protection for children in conflict with the law and services/rights for witnesses and victims generally, but do not specifically mention protection of women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention Indigenous peoples/groups (masyarakat adat) or provide special protection measures targeted to them; references to minority/isolated groups are limited to children and are not framed as Indigenous-specific.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention special protection for children in emergency situations and general victim services, but do not explicitly or implicitly address refugees or forced displacement as a targeted category.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved passages provide general protections for women and children victims of violence and define forms of violence/neglect, but do not mention domestic workers as a group or provide special protection measures targeted at them.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions shelters and safe houses in the context of victim services and neglected children, it does not identify women experiencing homelessness as a target group for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss general victim empowerment and child special protection categories, but do not mention women who are former inmates or provide special protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFINANCING\nArticle 26\nFinancing for activities of Protection of Women and Children from acts of violence, may be sourced from:\na. Regional Revenue and Expenditure Budget; and/or\nb. other legal and non-binding sources in accordance with the provisions of Laws and Regulations.\njdih.bulelengkab.go.id",
+      "rationale": "The policy explicitly identifies the Regional Revenue and Expenditure Budget as a financing source, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financing provision mentions the regional budget and other legal/non-binding sources, but does not explicitly mention national government budget funding.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly reference international donors, UN agencies, foreign governments, or other international funding sources; financing is described only as regional budget and other legal/non-binding sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFINANCING\nArticle 26\nFinancing for activities of Protection of Women and Children from acts of violence, may be sourced from:\na. Regional Revenue and Expenditure Budget; and/or\nb. other legal and non-binding sources in accordance with the provisions of Laws and Regulations.\njdih.bulelengkab.go.id",
+      "rationale": "The financing article explicitly allows funding from 'other legal and non-binding sources' in addition to the regional budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions coordination with the provincial government, the financing provision does not specify provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

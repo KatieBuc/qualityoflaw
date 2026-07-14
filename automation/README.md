@@ -1,6 +1,6 @@
 # Automation Pipeline
 
-Config-driven orchestration for policy translation, LLM quality evaluation, and golden-dataset comparison.
+Config-driven orchestration for policy translation, LLM quality evaluation, golden-dataset comparison, and discrepancy diagnosis.
 
 Legacy CLIs in `translation/` and `quality_eval/` remain available independently. Golden-dataset comparison logic lives in [`src/evaluate_accuracy.py`](src/evaluate_accuracy.py); `quality_eval/evaluate_accuracy.py` re-exports it for backward compatibility.
 
@@ -13,13 +13,16 @@ automation/
 │   └── pipeline_config.yaml   # Experiment combination
 ├── prompts/
 │   ├── translation/v1/
-│   └── quality_eval/v1/
+│   ├── quality_eval/v1/
+│   └── discrepancy_diagnosis/v1/
 └── src/
     ├── llm/                   # Shared Azure LLM wrapper
     ├── evaluate_accuracy.py   # Golden-dataset comparison
     ├── run_pipeline.py        # Main entry point
     ├── translate.py
     ├── run_eval.py
+    ├── diagnose.py            # Discrepancy diagnosis (final pipeline step)
+    ├── diagnose_prompt_builder.py
     └── compare.py             # Thin wrapper around evaluate_accuracy
 ```
 
@@ -38,11 +41,13 @@ data/automation/<run_id>/
 │   ├── <policy>.cleaned.txt
 │   └── <policy>.chunks.json
 ├── evaluation/                # LLM JSON reports (one per policy)
-├── failures.json              # Persistent log of translation/evaluation failures (when present)
-└── comparison/                # Golden-dataset comparison outputs
-    ├── metrics.csv
-    ├── error_analysis.csv
-    └── unmatched_indicators.csv   # Only when join pairs are missing on one side
+├── rag_candidates/            # Full RAG candidate list per indicator (one per policy, written by evaluation)
+├── failures.json              # Persistent log of translation/evaluation/diagnosis failures (when present)
+├── comparison/                # Golden-dataset comparison outputs
+│   ├── metrics.csv
+│   ├── error_analysis.csv
+│   └── unmatched_indicators.csv   # Only when join pairs are missing on one side
+└── diagnosis/                 # Discrepancy diagnosis reports (one per policy with mismatches)
 ```
 
 ### `metadata.json`
@@ -54,13 +59,13 @@ data/automation/<run_id>/
 | `status` | `running`, `completed`, `completed_with_errors`, or `failed` |
 | `timestamps.created_at` / `timestamps.updated_at` | UTC timestamps |
 | `config` | Model and prompt versions used |
-| `execution_scope.steps_executed` | List of completed steps: `translation`, `evaluation`, `comparison` |
+| `execution_scope.steps_executed` | List of completed steps: `translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` |
 | `execution_scope.small_scale` | Whether only the 5 benchmark policies were processed |
 | `execution_scope.evaluated_policy_files` | Policy filenames compared during the comparison step |
-| `file_counts` | Per-step (`translation`, `evaluation`) success/failure counts |
+| `file_counts` | Per-step (`translation`, `storage`, `evaluation`, `discrepancy_diagnosis`) success/failure counts |
 | `failures` | Count of logged failures per step (see `failures.json`) |
-| `token_usage` | Aggregated LLM token usage (translation and evaluation steps) |
-| `timing_seconds` | Elapsed seconds per step (`translation`, `evaluation`, `comparison`) and `total` |
+| `token_usage` | Aggregated LLM token usage (translation, evaluation, and discrepancy_diagnosis steps) |
+| `timing_seconds` | Elapsed seconds per step (`translation`, `evaluation`, `comparison`, `discrepancy_diagnosis`) and `total` |
 
 Example:
 
@@ -76,8 +81,10 @@ Example:
   "config": {
     "translation_model": "claude-sonnet-4-5",
     "evaluation_model": "gpt-5.2",
+    "discrepancy_diagnosis_model": "gpt-5.2-diagnosis",
     "translation_prompt_version": "v2",
     "evaluation_prompt_version": "v1",
+    "discrepancy_diagnosis_prompt_version": "v1",
     "concurrency": { "enabled": true, "max_workers": 5 },
     "chunking": { "enabled": true, "safe_limit": 32000 }
   },
@@ -90,7 +97,7 @@ Example:
     "translation": { "total": 190, "succeeded": 1, "skipped": 189, "failed": 0 },
     "evaluation": { "total": 190, "succeeded": 1, "skipped": 189, "failed": 0, "saved_reports": 1 }
   },
-  "failures": { "translation": 0, "evaluation": 0 },
+  "failures": { "translation": 0, "evaluation": 0, "discrepancy_diagnosis": 0 },
   "token_usage": {
     "translation": { "prompt_tokens": 15458, "completion_tokens": 7397, "total_tokens": 22855 },
     "evaluation": { "prompt_tokens": 50772, "completion_tokens": 4309, "total_tokens": 55081 }
@@ -113,9 +120,24 @@ Per-policy JSON reports named `<timestamp>-<model>-<POLICY_BASENAME>.json`. Each
 
 If multiple reports exist for the same policy, comparison keeps the **latest** by timestamp.
 
+### `rag_candidates/`
+
+Written by the `evaluation` step alongside each policy's report. One JSON file per policy (no timestamp prefix, unlike `evaluation/`): `<stem>.json`, matching the policy's basename minus `.txt`. Contains the **full** RAG candidate list retrieved for every indicator — not just the single candidate the judge cited as `evidence` — so the `discrepancy_diagnosis` step can inspect what evidence was available without recomputing retrieval:
+
+```json
+{
+  "policy_file": "ACEH_BIREUEN.txt",
+  "candidates": {
+    "4.2": [{ "chunk_id": 7, "text": "...", "score": 0.81 }, ...]
+  }
+}
+```
+
+Only written for policies whose evaluation report was actually saved (matches `finalize_and_save_report`'s success/`--allow-partial` conditions). Runs whose `evaluation` step executed before this directory existed do not have it — re-run `evaluation` (with `--force`, since `--run-missing` skips policies with an existing report) to backfill it before running `discrepancy_diagnosis`.
+
 ### `failures.json`
 
-Written when translation or evaluation failures occur. Each step maintains its own list; re-running a successful item removes it from the log.
+Written when translation, evaluation, or discrepancy_diagnosis failures occur. Each step maintains its own list; re-running a successful item removes it from the log.
 
 | Field (translation entry) | Description |
 |---------------------------|-------------|
@@ -132,6 +154,12 @@ Written when translation or evaluation failures occur. Each step maintains its o
 | `failed_dimensions` | Criteria files that failed |
 | `errors` | Per-dimension error messages |
 | `error_type` / `message` / `details` / `attempts` / `at` | Same as translation |
+
+| Field (discrepancy_diagnosis entry) | Description |
+|--------------------------------------|-------------|
+| `policy_file` | Policy basename |
+| `error_type` | Exception class, or `DiagnosisIncomplete` when some discrepancies couldn't be diagnosed and `--allow-partial` wasn't set |
+| `message` / `details` / `attempts` / `at` | Same as translation |
 
 ### `comparison/` — golden-dataset reports
 
@@ -187,6 +215,51 @@ Written only when some `(filename, indicator_id)` pairs cannot be joined:
 
 These rows are **excluded from accuracy**. An empty or absent file means all pairs joined successfully.
 
+### `diagnosis/` — discrepancy diagnosis reports
+
+Written by the `discrepancy_diagnosis` step, the final stage of the pipeline. For every policy with at least one mismatch in `comparison/error_analysis.csv`, one JSON report is written to `<stem>.json` (no timestamp prefix, matching `rag_candidates/`'s convention). Policies with zero mismatches get no file. If `error_analysis.csv` doesn't exist at all (comparison found zero mismatches, or hasn't run), the whole step is a no-op and the `diagnosis/` directory isn't created.
+
+For each mismatched indicator, the step gathers the original Indonesian policy text, the golden and predicted labels, the RAG evidence candidates persisted in `rag_candidates/` during evaluation, and the judge's cited evidence snippet + rationale from `evaluation/`, then asks an LLM to diagnose the root cause.
+
+```json
+{
+  "policy_file": "ACEH_BIREUEN.txt",
+  "model": "gpt-5.2-diagnosis",
+  "diagnosed_at": "2026-07-14T05:00:00+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4,
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "diagnoses": {
+    "4.2": {
+      "indicator": "...",
+      "dimension": "...",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": "...",
+      "evaluator_rationale": "...",
+      "evidence_candidates": [{ "chunk_id": 7, "text": "...", "score": 0.81 }],
+      "root_causes": ["rag_candidate_issue"],
+      "rationale": "...",
+      "diagnosis_status": "ok"
+    }
+  }
+}
+```
+
+| Field | Description |
+|-------|-------------|
+| `discrepancy_count` | Number of mismatched indicators for this policy |
+| `diagnosed_count` | `discrepancy_count` minus `missing_diagnoses` and `unresolved_indicators` |
+| `missing_diagnoses` | Indicator IDs the diagnosis LLM omitted from its response |
+| `unresolved_indicators` | Indicator IDs with no entry in `rag_candidates/` (excluded from the LLM call) |
+| `diagnoses.<indicator_id>.root_causes` | One or more of `translation_quality`, `evaluation_failure`, `rag_candidate_issue`, `golden_label_issue` |
+| `diagnoses.<indicator_id>.diagnosis_status` | `ok`, `missing_from_llm_response`, or `unresolved_indicator` |
+
+A policy with any `missing_diagnoses` or `unresolved_indicators` is treated as **partial**; its report is only written if `--allow-partial` is set (otherwise it's recorded as a failure in `failures.json` and no file is written).
+
 ## Configuration
 
 ### `config/model_config.yaml`
@@ -196,6 +269,12 @@ Named model profiles (credentials stay in `.env`):
 ```yaml
 models:
   gpt-5.2-translate:
+    deployment: gpt-5.2
+    temperature: 0.2
+    max_tokens: null
+    max_retries: 3
+
+  gpt-5.2-diagnosis:
     deployment: gpt-5.2
     temperature: 0.2
     max_tokens: null
@@ -217,7 +296,12 @@ translation:
 evaluation:
   model: gpt-4o-eval
   prompt_version: v1
+discrepancy_diagnosis:
+  model: gpt-5.2-diagnosis
+  prompt_version: v1
 ```
+
+`discrepancy_diagnosis.model`/`prompt_version` are required just like `translation`/`evaluation`'s (config is validated eagerly on every invocation, regardless of which `--steps` are selected). The template lives at `automation/prompts/discrepancy_diagnosis/<prompt_version>/prompt_template.txt`.
 
 #### Chunked translation (`translation.chunking`)
 
@@ -296,6 +380,9 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps evaluatio
 
 # Resume a run — skip items that already have output (requires --run-id)
 python -m automation.src.run_pipeline --run-id 20250630_143022 --steps translation,evaluation --run-missing
+
+# Discrepancy diagnosis on an existing run that already has evaluation + comparison output
+python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepancy_diagnosis --small-scale
 ```
 
 ### CLI flags
@@ -303,11 +390,11 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps translati
 | Flag | Description |
 |------|-------------|
 | `--small-scale` | Process only 5 benchmark policy files |
-| `--steps` | `translation`, `evaluation`, `comparison` (default: all) |
-| `--run-id` | Existing run ID (required for eval/comparison without translation) |
+| `--steps` | `translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` (default: all) |
+| `--run-id` | Existing run ID (required for eval/comparison/diagnosis without translation) |
 | `--run-missing` | Resume an existing run; each step skips items that already have output (requires `--run-id`; mutually exclusive with `--force`) |
 | `--force` | Re-translate files even if output exists |
-| `--allow-partial` | Save incomplete evaluation reports |
+| `--allow-partial` | Save incomplete evaluation or discrepancy diagnosis reports |
 | `--keep-chunk-result` | With chunking enabled, also save clean/chunk results to `data/automation/<run_id>/chunks/` |
 | `--max-workers` | Override `concurrency.max_workers` from pipeline config |
 | `--no-concurrency` | Disable parallel API calls (serial mode) |
@@ -316,9 +403,10 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps translati
 
 ### Step rules
 
-- **New run** (no `--run-id`): auto-generates `run_id`, runs all steps by default
+- **New run** (no `--run-id`): auto-generates `run_id`, runs all steps by default (`translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis`)
 - **Eval only**: requires `--run-id` and existing `translation/` outputs
 - **Comparison only**: requires `--run-id` and existing `evaluation/` JSON reports
-- **Resume (`--run-missing`)**: requires `--run-id` and an existing run directory; translation skips existing `.txt` outputs, evaluation skips policies with any eval JSON, comparison always re-runs
+- **Discrepancy diagnosis**: requires `--run-id` and existing `rag_candidates/`, `evaluation/*.json`, and `comparison/` outputs. Runs whose `evaluation` step predates `rag_candidates/` need `evaluation` re-run with `--force` first. Produces no report files (not an error) when `comparison/error_analysis.csv` doesn't exist, i.e. zero mismatches
+- **Resume (`--run-missing`)**: requires `--run-id` and an existing run directory; translation skips existing `.txt` outputs, evaluation skips policies with any eval JSON, comparison always re-runs, discrepancy_diagnosis skips policies with an existing `diagnosis/<stem>.json`
 
 API retry messages include error type, message, HTTP status, and request ID (SDK-level httpx retry noise is suppressed).

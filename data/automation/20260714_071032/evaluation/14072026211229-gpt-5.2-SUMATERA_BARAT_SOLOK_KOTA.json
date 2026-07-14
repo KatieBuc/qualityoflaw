@@ -1,0 +1,469 @@
+{
+  "policy_file": "SUMATERA_BARAT_SOLOK_KOTA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:08:57.458552+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 43\n(1) Services for handling complaints of victims of violence against women and children as referred to in Article 42 letter a shall be implemented by:\na. integrated service center for women and children empowerment;\nb. hospitals;\nc. community health centers;\nd. social protection homes for children/shelters;\ne. advisory board for marriage guidance and preservation;\nf. district prosecutor's office;\ng. district court;\nh. child social welfare institutions;\ni. social welfare coordination institutions;\nj. elderly welfare institutions;\nk. family welfare consultation institutions; and\nl. domestic violence response groups.\n(2) Complaints of acts of violence against women and children may be made by reporters consisting of victims, families, the community and/or community organizations in the field of protection of women and children.\n(3) Reporters as referred to in paragraph (1) may file complaints:\na. directly;\nb. by telephone; and/or\nc. by letter.\n(4) In addition to handling complaints submitted by reporters, officers at service institutions as referred to in paragraph (1), are also authorized to handle victims of violence against women and children obtained through other information.",
+      "rationale": "The policy explicitly references domestic violence response groups as part of complaint-handling services for victims of violence against women and children, indicating domestic violence is included.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+      "rationale": "The policy explicitly includes protection from sexual violence among women’s rights, directly addressing sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+      "rationale": "The policy explicitly mentions protection from physical violence (alongside other forms), which covers physical violence as an included category.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "rationale": "The policy explicitly includes protection from psychological violence, indicating psychological violence is covered.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence / economic exploitation / domestic neglect",
+      "included": "Yes",
+      "evidence": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "rationale": "The policy explicitly includes protection from economic exploitation and also references neglect, covering economic violence/economic exploitation/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Article 9\nThe community in the context of preventing the occurrence of violence against women is responsible for:\na. monitoring various conditions occurring in their environment that may lead to the occurrence of violence against women;\nb. strengthening the role of community organizations, religious organizations and the family environment; and\nc. preventing the occurrence of unregistered marriages.",
+      "rationale": "The policy includes prevention of unregistered marriages, which is a harmful practice related to marriage practices.",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention femicide/feminicide or gender-related killing of women; they refer generally to violence and services without specifying femicide.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "rationale": "The policy explicitly mentions special protection for women victims of violence and human trafficking, indicating human trafficking is included.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual exploitation",
+      "included": "Yes",
+      "evidence": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+      "rationale": "The policy explicitly states women have the right to protection from sexual exploitation, directly addressing sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention online/technology-facilitated abuse, digital harassment, cyberstalking, or related technology-based forms of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages describe roles and responsibilities of the City of Solok Regional Government and cooperation with community/private/NGOs, but do not mention coordination or cooperation with other governments across jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 35\n(1) Regional Government provides shelters to foster street children and social institutions for abandoned children.\n(2) Shelters as referred to in paragraph (1) may be organized by Regional Apparatus whose duties and functions are in the field of social affairs and manpower and may cooperate with community organizations.",
+      "rationale": "The policy explicitly allows cooperation with community organizations in operating shelters, indicating a collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 7\nRegional Government in the context of preventing the occurrence of violence against women is responsible for:\na. conducting socialization regarding the prevention of violence against women to regional apparatus, community leaders, and community organizations;\nb. optimizing the role of customary, cultural, religious institutions and community organizations in preventing the occurrence of acts of violence;\nc. providing guidelines on handling acts of violence against women;\nd. involving community participation in the recovery and reintegration of women victims of violence;\ne. developing an integrated database and information system regarding acts of violence against women; and\nf. developing family resilience programs.",
+      "rationale": "The passages include an explicit responsibility for the Regional Government to develop an integrated database and information system regarding acts of violence against women, which constitutes a data collection/information system.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender responsiveness and gender sensitivity in service principles and staffing, none of the passages specifically mention institutionalized gender mainstreaming (e.g., a formal gender mainstreaming working group or institutional mechanism) to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 56\n(1) Regional Government conducts guidance on the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1) may be conducted in the form of:\na. conducting socialization of programs and activities for the protection of women and children; and\nb. providing training for government officials, law enforcers, religious leaders, community leaders, traditional leaders, educators, journalists, and media managers regarding prevention and handling of violence against women and children.",
+      "rationale": "The policy explicitly provides for training for government officials and other relevant actors regarding prevention and handling of violence against women and children, which is training/capacity building.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 57\n(1) The Regional Government conducts supervision of the implementation of protection of women and children.\n(2) The supervision as referred to in paragraph (1) is carried out 1 (one) time in 1 (one) year by the Regional Apparatus whose duties and functions are in the field of supervision.\n(3) The results of supervision as referred to in paragraph (1) constitute evaluation material for the policy on protection of women and children in the Region.",
+      "rationale": "The policy explicitly mandates annual supervision and states that supervision results constitute evaluation material for the policy, covering monitoring and evaluation of implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 41\n(1) The implementation of handling of women and children victims of violence is carried out through integrated services.\n(2) Integrated services for women and children victims of violence use the principles of:\na. gender responsiveness;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitivity to the background and condition of victims and the use of appropriate language that is understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of the rights of women and children.",
+      "rationale": "The policy states that handling women and children victims of violence is carried out through integrated services, indicating an integrated service unit/approach for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention complaint handling through various institutions (including prosecutor’s office and court) and legal aid, but do not specify any specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 43\n(1) Services for handling complaints of victims of violence against women and children as referred to in Article 42 letter a shall be implemented by:\na. integrated service center for women and children empowerment;\nb. hospitals;\nc. community health centers;\nd. social protection homes for children/shelters;\ne. advisory board for marriage guidance and preservation;\nf. district prosecutor's office;\ng. district court;\nh. child social welfare institutions;\ni. social welfare coordination institutions;\nj. elderly welfare institutions;\nk. family welfare consultation institutions; and\nl. domestic violence response groups.\n(2) Complaints of acts of violence against women and children may be made by reporters consisting of victims, families, the community and/or community organizations in the field of protection of women and children.\n(3) Reporters as referred to in paragraph (1) may file complaints:\na. directly;\nb. by telephone; and/or\nc. by letter.\n(4) In addition to handling complaints submitted by reporters, officers at service institutions as referred to in paragraph (1), are also authorized to handle victims of violence against women and children obtained through other information.",
+      "rationale": "The policy specifies services for handling complaints and allows complaints to be filed directly, by telephone, or by letter, indicating a mechanism/service unit to receive reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 48\n(1) The provision of safe houses as referred to in Article 46 letter b may be provided by the Regional Government.\n(2) Safe houses as referred to in paragraph (1) aim to protect women and children victims of violence from intimidation by perpetrators or other parties.\n(3) The location of safe houses as referred to in paragraph (1) must be kept confidential.",
+      "rationale": "The policy provides for safe houses to protect women and children victims of violence and requires the location to be kept confidential, which constitutes a shelter/protection service.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 53\n(1) The Regional Government provides legal assistance to women and child victims of violence free of charge.\n(2) The Regional Government in providing legal assistance may cooperate with legal aid institutions, advocates and/or other legal assistants.",
+      "rationale": "The policy explicitly states that the Regional Government provides free legal assistance to women and child victims of violence and may cooperate with legal aid institutions/advocates.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 44\n(1) Health services for women and children victims of violence as referred to in Article 42 letter b constitute efforts that include curative and rehabilitative aspects.\n(2) Health services for women and children victims of violence shall be conducted comprehensively, accessible 24 (twenty-four) hours, with quality and conducted in accordance with health service standards.\n(3) Health services specifically for children victims of violence must prioritize the best interests of the child.\n(4) Women and children victims of violence have the right to health services, including:\na. medical services; and\nb. psychosocial counseling.",
+      "rationale": "The policy explicitly provides health services for women and children victims of violence, including medical services, with comprehensive and 24-hour accessibility.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 44\n(1) Health services for women and children victims of violence as referred to in Article 42 letter b constitute efforts that include curative and rehabilitative aspects.\n(2) Health services for women and children victims of violence shall be conducted comprehensively, accessible 24 (twenty-four) hours, with quality and conducted in accordance with health service standards.\n(3) Health services specifically for children victims of violence must prioritize the best interests of the child.\n(4) Women and children victims of violence have the right to health services, including:\na. medical services; and\nb. psychosocial counseling.",
+      "rationale": "The policy states that women and children victims of violence have the right to health services including psychosocial counseling, indicating provision of psychosocial counseling services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+      "rationale": "The policy establishes spiritual guidance for psychological recovery of women and children victims of violence and identifies spiritual guidance officers, indicating a spiritual counseling service.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 45\nSocial rehabilitation services for women and children victims of violence as referred to in Article 42 letter c are intended to restore and develop the capabilities of victims who experience social dysfunction so that they can carry out their social functions in society properly.",
+      "rationale": "The policy defines social rehabilitation services for women and children victims of violence as intended to restore and develop victims’ capabilities so they can function properly in society, aligning with resocialisation/rehabilitation.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 34\n(1) The Regional Government organizes skills training for street children and abandoned children originating from the Region.\n(3) Skills training as referred to in paragraph (1) is organized by the Regional Apparatus that implements authority affairs in the social field and may cooperate with community organizations.",
+      "rationale": "The policy provides for skills training organized by the Regional Government (through relevant regional apparatus) for street and abandoned children, which constitutes economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 7\nRegional Government in the context of preventing the occurrence of violence against women is responsible for:\na. conducting socialization regarding the prevention of violence against women to regional apparatus, community leaders, and community organizations;\nb. optimizing the role of customary, cultural, religious institutions and community organizations in preventing the occurrence of acts of violence;\nc. providing guidelines on handling acts of violence against women;\nd. involving community participation in the recovery and reintegration of women victims of violence;\ne. developing an integrated database and information system regarding acts of violence against women; and\nf. developing family resilience programs.",
+      "rationale": "The policy assigns the Regional Government responsibility to conduct socialization on preventing violence against women, which constitutes information/education as a primary prevention measure.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages describe women’s rights and protections and mention socialization on preventing violence, none explicitly provide for information/education specifically about gender equality or women’s rights as an educational/preventive activity.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 14\nThe community in efforts to fulfill children's rights is responsible to:\na. provide space to gather and organize as well as listen to children to express their opinions;\nb. supervise children in accessing various information as well as provide healthy and safe information;\nc. provide information through socialization and education regarding children's rights and laws and regulations concerning children; and\nd. conduct supervision and guidance in the context of implementing the fulfillment of children's rights through child facilitators.",
+      "rationale": "The policy states that the community should provide information through socialization and education regarding rights and laws/regulations concerning children, which is an explicit commitment to education about relevant laws/policies in the violence/rights context.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 24\n(1) Every organizer of an educational unit is obligated to provide opportunities for children to obtain education without discrimination.\n(2) Children who have disabilities and children who have exceptional intelligence potential and/or special talents are given equal opportunities to obtain formal, non-formal, and informal education services.\n(3) The Regional Government provides educators for children who have disabilities and exceptional intelligence potential and/or special talents at every educational unit.",
+      "rationale": "The policy includes education-focused provisions requiring educational units to provide non-discriminatory access and requiring the Regional Government to provide educators for children with disabilities or special talents, addressing education quality/access as a preventive measure.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe community participation, roles of community leaders/volunteers, and cooperation with community organizations, but none explicitly mention civil society organisations/NGOs or collaboration with NGOs.",
+      "evidence_verified": null
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+      "rationale": "The policy assigns delivery of spiritual guidance to officers that include religious affairs office officers and religious leaders (e.g., ustads/ulamas), indicating engagement with religious leaders/organizations in service provision.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nCOMMUNITY PARTICIPATION\nArticle 58\n(1) The community may participate in the implementation of protection of women and children.\n(2) The community as referred to in paragraph (1) consists of, among others, parents, family, ninik mamak, cadiak pandai, alim ulama, bundo kanduang, customary leaders, religious leaders, mass media, and the business sector.\n(3) Community participation is carried out through the following means:\na. optimizing the function of community organizations in the Region; 29\nb. conducting socialization and education on laws and regulations related to the protection of women and children;\nc. providing input in the process of formulating laws and regulations in the Region;\nd. conducting socialization on the prevention of child marriage;\ne. carrying out recovery and reintegration of women victims of violence;\nf. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and children to the competent authorities;\ng. monitoring the process of handling cases of violence, discrimination, exploitation, and human rights violations against women and children;\nh. providing space for children to gather and organize in order to express themselves, be creative and convey their opinions;\ni. supervising children in accessing various information;\nj. providing products that are safe for children;\nk. contributing to the fulfillment of children's rights through corporate social responsibility; and/or\nl. disseminating information and educational materials that are beneficial for women and children.",
+      "rationale": "The policy explicitly includes customary/traditional leaders (e.g., ninik mamak, bundo kanduang, customary leaders) as part of the community that may participate in protection implementation, indicating engagement with traditional/cultural leaders.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While education and training are mentioned (e.g., women’s right to education; a section titled Education; skills training possibly cooperating with community organizations), none of the passages explicitly reference collaboration/engagement with educational institutions such as schools or universities.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention international organizations, international partners, or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nCOMMUNITY PARTICIPATION\nArticle 58\n(1) The community may participate in the implementation of protection of women and children.\n(2) The community as referred to in paragraph (1) consists of, among others, parents, family, ninik mamak, cadiak pandai, alim ulama, bundo kanduang, customary leaders, religious leaders, mass media, and the business sector.\n(3) Community participation is carried out through the following means:\na. optimizing the function of community organizations in the Region; 29\nb. conducting socialization and education on laws and regulations related to the protection of women and children;\nc. providing input in the process of formulating laws and regulations in the Region;\nd. conducting socialization on the prevention of child marriage;\ne. carrying out recovery and reintegration of women victims of violence;\nf. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and children to the competent authorities;\ng. monitoring the process of handling cases of violence, discrimination, exploitation, and human rights violations against women and children;\nh. providing space for children to gather and organize in order to express themselves, be creative and convey their opinions;\ni. supervising children in accessing various information;\nj. providing products that are safe for children;\nk. contributing to the fulfillment of children's rights through corporate social responsibility; and/or\nl. disseminating information and educational materials that are beneficial for women and children.",
+      "rationale": "The policy explicitly includes mass media as part of the community that may participate in protection implementation, indicating engagement with media stakeholders.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nCOMMUNITY PARTICIPATION\nArticle 58\n(1) The community may participate in the implementation of protection of women and children.\n(2) The community as referred to in paragraph (1) consists of, among others, parents, family, ninik mamak, cadiak pandai, alim ulama, bundo kanduang, customary leaders, religious leaders, mass media, and the business sector.\n(3) Community participation is carried out through the following means:\na. optimizing the function of community organizations in the Region; 29\nb. conducting socialization and education on laws and regulations related to the protection of women and children;\nc. providing input in the process of formulating laws and regulations in the Region;\nd. conducting socialization on the prevention of child marriage;\ne. carrying out recovery and reintegration of women victims of violence;\nf. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and children to the competent authorities;\ng. monitoring the process of handling cases of violence, discrimination, exploitation, and human rights violations against women and children;\nh. providing space for children to gather and organize in order to express themselves, be creative and convey their opinions;\ni. supervising children in accessing various information;\nj. providing products that are safe for children;\nk. contributing to the fulfillment of children's rights through corporate social responsibility; and/or\nl. disseminating information and educational materials that are beneficial for women and children.",
+      "rationale": "The policy provides for community participation in implementing protection of women and children and lists multiple forms of participation, demonstrating engagement/collaboration with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 15\nThe business sector in efforts to fulfill Children's Rights, is responsible for:\na. implementing policies with a child perspective;\nb. products intended for children must be safe for children; and\nc. contributing to the fulfillment of children's rights through corporate social responsibility.",
+      "rationale": "The policy assigns responsibilities to the business sector, including contributing through corporate social responsibility, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages list general protections for women and special protection for children in emergency/armed/social conflict situations, but none explicitly mention special protection measures targeted at women in conflict or disaster-prone areas.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "rationale": "The policy explicitly assigns the Regional Government responsibility to provide special protection to women victims of violence and human trafficking.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "rationale": "The policy explicitly includes protections related to employment, leave, and special protection in work/profession, indicating protection measures targeted at women workers/employees.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention elderly women or specify special protection measures targeted to elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 38\n(1) Regional Government in the effort of special protection for children is responsible for:\na. providing facilities and infrastructure in the implementation of special protection for children;\nb. providing access to public services and social services for children with disabilities;\nc. establishing and implementing policies and programs/activities for special protection of children;\nd. conducting cooperation with the community and/or community organizations in the implementation of special protection for children in accordance with laws and regulations;\ne. conducting rehabilitation and assistance for children who are victims of violence;\nf. providing special protection to children in emergency situations, children in conflict with the law, children victims of violence and human trafficking, children from minority and isolated groups, children exploited economically and/or sexually, children who are victims of narcotics, alcohol, psychotropic substances abuse, and HIV/AIDS;\ng. providing inclusive education for children with special needs; and\nh. taking preventive measures in order to prevent violations of children's rights.\n(2) The responsibility of the Regional Government in the effort of special protection for children as referred to in paragraph (1) shall be implemented by regional apparatus that carries out authority affairs in the social sector.",
+      "rationale": "The policy explicitly mentions access to public and social services for children with disabilities, indicating targeted protection measures for people with disabilities (at least for children).",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference involvement of parents/family and general protections for women, but do not mention women heads of household/families or provide specific measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention minority/isolated groups only in relation to children, not women; there are no special protection measures specifically targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss legal aid and protection for witnesses/victims in cases of violence against women and children, but do not specifically address women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference community actors and minority/isolated groups in the context of children, but do not explicitly provide special protection measures targeted at Indigenous peoples/groups (masyarakat adat).",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention displacement/displaced persons only as a child right in emergency situations and discuss repatriation of victims of violence, but do not set out special protection measures specifically targeted at refugees/forced displacement as a group.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general labor-related protections for women and employer compliance with labor regulations, but do not specifically mention domestic workers or targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address safe houses for women and children victims of violence, but do not mention homelessness or provide special protection measures specifically targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention former inmates/correctional institutions or special protection measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "BAB X\nFINANCING\nArticle 59\nFinancing for the implementation of policies, programs and activities for the protection of women and protection of children is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. other lawful sources of income in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that financing is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing provision lists the Regional Revenue and Expenditure Budget and other lawful sources, but does not explicitly mention the national/central government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international donors, foreign governments, UN agencies, or other international funding sources; financing is described only as regional budget and other lawful sources without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "BAB X\nFINANCING\nArticle 59\nFinancing for the implementation of policies, programs and activities for the protection of women and protection of children is sourced from:\na. Regional Revenue and Expenditure Budget; and\nb. other lawful sources of income in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing article explicitly includes 'other lawful sources of income' as a funding source, which directly corresponds to other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference regional government responsibilities and the Regional Revenue and Expenditure Budget, but do not explicitly identify the provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

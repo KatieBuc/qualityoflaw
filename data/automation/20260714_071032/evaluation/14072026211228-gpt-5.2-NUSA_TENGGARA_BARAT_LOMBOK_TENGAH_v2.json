@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:01:43.685254+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women/children generally and service provision, but none explicitly mention domestic violence or violence within the household/intimate partner context.",
+      "evidence_verified": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 2\nLetter a What is meant by \"the principle of respect for human dignity\" is the recognition of the dignity of Victims which must be protected, respected, and upheld.\nLetter b What is meant by \"the principle of non-discrimination\" is respecting equality of status without distinguishing between the parties on the basis of religion, race, ethnicity, ethnic group, skin color, social status, affiliation, and ideology.\nLetter c What is meant by \"the principle of the best interests of the Victim\" is that all actions concerning Victims carried out by executive institutions, legislative institutions, judicial institutions, and the Community must be the primary consideration.\nLetter d What is meant by \"the principle of justice\" is that the substance related to Sexual Violence Crimes must reflect fair and proportional treatment for every citizen.\nLetter e What is meant by \"the principle of benefit\" is that the substance related to Sexual Violence Crimes is able to provide broad benefits for the interests of the Community, nation, and state.\nLetter f What is meant by \"the principle of legal certainty\" is that the implementation of regulations on Sexual Violence Crimes must be carried out within the framework of a rule of law that prioritizes the foundation of laws and regulations, propriety, and justice.",
+      "rationale": "The passages explicitly reference “Sexual Violence Crimes,” indicating the policy addresses sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children who are victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,\ng. Children who are victims of pornography,\nh. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i Children who are victims of kidnapping, sale, and/or trafficking:\nj. Children who are victims of physical and/or psychological Violence,",
+      "rationale": "The policy explicitly includes children who are victims of “physical and/or psychological Violence,” which directly covers physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children who are victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,\ng. Children who are victims of pornography,\nh. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i Children who are victims of kidnapping, sale, and/or trafficking:\nj. Children who are victims of physical and/or psychological Violence,",
+      "rationale": "The policy explicitly includes victims of “physical and/or psychological Violence,” directly addressing psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence / economic exploitation / domestic neglect",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children who are victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,\ng. Children who are victims of pornography,\nh. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i Children who are victims of kidnapping, sale, and/or trafficking:\nj. Children who are victims of physical and/or psychological Violence,",
+      "rationale": "The policy explicitly includes children “who are exploited economically and/or sexually,” which covers economic exploitation (a form of economic violence).",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Article 36\nCommunity participation in the implementation of Child Protection is carried out through activities:\na. providing suggestions and considerations in the implementation of Child Protection,\nb. dissemination of information in the context of Child Protection,\nc. provision of funds, services, as well as facilities and infrastructure in the context of Child Protection,\nd. providing education in efforts to improve the morals of Children,\ne. prevention of child marriage, Violence, exploitation, discrimination and neglect of Children,\nf. reporting, emergency assistance and Protection for Children who experience child marriage, Violence, exploitation, discrimination and neglect,\ng. advocacy for handling child marriage, Violence, exploitation, discrimination and neglect of Children,\nh. facilitation of the repatriation process and/or social reintegration, and\ni. other activities that support efforts for Protection, care, and welfare of Children.",
+      "rationale": "The policy explicitly includes “prevention of child marriage” and related reporting/advocacy, which is a harmful practice (early/child marriage).",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention femicide/feminicide or gender-related killing of women; they only refer to violence against women in general.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children who are victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,\ng. Children who are victims of pornography,\nh. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i Children who are victims of kidnapping, sale, and/or trafficking:\nj. Children who are victims of physical and/or psychological Violence,",
+      "rationale": "The policy explicitly includes children who are victims of “kidnapping, sale, and/or trafficking,” which covers trafficking.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 22\n(1) Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children who are victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,\ng. Children who are victims of pornography,\nh. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i Children who are victims of kidnapping, sale, and/or trafficking:\nj. Children who are victims of physical and/or psychological Violence,",
+      "rationale": "The policy explicitly includes children “who are exploited economically and/or sexually,” which directly covers sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention information/technology contexts generally (e.g., spaces/communities aligned with information technology) but do not explicitly address technology-facilitated violence (e.g., online harassment, cyber abuse, digital exploitation).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 29\nStrengthening stakeholder coordination as referred to in Article 24 letter e is carried out through strategies focused on:\na. improving cross-sectoral, cross-field, and cross-regional cooperation,\nb. strengthening data and information systems, and C. supervision, monitoring, and evaluation.\nStrengthening stakeholder coordination as referred to in paragraph (1) is carried out through local government policy interventions toward:\na. strengthening coordination forums for planning and implementation of child Protection policies,\nb. utilization of data for policy improvement, and C. building data and information systems as the basis for implementing referral services for children requiring special Protection.",
+      "rationale": "The policy explicitly mentions strengthening coordination through “cross-regional cooperation,” indicating cooperation across jurisdictions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nCOORDINATION TEAM FOR THE PROTECTION OF WOMEN AND CHILDREN\nArticle 32\n(1) The Regent establishes a Coordination Team for the Protection of Women and Children.\n(2) The Coordination Team for the Protection of Women and Children as referred to in paragraph (1), serves as a coordination forum in implementing empowerment, Protection of women, fulfillment of Children's Rights and Special Protection of Children in the region, which has the following functions:\na. facilitation in the empowerment and Protection of women, and\nb. facilitation in efforts to fulfill Children's Rights and Special Protection of Children.\n(3) The membership of the Coordination Team for the Protection of Women and Children as referred to in paragraph (1) and paragraph (2), shall consist of at least:\na. elements of Regional Apparatus that carry out governmental affairs in the field of women's empowerment and child Protection,\nb. Regional Apparatus that carry out governmental affairs in the field of education,\nc. Regional Apparatus that carry out governmental affairs in the field of health,\nd. Regional Apparatus that carry out governmental affairs in the field of social affairs,\ne. Regional Apparatus that carry out governmental affairs in the field of transportation,\nf. Regional Apparatus that carry out governmental affairs in the field of community and village empowerment,\ng. Regional Apparatus that carry out governmental affairs in the field of population and civil registration,\nh. Regional Apparatus that carry out governmental affairs in the field of communication and informatics,\ni. Regional Apparatus that carry out governmental affairs in the field of manpower and transmigration,\nj. Regional Apparatus that carry out governmental affairs in the field of highways and spatial planning,\nk. elements of the Police,\nl. elements of the Prosecutor's Office,\nm. elements of the Court,\nn. elements of the Children's Forum,\no. educational institutions,\np. community organizations that care about the Protection of women and children,\nq. media, and\nr. the community.\n(4) The Coordination Team for the Protection of Women and Children as referred to in paragraph (1), paragraph (2), and paragraph (3), shall be established by Regent's Decree.",
+      "rationale": "The policy establishes a Coordination Team whose membership includes “community organizations that care about the Protection of women and children,” which implies a formal coordination mechanism involving non-government actors.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 29\nStrengthening stakeholder coordination as referred to in Article 24 letter e is carried out through strategies focused on:\na. improving cross-sectoral, cross-field, and cross-regional cooperation,\nb. strengthening data and information systems, and C. supervision, monitoring, and evaluation.\nStrengthening stakeholder coordination as referred to in paragraph (1) is carried out through local government policy interventions toward:\na. strengthening coordination forums for planning and implementation of child Protection policies,\nb. utilization of data for policy improvement, and C. building data and information systems as the basis for implementing referral services for children requiring special Protection.",
+      "rationale": "The policy refers to “strengthening data and information systems” and “building data and information systems” as a basis for implementing referral services, indicating establishment/strengthening of information systems relevant to protection efforts.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "ELUCIDATION\nOF\nREGIONAL REGULATION OF CENTRAL LOMBOK REGENCY\nNUMBER YEAR 2024\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nGENERAL\nl.\nRegional Regulation of Central Lombok Regency number 3 year 2009 concerning Protection of children and women victims of violence has been in effect for approximately 14 years. During the period of its validity there have been many changes in policies and legislation in the field of Protection of children and women both taken by the central government, provincial government and Central Lombok regency government. Therefore at the level of regency regional regulations adjustments need to be made so that the Central Lombok regency government has a legal basis in implementing policies and programs in the field of Protection of women and children.\nThe field of regional government has undergone changes with the revocation of Law Number 32 Year 2004 concerning Regional Government by Law Number 23 Year 2014 concerning Regional Government. Based on article 12 of Law Number 23 year 2014 concerning Regional Government that the affairs of women's empowerment and protection of children constitute Mandatory Government Affairs that are not related to Basic Services. In the appendix of Law Number 23 year 2014 concerning Regional Government is regulated in more detail the division of regency government affairs in the field of women's empowerment and protection of children. The field of women includes authorities: a). Prevention of violence against women involving parties within the scope of regency/city Region. b). Provision of services for women victims of violence requiring coordination at the regency/city Region level. c. Strengthening and development of institutions providing Protection services for women at the regency/city Region level. Field. Quality of Life of Women includes, Institutionalization of PUG in government institutions at the regency/city Region level. b. Empowerment of women in the political, legal, social and economic fields in community organizations at the regency/city Region level. c. Strengthening and development of institutions providing women's empowerment services at the regency/city Region level. Field of Fulfillment of Children's Rights (PHA), includes: Institutionalization of PHA in government institutions, non-government, and business world at the regency/city Region level, Strengthening and development of institutions providing services for improving the quality of life of children at the regency/city Region level. Field of Protection of special children includes, a. Prevention of violence against children involving parties within the scope of regency/city Region. b. Provision of services for children requiring special Protection requiring coordination at the regency/city Region level. c. Strengthening development of institutions providing services for children requiring special Protection at the regency/city Region level.\nChanges also occurred in law number 23 year 2022 concerning Protection of children through two changes namely 1). law number 35 year 2014 concerning amendments to law number concerning Protection of children, and 2. Stipulation of Government Regulation in Lieu of Law Number 1 Year 2016 Concerning the Second Amendment to Law Number 23 Year 2002 Concerning Protection of Children into Law. There are a number of obligations of regional governments contained in this law that must be further regulated by regional regulations. Changes to law number 23 year 2022 concerning Protection of children certainly have legal implications for legal policies on Protection of children in Central Lombok regency.\nIn the aspect of Protection of women significant changes occurred when law number 12 year 2022 concerning criminal acts of sexual violence was enacted. There are several provisions related to the obligations of regional governments that must be regulated in regional regulations: 1). Provisions of Article 76 paragraph (2) Provincial and regency/city Regional Governments are obliged to establish UPTD PPA that organizes Handling, Protection, and Recovery of Victims, Families of Victims, and/or Witnesses, 2). Article 79 paragraph (1) obligation of the Central Government and Regional Governments are obliged to organize Prevention of Criminal Acts of Sexual Violence quickly, integrated, and integrated. 3). Article 80 paragraph (1) Regional Governments are obliged to organize education and training for law enforcement officers, government service personnel, and service personnel at Community-Based Service Provider Institutions, 4). Article 82 Central Government and Regional Governments are obliged to conduct coordination regularly and continuously for Victims.\nAt the provincial government level has enacted Regional Regulation of West Nusa Tenggara Province Number 8 Year 2015 concerning Implementation of Protection of Women and Children. There are several obligations contained in the Regional Regulation related to regency obligations. 1). formation of regional regulations and regional head regulations in regencies/cities concerning Protection of Women and Children, 2). Formation of Coordination Team for Protection of Women and Children at regency/city level.",
+      "rationale": "The elucidation explicitly mentions “Institutionalization of PUG in government institutions,” which is a direct reference to institutionalizing gender mainstreaming.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "Article 28\nStrengthening of regulations and institutions as referred to (1) in Article 24 letter d is carried out through: a. strengthening the institutional capacity of child Protection and empowerment and education units,\nb. encouraging the establishment of village regulations and village head regulations concerning child Protection,\nc. conducting evaluations of village regulations, school regulations and/or awig-awig that encourage the occurrence of violence and child vulnerability, and Strengthening the institutional capacity of child Protection and empowerment and education units as referred to in paragraph (1) letter a is carried out through local government policy intervention toward increasing the knowledge and skills of law enforcement officers, village apparatus, KUA officers, traditional stakeholders, extension workers and teachers.",
+      "rationale": "The policy includes strengthening institutional capacity via interventions aimed at “increasing the knowledge and skills of law enforcement officers, village apparatus, KUA officers, traditional stakeholders, extension workers and teachers,” which constitutes training/capacity building for officials and service-related personnel.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "The policy assigns UPTD PPA a function of “monitoring and evaluation,” explicitly covering monitoring and evaluation of service delivery/implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "The policy provides for establishment of UPTD PPA, an institutional unit tasked with handling, protection, and recovery for victims, families, and/or witnesses, functioning as an integrated service provider.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention police as part of broader protection actors and coordination, but do not establish or describe a specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is explicitly tasked to receive reports from victims, indicating a service unit for receiving complaints/reports of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is tasked with identifying immediate temporary shelter needs for victims and victims' families, indicating provision/arrangement of shelter support as part of services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is assigned to provide legal services, which constitutes legal assistance for victims.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is tasked with facilitating the provision of health services, indicating access to health/medical services for victims through the service unit.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is tasked with facilitating psychological strengthening services and psychosocial services, covering psychosocial counselling/support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious or spiritual counselling services or a unit providing such services.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is tasked with facilitating psychosocial services including social rehabilitation, social empowerment, and social reintegration, which aligns with resocialisation/rehabilitation and reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "UPTD PPA is tasked with identifying economic empowerment needs, indicating economic support/empowerment services linked to victim assistance.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages define violence against women and describe prevention/handling structures and victim services, but none explicitly mention information/education specifically about violence against women as a primary prevention activity (e.g., awareness-raising on VAW, its forms, causes, or unacceptability). Article 6 focuses on women’s rights/equality and empowerment rather than VAW-specific education.",
+      "evidence_verified": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 6\nEfforts to raise awareness and shape women's behavior in the need for self-capacity enhancement as referred to in Article 5 letter a, include: | a. understanding and awareness of women's basic rights,\nb. providing motivation for women to have capability or empowerment, and C. fostering awareness in women about equality and their position.\nEfforts to raise awareness and shape women's behavior (2) as referred to in paragraph (1), are implemented through guidance of community groups, women's forums, women's organizations, and women's institutions. Guidance as referred to in paragraph (2), is conducted (3) in the form of education, socialization, and advocacy. Article 7 Efforts to develop women's access to participate in the economic, political, social and cultural fields as referred to in Article 5 letter b, include: fostering and developing women's entrepreneurship,\na.\nincreasing Women's Empowerment in various b.\nprofessions: increasing the role and function of women in political organizations, . involving women to participate actively in development programs, providing access for women to participate in the Provincial Regional Government environment, providing leadership opportunities for women, g. fostering and developing women's forums or institutions in the framework of increasing Women's Empowerment, and increasing Women's Empowerment in arts and culture.",
+      "rationale": "Article 6 explicitly includes fostering awareness about equality and women’s position and states this guidance is conducted through education, socialization, and advocacy, which directly matches information/education on gender equality and women’s rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions providing information about victims’ rights and legal services, it does not describe primary-prevention information/education about VAW laws and policies for the general public or potential perpetrators. The cited provisions are oriented to victim support and institutional arrangements rather than preventive legal/policy education.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 25\n(1) Optimization of children's resource capacity as referred to in Article 4 letter a is carried out through: a. increasing awareness and attitudes of children related to the right to receive Protection,\nb. increasing children's participation in child Protection efforts: and c. increasing spaces and communities that support children to grow and develop optimally, both in formal and informal environments in line with the development of information, technology, and children's situations.\n(2) (3) (1) (2) (3) Increasing awareness and attitudes of children related to the right to receive Protection as referred to in paragraph (1) letter a is carried out through regional government policy intervention towards optimization of the implementation of child Protection in school education.\nIncreasing children's participation in child Protection efforts as referred to in paragraph (1) letter b, is carried out through regional policy intervention: a. providing and strengthening peer counselors and Youth Posyandu starting from the village/kelurahan level to the district level that is integrated with the formal referral system,\nb. providing formal participation mechanisms for children and adolescents to be directly involved in child Protection efforts at various levels, one of which is through the Children's Forum, and c. strengthening the Children's Forum as pioneers and reporters.",
+      "rationale": "The policy links prevention/optimization efforts to school education by stating that increasing children’s awareness and attitudes regarding the right to protection is carried out through optimizing implementation of child protection in school education, which constitutes prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 26\nThe creation of an environment that supports Child Protection as referred to in Article 24 letter b, is carried out through:\na. transformation of values, norms, and perspectives regarding Child Protection,\nb. strengthening the role of parents, schools, families, and communities in Child Protection, and\nc. revitalization of cultures that risk encouraging the occurrence of violence and child marriage.\nThe transformation of values, norms, and perspectives regarding Child Protection as referred to in paragraph (1) letter a is carried out through local government policy intervention strategies toward:\na. strengthening understanding and the role of parents, families, social/community organizations, schools, Islamic boarding schools and other stakeholders in Child Protection efforts,\nb. transformation of counseling and assistance services for parents and children professionally,\nc. improvement of quality parenting skills especially for adolescents, and\nd. encouraging cultural practices that support the realization of Child Protection and prevent child marriage.\nThe strengthening of the role of parents, schools, families, communities and other stakeholders in Child Protection as referred to in paragraph (1) letter b is carried out through local government policy intervention strategies toward: (1) (2) (3) (4)\na. socialization and education about the importance of Child Protection,\nb. family economic empowerment through family entrepreneurship, family hope programs and/or other programs that ensure children from poor and vulnerable families receive social assistance,\nc. strengthening the system and child-friendly school environment by adding reproductive health rights and mental health, and\nd. strengthening community institutions at various levels up to the village/sub-district level with various training and child assistance skills.",
+      "rationale": "The policy explicitly includes engagement with non-governmental actors by referencing strengthening the role of social/community organizations and other stakeholders in child protection efforts, which implies collaboration with civil society/NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 26\nThe creation of an environment that supports Child Protection as referred to in Article 24 letter b, is carried out through:\na. transformation of values, norms, and perspectives regarding Child Protection,\nb. strengthening the role of parents, schools, families, and communities in Child Protection, and\nc. revitalization of cultures that risk encouraging the occurrence of violence and child marriage.\nThe transformation of values, norms, and perspectives regarding Child Protection as referred to in paragraph (1) letter a is carried out through local government policy intervention strategies toward:\na. strengthening understanding and the role of parents, families, social/community organizations, schools, Islamic boarding schools and other stakeholders in Child Protection efforts,\nb. transformation of counseling and assistance services for parents and children professionally,\nc. improvement of quality parenting skills especially for adolescents, and\nd. encouraging cultural practices that support the realization of Child Protection and prevent child marriage.\nThe strengthening of the role of parents, schools, families, communities and other stakeholders in Child Protection as referred to in paragraph (1) letter b is carried out through local government policy intervention strategies toward: (1) (2) (3) (4)\na. socialization and education about the importance of Child Protection,\nb. family economic empowerment through family entrepreneurship, family hope programs and/or other programs that ensure children from poor and vulnerable families receive social assistance,\nc. strengthening the system and child-friendly school environment by adding reproductive health rights and mental health, and\nd. strengthening community institutions at various levels up to the village/sub-district level with various training and child assistance skills.",
+      "rationale": "The policy explicitly mentions Islamic boarding schools as stakeholders whose understanding and role should be strengthened in child protection efforts, indicating engagement with religious institutions/leaders.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "Article 26\nThe creation of an environment that supports Child Protection as referred to in Article 24 letter b, is carried out through:\na. transformation of values, norms, and perspectives regarding Child Protection,\nb. strengthening the role of parents, schools, families, and communities in Child Protection, and\nc. revitalization of cultures that risk encouraging the occurrence of violence and child marriage.\nThe transformation of values, norms, and perspectives regarding Child Protection as referred to in paragraph (1) letter a is carried out through local government policy intervention strategies toward:\na. strengthening understanding and the role of parents, families, social/community organizations, schools, Islamic boarding schools and other stakeholders in Child Protection efforts,\nb. transformation of counseling and assistance services for parents and children professionally,\nc. improvement of quality parenting skills especially for adolescents, and\nd. encouraging cultural practices that support the realization of Child Protection and prevent child marriage.\nThe strengthening of the role of parents, schools, families, communities and other stakeholders in Child Protection as referred to in paragraph (1) letter b is carried out through local government policy intervention strategies toward: (1) (2) (3) (4)\na. socialization and education about the importance of Child Protection,\nb. family economic empowerment through family entrepreneurship, family hope programs and/or other programs that ensure children from poor and vulnerable families receive social assistance,\nc. strengthening the system and child-friendly school environment by adding reproductive health rights and mental health, and\nd. strengthening community institutions at various levels up to the village/sub-district level with various training and child assistance skills.",
+      "rationale": "The policy addresses cultural/traditional dimensions by calling for revitalization of cultures and encouraging cultural practices that support child protection, implying engagement with traditional/cultural actors.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 26\nThe creation of an environment that supports Child Protection as referred to in Article 24 letter b, is carried out through:\na. transformation of values, norms, and perspectives regarding Child Protection,\nb. strengthening the role of parents, schools, families, and communities in Child Protection, and\nc. revitalization of cultures that risk encouraging the occurrence of violence and child marriage.\nThe transformation of values, norms, and perspectives regarding Child Protection as referred to in paragraph (1) letter a is carried out through local government policy intervention strategies toward:\na. strengthening understanding and the role of parents, families, social/community organizations, schools, Islamic boarding schools and other stakeholders in Child Protection efforts,\nb. transformation of counseling and assistance services for parents and children professionally,\nc. improvement of quality parenting skills especially for adolescents, and\nd. encouraging cultural practices that support the realization of Child Protection and prevent child marriage.\nThe strengthening of the role of parents, schools, families, communities and other stakeholders in Child Protection as referred to in paragraph (1) letter b is carried out through local government policy intervention strategies toward: (1) (2) (3) (4)\na. socialization and education about the importance of Child Protection,\nb. family economic empowerment through family entrepreneurship, family hope programs and/or other programs that ensure children from poor and vulnerable families receive social assistance,\nc. strengthening the system and child-friendly school environment by adding reproductive health rights and mental health, and\nd. strengthening community institutions at various levels up to the village/sub-district level with various training and child assistance skills.",
+      "rationale": "The policy explicitly includes schools as key stakeholders whose role should be strengthened in child protection, indicating collaboration with education institutions (even if universities are not specifically named).",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly or implicitly mention international organizations, international partners, or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention media organizations or any collaboration/engagement with media for prevention or services.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 36\nCommunity participation in the implementation of Child Protection is carried out through activities:\na. providing suggestions and considerations in the implementation of Child Protection,\nb. dissemination of information in the context of Child Protection,\nc. provision of funds, services, as well as facilities and infrastructure in the context of Child Protection,\nd. providing education in efforts to improve the morals of Children,\ne. prevention of child marriage, Violence, exploitation, discrimination and neglect of Children,\nf. reporting, emergency assistance and Protection for Children who experience child marriage, Violence, exploitation, discrimination and neglect,\ng. advocacy for handling child marriage, Violence, exploitation, discrimination and neglect of Children,\nh. facilitation of the repatriation process and/or social reintegration, and\ni. other activities that support efforts for Protection, care, and welfare of Children.",
+      "rationale": "The policy explicitly provides for community participation in implementing child protection through multiple activities (e.g., information dissemination, reporting, advocacy), demonstrating engagement with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 38\nParticipation of the business sector in child protection can be carried out through: providing advice and considerations in the implementation of Child Protection, provision of funds, services, as well as facilities and infrastructure in the context of Child Protection, provision of education in child protection efforts, prevention of child marriage, Violence, exploitation, discrimination and neglect of Children, other activities that support protection, care, and welfare efforts of Children.",
+      "rationale": "The policy explicitly provides for business sector participation in child protection through advice, funding, services, facilities/infrastructure, and education, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "Article 13\nEfforts for the Protection of Women in disaster situations as referred to in Article 9 letter d, shall be implemented through:\na. health services, and\nb. provision of women-friendly facilities at disaster evacuation sites.",
+      "rationale": "The policy includes specific measures for protecting women in disaster situations, including health services and women-friendly facilities at evacuation sites.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss protection for women victims of violence, exploitation, and discrimination generally, but do not explicitly mention women victims of human trafficking; trafficking is only specified under special protection for children.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address women’s empowerment and protection broadly (including participation in professions), but do not specifically mention women workers/employees or provide targeted worker-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention elderly women or provide special protection measures targeted to elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 33\n(1) Regional government establishes UPTD PPA which organizes Handling, Protection, and Recovery of Victims, Victims' Families, and/or Witnesses.\n(2) UPTD PPA is positioned in the work unit that organizes government affairs in the field of women's empowerment and child protection.\n(3) The establishment of UPTD PPA is stipulated by Regent Regulation after meeting the requirements in accordance with statutory provisions.\n(4) UPTD PPA as referred to in paragraph (1) has the duty to: \na. receive reports or outreach to Victims,\nb. provide information about the rights of Victims,\nc. facilitate the provision of health services,\nd. facilitate the provision of psychological strengthening services,\ne. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,\nf. provide legal services,\ng. identify economic empowerment needs,\nh. identify temporary shelter needs for Victims and Victims' Families that need to be fulfilled immediately,\ni. facilitate the needs of Victims with Disabilities,\nj. coordinate and work together on the fulfillment of Victims' rights with other institutions, and\nk. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.\nArticle 34\n(1) UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:\na. provision of facilities, places, and/or service rooms,\nb. arrangement of service patterns,\nc. assurance of service quality,\nd. provision of mechanisms, management, and resolution of public complaints, and\ne. monitoring and evaluation.\n(2) Work Procedures and Implementation Mechanisms of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.",
+      "rationale": "The policy assigns UPTD PPA duties that include facilitating the needs of victims with disabilities, indicating specific attention to disability-related needs in protection services.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention women heads of household/families or provide special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Minority and isolated groups are mentioned only in relation to children’s special protection, not women; there are no passages specifying special protection measures for women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages describe services for victims and witnesses and monitoring during the judicial process, they do not specifically mention women in conflict with the law as witnesses or perpetrators, nor provide targeted measures for such women.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention Indigenous peoples/groups (masyarakat adat) or provide special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address disaster situations for women and emergency situations for children, but do not explicitly mention refugees or forced displacement or provide targeted measures for those groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of domestic workers or any special protection measures targeted at domestic workers in the provided passages.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention homelessness among women or provide special protection measures targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention formerly incarcerated women or former inmates in correctional institutions, nor do they provide targeted protection measures for this group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFINANCING\nArticle 40\nFinancing for the implementation of Child Protection is sourced from:\na.\nb.\n(1) Regional Revenue and Expenditure Budget, and other lawful sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy’s financing provision explicitly lists the Regional Revenue and Expenditure Budget as a source of financing, which corresponds to the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financing provision mentions the Regional Revenue and Expenditure Budget and other lawful sources, but none of the provided passages explicitly identify the national government budget (e.g., APBN) as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention international donors, UN agencies, foreign governments, or other international funding sources. References to community/business participation and “other lawful sources” are not explicit international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nFINANCING\nArticle 40\nFinancing for the implementation of Child Protection is sourced from:\na.\nb.\n(1) Regional Revenue and Expenditure Budget, and other lawful sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing article explicitly includes “other lawful sources in accordance with the provisions of laws and regulations,” which directly corresponds to other legal sources of funding.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference provincial-level regulations and coordination context, none explicitly identify a provincial government budget as a financing source; the financing clause only specifies the regional budget and other lawful sources without naming provincial budget funding.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

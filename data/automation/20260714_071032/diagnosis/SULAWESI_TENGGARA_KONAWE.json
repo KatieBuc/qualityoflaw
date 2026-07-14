@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "2.1": {
+      "indicator": "Institutional network / coordination mechanism",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The passages describe coordination/cooperation within the regency (e.g., PPT elements, community/NGO involvement) and cooperation with provincial/other regency/city governments, but they do not explicitly show coordination or cooperation with governments across jurisdictions in a way that clearly establishes an institutional network across jurisdictions for this criterion.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VI\nIMPLEMENTATION OF PROTECTION\nPart One\nInstitutional",
+          "score": 0.031544957774465976
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 28\n(1) Regional Governments may provide financial assistance to community organizations, social organizations, or non-governmental organizations and universities that carry out protection of children and women victims of violence.\n(2) Financial assistance as referred to in paragraph (1), shall be in accordance with regional financial capacity and implemented in accordance with the provisions of laws and regulations in the field of regional finance.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\n(1) Assistance is carried out by persons and/or institutions that cooperate with PPT.\n(2) The assistance mechanism as referred to in paragraph (1), is conducted according to Standard Operating Procedures (SOP) which are further regulated by Regent Regulation.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) Regional Government implements efforts to protect children and women victims of violence through:\na. implementing protection policies for children and women victims of violence applied by the government;\nb. establishing policies, programs, and protection activities for children and women victims of violence;\nc. establishment of PPT;\nd. guaranteeing the implementation of service facilitation to victims;\ne. pursuing effectiveness and efficiency for the victim recovery process; and\nf. pursuing the creation of cooperation and coordination in victim recovery efforts.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1) letter b, the regional government establishes action programs and activities for the protection of children and women in 1 (one) Regional Action Plan as the basis for regional apparatus in implementing protection for women and children victims of violence.\n(3) The Regional Action Plan as referred to in paragraph (2), constitutes part of the Regional Medium-Term Development Plan (RPJMD).\n(4) The Regional Action Plan as referred to in paragraph (2), shall be further regulated by Regent Regulation.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Konawe Regency.\n2. Regional Government is the Government of Konawe Regency. 3. Regent is the Regent of Konawe.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Konawe Regency.\n5. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child in the womb.\n7. Woman is a person who has female genitalia, can experience menstruation, pregnancy, childbirth, breastfeeding and includes a person who is legally recognized as a Woman.\n8. Violence is any act against a person that results in misery or suffering physically, sexually, psychologically, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Violence against children is any act against a child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Physical violence is any act that causes pain, injury, serious wounds or disability to a person's body, miscarriage or unconsciousness and/or causes death.\n12. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n13. Sexual violence is any act in the form of forced sexual intercourse, sexual abuse, forced sexual intercourse in an unnatural and/or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n14. Exploitation is an action with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits both material and immaterial.\n15. Victim is a child and woman who experiences physical suffering, psychological suffering, sexual suffering, either directly or indirectly resulting from acts of violence.\n16. Community is individuals, families, groups, social organizations and/or community organizations.\n17. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct line upward or downward up to the third degree.\n18. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.\n19. Service is immediate activities and actions carried out by Professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n20. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for self-strengthening of victims of violence to resolve the problems faced.\n21. Repatriation is an effort to return child and woman victims of violence to family, substitute family, or community that can provide protection and fulfillment of their needs.\n22. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles normally again both in the family and in society.\n23. Social Reintegration is an effort to reunite victims with family, or substitute family, community, institutions, or other social environments that can provide protection and fulfillment of needs for victims.\n24. Institution is an agency/office/body/bureau within the scope of regional government and/or non-governmental organization that provides assistance.\n25. Integrated Service Center hereinafter referred to as PPT is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter, etc.\n26. Regional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of violence.\n27. Safe House is a temporary residence, provided to give protection to victims in accordance with predetermined standards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 24\n(1) Regional Government conducts guidance and supervision of the implementation of protection for children and women victims of violence.\n(2) Guidance as referred to in paragraph (1), includes:\na. guidelines and fulfillment standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Supervision as referred to in paragraph (1), is conducted with the principles of:\na. professional;\nb. transparent; and\nc. accountable.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nSexual violence as referred to in Article 4 letter c is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural or unwanted manner; and/or\nd. forced sexual intercourse with another person for commercial purposes and or specific purposes.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 11 letter b, shall be implemented in the form of community participation.\n(2) The form of community participation as referred to in paragraph (1), includes:\na. establishing family partners at the kelurahan level;\nb. establishing child and women protection units within community organizations;\nc. conducting socialization of children's rights and women's rights independently;\nd. providing first aid to victims; and e. reporting to the competent authority if violence against victims occurs in their environment.\n(3) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, private sector, and mass media.\n(4) The form of community participation as referred to in paragraph (2), shall be implemented responsibly in accordance with the provisions of laws and regulations.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, there is explicit cross-jurisdiction coordination/cooperation language. Pasal 23 ayat (3) states: \"pemerintah daerah bekerjasama dengan instansi pemerintah, pemerintah provinsi, pemerintah kabupaten/kota lain\" (the regional government cooperates with government agencies, the provincial government, and other regency/city governments). This is an institutional coordination mechanism beyond the single regency. The retrieved English candidates shown to the judge included this same clause in [4.1-30] (though not in the [2.1] list), and within the [2.1] candidates there is also general coordination language in Pasal 13(1)(f): \"mengupayakan terciptanya kerjasama dan koordinasi\". Given the indicator is about an institutional network/coordination mechanism, the judge’s conclusion that there is no explicit cross-jurisdiction network is too strict/misread relative to the policy’s explicit cooperation with provincial and other regency/city governments.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 17\nForms of prevention of violence against children and women carried out by PPT, can be implemented through:\na. Socialization activities of laws and regulations to the community related to the protection of the rights of children and women; and\nb. Training of PPT members related to the implementation of their duties in preventing violence against children and women.",
+      "evaluator_rationale": "The policy includes primary prevention via community-facing socialization activities and training aimed at preventing violence against children and women, which constitutes information/education about VAW.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 16\n(1) In order to provide services and protection to children and women from violence, the Regional Government establishes PPT as an integrated service center for children and women victims of violence.\n(2) PPT as referred to in paragraph (1), consists of elements from the Health Office, Youth Education and Sports Office, Social Office, Cooperatives Industry and Trade Office, Population and Civil Registry Office, Women's Empowerment and Family Planning Agency, Community Empowerment Agency, Civil Service Police Unit, Regional General Hospital, Police Resort, Non-Governmental Organizations, and Universities.\n(3) PPT as referred to in paragraph (2), shall be established by Regent's decree.\n(4) The provision of services to victims shall be carried out in an integrated manner by PPT.\n(5) PPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\n(6) PPT provides services and temporary protection in the form of safe houses.\n(7) In the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\n(8) PPT consists of several counseling fields.\n(9) The counseling fields as referred to in paragraph (8) shall at minimum consist of:\na. legal field;\nb. health field;\nc. spiritual field; and\nd. psychology field.\n(10) Further provisions regarding the organizational structure of PPT shall be regulated by Regent's Regulation.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of violence, is carried out based on the principles of:\na. respect for human rights;\nb. justice;\nc. non-discrimination; and\nd. protection of victims;",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 24\n(1) Regional Government conducts guidance and supervision of the implementation of protection for children and women victims of violence.\n(2) Guidance as referred to in paragraph (1), includes:\na. guidelines and fulfillment standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Supervision as referred to in paragraph (1), is conducted with the principles of:\na. professional;\nb. transparent; and\nc. accountable.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nForms of prevention of violence against children and women carried out by PPT, can be implemented through:\na. Socialization activities of laws and regulations to the community related to the protection of the rights of children and women; and\nb. Training of PPT members related to the implementation of their duties in preventing violence against children and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Konawe Regency.\n2. Regional Government is the Government of Konawe Regency. 3. Regent is the Regent of Konawe.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Konawe Regency.\n5. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child in the womb.\n7. Woman is a person who has female genitalia, can experience menstruation, pregnancy, childbirth, breastfeeding and includes a person who is legally recognized as a Woman.\n8. Violence is any act against a person that results in misery or suffering physically, sexually, psychologically, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Violence against children is any act against a child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Physical violence is any act that causes pain, injury, serious wounds or disability to a person's body, miscarriage or unconsciousness and/or causes death.\n12. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n13. Sexual violence is any act in the form of forced sexual intercourse, sexual abuse, forced sexual intercourse in an unnatural and/or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n14. Exploitation is an action with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits both material and immaterial.\n15. Victim is a child and woman who experiences physical suffering, psychological suffering, sexual suffering, either directly or indirectly resulting from acts of violence.\n16. Community is individuals, families, groups, social organizations and/or community organizations.\n17. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct line upward or downward up to the third degree.\n18. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.\n19. Service is immediate activities and actions carried out by Professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n20. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for self-strengthening of victims of violence to resolve the problems faced.\n21. Repatriation is an effort to return child and woman victims of violence to family, substitute family, or community that can provide protection and fulfillment of their needs.\n22. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles normally again both in the family and in society.\n23. Social Reintegration is an effort to reunite victims with family, or substitute family, community, institutions, or other social environments that can provide protection and fulfillment of needs for victims.\n24. Institution is an agency/office/body/bureau within the scope of regional government and/or non-governmental organization that provides assistance.\n25. Integrated Service Center hereinafter referred to as PPT is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter, etc.\n26. Regional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of violence.\n27. Safe House is a temporary residence, provided to give protection to victims in accordance with predetermined standards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Two\nForm and Mechanism of Prevention and Services",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The objectives of providing protection for children and women victims of violence are to:\na. prevent violence against children and women;\nb. eliminate all forms of violence and exploitation against children and women;\nc. protect and provide a sense of security for children and women;\nd. provide services to children and women victims of violence, reporters, and witnesses; and\ne. facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\n(2) The objectives of providing protection for children and women victims of violence as referred to in paragraph (1), include aspects of:\na. prevention;\nh. services and assistance;\nc. reunification; and\nd. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 23\n(1) Forms of services provided to children and women victims of violence, are as follows:\na. complaint services;\nb. health services;\nc. legal aid;\nd. repatriation;\ne. rehabilitation, social reintegration, and medicolegal;\nf. identification services; and\ng. psychological services.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of:\na. social affairs;\nb. health;\nc. women's empowerment and child protection; and 14\nd. mental and spiritual.\n(3) In carrying out duties and functions as referred to in paragraph (2), the regional government cooperates with government agencies, provincial government, other regency/city governments, the community, families and parents.\n(4) Further provisions regarding procedures for services, and handling of children and women victims of violence as referred to in paragraph (1), paragraph (2), and paragraph (3), shall be regulated by Regent Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text clearly contains a primary-prevention information/education measure. Pasal 17 provides: \"Bentuk pencegahan ... dapat dilaksanakan melalui: a. Kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat ...\" which is community-facing dissemination/socialization of laws related to protection of children’s and women’s rights, and thus qualifies as information/education aimed at preventing violence against women/children. The judge’s cited English snippet matches the Indonesian meaning. Therefore the predicted 'Yes' is supported by the source text, and the golden label 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 17\nForms of prevention of violence against children and women carried out by PPT, can be implemented through:\na. Socialization activities of laws and regulations to the community related to the protection of the rights of children and women; and\nb. Training of PPT members related to the implementation of their duties in preventing violence against children and women.",
+      "evaluator_rationale": "The policy provides for socialization to the community related to protection of the rights of children and women, which is information/education about women’s rights (a component of gender equality education).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 16\n(1) In order to provide services and protection to children and women from violence, the Regional Government establishes PPT as an integrated service center for children and women victims of violence.\n(2) PPT as referred to in paragraph (1), consists of elements from the Health Office, Youth Education and Sports Office, Social Office, Cooperatives Industry and Trade Office, Population and Civil Registry Office, Women's Empowerment and Family Planning Agency, Community Empowerment Agency, Civil Service Police Unit, Regional General Hospital, Police Resort, Non-Governmental Organizations, and Universities.\n(3) PPT as referred to in paragraph (2), shall be established by Regent's decree.\n(4) The provision of services to victims shall be carried out in an integrated manner by PPT.\n(5) PPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\n(6) PPT provides services and temporary protection in the form of safe houses.\n(7) In the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\n(8) PPT consists of several counseling fields.\n(9) The counseling fields as referred to in paragraph (8) shall at minimum consist of:\na. legal field;\nb. health field;\nc. spiritual field; and\nd. psychology field.\n(10) Further provisions regarding the organizational structure of PPT shall be regulated by Regent's Regulation.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 28\n(1) Regional Governments may provide financial assistance to community organizations, social organizations, or non-governmental organizations and universities that carry out protection of children and women victims of violence.\n(2) Financial assistance as referred to in paragraph (1), shall be in accordance with regional financial capacity and implemented in accordance with the provisions of laws and regulations in the field of regional finance.",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nForms of prevention of violence against children and women carried out by PPT, can be implemented through:\na. Socialization activities of laws and regulations to the community related to the protection of the rights of children and women; and\nb. Training of PPT members related to the implementation of their duties in preventing violence against children and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Region is Konawe Regency.\n2. Regional Government is the Government of Konawe Regency. 3. Regent is the Regent of Konawe.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Konawe Regency.\n5. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child in the womb.\n7. Woman is a person who has female genitalia, can experience menstruation, pregnancy, childbirth, breastfeeding and includes a person who is legally recognized as a Woman.\n8. Violence is any act against a person that results in misery or suffering physically, sexually, psychologically, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Violence against children is any act against a child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Physical violence is any act that causes pain, injury, serious wounds or disability to a person's body, miscarriage or unconsciousness and/or causes death.\n12. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n13. Sexual violence is any act in the form of forced sexual intercourse, sexual abuse, forced sexual intercourse in an unnatural and/or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n14. Exploitation is an action with or without the victim's consent which includes but is not limited to prostitution, forced labor or services, slavery or practices similar to slavery, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully transferring or transplanting organs and/or body tissues or exploiting the labor or ability of a person by another party to obtain benefits both material and immaterial.\n15. Victim is a child and woman who experiences physical suffering, psychological suffering, sexual suffering, either directly or indirectly resulting from acts of violence.\n16. Community is individuals, families, groups, social organizations and/or community organizations.\n17. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct line upward or downward up to the third degree.\n18. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.\n19. Service is immediate activities and actions carried out by Professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n20. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for self-strengthening of victims of violence to resolve the problems faced.\n21. Repatriation is an effort to return child and woman victims of violence to family, substitute family, or community that can provide protection and fulfillment of their needs.\n22. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles normally again both in the family and in society.\n23. Social Reintegration is an effort to reunite victims with family, or substitute family, community, institutions, or other social environments that can provide protection and fulfillment of needs for victims.\n24. Institution is an agency/office/body/bureau within the scope of regional government and/or non-governmental organization that provides assistance.\n25. Integrated Service Center hereinafter referred to as PPT is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter, etc.\n26. Regional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of violence.\n27. Safe House is a temporary residence, provided to give protection to victims in accordance with predetermined standards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Two\nForm and Mechanism of Prevention and Services",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The objectives of providing protection for children and women victims of violence are to:\na. prevent violence against children and women;\nb. eliminate all forms of violence and exploitation against children and women;\nc. protect and provide a sense of security for children and women;\nd. provide services to children and women victims of violence, reporters, and witnesses; and\ne. facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\n(2) The objectives of providing protection for children and women victims of violence as referred to in paragraph (1), include aspects of:\na. prevention;\nh. services and assistance;\nc. reunification; and\nd. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) Regional Government implements efforts to protect children and women victims of violence through:\na. implementing protection policies for children and women victims of violence applied by the government;\nb. establishing policies, programs, and protection activities for children and women victims of violence;\nc. establishment of PPT;\nd. guaranteeing the implementation of service facilitation to victims;\ne. pursuing effectiveness and efficiency for the victim recovery process; and\nf. pursuing the creation of cooperation and coordination in victim recovery efforts.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1) letter b, the regional government establishes action programs and activities for the protection of children and women in 1 (one) Regional Action Plan as the basis for regional apparatus in implementing protection for women and children victims of violence.\n(3) The Regional Action Plan as referred to in paragraph (2), constitutes part of the Regional Medium-Term Development Plan (RPJMD).\n(4) The Regional Action Plan as referred to in paragraph (2), shall be further regulated by Regent Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nSexual violence as referred to in Article 4 letter c is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural or unwanted manner; and/or\nd. forced sexual intercourse with another person for commercial purposes and or specific purposes.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "Pasal 17 in Indonesian is about prevention via (a) socialization of laws/regulations related to protection of children’s and women’s rights and (b) training PPT members on prevention tasks. This is VAW/child-protection awareness, but it does not specifically mandate 'gender equality education' (e.g., curriculum or education explicitly about kesetaraan gender/gender equality norms). The judge overgeneralized 'women’s rights socialization' into 'gender equality education.' Since the retrieved passage (Article 17) does not actually establish gender-equality education as such, the correct label is plausibly 'No' and the error is the judge being too lenient.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_TENGGARA_KONAWE.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-14T11:55:58.932843+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

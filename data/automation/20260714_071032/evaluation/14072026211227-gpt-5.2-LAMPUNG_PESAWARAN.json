@@ -1,0 +1,471 @@
+{
+  "policy_file": "LAMPUNG_PESAWARAN.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:59:20.307425+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "REGENT OF PESAWARAN\nLAMPUNG PROVINCE\nREGIONAL REGULATION OF PESAWARAN REGENCY\nNUMBER 1 OF 2019\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF PESAWARAN,\n\nConsidering : a. that the Republic of Indonesia is a State that upholds the dignity and worth of every human being, provides guarantees for the rights and security of women and children and freedom from all forms of violence, mistreatment, exploitation, trafficking and neglect;\nb. that in order for efforts to protect children and children to obtain optimal results, there needs to be concrete action from the regional government and it is necessary to increase the participation of the community at large;\nc. that based on Article 12 paragraph (2) letter b of Law Number 23 of 2014 concerning Regional Government as has been amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government, women's empowerment and child protection are governmental affairs that must be implemented by Regional Governments;\nd. that based on the considerations as referred to in letter a, letter b and letter c above, it is necessary to establish a Regional Regulation concerning Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 13 of 2003 concerning Manpower (State Gazette of the Republic of Indonesia of 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n4. Law Number 20 of 2003 concerning the National Education System (State Gazette of the Republic of Indonesia of 2003 Number 78, Supplement to the State Gazette of the Republic of Indonesia Number 4301);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 33 of 2007 concerning the Establishment of Pesawaran Regency in Lampung Province (State Gazette of the Republic of Indonesia of 2007 Number 99, Supplement to the State Gazette of the Republic of Indonesia Number 4749);\n7. Law Number 36 of 2009 concerning Health (State Gazette of the Republic of Indonesia of 2009 Number 144, Supplement to the State Gazette of the Republic of Indonesia Number 5063);\n8. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n9. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587), as has been amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);\n10. Regulation of the Minister of Women's Empowerment Number 3 of 2008 concerning Guidelines for the Implementation of Child Protection;\n11. Regulation of the Minister of Women's Empowerment and Child Protection Number 5 of 2011 concerning Policy on the Fulfillment of Children's Education Rights (State News of the Republic of Indonesia of 2011 Number 65);\n12. Regulation of the Minister of Women's Empowerment and Child Protection Number 10 of 2011 concerning Policy on Handling Children with Special Needs (State News of the Republic of Indonesia of 2011 Number 857);\n13. Regulation of the Minister of Women's Empowerment and Child Protection Number 13 of 2011 concerning Guidelines for the Development of Child-Friendly Regencies/Cities (State News of the Republic of Indonesia of 2012 Number 170);\n14. Regulation of the Minister of Women's Empowerment and Child Protection Number 6 of 2015 concerning the System for Women's Empowerment and Child Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF PESAWARAN REGENCY and",
+      "rationale": "The policy document explicitly references the national law on the elimination of domestic violence, indicating domestic violence is within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 30\n(1) Every child who is deprived of liberty has the right to:\na. receive humane treatment and be placed separately from adults;\nb. obtain legal assistance or other assistance effectively at every stage of applicable legal remedies; and\nc. defend themselves and obtain justice before an objective and impartial juvenile court in a hearing closed to the public.\n(2) Every child who becomes a victim or perpetrator of sexual violence or who is in conflict with the law has the right to confidentiality.",
+      "rationale": "The policy explicitly mentions children who become victims or perpetrators of sexual violence and provides a related right (confidentiality), directly addressing sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 46\n(1) Protection in the field of education as referred to in Article 37 letter c applies within and in the environment of educational units.\n(2) Protection as referred to in paragraph (1) is in the form of protection from physical violence, psychological violence, sexual crimes, and other crimes.\n(3) Protection within and outside educational units can be carried out by educators, educational personnel, regional government apparatus, and/or the community.",
+      "rationale": "The policy explicitly includes protection from physical violence in educational settings, directly addressing physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 46\n(1) Protection in the field of education as referred to in Article 37 letter c applies within and in the environment of educational units.\n(2) Protection as referred to in paragraph (1) is in the form of protection from physical violence, psychological violence, sexual crimes, and other crimes.\n(3) Protection within and outside educational units can be carried out by educators, educational personnel, regional government apparatus, and/or the community.",
+      "rationale": "The policy explicitly includes protection from psychological violence (alongside physical violence and sexual crimes) in educational settings, directly addressing psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) Every child during the care of parents, guardians, or any other party responsible for care, has the right to receive protection from treatment of:\na. discrimination;\nb. exploitation, both economic and sexual;\nc. neglect;\nd. cruelty, violence, and abuse;\ne. injustice; and\nf. other mistreatment.\n(2) In the event that parents, guardians or child caregivers commit any form of treatment as referred to in paragraph (1), the perpetrator shall be subject to aggravated punishment.",
+      "rationale": "The policy explicitly includes protection from economic exploitation and neglect for children under care, which covers economic violence/economic exploitation/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "Article 69\n(1) The obligations and responsibilities of parents and family as referred to in Article 45 letter d, are to safeguard and prevent the occurrence of all forms of violence, exploitation, trafficking and discrimination both against women and against children.\n(2) The obligations and responsibilities of parents towards children as referred to in paragraph (1), are to:\na. care for, maintain, educate, and protect children;\nb. develop children in accordance with their abilities, talents, and interests;\nc. prevent the occurrence of marriage at child age; and\nd. provide character education and instillation of moral values in children.\n(3) Guardians and/or foster parents who are appointed as referred to in paragraph (3) must have similarity with the religion adhered to by the Child.\n(4) Guardians and/or foster parents as referred to in paragraph (3) are responsible for the child's person and must manage the property belonging to the child concerned for the best interests of the child.\n(6) Guardians and/or foster parents as referred to in paragraph (3), may represent the child to perform legal acts, both inside and outside the court for the best interests of the child.",
+      "rationale": "The policy explicitly assigns parents responsibilities including preventing marriage at child age, which is a harmful practice (early/child marriage).",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention femicide/feminicide or gender-related killing of women; they refer only to general violence prevention and protection.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 58\nRegional Government provides special protection for child victims of trafficking as referred to in Article 37 letter e and child victims of abduction as referred to in Article 49 letter g which is carried out through efforts of:\na. supervision;\nb. protection;\nc. prevention;\nd. care; and\ne. rehabilitation.",
+      "rationale": "The policy explicitly provides special protection for child victims of trafficking, directly addressing human trafficking.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 26\n(1) Every child during the care of parents, guardians, or any other party responsible for care, has the right to receive protection from treatment of:\na. discrimination;\nb. exploitation, both economic and sexual;\nc. neglect;\nd. cruelty, violence, and abuse;\ne. injustice; and\nf. other mistreatment.\n(2) In the event that parents, guardians or child caregivers commit any form of treatment as referred to in paragraph (1), the perpetrator shall be subject to aggravated punishment.",
+      "rationale": "The policy explicitly references protection from sexual exploitation (and economic exploitation), directly addressing sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention technology/online/digital forms of violence or abuse; they address general violence prevention and service structures without a technology component.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe integrated prevention efforts and local institutional arrangements within the regency (e.g., coordination among regional government institutions and community, and establishment of service units at district/sub-district/village levels), but none explicitly mention coordination or cooperation with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 71\n(1) P2TP2A as referred to in Article 70 paragraph (3) letter a, is positioned at the district level and sub-district level.\n(2) P2TP2A is under the coordination of OPD or other units that handle women's empowerment and child protection.\n(3) P2TP2A as referred to in paragraph (1) does not have the authority to formulate policies on women's empowerment and child protection.\n(4) P2TP2A is one form of integrated service unit, which functions as:\na. information center for women and children;\nb. service center for women and children victims of violence; and\nc. empowerment center for women and children. Article 72 (1) The establishment of P2TP2A is determined by Regent's Decree for the district level and sub-district head's decree for the sub-district level.\n(2) P2TP2A membership may come from elements of Regional Government, professional organizations, academics, community leaders and other elements as needed.\n(3) Further provisions regarding P2TP2A as referred to in paragraph (1) are regulated in Regent's Regulation.",
+      "rationale": "The policy establishes an integrated service unit (P2TP2A) whose membership may include non-government actors (e.g., professional organizations, academics, community leaders), indicating a formal collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly establish a data collection system or information system for violence against women or women’s protection. References to an 'information center' function do not specify a data collection or information system for VAW.",
+      "evidence_verified": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "Article 13\n(1) To implement women's empowerment as referred to in Article 12 paragraph (1), the Regional Government shall organize gender mainstreaming including:\na. establishing the implementation of gender mainstreaming;\nb. coordinating, facilitating, and mediating gender mainstreaming;\nc. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd. implementing gender mainstreaming related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\ne. improving the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\nf. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\ng. coordinating the implementation for women related to the fields of health, economy, law, human rights, environment and socio-culture; improving the quality of life in development, education, human rights and politics;\nh. organizing protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni. facilitating the integration of protection of women especially for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj. coordinating protection of women especially for victims of violence, female workers, elderly women and women with disabilities;\nk. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl. developing gender-based information systems;\nm. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) The forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1), shall be implemented in accordance with laws and regulations.",
+      "rationale": "The policy explicitly requires the Regional Government to organize gender mainstreaming and includes institutional/mechanism-related actions (e.g., establishing implementation, coordinating, and facilitating institutional strengthening and mechanisms), indicating institutionalisation of gender mainstreaming relevant to delivering related programs including protection for victims of violence.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nGUIDANCE AND SUPERVISION\nArticle 85\n(1) The Regional Head has the authority to conduct guidance and supervision over the Protection of Women and Children.\n(2) The form of guidance as referred to in paragraph (1) may include:\na. providing socialization to the community and children's groups regarding the concept of Child-Friendly Regency and children's rights;\nb. providing books, leaflets, brochures regarding child protection, reproductive health, dangers of Sexually Transmitted Diseases and Narcotics and other Addictive Substances (NAPZA) and distributing them to the community;\nc. providing training related to child care/education, counseling principles, basic psychology to communities participating in efforts to organize early childhood education, development of Toddler Family Development Groups (BKB), organizing integrated child protection services and other similar activities related to fulfilling children's needs;\nd. facilitating the organization of children's forums and components of children's socio-cultural groups;\ne. facilitating the growth and development of centers or platforms for information and counseling services for adolescents;\nf. providing awards to the community, both individuals and groups or community organizations that are deemed to have carried out child protection efforts well.\n(3) Supervision as referred to in paragraph (1) may include monitoring and evaluation activities over the Protection of Women and Children implemented by child protection organizers.\n(4) The authority as referred to in paragraph (1) may be delegated to the Head of Women's Empowerment and Family Planning and/or other officials within the Regional Government in accordance with their respective duties and functions.",
+      "rationale": "The policy includes training as a form of guidance, including training related to child care/education, counseling principles, and basic psychology for communities participating in child protection services, which constitutes capacity building for service delivery actors.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER XII\nGUIDANCE AND SUPERVISION\nArticle 85\n(1) The Regional Head has the authority to conduct guidance and supervision over the Protection of Women and Children.\n(2) The form of guidance as referred to in paragraph (1) may include:\na. providing socialization to the community and children's groups regarding the concept of Child-Friendly Regency and children's rights;\nb. providing books, leaflets, brochures regarding child protection, reproductive health, dangers of Sexually Transmitted Diseases and Narcotics and other Addictive Substances (NAPZA) and distributing them to the community;\nc. providing training related to child care/education, counseling principles, basic psychology to communities participating in efforts to organize early childhood education, development of Toddler Family Development Groups (BKB), organizing integrated child protection services and other similar activities related to fulfilling children's needs;\nd. facilitating the organization of children's forums and components of children's socio-cultural groups;\ne. facilitating the growth and development of centers or platforms for information and counseling services for adolescents;\nf. providing awards to the community, both individuals and groups or community organizations that are deemed to have carried out child protection efforts well.\n(3) Supervision as referred to in paragraph (1) may include monitoring and evaluation activities over the Protection of Women and Children implemented by child protection organizers.\n(4) The authority as referred to in paragraph (1) may be delegated to the Head of Women's Empowerment and Family Planning and/or other officials within the Regional Government in accordance with their respective duties and functions.",
+      "rationale": "The policy explicitly provides for supervision that may include monitoring and evaluation activities over the Protection of Women and Children implemented by organizers, indicating M&E of implementation/service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 71\n(1) P2TP2A as referred to in Article 70 paragraph (3) letter a, is positioned at the district level and sub-district level.\n(2) P2TP2A is under the coordination of OPD or other units that handle women's empowerment and child protection.\n(3) P2TP2A as referred to in paragraph (1) does not have the authority to formulate policies on women's empowerment and child protection.\n(4) P2TP2A is one form of integrated service unit, which functions as:\na. information center for women and children;\nb. service center for women and children victims of violence; and\nc. empowerment center for women and children. Article 72 (1) The establishment of P2TP2A is determined by Regent's Decree for the district level and sub-district head's decree for the sub-district level.\n(2) P2TP2A membership may come from elements of Regional Government, professional organizations, academics, community leaders and other elements as needed.\n(3) Further provisions regarding P2TP2A as referred to in paragraph (1) are regulated in Regent's Regulation.",
+      "rationale": "The policy establishes P2TP2A and explicitly states it is an integrated service unit functioning as an information, service, and empowerment center for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages describe integrated service units (P2TP2A), protection measures, and complaint/service units at local administrative levels, but do not mention any specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Efforts to prevent violence against women shall be carried out in an integrated manner by the Regional Government coordinated by the agency having the duties and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1), shall be implemented through the following means:\na. establishing a working network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership work patterns between Regional Government institutions and the community;\nc. building an integrated security system in areas prone to cases of violence against women;\nd. building complaint and service units regarding violence against women at the sub-district, urban village and/or Village levels; and\ne. awareness campaigns, socialization and education to the community regarding the protection and empowerment of women.",
+      "rationale": "The policy includes establishing complaint and service units regarding violence against women at sub-district/urban village/village levels, indicating a mechanism to receive reports/complaints.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 16\n(1) Protection of women includes:\na. protection of the personal security of victims or witnesses;\nb. physical and psychological threats;\nc. confidentiality of the identity of victims and witnesses;\nd. provision of testimony during the ongoing legal process regulated through protection mechanisms.\n(2) Protection for women victims also includes the provision of safe houses as temporary shelter to obtain a sense of security during the judicial process and/or outside the judicial process.\n(3) The implementation of protection and safe houses shall be carried out by the Regional Government.\n(4) Further provisions on the mechanism for protection of women as referred to in paragraph (2), and the implementation of safe houses as referred to in paragraph (3), shall be regulated in a Regent Regulation.",
+      "rationale": "The policy explicitly provides for safe houses as temporary shelter for women victims and assigns implementation of protection and safe houses to the Regional Government.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 51\n(1) Regional government and society provide special protection for children in conflict with the law as referred to in Article 49 letter a, which includes children in conflict with the law and child victims of criminal acts.\n(2) Protection as referred to in paragraph (1) is carried out through:\na. humane treatment with attention to needs according to their age;\nb. separation from adults;\nc. provision of legal assistance and other assistance effectively;\nd. implementation of recreational activities;\ne. freedom from torture, punishment, or other treatment that is cruel, inhumane and degrading to dignity and status;\nf. avoidance of imposition of the death penalty and/or life imprisonment;\ng. avoidance of arrest, detention or imprisonment, except as a last resort and for the shortest period of time;\nh. provision of justice before a Children's court that is objective, impartial, and in a hearing closed to the public;\ni. avoidance of publication of their identity.\nj. provision of assistance from Parents/Guardians and persons trusted by the Child;\nk. provision of social advocacy;\nl. provision of private life;\nm. provision of accessibility, especially for Children with Disabilities;\nn. provision of education;\no. provision of health services; and\np. provision of other rights in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy specifies that special protection includes the provision of legal assistance and other assistance effectively, indicating legal assistance as part of service provision.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 38\n(1) Protection in the field of health as referred to in Article 37 paragraph (2) letter a, shall be carried out by the government through the provision of health facilities and efforts to provide comprehensive health services for children, so that every child obtains the optimal degree of health from the time they are in the womb.\n(2) Comprehensive health services as referred to in paragraph (1) include promotive, preventive, curative, and rehabilitative efforts, both for basic health services and referrals.\n(3) Comprehensive health service efforts as referred to in paragraph (2) shall be implemented by the Regional Government free of charge for families who are unable to afford it.",
+      "rationale": "The policy requires provision of health facilities and comprehensive health services (promotive, preventive, curative, rehabilitative, including referrals), including free services for those unable to afford them.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 73\n(1) In the context of handling psychosocial problems of victims, recovery of psychosocial conditions of victims and strengthening family resilience, LK3 may be established in the regions.\n(2) The procedures for establishment, main duties and functions as well as service mechanisms of LK3 shall be carried out in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy provides that LK3 may be established specifically to handle psychosocial problems of victims and recovery of psychosocial conditions, which implies psychosocial counseling/service support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention protection in the field of religion and guidance on religious values, they do not identify a specific service unit that provides religious/spiritual counseling services.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 61\nSpecial Protection for Children with deviant social behavior as referred to in Article 49 letter m shall be carried out through guidance on religious values and social values, counseling, social rehabilitation, and social assistance.",
+      "rationale": "The policy provides for social rehabilitation and social assistance (as part of special protection measures), which constitutes resocialisation/rehabilitation services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 8\nThe implementation of women's empowerment in the economic field as referred to in Article 7 paragraph (2) letter a, shall be carried out through:\na. provision of skills and job training;\nb. facilitation of the formation of productive economic business groups;\nc. facilitation of strengthening and development of productive economic business groups;\nd. facilitation of capital assistance; and\ne. facilitation of marketing network development.",
+      "rationale": "The policy includes economic empowerment measures such as skills/job training, facilitation of business groups, capital assistance, and marketing network development, which are forms of economic support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) Efforts to prevent violence against women shall be carried out in an integrated manner by the Regional Government coordinated by the agency having the duties and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1), shall be implemented through the following means:\na. establishing a working network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership work patterns between Regional Government institutions and the community;\nc. building an integrated security system in areas prone to cases of violence against women;\nd. building complaint and service units regarding violence against women at the sub-district, urban village and/or Village levels; and\ne. awareness campaigns, socialization and education to the community regarding the protection and empowerment of women.",
+      "rationale": "The policy includes primary prevention measures for violence against women that explicitly mention awareness campaigns, socialization, and education to the community regarding protection and empowerment of women, which constitutes information/education related to VAW prevention.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages reference women’s empowerment, gender equality goals, and gender mainstreaming, none of the provided passages explicitly describe information/education activities specifically about gender equality and/or women’s rights (e.g., public education on gender equality). The closest education language is framed around protection/empowerment or mainstreaming implementation rather than explicit gender-equality education.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general legal awareness/education for women and general prevention education, but they do not explicitly indicate information/education about laws and policies specifically concerning violence against women (VAW laws/policies).",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": null,
+      "rationale": "The policy addresses improving access to education and supporting teaching and learning through government-provided opportunities and infrastructure for children’s education, which aligns with prevention through education and improving the quality/availability of education. [unresolved evidence citation removed]",
+      "evidence_verified": false
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Pesawaran Regency.\n2. Regional Government is the Regent as an element of the Regional Government administrator who leads the implementation of government which is the authority of the autonomous region.\n3. Regent is the Regent of Pesawaran.\n4. Regional House of Representatives hereinafter referred to as DPRD is the Regional House of Representatives of Pesawaran Regency.\n5. Sub-district is a part of the Regency area led by a sub-district head.\n6. Village is a part of the Regency area led by a Village Head;\n7. Village Government is the village government in Pesawaran Regency.\n8. Community is individuals, families, groups, and social organizations and/or community organizations.\n9. Family is the smallest unit in society consisting of husband and wife and their children, or father and children or mother and children or blood relatives in direct line upward or downward laterally to the third degree.\n10. Parents are biological father and/or mother or step father and/or step mother, or adoptive father and/or adoptive mother.\n11. Guardian is a person or body who in reality exercises custodial power as a parent over a child.\n12. Woman is a human being who can menstruate, become pregnant, give birth and breastfeed.\n13. Child is a person who has not reached the age of 18 (eighteen) years, including babies still in the womb.\n14. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n15. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n16. Protection of women is all efforts made to ensure the fulfillment of women's rights as a form of respect for human rights.\n17. Empowerment of women is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n18. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n19. Child with Disability is a Child who has physical, mental, intellectual, or sensory limitations for a long period of time who in interacting with the environment and community attitudes may encounter obstacles that make it difficult to participate fully and effectively based on equal rights.\n20. Child with Excellence is a Child who has extraordinary intelligence or has special potential and/or talent not limited to intellectual ability, but also in other fields.\n21. Adopted Child is a Child whose rights are transferred from the environment of the authority of the Family of Parents, legal Guardian, or other person responsible for the care, education, and raising of the Child into the Family environment of the adoptive Parents based on a court decision or determination.\n22. Foster Child is a Child who is cared for by a person or institution to be provided with guidance, maintenance, care, education, and health because the Parents or one of the Parents is unable to guarantee the proper growth and development of the Child.\n23. Custody is the power of Parents to care for, educate, maintain, foster, protect, and develop the Child in accordance with the religion professed and in accordance with abilities, talents, and interests.\n24. Child Rights are part of human rights that must be guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government.\n25. Companion is a social worker who has professional competence in their field.\n26. Violence is any act unlawfully, which results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of a person's freedom.\n27. Violence against women is any act based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain acts, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n28. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n29. Child-Friendly Regency is a Regency that has a Development and public Service system from the Regency Government with support from parents, families, communities, the private sector and Children's forums for the fulfillment of children's rights through the integration of commitments and resources that are planned comprehensively and sustainably through policies, programs, activities and budgeting for child welfare.\n30. Integrated Service Center hereinafter abbreviated as PPT is a cooperative network that carries out integrated social service functions.\n31. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a cooperative network that carries out integrated service functions for the protection of women and children.\n32. Community Social Institution is a Non-Governmental Organization (NGO) and/or other community organizations.\n33. Family Welfare Consultation Institution hereinafter abbreviated as LK3 is an integrated social service unit that handles family psychosocial problems to realize family resilience.\n34. Regional Child Protection Commission hereinafter abbreviated as KPAD is an integrated social service unit that implements child protection services to realize the fulfillment of children's rights.\n35. Children's Forum is a Social Organization that represents the voice and participation of children that is independent and not affiliated with political organizations where the formation and preparation of its activities are determined in the Regent's Regulation.\n36. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development program policies.\n37. Discrimination is any restriction, harassment, or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, which results in reduction, deviation or elimination of recognition, implementation or use of human rights and fundamental freedoms in life both individually and collectively in the political, economic, legal, social, cultural fields, and other aspects of life.\n38. Safe House (Shelter) is a protection house for women and children including families and witnesses of violence victims.",
+      "rationale": "The policy explicitly defines community social institutions as NGOs and/or other community organizations, indicating recognition and inclusion of NGOs as stakeholders for engagement in protection-related efforts.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious organizations, religious leaders, or collaboration with faith-based institutions in services or prevention.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While cultural values are mentioned, the passages do not explicitly reference traditional/cultural organizations or leaders as stakeholders to collaborate with for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 68\n(1) The obligations and responsibilities of the community as referred to in Article 64 letter c, are carried out by participating in the protection of women and children victims of violence, exploitation, trafficking and discrimination, either individually or in groups.\n(2) The role of the community as referred to in paragraph (1) is carried out by individuals, women and child protection institutions, social welfare institutions, community organizations, educational institutions, mass media, and the business sector.\n(3) The role of the community in implementing the protection of women and children as referred to in paragraph (1) is carried out by:\na. providing information through socialization and education regarding the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nb. providing input in the formulation of policies related to the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nc. reporting to the authorities if violations of acts of violence, exploitation, trafficking and discrimination against women and children occur;\nd. playing an active role in the rehabilitation and social reintegration process for women and children victims of acts of violence, exploitation, trafficking and discrimination;\ne. conducting monitoring and supervision of the Protection of Women and Children from acts of violence, exploitation, trafficking and discrimination;\nf. providing facilities and infrastructure in order to support the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\ng. playing an active role by eliminating negative labeling of women and children victims of acts of violence, exploitation, trafficking and discrimination; and\nh. providing space for women and children to be able to participate and express opinions.",
+      "rationale": "The policy explicitly includes educational institutions among the community actors with roles in protection efforts, indicating stakeholder engagement with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention NGOs and cooperation with related service units, and reference international conventions in general background, but do not describe engagement/collaboration with international organizations or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 68\n(1) The obligations and responsibilities of the community as referred to in Article 64 letter c, are carried out by participating in the protection of women and children victims of violence, exploitation, trafficking and discrimination, either individually or in groups.\n(2) The role of the community as referred to in paragraph (1) is carried out by individuals, women and child protection institutions, social welfare institutions, community organizations, educational institutions, mass media, and the business sector.\n(3) The role of the community in implementing the protection of women and children as referred to in paragraph (1) is carried out by:\na. providing information through socialization and education regarding the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nb. providing input in the formulation of policies related to the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nc. reporting to the authorities if violations of acts of violence, exploitation, trafficking and discrimination against women and children occur;\nd. playing an active role in the rehabilitation and social reintegration process for women and children victims of acts of violence, exploitation, trafficking and discrimination;\ne. conducting monitoring and supervision of the Protection of Women and Children from acts of violence, exploitation, trafficking and discrimination;\nf. providing facilities and infrastructure in order to support the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\ng. playing an active role by eliminating negative labeling of women and children victims of acts of violence, exploitation, trafficking and discrimination; and\nh. providing space for women and children to be able to participate and express opinions.",
+      "rationale": "The policy explicitly lists mass media among the community actors involved in implementing protection roles, indicating engagement with media stakeholders.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 68\n(1) The obligations and responsibilities of the community as referred to in Article 64 letter c, are carried out by participating in the protection of women and children victims of violence, exploitation, trafficking and discrimination, either individually or in groups.\n(2) The role of the community as referred to in paragraph (1) is carried out by individuals, women and child protection institutions, social welfare institutions, community organizations, educational institutions, mass media, and the business sector.\n(3) The role of the community in implementing the protection of women and children as referred to in paragraph (1) is carried out by:\na. providing information through socialization and education regarding the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nb. providing input in the formulation of policies related to the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nc. reporting to the authorities if violations of acts of violence, exploitation, trafficking and discrimination against women and children occur;\nd. playing an active role in the rehabilitation and social reintegration process for women and children victims of acts of violence, exploitation, trafficking and discrimination;\ne. conducting monitoring and supervision of the Protection of Women and Children from acts of violence, exploitation, trafficking and discrimination;\nf. providing facilities and infrastructure in order to support the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\ng. playing an active role by eliminating negative labeling of women and children victims of acts of violence, exploitation, trafficking and discrimination; and\nh. providing space for women and children to be able to participate and express opinions.",
+      "rationale": "The policy explicitly assigns obligations and roles to the community (individually or in groups and through various institutions) to participate in protection, demonstrating engagement/collaboration with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 68\n(1) The obligations and responsibilities of the community as referred to in Article 64 letter c, are carried out by participating in the protection of women and children victims of violence, exploitation, trafficking and discrimination, either individually or in groups.\n(2) The role of the community as referred to in paragraph (1) is carried out by individuals, women and child protection institutions, social welfare institutions, community organizations, educational institutions, mass media, and the business sector.\n(3) The role of the community in implementing the protection of women and children as referred to in paragraph (1) is carried out by:\na. providing information through socialization and education regarding the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nb. providing input in the formulation of policies related to the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\nc. reporting to the authorities if violations of acts of violence, exploitation, trafficking and discrimination against women and children occur;\nd. playing an active role in the rehabilitation and social reintegration process for women and children victims of acts of violence, exploitation, trafficking and discrimination;\ne. conducting monitoring and supervision of the Protection of Women and Children from acts of violence, exploitation, trafficking and discrimination;\nf. providing facilities and infrastructure in order to support the protection of women and children from acts of violence, exploitation, trafficking and discrimination;\ng. playing an active role by eliminating negative labeling of women and children victims of acts of violence, exploitation, trafficking and discrimination; and\nh. providing space for women and children to be able to participate and express opinions.",
+      "rationale": "The policy explicitly includes the business sector among the community actors with roles in implementing protection efforts, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages for 6.1 mention women in conflict areas or disaster-prone/affected areas; they discuss general prevention of violence, protection mechanisms, safe houses, and participatory planning (musrenbang) without a conflict/disaster-area focus.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include special protection for child victims of trafficking and general protection for women victims, but do not specify special protection measures targeted at women victims of human trafficking.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 6\nThe rights of women are as follows:\na. to live, sustain life and improve their standard of living;\nb. to live peacefully, safely, in peace, happily, prosperously both physically and spiritually;\nc. to enjoy a good and healthy living environment;\nd. to live in a family and continue offspring within the bonds of legal marriage based on the provisions of laws and regulations;\ne. to obtain work according to ability, appropriate conditions and decent and fair wages;\nf. specifically for women with disabilities, the right to obtain facilities and special treatment in public services;\ng. to play an active role in the field of politics and government in accordance with their potential and capabilities;\nh. to obtain information and legal services;\ni. to obtain services to increase their income; and\nj. to obtain other rights in accordance with their human dignity and based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly mentions women’s right to obtain work with appropriate conditions and fair wages, indicating attention to women workers/employees.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "Article 13\n(1) To implement women's empowerment as referred to in Article 12 paragraph (1), the Regional Government shall organize gender mainstreaming including:\na. establishing the implementation of gender mainstreaming;\nb. coordinating, facilitating, and mediating gender mainstreaming;\nc. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd. implementing gender mainstreaming related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\ne. improving the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\nf. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, human rights and politics, environment and socio-culture;\ng. coordinating the implementation for women related to the fields of health, economy, law, human rights, environment and socio-culture; improving the quality of life in development, education, human rights and politics;\nh. organizing protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni. facilitating the integration of protection of women especially for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj. coordinating protection of women especially for victims of violence, female workers, elderly women and women with disabilities;\nk. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl. developing gender-based information systems;\nm. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) The forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1), shall be implemented in accordance with laws and regulations.",
+      "rationale": "The policy explicitly includes “elderly women” among groups for whom protection is organized/coordinated, indicating special protection attention targeted to elderly women.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 59\nSpecial Protection for Children with Disabilities as referred to in Article 49 letter k shall be carried out through efforts to:\na. treat Children humanely in accordance with the dignity and Rights of the Child;\nb. fulfill special needs;\nc. provide equal treatment with other Children to achieve social integration as fully as possible and individual development; and\nd. provide social assistance.",
+      "rationale": "The policy provides special protection measures for children with disabilities, detailing specific efforts, which constitutes explicit targeted protection for people with disabilities (at least for children).",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention women heads of household/families or provide measures specifically targeted to them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address special protection for children from minority and isolated groups, but do not specify special protection measures targeted at women from minority/isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide special protection for children in conflict with the law and general protection for women victims/witnesses, but do not specifically mention protection of women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage explicitly references Indigenous peoples/groups (masyarakat adat) or provides special protection measures targeted to them; references are to minority/isolated groups (children) more generally.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "Yes",
+      "evidence": "Article 50\n(1) Children in emergency situations as referred to in Article 37 letter a, consist of:\na. children who become refugees;\nb. children victims of riots;\nc. children victims of natural disasters; and\nd. children in armed conflict situations.\n(2) Special protection for children in emergency situations as referred to in paragraph (1), shall be implemented in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly identifies children who become refugees as part of “children in emergency situations” and provides for special protection in such situations.",
+      "evidence_verified": true
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention domestic workers or provide special protection measures specifically targeted at domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention homelessness or women experiencing homelessness, nor do they provide targeted measures for this group.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss children deprived of liberty and general protection for women victims/witnesses, but do not mention women who are former inmates or provide special protection measures for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER XI\nFINANCING\nArticle 84\nThe costs of implementing the protection of women and children are sourced from:\na. Regional Revenue and Expenditure Budget;\nb. Village Revenue and Expenditure Budget; and\nc. Other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly lists the Regional Revenue and Expenditure Budget as a financing source, which is a local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financing provisions mention regional and village budgets and other legal/non-binding sources, but do not explicitly mention any national/central government budget.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly reference international donors, UN agencies, foreign governments, or other international funding sources; the financing language is generic ('other legal and non-binding sources') without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER XI\nFINANCING\nArticle 84\nThe costs of implementing the protection of women and children are sourced from:\na. Regional Revenue and Expenditure Budget;\nb. Village Revenue and Expenditure Budget; and\nc. Other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing article explicitly includes 'Other legal and non-binding sources' as a funding source.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing provisions identify regional (regency) and village budgets, but do not explicitly mention a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": [
+    "4.4"
+  ]
+}

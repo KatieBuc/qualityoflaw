@@ -30,6 +30,12 @@ def model_config_path(tmp_path):
                 "max_tokens": 128,
                 "max_retries": 2,
             },
+            "test-diagnosis": {
+                "deployment": "gpt-5.2",
+                "temperature": 0.2,
+                "max_tokens": None,
+                "max_retries": 2,
+            },
         }
     }
     path = tmp_path / "model_config.yaml"
@@ -43,6 +49,7 @@ def pipeline_config_path(tmp_path, model_config_path):
         "experiment_name": "test_experiment",
         "translation": {"model": "test-translate", "prompt_version": "v1"},
         "evaluation": {"model": "test-eval", "prompt_version": "v1"},
+        "discrepancy_diagnosis": {"model": "test-diagnosis", "prompt_version": "v1"},
         "paths": {
             "input_dir": "data/raw/localpolicies",
             "golden_csv": "data/processed/long_policy_encoding.csv",
@@ -67,10 +74,12 @@ def test_load_pipeline_config(pipeline_config_path, model_config_path):
     assert config.experiment_name == "test_experiment"
     assert config.translation_model.name == "test-translate"
     assert config.evaluation_model.name == "test-eval"
+    assert config.discrepancy_diagnosis_model.name == "test-diagnosis"
     assert config.concurrency.enabled is True
     assert config.concurrency.max_workers == 5
     assert config.translation_prompt_path.exists()
     assert config.evaluation_template_path.exists()
+    assert config.discrepancy_diagnosis_template_path.exists()
     assert config.chunking.enabled is False
     assert config.chunking.safe_limit == 32000
 

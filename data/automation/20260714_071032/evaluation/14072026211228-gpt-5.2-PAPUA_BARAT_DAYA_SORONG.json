@@ -1,0 +1,469 @@
+{
+  "policy_file": "PAPUA_BARAT_DAYA_SORONG.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:02:49.274098+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sorong Regency.\n2. Regional Government is the Regent and Regional Apparatus Units as elements of Regional Government Administration.\n3. Regent is the Regent of Sorong.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional People's Representative Institution positioned as an element of Regional Government administration.\n5. Discrimination is any distinction, harassment and exclusion that is direct or indirect based on human differentiation on the grounds of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n6. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or arbitrary deprivation of freedom, whether in the domestic realm or public in private life.\n8. Violence against children is any act against a child that results in the emergence of misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n9. Domestic violence is any act against a person especially women that results in the emergence of misery or suffering physically, sexually, psychologically and or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\n10. Human Trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, kidnapping, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n11. Child is a person who has not reached 18 years of age including a child in the womb.\n12. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n15. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and or causes death.\n16. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n17. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n18. Victim is a woman and child who experiences acts of violence.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n20. Assistance is activities and actions carried out by assistants during the service process.\n21. Assistant is a person or representative from an institution who has the expertise to provide assistance.\n22. Institution is an agency/institution/body/within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.\n23. Integrated Service Center hereinafter abbreviated as PPT, is an institution providing services to victims of violence based in hospitals, managed jointly in the form of medical services (including medico-legal), psychosocial and legal services.\n24. Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.\n25. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines and references domestic violence in its general provisions, indicating it is within scope of the regulation.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sorong Regency.\n2. Regional Government is the Regent and Regional Apparatus Units as elements of Regional Government Administration.\n3. Regent is the Regent of Sorong.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional People's Representative Institution positioned as an element of Regional Government administration.\n5. Discrimination is any distinction, harassment and exclusion that is direct or indirect based on human differentiation on the grounds of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n6. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or arbitrary deprivation of freedom, whether in the domestic realm or public in private life.\n8. Violence against children is any act against a child that results in the emergence of misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n9. Domestic violence is any act against a person especially women that results in the emergence of misery or suffering physically, sexually, psychologically and or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\n10. Human Trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, kidnapping, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n11. Child is a person who has not reached 18 years of age including a child in the womb.\n12. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n15. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and or causes death.\n16. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n17. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n18. Victim is a woman and child who experiences acts of violence.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n20. Assistance is activities and actions carried out by assistants during the service process.\n21. Assistant is a person or representative from an institution who has the expertise to provide assistance.\n22. Institution is an agency/institution/body/within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.\n23. Integrated Service Center hereinafter abbreviated as PPT, is an institution providing services to victims of violence based in hospitals, managed jointly in the form of medical services (including medico-legal), psychosocial and legal services.\n24. Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.\n25. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines sexual violence in the general provisions, demonstrating that sexual violence is included as a form of violence addressed by the regulation.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sorong Regency.\n2. Regional Government is the Regent and Regional Apparatus Units as elements of Regional Government Administration.\n3. Regent is the Regent of Sorong.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional People's Representative Institution positioned as an element of Regional Government administration.\n5. Discrimination is any distinction, harassment and exclusion that is direct or indirect based on human differentiation on the grounds of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n6. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or arbitrary deprivation of freedom, whether in the domestic realm or public in private life.\n8. Violence against children is any act against a child that results in the emergence of misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n9. Domestic violence is any act against a person especially women that results in the emergence of misery or suffering physically, sexually, psychologically and or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\n10. Human Trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, kidnapping, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n11. Child is a person who has not reached 18 years of age including a child in the womb.\n12. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n15. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and or causes death.\n16. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n17. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n18. Victim is a woman and child who experiences acts of violence.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n20. Assistance is activities and actions carried out by assistants during the service process.\n21. Assistant is a person or representative from an institution who has the expertise to provide assistance.\n22. Institution is an agency/institution/body/within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.\n23. Integrated Service Center hereinafter abbreviated as PPT, is an institution providing services to victims of violence based in hospitals, managed jointly in the form of medical services (including medico-legal), psychosocial and legal services.\n24. Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.\n25. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines physical violence in the general provisions, indicating it is included among the forms of violence covered.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sorong Regency.\n2. Regional Government is the Regent and Regional Apparatus Units as elements of Regional Government Administration.\n3. Regent is the Regent of Sorong.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional People's Representative Institution positioned as an element of Regional Government administration.\n5. Discrimination is any distinction, harassment and exclusion that is direct or indirect based on human differentiation on the grounds of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n6. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or arbitrary deprivation of freedom, whether in the domestic realm or public in private life.\n8. Violence against children is any act against a child that results in the emergence of misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n9. Domestic violence is any act against a person especially women that results in the emergence of misery or suffering physically, sexually, psychologically and or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\n10. Human Trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, kidnapping, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n11. Child is a person who has not reached 18 years of age including a child in the womb.\n12. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n15. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and or causes death.\n16. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n17. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n18. Victim is a woman and child who experiences acts of violence.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n20. Assistance is activities and actions carried out by assistants during the service process.\n21. Assistant is a person or representative from an institution who has the expertise to provide assistance.\n22. Institution is an agency/institution/body/within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.\n23. Integrated Service Center hereinafter abbreviated as PPT, is an institution providing services to victims of violence based in hospitals, managed jointly in the form of medical services (including medico-legal), psychosocial and legal services.\n24. Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.\n25. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy explicitly defines psychological violence in the general provisions, showing it is included within the regulation’s scope.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sorong Regency.\n2. Regional Government is the Regent and Regional Apparatus Units as elements of Regional Government Administration.\n3. Regent is the Regent of Sorong.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional People's Representative Institution positioned as an element of Regional Government administration.\n5. Discrimination is any distinction, harassment and exclusion that is direct or indirect based on human differentiation on the grounds of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n6. Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\n7. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or arbitrary deprivation of freedom, whether in the domestic realm or public in private life.\n8. Violence against children is any act against a child that results in the emergence of misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n9. Domestic violence is any act against a person especially women that results in the emergence of misery or suffering physically, sexually, psychologically and or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\n10. Human Trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, kidnapping, confinement, forgery, fraud and abuse of power or vulnerable position, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n11. Child is a person who has not reached 18 years of age including a child in the womb.\n12. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n15. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage or fainting and or causes death.\n16. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n17. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n18. Victim is a woman and child who experiences acts of violence.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n20. Assistance is activities and actions carried out by assistants during the service process.\n21. Assistant is a person or representative from an institution who has the expertise to provide assistance.\n22. Institution is an agency/institution/body/within the scope of regional government and/or non-governmental organization (NGO) that provides assistance.\n23. Integrated Service Center hereinafter abbreviated as PPT, is an institution providing services to victims of violence based in hospitals, managed jointly in the form of medical services (including medico-legal), psychosocial and legal services.\n24. Safe House is temporary housing, provided to give protection to victims in accordance with predetermined standards.\n25. Community is individuals, families, groups, social organizations and/or community organizations.",
+      "rationale": "The policy’s definition of domestic violence explicitly includes household neglect, which is a form of economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention or clearly cover harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages discuss violence against women and children generally but do not explicitly address femicide/feminicide or gender-related killings.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) For the implementation of services for victims of human trafficking, the Regent of Sorong shall establish a task force on the criminal act of human trafficking.\n(2) The task force on the criminal act of human trafficking as referred to in paragraph (1), constitutes a coordinating institution tasked with coordinating the prevention and handling of human trafficking.\n(3) Further provisions regarding the establishment, duties, and functions of the task force on the criminal act of human trafficking as referred to in paragraph (1), shall be stipulated by Regent regulation.",
+      "rationale": "The policy explicitly addresses human trafficking by providing for services for victims and establishing a task force to coordinate prevention and handling.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence and human trafficking are mentioned/defined, none of the provided passages explicitly mention sexual exploitation or sexual slavery as a distinct issue.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not mention online/technology-facilitated forms of violence (e.g., cyber harassment, non-consensual image sharing, digital stalking).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe coordination among local/regional agencies and other parties (e.g., police, hospitals, NGOs) and general cooperation, but they do not indicate coordination or cooperation with governments across jurisdictions (e.g., other regions/provinces/national or cross-border governmental coordination).",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 13\n(1) In the context of providing protection services to women and children victims of violence, the Regional Government establishes P2TP2A as an integrated service center for the protection of women and children from acts of violence including victims of acts of violence.\n(2) P2TP2A as referred to in paragraph (1), functions as an integrated service center in providing protection to women and children from acts of violence.\n(3) P2TP2A as referred to in paragraph (1), consists of the Health Office, Hospital, Police, Social Service Office, Manpower Office, Office of Women's Empowerment and Family Planning, Non-Governmental Organizations.\n(4) P2TP2A as referred to Community Organizations, Social Community Organizations, Higher Education Institutions in paragraph (3) shall be established by Regent's Decree.\n(5) P2TP2A of Sorong Regency in carrying out its duties and functions may coordinate with the network of service units and competent parties in undertaking efforts to protect women and children from acts of violence.",
+      "rationale": "The policy establishes an integrated service center (P2TP2A) whose membership explicitly includes Non-Governmental Organizations, indicating a formal collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The obligations and responsibilities of the Regional Government as referred to in article 6 letter a, include:\na. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nb. conducting cooperation in the implementation of protection of women and children from acts of violence;\nc. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence; and\nd. allocating budget for the implementation of protection of women and children from acts of violence in accordance with regional financial capacity.\n(2) The duties of the Regional Government in the protection of women and children from acts of violence in the form of:\na. Implementing policies for the protection of women and children from acts of violence established by the government;\nb. Collecting data and information about women and children in the context of efforts to protect from acts of violence;\nc. Conducting socialization of laws and regulations related to the prevention and protection of women and children from acts of violence; and\nd. Conducting monitoring and evaluation of the implementation of protection of women and children from acts of violence.",
+      "rationale": "The Regional Government’s duties explicitly include collecting data and information related to women and children in the context of protection from violence, which constitutes a data collection function/system element.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles such as justice and gender equality and establishes service/prevention structures, none of the passages mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group/mechanism for delivering VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention socialization, empowerment, awareness raising, and building networks/cooperation, but do not explicitly describe training or capacity building for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The obligations and responsibilities of the Regional Government as referred to in article 6 letter a, include:\na. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nb. conducting cooperation in the implementation of protection of women and children from acts of violence;\nc. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence; and\nd. allocating budget for the implementation of protection of women and children from acts of violence in accordance with regional financial capacity.\n(2) The duties of the Regional Government in the protection of women and children from acts of violence in the form of:\na. Implementing policies for the protection of women and children from acts of violence established by the government;\nb. Collecting data and information about women and children in the context of efforts to protect from acts of violence;\nc. Conducting socialization of laws and regulations related to the prevention and protection of women and children from acts of violence; and\nd. Conducting monitoring and evaluation of the implementation of protection of women and children from acts of violence.",
+      "rationale": "The Regional Government’s duties explicitly include monitoring and evaluation of the implementation of protection for women and children from violence, directly addressing monitoring and evaluation of implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 13\n(1) In the context of providing protection services to women and children victims of violence, the Regional Government establishes P2TP2A as an integrated service center for the protection of women and children from acts of violence including victims of acts of violence.\n(2) P2TP2A as referred to in paragraph (1), functions as an integrated service center in providing protection to women and children from acts of violence.\n(3) P2TP2A as referred to in paragraph (1), consists of the Health Office, Hospital, Police, Social Service Office, Manpower Office, Office of Women's Empowerment and Family Planning, Non-Governmental Organizations.\n(4) P2TP2A as referred to Community Organizations, Social Community Organizations, Higher Education Institutions in paragraph (3) shall be established by Regent's Decree.\n(5) P2TP2A of Sorong Regency in carrying out its duties and functions may coordinate with the network of service units and competent parties in undertaking efforts to protect women and children from acts of violence.",
+      "rationale": "The policy establishes P2TP2A as an integrated service center for protection services to women and children victims of violence, indicating an integrated service unit.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the police are listed as part of the multi-agency P2TP2A structure, the passages do not specify a specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nArticle 12\n(1) Forms of services provided to women and children victims of acts of violence, are as follows:\na. complaint services;\nb. medical services; and\nc. medicolegal services for the purpose of evidence in the field of law.\n(2) Legal aid services:\na. independence or empowerment services; and\nb. social rehabilitation services.\n(3) Forms of services as referred to in paragraph (1), are implemented by related SKPD in accordance with the programs, activities, and budget available in each in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual;\ne. employment; and\nf. education.",
+      "rationale": "The policy explicitly includes 'complaint services' as a form of service provided to women and children victims of violence, implying a unit/function to receive complaints/reports.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although a 'Safe House' is defined in the general provisions, none of the provided passages for this criterion establish or describe a service unit that provides shelter.",
+      "evidence_verified": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nArticle 12\n(1) Forms of services provided to women and children victims of acts of violence, are as follows:\na. complaint services;\nb. medical services; and\nc. medicolegal services for the purpose of evidence in the field of law.\n(2) Legal aid services:\na. independence or empowerment services; and\nb. social rehabilitation services.\n(3) Forms of services as referred to in paragraph (1), are implemented by related SKPD in accordance with the programs, activities, and budget available in each in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual;\ne. employment; and\nf. education.",
+      "rationale": "The policy lists 'Legal aid services' among the forms of services provided to victims, indicating provision of legal assistance services.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nArticle 12\n(1) Forms of services provided to women and children victims of acts of violence, are as follows:\na. complaint services;\nb. medical services; and\nc. medicolegal services for the purpose of evidence in the field of law.\n(2) Legal aid services:\na. independence or empowerment services; and\nb. social rehabilitation services.\n(3) Forms of services as referred to in paragraph (1), are implemented by related SKPD in accordance with the programs, activities, and budget available in each in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual;\ne. employment; and\nf. education.",
+      "rationale": "The policy explicitly includes 'medical services' among the forms of services provided to women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention medical, medicolegal, legal aid, empowerment, and social rehabilitation services, but do not explicitly mention psychosocial counselling services as a service unit/function.",
+      "evidence_verified": null
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although services are implemented across fields including 'mental and spiritual,' the passages do not explicitly establish a service unit providing religious/spiritual counselling.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nArticle 12\n(1) Forms of services provided to women and children victims of acts of violence, are as follows:\na. complaint services;\nb. medical services; and\nc. medicolegal services for the purpose of evidence in the field of law.\n(2) Legal aid services:\na. independence or empowerment services; and\nb. social rehabilitation services.\n(3) Forms of services as referred to in paragraph (1), are implemented by related SKPD in accordance with the programs, activities, and budget available in each in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual;\ne. employment; and\nf. education.",
+      "rationale": "The policy explicitly includes 'social rehabilitation services' as part of the services provided to victims, which corresponds to resocialisation/rehabilitation support.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nArticle 12\n(1) Forms of services provided to women and children victims of acts of violence, are as follows:\na. complaint services;\nb. medical services; and\nc. medicolegal services for the purpose of evidence in the field of law.\n(2) Legal aid services:\na. independence or empowerment services; and\nb. social rehabilitation services.\n(3) Forms of services as referred to in paragraph (1), are implemented by related SKPD in accordance with the programs, activities, and budget available in each in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual;\ne. employment; and\nf. education.",
+      "rationale": "The policy includes 'independence or empowerment services' under legal aid services, indicating economic empowerment/support-type services for victims.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 10\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts socialization, empowerment, and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of Education both formal and non-formal as well as informal;\nb. opening employment opportunities for women;\nc. building community participation and concern towards the prevention and protection of women and children from acts of violence; and\nd. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children.",
+      "rationale": "The policy includes primary prevention measures that involve socialization, awareness raising, and providing information/guidance/counseling to prevent violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender equality as a guiding principle and mentions general awareness raising and education to prevent violence, the provided passages do not explicitly indicate information/education specifically about gender equality and/or women’s rights as a primary prevention activity.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The obligations and responsibilities of the Regional Government as referred to in article 6 letter a, include:\na. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nb. conducting cooperation in the implementation of protection of women and children from acts of violence;\nc. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence; and\nd. allocating budget for the implementation of protection of women and children from acts of violence in accordance with regional financial capacity.\n(2) The duties of the Regional Government in the protection of women and children from acts of violence in the form of:\na. Implementing policies for the protection of women and children from acts of violence established by the government;\nb. Collecting data and information about women and children in the context of efforts to protect from acts of violence;\nc. Conducting socialization of laws and regulations related to the prevention and protection of women and children from acts of violence; and\nd. Conducting monitoring and evaluation of the implementation of protection of women and children from acts of violence.",
+      "rationale": "The policy assigns the regional government a duty to conduct socialization of laws and regulations related to prevention and protection from violence against women and children, which constitutes information/education about relevant laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 10\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts socialization, empowerment, and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of Education both formal and non-formal as well as informal;\nb. opening employment opportunities for women;\nc. building community participation and concern towards the prevention and protection of women and children from acts of violence; and\nd. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children.",
+      "rationale": "The policy explicitly links prevention of violence to increasing the quantity and quality of education (formal, non-formal, and informal), indicating prevention through education and improving educational quality.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINSTITUTIONAL ARRANGEMENTS\nArticle 13\n(1) In the context of providing protection services to women and children victims of violence, the Regional Government establishes P2TP2A as an integrated service center for the protection of women and children from acts of violence including victims of acts of violence.\n(2) P2TP2A as referred to in paragraph (1), functions as an integrated service center in providing protection to women and children from acts of violence.\n(3) P2TP2A as referred to in paragraph (1), consists of the Health Office, Hospital, Police, Social Service Office, Manpower Office, Office of Women's Empowerment and Family Planning, Non-Governmental Organizations.\n(4) P2TP2A as referred to Community Organizations, Social Community Organizations, Higher Education Institutions in paragraph (3) shall be established by Regent's Decree.\n(5) P2TP2A of Sorong Regency in carrying out its duties and functions may coordinate with the network of service units and competent parties in undertaking efforts to protect women and children from acts of violence.",
+      "rationale": "The policy includes NGOs as part of the integrated service center (P2TP2A), indicating formal collaboration/engagement with non-governmental organizations in service provision and protection efforts.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious organizations or religious leaders as stakeholders for collaboration in prevention or service delivery.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages refer to community participation and community/social organizations generally, but do not explicitly reference traditional or cultural organizations/leaders or collaboration with them.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "CHAPTER V\nPREVENTION OF ACTS OF VIOLENCE\nArticle 10\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts socialization, empowerment, and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. increasing the quantity and quality of Education both formal and non-formal as well as informal;\nb. opening employment opportunities for women;\nc. building community participation and concern towards the prevention and protection of women and children from acts of violence; and\nd. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children.",
+      "rationale": "The policy explicitly mentions building networks and cooperation with universities, which are education institutions, as part of prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention cooperation with NGOs, universities, and government/law enforcement actors, but do not reference international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided text does not mention media entities or collaboration with media for prevention, awareness, reporting, or service delivery.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The obligations and responsibilities of the community as referred to in article 6 letter b, shall be implemented in the form of community participation. (2) The form of community participation as referred to in paragraph (1), includes: a. preventing the occurrence of acts of violence against women and children; b. providing protection to women and children from acts of violence, in the form of establishing rules and regulations in their respective areas starting from the Rukun Tetangga level;\nc. providing information and / or reporting acts of violence against women and children to law enforcement or authorized parties; d. Participating in the handling of victims of acts of violence; and e. Accompanying victims to service units.\n(3) The form of community participation as referred to in paragraph (2), shall be implemented responsibly in accordance with the laws and regulations.",
+      "rationale": "The policy assigns obligations and responsibilities to the community through structured community participation in prevention, protection, reporting, handling victims, and accompanying victims to service units.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention engagement or collaboration with businesses or the private sector in prevention or service delivery.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe general protection and services for women and children victims of violence, but do not mention conflict zones, disasters, or disaster-prone areas, nor any special measures tailored to those contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "Article 14\n(1) For the implementation of services for victims of human trafficking, the Regent of Sorong shall establish a task force on the criminal act of human trafficking.\n(2) The task force on the criminal act of human trafficking as referred to in paragraph (1), constitutes a coordinating institution tasked with coordinating the prevention and handling of human trafficking.\n(3) Further provisions regarding the establishment, duties, and functions of the task force on the criminal act of human trafficking as referred to in paragraph (1), shall be stipulated by Regent regulation.",
+      "rationale": "The policy explicitly addresses services for victims of human trafficking by requiring establishment of a task force to coordinate prevention and handling of trafficking, which constitutes a specific protection/response measure relevant to women victims of trafficking.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions opening employment opportunities for women and includes an employment field among service areas, it does not specifically provide protection measures targeted at women workers/employees as workers (e.g., workplace protections).",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention elderly women or provide age-specific protections for older women; the provisions are framed generally for women and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention disability or provide disability-specific protections or accommodations for women with disabilities or persons with disabilities.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention women heads of household/families or provide any targeted protection measures for that group.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the regulation includes non-discrimination principles and a broad definition of discrimination, it does not specify special protection measures targeted at minority or isolated women.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on women and children as victims of violence (including witnesses/reporters) and service provision, but do not mention women in conflict with the law as perpetrators/accused, nor protections specific to women as suspects/defendants in legal processes.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages reference Indigenous peoples/groups (masyarakat adat) or provide special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention refugees, internally displaced persons, evacuation, or forced displacement, nor any targeted measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention domestic workers as a category or provide any special protections targeted at domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention homelessness or provide targeted protection measures for women experiencing homelessness (even though a safe house is defined generally).",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention former inmates, correctional institutions, or reintegration measures targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The obligations and responsibilities of the Regional Government as referred to in article 6 letter a, include:\na. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nb. conducting cooperation in the implementation of protection of women and children from acts of violence;\nc. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence; and\nd. allocating budget for the implementation of protection of women and children from acts of violence in accordance with regional financial capacity.\n(2) The duties of the Regional Government in the protection of women and children from acts of violence in the form of:\na. Implementing policies for the protection of women and children from acts of violence established by the government;\nb. Collecting data and information about women and children in the context of efforts to protect from acts of violence;\nc. Conducting socialization of laws and regulations related to the prevention and protection of women and children from acts of violence; and\nd. Conducting monitoring and evaluation of the implementation of protection of women and children from acts of violence.",
+      "rationale": "The policy assigns the Regional Government responsibility to allocate a budget for implementing protection of women and children from violence, which constitutes a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention budgeting by the Regional Government and budgets within SKPD, but do not explicitly identify funding from the national government budget.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference cooperation with NGOs and other institutions, but do not explicitly mention international organizations, foreign donors, UN agencies, or other international funding support as budget sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy discusses regional budgeting and general responsibilities, it does not specify alternative/other legal funding sources (e.g., grants, private sector, community funds, or other lawful sources) as budget sources.",
+      "evidence_verified": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to the Regional Government (Sorong Regency) allocating budget and SKPD budgets, but do not explicitly mention funding from a provincial government budget.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

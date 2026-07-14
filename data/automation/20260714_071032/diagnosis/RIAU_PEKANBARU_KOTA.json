@@ -1,0 +1,675 @@
+{
+  "diagnoses": {
+    "1.1": {
+      "indicator": "Domestic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+      "evaluator_rationale": "The passages address violence against women occurring both at home and outside the home, which implicitly includes domestic violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 77,
+          "text": "Article 74\nCriteria for women victims of violence who are entitled to and require a safe house include the following conditions:\na. life threatened;\nb. experiencing rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 31\n-21- The UPT PPA as referred to in Article 30, does not have the authority in terms of policy formulation related to Women's empowerment and Child protection and does not constitute cross-Regional apparatus activities.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 70\nThe process and stages of counseling services include initial counseling;\na.\nfollow-up counseling;\ncase discussion; and\nc.\nsite visits.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 142,
+          "text": "Article 131\nPromotive efforts as referred to in Article 130 are carried out by providing socialization or counseling to the community regarding healthy lifestyle patterns which include a. the importance of exclusive breastfeeding for infants;\nthe importance of immunization for toddlers;\nclean living patterns;\nthe importance of nutritious food; and the dangers of drugs and smoking.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 89\nSocial reintegration as referred to in Article 54 letter is carried out in the context of reuniting Women victims of acts of violence with family, substitute family, or community that can provide protection and fulfillment of needs for Women victims of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 84\nLegal assistance services as referred to in Article 83 include\na. legal assistance in the reporting process and preparation of official examination reports;\nb. legal assistance in the prosecution process at the prosecutor's office; c. legal assistance in the examination process at the court; d. legal assistance in the court hearing decision process until there is a final legal decision; and\ne. legal assistance in the mediation process.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 54,
+          "text": "Fourth Part\nProvision of Integrated Services for Women Victims of Violence Paragraph Principles and Forms of Services",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 53\nIntegrated services for women victims of violence as referred to in Article 52 shall be implemented by adhering to principles, which include:\na. gender responsive;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\n-31- respecting individual differences;\nf. non-judgmental;\ng. respecting the choices and decisions of victims;\nh. sensitive to the background and conditions of victims and\ni. use of language that is appropriate and understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of women's rights.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, Pasal 46 explicitly says prevention aims to minimize violence against women “baik yang terjadi di rumah atau di luar rumah” (both occurring at home or outside the home). Violence occurring “di rumah” is domestic/home violence. The retrieved English passage preserved this meaning, and the judge’s inference is consistent with the text. Therefore the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+      "evaluator_rationale": "The policy includes prevention efforts to minimize violence against women occurring at home or outside the home, but none of the passages explicitly mention early marriage, FGM, honour crimes, or female infanticide; therefore harmful practices are not clearly addressed.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 31\n-21- The UPT PPA as referred to in Article 30, does not have the authority in terms of policy formulation related to Women's empowerment and Child protection and does not constitute cross-Regional apparatus activities.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 98,
+          "text": "Article 94\nEmployers are obligated to place female workers in places that are safe for the reproductive health of the female workers concerned.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 42\nProtection of Women is organized by the Regional Government by actively involving the following various components:\na. Family;\nb. customary institutions;\nc. community; and\nd. community organizations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 103,
+          "text": "Article 99\nEmployers who employ female workers/employees between 23.00 WIB until 07.00 WIB, are obligated to:\na. provide food and beverages containing sufficient nutrition; and\nb. maintain the honor, decency and security of female workers/employees while at the workplace.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 54,
+          "text": "Fourth Part\nProvision of Integrated Services for Women Victims of Violence Paragraph Principles and Forms of Services",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 99,
+          "text": "Article 95\nEmployers are obligated to fulfill the rights of Female workers to (1) receive wages in accordance with the provisions of laws and regulations, both for workers with fixed-term contracts and for indefinite-term contracts.\nThe wages of Female workers as referred to in (2) paragraph (1) consist of:\na. basic wage;\nb. fixed allowances provided to Female workers; and\nc. overtime wages.\nWages are determined based on: (3)\na. time units; and/or\nb. output units.\nIn addition to paying overtime wages as referred to (4) in paragraph (2) letter c, Employers who order Female workers to perform overtime work are obligated to:\na. provide adequate rest opportunities; and b. provide food and beverages of at least 1,400 (one thousand four hundred) kilocalories, if overtime work is performed for (four) hours or more.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 88\nThe repatriation of women victims of acts of violence is accompanied by social reintegration efforts.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 62\nFemale victims of violence have the right to free healthcare services, including:\na. medical services;\nb. medicolegal services; and\nc. post-mortem examination.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure",
+        "golden_label_issue"
+      ],
+      "rationale": "The judge’s own rationale correctly notes there is no explicit mention of harmful practices (e.g., early marriage, FGM, honor crimes, female infanticide) in the cited/retrieved passages, yet the system output is “Yes.” That indicates an evaluation/judging failure (label selection inconsistent with reasoning). Separately, in the Indonesian source there IS content on early marriage: Pasal 37 huruf e “mengajak ... agar Perempuan ... tidak melakukan pernikahan dini” and Pasal 198 huruf d “mencegah ... Perempuan ... tidak melakukan pernikahan dini.” So substantively the policy does address at least one harmful practice (child/early marriage). If the indicator counts early marriage as a harmful practice, the golden label “No” is likely wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 105\nEfforts to improve family quality to realize gender equality and Children's rights as referred to in Article 104 letter are carried out through\na. implementation of policies, programs and activities to improve family quality to realize gender equality and Child protection in the regions; and development of materials and implementation of communication, information and education on gender equality and Child protection for families in the regions.",
+      "evaluator_rationale": "The policy explicitly calls for developing materials and implementing communication, information, and education on gender equality (and child protection) for families in the regions, which directly addresses information/education about gender equality.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 120,
+          "text": "Article 112\nThe provision of services for families in realizing gender equality and Child protection through communication, information and education as referred to in Article 111 letter a, letter b, and letter c constitutes communication activities to increase knowledge as well as improve the attitudes and behavior of families and communities in population and family planning programs.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 112,
+          "text": "Article 105\nEfforts to improve family quality to realize gender equality and Children's rights as referred to in Article 104 letter are carried out through\na. implementation of policies, programs and activities to improve family quality to realize gender equality and Child protection in the regions; and development of materials and implementation of communication, information and education on gender equality and Child protection for families in the regions.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 25\nPreventive efforts as referred to in Article 23 letter shall be conducted by means of:\na. b.\nconducting legal awareness education for the community, especially for women;\ndeveloping massive and sustainable movements involving the community in prevention and handling of violence; instilling character values, morals, and family resilience; and involving the role and participation of the community in the empowerment of Women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 199,
+          "text": "Article 180\nSpecial Protection for Children victims of terrorism networks as referred to in Article 167 letter is carried out through efforts:\na. education about education, ideology, and nationalism values;\ncounseling about the dangers of terrorism;\nsocial rehabilitation; and social assistance.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 23\nIn order to implement the objective of providing protection for Women's rights from various forms of violence and other discriminatory treatment as referred to in Article 20 letter, it shall be carried out through: a. promotive efforts;\nb. preventive efforts;\nc. curative efforts; and\nd. rehabilitative efforts, in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 75\nThe provision of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness and consist of\na. social workers/volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 20\nThe Women's empowerment system aims to: os -17-\na. improve the quality of life of Women, and Families; b. increase the institutional capacity of Women's empowerment in the Region, including the development of its gender system; and\nc. provide protection of Women's rights from various forms of violence and other discriminatory treatment. Article 21 In order to realize the objective of improving the quality of life of Women, and families as referred to in Article 20 letter is carried out through:\na. providing access to Women to enjoy education services, health, and other strategic fields;\nb. encouraging the involvement of Women in the development process;\nc. providing knowledge, skills, character values, morals, and Family resilience;\nd. encouraging programs that can increase Women's independence in the economic, political, legal, social, cultural fields, as well as other strategic fields; and\ne. providing opportunities and chances to every Woman to occupy various positions and posts in various fields of work, including strategic positions as long as they are in accordance with her capacity and ability.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 118,
+          "text": "Article 110\nProvision of services for families in realizing gender equality and the rights of Children as referred to in Article 104 letter is carried out through:\na. implementation of provision of services for families in realizing gender equality and protection of Children in the regions;\nb. assistance in the implementation of family quality improvement services in the regions; and\nc. provision of facilities and infrastructure for services for families in realizing gender equality and protection of Children in the regions.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text in Pasal 105 clearly mandates “pengembangan materi dan pelaksanaan komunikasi, informasi dan edukasi kesetaraan gender dan perlindungan Anak bagi keluarga di daerah” (developing materials and implementing communication, information, and education on gender equality and child protection for families). This is directly gender-equality education. The retrieved English passage contains this, and the judge’s reasoning matches it. Thus the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+      "evaluator_rationale": "The policy includes prevention measures such as creating modules and guidelines, conducting training and guidance, and conducting socialization to prevent violence against women, which are education-based prevention approaches.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 23,
+          "text": "Article 24\nPromotive efforts as referred to in Article 23 letter shall be conducted by means of:\na. strengthening coordination mechanisms and work networks between service units in efforts to handle cases of violence;\n-19- providing Communication, Information, and Education (IEC) materials related to prevention and handling of violence; and conducting socialization, advocacy and social campaigns in the context of prevention and handling of violence.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 25\nPreventive efforts as referred to in Article 23 letter shall be conducted by means of:\na. b.\nconducting legal awareness education for the community, especially for women;\ndeveloping massive and sustainable movements involving the community in prevention and handling of violence; instilling character values, morals, and family resilience; and involving the role and participation of the community in the empowerment of Women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 180,
+          "text": "Article 165\nStrengthening and development of institutions providing services for improving the quality of life of Children as referred to in Article 163 letter is carried out through:\na.\nb. f.\nincreasing the resource capacity of institutions providing services for improving the quality of life of Children in the Region; assistance in implementing services for improving the quality of life of Children in the Region;\ndeveloping materials and implementing Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of Children in the Region;\nstrengthening networks among institutions providing services for improving the quality of life of Children in the Region;\nfacilitating the implementation of standardization of institutions providing services for improving the quality of life of Children in the Region; and development of institutions providing services for improving the quality of life of Children in the Region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 111,
+          "text": "Second Part\nEfforts to Improve Family Quality",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 113,
+          "text": "Article 106\nThe implementation of activities to improve family quality to realize gender equality and Child protection in the Region as referred to in Article 105 letter is carried out through the following activities:\na. coaching;\nb. guidance;\nc. supervision;\nd. facilitation of family development implementation; and\ne. improving the health quality of pregnant and breastfeeding mothers.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Two\nPrevention of Acts of Violence Against Women Article 46 To anticipate and prevent acts of violence against Women from occurring, the Regional Government shall undertake the following efforts:\na.\nb.\nf.\nprovide various proper public facilities for Women in public spaces;\ndevelop an integrated information system database on acts of violence against Women;\nstrengthen the competence of apparatus handling violence against Women;\ncreate various modules and guidelines on the prevention and handling of acts of violence against Women;\nconduct various training and guidance for social workers operating in organizations/institutions handling violence against Women;\ninvite the community to play an active role in recovery and reintegration;\nstrengthen the function of community organizations operating in the field of Women's empowerment; conduct various socialization regarding prevention and anticipation of acts of violence against Women to various components of society in the Region; and optimize the role of religious institutions, customary institutions, culture, as well as exploration of local wisdom in order to prevent and minimize violence against Women occurring both at home or outside the home.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 114,
+          "text": "Article 107\nGuidance activities in the context of improving family quality as referred to in Article 106 letter a, include guiding families to pay careful attention to\na.\nevery aspect of the growth and development of toddlers;\nguiding families in efforts to improve the quality of\nb.\nChildren by providing access to information, education, counseling and services regarding the care, nurturing and development of Children through child protection programs and parenting pattern development; conducting guidance related to efforts to improve the quality of adolescents by providing access to information, education, counseling and services regarding family life through planned generation activities, adolescent information and counseling centers and adolescent family guidance; conducting guidance related to efforts to protect adolescent reproductive health;\nconducting guidance related to the maturation of marriage age;\nconducting guidance in terms of regulating birth\nf.\nspacing;\nconducting guidance related to the management of population and family planning issues;\nconducting guidance related to efforts to improve family economy; and conducting guidance in connection with improving the quality of life of the elderly through:\n1. elderly guidance programs;\n2. elderly family guidance; and\n3. elderly coaching and mentoring.\n-47",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 112,
+          "text": "Article 105\nEfforts to improve family quality to realize gender equality and Children's rights as referred to in Article 104 letter are carried out through\na. implementation of policies, programs and activities to improve family quality to realize gender equality and Child protection in the regions; and development of materials and implementation of communication, information and education on gender equality and Child protection for families in the regions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 142,
+          "text": "Article 131\nPromotive efforts as referred to in Article 130 are carried out by providing socialization or counseling to the community regarding healthy lifestyle patterns which include a. the importance of exclusive breastfeeding for infants;\nthe importance of immunization for toddlers;\nclean living patterns;\nthe importance of nutritious food; and the dangers of drugs and smoking.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 40\nFor the purpose of improving the quality of life of Women in the Region, the Regional Government shall strengthen and develop Service Provider Institutions for Women's Empowerment in the Region.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy contains multiple education/awareness-based prevention measures: Pasal 24 includes providing KIE materials and “sosialisasi, advokasi dan kampanye sosial” for prevention/handling of violence; Pasal 25 includes “penyuluhan kesadaran hukum”; Pasal 46 includes making modules/pedoman and conducting sosialisasi. These are prevention-through-education approaches. The retrieved passages include these elements and the judge’s reasoning is consistent. Therefore the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the passages mention 'community leaders' and broad engagement with non-government institutions and the community, none explicitly reference traditional/cultural organizations or traditional/cultural leaders as stakeholders for collaboration.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 78,
+          "text": "Article 75\nThe provision of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness and consist of\na. social workers/volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 178,
+          "text": "Article 163\nThe implementation of PHA is carried out by means of:\na. institutionalization of PHA in government institutions, non-government institutions, media and business sectors in the Region; and <4\nb. strengthening and development of service provider institutions for improving the quality of life of Children at the Regional level.\nParagraph Institutionalization of PHA in Government Institutions, Non-government Institutions, Media, and Business Sectors",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 28\nIn building a comprehensive, inclusive, and integrative Women's empowerment system, strong commitment among stakeholders at the Regional level is required.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 23,
+          "text": "Article 24\nPromotive efforts as referred to in Article 23 letter shall be conducted by means of:\na. strengthening coordination mechanisms and work networks between service units in efforts to handle cases of violence;\n-19- providing Communication, Information, and Education (IEC) materials related to prevention and handling of violence; and conducting socialization, advocacy and social campaigns in the context of prevention and handling of violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 210,
+          "text": "Fourth Part\nStrengthening and Development of Service Provider Institutions for Children Providing Special Protection",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "GENERAL PROVISIONS\nArticle In this Regional Regulation, what is meant by:\n1. 3.\nRegion is the City of Pekanbaru.\nRegional Government is the Government of the City of Pekanbaru. Mayor is the Mayor of Pekanbaru.\nRegional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pekanbaru.\nRegional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs that are the authority of the Region.\nOffice of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Office is a Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.\nHead of the Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities covers Women's Empowerment, Child Protection and Community Empowerment affairs.\nCommunity is individuals, Families, Groups, and social organizations and/or community organizations. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\nParents are biological father and/or mother, or step father\n10.\nand/or step mother, or adoptive father and/or adoptive mother.\nEvery Person is an individual or corporation, whether in the form\n11.\nof a legal entity or not a legal entity. Protection is all preventive actions, services\n12.\nand empowerment to protect and guarantee the rights of Women and Children from acts of violence.\nGender is a concept that refers to differences in roles\n13.\nand responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.\nGender and Child Data System is the institutionalization\n14.\nof the administration of gender and Child data consisting of components of regulations, institutions, and mechanisms in the Region for the purpose of planning, implementation, evaluation, and reporting of results of policies/programs/activities of development that is gender responsive and child-caring.\nSelected Data is data selected according to sex\n15.\nand age.\nGender responsive is consistent and\n16.\nsystematic attention to the differences between Women and Men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality. Gender sensitivity or gender awareness is the ability\n17.\nto identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and the experiences, problems, needs, interests and aspirations of Women and Men are different.\nGender Mainstreaming in the region hereinafter referred to as PUG\n18.\nis a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\nIntegrated Service Center hereinafter abbreviated as PPT,\n19.\nis a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of trafficking in persons.\nGender Equality hereinafter referred to as KG is\n20.\nequality of rights, opportunities, benefits and decision-making between Women and men including in entering employment opportunities both in the formal and informal sectors.\nWomen's Empowerment is any effort to improve\n21.\nphysical, mental spiritual, social abilities, knowledge, and skills so that Women are ready to be utilized according to their respective abilities.\nWoman is a human being of female sex and\n22.\na person who is legally recognized as a Woman.\nEmpowerment of victims of violence is the strengthening of Women\n23.\nvictims of violence to be able to work and work independently Vv after they are recovered and provided with health and social rehabilitation services.\nCriminal Act of Trafficking in Persons or hereinafter\n24.\nreferred to as TPPO is any action or series of actions that meet the elements of criminal acts determined in Law Number 21 of 2007 Concerning the Eradication of Criminal Acts of Trafficking in Persons.\nHealth rehabilitation is an effort to restore the condition of victims\n25.\ncovering physical, psychological and social health so that victims can carry out their roles again properly and naturally in the family and in society.\nSocial rehabilitation is a service aimed at\n26.\nrestoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions again properly.\nRepatriation is an effort to return victims of violence\n27.\nfrom the regional area where the violence occurred back to the area of origin of the person concerned.\nSocial reintegration is an effort to reunite victims\n28.\nwith family, substitute family or community that can provide protection and fulfillment of needs for victims.\nIntegrated Service Unit for the Protection of Women and Children\n29.\nhereinafter abbreviated as UPT PPA is a Technical Implementation Unit formed by the Regional Government in providing services for Women and Children who experience violence, discrimination, special protection, and other problems. Child is someone who is not yet 18 (eighteen)\n30.\nyears old, including a Child who is still in the womb.\nFulfillment of Children's Rights hereinafter abbreviated as PHA is\n31.\nall activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\nChild with Disability is a Child who has\n32.\nphysical, mental, intellectual, or sensory limitations for a long period of time which in interacting with the environment and community attitudes can encounter obstacles that make it difficult to participate fully and effectively based on equal rights.\nChild with Excellence is a Child who has\n33.\ncommendable morals, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.\nChildren's Rights are part of human rights that must\n34.\nbe guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government. Prevention is activities carried out to prevent\n35.\nthe occurrence of acts of violence against Women and Children. Safe House is a temporary residence or new\n36.\nresidence designed under strict supervision and guard conditions for 24 (twenty-four) hours which is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.\nService is an action taken as soon as possible\n37.\nto victims when seeing, hearing and knowing that violence against victims will, is or has occurred. Special Protection is a form of protection that\n38.\nis received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\nViolence is any act against a Child that\n39.\nresults in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\nVictim is a Woman and/or Child who experiences\n40.\nmisery and/or suffering that occurs in the area of the City of Pekanbaru.\nPerson with HIV/AIDS hereinafter referred to as ODHA\n41.\nis a person who has been infected with HIV both at the stage of no symptoms and those who already have symptoms.\nStandard Operating Procedure hereinafter abbreviated as SOP\n42.\nis a series of written instructions that are standardized regarding various processes of government administration, how and when it should be done, where and by whom it is done.\nChild-Friendly City hereinafter abbreviated as KLA is a city that\n43.\nhas a child rights-based development system through the integration of commitment and resources of the Government, Regional Government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's Rights.\nArticle Protection of Women is organized based on the following principles: respect and appreciation for Human Rights; justice and gender equality;\nnon-discrimination;\nempowerment;\nbest interests of women;\nf.\nprotection;\ncontinuity and sustainability; openness;\norder;\nlegal certainty; and local wisdom.\nArticle Protection of Children is carried out based on the principles of: respect and appreciation for human rights;\na.\nnon-discrimination;\nbest interests of the Child;\nrespect for the Child's opinion;\nthe right to live, grow, and develop of the Child; and local wisdom.\nf.\nArticle The Purpose and Objectives of this Regional Regulation are as a basis and guideline for the Regional Government and stakeholders to: fulfill the rights of Women and Children;\na.\nprotect Women and Children maximally, provide a sense of security and peace for Women and Children; prevent the occurrence of violence against Women and Children; empower Women;\nempower Women victims of violence;\nf.\nprovide services to Women and Children victims of violence;\nprovide protection to Reporters and Witnesses;\nmaintain the integrity of the household so that a harmonious family is realized;\nencourage the realization of quality families; and -10-\nk. increase the participation of non-governmental institutions to support the Region's efforts in providing protection to Women.\nArticle The scope of this Regional Regulation includes: obligations and Responsibilities of the Regional Government; rights of Women and Children;\nimprovement of the quality of life of Women in the Region; protection of Women;\nfamily quality;\nfulfillment of Children's rights;\nspecial protection of Children;\nGender and Child Data System;\ni.\nk. 1.\nfunding;\nparticipation of Parents, Family/Relatives and/or Community;\nmonitoring and Evaluation;\nguidance and Supervision; and\nm. prohibitions and sanctions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 84\nLegal assistance services as referred to in Article 83 include\na. legal assistance in the reporting process and preparation of official examination reports;\nb. legal assistance in the prosecution process at the prosecutor's office; c. legal assistance in the examination process at the court; d. legal assistance in the court hearing decision process until there is a final legal decision; and\ne. legal assistance in the mediation process.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 25\nPreventive efforts as referred to in Article 23 letter shall be conducted by means of:\na. b.\nconducting legal awareness education for the community, especially for women;\ndeveloping massive and sustainable movements involving the community in prevention and handling of violence; instilling character values, morals, and family resilience; and involving the role and participation of the community in the empowerment of Women.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 150,
+          "text": "Article 139\nRegional Government is obligated to provide social welfare for:\na.\nb.\nChildren in conflict with the law;\nChild victims of violence who are exploited economically and sexually, Abandoned children, Child victims of kidnapping and Child victims of human trafficking;\nChildren who do not have parents and are cared for by parties or families who are unable;\nChild victims of natural disasters or social disasters; and Children with disabilities.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian source explicitly engages traditional/cultural stakeholders: Pasal 42 lists “lembaga adat” as an actively involved component; Pasal 45 includes “lembaga adat” as a coordination/partnership party; Pasal 46 mentions optimizing the role of “lembaga adat, budaya, serta penggalian kearifan lokal.” However, the retrieved candidates shown to the judge did not include Pasal 45/46 language about lembaga adat/budaya (only a generic definition section that mentions “local wisdom” and one passage listing “customary institutions” in Article 42, plus unrelated items). Retrieval therefore failed to surface the strongest explicit evidence (rag_candidate_issue). Additionally, even within retrieved [6.4-43]/[6.6-43] style content (Article 42) the phrase “customary institutions/lembaga adat” is explicit; the judge’s rationale saying none explicitly reference traditional/cultural organizations is a misread (evaluation_failure).",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The retrieved passages address trafficking-related special protection for children (kidnapping/sale/trafficking) and define trafficking, but do not set out special protection measures specifically targeted at women victims of human trafficking.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 193,
+          "text": "Article 176\nSpecial Protection for Children with HIV/AIDS as referred to in Article 167 letter shall be implemented through efforts of:\na. supervision;\nb. prevention;\nc. treatment;\nd. care; and\ne. rehabilitation.\nParagraph Child Victims of Abduction, Sale and/or Human Trafficking",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 52\nProtection of women victims of violence is implemented through the provision of integrated services.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 194,
+          "text": "Article 177\nSpecial Protection for Children victims of kidnapping, sale and/or trafficking in persons as referred to in Article 167 letter is carried out through efforts of:\na. supervision;\nb. protection;\nc. prevention;\nd. care; and\ne. rehabilitation.\n-71- Paragraph Children Victims of Physical Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "GENERAL PROVISIONS\nArticle In this Regional Regulation, what is meant by:\n1. 3.\nRegion is the City of Pekanbaru.\nRegional Government is the Government of the City of Pekanbaru. Mayor is the Mayor of Pekanbaru.\nRegional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pekanbaru.\nRegional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs that are the authority of the Region.\nOffice of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Office is a Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.\nHead of the Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities covers Women's Empowerment, Child Protection and Community Empowerment affairs.\nCommunity is individuals, Families, Groups, and social organizations and/or community organizations. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\nParents are biological father and/or mother, or step father\n10.\nand/or step mother, or adoptive father and/or adoptive mother.\nEvery Person is an individual or corporation, whether in the form\n11.\nof a legal entity or not a legal entity. Protection is all preventive actions, services\n12.\nand empowerment to protect and guarantee the rights of Women and Children from acts of violence.\nGender is a concept that refers to differences in roles\n13.\nand responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.\nGender and Child Data System is the institutionalization\n14.\nof the administration of gender and Child data consisting of components of regulations, institutions, and mechanisms in the Region for the purpose of planning, implementation, evaluation, and reporting of results of policies/programs/activities of development that is gender responsive and child-caring.\nSelected Data is data selected according to sex\n15.\nand age.\nGender responsive is consistent and\n16.\nsystematic attention to the differences between Women and Men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality. Gender sensitivity or gender awareness is the ability\n17.\nto identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and the experiences, problems, needs, interests and aspirations of Women and Men are different.\nGender Mainstreaming in the region hereinafter referred to as PUG\n18.\nis a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\nIntegrated Service Center hereinafter abbreviated as PPT,\n19.\nis a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of trafficking in persons.\nGender Equality hereinafter referred to as KG is\n20.\nequality of rights, opportunities, benefits and decision-making between Women and men including in entering employment opportunities both in the formal and informal sectors.\nWomen's Empowerment is any effort to improve\n21.\nphysical, mental spiritual, social abilities, knowledge, and skills so that Women are ready to be utilized according to their respective abilities.\nWoman is a human being of female sex and\n22.\na person who is legally recognized as a Woman.\nEmpowerment of victims of violence is the strengthening of Women\n23.\nvictims of violence to be able to work and work independently Vv after they are recovered and provided with health and social rehabilitation services.\nCriminal Act of Trafficking in Persons or hereinafter\n24.\nreferred to as TPPO is any action or series of actions that meet the elements of criminal acts determined in Law Number 21 of 2007 Concerning the Eradication of Criminal Acts of Trafficking in Persons.\nHealth rehabilitation is an effort to restore the condition of victims\n25.\ncovering physical, psychological and social health so that victims can carry out their roles again properly and naturally in the family and in society.\nSocial rehabilitation is a service aimed at\n26.\nrestoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions again properly.\nRepatriation is an effort to return victims of violence\n27.\nfrom the regional area where the violence occurred back to the area of origin of the person concerned.\nSocial reintegration is an effort to reunite victims\n28.\nwith family, substitute family or community that can provide protection and fulfillment of needs for victims.\nIntegrated Service Unit for the Protection of Women and Children\n29.\nhereinafter abbreviated as UPT PPA is a Technical Implementation Unit formed by the Regional Government in providing services for Women and Children who experience violence, discrimination, special protection, and other problems. Child is someone who is not yet 18 (eighteen)\n30.\nyears old, including a Child who is still in the womb.\nFulfillment of Children's Rights hereinafter abbreviated as PHA is\n31.\nall activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\nChild with Disability is a Child who has\n32.\nphysical, mental, intellectual, or sensory limitations for a long period of time which in interacting with the environment and community attitudes can encounter obstacles that make it difficult to participate fully and effectively based on equal rights.\nChild with Excellence is a Child who has\n33.\ncommendable morals, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.\nChildren's Rights are part of human rights that must\n34.\nbe guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government. Prevention is activities carried out to prevent\n35.\nthe occurrence of acts of violence against Women and Children. Safe House is a temporary residence or new\n36.\nresidence designed under strict supervision and guard conditions for 24 (twenty-four) hours which is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.\nService is an action taken as soon as possible\n37.\nto victims when seeing, hearing and knowing that violence against victims will, is or has occurred. Special Protection is a form of protection that\n38.\nis received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\nViolence is any act against a Child that\n39.\nresults in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\nVictim is a Woman and/or Child who experiences\n40.\nmisery and/or suffering that occurs in the area of the City of Pekanbaru.\nPerson with HIV/AIDS hereinafter referred to as ODHA\n41.\nis a person who has been infected with HIV both at the stage of no symptoms and those who already have symptoms.\nStandard Operating Procedure hereinafter abbreviated as SOP\n42.\nis a series of written instructions that are standardized regarding various processes of government administration, how and when it should be done, where and by whom it is done.\nChild-Friendly City hereinafter abbreviated as KLA is a city that\n43.\nhas a child rights-based development system through the integration of commitment and resources of the Government, Regional Government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's Rights.\nArticle Protection of Women is organized based on the following principles: respect and appreciation for Human Rights; justice and gender equality;\nnon-discrimination;\nempowerment;\nbest interests of women;\nf.\nprotection;\ncontinuity and sustainability; openness;\norder;\nlegal certainty; and local wisdom.\nArticle Protection of Children is carried out based on the principles of: respect and appreciation for human rights;\na.\nnon-discrimination;\nbest interests of the Child;\nrespect for the Child's opinion;\nthe right to live, grow, and develop of the Child; and local wisdom.\nf.\nArticle The Purpose and Objectives of this Regional Regulation are as a basis and guideline for the Regional Government and stakeholders to: fulfill the rights of Women and Children;\na.\nprotect Women and Children maximally, provide a sense of security and peace for Women and Children; prevent the occurrence of violence against Women and Children; empower Women;\nempower Women victims of violence;\nf.\nprovide services to Women and Children victims of violence;\nprovide protection to Reporters and Witnesses;\nmaintain the integrity of the household so that a harmonious family is realized;\nencourage the realization of quality families; and -10-\nk. increase the participation of non-governmental institutions to support the Region's efforts in providing protection to Women.\nArticle The scope of this Regional Regulation includes: obligations and Responsibilities of the Regional Government; rights of Women and Children;\nimprovement of the quality of life of Women in the Region; protection of Women;\nfamily quality;\nfulfillment of Children's rights;\nspecial protection of Children;\nGender and Child Data System;\ni.\nk. 1.\nfunding;\nparticipation of Parents, Family/Relatives and/or Community;\nmonitoring and Evaluation;\nguidance and Supervision; and\nm. prohibitions and sanctions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 150,
+          "text": "Article 139\nRegional Government is obligated to provide social welfare for:\na.\nb.\nChildren in conflict with the law;\nChild victims of violence who are exploited economically and sexually, Abandoned children, Child victims of kidnapping and Child victims of human trafficking;\nChildren who do not have parents and are cared for by parties or families who are unable;\nChild victims of natural disasters or social disasters; and Children with disabilities.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 88\nThe repatriation of women victims of acts of violence is accompanied by social reintegration efforts.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 143,
+          "text": "Article 132\nPreventive measures for basic health services as referred to in Article 128 letter are intended to prevent the occurrence of disease or health problems.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 54,
+          "text": "Fourth Part\nProvision of Integrated Services for Women Victims of Violence Paragraph Principles and Forms of Services",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian policy explicitly addresses trafficking (TPPO) in the women’s protection chapter: Pasal 44 huruf e states the government must “secara massif dan berkelanjutan mencegah agar tidak terjadi TPPO” (massively and sustainably prevent trafficking in persons). It also defines TPPO (Pasal 24 definisi) and provides integrated services for women victims of violence (Pasal 52–92), which would cover women victims including trafficking-related violence. The judge concluded there were no measures for women trafficking victims, but the available retrieved definition of TPPO plus women-victim service framework and repatriation/reintegration provisions could support a “Yes” depending on indicator intent. The miss appears mainly due to the judge being too narrow/strict (evaluation_failure).",
+      "diagnosis_status": "ok"
+    },
+    "6.4": {
+      "indicator": "Elderly women",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The passages discuss general protection for women, services for women victims of violence, and general health measures, but do not mention elderly women or provide special protection measures targeted to elderly women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 42,
+          "text": "PROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 143,
+          "text": "Article 132\nPreventive measures for basic health services as referred to in Article 128 letter are intended to prevent the occurrence of disease or health problems.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 42\nProtection of Women is organized by the Regional Government by actively involving the following various components:\na. Family;\nb. customary institutions;\nc. community; and\nd. community organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 84\nLegal assistance services as referred to in Article 83 include\na. legal assistance in the reporting process and preparation of official examination reports;\nb. legal assistance in the prosecution process at the prosecutor's office; c. legal assistance in the examination process at the court; d. legal assistance in the court hearing decision process until there is a final legal decision; and\ne. legal assistance in the mediation process.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 52\nProtection of women victims of violence is implemented through the provision of integrated services.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 23\nIn order to implement the objective of providing protection for Women's rights from various forms of violence and other discriminatory treatment as referred to in Article 20 letter, it shall be carried out through: a. promotive efforts;\nb. preventive efforts;\nc. curative efforts; and\nd. rehabilitative efforts, in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 133,
+          "text": "Article 122\nEvery organizer of an educational unit is prohibited from removing a Child from an educational institution unless there is a guarantee for the continuity of the Child's education.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 149,
+          "text": "Article 138\nRehabilitative measures as referred to in Article 137 shall be carried out through periodic health examinations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "golden_label_issue"
+      ],
+      "rationale": "The judge is correct that the retrieved passages do not mention elderly women. In the Indonesian source, the only explicit “lanjut usia/lansia” content appears in the family-quality section (Pasal 107 huruf i: improving quality of life of the elderly via programs like “program pembinaan lansia,” “bina keluarga lansia,” etc.). This is about elderly generally, not specifically “elderly women,” and it is not framed as special protection for elderly women victims of violence. If the indicator requires explicit elderly-women targeting, the golden label “Yes” seems questionable. Also, because the relevant elderly/lansia passage (Pasal 107) was not retrieved for this indicator, retrieval likely failed to surface the closest relevant material (rag_candidate_issue).",
+      "diagnosis_status": "ok"
+    },
+    "6.6": {
+      "indicator": "Heads of household",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 108\nGuidance as referred to in Article 106 letter b, includes:\na. providing protection and assistance to develop oneself through increasing family capabilities and skills;\nb. increasing access and opportunities to receive information and economic resources through efforts to increase prosperous family income and increase women's economic productivity; and undertaking empowerment efforts for women heads of household.\nc. conducting counseling for Women which includes:\n1. improving the quality of life of Women;\n2. increasing gender equality in family and community life; and\n3. premarital.",
+      "evaluator_rationale": "The policy explicitly mentions empowerment efforts for women heads of household within guidance measures, indicating targeted support/protection measures for this group.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 43,
+          "text": "Article 42\nProtection of Women is organized by the Regional Government by actively involving the following various components:\na. Family;\nb. customary institutions;\nc. community; and\nd. community organizations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 74\nCriteria for women victims of violence who are entitled to and require a safe house include the following conditions:\na. life threatened;\nb. experiencing rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 143,
+          "text": "Article 132\nPreventive measures for basic health services as referred to in Article 128 letter are intended to prevent the occurrence of disease or health problems.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 42,
+          "text": "PROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "GENERAL PROVISIONS\nArticle In this Regional Regulation, what is meant by:\n1. 3.\nRegion is the City of Pekanbaru.\nRegional Government is the Government of the City of Pekanbaru. Mayor is the Mayor of Pekanbaru.\nRegional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pekanbaru.\nRegional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs that are the authority of the Region.\nOffice of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Office is a Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.\nHead of the Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities covers Women's Empowerment, Child Protection and Community Empowerment affairs.\nCommunity is individuals, Families, Groups, and social organizations and/or community organizations. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\nParents are biological father and/or mother, or step father\n10.\nand/or step mother, or adoptive father and/or adoptive mother.\nEvery Person is an individual or corporation, whether in the form\n11.\nof a legal entity or not a legal entity. Protection is all preventive actions, services\n12.\nand empowerment to protect and guarantee the rights of Women and Children from acts of violence.\nGender is a concept that refers to differences in roles\n13.\nand responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.\nGender and Child Data System is the institutionalization\n14.\nof the administration of gender and Child data consisting of components of regulations, institutions, and mechanisms in the Region for the purpose of planning, implementation, evaluation, and reporting of results of policies/programs/activities of development that is gender responsive and child-caring.\nSelected Data is data selected according to sex\n15.\nand age.\nGender responsive is consistent and\n16.\nsystematic attention to the differences between Women and Men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality. Gender sensitivity or gender awareness is the ability\n17.\nto identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and the experiences, problems, needs, interests and aspirations of Women and Men are different.\nGender Mainstreaming in the region hereinafter referred to as PUG\n18.\nis a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\nIntegrated Service Center hereinafter abbreviated as PPT,\n19.\nis a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of trafficking in persons.\nGender Equality hereinafter referred to as KG is\n20.\nequality of rights, opportunities, benefits and decision-making between Women and men including in entering employment opportunities both in the formal and informal sectors.\nWomen's Empowerment is any effort to improve\n21.\nphysical, mental spiritual, social abilities, knowledge, and skills so that Women are ready to be utilized according to their respective abilities.\nWoman is a human being of female sex and\n22.\na person who is legally recognized as a Woman.\nEmpowerment of victims of violence is the strengthening of Women\n23.\nvictims of violence to be able to work and work independently Vv after they are recovered and provided with health and social rehabilitation services.\nCriminal Act of Trafficking in Persons or hereinafter\n24.\nreferred to as TPPO is any action or series of actions that meet the elements of criminal acts determined in Law Number 21 of 2007 Concerning the Eradication of Criminal Acts of Trafficking in Persons.\nHealth rehabilitation is an effort to restore the condition of victims\n25.\ncovering physical, psychological and social health so that victims can carry out their roles again properly and naturally in the family and in society.\nSocial rehabilitation is a service aimed at\n26.\nrestoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions again properly.\nRepatriation is an effort to return victims of violence\n27.\nfrom the regional area where the violence occurred back to the area of origin of the person concerned.\nSocial reintegration is an effort to reunite victims\n28.\nwith family, substitute family or community that can provide protection and fulfillment of needs for victims.\nIntegrated Service Unit for the Protection of Women and Children\n29.\nhereinafter abbreviated as UPT PPA is a Technical Implementation Unit formed by the Regional Government in providing services for Women and Children who experience violence, discrimination, special protection, and other problems. Child is someone who is not yet 18 (eighteen)\n30.\nyears old, including a Child who is still in the womb.\nFulfillment of Children's Rights hereinafter abbreviated as PHA is\n31.\nall activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\nChild with Disability is a Child who has\n32.\nphysical, mental, intellectual, or sensory limitations for a long period of time which in interacting with the environment and community attitudes can encounter obstacles that make it difficult to participate fully and effectively based on equal rights.\nChild with Excellence is a Child who has\n33.\ncommendable morals, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.\nChildren's Rights are part of human rights that must\n34.\nbe guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government. Prevention is activities carried out to prevent\n35.\nthe occurrence of acts of violence against Women and Children. Safe House is a temporary residence or new\n36.\nresidence designed under strict supervision and guard conditions for 24 (twenty-four) hours which is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.\nService is an action taken as soon as possible\n37.\nto victims when seeing, hearing and knowing that violence against victims will, is or has occurred. Special Protection is a form of protection that\n38.\nis received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\nViolence is any act against a Child that\n39.\nresults in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\nVictim is a Woman and/or Child who experiences\n40.\nmisery and/or suffering that occurs in the area of the City of Pekanbaru.\nPerson with HIV/AIDS hereinafter referred to as ODHA\n41.\nis a person who has been infected with HIV both at the stage of no symptoms and those who already have symptoms.\nStandard Operating Procedure hereinafter abbreviated as SOP\n42.\nis a series of written instructions that are standardized regarding various processes of government administration, how and when it should be done, where and by whom it is done.\nChild-Friendly City hereinafter abbreviated as KLA is a city that\n43.\nhas a child rights-based development system through the integration of commitment and resources of the Government, Regional Government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's Rights.\nArticle Protection of Women is organized based on the following principles: respect and appreciation for Human Rights; justice and gender equality;\nnon-discrimination;\nempowerment;\nbest interests of women;\nf.\nprotection;\ncontinuity and sustainability; openness;\norder;\nlegal certainty; and local wisdom.\nArticle Protection of Children is carried out based on the principles of: respect and appreciation for human rights;\na.\nnon-discrimination;\nbest interests of the Child;\nrespect for the Child's opinion;\nthe right to live, grow, and develop of the Child; and local wisdom.\nf.\nArticle The Purpose and Objectives of this Regional Regulation are as a basis and guideline for the Regional Government and stakeholders to: fulfill the rights of Women and Children;\na.\nprotect Women and Children maximally, provide a sense of security and peace for Women and Children; prevent the occurrence of violence against Women and Children; empower Women;\nempower Women victims of violence;\nf.\nprovide services to Women and Children victims of violence;\nprovide protection to Reporters and Witnesses;\nmaintain the integrity of the household so that a harmonious family is realized;\nencourage the realization of quality families; and -10-\nk. increase the participation of non-governmental institutions to support the Region's efforts in providing protection to Women.\nArticle The scope of this Regional Regulation includes: obligations and Responsibilities of the Regional Government; rights of Women and Children;\nimprovement of the quality of life of Women in the Region; protection of Women;\nfamily quality;\nfulfillment of Children's rights;\nspecial protection of Children;\nGender and Child Data System;\ni.\nk. 1.\nfunding;\nparticipation of Parents, Family/Relatives and/or Community;\nmonitoring and Evaluation;\nguidance and Supervision; and\nm. prohibitions and sanctions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 52\nProtection of women victims of violence is implemented through the provision of integrated services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 84\nLegal assistance services as referred to in Article 83 include\na. legal assistance in the reporting process and preparation of official examination reports;\nb. legal assistance in the prosecution process at the prosecutor's office; c. legal assistance in the examination process at the court; d. legal assistance in the court hearing decision process until there is a final legal decision; and\ne. legal assistance in the mediation process.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 115,
+          "text": "Article 108\nGuidance as referred to in Article 106 letter b, includes:\na. providing protection and assistance to develop oneself through increasing family capabilities and skills;\nb. increasing access and opportunities to receive information and economic resources through efforts to increase prosperous family income and increase women's economic productivity; and undertaking empowerment efforts for women heads of household.\nc. conducting counseling for Women which includes:\n1. improving the quality of life of Women;\n2. increasing gender equality in family and community life; and\n3. premarital.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 133,
+          "text": "Article 122\nEvery organizer of an educational unit is prohibited from removing a Child from an educational institution unless there is a guarantee for the continuity of the Child's education.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian source explicitly includes “melakukan upaya pemberdayaan Perempuan kepala keluarga” in Pasal 108 (guidance includes empowerment efforts for women heads of household). The retrieved English passage reflects this accurately, and the judge’s reasoning is correct that this is targeted support for women heads of household. Therefore the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Legal process involvement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 83\nLaw enforcement and legal assistance services are intended to provide accompaniment and protection for women victims of acts of violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.",
+      "evaluator_rationale": "The policy explicitly addresses accompaniment and protection for women victims of violence and witnesses in law enforcement/legal assistance services, which constitutes protection for women involved in legal processes as witnesses/victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 42,
+          "text": "PROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 48,
+          "text": "Third Part\nEmpowerment of Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 188,
+          "text": "Article 171\nSpecial Protection for Children in conflict with the law as referred to in Article 167 letter shall be carried out through:\na.\nf.\ng.\nk. 1, humane treatment with attention to needs according to their age;\nseparation from adults;\nprovision of legal assistance and other assistance effectively;\nimplementation of recreational activities;\nfreedom from torture, punishment or other treatment that is cruel, inhumane and degrading to dignity and status;\navoidance of imposition of the death penalty and/or life imprisonment;\navoidance of detention or imprisonment, except as a last resort for the shortest period of time; provision of justice before a Children's Court that is objective, impartial, and in hearings closed to the public;\navoidance of publication of their identity; provision of assistance from Parents/Guardians and persons trusted by the Child;\nprovision of social advocacy;\nprovision of private life;\nprovision of accessibility, especially for Children with Disabilities;\nprovision of education;\nprovision of health services; and provision of other rights in accordance with the provisions of laws and regulations.\nParagraph Children from Minority and Isolated Groups",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 83\nLaw enforcement and legal assistance services are intended to provide accompaniment and protection for women victims of acts of violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 89\nSocial reintegration as referred to in Article 54 letter is carried out in the context of reuniting Women victims of acts of violence with family, substitute family, or community that can provide protection and fulfillment of needs for Women victims of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 52\nProtection of women victims of violence is implemented through the provision of integrated services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "GENERAL PROVISIONS\nArticle In this Regional Regulation, what is meant by:\n1. 3.\nRegion is the City of Pekanbaru.\nRegional Government is the Government of the City of Pekanbaru. Mayor is the Mayor of Pekanbaru.\nRegional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pekanbaru.\nRegional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of Government Affairs that are the authority of the Region.\nOffice of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Office is a Regional Apparatus that carries out the duties and functions of Women's Empowerment, Child Protection and Community Empowerment affairs.\nHead of the Office of Women's Empowerment, Child Protection and Community Empowerment of the City of Pekanbaru or other designation hereinafter referred to as the Head of Office is the Head of Apparatus whose scope of duties and responsibilities covers Women's Empowerment, Child Protection and Community Empowerment affairs.\nCommunity is individuals, Families, Groups, and social organizations and/or community organizations. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\nParents are biological father and/or mother, or step father\n10.\nand/or step mother, or adoptive father and/or adoptive mother.\nEvery Person is an individual or corporation, whether in the form\n11.\nof a legal entity or not a legal entity. Protection is all preventive actions, services\n12.\nand empowerment to protect and guarantee the rights of Women and Children from acts of violence.\nGender is a concept that refers to differences in roles\n13.\nand responsibilities of men and Women that occur as a result of and can be changed by the social and cultural conditions of society.\nGender and Child Data System is the institutionalization\n14.\nof the administration of gender and Child data consisting of components of regulations, institutions, and mechanisms in the Region for the purpose of planning, implementation, evaluation, and reporting of results of policies/programs/activities of development that is gender responsive and child-caring.\nSelected Data is data selected according to sex\n15.\nand age.\nGender responsive is consistent and\n16.\nsystematic attention to the differences between Women and Men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality. Gender sensitivity or gender awareness is the ability\n17.\nto identify gaps in power relations between Women and Men in the family and in the community, the impact of gender-based division of labor on Women and Men, and the experiences, problems, needs, interests and aspirations of Women and Men are different.\nGender Mainstreaming in the region hereinafter referred to as PUG\n18.\nis a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\nIntegrated Service Center hereinafter abbreviated as PPT,\n19.\nis a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of trafficking in persons.\nGender Equality hereinafter referred to as KG is\n20.\nequality of rights, opportunities, benefits and decision-making between Women and men including in entering employment opportunities both in the formal and informal sectors.\nWomen's Empowerment is any effort to improve\n21.\nphysical, mental spiritual, social abilities, knowledge, and skills so that Women are ready to be utilized according to their respective abilities.\nWoman is a human being of female sex and\n22.\na person who is legally recognized as a Woman.\nEmpowerment of victims of violence is the strengthening of Women\n23.\nvictims of violence to be able to work and work independently Vv after they are recovered and provided with health and social rehabilitation services.\nCriminal Act of Trafficking in Persons or hereinafter\n24.\nreferred to as TPPO is any action or series of actions that meet the elements of criminal acts determined in Law Number 21 of 2007 Concerning the Eradication of Criminal Acts of Trafficking in Persons.\nHealth rehabilitation is an effort to restore the condition of victims\n25.\ncovering physical, psychological and social health so that victims can carry out their roles again properly and naturally in the family and in society.\nSocial rehabilitation is a service aimed at\n26.\nrestoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions again properly.\nRepatriation is an effort to return victims of violence\n27.\nfrom the regional area where the violence occurred back to the area of origin of the person concerned.\nSocial reintegration is an effort to reunite victims\n28.\nwith family, substitute family or community that can provide protection and fulfillment of needs for victims.\nIntegrated Service Unit for the Protection of Women and Children\n29.\nhereinafter abbreviated as UPT PPA is a Technical Implementation Unit formed by the Regional Government in providing services for Women and Children who experience violence, discrimination, special protection, and other problems. Child is someone who is not yet 18 (eighteen)\n30.\nyears old, including a Child who is still in the womb.\nFulfillment of Children's Rights hereinafter abbreviated as PHA is\n31.\nall activities to guarantee and protect Children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\nChild with Disability is a Child who has\n32.\nphysical, mental, intellectual, or sensory limitations for a long period of time which in interacting with the environment and community attitudes can encounter obstacles that make it difficult to participate fully and effectively based on equal rights.\nChild with Excellence is a Child who has\n33.\ncommendable morals, extraordinary intelligence or has potential and/or special talents not limited to intellectual abilities, but also in other fields.\nChildren's Rights are part of human rights that must\n34.\nbe guaranteed, protected, and fulfilled by Parents, Family, community, state, government, and regional government. Prevention is activities carried out to prevent\n35.\nthe occurrence of acts of violence against Women and Children. Safe House is a temporary residence or new\n36.\nresidence designed under strict supervision and guard conditions for 24 (twenty-four) hours which is kept confidential in accordance with standards based on applicable provisions intended for Women and Children victims of violence.\nService is an action taken as soon as possible\n37.\nto victims when seeing, hearing and knowing that violence against victims will, is or has occurred. Special Protection is a form of protection that\n38.\nis received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\nViolence is any act against a Child that\n39.\nresults in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\nVictim is a Woman and/or Child who experiences\n40.\nmisery and/or suffering that occurs in the area of the City of Pekanbaru.\nPerson with HIV/AIDS hereinafter referred to as ODHA\n41.\nis a person who has been infected with HIV both at the stage of no symptoms and those who already have symptoms.\nStandard Operating Procedure hereinafter abbreviated as SOP\n42.\nis a series of written instructions that are standardized regarding various processes of government administration, how and when it should be done, where and by whom it is done.\nChild-Friendly City hereinafter abbreviated as KLA is a city that\n43.\nhas a child rights-based development system through the integration of commitment and resources of the Government, Regional Government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's Rights.\nArticle Protection of Women is organized based on the following principles: respect and appreciation for Human Rights; justice and gender equality;\nnon-discrimination;\nempowerment;\nbest interests of women;\nf.\nprotection;\ncontinuity and sustainability; openness;\norder;\nlegal certainty; and local wisdom.\nArticle Protection of Children is carried out based on the principles of: respect and appreciation for human rights;\na.\nnon-discrimination;\nbest interests of the Child;\nrespect for the Child's opinion;\nthe right to live, grow, and develop of the Child; and local wisdom.\nf.\nArticle The Purpose and Objectives of this Regional Regulation are as a basis and guideline for the Regional Government and stakeholders to: fulfill the rights of Women and Children;\na.\nprotect Women and Children maximally, provide a sense of security and peace for Women and Children; prevent the occurrence of violence against Women and Children; empower Women;\nempower Women victims of violence;\nf.\nprovide services to Women and Children victims of violence;\nprovide protection to Reporters and Witnesses;\nmaintain the integrity of the household so that a harmonious family is realized;\nencourage the realization of quality families; and -10-\nk. increase the participation of non-governmental institutions to support the Region's efforts in providing protection to Women.\nArticle The scope of this Regional Regulation includes: obligations and Responsibilities of the Regional Government; rights of Women and Children;\nimprovement of the quality of life of Women in the Region; protection of Women;\nfamily quality;\nfulfillment of Children's rights;\nspecial protection of Children;\nGender and Child Data System;\ni.\nk. 1.\nfunding;\nparticipation of Parents, Family/Relatives and/or Community;\nmonitoring and Evaluation;\nguidance and Supervision; and\nm. prohibitions and sanctions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 84,
+          "text": "Pasal 81\nLegal enforcement services and legal assistance as referred to in Article 54 letter constitute actions by law enforcement officials to implement laws and regulations in order to handle cases of violence against Women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 187,
+          "text": "Article 170\nSpecial Protection for Children in emergency situations who become refugees as referred to in Article 169 letter is carried out with the following provisions:\na.\nb.\nfor Children who become refugees is implemented in accordance with the provisions of humanitarian law;\nfor Children victims of unrest, victims of natural disasters, and Children in armed conflict situations as referred to in Article 169 letter b, letter c, and letter d, is implemented through:\n1. fulfillment of basic needs consisting of food, clothing, shelter, education, health, learning and creating, security guarantees, and equal treatment; and fulfillment of special needs for Children with disabilities and Children experiencing psychosocial disorders.\nParagraph Children in Conflict with the Law",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly provides protection/assistance for women involved in legal processes as victims/witnesses: Pasal 81 states law enforcement/legal assistance aims to provide protection for witnesses/victims; Pasal 83 states services provide “pendampingan dan perlindungan ... dan saksi” with a gender-responsive approach; and the objectives section also includes “memberikan perlindungan kepada Pelapor dan Saksi.” The retrieved passages include Pasal 83/81, and the judge’s reasoning matches the text. Thus the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.10": {
+      "indicator": "Refugees / displacement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 170\nSpecial Protection for Children in emergency situations who become refugees as referred to in Article 169 letter is carried out with the following provisions:\na.\nb.\nfor Children who become refugees is implemented in accordance with the provisions of humanitarian law;\nfor Children victims of unrest, victims of natural disasters, and Children in armed conflict situations as referred to in Article 169 letter b, letter c, and letter d, is implemented through:\n1. fulfillment of basic needs consisting of food, clothing, shelter, education, health, learning and creating, security guarantees, and equal treatment; and fulfillment of special needs for Children with disabilities and Children experiencing psychosocial disorders.\nParagraph Children in Conflict with the Law",
+      "evaluator_rationale": "The policy explicitly provides special protection for children in emergency situations who become refugees, indicating measures targeted at refugees/forced displacement (at least for children).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 187,
+          "text": "Article 170\nSpecial Protection for Children in emergency situations who become refugees as referred to in Article 169 letter is carried out with the following provisions:\na.\nb.\nfor Children who become refugees is implemented in accordance with the provisions of humanitarian law;\nfor Children victims of unrest, victims of natural disasters, and Children in armed conflict situations as referred to in Article 169 letter b, letter c, and letter d, is implemented through:\n1. fulfillment of basic needs consisting of food, clothing, shelter, education, health, learning and creating, security guarantees, and equal treatment; and fulfillment of special needs for Children with disabilities and Children experiencing psychosocial disorders.\nParagraph Children in Conflict with the Law",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 143,
+          "text": "Article 132\nPreventive measures for basic health services as referred to in Article 128 letter are intended to prevent the occurrence of disease or health problems.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 185,
+          "text": "Second Part\nProtection for Child Victims of Violence Paragraph Children in Emergency Situations",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 84\nLegal assistance services as referred to in Article 83 include\na. legal assistance in the reporting process and preparation of official examination reports;\nb. legal assistance in the prosecution process at the prosecutor's office; c. legal assistance in the examination process at the court; d. legal assistance in the court hearing decision process until there is a final legal decision; and\ne. legal assistance in the mediation process.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 186,
+          "text": "Article 169\nChildren in emergency situations as referred to in Article 167 letter consist of:\na. Children who become refugees;\nChildren victims of riots;\nChildren victims of natural disasters; and Children in armed conflict situations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 78\nSpiritual guidance as referred to in Article 77 shall be implemented based on the principles of:\na. not imposing any religion or belief on Women victims of violence; and\nb. leaving the final decision in the hands of Women victims of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 183,
+          "text": "Article 167\nSpecial Protection for Children as referred to in Article 166 letter is given to:\na. Children in emergency situations;\nb. Children in conflict with the law;\nc. Children from minority and isolated groups;\nd. Children who are exploited economically and/or sexually;\ne. Children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse and/or involved in their production/distribution;\nf. Children who are victims of pornography;\ng. Children with HIV/AIDS;\nh. Children victims of kidnapping, sale and/or trafficking in persons;\ni. Children victims of physical and/or psychological Violence;\nj. Children victims of sexual crimes;\nk. Children victims of terrorist networks;\nl. Children with Disabilities;\nm. Children victims of maltreatment and neglect;\nn. Children with deviant social behavior; and\no. Children who are victims of stigmatization from labeling related to the condition of their Parents.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 133,
+          "text": "Article 122\nEvery organizer of an educational unit is prohibited from removing a Child from an educational institution unless there is a guarantee for the continuity of the Child's education.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 193,
+          "text": "Article 176\nSpecial Protection for Children with HIV/AIDS as referred to in Article 167 letter shall be implemented through efforts of:\na. supervision;\nb. prevention;\nc. treatment;\nd. care; and\ne. rehabilitation.\nParagraph Child Victims of Abduction, Sale and/or Human Trafficking",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 149,
+          "text": "Article 138\nRehabilitative measures as referred to in Article 137 shall be carried out through periodic health examinations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian policy’s refugee/displacement provisions are explicitly limited to children: Pasal 169 defines “Anak yang menjadi pengungsi” (children who become refugees) as part of “Anak dalam situasi darurat,” and Pasal 170 sets protections for those children. There is no parallel provision for women refugees in the provided text. If the indicator is about refugees/displacement as an intersectional group for women (or for women and girls beyond children-only), then citing child-only refugee protection should not satisfy it. The judge treated child refugee provisions as sufficient for the indicator, which is an overly broad interpretation (evaluation_failure).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "RIAU_PEKANBARU_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-14T11:55:58.877812+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 10,
+  "diagnosed_count": 10
+}

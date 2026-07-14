@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TENGAH_WONOGIRI.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:48:55.058259+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nPROHIBITION OF DOMESTIC VIOLENCE\nArticle 5\nEvery person is prohibited from committing domestic violence against persons within the scope of their household, by means of:\na. physical violence;\nb. psychological violence;\nc. economic violence;\nd. sexual violence; or\ne. household neglect.",
+      "rationale": "The policy explicitly contains a chapter on the prohibition of domestic violence and lists forms of domestic violence, demonstrating direct inclusion.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nPROHIBITION OF DOMESTIC VIOLENCE\nArticle 5\nEvery person is prohibited from committing domestic violence against persons within the scope of their household, by means of:\na. physical violence;\nb. psychological violence;\nc. economic violence;\nd. sexual violence; or\ne. household neglect.",
+      "rationale": "The policy explicitly lists sexual violence as a means by which domestic violence can be committed, indicating inclusion of sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nPROHIBITION OF DOMESTIC VIOLENCE\nArticle 5\nEvery person is prohibited from committing domestic violence against persons within the scope of their household, by means of:\na. physical violence;\nb. psychological violence;\nc. economic violence;\nd. sexual violence; or\ne. household neglect.",
+      "rationale": "The policy explicitly lists physical violence as a prohibited form/means of domestic violence, indicating inclusion.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nPROHIBITION OF DOMESTIC VIOLENCE\nArticle 5\nEvery person is prohibited from committing domestic violence against persons within the scope of their household, by means of:\na. physical violence;\nb. psychological violence;\nc. economic violence;\nd. sexual violence; or\ne. household neglect.",
+      "rationale": "The policy explicitly lists psychological violence as a prohibited form/means of domestic violence, indicating inclusion.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER IV\nPROHIBITION OF DOMESTIC VIOLENCE\nArticle 5\nEvery person is prohibited from committing domestic violence against persons within the scope of their household, by means of:\na. physical violence;\nb. psychological violence;\nc. economic violence;\nd. sexual violence; or\ne. household neglect.",
+      "rationale": "The policy explicitly lists economic violence and household neglect as prohibited means of domestic violence, covering economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages define and prohibit various forms of violence but do not explicitly address femicide/feminicide or gender-related killings.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While one passage references trafficking in a general background discussion, the criterion asks whether the policy includes human trafficking; the provided passages for this criterion do not explicitly mention trafficking or set provisions addressing it.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "I GENERAL\nGender-based violence and violence against children is a social phenomenon that has existed since ancient times and has become increasingly prevalent recently. In fact, gender-based violence and violence against children continues to increase, both in number as well as in the forms and modus operandi which are becoming increasingly diverse. Rape, sexual harassment, trafficking of women and children, domestic violence, sexual exploitation, violence against domestic workers, pornography, exploitation of migrant workers, and neglect, will apparently continue to be encountered in daily life, both in the domestic sphere (household) and public sphere.\nThe causal factors of gender-based violence and violence against children are very complex and interrelated with one another. These factors include, among others, legal instruments that have not been able to provide protection to victims, the concept that women and children are family property (assets), media that do not adequately support reporting on violence against women and children, public services that are not yet optimal, customs that sometimes legalize violence, poverty issues, erroneous interpretations of religious teachings, all of which are wrapped in a patriarchal culture.\nThe handling of victims of gender-based violence and violence against children occurring in Wonogiri, in accordance with the provisions of Article 3 of Law Number 23 of 2002 concerning Child Protection and Article 13 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, states that Regional Governments are obligated to establish and develop a system and mechanism of cooperation for handling violence. Furthermore, based on the provisions of Article 26 paragraph (1) letter b of Law Number 32 of 2004 concerning Regional Government, it states that the Deputy Regional Head has the duty to assist the Regional Head in coordinating the activities of vertical agencies in the region, following up on reports and/or findings from supervisory apparatus oversight, implementing women's and youth empowerment, as well as endeavoring to develop and preserve socio-culture and the environment. Therefore, it is necessary to establish a Regional Regulation concerning the Implementation of Protection for Victims of Gender-Based Violence and Violence Against Children.",
+      "rationale": "The background section explicitly mentions sexual exploitation among forms of violence encountered, indicating the policy includes sexual exploitation as an issue within its scope/context.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention technology-facilitated forms of violence (e.g., online harassment, cyberstalking, non-consensual image sharing).",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 18\n(1) In providing protection for victims of gender-based violence and children, the Regional Government may cooperate with the Government, Provincial Government, Regency/City Government and other institutions.\n(2) The cooperation of the Regional Government with the Government and Provincial Government includes consultation, coordination and reporting.\n(3) Cooperation between other Regency/City Governments includes coordination, advocacy, referral, repatriation, social reintegration and facilitation of Integrated Service System development, monitoring, evaluation and reporting.",
+      "rationale": "The policy explicitly provides for inter-jurisdictional cooperation by the Regional Government with national, provincial, and other regency/city governments, including coordination and reporting.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nHANDLING AND MECHANISM\nArticle 19\n(1) The implementation of protection for victims is carried out in an integrated manner within the PPT framework.\n(2) PPT in handling medical, legal, psychological, and economic protection in its implementation may conduct partnerships with regional apparatus and social community institutions engaged in the field of protection for victims of gender-based violence and children.\n(3) The implementation of protection for victims as referred to in paragraph (1) must take into account religious norms as well as the rights and obligations of parents, guardians, husbands/other persons who are legally responsible for the victim.\n(4) Provisions regarding the mechanism for handling protection as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly allows the PPT to form partnerships with social community institutions engaged in victim protection, which covers collaboration mechanisms with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention monitoring, documentation, and reporting of cases, none explicitly establish a dedicated data collection or information system for VAW/women’s protection.",
+      "evidence_verified": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference gender equality/justice principles but do not mention gender mainstreaming institutionalisation or a specific gender mainstreaming working group to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and child violence.\n(2) Community participation as referred to in paragraph (1) shall be realized through:\na. providing information and/or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;\nd. providing advocacy for victims and/or the community regarding the handling of gender-based violence and child violence cases;\ne. assisting in the process of submitting applications for protection orders;\nf. assisting in the repatriation and reintegration process.\n(3) Community participation may be carried out by individuals, groups or social community organizations.\n(4) Social community organizations that participate in the implementation of protection for victims of gender-based violence and child violence as referred to in paragraph (3) shall be provided guidance by the Wonogiri Regency Government through regional apparatus in accordance with their main duties and functions.\n(5) Guidance as referred to in paragraph (4) may be in the form of counseling guidance, skills guidance, paralegal training and operational technical guidance.",
+      "rationale": "The policy includes guidance that may take the form of training (e.g., paralegal training and operational technical guidance), indicating capacity-building activities related to implementation.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER VI\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 7\n(1) The obligations of the Regional Government include:\na. preventing the occurrence of violence;\nb. providing protection for victims of violence; c. providing recovery services and social reintegration; d. encouraging and increasing community participation; e. conducting cooperation with service providers in efforts to prevent, protect and recover victims of violence; and\nf. supervising the implementation of services for victims with service standards that involve the community;\n(2) To carry out the obligations as referred to in paragraph (1), the Regional Government has the authority to:\na. formulate policies and programs on the elimination of gender-based and child violence;\nb. establish and facilitate the implementation of integrated services;\nc. provide facilities and infrastructure;\nd. increase the capacity of service provider institutions;\ne. conduct coordination and cooperation in the implementation of protection for victims of gender-based and child violence;\nf. encourage community participation; and\ng. conduct monitoring and evaluation.\n(3) The Regional Government in carrying out the obligations as referred to in paragraph (1) must pay attention to the rights and obligations of parents, guardians, husbands, wives or other persons who are legally responsible for the victim.",
+      "rationale": "The policy explicitly assigns the Regional Government authority to conduct monitoring and evaluation and also includes supervision responsibilities, indicating monitoring/evaluation of implementation and services.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The Regent through the Regional Apparatus establishes a public service work unit that functions as PPT.\n(2) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Children Victims of Violence may coordinate with other Regional Apparatuses.",
+      "rationale": "The policy provides for establishing a public service work unit that functions as an Integrated Service Center (PPT), indicating an integrated service unit for handling violence against women/children victims.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the police are mentioned as actors providing protection/assistance, none of the passages explicitly establish or describe a specialised police service unit within police offices for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention community reporting and the establishment of an integrated service unit (PPT), but do not explicitly state that a service unit receives reports/complaints (nor describe a hotline or complaint intake function).",
+      "evidence_verified": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 12\nRecovery and social reintegration efforts as referred to in Article 10 include:\na. providing physical recovery at health service institutions; b. assisting the repatriation of victims;\nc. providing temporary protection in safe houses (shelters); d. providing psychosocial recovery and assistance; e. providing spiritual guidance services;\nf. conducting family and community preparation, economic empowerment, and return to school and/or other educational institutions.",
+      "rationale": "The policy includes provision of temporary protection in safe houses (shelters) as part of recovery and social reintegration efforts, indicating a shelter service function.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 13\nLegal Protection as referred to in Article 10 includes:\na. providing protection in a safe house (shelter);\nb. providing assistance in the legal process at the police, prosecutor's office and district court levels;\nc. providing special legal protection for child victims of violence which can be carried out through the appointment of guardianship in accordance with applicable regulations.",
+      "rationale": "The policy explicitly includes assistance in the legal process at police, prosecutor, and district court levels as part of legal protection, indicating provision of legal assistance services.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 9\n(1) The PPT as referred to in Article 8 paragraph (1) shall be established by the Regional Government in accordance with the applicable laws and regulations.\n(2) The establishment of the PPT as referred to in paragraph (1) shall consist of members from elements of regional government, non-governmental institutions, health service institutions, law enforcement officials, professional personnel, volunteer companions, social workers, religious leaders, and managers of safe houses (shelters), and social rehabilitation centers.",
+      "rationale": "The policy specifies that the PPT membership includes health service institutions, indicating that the integrated service center structure includes provision/coordination of health/medical services.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 12\nRecovery and social reintegration efforts as referred to in Article 10 include:\na. providing physical recovery at health service institutions; b. assisting the repatriation of victims;\nc. providing temporary protection in safe houses (shelters); d. providing psychosocial recovery and assistance; e. providing spiritual guidance services;\nf. conducting family and community preparation, economic empowerment, and return to school and/or other educational institutions.",
+      "rationale": "The policy explicitly includes psychosocial recovery and assistance within recovery and social reintegration efforts, indicating psychosocial counseling/support services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "Article 12\nRecovery and social reintegration efforts as referred to in Article 10 include:\na. providing physical recovery at health service institutions; b. assisting the repatriation of victims;\nc. providing temporary protection in safe houses (shelters); d. providing psychosocial recovery and assistance; e. providing spiritual guidance services;\nf. conducting family and community preparation, economic empowerment, and return to school and/or other educational institutions.",
+      "rationale": "The policy explicitly includes spiritual guidance services as part of recovery and social reintegration efforts, indicating religious/spiritual counseling support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 10\nThe duties of PPT are to pursue prevention, recovery and social reintegration, provide legal protection, conduct coordination and pursue increased community participation, as well as monitoring and reporting.",
+      "rationale": "The policy assigns the PPT duties including recovery and social reintegration, which constitutes resocialisation/rehabilitation-reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 12\nRecovery and social reintegration efforts as referred to in Article 10 include:\na. providing physical recovery at health service institutions; b. assisting the repatriation of victims;\nc. providing temporary protection in safe houses (shelters); d. providing psychosocial recovery and assistance; e. providing spiritual guidance services;\nf. conducting family and community preparation, economic empowerment, and return to school and/or other educational institutions.",
+      "rationale": "The policy includes economic empowerment as part of recovery and social reintegration efforts, indicating economic support/empowerment services (e.g., skills/economic strengthening).",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 11\nPrevention efforts as referred to in Article 10 include:\na. conducting communication, information, and education about gender-based and child violence;\nb. socialization of laws and regulations related to gender-based and child violence;",
+      "rationale": "The policy explicitly includes prevention efforts consisting of communication, information, and education about gender-based and child violence, which covers information/education as a primary prevention approach to VAW.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy states principles of gender equality and justice and includes education about gender-based and child violence and dissemination of related laws, the provided passages do not indicate information/education specifically about gender equality and/or women’s rights as a primary prevention activity.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 11\nPrevention efforts as referred to in Article 10 include:\na. conducting communication, information, and education about gender-based and child violence;\nb. socialization of laws and regulations related to gender-based and child violence;",
+      "rationale": "The policy explicitly includes as a prevention effort the socialization of laws and regulations related to gender-based and child violence, which constitutes information/education about relevant VAW laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention conducting communication/information/education about violence and other prevention-related duties, but they do not describe prevention through the formal education system or measures aimed at improving the quality of education.",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 9\n(1) The PPT as referred to in Article 8 paragraph (1) shall be established by the Regional Government in accordance with the applicable laws and regulations.\n(2) The establishment of the PPT as referred to in paragraph (1) shall consist of members from elements of regional government, non-governmental institutions, health service institutions, law enforcement officials, professional personnel, volunteer companions, social workers, religious leaders, and managers of safe houses (shelters), and social rehabilitation centers.",
+      "rationale": "The policy includes non-governmental institutions as part of the PPT membership structure, indicating formal engagement/collaboration with NGOs/civil society in service provision and prevention.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 9\n(1) The PPT as referred to in Article 8 paragraph (1) shall be established by the Regional Government in accordance with the applicable laws and regulations.\n(2) The establishment of the PPT as referred to in paragraph (1) shall consist of members from elements of regional government, non-governmental institutions, health service institutions, law enforcement officials, professional personnel, volunteer companions, social workers, religious leaders, and managers of safe houses (shelters), and social rehabilitation centers.",
+      "rationale": "The policy explicitly includes religious leaders among the elements comprising the PPT, demonstrating engagement with religious leaders/organizations in the integrated service framework.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions fostering local wisdom and community participation, none of the provided passages explicitly refer to collaboration with traditional/cultural organizations or traditional leaders.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss communication/information/education activities and cooperation with service institutions generally, but do not explicitly mention collaboration with schools, universities, or other educational institutions.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages mention cooperation with government levels and other institutions, but do not explicitly reference international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although prevention includes communication, information, and education, none of the passages explicitly mention engagement or collaboration with media organizations.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community can participate in assisting prevention efforts and handling of victims of gender-based violence and child violence.\n(2) Community participation as referred to in paragraph (1) shall be realized through:\na. providing information and/or reporting any violence that comes to their knowledge;\nb. providing protection for victims;\nc. providing emergency assistance;\nd. providing advocacy for victims and/or the community regarding the handling of gender-based violence and child violence cases;\ne. assisting in the process of submitting applications for protection orders;\nf. assisting in the repatriation and reintegration process.\n(3) Community participation may be carried out by individuals, groups or social community organizations.\n(4) Social community organizations that participate in the implementation of protection for victims of gender-based violence and child violence as referred to in paragraph (3) shall be provided guidance by the Wonogiri Regency Government through regional apparatus in accordance with their main duties and functions.\n(5) Guidance as referred to in paragraph (4) may be in the form of counseling guidance, skills guidance, paralegal training and operational technical guidance.",
+      "rationale": "The policy explicitly provides for community participation in prevention efforts and handling of victims, including participation by individuals, groups, and social community organizations, indicating stakeholder engagement with the community.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention engagement or collaboration with businesses or the private sector; references are limited to community organizations, service providers, and government/other institutions without specifying private sector actors.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss protection for victims of gender-based violence and children generally (rights, forms of protection, scope, and principles), but none mention conflict zones, disasters, or disaster-prone areas, nor any special measures for women in such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although trafficking is mentioned in the general background, the retrieved passages do not establish specific protection measures targeted at women victims of human trafficking; they provide general victim protections for gender-based violence and children without trafficking-specific provisions.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general protections for victims of gender-based violence and children and mention domestic workers in the background, but they do not specifically provide protection measures targeted at women workers/employees as a distinct group.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention elderly women or provide age-specific protections for older women; protections are framed generally for victims of gender-based violence and children.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "Article 2\n- What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing ethnicity, religion, race, class, gender, ethnic culture and language, legal status and physical or mental condition.\n- What is meant by \"gender justice\" is fair treatment given to women and men.\n- What is meant by \"gender equality\" is a condition and position that describes harmonious, compatible and balanced relations between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in society, nationhood and statehood.\n- What is meant by \"best interests of the victim\" is all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, then the best interests of the victim must be the primary consideration.",
+      "rationale": "The policy includes disability within its non-discrimination principle by referencing protection without distinguishing based on physical or mental condition, which implicitly covers people with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address domestic violence and general victim protections but do not mention women heads of household/families or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "Yes",
+      "evidence": "Article 2\n- What is meant by \"non-discrimination\" is protection for all victims of gender-based violence and children without distinguishing ethnicity, religion, race, class, gender, ethnic culture and language, legal status and physical or mental condition.\n- What is meant by \"gender justice\" is fair treatment given to women and men.\n- What is meant by \"gender equality\" is a condition and position that describes harmonious, compatible and balanced relations between men and women in obtaining opportunities/chances in access, participation, control and benefits in the implementation of development as well as enjoying the results of development in family life, as well as in society, nationhood and statehood.\n- What is meant by \"best interests of the victim\" is all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, then the best interests of the victim must be the primary consideration.",
+      "rationale": "The non-discrimination provision explicitly covers ethnicity, religion, race, class, ethnic culture and language, indicating protection for victims regardless of minority status, which implicitly includes women from minority or isolated groups.",
+      "evidence_verified": true
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages focus on victims’ rights and assistance in legal processes for victims, but do not mention women in conflict with the law as witnesses or perpetrators, nor protections for women offenders or women witnesses beyond victim-related testimony protections.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy includes a general non-discrimination principle (including ethnic culture and language), none of the passages specifically mention Indigenous peoples/groups (masyarakat adat) or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include repatriation assistance and safe houses for victims, but do not address refugees or forced displacement as a specific category, nor provide special measures targeted at refugees/forcibly displaced persons.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nSCOPE\nArticle 4\n(1) The Scope of gender-based violence includes: a. husband, wife, and child;\nb. people who have family relations with the persons as referred to in letter a due to blood relations, marriage, milk kinship, foster care, and guardianship, who reside in the household, and/or\nc. people who work assisting the household and reside in that household.\n(2) People who work assisting the household and reside in the household as referred to in paragraph (1) letter c are considered as family members for the duration of time while being in the household concerned.",
+      "rationale": "The scope explicitly includes people who work assisting the household and reside in that household, indicating the regulation covers domestic workers within the household context.",
+      "evidence_verified": true
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although safe houses/shelters are mentioned as part of victim protection, the passages do not address homelessness or women experiencing homelessness as a target group for special protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention former inmates/correctional institutions or provide protections specifically targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER XIII\nFINANCING\nArticle 26\nAll activities related to the implementation of protection for victims of gender-based violence and children shall be charged to the Regional Revenue and Expenditure Budget and/or other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that implementation activities are financed through the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention cooperation with the Government (national level), but do not specify that funding comes from the national government budget; financing is stated as coming from the regional budget and/or other legitimate sources without identifying a national budget source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages explicitly mention international organizations, foreign governments, UN agencies, development partners, or any international donor funding; financing is described only as regional budget and/or other legitimate sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER XIII\nFINANCING\nArticle 26\nAll activities related to the implementation of protection for victims of gender-based violence and children shall be charged to the Regional Revenue and Expenditure Budget and/or other legitimate sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The financing provision explicitly includes funding from \"other legitimate sources\" in accordance with laws and regulations, which constitutes other legal sources beyond the regional budget.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy mentions cooperation with the Provincial Government, it does not identify the provincial government budget as a funding source; the only explicit financing source is the regional budget and/or other legitimate sources.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

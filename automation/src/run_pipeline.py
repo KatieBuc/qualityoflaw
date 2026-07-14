@@ -11,7 +11,8 @@ if str(PROJECT_ROOT) not in sys.path:
 from automation.src.compare import run_comparison_step
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import ConcurrencyConfig, get_run_dir, load_pipeline_config
-from automation.src.constants import ALL_STEPS, DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG
+from automation.src.constants import DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG, DEFAULT_STEPS, VALID_STEPS
+from automation.src.diagnose import run_diagnosis_step
 from automation.src.failure_log import summarize_failures
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.metadata import (
@@ -29,17 +30,17 @@ from automation.src.translate import run_translation_step
 
 def parse_steps(steps_arg: str | None) -> list[str]:
     if not steps_arg:
-        return list(ALL_STEPS)
+        return list(DEFAULT_STEPS)
     steps = [s.strip().lower() for s in steps_arg.split(",") if s.strip()]
-    invalid = [s for s in steps if s not in ALL_STEPS]
+    invalid = [s for s in steps if s not in VALID_STEPS]
     if invalid:
-        raise ValueError(f"Invalid steps: {', '.join(invalid)}. Valid: {', '.join(ALL_STEPS)}")
+        raise ValueError(f"Invalid steps: {', '.join(invalid)}. Valid: {', '.join(VALID_STEPS)}")
     return steps
 
 
 def requires_run_id(steps: list[str], run_id: str | None) -> bool:
     eval_or_compare_only = (
-        any(step in steps for step in ("storage", "evaluation", "comparison"))
+        any(step in steps for step in ("storage", "evaluation", "comparison", "discrepancy_diagnosis"))
         and "translation" not in steps
     )
     return run_id is None and eval_or_compare_only
@@ -49,8 +50,10 @@ def build_config_summary(config) -> dict:
     return {
         "translation_model": config.translation_model.name,
         "evaluation_model": config.evaluation_model.name,
+        "discrepancy_diagnosis_model": config.discrepancy_diagnosis_model.name,
         "translation_prompt_version": config.translation_prompt_path.parent.name,
         "evaluation_prompt_version": config.evaluation_criteria_dir.name,
+        "discrepancy_diagnosis_prompt_version": config.discrepancy_diagnosis_template_path.parent.name,
         "concurrency": {
             "enabled": config.concurrency.enabled,
             "max_workers": config.concurrency.max_workers,
@@ -104,7 +107,10 @@ def main() -> None:
     parser.add_argument(
         "--steps",
         default=None,
-        help="Comma-separated steps: translation, storage, evaluation, comparison (default: all).",
+        help=(
+            "Comma-separated steps: translation, storage, evaluation, comparison, "
+            "discrepancy_diagnosis (default: all)."
+        ),
     )
     parser.add_argument(
         "--run-id",
@@ -125,7 +131,7 @@ def main() -> None:
     parser.add_argument(
         "--allow-partial",
         action="store_true",
-        help="Save incomplete LLM evaluation reports.",
+        help="Save incomplete LLM evaluation or discrepancy diagnosis reports.",
     )
     parser.add_argument(
         "--keep-chunk-result",
@@ -358,6 +364,42 @@ def main() -> None:
             acc_str = f"{accuracy:.2%}" if accuracy is not None else "n/a"
             print(f"Comparison: accuracy {acc_str}, metrics at {result['metrics_path']}")
 
+        if "discrepancy_diagnosis" in steps:
+            print("\nStep: discrepancy_diagnosis")
+            wrapper = AzureLLMWrapper.from_profile(config.discrepancy_diagnosis_model, limiter=limiter)
+            result = run_diagnosis_step(
+                run_id=run_id,
+                config=config,
+                wrapper=wrapper,
+                limiter=limiter,
+                small_scale=args.small_scale,
+                allow_partial=args.allow_partial,
+                run_missing=args.run_missing,
+            )
+            update_metadata(
+                run_id,
+                execution_scope={"steps_executed": ["discrepancy_diagnosis"]},
+                file_counts={"discrepancy_diagnosis": result["counts"]},
+                timing_seconds={"discrepancy_diagnosis": result["elapsed_s"]},
+                token_usage={"discrepancy_diagnosis": result["token_usage"]},
+                failures=summarize_failures(run_id),
+            )
+            if result["counts"]["discrepancies_total"] == 0:
+                reason = result.get("skipped_reason", "no mismatches found by comparison")
+                print(f"Discrepancy diagnosis: nothing to diagnose ({reason})")
+            else:
+                skipped = result["counts"].get("skipped", 0)
+                skipped_str = f", {skipped} skipped" if skipped else ""
+                print(
+                    f"Discrepancy diagnosis: {result['counts']['succeeded']} succeeded, "
+                    f"{result['counts']['failed']} failed{skipped_str} "
+                    f"({result['counts']['discrepancies_total']} discrepancies)"
+                )
+                if result["failed_policies"]:
+                    print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
+                    if not args.allow_partial:
+                        exit_code = 1
+
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
         failure_summary = summarize_failures(run_id)
@@ -369,11 +411,16 @@ def main() -> None:
         )
 
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
-        if failure_summary["translation"] or failure_summary["evaluation"]:
+        if (
+            failure_summary["translation"]
+            or failure_summary["evaluation"]
+            or failure_summary["discrepancy_diagnosis"]
+        ):
             failures_path = get_run_dir(run_id) / "failures.json"
             print(
                 f"Failures logged: {failure_summary['translation']} translation, "
-                f"{failure_summary['evaluation']} evaluation → {failures_path}",
+                f"{failure_summary['evaluation']} evaluation, "
+                f"{failure_summary['discrepancy_diagnosis']} discrepancy_diagnosis → {failures_path}",
                 file=sys.stderr,
             )
 

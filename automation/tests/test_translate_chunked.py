@@ -31,13 +31,18 @@ RAW_POLICY_TEXT = (
 def chunked_pipeline_config(tmp_path):
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
+    diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
         evaluation_model=eval_model,
+        discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
+        discrepancy_diagnosis_template_path=(
+            AUTOMATION_ROOT / "prompts" / "discrepancy_diagnosis" / "v1" / "prompt_template.txt"
+        ),
         paths=PipelinePaths(
             input_dir=tmp_path / "input",
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",

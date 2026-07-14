@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_TIMUR_MANGGARAI_BARAT.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T11:02:27.356505+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Article 3\nThe purpose of this Service and Protection for Women and Children Victims of Violence is to provide services and protection for women and children victims of violence that is based on gender and the best interests of the child that occurs in the household and or public.",
+      "rationale": "The policy’s purpose explicitly covers violence occurring in the household, which constitutes domestic violence within the scope of services and protection for women and children victims.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is West Manggarai Regency.\n2. Regional Government is the Government of West Manggarai Regency.\n3. Regent is the Regent of West Manggarai.\n4. Woman is a person who has reproductive organs that can experience menstruation, pregnancy, childbirth and breastfeeding.\n5. Child is a person who has not reached 18 years of age, including a child in the womb.\n6. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n7. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness or causes death.\n8. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n9. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n10. Economic violence is neglect of family members in the form of not providing a proper standard of living care and maintenance.\n11. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\nwww.jdih.manggaraibaratkab.go.id\n12. Services for women and children are actions that must be immediately carried out including protection provided to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the Community, the Police, the Prosecutor's Office, Courts, social institutions or other parties who know or hear of impending or occurred violence against women.\n14. Protection of children is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n16. Women and Children Service Center hereinafter abbreviated as P3A is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.\n17. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n18. Community is individuals, families, groups, social organizations and or community organizations.\n19. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, or mother and her children.\nwww.jdih.manggaraibaratkab.go.id\n20. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines “sexual violence,” indicating that sexual violence is included within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is West Manggarai Regency.\n2. Regional Government is the Government of West Manggarai Regency.\n3. Regent is the Regent of West Manggarai.\n4. Woman is a person who has reproductive organs that can experience menstruation, pregnancy, childbirth and breastfeeding.\n5. Child is a person who has not reached 18 years of age, including a child in the womb.\n6. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n7. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness or causes death.\n8. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n9. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n10. Economic violence is neglect of family members in the form of not providing a proper standard of living care and maintenance.\n11. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\nwww.jdih.manggaraibaratkab.go.id\n12. Services for women and children are actions that must be immediately carried out including protection provided to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the Community, the Police, the Prosecutor's Office, Courts, social institutions or other parties who know or hear of impending or occurred violence against women.\n14. Protection of children is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n16. Women and Children Service Center hereinafter abbreviated as P3A is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.\n17. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n18. Community is individuals, families, groups, social organizations and or community organizations.\n19. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, or mother and her children.\nwww.jdih.manggaraibaratkab.go.id\n20. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines “physical violence,” demonstrating that physical violence is included within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is West Manggarai Regency.\n2. Regional Government is the Government of West Manggarai Regency.\n3. Regent is the Regent of West Manggarai.\n4. Woman is a person who has reproductive organs that can experience menstruation, pregnancy, childbirth and breastfeeding.\n5. Child is a person who has not reached 18 years of age, including a child in the womb.\n6. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n7. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness or causes death.\n8. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n9. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n10. Economic violence is neglect of family members in the form of not providing a proper standard of living care and maintenance.\n11. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\nwww.jdih.manggaraibaratkab.go.id\n12. Services for women and children are actions that must be immediately carried out including protection provided to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the Community, the Police, the Prosecutor's Office, Courts, social institutions or other parties who know or hear of impending or occurred violence against women.\n14. Protection of children is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n16. Women and Children Service Center hereinafter abbreviated as P3A is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.\n17. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n18. Community is individuals, families, groups, social organizations and or community organizations.\n19. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, or mother and her children.\nwww.jdih.manggaraibaratkab.go.id\n20. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines “psychological violence,” indicating that psychological violence is included within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is West Manggarai Regency.\n2. Regional Government is the Government of West Manggarai Regency.\n3. Regent is the Regent of West Manggarai.\n4. Woman is a person who has reproductive organs that can experience menstruation, pregnancy, childbirth and breastfeeding.\n5. Child is a person who has not reached 18 years of age, including a child in the womb.\n6. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n7. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness or causes death.\n8. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\n9. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and or certain purposes.\n10. Economic violence is neglect of family members in the form of not providing a proper standard of living care and maintenance.\n11. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\nwww.jdih.manggaraibaratkab.go.id\n12. Services for women and children are actions that must be immediately carried out including protection provided to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the Community, the Police, the Prosecutor's Office, Courts, social institutions or other parties who know or hear of impending or occurred violence against women.\n14. Protection of children is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n15. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n16. Women and Children Service Center hereinafter abbreviated as P3A is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.\n17. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n18. Community is individuals, families, groups, social organizations and or community organizations.\n19. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, or mother and her children.\nwww.jdih.manggaraibaratkab.go.id\n20. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) who live and eat from one kitchen and reside in one house.",
+      "rationale": "The policy explicitly defines “economic violence” as neglect of family members in terms of not providing proper living care and maintenance, covering economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention or address harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss violence against women and children generally but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly mention human trafficking or define it as a form of violence covered by the policy.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence is defined, the provided passages do not explicitly address sexual exploitation/sexual slavery as a distinct issue or category.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate passages do not mention online/digital/technology-facilitated forms of violence or related mechanisms; they only address violence generally.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe responsibilities of the regional government and partnerships/cooperation with community elements, social institutions, and customary functionaries, but do not indicate coordination or cooperation with governments across jurisdictions (e.g., other regencies/provinces/national or cross-border governmental coordination).",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The Regent establishes a public service work unit that functions as a facilitator for P3A.\n(2) P3A as referred to in paragraph (1) in handling services and protection for women and children victims of violence may establish partnerships with social community institutions and customary functionaries engaged in the field of services and protection for women and children.\n(3) Further provisions regarding P3A institutions shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly allows P3A to establish partnerships with social community institutions and customary functionaries, which constitutes a cooperation mechanism with non-government actors/service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy assigns the regional government responsibility for collecting data and information about women and children victims of violence, indicating an explicit data collection function/system.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the passages mention gender-based violence and principles such as gender justice and gender equality, they do not mention institutionalizing gender mainstreaming or establishing a gender mainstreaming working group/mechanism to deliver VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss education/socialization to the public and service provision mechanisms, but do not specify training or capacity building for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy explicitly includes “monitoring and evaluation of the implementation of services and protection” as a responsibility of the regional government, covering M&E of implementation and service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Article 4\n- What is meant by \"receiving protection\" is obtaining protection from individuals, groups or institutions, both Government and Non-Government.\n- Obtaining information about the location of complaint centers, Women and Children Service Centers (P3A) and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and development of case handling.\nwww.jdih.manggaraibaratkab.go.id - What is meant by \"Integrated Services\" is services that include medical, medicolegal, psychosocial and legal.\n- What is meant by \"Continuous Handling\" is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of their good name.",
+      "rationale": "The policy defines “Integrated Services” and describes them as a package of medical, medicolegal, psychosocial, and legal services, indicating an integrated service unit/model for VAW services.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions the Police among parties involved in protection, none of the provided passages establish or describe a specialised police service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 4\n- What is meant by \"receiving protection\" is obtaining protection from individuals, groups or institutions, both Government and Non-Government.\n- Obtaining information about the location of complaint centers, Women and Children Service Centers (P3A) and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and development of case handling.\nwww.jdih.manggaraibaratkab.go.id - What is meant by \"Integrated Services\" is services that include medical, medicolegal, psychosocial and legal.\n- What is meant by \"Continuous Handling\" is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of their good name.",
+      "rationale": "The passages refer to “complaint centers” and provide for victims obtaining information about the location of complaint centers and P3A, implying an institutional channel for receiving complaints/reports.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The forms of services and protection for victims organized by P3A consist of: www.jdih.manggaraibaratkab.go.id\na. Medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical service for evidentiary purposes in the legal field;\nc. Psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have self-confidence, strength and independence in resolving their problems;\nd. Legal services to assist victims in undergoing the judicial process;\ne. Economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Further provisions regarding the mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes provision of “safe houses” as part of psychosocial services organized by P3A to protect victims from threats and intimidation.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The forms of services and protection for victims organized by P3A consist of: www.jdih.manggaraibaratkab.go.id\na. Medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical service for evidentiary purposes in the legal field;\nc. Psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have self-confidence, strength and independence in resolving their problems;\nd. Legal services to assist victims in undergoing the judicial process;\ne. Economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Further provisions regarding the mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy lists “Legal services to assist victims in undergoing the judicial process” as a form of service and protection organized by P3A.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The forms of services and protection for victims organized by P3A consist of: www.jdih.manggaraibaratkab.go.id\na. Medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical service for evidentiary purposes in the legal field;\nc. Psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have self-confidence, strength and independence in resolving their problems;\nd. Legal services to assist victims in undergoing the judicial process;\ne. Economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Further provisions regarding the mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy specifies that P3A provides medical services, including treatment and recovery of physical injuries, delivered by medical personnel and paramedics.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The forms of services and protection for victims organized by P3A consist of: www.jdih.manggaraibaratkab.go.id\na. Medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical service for evidentiary purposes in the legal field;\nc. Psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have self-confidence, strength and independence in resolving their problems;\nd. Legal services to assist victims in undergoing the judicial process;\ne. Economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Further provisions regarding the mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy includes psychosocial services organized by P3A to restore victims’ traumatic condition, which encompasses psychosocial support/counselling-type interventions.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention religious or spiritual counselling/services; assistance is described generally (counseling/therapy/advocacy) without specifying religious/spiritual support.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 4\n- What is meant by \"receiving protection\" is obtaining protection from individuals, groups or institutions, both Government and Non-Government.\n- Obtaining information about the location of complaint centers, Women and Children Service Centers (P3A) and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and development of case handling.\nwww.jdih.manggaraibaratkab.go.id - What is meant by \"Integrated Services\" is services that include medical, medicolegal, psychosocial and legal.\n- What is meant by \"Continuous Handling\" is handling that does not only stop at physical and psychological healing, but until the victim can resume their life in society including restoration of their good name.",
+      "rationale": "The policy defines “Continuous Handling” as extending beyond physical and psychological healing until the victim can resume life in society, which corresponds to reintegration/resocialisation.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 8\n(1) The forms of services and protection for victims organized by P3A consist of: www.jdih.manggaraibaratkab.go.id\na. Medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical service for evidentiary purposes in the legal field;\nc. Psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide social support so that victims have self-confidence, strength and independence in resolving their problems;\nd. Legal services to assist victims in undergoing the judicial process;\ne. Economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Further provisions regarding the mechanism of services and protection as referred to in paragraph (1) shall be organized according to Standard Operational Procedures (SOP) which will be further regulated by Regent Regulation.",
+      "rationale": "The policy explicitly includes “Economic independence services” such as skills training and providing economic access so victims can be independent.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy assigns the Regional Government responsibility for prevention efforts including conducting education on anti-violence values toward women and children, which constitutes information/education as primary prevention of violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines gender justice and gender equality and mentions respect for victims' rights, the retrieved passages do not explicitly describe providing information/education activities specifically about gender equality or women’s rights as a prevention measure (education mentioned is framed as anti-violence values and socialization of laws).",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy includes prevention efforts through conducting socialization of laws and regulations related to protection for women and children victims of violence, which is information/education about relevant VAW laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy explicitly includes prevention efforts via conducting education on anti-violence values toward women and children, which is prevention through education.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The Regent establishes a public service work unit that functions as a facilitator for P3A.\n(2) P3A as referred to in paragraph (1) in handling services and protection for women and children victims of violence may establish partnerships with social community institutions and customary functionaries engaged in the field of services and protection for women and children.\n(3) Further provisions regarding P3A institutions shall be regulated by Regent Regulation.",
+      "rationale": "The policy states that P3A may establish partnerships with social community institutions, which constitutes collaboration with civil society/NGO-type organizations.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention religious organizations or religious leaders, nor do they clearly imply collaboration with them as a distinct stakeholder group.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "Article 7\n(1) The Regent establishes a public service work unit that functions as a facilitator for P3A.\n(2) P3A as referred to in paragraph (1) in handling services and protection for women and children victims of violence may establish partnerships with social community institutions and customary functionaries engaged in the field of services and protection for women and children.\n(3) Further provisions regarding P3A institutions shall be regulated by Regent Regulation.",
+      "rationale": "The policy explicitly allows P3A to partner with customary functionaries, which are traditional/cultural leaders or structures.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions conducting education on anti-violence values, the provided passages do not indicate engagement or partnerships with educational institutions (schools, universities, etc.).",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages do not reference international organizations, international assistance, or cross-border support mechanisms for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages mention media entities or collaboration with media for prevention, awareness, or service delivery.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "CHAPTER III\nRESPONSIBILITIES\nArticle 4\n(1) The Regional Government is responsible for implementing prevention efforts against the occurrence of violence in the form of:\na. Collecting data and information about women and children victims of violence in accordance with Laws and Regulations;\nwww.jdih.manggaraibaratkab.go.id\nb. Conducting education on anti-violence values towards women and children;\nc. Conducting socialization of Laws and Regulations related to the implementation of protection for women and children victims of violence;\nd. Conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence;\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides and organizes services for victims in the form of: a. Establishing and facilitating the operation of integrated service institutions for victims by involving community elements; b. Encouraging community awareness of the importance of protection for victims.\n(3) The Regional Government in providing and organizing services as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+      "rationale": "The policy states that the Regional Government establishes and facilitates integrated service institutions by involving community elements and encourages community awareness, indicating community engagement.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention the private sector, businesses, employers, or any partnership/engagement mechanism specifically involving business actors.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages discuss services and protection for women and children victims of violence generally (including rights, responsibilities, and service centers), but do not mention conflict settings, disasters, or disaster-prone areas, nor any special measures tailored to such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages define and regulate services/protection for women and children victims of violence in household/public contexts, but do not explicitly mention human trafficking or provide trafficking-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages specifically reference women workers/employees or workplace-related protections; they address women and children victims of violence in general.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention elderly women or age-specific protections; they focus on women (generally defined) and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although one passage mentions services being 'easily accessible' and 'non-discriminatory,' there is no explicit reference to disability or special protection measures targeted at women with disabilities or persons with disabilities.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention women heads of household/families or provide targeted measures for them; they address victims’ rights and general service provision.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general non-discrimination language but do not identify minority/isolated women as a specific target group or set out special protection measures for them.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to legal assistance for victims of violence, but do not specifically address women in conflict with the law as witnesses or perpetrators, nor protections tailored to those roles.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No passage mentions Indigenous peoples/groups (masyarakat adat) or provides special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention refugees, internally displaced persons, or forced displacement contexts, nor any special protection measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no specific mention of domestic workers or protections tailored to domestic work; the text focuses on general services for women and children victims of violence.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention homelessness or housing insecurity as a target condition; while 'safe house' is defined as temporary residence for victims, it is not framed as protection for homeless women specifically.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the passages mention former inmates/correctional institutions or provide special protection measures for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 12\n(1) Funds for the implementation of services and protection for women and children victims of violence are sourced from the Regional Revenue and Expenditure Budget (APBD) of the Regency.\n(2) funds as referred to in paragraph (1) may also come from other legitimate sources.",
+      "rationale": "The policy explicitly states that implementation funds are sourced from the Regency’s Regional Revenue and Expenditure Budget (APBD), which is a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss general government responsibility and specify funding from the Regency APBD plus other legitimate sources, but do not explicitly mention the national government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy allows funding from “other legitimate sources,” none of the passages explicitly mention international donors, foreign governments, UN agencies, or other international funding support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nFUNDING\nArticle 12\n(1) Funds for the implementation of services and protection for women and children victims of violence are sourced from the Regional Revenue and Expenditure Budget (APBD) of the Regency.\n(2) funds as referred to in paragraph (1) may also come from other legitimate sources.",
+      "rationale": "Beyond the Regency APBD, the policy explicitly allows funding to also come from “other legitimate sources,” which constitutes other legal sources of funding.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The only explicit budget source identified is the Regency APBD; the passages do not explicitly mention the provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

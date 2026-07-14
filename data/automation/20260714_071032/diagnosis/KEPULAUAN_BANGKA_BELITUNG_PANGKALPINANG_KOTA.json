@@ -1,0 +1,672 @@
+{
+  "diagnoses": {
+    "1.8": {
+      "indicator": "Human trafficking",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+      "evaluator_rationale": "The objectives explicitly include providing protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "Article 5\nEvery female victim of violence has: a. the right to have her dignity and worth as a human being respected;\nb. the right to health and psychological recovery from the suffering experienced by the Victim;\nc. the right to determine her own decisions;\nd. the right to obtain information;\ne. the right to confidentiality;\nf. the right to compensation;\ng. the right to social rehabilitation;\nh. the right to complaint handling;\ni. the right of the Victim and her family to obtain facilitation in the judicial process; and j. the right to assistance.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The implementation of protection for female domestic workers is in order to provide protection and prevention against forms of discrimination, cruel treatment, inhumane treatment, degradation of human dignity and exploitation in employment relationships.\n(2) Female domestic workers as referred to in paragraph (1) receive protection for: a. recognition of rights, wages and decent working conditions; b. health insurance and social security for employment; c. access to information and legal consultation services; and d. opportunities to obtain knowledge and skills to improve economic status.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 22\n(1) The implementation of protection for women with disabilities in the context of providing protection and prevention against forms of discrimination includes, among others, freedom from cruel treatment, inhuman treatment, degrading human dignity and freedom from exploitation.\n(2) Women with disabilities as referred to in paragraph (1) shall receive the right to protection for:\na. guarantee of continuity and personal self-development;\nb. participation in the fields of education, health, employment, politics, sports, arts and culture as well as utilization of information and communication technology;\nc. accessibility to information, legal assistance, mobility, social services; and\nd. early intervention efforts including treatment and rehabilitation for the improvement of their functions and capacities.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 17\nThe Mayor in implementing policies, programs and activities for the protection of women undertakes efforts to: a. coordinate the implementation of policies, programs, and activities for the protection of women among regional apparatus; b. cooperate with regencies/cities within one province and cooperate among regencies/cities in other provinces in the implementation of policy programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen the institutional capacity of gender mainstreaming for the implementation of policy programs and activities for the protection of women;\nd. facilitate services for the protection of women; e. provide services for the protection of women; f. implement affirmative action for the protection of women; and g. formulate a data system for the protection of women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 23\n(1) The implementation of protection for homeless women is in the context of providing protection and prevention against forms of violence caused by the absence of shelter or permanent residence.\n(2) Homeless women as referred to in paragraph (1) receive the right to protection for:\na. decent housing;\nb. health and social security;\nc. population administration registration;\nd. opportunities to obtain skills to improve economic status; and\ne. access to information and legal consultation services.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 2 ayat (2) huruf c explicitly states the objective includes providing protection and security for women victims of violence/discrimination \"serta tindak pidana perdagangan orang\" (criminal acts of human trafficking). That is a direct mention of trafficking within the regulation’s scope/objectives. The retrieved English passage accurately reflects this. Therefore a “Yes” is supported by the source text, and the golden “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "1.9": {
+      "indicator": "Sexual slavery / exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+      "evaluator_rationale": "The policy’s definition of sexual violence includes forced intercourse with another person for commercial purposes, which constitutes sexual exploitation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 5\nEvery female victim of violence has: a. the right to have her dignity and worth as a human being respected;\nb. the right to health and psychological recovery from the suffering experienced by the Victim;\nc. the right to determine her own decisions;\nd. the right to obtain information;\ne. the right to confidentiality;\nf. the right to compensation;\ng. the right to social rehabilitation;\nh. the right to complaint handling;\ni. the right of the Victim and her family to obtain facilitation in the judicial process; and j. the right to assistance.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The implementation of protection for female domestic workers is in order to provide protection and prevention against forms of discrimination, cruel treatment, inhumane treatment, degradation of human dignity and exploitation in employment relationships.\n(2) Female domestic workers as referred to in paragraph (1) receive protection for: a. recognition of rights, wages and decent working conditions; b. health insurance and social security for employment; c. access to information and legal consultation services; and d. opportunities to obtain knowledge and skills to improve economic status.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 17\nThe Mayor in implementing policies, programs and activities for the protection of women undertakes efforts to: a. coordinate the implementation of policies, programs, and activities for the protection of women among regional apparatus; b. cooperate with regencies/cities within one province and cooperate among regencies/cities in other provinces in the implementation of policy programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen the institutional capacity of gender mainstreaming for the implementation of policy programs and activities for the protection of women;\nd. facilitate services for the protection of women; e. provide services for the protection of women; f. implement affirmative action for the protection of women; and g. formulate a data system for the protection of women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 22\n(1) The implementation of protection for women with disabilities in the context of providing protection and prevention against forms of discrimination includes, among others, freedom from cruel treatment, inhuman treatment, degrading human dignity and freedom from exploitation.\n(2) Women with disabilities as referred to in paragraph (1) shall receive the right to protection for:\na. guarantee of continuity and personal self-development;\nb. participation in the fields of education, health, employment, politics, sports, arts and culture as well as utilization of information and communication technology;\nc. accessibility to information, legal assistance, mobility, social services; and\nd. early intervention efforts including treatment and rehabilitation for the improvement of their functions and capacities.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The provision for women in the health sector as referred to in Article 8 letter f health services in order to undergo reproductive life and sexual life that is healthy, safe and free from coercion and/or violence.\n(2) Health services as referred to in paragraph (1) include:\na. health services during the period before pregnancy, during pregnancy, childbirth period and after giving birth; b. pregnancy regulation, contraceptive services and sexual health; and\nc. reproductive health services.\n(3) Health services as referred to in paragraph (1) are implemented through promotive, preventive, curative and rehabilitative approaches.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 8,
+          "text": "Third Part\nRights of Women Victims of Violence",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian Pasal 30 ayat (3) defines sexual violence to include \"pemaksaan hubungan dengan orang lain untuk tujuan komersial dan/atau tujuan tertentu\" (forcing intercourse with another person for commercial and/or certain purposes). This is reasonably categorized as sexual exploitation/sexual slavery-type conduct. The retrieved English passage contains this definition, and the judge’s inference is consistent with the Indonesian text. Thus the golden label “No” likely mis-coded the indicator.",
+      "diagnosis_status": "ok"
+    },
+    "3.3": {
+      "indicator": "Reporting / hotline",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text references community participation through complaints/reports and reporting to law enforcement, it does not establish or identify a specific service unit (or hotline) designated to receive reports or complaints of violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) Every female victim of violence has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions, the City Government and the community.\n(2) In the event of violence, every victim has the right to obtain health services and assistance, both psychologically and legally, and to obtain guarantees of their rights related to their status as a woman.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 23\n(1) The implementation of protection for homeless women is in the context of providing protection and prevention against forms of violence caused by the absence of shelter or permanent residence.\n(2) Homeless women as referred to in paragraph (1) receive the right to protection for:\na. decent housing;\nb. health and social security;\nc. population administration registration;\nd. opportunities to obtain skills to improve economic status; and\ne. access to information and legal consultation services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 42,
+          "text": "CHAPTER VII\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nPart One\nGeneral",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text provides an explicit reporting/complaint mechanism: Pasal 5 huruf h grants victims \"hak atas penanganan pengaduan\" (right to complaint handling), and Pasal 36 ayat (3) includes community participation in the form of \"pengaduan/laporan\" (complaints/reports). While it does not name a hotline number, the indicator is “Reporting / hotline” and the regulation does recognize/reporting and complaint handling channels. The retrieved passages included Pasal 36 (complaints/reports) and other victim-service provisions; the judge was too strict by requiring a specific unit/hotline. Given the golden label is Yes, and the regulation does provide for complaints/reports, the golden label seems defensible and the judge’s “No” is not. However since the golden is Yes and the judge said No despite relevant text being present, this is best treated as evaluation failure? But the judge’s rationale hinges on hotline specificity; if the coding rubric counts any reporting/complaint channel as Yes, then the judge erred. Therefore: evaluation_failure.",
+      "diagnosis_status": "ok"
+    },
+    "3.8": {
+      "indicator": "Religious / spiritual counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+      "evaluator_rationale": "The policy mentions provision of spiritual counselors as part of protection efforts, indicating availability of religious/spiritual counseling support.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 32\n(1) Forms of protection against violence toward women include:\na. medical protection;\nb. legal protection;\nc. medico legal protection (forensic medicine); d. economic protection; and\ne. psychological protection.\n(2) The form of medical protection as referred to in paragraph (1) letter a is in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of the victim carried out by medical personnel and paramedics.\n(3) The form of legal protection as referred to in paragraph (1) letter b is in the form of services and assistance to help victims undergo legal and judicial processes.\n(4) The form of medico legal protection as referred to in paragraph (1) letter c is in the form of medical services for the purposes of evidence in the field of law.\n(5) The form of economic protection as referred to in paragraph (1) letter d is in the form of services for skills and to provide economic access so that victims of violence can be independent.\n(6) The form of psychological protection as referred to in paragraph (1) letter e is in the form of psychological support so that victims have self-confidence, strength and independence in problem solving through assistance in order to restore the traumatic condition of victims including the provision of safe houses to protect victims from various threats and intimidation for victims.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The provision for women in the health sector as referred to in Article 8 letter f health services in order to undergo reproductive life and sexual life that is healthy, safe and free from coercion and/or violence.\n(2) Health services as referred to in paragraph (1) include:\na. health services during the period before pregnancy, during pregnancy, childbirth period and after giving birth; b. pregnancy regulation, contraceptive services and sexual health; and\nc. reproductive health services.\n(3) Health services as referred to in paragraph (1) are implemented through promotive, preventive, curative and rehabilitative approaches.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) Every female victim of violence has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions, the City Government and the community.\n(2) In the event of violence, every victim has the right to obtain health services and assistance, both psychologically and legally, and to obtain guarantees of their rights related to their status as a woman.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 19\n(1) Women have the right to obtain special protection from matters that threaten their safety and or health.\n(2) Special protection is given to women because their reproductive function is guaranteed and protected by law.\n(3) The City Regional Government facilitates health protection in accordance with regional financial capacity.\n(4) The form of health protection for women as referred to in paragraph (3) shall be further regulated in a Mayoral Regulation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 27\n(1) Implementation of protection for women victims of disaster in the context of providing protection during disaster and post-disaster.\n(2) Women victims of disaster as referred to in paragraph (1) receive protection for:\na. access to proper shelter;\nb. health services;\nc. information access services and legal consultation; and d. post-disaster recovery",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Pasal 33 huruf f in Indonesian explicitly mentions provision of \"pembimbing rohani\" (spiritual/religious counselors) as part of protection efforts. That is direct evidence of religious/spiritual counseling support being contemplated. The English translation matches this. Therefore the judge’s “Yes” is supported by the source text, and the golden “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+      "evaluator_rationale": "The policy states principles and objectives that include gender equality and justice and guaranteeing fulfillment of women's rights, indicating an explicit focus on gender equality/women’s rights as part of empowerment and protection.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nThe implementation of women's empowerment in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nEmpowerment of women in the social and cultural field as referred to in Article 8 letter b shall be implemented through:\na. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\nThe implementation of women's empowerment in the field of education as referred to in Article 8 letter e through:\na. implementation of formal and non-formal education; b. formal education as referred to in letter a is as regulated by the government; and c. non-formal education as referred to in letter a includes women's empowerment education, skills education and job training.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "Third Part\nRights of Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 12,
+          "text": "CHAPTER V\nWOMEN'S EMPOWERMENT\nArticle 8\nWomen's empowerment is directed to obtain opportunities and rights as human beings in order to be able to play a role and participate in the fields of:\na. economy;\nb. social culture;\nc. politics and government;\nd. law;\ne. education;\nf. health;\ng. employment; and\nh. social security.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The indicator is specifically “Gender equality education.” In the Indonesian text, Pasal 2 sets principles/objectives including \"kesetaraan dan keadilan gender\" (gender equality and justice), but that is not an education measure. The retrieved passages that actually mention “education” are Pasal 29(1)(b) (education on anti-violence values) and Pasal 13 (women’s empowerment education, skills/job training). None explicitly require education/curricula on gender equality itself. The judge relied on Pasal 2 (principles/objectives) to answer Yes, which is a category error: values/aims ≠ gender-equality education programming. So the judge over-inferred from general principles; the golden “No” aligns with the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 13\nThe implementation of women's empowerment in the field of education as referred to in Article 8 letter e through:\na. implementation of formal and non-formal education; b. formal education as referred to in letter a is as regulated by the government; and c. non-formal education as referred to in letter a includes women's empowerment education, skills education and job training.",
+      "evaluator_rationale": "The policy provides for implementation of women’s empowerment in education through formal and non-formal education (including empowerment education, skills education, and job training), which addresses prevention through education and improving educational provision.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nEmpowerment of women in the social and cultural field as referred to in Article 8 letter b shall be implemented through:\na. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.03200204813108039
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\nThe implementation of women's empowerment in the field of education as referred to in Article 8 letter e through:\na. implementation of formal and non-formal education; b. formal education as referred to in letter a is as regulated by the government; and c. non-formal education as referred to in letter a includes women's empowerment education, skills education and job training.",
+          "score": 0.03128054740957967
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 23\n(1) The implementation of protection for homeless women is in the context of providing protection and prevention against forms of violence caused by the absence of shelter or permanent residence.\n(2) Homeless women as referred to in paragraph (1) receive the right to protection for:\na. decent housing;\nb. health and social security;\nc. population administration registration;\nd. opportunities to obtain skills to improve economic status; and\ne. access to information and legal consultation services.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 24,
+          "text": "Second Part\nHealth Protection",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nEvery woman with disability, has the right to obtain:\na. education in all units, pathways, types, and levels of education;\nb. decent work and livelihood in accordance with the type and degree of disability, education, and ability;\nc. equal treatment to play a role in development and enjoy its results;\nd. accessibility in the context of independence; e. rehabilitation, social assistance, and maintenance of social welfare standards; and\nf. equal rights to develop talents, abilities, and social life.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nThe implementation of women's empowerment in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The indicator is “Prevention through education” (in a violence-prevention sense). The Indonesian Pasal 13 discusses implementing women’s empowerment in education (formal/non-formal; empowerment education, skills training, job training). That is empowerment/education access, not necessarily prevention of violence. While Pasal 29(1)(b) does mention \"melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan\" (education on anti-violence values), the judge cited Pasal 13 instead and treated general education/skills training as prevention. Given the golden label is No, the likely intended rubric is prevention education specifically (e.g., anti-violence/gender norms), and Pasal 13 alone doesn’t meet it. Thus the judge’s reasoning was too lenient/misaligned with the indicator.",
+      "diagnosis_status": "ok"
+    },
+    "5.2": {
+      "indicator": "Religious engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions community participation and includes provision of spiritual counselors, none of the provided passages explicitly or implicitly describe engagement/collaboration with religious organizations or religious leaders as stakeholders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The provision for women in the health sector as referred to in Article 8 letter f health services in order to undergo reproductive life and sexual life that is healthy, safe and free from coercion and/or violence.\n(2) Health services as referred to in paragraph (1) include:\na. health services during the period before pregnancy, during pregnancy, childbirth period and after giving birth; b. pregnancy regulation, contraceptive services and sexual health; and\nc. reproductive health services.\n(3) Health services as referred to in paragraph (1) are implemented through promotive, preventive, curative and rehabilitative approaches.",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.030330882352941176
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nIn implementing policies, programs and activities for the empowerment and protection of women, the City Government may cooperate with the community/community institutions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Third Part\nForms of Violence and Protection",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) Every female victim of violence has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions, the City Government and the community.\n(2) In the event of violence, every victim has the right to obtain health services and assistance, both psychologically and legally, and to obtain guarantees of their rights related to their status as a woman.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The golden label says the policy engages religious stakeholders, but in the provided Indonesian text the only religion-adjacent element is Pasal 33 huruf f mentioning \"pembimbing rohani\" (spiritual counselors) as personnel that may be provided. There is no explicit statement of collaboration/engagement with religious leaders/organizations (tokoh agama/organisasi keagamaan) in the text shown. The retrieved passages also do not contain such engagement language. If the golden coder treated “pembimbing rohani” as religious engagement, that would be a coding interpretation issue; but based strictly on stakeholder engagement wording, it is not clearly present. Since the judge had no passage explicitly about engagement and the Indonesian text (as provided) also lacks it, the most plausible cause is golden_label_issue (golden Yes seems unsupported).",
+      "diagnosis_status": "ok"
+    },
+    "5.4": {
+      "indicator": "Education institutions engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The passages discuss implementing formal and non-formal education and women’s empowerment in education, but do not mention collaboration/engagement with education institutions (including universities) as stakeholders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nEmpowerment of women in the social and cultural field as referred to in Article 8 letter b shall be implemented through:\na. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\nThe implementation of women's empowerment in the field of education as referred to in Article 8 letter e through:\na. implementation of formal and non-formal education; b. formal education as referred to in letter a is as regulated by the government; and c. non-formal education as referred to in letter a includes women's empowerment education, skills education and job training.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nEvery woman with disability, has the right to obtain:\na. education in all units, pathways, types, and levels of education;\nb. decent work and livelihood in accordance with the type and degree of disability, education, and ability;\nc. equal treatment to play a role in development and enjoy its results;\nd. accessibility in the context of independence; e. rehabilitation, social assistance, and maintenance of social welfare standards; and\nf. equal rights to develop talents, abilities, and social life.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The provision for women in the health sector as referred to in Article 8 letter f health services in order to undergo reproductive life and sexual life that is healthy, safe and free from coercion and/or violence.\n(2) Health services as referred to in paragraph (1) include:\na. health services during the period before pregnancy, during pregnancy, childbirth period and after giving birth; b. pregnancy regulation, contraceptive services and sexual health; and\nc. reproductive health services.\n(3) Health services as referred to in paragraph (1) are implemented through promotive, preventive, curative and rehabilitative approaches.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nIn implementing policies, programs and activities for the empowerment and protection of women, the City Government may cooperate with the community/community institutions.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nThe implementation of women's empowerment in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) Every female victim of violence has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions, the City Government and the community.\n(2) In the event of violence, every victim has the right to obtain health services and assistance, both psychologically and legally, and to obtain guarantees of their rights related to their status as a woman.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.015873015873015872
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The golden label claims engagement with education institutions. In the Indonesian text, Pasal 13 regulates implementation of formal and non-formal education, and Pasal 10 encourages fulfillment of education, but there is no explicit mention of partnering/engaging with schools, universities, or educational institutions as stakeholders. Pasal 7 allows cooperation with \"masyarakat/lembaga masyarakat\" (community/community institutions) generally, but that is not specific to education institutions. The retrieved passages likewise lack explicit engagement language. Therefore the judge’s “No” matches the source text, suggesting the golden “Yes” is likely incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "5.8": {
+      "indicator": "Private sector engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although funding may come from environmental social responsibility and the policy discusses economic empowerment, none of the passages explicitly or implicitly describe stakeholder engagement/collaboration with businesses or the private sector for services or prevention.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The provision for women in the health sector as referred to in Article 8 letter f health services in order to undergo reproductive life and sexual life that is healthy, safe and free from coercion and/or violence.\n(2) Health services as referred to in paragraph (1) include:\na. health services during the period before pregnancy, during pregnancy, childbirth period and after giving birth; b. pregnancy regulation, contraceptive services and sexual health; and\nc. reproductive health services.\n(3) Health services as referred to in paragraph (1) are implemented through promotive, preventive, curative and rehabilitative approaches.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) The City Government is obligated and responsible to implement efforts to prevent the occurrence of violence against women in the form of: a. collecting data and information about victims of violence and laws and regulations; b. conducting education on anti-violence values against women;\nc. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for victims of violence; and\ne. preparing reports on the implementation of protection for women victims of violence.\n(2) To anticipate the occurrence of acts of violence against women, the City Government is obligated to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims.\n(3) The City Government in carrying out its obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians or other persons who are legally responsible for the victim.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 36\n(1) The community may participate in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. cooperation;\nb. active role in policy formulation; and c. complaints/reports.\n(4) The obligations and responsibilities of the community in the protection of women shall be implemented through activities:\na. preventing the occurrence of criminal acts;\nb. providing protection to victims;\nc. providing emergency assistance;\nd. assisting in the process of submitting applications for protection orders; and\ne. providing information or reporting the occurrence of criminal acts of violence to law enforcement officials.\n(5) Further provisions regarding community participation as referred to in paragraph (3) shall be regulated in a Mayoral Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 24,
+          "text": "Second Part\nHealth Protection",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Forms of violence against women include: a. physical violence;\nb. sexual violence;\nc. economic violence; and\nd. psychological violence.\n(2) The form of physical violence as referred to in paragraph (1) letter a is any act that results in pain, injury, wounds or disability to a person's body, unconsciousness and or causes death.\n(3) The form of sexual violence as referred to in paragraph (1) letter b is in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced intercourse with another person for commercial purposes and/or specific purposes.\n(4) The form of economic violence as referred to in paragraph (1) letter c is in the form of neglect of women in the form of not providing proper livelihood, care or maintenance.\n(5) The form of psychological violence as referred to in paragraph (1) letter d is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.\n(6) Every woman victim of violence must receive protection in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nIn implementing policies, programs and activities for the empowerment and protection of women, the City Government may cooperate with the community/community institutions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nThe implementation of women's empowerment in the economic field as referred to in Article 8 letter a shall be carried out through:\na. provision of skills and job training; b. facilitation of the formation of productive economic business groups;\nc. facilitation of strengthening and development of productive economic business groups;\nd. facilitation and capital assistance; and\ne. facilitation of marketing network development.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The golden label claims private sector engagement. The Indonesian Pasal 38 states funding can come from APBD, \"tanggung jawab sosial lingkungan\" (CSR) and other lawful non-binding funds, but that is a funding source statement, not an explicit collaboration/engagement mechanism with businesses. Pasal 7 allows cooperation with community/community institutions generally, without specifying private sector. No other provided articles describe partnering with companies for services/prevention. The retrieved passages also do not show explicit private-sector engagement. Thus the judge’s “No” is consistent with the Indonesian text, and the golden “Yes” appears mis-labeled.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+      "evaluator_rationale": "The policy explicitly includes protection for women victims of violence and discrimination as well as criminal acts of human trafficking within its stated objectives.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 49,
+          "text": "Article 32\n(1) Forms of protection against violence toward women include:\na. medical protection;\nb. legal protection;\nc. medico legal protection (forensic medicine); d. economic protection; and\ne. psychological protection.\n(2) The form of medical protection as referred to in paragraph (1) letter a is in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of the victim carried out by medical personnel and paramedics.\n(3) The form of legal protection as referred to in paragraph (1) letter b is in the form of services and assistance to help victims undergo legal and judicial processes.\n(4) The form of medico legal protection as referred to in paragraph (1) letter c is in the form of medical services for the purposes of evidence in the field of law.\n(5) The form of economic protection as referred to in paragraph (1) letter d is in the form of services for skills and to provide economic access so that victims of violence can be independent.\n(6) The form of psychological protection as referred to in paragraph (1) letter e is in the form of psychological support so that victims have self-confidence, strength and independence in problem solving through assistance in order to restore the traumatic condition of victims including the provision of safe houses to protect victims from various threats and intimidation for victims.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 42,
+          "text": "CHAPTER VII\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nPart One\nGeneral",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 2,
+          "text": "MAYOR OF PANGKALPINANG\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. City is the City of Pangkalpinang.\n2. City Government is the mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Pangkalpinang\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of the City of Pangkalpinang.\n5. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized according to their respective abilities.\n7. Discrimination against Women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n8. All Forms of Discrimination against Women is all forms of Discrimination that include territorial dimensions (disaster areas, conflict areas, border areas, underdeveloped areas, remote areas, and others), age dimensions (productive age, elderly, and others), and special dimensions (persons with disabilities, workers, and others).\n9. Violence against Women is any action that violates, obstructs, eliminates enjoyment and disregards women's human rights.\n10. Domestic Violence is any act against a woman that results in misery or suffering physically, sexually, psychologically, and/or household neglect including threats to commit acts, coercion, or unlawful deprivation of liberty within the scope of the household.\n11. Elimination of Violence against Women is a guarantee provided by the Regional Government to prevent the occurrence of violence, take action against perpetrators of violence and protect victims.\n12. Elimination of Domestic Violence is a guarantee provided by the state to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence.\n13. Victim is a woman who experiences misery and or suffering either directly or indirectly as a result of violence.\n14. Companion is a parent or representative from an institution that has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n16. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, to be able to play a role and participate in political, economic, social cultural, defense and security activities, and equality in enjoying the results of development.\n17. Gender Justice is a process to be fair to men and women.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 19\n(1) Women have the right to obtain special protection from matters that threaten their safety and or health.\n(2) Special protection is given to women because their reproductive function is guaranteed and protected by law.\n(3) The City Regional Government facilitates health protection in accordance with regional financial capacity.\n(4) The form of health protection for women as referred to in paragraph (3) shall be further regulated in a Mayoral Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 8,
+          "text": "Third Part\nRights of Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER XI\nCLOSING PROVISIONS\nArticle 39\nAt the time this Regional Regulation comes into force, Regional Regulation of Pangkalpinang City Number 6 of 2014 concerning the Implementation of Protection for Women and Children Victims of Violence (Regional Gazette of Pangkalpinang City Year 2014 Number 6) as amended by Regional Regulation of Pangkalpinang City Number 6 of 2018 concerning Amendment to Regional Regulation of Pangkalpinang City Number 6 of 2014 concerning the Implementation of Protection for Women and Children Victims of Violence (Regional Gazette of Pangkalpinang City Year 2018 Number 6), is revoked and declared invalid.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) Every female victim of violence has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions, the City Government and the community.\n(2) In the event of violence, every victim has the right to obtain health services and assistance, both psychologically and legally, and to obtain guarantees of their rights related to their status as a woman.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\n(1) The Principles of Women's Empowerment are:\na. respect for human rights;\nb. gender equality and justice;\nc. protection of victims' rights; and\nd. non-discriminatory.\n(2) The Objectives of Women's Empowerment and Protection are to:\na. guarantee the fulfillment of women's rights so that they can live and participate optimally in accordance with human dignity and worth;\nb. provide gender justice and equality; c. provide protection and security for women victims of violence and discrimination, as well as criminal acts of human trafficking;\nd. eliminate all forms of violence and discrimination against women;\ne. provide services to women Victims of violence, and witnesses; and\nf. carry out recovery for women Victims of violence to increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.\n(3) The scope of this Regional Regulation includes: a. women's rights;\nb. obligations and responsibilities of regional government; c. women's empowerment;\nd. women's protection;\ne. protection of women victims of violence; f. prohibitions and sanctions;\ng. community participation;\nh. monitoring and evaluation; and i . funding.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 33\nTo provide Protection as referred to in Article 27, the City Regional Government may undertake efforts to:\na. provide services and handling as quickly as possible to witnesses and/or victims;\nb. provide ease, comfort, safety and free of charge for witnesses and/or victims;\nc. maintain confidentiality of witnesses and/or victims; d. guarantee justice and legal certainty for witnesses and/or victims;\ne. provision of special service rooms at Police Offices;\nf. provision of apparatus, health workers, social workers, and spiritual counselors;\ng. creation and development of a system and mechanism for cooperation of service programs involving parties that are easily accessible to victims;\nh. provide protection for companions, witnesses, families and friends of victims;\ni. provide protection for female workers/laborers in accordance with the provisions of laws and regulations.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics;\nj. perform legal acts;\nk. freely choose a partner in marriage; and\nl. receive fair wages in accordance with labor regulations.\n(2) The right to participate in politics as referred to in paragraph (1) letter i is, women have the right to:\na. vote and/or be elected in general elections, regional head elections, or elections for political positions and other positions based on equal rights through direct, general, free, secret voting; and\nb. be appointed to any government position.\n(3) Every woman who is in a condition of disability, old age, and/or pregnancy, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, person with physical disability and/or mental disability, has the right to obtain care, non-formal education.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The indicator is “Trafficking victims” under an intersectional approach. The Indonesian Pasal 2 ayat (2) huruf c explicitly includes protection for women victims of violence/discrimination \"serta tindak pidana perdagangan orang\" (human trafficking crimes). This indicates the policy’s target group includes trafficking-related victimization. The retrieved English passage contains this. Therefore a “Yes” is supported by the source text, and the golden “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-14T11:55:58.772408+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 10,
+  "diagnosed_count": 10
+}

@@ -21,7 +21,7 @@ from automation.src.rag.prompt_builder import (
     format_criteria_with_candidates,
     parse_criteria_lines,
 )
-from automation.src.rag.retriever import load_policy_store, retrieve_evidence_candidates
+from automation.src.rag.retriever import RetrievedChunk, load_policy_store, retrieve_evidence_candidates
 from automation.src.rag.store import store_path_for
 
 logger = logging.getLogger(__name__)
@@ -31,6 +31,7 @@ logger = logging.getLogger(__name__)
 class DimensionResult:
     criteria_file: str
     batch_evals: dict
+    candidates_by_id: dict[str, list[RetrievedChunk]] | None = None
     error: str | None = None
     error_type: str | None = None
     error_details: dict | None = None
@@ -131,7 +132,9 @@ def _evaluate_dimension(
         _resolve_batch_evidence(batch_evals, candidate_lookup, retrieval_config, policy_path.name)
 
         logger.info("[%s] %s completed", policy_path.name, criteria_file)
-        return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
+        return DimensionResult(
+            criteria_file=criteria_file, batch_evals=batch_evals, candidates_by_id=candidates_by_id
+        )
     except Exception as exc:
         error_type, details = format_api_error(exc)
         logger.error(
@@ -194,7 +197,7 @@ def _merge_dimension_results(
     policy_path: Path,
     deployment_name: str,
     dimension_results: list[DimensionResult | BaseException],
-) -> dict:
+) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
     evaluated_at = datetime.now(timezone.utc).isoformat()
     final_report = {
         "policy_file": policy_path.name,
@@ -206,6 +209,7 @@ def _merge_dimension_results(
         "errors": [],
         "evaluation_results": {},
     }
+    all_candidates_by_id: dict[str, list[RetrievedChunk]] = {}
 
     for result in dimension_results:
         if isinstance(result, BaseException):
@@ -229,6 +233,8 @@ def _merge_dimension_results(
                 )
         final_report["evaluation_results"].update(result.batch_evals)
         final_report["completed_dimensions"].append(result.criteria_file)
+        if result.candidates_by_id:
+            all_candidates_by_id.update(result.candidates_by_id)
 
     final_report["indicator_count"] = len(final_report["evaluation_results"])
     final_report["evidence_verification_failures"] = [
@@ -236,7 +242,7 @@ def _merge_dimension_results(
         for key, item in final_report["evaluation_results"].items()
         if item.get("evidence_verified") is False
     ]
-    return final_report
+    return final_report, all_candidates_by_id
 
 
 def _evaluate_policy_serial(
@@ -248,7 +254,7 @@ def _evaluate_policy_serial(
     embedder: AzureEmbedder,
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
-) -> dict:
+) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
     store_chunks = load_policy_store(store_path_for(rag_store_dir, policy_path.name))
     dimension_results = [
         _evaluate_dimension(
@@ -276,7 +282,7 @@ def _evaluate_policy_parallel(
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
     limiter: ConcurrencyLimiter,
-) -> dict:
+) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
     logger.info(
         "Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES)
     )
@@ -298,12 +304,37 @@ def _evaluate_policy_parallel(
     return _merge_dimension_results(policy_path, deployment_name, dimension_results)
 
 
+def _write_candidates_file(
+    rag_candidates_dir: Path,
+    policy_filename: str,
+    candidates_by_id: dict[str, list[RetrievedChunk]],
+) -> None:
+    """Persist the full RAG candidate list per indicator (not just the one the
+    judge cited) to `rag_candidates/<stem>.json`, so the discrepancy_diagnosis
+    step can read them later without recomputing retrieval.
+    """
+    rag_candidates_dir.mkdir(parents=True, exist_ok=True)
+    payload = {
+        "policy_file": policy_filename,
+        "candidates": {
+            indicator_id: [
+                {"chunk_id": c.chunk_id, "text": c.text, "score": c.score} for c in candidates
+            ]
+            for indicator_id, candidates in candidates_by_id.items()
+        },
+    }
+    path = rag_candidates_dir / f"{Path(policy_filename).stem}.json"
+    path.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+
+
 def _process_policy_result(
     policy_path: Path,
     final_report: dict,
     output_dir: Path,
     deployment_name: str,
     allow_partial: bool,
+    candidates_by_id: dict[str, list[RetrievedChunk]],
+    rag_candidates_dir: Path,
 ) -> tuple[bool, str | None, bool]:
     success, output_path = finalize_and_save_report(
         final_report=final_report,
@@ -312,6 +343,8 @@ def _process_policy_result(
         deployment_name=deployment_name,
         allow_partial=allow_partial,
     )
+    if output_path:
+        _write_candidates_file(rag_candidates_dir, policy_path.name, candidates_by_id)
     policy_failed = not success
     return success, output_path, policy_failed
 
@@ -331,6 +364,7 @@ def run_evaluation_step(
     policy_dir = run_dir / "translation"
     rag_store_dir = run_dir / "rag_store"
     output_dir = run_dir / "evaluation"
+    rag_candidates_dir = run_dir / "rag_candidates"
     output_dir.mkdir(parents=True, exist_ok=True)
 
     policy_files = filter_policy_files(policy_dir, small_scale)
@@ -383,7 +417,7 @@ def run_evaluation_step(
             print("=" * 50)
 
             try:
-                final_report = _evaluate_policy_serial(
+                final_report, candidates_by_id = _evaluate_policy_serial(
                     policy_path,
                     config.evaluation_criteria_dir,
                     template_text,
@@ -411,6 +445,8 @@ def run_evaluation_step(
                 output_dir,
                 deployment_name,
                 allow_partial,
+                candidates_by_id,
+                rag_candidates_dir,
             )
             if output_path:
                 saved_paths.append(output_path)
@@ -449,18 +485,21 @@ def run_evaluation_step(
                 failed_policies.append(policy_path.name)
                 continue
 
+            final_report, candidates_by_id = result
             success, output_path, policy_failed = _process_policy_result(
                 policy_path,
-                result,
+                final_report,
                 output_dir,
                 deployment_name,
                 allow_partial,
+                candidates_by_id,
+                rag_candidates_dir,
             )
             if output_path:
                 saved_paths.append(output_path)
             if policy_failed:
                 failed_policies.append(policy_path.name)
-                record_failure(run_id, "evaluation", _failure_entry_from_report(result))
+                record_failure(run_id, "evaluation", _failure_entry_from_report(final_report))
             elif success:
                 clear_failure(run_id, "evaluation", policy_path.name)
 

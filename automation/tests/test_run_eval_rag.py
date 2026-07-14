@@ -85,6 +85,12 @@ def test_cited_candidate_gets_copied_as_final_evidence(tmp_path):
     # Final evidence is the real chunk text, copied verbatim — not whatever
     # string the LLM happened to produce.
     assert item["evidence"] == "The policy explicitly covers domestic violence and sexual violence."
+    # The full candidate list (not just the cited one) is preserved for the
+    # discrepancy_diagnosis step to persist later.
+    assert list(result.candidates_by_id.keys()) == ["1.1"]
+    assert result.candidates_by_id["1.1"][0].text == (
+        "The policy explicitly covers domestic violence and sexual violence."
+    )
 
 
 def test_cited_candidate_tag_may_include_brackets(tmp_path):

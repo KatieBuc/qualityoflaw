@@ -1,0 +1,469 @@
+{
+  "policy_file": "KALIMANTAN_BARAT_MELAWI.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-14T10:52:45.640482+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MELAWI,\na. that every citizen has the right to be free from torture or treatment that degrades human dignity and has the right to obtain security from all forms of violence;\nb. that all forms of acts of violence against women constitute violations of human rights, therefore their dignity and honor need to be protected, and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nc. that violence against women continues to increase, therefore protection efforts are required;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Protection of Women from Acts of Violence;\nConsidering 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women (Convention on The Elimination of All Forms of Discrimination Against Women)(State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law...\n4. Law Number 34 of 2003 concerning the Establishment of Melawi Regency and Sekadau Regency in West Kalimantan Province (State Gazette of the Republic of Indonesia Year 2003 Number 149, Supplement to the State Gazette of the Republic of Indonesia Number 4344);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia Year 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia Year 2009 Number 12, Supplement to the State Gazette of the Republic Number 4976);\n9. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as last amended by Law Number 9 of 2015 (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5659);\n10. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64);\n11. Presidential Regulation Number 18 of 2014 concerning Protection and Empowerment of Women and Children in Social Conflict (State Gazette of the Republic of Indonesia Year 2014 Number 44);\n12. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 of 2010 concerning Minimum Service Standards (SPM) for Integrated Services for Women and Children Victims of Violence (State News of the Republic of Indonesia Year 2010 Number 56);\n13. Regulation...\n13. Regulation of the State Minister for Women's Empowerment and Children Number 5 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers (State News of the Republic of Indonesia Year 2010 Number 446);\nWith Mutual Approval REGIONAL HOUSE OF REPRESENTATIVES OF MELAWI REGENCY\nAnd",
+      "rationale": "The policy explicitly references domestic violence through its legal basis, citing the national law on the elimination of domestic violence, indicating the policy includes domestic violence within its scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Article 17...\nArticle 17\nSexual violence as referred to in Article 14 letter c includes:\na. acts that are inappropriate or unwanted sexual harassment;\nb. forced sexual relations with and/or others for commercial purposes\nc. forced sexual relations with persons and/or for certain purposes.",
+      "rationale": "The policy explicitly defines and includes sexual violence, listing specific forms such as unwanted sexual harassment and forced sexual relations.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Article 15\nPhysical violence as referred to in Article 14 letter a includes acts that result in pain, wounds, injury or disability to the body, miscarriage, fainting, and/or death.",
+      "rationale": "The policy explicitly defines physical violence and describes outcomes such as injury, disability, miscarriage, fainting, and death.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Article 16\nPsychological violence as referred to in Article 14 letter b includes acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness, and/or severe psychological suffering.",
+      "rationale": "The policy explicitly defines psychological violence, including impacts like fear, loss of self-confidence, helplessness, and severe psychological suffering.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "Article 18\nNeglect as referred to in Article 14 letter d includes:\na. acts that neglect women within the scope of their household, and/or\nb. acts that result in economic dependence.\n\nArticle 19\nExploitation as referred to in Article 14 letter e includes:\na. actions that exploit women economically or sexually with the intention of benefiting oneself or others.\nb. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or abilities of a person by another party to obtain benefits both material and immaterial.\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+      "rationale": "The policy includes economic violence via domestic neglect leading to economic dependence and explicitly includes economic exploitation.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide, nor do they clearly address these practices implicitly.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss violence against women generally and include physical violence that may result in death, but they do not explicitly address femicide/feminicide as a distinct concept or gender-motivated killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention exploitation (including forced labor and slavery-like practices) and repatriation services, but they do not explicitly refer to human trafficking/trafficking in persons within the provided text.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "Article 18\nNeglect as referred to in Article 14 letter d includes:\na. acts that neglect women within the scope of their household, and/or\nb. acts that result in economic dependence.\n\nArticle 19\nExploitation as referred to in Article 14 letter e includes:\na. actions that exploit women economically or sexually with the intention of benefiting oneself or others.\nb. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or abilities of a person by another party to obtain benefits both material and immaterial.\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+      "rationale": "The policy explicitly includes sexual exploitation within its definition of exploitation, referencing exploitation of sexual organs and activities such as prostitution or sexual abuse.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly references acts of violence in relation to information and communication technology, indicating coverage of technology-facilitated aspects of violence.",
+      "evidence_verified": true
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "Article 25\n(1) Efforts to provide and organize Services/handling for victims are carried out in a networked manner.\n(2) The network as referred to in paragraph (1) aims to: a. coordinate and synchronize the handling of PPT services; b. develop networks and referral systems; and\nc. collect, compile and present reports on violence. (3) The network as referred to in paragraph (2) carries out its duties and functions in accordance with the form of services as referred to in Article 8.",
+      "rationale": "The policy states that victim services/handling are carried out “in a networked manner” and that the network aims to coordinate and synchronize services and develop referral systems, indicating an institutional coordination network.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINTEGRATED SERVICE CENTER\nArticle 26\n(1) The PPT may be established by vertical agencies in the regional government, district/city government, and/or community institutions.\n(2) The PPT as referred to in paragraph (1) consists of elements from the Regional Police, SKPD responsible for Health, Education, Social Affairs, Community Empowerment, Women's Empowerment and Child Protection as well as Community Social Institutions, which function to provide protection to women from acts of violence carried out in a networked manner.\n(3) temporary services and protection in the form of a safe house (shelter) for victims.\n(4) In the event that the PPT does not have a safe house as referred to in paragraph (3), then the victim shall be referred to a PPT that has a safe house.\n(5) Further provisions regarding the Organizational Structure of the PPT shall be regulated by Regent Regulation.",
+      "rationale": "The policy establishes the PPT as consisting of multiple elements including “Community Social Institutions,” and provides that PPT may be established by “community institutions,” which constitutes an explicit cooperation mechanism with non-government actors in service provision.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "CHAPTER VIII\nINFORMATION SYSTEM AND REPORTING\nArticle 27\n(1) The SKPD responsible for Women's Empowerment implements the information system and submits Reports on the implementation of women's protection to the Regent.\n(2) Further provisions regarding the information system and reporting as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy creates an “information system and reporting” function, assigning the responsible SKPD to implement the information system and submit reports on women’s protection implementation.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references “justice and gender equality” and integrated prevention efforts, none of the provided passages explicitly mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group/mechanism.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "CHAPTER XI\nGUIDANCE AND SUPERVISION\nArticle 30\n(1) Regional Government conducts guidance and supervision of the implementation of women's protection.\n(2) Guidance and supervision as referred to in paragraph (1) includes:\na. coordination;\nb. guidance;\nc. education and training; and\nd. monitoring and evaluation.\n(3) Coordination as referred to in paragraph (2) letter a encompasses planning and implementation.\n(4) Guidance as referred to in paragraph (2) letter b encompasses planning, implementation, procedures, funding, quality, control, and supervision.\n(5) Education and training as referred to in paragraph (2) letter c shall be conducted in accordance with the provisions of laws and regulations.\n(6) Monitoring and evaluation as referred to in paragraph (2) letter d shall be conducted based on the provisions of laws and regulations periodically every 6 (six) months.",
+      "rationale": "The policy includes “education and training” as part of government guidance and supervision for implementing women’s protection, indicating training/capacity building provisions.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "CHAPTER XI\nGUIDANCE AND SUPERVISION\nArticle 30\n(1) Regional Government conducts guidance and supervision of the implementation of women's protection.\n(2) Guidance and supervision as referred to in paragraph (1) includes:\na. coordination;\nb. guidance;\nc. education and training; and\nd. monitoring and evaluation.\n(3) Coordination as referred to in paragraph (2) letter a encompasses planning and implementation.\n(4) Guidance as referred to in paragraph (2) letter b encompasses planning, implementation, procedures, funding, quality, control, and supervision.\n(5) Education and training as referred to in paragraph (2) letter c shall be conducted in accordance with the provisions of laws and regulations.\n(6) Monitoring and evaluation as referred to in paragraph (2) letter d shall be conducted based on the provisions of laws and regulations periodically every 6 (six) months.",
+      "rationale": "The policy explicitly includes “monitoring and evaluation” within guidance and supervision and specifies it is conducted periodically every six months, demonstrating an M&E mechanism for implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Melawi Regency.\n2. Regional Government is the Regent as the Element of Regional Government Organizer who leads the Implementation of Government Affairs that are the Authority of the Autonomous Region.\n3. Regent is the Regent of Melawi.\n4. Regional Secretary is the Regional Secretary of Melawi Regency.\n5. Regional Apparatus is the supporting element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\n6. Women are human beings of female sex starting from babies, adolescents, adults up to the elderly.\n7. Women with Disabilities are women who have self-limitations, which can be physical, cognitive, mental, sensory, emotional, developmental or some combination of these.\n8. Elderly Women are women who have reached 60 years of age and above.\n9. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the victim.\n10. Violence against women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n11. Victim...\nwomen who experience misery and/or\n11. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence and life vulnerability.\n12. Protection of Women is all activities aimed at providing a sense of security carried out by the regional government, community, and/or other parties who know or hear that violence against women is about to occur or has occurred.\n13. Service/handling is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim is occurring or has occurred.\n14. Companion is a person or representative of an institution who has the expertise to provide assistance to victims to conduct counseling/therapy and/or advocacy.\n15. Integrated Service Center, hereinafter abbreviated as PPT, is an institution or functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a residence for victims during the assistance process for the safety and comfort of victims from threats and dangers.\n17. Minimum Service Standards, hereinafter abbreviated as SPM, is a performance benchmark for integrated service units in providing 5 (five) types of services for women and children victims of violence, namely (1) Complaint Handling (2) Health Services (3) Social Rehabilitation (4) Law Enforcement and Legal Aid, and (5) Repatriation and Social Reintegration.\n18. Complaint Handling is a series of actions taken by integrated service providers to follow up on reports of acts of violence against women submitted by victims, families and the community.\n19. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n20. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can perform their social functions properly.\n21. Law Enforcement is an action by officials authorized by the state to implement laws and regulations.\n22. Legal Aid is legal services provided by legal companions and advocacy to conduct the process of accompanying witnesses and/or victims of violence against women.\n23. Repatriation is an effort to return women victims of violence from abroad to the debarkation point/entry point, or from the receiving area to the area of origin.\n24. Social Reintegration is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment for victims.\n25. Integrated Service Unit or abbreviated as UPT is a unified unit that organizes integrated service functions for women victims of violence.\n26. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children or father and children, or mother and children, or blood relatives in direct line upward or downward.\n27. Household...\nactions that have\n27. Household is husband, wife and children, people who have family relations due to blood relations, marriage, breastfeeding, care and guardianship and/or domestic workers who reside in that household.",
+      "rationale": "The policy defines an Integrated Service Center (PPT) as an institution/work unit organizing integrated services for victims of violence, indicating the existence of an integrated service unit for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages mention that the PPT includes elements from the Regional Police, but they do not establish or describe a specialised service unit for VAW victims located within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of service/handling for victims include:\na. complaint handling;\nb. health/medical rehabilitation services;\nc. social rehabilitation services;\nd. law enforcement and legal aid services; and repatriation and social reintegration services;",
+      "rationale": "The policy includes 'complaint handling' as a form of service/handling for victims, indicating a service function/unit that receives complaints/reports of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "CHAPTER VII\nINTEGRATED SERVICE CENTER\nArticle 26\n(1) The PPT may be established by vertical agencies in the regional government, district/city government, and/or community institutions.\n(2) The PPT as referred to in paragraph (1) consists of elements from the Regional Police, SKPD responsible for Health, Education, Social Affairs, Community Empowerment, Women's Empowerment and Child Protection as well as Community Social Institutions, which function to provide protection to women from acts of violence carried out in a networked manner.\n(3) temporary services and protection in the form of a safe house (shelter) for victims.\n(4) In the event that the PPT does not have a safe house as referred to in paragraph (3), then the victim shall be referred to a PPT that has a safe house.\n(5) Further provisions regarding the Organizational Structure of the PPT shall be regulated by Regent Regulation.",
+      "rationale": "The policy states that the PPT provides temporary services and protection in the form of a safe house (shelter) for victims, including referral if a PPT lacks a safe house.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of service/handling for victims include:\na. complaint handling;\nb. health/medical rehabilitation services;\nc. social rehabilitation services;\nd. law enforcement and legal aid services; and repatriation and social reintegration services;",
+      "rationale": "The policy lists 'law enforcement and legal aid services' among the forms of service/handling for victims, indicating provision of legal assistance as part of service delivery.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of service/handling for victims include:\na. complaint handling;\nb. health/medical rehabilitation services;\nc. social rehabilitation services;\nd. law enforcement and legal aid services; and repatriation and social reintegration services;",
+      "rationale": "The policy explicitly includes 'health/medical rehabilitation services' as a form of service/handling for victims.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references social rehabilitation and mentions assistance by psychology/psychiatry experts, the provided passages do not explicitly establish a psychosocial counselling service unit.",
+      "evidence_verified": null
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not describe any service unit providing religious/spiritual counselling; only general service provisions are shown without specifying spiritual counselling services.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Article 8\nForms of service/handling for victims include:\na. complaint handling;\nb. health/medical rehabilitation services;\nc. social rehabilitation services;\nd. law enforcement and legal aid services; and repatriation and social reintegration services;",
+      "rationale": "The policy includes 'social rehabilitation services' and 'repatriation and social reintegration services' as forms of service/handling, covering rehabilitation/reintegration (resocialisation).",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "Article 10\nForms of empowerment for women victims of violence include:\na. forming communities for women victims of violence;\nb. job training;\nc. productive economic enterprises and joint business groups;\nd. capital assistance.",
+      "rationale": "The policy specifies empowerment forms for women victims of violence including job training, productive economic enterprises, and capital assistance, indicating economic empowerment/support services.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Article 5\n(1) Efforts to prevent violence against women are carried out in an integrated manner by the Regional Government coordinated by the SKPD responsible for Women's Empowerment;\n(2) Prevention Efforts as referred to in paragraph (1) are implemented by means of;\na. establishing a working network;\nb. conducting coordination, integration, and synchronization of violence prevention based on partnership patterns;\nc. establishing a violence prevention system;\nd. conducting socialization of laws and regulations related to the protection of women victims of violence;\n•• .i\ne. providing education for women victims of violence;\nf. through Communication, Information and Education (KIE) media.",
+      "rationale": "The policy describes prevention efforts that include education and the use of Communication, Information and Education (KIE) media, as well as socialization related to protection from violence against women, which constitutes information/education as primary prevention.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly mentions community participation through independent socialization of women's rights, which is information/education related to women’s rights and aligns with gender equality education.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "Article 5\n(1) Efforts to prevent violence against women are carried out in an integrated manner by the Regional Government coordinated by the SKPD responsible for Women's Empowerment;\n(2) Prevention Efforts as referred to in paragraph (1) are implemented by means of;\na. establishing a working network;\nb. conducting coordination, integration, and synchronization of violence prevention based on partnership patterns;\nc. establishing a violence prevention system;\nd. conducting socialization of laws and regulations related to the protection of women victims of violence;\n•• .i\ne. providing education for women victims of violence;\nf. through Communication, Information and Education (KIE) media.",
+      "rationale": "The policy includes prevention efforts via socialization of laws and regulations related to the protection of women victims of violence, which directly addresses information/education about VAW laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "Article 6\nIn addition to prevention efforts carried out by the Regional Government as referred to in Article 5, prevention efforts are also carried out by family and/or closest relatives, community, educational institutions and customary institutions.",
+      "rationale": "The policy states that prevention efforts are also carried out by educational institutions, indicating prevention through education as part of the overall prevention approach.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as possible actors in community participation for protection implementation, indicating engagement/collaboration with NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly lists religious institutions among the entities through which community participation in protection implementation may be carried out, indicating engagement with religious organizations.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "Article 6\nIn addition to prevention efforts carried out by the Regional Government as referred to in Article 5, prevention efforts are also carried out by family and/or closest relatives, community, educational institutions and customary institutions.",
+      "rationale": "The policy explicitly states that prevention efforts are also carried out by customary institutions, which are traditional/cultural organizations.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "Article 6\nIn addition to prevention efforts carried out by the Regional Government as referred to in Article 5, prevention efforts are also carried out by family and/or closest relatives, community, educational institutions and customary institutions.",
+      "rationale": "The policy explicitly states that prevention efforts are also carried out by educational institutions, indicating engagement/collaboration with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages mention international organizations or international support as stakeholders in prevention or service delivery; references to networks/referrals are not specified as international.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly includes mass media among the entities that may carry out community participation in protection implementation, indicating engagement with media.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly describes multiple forms of community participation in implementing protection, demonstrating engagement/collaboration with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "Article 29\n(1) The community participates in the implementation of protection by:\na. forming family partners at the community level; in organizations\nb. forming community-based women's protection units;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of violence against women are found in the community;\ne. providing first aid to victims; and\nf. reporting to the competent authorities if violence against women occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+      "rationale": "The policy explicitly includes the private sector among the entities through which community participation in protection implementation may be carried out, indicating engagement with business/private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages describe general protection for women victims of violence and list broad rights and community participation, but none explicitly provide special protection measures targeted at women in conflict or disaster-prone areas.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text addresses violence and exploitation generally, including forms of exploitation, it does not explicitly set out special protection measures specifically targeted at women victims of human trafficking.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly mentions categories of vulnerable groups that include home-based workers, domestic workers, and Indonesian migrant workers, indicating attention to women workers/employees as a group within the protection framework.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Melawi Regency.\n2. Regional Government is the Regent as the Element of Regional Government Organizer who leads the Implementation of Government Affairs that are the Authority of the Autonomous Region.\n3. Regent is the Regent of Melawi.\n4. Regional Secretary is the Regional Secretary of Melawi Regency.\n5. Regional Apparatus is the supporting element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\n6. Women are human beings of female sex starting from babies, adolescents, adults up to the elderly.\n7. Women with Disabilities are women who have self-limitations, which can be physical, cognitive, mental, sensory, emotional, developmental or some combination of these.\n8. Elderly Women are women who have reached 60 years of age and above.\n9. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the victim.\n10. Violence against women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n11. Victim...\nwomen who experience misery and/or\n11. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence and life vulnerability.\n12. Protection of Women is all activities aimed at providing a sense of security carried out by the regional government, community, and/or other parties who know or hear that violence against women is about to occur or has occurred.\n13. Service/handling is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim is occurring or has occurred.\n14. Companion is a person or representative of an institution who has the expertise to provide assistance to victims to conduct counseling/therapy and/or advocacy.\n15. Integrated Service Center, hereinafter abbreviated as PPT, is an institution or functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a residence for victims during the assistance process for the safety and comfort of victims from threats and dangers.\n17. Minimum Service Standards, hereinafter abbreviated as SPM, is a performance benchmark for integrated service units in providing 5 (five) types of services for women and children victims of violence, namely (1) Complaint Handling (2) Health Services (3) Social Rehabilitation (4) Law Enforcement and Legal Aid, and (5) Repatriation and Social Reintegration.\n18. Complaint Handling is a series of actions taken by integrated service providers to follow up on reports of acts of violence against women submitted by victims, families and the community.\n19. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n20. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can perform their social functions properly.\n21. Law Enforcement is an action by officials authorized by the state to implement laws and regulations.\n22. Legal Aid is legal services provided by legal companions and advocacy to conduct the process of accompanying witnesses and/or victims of violence against women.\n23. Repatriation is an effort to return women victims of violence from abroad to the debarkation point/entry point, or from the receiving area to the area of origin.\n24. Social Reintegration is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment for victims.\n25. Integrated Service Unit or abbreviated as UPT is a unified unit that organizes integrated service functions for women victims of violence.\n26. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children or father and children, or mother and children, or blood relatives in direct line upward or downward.\n27. Household...\nactions that have\n27. Household is husband, wife and children, people who have family relations due to blood relations, marriage, breastfeeding, care and guardianship and/or domestic workers who reside in that household.",
+      "rationale": "The policy explicitly defines and recognizes 'Elderly Women' as a specific group, indicating targeted consideration within the regulation’s protection framework.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Melawi Regency.\n2. Regional Government is the Regent as the Element of Regional Government Organizer who leads the Implementation of Government Affairs that are the Authority of the Autonomous Region.\n3. Regent is the Regent of Melawi.\n4. Regional Secretary is the Regional Secretary of Melawi Regency.\n5. Regional Apparatus is the supporting element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\n6. Women are human beings of female sex starting from babies, adolescents, adults up to the elderly.\n7. Women with Disabilities are women who have self-limitations, which can be physical, cognitive, mental, sensory, emotional, developmental or some combination of these.\n8. Elderly Women are women who have reached 60 years of age and above.\n9. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the victim.\n10. Violence against women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n11. Victim...\nwomen who experience misery and/or\n11. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence and life vulnerability.\n12. Protection of Women is all activities aimed at providing a sense of security carried out by the regional government, community, and/or other parties who know or hear that violence against women is about to occur or has occurred.\n13. Service/handling is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim is occurring or has occurred.\n14. Companion is a person or representative of an institution who has the expertise to provide assistance to victims to conduct counseling/therapy and/or advocacy.\n15. Integrated Service Center, hereinafter abbreviated as PPT, is an institution or functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a residence for victims during the assistance process for the safety and comfort of victims from threats and dangers.\n17. Minimum Service Standards, hereinafter abbreviated as SPM, is a performance benchmark for integrated service units in providing 5 (five) types of services for women and children victims of violence, namely (1) Complaint Handling (2) Health Services (3) Social Rehabilitation (4) Law Enforcement and Legal Aid, and (5) Repatriation and Social Reintegration.\n18. Complaint Handling is a series of actions taken by integrated service providers to follow up on reports of acts of violence against women submitted by victims, families and the community.\n19. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n20. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can perform their social functions properly.\n21. Law Enforcement is an action by officials authorized by the state to implement laws and regulations.\n22. Legal Aid is legal services provided by legal companions and advocacy to conduct the process of accompanying witnesses and/or victims of violence against women.\n23. Repatriation is an effort to return women victims of violence from abroad to the debarkation point/entry point, or from the receiving area to the area of origin.\n24. Social Reintegration is an effort to reunite victims with family, substitute family, or community that can provide protection and fulfillment for victims.\n25. Integrated Service Unit or abbreviated as UPT is a unified unit that organizes integrated service functions for women victims of violence.\n26. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children or father and children, or mother and children, or blood relatives in direct line upward or downward.\n27. Household...\nactions that have\n27. Household is husband, wife and children, people who have family relations due to blood relations, marriage, breastfeeding, care and guardianship and/or domestic workers who reside in that household.",
+      "rationale": "The policy explicitly defines 'Women with Disabilities,' indicating that women with disabilities are specifically recognized within the regulation’s scope of protection.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly lists 'female heads of household' among the groups referenced, indicating specific recognition of this group within the protection framework.",
+      "evidence_verified": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided passages explicitly mention minority or isolated groups of women or provide special protection measures targeted to such groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide legal assistance and accompaniment rights for women victims of violence, but do not specifically mention protection for women in conflict with the law as witnesses or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although 'customary institutions' are mentioned as actors in prevention, there are no special protection measures specifically targeted at Indigenous peoples/groups (masyarakat adat).",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages do not mention refugees or forced displacement, nor do they provide special protection measures targeted at such populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly includes 'domestic workers' in the listed groups, indicating specific recognition of domestic workers within the protection framework.",
+      "evidence_verified": true
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly includes 'the homeless' in the listed groups, indicating recognition of homelessness as a relevant vulnerability category within the protection framework.",
+      "evidence_verified": true
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "Yes",
+      "evidence": "Article 4\nArticle 5\nArticle 6\nArticle 7\nArticle 8\nArticle 9\nArticle 10  Article 11  Article 12  Article 13\nArticle 14  Article 15  Article 16  Article 17  Article 18\nArticle 19  Article 20\nnamely the elderly, persons with disabilities, the homeless, home-based workers, domestic workers, female heads of household, Indonesian migrant workers, former inmates of correctional institutions, and victims of disaster/conflict.\nSufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Sufficiently clear Letter a Threat of violence is any act unlawfully either directly or indirectly including through social media networks and communication devices. Letter b...",
+      "rationale": "The policy explicitly includes 'former inmates of correctional institutions' in the listed groups, indicating specific recognition of formerly incarcerated women within the protection framework.",
+      "evidence_verified": true
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 28\nFunding for women's protection activities carried out by the Regional Government is sourced from the Regional Revenue and Expenditure Budget and/or other legitimate sources in accordance with the laws and regulations. & CHAPTER X...",
+      "rationale": "The policy specifies that funding for women's protection activities carried out by the Regional Government is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited funding provision identifies the Regional Revenue and Expenditure Budget and other legitimate sources, but none of the provided passages explicitly mention a national/central government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate passages explicitly reference international donors, UN agencies, foreign governments, or other international funding sources; the funding clause only mentions the regional budget and other legitimate sources without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "CHAPTER IX\nFUNDING\nArticle 28\nFunding for women's protection activities carried out by the Regional Government is sourced from the Regional Revenue and Expenditure Budget and/or other legitimate sources in accordance with the laws and regulations. & CHAPTER X...",
+      "rationale": "The funding article explicitly includes \"other legitimate sources in accordance with the laws and regulations\" in addition to the regional budget, which constitutes other legally permissible funding sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages reference regional government funding (Regional Revenue and Expenditure Budget) and do not explicitly identify a provincial government budget as a distinct funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}
