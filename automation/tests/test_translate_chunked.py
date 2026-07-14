@@ -8,8 +8,12 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ChunkingConfig,
     ConcurrencyConfig,
+    HybridBM25Config,
     PipelinePaths,
+    RerankerConfig,
     ResolvedPipelineConfig,
+    RetrievalConfig,
+    StorageConfig,
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
@@ -42,6 +46,13 @@ def chunked_pipeline_config(tmp_path):
         concurrency=ConcurrencyConfig(enabled=True, max_workers=2),
         chunking=ChunkingConfig(
             enabled=True, safe_limit=100, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
+        ),
+        storage=StorageConfig(enabled=True, batch_size=16),
+        retrieval=RetrievalConfig(
+            top_k=10,
+            hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
+            reranker=RerankerConfig(enabled=False),
+            evidence_verification_enabled=True,
         ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
@@ -169,12 +180,19 @@ def test_run_translation_step_chunked_keep_chunk_result_writes_artifacts(
     assert [c["type"] for c in chunks_data] == ["structural", "fallback", "fallback"]
     assert chunks_data[1]["context"] is None
     assert chunks_data[2]["context"] is not None
-    assert all("text" in c and "section_id" in c and "chunk_index" in c for c in chunks_data)
+    assert all(
+        "text" in c and "translated_text" in c and "section_id" in c and "chunk_index" in c
+        for c in chunks_data
+    )
+    assert [c["translated_text"] for c in chunks_data] == translated_outputs
 
 
-def test_run_translation_step_chunked_without_keep_chunk_result_skips_artifacts(
+def test_run_translation_step_chunked_without_keep_chunk_result_skips_cleaned_debug_only(
     chunked_pipeline_config, data_root
 ):
+    """chunks.json (needed by the RAG storage step) is always written when
+    chunking is enabled; only the .cleaned.txt debug artifact is gated behind
+    --keep-chunk-result."""
     run_id = "chunked_no_keep_result"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
@@ -197,4 +215,6 @@ def test_run_translation_step_chunked_without_keep_chunk_result_skips_artifacts(
         keep_chunk_result=False,
     )
 
-    assert not (data_root / run_id / "chunks").exists()
+    chunks_dir = data_root / run_id / "chunks"
+    assert (chunks_dir / "POLICY.chunks.json").exists()
+    assert not (chunks_dir / "POLICY.cleaned.txt").exists()

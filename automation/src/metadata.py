@@ -109,6 +109,14 @@ def ensure_run_exists(run_id: str) -> Path:
 def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
     run_dir = ensure_run_exists(run_id)
 
+    if "storage" in steps:
+        translation_dir = run_dir / "translation"
+        if not translation_dir.is_dir():
+            raise FileNotFoundError(f"Translation output required for storage: {translation_dir}")
+        txt_files = list(translation_dir.glob("*.txt"))
+        if not txt_files:
+            raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
+
     if "evaluation" in steps:
         translation_dir = run_dir / "translation"
         if not translation_dir.is_dir():
@@ -118,6 +126,15 @@ def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
         txt_files = list(translation_dir.glob("*.txt"))
         if not txt_files:
             raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
+
+        rag_store_dir = run_dir / "rag_store"
+        if not rag_store_dir.is_dir():
+            raise FileNotFoundError(
+                f"RAG store required for evaluation: {rag_store_dir}. Run the storage step first."
+            )
+        store_files = list(rag_store_dir.glob("*.json"))
+        if not store_files:
+            raise FileNotFoundError(f"No RAG store files in {rag_store_dir}")
 
     if "comparison" in steps:
         evaluation_dir = run_dir / "evaluation"

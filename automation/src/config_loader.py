@@ -38,6 +38,31 @@ class ChunkingConfig:
 
 
 @dataclass
+class StorageConfig:
+    enabled: bool
+    batch_size: int
+
+
+@dataclass
+class HybridBM25Config:
+    enabled: bool
+    rrf_k: int
+
+
+@dataclass
+class RerankerConfig:
+    enabled: bool  # stub — see automation/src/rag/retriever.py:rerank()
+
+
+@dataclass
+class RetrievalConfig:
+    top_k: int
+    hybrid_bm25: HybridBM25Config
+    reranker: RerankerConfig
+    evidence_verification_enabled: bool
+
+
+@dataclass
 class ResolvedPipelineConfig:
     experiment_name: str
     translation_model: ModelProfile
@@ -48,6 +73,8 @@ class ResolvedPipelineConfig:
     paths: PipelinePaths
     concurrency: ConcurrencyConfig
     chunking: ChunkingConfig
+    storage: StorageConfig
+    retrieval: RetrievalConfig
     pipeline_config_path: Path
     model_config_path: Path
 
@@ -132,6 +159,39 @@ def parse_chunking_config(raw: dict | None) -> ChunkingConfig:
     )
 
 
+def parse_storage_config(raw: dict | None) -> StorageConfig:
+    if not raw:
+        return StorageConfig(enabled=True, batch_size=16)
+
+    batch_size = int(raw.get("batch_size", 16))
+    if batch_size < 1:
+        raise ValueError("storage.batch_size must be >= 1")
+
+    return StorageConfig(enabled=bool(raw.get("enabled", True)), batch_size=batch_size)
+
+
+def parse_retrieval_config(raw: dict | None) -> RetrievalConfig:
+    raw = raw or {}
+
+    top_k = int(raw.get("top_k", 10))
+    if top_k < 1:
+        raise ValueError("retrieval.top_k must be >= 1")
+
+    bm25_raw = raw.get("hybrid_bm25") or {}
+    reranker_raw = raw.get("reranker") or {}
+    verification_raw = raw.get("evidence_verification") or {}
+
+    return RetrievalConfig(
+        top_k=top_k,
+        hybrid_bm25=HybridBM25Config(
+            enabled=bool(bm25_raw.get("enabled", False)),
+            rrf_k=int(bm25_raw.get("rrf_k", 60)),
+        ),
+        reranker=RerankerConfig(enabled=bool(reranker_raw.get("enabled", False))),
+        evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
+    )
+
+
 def resolve_prompt_paths(
     translation_version: str,
     evaluation_version: str,
@@ -195,6 +255,8 @@ def load_pipeline_config(
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
+        storage=parse_storage_config(pipeline_data.get("storage")),
+        retrieval=parse_retrieval_config(pipeline_data.get("retrieval")),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
     )

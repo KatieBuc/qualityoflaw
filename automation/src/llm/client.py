@@ -55,3 +55,13 @@ def get_azure_client() -> OpenAI | AzureOpenAI:
         max_retries=0,
         timeout=DEFAULT_API_TIMEOUT_S,
     )
+
+
+def get_embedding_deployment() -> str:
+    _load_env()
+    deployment = clean_env_value(os.environ.get("AZURE_OPENAI_EMBEDDING_MODEL"))
+    if not deployment:
+        raise RuntimeError(
+            "AZURE_OPENAI_EMBEDDING_MODEL must be set in .env for the storage/retrieval RAG step."
+        )
+    return deployment

@@ -17,7 +17,7 @@ SMALL_SCALE_FILES = [
     # "KALIMANTAN_TENGAH_SUKAMARA.txt"
 ]
 
-ALL_STEPS = ("translation", "evaluation", "comparison")
+ALL_STEPS = ("translation", "storage", "evaluation", "comparison")
 
 STRUCTURE_HINT = (
     "Preserve the original paragraph and line structure where possible."

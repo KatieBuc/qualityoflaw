@@ -1,6 +1,7 @@
 import pytest
 
 from automation.src.chunking import (
+    STRUCTURE_MARKER_EN_RE,
     Chunk,
     check_fallback_output,
     chunk_policy_text,
@@ -191,6 +192,45 @@ def test_chunk_policy_text_triggers_fallback_for_oversized_section():
     assert chunks[0].context is None
     assert chunks[1].context is not None
     assert chunks[0].text.startswith("BAB I\nKETENTUAN UMUM")
+
+
+def test_is_structure_marker_english_regex_forms():
+    # English equivalents observed in translated output: BAB->Chapter,
+    # Pasal->Article, Bagian->Part, Paragraf->Paragraph.
+    assert is_structure_marker("CHAPTER I", STRUCTURE_MARKER_EN_RE)
+    assert is_structure_marker("Article 5", STRUCTURE_MARKER_EN_RE)
+    assert is_structure_marker("Part Two", STRUCTURE_MARKER_EN_RE)
+    assert is_structure_marker("Paragraph 1", STRUCTURE_MARKER_EN_RE)
+    assert is_structure_marker("Section 3", STRUCTURE_MARKER_EN_RE)
+    assert not is_structure_marker(
+        "The Regional Government is the Government of Pekanbaru City.", STRUCTURE_MARKER_EN_RE
+    )
+    # Indonesian markers are not matched by the English regex.
+    assert not is_structure_marker("Pasal 5", STRUCTURE_MARKER_EN_RE)
+
+
+def test_chunk_policy_text_with_english_marker_re():
+    raw = (
+        "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nThe content of article one is complete.\n"
+        "CHAPTER II\nPURPOSE AND OBJECTIVE\nArticle 2\nThe content of article two is complete."
+    )
+    chunks = chunk_policy_text(raw, safe_limit=32000, marker_re=STRUCTURE_MARKER_EN_RE)
+    assert len(chunks) == 2
+    assert chunks[0].section_id == 0
+    assert chunks[1].section_id == 1
+    assert chunks[0].text.startswith("CHAPTER I\nGENERAL PROVISIONS")
+    assert chunks[1].text.startswith("CHAPTER II\nPURPOSE AND OBJECTIVE")
+
+
+def test_chunk_policy_text_default_marker_re_ignores_english_markers():
+    # Without passing marker_re, English structural words aren't recognized as
+    # markers (only the all-caps-title fallback heuristic can still catch them),
+    # so "Article 1" reflows into the same paragraph as the line after it
+    # instead of starting a new structural section.
+    raw = "Article 1\nThe content of article one is complete."
+    chunks = chunk_policy_text(raw, safe_limit=32000)
+    assert len(chunks) == 1
+    assert chunks[0].text == "Article 1 The content of article one is complete."
 
 
 def test_chunk_policy_text_multiple_sections_get_distinct_ids():

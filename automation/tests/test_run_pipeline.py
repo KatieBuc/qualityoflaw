@@ -8,8 +8,12 @@ import yaml
 from automation.src.config_loader import (
     ChunkingConfig,
     ConcurrencyConfig,
+    HybridBM25Config,
     PipelinePaths,
+    RerankerConfig,
     ResolvedPipelineConfig,
+    RetrievalConfig,
+    StorageConfig,
 )
 from automation.src.constants import ALL_STEPS, AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
@@ -20,6 +24,13 @@ TRANSLATION_RESULT = {
     "failed_files": [],
     "elapsed_s": 1.0,
     "token_usage": {"prompt_tokens": 10, "completion_tokens": 20, "total_tokens": 30},
+    "output_dir": "",
+}
+
+STORAGE_RESULT = {
+    "counts": {"total": 5, "succeeded": 5, "skipped": 0, "failed": 0},
+    "failed_files": [],
+    "elapsed_s": 0.5,
     "output_dir": "",
 }
 
@@ -108,6 +119,13 @@ def mock_config():
         chunking=ChunkingConfig(
             enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
         ),
+        storage=StorageConfig(enabled=True, batch_size=16),
+        retrieval=RetrievalConfig(
+            top_k=10,
+            hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
+            reranker=RerankerConfig(enabled=False),
+            evidence_verification_enabled=True,
+        ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
     )
@@ -150,13 +168,17 @@ def test_requires_run_id_false_when_run_id_provided():
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
+@patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
 def test_main_full_pipeline_small_scale_without_run_id(
     mock_load_config,
     mock_wrapper,
+    mock_embedder,
     mock_translate,
+    mock_storage,
     mock_eval,
     mock_compare,
     mock_generate_run_id,
@@ -173,6 +195,7 @@ def test_main_full_pipeline_small_scale_without_run_id(
 
     assert exc.value.code == 0
     mock_translate.assert_called_once()
+    mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is True
@@ -186,13 +209,17 @@ def test_main_full_pipeline_small_scale_without_run_id(
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_comparison_step", return_value=COMPARISON_RESULT)
 @patch("automation.src.run_pipeline.run_evaluation_step", return_value=EVALUATION_RESULT)
+@patch("automation.src.run_pipeline.run_storage_step", return_value=STORAGE_RESULT)
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
 def test_main_full_pipeline_without_small_scale_passes_false(
     mock_load_config,
     mock_wrapper,
+    mock_embedder,
     mock_translate,
+    mock_storage,
     mock_eval,
     mock_compare,
     mock_generate_run_id,
@@ -209,6 +236,7 @@ def test_main_full_pipeline_without_small_scale_passes_false(
 
     assert exc.value.code == 0
     mock_translate.assert_called_once()
+    mock_storage.assert_called_once()
     mock_eval.assert_called_once()
     mock_compare.assert_called_once()
     assert mock_translate.call_args.kwargs["small_scale"] is False
@@ -359,11 +387,13 @@ def test_main_keep_chunk_result_defaults_false(
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
 def test_main_eval_failure_without_allow_partial_exits_nonzero(
     mock_load_config,
     mock_wrapper,
+    mock_embedder,
     mock_translate,
     mock_eval,
     mock_generate_run_id,
@@ -397,11 +427,13 @@ def test_main_eval_failure_without_allow_partial_exits_nonzero(
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
+@patch("automation.src.run_pipeline.AzureEmbedder")
 @patch("automation.src.run_pipeline.AzureLLMWrapper")
 @patch("automation.src.run_pipeline.load_pipeline_config")
 def test_main_allow_partial_keeps_zero_exit_on_eval_failure(
     mock_load_config,
     mock_wrapper,
+    mock_embedder,
     mock_translate,
     mock_eval,
     mock_generate_run_id,

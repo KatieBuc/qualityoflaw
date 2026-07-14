@@ -164,25 +164,40 @@ def _translate_one(
         )
 
 
-def _write_chunk_debug_artifacts(
+def chunks_artifact_path(chunks_dir: Path, filename: str) -> Path:
+    return chunks_dir / f"{Path(filename).stem}.chunks.json"
+
+
+def _write_cleaned_text_debug(
     chunks_dir: Path,
     filename: str,
     cleaned_lines: list[CleanedLine],
-    chunks: list[Chunk],
 ) -> None:
-    """Persist the clean (section 1) and chunk (section 2) results for inspection.
-
-    Writes ``<stem>.cleaned.txt`` (the reflowed text after OCR-noise removal,
-    one cleaned line per output line) and ``<stem>.chunks.json`` (chunk
-    metadata: text, type, context, section_id, chunk_index) into
-    ``data/automation/<run_id>/chunks/``.
+    """Persist the clean (section 1) result for inspection: ``<stem>.cleaned.txt``,
+    the reflowed text after OCR-noise removal, one cleaned line per output line.
+    Only written when --keep-chunk-result is passed; purely a debugging aid.
     """
     chunks_dir.mkdir(parents=True, exist_ok=True)
     stem = Path(filename).stem
-
     cleaned_text = "\n".join(line.text for line in cleaned_lines)
     (chunks_dir / f"{stem}.cleaned.txt").write_text(cleaned_text, encoding="utf-8")
 
+
+def _write_chunks_artifact(
+    chunks_dir: Path,
+    filename: str,
+    chunks: list[Chunk],
+    translations: list[str],
+) -> None:
+    """Persist chunk metadata plus each chunk's English translation as
+    ``<stem>.chunks.json`` into ``data/automation/<run_id>/chunks/``.
+
+    Always written when translation chunking is enabled (not gated behind
+    --keep-chunk-result) — the RAG storage step reuses these per-chunk
+    translations (and their structural boundaries decided from the source
+    language) instead of re-chunking the merged English output.
+    """
+    chunks_dir.mkdir(parents=True, exist_ok=True)
     chunks_data = [
         {
             "chunk_index": chunk.chunk_index,
@@ -190,10 +205,11 @@ def _write_chunk_debug_artifacts(
             "type": chunk.type,
             "context": chunk.context,
             "text": chunk.text,
+            "translated_text": translated,
         }
-        for chunk in chunks
+        for chunk, translated in zip(chunks, translations)
     ]
-    (chunks_dir / f"{stem}.chunks.json").write_text(
+    chunks_artifact_path(chunks_dir, filename).write_text(
         json.dumps(chunks_data, indent=2, ensure_ascii=False), encoding="utf-8"
     )
 
@@ -205,7 +221,8 @@ def _translate_one_chunked(
     fallback_template: str,
     wrapper: AzureLLMWrapper,
     safe_limit: int,
-    chunks_dir: Path | None = None,
+    chunks_dir: Path,
+    keep_cleaned_debug: bool = False,
 ) -> TranslateResult:
     """Clean -> chunk -> translate each chunk -> combine, per the chunking spec.
 
@@ -214,8 +231,10 @@ def _translate_one_chunked(
     splitting is further split into fallback sub-chunks, each translated with
     the previous sub-chunk's tail as non-translated context.
 
-    When `chunks_dir` is given (--keep-chunk-result), the clean and chunk
-    results are also written there for inspection/debugging.
+    The per-chunk translations are always persisted to `chunks_dir` (see
+    `_write_chunks_artifact`) for reuse by the RAG storage step. When
+    `keep_cleaned_debug` is set (--keep-chunk-result), the cleaned section-1
+    text is also written for inspection.
     """
     filename = input_path.name
     if not input_path.exists():
@@ -223,11 +242,9 @@ def _translate_one_chunked(
 
     try:
         source_text = input_path.read_text(encoding="utf-8")
-        if chunks_dir is not None:
-            cleaned_lines, chunks = chunk_policy_text_with_debug(source_text, safe_limit=safe_limit)
-            _write_chunk_debug_artifacts(chunks_dir, filename, cleaned_lines, chunks)
-        else:
-            chunks = chunk_policy_text(source_text, safe_limit=safe_limit)
+        cleaned_lines, chunks = chunk_policy_text_with_debug(source_text, safe_limit=safe_limit)
+        if keep_cleaned_debug:
+            _write_cleaned_text_debug(chunks_dir, filename, cleaned_lines)
 
         translations: list[str] = []
         total_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
@@ -242,6 +259,8 @@ def _translate_one_chunked(
             translations.append(translated)
             for key in total_usage:
                 total_usage[key] += usage.get(key, 0)
+
+        _write_chunks_artifact(chunks_dir, filename, chunks, translations)
 
         combined = combine_translations(chunks, translations)
         output_path.write_text(combined, encoding="utf-8")
@@ -299,7 +318,7 @@ def run_translation_step(
     fallback_template = (
         chunking.fallback_prompt_path.read_text(encoding="utf-8") if chunking.enabled else None
     )
-    chunks_dir = run_dir / "chunks" if (chunking.enabled and keep_chunk_result) else None
+    chunks_dir = run_dir / "chunks"
     input_files = resolve_input_files(config.paths.input_dir, small_scale)
 
     counts = {"total": len(input_files), "succeeded": 0, "skipped": 0, "failed": 0}
@@ -327,6 +346,7 @@ def run_translation_step(
                     wrapper,
                     chunking.safe_limit,
                     chunks_dir=chunks_dir,
+                    keep_cleaned_debug=keep_chunk_result,
                 )
                 for inp, out in pending
             ]

@@ -8,13 +8,16 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ChunkingConfig,
     ConcurrencyConfig,
+    HybridBM25Config,
     PipelinePaths,
+    RerankerConfig,
     ResolvedPipelineConfig,
+    RetrievalConfig,
+    StorageConfig,
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
-from automation.src.run_eval import _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
-from automation.src.run_eval import DimensionResult
+from automation.src.run_eval import DimensionResult, _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
 
 
 @pytest.fixture
@@ -26,8 +29,8 @@ def pipeline_config():
         translation_model=translate_model,
         evaluation_model=eval_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
-        evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
-        evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
+        evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2",
+        evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2" / "prompt_template.txt",
         paths=PipelinePaths(
             input_dir=PROJECT_ROOT / "data" / "raw" / "localpolicies",
             golden_csv=PROJECT_ROOT / "data" / "processed" / "long_policy_encoding.csv",
@@ -37,8 +40,38 @@ def pipeline_config():
         chunking=ChunkingConfig(
             enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
         ),
+        storage=StorageConfig(enabled=True, batch_size=16),
+        retrieval=RetrievalConfig(
+            top_k=10,
+            hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
+            reranker=RerankerConfig(enabled=False),
+            evidence_verification_enabled=True,
+        ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
+    )
+
+
+def _write_store(store_path: Path, chunks: list[str]) -> None:
+    store_path.parent.mkdir(parents=True, exist_ok=True)
+    store_path.write_text(
+        json.dumps(
+            {
+                "policy_file": store_path.stem + ".txt",
+                "chunks": [
+                    {
+                        "chunk_id": i,
+                        "section_id": 0,
+                        "chunk_index": 0,
+                        "type": "structural",
+                        "text": text,
+                        "embedding": [1.0, 0.0],
+                    }
+                    for i, text in enumerate(chunks)
+                ],
+            }
+        ),
+        encoding="utf-8",
     )
 
 
@@ -54,40 +87,59 @@ def test_merge_dimension_results_handles_failures():
     assert "1.1" in report["evaluation_results"]
 
 
-@patch("automation.src.run_eval.generate_judge_prompt", return_value="prompt")
-def test_evaluate_policy_parallel_merges_dimensions(mock_prompt):
-    from quality_eval.v1.criteria import CRITERIA_FILES
+def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
+    import re
+
+    from quality_eval.v1.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT
 
     policy_path = Path("policy.txt")
-    calls: list[str] = []
+    rag_store_dir = tmp_path / "rag_store"
+    _write_store(rag_store_dir / "policy.json", ["Some evidence sentence about the policy."])
+
+    embedder = MagicMock()
+    embedder.embed_texts.side_effect = lambda texts: [[1.0, 0.0] for _ in texts]
 
     def complete_fn(prompt: str) -> dict:
-        criteria = CRITERIA_FILES[len(calls)]
-        calls.append(criteria)
-        indicator_id = f"{len(calls)}.1"
+        # Extract the real indicator ids rendered into this dimension's prompt
+        # (avoids relying on call order, which is not guaranteed across threads),
+        # and cite the sole candidate's tag for each ("{cid}-0", since the
+        # store has exactly one chunk with chunk_id 0).
+        ids = re.findall(r"^- (\S+) \(", prompt, re.MULTILINE)
         return {
             "evaluation_results": {
-                indicator_id: {
-                    "id": indicator_id,
-                    "indicator": f"ind-{indicator_id}",
+                cid: {
+                    "id": cid,
+                    "indicator": f"ind-{cid}",
                     "included": "Yes",
+                    "evidence": f"{cid}-0",
+                    "rationale": "because",
                 }
+                for cid in ids
             }
         }
 
     limiter = ConcurrencyLimiter(max_workers=3, enabled=True)
     report = _evaluate_policy_parallel(
         policy_path=policy_path,
-        criteria_folder=Path("/criteria"),
-        template_path=Path("/template.txt"),
+        criteria_folder=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2",
+        template_text="{{CRITERIA_WITH_CANDIDATES}}",
         deployment_name="gpt-4o",
+        rag_store_dir=rag_store_dir,
+        embedder=embedder,
+        retrieval_config=RetrievalConfig(
+            top_k=10,
+            hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
+            reranker=RerankerConfig(enabled=False),
+            evidence_verification_enabled=True,
+        ),
         complete_fn=complete_fn,
         limiter=limiter,
     )
 
-    assert len(calls) == len(CRITERIA_FILES)
     assert len(report["completed_dimensions"]) == len(CRITERIA_FILES)
-    assert report["indicator_count"] == len(CRITERIA_FILES)
+    assert report["indicator_count"] == EXPECTED_INDICATOR_COUNT
+    assert report["evidence_verification_failures"] == []
+    assert all(item["evidence_verified"] is True for item in report["evaluation_results"].values())
 
 
 @pytest.fixture
@@ -115,12 +167,14 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     wrapper = MagicMock()
     wrapper.profile.deployment = "gpt-4o"
     wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    embedder = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
     result = run_evaluation_step(
         run_id=run_id,
         config=pipeline_config,
         wrapper=wrapper,
+        embedder=embedder,
         limiter=limiter,
         small_scale=False,
         allow_partial=False,

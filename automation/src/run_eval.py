@@ -6,19 +6,23 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Callable
 
-from quality_eval.run_eval_new import (
-    PolicyEvaluationResponse,
-    evaluate_policy,
-    finalize_and_save_report,
-)
+from quality_eval.run_eval_new import PolicyEvaluationResponse, finalize_and_save_report
 from quality_eval.v1.criteria import CRITERIA_FILES, PROMPT_VERSION
-from quality_eval.v1.prompts.prompt_loader import generate_judge_prompt
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir
-from automation.src.constants import SMALL_SCALE_FILES
+from automation.src.config_loader import ResolvedPipelineConfig, RetrievalConfig, get_run_dir
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
+from automation.src.policy_files import filter_policy_files
+from automation.src.rag.embedder import AzureEmbedder
+from automation.src.rag.evidence_check import resolve_evidence_citation
+from automation.src.rag.prompt_builder import (
+    build_candidate_lookup,
+    format_criteria_with_candidates,
+    parse_criteria_lines,
+)
+from automation.src.rag.retriever import load_policy_store, retrieve_evidence_candidates
+from automation.src.rag.store import store_path_for
 
 logger = logging.getLogger(__name__)
 
@@ -30,14 +34,6 @@ class DimensionResult:
     error: str | None = None
     error_type: str | None = None
     error_details: dict | None = None
-
-
-def _filter_policy_files(policy_dir: Path, small_scale: bool) -> list[Path]:
-    files = sorted(policy_dir.glob("*.txt"))
-    if small_scale:
-        allowed = set(SMALL_SCALE_FILES)
-        files = [f for f in files if f.name in allowed]
-    return files
 
 
 def _has_eval_report(output_dir: Path, policy_name: str) -> bool:
@@ -103,17 +99,37 @@ def _evaluate_dimension(
     policy_path: Path,
     criteria_file: str,
     criteria_folder: Path,
-    template_path: Path,
+    template_text: str,
+    store_chunks: list[dict],
+    embedder: AzureEmbedder,
+    retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
 ) -> DimensionResult:
     try:
-        final_prompt = generate_judge_prompt(
-            criteria_file_path=str(criteria_folder / criteria_file),
-            template_file_path=str(template_path),
-            policy_file_path=str(policy_path),
+        criteria_rows = parse_criteria_lines(str(criteria_folder / criteria_file))
+        question_embeddings = embedder.embed_texts([question for _, _, question in criteria_rows])
+
+        candidates_by_id = {
+            cid: retrieve_evidence_candidates(
+                query=question,
+                query_embedding=query_embedding,
+                store_chunks=store_chunks,
+                config=retrieval_config,
+            )
+            for (cid, _indicator, question), query_embedding in zip(
+                criteria_rows, question_embeddings
+            )
+        }
+
+        final_prompt = template_text.replace(
+            "{{CRITERIA_WITH_CANDIDATES}}",
+            format_criteria_with_candidates(criteria_rows, candidates_by_id),
         )
         batch_result = complete_fn(final_prompt)
         batch_evals = batch_result.get("evaluation_results", {})
+        candidate_lookup = build_candidate_lookup(candidates_by_id)
+        _resolve_batch_evidence(batch_evals, candidate_lookup, retrieval_config, policy_path.name)
+
         logger.info("[%s] %s completed", policy_path.name, criteria_file)
         return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
     except Exception as exc:
@@ -133,6 +149,45 @@ def _evaluate_dimension(
             error_type=error_type,
             error_details=details,
         )
+
+
+def _resolve_batch_evidence(
+    batch_evals: dict,
+    candidate_lookup: dict[str, str],
+    retrieval_config: RetrievalConfig,
+    policy_name: str,
+) -> None:
+    """Replace each "Yes" item's evidence (an LLM-cited candidate tag, e.g.
+    "1.3-4") with the real chunk text copied from `candidate_lookup` — the
+    temporary tag -> text table built for this dimension call. Since the
+    final evidence is copied verbatim from a retrieved chunk rather than
+    transcribed by the LLM, it can never diverge from the real document.
+    """
+    for cid, item in batch_evals.items():
+        if item.get("included") != "Yes":
+            item["evidence_verified"] = None
+            continue
+
+        if not retrieval_config.evidence_verification_enabled:
+            item["evidence_verified"] = None
+            continue
+
+        citation = item.get("evidence")
+        resolved_text = resolve_evidence_citation(citation, candidate_lookup)
+        if resolved_text is not None:
+            item["evidence"] = resolved_text
+            item["evidence_verified"] = True
+        else:
+            logger.warning(
+                "[%s] %s evidence citation %r did not match any retrieved candidate; nulling.",
+                policy_name,
+                cid,
+                citation,
+            )
+            item["evidence"] = None
+            item["evidence_verified"] = False
+            note = "[unresolved evidence citation removed]"
+            item["rationale"] = f"{item.get('rationale', '')} {note}".strip()
 
 
 def _merge_dimension_results(
@@ -176,24 +231,65 @@ def _merge_dimension_results(
         final_report["completed_dimensions"].append(result.criteria_file)
 
     final_report["indicator_count"] = len(final_report["evaluation_results"])
+    final_report["evidence_verification_failures"] = [
+        key
+        for key, item in final_report["evaluation_results"].items()
+        if item.get("evidence_verified") is False
+    ]
     return final_report
+
+
+def _evaluate_policy_serial(
+    policy_path: Path,
+    criteria_folder: Path,
+    template_text: str,
+    deployment_name: str,
+    rag_store_dir: Path,
+    embedder: AzureEmbedder,
+    retrieval_config: RetrievalConfig,
+    complete_fn: Callable[[str], dict],
+) -> dict:
+    store_chunks = load_policy_store(store_path_for(rag_store_dir, policy_path.name))
+    dimension_results = [
+        _evaluate_dimension(
+            policy_path,
+            criteria_file,
+            criteria_folder,
+            template_text,
+            store_chunks,
+            embedder,
+            retrieval_config,
+            complete_fn,
+        )
+        for criteria_file in CRITERIA_FILES
+    ]
+    return _merge_dimension_results(policy_path, deployment_name, dimension_results)
 
 
 def _evaluate_policy_parallel(
     policy_path: Path,
     criteria_folder: Path,
-    template_path: Path,
+    template_text: str,
     deployment_name: str,
+    rag_store_dir: Path,
+    embedder: AzureEmbedder,
+    retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
     limiter: ConcurrencyLimiter,
 ) -> dict:
-    logger.info("Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES))
+    logger.info(
+        "Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES)
+    )
+    store_chunks = load_policy_store(store_path_for(rag_store_dir, policy_path.name))
     tasks = [
         lambda cf=cf: _evaluate_dimension(
             policy_path,
             cf,
             criteria_folder,
-            template_path,
+            template_text,
+            store_chunks,
+            embedder,
+            retrieval_config,
             complete_fn,
         )
         for cf in CRITERIA_FILES
@@ -224,6 +320,7 @@ def run_evaluation_step(
     run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
+    embedder: AzureEmbedder,
     *,
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
@@ -232,12 +329,15 @@ def run_evaluation_step(
 ) -> dict:
     run_dir = get_run_dir(run_id)
     policy_dir = run_dir / "translation"
+    rag_store_dir = run_dir / "rag_store"
     output_dir = run_dir / "evaluation"
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    policy_files = _filter_policy_files(policy_dir, small_scale)
+    policy_files = filter_policy_files(policy_dir, small_scale)
     if not policy_files:
         raise FileNotFoundError(f"No policy files to evaluate in {policy_dir}")
+
+    template_text = config.evaluation_template_path.read_text(encoding="utf-8")
 
     total_candidates = len(policy_files)
     skipped = 0
@@ -282,13 +382,29 @@ def run_evaluation_step(
             print(f"Policy [{index}/{len(policy_files)}]: {policy_path.name}")
             print("=" * 50)
 
-            final_report = evaluate_policy(
-                policy_path=str(policy_path),
-                criteria_folder=str(config.evaluation_criteria_dir),
-                template_path=str(config.evaluation_template_path),
-                deployment_name=deployment_name,
-                complete_fn=complete_fn,
-            )
+            try:
+                final_report = _evaluate_policy_serial(
+                    policy_path,
+                    config.evaluation_criteria_dir,
+                    template_text,
+                    deployment_name,
+                    rag_store_dir,
+                    embedder,
+                    config.retrieval,
+                    complete_fn,
+                )
+            except Exception as exc:
+                entry = _failure_entry_from_exc(policy_path.name, exc)
+                record_failure(run_id, "evaluation", entry)
+                logger.error(
+                    "[%s] evaluation failed [%s]: %s",
+                    policy_path.name,
+                    entry["error_type"],
+                    entry["message"],
+                )
+                failed_policies.append(policy_path.name)
+                continue
+
             success, output_path, policy_failed = _process_policy_result(
                 policy_path,
                 final_report,
@@ -308,8 +424,11 @@ def run_evaluation_step(
             lambda p=p: _evaluate_policy_parallel(
                 p,
                 config.evaluation_criteria_dir,
-                config.evaluation_template_path,
+                template_text,
                 deployment_name,
+                rag_store_dir,
+                embedder,
+                config.retrieval,
                 complete_fn,
                 limiter,
             )

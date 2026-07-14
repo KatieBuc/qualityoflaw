@@ -4,7 +4,7 @@ from typing import Any
 
 from automation.src.config_loader import get_run_dir
 
-STEPS = ("translation", "evaluation")
+STEPS = ("translation", "storage", "evaluation")
 
 
 def _failures_path(run_id: str):
@@ -15,6 +15,7 @@ def _empty_log() -> dict[str, Any]:
     return {
         "updated_at": None,
         "translation": [],
+        "storage": [],
         "evaluation": [],
     }
 
@@ -34,7 +35,7 @@ def _write_failures(run_id: str, log: dict[str, Any]) -> None:
 
 
 def _item_key(step: str, entry: dict[str, Any]) -> str:
-    if step == "translation":
+    if step in ("translation", "storage"):
         return entry["filename"]
     if step == "evaluation":
         return entry["policy_file"]
@@ -67,16 +68,12 @@ def clear_failure(run_id: str, step: str, item_key: str) -> None:
 
     log = load_failures(run_id)
     items: list[dict[str, Any]] = log.get(step, [])
-    filtered = [
-        item
-        for item in items
-        if (item.get("filename") if step == "translation" else item.get("policy_file")) != item_key
-    ]
+    filtered = [item for item in items if _item_key(step, item) != item_key]
     if len(filtered) == len(items):
         return
 
     log[step] = filtered
-    if not log["translation"] and not log["evaluation"]:
+    if not log["translation"] and not log["storage"] and not log["evaluation"]:
         path.unlink(missing_ok=True)
         return
     _write_failures(run_id, log)
@@ -86,5 +83,6 @@ def summarize_failures(run_id: str) -> dict[str, int]:
     log = load_failures(run_id)
     return {
         "translation": len(log.get("translation", [])),
+        "storage": len(log.get("storage", [])),
         "evaluation": len(log.get("evaluation", [])),
     }

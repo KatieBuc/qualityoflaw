@@ -21,6 +21,8 @@ from automation.src.metadata import (
     update_metadata,
     validate_run_for_steps,
 )
+from automation.src.rag.embedder import AzureEmbedder
+from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
 from automation.src.translate import run_translation_step
 
@@ -37,7 +39,7 @@ def parse_steps(steps_arg: str | None) -> list[str]:
 
 def requires_run_id(steps: list[str], run_id: str | None) -> bool:
     eval_or_compare_only = (
-        any(step in steps for step in ("evaluation", "comparison"))
+        any(step in steps for step in ("storage", "evaluation", "comparison"))
         and "translation" not in steps
     )
     return run_id is None and eval_or_compare_only
@@ -56,6 +58,16 @@ def build_config_summary(config) -> dict:
         "chunking": {
             "enabled": config.chunking.enabled,
             "safe_limit": config.chunking.safe_limit,
+        },
+        "storage": {
+            "enabled": config.storage.enabled,
+            "batch_size": config.storage.batch_size,
+        },
+        "retrieval": {
+            "top_k": config.retrieval.top_k,
+            "hybrid_bm25_enabled": config.retrieval.hybrid_bm25.enabled,
+            "reranker_enabled": config.retrieval.reranker.enabled,
+            "evidence_verification_enabled": config.retrieval.evidence_verification_enabled,
         },
     }
 
@@ -92,7 +104,7 @@ def main() -> None:
     parser.add_argument(
         "--steps",
         default=None,
-        help="Comma-separated steps: translation, evaluation, comparison (default: all).",
+        help="Comma-separated steps: translation, storage, evaluation, comparison (default: all).",
     )
     parser.add_argument(
         "--run-id",
@@ -268,13 +280,45 @@ def main() -> None:
             if result["counts"]["failed"] > 0:
                 exit_code = 1
 
+        if "storage" in steps:
+            print("\nStep: storage")
+            embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+            result = run_storage_step(
+                run_id=run_id,
+                config=config,
+                embedder=embedder,
+                limiter=limiter,
+                small_scale=args.small_scale,
+                force=args.force,
+                run_missing=args.run_missing,
+            )
+            update_metadata(
+                run_id,
+                execution_scope={"steps_executed": ["storage"]},
+                file_counts={"storage": result["counts"]},
+                timing_seconds={"storage": result["elapsed_s"]},
+                failures=summarize_failures(run_id),
+            )
+            print(
+                f"Storage: {result['counts']['succeeded']} succeeded, "
+                f"{result['counts']['skipped']} skipped, "
+                f"{result['counts']['failed']} failed"
+            )
+            if result.get("failed_files"):
+                for entry in result["failed_files"]:
+                    print(f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}", file=sys.stderr)
+            if result["counts"]["failed"] > 0:
+                exit_code = 1
+
         if "evaluation" in steps:
             print("\nStep: evaluation")
             wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
+            embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
             result = run_evaluation_step(
                 run_id=run_id,
                 config=config,
                 wrapper=wrapper,
+                embedder=embedder,
                 limiter=limiter,
                 small_scale=args.small_scale,
                 allow_partial=args.allow_partial,

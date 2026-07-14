@@ -36,6 +36,14 @@ LONE_PUNCTUATION_RE = re.compile(r"^[.;,]$")
 # Section 1.2 — structural marker lines (BAB/Pasal/Bagian/Paragraf + a token).
 STRUCTURE_MARKER_RE = re.compile(r"^(BAB|Pasal|Bagian|Paragraf)\s+\S+")
 
+# English equivalents used by the translation step (BAB->Chapter, Pasal->Article,
+# Bagian->Part, Paragraf->Paragraph, observed consistently across translated
+# output). Used to chunk an already-translated file directly when no chunk
+# artifact from the translation step is available to reuse.
+STRUCTURE_MARKER_EN_RE = re.compile(
+    r"^(Chapter|Article|Part|Section|Paragraph)\s+\S+", re.IGNORECASE
+)
+
 # Section 1.2 — all-caps titles shorter than 60 characters (e.g. section headers).
 UPPER_TITLE_MAX_LEN = 60
 
@@ -84,16 +92,18 @@ def _is_all_upper_title(line: str) -> bool:
     return all(c.isupper() for c in letters)
 
 
-def is_structure_marker(line: str) -> bool:
+def is_structure_marker(line: str, marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE) -> bool:
     stripped = line.strip()
     if not stripped:
         return False
-    if STRUCTURE_MARKER_RE.match(stripped):
+    if marker_re.match(stripped):
         return True
     return _is_all_upper_title(stripped)
 
 
-def clean_text(raw_text: str) -> list[CleanedLine]:
+def clean_text(
+    raw_text: str, marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE
+) -> list[CleanedLine]:
     """Section 1: strip OCR noise, isolate structural markers, reflow paragraphs.
 
     Returns a list of CleanedLine entries where each entry is either a
@@ -118,7 +128,7 @@ def clean_text(raw_text: str) -> list[CleanedLine]:
             continue
         if is_noise_line(line):
             continue
-        if is_structure_marker(line):
+        if is_structure_marker(line, marker_re):
             flush()
             result.append(CleanedLine(text=line, is_structure=True))
             continue
@@ -231,9 +241,11 @@ def fallback_split(
     return result
 
 
-def clean_and_split_sections(raw_text: str) -> tuple[list[CleanedLine], list[str]]:
+def clean_and_split_sections(
+    raw_text: str, marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE
+) -> tuple[list[CleanedLine], list[str]]:
     """Sections 1-2 layer 1: clean the raw text and split it into sections."""
-    cleaned_lines = clean_text(raw_text)
+    cleaned_lines = clean_text(raw_text, marker_re)
     sections = split_into_sections(cleaned_lines)
     return cleaned_lines, sections
 
@@ -260,19 +272,25 @@ def _chunks_from_sections(sections: list[str], safe_limit: int) -> list[Chunk]:
     return chunks
 
 
-def chunk_policy_text(raw_text: str, safe_limit: int = SAFE_LIMIT_DEFAULT) -> list[Chunk]:
+def chunk_policy_text(
+    raw_text: str,
+    safe_limit: int = SAFE_LIMIT_DEFAULT,
+    marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE,
+) -> list[Chunk]:
     """Run the full clean -> chunk pipeline (sections 1-2) and return chunk metadata."""
-    _, sections = clean_and_split_sections(raw_text)
+    _, sections = clean_and_split_sections(raw_text, marker_re)
     return _chunks_from_sections(sections, safe_limit)
 
 
 def chunk_policy_text_with_debug(
-    raw_text: str, safe_limit: int = SAFE_LIMIT_DEFAULT
+    raw_text: str,
+    safe_limit: int = SAFE_LIMIT_DEFAULT,
+    marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE,
 ) -> tuple[list[CleanedLine], list[Chunk]]:
     """Same as chunk_policy_text, but also returns the cleaned lines (section 1
     output) so callers can persist both the clean and chunk results, e.g. for
     the --keep-chunk-result debugging option."""
-    cleaned_lines, sections = clean_and_split_sections(raw_text)
+    cleaned_lines, sections = clean_and_split_sections(raw_text, marker_re)
     chunks = _chunks_from_sections(sections, safe_limit)
     return cleaned_lines, chunks
 

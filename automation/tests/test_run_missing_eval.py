@@ -8,8 +8,12 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
     ChunkingConfig,
     ConcurrencyConfig,
+    HybridBM25Config,
     PipelinePaths,
+    RerankerConfig,
     ResolvedPipelineConfig,
+    RetrievalConfig,
+    StorageConfig,
 )
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
@@ -35,6 +39,13 @@ def pipeline_config(tmp_path):
         concurrency=ConcurrencyConfig(enabled=True, max_workers=3),
         chunking=ChunkingConfig(
             enabled=False, safe_limit=32000, fallback_prompt_path=CHUNKING_FALLBACK_PROMPT
+        ),
+        storage=StorageConfig(enabled=True, batch_size=16),
+        retrieval=RetrievalConfig(
+            top_k=10,
+            hybrid_bm25=HybridBM25Config(enabled=False, rrf_k=60),
+            reranker=RerankerConfig(enabled=False),
+            evidence_verification_enabled=True,
         ),
         pipeline_config_path=AUTOMATION_ROOT / "config" / "pipeline_config.yaml",
         model_config_path=AUTOMATION_ROOT / "config" / "model_config.yaml",
@@ -96,6 +107,7 @@ def test_run_evaluation_step_run_missing_skips_existing(mock_eval_parallel, pipe
     wrapper = MagicMock()
     wrapper.profile.deployment = "gpt-4o"
     wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    embedder = MagicMock()
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
     with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/B.json")):
@@ -103,6 +115,7 @@ def test_run_evaluation_step_run_missing_skips_existing(mock_eval_parallel, pipe
             run_id=run_id,
             config=pipeline_config,
             wrapper=wrapper,
+            embedder=embedder,
             limiter=limiter,
             small_scale=False,
             run_missing=True,
