@@ -60,6 +60,7 @@ class RetrievalConfig:
     hybrid_bm25: HybridBM25Config
     reranker: RerankerConfig
     evidence_verification_enabled: bool
+    enabled: bool = True
 
 
 @dataclass
@@ -161,23 +162,22 @@ def parse_chunking_config(raw: dict | None) -> ChunkingConfig:
     )
 
 
-def parse_storage_config(raw: dict | None) -> StorageConfig:
-    if not raw:
-        return StorageConfig(enabled=True, batch_size=16)
+def parse_storage_config(raw: dict | None, *, rag_enabled: bool) -> StorageConfig:
+    raw = raw or {}
 
     batch_size = int(raw.get("batch_size", 16))
     if batch_size < 1:
-        raise ValueError("storage.batch_size must be >= 1")
+        raise ValueError("evaluation.rag.storage.batch_size must be >= 1")
 
-    return StorageConfig(enabled=bool(raw.get("enabled", True)), batch_size=batch_size)
+    return StorageConfig(enabled=rag_enabled, batch_size=batch_size)
 
 
-def parse_retrieval_config(raw: dict | None) -> RetrievalConfig:
+def parse_retrieval_config(raw: dict | None, *, rag_enabled: bool) -> RetrievalConfig:
     raw = raw or {}
 
     top_k = int(raw.get("top_k", 10))
     if top_k < 1:
-        raise ValueError("retrieval.top_k must be >= 1")
+        raise ValueError("evaluation.rag.retrieval.top_k must be >= 1")
 
     bm25_raw = raw.get("hybrid_bm25") or {}
     reranker_raw = raw.get("reranker") or {}
@@ -191,6 +191,7 @@ def parse_retrieval_config(raw: dict | None) -> RetrievalConfig:
         ),
         reranker=RerankerConfig(enabled=bool(reranker_raw.get("enabled", False))),
         evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
+        enabled=rag_enabled,
     )
 
 
@@ -253,6 +254,9 @@ def load_pipeline_config(
         diagnosis_version,
     )
 
+    rag_cfg = evaluation_cfg.get("rag") or {}
+    rag_enabled = bool(rag_cfg.get("enabled", True))
+
     return ResolvedPipelineConfig(
         experiment_name=pipeline_data.get("experiment_name", "unnamed"),
         translation_model=get_model_profile(profiles, translation_model_key),
@@ -273,8 +277,8 @@ def load_pipeline_config(
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
-        storage=parse_storage_config(pipeline_data.get("storage")),
-        retrieval=parse_retrieval_config(pipeline_data.get("retrieval")),
+        storage=parse_storage_config(rag_cfg.get("storage"), rag_enabled=rag_enabled),
+        retrieval=parse_retrieval_config(rag_cfg.get("retrieval"), rag_enabled=rag_enabled),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
     )

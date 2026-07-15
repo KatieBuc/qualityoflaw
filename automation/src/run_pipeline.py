@@ -67,6 +67,7 @@ def build_config_summary(config) -> dict:
             "batch_size": config.storage.batch_size,
         },
         "retrieval": {
+            "enabled": config.retrieval.enabled,
             "top_k": config.retrieval.top_k,
             "hybrid_bm25_enabled": config.retrieval.hybrid_bm25.enabled,
             "reranker_enabled": config.retrieval.reranker.enabled,
@@ -287,39 +288,46 @@ def main() -> None:
                 exit_code = 1
 
         if "storage" in steps:
-            print("\nStep: storage")
-            embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
-            result = run_storage_step(
-                run_id=run_id,
-                config=config,
-                embedder=embedder,
-                limiter=limiter,
-                small_scale=args.small_scale,
-                force=args.force,
-                run_missing=args.run_missing,
-            )
-            update_metadata(
-                run_id,
-                execution_scope={"steps_executed": ["storage"]},
-                file_counts={"storage": result["counts"]},
-                timing_seconds={"storage": result["elapsed_s"]},
-                failures=summarize_failures(run_id),
-            )
-            print(
-                f"Storage: {result['counts']['succeeded']} succeeded, "
-                f"{result['counts']['skipped']} skipped, "
-                f"{result['counts']['failed']} failed"
-            )
-            if result.get("failed_files"):
-                for entry in result["failed_files"]:
-                    print(f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}", file=sys.stderr)
-            if result["counts"]["failed"] > 0:
-                exit_code = 1
+            if not config.storage.enabled:
+                print("\nStep: storage (skipped — evaluation.rag.enabled is false)")
+            else:
+                print("\nStep: storage")
+                embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+                result = run_storage_step(
+                    run_id=run_id,
+                    config=config,
+                    embedder=embedder,
+                    limiter=limiter,
+                    small_scale=args.small_scale,
+                    force=args.force,
+                    run_missing=args.run_missing,
+                )
+                update_metadata(
+                    run_id,
+                    execution_scope={"steps_executed": ["storage"]},
+                    file_counts={"storage": result["counts"]},
+                    timing_seconds={"storage": result["elapsed_s"]},
+                    failures=summarize_failures(run_id),
+                )
+                print(
+                    f"Storage: {result['counts']['succeeded']} succeeded, "
+                    f"{result['counts']['skipped']} skipped, "
+                    f"{result['counts']['failed']} failed"
+                )
+                if result.get("failed_files"):
+                    for entry in result["failed_files"]:
+                        print(f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}", file=sys.stderr)
+                if result["counts"]["failed"] > 0:
+                    exit_code = 1
 
         if "evaluation" in steps:
             print("\nStep: evaluation")
             wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
-            embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+            embedder = (
+                AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+                if config.retrieval.enabled
+                else None
+            )
             result = run_evaluation_step(
                 run_id=run_id,
                 config=config,

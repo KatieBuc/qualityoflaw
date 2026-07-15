@@ -102,12 +102,28 @@ def _evaluate_dimension(
     criteria_folder: Path,
     template_text: str,
     store_chunks: list[dict],
-    embedder: AzureEmbedder,
+    embedder: AzureEmbedder | None,
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
 ) -> DimensionResult:
     try:
         criteria_rows = parse_criteria_lines(str(criteria_folder / criteria_file))
+
+        if not retrieval_config.enabled:
+            criteria_list_str = "\n".join(
+                f"- {cid} ({indicator}): {question}" for cid, indicator, question in criteria_rows
+            )
+            final_prompt = template_text.replace("{{CRITERIA_LIST}}", criteria_list_str).replace(
+                "{{POLICY_TEXT}}", policy_path.read_text(encoding="utf-8")
+            )
+            batch_result = complete_fn(final_prompt)
+            batch_evals = batch_result.get("evaluation_results", {})
+            for item in batch_evals.values():
+                item["evidence_verified"] = None
+
+            logger.info("[%s] %s completed (full-policy mode)", policy_path.name, criteria_file)
+            return DimensionResult(criteria_file=criteria_file, batch_evals=batch_evals)
+
         question_embeddings = embedder.embed_texts([question for _, _, question in criteria_rows])
 
         candidates_by_id = {
@@ -251,11 +267,15 @@ def _evaluate_policy_serial(
     template_text: str,
     deployment_name: str,
     rag_store_dir: Path,
-    embedder: AzureEmbedder,
+    embedder: AzureEmbedder | None,
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
 ) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
-    store_chunks = load_policy_store(store_path_for(rag_store_dir, policy_path.name))
+    store_chunks = (
+        load_policy_store(store_path_for(rag_store_dir, policy_path.name))
+        if retrieval_config.enabled
+        else []
+    )
     dimension_results = [
         _evaluate_dimension(
             policy_path,
@@ -278,7 +298,7 @@ def _evaluate_policy_parallel(
     template_text: str,
     deployment_name: str,
     rag_store_dir: Path,
-    embedder: AzureEmbedder,
+    embedder: AzureEmbedder | None,
     retrieval_config: RetrievalConfig,
     complete_fn: Callable[[str], dict],
     limiter: ConcurrencyLimiter,
@@ -286,7 +306,11 @@ def _evaluate_policy_parallel(
     logger.info(
         "Starting parallel evaluation for %s (%d dimensions)", policy_path.name, len(CRITERIA_FILES)
     )
-    store_chunks = load_policy_store(store_path_for(rag_store_dir, policy_path.name))
+    store_chunks = (
+        load_policy_store(store_path_for(rag_store_dir, policy_path.name))
+        if retrieval_config.enabled
+        else []
+    )
     tasks = [
         lambda cf=cf: _evaluate_dimension(
             policy_path,
@@ -353,7 +377,7 @@ def run_evaluation_step(
     run_id: str,
     config: ResolvedPipelineConfig,
     wrapper: AzureLLMWrapper,
-    embedder: AzureEmbedder,
+    embedder: AzureEmbedder | None,
     *,
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,

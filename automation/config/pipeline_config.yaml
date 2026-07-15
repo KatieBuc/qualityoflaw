@@ -2,35 +2,31 @@ experiment_name: first-full-run
 
 concurrency:
   enabled: true
-  max_workers: 5
+  max_workers: 8
 
 translation:
   model: claude-sonnet-4-5
   prompt_version: v2
-  # Clean -> chunk -> translate -> combine pipeline for oversized policy files.
-  # See automation/src/chunking.py. Disabled by default (existing single-call
-  # translation is used unless enabled: true).
   chunking:
     enabled: true
     safe_limit: 32000
 
-storage:
-  enabled: true
-  batch_size: 16
-
-retrieval:
-  top_k: 10
-  hybrid_bm25:
-    enabled: true
-    rrf_k: 60
-  reranker:
-    enabled: false
-  evidence_verification:
-    enabled: true
-
 evaluation:
   model: gpt-5.2
-  prompt_version: v2
+  prompt_version: v1
+  rag:
+    enabled: true
+    storage:
+      batch_size: 16
+    retrieval:
+      top_k: 10
+      hybrid_bm25:
+        enabled: true
+        rrf_k: 60
+      reranker:
+        enabled: false
+      evidence_verification:
+        enabled: true
 
 discrepancy_diagnosis:
   model: gpt-5.2-diagnosis
