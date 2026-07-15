@@ -123,34 +123,6 @@ def test_run_translation_step_skips_existing(pipeline_config, data_root):
     wrapper.complete_text.assert_not_called()
 
 
-def test_run_translation_step_skips_existing_with_run_missing(pipeline_config, data_root):
-    run_id = "translate_run_missing"
-    input_dir = pipeline_config.paths.input_dir
-    input_dir.mkdir(parents=True)
-    (input_dir / "A.txt").write_text("source", encoding="utf-8")
-
-    out_dir = data_root / run_id / "translation"
-    out_dir.mkdir(parents=True)
-    (out_dir / "A.txt").write_text("existing", encoding="utf-8")
-
-    wrapper = MagicMock()
-    limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
-
-    result = run_translation_step(
-        run_id=run_id,
-        config=pipeline_config,
-        wrapper=wrapper,
-        limiter=limiter,
-        small_scale=False,
-        force=False,
-        run_missing=True,
-    )
-
-    assert result["counts"]["skipped"] == 1
-    assert result["counts"]["succeeded"] == 0
-    wrapper.complete_text.assert_not_called()
-
-
 def test_run_translation_step_force_retranslates(pipeline_config, data_root):
     run_id = "translate_force"
     input_dir = pipeline_config.paths.input_dir

@@ -128,7 +128,6 @@ def run_storage_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     force: bool = False,
-    run_missing: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
     policy_dir = run_dir / "translation"

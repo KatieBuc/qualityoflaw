@@ -223,7 +223,7 @@ def run_diagnosis_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     allow_partial: bool = False,
-    run_missing: bool = False,
+    force: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
     comparison_dir = run_dir / "comparison"
@@ -258,16 +258,15 @@ def run_diagnosis_step(
     output_dir.mkdir(parents=True, exist_ok=True)
 
     skipped = 0
-    if run_missing:
-        remaining: dict[str, list[dict]] = {}
-        for filename, rows in grouped.items():
-            report_path = output_dir / f"{Path(filename).stem}.json"
-            if report_path.exists():
-                skipped += 1
-                logger.info("[%s] skipped (diagnosis report exists)", filename)
-            else:
-                remaining[filename] = rows
-        grouped = remaining
+    remaining: dict[str, list[dict]] = {}
+    for filename, rows in grouped.items():
+        report_path = output_dir / f"{Path(filename).stem}.json"
+        if not force and report_path.exists():
+            skipped += 1
+            logger.info("[%s] skipped (diagnosis report exists)", filename)
+        else:
+            remaining[filename] = rows
+    grouped = remaining
 
     total_candidates = len(grouped) + skipped
 

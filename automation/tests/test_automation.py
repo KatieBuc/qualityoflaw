@@ -268,3 +268,69 @@ def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):
 
     with pytest.raises(FileNotFoundError, match="Translation output required"):
         validate_run_for_steps(run_id, ["evaluation"])
+
+
+def test_validate_run_for_steps_requires_rag_store_when_retrieval_enabled(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+
+    run_id = "test_run"
+    run_dir = tmp_path / run_id
+    translation_dir = run_dir / "translation"
+    translation_dir.mkdir(parents=True)
+    (translation_dir / "A.txt").write_text("text", encoding="utf-8")
+
+    from automation.src.metadata import validate_run_for_steps
+
+    with pytest.raises(FileNotFoundError, match="RAG store required"):
+        validate_run_for_steps(run_id, ["evaluation"], retrieval_enabled=True)
+
+
+def test_validate_run_for_steps_allows_comparison_when_evaluation_also_requested(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+
+    run_id = "test_run"
+    run_dir = tmp_path / run_id
+    translation_dir = run_dir / "translation"
+    translation_dir.mkdir(parents=True)
+    (translation_dir / "A.txt").write_text("text", encoding="utf-8")
+    rag_store_dir = run_dir / "rag_store"
+    rag_store_dir.mkdir(parents=True)
+    (rag_store_dir / "A.json").write_text("{}", encoding="utf-8")
+
+    from automation.src.metadata import validate_run_for_steps
+
+    # evaluation/ has no reports yet, but "evaluation" is also requested in this
+    # invocation and will produce them before "comparison" runs — must not raise.
+    validate_run_for_steps(run_id, ["evaluation", "comparison"], retrieval_enabled=True)
+
+
+def test_validate_run_for_steps_rejects_comparison_alone_without_evaluation_output(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+
+    run_id = "test_run"
+    run_dir = tmp_path / run_id
+    run_dir.mkdir(parents=True)
+
+    from automation.src.metadata import validate_run_for_steps
+
+    with pytest.raises(FileNotFoundError, match="Evaluation output required"):
+        validate_run_for_steps(run_id, ["comparison"], retrieval_enabled=True)
+
+
+def test_validate_run_for_steps_skips_rag_store_when_retrieval_disabled(tmp_path, monkeypatch):
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+
+    run_id = "test_run"
+    run_dir = tmp_path / run_id
+    translation_dir = run_dir / "translation"
+    translation_dir.mkdir(parents=True)
+    (translation_dir / "A.txt").write_text("text", encoding="utf-8")
+
+    from automation.src.metadata import validate_run_for_steps
+
+    # No rag_store/ directory exists — this must not raise when retrieval is disabled.
+    validate_run_for_steps(run_id, ["evaluation"], retrieval_enabled=False)

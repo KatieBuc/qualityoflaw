@@ -2,8 +2,10 @@ import pytest
 
 from automation.src.failure_log import (
     clear_failure,
+    clear_step_failure,
     load_failures,
     record_failure,
+    record_step_failure,
     summarize_failures,
 )
 
@@ -142,7 +144,37 @@ def test_summarize_failures(data_root):
     )
 
     summary = summarize_failures(run_id)
-    assert summary == {"translation": 1, "storage": 0, "evaluation": 1, "discrepancy_diagnosis": 0}
+    assert summary == {
+        "translation": 1,
+        "storage": 0,
+        "evaluation": 1,
+        "discrepancy_diagnosis": 0,
+        "step_failures": 0,
+    }
+
+
+def test_record_and_clear_step_failure(data_root):
+    run_id = "step_fail_run"
+    record_step_failure(run_id, "evaluation", "No policy files to evaluate")
+
+    log = load_failures(run_id)
+    assert log["step_failures"] == [
+        {"step": "evaluation", "message": "No policy files to evaluate", "at": log["step_failures"][0]["at"]}
+    ]
+    assert summarize_failures(run_id)["step_failures"] == 1
+
+    clear_step_failure(run_id, "evaluation")
+    assert not (data_root / run_id / "failures.json").exists()
+
+
+def test_record_step_failure_replaces_prior_entry_for_same_step(data_root):
+    run_id = "step_fail_replace"
+    record_step_failure(run_id, "translation", "first failure")
+    record_step_failure(run_id, "translation", "second failure")
+
+    log = load_failures(run_id)
+    assert len(log["step_failures"]) == 1
+    assert log["step_failures"][0]["message"] == "second failure"
 
 
 def test_load_failures_empty_run(data_root):
@@ -152,4 +184,5 @@ def test_load_failures_empty_run(data_root):
         "storage": [],
         "evaluation": [],
         "discrepancy_diagnosis": [],
+        "step_failures": [],
     }

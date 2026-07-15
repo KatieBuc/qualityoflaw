@@ -306,7 +306,6 @@ def run_translation_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     force: bool = False,
-    run_missing: bool = False,
     keep_chunk_result: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)

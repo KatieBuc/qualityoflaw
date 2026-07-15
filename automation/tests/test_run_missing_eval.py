@@ -83,7 +83,7 @@ def test_has_eval_report_by_filename_suffix(data_root):
 
 
 @patch("automation.src.run_eval._evaluate_policy_parallel")
-def test_run_evaluation_step_run_missing_skips_existing(mock_eval_parallel, pipeline_config, data_root):
+def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipeline_config, data_root):
     run_id = "eval_missing"
     run_dir = data_root / run_id
     translation_dir = run_dir / "translation"
@@ -126,9 +126,59 @@ def test_run_evaluation_step_run_missing_skips_existing(mock_eval_parallel, pipe
             embedder=embedder,
             limiter=limiter,
             small_scale=False,
-            run_missing=True,
         )
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["total"] == 2
+    assert mock_eval_parallel.call_count == 1
+
+
+@patch("automation.src.run_eval._evaluate_policy_parallel")
+def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_config, data_root):
+    run_id = "eval_force"
+    run_dir = data_root / run_id
+    translation_dir = run_dir / "translation"
+    evaluation_dir = run_dir / "evaluation"
+    translation_dir.mkdir(parents=True)
+    evaluation_dir.mkdir(parents=True)
+
+    (translation_dir / "A.txt").write_text("policy A", encoding="utf-8")
+    (evaluation_dir / "01012025120000-gpt-4o-A.json").write_text(
+        json.dumps({"policy_file": "A.txt", "evaluation_results": {}}),
+        encoding="utf-8",
+    )
+
+    mock_eval_parallel.return_value = (
+        {
+            "policy_file": "A.txt",
+            "model": "gpt-4o",
+            "evaluated_at": "2026-01-01T00:00:00+00:00",
+            "prompt_version": "v1",
+            "completed_dimensions": ["01.txt"],
+            "failed_dimensions": [],
+            "errors": [],
+            "evaluation_results": {"1.1": {"id": "1.1", "included": "Yes"}},
+        },
+        {},
+    )
+
+    wrapper = MagicMock()
+    wrapper.profile.deployment = "gpt-4o"
+    wrapper.token_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
+    embedder = MagicMock()
+    limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
+
+    with patch("automation.src.run_eval.finalize_and_save_report", return_value=(True, "/tmp/A.json")):
+        result = run_evaluation_step(
+            run_id=run_id,
+            config=pipeline_config,
+            wrapper=wrapper,
+            embedder=embedder,
+            limiter=limiter,
+            small_scale=False,
+            force=True,
+        )
+
+    assert result["counts"]["skipped"] == 0
+    assert result["counts"]["total"] == 1
     assert mock_eval_parallel.call_count == 1

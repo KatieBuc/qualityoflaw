@@ -18,6 +18,7 @@ def _empty_log() -> dict[str, Any]:
         "storage": [],
         "evaluation": [],
         "discrepancy_diagnosis": [],
+        "step_failures": [],
     }
 
 
@@ -74,11 +75,46 @@ def clear_failure(run_id: str, step: str, item_key: str) -> None:
         return
 
     log[step] = filtered
+    _write_or_delete(run_id, log)
+
+
+def record_step_failure(run_id: str, step: str, message: str) -> None:
+    """Record a fatal, whole-step failure (e.g. the step raised before
+    producing any per-item results) rather than a per-item failure.
+    """
+    log = load_failures(run_id)
+    step_failures: list[dict[str, Any]] = log.get("step_failures", [])
+    step_failures = [item for item in step_failures if item.get("step") != step]
+    step_failures.append(
+        {"step": step, "message": message, "at": datetime.now(timezone.utc).isoformat()}
+    )
+    log["step_failures"] = step_failures
+    _write_failures(run_id, log)
+
+
+def clear_step_failure(run_id: str, step: str) -> None:
+    path = _failures_path(run_id)
+    if not path.exists():
+        return
+
+    log = load_failures(run_id)
+    step_failures: list[dict[str, Any]] = log.get("step_failures", [])
+    filtered = [item for item in step_failures if item.get("step") != step]
+    if len(filtered) == len(step_failures):
+        return
+
+    log["step_failures"] = filtered
+    _write_or_delete(run_id, log)
+
+
+def _write_or_delete(run_id: str, log: dict[str, Any]) -> None:
+    path = _failures_path(run_id)
     if (
         not log.get("translation")
         and not log.get("storage")
         and not log.get("evaluation")
         and not log.get("discrepancy_diagnosis")
+        and not log.get("step_failures")
     ):
         path.unlink(missing_ok=True)
         return
@@ -92,4 +128,5 @@ def summarize_failures(run_id: str) -> dict[str, int]:
         "storage": len(log.get("storage", [])),
         "evaluation": len(log.get("evaluation", [])),
         "discrepancy_diagnosis": len(log.get("discrepancy_diagnosis", [])),
+        "step_failures": len(log.get("step_failures", [])),
     }

@@ -382,7 +382,7 @@ def run_evaluation_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     allow_partial: bool = False,
-    run_missing: bool = False,
+    force: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
     policy_dir = run_dir / "translation"
@@ -399,15 +399,14 @@ def run_evaluation_step(
 
     total_candidates = len(policy_files)
     skipped = 0
-    if run_missing:
-        pending_files: list[Path] = []
-        for policy_path in policy_files:
-            if _has_eval_report(output_dir, policy_path.name):
-                skipped += 1
-                logger.info("[%s] skipped (eval report exists)", policy_path.name)
-            else:
-                pending_files.append(policy_path)
-        policy_files = pending_files
+    pending_files: list[Path] = []
+    for policy_path in policy_files:
+        if not force and _has_eval_report(output_dir, policy_path.name):
+            skipped += 1
+            logger.info("[%s] skipped (eval report exists)", policy_path.name)
+        else:
+            pending_files.append(policy_path)
+    policy_files = pending_files
 
     def complete_fn(prompt: str) -> dict:
         return wrapper.complete_structured(prompt, PolicyEvaluationResponse)

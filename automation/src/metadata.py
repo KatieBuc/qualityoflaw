@@ -106,10 +106,18 @@ def ensure_run_exists(run_id: str) -> Path:
     return run_dir
 
 
-def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
+def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: bool = True) -> Path:
+    """Check that each requested step's prerequisite output already exists.
+
+    A step's prerequisite is only enforced when the earlier step that would
+    produce it is *not* also being run in this same invocation — e.g.
+    requesting `--steps evaluation,comparison` lets comparison run right
+    after evaluation produces its output, without pre-flight rejecting the
+    whole run because evaluation/ is still empty at validation time.
+    """
     run_dir = ensure_run_exists(run_id)
 
-    if "storage" in steps:
+    if "storage" in steps and "translation" not in steps:
         translation_dir = run_dir / "translation"
         if not translation_dir.is_dir():
             raise FileNotFoundError(f"Translation output required for storage: {translation_dir}")
@@ -118,25 +126,27 @@ def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
             raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
     if "evaluation" in steps:
-        translation_dir = run_dir / "translation"
-        if not translation_dir.is_dir():
-            raise FileNotFoundError(
-                f"Translation output required for evaluation: {translation_dir}"
-            )
-        txt_files = list(translation_dir.glob("*.txt"))
-        if not txt_files:
-            raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
+        if "translation" not in steps:
+            translation_dir = run_dir / "translation"
+            if not translation_dir.is_dir():
+                raise FileNotFoundError(
+                    f"Translation output required for evaluation: {translation_dir}"
+                )
+            txt_files = list(translation_dir.glob("*.txt"))
+            if not txt_files:
+                raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
-        rag_store_dir = run_dir / "rag_store"
-        if not rag_store_dir.is_dir():
-            raise FileNotFoundError(
-                f"RAG store required for evaluation: {rag_store_dir}. Run the storage step first."
-            )
-        store_files = list(rag_store_dir.glob("*.json"))
-        if not store_files:
-            raise FileNotFoundError(f"No RAG store files in {rag_store_dir}")
+        if retrieval_enabled and "storage" not in steps:
+            rag_store_dir = run_dir / "rag_store"
+            if not rag_store_dir.is_dir():
+                raise FileNotFoundError(
+                    f"RAG store required for evaluation: {rag_store_dir}. Run the storage step first."
+                )
+            store_files = list(rag_store_dir.glob("*.json"))
+            if not store_files:
+                raise FileNotFoundError(f"No RAG store files in {rag_store_dir}")
 
-    if "comparison" in steps:
+    if "comparison" in steps and "evaluation" not in steps:
         evaluation_dir = run_dir / "evaluation"
         if not evaluation_dir.is_dir():
             raise FileNotFoundError(
@@ -147,29 +157,31 @@ def validate_run_for_steps(run_id: str, steps: list[str]) -> Path:
             raise FileNotFoundError(f"No evaluation .json files in {evaluation_dir}")
 
     if "discrepancy_diagnosis" in steps:
-        rag_candidates_dir = run_dir / "rag_candidates"
-        if not rag_candidates_dir.is_dir() or not list(rag_candidates_dir.glob("*.json")):
-            raise FileNotFoundError(
-                f"RAG candidates required for discrepancy_diagnosis: {rag_candidates_dir}. "
-                "Run (or re-run with --force) the evaluation step first — rag_candidates/ is "
-                "only written by the evaluation step."
-            )
+        if "evaluation" not in steps:
+            rag_candidates_dir = run_dir / "rag_candidates"
+            if not rag_candidates_dir.is_dir() or not list(rag_candidates_dir.glob("*.json")):
+                raise FileNotFoundError(
+                    f"RAG candidates required for discrepancy_diagnosis: {rag_candidates_dir}. "
+                    "Run (or re-run with --force) the evaluation step first — rag_candidates/ is "
+                    "only written by the evaluation step."
+                )
 
-        evaluation_dir = run_dir / "evaluation"
-        if not evaluation_dir.is_dir() or not list(evaluation_dir.glob("*.json")):
-            raise FileNotFoundError(
-                f"Evaluation output required for discrepancy_diagnosis: {evaluation_dir}. "
-                "Run the evaluation step first."
-            )
+            evaluation_dir = run_dir / "evaluation"
+            if not evaluation_dir.is_dir() or not list(evaluation_dir.glob("*.json")):
+                raise FileNotFoundError(
+                    f"Evaluation output required for discrepancy_diagnosis: {evaluation_dir}. "
+                    "Run the evaluation step first."
+                )
 
-        comparison_dir = run_dir / "comparison"
-        if not comparison_dir.is_dir():
-            raise FileNotFoundError(
-                f"Comparison output required for discrepancy_diagnosis: {comparison_dir}. "
-                "Run the comparison step first."
-            )
-        # comparison_dir existing but with no error_analysis.csv is VALID — it means
-        # comparison ran and found zero mismatches. run_diagnosis_step handles that
-        # itself (returns a no-op result), so no further check is made here.
+        if "comparison" not in steps:
+            comparison_dir = run_dir / "comparison"
+            if not comparison_dir.is_dir():
+                raise FileNotFoundError(
+                    f"Comparison output required for discrepancy_diagnosis: {comparison_dir}. "
+                    "Run the comparison step first."
+                )
+            # comparison_dir existing but with no error_analysis.csv is VALID — it means
+            # comparison ran and found zero mismatches. run_diagnosis_step handles that
+            # itself (returns a no-op result), so no further check is made here.
 
     return run_dir

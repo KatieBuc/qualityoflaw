@@ -133,11 +133,17 @@ Written by the `evaluation` step alongside each policy's report. One JSON file p
 }
 ```
 
-Only written for policies whose evaluation report was actually saved (matches `finalize_and_save_report`'s success/`--allow-partial` conditions). Runs whose `evaluation` step executed before this directory existed do not have it — re-run `evaluation` (with `--force`, since `--run-missing` skips policies with an existing report) to backfill it before running `discrepancy_diagnosis`.
+Only written for policies whose evaluation report was actually saved (matches `finalize_and_save_report`'s success/`--allow-partial` conditions). Runs whose `evaluation` step executed before this directory existed do not have it — re-run `evaluation` with `--force` (evaluation skips policies with an existing report by default) to backfill it before running `discrepancy_diagnosis`.
 
 ### `failures.json`
 
-Written when translation, evaluation, or discrepancy_diagnosis failures occur. Each step maintains its own list; re-running a successful item removes it from the log.
+Written when translation, storage, evaluation, or discrepancy_diagnosis failures occur, or when a step fails outright (e.g. missing prerequisite files). Each step maintains its own list of per-item failures; re-running a successful item removes it from the log. Whole-step failures (the step raised before producing any per-item results) are recorded separately under `step_failures` and printed to the CLI as `Step '<name>' failed: <message>`.
+
+| Field (`step_failures` entry) | Description |
+|--------------------------------|-------------|
+| `step` | Name of the step that failed (`translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis`) |
+| `message` | Human-readable error message |
+| `at` | UTC timestamp |
 
 | Field (translation entry) | Description |
 |---------------------------|-------------|
@@ -378,8 +384,11 @@ python -m automation.src.run_pipeline --steps translation --small-scale
 # Evaluation + comparison on an existing run
 python -m automation.src.run_pipeline --run-id 20250630_143022 --steps evaluation,comparison --small-scale
 
-# Resume a run — skip items that already have output (requires --run-id)
-python -m automation.src.run_pipeline --run-id 20250630_143022 --steps translation,evaluation --run-missing
+# Resume a run — steps are idempotent by default and skip items that already have output
+python -m automation.src.run_pipeline --run-id 20250630_143022 --steps translation,evaluation
+
+# Force re-run of a step even though output already exists
+python -m automation.src.run_pipeline --run-id 20250630_143022 --steps evaluation --force
 
 # Discrepancy diagnosis on an existing run that already has evaluation + comparison output
 python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepancy_diagnosis --small-scale
@@ -392,8 +401,7 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 | `--small-scale` | Process only 5 benchmark policy files |
 | `--steps` | `translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` (default: all) |
 | `--run-id` | Existing run ID (required for eval/comparison/diagnosis without translation) |
-| `--run-missing` | Resume an existing run; each step skips items that already have output (requires `--run-id`; mutually exclusive with `--force`) |
-| `--force` | Re-translate files even if output exists |
+| `--force` | Re-run a step even if its output already exists (all steps are idempotent by default — they skip items that already have output) |
 | `--allow-partial` | Save incomplete evaluation or discrepancy diagnosis reports |
 | `--keep-chunk-result` | With chunking enabled, also save clean/chunk results to `data/automation/<run_id>/chunks/` |
 | `--max-workers` | Override `concurrency.max_workers` from pipeline config |
@@ -407,6 +415,7 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 - **Eval only**: requires `--run-id` and existing `translation/` outputs
 - **Comparison only**: requires `--run-id` and existing `evaluation/` JSON reports
 - **Discrepancy diagnosis**: requires `--run-id` and existing `rag_candidates/`, `evaluation/*.json`, and `comparison/` outputs. Runs whose `evaluation` step predates `rag_candidates/` need `evaluation` re-run with `--force` first. Produces no report files (not an error) when `comparison/error_analysis.csv` doesn't exist, i.e. zero mismatches
-- **Resume (`--run-missing`)**: requires `--run-id` and an existing run directory; translation skips existing `.txt` outputs, evaluation skips policies with any eval JSON, comparison always re-runs, discrepancy_diagnosis skips policies with an existing `diagnosis/<stem>.json`
+- **Idempotent by default**: translation, storage, evaluation, and discrepancy_diagnosis each skip an item (file/policy) that already has output — translation and storage skip an input whose output file exists, evaluation skips a policy that already has an eval report, discrepancy_diagnosis skips a policy that already has a `diagnosis/<stem>.json`. Comparison always re-runs (it recomputes `metrics.csv`/`error_analysis.csv` from whatever `evaluation/` reports currently exist). Pass `--force` to re-run a step's items regardless of existing output
+- **Step failures**: if a step fails outright (e.g. a required input directory is missing), the pipeline records the step name and error message under `step_failures` in `failures.json`, prints `Step '<name>' failed: <message>` to stderr, and stops before running any later steps
 
 API retry messages include error type, message, HTTP status, and request ID (SDK-level httpx retry noise is suppressed).

@@ -337,7 +337,7 @@ def test_main_comparison_only_with_existing_run_id(
     mock_translate.assert_not_called()
     mock_eval.assert_not_called()
     mock_compare.assert_called_once_with(run_id=run_id, config=mock_config)
-    mock_validate.assert_called_once_with(run_id, ["comparison"])
+    mock_validate.assert_called_once_with(run_id, ["comparison"], retrieval_enabled=mock_config.retrieval.enabled)
 
 
 @patch("automation.src.run_pipeline.update_metadata")
@@ -568,21 +568,9 @@ def test_main_custom_config_paths(
     )
 
 
-def test_main_run_missing_without_run_id_exits():
+def test_main_rejects_unknown_run_missing_flag():
     with patch.object(sys, "argv", ["run_pipeline", "--run-missing", "--steps", "translation"]):
         with pytest.raises(SystemExit) as exc:
             main()
 
-    assert exc.value.code == 1
-
-
-def test_main_run_missing_with_force_exits():
-    with patch.object(
-        sys,
-        "argv",
-        ["run_pipeline", "--run-id", "20250101_120000", "--run-missing", "--force"],
-    ):
-        with pytest.raises(SystemExit) as exc:
-            main()
-
-    assert exc.value.code == 1
+    assert exc.value.code == 2

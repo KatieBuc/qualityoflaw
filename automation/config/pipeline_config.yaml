@@ -13,7 +13,7 @@ translation:
 
 evaluation:
   model: gpt-5.2
-  prompt_version: v1
+  prompt_version: v2
   rag:
     enabled: true
     storage:

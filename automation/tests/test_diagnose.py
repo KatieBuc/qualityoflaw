@@ -235,7 +235,7 @@ def test_partial_report_written_with_allow_partial(config, data_root):
     assert report["diagnoses"]["1.1"]["root_causes"] == ["evaluation_failure"]
 
 
-def test_run_missing_skips_existing_report(config, data_root):
+def test_run_diagnosis_step_skips_existing_report_by_default(config, data_root):
     run_id = "run_resume"
     run_dir = data_root / run_id
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
@@ -253,8 +253,37 @@ def test_run_missing_skips_existing_report(config, data_root):
     wrapper = _make_wrapper(lambda *a, **k: {"diagnosis_results": []})
     limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
 
-    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, run_missing=True)
+    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter)
 
     assert result["counts"]["skipped"] == 1
     assert result["counts"]["succeeded"] == 0
     wrapper.complete_structured.assert_not_called()
+
+
+def test_run_diagnosis_step_force_reruns_existing(config, data_root):
+    run_id = "run_force"
+    run_dir = data_root / run_id
+    (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
+
+    row = {**DISCREPANCY_ROW, "filename": "A.txt"}
+    _write_error_analysis(run_dir / "comparison", [row])
+    _write_evaluation_report(run_dir / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
+    _write_candidates(
+        run_dir / "rag_candidates", "A.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
+    )
+    diagnosis_dir = run_dir / "diagnosis"
+    diagnosis_dir.mkdir(parents=True)
+    (diagnosis_dir / "A.json").write_text(json.dumps({"policy_file": "A.txt", "diagnoses": {}}), encoding="utf-8")
+
+    wrapper = _make_wrapper(
+        lambda prompt, *_: {
+            "diagnosis_results": [{"id": "1.1", "root_causes": ["evaluation_failure"], "rationale": "r"}]
+        }
+    )
+    limiter = ConcurrencyLimiter(max_workers=2, enabled=True)
+
+    result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, force=True)
+
+    assert result["counts"]["skipped"] == 0
+    assert result["counts"]["succeeded"] == 1
+    wrapper.complete_structured.assert_called_once()

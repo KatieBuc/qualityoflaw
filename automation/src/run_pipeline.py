@@ -13,10 +13,14 @@ from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import ConcurrencyConfig, get_run_dir, load_pipeline_config
 from automation.src.constants import DEFAULT_MODEL_CONFIG, DEFAULT_PIPELINE_CONFIG, DEFAULT_STEPS, VALID_STEPS
 from automation.src.diagnose import run_diagnosis_step
-from automation.src.failure_log import summarize_failures
+from automation.src.failure_log import (
+    clear_step_failure,
+    load_failures,
+    record_step_failure,
+    summarize_failures,
+)
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.metadata import (
-    ensure_run_exists,
     generate_run_id,
     init_run_metadata,
     update_metadata,
@@ -94,6 +98,19 @@ def resolve_concurrency_config(
     return config_concurrency
 
 
+def _print_step_failure(step: str, message: str) -> None:
+    print(f"Step '{step}' failed: {message}", file=sys.stderr)
+
+
+def _print_policy_failures(run_id: str, step: str, failed_policies: list[str]) -> None:
+    messages = {
+        entry.get("policy_file"): entry.get("message", "unknown error")
+        for entry in load_failures(run_id).get(step, [])
+    }
+    for name in failed_policies:
+        print(f"  {name}: {messages.get(name, 'unknown error')}", file=sys.stderr)
+
+
 def build_limiter(concurrency: ConcurrencyConfig) -> ConcurrencyLimiter:
     return ConcurrencyLimiter(
         max_workers=concurrency.max_workers,
@@ -123,11 +140,10 @@ def main() -> None:
         action="store_true",
         help="Process only the 5 benchmark policy files.",
     )
-    parser.add_argument("--force", action="store_true", help="Re-translate existing outputs.")
     parser.add_argument(
-        "--run-missing",
+        "--force",
         action="store_true",
-        help="Resume an existing run; each step skips items that already have output (requires --run-id).",
+        help="Re-run a step even if its output already exists (steps are idempotent by default).",
     )
     parser.add_argument(
         "--allow-partial",
@@ -175,14 +191,6 @@ def main() -> None:
         print(f"Error: {exc}", file=sys.stderr)
         sys.exit(1)
 
-    if args.run_missing and not args.run_id:
-        print("Error: --run-missing requires --run-id.", file=sys.stderr)
-        sys.exit(1)
-
-    if args.run_missing and args.force:
-        print("Error: --run-missing and --force are mutually exclusive.", file=sys.stderr)
-        sys.exit(1)
-
     if requires_run_id(steps, args.run_id):
         print(
             "Error: --run-id is required when running evaluation or comparison without translation.",
@@ -211,11 +219,7 @@ def main() -> None:
 
     try:
         run_dir = get_run_dir(run_id)
-        if args.run_missing:
-            ensure_run_exists(run_id)
-            validate_run_for_steps(run_id, steps)
-            print(f"Using existing run (run-missing): {run_id}")
-        elif not args.run_id:
+        if not args.run_id:
             init_run_metadata(
                 run_id=run_id,
                 experiment_name=config.experiment_name,
@@ -241,10 +245,12 @@ def main() -> None:
                     f"Run directory not found: {run_dir}. Run translation first or omit --run-id."
                 )
         else:
-            validate_run_for_steps(run_id, steps)
+            validate_run_for_steps(run_id, steps, retrieval_enabled=config.retrieval.enabled)
             print(f"Using existing run: {run_id}")
 
-        if "translation" in steps:
+        stopped = False
+
+        if not stopped and "translation" in steps:
             print("\nStep: translation")
             if args.keep_chunk_result and not config.chunking.enabled:
                 print(
@@ -252,161 +258,204 @@ def main() -> None:
                     "is not enabled in the pipeline config.",
                     file=sys.stderr,
                 )
-            wrapper = AzureLLMWrapper.from_profile(config.translation_model, limiter=limiter)
-            result = run_translation_step(
-                run_id=run_id,
-                config=config,
-                wrapper=wrapper,
-                limiter=limiter,
-                small_scale=args.small_scale,
-                force=args.force,
-                run_missing=args.run_missing,
-                keep_chunk_result=args.keep_chunk_result,
-            )
-            update_metadata(
-                run_id,
-                execution_scope={"steps_executed": ["translation"]},
-                file_counts={"translation": result["counts"]},
-                timing_seconds={"translation": result["elapsed_s"]},
-                token_usage={"translation": result["token_usage"]},
-                failures=summarize_failures(run_id),
-            )
-            print(
-                f"Translation: {result['counts']['succeeded']} succeeded, "
-                f"{result['counts']['skipped']} skipped, "
-                f"{result['counts']['failed']} failed"
-            )
-            if result.get("failed_files"):
-                for entry in result["failed_files"]:
-                    status = entry.get("details", {}).get("status_code", "n/a")
-                    print(
-                        f"  {entry['filename']}: [{entry['error_type']}] {entry['message']} "
-                        f"(status={status})",
-                        file=sys.stderr,
-                    )
-            if result["counts"]["failed"] > 0:
-                exit_code = 1
-
-        if "storage" in steps:
-            if not config.storage.enabled:
-                print("\nStep: storage (skipped — evaluation.rag.enabled is false)")
-            else:
-                print("\nStep: storage")
-                embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
-                result = run_storage_step(
+            try:
+                wrapper = AzureLLMWrapper.from_profile(config.translation_model, limiter=limiter)
+                result = run_translation_step(
                     run_id=run_id,
                     config=config,
-                    embedder=embedder,
+                    wrapper=wrapper,
                     limiter=limiter,
                     small_scale=args.small_scale,
                     force=args.force,
-                    run_missing=args.run_missing,
+                    keep_chunk_result=args.keep_chunk_result,
                 )
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "translation", str(exc))
+                _print_step_failure("translation", str(exc))
+            else:
+                clear_step_failure(run_id, "translation")
                 update_metadata(
                     run_id,
-                    execution_scope={"steps_executed": ["storage"]},
-                    file_counts={"storage": result["counts"]},
-                    timing_seconds={"storage": result["elapsed_s"]},
+                    execution_scope={"steps_executed": ["translation"]},
+                    file_counts={"translation": result["counts"]},
+                    timing_seconds={"translation": result["elapsed_s"]},
+                    token_usage={"translation": result["token_usage"]},
                     failures=summarize_failures(run_id),
                 )
                 print(
-                    f"Storage: {result['counts']['succeeded']} succeeded, "
+                    f"Translation: {result['counts']['succeeded']} succeeded, "
                     f"{result['counts']['skipped']} skipped, "
                     f"{result['counts']['failed']} failed"
                 )
                 if result.get("failed_files"):
                     for entry in result["failed_files"]:
-                        print(f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}", file=sys.stderr)
+                        status = entry.get("details", {}).get("status_code", "n/a")
+                        print(
+                            f"  {entry['filename']}: [{entry['error_type']}] {entry['message']} "
+                            f"(status={status})",
+                            file=sys.stderr,
+                        )
                 if result["counts"]["failed"] > 0:
                     exit_code = 1
 
-        if "evaluation" in steps:
-            print("\nStep: evaluation")
-            wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
-            embedder = (
-                AzureEmbedder.from_env(batch_size=config.storage.batch_size)
-                if config.retrieval.enabled
-                else None
-            )
-            result = run_evaluation_step(
-                run_id=run_id,
-                config=config,
-                wrapper=wrapper,
-                embedder=embedder,
-                limiter=limiter,
-                small_scale=args.small_scale,
-                allow_partial=args.allow_partial,
-                run_missing=args.run_missing,
-            )
-            update_metadata(
-                run_id,
-                execution_scope={"steps_executed": ["evaluation"]},
-                file_counts={"evaluation": result["counts"]},
-                timing_seconds={"evaluation": result["elapsed_s"]},
-                token_usage={"evaluation": result["token_usage"]},
-                failures=summarize_failures(run_id),
-            )
-            skipped = result["counts"].get("skipped", 0)
-            skipped_str = f", {skipped} skipped" if skipped else ""
-            print(
-                f"Evaluation: {result['counts']['succeeded']} succeeded, "
-                f"{result['counts']['failed']} failed{skipped_str}"
-            )
-            if result["failed_policies"]:
-                print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
-                if not args.allow_partial:
-                    exit_code = 1
-
-        if "comparison" in steps:
-            print("\nStep: comparison")
-            result = run_comparison_step(run_id=run_id, config=config)
-            update_metadata(
-                run_id,
-                execution_scope={
-                    "steps_executed": ["comparison"],
-                    "evaluated_policy_files": result["evaluated_policy_files"],
-                },
-                timing_seconds={"comparison": result["elapsed_s"]},
-            )
-            accuracy = result["counts"].get("accuracy")
-            acc_str = f"{accuracy:.2%}" if accuracy is not None else "n/a"
-            print(f"Comparison: accuracy {acc_str}, metrics at {result['metrics_path']}")
-
-        if "discrepancy_diagnosis" in steps:
-            print("\nStep: discrepancy_diagnosis")
-            wrapper = AzureLLMWrapper.from_profile(config.discrepancy_diagnosis_model, limiter=limiter)
-            result = run_diagnosis_step(
-                run_id=run_id,
-                config=config,
-                wrapper=wrapper,
-                limiter=limiter,
-                small_scale=args.small_scale,
-                allow_partial=args.allow_partial,
-                run_missing=args.run_missing,
-            )
-            update_metadata(
-                run_id,
-                execution_scope={"steps_executed": ["discrepancy_diagnosis"]},
-                file_counts={"discrepancy_diagnosis": result["counts"]},
-                timing_seconds={"discrepancy_diagnosis": result["elapsed_s"]},
-                token_usage={"discrepancy_diagnosis": result["token_usage"]},
-                failures=summarize_failures(run_id),
-            )
-            if result["counts"]["discrepancies_total"] == 0:
-                reason = result.get("skipped_reason", "no mismatches found by comparison")
-                print(f"Discrepancy diagnosis: nothing to diagnose ({reason})")
+        if not stopped and "storage" in steps:
+            if not config.storage.enabled:
+                print("\nStep: storage (skipped — evaluation.rag.enabled is false)")
             else:
+                print("\nStep: storage")
+                try:
+                    embedder = AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+                    result = run_storage_step(
+                        run_id=run_id,
+                        config=config,
+                        embedder=embedder,
+                        limiter=limiter,
+                        small_scale=args.small_scale,
+                        force=args.force,
+                    )
+                except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                    exit_code = 1
+                    stopped = True
+                    record_step_failure(run_id, "storage", str(exc))
+                    _print_step_failure("storage", str(exc))
+                else:
+                    clear_step_failure(run_id, "storage")
+                    update_metadata(
+                        run_id,
+                        execution_scope={"steps_executed": ["storage"]},
+                        file_counts={"storage": result["counts"]},
+                        timing_seconds={"storage": result["elapsed_s"]},
+                        failures=summarize_failures(run_id),
+                    )
+                    print(
+                        f"Storage: {result['counts']['succeeded']} succeeded, "
+                        f"{result['counts']['skipped']} skipped, "
+                        f"{result['counts']['failed']} failed"
+                    )
+                    if result.get("failed_files"):
+                        for entry in result["failed_files"]:
+                            print(
+                                f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}",
+                                file=sys.stderr,
+                            )
+                    if result["counts"]["failed"] > 0:
+                        exit_code = 1
+
+        if not stopped and "evaluation" in steps:
+            print("\nStep: evaluation")
+            try:
+                wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
+                embedder = (
+                    AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+                    if config.retrieval.enabled
+                    else None
+                )
+                result = run_evaluation_step(
+                    run_id=run_id,
+                    config=config,
+                    wrapper=wrapper,
+                    embedder=embedder,
+                    limiter=limiter,
+                    small_scale=args.small_scale,
+                    allow_partial=args.allow_partial,
+                    force=args.force,
+                )
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "evaluation", str(exc))
+                _print_step_failure("evaluation", str(exc))
+            else:
+                clear_step_failure(run_id, "evaluation")
+                update_metadata(
+                    run_id,
+                    execution_scope={"steps_executed": ["evaluation"]},
+                    file_counts={"evaluation": result["counts"]},
+                    timing_seconds={"evaluation": result["elapsed_s"]},
+                    token_usage={"evaluation": result["token_usage"]},
+                    failures=summarize_failures(run_id),
+                )
                 skipped = result["counts"].get("skipped", 0)
                 skipped_str = f", {skipped} skipped" if skipped else ""
                 print(
-                    f"Discrepancy diagnosis: {result['counts']['succeeded']} succeeded, "
-                    f"{result['counts']['failed']} failed{skipped_str} "
-                    f"({result['counts']['discrepancies_total']} discrepancies)"
+                    f"Evaluation: {result['counts']['succeeded']} succeeded, "
+                    f"{result['counts']['failed']} failed{skipped_str}"
                 )
                 if result["failed_policies"]:
                     print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
+                    _print_policy_failures(run_id, "evaluation", result["failed_policies"])
                     if not args.allow_partial:
                         exit_code = 1
+
+        if not stopped and "comparison" in steps:
+            print("\nStep: comparison")
+            try:
+                result = run_comparison_step(run_id=run_id, config=config)
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "comparison", str(exc))
+                _print_step_failure("comparison", str(exc))
+            else:
+                clear_step_failure(run_id, "comparison")
+                update_metadata(
+                    run_id,
+                    execution_scope={
+                        "steps_executed": ["comparison"],
+                        "evaluated_policy_files": result["evaluated_policy_files"],
+                    },
+                    timing_seconds={"comparison": result["elapsed_s"]},
+                )
+                accuracy = result["counts"].get("accuracy")
+                acc_str = f"{accuracy:.2%}" if accuracy is not None else "n/a"
+                print(f"Comparison: accuracy {acc_str}, metrics at {result['metrics_path']}")
+
+        if not stopped and "discrepancy_diagnosis" in steps:
+            print("\nStep: discrepancy_diagnosis")
+            try:
+                wrapper = AzureLLMWrapper.from_profile(config.discrepancy_diagnosis_model, limiter=limiter)
+                result = run_diagnosis_step(
+                    run_id=run_id,
+                    config=config,
+                    wrapper=wrapper,
+                    limiter=limiter,
+                    small_scale=args.small_scale,
+                    allow_partial=args.allow_partial,
+                    force=args.force,
+                )
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "discrepancy_diagnosis", str(exc))
+                _print_step_failure("discrepancy_diagnosis", str(exc))
+            else:
+                clear_step_failure(run_id, "discrepancy_diagnosis")
+                update_metadata(
+                    run_id,
+                    execution_scope={"steps_executed": ["discrepancy_diagnosis"]},
+                    file_counts={"discrepancy_diagnosis": result["counts"]},
+                    timing_seconds={"discrepancy_diagnosis": result["elapsed_s"]},
+                    token_usage={"discrepancy_diagnosis": result["token_usage"]},
+                    failures=summarize_failures(run_id),
+                )
+                if result["counts"]["discrepancies_total"] == 0:
+                    reason = result.get("skipped_reason", "no mismatches found by comparison")
+                    print(f"Discrepancy diagnosis: nothing to diagnose ({reason})")
+                else:
+                    skipped = result["counts"].get("skipped", 0)
+                    skipped_str = f", {skipped} skipped" if skipped else ""
+                    print(
+                        f"Discrepancy diagnosis: {result['counts']['succeeded']} succeeded, "
+                        f"{result['counts']['failed']} failed{skipped_str} "
+                        f"({result['counts']['discrepancies_total']} discrepancies)"
+                    )
+                    if result["failed_policies"]:
+                        print(f"Failed policies: {', '.join(result['failed_policies'])}", file=sys.stderr)
+                        _print_policy_failures(run_id, "discrepancy_diagnosis", result["failed_policies"])
+                        if not args.allow_partial:
+                            exit_code = 1
 
         total_elapsed = round(time.time() - pipeline_start, 2)
         status = "completed" if exit_code == 0 else "completed_with_errors"
@@ -421,14 +470,18 @@ def main() -> None:
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
         if (
             failure_summary["translation"]
+            or failure_summary["storage"]
             or failure_summary["evaluation"]
             or failure_summary["discrepancy_diagnosis"]
+            or failure_summary["step_failures"]
         ):
             failures_path = get_run_dir(run_id) / "failures.json"
             print(
                 f"Failures logged: {failure_summary['translation']} translation, "
+                f"{failure_summary['storage']} storage, "
                 f"{failure_summary['evaluation']} evaluation, "
-                f"{failure_summary['discrepancy_diagnosis']} discrepancy_diagnosis → {failures_path}",
+                f"{failure_summary['discrepancy_diagnosis']} discrepancy_diagnosis, "
+                f"{failure_summary['step_failures']} step-level → {failures_path}",
                 file=sys.stderr,
             )
 
