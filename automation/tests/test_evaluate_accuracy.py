@@ -39,6 +39,8 @@ def test_build_error_analysis_df_labels_and_error_type():
                 "indicator_value": "Domestic violence",
                 "value": 0.0,
                 "pred_value": 1.0,
+                "evidence": "Pasal 5 ayat (2) ...",
+                "rationale": "The judge found an explicit reference.",
             },
         ]
     )
@@ -46,6 +48,9 @@ def test_build_error_analysis_df_labels_and_error_type():
     assert output.iloc[0]["error_type"] == "false_positive"
     assert output.iloc[0]["golden_label"] == "No"
     assert output.iloc[0]["pred_label"] == "Yes"
+    assert output.iloc[0]["evidence"] == "Pasal 5 ayat (2) ..."
+    assert output.iloc[0]["rationale"] == "The judge found an explicit reference."
+    assert output.iloc[0]["discrepancy_root_cause"] == "Reference only"
 
 
 def test_find_unmatched_indicator_pairs():

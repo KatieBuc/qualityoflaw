@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-07-14T07:10:32.059904+00:00",
-    "updated_at": "2026-07-14T11:55:59.151989+00:00"
+    "updated_at": "2026-07-16T11:11:00.294862+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -267,7 +267,8 @@
     "translation": 0,
     "storage": 0,
     "evaluation": 0,
-    "discrepancy_diagnosis": 0
+    "discrepancy_diagnosis": 0,
+    "step_failures": 0
   },
   "token_usage": {
     "translation": {
@@ -290,8 +291,8 @@
     "translation": 0.21,
     "storage": 0.27,
     "evaluation": 0.0,
-    "comparison": 0.23,
+    "comparison": 0.33,
     "discrepancy_diagnosis": 600.09,
-    "total": 621.83
+    "total": 0.33
   }
 }

@@ -209,6 +209,9 @@ One row per **value mismatch** (golden ≠ LLM prediction):
 | `golden_label` / `pred_label` | `Yes` or `No` |
 | `value` / `pred_value` | Numeric labels (1.0 = Yes, 0.0 = No) |
 | `error_type` | `false_positive` (golden No, LLM Yes) or `false_negative` (golden Yes, LLM No) |
+| `evidence` | The judge's cited evidence snippet for this indicator, from `evaluation/` |
+| `rationale` | The judge's rationale for this indicator, from `evaluation/` |
+| `discrepancy_root_cause` | Always `Reference only` — root causes are produced by the `discrepancy_diagnosis` step (see `diagnosis/<stem>.json`), which runs after this file is written and doesn't write back into it |
 
 #### `unmatched_indicators.csv`
 

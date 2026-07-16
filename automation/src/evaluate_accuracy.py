@@ -75,6 +75,8 @@ def reports_to_dataframe(reports: list[tuple[datetime, str, dict]]) -> pd.DataFr
                     "filename": filename,
                     "indicator_id": str(details.get("id")),
                     "pred_value": 1.0 if details.get("included") == "Yes" else 0.0,
+                    "evidence": details.get("evidence"),
+                    "rationale": details.get("rationale"),
                     "source_report": file_path,
                 }
             )
@@ -135,6 +137,10 @@ def build_error_analysis_df(errors_df: pd.DataFrame) -> pd.DataFrame:
         lambda row: _classify_error_type(row["value"], row["pred_value"]),
         axis=1,
     )
+    # Root cause is only produced by the discrepancy_diagnosis step, which runs
+    # after comparison and doesn't write back into this CSV — this column is a
+    # static placeholder pointing readers to that step's output, not live data.
+    output["discrepancy_root_cause"] = "Reference only"
     columns = [
         "fullname",
         "filename",
@@ -146,6 +152,9 @@ def build_error_analysis_df(errors_df: pd.DataFrame) -> pd.DataFrame:
         "value",
         "pred_value",
         "error_type",
+        "evidence",
+        "rationale",
+        "discrepancy_root_cause",
     ]
     return output[columns]
 
