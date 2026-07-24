@@ -107,11 +107,11 @@
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about violence against women? yes or no"'
 
 "4.2":
-  indicator: "Information and education about gender equality"
+  indicator: "Gender equality education"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about gender equality and/or women’s rights? yes or no"'
 
 "4.3":
-  indicator: "Information about VAW laws and policies"
+  indicator: "VAW laws awareness"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Information and education about violence against women laws and policies? yes or no"'
 
 "4.4":
@@ -119,35 +119,35 @@
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Primary prevention, specifically Prevention through education and improving the quality of education? yes or no"'
 
 "5.1":
-  indicator: "Collaboration with NGOs"
+  indicator: "NGO collaboration"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with civil society organisations/NGOs for violence against women services and prevention? yes or no"'
 
 "5.2":
-  indicator: "Collaboration with religious organisations"
+  indicator: "Religious engagement"
   Prompt: 'Using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with religious organisations/leaders for violence against women services and prevention? yes or no"'
 
 "5.3":
-  indicator: "Collaboration with traditional organisations"
+  indicator: "Traditional/cultural engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with traditional/cultural organisations/leaders for violence against women services and prevention? yes or no"'
 
 "5.4":
-  indicator: "Collaboration with education institutions"
+  indicator: "Education institutions engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with education institutions, including universities for violence against women services and prevention? yes or no"'
 
 "5.5":
-  indicator: "Collaboration with international organisations"
+  indicator: "International organisations engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with international organisations or international support to assist with violence against women services and prevention? yes or no"'
 
 "5.6":
-  indicator: "Collaboration with media"
+  indicator: "Media engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with media for violence against women services and prevention? yes or no"'
 
 "5.7":
-  indicator: "Collaboration with community"
+  indicator: "Community engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with community/society for violence against women services and prevention? yes or no"'
 
 "5.8":
-  indicator: "Collaboration with business/private sector"
+  indicator: "Private sector engagement"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any mention of stakeholder engagement or collaboration with business/private sector for violence against women services and prevention? yes or no"'
 
 "6.1":
@@ -191,7 +191,7 @@
   prompt: 'using the below text, answer the following question and reference the portion of text "Is there any special protection measures specifically targeted at Refugee / forced displacement? Yes or no"'
 
 "6.11":
-  indicator: "Domestic worker"
+  indicator: "Domestic workers"
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any special protection measures specifically targeted at Domestic worker? Yes or no"'
 
 "6.12":
@@ -211,7 +211,7 @@
   prompt: 'using the below text, answer the following question and reference the portion of text "is there any Funding/budget sources, specifically National government budget? Yes or no"'
 
 "7.3":
-  indicator: "International support/donors"
+  indicator: "International donors"
   Prompt: 'Using the below text, answer the following question and reference the portion of text "Is there any Funding/budget sources, specifically international support/donors, including international organisations, foreign governments, bilateral or multilateral donors, UN agencies, development partners, or other international funding support? yes or no"'
 
 "7.4":

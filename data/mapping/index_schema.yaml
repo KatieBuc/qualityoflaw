@@ -19,28 +19,28 @@ scope_of_violence:
     column: 6. Harmful practices, including early marriage, female genital mutilation,
       honour crimes, female infanticide
   '1.7':
-    indicator: Femicide / feminicide
+    indicator: Femicide/feminicide
     column: 7. Femicide/ feminicide
   '1.8':
     indicator: Human trafficking
     column: 8. Human trafficking
   '1.9':
-    indicator: Sexual slavery / exploitation
+    indicator: Sexual slavery/exploitation
     column: 9. Sexual slavery/ exploitation
   '1.10':
-    indicator: Technology-facilitated violence
+    indicator: Technology facilitated violence
     column: 10. Technology facilitated violence
 institutional_mechanism:
   '2.1':
-    indicator: Institutional network / coordination mechanism
+    indicator: Institutional network
     column: '1. Institutional network: coordination or task force with governments
       across jurisdictions'
   '2.2':
-    indicator: Collaboration with non-government service providers
+    indicator: Collaboration with NGOs
     column: 2. Collaboration/ cooperation mechanism with non-government service provides
       (e.g., forum, working group)
   '2.3':
-    indicator: Data collection / information systems
+    indicator: Data collection systems
     column: 3. Establishment of data collection/ information system for VAW and women's
       protection
   '2.4':
@@ -62,32 +62,32 @@ specialised_support_services:
     indicator: Police specialised service unit
     column: 2. Specialised service unit for victims of VAW in police offices
   '3.3':
-    indicator: Reporting / hotline
+    indicator: Reporting/hotline service
     column: 3. Reporting/ hotline service
   '3.4':
-    indicator: Safety / protection shelter
+    indicator: Safety/protection shelter
     column: 4. Safety/ protection shelter
   '3.5':
     indicator: Legal assistance
     column: 5. Legal assistance
   '3.6':
-    indicator: Health / medical services
+    indicator: Health/medical services
     column: 6. Health/ medical services
   '3.7':
     indicator: Psychosocial counselling
     column: 7. Psychosocial counseling services (including trauma services)
   '3.8':
-    indicator: Religious / spiritual counselling
+    indicator: Religious/spiritual counselling
     column: 8. Religious/ spiritual counseling
   '3.9':
     indicator: Resocialisation services
     column: 9. Resocialisation (rehabilitation/ reintegration) services
   '3.10':
-    indicator: Economic support services
+    indicator: Economic support
     column: 10. Economic support (e.g., skill training, financial support)
 primary_prevention:
   '4.1':
-    indicator: Information & education on VAW
+    indicator: Information and education about VAW
     column: 1. Information and education about VAW
   '4.2':
     indicator: Gender equality education
@@ -125,11 +125,11 @@ stakeholder_engagement:
     column: 8. Engagement/ collaboration with business/ private sector
 intersectional_approach:
   '6.1':
-    indicator: Women in crisis settings
+    indicator: Women in conflict/disaster areas
     column: 1. Women in emergency situation, conflict or disaster prone area (victims
       of)
   '6.2':
-    indicator: Trafficking victims
+    indicator: Women victims of trafficking
     column: 2. Women victims of human trafficking
   '6.3':
     indicator: Women workers
@@ -138,31 +138,31 @@ intersectional_approach:
     indicator: Elderly women
     column: 4. Elderly women
   '6.5':
-    indicator: Disability
+    indicator: People with disability
     column: 5. People with disability
   '6.6':
-    indicator: Heads of household
+    indicator: Women heads of household
     column: 6. Women head of household
   '6.7':
-    indicator: Minority groups
+    indicator: Women from minority groups
     column: 7. Women from minority or isolated groups
   '6.8':
-    indicator: Legal process involvement
+    indicator: Women in legal process
     column: 8. Women in legal process
   '6.9':
-    indicator: Indigenous groups
+    indicator: Indigenous people/groups
     column: 9. Indigenous people/ groups (masyarakat adat)
   '6.10':
-    indicator: Refugees / displacement
+    indicator: Refugee/forced displacement
     column: 10. Refugee / forced displacement
   '6.11':
     indicator: Domestic workers
     column: 11. Domestic worker
   '6.12':
-    indicator: Homelessness
+    indicator: Women experiencing homelessness
     column: 12. Women experiencing houselessness
   '6.13':
-    indicator: Former incarceration
+    indicator: Formerly incarcerated women
     column: 13. Formerly incarcerated women
 budget_funding_sources:
   '7.1':
