@@ -1,6 +1,13 @@
-"""Build the {{CRITERIA_WITH_CANDIDATES}} block for the v2 RAG evaluation prompt."""
+"""Build the {{CRITERIA_WITH_CANDIDATES}} block for the v3 RAG evaluation prompt.
+
+Candidate chunks are split into sentences (see `sentence_split.py`) and each
+sentence gets its own citation tag, so the LLM can cite individual supporting
+sentences instead of an entire chunk — the retrieved evidence unit that ends
+up in the final report is a handful of sentences, not a multi-KB passage.
+"""
 
 from automation.src.rag.retriever import RetrievedChunk
+from automation.src.rag.sentence_split import split_sentences
 
 
 def parse_criteria_lines(criteria_file_path: str) -> list[tuple[str, str, str]]:
@@ -20,8 +27,8 @@ def parse_criteria_lines(criteria_file_path: str) -> list[tuple[str, str, str]]:
     return rows
 
 
-def _candidate_tag(cid: str, candidate: RetrievedChunk) -> str:
-    return f"{cid}-{candidate.chunk_id}"
+def _sentence_tag(cid: str, candidate: RetrievedChunk, sentence_idx: int) -> str:
+    return f"{cid}-{candidate.chunk_id}.{sentence_idx}"
 
 
 def format_criteria_with_candidates(
@@ -36,21 +43,24 @@ def format_criteria_with_candidates(
             blocks.append("  Candidate passages: (none retrieved)")
         else:
             for candidate in candidates:
-                blocks.append(f"  [{_candidate_tag(cid, candidate)}] {candidate.text}")
+                for sentence_idx, sentence in enumerate(split_sentences(candidate.text)):
+                    blocks.append(f"  [{_sentence_tag(cid, candidate, sentence_idx)}] {sentence}")
         blocks.append("")
     return "\n".join(blocks)
 
 
 def build_candidate_lookup(candidates_by_id: dict[str, list[RetrievedChunk]]) -> dict[str, str]:
-    """Build the temporary tag -> real-chunk-text lookup for one dimension call.
+    """Build the temporary tag -> real-sentence-text lookup for one dimension call.
 
-    The LLM is asked to cite a candidate's tag (e.g. "1.3-4") rather than
-    transcribe its text; the caller resolves that citation against this table
-    afterwards and copies the real text over as the final evidence, so the
-    stored evidence can never diverge from what was actually retrieved.
+    The LLM is asked to cite one or more sentence tags (e.g. "1.3-4.2") rather
+    than transcribe their text; the caller resolves those citations against
+    this table afterwards and copies the real sentence text over as the final
+    evidence, so the stored evidence can never diverge from what was actually
+    retrieved.
     """
     return {
-        _candidate_tag(cid, candidate): candidate.text
+        _sentence_tag(cid, candidate, sentence_idx): sentence
         for cid, candidates in candidates_by_id.items()
         for candidate in candidates
+        for sentence_idx, sentence in enumerate(split_sentences(candidate.text))
     }

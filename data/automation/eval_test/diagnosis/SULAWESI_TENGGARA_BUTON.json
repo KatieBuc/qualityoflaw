@@ -1,0 +1,144 @@
+{
+  "diagnoses": {
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. providing counseling/guidance; e. providing critical education about the rights of women and children for the community.",
+      "evaluator_rationale": "The policy includes prevention measures that involve providing counseling/guidance and critical education to the community about the rights of women and children, which constitutes information/education as a primary prevention approach to violence against women and children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 20,
+          "text": "Article 17\n(1) Prevention of violence against women and children is carried out in an integrated manner by the Regional Government coordinated by regional apparatus that has the main duties and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) are implemented by:\na. establishing a working network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nc. providing counseling/guidance;\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. providing critical education about the rights of women and children for the community.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 33,
+          "text": "Paragraph I\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 0,
+          "text": "I don't see any text to translate in your message. You've provided instructions for translation, but there's no actual source text between the quotation marks.\n\nCould you please provide the text you'd like me to translate into English?",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER VI\nVICTIM PROTECTION\nPart One\nPrevention",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 1l\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence, includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.\n- 8­",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 18\n(1) Prevention of the occurrence of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus and UPTD whose main duties and functions are in the fields of:\na. education;\n- 11-\nb. health;\nc. social affairs;\nd. labor;\ne. women's empowerment and child protection; and f. peace and order.\n(2) Prevention of the occurrence of violence by Regional Apparatus and UPTD as referred to in paragraph (1) shall be implemented in an integrated and continuous manner based on technical guidelines in the Regional Action Plan.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe protection of women and children victims of violence aims to:\na. prevent all forms of violence against women and children;\nb. provide services to victims; and\nc. empower women victims of violence.\nArticle 4 The scope of regulation for the implementation of protection for women and children victims of violence in this regional regulation includes prevention efforts, services, and empowerment of victims of violence in the Region.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 57,
+          "text": "EXPLANATION\nOF\nREGIONAL REGULATION OF BUTON REGENCY\nNUMBER 6 OF 2021\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\n\nI. GENERAL\n\nThe State has an obligation to provide protection to citizens in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. That women and children are among vulnerable groups who tend to experience violence and therefore need to receive protection. Violence against Women and Children constitutes a violation of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination. Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n\nFurthermore, violence against women is any action based on gender differences that results or may result in misery or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women and Children Victims of Violence has not yet received adequate services so that minimum services for victims of violence are required.\n\nIn order to prevent and overcome violence against women and children in Buton Regency so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence, particularly in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of women and children victims of violence.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 28\nForms of empowerment for women victims of violence include:\na. job training;\nb. productive economic enterprises and joint business groups; and\nc. capital assistance.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 17 ayat (2) explicitly includes prevention actions that are clearly information/education oriented: \"melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan\" (socialization/outreach about relevant laws) and \"memberikan pendidikan kritis tentang hak perempuan dan anak bagi masyarakat\" (critical education about women’s and children’s rights for the community), as well as \"memberikan konseling/bimbingan\". This directly supports a 'Yes' for an indicator about information & education as primary prevention. The retrieved English passage accurately reflects this content and the judge’s rationale matches it, so the golden 'No' appears inconsistent with the source policy.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Prevention of the occurrence of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus and UPTD whose main duties and functions are in the fields of: a. education;",
+      "evaluator_rationale": "The policy assigns implementation of violence-prevention efforts to regional apparatus/UPTD including those whose functions are in the field of education, indicating prevention through the education sector (even if it does not detail specific education-quality improvement measures).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 20,
+          "text": "Article 17\n(1) Prevention of violence against women and children is carried out in an integrated manner by the Regional Government coordinated by regional apparatus that has the main duties and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) are implemented by:\na. establishing a working network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nc. providing counseling/guidance;\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. providing critical education about the rights of women and children for the community.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 57,
+          "text": "EXPLANATION\nOF\nREGIONAL REGULATION OF BUTON REGENCY\nNUMBER 6 OF 2021\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\n\nI. GENERAL\n\nThe State has an obligation to provide protection to citizens in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. That women and children are among vulnerable groups who tend to experience violence and therefore need to receive protection. Violence against Women and Children constitutes a violation of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination. Violence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom.\n\nFurthermore, violence against women is any action based on gender differences that results or may result in misery or may result in misery or suffering of women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women and Children Victims of Violence has not yet received adequate services so that minimum services for victims of violence are required.\n\nIn order to prevent and overcome violence against women and children in Buton Regency so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence, particularly in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of women and children victims of violence.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 18\n(1) Prevention of the occurrence of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus and UPTD whose main duties and functions are in the fields of:\na. education;\n- 11-\nb. health;\nc. social affairs;\nd. labor;\ne. women's empowerment and child protection; and f. peace and order.\n(2) Prevention of the occurrence of violence by Regional Apparatus and UPTD as referred to in paragraph (1) shall be implemented in an integrated and continuous manner based on technical guidelines in the Regional Action Plan.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 46,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 38\n(1) Regional Government conducts guidance and supervision of the implementation of protection for women and children victims of violence in the region.\n(2) Guidance and Supervision as referred to in paragraph (1) includes:\na. coordination;\nb. guidance;\nc. education and training; and\nd. monitoring and evaluation.\n(3) Coordination as referred to in paragraph (2) letter a covers aspects related to planning and implementation.\n(4) Guidance as referred to in paragraph (2) letter b covers aspects related to planning, implementation, procedures, financing, quality, control and supervision.\n(5) Education and training as referred to in paragraph (2) letter c is conducted in accordance with laws and regulations.\n(6) Monitoring and evaluation as referred to in paragraph (2) letter d is conducted periodically.",
+          "score": 0.029850746268656716
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER VI\nVICTIM PROTECTION\nPart One\nPrevention",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.\n- 8­",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe protection of women and children victims of violence aims to:\na. prevent all forms of violence against women and children;\nb. provide services to victims; and\nc. empower women victims of violence.\nArticle 4 The scope of regulation for the implementation of protection for women and children victims of violence in this regional regulation includes prevention efforts, services, and empowerment of victims of violence in the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 1l\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence, includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 33,
+          "text": "Paragraph I\nEmpowerment of Women Victims of Violence",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL REGULATION ON\nIMPLEMENTATION OF\nPROTECTION FOR WOMEN\nAND CHILDREN VICTIMS OF VIOLENCE\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regulation, what is meant by: 1. Region is Buton Regency. 2. Regional Government is the Regent as organizer of Regional Government administration in the implementation of governmental affairs which are the authority of the Autonomous Region.\n3. Regent is the Regent of Buton as the element who leads and becomes\n4. Regional Apparatus is the supporting element of the Regent and the Regional House of Representatives in the administration of governmental affairs which are the authority of the Region.\n5. Office of Women's Empowerment and Child Protection, hereinafter referred to as PPPA Office is the Office of Women's Empowerment and Child Protection of Buton Regency.\nChild, Office Child - 4 -\n6. Regional Technical Implementation Unit for Women and Child Protection, hereinafter abbreviated as UPTD-PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection and other problems.\n7. Forum for Protection of Violence Victims, hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.\n8. Woman is an adult human of female gender and a person who is legally recognized as a woman.\n9. Child is a person who has not reached the age of 18 years, including a child in the womb.\n10. Parents are biological father and/or mother, or stepfather and/or stepmother or adoptive father and/or adoptive mother.\n11. Family is the smallest unit in society consisting of husband and wife, husband and wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n12. Household is husband, wife, and children, people who have family relations due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n13. Guardian is a person or body who in reality exercises custodial power as a parent over a child.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for strengthening and recovery of violence victims.\n15. Judicial body is the general court which has the authority to receive, examine, and adjudicate, as well as resolve every case submitted to it, to realize law enforcement and justice.\n16. Community is individuals, families, groups, and social organizations and/or community organizations.\n17. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n18. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n- 5-\n19. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n20. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the area of Buton Regency.\n21. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n22. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n23. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will occur, is occurring or has occurred.\n24. Prosecution is the action of the public prosecutor to transfer a case to the competent district court in matters and according to the manner regulated in the law with a request that it be examined and decided by a judge in a court session.\n25. Lawsuit is a notification accompanied by a request by an interested party to a judge to take action according to law against a person who has harmed him/her in a civil manner.\n26. Safe House is a shelter for victims during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n27. Standard Operating Procedure, hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaint/identification, rehabilitation, health, social rehabilitation, legal services up to repatriation and social reintegration of witnesses and/or victims.\n28. Child-Friendly Regency, hereinafter abbreviated as KLA is a regency that has a Child Rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.\n- 6 -\n29. Regional Revenue and Expenditure Budget, hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of Buton Regency.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text does mention the education sector in Pasal 18(1)(a) (prevention implemented by agencies whose functions include \"pendidikan\"), but that is only an assignment of responsible sectors, not a substantive prevention-through-education measure by itself. The more substantive education-related prevention content is in Pasal 17(2)(e) (\"memberikan pendidikan kritis tentang hak perempuan dan anak bagi masyarakat\"), which is community rights education rather than an education-system/school-based prevention intervention. If the indicator 'Prevention through education' is intended to mean prevention delivered via formal education/schools or education policy measures, the cited evidence (mere inclusion of 'education' as a sector) is insufficient. The relevant retrieved passages were available, but the judge over-interpreted them as satisfying the indicator, leading to a false positive.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_TENGGARA_BUTON.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.411595+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 2,
+  "diagnosed_count": 2
+}

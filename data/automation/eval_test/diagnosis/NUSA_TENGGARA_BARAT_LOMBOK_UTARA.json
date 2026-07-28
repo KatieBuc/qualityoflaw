@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "preventing the occurrence of marriage at an early age;",
+      "evaluator_rationale": "The policy explicitly addresses a harmful practice by assigning families/parents responsibility for preventing early-age marriage.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 68,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF NORTH LOMBOK REGENCY\nNUMBER   YEAR 2017\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\n\nGENERAL\n\nThe State has the obligation to provide Protection to every citizen in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. That Women and Children are vulnerable groups who tend to experience Violence and therefore need to receive Protection. Violence against Women and Children constitutes a violation of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination.\n\nViolence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against Women is any action based on gender differences that results in or may result in misery or suffering of Women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n\nThe existence of Women and Child Victims of Violence have not yet received adequate Services and therefore minimum Services are required for victims of Violence. In order to prevent and overcome Violence against Women and Children in North Lombok Regency so that they are protected from Violence, threats of Violence, torture or treatment that degrades human dignity and honor, it is necessary to implement Protection for Women and Children in the form of a Regional Regulation. This Regional Regulation regulates protection efforts for Women and Child Victims of Violence particularly in terms of Services, monitoring and evaluation, reporting, funding, guidance and Supervision.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\n(1) \tEvery person must protect Women and Children from the threat of danger of Violence against Women and Children.\n(2) \tEvery person or Institution is prohibited from falsifying data/documents that result in the occurrence of Violence against Women and Children and/or the non-fulfillment of the rights of Children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 34\n(1) \tIn every formulation of policies related to Children, the Regional Government shall consider and accommodate the opinions of Children conveyed through the Children's Forum/Children's Council.\n(2) \tThe Regional Government may include representatives of the Children's Forum/Children's Council in the Regional Development Planning Deliberation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nThe Implementation of Protection of Women and Children aims to: provide guidance to the Regency Government in planning policies and strategies for the Protection of Women and Children;\nprevent the occurrence of all forms of Violence against Women and Children as well as violations of the rights of Women and Children;\nprotect and provide services to Women and Child Victims of Violence;\nstrengthen the protective environment for Women and Children from all forms of Violence, exploitation, abuse and neglect;\nincrease empowerment of Women and Children; and increase the role of government institutions, business entities, media and/or NGOs in the Region.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 20\n(1) \tThe cultivation of a gender-equitable social system includes:\na. \tgender-based planning, budgeting and development systems;\nb. \tgender-based human resource capacity building; and\nc. \tgender-based political rights.\n(2) \tThe provisions referred to in paragraph (1) shall be implemented in the form of gender mainstreaming in every policy and community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "Second Part\nImplementation of Protection for Women and Children",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 8\nfamilies and parents have obligations and responsibilities toward Children in the form of: caring for, maintaining, educating, and protecting Children;\npreventing the occurrence of marriage at an early age;\nensuring the continuity of Children's education in accordance with the Children's abilities, talents and interests; and reporting every birth of a Child to the authorized agency to conduct birth registration.\nIn the event that parents do not exist or their whereabouts are unknown or due to a certain reason, cannot carry out their obligations and responsibilities, then the obligations and responsibilities as referred to in paragraph (1) may be transferred to the family, which shall be implemented in accordance with the applicable laws and regulations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\nThe Implementation of Protection of Women and Children includes:\na. \tprevention and Protection;\nb. \tHandling, recovery of victims of Violence;\nc. \tRehabilitation, Reintegration and empowerment;\nd. \tlaw enforcement services and legal assistance;\ne. \tfacilitation of Child justice; and\nf. \tcultivation of a gender-equitable social system.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 6\nThe Regional Government has the obligation and responsibility to: respect and guarantee the human rights of every Woman and Child without distinguishing ethnicity, religion, race, group, gender, ethnic group, culture, and language, legal status of the Child, birth order of the Child, and physical and/or mental condition;\nprovide support for facilities and infrastructure in the Implementation of Protection of Women and Children, including providing breastfeeding places for Children, playgrounds, recreational places, shelters, as well as establishing integrated service centers for Protection of Women and Children;\nsupervise the Implementation of Protection of Women and Children;\nguarantee the availability of a safe and comfortable environment for optimal Child growth and development;\nallocate budget to Institutions that have programs in the field of Protection of Women and Children;\ncoordinate programs, budgets and services that guarantee ease of service to victims;\nformulate guidelines for the implementation of Protection of Women and Children;\nprovide services for Women and Child Victims of Violence;\nmonitor, supervise and evaluate the Implementation of Protection and Assistance for Women and Children;\nprevent, reduce risks, and carry out handling of all forms of Violence, exploitation, maltreatment, Children in conflict with the law and Children in emergency situations;\nstrengthen family-based and Community-based Child care;\nincrease Child participation in policy-making that affects them, including in family life, education and Community; and increase Community participation in the Protection of Women and Children including prevention, risk reduction and its handling.\nThe provision of facilities and infrastructure as referred to in paragraph (1) letter b, is for the fulfillment of service standards;\nThe provision of facilities and infrastructure by the Regional Government is carried out in stages adjusted to the financial capacity of the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nThe Protection of Women and Children is carried out with due regard to religion, customs, social culture of the Community by prioritizing the basic principles of women's rights and children's rights.\nThe basic principles of Protection of women's rights and children's rights as referred to in paragraph (1) include: non-discrimination;\nthe best interests of Women and Children;\nthe right to life, survival, and development;\nrespect for the opinion of Children;\nlegal certainty (Protection of victims' rights);\nlocal wisdom;\njustice and gender equality;\ntransparency;\naccountability; and sustainability.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes prevention of early-age marriage as an obligation of families/parents: Pasal 8 ayat (1) huruf b: \"mencegah terjadinya perkawinan pada usia dini.\" Early/child marriage is commonly treated as a harmful practice indicator. The retrieved English passage [1.6-15] accurately reflects this. The judge’s reasoning matches the text, so the golden label of \"No\" appears incorrect for this document.",
+      "diagnosis_status": "ok"
+    },
+    "2.4": {
+      "indicator": "Gender mainstreaming institutionalisation",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(2) \tThe provisions referred to in paragraph (1) shall be implemented in the form of gender mainstreaming in every policy and community life.",
+      "evaluator_rationale": "The policy explicitly states that provisions for cultivating a gender-equitable social system shall be implemented in the form of gender mainstreaming in every policy and community life, addressing institutionalisation of gender mainstreaming (even if no specific working group is mentioned).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 35,
+          "text": "Article 20\n(1) \tThe cultivation of a gender-equitable social system includes:\na. \tgender-based planning, budgeting and development systems;\nb. \tgender-based human resource capacity building; and\nc. \tgender-based political rights.\n(2) \tThe provisions referred to in paragraph (1) shall be implemented in the form of gender mainstreaming in every policy and community life.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 34,
+          "text": "Paragraph 6\nCultivating a Social System with Gender Justice",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 46,
+          "text": "CHAPTER V\nSTRENGTHENING AND DEVELOPMENT OF INSTITUTIONS PROVIDING PROTECTION SERVICES FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 68,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF NORTH LOMBOK REGENCY\nNUMBER   YEAR 2017\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\n\nGENERAL\n\nThe State has the obligation to provide Protection to every citizen in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. That Women and Children are vulnerable groups who tend to experience Violence and therefore need to receive Protection. Violence against Women and Children constitutes a violation of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination.\n\nViolence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against Women is any action based on gender differences that results in or may result in misery or suffering of Women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n\nThe existence of Women and Child Victims of Violence have not yet received adequate Services and therefore minimum Services are required for victims of Violence. In order to prevent and overcome Violence against Women and Children in North Lombok Regency so that they are protected from Violence, threats of Violence, torture or treatment that degrades human dignity and honor, it is necessary to implement Protection for Women and Children in the form of a Regional Regulation. This Regional Regulation regulates protection efforts for Women and Child Victims of Violence particularly in terms of Services, monitoring and evaluation, reporting, funding, guidance and Supervision.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 26\n(1) \tThe Regional Government implements Integrated Services for Women and Children victims of acts of Violence through activities:\na. \tComplaint services;\nb. \tHealth services;\nc. \tcounseling;\nd. \tspiritual guidance;\ne. \tSocial Rehabilitation services;\nf. \tLegal aid and assistance services; and/or\ng. \trepatriation and Reintegration.\n(2) \tServices as referred to in paragraph (1) must be supported by facilities in the form of:\na. \tspecial Service rooms within the police force;\nb. \texpert and professional personnel;\nc. \tService centers and safe houses; and/or\nd. \tother facilities and infrastructure necessary for victim recovery.\n(3) \tThe implementation of Services for victims of acts of Violence is carried out in an integrated manner by the Regional Government together with P2TP2A with other social Institutions.\n(4) \tP2TP2A and other social Institutions as referred to in paragraph (3) may receive and send case referrals from other Service units in a networked manner.\n(5) \tIntegrated Services for victims of acts of Violence as referred to in paragraph (1) through paragraph (4) are implemented in accordance with Standard Operating Procedures.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation, what is meant by: Region is North Lombok Regency;\nRegional Government is the Regent and Regional Apparatus as elements of the Regional Government administration;\nRegent is the Regent of North Lombok;\nRegional Apparatus Work Unit hereinafter abbreviated as SKPD is the Regional Apparatus Work Unit within the North Lombok Regency Government;\nImplementation of Protection is all actions and service efforts to guarantee and protect the rights of Women and Children organized by the Regional Government and the Community;\nChild is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb;\nService is immediate activities and actions carried out by Professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery;\nAssistance is activities and actions carried out by Assistants during the service process;\nAssistant is a person or representative from an Institution who has the expertise to provide Assistance/social worker who has professional competence in their field;\nInstitution is a Community non-governmental organization (NGO) that provides Assistance;\nSupervision is a monitoring activity process carried out systematically on the entire Implementation of Protection of legal aid for Children and Women;\nCommunity is individuals, families, groups, social organizations and/or community organizations;\nRegional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the annual financial plan of the Region established by Regional Regulation;\nIntegrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A, is an empowerment and Protection service for Women and Children established by the Government that is Community-based;\nViolence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty;\nWomen victims of Violence are Women who experience actions that result in misery or suffering physically, sexually, economically or psychologically, including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in private life;\nChild victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity;\nChildren in emergency situations referred to are Children who become refugees, Children victims of riots and unrest, Children victims of disasters and Children in conflict situations;\nChildren in disaster situations are natural disasters, fire disasters and riots;\nComplaint handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence against Women and Children submitted by victims, families or the Community;\nSocial rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly;\nSocial reintegration is an effort to reunite victims with family, substitute family, or Community that can provide Protection and fulfillment of needs for victims;\nIntegrated service unit or abbreviated as UPT is a unified unit that carries out integrated service functions for Women and Children victims of Violence;\nSafe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence;\nChild Protection Institution or abbreviated as LPA is an Independent Institution in the field of Child Protection and fulfillment of Children's rights that is Community-based;\nNorth Lombok Regency Integrated Service Center or abbreviated as PPT KLU is a form of integrated service delivery based on community health centers to handle victims of Violence against Women and Children which includes medical, medicolegal, and psychosocial services.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 24\n(1) \tRegional Government conducts prevention of Violence against Women and Children by means of:\na. \tsocializing laws and regulations;\nb. \tproviding counseling/guidance;\nc. \tproviding education on the dangers of domestic Violence;\nd. \tconducting seminars/workshops or the like;\ne. \testablishing work networks in efforts to prevent Violence;\nf. \tconducting coordination, integration, synchronization of Violence prevention based on partnership patterns;\ng. \testablishing a Violence prevention system, mapping of locations or areas prone to occurrence of Violence; and\nh. \tincreasing Community awareness in behaving in accordance with religious norms and morality.\n(2) \tIn addition to Regional Government, prevention as referred to in paragraph (1) must be implemented by:\na. \tfamily and/or closest relatives;\nb. \tCommunity;\nc. \teducational institutions;\nd. \thealth institutions;\ne. \tsocial Community institutions; and\nf. \tbusiness sector and other institutions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\n(1) \tEvery person must protect Women and Children from the threat of danger of Violence against Women and Children.\n(2) \tEvery person or Institution is prohibited from falsifying data/documents that result in the occurrence of Violence against Women and Children and/or the non-fulfillment of the rights of Children.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nThe Protection of Women and Children is carried out with due regard to religion, customs, social culture of the Community by prioritizing the basic principles of women's rights and children's rights.\nThe basic principles of Protection of women's rights and children's rights as referred to in paragraph (1) include: non-discrimination;\nthe best interests of Women and Children;\nthe right to life, survival, and development;\nrespect for the opinion of Children;\nlegal certainty (Protection of victims' rights);\nlocal wisdom;\njustice and gender equality;\ntransparency;\naccountability; and sustainability.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\nThe Implementation of Protection of Women and Children includes:\na. \tprevention and Protection;\nb. \tHandling, recovery of victims of Violence;\nc. \tRehabilitation, Reintegration and empowerment;\nd. \tlaw enforcement services and legal assistance;\ne. \tfacilitation of Child justice; and\nf. \tcultivation of a gender-equitable social system.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly mandates gender mainstreaming: Pasal 20 ayat (2): \"Ketentuan ... dilaksanakan dalam bentuk pengarusutamaan gender dalam setiap kebijakan dan kehidupan Masyarakat.\" This is a clear statement of institutionalising gender mainstreaming (at least as a required approach across policies). The retrieved English passage [2.4-35] captures this correctly, and the judge’s rationale is consistent with the source. Therefore the golden label \"No\" appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. conducting education on the prevention of Violence against Women and Children; d. developing child-friendly school models; n. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;",
+      "evaluator_rationale": "The policy includes prevention through education by mandating education on preventing violence, developing child-friendly school models, and ensuring continuity of character-based education, all of which relate to education-based primary prevention and improving educational quality/approaches.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 24,
+          "text": "Article 14\n(1) Related SKPD that oversees the Protection of Women and Children shall conduct prevention and Protection in the form of:\na. dissemination of information;\nb. developing data centers;\nc. conducting education on the prevention of Violence against Women and Children;\nd. developing child-friendly school models;\ne. encouraging increased participation of Children in preventing Violence against Children as well as socialization and promotion of Children's rights through the establishment of Children's Forums/Children's Councils.\nf. formulating a code of ethics for educators and orphanage staff as well as parties involved in handling Children;\ng. providing guidelines or SOPs on handling Violence against Children;\nh. formulating guidelines for the implementation of recovery and social Reintegration for Child victims of Violence;\ni. formulating guidelines for Community participation in providing recovery and Reintegration services;\nj. involving Community participation in recovery and Reintegration services for Child victims of Violence;\nk. raising awareness about safe sex, dangers of cigarettes, alcoholic beverages, narcotics and psychotropic substance abuse, Child marriage, pornography, pornographic acts and HIV/AIDS to families, Communities and Children;\nl. increasing the capacity of families and Child care Institutions regarding Child Protection and child-rearing skills.\nm. increasing the capacity of all Child Protection services;\nn. guarantee of continuity of character-based education in accordance with the 12 (twelve) year compulsory education program;\no. fulfillment of the right to legal identity for Children and Women including birth certificates and marriage certificates;\np. guarantee of receiving standard health services;\nq. guarantee of Children's right to receive exclusive breastfeeding with the obligation for public spaces to provide breastfeeding corners;\nr. guarantee of Protection and fulfillment of Children's rights from the womb and Women's rights;\ns. fulfillment of Children's needs according to the age of the Child;\nt. Assistance and reproductive and psychological health services for adolescent Children and Women;\nu. development of Marriage Age Maturation Programs;\nv. strengthening the function of Institutions or non-governmental organizations engaged in Child empowerment; and\nw. encouraging and facilitating the development of Child-Friendly Districts.\n(2) Implementation of prevention as referred to in paragraph (1) may cooperate with Educational Institutions, Religious Institutions, Media, Business Entities and/or NGOs.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 24\n(1) \tRegional Government conducts prevention of Violence against Women and Children by means of:\na. \tsocializing laws and regulations;\nb. \tproviding counseling/guidance;\nc. \tproviding education on the dangers of domestic Violence;\nd. \tconducting seminars/workshops or the like;\ne. \testablishing work networks in efforts to prevent Violence;\nf. \tconducting coordination, integration, synchronization of Violence prevention based on partnership patterns;\ng. \testablishing a Violence prevention system, mapping of locations or areas prone to occurrence of Violence; and\nh. \tincreasing Community awareness in behaving in accordance with religious norms and morality.\n(2) \tIn addition to Regional Government, prevention as referred to in paragraph (1) must be implemented by:\na. \tfamily and/or closest relatives;\nb. \tCommunity;\nc. \teducational institutions;\nd. \thealth institutions;\ne. \tsocial Community institutions; and\nf. \tbusiness sector and other institutions.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 40,
+          "text": "Second Part\nPrevention of Acts of Violence",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 25\n(1) Regional Governments are obligated to formulate prevention programs or activities as referred to in Article 24 paragraph (1) in the Regional Work Plan and Regional Strategic Plan.\n(2) Programs or activities as referred to in paragraph (1) are to support the realization of the Regional Long-Term Development Plan and Regional Medium-Term Development Plan.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 23,
+          "text": "Paragraph 1\nPrevention and Protection",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 68,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF NORTH LOMBOK REGENCY\nNUMBER   YEAR 2017\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\n\nGENERAL\n\nThe State has the obligation to provide Protection to every citizen in accordance with the preamble of the 1945 Constitution of the Republic of Indonesia. That Women and Children are vulnerable groups who tend to experience Violence and therefore need to receive Protection. Violence against Women and Children constitutes a violation of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed without discrimination.\n\nViolence is any act unlawfully with or without the use of means against physical and psychological aspects that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against Women is any action based on gender differences that results in or may result in misery or suffering of Women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against Children is any act against Children that results in misery or suffering physically, mentally, sexually, psychologically, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of Children.\n\nThe existence of Women and Child Victims of Violence have not yet received adequate Services and therefore minimum Services are required for victims of Violence. In order to prevent and overcome Violence against Women and Children in North Lombok Regency so that they are protected from Violence, threats of Violence, torture or treatment that degrades human dignity and honor, it is necessary to implement Protection for Women and Children in the form of a Regional Regulation. This Regional Regulation regulates protection efforts for Women and Child Victims of Violence particularly in terms of Services, monitoring and evaluation, reporting, funding, guidance and Supervision.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation, what is meant by: Region is North Lombok Regency;\nRegional Government is the Regent and Regional Apparatus as elements of the Regional Government administration;\nRegent is the Regent of North Lombok;\nRegional Apparatus Work Unit hereinafter abbreviated as SKPD is the Regional Apparatus Work Unit within the North Lombok Regency Government;\nImplementation of Protection is all actions and service efforts to guarantee and protect the rights of Women and Children organized by the Regional Government and the Community;\nChild is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb;\nService is immediate activities and actions carried out by Professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for strengthening and recovery;\nAssistance is activities and actions carried out by Assistants during the service process;\nAssistant is a person or representative from an Institution who has the expertise to provide Assistance/social worker who has professional competence in their field;\nInstitution is a Community non-governmental organization (NGO) that provides Assistance;\nSupervision is a monitoring activity process carried out systematically on the entire Implementation of Protection of legal aid for Children and Women;\nCommunity is individuals, families, groups, social organizations and/or community organizations;\nRegional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the annual financial plan of the Region established by Regional Regulation;\nIntegrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A, is an empowerment and Protection service for Women and Children established by the Government that is Community-based;\nViolence is any act against a Child that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty;\nWomen victims of Violence are Women who experience actions that result in misery or suffering physically, sexually, economically or psychologically, including threats of certain actions, coercion or arbitrary deprivation of liberty, whether occurring in the public sphere or in private life;\nChild victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity;\nChildren in emergency situations referred to are Children who become refugees, Children victims of riots and unrest, Children victims of disasters and Children in conflict situations;\nChildren in disaster situations are natural disasters, fire disasters and riots;\nComplaint handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence against Women and Children submitted by victims, families or the Community;\nSocial rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly;\nSocial reintegration is an effort to reunite victims with family, substitute family, or Community that can provide Protection and fulfillment of needs for victims;\nIntegrated service unit or abbreviated as UPT is a unified unit that carries out integrated service functions for Women and Children victims of Violence;\nSafe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence;\nChild Protection Institution or abbreviated as LPA is an Independent Institution in the field of Child Protection and fulfillment of Children's rights that is Community-based;\nNorth Lombok Regency Integrated Service Center or abbreviated as PPT KLU is a form of integrated service delivery based on community health centers to handle victims of Violence against Women and Children which includes medical, medicolegal, and psychosocial services.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 19\n(1) Regional Government plays a role in facilitating the handling of Children in conflict with the law.\n(2) the handling of Children in conflict with the law as referred to in paragraph (1) includes:\na. capacity building for government apparatus, social workers and the Community;\nb. improving coordination with law enforcement apparatus;\nc. provision of supporting facilities and infrastructure for the implementation of the juvenile criminal justice system;\nd. development of effective methods through information support, facilities and positive activities as well as taking immediate action on gaps that encourage Children and/or groups of Children to commit legal violations;\ne. provision and delivery of legal and psychosocial assistance services in realizing restorative justice and diversion processes for Children in conflict with the law;\nf. encouraging paradigm shifts in the Community towards Children in conflict with the law; and\ng. developing diversion mechanisms for Children in conflict with the law in accordance with applicable laws and regulations.\n(3) Related SKPD with authority over social affairs and education shall organize social Rehabilitation and education for Children in conflict with the law in the form of:\na. provision of safe houses;\nb. psychosocial Rehabilitation;\nc. mental spiritual Rehabilitation;\nd. fulfillment of the right to education; and\ne. social Reintegration.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 11\nEvery Child has the right to:\na. \tobtain education and teaching in accordance with age level, physical and mental condition, intelligence as well as interests and talents;\nb. \tlive, grow, develop and participate properly in accordance with human dignity and worth, as well as receive Protection from acts of Violence, exploitation, discrimination and neglect;\nc. \thave their needs fulfilled by the family;\nd. \treceive religious guidance;\ne. \tobtain their identity; and\nf. \tobtain other rights in accordance with human dignity and based on the provisions of laws and regulations.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 64,
+          "text": "CHAPTER XI\nCLOSING PROVISIONS\nArticle 41\nThe implementing regulations of this Regional Regulation must be stipulated no later than 1 (one) year calculated from the promulgation of this Regional Regulation.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text contains explicit prevention-through-education measures. Pasal 14 ayat (1) huruf c: \"menyelenggarakan pendidikan tentang pencegahan Kekerasan terhadap Perempuan dan Anak\" and huruf d: \"mengembangkan model sekolah ramah Anak\". It also includes education continuity (huruf n) and awareness-raising topics (huruf k). These are directly about education-based primary prevention. The retrieved English passage [4.4-24] reflects these points, and the judge relied on them appropriately. Thus the golden label \"No\" appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "NUSA_TENGGARA_BARAT_LOMBOK_UTARA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.323562+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

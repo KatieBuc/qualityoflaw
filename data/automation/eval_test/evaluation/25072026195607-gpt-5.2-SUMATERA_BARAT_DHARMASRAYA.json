@@ -1,0 +1,469 @@
+{
+  "policy_file": "SUMATERA_BARAT_DHARMASRAYA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-25T09:50:30.298373+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "a. protect women from conflict and domestic violence that degrades the dignity of women;",
+      "rationale": "The policy explicitly mentions protecting women from domestic violence, indicating domestic violence is included.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "c. obtain protection from physical, psychological, sexual violence, and neglect;",
+      "rationale": "The policy explicitly includes protection from sexual violence among the rights of women (and similarly for children), demonstrating coverage of sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text repeatedly refers to 'acts of violence' and services for victims, none of the provided candidate sentences explicitly mention 'physical violence' for this criterion.",
+      "evidence_verified": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss psychological recovery and counseling services, but they do not explicitly identify or include 'psychological violence' as a form of violence in the provided excerpts for this criterion.",
+      "evidence_verified": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "b. obtain protection from economic exploitation and sexual exploitation; c. obtain protection from physical, psychological, sexual violence, and neglect;",
+      "rationale": "The policy explicitly references protection from economic exploitation and neglect, which falls under economic violence/economic exploitation/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "d. enhancement of women's awareness of the impact of early marriage; d. preventing unregistered marriages and marriage at child age.",
+      "rationale": "The policy addresses harmful practices by referencing early marriage and child marriage prevention, which are included harmful practices.",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address violence against women and children generally, but do not mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "d. providing special protection to women victims of acts of violence and human trafficking; and g. providing special protection to children in emergency situations, children in conflict with the law, children who are victims of acts of violence and human trafficking, children from minority and isolated groups, children who are economically and/or sexually exploited, children who are victims of narcotics, alcohol, psychotropic substance abuse and children with HIV/AIDS;",
+      "rationale": "The policy explicitly mentions providing special protection to women and children who are victims of human trafficking.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "b. obtain protection from economic exploitation and sexual exploitation; b. all work that utilizes, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;",
+      "rationale": "The policy explicitly includes protection from sexual exploitation and prohibits involving children in prostitution/pornography-related worst forms of work, covering sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention online/digital abuse, cyber harassment, non-consensual image sharing, or other technology-facilitated forms of violence; references to informatics/communication are administrative and not about tech-facilitated violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences describe coordination and networking among local/regional apparatus, agencies, and community elements for integrated services and referrals, but they do not explicitly indicate coordination or cooperation with governments across different jurisdictions.",
+      "evidence_verified": null
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Complaint services as referred to in Article 26 paragraph (3) letter a may be coordinated by UPTD PPA with related agencies consisting of: k. legal aid organizations; (4) Every element within the UPTD PPA environment in carrying out its duties must apply the principles of coordination, integration, synchronization, accountability and transparency, both within the UPTD PPA environment, as well as in relations between Regional Apparatus, relevant agencies, and community elements.",
+      "rationale": "The policy provides for coordination of complaint services with a range of external entities, including legal aid organizations and other service providers, and it explicitly references coordination with community elements, indicating a cooperation mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "d. developing an integrated database and information system on acts of violence against women and children; (1) In order to prepare planning, budgeting, monitoring and evaluation, as well as policy-making for development that is gender responsive and child sensitive, the regional government shall organize a gender and child data system. (2) To organize the gender and child data system, accurate and accountable disaggregated data is required.",
+      "rationale": "The policy explicitly mandates developing an integrated database and information system on acts of violence against women and children and requires the regional government to organize a gender and child data system using accurate, accountable disaggregated data.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "(1) In the effort to accelerate the institutionalization of Gender Mainstreaming in all Regional Apparatus, a Gender Mainstreaming Working Group is established. c. establishing a Gender Mainstreaming working group in the Region; The Regional Gender Mainstreaming Working Group as referred to in Article 15 paragraph (1) has the following duties:",
+      "rationale": "The policy explicitly establishes a Gender Mainstreaming Working Group to accelerate institutionalization across regional apparatus and assigns it duties to promote and facilitate gender mainstreaming, demonstrating institutionalization via a dedicated working group.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "b. technical guidance and training, includes: 1. providing training for government officials and law enforcement regarding prevention and handling of violence; 3. providing training to health workers who provide health services to women and child victims of violence at community health centers, integrated service units and general hospitals;",
+      "rationale": "The policy includes technical guidance and training, explicitly providing training for government officials and law enforcement and for service workers such as health workers who serve women and child victims of violence.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "a. monitoring implemented in the form of submission of reports on the implementation of women's empowerment and child protection programs by the Head of Regional Apparatus to the Regent periodically 1 (one) time every 3 (three) months; and b. evaluation of the implementation of women's empowerment and child protection periodically 1 (one) time every 3 (three) months conducted by the relevant Regional Apparatus (4) The results of supervision as referred to in paragraph (3) constitute evaluation material for the policy of women's empowerment and child protection programs. h. conducting monitoring, evaluation and reporting at least 1 (one) time per year.",
+      "rationale": "The policy requires monitoring through periodic reporting and evaluation of program implementation, and it also assigns the KLA Task Force responsibilities for monitoring, evaluation, and reporting at least annually.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "(1) In order to implement the Protection of Women and Children in the Region, the Regional Government establishes UPTD PPA in accordance with the provisions of laws and regulations. (1) The implementation of UPTD PPA services is integrative in nature, which is carried out under one roof or networked to provide optimal services to women and children experiencing problems.",
+      "rationale": "The policy establishes UPTD PPA to implement protection services for women and children and specifies that its services are integrative (under one roof or networked), which constitutes an integrated service unit relevant to VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions coordination with the police and provides for law enforcement/legal assistance, none of the cited sentences establish or describe a specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "a. complaint services; (1) Complaints of acts of violence against women and children may be made by reporters consisting of victims, victims' families, the community and/or community organizations in the field of protection of women and children. (2) Reporters as referred to in paragraph (1) may make complaints:",
+      "rationale": "The policy includes complaint services within UPTD PPA’s service scope and explicitly allows complaints of violence against women and children to be made directly, by telephone, or by letter, indicating a reporting/complaint reception service.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(1) The provision of safe houses as referred to in Article 32 paragraph (2) letter b may be provided by the Regional Government for women and children who experience criminal and/or civil problems. (2) The service of providing safe houses as referred to in paragraph (1) aims to protect women and children as victims of criminal and/or civil problems from intimidation by perpetrators or other parties.",
+      "rationale": "The policy provides for the service of providing safe houses for women and children experiencing criminal/civil problems, explicitly aiming to protect victims from intimidation, which meets the shelter/protection criterion.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(1) Law enforcement and legal assistance services as referred to in Article 26 paragraph (3) letter e constitute actions by law enforcement apparatus to implement laws and regulations in order to handle criminal and/or civil problems against women and children, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims. (4) The Regional Government shall provide legal assistance to women and children as victims of criminal and/or civil problems based on the provisions of laws and regulations.",
+      "rationale": "The policy explicitly defines law enforcement and legal assistance services for handling cases involving women and children and states the regional government shall provide legal assistance to women and children victims.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(3) Women and Children victims of acts of violence have the right to health services free of charge, including: a. medical services;",
+      "rationale": "The policy states that women and children victims of violence have the right to free health services, explicitly including medical services, demonstrating provision of health/medical services.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "(1) Counseling services as referred to in Article 32 paragraph (2) letter a aim to: (2) Counseling services are carried out by gender-responsive social rehabilitation officers, consisting of:",
+      "rationale": "The policy establishes counseling services for women and children victims of violence and specifies these are carried out by counselors/psychologists/psychiatrists, which constitutes psychosocial counseling services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "(1) Spiritual guidance as referred to in Article 32 paragraph (2) letter c aims for psychological recovery. (3) Spiritual guidance is conducted by spiritual guidance officers.",
+      "rationale": "The policy provides spiritual guidance aimed at psychological recovery and specifies it is conducted by spiritual guidance officers, indicating a spiritual/religious counseling-type service.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "(1) Social rehabilitation as referred to in Article 26 paragraph (3) letter c is intended to restore and develop the capabilities of women and children who experience social dysfunction due to criminal and/or civil matters so that they can carry out their social functions in society properly. (6) Social reintegration as referred to in Article 38 paragraph (2) is carried out in the context of reuniting women and children as victims of criminal and/or civil problems with their family, substitute family, or community that can provide protection and fulfillment of needs for the victims.",
+      "rationale": "The policy provides social rehabilitation services for women and children experiencing social dysfunction and also provides for social reintegration to reunite victims with family/substitute family/community, meeting resocialisation/rehabilitation-reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "a. implementing programs, activities, training for improving the skills and expertise of women in order to realize the improvement of women's welfare; b. facilitation of business capital strengthening for women who have weak economy;",
+      "rationale": "The policy includes programs/training to improve women’s skills and facilitation of business capital strengthening for women with weak economy, which are forms of economic empowerment/support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "a. conducting socialization regarding the prevention of violence against women and children by optimizing the role of customary, cultural, religious institutions and community organizations;",
+      "rationale": "The policy assigns the Regional Government responsibility to conduct socialization on preventing violence against women and children, which constitutes information/education as a primary prevention measure.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "a. conducting efforts to improve family quality to realize gender equality and the rights of Children; 7. Gender Mainstreaming is a strategy carried out rationally and systematically to achieve and realize gender equality and justice in a number of aspects of human life, through policies and programs that take into account the experiences, aspirations, needs and problems of women and men in the planning, implementation, monitoring and evaluation of all policies and programs in various fields of life and development.",
+      "rationale": "The policy explicitly references efforts to realize gender equality and defines gender mainstreaming as a strategy to achieve gender equality and justice, indicating an educational/informational orientation toward gender equality and women’s rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "Yes",
+      "evidence": "b. providing guidelines on handling acts of violence against women and children;",
+      "rationale": "The policy provides for the development/provision of guidelines on handling acts of violence against women and children, which is information about policies/procedures related to VAW.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "(1) Every organizer of an educational unit is obligated to provide opportunities to Children to obtain educational services without discrimination. (3) In the event that a Child victim of an act of Violence experiences dropping out of school, then the child victim of violence shall be provided formal or non-formal education, in this case carried out by the organizer of the educational unit and coordinated with the Women and Child Empowerment Unit",
+      "rationale": "The policy includes education-related measures ensuring non-discriminatory access to education and continuity of education for child victims of violence, reflecting prevention/mitigation through education and support to maintain educational participation.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "(3) In the implementation of services as referred to in paragraph (2), UPTD PPA may cooperate with women crisis centers and/or existing social community organizations. (5) In providing legal assistance as referred to in paragraph (3), UPTD PPA may cooperate with legal aid institutions, women crisis centers, advocates and/or other legal assistants who are gender sensitive.",
+      "rationale": "The policy explicitly allows service providers (UPTD PPA) to cooperate with women crisis centers and existing social community organizations, and also to cooperate with legal aid institutions and women crisis centers in providing legal assistance—indicating collaboration with civil society/NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "a. conducting socialization regarding the prevention of violence against women and children by optimizing the role of customary, cultural, religious institutions and community organizations; j. ministry of religious affairs; and/or",
+      "rationale": "The policy references prevention efforts by optimizing the role of religious institutions and includes coordination with the ministry of religious affairs for complaint services, demonstrating engagement with religious-sector actors.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "Yes",
+      "evidence": "a. conducting socialization regarding the prevention of violence against women and children by optimizing the role of customary, cultural, religious institutions and community organizations; (2) Ninik mamak, alim ulama and cadiak pandai as well as bundo kanduang are responsible for protecting and preventing violations of the rights of women and children.",
+      "rationale": "The policy calls for optimizing the role of customary/cultural institutions in prevention and assigns responsibility to specific traditional/community leaders (e.g., ninik mamak and bundo kanduang) to protect and prevent violations, indicating collaboration with traditional structures.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(3) In the event that a Child victim of an act of Violence experiences dropping out of school, then the child victim of violence shall be provided formal or non-formal education, in this case carried out by the organizer of the educational unit and coordinated with the Women and Child Empowerment Unit",
+      "rationale": "The policy requires that when a child victim drops out, education provision is carried out by the organizer of the educational unit and coordinated with the Women and Child Empowerment Unit, showing engagement with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention cooperation with persons or institutions with expertise and include definitions related to repatriation, but none explicitly reference international organizations or international support for service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss coordination with agencies, community elements, and communication/information/education activities, but do not explicitly mention collaboration with media organizations or media actors.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "(4) Every element within the UPTD PPA environment in carrying out its duties must apply the principles of coordination, integration, synchronization, accountability and transparency, both within the UPTD PPA environment, as well as in relations between Regional Apparatus, relevant agencies, and community elements. The responsibility of the community to prevent the occurrence of acts of violence against women and children includes:",
+      "rationale": "The policy requires coordination with community elements in service implementation and sets out explicit responsibilities for the community to prevent violence, demonstrating stakeholder engagement with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references facilities at business entities (e.g., breastfeeding corner rooms), it does not describe stakeholder engagement or collaboration mechanisms with the business/private sector for services or prevention.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address protection from conflict and violence generally (including domestic conflict) and provide special protection for women victims of violence/trafficking, but they do not specify special protection measures for women in conflict and disaster-prone areas. Disaster-related special welfare is mentioned only for children, not women.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "d. providing special protection to women victims of acts of violence and human trafficking; and",
+      "rationale": "The policy explicitly requires the regional government to provide special protection to women who are victims of human trafficking.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "g. obtain special protection in the implementation of her work or profession against matters that could threaten her safety and or health in relation to women's reproductive function; and",
+      "rationale": "The policy explicitly mentions special protection for women in the implementation of their work or profession, including protection related to safety/health and reproductive function.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general rights and services for women and victims of criminal/civil problems, but do not mention elderly women or any age-specific protection measures targeted at older women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "e. children with disabilities. (1) Children with disabilities and Children with special needs are given equal opportunities to obtain formal, nonformal and informal education services, including inclusive education programs.",
+      "rationale": "The policy includes disability-targeted measures (social welfare and education) for persons with disabilities, specifically mentioning children with disabilities and children with special needs.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general women’s rights and family obligations toward protecting women, but do not identify women heads of household/families as a specific group or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions special protection for children from minority and isolated groups, it does not provide special protection measures specifically targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on legal assistance and protection for women and children as victims/witnesses in criminal/civil matters, but do not specifically mention women in conflict with the law (as perpetrators/defendants) or otherwise explicitly address protection for women as offenders in legal processes.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference local wisdom and certain community leaders’ responsibilities, but do not explicitly provide special protection measures targeted at Indigenous peoples/groups (masyarakat adat) as such.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address repatriation of victims of criminal/civil problems and general services (safe houses, education), but do not mention refugees or forced displacement or provide measures specifically targeted to those groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general protections for women and women workers broadly, but do not mention domestic workers as a specific category or provide targeted protections for domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy includes safe houses for women and children who experience criminal/civil problems, but it does not identify homelessness as the basis for eligibility or provide special protection measures specifically targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss social rehabilitation and reintegration for women and children experiencing social dysfunction due to criminal/civil matters, but do not explicitly address women who are former inmates/formerly incarcerated as a targeted group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Financing for the implementation of women's empowerment and child protection activities is sourced from the Regional Revenue and Expenditure Budget and other legitimate and non-binding sources",
+      "rationale": "The policy explicitly states that financing is sourced from the Regional Revenue and Expenditure Budget, which is the local/regional government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The financing provision mentions the Regional Revenue and Expenditure Budget and other legitimate non-binding sources, but does not explicitly reference the national government budget.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention international donors, international organizations, foreign governments, UN agencies, or other international funding sources; the financing clause is generic ('other legitimate and non-binding sources') without specifying international support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Financing for the implementation of women's empowerment and child protection activities is sourced from the Regional Revenue and Expenditure Budget and other legitimate and non-binding sources",
+      "rationale": "Beyond the Regional Revenue and Expenditure Budget, the policy explicitly allows financing from 'other legitimate and non-binding sources,' which constitutes other legally permissible funding sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited financing language refers to the Regional Revenue and Expenditure Budget and does not explicitly identify a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

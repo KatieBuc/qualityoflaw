@@ -1,0 +1,276 @@
+{
+  "diagnoses": {
+    "1.10": {
+      "indicator": "Technology-facilitated violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Letter a Threat of violence namely any act unlawfully either directly or indirectly including through social media networks and communication devices.",
+      "evaluator_rationale": "The policy explicitly references threats of violence carried out directly or indirectly including through social media networks and communication devices, which constitutes technology-facilitated violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 18\nOther violence as referred to in Article 12 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/Victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 17\nExploitation as referred to in Article 12 letter e includes:\na. actions that exploit women economically or sexually with the intention of benefiting oneself or others;\nb. actions with or without the consent of the Victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of utilization of sexual organs or other body organs of the Victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 22\nThe Community and Family have the obligation and responsibility to:\na. prevent the occurrence of Violence Against Women;\nb. report if Violence occurs;\nc. protect Victims; and\nd. provide emergency assistance.",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER III\nVIOLENCE\nArticle 12\nViolence Against Women consists of:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 18\nLetter a Threat of violence namely any act unlawfully either directly or indirectly including through social media networks and communication devices.\nLetter b Sufficiently clear.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER VI\nArticle 24\n(1) PPT may be established by the Regional Government, vertical agencies in the Region, and/or community institutions.\n(2) PPT as referred to in paragraph (1) consists of elements from the Regional Police, Regional Apparatus responsible for Health, Education, Social Affairs, Community Empowerment, Women's Empowerment and Child Protection as well as Community Social Institutions, which function to provide protection to women from acts of Violence carried out in a networked manner.\n(3) PPT as referred to in paragraph (1) has the duty to provide services and temporary protection in the form of Safe Houses (shelters) for Victims.\n(4) In the event that PPT does not have a Safe House as referred to in paragraph (3), then the Victim shall be referred to a PPT that has a Safe House.\n(5) Provisions regarding the establishment, composition of the management team and organizational structure of PPT established by the Regional Government shall be stipulated by Regent's Decree.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nSCOPE OF PROTECTION\nArticle 2\nThe scope of Protection of Women from acts of Violence includes: a. prevention;\nb. Service/Handling; and\nc. empowerment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 19\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain statements, questions, ideas, and signs containing value, meaning and messages whether data, facts or explanations that can be seen, heard and read presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of Violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to obtain compensation\" includes: economic empowerment, Repatriation costs, health and education or skills guarantees.\nLetter g What is meant by \"the right to obtain Social Rehabilitation\" includes: access to medical services for physical and psychological recovery, Legal Aid to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to obtain Complaint Handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear.\nLetter j What is meant by \"the right to obtain Assistance\" includes among others: psychologists, psychiatrists and health experts, religious counselors, advocates and Family members.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Sanggau.\n2. Region is the Regency of Sanggau.\n3. Regional Government is the Bupati as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the Region.\n4. Regional Apparatus is an auxiliary element of the Bupati and the Regional House of Representatives in the administration of governmental affairs that are the authority of the Region.\n5. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the Victim.\n6. Violence Against Women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n7. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of Violence and life vulnerability.\n8. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that Violence Against Women will, is, or has occurred.\n9. Service/Handling is action taken as soon as possible to the Victim when seeing, hearing and/or knowing that Violence against the Victim will, is, or has occurred.\n10. Assistance is a person or representative from an institution who has expertise in assisting Victims to conduct counseling, therapy and/or advocacy.\n11. Integrated Service Center, hereinafter abbreviated as PPT is an institution or functional work unit that organizes integrated services for Victims of Violence.\n12. Safe House is a residence for Victims during the Assistance process for the security and comfort of Victims from threats and danger.\n13. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence Against Women submitted by Victims, Families and the community.\n14. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n15. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n16. Legal Aid is legal services provided by legal assistants and advocacy to conduct the process of Assistance to witnesses and/or Victims of Violence Against Women that is gender sensitive.\n17. Law Enforcement is action by officials authorized by the state to implement laws and regulations.\n18. Repatriation is an effort to return women Victims of Violence from abroad to the debarkation point/entry point, or from the receiving region to the region of origin.\n19. Social Reintegration is an effort to reunite Victims with the Family, substitute family, or community that can provide protection and fulfillment for Victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upwards or downwards.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 14\nPsychological violence as referred to in Article 12 letter b includes acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness, and/or severe psychological suffering.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, the Elucidation for Pasal 18 huruf a explicitly states: \"Ancaman kekerasan ... termasuk diantaranya melalui jejaring media sosial dan alat komunikasi\" (threats of violence including via social media networks and communication devices). This is a direct reference to violence/threats facilitated through technology (social media/communication tools). The retrieved English candidate [1.10-61] reflects this correctly, and the judge’s reasoning aligns with the text. Therefore the golden label 'No' appears incorrect; the policy does cover technology-facilitated violence at least in the form of threats via social media/communication devices.",
+      "diagnosis_status": "ok"
+    },
+    "3.7": {
+      "indicator": "Psychosocial counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention social rehabilitation and assistance by psychologists/psychiatrists, but they do not explicitly establish a psychosocial counselling service unit or counselling service as such.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 5\n(1) The Implementation of Services/Handling of Victims is carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) may receive and send case referrals from and/or to other service units in a networked manner.",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 20\nParagraph (1) Letter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e What is meant by minimum service standards is the performance benchmark for integrated service units in providing 5 (five) types of services for female Victims of Violence, namely Complaint Handling, Health Services, Social Rehabilitation, Law Enforcement and Legal Assistance, as well as Repatriation and Social Reintegration.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Sanggau.\n2. Region is the Regency of Sanggau.\n3. Regional Government is the Bupati as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the Region.\n4. Regional Apparatus is an auxiliary element of the Bupati and the Regional House of Representatives in the administration of governmental affairs that are the authority of the Region.\n5. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the Victim.\n6. Violence Against Women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n7. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of Violence and life vulnerability.\n8. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that Violence Against Women will, is, or has occurred.\n9. Service/Handling is action taken as soon as possible to the Victim when seeing, hearing and/or knowing that Violence against the Victim will, is, or has occurred.\n10. Assistance is a person or representative from an institution who has expertise in assisting Victims to conduct counseling, therapy and/or advocacy.\n11. Integrated Service Center, hereinafter abbreviated as PPT is an institution or functional work unit that organizes integrated services for Victims of Violence.\n12. Safe House is a residence for Victims during the Assistance process for the security and comfort of Victims from threats and danger.\n13. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence Against Women submitted by Victims, Families and the community.\n14. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n15. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n16. Legal Aid is legal services provided by legal assistants and advocacy to conduct the process of Assistance to witnesses and/or Victims of Violence Against Women that is gender sensitive.\n17. Law Enforcement is action by officials authorized by the state to implement laws and regulations.\n18. Repatriation is an effort to return women Victims of Violence from abroad to the debarkation point/entry point, or from the receiving region to the region of origin.\n19. Social Reintegration is an effort to reunite Victims with the Family, substitute family, or community that can provide protection and fulfillment for Victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upwards or downwards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nForms of Service/Handling for Victims include:\na. Complaint Handling;\nb. health/medical rehabilitation services;\nc. Social Rehabilitation services;\nd. Law Enforcement and Legal Aid services; and\ne. Repatriation and Social Reintegration services.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 18\nOther violence as referred to in Article 12 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/Victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 7\nThe Implementation of Services/Handling of Victims is carried out with the principles of:\na. fast and precise;\nb. safe and comfortable;\nc. sense of empathy;\nd. non-discrimination;\ne. easily accessible;\nf. not subject to fees; and\ng. guaranteed confidentiality.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 19\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain statements, questions, ideas, and signs containing value, meaning and messages whether data, facts or explanations that can be seen, heard and read presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of Violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to obtain compensation\" includes: economic empowerment, Repatriation costs, health and education or skills guarantees.\nLetter g What is meant by \"the right to obtain Social Rehabilitation\" includes: access to medical services for physical and psychological recovery, Legal Aid to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to obtain Complaint Handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear.\nLetter j What is meant by \"the right to obtain Assistance\" includes among others: psychologists, psychiatrists and health experts, religious counselors, advocates and Family members.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Efforts to provide and organize Services/Handling for Victims are carried out in a networked manner.\n(2) The network as referred to in paragraph (1) aims to: a. coordinate and synchronize the handling of PPT services;\nb. develop networks and referral systems; and\nc. collect, compile and present reports on Violence. (3) The network as referred to in paragraph (2) carries out its duties and functions in accordance with the form of services as referred to in Article 6.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 18\nLetter a Threat of violence namely any act unlawfully either directly or indirectly including through social media networks and communication devices.\nLetter b Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER VI\nArticle 24\n(1) PPT may be established by the Regional Government, vertical agencies in the Region, and/or community institutions.\n(2) PPT as referred to in paragraph (1) consists of elements from the Regional Police, Regional Apparatus responsible for Health, Education, Social Affairs, Community Empowerment, Women's Empowerment and Child Protection as well as Community Social Institutions, which function to provide protection to women from acts of Violence carried out in a networked manner.\n(3) PPT as referred to in paragraph (1) has the duty to provide services and temporary protection in the form of Safe Houses (shelters) for Victims.\n(4) In the event that PPT does not have a Safe House as referred to in paragraph (3), then the Victim shall be referred to a PPT that has a Safe House.\n(5) Provisions regarding the establishment, composition of the management team and organizational structure of PPT established by the Regional Government shall be stipulated by Regent's Decree.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian definition of \"Pendampingan\" (Pasal 1 angka 10) states it is assistance by a person/institution with expertise to provide \"konseling, terapi dan/atau advokasi\" (counselling, therapy and/or advocacy). This is an explicit provision of counselling as part of victim support, and Pasal 19 huruf j further confirms victims’ right to \"mendapatkan Pendampingan\" with examples including psychologists/psychiatrists (Penjelasan Pasal 19 huruf j). The retrieved candidates include these exact points ([3.7-6] and [3.7-62]). The judge’s 'No' appears to apply an overly narrow requirement (a dedicated counselling unit), but the indicator is about psychosocial counselling availability, which the regulation provides through mandated pendampingan/counselling. Thus the golden label 'Yes' is consistent with the text; the discrepancy is best explained by the golden label likely being correct and the judge being too strict—however since the judge had the explicit word \"counseling\" available, the more appropriate classification is that the golden label is not the issue; rather the judge erred. (If your rubric requires a specific “service unit”, then the golden label would be questionable; but based on the Indonesian text, counselling is clearly included as a service component.)",
+      "diagnosis_status": "ok"
+    },
+    "3.8": {
+      "indicator": "Religious / spiritual counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although 'Assistance' is described as potentially including religious counselors, the provided sentences do not specify a service unit that provides religious/spiritual counselling.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 5\n(1) The Implementation of Services/Handling of Victims is carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) may receive and send case referrals from and/or to other service units in a networked manner.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 20\nParagraph (1) Letter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e What is meant by minimum service standards is the performance benchmark for integrated service units in providing 5 (five) types of services for female Victims of Violence, namely Complaint Handling, Health Services, Social Rehabilitation, Law Enforcement and Legal Assistance, as well as Repatriation and Social Reintegration.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nForms of Service/Handling for Victims include:\na. Complaint Handling;\nb. health/medical rehabilitation services;\nc. Social Rehabilitation services;\nd. Law Enforcement and Legal Aid services; and\ne. Repatriation and Social Reintegration services.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Sanggau.\n2. Region is the Regency of Sanggau.\n3. Regional Government is the Bupati as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the Region.\n4. Regional Apparatus is an auxiliary element of the Bupati and the Regional House of Representatives in the administration of governmental affairs that are the authority of the Region.\n5. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the Victim.\n6. Violence Against Women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n7. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of Violence and life vulnerability.\n8. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that Violence Against Women will, is, or has occurred.\n9. Service/Handling is action taken as soon as possible to the Victim when seeing, hearing and/or knowing that Violence against the Victim will, is, or has occurred.\n10. Assistance is a person or representative from an institution who has expertise in assisting Victims to conduct counseling, therapy and/or advocacy.\n11. Integrated Service Center, hereinafter abbreviated as PPT is an institution or functional work unit that organizes integrated services for Victims of Violence.\n12. Safe House is a residence for Victims during the Assistance process for the security and comfort of Victims from threats and danger.\n13. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence Against Women submitted by Victims, Families and the community.\n14. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n15. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n16. Legal Aid is legal services provided by legal assistants and advocacy to conduct the process of Assistance to witnesses and/or Victims of Violence Against Women that is gender sensitive.\n17. Law Enforcement is action by officials authorized by the state to implement laws and regulations.\n18. Repatriation is an effort to return women Victims of Violence from abroad to the debarkation point/entry point, or from the receiving region to the region of origin.\n19. Social Reintegration is an effort to reunite Victims with the Family, substitute family, or community that can provide protection and fulfillment for Victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upwards or downwards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Second Part\nService/Handling",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 18\nOther violence as referred to in Article 12 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/Victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 7\nThe Implementation of Services/Handling of Victims is carried out with the principles of:\na. fast and precise;\nb. safe and comfortable;\nc. sense of empathy;\nd. non-discrimination;\ne. easily accessible;\nf. not subject to fees; and\ng. guaranteed confidentiality.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 19\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain statements, questions, ideas, and signs containing value, meaning and messages whether data, facts or explanations that can be seen, heard and read presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of Violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to obtain compensation\" includes: economic empowerment, Repatriation costs, health and education or skills guarantees.\nLetter g What is meant by \"the right to obtain Social Rehabilitation\" includes: access to medical services for physical and psychological recovery, Legal Aid to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to obtain Complaint Handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear.\nLetter j What is meant by \"the right to obtain Assistance\" includes among others: psychologists, psychiatrists and health experts, religious counselors, advocates and Family members.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 18\nLetter a Threat of violence namely any act unlawfully either directly or indirectly including through social media networks and communication devices.\nLetter b Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Efforts to provide and organize Services/Handling for Victims are carried out in a networked manner.\n(2) The network as referred to in paragraph (1) aims to: a. coordinate and synchronize the handling of PPT services;\nb. develop networks and referral systems; and\nc. collect, compile and present reports on Violence. (3) The network as referred to in paragraph (2) carries out its duties and functions in accordance with the form of services as referred to in Article 6.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text (Penjelasan Pasal 19 huruf j) explicitly includes \"rohaniawan\" as part of pendampingan: \"Yang dimaksud dengan 'hak mendapatkan Pendampingan' antara lain: ... rohaniawan, advokat dan anggota Keluarga.\" This indicates spiritual/religious counselling/support is contemplated as part of victim assistance. The retrieved English candidate [3.8-62] contains the same information (“religious counselors”). The judge nevertheless answered No because it was not framed as a separate service unit; that is an overly strict reading given the text explicitly includes religious counselors within assistance to which victims are entitled. So the information was available and the judge misapplied the indicator.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. conducting independent socialization of women's rights;",
+      "evaluator_rationale": "The policy explicitly mentions community participation in the form of independent socialization of women's rights, which is information/education related to women’s rights (a core element of gender equality education).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "Article 3\n(1) Efforts to prevent Violence Against Women are carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for women's empowerment.\n(2) Prevention efforts as referred to in paragraph (1) are implemented by:\na. establishing a working network;\nb. conducting coordination, integration, and synchronization of Violence prevention based on partnership patterns;\nc. establishing a Violence prevention system;\nd. disseminating laws and regulations related to the Protection of Women Victims of Violence; and\ne. providing information regarding the Protection of Women from acts of Violence through communication, information and education (KIE) media.",
+          "score": 0.031544957774465976
+        },
+        {
+          "chunk_id": 43,
+          "text": "NIP 19821026 201001 1 010\nELUCIDATION\nOF\nREGIONAL REGULATION OF SANGGAU REGENCY\nNUMBER 12 OF 2019\nCONCERNING\nPROTECTION OF WOMEN FROM ACTS OF VIOLENCE\nI. GENERAL\nActs of Violence Against Women constitute a violation of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome Violence Against Women in Sanggau Regency so that they are protected from Violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to establish a Regional Regulation on the Protection of Women.\nProtection of Women constitutes all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention.\nExisting laws and regulations or those related to the Protection of Women Victims of Violence have not yet regulated efforts for the Protection of Women in the Region, therefore institutional and regulatory support at the Regional level is needed that can guarantee its implementation.\nThis Regional Regulation regulates efforts for the Protection of Women specifically in the form of prevention, Service/Handling, and empowerment of women in Sanggau Regency.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 44,
+          "text": "II. ARTICLE BY ARTICLE\nArticle 1\nNumber 1 Sufficiently clear.\nNumber 2 Sufficiently clear.\nNumber 3 Sufficiently clear.\nNumber 4 Sufficiently clear.\nNumber 5 Sufficiently clear.\nNumber 6 Sufficiently clear.\nNumber 7 Sufficiently clear.\nNumber 8 Sufficiently clear.\nNumber 9 Sufficiently clear.\nNumber 10 Sufficiently clear.\nNumber 11 Sufficiently clear.\nNumber 12 Sufficiently clear.\nNumber 13 Sufficiently clear.\nNumber 14 What is meant by efforts from the promotive aspect is efforts to promote/socialize about acts of Violence to the community, with the aim of increasing public awareness and sensitivity to the dangers of Violence that threaten women.\nWhat is meant by efforts from the preventive aspect is efforts that prioritize the prevention aspect with targets being communities that are vulnerable to being affected by/becoming Victims of Violence and experiencing its impacts. Preventive efforts can be carried out through community empowerment in the form of training activities and others.\nWhat is meant by efforts from the curative aspect is efforts carried out in the form of handling for Victims of Violence who require handling according to their needs, namely health rehabilitation handling if the Victim suffers the impact of Violence physically or psychologically, provision of Assistance and Law Enforcement for Victims who require Assistance and Law Enforcement, and so forth.\nWhat is meant by the rehabilitative aspect is efforts carried out as an effort to restore Victims of Violence both physically, psychologically and psychosocially.\nNumber 15 Sufficiently clear.\nNumber 16 Sufficiently clear.\nNumber 17 Sufficiently clear.\nNumber 18 Sufficiently clear.\nNumber 19 Sufficiently clear.\nNumber 20 Sufficiently clear.",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Sanggau.\n2. Region is the Regency of Sanggau.\n3. Regional Government is the Bupati as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the Region.\n4. Regional Apparatus is an auxiliary element of the Bupati and the Regional House of Representatives in the administration of governmental affairs that are the authority of the Region.\n5. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social and psychological to the Victim.\n6. Violence Against Women is any action that results in or may result in misery or suffering to women physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n7. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of Violence and life vulnerability.\n8. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that Violence Against Women will, is, or has occurred.\n9. Service/Handling is action taken as soon as possible to the Victim when seeing, hearing and/or knowing that Violence against the Victim will, is, or has occurred.\n10. Assistance is a person or representative from an institution who has expertise in assisting Victims to conduct counseling, therapy and/or advocacy.\n11. Integrated Service Center, hereinafter abbreviated as PPT is an institution or functional work unit that organizes integrated services for Victims of Violence.\n12. Safe House is a residence for Victims during the Assistance process for the security and comfort of Victims from threats and danger.\n13. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of Violence Against Women submitted by Victims, Families and the community.\n14. Health Services are efforts that include promotive, preventive, curative and rehabilitative aspects.\n15. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n16. Legal Aid is legal services provided by legal assistants and advocacy to conduct the process of Assistance to witnesses and/or Victims of Violence Against Women that is gender sensitive.\n17. Law Enforcement is action by officials authorized by the state to implement laws and regulations.\n18. Repatriation is an effort to return women Victims of Violence from abroad to the debarkation point/entry point, or from the receiving region to the region of origin.\n19. Social Reintegration is an effort to reunite Victims with the Family, substitute family, or community that can provide protection and fulfillment for Victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and his children, or mother and her children, or blood relatives in a direct line upwards or downwards.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 8\nForms of empowerment for women Victims of Violence include:\na. forming communities of women Victims of Violence;\nb. job training;\nc. productive economic enterprises and joint business groups; and\nd. capital assistance.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 18\nOther violence as referred to in Article 12 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/Victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nSCOPE OF PROTECTION\nArticle 2\nThe scope of Protection of Women from acts of Violence includes: a. prevention;\nb. Service/Handling; and\nc. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 19\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain statements, questions, ideas, and signs containing value, meaning and messages whether data, facts or explanations that can be seen, heard and read presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of Violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to obtain compensation\" includes: economic empowerment, Repatriation costs, health and education or skills guarantees.\nLetter g What is meant by \"the right to obtain Social Rehabilitation\" includes: access to medical services for physical and psychological recovery, Legal Aid to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to obtain Complaint Handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear.\nLetter j What is meant by \"the right to obtain Assistance\" includes among others: psychologists, psychiatrists and health experts, religious counselors, advocates and Family members.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 38,
+          "text": "CHAPTER IX\nCOMMUNITY PARTICIPATION\nArticle 27\n(1) The community participates in the implementation of Women's Protection.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. establishing family partners at the kelurahan/village level by the community;\nb. establishing women's protection units within community organizations;\nc. conducting independent socialization of women's rights;\nd. undertaking preventive measures if indications of Violence Against Women are found in the community;\ne. providing first aid to Victims; and\nf. reporting to the competent authorities if Violence Against Women occurs in their environment. (3) Community participation as referred to in paragraph (1) may be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and/or mass media.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 18\nLetter a Threat of violence namely any act unlawfully either directly or indirectly including through social media networks and communication devices.\nLetter b Sufficiently clear.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 27 ayat (2) huruf c states: \"melakukan sosialisasi hak perempuan secara mandiri\" (conduct independent socialization of women’s rights). This is indeed an education/awareness activity about women’s rights, but it is not clearly “gender equality education” (e.g., curriculum/education on gender equality norms, equality between genders, challenging gender stereotypes) as a primary prevention measure; it is framed as community participation in women’s protection and rights socialization. The judge equated any women’s-rights socialization with “gender equality education,” which is a conceptual overreach. Since the relevant text was retrieved ([4.2-38]) and translated adequately, the error is in the judge’s interpretation/threshold (too lenient), not retrieval or translation.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_BARAT_SANGGAU.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.109337+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

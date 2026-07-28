@@ -1,0 +1,276 @@
+{
+  "diagnoses": {
+    "2.5": {
+      "indicator": "Training and capacity building",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences describe service provision roles and mention guidance for participating social organizations, but do not explicitly address training or capacity-building programs for government officials or service workers.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) The Regent through regional apparatus establishes a community service work unit that functions as an Integrated Service Center (PPT).\n(2) The Integrated Service Center (PPT) as referred to in paragraph (1) is coordinated by the Regional Apparatus responsible for women's empowerment.\n(3) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Children Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\n(1) Health services are provided by health workers at health facilities owned by the government, regional government, and community, including private sector by providing treatment and health recovery services to victims.\n(2) Victim assistance is provided by health workers, social workers, volunteer assistants, and/or spiritual counselors by providing counseling, therapy, spiritual guidance and advocacy for the strengthening and recovery of victims.\n(3) Counseling is provided by social workers, volunteer assistants, by listening empathetically and exploring problems for the psychological strengthening of victims.\n(4) Spiritual guidance is provided by spiritual counselors by providing explanations regarding their rights and obligations, as well as strengthening faith and piety in accordance with the religion and beliefs they adhere to.\n(5) Resocialization of victims is carried out by social agencies and social institutions so that victims can resume their social functions in society.",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 6\nFacilities as referred to in article (5) include:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and\nd. other facilities and infrastructure necessary for victim recovery.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\nThe Implementation of Protection for victims of acts of violence is carried out by government agencies, regional governments and social institutions in accordance with their respective duties and functions, including providing the necessary facilities to implement protection.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The West Bangka Regency Government in implementing protection for Women and Children Victims of violence, may involve community participation.\n(2) Community participation may be carried out by individuals, groups or community organizations and/or Non-Governmental Organizations (NGOs) that are already legally established.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nCooperation in the Implementation of Protection for Women and Children Victims of Violence is carried out based on respect and recognition of equal human rights and dignity, non-discrimination, gender equality and justice as well as protection of the basic rights of women and children and the best interests of victims.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of West Bangka Regency.\n2. Bupati is the Bupati of West Bangka.\n3. Regional Apparatus of the Regency is an auxiliary element of the Regional Head in the administration of regional government consisting of the Regional Secretariat, DPRD Secretariat, Regional Agencies and Regional Technical Institutions.\n4. Cooperation is a systematic and integrated method among protection providers in delivering services to victims of domestic violence.\n5. Protection Administration is all actions that include services and assistance to victims of domestic violence.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n8. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n10. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced unnatural or unwanted sexual intercourse, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n11. Economic violence is any act that neglects family members in the form of not providing a proper living, care or maintenance.\n12. Psychological violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n13. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n14. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred.\n15. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n16. Integrated Service Center hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical care (including medico-legal), psycho-social and legal services.\n17. Social Community Institution is a Non-Governmental Organization (NGO) and/or other Community Organizations.\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 8\nServices as referred to in Article 7 paragraph (2) include: a. health services;\nb. victim assistance;\nc. counseling;\nd. spiritual guidance; and\ne. resocialization.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 11\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and or cause death.\n(3) Forms of sexual violence are sexual harassment, forced sexual relations, forced sexual relations in an unnatural or unwanted manner, with other persons for commercial purposes and or/ specific purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing a proper living, care or maintenance.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nIn certain circumstances, health workers, social workers, accompanying volunteers and/or spiritual advisors may establish cooperation with: a. the police, to report and process perpetrators of criminal acts of domestic violence;\nb. advocates, to assist victims in the judicial process; c. other law enforcers, to assist victims in the court trial process;\nd. the National Commission on Violence Against Women;\ne. the Indonesian Child Protection Commission (KPAI); and\nf. certain parties as desired for the benefit of the victim.",
+          "score": 0.015873015873015872
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, there is no explicit provision about training/capacity building (pelatihan, peningkatan kapasitas, diklat, sosialisasi for staff capacity, etc.) for government officials or service providers. The closest language is Pasal 15(2) on “pembinaan” for participating community/social organizations, which may include “bimbingan sosial, bimbingan keterampilan dan bimbingan teknis operasional.” This is guidance/coaching for organizations, not a clear training/capacity-building program for officials/service workers as an institutional mechanism. Therefore the judge’s ‘No’ is consistent with the document; the golden ‘Yes’ likely over-interprets ‘pembinaan/bimbingan’ as training.",
+      "diagnosis_status": "ok"
+    },
+    "3.3": {
+      "indicator": "Reporting / hotline",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy establishes an Integrated Service Center and mentions cooperation with police to report and process perpetrators, the provided sentences do not explicitly establish a dedicated reporting/complaints receiving service unit or hotline.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) The Regent through regional apparatus establishes a community service work unit that functions as an Integrated Service Center (PPT).\n(2) The Integrated Service Center (PPT) as referred to in paragraph (1) is coordinated by the Regional Apparatus responsible for women's empowerment.\n(3) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Children Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.03200204813108039
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 11\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and or cause death.\n(3) Forms of sexual violence are sexual harassment, forced sexual relations, forced sexual relations in an unnatural or unwanted manner, with other persons for commercial purposes and or/ specific purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing a proper living, care or maintenance.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\n(1) Health services are provided by health workers at health facilities owned by the government, regional government, and community, including private sector by providing treatment and health recovery services to victims.\n(2) Victim assistance is provided by health workers, social workers, volunteer assistants, and/or spiritual counselors by providing counseling, therapy, spiritual guidance and advocacy for the strengthening and recovery of victims.\n(3) Counseling is provided by social workers, volunteer assistants, by listening empathetically and exploring problems for the psychological strengthening of victims.\n(4) Spiritual guidance is provided by spiritual counselors by providing explanations regarding their rights and obligations, as well as strengthening faith and piety in accordance with the religion and beliefs they adhere to.\n(5) Resocialization of victims is carried out by social agencies and social institutions so that victims can resume their social functions in society.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The West Bangka Regency Government in implementing protection for Women and Children Victims of violence, may involve community participation.\n(2) Community participation may be carried out by individuals, groups or community organizations and/or Non-Governmental Organizations (NGOs) that are already legally established.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 6\nFacilities as referred to in article (5) include:\na. special service rooms within the police force;\nb. expert and professional personnel;\nc. service centers and safe houses; and\nd. other facilities and infrastructure necessary for victim recovery.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nIn certain circumstances, health workers, social workers, accompanying volunteers and/or spiritual advisors may establish cooperation with: a. the police, to report and process perpetrators of criminal acts of domestic violence;\nb. advocates, to assist victims in the judicial process; c. other law enforcers, to assist victims in the court trial process;\nd. the National Commission on Violence Against Women;\ne. the Indonesian Child Protection Commission (KPAI); and\nf. certain parties as desired for the benefit of the victim.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of West Bangka Regency.\n2. Bupati is the Bupati of West Bangka.\n3. Regional Apparatus of the Regency is an auxiliary element of the Regional Head in the administration of regional government consisting of the Regional Secretariat, DPRD Secretariat, Regional Agencies and Regional Technical Institutions.\n4. Cooperation is a systematic and integrated method among protection providers in delivering services to victims of domestic violence.\n5. Protection Administration is all actions that include services and assistance to victims of domestic violence.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n8. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n10. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced unnatural or unwanted sexual intercourse, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n11. Economic violence is any act that neglects family members in the form of not providing a proper living, care or maintenance.\n12. Psychological violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n13. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n14. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred.\n15. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n16. Integrated Service Center hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical care (including medico-legal), psycho-social and legal services.\n17. Social Community Institution is a Non-Governmental Organization (NGO) and/or other Community Organizations.\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\nThe Implementation of Protection for victims of acts of violence is carried out by government agencies, regional governments and social institutions in accordance with their respective duties and functions, including providing the necessary facilities to implement protection.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nINSTITUTIONAL FRAMEWORK FOR THE PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 12\n(1) Every woman and child who becomes a victim of violence must receive protection in accordance with applicable provisions.\n(2) Protection for women and children victims of violence as referred to in paragraph (1) shall be provided to residents of West Bangka Regency whether it occurs in West Bangka or outside West Bangka.\n(3) Protection for women and children victims of violence in addition to being provided to residents of West Bangka as referred to in paragraph (2), shall also be provided to non-residents of West Bangka that occurs within the territory of West Bangka Regency.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation does not establish a dedicated reporting/complaints intake mechanism or hotline (no mention of hotline/telepon pengaduan/posko pengaduan/layanan pengaduan). It creates a PPT (Pasal 4) and mentions cooperation with police to report/process perpetrators (Pasal 10 huruf a), plus ‘ruang pelayanan khusus di jajaran kepolisian’ as a facility (Pasal 6 huruf a). These do not amount to an explicit hotline or formal reporting service unit. Thus the judge’s ‘No’ matches the text; the golden ‘Yes’ appears incorrect or based on assumptions about PPT/police rooms functioning as reporting channels.",
+      "diagnosis_status": "ok"
+    },
+    "5.2": {
+      "indicator": "Religious engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions spiritual counselors and paying attention to religious norms, the provided sentences do not explicitly describe engagement or collaboration with religious organizations or religious leaders as stakeholders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 9\n(1) Health services are provided by health workers at health facilities owned by the government, regional government, and community, including private sector by providing treatment and health recovery services to victims.\n(2) Victim assistance is provided by health workers, social workers, volunteer assistants, and/or spiritual counselors by providing counseling, therapy, spiritual guidance and advocacy for the strengthening and recovery of victims.\n(3) Counseling is provided by social workers, volunteer assistants, by listening empathetically and exploring problems for the psychological strengthening of victims.\n(4) Spiritual guidance is provided by spiritual counselors by providing explanations regarding their rights and obligations, as well as strengthening faith and piety in accordance with the religion and beliefs they adhere to.\n(5) Resocialization of victims is carried out by social agencies and social institutions so that victims can resume their social functions in society.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The implementation of protection for victims must pay attention to religious norms as well as the rights and obligations of parents, guardians, husbands/other persons who are legally responsible for the victim.\n(2) The mechanism for handling protection and services shall be stipulated by Regent Regulation.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\nThe Implementation of Protection for victims of acts of violence is carried out by government agencies, regional governments and social institutions in accordance with their respective duties and functions, including providing the necessary facilities to implement protection.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) The Regent through regional apparatus establishes a community service work unit that functions as an Integrated Service Center (PPT).\n(2) The Integrated Service Center (PPT) as referred to in paragraph (1) is coordinated by the Regional Apparatus responsible for women's empowerment.\n(3) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Children Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nCooperation in the Implementation of Protection for Women and Children Victims of Violence is carried out based on respect and recognition of equal human rights and dignity, non-discrimination, gender equality and justice as well as protection of the basic rights of women and children and the best interests of victims.",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of West Bangka Regency.\n2. Bupati is the Bupati of West Bangka.\n3. Regional Apparatus of the Regency is an auxiliary element of the Regional Head in the administration of regional government consisting of the Regional Secretariat, DPRD Secretariat, Regional Agencies and Regional Technical Institutions.\n4. Cooperation is a systematic and integrated method among protection providers in delivering services to victims of domestic violence.\n5. Protection Administration is all actions that include services and assistance to victims of domestic violence.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n8. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n10. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced unnatural or unwanted sexual intercourse, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n11. Economic violence is any act that neglects family members in the form of not providing a proper living, care or maintenance.\n12. Psychological violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n13. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n14. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred.\n15. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n16. Integrated Service Center hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical care (including medico-legal), psycho-social and legal services.\n17. Social Community Institution is a Non-Governmental Organization (NGO) and/or other Community Organizations.\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nIn certain circumstances, health workers, social workers, accompanying volunteers and/or spiritual advisors may establish cooperation with: a. the police, to report and process perpetrators of criminal acts of domestic violence;\nb. advocates, to assist victims in the judicial process; c. other law enforcers, to assist victims in the court trial process;\nd. the National Commission on Violence Against Women;\ne. the Indonesian Child Protection Commission (KPAI); and\nf. certain parties as desired for the benefit of the victim.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 8\nServices as referred to in Article 7 paragraph (2) include: a. health services;\nb. victim assistance;\nc. counseling;\nd. spiritual guidance; and\ne. resocialization.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 11\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and or cause death.\n(3) Forms of sexual violence are sexual harassment, forced sexual relations, forced sexual relations in an unnatural or unwanted manner, with other persons for commercial purposes and or/ specific purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing a proper living, care or maintenance.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The West Bangka Regency Government in implementing protection for Women and Children Victims of violence, may involve community participation.\n(2) Community participation may be carried out by individuals, groups or community organizations and/or Non-Governmental Organizations (NGOs) that are already legally established.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original text references religion in service delivery (Pasal 7(1) must pay attention to ‘norma norma agama’) and includes ‘bimbingan rohani’ delivered by ‘pembimbing rohani’ (Pasal 8(d), Pasal 9(2) and 9(4)). However, it does not explicitly describe stakeholder engagement/collaboration with religious organizations or religious leaders as institutions (e.g., MUI, churches, religious councils) in planning/implementation. Mentioning spiritual counselors and religious norms is not the same as ‘religious engagement’ as a stakeholder mechanism. Therefore the judge’s ‘No’ is consistent with the Indonesian text; the golden ‘Yes’ likely treats spiritual guidance as stakeholder engagement.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Legal process involvement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. advocates, to assist victims in the judicial process; (3) Forms of legal protection for Women and Child Victims of Violence include services and assistance to help victims undergo legal and judicial processes.",
+      "evaluator_rationale": "The policy includes legal protection and assistance for victims in judicial processes, including cooperation with advocates to assist victims in the judicial process and legal protection services to help victims undergo legal and judicial processes.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 15,
+          "text": "Article 12\n(1) Every woman and child who becomes a victim of violence must receive protection in accordance with applicable provisions.\n(2) Protection for women and children victims of violence as referred to in paragraph (1) shall be provided to residents of West Bangka Regency whether it occurs in West Bangka or outside West Bangka.\n(3) Protection for women and children victims of violence in addition to being provided to residents of West Bangka as referred to in paragraph (2), shall also be provided to non-residents of West Bangka that occurs within the territory of West Bangka Regency.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 11\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any acts that result in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and or cause death.\n(3) Forms of sexual violence are sexual harassment, forced sexual relations, forced sexual relations in an unnatural or unwanted manner, with other persons for commercial purposes and or/ specific purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing a proper living, care or maintenance.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering in a person.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nIn certain circumstances, health workers, social workers, accompanying volunteers and/or spiritual advisors may establish cooperation with: a. the police, to report and process perpetrators of criminal acts of domestic violence;\nb. advocates, to assist victims in the judicial process; c. other law enforcers, to assist victims in the court trial process;\nd. the National Commission on Violence Against Women;\ne. the Indonesian Child Protection Commission (KPAI); and\nf. certain parties as desired for the benefit of the victim.",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Cooperation in the Implementation of Protection for Women and Children Victims of Violence aims to provide protection and services to women from gender-based violence and the best interests of children occurring in households or in public.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\nThe Implementation of Protection for victims of acts of violence is carried out by government agencies, regional governments and social institutions in accordance with their respective duties and functions, including providing the necessary facilities to implement protection.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nCooperation in the Implementation of Protection for Women and Children Victims of Violence is carried out based on respect and recognition of equal human rights and dignity, non-discrimination, gender equality and justice as well as protection of the basic rights of women and children and the best interests of victims.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The West Bangka Regency Government in implementing protection for Women and Children Victims of violence, may involve community participation.\n(2) Community participation may be carried out by individuals, groups or community organizations and/or Non-Governmental Organizations (NGOs) that are already legally established.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 13\n(1) Forms of protection for Women and Child Victims of Violence include medical, legal, medicolegal (forensic medicine), economic and psychological protection.\n(2) Forms of medical protection for Women and Child Victims of Violence include treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.\n(3) Forms of legal protection for Women and Child Victims of Violence include services and assistance to help victims undergo legal and judicial processes.\n(4) Forms of medicolegal protection for Women and Child Victims of Violence include medical services for evidentiary purposes in the legal field.\n(5) Forms of psychological protection for Women and Child Victims of Violence include assistance in order to restore the traumatic condition of victims including provision of safe houses to protect victims from various threats and intimidation for victims and provide psychological support so that victims have self-confidence, strength and independence in resolving problems.\n(6) Forms of economic protection for Women and Child Victims of Violence include services for skills and providing economic access so that victims can be independent.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of West Bangka Regency.\n2. Bupati is the Bupati of West Bangka.\n3. Regional Apparatus of the Regency is an auxiliary element of the Regional Head in the administration of regional government consisting of the Regional Secretariat, DPRD Secretariat, Regional Agencies and Regional Technical Institutions.\n4. Cooperation is a systematic and integrated method among protection providers in delivering services to victims of domestic violence.\n5. Protection Administration is all actions that include services and assistance to victims of domestic violence.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, or psychological to the victim.\n8. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Physical violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.\n10. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced unnatural or unwanted sexual intercourse, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n11. Economic violence is any act that neglects family members in the form of not providing a proper living, care or maintenance.\n12. Psychological violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n13. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n14. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred.\n15. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n16. Integrated Service Center hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical care (including medico-legal), psycho-social and legal services.\n17. Social Community Institution is a Non-Governmental Organization (NGO) and/or other Community Organizations.\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nINSTITUTIONAL FRAMEWORK FOR THE PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.016129032258064516
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The judge marked ‘Yes’ because the regulation clearly provides legal-process assistance (Pasal 13(3): ‘perlindungan hukum ... pelayanan dan pendampingan untuk membantu korban dalam menjalani proses hukum dan peradilan’; Pasal 10(b)-(c): cooperation with advocates and other law enforcers for court processes). If indicator 6.8 is ‘Legal process involvement,’ the document plainly includes it, so a ‘No’ golden label conflicts with the source text. This suggests the golden label is wrong (unless the indicator was intended to mean something narrower/“intersectional” that is not reflected here, but based on the provided indicator name, the policy does cover legal process involvement).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.225733+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

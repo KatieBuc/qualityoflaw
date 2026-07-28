@@ -176,11 +176,12 @@ def _resolve_batch_evidence(
     retrieval_config: RetrievalConfig,
     policy_name: str,
 ) -> None:
-    """Replace each "Yes" item's evidence (an LLM-cited candidate tag, e.g.
-    "1.3-4") with the real chunk text copied from `candidate_lookup` — the
-    temporary tag -> text table built for this dimension call. Since the
-    final evidence is copied verbatim from a retrieved chunk rather than
-    transcribed by the LLM, it can never diverge from the real document.
+    """Replace each "Yes" item's evidence (a list of LLM-cited sentence tags,
+    e.g. ["1.3-4.0", "1.3-4.2"]) with the real sentence text copied from
+    `candidate_lookup` — the temporary tag -> text table built for this
+    dimension call. Since the final evidence is copied verbatim from
+    retrieved sentences rather than transcribed by the LLM, it can never
+    diverge from the real document.
     """
     for cid, item in batch_evals.items():
         if item.get("included") != "Yes":
@@ -191,17 +192,17 @@ def _resolve_batch_evidence(
             item["evidence_verified"] = None
             continue
 
-        citation = item.get("evidence")
-        resolved_text = resolve_evidence_citation(citation, candidate_lookup)
-        if resolved_text is not None:
-            item["evidence"] = resolved_text
+        citations = item.get("evidence")
+        resolved_sentences = resolve_evidence_citation(citations, candidate_lookup)
+        if resolved_sentences is not None:
+            item["evidence"] = "\n".join(resolved_sentences)
             item["evidence_verified"] = True
         else:
             logger.warning(
                 "[%s] %s evidence citation %r did not match any retrieved candidate; nulling.",
                 policy_name,
                 cid,
-                citation,
+                citations,
             )
             item["evidence"] = None
             item["evidence_verified"] = False

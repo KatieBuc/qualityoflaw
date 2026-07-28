@@ -1,0 +1,469 @@
+{
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_TENGAH.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-25T09:30:55.992473+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "8. Law Number 23 Year 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to State Gazette of the Republic of Indonesia Number 4419);",
+      "rationale": "The policy explicitly references the national law on the elimination of domestic violence, indicating domestic violence is within the scope of the regulation.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "e. victims of sexual exploitation;",
+      "rationale": "The policy explicitly includes women who are victims of sexual exploitation as recipients of protection services, which constitutes addressing sexual violence/exploitation.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "9. Violence is any act against the law, with or without using means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.",
+      "rationale": "The policy defines violence as acts involving physical (and psychological) means that endanger life/body or deprive freedom, thereby explicitly covering physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "9. Violence is any act against the law, with or without using means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.",
+      "rationale": "The policy’s definition of violence explicitly includes psychological means, thereby covering psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general violence, empowerment, and rights (including work and wages), but do not explicitly mention economic violence, economic exploitation, or domestic neglect as forms of violence.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address marriage consent and general protections, but do not mention harmful practices such as early marriage, FGM, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer broadly to violence against women and rights to life/safety, but do not explicitly address femicide/feminicide (gender-related killing of women).",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "b. victims of human trafficking;",
+      "rationale": "The policy explicitly identifies victims of human trafficking as eligible for protection services.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "e. victims of sexual exploitation;",
+      "rationale": "The policy explicitly includes victims of sexual exploitation among those entitled to protection services, addressing sexual exploitation.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences contain no mention of online/ICT-enabled abuse, cyber harassment, non-consensual image sharing, or any other technology-facilitated form of violence.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "b. conduct regional cooperation, in accordance with the provisions of applicable laws and regulations; (6) The Regent submits a report on the implementation of policies, programs and activities for women's empowerment and protection to the Governor.",
+      "rationale": "The policy provides for inter-jurisdictional cooperation through “regional cooperation” and also establishes an upward reporting link from the Regent to the Governor, indicating coordination across levels of government.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "a. conduct cooperation with the business sector, non-governmental organizations, private companies, Foundations, and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations;",
+      "rationale": "The policy explicitly allows cooperation with non-governmental organizations (and other non-state entities) as part of implementing women’s protection policies, indicating a collaboration mechanism with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "d. compile a data system for the protection of women; and",
+      "rationale": "The policy explicitly mentions compiling a data system for the protection of women, which constitutes establishing a data/information system relevant to women’s protection (including VAW-related protection).",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender equality principles and the use of task forces/forums/working groups for women’s protection, the candidate sentences do not specifically mention gender mainstreaming institutionalisation or a dedicated gender mainstreaming working group to deliver VAW policies/programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe institutions, cooperation, services, monitoring, and rights, but do not mention training or capacity-building activities for government officials or service workers.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(1) To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for women's empowerment and protection, the Regional Government conducts monitoring. (4) Evaluation of the implementation of policies, programs and activities for women's empowerment and protection is conducted at the end of each fiscal year.",
+      "rationale": "The policy explicitly establishes monitoring and periodic evaluation of implementation of policies, programs, and activities for women’s empowerment and protection.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Women victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions whether government or non-government.",
+      "rationale": "The policy states that women victims of violence have the right to obtain “integrated services” and continuous handling up to rehabilitation, indicating the existence/commitment to integrated service provision for VAW.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions protection services and defines protection as potentially involving police, it does not specify any specialised service unit for VAW victims within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "c. complaints/reports.",
+      "rationale": "The policy explicitly references “complaints/reports” as a form of participation, implying a mechanism/service that receives reports or complaints, though it does not detail a hotline.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss protection and various services (legal, medical/psychosocial rehabilitation, reintegration, repatriation), but do not explicitly mention shelters or safe houses as a service unit.",
+      "evidence_verified": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "b. legal assistance;",
+      "rationale": "Legal assistance is explicitly listed as a form of protection service to be provided/facilitated for women.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "c. medical rehabilitation;",
+      "rationale": "Medical rehabilitation is explicitly included among the protection services to be provided/facilitated, indicating provision of health/medical services for victims.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "d. psychosocial rehabilitation;",
+      "rationale": "Psychosocial rehabilitation is explicitly listed as a form of protection service, which encompasses psychosocial support/counselling-type services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although religious leaders are mentioned as potential members of task forces/forums/working groups, the text does not state that religious/spiritual counselling services are provided as a service unit.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "e. social reintegration;",
+      "rationale": "Social reintegration is explicitly included among the protection services, directly corresponding to resocialisation/reintegration support.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text includes broad aims of women’s empowerment and participation, but does not specify any service unit providing economic empowerment/support such as skills training or financial assistance.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on victims’ rights to receive information and services, institutional arrangements, objectives to reduce violence, and protection/rehabilitation services. None of the candidate sentences explicitly or implicitly describe primary-prevention information/education activities aimed at the public (e.g., awareness-raising, curricula, campaigns) about violence against women.",
+      "evidence_verified": null
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text references principles of gender equality and non-discrimination and enumerates women’s rights, but it does not describe any information or education measures (such as public education, training, outreach, or school-based instruction) to promote gender equality or women’s rights as a primary prevention strategy.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions sanctions and refers to actions being carried out in accordance with laws and regulations, and notes victims’ right to obtain information, it does not set out any primary-prevention information/education initiatives to inform the public about VAW laws and policies.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences include general empowerment/protection objectives, service provision, coordination, and monitoring/evaluation, plus a general right to education. They do not specify prevention through education measures or actions to improve the quality of education as a primary prevention approach.",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "a. conduct cooperation with the business sector, non-governmental organizations, private companies, Foundations, and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations;",
+      "rationale": "The policy explicitly states that implementation efforts can include cooperation with non-governmental organizations (NGOs), indicating stakeholder engagement with civil society for women’s protection.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "Yes",
+      "evidence": "(4) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (3) shall consist of relevant Regional Work Units, community leaders, religious leaders, and universities.",
+      "rationale": "The policy includes religious leaders as members of task forces/forums/working groups or other institutions used to implement women’s protection policies, indicating engagement with religious leaders.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions cooperation with various institutions and includes community and religious leaders, none of the provided sentences explicitly reference traditional/cultural organizations or traditional/cultural leaders.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(4) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (3) shall consist of relevant Regional Work Units, community leaders, religious leaders, and universities.",
+      "rationale": "The policy specifies that membership of implementation bodies (task forces/forums/working groups) shall include universities, demonstrating engagement with education institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "Yes",
+      "evidence": "a. conduct cooperation with the business sector, non-governmental organizations, private companies, Foundations, and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations;",
+      "rationale": "The policy explicitly allows cooperation with international institutions as part of implementing women’s protection policies, indicating potential collaboration with international organizations.",
+      "evidence_verified": true
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention media organizations, media engagement, or collaboration with media for services or prevention.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "(1) The community can participate in the implementation of women's empowerment and protection. (2) Participation as referred to in paragraph (1) shall be carried out by individuals, groups or social community organizations.",
+      "rationale": "The policy explicitly provides for community participation in implementation, including participation by individuals, groups, or social community organizations, which constitutes engagement/collaboration with the community.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "Yes",
+      "evidence": "a. conduct cooperation with the business sector, non-governmental organizations, private companies, Foundations, and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations;",
+      "rationale": "The policy explicitly states that implementation efforts can include cooperation with the business sector and private companies, indicating engagement with the private sector.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "Yes",
+      "evidence": "g. in conflict-prone and disaster areas;",
+      "rationale": "The policy explicitly includes women \"in conflict-prone and disaster areas\" among the categories entitled to protection services, indicating special protection measures targeted to women in such areas.",
+      "evidence_verified": true
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "b. victims of human trafficking;",
+      "rationale": "The policy explicitly lists women who are victims of human trafficking as recipients of the provided and facilitated protection services.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "(3) Employers who employ female workers are obligated to provide protection in accordance with applicable laws and regulations.",
+      "rationale": "The policy specifically addresses female workers by obligating employers who employ female workers to provide protection, indicating targeted protection for women workers.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "Yes",
+      "evidence": "(8) Every elderly woman, with physical and/or mental disability, has the right to obtain care, education, training and special assistance at the expense of the regional government to ensure a decent life in accordance with human dignity.",
+      "rationale": "The policy explicitly provides special rights and assistance for elderly women with physical and/or mental disability, indicating special protection measures targeted at elderly women.",
+      "evidence_verified": true
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "d. persons with disabilities; (7) Every woman who is in a condition of disability, elderly age, pregnant is entitled to obtain facilities and special treatment.",
+      "rationale": "The policy includes persons with disabilities among women eligible for protection services and also states that women in a condition of disability are entitled to facilities and special treatment, indicating special protection measures for women with disabilities.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "Yes",
+      "evidence": "f. heads of households;",
+      "rationale": "The policy explicitly includes \"heads of households\" among women who must be provided protection services, indicating targeted protection for women heads of households.",
+      "evidence_verified": true
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not explicitly mention minority or isolated groups, nor do they specify protection measures targeted to women from such groups; references to \"other vulnerable groups\" are not specific to minorities/isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions legal assistance as a form of protection service, it does not specifically address women in conflict with the law as witnesses or perpetrators, so the criterion is not met based on the provided sentences.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention Indigenous peoples/groups (masyarakat adat) or any special protection measures targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention refugees or forced displacement; inclusion of conflict-prone/disaster areas and repatriation assistance does not explicitly establish protection targeted at refugees/forcibly displaced persons.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer generally to \"workers\" and female workers employed by employers, but do not specifically mention domestic workers or provide measures explicitly targeted to domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention homelessness or women experiencing homelessness, nor do they specify protection measures for this group.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention former inmates/correctional institutions or formerly incarcerated women, nor do they specify protection measures for this group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "(1) Funding for the implementation of policies, programs and activities for women's empowerment and protection in the Region is sourced from the Regional Revenue and Expenditure Budget of Central Bangka Regency.",
+      "rationale": "The policy explicitly states that funding for implementation is sourced from the Regional Revenue and Expenditure Budget of Central Bangka Regency, which is a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "(2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities for women's empowerment and protection from the Government, it must be implemented in accordance with the laws and regulations.",
+      "rationale": "The policy explicitly mentions the possibility of receiving funding assistance from the Government for implementation, indicating a national government funding source (even though it is framed as conditional assistance rather than the primary source).",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions cooperation with international institutions, the retrieved sentences do not explicitly identify international funding, donors, or international financial support as a budget source.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved sentences identify the regional budget as the funding source and mention possible government assistance, but they do not explicitly specify other legally defined funding sources (e.g., earmarked funds, grants, CSR, or other statutory sources) as budget sources.",
+      "evidence_verified": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy specifies funding from the regency (local) budget and mentions possible assistance from the Government, but it does not explicitly mention the provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

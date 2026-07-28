@@ -1,0 +1,408 @@
+{
+  "diagnoses": {
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The retrieved sentences focus on violence prevention (e.g., education about domestic violence) and socialization of laws related to protection, but do not explicitly address gender equality education or women’s rights education.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Prevention efforts against violence carried out by the Regional Government as referred to in Article 12 letter a include:\na. socialization of laws and regulations related to the implementation of protection for women and children;\nb. education about the dangers of domestic violence;\nc. mapping of areas prone to violence;\nd. compilation of data and information about women and children vulnerable to violence; and/or\ne. counseling/mental and spiritual guidance.\n(2) Prevention efforts as referred to in paragraph (1) shall be coordinated by the Agency.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nPREVENTION OF VIOLENCE\nPart One\nTypes of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Second Part\nPrevention Efforts",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d includes:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the household sphere, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nPrevention of violence as referred to in Article 3 paragraph (2) letter a is implemented by:\na. Regional Government;\nb. family; and\nc. Community;\nd. mass media; and\ne. business sector.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 15\nWomen and children victims of acts of violence have the right to obtain:\na. Protection;\nb. information;\nc. excellent service;\nd. continuous handling up to the stage of rehabilitation and social reintegration;\ne. confidential handling;\nf. psychological and legal assistance; and g. guarantee of rights related to status as a family member as well as a community member.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 2\nThe protection of women and children aims to:\na. guarantee the fulfillment of the rights of women and children so that they can participate optimally in society in accordance with human dignity and worth;\nb. provide protection and provide a sense of security to women and children from all forms of violence and discrimination;\nc. prevent and eliminate all forms of violence and exploitation against women and children including trafficking in persons;\nd. provide services to women and children victims of violence, reporters, and witnesses;\ne. restore, strengthen the physical and mental condition of women and children victims of violence; and\nf. increase awareness and community participation in the prevention of violence against women and children.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, the prevention measures (Pasal 13) include “sosialisasi peraturan perundang-undangan” and “edukasi tentang bahaya kekerasan dalam rumah tangga,” plus mapping and counseling. There is also a general aim to fulfill women’s and children’s rights (Pasal 2) and community may do “sosialisasi hak perempuan dan anak” (Pasal 43(2)(c)). However, none of these provisions explicitly require or describe “gender equality education” (education on gender equality norms/roles) as a distinct content area; they are framed as violence prevention and rights socialization generally. The judge’s ‘No’ is consistent with the text, so the golden ‘Yes’ appears to be an over-interpretation.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. education about the dangers of domestic violence;",
+      "evaluator_rationale": "The policy lists education (specifically, education about the dangers of domestic violence) as a prevention effort, which constitutes prevention through education, even though it does not discuss broader education quality improvements.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Prevention efforts against violence carried out by the Regional Government as referred to in Article 12 letter a include:\na. socialization of laws and regulations related to the implementation of protection for women and children;\nb. education about the dangers of domestic violence;\nc. mapping of areas prone to violence;\nd. compilation of data and information about women and children vulnerable to violence; and/or\ne. counseling/mental and spiritual guidance.\n(2) Prevention efforts as referred to in paragraph (1) shall be coordinated by the Agency.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nPrevention of violence as referred to in Article 3 paragraph (2) letter a is implemented by:\na. Regional Government;\nb. family; and\nc. Community;\nd. mass media; and\ne. business sector.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nPREVENTION OF VIOLENCE\nPart One\nTypes of Violence",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 16,
+          "text": "Second Part\nPrevention Efforts",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d includes:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the household sphere, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 64,
+          "text": "I. GENERAL\nThat women and children as vulnerable groups in family and community life often experience problems that violate human rights, that protection of women and children is a mandatory concurrent affair which is the authority, obligation, and responsibility of the Regional Government, thus requiring regulation as the basis for implementing comprehensive and integrated protection of women and children in a Regional Regulation.\nIn this regard, protection efforts in the Region are needed in the form of institutional support and regulations that can guarantee its implementation. This Regional Regulation regulates protection efforts specifically in terms of prevention, services and empowerment of women and children from violence in Gunungkidul Regency.\nII. ARTICLE BY ARTICLE\nArticle 1 Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\n(1) Families and Communities carry out violence prevention efforts independently in accordance with their needs and capabilities.\n(2) Regional Governments provide support and facilitation for violence prevention efforts carried out by communities.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes education as a prevention effort: Pasal 13(1)(b) “edukasi tentang bahaya kekerasan dalam rumah tangga.” That is plainly ‘prevention through education’ in the ordinary sense of the indicator. The judge relied on exactly this clause. Therefore the predicted ‘Yes’ is supported by the policy, and the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "5.2": {
+      "indicator": "Religious engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences reference “spirituality” and “mental and spiritual” elements, but they do not explicitly mention collaboration with religious organizations or religious leaders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nPrevention of violence as referred to in Article 3 paragraph (2) letter a is implemented by:\na. Regional Government;\nb. family; and\nc. Community;\nd. mass media; and\ne. business sector.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\n(1) Families and Communities carry out violence prevention efforts independently in accordance with their needs and capabilities.\n(2) Regional Governments provide support and facilitation for violence prevention efforts carried out by communities.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 39\nThe Kapanewon FPKK as referred to in Article 32 paragraph (2) letter b shall at minimum consist of elements of:\na. health;\nb. education;\nc. law;\nd. psychosocial;\ne. Community;\nf. spirituality;\ng. children's forum; and/or\nh. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 16,
+          "text": "Second Part\nPrevention Efforts",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 64,
+          "text": "I. GENERAL\nThat women and children as vulnerable groups in family and community life often experience problems that violate human rights, that protection of women and children is a mandatory concurrent affair which is the authority, obligation, and responsibility of the Regional Government, thus requiring regulation as the basis for implementing comprehensive and integrated protection of women and children in a Regional Regulation.\nIn this regard, protection efforts in the Region are needed in the form of institutional support and regulations that can guarantee its implementation. This Regional Regulation regulates protection efforts specifically in terms of prevention, services and empowerment of women and children from violence in Gunungkidul Regency.\nII. ARTICLE BY ARTICLE\nArticle 1 Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 31\n(1) In implementing violence prevention and services to women and children victims of violence, the Agency may cooperate with related regional apparatus/institutions.\n(2) Cooperation as referred to in paragraph (1) shall be implemented in the form of FPKK.\n(3) Related regional apparatus/institutions as referred to in paragraph (1) include, among others, regional apparatus/institutions whose duties and functions are in the fields of:\na. education;\nb. manpower;\nc. health;\nd. social affairs;\ne. women's empowerment and child protection;\nf. mental and spiritual;\ng. public order and security;\nh. population and civil registration;\ni. law; and\nj. cooperatives and MSMEs.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d includes:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the household sphere, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text does contain explicit religious engagement elements in the stakeholder structure: Pasal 41 (FPKK Kalurahan) must include “tokoh agama” (religious leaders), and Pasal 43(3) states participation can be carried out by “lembaga keagamaan” (religious institutions). These are direct mentions of engaging religious actors. The judge said there was no explicit mention, but the retrieved candidates already included Pasal 43(3) (“religious institutions”) and also referenced “kerohanian/spirituality” in FPKK composition; with Pasal 43(3) alone, a ‘Yes’ is justified. So the failure is primarily the judge missing/discounting explicit evidence that was present.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences discuss community participation broadly (including religious and educational institutions) but do not explicitly mention traditional/cultural organizations or traditional leaders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 14\n(1) Families and Communities carry out violence prevention efforts independently in accordance with their needs and capabilities.\n(2) Regional Governments provide support and facilitation for violence prevention efforts carried out by communities.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nPrevention of violence as referred to in Article 3 paragraph (2) letter a is implemented by:\na. Regional Government;\nb. family; and\nc. Community;\nd. mass media; and\ne. business sector.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 39\nThe Kapanewon FPKK as referred to in Article 32 paragraph (2) letter b shall at minimum consist of elements of:\na. health;\nb. education;\nc. law;\nd. psychosocial;\ne. Community;\nf. spirituality;\ng. children's forum; and/or\nh. empowerment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 16,
+          "text": "Second Part\nPrevention Efforts",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 64,
+          "text": "I. GENERAL\nThat women and children as vulnerable groups in family and community life often experience problems that violate human rights, that protection of women and children is a mandatory concurrent affair which is the authority, obligation, and responsibility of the Regional Government, thus requiring regulation as the basis for implementing comprehensive and integrated protection of women and children in a Regional Regulation.\nIn this regard, protection efforts in the Region are needed in the form of institutional support and regulations that can guarantee its implementation. This Regional Regulation regulates protection efforts specifically in terms of prevention, services and empowerment of women and children from violence in Gunungkidul Regency.\nII. ARTICLE BY ARTICLE\nArticle 1 Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 53,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 43\n(1) The community may participate in the implementation of protection for women and children victims of acts of violence.\n(2) Community participation as referred to in paragraph (1) includes among others:\na. establishing family partners at the kalurahan level;\nb. establishing community institutions whose field of work is in the protection of women and children;\nc. conducting independent socialization of the rights of women and children;\nd. undertaking preventive measures if indications of violence against women and children are found in the community;\ne. providing first aid to women and children victims of violence; and\nf. reporting to the competent authority if violence against women and children occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, community institutions, educational institutions, religious institutions, and the business sector.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d includes:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the household sphere, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Reviewing the Indonesian text, the policy discusses community participation (Pasal 43), religious institutions (Pasal 43(3)), and includes “tokoh masyarakat” (community leaders) in FPKK Kalurahan composition (Pasal 41). But it does not explicitly mention traditional/customary institutions or leaders (e.g., “adat,” “lembaga adat,” “tokoh adat,” “budaya”) as stakeholders. “Tokoh masyarakat” is broader than traditional/cultural leadership and is not clearly the same as customary/traditional engagement. Therefore the judge’s ‘No’ aligns with the text, suggesting the golden ‘Yes’ is likely wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The text mentions trafficking only as part of general aims to prevent/eliminate violence and exploitation, without specifying special protection measures targeted at women trafficking victims (services/rights are framed generally for women and children victims of violence).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 2\nThe protection of women and children aims to:\na. guarantee the fulfillment of the rights of women and children so that they can participate optimally in society in accordance with human dignity and worth;\nb. provide protection and provide a sense of security to women and children from all forms of violence and discrimination;\nc. prevent and eliminate all forms of violence and exploitation against women and children including trafficking in persons;\nd. provide services to women and children victims of violence, reporters, and witnesses;\ne. restore, strengthen the physical and mental condition of women and children victims of violence; and\nf. increase awareness and community participation in the prevention of violence against women and children.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 64,
+          "text": "I. GENERAL\nThat women and children as vulnerable groups in family and community life often experience problems that violate human rights, that protection of women and children is a mandatory concurrent affair which is the authority, obligation, and responsibility of the Regional Government, thus requiring regulation as the basis for implementing comprehensive and integrated protection of women and children in a Regional Regulation.\nIn this regard, protection efforts in the Region are needed in the form of institutional support and regulations that can guarantee its implementation. This Regional Regulation regulates protection efforts specifically in terms of prevention, services and empowerment of women and children from violence in Gunungkidul Regency.\nII. ARTICLE BY ARTICLE\nArticle 1 Sufficiently clear.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 15\nWomen and children victims of acts of violence have the right to obtain:\na. Protection;\nb. information;\nc. excellent service;\nd. continuous handling up to the stage of rehabilitation and social reintegration;\ne. confidential handling;\nf. psychological and legal assistance; and g. guarantee of rights related to status as a family member as well as a community member.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER IV\nPROVISION OF SERVICES FOR WOMEN AND CHILD VICTIMS OF VIOLENCE",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 20\n(1) The handling provided to women and children victims of violence in the form of services, among others:\na. complaints;\nb. health;\nc. legal aid;\nd. Social Rehabilitation;\ne. medicolegal;\nf. psychological; and\ng. assistance.\n(2) Services as referred to in paragraph (1) are conducted with:\na. fast and precise;\nb. safe and comfortable;\nc. sense of empathy;\nd. non-discrimination;\ne. easily accessible;\nf. not charged; and\ng. guaranteed confidentiality",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 53,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 43\n(1) The community may participate in the implementation of protection for women and children victims of acts of violence.\n(2) Community participation as referred to in paragraph (1) includes among others:\na. establishing family partners at the kalurahan level;\nb. establishing community institutions whose field of work is in the protection of women and children;\nc. conducting independent socialization of the rights of women and children;\nd. undertaking preventive measures if indications of violence against women and children are found in the community;\ne. providing first aid to women and children victims of violence; and\nf. reporting to the competent authority if violence against women and children occurs in their environment.\n(3) Community participation as referred to in paragraph (1) may be carried out by individuals, community institutions, educational institutions, religious institutions, and the business sector.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 27,
+          "text": "Second Part\nHandling of Victims of Violence",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian text, trafficking is mentioned only in general terms: Pasal 2(c) includes “termasuk perdagangan orang” as part of the aim to prevent/eliminate violence/exploitation. The detailed service entitlements and handling provisions (Pasal 15, Pasal 20–27) apply generally to “perempuan dan anak korban kekerasan” and do not specify tailored measures for trafficking victims as a distinct group. The only explicit ‘trafficked’ category appears under “Pelindungan Khusus” in Pasal 1 angka 11, but that definition is specifically about children (anak) in special situations, not women trafficking victims. Thus a ‘Yes’ for “Trafficking victims” (as a targeted intersectional group) is not clearly supported; the judge’s ‘No’ seems correct and the golden ‘Yes’ likely over-reads the general mention.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.",
+      "evaluator_rationale": "The policy defines “Special Protection” to include children with disabilities, indicating an explicit special-protection category for persons with disabilities (at least for children).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 4,
+          "text": "AGAINST WOMEN AND CHILDREN\nFROM VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1. Woman is a person who is female in gender.\n2. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n3. Family is the smallest unit in society consisting of husband and wife, or husband and wife and their child(ren), or father and his child(ren), or mother and her child(ren), or blood relatives in direct lineage upward or downward up to the third degree.\n4. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n5. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n6. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, and/or neglect, exploitation, including threats to commit acts, coercion, or unlawful deprivation of freedom, and other violence.\n7. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.\n8. Child Victim of Violence is a child who experiences violence and a child in conflict with the law.\n9. Protection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Special Protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substance (napza) abuse, children victims of kidnapping, sale, trafficking, children victims of violence both physical and/or mental, children with disabilities, and children victims of mistreatment and neglect.\n12. Community is individuals, groups, and social organizations and/or community organizations.\n13. Social Rehabilitation is services aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n14. Service is immediate activities and actions taken to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against women and children carried out by professionals in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Counseling for Victims is the provision of assistance by an expert or trained person in such a way as to increase psychological understanding and ability in solving problems faced.\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and or spiritual guidance, for the self-strengthening of victims of violence to resolve the problems faced.\n17. Technical Implementation Unit hereinafter abbreviated as UPT is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n18. Technical Implementation Unit of the Women and Child Protection Agency hereinafter abbreviated as UPTD PPA is a technical implementation unit of the agency established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner and established at the regency, Kapanewon/sub-district, and Kalurahan/village levels.\n20. Safe House is a temporary residence or shelter for victims, provided to give protection during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.\n21. Government Agency is a collective term covering work units/organizational units of ministries/departments, Non-Departmental Government Institutions, secretariats of state high institutions, and other government agencies, both central and regional, including State-Owned Enterprises, State-Owned Legal Entities, and Business Entities.\n22. Region is Gunungkidul Regency. 8\n23. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n24. Regent is the Regent of Gunungkidul.\n25. Office of Women's Empowerment, Child Protection, and Family Planning, Community and Village Empowerment of Gunungkidul Regency hereinafter referred to as the Office, is the implementing element of government affairs in the field of women's empowerment and child protection.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 64,
+          "text": "I. GENERAL\nThat women and children as vulnerable groups in family and community life often experience problems that violate human rights, that protection of women and children is a mandatory concurrent affair which is the authority, obligation, and responsibility of the Regional Government, thus requiring regulation as the basis for implementing comprehensive and integrated protection of women and children in a Regional Regulation.\nIn this regard, protection efforts in the Region are needed in the form of institutional support and regulations that can guarantee its implementation. This Regional Regulation regulates protection efforts specifically in terms of prevention, services and empowerment of women and children from violence in Gunungkidul Regency.\nII. ARTICLE BY ARTICLE\nArticle 1 Sufficiently clear.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Three\nUPT PPA\nArticle 29\n(1) Regional Governments may establish UPT PPA to provide services for women and children who experience violence, discrimination, require special protection, and other problems in accordance with the provisions of Laws and Regulations.\n(2) UPT PPA as referred to in paragraph (1) is positioned under and responsible to the Agency.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 15\nWomen and children victims of acts of violence have the right to obtain:\na. Protection;\nb. information;\nc. excellent service;\nd. continuous handling up to the stage of rehabilitation and social reintegration;\ne. confidential handling;\nf. psychological and legal assistance; and g. guarantee of rights related to status as a family member as well as a community member.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nCLOSING PROVISIONS\nArticle 47\n(1) At the time this Regional Regulation comes into effect, the provisions of laws and regulations that regulate the Establishment, Organizational Structure, Duties, Functions, and Work Procedures by the Technical Implementer of Women and Children Protection are declared to remain valid insofar as they do not conflict with the provisions in this Regional Regulation or are not specifically regulated in this Regional Regulation.\n(2) At the time this Regional Regulation comes into effect, the FPKK that has been established is declared to remain valid insofar as it does not conflict with the provisions in this Regional Regulation or is not specifically regulated in this Regional Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 2\nThe protection of women and children aims to:\na. guarantee the fulfillment of the rights of women and children so that they can participate optimally in society in accordance with human dignity and worth;\nb. provide protection and provide a sense of security to women and children from all forms of violence and discrimination;\nc. prevent and eliminate all forms of violence and exploitation against women and children including trafficking in persons;\nd. provide services to women and children victims of violence, reporters, and witnesses;\ne. restore, strengthen the physical and mental condition of women and children victims of violence; and\nf. increase awareness and community participation in the prevention of violence against women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER IV\nPROVISION OF SERVICES FOR WOMEN AND CHILD VICTIMS OF VIOLENCE",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f namely:\na. threat of violence includes any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that causes fear or restricts a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 6\nPhysical violence as referred to in Article 5 letter a is an act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and/or causes death.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 20\n(1) The handling provided to women and children victims of violence in the form of services, among others:\na. complaints;\nb. health;\nc. legal aid;\nd. Social Rehabilitation;\ne. medicolegal;\nf. psychological; and\ng. assistance.\n(2) Services as referred to in paragraph (1) are conducted with:\na. fast and precise;\nb. safe and comfortable;\nc. sense of empathy;\nd. non-discrimination;\ne. easily accessible;\nf. not charged; and\ng. guaranteed confidentiality",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly includes disability as a special-protection category for children: Pasal 1 angka 11 defines “Pelindungan Khusus” including “anak yang menyandang cacat” (children with disabilities). This is direct recognition of disability as an intersectional vulnerability group (at least for children) within the policy’s scope. Therefore the judge’s ‘Yes’ is supported by the source text, and the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "DI_YOGYAKARTA_GUNUNGKIDUL_v2.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:30.831947+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 6,
+  "diagnosed_count": 6
+}

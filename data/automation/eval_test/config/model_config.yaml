@@ -1,0 +1,24 @@
+models:
+  gpt-5.2:
+    deployment: gpt-5.2
+    temperature: 0.2
+    max_tokens: null
+    max_retries: 3
+
+  claude-sonnet-4-5:
+    deployment: claude-sonnet-4-5
+    temperature: 0.2
+    max_tokens: null
+    max_retries: 3
+
+  gpt-4o:
+    deployment: gpt-4o
+    temperature: 0.2
+    max_tokens: null
+    max_retries: 3
+
+  gpt-5.2-diagnosis:
+    deployment: gpt-5.2
+    temperature: 0.2
+    max_tokens: null
+    max_retries: 3

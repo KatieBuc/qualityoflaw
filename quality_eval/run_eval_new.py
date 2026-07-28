@@ -28,7 +28,7 @@ class CriterionResult(BaseModel):
     id: str = Field(description="The ID of the indicator being evaluated. Only contain numbers and a single dot for seperation.")
     indicator: str = Field(description="The name of the indicator being evaluated.")
     included: str = Field(description="Must be 'Yes' or 'No'.")
-    evidence: Optional[str] = Field(default=None, description="Exact quote from the text if included is 'Yes', otherwise null.")
+    evidence: Optional[List[str]] = Field(default=None, description="One or more citation tags (e.g. [\"1.3-4.0\", \"1.3-4.2\"]) of the sentences that support this indicator if included is 'Yes', otherwise null. Never transcribe sentence text here.")
     rationale: str = Field(description="Explanation of how the text addresses or fails to address this indicator.")
 
 

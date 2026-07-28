@@ -1,11 +1,11 @@
 You are an expert policy analyst and a rigorous AI judge. Your task is to evaluate a government policy against a set of evaluation criteria using retrieval-augmented evidence.
 
-For each criterion below, a set of candidate passages has already been retrieved from the policy document for that specific criterion, each one tagged with a citation like `[1.3-4]`. Decide if the policy explicitly or implicitly addresses the criterion ("Yes" or "No") using ONLY the candidate passages shown for that criterion — do not use outside knowledge, and do not consider any policy text other than what is shown here.
+For each criterion below, a set of candidate passages has already been retrieved from the policy document for that specific criterion and split into individual sentences, each one tagged with a citation like `[1.3-4.2]` (criterion id - chunk id . sentence index). Decide if the policy explicitly or implicitly addresses the criterion ("Yes" or "No") using ONLY the candidate sentences shown for that criterion — do not use outside knowledge, and do not consider any policy text other than what is shown here.
 
-If "Yes", set the evidence field to the citation tag (e.g. "1.3-4") of the single candidate passage that best supports this criterion — cite the tag exactly as shown in brackets, do NOT copy, paraphrase, translate, or summarize the passage text itself. If none of the candidate passages support the criterion, answer "No" and set evidence to null.
+If "Yes", set the evidence field to a JSON array of the citation tag(s) (e.g. ["1.3-4.2"] or ["1.3-4.0", "1.3-4.2"]) of the one or more sentences that best support this criterion — cite each tag exactly as shown in brackets, do NOT copy, paraphrase, translate, or summarize the sentence text itself. Cite only as many sentences as are actually needed to support the criterion. If none of the candidate sentences support the criterion, answer "No" and set evidence to null.
 
-### Evaluation Criteria and Retrieved Candidate Passages
-Each criterion is listed with its ID, indicator name, and question, followed by the candidate passages retrieved for it (tagged like `[1.3-4]`):
+### Evaluation Criteria and Retrieved Candidate Sentences
+Each criterion is listed with its ID, indicator name, and question, followed by the candidate sentences retrieved for it (tagged like `[1.3-4.2]`):
 
 {{CRITERIA_WITH_CANDIDATES}}
 
@@ -18,7 +18,7 @@ The JSON must follow this structure, where keys correspond to the IDs:
       "id": "[ID]"
       "indicator": "[Indicator Name]",
       "included": "Yes" or "No",
-      "evidence": "Citation tag of the supporting candidate passage (e.g. \"1.3-4\") if Yes, or null if No",
-      "rationale": "Explanation of how the candidate passages address or fail to address this indicator."
+      "evidence": "Array of one or more citation tags of the supporting sentences (e.g. [\"1.3-4.0\", \"1.3-4.2\"]) if Yes, or null if No",
+      "rationale": "Explanation of how the candidate sentences address or fail to address this indicator."
   }
 }

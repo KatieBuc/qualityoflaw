@@ -1,0 +1,342 @@
+{
+  "diagnoses": {
+    "1.9": {
+      "indicator": "Sexual slavery / exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. children who are exploited economically and/or sexually;",
+      "evaluator_rationale": "The policy explicitly includes children who are exploited sexually (and/or economically) as a group receiving special protection, covering sexual exploitation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "Article 3\nProtection of Women and Children Victims of Violence is implemented based on the principles of:\na. responsive to rights;\nb. non-discrimination;\nc. maintaining confidentiality;\nd. empowerment; and\ne. participation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 23\n(1) P2TP2A provides services and temporary protection in the form of a safe house.\n(2) In the event that P2TP2A does not yet have a safe house, then victims of violence are referred to other integrated service centers that have a safe house.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 41,
+          "text": "Second Part\nPrevention of Violence Against Women and Children",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER IX\nREPORTING\nArticle 33\n(1) Reporting as referred to in Article 32 paragraph (5) shall serve as material for consideration by the Mayor in making policy decisions regarding the implementation of Protection for Women and Children Victims of Violence.\n(2) Reports on the implementation of Protection for Women and Children Victims of Violence as referred to in paragraph (1) shall be carried out 1 (one) time in 1 (one) year or at any time when necessary.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 58,
+          "text": "Article 30\n(1) The community is involved in the Protection of Women and Children Victims of Violence.\n(2) Community involvement as referred to in paragraph (1) is in the form of participation through prevention, services, empowerment, monitoring, supervision and fulfillment of the rights of Women and/or Children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 13\n(1) Fulfillment of Children's Rights as referred to in Article 11 letter b includes: a. guarantee of civil rights and freedoms;\nb. guarantee of family environment and alternative care;\nc. guarantee of basic health and welfare; d. education, leisure time, culture and recreation; and e. special protection.\n(2) Special protection as referred to in paragraph (1) letter e, is carried out for:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups; d. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic and other addictive substance abuse;\nf. children who are victims of pornography;\ng. children with HIV/AIDS;\nh. children victims of kidnapping, sale and/or trafficking;\ni. children victims of physical and/or psychological violence; j. children victims of sexual crimes;\nk. children victims of terrorist networks;\nl. children with disabilities;",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 6\nProtection of Women includes:\na. services;\nb. empowerment;\nc. prevention; and d. monitoring.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 2,
+          "text": "I 11\n- 2 -\n3. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of all Forms of Discrimination Against Women (Convention on the Elimination of all Form of Discrimination Againts Woman) (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as last amended by Law Number 17 of 2016 concerning Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection into Law (State Gazette of the Republic of Indonesia Year 2016 Number 99, Supplement to the State Gazette of the Republic of Indonesia Number 5882);\n6. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 52 of 2009 concerning Population Development and Family Development (State Gazette of the Republic of Indonesia Year 2009 Number 161, Supplement to the State Gazette of the Republic of Indonesia Number 5080);",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 10,
+          "text": "I 11\n- 6 - Article 4 The Objectives of Protection of Women and Children Victims of Violence include: a. ensuring the fulfillment of rights;\nb. providing justice and equality of rights; c. providing protection and a sense of security; and d. conducting empowerment.\nArticle 5 The scope of Protection of Women and Children Victims of Violence includes: a. protection of Women;\nb. protection of Children;\nc. coordination and cooperation;\nd. responsibility of Regional Government;\ne. community participation;\nf. guidance and supervision;\ng. evaluation;\nh. reporting; and\ni. funding.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 14\n(1) Prevention of violations against the rights of Children is carried out by the Regional Government and the community.\n(2) Prevention of violations against the rights of Children carried out by the Regional Government as referred to in paragraph (1) is implemented by:\na. forming work networks;\nb. conducting coordination, integration, synchronization of prevention based on partnership patterns with the community, private sector, non-governmental organizations; and\nc. conducting socialization of laws and regulations related to Child Protection.\n(3) Prevention of violations against the rights of Children carried out by the community as referred to in paragraph (1) is implemented by:\na. increasing the productivity of Children;\nb. developing the self-potential of Children;\nc. preventing child marriage;\nd. reducing maternal and infant mortality rates; and\ne. preventing the occurrence of domestic violence.\n(4) The formation of work networks as referred to in paragraph (2) letter a, includes work partners of the Regional Government in the implementation of prevention of rights violations in the form of family partners.\n(5) Further provisions regarding the prevention of violations against the rights of Children as referred to in paragraph (3), are regulated in the Mayor's Regulation.\n- 11 -",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 13 ayat (2) huruf d explicitly includes “anak yang dieksploitasi secara ekonomi dan/atau seksual” (children exploited economically and/or sexually) as a category receiving “perlindungan khusus” (special protection). The retrieved English candidate [1.9-28] accurately reflects this, and the judge’s reasoning (that sexual exploitation is covered) is consistent with the source. Therefore the golden label “No” appears incorrect for an indicator about sexual exploitation/sexual slavery coverage, at least as framed by the pipeline (it is explicitly mentioned).",
+      "diagnosis_status": "ok"
+    },
+    "2.5": {
+      "indicator": "Training and capacity building",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention education on anti-violence values and socialization/legal counseling, but they do not explicitly describe training or capacity-building programs targeted at government officials or service workers.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 42,
+          "text": "Article 20\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against Women and Children as referred to in Article 17 paragraph (3) letter e and paragraph (4) letter i carried out in the form of:\na. collecting data and organizing an information system for the Protection of Women and Children victims of violence;\nb. conducting education on anti-violence values against Women and Children; and\nc. conducting socialization of laws and regulations related to the empowerment of Women and the Protection of Children victims of violence.\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and organizing technical service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims of violence.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 21\n(1) Technical Service Institutions as referred to in Article 20 paragraph (2) letter a are implemented by P2TP2A and FPK2PA.\n(2) In the implementation of Women and Children Protection, it is carried out by the Regional Technical Implementation Unit.\n(3) In the case of implementation of technical services as referred to in paragraph (1), the Regional Government may establish a task force.",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 63,
+          "text": "CHAPTER VIII\nEVALUATION\nArticle 32\n(1) Evaluation of Protection of Women and Children Victims of Violence is conducted based on service implementation documents, empowerment, prevention, fulfillment and monitoring results of the implementation of Protection of Women and Children.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 33,
+          "text": "CHAPTER IV\nCOORDINATION AND COOPERATION\nArticle 16\n(1) The implementation of coordination and cooperation for the Protection of Women and Children Victims of Violence aims to:\na. enhance efforts to fulfill the rights of Women and Children;\nb. improve synergistic and harmonious working relationships; and\nc. obtain data and information in the implementation of Protection of Women and Children.\n(2) In order to achieve the objectives as referred to in paragraph (1), the Regional Government cooperates with:\na. other Regional Governments;\nb. relevant agencies;\nc. non-governmental institutions;\nd. universities; and\ne. community organizations.\n(3) Cooperation as referred to in paragraph (2) includes:\na. exchange of data and information;\nb. socialization or legal counseling lectures;\nc. rehabilitation of victims of violence; and\nd. repatriation and social reintegration.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 24,
+          "text": "I cannot provide a translation because no source text was included in your message. \n\nI can see the formatting instructions and the markers \"I 11\" and \"- 9.\" but there is no actual text content to translate.\n\nPlease provide the text you would like translated into English.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 36,
+          "text": "I 11\n- 12 - (2) Responsibilities as referred to in paragraph (1) include: a. education;\nb. health;\nc. politics;\nd. law;\ne. economy;\nf. culture; and\ng. social.\n(3) The Regional Government's responsibility for the protection of Women's rights as referred to in paragraph (1) shall be carried out by:\na. formulation of gender-responsive Regional policies;\nb. institutionalization of gender mainstreaming within the Regional Government;\nc. empowerment of Women in the fields of politics, law, economy, culture and social affairs in community organizations at the city level;\nd. strengthening and development of institutions providing Women's empowerment services at the city level;\ne. implementing efforts to prevent the occurrence of violence against Women.\n(4) The Regional Government's responsibility for the protection of Children's rights as referred to in paragraph (1) shall be carried out by: a. formulation of policies, programs, and Regional development activities with a perspective on Children's rights which are set forth in Regional development planning documents;\nb. formulation of norms, standard procedures and criteria for assessment of the fulfillment and protection of Children's rights which refer to the norms, standards, procedures and criteria established by the government;\nc. implementation of child-friendly cities carried out in accordance with the provisions of laws and regulations;\nd. facilitation of the implementation of Regional Children's forums;\ne. enhancement of community participation in the implementation and protection of Children's rights;\nf. monitoring and evaluation of the implementation of programs for the fulfillment and Protection of Children;",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by: 1. Region is the City of Palangka Raya.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Palangka Raya.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the Mayor and the Regional House of Representatives in the administration of government affairs that are the authority of the Region.\n5. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n6. Protection of children is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, as well as receive protection from violence and discrimination.\n7. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or deprivation of liberty by law.\n8. Woman is a person who is female by sex.\n9. Child is a person who is not yet 18 (eighteen) years of age who is not yet married, including a child who is still in the womb.\n10. Community is individuals, community groups, including parents and family.\n11. Prevention is all efforts to eliminate all risks and adverse impacts from violence against women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER IX\nREPORTING\nArticle 33\n(1) Reporting as referred to in Article 32 paragraph (5) shall serve as material for consideration by the Mayor in making policy decisions regarding the implementation of Protection for Women and Children Victims of Violence.\n(2) Reports on the implementation of Protection for Women and Children Victims of Violence as referred to in paragraph (1) shall be carried out 1 (one) time in 1 (one) year or at any time when necessary.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 7,
+          "text": "I 11\n- 5 -\n12. Kota Layak Anak which is hereinafter abbreviated as KLA is a Community that is conducive to developing all social psychological potential of a person optimally.\n13. Child Obligations are everything that must be carried out by children according to the function and role of children.\n14. Forum Penanganan Korban Kekerasan Terhadap Perempuan dan Anak which is hereinafter abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is tiered at the city and sub-district levels.\n15. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak which is hereinafter abbreviated as P2TP2A is an integrated service center in efforts to empower women in various fields of development, as well as protection of women and children from various types of discrimination and acts of violence, including trafficking in persons established by local government or community-based.\n16. Kelurahan Ramah Anak which is hereinafter abbreviated as KRA is the development of a kelurahan area that unites the commitment and resources of the kelurahan government involving the community and business world located in the kelurahan in order to promote, protect, fulfill and respect children's rights, which is planned consciously and sustainably.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 37,
+          "text": "I 11\n- 13 -\ng. development of Child Protection institutions;\nh. providing special protection for Children; and\ni. implementing preventive measures against the occurrence of violence against Children.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text explicitly includes “pendidikan dan pelatihan” (education and training) as part of “pembinaan dan pengawasan” in Pasal 31 ayat (3) huruf c. This is a direct training/capacity-building provision. The retrieved candidates did include this content as [2.5-37] (showing the continuation of Pasal 17(4) items g–i) but did NOT retrieve Pasal 31 where the explicit “pendidikan dan pelatihan” appears. However, since the judge only saw the retrieved passages and none contained Pasal 31’s training language, the immediate cause is retrieval failure; yet the discrepancy is labeled here as evaluation failure? Actually, given the provided candidates, the judge’s ‘No’ is reasonable. The correct diagnosis is that retrieval missed the key training clause. (If the system intended ‘training’ to mean staff/service-provider training, Pasal 31 still qualifies generally.)",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. providing communication and information through socialization and education regarding the rights of Women and Children;",
+      "evaluator_rationale": "The policy provides for community-led communication, information, socialization, and education regarding the rights of women and children, which constitutes information/education on women’s rights as part of primary prevention.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 58,
+          "text": "Article 30\n(1) The community is involved in the Protection of Women and Children Victims of Violence.\n(2) Community involvement as referred to in paragraph (1) is in the form of participation through prevention, services, empowerment, monitoring, supervision and fulfillment of the rights of Women and/or Children.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 59,
+          "text": "I II\n- 18 - (3) The role of the community in the implementation of Protection for Women and Child Victims of Violence as referred to in paragraph (1) shall be carried out by:\na. providing communication and information through socialization and education regarding the rights of Women and Children;\nb. providing suggestions and input in the formulation of policies related to the Protection of Women and Children;\nc. reporting to the authorized parties if violations occur against the rights of Women and Children;\nd. playing an active role in the rehabilitation process and social reintegration for Women and Children;\ne. forming family partners at the neighborhood unit/community unit or village level by the community;\nf. forming Women and Child Protection units within community organizations and educational institutions;\ng. establishment and management of orphanages;\nh. establishment of Child rehabilitation centers;\ni. provision of shelters and/or social houses;\nj. vocational skills training; and",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 20\n(1) The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against Women and Children as referred to in Article 17 paragraph (3) letter e and paragraph (4) letter i carried out in the form of:\na. collecting data and organizing an information system for the Protection of Women and Children victims of violence;\nb. conducting education on anti-violence values against Women and Children; and\nc. conducting socialization of laws and regulations related to the empowerment of Women and the Protection of Children victims of violence.\n(2) The Regional Government has the obligation and responsibility to provide and organize services for victims in the form of:\na. establishing and organizing technical service institutions for victims by involving community elements; and\nb. encouraging community awareness of the importance of protection for victims of violence.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 41,
+          "text": "Second Part\nPrevention of Violence Against Women and Children",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 24,
+          "text": "I cannot provide a translation because no source text was included in your message. \n\nI can see the formatting instructions and the markers \"I 11\" and \"- 9.\" but there is no actual text content to translate.\n\nPlease provide the text you would like translated into English.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 18,
+          "text": "Part Four\nPrevention Article 9 (1) Prevention of violations against the rights of Women as referred to in Article 6 letter c is implemented by: a. establishing work networks;",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 18\n(1) Regional Government in implementing the responsibility for institutionalizing Gender Mainstreaming as referred to in Article 17 paragraph (3) letter b regarding the Protection of Women and Children is obliged to organize an information system for Women and Children data.\n(2) The Women data Information System as referred to in paragraph (1) constitutes an inseparable part of the Children data information system.\n(3) The Women and Children information system as referred to in paragraph (2) shall be further regulated by Mayor Regulation.\n(4) Gender mainstreaming as referred to in paragraph (1) shall be organized in accordance with the provisions of Laws and Regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 6\nProtection of Women includes:\na. services;\nb. empowerment;\nc. prevention; and d. monitoring.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 29\nThe enhancement of family participation in the Protection of Women and Children Victims of Violence is carried out through:\na. prevention of marriage at Child age;\nb. bringing Women closer to health services; and\nc. strengthening family resilience.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "I II\n- 8 -\nb. conduct coordination, integration, synchronization of prevention based on partnership patterns with the community, private sector, non-governmental organizations; and\nc. conduct socialization of laws and regulations related to the Protection of Women.\nd. prevention of child marriage at child age.\n(2) Further provisions regarding the prevention of violations of Women's rights are regulated in the Mayor's Regulation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text (Pasal 30 ayat (3) huruf a) provides for “sosialisasi dan edukasi mengenai hak Perempuan dan Anak” (socialization and education regarding the rights of women and children). It also mentions “pendidikan tentang nilai anti kekerasan” in Pasal 20 ayat (1) huruf b. However, the indicator is specifically “Gender equality education,” which typically requires explicit education on gender equality/gender norms (e.g., kesetaraan gender) rather than general rights education or anti-violence values. The retrieved passages do not clearly establish gender-equality education; they establish rights education/anti-violence education. The judge over-generalized from ‘rights education’ to ‘gender equality education,’ so the error is due to judge reasoning being too lenient given the indicator’s specificity.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. providing communication and information through socialization and education regarding the rights of Women and Children;",
+      "evaluator_rationale": "The policy includes prevention actions that use socialization and education (communication/information through education regarding rights), indicating prevention through educational activities, even if it does not explicitly address improving overall education quality.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 31,
+          "text": "Article 14\n(1) Prevention of violations against the rights of Children is carried out by the Regional Government and the community.\n(2) Prevention of violations against the rights of Children carried out by the Regional Government as referred to in paragraph (1) is implemented by:\na. forming work networks;\nb. conducting coordination, integration, synchronization of prevention based on partnership patterns with the community, private sector, non-governmental organizations; and\nc. conducting socialization of laws and regulations related to Child Protection.\n(3) Prevention of violations against the rights of Children carried out by the community as referred to in paragraph (1) is implemented by:\na. increasing the productivity of Children;\nb. developing the self-potential of Children;\nc. preventing child marriage;\nd. reducing maternal and infant mortality rates; and\ne. preventing the occurrence of domestic violence.\n(4) The formation of work networks as referred to in paragraph (2) letter a, includes work partners of the Regional Government in the implementation of prevention of rights violations in the form of family partners.\n(5) Further provisions regarding the prevention of violations against the rights of Children as referred to in paragraph (3), are regulated in the Mayor's Regulation.\n- 11 -",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 29\nThe enhancement of family participation in the Protection of Women and Children Victims of Violence is carried out through:\na. prevention of marriage at Child age;\nb. bringing Women closer to health services; and\nc. strengthening family resilience.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 19,
+          "text": "I II\n- 8 -\nb. conduct coordination, integration, synchronization of prevention based on partnership patterns with the community, private sector, non-governmental organizations; and\nc. conduct socialization of laws and regulations related to the Protection of Women.\nd. prevention of child marriage at child age.\n(2) Further provisions regarding the prevention of violations of Women's rights are regulated in the Mayor's Regulation.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 30,
+          "text": "Part Four\nPrevention",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 24,
+          "text": "I cannot provide a translation because no source text was included in your message. \n\nI can see the formatting instructions and the markers \"I 11\" and \"- 9.\" but there is no actual text content to translate.\n\nPlease provide the text you would like translated into English.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 41,
+          "text": "Second Part\nPrevention of Violence Against Women and Children",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 58,
+          "text": "Article 30\n(1) The community is involved in the Protection of Women and Children Victims of Violence.\n(2) Community involvement as referred to in paragraph (1) is in the form of participation through prevention, services, empowerment, monitoring, supervision and fulfillment of the rights of Women and/or Children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 37,
+          "text": "I 11\n- 13 -\ng. development of Child Protection institutions;\nh. providing special protection for Children; and\ni. implementing preventive measures against the occurrence of violence against Children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 59,
+          "text": "I II\n- 18 - (3) The role of the community in the implementation of Protection for Women and Child Victims of Violence as referred to in paragraph (1) shall be carried out by:\na. providing communication and information through socialization and education regarding the rights of Women and Children;\nb. providing suggestions and input in the formulation of policies related to the Protection of Women and Children;\nc. reporting to the authorized parties if violations occur against the rights of Women and Children;\nd. playing an active role in the rehabilitation process and social reintegration for Women and Children;\ne. forming family partners at the neighborhood unit/community unit or village level by the community;\nf. forming Women and Child Protection units within community organizations and educational institutions;\ng. establishment and management of orphanages;\nh. establishment of Child rehabilitation centers;\ni. provision of shelters and/or social houses;\nj. vocational skills training; and",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by: 1. Region is the City of Palangka Raya.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Palangka Raya.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the Mayor and the Regional House of Representatives in the administration of government affairs that are the authority of the Region.\n5. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n6. Protection of children is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, as well as receive protection from violence and discrimination.\n7. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or deprivation of liberty by law.\n8. Woman is a person who is female by sex.\n9. Child is a person who is not yet 18 (eighteen) years of age who is not yet married, including a child who is still in the womb.\n10. Community is individuals, community groups, including parents and family.\n11. Prevention is all efforts to eliminate all risks and adverse impacts from violence against women and children.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, prevention includes “sosialisasi peraturan perundang-undangan” (Pasal 9(1)(c), Pasal 14(2)(c)) and community “sosialisasi dan edukasi mengenai hak Perempuan dan Anak” (Pasal 30(3)(a)), plus “pendidikan tentang nilai anti kekerasan” (Pasal 20(1)(b)). These are educational/socialization activities, but the indicator is “Prevention through education” (often interpreted as broader formal education measures or education-sector interventions). The retrieved evidence supports some education-based awareness/prevention, but not necessarily the intended meaning of the indicator if it expects formal education improvements or curriculum-based prevention. The judge treated any education/socialization as satisfying the indicator; that is an overly broad interpretation, so this is an evaluation (judge) failure rather than missing evidence.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences provide general women’s protection measures and principles, and mention trafficking only in the context of children (children victims of kidnapping, sale and/or trafficking). There is no explicit or implicit special protection measure targeted at women victims of human trafficking in the provided text.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "Article 3\nProtection of Women and Children Victims of Violence is implemented based on the principles of:\na. responsive to rights;\nb. non-discrimination;\nc. maintaining confidentiality;\nd. empowerment; and\ne. participation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 37,
+          "text": "I 11\n- 13 -\ng. development of Child Protection institutions;\nh. providing special protection for Children; and\ni. implementing preventive measures against the occurrence of violence against Children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 6\nProtection of Women includes:\na. services;\nb. empowerment;\nc. prevention; and d. monitoring.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 24,
+          "text": "I cannot provide a translation because no source text was included in your message. \n\nI can see the formatting instructions and the markers \"I 11\" and \"- 9.\" but there is no actual text content to translate.\n\nPlease provide the text you would like translated into English.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 58,
+          "text": "Article 30\n(1) The community is involved in the Protection of Women and Children Victims of Violence.\n(2) Community involvement as referred to in paragraph (1) is in the form of participation through prevention, services, empowerment, monitoring, supervision and fulfillment of the rights of Women and/or Children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER IX\nREPORTING\nArticle 33\n(1) Reporting as referred to in Article 32 paragraph (5) shall serve as material for consideration by the Mayor in making policy decisions regarding the implementation of Protection for Women and Children Victims of Violence.\n(2) Reports on the implementation of Protection for Women and Children Victims of Violence as referred to in paragraph (1) shall be carried out 1 (one) time in 1 (one) year or at any time when necessary.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 11,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by: 1. Region is the City of Palangka Raya.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Palangka Raya.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the Mayor and the Regional House of Representatives in the administration of government affairs that are the authority of the Region.\n5. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n6. Protection of children is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, as well as receive protection from violence and discrimination.\n7. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or deprivation of liberty by law.\n8. Woman is a person who is female by sex.\n9. Child is a person who is not yet 18 (eighteen) years of age who is not yet married, including a child who is still in the womb.\n10. Community is individuals, community groups, including parents and family.\n11. Prevention is all efforts to eliminate all risks and adverse impacts from violence against women and children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 18,
+          "text": "Part Four\nPrevention Article 9 (1) Prevention of violations against the rights of Women as referred to in Article 6 letter c is implemented by: a. establishing work networks;",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 13\n(1) Fulfillment of Children's Rights as referred to in Article 11 letter b includes: a. guarantee of civil rights and freedoms;\nb. guarantee of family environment and alternative care;\nc. guarantee of basic health and welfare; d. education, leisure time, culture and recreation; and e. special protection.\n(2) Special protection as referred to in paragraph (1) letter e, is carried out for:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups; d. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic and other addictive substance abuse;\nf. children who are victims of pornography;\ng. children with HIV/AIDS;\nh. children victims of kidnapping, sale and/or trafficking;\ni. children victims of physical and/or psychological violence; j. children victims of sexual crimes;\nk. children victims of terrorist networks;\nl. children with disabilities;",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly references trafficking in persons in the definition/scope of services: Pasal 1 angka 15 defines P2TP2A as protecting women and children from violence “termasuk perdagangan orang” (including trafficking in persons). It also lists “anak korban penculikan, penjualan dan/atau perdagangan” in Pasal 13(2)(h). The retrieved candidates for 6.2 did include Pasal 13(2)(h) (children trafficking victims) but did NOT retrieve Pasal 1(15) where trafficking is mentioned as part of protection/services generally (covering women as well, not only children). Because the key women-inclusive trafficking reference exists in the document but was not surfaced to the judge, the primary cause is a retrieval/candidate issue leading to a false negative.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.176746+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 5,
+  "diagnosed_count": 5
+}

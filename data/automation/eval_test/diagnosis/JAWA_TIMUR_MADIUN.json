@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "2.1": {
+      "indicator": "Institutional network / coordination mechanism",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences describe a local integrated service center (PPT) and cooperation with PPT, but they do not mention coordination or cooperation with governments across different jurisdictions (e.g., other regencies/provinces/national bodies).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER V\nIMPLEMENTATION OF PROTECTION\nFirst Part\nInstitutional",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VI\nASSISTANCE\nArticle 11\nAssistance is carried out by persons or institutions that have expertise to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence and have cooperated with PPT.\n- 6 -",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nSANCTIONS\nArticle 12\n(1) Every person who deliberately fails to provide protection to women and children resulting in the occurrence of violence, allows violence to occur, and or does not report and does not provide protection to victims, shall be subject to sanctions as stipulated in the applicable laws and regulations;\n(2) Officials appointed to administer protection who do not carry out their obligations and responsibilities shall be subject to administrative action or sanctions;\n(3) PPT managers who carry out service duties that violate service principles, may be subject to sanctions in accordance with PPT internal mechanisms.",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Regent and Regional Apparatus as elements of the Regional Government administration.\n2. Regent is the Regent of Madiun.\n3. Child is a person who has not reached 18 years of age and has never been married, including those in the womb.\n4. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n5. Violence is any act that results in or may result in misery or suffering whether physical, psychological, sexual, and economic to the victim.\n6. Physical violence is any act that causes pain, injury, wounds, or disability to a person's body, miscarriage, fainting and/or causes death.\n7. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n8. Sexual violence is an act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and certain purposes.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is or has occurred.\n11. Companion is a person who has the expertise to accompany victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n12. Integrated Service Center, hereinafter abbreviated as PPT, is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and general services.\n13. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n14. Community is individuals, families, groups, social organizations and/or community organizations.\n15. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, and mother and her children.\n- 4 –\n16. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers, and so on) who live and eat from one kitchen and reside in one house.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 24,
+          "text": "NIP 010 212 869\nEXPLANATION\nOF\nREGIONAL REGULATION OF MADIUN REGENCY\nNUMBER 5 OF 2008\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION\nFOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nI. GENERAL EXPLANATION\nThe State has an obligation to provide a sense of security to its citizens from threats and actions that can disturb or damage psychological, physical, sexual and economic security, this is philosophically stated in the Preamble of the 1945 Constitution, that the first purpose of the establishment of the Unitary State of the Republic of Indonesia is to protect the entire nation and all the blood of Indonesia.\nBecause the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women), it is obliged to comply with these provisions. Likewise in the fourth amendment of the 1945 Constitution chapter XA of the 1945 Constitution concerning Human Rights, it states that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.\nFurthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as Mothers of the nation and children as successors of the nation are creatures of God Almighty so they must be protected and their honor, dignity and self-esteem must be safeguarded in a reasonable and proportional manner, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.\nFrom the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.",
+          "score": 0.030330882352941176
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 3: What is meant by gender-based violence is actions based on gender relations that place women in a subordinate position to men.\n\nArticle 4: What is meant by receiving protection is receiving protection from individuals, groups or institutions, both governmental and non-governmental.\n\nReceiving information about the location of complaint centers, PPT and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the progress of case handling.\n\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial and legal services.\n\nWhat is meant by continuous handling is handling that does not only stop at physical and psychological recovery, but until the victim can resume their life in society including the restoration of their good name.",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence, in the form of:\na. collecting data and information about women and children victims of violence and legislation;\nb. conducting education on anti-violence values towards women and children;\nc. conducting socialization of legislation related to the implementation of protection for women and children victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for women and children victims of violence.\n(2) To anticipate the occurrence of acts of violence, Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;\nb. encouraging community awareness of the importance of protection for victims.\n- 5 - (3) Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands, or other persons who are legally responsible for the victim.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 5 : What is meant by receiving psychological and legal assistance at every level of examination and throughout the judicial process being carried out.\nArticle : 6 Sufficiently clear\nArticle : 7 Sufficiently clear\nArticle : 8 Sufficiently clear\nArticle : 9 Sufficiently clear\nArticle : 10 Sufficiently clear\nArticle : 11 Sufficiently clear\nArticle 12\nParagraph (1) : Sufficiently clear Paragraph (2) : a.What is meant by officials appointed to implement protection are the Heads of Agencies/Services/Institutions in the Madiun Regency Government in accordance with their duties and functions who are incorporated in the PPT organization.\nb. Their obligations and responsibilities are : - Providing medical services - Providing medicolegal services - Providing psychosocial services - Providing legal services",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nRIGHTS OF VICTIMS\nArticle 4\nEvery victim has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling from individuals, groups or institutions both from the Regency Government and non-government.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nIn the event of violence, every victim has the right to receive assistance both psychologically and legally as well as to obtain guarantees of their rights related to their status as a wife, mother, child, family member or as a member of society.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, there is an explicit coordination/institutional mechanism: protection is carried out “secara terpadu dalam wadah PPT” (Pasal 7(1)), and PPT is “dikelola secara bersama-sama” (Pasal 1 angka 12). The official explanation further clarifies that the “pejabat ... Kepala Badan/Dinas/Instansi ... tergabung dalam wadah PPT” (Penjelasan Pasal 12 ayat (2)), which indicates an inter-agency coordination structure within the regency government (a network/coordination mechanism), even if it is not cross-jurisdictional (province/national). The judge incorrectly required cross-jurisdiction coordination and therefore missed that the indicator can be satisfied by an internal institutional coordination mechanism described in the retrieved passages.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "- Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, socio-cultural activities, national defense and security and equality in enjoying the results of development.",
+      "evaluator_rationale": "The policy provides an explicit explanation/definition of gender equality as equal conditions for men and women to obtain opportunities and rights, which constitutes information/education content about gender equality and women’s rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 3: What is meant by gender-based violence is actions based on gender relations that place women in a subordinate position to men.\n\nArticle 4: What is meant by receiving protection is receiving protection from individuals, groups or institutions, both governmental and non-governmental.\n\nReceiving information about the location of complaint centers, PPT and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the progress of case handling.\n\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial and legal services.\n\nWhat is meant by continuous handling is handling that does not only stop at physical and psychological recovery, but until the victim can resume their life in society including the restoration of their good name.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 25,
+          "text": "II. ARTICLE-BY-ARTICLE EXPLANATION\nArticle 1 : Sufficiently clear\nArticle 2 : - Respect for the rights of victims is intended to ensure the fulfillment of the rights of victims.\n- Gender justice is a process to become fair toward men and women.\n- Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, socio-cultural activities, national defense and security and equality in enjoying the results of development.\n- Non-discrimination is an attitude and treatment toward victims by not making distinctions based on age, sex, race, ethnicity, religion and between groups.\n- The best interests of victims means that all actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, the best interests of victims must be the primary consideration.\n- 2 -",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence, in the form of:\na. collecting data and information about women and children victims of violence and legislation;\nb. conducting education on anti-violence values towards women and children;\nc. conducting socialization of legislation related to the implementation of protection for women and children victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for women and children victims of violence.\n(2) To anticipate the occurrence of acts of violence, Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;\nb. encouraging community awareness of the importance of protection for victims.\n- 5 - (3) Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands, or other persons who are legally responsible for the victim.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe principles of implementing protection for women and children victims of violence are: 1. Respect for the rights of victims.\n2. Justice and gender equality.\n3. Non-discrimination.\n4. Best interests of victims.\n5. Respect for the rights of women and children.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of implementing protection for women and children victims of violence is to provide protection and services to women and children victims of violence based on gender and the best interests of the child that occur in the household and/or public sphere.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 24,
+          "text": "NIP 010 212 869\nEXPLANATION\nOF\nREGIONAL REGULATION OF MADIUN REGENCY\nNUMBER 5 OF 2008\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION\nFOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nI. GENERAL EXPLANATION\nThe State has an obligation to provide a sense of security to its citizens from threats and actions that can disturb or damage psychological, physical, sexual and economic security, this is philosophically stated in the Preamble of the 1945 Constitution, that the first purpose of the establishment of the Unitary State of the Republic of Indonesia is to protect the entire nation and all the blood of Indonesia.\nBecause the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women), it is obliged to comply with these provisions. Likewise in the fourth amendment of the 1945 Constitution chapter XA of the 1945 Constitution concerning Human Rights, it states that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.\nFurthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as Mothers of the nation and children as successors of the nation are creatures of God Almighty so they must be protected and their honor, dignity and self-esteem must be safeguarded in a reasonable and proportional manner, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.\nFrom the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nSANCTIONS\nArticle 12\n(1) Every person who deliberately fails to provide protection to women and children resulting in the occurrence of violence, allows violence to occur, and or does not report and does not provide protection to victims, shall be subject to sanctions as stipulated in the applicable laws and regulations;\n(2) Officials appointed to administer protection who do not carry out their obligations and responsibilities shall be subject to administrative action or sanctions;\n(3) PPT managers who carry out service duties that violate service principles, may be subject to sanctions in accordance with PPT internal mechanisms.",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Regent and Regional Apparatus as elements of the Regional Government administration.\n2. Regent is the Regent of Madiun.\n3. Child is a person who has not reached 18 years of age and has never been married, including those in the womb.\n4. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n5. Violence is any act that results in or may result in misery or suffering whether physical, psychological, sexual, and economic to the victim.\n6. Physical violence is any act that causes pain, injury, wounds, or disability to a person's body, miscarriage, fainting and/or causes death.\n7. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n8. Sexual violence is an act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and certain purposes.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is or has occurred.\n11. Companion is a person who has the expertise to accompany victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n12. Integrated Service Center, hereinafter abbreviated as PPT, is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and general services.\n13. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n14. Community is individuals, families, groups, social organizations and/or community organizations.\n15. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, and mother and her children.\n- 4 –\n16. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers, and so on) who live and eat from one kitchen and reside in one house.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "REGIONAL SECRETARY\nIr. SUKIMAN, M.Si Primary Principal Administrator",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nIn the event of violence, every victim has the right to receive assistance both psychologically and legally as well as to obtain guarantees of their rights related to their status as a wife, mother, child, family member or as a member of society.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original regulation contains content that functions as gender-equality education/awareness: it adopts “Keadilan dan kesetaraan gender” as a principle (Pasal 2 angka 2) and, in the official explanation of Pasal 2, defines “Kesetaraan gender” and “Keadilan gender” in descriptive, educational terms (Penjelasan Pasal 2). This is exactly the English snippet the judge cited. Since the document does provide explicit explanatory material about gender equality, the golden label “No” appears inconsistent with the source text; the judge’s “Yes” is supported by the regulation’s explanatory section.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. conducting education on anti-violence values towards women and children;",
+      "evaluator_rationale": "The policy explicitly includes prevention efforts through conducting education on anti-violence values toward women and children, which is prevention through education (even though it does not detail broader education quality improvements).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 6\n(1) Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence, in the form of:\na. collecting data and information about women and children victims of violence and legislation;\nb. conducting education on anti-violence values towards women and children;\nc. conducting socialization of legislation related to the implementation of protection for women and children victims of violence;\nd. conducting monitoring and evaluation of the implementation of protection for women and children victims of violence.\n(2) To anticipate the occurrence of acts of violence, Regional Government has the obligation to provide and organize services for victims in the form of:\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;\nb. encouraging community awareness of the importance of protection for victims.\n- 5 - (3) Regional Government in carrying out obligations as referred to in paragraph (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands, or other persons who are legally responsible for the victim.",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 3: What is meant by gender-based violence is actions based on gender relations that place women in a subordinate position to men.\n\nArticle 4: What is meant by receiving protection is receiving protection from individuals, groups or institutions, both governmental and non-governmental.\n\nReceiving information about the location of complaint centers, PPT and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and the progress of case handling.\n\nWhat is meant by integrated services are services that include medical, medico-legal, psychosocial and legal services.\n\nWhat is meant by continuous handling is handling that does not only stop at physical and psychological recovery, but until the victim can resume their life in society including the restoration of their good name.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 24,
+          "text": "NIP 010 212 869\nEXPLANATION\nOF\nREGIONAL REGULATION OF MADIUN REGENCY\nNUMBER 5 OF 2008\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION\nFOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nI. GENERAL EXPLANATION\nThe State has an obligation to provide a sense of security to its citizens from threats and actions that can disturb or damage psychological, physical, sexual and economic security, this is philosophically stated in the Preamble of the 1945 Constitution, that the first purpose of the establishment of the Unitary State of the Republic of Indonesia is to protect the entire nation and all the blood of Indonesia.\nBecause the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women), it is obliged to comply with these provisions. Likewise in the fourth amendment of the 1945 Constitution chapter XA of the 1945 Constitution concerning Human Rights, it states that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.\nFurthermore, in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as Mothers of the nation and children as successors of the nation are creatures of God Almighty so they must be protected and their honor, dignity and self-esteem must be safeguarded in a reasonable and proportional manner, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.\nFrom the series of provisions above, the Government is responsible for taking actions both legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of implementing protection for women and children victims of violence is to provide protection and services to women and children victims of violence based on gender and the best interests of the child that occur in the household and/or public sphere.",
+          "score": 0.029850746268656716
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VI\nASSISTANCE\nArticle 11\nAssistance is carried out by persons or institutions that have expertise to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence and have cooperated with PPT.\n- 6 -",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nSANCTIONS\nArticle 12\n(1) Every person who deliberately fails to provide protection to women and children resulting in the occurrence of violence, allows violence to occur, and or does not report and does not provide protection to victims, shall be subject to sanctions as stipulated in the applicable laws and regulations;\n(2) Officials appointed to administer protection who do not carry out their obligations and responsibilities shall be subject to administrative action or sanctions;\n(3) PPT managers who carry out service duties that violate service principles, may be subject to sanctions in accordance with PPT internal mechanisms.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER V\nIMPLEMENTATION OF PROTECTION\nFirst Part\nInstitutional",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Regent and Regional Apparatus as elements of the Regional Government administration.\n2. Regent is the Regent of Madiun.\n3. Child is a person who has not reached 18 years of age and has never been married, including those in the womb.\n4. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n5. Violence is any act that results in or may result in misery or suffering whether physical, psychological, sexual, and economic to the victim.\n6. Physical violence is any act that causes pain, injury, wounds, or disability to a person's body, miscarriage, fainting and/or causes death.\n7. Psychological violence is an act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.\n8. Sexual violence is an act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and certain purposes.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is or has occurred.\n11. Companion is a person who has the expertise to accompany victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n12. Integrated Service Center, hereinafter abbreviated as PPT, is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and general services.\n13. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n14. Community is individuals, families, groups, social organizations and/or community organizations.\n15. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father and his children, and mother and her children.\n- 4 –\n16. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so on) and non-relatives (servants, drivers, and so on) who live and eat from one kitchen and reside in one house.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 25,
+          "text": "II. ARTICLE-BY-ARTICLE EXPLANATION\nArticle 1 : Sufficiently clear\nArticle 2 : - Respect for the rights of victims is intended to ensure the fulfillment of the rights of victims.\n- Gender justice is a process to become fair toward men and women.\n- Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, socio-cultural activities, national defense and security and equality in enjoying the results of development.\n- Non-discrimination is an attitude and treatment toward victims by not making distinctions based on age, sex, race, ethnicity, religion and between groups.\n- The best interests of victims means that all actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, the best interests of victims must be the primary consideration.\n- 2 -",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe principles of implementing protection for women and children victims of violence are: 1. Respect for the rights of victims.\n2. Justice and gender equality.\n3. Non-discrimination.\n4. Best interests of victims.\n5. Respect for the rights of women and children.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly mandates prevention through education: Pasal 6(1)(b) states the local government must conduct “pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak” (education on anti-violence values toward women and children). That is a direct prevention-through-education measure, even if not detailed. The retrieved English passage accurately reflects this. Therefore the golden label “No” appears wrong; the judge’s “Yes” aligns with the regulation’s explicit prevention-by-education obligation.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_TIMUR_MADIUN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.050068+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

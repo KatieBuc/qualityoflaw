@@ -109,8 +109,8 @@ def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
     def complete_fn(prompt: str) -> dict:
         # Extract the real indicator ids rendered into this dimension's prompt
         # (avoids relying on call order, which is not guaranteed across threads),
-        # and cite the sole candidate's tag for each ("{cid}-0", since the
-        # store has exactly one chunk with chunk_id 0).
+        # and cite the sole candidate's sole sentence tag for each ("{cid}-0.0",
+        # since the store has exactly one chunk with chunk_id 0, one sentence).
         ids = re.findall(r"^- (\S+) \(", prompt, re.MULTILINE)
         return {
             "evaluation_results": {
@@ -118,7 +118,7 @@ def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
                     "id": cid,
                     "indicator": f"ind-{cid}",
                     "included": "Yes",
-                    "evidence": f"{cid}-0",
+                    "evidence": [f"{cid}-0.0"],
                     "rationale": "because",
                 }
                 for cid in ids

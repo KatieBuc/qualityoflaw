@@ -1,0 +1,276 @@
+{
+  "diagnoses": {
+    "1.9": {
+      "indicator": "Sexual slavery / exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. Children who are exploited economically and/or sexually;",
+      "evaluator_rationale": "The policy explicitly references children who are exploited economically and/or sexually as a category receiving special protection, indicating inclusion of sexual exploitation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 46,
+          "text": "Article 5\nSufficiently clear Letter a.\nWhat is meant by \"physical violence\" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and or causes death. Letter b.\nWhat is meant by \"sexual violence\" is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\nLetter c.\nWhat is meant by \"economic violence\" is an action that restricts a person from working inside or outside the home to earn money and goods, including allowing a person who works to be exploited, while someone does not fulfill the economic needs of the family.\nLetter d.\nWhat is meant by \"social violence\" is an act of a person or group of people that causes injury or loss of life to a person or can cause physical damage or damage to another person's property Letter e.\nWhat is meant by \"psychological violence\" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nLetter f.\nWhat is meant by \"Household Neglect\" is:\n1. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;\n2. actions of deliberately neglecting to maintain, care for, or take care of children as appropriate; 3. actions that neglect people within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; 4. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\nLetter g.\nWhat is meant by \"neglect of workers\" is an action by any person or legal entity that results in improper treatment of female workers whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide adequate protection from lawful actions against workers such as haphazard recruitment, unclear shelters and workplaces, arbitrary business owners.\nLetter h.\nWhat is meant by \"coercion or deprivation\" of freedom is:\n1. Coercion is any act or action of taking, bringing, inviting a child or woman with persuasion and or coercion to be made a wife or to be employed illegally.\n2. Deprivation of freedom is any act or action of taking, bringing, inviting, kidnapping a child or woman to be made a wife or employed by confining, detaining or imprisoning illegally in a room or certain place.\nLetter i.\nWhat is meant by \"threat of certain actions\" is any unlawful act in the form of speech, writing, images, symbols or body movements, whether with or without using means",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nSpecial protection for children is provided to;\n(1)\na. Children in emergency situations;\nb. Children in conflict with the law;\nc. Children from minority and isolated groups;\nd. Children who are exploited economically and/or sexually;\ne. Children who are victims of narcotics abuse, alcohol, psychotropics, and other addictive substances;\nf. Children who are victims of pornography;\ng. Children with HIV/AIDS;\nh. Children who are victims of kidnapping, sale, and/or trafficking;\ni. Children who are victims of physical and/or psychological violence;\nj. Children who are victims of sexual crimes;\nk. Children who are victims of terrorist networks;\nl. Children with Disabilities;\nm. Children who are victims of maltreatment and neglect;\nn. Children with deviant social behavior; and\no. Children who are victims of stigmatization from labeling related to the condition of their Parents.\n(2) Regional governments in implementing the handling referred to in paragraph (1) shall be in accordance with the provisions of the Laws and Regulations.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 25\n(1) The Regional Government encourages the business sector to participate in the protection of women and children from acts of violence.\n(2) Participation as referred to in paragraph (1) may take the form of:\na. socialization to employees within the company environment regarding the dangers of acts of violence against women and children; and\nb. assistance as a form of corporate social responsibility.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe Protection of Women and Children from Acts of Violence, is implemented based on the principles of:\na. respect and fulfillment of the rights of Victims of Acts of Violence;\nb. justice and gender equality;\nc. non-discrimination;\nd. the best interests of Victims of acts of violence; and\ne. The principle of the right to life, survival and development,",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 36,
+          "text": "CHAPTER XI\nTRANSITIONAL PROVISIONS\nArticle 29\nThis Regional Regulation.P J 8 does not conflict with",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe objectives of the protection of women and children from acts of violence are to:\na. prevent violence against women and children including trafficking in persons;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services and Empowerment to women and children victims of violence, reporters and witnesses; e. facilitate and conduct mediation of domestic disputes to realize the integrity of a harmonious and prosperous household; and\nf. Facilitate the restoration of the rights, dignity and personal value of victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\n(1) The Scope of this Regional Regulation consists of a. protection of women; and b. protection of children.\n(2) Protection of women as referred to in Article 4 letter a includes: a. prevention of acts of violence;\nb. integrated services for victims of acts of violence; and c. empowerment of victims of acts of violence. (3) Protection of children as referred to in Article 4 letter b includes:\na. protection of children who are victims of acts of violence; and b. special protection of children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nThe Regional Government is responsible for efforts to protect women from acts of violence that occur in public or private life in the form of:\na. physical violence;\nb. sexual violence;\nc. economic violence;\nd. social violence;\ne. psychological violence;\nf. domestic neglect;\ng. coercion or deprivation of freedom; and\nh. threats of certain actions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER V\nCHILD PROTECTION\nPart One\nProtection of Child Victims of Acts of Violence",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 16\n(1) The Regional Government in conducting cooperation and coordination regarding the Protection of Women and Children from acts of violence, shall establish a Forum for the Care of Women and Children from Acts of Violence (FP2ATK);\n(2) The membership of FP2ATK consists of elements:\na. regional government;\nb. vertical agencies;\nc. educational institutions;\nd. health institutions;\ne. social institutions;\nf. labor institutions; and\ng. community organizations that care about the protection of women and children from acts of violence.\n(3) The Organizational Structure of FP2ATK as referred to in paragraph (2) consists of:\na. policy formulation working group;\nb. socialization working group;\nb. service working group; and\nc. data, information, monitoring and evaluation working group.\n(4) The establishment and term of office of FP2ATK members as referred to in paragraph (1), shall be stipulated by Regent's Decree.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 14 ayat (1) huruf d explicitly includes \"Anak yang dieksploitasi secara ekonomi dan/atau seksual\" (children exploited economically and/or sexually) as a category receiving special protection. The judge’s cited snippet matches this. Therefore, the policy does cover sexual exploitation (at least for children), so a \"No\" golden label appears incorrect for an indicator framed as sexual slavery/exploitation.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. providing education on the dangers of domestic violence;",
+      "evaluator_rationale": "The policy explicitly lists providing education (on the dangers of domestic violence) as a prevention method, which constitutes prevention through education; however, the retrieved text does not specifically mention improving the overall quality of education.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) Regional Government conducts prevention as referred to in article 6 letter a by means of: a. socializing laws and regulations- b. providing counseling/guidance; c. providing education on the dangers of domestic violence; d. conducting seminars/workshops or the like; e. establishing work networks in efforts to prevent violence; f. conducting coordination, integration, synchronization of violence prevention based on partnership patterns; g. establishing a violence prevention system, mapping of locations or areas prone to violence; and h. increasing public awareness in behaving in accordance with religious norms and customs (2) In addition to the Regional Government, prevention as referred to in paragraph (1) must be implemented by:\na. Religious institutions;\nb. family and/or closest relatives;\nc. customary leaders;\nd. customary institutions;\ne. community;\nf. educational institutions;\ng. health institutions;\nh. social community institutions; and i. business sector and other institutions.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 9,
+          "text": "Second Part\nPrevention of Acts of Violence",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The provisions regarding prevention and services for acts of violence protection of women as referred to in Article 7 through Article 12 shall apply mutatis mutandis to the protection of children from acts of violence;\n(2) In addition to carrying out prevention as referred to in paragraph (1), also by means of increasing family capacity in child protection and child care skills.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 5\nSufficiently clear Letter a.\nWhat is meant by \"physical violence\" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and or causes death. Letter b.\nWhat is meant by \"sexual violence\" is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\nLetter c.\nWhat is meant by \"economic violence\" is an action that restricts a person from working inside or outside the home to earn money and goods, including allowing a person who works to be exploited, while someone does not fulfill the economic needs of the family.\nLetter d.\nWhat is meant by \"social violence\" is an act of a person or group of people that causes injury or loss of life to a person or can cause physical damage or damage to another person's property Letter e.\nWhat is meant by \"psychological violence\" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nLetter f.\nWhat is meant by \"Household Neglect\" is:\n1. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;\n2. actions of deliberately neglecting to maintain, care for, or take care of children as appropriate; 3. actions that neglect people within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; 4. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\nLetter g.\nWhat is meant by \"neglect of workers\" is an action by any person or legal entity that results in improper treatment of female workers whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide adequate protection from lawful actions against workers such as haphazard recruitment, unclear shelters and workplaces, arbitrary business owners.\nLetter h.\nWhat is meant by \"coercion or deprivation\" of freedom is:\n1. Coercion is any act or action of taking, bringing, inviting a child or woman with persuasion and or coercion to be made a wife or to be employed illegally.\n2. Deprivation of freedom is any act or action of taking, bringing, inviting, kidnapping a child or woman to be made a wife or employed by confining, detaining or imprisoning illegally in a room or certain place.\nLetter i.\nWhat is meant by \"threat of certain actions\" is any unlawful act in the form of speech, writing, images, symbols or body movements, whether with or without using means",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Pasal 8\n(1) Pemerintah Daerah berkewajiban menyusun program atau kegiatan Pencegahan sebagaimana dimaksud dalam Pasal 7 ayat (1) dalam Rencana Keija dan Rencana Strategis Daerah;\n(2) Program atau kegiatan sebagaimana dimaksud pada ayat (1) untuk mendukung terwujudnya Rencana Pembangunan Jangka Panjang Daerah dan Rencana Pembangunan Jangka Menengah Daerah.\n\nArticle 8\n(1) Regional Governments are obligated to formulate Prevention programs or activities as referred to in Article 7 paragraph (1) in the Regional Work Plan and Regional Strategic Plan;\n(2) Programs or activities as referred to in paragraph (1) are to support the realization of the Regional Long-Term Development Plan and Regional Medium-Term Development Plan.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1 Region is North Lampung Regency. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region. 2.\n3.\nRegent is the Regent of North Lampung\n4.\nRegional People's Representative Council abbreviated as DPRD is the DPRD of North Lampung Regency Regional Apparatus Organization is an auxiliary element of the regional head in the administration of Government Affairs that are the authority of the Region. Woman is a person who has the predicate as an adult girl, and or as a wife/mother, who is legally and naturally recognized as a woman. Child is someone who is not yet 18 (eighteen) years old, including a child still in the womb. 8. Family is the smallest unit in society consisting of husband, wife, or husband and wife and their children, or father and children or mother and children, or blood relatives in a straight line upwards or downwards in the first degree. 9. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Violence against children is any action that results in or may result in suffering of children physically, sexually, economically, socially and psychologically.\n12. Acts of violence are women and children who experience misery and or suffering either directly or indirectly as a result of violence.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination. 15. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development. 16. Cooperation is an activity or effort carried out by several people to achieve common goals. 17. Forum for the Protection of Women and Children from Acts of Violence hereinafter abbreviated as FP2ATK is a forum established based on this Regional Regulation whose membership comes from relevant agencies and communities concerned with the empowerment of women and protection of children from acts of violence.\n18. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will occur, is occurring or has occurred. 19. Companion is a social worker who has professional competence in their field. 20. Victim recovery is all efforts to strengthen victims of domestic violence to be more empowered, both physically and psychologically. 21. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TPA is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Children's Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter House, or integrated service provider institutions for victims established by the Regional Government.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\n(1) Regional Apparatus Organizations that administer governmental affairs in the field of women's empowerment shall implement prevention as referred to in Article 8; (2) Regional Apparatus Organizations as referred to in paragraph (1) in conducting prevention may cooperate with vertical Agencies.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 21,
+          "text": "Second Part\nInstitutional Framework for the Protection of Women and Children",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 10\nSufficiently clear Paragraph (1) Letter a.\nWhat is meant by \"complaint services\" is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families or the community Letter b. What is meant by \"health services\" is efforts that include promotive, preventive, curative and rehabilitative aspects. Letter c.\nWhat is meant by \"counseling\" is a process of providing objective and complete information, carried out systematically with interpersonal communication guidance, guidance techniques and mastery of clinical knowledge aimed at helping a person recognize their current condition, the problems being faced, and determine solutions or efforts to overcome these problems Letter d. What is meant by \"spiritual guidance\" is a form of activity in which there is a process of spiritual guidance and development for humans so as to provide peace, tranquility and coolness of heart to humans by always providing encouragement and motivation to remain patient, trust in God and continue to carry out their obligations.\nLetter e.\nWhat is meant by \"social rehabilitation services\" is services aimed at restoring and developing the abilities of a person experiencing social dysfunction so that they can carry out their social functions properly. Letter f.\nWhat is meant by \"legal aid and assistance services\" is legal services provided by legal assistants or advocates to carry out the process of accompanying witnesses and/or victims of violence against women and children that is gender sensitive.\nLetter g. What is meant by \"repatriation and reintegration\" is returning women and children who are victims of violence from the receiving area to the area of origin. Paragraph (2) Letter a What is meant by \"special service rooms\" are hospitals and other places such as Resort Police Headquarters, Hospitals, designated hospitals and at offices/agencies or other places determined by the Regional Government. Letter b Sufficiently clear Letter c.\nWhat is meant by \"Service Center and Safe House\" is what is known as trauma center, while safe house is known as shelter. Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear Paragraph (5) Sufficiently clear Paragraph (6) Sufficiently clear",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\n(1) The protection of children who are victims of acts of violence as referred to in article 5 letter a shall be the responsibility of the Regional Government. (2) The protection of child victims of acts of violence as referred to in paragraph (1) shall be implemented by means of: a. formulating policies for prevention, reduction of vulnerable risks, handling of victims and child data and information systems; b. providing maintenance, care, and social rehabilitation for neglected children, both within institutions and outside institutions;\nc. providing shelters, maintenance and care for neglected children; and d. providing special protection to children.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text Pasal 7 ayat (1) huruf c states \"memberikan edukasi bahaya kekerasan dalam rumah tangga\" (provide education on the dangers of domestic violence) as a prevention method. This is clearly prevention through education/awareness-raising. The retrieved English passage accurately reflects this, and the judge’s reasoning aligns with the text. Thus the golden label \"No\" appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.3": {
+      "indicator": "Women workers",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "What is meant by \"neglect of workers\" is an action by any person or legal entity that results in improper treatment of female workers whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide adequate protection from lawful actions against workers such as haphazard recruitment, unclear shelters and workplaces, arbitrary business owners. a. socialization to employees within the company environment regarding the dangers of acts of violence against women and children; and",
+      "evaluator_rationale": "The policy explicitly references improper treatment of female workers and also includes company-level socialization to employees about dangers of violence against women and children, indicating specific attention to women workers/employees.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\n(1) The Scope of this Regional Regulation consists of a. protection of women; and b. protection of children.\n(2) Protection of women as referred to in Article 4 letter a includes: a. prevention of acts of violence;\nb. integrated services for victims of acts of violence; and c. empowerment of victims of acts of violence. (3) Protection of children as referred to in Article 4 letter b includes:\na. protection of children who are victims of acts of violence; and b. special protection of children.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 41,
+          "text": "ELUCIDATION OF\nREGIONAL REGULATION OF NORTH LAMPUNG REGENCY NUMBER 1 OF 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nFROM ACTS OF VIOLENCE\n\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination. In order to prevent and overcome violence against women and children in North Lampung Regency so that they are protected from violence, threats of violence, torture or treatment that degrades their degree and human dignity, it is necessary to provide protection for women and children victims of violence in the form of a Regional Regulation to regulate protection efforts, therefore institutional support and regulations are needed that can guarantee its implementation, particularly in terms of prevention, services and empowerment for women and children victims of violence in Lampung Regency",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 18,
+          "text": "Second Part\nSpecial Protection of Children",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER IV\nIMPLEMENTATION\nOF WOMEN'S PROTECTION\nPart One\nGeneral",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1 Region is North Lampung Regency. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region. 2.\n3.\nRegent is the Regent of North Lampung\n4.\nRegional People's Representative Council abbreviated as DPRD is the DPRD of North Lampung Regency Regional Apparatus Organization is an auxiliary element of the regional head in the administration of Government Affairs that are the authority of the Region. Woman is a person who has the predicate as an adult girl, and or as a wife/mother, who is legally and naturally recognized as a woman. Child is someone who is not yet 18 (eighteen) years old, including a child still in the womb. 8. Family is the smallest unit in society consisting of husband, wife, or husband and wife and their children, or father and children or mother and children, or blood relatives in a straight line upwards or downwards in the first degree. 9. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Violence against children is any action that results in or may result in suffering of children physically, sexually, economically, socially and psychologically.\n12. Acts of violence are women and children who experience misery and or suffering either directly or indirectly as a result of violence.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination. 15. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development. 16. Cooperation is an activity or effort carried out by several people to achieve common goals. 17. Forum for the Protection of Women and Children from Acts of Violence hereinafter abbreviated as FP2ATK is a forum established based on this Regional Regulation whose membership comes from relevant agencies and communities concerned with the empowerment of women and protection of children from acts of violence.\n18. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will occur, is occurring or has occurred. 19. Companion is a social worker who has professional competence in their field. 20. Victim recovery is all efforts to strengthen victims of domestic violence to be more empowered, both physically and psychologically. 21. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TPA is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Children's Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter House, or integrated service provider institutions for victims established by the Regional Government.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 21,
+          "text": "Second Part\nInstitutional Framework for the Protection of Women and Children",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 5\nSufficiently clear Letter a.\nWhat is meant by \"physical violence\" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and or causes death. Letter b.\nWhat is meant by \"sexual violence\" is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\nLetter c.\nWhat is meant by \"economic violence\" is an action that restricts a person from working inside or outside the home to earn money and goods, including allowing a person who works to be exploited, while someone does not fulfill the economic needs of the family.\nLetter d.\nWhat is meant by \"social violence\" is an act of a person or group of people that causes injury or loss of life to a person or can cause physical damage or damage to another person's property Letter e.\nWhat is meant by \"psychological violence\" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nLetter f.\nWhat is meant by \"Household Neglect\" is:\n1. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;\n2. actions of deliberately neglecting to maintain, care for, or take care of children as appropriate; 3. actions that neglect people within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; 4. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\nLetter g.\nWhat is meant by \"neglect of workers\" is an action by any person or legal entity that results in improper treatment of female workers whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide adequate protection from lawful actions against workers such as haphazard recruitment, unclear shelters and workplaces, arbitrary business owners.\nLetter h.\nWhat is meant by \"coercion or deprivation\" of freedom is:\n1. Coercion is any act or action of taking, bringing, inviting a child or woman with persuasion and or coercion to be made a wife or to be employed illegally.\n2. Deprivation of freedom is any act or action of taking, bringing, inviting, kidnapping a child or woman to be made a wife or employed by confining, detaining or imprisoning illegally in a room or certain place.\nLetter i.\nWhat is meant by \"threat of certain actions\" is any unlawful act in the form of speech, writing, images, symbols or body movements, whether with or without using means",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 10\nSufficiently clear Paragraph (1) Letter a.\nWhat is meant by \"complaint services\" is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families or the community Letter b. What is meant by \"health services\" is efforts that include promotive, preventive, curative and rehabilitative aspects. Letter c.\nWhat is meant by \"counseling\" is a process of providing objective and complete information, carried out systematically with interpersonal communication guidance, guidance techniques and mastery of clinical knowledge aimed at helping a person recognize their current condition, the problems being faced, and determine solutions or efforts to overcome these problems Letter d. What is meant by \"spiritual guidance\" is a form of activity in which there is a process of spiritual guidance and development for humans so as to provide peace, tranquility and coolness of heart to humans by always providing encouragement and motivation to remain patient, trust in God and continue to carry out their obligations.\nLetter e.\nWhat is meant by \"social rehabilitation services\" is services aimed at restoring and developing the abilities of a person experiencing social dysfunction so that they can carry out their social functions properly. Letter f.\nWhat is meant by \"legal aid and assistance services\" is legal services provided by legal assistants or advocates to carry out the process of accompanying witnesses and/or victims of violence against women and children that is gender sensitive.\nLetter g. What is meant by \"repatriation and reintegration\" is returning women and children who are victims of violence from the receiving area to the area of origin. Paragraph (2) Letter a What is meant by \"special service rooms\" are hospitals and other places such as Resort Police Headquarters, Hospitals, designated hospitals and at offices/agencies or other places determined by the Regional Government. Letter b Sufficiently clear Letter c.\nWhat is meant by \"Service Center and Safe House\" is what is known as trauma center, while safe house is known as shelter. Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear Paragraph (5) Sufficiently clear Paragraph (6) Sufficiently clear",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 25\n(1) The Regional Government encourages the business sector to participate in the protection of women and children from acts of violence.\n(2) Participation as referred to in paragraph (1) may take the form of:\na. socialization to employees within the company environment regarding the dangers of acts of violence against women and children; and\nb. assistance as a form of corporate social responsibility.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nThe Regional Government is responsible for efforts to protect women from acts of violence that occur in public or private life in the form of:\na. physical violence;\nb. sexual violence;\nc. economic violence;\nd. social violence;\ne. psychological violence;\nf. domestic neglect;\ng. coercion or deprivation of freedom; and\nh. threats of certain actions.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text does mention female workers in the elucidation of Pasal 5 (penjelasan huruf g): it defines \"penelantaran tenaga kerja\" as improper treatment of female workers (\"tenaga kerja perempuan\"). However, this is a definitional clarification within the explanation of violence forms, not a substantive intersectional targeting/measure for women workers as a distinct group (e.g., dedicated services, programs, protections, or tailored procedures for women workers). The other cited part (Pasal 25(2)(a) about socialization to employees) is generic and not specific to women workers. The judge over-interpreted these mentions as meeting the indicator, so this is best explained as an evaluation/thresholding error rather than missing evidence.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "l. Children with Disabilities;",
+      "evaluator_rationale": "The policy explicitly includes 'Children with Disabilities' within the categories receiving special protection, which constitutes a special protection measure targeted at people with disabilities (at least for children).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nSpecial protection for children is provided to;\n(1)\na. Children in emergency situations;\nb. Children in conflict with the law;\nc. Children from minority and isolated groups;\nd. Children who are exploited economically and/or sexually;\ne. Children who are victims of narcotics abuse, alcohol, psychotropics, and other addictive substances;\nf. Children who are victims of pornography;\ng. Children with HIV/AIDS;\nh. Children who are victims of kidnapping, sale, and/or trafficking;\ni. Children who are victims of physical and/or psychological violence;\nj. Children who are victims of sexual crimes;\nk. Children who are victims of terrorist networks;\nl. Children with Disabilities;\nm. Children who are victims of maltreatment and neglect;\nn. Children with deviant social behavior; and\no. Children who are victims of stigmatization from labeling related to the condition of their Parents.\n(2) Regional governments in implementing the handling referred to in paragraph (1) shall be in accordance with the provisions of the Laws and Regulations.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nIn the event that community social institutions carry out protection of women and children from acts of violence, they must coordinate with FP2ATK.\ni *",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 41,
+          "text": "ELUCIDATION OF\nREGIONAL REGULATION OF NORTH LAMPUNG REGENCY NUMBER 1 OF 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nFROM ACTS OF VIOLENCE\n\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination. In order to prevent and overcome violence against women and children in North Lampung Regency so that they are protected from violence, threats of violence, torture or treatment that degrades their degree and human dignity, it is necessary to provide protection for women and children victims of violence in the form of a Regional Regulation to regulate protection efforts, therefore institutional support and regulations are needed that can guarantee its implementation, particularly in terms of prevention, services and empowerment for women and children victims of violence in Lampung Regency",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER IV\nIMPLEMENTATION\nOF WOMEN'S PROTECTION\nPart One\nGeneral",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 5\nSufficiently clear Letter a.\nWhat is meant by \"physical violence\" is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and or causes death. Letter b.\nWhat is meant by \"sexual violence\" is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.\nLetter c.\nWhat is meant by \"economic violence\" is an action that restricts a person from working inside or outside the home to earn money and goods, including allowing a person who works to be exploited, while someone does not fulfill the economic needs of the family.\nLetter d.\nWhat is meant by \"social violence\" is an act of a person or group of people that causes injury or loss of life to a person or can cause physical damage or damage to another person's property Letter e.\nWhat is meant by \"psychological violence\" is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.\nLetter f.\nWhat is meant by \"Household Neglect\" is:\n1. actions that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social;\n2. actions of deliberately neglecting to maintain, care for, or take care of children as appropriate; 3. actions that neglect people within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; 4. actions that result in economic dependence by restricting and/or prohibiting decent work inside or outside the home so that the victim is under the control of that person.\nLetter g.\nWhat is meant by \"neglect of workers\" is an action by any person or legal entity that results in improper treatment of female workers whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide adequate protection from lawful actions against workers such as haphazard recruitment, unclear shelters and workplaces, arbitrary business owners.\nLetter h.\nWhat is meant by \"coercion or deprivation\" of freedom is:\n1. Coercion is any act or action of taking, bringing, inviting a child or woman with persuasion and or coercion to be made a wife or to be employed illegally.\n2. Deprivation of freedom is any act or action of taking, bringing, inviting, kidnapping a child or woman to be made a wife or employed by confining, detaining or imprisoning illegally in a room or certain place.\nLetter i.\nWhat is meant by \"threat of certain actions\" is any unlawful act in the form of speech, writing, images, symbols or body movements, whether with or without using means",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 21,
+          "text": "Second Part\nInstitutional Framework for the Protection of Women and Children",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 14\nParagraph (1) Letter o.\nWhat is meant by \"stigmatization\" is the giving of a mark or stigma to a person, or a group of people with a certain meaningful understanding in a certain situation and context, openly or covertly, to influence the thinking power or evaluative power of a person or a group",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\n(1) The Scope of this Regional Regulation consists of a. protection of women; and b. protection of children.\n(2) Protection of women as referred to in Article 4 letter a includes: a. prevention of acts of violence;\nb. integrated services for victims of acts of violence; and c. empowerment of victims of acts of violence. (3) Protection of children as referred to in Article 4 letter b includes:\na. protection of children who are victims of acts of violence; and b. special protection of children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: 1 Region is North Lampung Regency. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region. 2.\n3.\nRegent is the Regent of North Lampung\n4.\nRegional People's Representative Council abbreviated as DPRD is the DPRD of North Lampung Regency Regional Apparatus Organization is an auxiliary element of the regional head in the administration of Government Affairs that are the authority of the Region. Woman is a person who has the predicate as an adult girl, and or as a wife/mother, who is legally and naturally recognized as a woman. Child is someone who is not yet 18 (eighteen) years old, including a child still in the womb. 8. Family is the smallest unit in society consisting of husband, wife, or husband and wife and their children, or father and children or mother and children, or blood relatives in a straight line upwards or downwards in the first degree. 9. Violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of liberty, whether occurring in public or private life.\n11. Violence against children is any action that results in or may result in suffering of children physically, sexually, economically, socially and psychologically.\n12. Acts of violence are women and children who experience misery and or suffering either directly or indirectly as a result of violence.\n13. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will occur, is occurring or has occurred.\n14. Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from violence and discrimination. 15. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development. 16. Cooperation is an activity or effort carried out by several people to achieve common goals. 17. Forum for the Protection of Women and Children from Acts of Violence hereinafter abbreviated as FP2ATK is a forum established based on this Regional Regulation whose membership comes from relevant agencies and communities concerned with the empowerment of women and protection of children from acts of violence.\n18. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will occur, is occurring or has occurred. 19. Companion is a social worker who has professional competence in their field. 20. Victim recovery is all efforts to strengthen victims of domestic violence to be more empowered, both physically and psychologically. 21. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TPA is a generic term that can be used by various institutions that provide services for victims of violence such as Integrated Service Center for Women and Children Empowerment, Safe House, Children's Social Protection House, Trauma Center Protection House, Women's Social Protection House, Shelter House, or integrated service provider institutions for victims established by the Regional Government.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 10\nSufficiently clear Paragraph (1) Letter a.\nWhat is meant by \"complaint services\" is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families or the community Letter b. What is meant by \"health services\" is efforts that include promotive, preventive, curative and rehabilitative aspects. Letter c.\nWhat is meant by \"counseling\" is a process of providing objective and complete information, carried out systematically with interpersonal communication guidance, guidance techniques and mastery of clinical knowledge aimed at helping a person recognize their current condition, the problems being faced, and determine solutions or efforts to overcome these problems Letter d. What is meant by \"spiritual guidance\" is a form of activity in which there is a process of spiritual guidance and development for humans so as to provide peace, tranquility and coolness of heart to humans by always providing encouragement and motivation to remain patient, trust in God and continue to carry out their obligations.\nLetter e.\nWhat is meant by \"social rehabilitation services\" is services aimed at restoring and developing the abilities of a person experiencing social dysfunction so that they can carry out their social functions properly. Letter f.\nWhat is meant by \"legal aid and assistance services\" is legal services provided by legal assistants or advocates to carry out the process of accompanying witnesses and/or victims of violence against women and children that is gender sensitive.\nLetter g. What is meant by \"repatriation and reintegration\" is returning women and children who are victims of violence from the receiving area to the area of origin. Paragraph (2) Letter a What is meant by \"special service rooms\" are hospitals and other places such as Resort Police Headquarters, Hospitals, designated hospitals and at offices/agencies or other places determined by the Regional Government. Letter b Sufficiently clear Letter c.\nWhat is meant by \"Service Center and Safe House\" is what is known as trauma center, while safe house is known as shelter. Sufficiently clear Paragraph (3) Sufficiently clear Paragraph (4) Sufficiently clear Paragraph (5) Sufficiently clear Paragraph (6) Sufficiently clear",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 14 ayat (1) huruf l explicitly lists \"Anak Penyandang Disabilitas\" (children with disabilities) among those entitled to special protection. The retrieved English passage contains this correctly, and the judge’s conclusion that the policy includes disability (at least for children) follows directly. Therefore the golden label \"No\" appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "LAMPUNG_LAMPUNG_UTARA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.270658+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

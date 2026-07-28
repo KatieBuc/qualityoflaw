@@ -1,0 +1,476 @@
+{
+  "diagnoses": {
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "None of the provided sentences explicitly mention harmful practices such as early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 28,
+          "text": "Part Three\nPrevention and Protection Article 22 (1) The Regional Government is obligated to undertake prevention and protection efforts against violent treatment, exploitation, discrimination, maltreatment, and neglect.\n(2) The implementation of prevention and protection as referred to in paragraph (1), may cooperate with educational institutions, religious institutions, mass media, professional organizations, business entities, and/or community institutions.\n(3) Prevention and protection efforts as referred to in paragraph (2) are implemented by:\na. forming networks;\nb. conducting coordination, integration, and synchronization of prevention and protection based on partnership patterns;\nc. establishing a violence prevention and protection system for children and women;\nd. disseminating Laws and Regulations related to the protection of women victims of violence;\ne. providing education for victims of violence and vulnerable groups;\nJDIH Kota Singkawang\nf. organizing family support in the form of family parenting education, child parenting education, family mediation, and economic support;\ng. increasing the capacity of protection services for women and children including institutional capacity development and enhancement of professionalism and competence of service providers;\nh. increasing the ability of individuals and/or vulnerable groups to recognize risks and dangers from situations or actions that may cause violence, exploitation, maltreatment and neglect; and I. increasing the utilization of communication, information, and education media.\n(4) Prevention and protection efforts as referred to in paragraph (3) are carried out in an integrated manner by the Regional Government coordinated by the OPD responsible for women's empowerment and child protection.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 65\n(1) For female workers who work beyond working hours, the company is obligated to provide overtime pay in accordance with the provisions of Laws and Regulations.\n(2) The company is obligated to protect occupational health and safety, as well as grant maternity leave rights to female workers.\nJDIH Kota Singkawang (3) The company is prohibited from making policies that create discrimination against female workers.\n(4) Companies that violate the provisions as referred to in paragraph (1), paragraph (2), and paragraph (3), may be subject to administrative sanctions in the form of:\na. verbal warning;\nb. written warning; and\nc. other administrative sanctions in accordance with the provisions of Laws and Regulations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 121,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF THE CITY OF SINGKAWANG\nNUMBER 4 OF 2017\nCONCERNING\nPROTECTION OF CHILDREN AND WOMEN\nI. GENERAL\nThe implementation of protection for children and women is carried out based on the principles of humanity, integration and justice. So that every person must receive their right to protection against a sense of security and freedom from torture or treatment that degrades human dignity which is contrary to what is aspired to in the Preamble of the 1945 Constitution of the Republic of Indonesia, namely the creation of a just and civilized humanity.\n\nIn Article 2 of Law Number 23 of 2002 concerning Child Protection, the implementation of Child Protection is based on Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia as well as the basic principles of the Convention on the Rights of the Child including:\na. non-discrimination;\nb. the best interests of the child;\nc. the right to life, survival, and development; and\nd. respect for the views of the child.\n\nIn Article 3 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.\n\nIn Article 3 of Law Number 23 of 2002 concerning Child Protection, Child Protection aims to ensure the fulfillment of children's rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from JDIH Kota Singkawang violence and discrimination, for the realization of quality Indonesian children who are virtuous and prosperous.\n\nIn Article 4 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence aims to:\na. prevent all forms of violence in the household;\nb. protect victims of domestic violence;\nc. take action against perpetrators of domestic violence; and\nd. maintain the integrity of a harmonious and prosperous household.\n\nTo realize law enforcement and the fulfillment of the basic rights of children and women, the Government of the City of Singkawang is obliged to provide protection from acts of violence and discrimination as well as the fulfillment of civil rights and freedoms which are set forth in a policy at the regional level.\n\nThe establishment of the Regional Regulation concerning the Protection of Children and Women is an elaboration of higher legislation that regulates the rights of children and women. In the Regional Regulation concerning the Protection of Children and Women, the norms formulated are efforts to address the problems faced in the implementation of the protection of children and women in the City of Singkawang. The implementation of the protection of children and women is carried out to realize the fulfillment of the rights of children and women in accordance with human dignity and dignity, and to receive protection from violence, discrimination, exploitation, and neglect for the realization of human resource development in the City of Singkawang that is faithful, intelligent, quality, virtuous and prosperous.\n\nII. ARTICLE BY ARTICLE",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 63\n(1) Every company is prohibited from employing child labor under age or exploiting children.\n(2) Companies must position female workers as work partners to grow the company.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe implementation of child and women protection is carried out through:  a. planning and development of child and women information systems;  b. prevention and protection;\nc. child protection;\nd. special protection;\ne. women protection;\nf. protection in the workplace;\ng. handling and recovery of victims of violence;\nh. rehabilitation, reintegration, and empowerment;\ni. law enforcement services, and legal assistance; and  JDIH Kota Singkawang j. facilitation of juvenile justice.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 166,
+          "text": "Article 45\nLetter a Sufficiently clear.\nLetter b What is meant by \"psychosocial disturbance\" includes, among others, psychological trauma and developmental disorders in children at an early age.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 62\n(1) For the prevention of acts of violence against women, the Regional Government shall carry out empowerment and awareness-raising to families and communities by providing information, guidance and/or counseling.\nJDIH Kota Singkawang (2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. opening accessibility to obtain education, training, funding, income enhancement and social services;\nb. opening employment opportunities for women;\nc. building community participation and concern to implement prevention and protection of women from acts of violence;\nd. building and providing a complete and easily accessible information system;\ne. building networks and cooperation with law enforcement apparatus, government apparatus, higher education institutions and various non-governmental organizations that work and/or care about women; and\nf. opening complaint posts for protection of women from acts of violence.\nPart Seven Protection in the Workplace",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 35\n(1) Children in educational unit environments must receive protection from acts of physical violence, psychological violence, sexual crimes, and other crimes committed by educators, educational institutions, fellow students and/or other parties.\n(2) Protection as referred to in paragraph (1) shall be carried out by educators, educational personnel, government officials and/or the community.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 23\n(1) Every Person and/or Institution is obligated to protect children and women from violence, exploitation, discrimination, mistreatment and neglect.\n(2) Protection by Institutions as referred to in paragraph (1) by not implementing policies and actions that violate the rights of children and women.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 108,
+          "text": "Article 92\n(1) In every formulation of policies related to Children, Regional Governments must pay attention to and accommodate the opinions of children conveyed through the Children's Forum.\n(2) Regional Governments may include representatives of the Children's Forum in Regional Development Planning Deliberations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, harmful practice of child/early marriage is explicitly addressed: Pasal 11 ayat (1) huruf d states parents must \"mencegah terjadinya perkawinan pada usia anak\" (prevent marriage at child age). None of the retrieved English candidates for 1.6 include Pasal 11, so retrieval missed the key evidence (RAG candidate issue). Additionally, the judge concluded there was no mention of early marriage; that conclusion would have been different if the correct passage had been retrieved, but given the provided candidates, the judge’s reasoning was consistent with what they saw.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(2) The implementation of prevention and protection as referred to in paragraph (1), may cooperate with educational institutions, religious institutions, mass media, professional organizations, business entities, and/or community institutions. e. providing education for victims of violence and vulnerable groups; Education as referred to in article 31 is directed towards:",
+      "evaluator_rationale": "The policy links prevention efforts with cooperation with educational institutions and includes providing education for victims and vulnerable groups, and it sets educational directions including development of respect for human rights and fundamental freedoms, indicating prevention through education measures.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 28,
+          "text": "Part Three\nPrevention and Protection Article 22 (1) The Regional Government is obligated to undertake prevention and protection efforts against violent treatment, exploitation, discrimination, maltreatment, and neglect.\n(2) The implementation of prevention and protection as referred to in paragraph (1), may cooperate with educational institutions, religious institutions, mass media, professional organizations, business entities, and/or community institutions.\n(3) Prevention and protection efforts as referred to in paragraph (2) are implemented by:\na. forming networks;\nb. conducting coordination, integration, and synchronization of prevention and protection based on partnership patterns;\nc. establishing a violence prevention and protection system for children and women;\nd. disseminating Laws and Regulations related to the protection of women victims of violence;\ne. providing education for victims of violence and vulnerable groups;\nJDIH Kota Singkawang\nf. organizing family support in the form of family parenting education, child parenting education, family mediation, and economic support;\ng. increasing the capacity of protection services for women and children including institutional capacity development and enhancement of professionalism and competence of service providers;\nh. increasing the ability of individuals and/or vulnerable groups to recognize risks and dangers from situations or actions that may cause violence, exploitation, maltreatment and neglect; and I. increasing the utilization of communication, information, and education media.\n(4) Prevention and protection efforts as referred to in paragraph (3) are carried out in an integrated manner by the Regional Government coordinated by the OPD responsible for women's empowerment and child protection.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 51\nSpecial protection for children with human immunodeficiency virus/acquired immune deficiency syndrome as referred to in Article 41 letter g shall be carried out through supervision, prevention, treatment, care, and rehabilitation efforts.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 39,
+          "text": "Paragraph 3\nEducation",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 52\nSpecial protection for child victims of abduction, sale, and child trafficking as referred to in Article 41 letter h is carried out through supervision, protection, prevention, care, and rehabilitation efforts by the Regional Government and community.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 35\n(1) Children in educational unit environments must receive protection from acts of physical violence, psychological violence, sexual crimes, and other crimes committed by educators, educational institutions, fellow students and/or other parties.\n(2) Protection as referred to in paragraph (1) shall be carried out by educators, educational personnel, government officials and/or the community.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 55\nSpecial protection for children who are victims of terrorist networks as referred to in Article 41 letter k shall be carried out through efforts to:\na. provide education about education, ideology, and nationalism values;\nb. provide counseling about the dangers of terrorism;\nc. provide social rehabilitation; and\nd. provide social assistance.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 33\n(1) Children with disabilities are given opportunities and accessibility to obtain inclusive education and/or special education.\n(2) Children who have excellence are given opportunities and accessibility to obtain special education.\n(3) Children who receive special protection are given opportunities to obtain their right to education.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 57\nSpecial protection for child victims of mistreatment and neglect as referred to in Article 41 letter m shall be carried out through supervision, prevention, care, counseling, rehabilitation and assistance by the Regional Government and the community.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 32\nEducation as referred to in article 31 is directed towards:\na. the development of the child's personality, talents, mental and physical abilities to their fullest potential;\nb. the development of respect for human rights and fundamental freedoms;\nc. the development of respect for the child's parents, cultural identity, language, and values, the national values of the country in which the child is living, the country from which the child may originate, and the diverse customs of the child's own place of residence;\nd. the preparation of the child for a responsible life; and\ne. the development of respect and love for the environment.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure",
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy clearly includes prevention via education/awareness activities: Pasal 22 ayat (3) huruf e provides \"memberikan pendidikan bagi korban kekerasan dan kelompok rentan\" and huruf f provides \"pendidikan pengasuhan keluarga\" and \"pendidikan pengasuhan anak\" as part of prevention/protection efforts. This supports a 'Yes' for prevention-through-education measures, and this evidence was present in the retrieved candidates. Therefore the judge’s 'Yes' is supported by the text, suggesting the golden label 'No' is likely incorrect (golden label issue). If the indicator was intended to mean broad population/school-based prevention education (not victim/vulnerable-group education), that narrower interpretation was not applied by the judge, but the policy still contains explicit educational prevention components.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention cooperation with educational, religious, media, professional, business, and community institutions, but do not explicitly reference traditional/cultural organizations or leaders.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 84,
+          "text": "Article 70\n(1) Health recovery services as referred to in Article 66 paragraph (2) letter d number 1 include:\na. emergency services;\nb. services for the provision of visum et repertum or visum psychiatricum in accordance with applicable provisions;\nc. follow-up services in the form of outpatient and/or inpatient care in accordance with medical provisions;\nd. deoxyribose nucleic acid verification services;\ne. delivery process services for pregnancy as a result of sexual violence and/or rape;\nf. services for providing further referrals in accordance with the circumstances and condition of the victim; and\ng. services for providing special rooms separated from general patients.\n(2) OPD responsible for health affairs is obligated to provide health recovery services.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 28,
+          "text": "Part Three\nPrevention and Protection Article 22 (1) The Regional Government is obligated to undertake prevention and protection efforts against violent treatment, exploitation, discrimination, maltreatment, and neglect.\n(2) The implementation of prevention and protection as referred to in paragraph (1), may cooperate with educational institutions, religious institutions, mass media, professional organizations, business entities, and/or community institutions.\n(3) Prevention and protection efforts as referred to in paragraph (2) are implemented by:\na. forming networks;\nb. conducting coordination, integration, and synchronization of prevention and protection based on partnership patterns;\nc. establishing a violence prevention and protection system for children and women;\nd. disseminating Laws and Regulations related to the protection of women victims of violence;\ne. providing education for victims of violence and vulnerable groups;\nJDIH Kota Singkawang\nf. organizing family support in the form of family parenting education, child parenting education, family mediation, and economic support;\ng. increasing the capacity of protection services for women and children including institutional capacity development and enhancement of professionalism and competence of service providers;\nh. increasing the ability of individuals and/or vulnerable groups to recognize risks and dangers from situations or actions that may cause violence, exploitation, maltreatment and neglect; and I. increasing the utilization of communication, information, and education media.\n(4) Prevention and protection efforts as referred to in paragraph (3) are carried out in an integrated manner by the Regional Government coordinated by the OPD responsible for women's empowerment and child protection.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 85,
+          "text": "Article 71\n(1) Psychosocial recovery services as referred to in Article 66 paragraph (2) letter d number 2 include: a. psychological and social assessment as the basis for preparing treatment to be provided;\nb. counseling;\nc. psychological therapy and social rehabilitation programs;\nd. mental and spiritual guidance;\ne. assistance; and\nf. provision of conducive and representative places for the implementation of psychosocial recovery service activities.\nJDIH Kota Singkawang (2) The OPD responsible for social affairs is obligated to organize psychosocial recovery services.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\n(1) The obligations and responsibilities of the community as referred to in Article 7 are implemented in the form of community participation in the implementation of protection of children and women.\n(2) Community participation as referred to in paragraph (1), may be carried out in the form of:\na. preventing the occurrence of acts of violence against women and children;\nb. submitting reports to the authorities if acts of violence against women and children occur;\nc. providing assistance to victims; and\nd. playing an active role in efforts to increase the fulfillment of children's rights and the empowerment of women.\n(3) Community participation as referred to in paragraph (2) is carried out by individuals, social community institutions, community organizations, professional organizations, educational institutions, religious institutions, the private sector, mass media, and the business sector.\n(4) The role of community organizations, professional organizations, and educational institutions is carried out by taking necessary steps in accordance with their respective duties, functions, authorities, and competencies to assist in the implementation of protection of children and women.\n(5) The participation of mass media is carried out through the dissemination of information and educational materials related to the implementation of protection of children and women by taking into account the best interests of children and/or victims.\n(6) The role of the business sector is carried out through:\na. company policies with child and women perspectives;\nb. products intended must be safe for children; and\nc. contributing to the fulfillment of children's rights and the empowerment of women through corporate social responsibility.\n(7) Forms of community participation as referred to in paragraph (2), are implemented responsibly in accordance with the provisions of Laws and Regulations.\nJDIH Kota Singkawang",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 72\n(1) Legal assistance and advocacy services as referred to in Article 66 paragraph (2) letter d number 3 include: a. ensuring the child is accompanied by legal counsel; and b. facilitating advocacy for children and women victims of violence, both in the examination process within court proceedings and outside court proceedings.\n(2) The Regional Apparatus Organization responsible for women's empowerment and child protection affairs is obligated to organize or coordinate legal assistance services with related agencies.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 73\n(1) Social reintegration in the form of post-rehabilitation service support as referred to in Article 66 paragraph (2) letter e includes: a. tracing of family members;\nb. reuniting children and family members/substitute family and/or community;\nc. facilitation of providing assistance to families in a psychosocial manner; d. support for access to further education or health services; and e. monitoring and evaluation.\n(2) OPD responsible for social affairs is obligated to implement social reintegration.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 51\nSpecial protection for children with human immunodeficiency virus/acquired immune deficiency syndrome as referred to in Article 41 letter g shall be carried out through supervision, prevention, treatment, care, and rehabilitation efforts.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 104,
+          "text": "Article 88\n(1) In order to realize KLA, development stages of KLA are arranged which include: a. preparation;\nb. planning;\nc. implementation;\nd. monitoring;\ne. evaluation; and\nf. reporting.\n(2) In every stage of KLA development, it is mandatory to consider the views of children obtained through child consultation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 164,
+          "text": "Article 43\nParagraph a What is meant by \"child who becomes a refugee\" is a condition where in a general refugee situation where there is a movement of people leaving a Regional/state territory in order to avoid a disaster or calamity either due to nature or due to direct human actions such as disease outbreaks, floods, war, nuclear leaks, bomb explosions and others.\nParagraph b What is meant by \"Child victim of unrest\" is a condition that occurs in a conflict situation within the territory of the State either in the form of horizontal conflict (between citizens) or vertical (with authorities) with various causes.\nParagraph c Sufficiently clear.\nParagraph d Sufficiently clear.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text explicitly engages religious/traditional community leadership structures: e.g., Pasal 82 ayat (3) states membership of the Komisi Perlindungan Anak Daerah comes from \"tokoh agama\" and \"tokoh masyarakat\" (religious and community leaders). Also Pasal 89 ayat (2) for Gugus Tugas KLA includes \"tokoh agama\" and \"tokoh masyarakat\". These are direct forms of cultural/traditional stakeholder engagement. The judge said there was no explicit reference, but the retrieved candidates did include Article 88 (KLA stages) and generally referenced religious institutions and community organizations (Pasal 9(3), Pasal 22(2)). The judge was too strict in requiring the exact phrase 'traditional/cultural organizations' and overlooked that 'tokoh agama/tokoh masyarakat' and 'lembaga keagamaan' satisfy the intent.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The only explicit trafficking-related special protection in the provided sentences concerns children (e.g., child trafficking). Although women’s protection and services for female victims of violence are mentioned, there is no specific measure explicitly targeted at women victims of human trafficking in the cited text.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe implementation of child and women protection is carried out through:  a. planning and development of child and women information systems;  b. prevention and protection;\nc. child protection;\nd. special protection;\ne. women protection;\nf. protection in the workplace;\ng. handling and recovery of victims of violence;\nh. rehabilitation, reintegration, and empowerment;\ni. law enforcement services, and legal assistance; and  JDIH Kota Singkawang j. facilitation of juvenile justice.",
+          "score": 0.03200204813108039
+        },
+        {
+          "chunk_id": 121,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF THE CITY OF SINGKAWANG\nNUMBER 4 OF 2017\nCONCERNING\nPROTECTION OF CHILDREN AND WOMEN\nI. GENERAL\nThe implementation of protection for children and women is carried out based on the principles of humanity, integration and justice. So that every person must receive their right to protection against a sense of security and freedom from torture or treatment that degrades human dignity which is contrary to what is aspired to in the Preamble of the 1945 Constitution of the Republic of Indonesia, namely the creation of a just and civilized humanity.\n\nIn Article 2 of Law Number 23 of 2002 concerning Child Protection, the implementation of Child Protection is based on Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia as well as the basic principles of the Convention on the Rights of the Child including:\na. non-discrimination;\nb. the best interests of the child;\nc. the right to life, survival, and development; and\nd. respect for the views of the child.\n\nIn Article 3 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.\n\nIn Article 3 of Law Number 23 of 2002 concerning Child Protection, Child Protection aims to ensure the fulfillment of children's rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from JDIH Kota Singkawang violence and discrimination, for the realization of quality Indonesian children who are virtuous and prosperous.\n\nIn Article 4 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence aims to:\na. prevent all forms of violence in the household;\nb. protect victims of domestic violence;\nc. take action against perpetrators of domestic violence; and\nd. maintain the integrity of a harmonious and prosperous household.\n\nTo realize law enforcement and the fulfillment of the basic rights of children and women, the Government of the City of Singkawang is obliged to provide protection from acts of violence and discrimination as well as the fulfillment of civil rights and freedoms which are set forth in a policy at the regional level.\n\nThe establishment of the Regional Regulation concerning the Protection of Children and Women is an elaboration of higher legislation that regulates the rights of children and women. In the Regional Regulation concerning the Protection of Children and Women, the norms formulated are efforts to address the problems faced in the implementation of the protection of children and women in the City of Singkawang. The implementation of the protection of children and women is carried out to realize the fulfillment of the rights of children and women in accordance with human dignity and dignity, and to receive protection from violence, discrimination, exploitation, and neglect for the realization of human resource development in the City of Singkawang that is faithful, intelligent, quality, virtuous and prosperous.\n\nII. ARTICLE BY ARTICLE",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 54\nSpecial protection for child victims of sexual crimes as referred to in Article 41 letter j shall be carried out through efforts to:\na. provide education on reproductive health, religious values, and moral values;\nb. social rehabilitation;\nc. psychosocial assistance during treatment until recovery; and\nd. provide protection and assistance at every level of examination starting from investigation, prosecution, up to examination in court proceedings.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 52\nSpecial protection for child victims of abduction, sale, and child trafficking as referred to in Article 41 letter h is carried out through supervision, protection, prevention, care, and rehabilitation efforts by the Regional Government and community.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL REGULATION ON THE PROTECTION OF CHILDREN AND WOMEN.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Singkawang.\n2. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Singkawang City.\n4. Child is a person who has not yet reached the age of 18 (eighteen) years, including those still in the womb.\n5. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\nJDIH Kota Singkawang\n6. Victim is a child and woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\n7. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that violence against women will occur, is occurring, or has occurred.\n8. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n9. Special protection is a form of protection received by children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Violence against women and children, hereinafter referred to as violence, is any action based on gender differences that results in misery or suffering physically, sexually, mentally, psychologically, including intimidation, forced eviction, threats of certain actions, coercion or deprivation of freedom, neglect, and hindering the ability of women and children to enjoy all their rights and freedoms.\n11. Family is the smallest unit in society consisting of husband and wife, husband and wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n12. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or adoptive mother.\n13. Guardian is a person or body who in reality exercises parental authority as a parent over a child.\n14. Every person is an individual or corporation, whether a legal entity or not a legal entity.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim will occur, is occurring, or has occurred.\nJDIH Kota Singkawang\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of strengthening victims of violence to resolve the problems they face.\n17. Regional Apparatus Organization, hereinafter abbreviated as OPD, is a regional apparatus organization within the Singkawang City Government.\n18. Prevention is an activity carried out to prevent acts of violence against children and women from occurring.\n19. Repatriation is an effort to return women and children victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.\n20. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles again properly both in the family and in society.\n21. Reintegration is an effort to reunite victims with their families, communities, institutions, or other social environments that can provide protection.\n22. Institution is an agency/service/body/office within the scope of the Regional Government and/or non-governmental organization that provides assistance.\n23. Agency is a regional apparatus work unit whose duties and responsibilities are to coordinate the handling of affairs in the field of organizing the protection of children and women.\n24. Integrated Service Center, hereinafter abbreviated as PPT, is a functional work unit that organizes integrated services for victims of acts of violence.\n25. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated, one-stop, and networked technical service established by the government, Regional Government, community, non-governmental organizations, donor institutions, and other institutions in efforts to empower women and protect women and children comprehensively from various types of discrimination and acts of violence, including human trafficking.\n26. Community is individuals, families, groups, and social organizations, and/or community organizations.\n27. Regional Action Plan, hereinafter abbreviated as RAD, is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for organizing JDIH Kota Singkawang prevention and protection of children and women victims of acts of violence.\n28. Task Force is a coordinative institution formed by the Regional Government that coordinates policies, programs, and activities for the protection of children and women in the region.\n29. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of the Regional Government, community, and business world that are planned comprehensively and sustainably in policies, programs, and activities to ensure the fulfillment of children's rights.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 53\nSpecial protection for child victims of physical and/or psychological violence as referred to in Article 41 letter i is carried out through efforts to: a. disseminate and socialize the provisions of Laws and Regulations that protect child victims of acts of violence; and b. monitor, report, and impose sanctions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 164,
+          "text": "Article 43\nParagraph a What is meant by \"child who becomes a refugee\" is a condition where in a general refugee situation where there is a movement of people leaving a Regional/state territory in order to avoid a disaster or calamity either due to nature or due to direct human actions such as disease outbreaks, floods, war, nuclear leaks, bomb explosions and others.\nParagraph b What is meant by \"Child victim of unrest\" is a condition that occurs in a conflict situation within the territory of the State either in the form of horizontal conflict (between citizens) or vertical (with authorities) with various causes.\nParagraph c Sufficiently clear.\nParagraph d Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 62\n(1) For the prevention of acts of violence against women, the Regional Government shall carry out empowerment and awareness-raising to families and communities by providing information, guidance and/or counseling.\nJDIH Kota Singkawang (2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. opening accessibility to obtain education, training, funding, income enhancement and social services;\nb. opening employment opportunities for women;\nc. building community participation and concern to implement prevention and protection of women from acts of violence;\nd. building and providing a complete and easily accessible information system;\ne. building networks and cooperation with law enforcement apparatus, government apparatus, higher education institutions and various non-governmental organizations that work and/or care about women; and\nf. opening complaint posts for protection of women from acts of violence.\nPart Seven Protection in the Workplace",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 90,
+          "text": "Article 75\n(1) Law enforcement services constitute actions by law enforcement apparatus in implementing Laws and Regulations to handle cases of violence against children and women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.\n(2) Law enforcement services as referred to in paragraph (1) shall be carried out by prioritizing the best interests of children and women victims of violence.\n(3) Law enforcement services are aimed at providing protection for children and women victims of violence or children in conflict with the law with a gender-responsive approach so that victims and perpetrators obtain justice and legal certainty.\n(4) For the purpose of implementing law enforcement as referred to in paragraph (1), the Regional Government in cooperation with relevant agencies and institutions shall allocate resources to encourage the achievement of effectiveness and efficiency of law enforcement services for children and women victims of violence and children in conflict with the law in accordance with applicable provisions.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text explicitly includes trafficking in a women-and-children service/response mechanism: Pasal 1 angka 25 defines P2TP2A as a comprehensive service for empowerment/protection of women and children from discrimination and violence, \"termasuk perdagangan orang\" (including human trafficking). This exact point was present in the retrieved English candidate [6.2-3] (definition of P2TP2A). The judge incorrectly treated trafficking measures as only for children and missed that the definition covers women as well; thus the error is primarily an evaluation failure.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences do not set out special protection measures for women with disabilities or persons with disabilities generally. The only disability-related reference shown concerns children with disabilities in the context of emergency special needs, not women or persons with disabilities broadly.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL REGULATION ON THE PROTECTION OF CHILDREN AND WOMEN.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Singkawang.\n2. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Singkawang City.\n4. Child is a person who has not yet reached the age of 18 (eighteen) years, including those still in the womb.\n5. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\nJDIH Kota Singkawang\n6. Victim is a child and woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\n7. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that violence against women will occur, is occurring, or has occurred.\n8. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n9. Special protection is a form of protection received by children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Violence against women and children, hereinafter referred to as violence, is any action based on gender differences that results in misery or suffering physically, sexually, mentally, psychologically, including intimidation, forced eviction, threats of certain actions, coercion or deprivation of freedom, neglect, and hindering the ability of women and children to enjoy all their rights and freedoms.\n11. Family is the smallest unit in society consisting of husband and wife, husband and wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n12. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or adoptive mother.\n13. Guardian is a person or body who in reality exercises parental authority as a parent over a child.\n14. Every person is an individual or corporation, whether a legal entity or not a legal entity.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim will occur, is occurring, or has occurred.\nJDIH Kota Singkawang\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of strengthening victims of violence to resolve the problems they face.\n17. Regional Apparatus Organization, hereinafter abbreviated as OPD, is a regional apparatus organization within the Singkawang City Government.\n18. Prevention is an activity carried out to prevent acts of violence against children and women from occurring.\n19. Repatriation is an effort to return women and children victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.\n20. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles again properly both in the family and in society.\n21. Reintegration is an effort to reunite victims with their families, communities, institutions, or other social environments that can provide protection.\n22. Institution is an agency/service/body/office within the scope of the Regional Government and/or non-governmental organization that provides assistance.\n23. Agency is a regional apparatus work unit whose duties and responsibilities are to coordinate the handling of affairs in the field of organizing the protection of children and women.\n24. Integrated Service Center, hereinafter abbreviated as PPT, is a functional work unit that organizes integrated services for victims of acts of violence.\n25. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated, one-stop, and networked technical service established by the government, Regional Government, community, non-governmental organizations, donor institutions, and other institutions in efforts to empower women and protect women and children comprehensively from various types of discrimination and acts of violence, including human trafficking.\n26. Community is individuals, families, groups, and social organizations, and/or community organizations.\n27. Regional Action Plan, hereinafter abbreviated as RAD, is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for organizing JDIH Kota Singkawang prevention and protection of children and women victims of acts of violence.\n28. Task Force is a coordinative institution formed by the Regional Government that coordinates policies, programs, and activities for the protection of children and women in the region.\n29. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of the Regional Government, community, and business world that are planned comprehensively and sustainably in policies, programs, and activities to ensure the fulfillment of children's rights.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe implementation of child and women protection is carried out through:  a. planning and development of child and women information systems;  b. prevention and protection;\nc. child protection;\nd. special protection;\ne. women protection;\nf. protection in the workplace;\ng. handling and recovery of victims of violence;\nh. rehabilitation, reintegration, and empowerment;\ni. law enforcement services, and legal assistance; and  JDIH Kota Singkawang j. facilitation of juvenile justice.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 164,
+          "text": "Article 43\nParagraph a What is meant by \"child who becomes a refugee\" is a condition where in a general refugee situation where there is a movement of people leaving a Regional/state territory in order to avoid a disaster or calamity either due to nature or due to direct human actions such as disease outbreaks, floods, war, nuclear leaks, bomb explosions and others.\nParagraph b What is meant by \"Child victim of unrest\" is a condition that occurs in a conflict situation within the territory of the State either in the form of horizontal conflict (between citizens) or vertical (with authorities) with various causes.\nParagraph c Sufficiently clear.\nParagraph d Sufficiently clear.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 62\n(1) For the prevention of acts of violence against women, the Regional Government shall carry out empowerment and awareness-raising to families and communities by providing information, guidance and/or counseling.\nJDIH Kota Singkawang (2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. opening accessibility to obtain education, training, funding, income enhancement and social services;\nb. opening employment opportunities for women;\nc. building community participation and concern to implement prevention and protection of women from acts of violence;\nd. building and providing a complete and easily accessible information system;\ne. building networks and cooperation with law enforcement apparatus, government apparatus, higher education institutions and various non-governmental organizations that work and/or care about women; and\nf. opening complaint posts for protection of women from acts of violence.\nPart Seven Protection in the Workplace",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 74,
+          "text": "Sixth Part\nProtection of Women",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 116,
+          "text": "CHAPTER XVIII\nSANCTION PROVISIONS\nArticle 100\n(1) Institutions or bodies designated by the Mayor to carry out service duties that violate service principles may be subject to administrative sanctions.\n(2) Perpetrators of acts of violence shall be subject to criminal sanctions in accordance with the applicable Laws.\n(3) Any person who intentionally fails to provide protection to women and children resulting in the occurrence of violence, allows violence to occur, fails to report and fails to provide protection to victims, shall be subject to sanctions as stipulated in the applicable Laws and Regulations.\nJDIH Singkawang City",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 52,
+          "text": "Part Five\nSpecial Protection",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 121,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF THE CITY OF SINGKAWANG\nNUMBER 4 OF 2017\nCONCERNING\nPROTECTION OF CHILDREN AND WOMEN\nI. GENERAL\nThe implementation of protection for children and women is carried out based on the principles of humanity, integration and justice. So that every person must receive their right to protection against a sense of security and freedom from torture or treatment that degrades human dignity which is contrary to what is aspired to in the Preamble of the 1945 Constitution of the Republic of Indonesia, namely the creation of a just and civilized humanity.\n\nIn Article 2 of Law Number 23 of 2002 concerning Child Protection, the implementation of Child Protection is based on Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia as well as the basic principles of the Convention on the Rights of the Child including:\na. non-discrimination;\nb. the best interests of the child;\nc. the right to life, survival, and development; and\nd. respect for the views of the child.\n\nIn Article 3 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.\n\nIn Article 3 of Law Number 23 of 2002 concerning Child Protection, Child Protection aims to ensure the fulfillment of children's rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from JDIH Kota Singkawang violence and discrimination, for the realization of quality Indonesian children who are virtuous and prosperous.\n\nIn Article 4 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence aims to:\na. prevent all forms of violence in the household;\nb. protect victims of domestic violence;\nc. take action against perpetrators of domestic violence; and\nd. maintain the integrity of a harmonious and prosperous household.\n\nTo realize law enforcement and the fulfillment of the basic rights of children and women, the Government of the City of Singkawang is obliged to provide protection from acts of violence and discrimination as well as the fulfillment of civil rights and freedoms which are set forth in a policy at the regional level.\n\nThe establishment of the Regional Regulation concerning the Protection of Children and Women is an elaboration of higher legislation that regulates the rights of children and women. In the Regional Regulation concerning the Protection of Children and Women, the norms formulated are efforts to address the problems faced in the implementation of the protection of children and women in the City of Singkawang. The implementation of the protection of children and women is carried out to realize the fulfillment of the rights of children and women in accordance with human dignity and dignity, and to receive protection from violence, discrimination, exploitation, and neglect for the realization of human resource development in the City of Singkawang that is faithful, intelligent, quality, virtuous and prosperous.\n\nII. ARTICLE BY ARTICLE",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 90,
+          "text": "Article 75\n(1) Law enforcement services constitute actions by law enforcement apparatus in implementing Laws and Regulations to handle cases of violence against children and women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.\n(2) Law enforcement services as referred to in paragraph (1) shall be carried out by prioritizing the best interests of children and women victims of violence.\n(3) Law enforcement services are aimed at providing protection for children and women victims of violence or children in conflict with the law with a gender-responsive approach so that victims and perpetrators obtain justice and legal certainty.\n(4) For the purpose of implementing law enforcement as referred to in paragraph (1), the Regional Government in cooperation with relevant agencies and institutions shall allocate resources to encourage the achievement of effectiveness and efficiency of law enforcement services for children and women victims of violence and children in conflict with the law in accordance with applicable provisions.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian policy addresses disability explicitly for women and children. Pasal 2 ayat (2) huruf f states: \"khusus bagi perempuan penyandang disabilitas, berhak untuk mendapatkan kemudahan dan perlakuan khusus dalam pelayanan publik\" (women with disabilities have the right to facilities and special treatment in public services). It also addresses children with disabilities (e.g., Pasal 33; Pasal 45(b) mentions special needs for children with disabilities). The judge said there were no disability-related measures for women, but that is incorrect as a matter of the original text. This appears to be driven by retrieval not surfacing Pasal 2(2)(f) (so the judge didn’t see the strongest evidence), but even within the broader document the policy is clearly disability-inclusive. Given the candidates shown, the judge’s conclusion was based on incomplete evidence; however the key misalignment is that the evaluation missed/ignored the policy’s disability provisions.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Legal process involvement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Law enforcement services constitute actions by law enforcement apparatus in implementing Laws and Regulations to handle cases of violence against children and women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims. (3) Law enforcement services are aimed at providing protection for children and women victims of violence or children in conflict with the law with a gender-responsive approach so that victims and perpetrators obtain justice and legal certainty.",
+      "evaluator_rationale": "The policy explicitly addresses protection in the legal process by describing law enforcement services that provide protection for witnesses/victims and referencing protection for women victims of violence (including within law enforcement processes) with a gender-responsive approach.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 90,
+          "text": "Article 75\n(1) Law enforcement services constitute actions by law enforcement apparatus in implementing Laws and Regulations to handle cases of violence against children and women, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.\n(2) Law enforcement services as referred to in paragraph (1) shall be carried out by prioritizing the best interests of children and women victims of violence.\n(3) Law enforcement services are aimed at providing protection for children and women victims of violence or children in conflict with the law with a gender-responsive approach so that victims and perpetrators obtain justice and legal certainty.\n(4) For the purpose of implementing law enforcement as referred to in paragraph (1), the Regional Government in cooperation with relevant agencies and institutions shall allocate resources to encourage the achievement of effectiveness and efficiency of law enforcement services for children and women victims of violence and children in conflict with the law in accordance with applicable provisions.",
+          "score": 0.031544957774465976
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL REGULATION ON THE PROTECTION OF CHILDREN AND WOMEN.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Singkawang.\n2. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Singkawang City.\n4. Child is a person who has not yet reached the age of 18 (eighteen) years, including those still in the womb.\n5. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\nJDIH Kota Singkawang\n6. Victim is a child and woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\n7. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that violence against women will occur, is occurring, or has occurred.\n8. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n9. Special protection is a form of protection received by children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Violence against women and children, hereinafter referred to as violence, is any action based on gender differences that results in misery or suffering physically, sexually, mentally, psychologically, including intimidation, forced eviction, threats of certain actions, coercion or deprivation of freedom, neglect, and hindering the ability of women and children to enjoy all their rights and freedoms.\n11. Family is the smallest unit in society consisting of husband and wife, husband and wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n12. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or adoptive mother.\n13. Guardian is a person or body who in reality exercises parental authority as a parent over a child.\n14. Every person is an individual or corporation, whether a legal entity or not a legal entity.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim will occur, is occurring, or has occurred.\nJDIH Kota Singkawang\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of strengthening victims of violence to resolve the problems they face.\n17. Regional Apparatus Organization, hereinafter abbreviated as OPD, is a regional apparatus organization within the Singkawang City Government.\n18. Prevention is an activity carried out to prevent acts of violence against children and women from occurring.\n19. Repatriation is an effort to return women and children victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.\n20. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles again properly both in the family and in society.\n21. Reintegration is an effort to reunite victims with their families, communities, institutions, or other social environments that can provide protection.\n22. Institution is an agency/service/body/office within the scope of the Regional Government and/or non-governmental organization that provides assistance.\n23. Agency is a regional apparatus work unit whose duties and responsibilities are to coordinate the handling of affairs in the field of organizing the protection of children and women.\n24. Integrated Service Center, hereinafter abbreviated as PPT, is a functional work unit that organizes integrated services for victims of acts of violence.\n25. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated, one-stop, and networked technical service established by the government, Regional Government, community, non-governmental organizations, donor institutions, and other institutions in efforts to empower women and protect women and children comprehensively from various types of discrimination and acts of violence, including human trafficking.\n26. Community is individuals, families, groups, and social organizations, and/or community organizations.\n27. Regional Action Plan, hereinafter abbreviated as RAD, is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for organizing JDIH Kota Singkawang prevention and protection of children and women victims of acts of violence.\n28. Task Force is a coordinative institution formed by the Regional Government that coordinates policies, programs, and activities for the protection of children and women in the region.\n29. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of the Regional Government, community, and business world that are planned comprehensively and sustainably in policies, programs, and activities to ensure the fulfillment of children's rights.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 74,
+          "text": "Sixth Part\nProtection of Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe implementation of child and women protection is carried out through:  a. planning and development of child and women information systems;  b. prevention and protection;\nc. child protection;\nd. special protection;\ne. women protection;\nf. protection in the workplace;\ng. handling and recovery of victims of violence;\nh. rehabilitation, reintegration, and empowerment;\ni. law enforcement services, and legal assistance; and  JDIH Kota Singkawang j. facilitation of juvenile justice.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 164,
+          "text": "Article 43\nParagraph a What is meant by \"child who becomes a refugee\" is a condition where in a general refugee situation where there is a movement of people leaving a Regional/state territory in order to avoid a disaster or calamity either due to nature or due to direct human actions such as disease outbreaks, floods, war, nuclear leaks, bomb explosions and others.\nParagraph b What is meant by \"Child victim of unrest\" is a condition that occurs in a conflict situation within the territory of the State either in the form of horizontal conflict (between citizens) or vertical (with authorities) with various causes.\nParagraph c Sufficiently clear.\nParagraph d Sufficiently clear.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 121,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF THE CITY OF SINGKAWANG\nNUMBER 4 OF 2017\nCONCERNING\nPROTECTION OF CHILDREN AND WOMEN\nI. GENERAL\nThe implementation of protection for children and women is carried out based on the principles of humanity, integration and justice. So that every person must receive their right to protection against a sense of security and freedom from torture or treatment that degrades human dignity which is contrary to what is aspired to in the Preamble of the 1945 Constitution of the Republic of Indonesia, namely the creation of a just and civilized humanity.\n\nIn Article 2 of Law Number 23 of 2002 concerning Child Protection, the implementation of Child Protection is based on Pancasila and grounded in the 1945 Constitution of the Republic of Indonesia as well as the basic principles of the Convention on the Rights of the Child including:\na. non-discrimination;\nb. the best interests of the child;\nc. the right to life, survival, and development; and\nd. respect for the views of the child.\n\nIn Article 3 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.\n\nIn Article 3 of Law Number 23 of 2002 concerning Child Protection, Child Protection aims to ensure the fulfillment of children's rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and dignity, and receive protection from JDIH Kota Singkawang violence and discrimination, for the realization of quality Indonesian children who are virtuous and prosperous.\n\nIn Article 4 of Law Number 23 of 2004 concerning the Elimination of Domestic Violence, the elimination of domestic violence aims to:\na. prevent all forms of violence in the household;\nb. protect victims of domestic violence;\nc. take action against perpetrators of domestic violence; and\nd. maintain the integrity of a harmonious and prosperous household.\n\nTo realize law enforcement and the fulfillment of the basic rights of children and women, the Government of the City of Singkawang is obliged to provide protection from acts of violence and discrimination as well as the fulfillment of civil rights and freedoms which are set forth in a policy at the regional level.\n\nThe establishment of the Regional Regulation concerning the Protection of Children and Women is an elaboration of higher legislation that regulates the rights of children and women. In the Regional Regulation concerning the Protection of Children and Women, the norms formulated are efforts to address the problems faced in the implementation of the protection of children and women in the City of Singkawang. The implementation of the protection of children and women is carried out to realize the fulfillment of the rights of children and women in accordance with human dignity and dignity, and to receive protection from violence, discrimination, exploitation, and neglect for the realization of human resource development in the City of Singkawang that is faithful, intelligent, quality, virtuous and prosperous.\n\nII. ARTICLE BY ARTICLE",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nThe rights as referred to in Article 2 paragraph (3) letter c, are also granted to the family of the witness and/or victim up to the second degree, in the event that the family of the witness and/or victim receives threats either physical or psychological from other persons in connection with the testimony of the witness and/or victim.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nEvery victim has the right to report and receive assistance as well as receive guarantees regarding their rights related to their status as a wife, mother, child, family member or as a member of society.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 23\n(1) Every Person and/or Institution is obligated to protect children and women from violence, exploitation, discrimination, mistreatment and neglect.\n(2) Protection by Institutions as referred to in paragraph (1) by not implementing policies and actions that violate the rights of children and women.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text clearly includes measures related to involvement/protection in legal processes for victims. Examples: Pasal 75 defines \"pelayanan penegakan hukum\" to handle cases and provide protection for witnesses/victims; Pasal 72 provides legal assistance/advocacy services; Pasal 46(d) and (p) include protection/assistance at every stage of the justice process for children in conflict with the law; Pasal 66(2)(d)(3) includes \"bantuan pendampingan hukum\". The retrieved candidates included Pasal 75, which supports a 'Yes'. Therefore the judge’s 'Yes' is consistent with the policy, and the golden label 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.10": {
+      "indicator": "Refugees / displacement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Special protection for children who become refugees as referred to in Article 43 letter a shall be implemented in accordance with the provisions of Laws and Regulations. a. children who become refugees;",
+      "evaluator_rationale": "The policy includes special protection provisions for refugees in the context of children who become refugees, indicating a targeted protection measure for refugee/forced displacement situations (as defined and regulated in the cited articles).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 164,
+          "text": "Article 43\nParagraph a What is meant by \"child who becomes a refugee\" is a condition where in a general refugee situation where there is a movement of people leaving a Regional/state territory in order to avoid a disaster or calamity either due to nature or due to direct human actions such as disease outbreaks, floods, war, nuclear leaks, bomb explosions and others.\nParagraph b What is meant by \"Child victim of unrest\" is a condition that occurs in a conflict situation within the territory of the State either in the form of horizontal conflict (between citizens) or vertical (with authorities) with various causes.\nParagraph c Sufficiently clear.\nParagraph d Sufficiently clear.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 69\n(1) Placement of child or female victims of acts of violence in temporary shelters as referred to in Article 66 paragraph (2) letter c shall be carried out if based on identification results:\na. there is a threat to safety;\nb. the child has no family/caregiver or guardian; and/or\nc. the child cannot be reunited with family/caregiver/guardian and/or the community.\n(2) Placement as referred to in paragraph (1) shall be carried out for a certain period of time while the child or victim receives recovery services and/or until the family/caregiver/guardian is assessed to have the readiness to care for and protect the child.\nJDIH Kota Singkawang (3) Services provided to children and/or women while in temporary shelters include, among others, services for fulfilling basic needs and psychosocial assistance.\n(4) The OPD responsible for social affairs is obligated to provide temporary shelters.\n(5) The OPD responsible for social affairs may cooperate with the civil service police or the police in efforts to maintain the security of children or women whose safety is threatened while in temporary shelters.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 52,
+          "text": "Part Five\nSpecial Protection",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 44\nSpecial protection for children who become refugees as referred to in Article 43 letter a shall be implemented in accordance with the provisions of Laws and Regulations.\nJDIH Kota Singkawang",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 45\nSpecial protection for child victims of riots, disaster victims, and children in armed conflict situations as referred to in Article 43 letters b through d shall be implemented through:\na. fulfillment of basic needs consisting of food, clothing, shelter, education, health, learning, and recreation, security guarantees, and equal treatment; and\nb. fulfillment of special needs for children with disabilities and children experiencing psychosocial disorders.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL REGULATION ON THE PROTECTION OF CHILDREN AND WOMEN.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Singkawang.\n2. Regional Government is the regional head as an element of the Regional Government administration who leads the implementation of governmental affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Singkawang City.\n4. Child is a person who has not yet reached the age of 18 (eighteen) years, including those still in the womb.\n5. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\nJDIH Kota Singkawang\n6. Victim is a child and woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\n7. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, community, and/or other parties who know or hear that violence against women will occur, is occurring, or has occurred.\n8. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n9. Special protection is a form of protection received by children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Violence against women and children, hereinafter referred to as violence, is any action based on gender differences that results in misery or suffering physically, sexually, mentally, psychologically, including intimidation, forced eviction, threats of certain actions, coercion or deprivation of freedom, neglect, and hindering the ability of women and children to enjoy all their rights and freedoms.\n11. Family is the smallest unit in society consisting of husband and wife, husband and wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n12. Parents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or adoptive mother.\n13. Guardian is a person or body who in reality exercises parental authority as a parent over a child.\n14. Every person is an individual or corporation, whether a legal entity or not a legal entity.\n15. Service is an action taken as soon as possible to the victim when seeing, hearing and/or knowing that violence against the victim will occur, is occurring, or has occurred.\nJDIH Kota Singkawang\n16. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of strengthening victims of violence to resolve the problems they face.\n17. Regional Apparatus Organization, hereinafter abbreviated as OPD, is a regional apparatus organization within the Singkawang City Government.\n18. Prevention is an activity carried out to prevent acts of violence against children and women from occurring.\n19. Repatriation is an effort to return women and children victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.\n20. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that they can carry out their roles again properly both in the family and in society.\n21. Reintegration is an effort to reunite victims with their families, communities, institutions, or other social environments that can provide protection.\n22. Institution is an agency/service/body/office within the scope of the Regional Government and/or non-governmental organization that provides assistance.\n23. Agency is a regional apparatus work unit whose duties and responsibilities are to coordinate the handling of affairs in the field of organizing the protection of children and women.\n24. Integrated Service Center, hereinafter abbreviated as PPT, is a functional work unit that organizes integrated services for victims of acts of violence.\n25. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated, one-stop, and networked technical service established by the government, Regional Government, community, non-governmental organizations, donor institutions, and other institutions in efforts to empower women and protect women and children comprehensively from various types of discrimination and acts of violence, including human trafficking.\n26. Community is individuals, families, groups, and social organizations, and/or community organizations.\n27. Regional Action Plan, hereinafter abbreviated as RAD, is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for organizing JDIH Kota Singkawang prevention and protection of children and women victims of acts of violence.\n28. Task Force is a coordinative institution formed by the Regional Government that coordinates policies, programs, and activities for the protection of children and women in the region.\n29. Child-Friendly City, hereinafter abbreviated as KLA, is a city that has a child rights-based development system through the integration of commitments and resources of the Regional Government, community, and business world that are planned comprehensively and sustainably in policies, programs, and activities to ensure the fulfillment of children's rights.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER IX\nIMPLEMENTATION OF PROTECTION\nPart One\nGeneral",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 54\nSpecial protection for child victims of sexual crimes as referred to in Article 41 letter j shall be carried out through efforts to:\na. provide education on reproductive health, religious values, and moral values;\nb. social rehabilitation;\nc. psychosocial assistance during treatment until recovery; and\nd. provide protection and assistance at every level of examination starting from investigation, prosecution, up to examination in court proceedings.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 43\nChildren in emergency situations as referred to in Article 41 letter a consist of:\na. children who become refugees;\nb. children victims of riots;\nc. children victims of natural disasters; and\nd. children in armed conflict situations.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 117,
+          "text": "CHAPTER XIX\nCLOSING PROVISIONS\nArticle 101\nThe implementing regulations of this Regional Regulation shall be stipulated no later than 6 (six) months calculated from the promulgation of this Regional Regulation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy explicitly covers refugees/displacement (for children) under special protection: Pasal 41 huruf a includes \"anak dalam situasi darurat\"; Pasal 43 huruf a lists \"anak yang menjadi pengungsi\"; Pasal 44 states special protection for child refugees is implemented per applicable laws; and the elucidation explains refugee situations involving displacement due to disasters/war, etc. The retrieved candidates contained these provisions, so the judge’s 'Yes' is supported. Thus the golden label 'No' appears wrong unless the indicator was intended to require refugee/displacement measures for women/adults specifically (which is not stated in the discrepancy description).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_BARAT_SINGKAWANG_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.113483+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

@@ -1,0 +1,342 @@
+{
+  "diagnoses": {
+    "1.10": {
+      "indicator": "Technology-facilitated violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Every operator of internet service businesses, play stations and types of children's games based on information and communication technology is obligated to manage and design child-friendly places. b not accept children wearing uniforms and/or during school hours;",
+      "evaluator_rationale": "The policy includes ICT-related protections by regulating internet service businesses and requiring local blocking of sites containing pornography/pornographic acts, addressing technology-facilitated risks/harms to children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nOther violence as referred to in Article 27 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 51\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women and children victims of violence shall be conducted at the end of each Fiscal year or if necessary according to needs.\n(2) The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and children victims of violence shall be used as input material for the formulation of policies, programs and activities for the protection of Women and children victims of violence for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 27\nForms of violence include:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 39,
+          "text": "Third Part\nForms of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 32\nExploitation as referred to in Article 27 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts that with or without the consent of the victim include among others prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain material or immaterial benefits; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 49\n(1) Every operator of internet service businesses, play stations and types of children's games based on information and communication technology is obligated to manage and design child-friendly places.\n(2) Every business operator as referred to in paragraph (1) must: a arrange rooms/booths with sufficient lighting and not closed off;\nb not accept children wearing uniforms and/or during school hours;\nc locally block sites containing elements of pornography and pornographic acts; and d limit visiting hours and supervise the use of existing facilities.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 49,
+          "text": "Part Five\nHandling of Women and Children Victims of Violence Article 36 The implementation of handling of women and children victims of violence is carried out with:\na. speed;\nb. safety and comfort;\nc. a sense of empathy;\nd. non-discrimination;\ne. easy accessibility;\nf. no charges imposed; and\ng. guaranteed confidentiality.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 1,
+          "text": "Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2.\nLaw Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);\n3.\nLaw Number 7 of 1984 concerning Ratification of the Convention on the Elimination of all forms of Discrimination Against Women (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4.\nLaw Number 20 of 1999 concerning Ratification of ILO Convention Number 138 Concerning Minimum Age FOR Admission to Employment [ILO Convention Concerning Minimum Age for Permission to Work] (State Gazette of the Republic of Indonesia of 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Number 3835);\n5.\nLaw Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n6.\nLaw Number 47 of 1999 concerning Establishment of Nunukan Regency, Malinau Regency, West Kutai Regency, East Kutai Regency and Bontang City (State Gazette of the Republic of Indonesia of 1999 Number 175, Supplement to the State Gazette of the Republic of Indonesia Number 3896) as amended by Law Number 7 of 2000 concerning Amendment to Law Number 47 of 1999 (State Gazette of the Republic of Indonesia of 2000 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 3962);\n7.\nLaw Number 1 of 2000 concerning Ratification of ILO Convention Number 182 Concerning The Prohibition and Immediate Action For the Elimination of the worst Forms of Child labour [ILO Convention Number 182 Concerning the prohibition and immediate action for the Elimination of the worst forms of Child labour] (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);\n8.\nLaw Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2000 Number 208, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n9.\nLaw Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n10.\nLaw Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);\n11.\nLaw Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2009 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n12.\nLaw Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 12, Supplement to the State Gazette of the Republic of Indonesia Number 4967);\n13.\nLaw Number 25 of 2009 concerning Public Services (State Gazette of the Republic of Indonesia of 2009 Number 112, Supplement to the State Gazette of the Republic of Indonesia Number 5038);\n14.\nLaw Number 12 of 2011 concerning Formulation of Legislation (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n15.\nLaw Number 10 of 2012 concerning Ratification of Optional Protocol To The Convention On The Rights Of The Child On The Sale Of Children, Child Prostitution And Child Pornography [Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution, And Child Pornography] (State Gazette of the Republic of Indonesia of 2012 Number 149, Supplement to the State Gazette of the Republic of Indonesia Number 5330);\n16.\nLaw Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);\n17.\nLaw Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n18. 19.\n20.\nGovernment Regulation Number 2 of 1988 concerning Social Welfare Efforts for Children Who Have Problems (State Gazette of the Republic of Indonesia of 1988 Number 2, Supplement to the State Gazette of the Republic of Indonesia Number 3367);\nGovernment Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence, (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\nRegional Regulation of Nunukan Regency Number 15 of 2008 concerning Regional Government Affairs (Regional Gazette of Nunukan Regency of 2008 Number 15 Series D Number 04);\n\nWith Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF NUNUKAN REGENCY and",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children Article 34 (1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. forming work networks in efforts to prevent violence; c. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER V\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE Article 45 Every Woman and Child victim of violence receives the following rights:\na. right to complaint handling;\nb. right to have their dignity and worth as human beings respected;\nc. right to obtain protection from family, community, regional government and/or other parties either temporarily or based on a protection order from the court;\nd. right to health and psychological recovery from the suffering experienced by the victim;\ne. right to determine their own decisions;\nf. right to special handling related to victim confidentiality;\ng. right to obtain information;\nh. right to confidentiality of their identity;\ni. right to social rehabilitation;\nj. right to assistance by social workers and legal aid at every level of the examination process in accordance with statutory regulations; and\nk. right to spiritual guidance services.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 49 explicitly regulates ICT-related venues: \"penyelenggara usaha layanan internet, play station... berbasis teknologi informasi dan komunikasi\" must design child-friendly places, not accept children in school uniform/during school hours, and must \"memblokir secara lokal situs yang mengandung unsur pornografi dan pornoaksi\". This is a concrete policy response to technology-facilitated risks/harms (online pornography exposure, unsafe ICT gaming/internet venues). The judge’s cited English snippet matches Pasal 49 and the reasoning is consistent with the text. Therefore the golden label 'No' appears incorrect for this indicator.",
+      "diagnosis_status": "ok"
+    },
+    "2.1": {
+      "indicator": "Institutional network / coordination mechanism",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences describe coordination among units within the same regional government (e.g., monitoring coordination of SKPDs) and coordination with various agencies/institutions, but they do not explicitly indicate coordination or cooperation with governments across different jurisdictions.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 6\n(1) Regional Governments have the obligation and responsibility in efforts to empower women.\n(2) Efforts to empower women as referred to in paragraph (1) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 35\nIn addition to Regional Governments, prevention efforts as referred to in Article 34 paragraph (1) shall be carried out by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions; and\nd. Non-Governmental Organizations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nOther violence as referred to in Article 27 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 63,
+          "text": "BAB VII\nMONITORING AND EVALUATION\nArticle 50\n(1) To ensure synergy, balance and effectiveness of integrated measures in the implementation of policies, programs, activities, protection of Women and children, the Government conducts monitoring.\n(2) Monitoring as referred to in paragraph (1) shall be carried out by the Technical SKPD and PPT.\n(3) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs and activities for the Protection of Women and children.\n(4) Monitoring shall be conducted periodically through coordination and direct monitoring of SKPDs that implement policies, activities for the protection of Women and children victims of violence.\n(5) Monitoring shall be conducted from planning through to implementation of policies, programs and activities for the protection of women and children every year.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 31\nNeglect as referred to in Article 27 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or other parties responsible for their care;\nc. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 43\n(1) Social reintegration services as referred to in Article 37 letter f aim to return victims to their families and social environment.\n(2) Social reintegration services as referred to in paragraph (1) are carried out by the Regional Government in coordination with: a. related agencies and institutions both government and non-government; and\nb. village community institutions and/or local community leaders.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 19\nEvery organizer of an educational unit is prohibited from removing a child from an educational institution unless there is a guarantee for the continuity of the child's education.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 12\n(1) To carry out the empowerment of women as referred to in Article 6, the Regional Government may involve community participation.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, Community Social Institutions, religious institutions and/or other legitimate institutions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 32\nExploitation as referred to in Article 27 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts that with or without the consent of the victim include among others prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain material or immaterial benefits; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 67,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct independent socialization of women's and children's rights; c. provide first aid to victims; and\nd. report to the competent authority if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector and/or mass media.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian policy repeatedly establishes coordination/network mechanisms among institutions. Examples: Pasal 34(1) says prevention efforts are carried out in an integrated manner by the Regional Government and \"dikoordinasikan oleh SKPD teknis\"; Pasal 34(2) includes \"membentuk jaringan kerja\" and \"melakukan koordinasi, integrasi, sinkronisasi\"; Pasal 43(2) requires reintegration services be carried out by the Regional Government \"dengan berkoordinasi\" with related government/non-government agencies and village community institutions/local leaders; Pasal 50(4) monitoring is done \"melalui koordinasi\" with SKPD. The retrieved English candidates include these coordination provisions (e.g., Articles 43, 50, 34/35). The judge incorrectly narrowed the concept to cross-jurisdictional coordination; the indicator is about an institutional network/coordination mechanism generally, which the regulation clearly contains. Thus the golden label 'Yes' is supported, and the pipeline 'No' is due to evaluation failure.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and f. providing critical education regarding the rights of women and children for the community.",
+      "evaluator_rationale": "The policy includes prevention measures that explicitly involve socialization about laws/regulations protecting women and children victims of violence and providing critical education on the rights of women and children to the community, which constitutes information/education as primary prevention related to violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 8\nEmpowerment of women in the socio-cultural field as referred to in Article 5 paragraph (2) shall be implemented through: a enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health.\nc enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and d facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.030834914611005692
+        },
+        {
+          "chunk_id": 49,
+          "text": "Part Five\nHandling of Women and Children Victims of Violence Article 36 The implementation of handling of women and children victims of violence is carried out with:\na. speed;\nb. safety and comfort;\nc. a sense of empathy;\nd. non-discrimination;\ne. easy accessibility;\nf. no charges imposed; and\ng. guaranteed confidentiality.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children Article 34 (1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. forming work networks in efforts to prevent violence; c. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\nFor children who do not pursue formal education, they may pursue education through nonformal education units including: a For children who are 14 (fourteen) years of age and above and do not pursue formal elementary education or equivalent may pursue nonformal education Package A or equivalent to Elementary School (SD)/Madrasah Ibtidaiyah (MI);\nb For children who are 17 (seventeen) years of age and above and do not pursue formal junior high school education or equivalent may pursue nonformal education Package B or equivalent to Junior High School (SMP)/Madrasah Tsanawiyah (MTs); or c For children who are 21 (twenty one) years of age and above and do not pursue formal junior high school education or equivalent may pursue nonformal education Package C or equivalent to Senior High School (SMA)/Vocational High School (SMK)/Madrasah Aliyah/Madrasah Aliyah Kejuruan (MAK);",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 35\nIn addition to Regional Governments, prevention efforts as referred to in Article 34 paragraph (1) shall be carried out by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions; and\nd. Non-Governmental Organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 67,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct independent socialization of women's and children's rights; c. provide first aid to victims; and\nd. report to the competent authority if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector and/or mass media.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nOther violence as referred to in Article 27 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER V\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE Article 45 Every Woman and Child victim of violence receives the following rights:\na. right to complaint handling;\nb. right to have their dignity and worth as human beings respected;\nc. right to obtain protection from family, community, regional government and/or other parties either temporarily or based on a protection order from the court;\nd. right to health and psychological recovery from the suffering experienced by the victim;\ne. right to determine their own decisions;\nf. right to special handling related to victim confidentiality;\ng. right to obtain information;\nh. right to confidentiality of their identity;\ni. right to social rehabilitation;\nj. right to assistance by social workers and legal aid at every level of the examination process in accordance with statutory regulations; and\nk. right to spiritual guidance services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 19\nEvery organizer of an educational unit is prohibited from removing a child from an educational institution unless there is a guarantee for the continuity of the child's education.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 37\nForms of handling for women and children victims of violence include:\na. complaint services, consultation, and counseling;\nb. assistance services;\nc. medical rehabilitation services;\nd. social rehabilitation services;\ne. legal services; and\nf. social reintegration services.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text contains explicit primary-prevention information/education measures. Pasal 34(2) requires: (e) \"melakukan sosialisasi mengenai peraturan perundang-undangan\" related to protection of women/children victims of violence, and (f) \"memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat\". Pasal 54(1)(b) also allows the community to \"melakukan sosialisasi hak perempuan dan anak secara mandiri\". These are clearly information/education interventions aimed at prevention. The judge’s 'Yes' aligns with the text and the retrieved candidates. Therefore the golden label 'No' appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "f. providing critical education regarding the rights of women and children for the community. Every education unit organizer is obligated to coordinate with relevant child protection agencies if they find a child dropping out of school due to being a victim of violence.",
+      "evaluator_rationale": "The policy includes prevention actions that involve providing critical education to the community about women’s and children’s rights and assigns obligations to education unit organizers to coordinate with child protection agencies when violence leads to school dropout, indicating an education-sector role in prevention and maintaining educational continuity/quality in the context of violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 8\nEmpowerment of women in the socio-cultural field as referred to in Article 5 paragraph (2) shall be implemented through: a enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health.\nc enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and d facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\nFor children who do not pursue formal education, they may pursue education through nonformal education units including: a For children who are 14 (fourteen) years of age and above and do not pursue formal elementary education or equivalent may pursue nonformal education Package A or equivalent to Elementary School (SD)/Madrasah Ibtidaiyah (MI);\nb For children who are 17 (seventeen) years of age and above and do not pursue formal junior high school education or equivalent may pursue nonformal education Package B or equivalent to Junior High School (SMP)/Madrasah Tsanawiyah (MTs); or c For children who are 21 (twenty one) years of age and above and do not pursue formal junior high school education or equivalent may pursue nonformal education Package C or equivalent to Senior High School (SMA)/Vocational High School (SMK)/Madrasah Aliyah/Madrasah Aliyah Kejuruan (MAK);",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children Article 34 (1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. forming work networks in efforts to prevent violence; c. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 28,
+          "text": "Paragraph 4\nEducation",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 11\n(1) To implement Women's Empowerment as referred to in Article 6, the Regional Government shall organize gender mainstreaming including: a establishing the implementation of gender mainstreaming;\nb coordinating, facilitating, and mediating gender mainstreaming;\nc facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd implementing gender mainstreaming related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ne improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nf integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ng coordinating the implementation of improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nh organizing the protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni facilitating the integration of protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj coordinating the protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities;\nk facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl developing a gender-based information system; and m providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) Further provisions regarding the forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 35\nIn addition to Regional Governments, prevention efforts as referred to in Article 34 paragraph (1) shall be carried out by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions; and\nd. Non-Governmental Organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\nEvery education unit organizer is obligated to coordinate with relevant child protection agencies if they find a child dropping out of school due to being a victim of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\nEvery Woman has the right: a to life and the right to maintain her life and livelihood;\nb to form a family and continue descendants through legal marriage;\nc to develop herself through the fulfillment of her basic needs; d to obtain education and benefit from science and technology, arts and culture, in order to improve the quality of her life and for the welfare of humankind; e to advance herself in fighting for her rights collectively to build society, nation and state; f to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law;\ng to work and receive fair and proper remuneration and treatment in employment relations;\nh to obtain equal opportunities in government; i to freedom of association, assembly and expression of opinion; j to protection of her person, family, honor, dignity and property under her control, and the right to a sense of security and protection from threats of fear to do or not do something which is a basic right;\nk to be free from torture or treatment that degrades human dignity and the right to obtain political asylum from other countries;\nl to live in physical and spiritual prosperity, to reside and obtain a good and healthy living environment, and the right to obtain health services;\nm to social security that enables her full development as a dignified human being;\nn to equality of position in law and government;\no to work and a livelihood worthy of humanity; p in efforts to defend the state;\nq to communicate and obtain information to develop her personal and social environment, and the right to seek, obtain, possess, store, process, and convey information using all types of available channels;\nr to embrace her respective religion and to worship according to her religion and belief; and s to obtain education.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 21\nChildren with disabilities and children with special needs are given equal opportunities to obtain formal, non-formal and informal education services, including special education and inclusion.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Nunukan.\n2. Regional Government is the Regional Government of Nunukan Regency. 3. Regent is the Regent of Nunukan.\n4. Regional Work Unit, hereinafter abbreviated as SKPD, is an auxiliary element of the Regent and DPRD in the administration of Government Affairs that are the authority of the Region.\n5. Technical Regional Work Unit, hereinafter referred to as technical SKPD, is a Regional Work Unit whose scope of duties and responsibilities includes the affairs of Women's Empowerment and/or Child Protection.\n6. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Woman is a human being of female sex and a person who is legally recognized as a woman.\n8. Women's Empowerment is any effort to improve physical, mental spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n9. Fulfillment of Children's Rights is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n11. Victim is a woman and/or child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the Nunukan Regency area.\n12. Protection is all preventive actions, services and empowerment to protect and guarantee the rights of women and children from acts of violence.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children. 14. Service is action taken as soon as possible to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n15. Empowerment is the strengthening of women victims of violence to be able to work and earn independently after they are recovered and provided with health and social rehabilitation services.\n16. Health Rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles properly and normally both in the family and in society.\n17. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.\n18. Repatriation is an effort to return victims of violence from the regional area to their area of origin.\n19. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.\n20. Integrated Service Center, hereinafter abbreviated as PPT, is a unit that provides integrated services for victims of violence and is integrated with PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian regulation includes prevention through education: Pasal 34(2)(f) mandates \"memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat\" as part of violence-prevention efforts. It also assigns education-sector responsibilities connected to violence impacts (e.g., Pasal 20: education providers must coordinate with child protection agencies if a child drops out due to violence; Pasal 18(2) requires non-discriminatory access; Pasal 19 restricts expulsion). The retrieved passages include Pasal 34 and Pasal 20, so the judge’s 'Yes' is supported by the text. Hence the golden label 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention community institutions and local community leaders, but do not explicitly reference traditional/cultural organizations or traditional leaders as stakeholders for engagement/collaboration.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 38,
+          "text": "Article 26\nThe Fulfillment of Children's Rights as referred to in Article 25 shall be in the form of: a counseling to stakeholders regarding children's rights;\nb assistance with psychological, medical and legal services and socio-economic reintegration;\nc family empowerment through provision of training, business capital stimulus and mentoring;\nd scholarships to continue formal education to higher levels; and e non-formal education and skills training for those who do not pursue formal education.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IV\nINTEGRATED SERVICE CENTER\nArticle 44\n(1) The provision of services to women and children victims of violence shall be carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) is an integrated part and constitutes one unity with the PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.\n(3) The provision of services to women and children victims of violence as referred to in paragraph (1) includes: a. providing fast and free services to victims; b. providing protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperating with certain institutions in providing translators and volunteer assistants needed for victims;\nd. establishing networks with government or private hospitals for treatment and health recovery of victims and cooperating with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for victims' health recovery;\ne. providing convenience, comfort and safety for victims;\nf. maintaining the confidentiality of victims; and\ng. providing fulfillment of legal assistance for victims.\n(4) Further provisions regarding the procedures and mechanisms for implementing the PPT shall be regulated by Regent Regulation.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 38\nComplaint, consultation, and counseling services as referred to in Article 37 letter a include:\na. identification or initial recording of victims;\nb. Case identification; and\nc. consent for action to be taken.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 17,
+          "text": "Paragraph 3\nCommunity Participation",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 35\nIn addition to Regional Governments, prevention efforts as referred to in Article 34 paragraph (1) shall be carried out by:\na. family and/or closest relatives;\nb. community;\nc. educational institutions; and\nd. Non-Governmental Organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nOther violence as referred to in Article 27 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 67,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct independent socialization of women's and children's rights; c. provide first aid to victims; and\nd. report to the competent authority if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector and/or mass media.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Nunukan.\n2. Regional Government is the Regional Government of Nunukan Regency. 3. Regent is the Regent of Nunukan.\n4. Regional Work Unit, hereinafter abbreviated as SKPD, is an auxiliary element of the Regent and DPRD in the administration of Government Affairs that are the authority of the Region.\n5. Technical Regional Work Unit, hereinafter referred to as technical SKPD, is a Regional Work Unit whose scope of duties and responsibilities includes the affairs of Women's Empowerment and/or Child Protection.\n6. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Woman is a human being of female sex and a person who is legally recognized as a woman.\n8. Women's Empowerment is any effort to improve physical, mental spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n9. Fulfillment of Children's Rights is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n11. Victim is a woman and/or child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the Nunukan Regency area.\n12. Protection is all preventive actions, services and empowerment to protect and guarantee the rights of women and children from acts of violence.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children. 14. Service is action taken as soon as possible to victims when seeing, hearing and knowing of the impending, ongoing or completed occurrence of violence against victims.\n15. Empowerment is the strengthening of women victims of violence to be able to work and earn independently after they are recovered and provided with health and social rehabilitation services.\n16. Health Rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles properly and normally both in the family and in society.\n17. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.\n18. Repatriation is an effort to return victims of violence from the regional area to their area of origin.\n19. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.\n20. Integrated Service Center, hereinafter abbreviated as PPT, is a unit that provides integrated services for victims of violence and is integrated with PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 43\n(1) Social reintegration services as referred to in Article 37 letter f aim to return victims to their families and social environment.\n(2) Social reintegration services as referred to in paragraph (1) are carried out by the Regional Government in coordination with: a. related agencies and institutions both government and non-government; and\nb. village community institutions and/or local community leaders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 12\n(1) To carry out the empowerment of women as referred to in Article 6, the Regional Government may involve community participation.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, Community Social Institutions, religious institutions and/or other legitimate institutions.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian text does include cultural/traditional engagement language in Pasal 8(d): \"fasilitasi dan upaya pelestarian adat istiadat\" (facilitation and efforts to preserve customs/traditions) as part of women’s socio-cultural empowerment. That is the clearest hook for traditional/cultural engagement. However, the retrieved candidates shown to the judge did not include Pasal 8(d); they focused on reintegration coordination with \"tokoh masyarakat\" and general community participation. Because the most directly relevant cultural/traditional provision was not retrieved, the judge lacked strong evidence and predicted 'No'. This discrepancy is best explained by retrieval failing to surface Pasal 8(d) (RAG candidate issue).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_UTARA_NUNUKAN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.213545+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 5,
+  "diagnosed_count": 5
+}

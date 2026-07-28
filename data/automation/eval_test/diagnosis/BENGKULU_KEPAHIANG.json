@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. conducting socialization regarding laws and regulations related to the rights and protection of women and children against acts of violence; f. providing critical education about the rights of women and children to the community.",
+      "evaluator_rationale": "The policy includes prevention actions that involve public socialization of laws/regulations related to protection from violence and providing critical education to the community about women’s and children’s rights, which constitutes information/education as primary prevention of violence against women and children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the SKPD that has the main duties and functions of coordination in the field of women's empowerment, family planning and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. formulating Action Programs and activities for Women's and Children's Empowerment in the Strategic Plan;\nb. establishing work networks in efforts to prevent violence; c. conducting coordination, integration, and synchronization of prevention of violence against women and children.\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the rights and protection of women and children against acts of violence;\nf. providing critical education about the rights of women and children to the community.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nPart One\nPrevention",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\nOther violence as referred to in Article 7 letter (f) is caused by:\na. threat of violence includes any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered or forced to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 27,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 11\nNeglect as referred to in Article 7 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 20\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights. Letter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts or explanations that can be seen, heard, and read that are presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to compensation\" includes: economic empowerment, repatriation costs, health insurance, and education or skills training.\nLetter g What is meant by \"the right to social recovery\" includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to complaint handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear Letter j What is meant by \"the right to assistance\" includes among others: psychologists, psychiatrists, health experts, religious counselors, advocates, and family members.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of protection for women and children includes prevention efforts, services, recovery and empowerment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 18\nWhat is meant by \"informed consent\" is an agreement/approval of the patient regarding medical measures that will be performed by the doctor on them, after the patient receives information from the doctor concerning the medical measures that can be performed to help them accompanied by information regarding all risks that may occur.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 60,
+          "text": "ELUCIDATION OF\nREGIONAL REGULATION OF KEPAHIANG REGENCY\nNUMBER 10 OF 2016\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nAGAINST ACTS OF VIOLENCE\n\nI. GENERAL\n\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\n\nSociologically, acts of violence against women and children have been increasingly rising both in quantity and quality. This is in line with technological developments that can be emulated at any time by perpetrators of acts of violence, resulting in qualitative increases as well. Culturally, the people of Kepahiang who largely work and live on plantations have neglected attention and responsibility toward their children. In order to prevent and overcome violence against women and children in Kepahiang Regency so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\n\nJuridically, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee their implementation.\n\nThis Regional Regulation governs protection efforts for victims, particularly in terms of prevention, services and empowerment for women and children victims of violence in Kepahiang Regency.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Kepahiang.\n2. Regent is the Regent of Kepahiang.\n3. Regional Government is the Regent as an element of the Regional Government administrator who leads the implementation of governmental affairs that are autonomous authority.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the Regional Government administrator.\n5. Child is a person who is not yet 18 years old, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women and children is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Victim is a woman and child who experiences acts of violence that occur in the Regency area of Kepahiang.\n10. Protection of women and children is a series of fulfillment of the rights of women and child victims of violence starting from prevention, handling, recovery and empowerment.\n11. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing of the imminent, ongoing or completed occurrence of violence against the victim.\n12. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the purpose of strengthening and recovery of the victim of violence.\n13. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A is a cooperative network that carries out the function of integrated services for the protection of women and child victims of violence.\n14. Safe House is a residence for victims, during the process of assistance, and recovery for the safety and comfort of victims from threats and actions of perpetrators.\n15. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints, identification, health and psychological recovery, legal services up to repatriation and reintegration of victims into society.\n16. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their child, or father and his child, or mother and her child, or blood relatives in direct line upward or downward up to the third degree.\n17. Household is husband, wife, and child, and people who have family relations due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n18. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the APBD of Kepahiang Regency.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 14 ayat (2) explicitly mandates prevention through (e) “melakukan sosialisasi tentang peraturan perundang-undangan yang berkaitan dengan hak-hak dan perlindungan perempuan dan anak terhadap tindak kekerasan” and (f) “memberikan pendidikan kritis tentang hak-hak perempuan dan anak kepada masyarakat.” This is clearly information/education to the public as a primary prevention measure. The retrieved English passage accurately reflects this, and the judge’s rationale matches the Indonesian provision. Therefore the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "What is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.",
+      "evaluator_rationale": "The policy explicitly defines “gender equality” in its elucidation, indicating that the regulation addresses gender equality concepts (rights, opportunities, benefits, and decision-making between women and men).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nPart One\nPrevention",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 11\nNeglect as referred to in Article 7 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of protection for women and children includes prevention efforts, services, recovery and empowerment.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\nOther violence as referred to in Article 7 letter (f) is caused by:\na. threat of violence includes any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered or forced to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 27,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Kepahiang.\n2. Regent is the Regent of Kepahiang.\n3. Regional Government is the Regent as an element of the Regional Government administrator who leads the implementation of governmental affairs that are autonomous authority.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the Regional Government administrator.\n5. Child is a person who is not yet 18 years old, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women and children is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Victim is a woman and child who experiences acts of violence that occur in the Regency area of Kepahiang.\n10. Protection of women and children is a series of fulfillment of the rights of women and child victims of violence starting from prevention, handling, recovery and empowerment.\n11. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing of the imminent, ongoing or completed occurrence of violence against the victim.\n12. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the purpose of strengthening and recovery of the victim of violence.\n13. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A is a cooperative network that carries out the function of integrated services for the protection of women and child victims of violence.\n14. Safe House is a residence for victims, during the process of assistance, and recovery for the safety and comfort of victims from threats and actions of perpetrators.\n15. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints, identification, health and psychological recovery, legal services up to repatriation and reintegration of victims into society.\n16. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their child, or father and his child, or mother and her child, or blood relatives in direct line upward or downward up to the third degree.\n17. Household is husband, wife, and child, and people who have family relations due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n18. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the APBD of Kepahiang Regency.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the SKPD that has the main duties and functions of coordination in the field of women's empowerment, family planning and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. formulating Action Programs and activities for Women's and Children's Empowerment in the Strategic Plan;\nb. establishing work networks in efforts to prevent violence; c. conducting coordination, integration, and synchronization of prevention of violence against women and children.\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the rights and protection of women and children against acts of violence;\nf. providing critical education about the rights of women and children to the community.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights. Letter b What is meant by \"justice\" is a condition where every person, both men and women, are treated equally and obtain equal opportunities to gain access, as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims by not making distinctions based on age, gender, race, ethnicity, religion and between groups. Letter d What is meant by \"the best interests of the victim\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, therefore the best interests of the victim must be the primary consideration.\nLetter e Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 24\nForms of empowerment for women victims of violence include:\na. job training;\nb. productive economic enterprises and joint business groups; and c. capital assistance.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 20\nLetter a What is meant by \"the right to have one's dignity respected as a human being\" is upholding human rights. Letter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by \"the right to obtain information\" is the right to obtain explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts or explanations that can be seen, heard, and read that are presented in various packages and formats in accordance with the development of information and communication technology either electronically or non-electronically related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by \"the right to compensation\" includes: economic empowerment, repatriation costs, health insurance, and education or skills training.\nLetter g What is meant by \"the right to social recovery\" includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter h What is meant by \"the right to complaint handling\" is the availability of a special integrated service unit by officers.\nLetter i Sufficiently clear Letter j What is meant by \"the right to assistance\" includes among others: psychologists, psychiatrists, health experts, religious counselors, advocates, and family members.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved passage (Penjelasan Pasal 2 huruf b) only defines “kesetaraan gender” (gender equality) as a concept (“kesamaan hak, kesempatan, manfaat dan pengambilan keputusan antara perempuan dan laki-laki...”), but the indicator is “Gender equality education.” In the Indonesian regulation, the education/awareness provisions in Pasal 14 ayat (2) are about rights and protection against violence (“hak-hak perempuan dan anak” and socialization of relevant laws), not about educating the public on gender equality specifically. A definition of gender equality in an elucidation section is not the same as a policy commitment to provide gender equality education. So the judge over-interpreted the definition as evidence of education programming; the golden label “No” is consistent with the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "5.8": {
+      "indicator": "Private sector engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences do not explicitly mention collaboration/engagement with business entities or the private sector for services or prevention; the cited community participation provision shown does not include business/private sector in this criterion’s retrieved sentences.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 30,
+          "text": "Article 26\nProductive economic enterprises and joint business groups as referred to in Article 24 letter b include:\na. entrepreneurial skills training;\nb. facilitation of joint business group formation; and\nc. business implementation assistance.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\nOther violence as referred to in Article 7 letter (f) is caused by:\na. threat of violence includes any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered or forced to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 17,
+          "text": "Second Part\nServices",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 11\nNeglect as referred to in Article 7 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the household scope, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 53,
+          "text": "CHAPTER XI\nCOMMUNITY PARTICIPATION\nArticle 50\n(1) The community participates in the implementation of protection for victims.\n(2) Community participation as referred to in paragraph (1) shall be in the form of: a. establishing family partners at the Kelurahan/Village level; b. establishing women and children protection units within community organizations;\nc. conducting independent socialization of women's and children's rights; d. providing first aid to victims; and\ne. reporting to the competent authorities if violence against victims occurs in their environment.\n(3) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, and mass media.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Kepahiang.\n2. Regent is the Regent of Kepahiang.\n3. Regional Government is the Regent as an element of the Regional Government administrator who leads the implementation of governmental affairs that are autonomous authority.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the Regional Government administrator.\n5. Child is a person who is not yet 18 years old, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or can result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women and children is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Victim is a woman and child who experiences acts of violence that occur in the Regency area of Kepahiang.\n10. Protection of women and children is a series of fulfillment of the rights of women and child victims of violence starting from prevention, handling, recovery and empowerment.\n11. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing of the imminent, ongoing or completed occurrence of violence against the victim.\n12. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the purpose of strengthening and recovery of the victim of violence.\n13. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A is a cooperative network that carries out the function of integrated services for the protection of women and child victims of violence.\n14. Safe House is a residence for victims, during the process of assistance, and recovery for the safety and comfort of victims from threats and actions of perpetrators.\n15. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints, identification, health and psychological recovery, legal services up to repatriation and reintegration of victims into society.\n16. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their child, or father and his child, or mother and her child, or blood relatives in direct line upward or downward up to the third degree.\n17. Household is husband, wife, and child, and people who have family relations due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n18. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the APBD of Kepahiang Regency.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of protection for women and children includes prevention efforts, services, recovery and empowerment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 60,
+          "text": "ELUCIDATION OF\nREGIONAL REGULATION OF KEPAHIANG REGENCY\nNUMBER 10 OF 2016\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nAGAINST ACTS OF VIOLENCE\n\nI. GENERAL\n\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\n\nSociologically, acts of violence against women and children have been increasingly rising both in quantity and quality. This is in line with technological developments that can be emulated at any time by perpetrators of acts of violence, resulting in qualitative increases as well. Culturally, the people of Kepahiang who largely work and live on plantations have neglected attention and responsibility toward their children. In order to prevent and overcome violence against women and children in Kepahiang Regency so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\n\nJuridically, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee their implementation.\n\nThis Regional Regulation governs protection efforts for victims, particularly in terms of prevention, services and empowerment for women and children victims of violence in Kepahiang Regency.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 23\n(1) Repatriation and reintegration services into society as referred to in Article 17 letter f aim to return victims to their families and social environment.\n(2) Repatriation and reintegration services into society as referred to in paragraph (1) shall be carried out by the Regional Government in coordination with relevant government and non-government agencies and institutions.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nSexual violence as referred to in Article 7 letter (c) is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural manner; and/or d. forced sexual intercourse with another person for commercial purposes and or specific purposes.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian text does include explicit private-sector/business involvement: Pasal 35 ayat (3) states that community roles are carried out by various actors including “badan usaha” (business entities) and “media massa.” Also Pasal 50 ayat (3) lists community participation actors (though it does not repeat “badan usaha” there). The retrieved candidates shown to the judge included Pasal 50 but not Pasal 35(3), so the judge did not see the key evidence mentioning “badan usaha.” Thus the false negative is primarily due to retrieval failing to surface the relevant passage.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "BENGKULU_KEPAHIANG.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:30.782555+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

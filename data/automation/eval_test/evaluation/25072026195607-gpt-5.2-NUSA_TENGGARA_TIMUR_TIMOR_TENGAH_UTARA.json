@@ -1,0 +1,469 @@
+{
+  "policy_file": "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-25T09:41:27.661777+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences refer generally to “violence against women” and women victims of violence, but none explicitly mention domestic violence or violence within the household/intimate partner context.",
+      "evidence_verified": null
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss prevention of violence against women in general, without explicitly referencing sexual violence or any sexual-violence-specific terms.",
+      "evidence_verified": null
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts only mention violence against women broadly and do not specify physical violence or physical assault.",
+      "evidence_verified": null
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text addresses violence against women in general but does not explicitly include psychological/emotional violence or related concepts.",
+      "evidence_verified": null
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence / economic exploitation / domestic neglect",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy includes women’s economic empowerment measures, the retrieved sentences do not frame these as responses to economic violence/exploitation or domestic neglect, nor do they explicitly mention such forms of violence.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages include general women’s empowerment and references to family planning, reproductive health, and marriage registration, but do not explicitly mention harmful practices such as early marriage, FGM, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss violence against women generally but do not mention femicide/feminicide or killing of women because they are women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No retrieved sentence explicitly mentions human trafficking or trafficking-related prevention/protection measures; the text focuses on general violence prevention and service institutions.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts do not explicitly reference sexual exploitation, sexual slavery, or related practices; they only address violence against women in general terms.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "There is no explicit mention of online/digital/technology-facilitated violence or abuse in the provided sentences.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "The presence of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities: f. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and",
+      "rationale": "The text references central–regional government relations and explicitly requires coordination with regional apparatus/related institutions, and participation in a national gender mainstreaming working group, indicating an institutional coordination network across jurisdictions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "c. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;",
+      "rationale": "The policy assigns the PUG Focal Point duties that include developing gender work networks with agencies/institutions/organizations and other work units, explicitly including non-government actors, which constitutes a cooperation mechanism with non-government entities.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "Gender Data System includes: a. data collection;",
+      "rationale": "The policy establishes a Gender Data System that explicitly includes data collection (and related functions), which constitutes an information/data system relevant to women’s issues, including protection-related domains.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "Yes",
+      "evidence": "The institutionalization of PUG includes: b. PUG working group; 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and mobilizers of gender mainstreaming from various agencies/institutions in the region.",
+      "rationale": "The policy explicitly provides for institutionalization of gender mainstreaming (PUG), including a gender mainstreaming working group (Pokja PUG) defined as a consultation forum across agencies/institutions.",
+      "evidence_verified": true
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "a. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through: c. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;",
+      "rationale": "The policy includes competence improvement and regular paralegal training for service institution members, and assigns responsibilities to facilitate gender sensitivity and gender analysis training, demonstrating training/capacity-building provisions.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(1) The Regent has the authority to conduct monitoring and evaluation of the implementation of PUG. (1) The Regent conducts monitoring of the implementation of policies, programs, and activities for the protection of women. (1) Evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be conducted at the end of each fiscal year.",
+      "rationale": "The policy explicitly authorizes and requires monitoring and evaluation of PUG implementation and of women’s protection policies/programs/activities, including periodic monitoring and end-of-fiscal-year evaluation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "(1) PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementation units for the protection of women and children. (2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+      "rationale": "The policy provides for establishing a regional technical implementation unit for the protection of women and children (UPTD P2TP2A), which constitutes an integrated service unit for protection services.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss regional technical implementation units and general prevention/strengthening of service institutions, but do not mention any specialised service unit located in police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions counseling to report violence to local authorities and establishment of protection service institutions, it does not explicitly identify a dedicated reporting/complaints receiving unit or hotline service.",
+      "evidence_verified": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages refer to strengthening service institutions and providing facilities/infrastructure generally, but do not specify shelters or safe houses for victims.",
+      "evidence_verified": null
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "b. facilitating access and legal consultation services.",
+      "rationale": "The policy includes facilitating access and legal consultation services, which constitutes legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions relate to gender mainstreaming focal points in hospitals/puskesmas and general health-related empowerment efforts, but do not establish a service unit specifically providing medical services for VAW victims.",
+      "evidence_verified": null
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "a. as service institutions in prevention and counseling;",
+      "rationale": "Family learning centers are described as service institutions for prevention and counseling, indicating provision of counseling services that can cover psychosocial support.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention counseling in general and family learning centers, but do not reference religious or spiritual counseling services.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text discusses counseling, referral liaison functions, and family capacity strengthening, but does not explicitly address rehabilitation/reintegration (resocialisation) services for victims.",
+      "evidence_verified": null
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "a. provision of skills and job training; d. facilitation and capital assistance; and",
+      "rationale": "The policy assigns responsibility for economic empowerment and specifies skills/job training and capital assistance, which are forms of economic support.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "a. conducting counseling and socialization regarding matters relating to violence against women;",
+      "rationale": "The policy includes primary prevention actions for violence against women through counseling and socialization on matters related to violence against women, which constitutes information/education about VAW.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Information and education about gender equality",
+      "included": "Yes",
+      "evidence": "b. conducting socialization on women's rights;",
+      "rationale": "The policy explicitly includes prevention activities that involve socialization on women's rights, which is information/education supporting gender equality and women’s rights.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "Information about VAW laws and policies",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions increasing legal awareness through communication, information and education services and includes general VAW prevention counseling, the provided sentences do not explicitly indicate education specifically about VAW laws and policies.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "c. endeavoring to improve education for women;",
+      "rationale": "The policy includes prevention measures that aim to improve education for women, which aligns with prevention through education and improving educational quality/access as a primary prevention approach.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "e. empowering social community organizations and women's organizations to increase women's knowledge and insight; and",
+      "rationale": "The policy includes prevention measures that explicitly involve empowering social community organizations and women's organizations, which constitutes engagement with civil society/NGOs.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Collaboration with religious organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention collaboration with religious organizations or religious leaders; references to socio-cultural facilitation and other parties do not specify religious stakeholders.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Collaboration with traditional organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions preserving customs and traditions, the provided sentences do not explicitly indicate engagement or collaboration with traditional/cultural organizations or leaders.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Collaboration with education institutions",
+      "included": "Yes",
+      "evidence": "(5) Implementation of Gender analysis on RPJMD and Renstra PD may collaborate with Higher Education institutions or other parties that have capability in their field.",
+      "rationale": "The policy explicitly states that implementation of gender analysis may collaborate with higher education institutions or other capable parties, indicating collaboration with education institutions/universities.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "Collaboration with international organisations",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences mention networks with government and non-government entities and collaboration with higher education or other parties, but do not explicitly reference international organizations or international support.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Collaboration with media",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention media engagement or collaboration with media outlets as part of services or prevention.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Collaboration with community",
+      "included": "Yes",
+      "evidence": "e. empowering social community organizations and women's organizations to increase women's knowledge and insight; and",
+      "rationale": "The policy explicitly includes empowering social community organizations and women's organizations as part of prevention efforts, indicating collaboration/engagement with the community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Collaboration with business/private sector",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy addresses economic empowerment (training, business groups, capital assistance, marketing networks), the provided sentences do not explicitly state engagement or collaboration with businesses/private sector actors.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe general protection of women (institution strengthening, violence prevention, services for women victims of violence) and transitional/administrative arrangements, but do not mention conflict zones, disasters, or disaster-prone areas, nor any tailored measures for women in those contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address protection services and prevention of violence against women generally, including services for women victims of violence, but do not explicitly or implicitly refer to human trafficking or specific protections for trafficking victims.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved text discusses general women’s protection and empowerment and mentions women working in government in a descriptive context, but it does not set out protections or special measures for women workers/employees.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages provide general women’s protection measures and monitoring/evaluation provisions, but contain no reference to elderly women or age-specific protections.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences focus on gender-based planning, institutional arrangements, and general protection/empowerment activities (including job training), but do not mention disability or any disability-targeted protection measures.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address general protection of women and institutional mechanisms (e.g., focal points, protection units) but do not mention women heads of households/families or provide targeted protections for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved text contains general women’s protection and empowerment provisions without any explicit reference to minority, isolated, or marginalized groups of women or tailored measures for them.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text mentions women’s empowerment in the field of law (awareness, access, legal consultation), it does not specifically address protection of women in conflict with the law as witnesses or perpetrators, nor special procedural protections in legal processes.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general women’s protection/empowerment and gender-based planning, but do not mention Indigenous peoples/groups (masyarakat adat) or any specific protections targeted to them.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions cover general protection of women and institutional/monitoring arrangements, but do not mention refugees, internally displaced persons, forced displacement, or any targeted measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The retrieved text provides general women’s protection measures and institutional provisions but does not mention domestic workers or any protections specifically targeted at domestic work.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages address general protection of women and related institutions, but do not reference homelessness or provide targeted measures for women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss general protection of women and empowerment measures, but do not mention former inmates/correctional institutions or any special protections for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "(1) Regional Governments are obligated to allocate budget for the implementation of PUG in the Region. a. APBD; and",
+      "rationale": "The policy states that regional governments must allocate a budget for PUG implementation and specifies APBD (the regional/local government budget) as a funding source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited budget provision lists APBD and non-binding assistance from other parties as sources, but does not explicitly mention any national/central government budget allocation as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text refers generally to \"assistance from other parties\" without explicitly identifying international donors, foreign governments, UN agencies, or other international funding sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "b. assistance from other parties that is non-binding, insofar as it complies with the provisions of applicable laws and regulations.",
+      "rationale": "Beyond APBD, the policy allows funding from non-binding assistance from other parties as long as it complies with applicable laws and regulations, constituting an additional legally permitted source.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No candidate sentence explicitly identifies the provincial government budget as a funding source; the only specified source is APBD plus non-binding assistance from other parties.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

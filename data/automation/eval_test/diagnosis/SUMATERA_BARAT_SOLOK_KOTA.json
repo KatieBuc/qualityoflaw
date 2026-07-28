@@ -1,0 +1,672 @@
+{
+  "diagnoses": {
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. preventing the occurrence of unregistered marriages.",
+      "evaluator_rationale": "The policy includes prevention of unregistered marriages, which is a harmful practice-related measure (linked to informal/early marriage risks) and is explicitly mentioned.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 95,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF SOLOK CITY\nNUMBER 2 OF 2020\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN\n\nI. GENERAL\n\nThe Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improvement of Services, empowerment and community participation. One of the authorities of regional government is to make regional policies with the aim of improving the welfare of the community in their region.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the Right to recognition, guarantee, Protection and just legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every Child has the Right to survival, growth and development as well as the Right to Protection from Violence and discrimination. This shows that female Children should be protected by the state, particularly against Violence because their Rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and Violence against women and Children, especially for the Solok City region. Solok City is one of the parties most authorized in carrying out women's empowerment and Child Protection by conducting and formulating regulations in order to provide guarantees for the implementation of Protection of Women and Children.\n\nOne form of such regulation is the Regional Regulation of Solok City. The regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and Children victims of Violence.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 9\nThe community in the context of preventing the occurrence of violence against women is responsible for:\na. monitoring various conditions occurring in their environment that may lead to the occurrence of violence against women;\nb. strengthening the role of community organizations, religious organizations and the family environment; and\nc. preventing the occurrence of unregistered marriages.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\nChildren in conflict with the law, children who experience pregnancy outside of marriage, children who are victims of human immunodeficiency virus/acquired immunodeficiency syndrome transmission, and children who are victims of narcotics, alcohol, psychotropic substances and other addictive substances abuse are protected in their rights to obtain education.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 13\nRegional Governments in their efforts to guarantee, protect and fulfill children's rights are responsible for establishing and implementing policies for the protection and fulfillment of children's rights which include the areas of birth registration, health, education, employment and social affairs.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nThe scope of this Regional Regulation includes:\na. rights of women and children;\nb. protection of women;\nc. fulfillment of children's rights;\nd. special protection of children;\ne. handling of women and children victims of violence;\nf. establishment of UPTD PPA;\ng. guidance and supervision;\nh. community participation; and\ni. financing.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 57\n(1) The Regional Government conducts supervision of the implementation of protection of women and children.\n(2) The supervision as referred to in paragraph (1) is carried out 1 (one) time in 1 (one) year by the Regional Apparatus whose duties and functions are in the field of supervision.\n(3) The results of supervision as referred to in paragraph (1) constitute evaluation material for the policy on protection of women and children in the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 41\n(1) The implementation of handling of women and children victims of violence is carried out through integrated services.\n(2) Integrated services for women and children victims of violence use the principles of:\na. gender responsiveness;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitivity to the background and condition of victims and the use of appropriate language that is understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of the rights of women and children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 42\nThe implementation of handling women and children victims of Violence includes services:\na. complaint handling;\nb. health services;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and/or\ne. repatriation and social rehabilitation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 9 huruf c explicitly states: \"mencegah terjadinya pernikahan di bawah tangan\" (preventing unregistered/under-the-table marriages). This is a prevention measure targeting a harmful practice related to marriage practices. The judge’s cited English snippet matches the Indonesian provision, so the evidence and reasoning support a 'Yes'. Therefore the golden label 'No' appears incorrect for this indicator.",
+      "diagnosis_status": "ok"
+    },
+    "2.1": {
+      "indicator": "Institutional network / coordination mechanism",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences define regional entities and describe responsibilities and cooperation with community/private/NGOs, but they do not mention coordination or cooperation with other governments across jurisdictions (e.g., provincial/national/other regions).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Second Part\nRegional Government",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Second Part\nRegional Government",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 7\nRegional Government in the context of preventing the occurrence of violence against women is responsible for:\na. conducting socialization regarding the prevention of violence against women to regional apparatus, community leaders, and community organizations;\nb. optimizing the role of customary, cultural, religious institutions and community organizations in preventing the occurrence of acts of violence;\nc. providing guidelines on handling acts of violence against women;\nd. involving community participation in the recovery and reintegration of women victims of violence;\ne. developing an integrated database and information system regarding acts of violence against women; and\nf. developing family resilience programs.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 29\n(1) Every person or entity is prohibited from employing and involving children in the worst forms of work.\n(2) The worst forms of work as referred to in paragraph (1) are: a. all work in the form of slavery or similar practices; b. all work that exploits, provides or offers children for prostitution, pornography production, pornographic performances or gambling;\nc. all work that exploits, provides, or involves children for the production and trade of alcoholic beverages, narcotics, psychotropic substances and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 12\n(1) Regional Government in the context of fulfilling children's rights is responsible for:\na. establishing and implementing policies, programs, and activities for the fulfillment of children's rights;\nb. providing facilities and infrastructure in the implementation of the fulfillment of children's rights;\nc. conducting guidance and supervision in the context of implementing the fulfillment of children's rights;\nd. respecting and guaranteeing the human rights of every child without distinguishing ethnicity, religion, race, group, gender, ethnic group, culture and language, legal status of the child, birth order of the child, and physical and/or mental condition; and\ne. cooperating with the private sector and/or non-governmental organizations in the implementation of the fulfillment of children's rights.\n(2) Regional Government in the context of fulfilling children's rights may cooperate with the community, business sector, and mass media.\n(3) The responsibility of the Regional Government in efforts to fulfill children's rights as referred to in paragraph (1) shall be implemented by regional apparatus in accordance with their duties and functions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 87,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 56\n(1) Regional Government conducts guidance on the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1) may be conducted in the form of:\na. conducting socialization of programs and activities for the protection of women and children; and\nb. providing training for government officials, law enforcers, religious leaders, community leaders, traditional leaders, educators, journalists, and media managers regarding prevention and handling of violence against women and children.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original regulation establishes an 'integrated service' mechanism and a multi-institution service network for complaint handling. Pasal 41(1) states handling is carried out through \"pelayanan terpadu\" (integrated services). Pasal 43(1) then lists multiple institutions involved (P2TP2A/center, hospitals, health centers, shelters, prosecutor’s office, courts, etc.), and Pasal 43(4) gives service officers authority to act on information from other sources. This is an institutional coordination/network mechanism within the local system. The retrieved English candidates did not include Pasal 41/43, so the judge reasonably said 'No' based on what it saw, but the golden label 'Yes' is supported by the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "None of the provided sentences establish a data collection system or information system for violence against women/women’s protection; they focus on services, responsibilities, and institutional setup without specifying data systems.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 8\n(1) The community, which in this case also includes ninik mamak, alim ulama, cadiak pandai, bundo kanduang in the context of protection of women, is responsible for:\na. participating in and providing support for the development of women's protection programs;\nb. providing information and/or reporting violations of women's rights to authorized institutions or parties; and\nc. supervising the legal protection process for cases of women's rights violations.\n(2) The responsibility as referred to in paragraph (1) is based on laws and regulations and the values of local wisdom of the local community.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 42\nThe implementation of handling women and children victims of Violence includes services:\na. complaint handling;\nb. health services;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and/or\ne. repatriation and social rehabilitation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 29\n(1) Every person or entity is prohibited from employing and involving children in the worst forms of work.\n(2) The worst forms of work as referred to in paragraph (1) are: a. all work in the form of slavery or similar practices; b. all work that exploits, provides or offers children for prostitution, pornography production, pornographic performances or gambling;\nc. all work that exploits, provides, or involves children for the production and trade of alcoholic beverages, narcotics, psychotropic substances and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 87,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 56\n(1) Regional Government conducts guidance on the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1) may be conducted in the form of:\na. conducting socialization of programs and activities for the protection of women and children; and\nb. providing training for government officials, law enforcers, religious leaders, community leaders, traditional leaders, educators, journalists, and media managers regarding prevention and handling of violence against women and children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 86,
+          "text": "CHAPTER VII\nESTABLISHMENT OF UPTD PPA\nArticle 55\n(1) The Regional Government in order to administer the affairs of women's empowerment and child protection may establish UPTD PPA.\n(2) UPTD PPA functions to provide services to women and Children who experience criminal and civil problems.\n(3) The scope of services of UPTD PPA includes complaint services, consultation, mediation, outreach, health, social rehabilitation, spiritual guidance, assistance, law enforcement and legal aid, and repatriation and social rehabilitation services.\n(4) In carrying out its functions as referred to in paragraph (2), UPTD PPA is obligated to:\na. provide services and handling as quickly as possible to women and children who experience problems;\nb. provide convenience, comfort, safety and free of charge to women and children who experience problems;\nc. maintain the confidentiality of women and children who experience problems; and\nd. guarantee justice and legal certainty for women and children who experience problems.\n(5) Further provisions regarding the organization and working procedures of UPTD PPA as referred to in paragraph (1) shall be regulated by Mayor Regulation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text (Pasal 7 huruf e) clearly requires: \"mengembangkan basis data dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap perempuan\" (develop an integrated database and information system on violence against women). This exact content was present in the retrieved English candidates for this indicator in other discrepancy sets and is also present here as a retrieved passage in the overall materials; the judge’s rationale claiming no data/information system was specified is incorrect given Pasal 7(e). Thus the error is due to the judge missing/misreading available evidence.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regional Government organizes skills training for street children and abandoned children originating from the Region. (3) Skills training as referred to in paragraph (1) is organized by the Regional Apparatus that implements authority affairs in the social field and may cooperate with community organizations.",
+      "evaluator_rationale": "The policy states that the Regional Government organizes skills training (implemented by the relevant regional apparatus and potentially in cooperation with community organizations), which constitutes economic empowerment/support through skills training.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 53,
+          "text": "Article 34\n(1) The Regional Government organizes skills training for street children and abandoned children originating from the Region.\n(3) Skills training as referred to in paragraph (1) is organized by the Regional Apparatus that implements authority affairs in the social field and may cooperate with community organizations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 46\nSocial rehabilitation services as referred to in Article 45 are as follows:\na. counseling services;\nb. provision of safe houses; and\nc. spiritual guidance.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 25\nEvery child who is in the environment of an educational unit is protected from acts of violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 84,
+          "text": "Seventh Part\nRepatriation and Social Rehabilitation",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 42\nThe implementation of handling women and children victims of Violence includes services:\na. complaint handling;\nb. health services;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and/or\ne. repatriation and social rehabilitation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 29\n(1) Every person or entity is prohibited from employing and involving children in the worst forms of work.\n(2) The worst forms of work as referred to in paragraph (1) are: a. all work in the form of slavery or similar practices; b. all work that exploits, provides or offers children for prostitution, pornography production, pornographic performances or gambling;\nc. all work that exploits, provides, or involves children for the production and trade of alcoholic beverages, narcotics, psychotropic substances and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Fifth Part\nEmployment",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 21\nPreventive efforts for basic health services as referred to in Article 19 paragraph (2) letter b are implemented in order to prevent the occurrence of diseases or health problems carried out by:\na. requiring mothers to provide exclusive breast milk to infants up to the age of 6 (six) months;\nb. providing free immunization and vitamins to infants and toddlers;\nc. providing nutritious food to infants and toddlers from underprivileged families;\nd. providing monitoring of growth and development of toddlers and pre-school age children;\ne. organizing comprehensive health efforts for children; 14\nf. optimizing the role of integrated service posts in serving maternal and child health; and\ng. providing sanitation facilities and clean water in every school.\nArticle 22\nCurative efforts for basic health services as referred to in Article 19 paragraph (2) letter c are carried out in order to provide treatment for disease cure, reduction of suffering due to disease, disease control, or restoration of disability so that the quality of children's health is maintained optimally.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text includes economic/skills support: Pasal 34(1) states \"Pemerintah Daerah menyelenggarakan pelatihan keterampilan bagi anak jalanan dan anak terlantar\" (the local government organizes skills training for street children and neglected children). While this is framed under child social welfare, it is still an economic empowerment/support service (skills training) provided by government. The judge’s cited English matches the Indonesian. Therefore the golden label 'No' appears inconsistent with the document; it should be 'Yes' if the indicator counts skills training as economic support services.",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention socialization on prevention of violence and training on prevention/handling, and separately mention education on children’s rights and laws concerning children, but they do not explicitly provide for information/education about laws and policies specifically on violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 14\nThe community in efforts to fulfill children's rights is responsible to:\na. provide space to gather and organize as well as listen to children to express their opinions;\nb. supervise children in accessing various information as well as provide healthy and safe information;\nc. provide information through socialization and education regarding children's rights and laws and regulations concerning children; and\nd. conduct supervision and guidance in the context of implementing the fulfillment of children's rights through child facilitators.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 87,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 56\n(1) Regional Government conducts guidance on the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1) may be conducted in the form of:\na. conducting socialization of programs and activities for the protection of women and children; and\nb. providing training for government officials, law enforcers, religious leaders, community leaders, traditional leaders, educators, journalists, and media managers regarding prevention and handling of violence against women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 7\nRegional Government in the context of preventing the occurrence of violence against women is responsible for:\na. conducting socialization regarding the prevention of violence against women to regional apparatus, community leaders, and community organizations;\nb. optimizing the role of customary, cultural, religious institutions and community organizations in preventing the occurrence of acts of violence;\nc. providing guidelines on handling acts of violence against women;\nd. involving community participation in the recovery and reintegration of women victims of violence;\ne. developing an integrated database and information system regarding acts of violence against women; and\nf. developing family resilience programs.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 8\n(1) The community, which in this case also includes ninik mamak, alim ulama, cadiak pandai, bundo kanduang in the context of protection of women, is responsible for:\na. participating in and providing support for the development of women's protection programs;\nb. providing information and/or reporting violations of women's rights to authorized institutions or parties; and\nc. supervising the legal protection process for cases of women's rights violations.\n(2) The responsibility as referred to in paragraph (1) is based on laws and regulations and the values of local wisdom of the local community.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 42\nThe implementation of handling women and children victims of Violence includes services:\na. complaint handling;\nb. health services;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and/or\ne. repatriation and social rehabilitation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 39\n(1) The community, ninik mamak, alim ulama, cadiak pandai, bundo kanduang in the context of special protection of children are responsible for:\na. providing support for the development of special protection programs for children;\nb. playing an active role in responding to symptoms occurring in the community that have the potential to violate children's rights;\nc. conducting monitoring and supervision of the implementation of special protection of children; and\nd. providing information and or reporting if violence against children occurs to the integrated service center for women and children empowerment or the authorized party.\n(2) The responsibility of the community, ninik mamak, alim ulama, cadiak pandai, bundo kanduang as referred to in paragraph (1) is based on laws and regulations and the values of local wisdom of the local community.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 9\nThe community in the context of preventing the occurrence of violence against women is responsible for:\na. monitoring various conditions occurring in their environment that may lead to the occurrence of violence against women;\nb. strengthening the role of community organizations, religious organizations and the family environment; and\nc. preventing the occurrence of unregistered marriages.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text provides for awareness/socialization related to violence against women: Pasal 7 huruf a says the Regional Government is responsible for \"menyelenggarakan sosialisasi mengenai pencegahan kekerasan terhadap perempuan\" (conduct socialization on prevention of violence against women) to regional apparatus, community leaders, and community organizations. This supports a 'Yes' for awareness-raising on VAW (even if not phrased as 'laws awareness' specifically). The retrieved candidates included Pasal 7(a), but the judge was overly strict by requiring explicit mention of 'laws and policies' rather than recognizing mandated socialization on VAW prevention. Hence evaluation failure.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Every organizer of an educational unit is obligated to provide opportunities for children to obtain education without discrimination. (2) Children who have disabilities and children who have exceptional intelligence potential and/or special talents are given equal opportunities to obtain formal, non-formal, and informal education services.",
+      "evaluator_rationale": "The policy includes education-related obligations to ensure children can access education without discrimination and to provide equal opportunities across formal, non-formal, and informal education, which reflects prevention through education and improving educational access/quality.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 41,
+          "text": "Article 24\n(1) Every organizer of an educational unit is obligated to provide opportunities for children to obtain education without discrimination.\n(2) Children who have disabilities and children who have exceptional intelligence potential and/or special talents are given equal opportunities to obtain formal, non-formal, and informal education services.\n(3) The Regional Government provides educators for children who have disabilities and exceptional intelligence potential and/or special talents at every educational unit.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 20\nPromotive efforts for basic health services as referred to in Article 19 paragraph (2) letter a are carried out through socialization or counseling to the community regarding healthy lifestyle patterns which include:\na. the importance of exclusive breast milk for infants;\nb. the importance of immunization for infants and toddlers; and\nc. the importance of healthy lifestyle patterns and balanced nutrition;",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 24,
+          "text": "Paragraph 2\nPrevention",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Paragraph 2\nPrevention",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 14\nThe community in efforts to fulfill children's rights is responsible to:\na. provide space to gather and organize as well as listen to children to express their opinions;\nb. supervise children in accessing various information as well as provide healthy and safe information;\nc. provide information through socialization and education regarding children's rights and laws and regulations concerning children; and\nd. conduct supervision and guidance in the context of implementing the fulfillment of children's rights through child facilitators.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 19,
+          "text": "Paragraph 2\nPrevention",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 44\n(1) Health services for women and children victims of violence as referred to in Article 42 letter b constitute efforts that include curative and rehabilitative aspects.\n(2) Health services for women and children victims of violence shall be conducted comprehensively, accessible 24 (twenty-four) hours, with quality and conducted in accordance with health service standards.\n(3) Health services specifically for children victims of violence must prioritize the best interests of the child.\n(4) Women and children victims of violence have the right to health services, including:\na. medical services; and\nb. psychosocial counseling.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 40,
+          "text": "Fourth Part\nEducation",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian provisions cited (Pasal 24(1)-(3)) concern non-discriminatory access to education and provision of educators for children with disabilities/special talents. They do not describe education-based prevention of violence against women/children (e.g., curriculum on gender equality, anti-violence education, relationship education). The judge treated general education access obligations as 'prevention through education', which is too broad for this indicator. Therefore the false positive is best explained by evaluation failure (overly lenient interpretation), not by translation or retrieval.",
+      "diagnosis_status": "ok"
+    },
+    "5.8": {
+      "indicator": "Private sector engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "The business sector in efforts to fulfill Children's Rights, is responsible for:",
+      "evaluator_rationale": "The policy assigns responsibilities to the business sector in fulfilling children's rights, indicating engagement with the private sector as a stakeholder.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 30,
+          "text": "Article 15\nThe business sector in efforts to fulfill Children's Rights, is responsible for:\na. implementing policies with a child perspective;\nb. products intended for children must be safe for children; and\nc. contributing to the fulfillment of children's rights through corporate social responsibility.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 44\n(1) Health services for women and children victims of violence as referred to in Article 42 letter b constitute efforts that include curative and rehabilitative aspects.\n(2) Health services for women and children victims of violence shall be conducted comprehensively, accessible 24 (twenty-four) hours, with quality and conducted in accordance with health service standards.\n(3) Health services specifically for children victims of violence must prioritize the best interests of the child.\n(4) Women and children victims of violence have the right to health services, including:\na. medical services; and\nb. psychosocial counseling.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 89,
+          "text": "CHAPTER IX\nCOMMUNITY PARTICIPATION\nArticle 58\n(1) The community may participate in the implementation of protection of women and children.\n(2) The community as referred to in paragraph (1) consists of, among others, parents, family, ninik mamak, cadiak pandai, alim ulama, bundo kanduang, customary leaders, religious leaders, mass media, and the business sector.\n(3) Community participation is carried out through the following means:\na. optimizing the function of community organizations in the Region; 29\nb. conducting socialization and education on laws and regulations related to the protection of women and children;\nc. providing input in the process of formulating laws and regulations in the Region;\nd. conducting socialization on the prevention of child marriage;\ne. carrying out recovery and reintegration of women victims of violence;\nf. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and children to the competent authorities;\ng. monitoring the process of handling cases of violence, discrimination, exploitation, and human rights violations against women and children;\nh. providing space for children to gather and organize in order to express themselves, be creative and convey their opinions;\ni. supervising children in accessing various information;\nj. providing products that are safe for children;\nk. contributing to the fulfillment of children's rights through corporate social responsibility; and/or\nl. disseminating information and educational materials that are beneficial for women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 72,
+          "text": "Paragraph 3\nHealth Services",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 24,
+          "text": "Paragraph 2\nPrevention",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Paragraph 2\nPrevention",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text indeed mentions the private sector/business: Pasal 15 assigns responsibilities to \"Dunia usaha\" (business sector) for fulfilling children’s rights (child-perspective policies, safe products, CSR), and Pasal 58(2)-(3) includes \"dunia usaha\" as part of community participation and lists CSR contributions. If the indicator 'Private sector engagement' is intended specifically for engagement in VAW response/prevention (not general child-rights product safety/CSR), then the judge’s 'Yes' is an overbroad match. The golden label 'No' is plausible under a narrower VAW-focused definition. Thus the discrepancy is due to evaluation failure (indicator misapplied too generally).",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "j. providing special protection to women victims of violence and human trafficking;",
+      "evaluator_rationale": "The policy explicitly assigns the regional government responsibility to provide special protection to women victims of violence and human trafficking.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 60,
+          "text": "Article 38\n(1) Regional Government in the effort of special protection for children is responsible for:\na. providing facilities and infrastructure in the implementation of special protection for children;\nb. providing access to public services and social services for children with disabilities;\nc. establishing and implementing policies and programs/activities for special protection of children;\nd. conducting cooperation with the community and/or community organizations in the implementation of special protection for children in accordance with laws and regulations;\ne. conducting rehabilitation and assistance for children who are victims of violence;\nf. providing special protection to children in emergency situations, children in conflict with the law, children victims of violence and human trafficking, children from minority and isolated groups, children exploited economically and/or sexually, children who are victims of narcotics, alcohol, psychotropic substances abuse, and HIV/AIDS;\ng. providing inclusive education for children with special needs; and\nh. taking preventive measures in order to prevent violations of children's rights.\n(2) The responsibility of the Regional Government in the effort of special protection for children as referred to in paragraph (1) shall be implemented by regional apparatus that carries out authority affairs in the social sector.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 42\nThe implementation of handling women and children victims of Violence includes services:\na. complaint handling;\nb. health services;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and/or\ne. repatriation and social rehabilitation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 52\n(1) Law enforcement and legal aid services constitute actions by law enforcement officials to implement laws and regulations in the context of handling cases of violence against women and children, especially to impose sanctions on perpetrators and provide protection for witnesses and/or victims.\n(2) Law enforcement and legal aid services as referred to in paragraph (1) shall be carried out by prioritizing the best interests of victims.\n(3) Law enforcement and legal aid services are intended to provide assistance and protection to women and children victims of violence and witnesses with a gender-responsive approach so that victims obtain justice and certainty of their legal rights.\n(4) Types of legal aid services include:\na. legal aid in the reporting process and preparation of official investigation reports;\nb. legal aid in the prosecution process at the prosecutor's office;\nc. legal aid in the examination process at court;\nd. legal aid in the court hearing process until there is a legally binding decision; and\ne. legal aid in the mediation process.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 41\n(1) The implementation of handling of women and children victims of violence is carried out through integrated services.\n(2) Integrated services for women and children victims of violence use the principles of:\na. gender responsiveness;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitivity to the background and condition of victims and the use of appropriate language that is understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of the rights of women and children.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes trafficking: Pasal 6 huruf j states the Regional Government must provide \"perlindungan khusus kepada perempuan korban tindak kekerasan dan perdagangan orang\" (special protection to women victims of violence and human trafficking). Pasal 38(1) huruf f also includes children victims of trafficking. The retrieved English passage accurately reflects this. Therefore the judge’s 'Yes' is supported and the golden label 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.3": {
+      "indicator": "Women workers",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. providing work leave while continuing to receive salary or wages in accordance with statutory regulations; i. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function; l. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+      "evaluator_rationale": "The policy includes employment-related protections for women, including work leave with wages, special protection in work/profession related to reproductive function, and regulation of employers who employ women to comply with labor laws.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nThe scope of this Regional Regulation includes:\na. rights of women and children;\nb. protection of women;\nc. fulfillment of children's rights;\nd. special protection of children;\ne. handling of women and children victims of violence;\nf. establishment of UPTD PPA;\ng. guidance and supervision;\nh. community participation; and\ni. financing.",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 39\n(1) The community, ninik mamak, alim ulama, cadiak pandai, bundo kanduang in the context of special protection of children are responsible for:\na. providing support for the development of special protection programs for children;\nb. playing an active role in responding to symptoms occurring in the community that have the potential to violate children's rights;\nc. conducting monitoring and supervision of the implementation of special protection of children; and\nd. providing information and or reporting if violence against children occurs to the integrated service center for women and children empowerment or the authorized party.\n(2) The responsibility of the community, ninik mamak, alim ulama, cadiak pandai, bundo kanduang as referred to in paragraph (1) is based on laws and regulations and the values of local wisdom of the local community.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nRIGHTS OF WOMEN AND CHILDREN\nPart One\nRights of Women",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 51\n(1) Spiritual guidance as referred to in Article 46 letter c is intended for psychological recovery of women and children victims of violence.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim.\n(3) Spiritual guidance is carried out by spiritual guidance officers, consisting of advisory board consultants, marriage guidance and preservation bodies, religious affairs office officers, ustads or ulamas and/or other religious leaders.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text contains explicit provisions addressing women workers/employment-related protections: Pasal 3(d)-(e) (women’s rights to work leave with pay and decent work), and Pasal 6(d)-(f), (i), (l) (equal employment opportunities, paid leave, maternity facilities, special protection related to reproductive function, and regulating employers employing women to comply with labor laws). This is clearly an intersectional consideration for women as workers. The English candidates match these points. Thus the golden label 'No' appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. providing access to public services and social services for children with disabilities;",
+      "evaluator_rationale": "The policy includes disability-targeted measures by requiring the regional government to provide access to public and social services for children with disabilities (i.e., it addresses people with disabilities, though not specifically women with disabilities).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 6\nThe Regional Government in efforts to protect women is responsible for:\na. providing protection from discriminatory actions in accordance with statutory regulations;\nb. providing protection from economic exploitation and social exploitation;\nc. providing protection from physical, psychological, sexual violence and neglect;\nd. providing equal opportunities with men to obtain employment in accordance with their abilities;\ne. providing work leave while continuing to receive salary or wages in accordance with statutory regulations;\nf. providing adequate health and maternity facilities for pregnant and nursing mothers;\ng. providing comprehensive health services free of charge; 8\nh. guaranteeing the right of women to elect and be elected in general elections in accordance with statutory regulations;\ni. providing special protection in the implementation of work or profession against matters that may threaten safety and or health related to women's reproductive function;\nj. providing special protection to women victims of violence and human trafficking;\nk. taking preventive actions in order to prevent violations against women; and\nl. creating regulations to govern employers who employ women to comply with labor statutory regulations.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nEvery woman has the right to:\na. obtain protection from discriminatory actions;\nb. obtain protection from economic and sexual exploitation;\nc. obtain protection from physical, psychological, sexual violence, and neglect;\nd. receive work leave while receiving salary or wages in accordance with statutory regulations;\ne. obtain decent work in accordance with her capabilities; 6\nf. obtain education and teaching in all types, levels and pathways of education;\ng. ownership and management of joint assets in marriage in accordance with statutory regulations;\nh. vote and be elected in general elections in accordance with statutory regulations;\ni. receive special protection in the implementation of work or profession against matters that may threaten safety and or health in relation to women's reproductive function; and\nj. obtain health services in accordance with standards.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 60,
+          "text": "Article 38\n(1) Regional Government in the effort of special protection for children is responsible for:\na. providing facilities and infrastructure in the implementation of special protection for children;\nb. providing access to public services and social services for children with disabilities;\nc. establishing and implementing policies and programs/activities for special protection of children;\nd. conducting cooperation with the community and/or community organizations in the implementation of special protection for children in accordance with laws and regulations;\ne. conducting rehabilitation and assistance for children who are victims of violence;\nf. providing special protection to children in emergency situations, children in conflict with the law, children victims of violence and human trafficking, children from minority and isolated groups, children exploited economically and/or sexually, children who are victims of narcotics, alcohol, psychotropic substances abuse, and HIV/AIDS;\ng. providing inclusive education for children with special needs; and\nh. taking preventive measures in order to prevent violations of children's rights.\n(2) The responsibility of the Regional Government in the effort of special protection for children as referred to in paragraph (1) shall be implemented by regional apparatus that carries out authority affairs in the social sector.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 49\nCriteria for women and children victims of violence who require a safe house include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far; and/or\nd. abandoned if not placed in a safe house. Article 50 The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness consisting of:\na. social workers or volunteers;\nb. security officers; and/or\nc. community leaders.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VI\nHANDLING OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE First Part General",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Solok.\n2. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Solok.\n4. Regional Apparatus is an auxiliary element of the Mayor and DPRD in the administration of government affairs that are the authority of the Region.\n5. Protection of Women is all efforts to guarantee and protect the rights of women so that they can live healthily, develop themselves and participate optimally in accordance with human dignity and obtain protection from neglect, violence, and discrimination whether in the form of preventive, repressive, or postremedial protection.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n7. Child Rights are part of human rights that must be guaranteed, protected and fulfilled by parents, family, community, government and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity, and receive protection from violence and discrimination.\n9. Neglected Child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual, or social.\n10. Street Child is a child whose life is irregular by spending most of their time outside the home to seek livelihood on the streets or in public places.\n11. Regional Child Forum hereinafter referred to as Forda is a forum for child participation formed with the aim of facilitating the involvement of children in the decision-making process and enjoying changes relating to their lives either directly or indirectly, which is carried out with the approval and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n12. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems\n13. Service is an action that must be immediately taken to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n14. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate, optimally in accordance with human dignity, and receive protection from violence and discrimination.\n15. Assistance is all actions taken in the form of complaint services, health, advocacy and legal aid, social rehabilitation including spiritual guidance, counseling, psychological therapy and economic empowerment, repatriation and social rehabilitation for the purpose of strengthening and advocacy as well as recovery of victims of violence;\n16. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n17. Violence against Women is any action based on gender differences that results in or may result in misery or suffering of women, physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n18. Complaint Handling is a series of actions carried out by integrated service providers to follow up on reports of acts of violence against women and children submitted by victims, families and the community.\n19. Social Rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions properly.\n20. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of violence against women and children.\n21. Social Rehabilitation is an effort to reunite victims with their families, substitute families, or communities that can provide protection and fulfillment of needs for victims.\n22. Spiritual Guidance is an effort to restore the psyche through strengthening the religion adhered to by the victim.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 40\n(1) The responsibility of parents and family towards special protection of children is as follows:\na. providing formal and non-formal education in accordance with their talents and interests;\nb. caring for, maintaining, educating and protecting children from acts of violence, exploitation, pornography, emergency situations and the possibility of children coming into conflict with the law; and\nc. facilitating children with special needs and children in conflict with the law as well as children who are victims of violence, exploitation, pornography and emergency situations.\n(2) In the event that parents do not exist, or their whereabouts are unknown, or due to a certain reason cannot carry out their responsibility, then the responsibility as referred to in paragraph (1) shall transfer to a guardian.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 95,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF SOLOK CITY\nNUMBER 2 OF 2020\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION OF WOMEN AND CHILDREN\n\nI. GENERAL\n\nThe Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improvement of Services, empowerment and community participation. One of the authorities of regional government is to make regional policies with the aim of improving the welfare of the community in their region.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the Right to recognition, guarantee, Protection and just legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every Child has the Right to survival, growth and development as well as the Right to Protection from Violence and discrimination. This shows that female Children should be protected by the state, particularly against Violence because their Rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and Violence against women and Children, especially for the Solok City region. Solok City is one of the parties most authorized in carrying out women's empowerment and Child Protection by conducting and formulating regulations in order to provide guarantees for the implementation of Protection of Women and Children.\n\nOne form of such regulation is the Regional Regulation of Solok City. The regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and Children victims of Violence.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\nEvery child has the right to:\na. play, create, participate, grow and develop;\nb. freedom of assembly, association, live with parents, maintain contact with parents if separated and survival;\nc. obtain a name, identity, citizenship, education, information appropriate for children;\nd. obtain health standards in accordance with proper living standards;\ne. obtain protection and affection from parents;\nf. obtain protection from exploitation as child laborers, minority groups/isolated indigenous groups and from sights or circumstances which by their nature are not yet appropriate for children to see; and\ng. obtain special protection in critical/emergency situations, displacement/displaced persons/evicted persons, if experiencing legal conflict and armed conflict or social conflict.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text addresses disability primarily for children, not women: Pasal 38(1) huruf b requires access to public/social services for \"anak penyandang cacat\" (children with disabilities), and Pasal 24(2)-(3) discusses education services/teachers for children with disabilities. The judge acknowledged it was not specifically about women with disabilities but still marked 'Yes'. If the indicator is about disability as an intersectional group within VAW policy (women with disabilities), the document does not clearly provide disability-targeted VAW measures; it is child-focused. Therefore the false positive is best explained by evaluation failure (overly broad interpretation of disability coverage).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SUMATERA_BARAT_SOLOK_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-25T10:01:31.472875+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 10,
+  "diagnosed_count": 10
+}

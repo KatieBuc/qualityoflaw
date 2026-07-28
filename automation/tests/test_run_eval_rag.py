@@ -54,15 +54,15 @@ def test_cited_candidate_gets_copied_as_final_evidence(tmp_path):
     (criteria_dir / "01_scope.txt").write_text("1.1 | Domestic violence | does it cover DV?\n", encoding="utf-8")
 
     def complete_fn(prompt: str) -> dict:
-        # The candidate for "1.1" is chunk_id 0, so its tag is "1.1-0".
-        assert "[1.1-0]" in prompt
+        # The candidate for "1.1" is chunk_id 0, sentence 0, so its tag is "1.1-0.0".
+        assert "[1.1-0.0]" in prompt
         return {
             "evaluation_results": {
                 "1.1": {
                     "id": "1.1",
                     "indicator": "Domestic violence",
                     "included": "Yes",
-                    "evidence": "1.1-0",
+                    "evidence": ["1.1-0.0"],
                     "rationale": "stated directly",
                 }
             }
@@ -115,7 +115,7 @@ def test_cited_candidate_tag_may_include_brackets(tmp_path):
                     "id": "1.1",
                     "indicator": "Domestic violence",
                     "included": "Yes",
-                    "evidence": "[1.1-0]",
+                    "evidence": ["[1.1-0.0]"],
                     "rationale": "stated directly",
                 }
             }
@@ -161,7 +161,7 @@ def test_unresolvable_citation_gets_nulled_and_flagged(tmp_path):
                     "id": "1.1",
                     "indicator": "Domestic violence",
                     "included": "Yes",
-                    "evidence": "This sentence about domestic violence was never actually in the document.",
+                    "evidence": ["This sentence about domestic violence was never actually in the document."],
                     "rationale": "stated directly",
                 }
             }
@@ -249,7 +249,7 @@ def test_verification_disabled_skips_resolution_entirely(tmp_path):
                     "id": "1.1",
                     "indicator": "Domestic violence",
                     "included": "Yes",
-                    "evidence": "1.1-0",
+                    "evidence": ["1.1-0.0"],
                     "rationale": "stated directly",
                 }
             }
@@ -269,5 +269,5 @@ def test_verification_disabled_skips_resolution_entirely(tmp_path):
     item = result.batch_evals["1.1"]
     # Resolution is skipped entirely when disabled: the raw LLM output passes
     # through untouched (legacy trust-the-LLM behavior).
-    assert item["evidence"] == "1.1-0"
+    assert item["evidence"] == ["1.1-0.0"]
     assert item["evidence_verified"] is None
