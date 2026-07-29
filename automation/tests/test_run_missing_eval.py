@@ -86,8 +86,8 @@ def test_has_eval_report_by_filename_suffix(data_root):
 def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipeline_config, data_root):
     run_id = "eval_missing"
     run_dir = data_root / run_id
-    translation_dir = run_dir / "translation"
-    evaluation_dir = run_dir / "evaluation"
+    translation_dir = run_dir / "results" / "translation"
+    evaluation_dir = run_dir / "results" / "evaluation"
     translation_dir.mkdir(parents=True)
     evaluation_dir.mkdir(parents=True)
 
@@ -137,8 +137,8 @@ def test_run_evaluation_step_skips_existing_by_default(mock_eval_parallel, pipel
 def test_run_evaluation_step_force_reruns_existing(mock_eval_parallel, pipeline_config, data_root):
     run_id = "eval_force"
     run_dir = data_root / run_id
-    translation_dir = run_dir / "translation"
-    evaluation_dir = run_dir / "evaluation"
+    translation_dir = run_dir / "results" / "translation"
+    evaluation_dir = run_dir / "results" / "evaluation"
     translation_dir.mkdir(parents=True)
     evaluation_dir.mkdir(parents=True)
 

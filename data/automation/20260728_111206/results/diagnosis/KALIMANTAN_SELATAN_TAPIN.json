@@ -1,0 +1,474 @@
+{
+  "diagnoses": {
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences discuss general violence, protection, and empowerment objectives, but do not explicitly mention economic violence, economic exploitation, or domestic neglect as forms of violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(2) The implementation of policies, programs and activities for the protection of women as referred to in paragraph (1) shall be coordinated by the Vice Regent.\n(3) The work unit whose duties and functions handle the empowerment of women shall implement the policies, programs and activities for the protection of women that have been established, and in their implementation cooperate with Regional Apparatus Work Units, Community Institutions, Universities, and civil society.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\n(5) The integration of policies, programs and activities for the protection of women into regional development planning, which is set forth in planning and budget documents covering the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Plan (RPJMD), Strategic Plan of Regional Apparatus Work Units (Renstra SKPD), Regional Government Work Plan (RKPD), and Work Plan and Budget of Regional Apparatus Work Units (RKA SKPD).\n(6) The integration of policies, programs and activities for the protection of women shall be facilitated by the work unit whose duties and functions handle the empowerment of women in the region in coordination with the Regional Development Planning Agency.",
+          "score": 0.03128054740957967
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 17\n(1) The provision of protection services for women as referred to in Article 16 letter e shall be in the form of victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance, or other forms.\n(2) The provision of protection services for women referred to in paragraph (1) shall be provided for women who are:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. heads of households; and\ni. other vulnerable groups.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\n(1) Every woman has the right:\na. to live, sustain life and improve her standard of living;\nb. to live peacefully, safely, tranquilly, happily, prosperously both physically and spiritually;\nc. to a good and healthy living environment;\nd. to live in a family within the bonds of a legal marriage; e. to choose work that she likes and is also entitled to fair employment conditions;\nf. to receive fair wages in accordance with her work that is comparable and commensurate with human dignity.\n(2) A legal marriage can only take place based on the free will of the woman and the man in accordance with statutory regulations.\n(3) Every woman who is in a condition of disability, elderly age, or pregnant, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, with physical disability and/or mental disability, has the right to obtain care, education, training, and special assistance at the expense of the regional government, to ensure a decent life in accordance with human dignity.\n(5) The rights of women as referred to in paragraph (3) and paragraph (4) shall be regulated by Regent Regulation.\nPart Two\nPolitical Sector",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 2()\n(1) The community can participate in the implementation of protection and empowerment of women.\n(2) Community participation as referred to in paragraph (1) (2t can be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (l) (3) can take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) are regulated by Regent Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\n(1) The Regional Government provides protection to elderly women who are not independent, in a state of disability so that they can realize and enjoy a proper standard of living.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.\n\nArticle 11\n(1) The Regional Government provides protection and a sense of security as well as strives to fulfill basic needs for women who are in conflict areas and/or disaster-affected areas.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER TX\nREPORTING\nArticle 24\nThe Regent submits a report on the implementation of policies, programs (1) and activities for the protection of women in their region to the Governor.\nThe implementation of reporting as referred to in paragraph (1) is carried out annually and/or when necessary. The form of reporting as referred to in paragraph (2) (3) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe objectives of the Protection and Empowerment of Women are to: a. prevent and address risks from the vulnerability of women so that their survival can be fulfilled in accordance with minimum basic needs;\nb. empower women both individually and in groups, and communities experiencing gender issues so that they are able to fulfill their needs independently; and\nc. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the definition of “Kekerasan Berbasis Gender” (Pasal 1 angka 8) is limited to suffering/hardship caused by imbalance in relations and explicitly lists physical, sexual, and/or psychological violence, plus threats, coercion, or arbitrary deprivation of liberty, occurring in private/domestic and public spheres. Nowhere does the regulation explicitly define or mention economic violence (kekerasan ekonomi), economic exploitation, deprivation of economic resources, or neglect as a form of violence. The retrieved English passages accurately reflect this (general violence/protection only). Therefore the judge’s “No” is consistent with the text, and the golden “Yes” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "2.5": {
+      "indicator": "Training and capacity building",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\nc. strengthen institutional capacity for gender mainstreaming for the implementation of policies, programs and activities for the protection of women;",
+      "evaluator_rationale": "The policy includes training among the forms of implementation activities and also mandates strengthening institutional capacity for gender mainstreaming, which together indicate training/capacity-building provisions for implementation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 15\n(1) In implementing policies, programs, and activities for the protection of women, Regional Governments may conduct cooperation with International Institutions.\n(2) Cooperation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\nArticle 16\nThe Regent in implementing policies, programs, and activities for the protection of women shall undertake efforts to:\na. coordinate the implementation of policies, programs, and activities for the protection of women among Regional Apparatus Work Units;\nb. cooperate with Regencies/Cities within one Province, and cooperation between Regencies/Cities in other Provinces in the implementation of policies, programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen institutional capacity for gender mainstreaming for the implementation of policies, programs and activities for the protection of women;\nd. facilitate protection services for women;\ne. provide protection services for women;\nf. implement affirmative action for the protection of women; and\ng. formulate a data system for the protection of women.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 17\n(1) The provision of protection services for women as referred to in Article 16 letter e shall be in the form of victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance, or other forms.\n(2) The provision of protection services for women referred to in paragraph (1) shall be provided for women who are:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. heads of households; and\ni. other vulnerable groups.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(2) The implementation of policies, programs and activities for the protection of women as referred to in paragraph (1) shall be coordinated by the Vice Regent.\n(3) The work unit whose duties and functions handle the empowerment of women shall implement the policies, programs and activities for the protection of women that have been established, and in their implementation cooperate with Regional Apparatus Work Units, Community Institutions, Universities, and civil society.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\n(5) The integration of policies, programs and activities for the protection of women into regional development planning, which is set forth in planning and budget documents covering the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Plan (RPJMD), Strategic Plan of Regional Apparatus Work Units (Renstra SKPD), Regional Government Work Plan (RKPD), and Work Plan and Budget of Regional Apparatus Work Units (RKA SKPD).\n(6) The integration of policies, programs and activities for the protection of women shall be facilitated by the work unit whose duties and functions handle the empowerment of women in the region in coordination with the Regional Development Planning Agency.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER VIII\nFUNDING\nArticle 23\n(1) Funding for the implementation of policies, programs and activities for the protection of women in the region is sourced from the Regional Revenue and Expenditure Budget, and other legitimate sources of income that are non-binding.\n(2) In the event that the region receives funding assistance for the implementation of policies, programs and activities for the protection of women from the Government, it shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 2()\n(1) The community can participate in the implementation of protection and empowerment of women.\n(2) Community participation as referred to in paragraph (1) (2t can be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (l) (3) can take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) are regulated by Regent Regulation.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 21\n(1) To guarantee synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women, the Regional Government conducts monitoring.\n\n(2) Monitoring as referred to in paragraph (1) is intended to determine progress in the implementation of policies, programs, and activities for the protection of women in the region.\n\n(3) Monitoring is conducted periodically through coordination and direct monitoring of Regional Work Units that implement policies, programs and activities for the protection of women.\n\n(4) Monitoring is conducted from the planning stage through to the implementation of policies, programs and activities for the protection of women for the current year.\n\nArticle 22\n(1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year.\n\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the protection of women are used as input material for the formulation of policies, programs, and activities for the protection of women for the following year.\n\n(3) Evaluation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.015873015873015872
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly includes “pelatihan” (training) as part of implementation activities: Pasal 13 ayat (4) lists “analisis kebijakan, koordinasi, advokasi, sosialisasi, komunikasi, informasi, dan edukasi (KIE), pelatihan, ...”. It also includes “penguatan kapasitas kelembagaan pengarusutamaan gender” (strengthening institutional capacity for gender mainstreaming) in Pasal 16 huruf c. These are clear training/capacity-building provisions. The retrieved English passages capture this correctly, and the judge’s “Yes” follows from the text. Thus the golden label “No” likely is wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.",
+      "evaluator_rationale": "The policy mandates implementation of policies/programs to eliminate acts of violence against women and specifies that implementation includes socialization, communication, information, and education activities, which are awareness/education measures linked to preventing VAW.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(2) The implementation of policies, programs and activities for the protection of women as referred to in paragraph (1) shall be coordinated by the Vice Regent.\n(3) The work unit whose duties and functions handle the empowerment of women shall implement the policies, programs and activities for the protection of women that have been established, and in their implementation cooperate with Regional Apparatus Work Units, Community Institutions, Universities, and civil society.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\n(5) The integration of policies, programs and activities for the protection of women into regional development planning, which is set forth in planning and budget documents covering the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Plan (RPJMD), Strategic Plan of Regional Apparatus Work Units (Renstra SKPD), Regional Government Work Plan (RKPD), and Work Plan and Budget of Regional Apparatus Work Units (RKA SKPD).\n(6) The integration of policies, programs and activities for the protection of women shall be facilitated by the work unit whose duties and functions handle the empowerment of women in the region in coordination with the Regional Development Planning Agency.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe objectives of the Protection and Empowerment of Women are to: a. prevent and address risks from the vulnerability of women so that their survival can be fulfilled in accordance with minimum basic needs;\nb. empower women both individually and in groups, and communities experiencing gender issues so that they are able to fulfill their needs independently; and\nc. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 2()\n(1) The community can participate in the implementation of protection and empowerment of women.\n(2) Community participation as referred to in paragraph (1) (2t can be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (l) (3) can take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) are regulated by Regent Regulation.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 21\n(1) To guarantee synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women, the Regional Government conducts monitoring.\n\n(2) Monitoring as referred to in paragraph (1) is intended to determine progress in the implementation of policies, programs, and activities for the protection of women in the region.\n\n(3) Monitoring is conducted periodically through coordination and direct monitoring of Regional Work Units that implement policies, programs and activities for the protection of women.\n\n(4) Monitoring is conducted from the planning stage through to the implementation of policies, programs and activities for the protection of women for the current year.\n\nArticle 22\n(1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year.\n\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the protection of women are used as input material for the formulation of policies, programs, and activities for the protection of women for the following year.\n\n(3) Evaluation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 17\n(1) The provision of protection services for women as referred to in Article 16 letter e shall be in the form of victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance, or other forms.\n(2) The provision of protection services for women referred to in paragraph (1) shall be provided for women who are:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. heads of households; and\ni. other vulnerable groups.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 15\n(1) In implementing policies, programs, and activities for the protection of women, Regional Governments may conduct cooperation with International Institutions.\n(2) Cooperation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\nArticle 16\nThe Regent in implementing policies, programs, and activities for the protection of women shall undertake efforts to:\na. coordinate the implementation of policies, programs, and activities for the protection of women among Regional Apparatus Work Units;\nb. cooperate with Regencies/Cities within one Province, and cooperation between Regencies/Cities in other Provinces in the implementation of policies, programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen institutional capacity for gender mainstreaming for the implementation of policies, programs and activities for the protection of women;\nd. facilitate protection services for women;\ne. provide protection services for women;\nf. implement affirmative action for the protection of women; and\ng. formulate a data system for the protection of women.",
+          "score": 0.014705882352941176
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Although the regulation does not create a standalone VAW-prevention education program, it does mandate KIE activities as part of implementing women’s protection policies aimed at eliminating violence: Pasal 13 ayat (1) targets eliminating “tindak kekerasan terhadap perempuan,” and ayat (4) explicitly includes “sosialisasi, komunikasi, informasi, dan edukasi (KIE)” as implementation forms. This is information/education linked to addressing/eliminating VAW. The English candidates reflect this accurately, so the judge’s “Yes” is reasonable. The golden “No” appears inconsistent with the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\nThis empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+      "evaluator_rationale": "The policy explicitly includes advocacy, socialization, communication, information, and education (KIE) and training as forms of implementation for women’s protection/empowerment, and it frames empowerment as aimed at gender equality, indicating educational/awareness activities related to gender equality and women’s rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 21\n(1) To guarantee synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women, the Regional Government conducts monitoring.\n\n(2) Monitoring as referred to in paragraph (1) is intended to determine progress in the implementation of policies, programs, and activities for the protection of women in the region.\n\n(3) Monitoring is conducted periodically through coordination and direct monitoring of Regional Work Units that implement policies, programs and activities for the protection of women.\n\n(4) Monitoring is conducted from the planning stage through to the implementation of policies, programs and activities for the protection of women for the current year.\n\nArticle 22\n(1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year.\n\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the protection of women are used as input material for the formulation of policies, programs, and activities for the protection of women for the following year.\n\n(3) Evaluation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(2) The implementation of policies, programs and activities for the protection of women as referred to in paragraph (1) shall be coordinated by the Vice Regent.\n(3) The work unit whose duties and functions handle the empowerment of women shall implement the policies, programs and activities for the protection of women that have been established, and in their implementation cooperate with Regional Apparatus Work Units, Community Institutions, Universities, and civil society.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\n(5) The integration of policies, programs and activities for the protection of women into regional development planning, which is set forth in planning and budget documents covering the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Plan (RPJMD), Strategic Plan of Regional Apparatus Work Units (Renstra SKPD), Regional Government Work Plan (RKPD), and Work Plan and Budget of Regional Apparatus Work Units (RKA SKPD).\n(6) The integration of policies, programs and activities for the protection of women shall be facilitated by the work unit whose duties and functions handle the empowerment of women in the region in coordination with the Regional Development Planning Agency.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 15\n(1) In implementing policies, programs, and activities for the protection of women, Regional Governments may conduct cooperation with International Institutions.\n(2) Cooperation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\nArticle 16\nThe Regent in implementing policies, programs, and activities for the protection of women shall undertake efforts to:\na. coordinate the implementation of policies, programs, and activities for the protection of women among Regional Apparatus Work Units;\nb. cooperate with Regencies/Cities within one Province, and cooperation between Regencies/Cities in other Provinces in the implementation of policies, programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen institutional capacity for gender mainstreaming for the implementation of policies, programs and activities for the protection of women;\nd. facilitate protection services for women;\ne. provide protection services for women;\nf. implement affirmative action for the protection of women; and\ng. formulate a data system for the protection of women.",
+          "score": 0.030834914611005692
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER VIII\nFUNDING\nArticle 23\n(1) Funding for the implementation of policies, programs and activities for the protection of women in the region is sourced from the Regional Revenue and Expenditure Budget, and other legitimate sources of income that are non-binding.\n(2) In the event that the region receives funding assistance for the implementation of policies, programs and activities for the protection of women from the Government, it shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe objectives of the Protection and Empowerment of Women are to: a. prevent and address risks from the vulnerability of women so that their survival can be fulfilled in accordance with minimum basic needs;\nb. empower women both individually and in groups, and communities experiencing gender issues so that they are able to fulfill their needs independently; and\nc. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection and Empowerment of Women is based on: a. respect for Human Rights;\nb. gender justice and equality;\nc. non-discrimination; and\nd. protection.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy repeatedly frames empowerment/protection around gender equality and includes education/socialization mechanisms. Pasal 2 includes “keadilan dan kesetaraan gender” as a principle, and Pasal 13 ayat (4) includes “informasi, dan edukasi (KIE)” and “pelatihan.” The explanatory section (Penjelasan Umum) also states empowerment is aimed at “kesetaraan gender” so women can obtain opportunities and rights. While not a school-curriculum mandate, the text does support gender-equality education/awareness activities via KIE. The retrieved English passages contain this, so the judge’s “Yes” is supported; the golden “No” likely is wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.",
+      "evaluator_rationale": "The policy’s stated aim includes eliminating acts of violence against women, and it lists information and education (KIE) among the implementation forms, making education an explicit strategy within efforts that include preventing/eliminating VAW.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\n(1) The Regent implements policies, programs and activities for the protection of women, to eliminate all forms of discrimination and acts of violence against women in their region.\n(2) The implementation of policies, programs and activities for the protection of women as referred to in paragraph (1) shall be coordinated by the Vice Regent.\n(3) The work unit whose duties and functions handle the empowerment of women shall implement the policies, programs and activities for the protection of women that have been established, and in their implementation cooperate with Regional Apparatus Work Units, Community Institutions, Universities, and civil society.\n(4) The implementation as referred to in paragraph (3) shall be in the form of: policy analysis, coordination, advocacy, socialization, communication, information, and education (KIE), training, service facilitation, service provision, model development, and other forms.\n(5) The integration of policies, programs and activities for the protection of women into regional development planning, which is set forth in planning and budget documents covering the Regional Long-Term Development Plan (RPJPD), Regional Medium-Term Plan (RPJMD), Strategic Plan of Regional Apparatus Work Units (Renstra SKPD), Regional Government Work Plan (RKPD), and Work Plan and Budget of Regional Apparatus Work Units (RKA SKPD).\n(6) The integration of policies, programs and activities for the protection of women shall be facilitated by the work unit whose duties and functions handle the empowerment of women in the region in coordination with the Regional Development Planning Agency.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe objectives of the Protection and Empowerment of Women are to: a. prevent and address risks from the vulnerability of women so that their survival can be fulfilled in accordance with minimum basic needs;\nb. empower women both individually and in groups, and communities experiencing gender issues so that they are able to fulfill their needs independently; and\nc. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 17\n(1) The provision of protection services for women as referred to in Article 16 letter e shall be in the form of victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance, or other forms.\n(2) The provision of protection services for women referred to in paragraph (1) shall be provided for women who are:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. heads of households; and\ni. other vulnerable groups.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 2()\n(1) The community can participate in the implementation of protection and empowerment of women.\n(2) Community participation as referred to in paragraph (1) (2t can be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (l) (3) can take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) are regulated by Regent Regulation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 21\n(1) To guarantee synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women, the Regional Government conducts monitoring.\n\n(2) Monitoring as referred to in paragraph (1) is intended to determine progress in the implementation of policies, programs, and activities for the protection of women in the region.\n\n(3) Monitoring is conducted periodically through coordination and direct monitoring of Regional Work Units that implement policies, programs and activities for the protection of women.\n\n(4) Monitoring is conducted from the planning stage through to the implementation of policies, programs and activities for the protection of women for the current year.\n\nArticle 22\n(1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year.\n\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the protection of women are used as input material for the formulation of policies, programs, and activities for the protection of women for the following year.\n\n(3) Evaluation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 4\nParagraph (1) Sufficiently Clear Paragraph (2) Sufficiently Clear Paragraph (3) Disability or impairment is an abnormality in the organs of a living being's body that can be physical, cognitive, mental, sensory, emotional, developmental in nature or some combination of these.\nParagraph (4) Sufficiently Clear Paragraph (5) Sufficiently Clear :",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Pasal 13 links eliminating violence/discrimination against women with implementation activities that include “informasi, dan edukasi (KIE)” and “sosialisasi” (Pasal 13 ayat (4)). That is an explicit education/awareness approach within the protection framework addressing violence against women. The English candidates reflect the Indonesian accurately, so the judge’s “Yes” is defensible. The golden label “No” appears incorrect given the presence of KIE/education as an implementation modality tied to eliminating VAW.",
+      "diagnosis_status": "ok"
+    },
+    "5.8": {
+      "indicator": "Private sector engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences do not explicitly identify businesses/companies/the private sector as stakeholders in prevention, protection, or service delivery (references are to community participation, civil society, and general non-government actors without specifying the private sector).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER VI\nCOMMUNITY PARTICIPATION\nArticle 2()\n(1) The community can participate in the implementation of protection and empowerment of women.\n(2) Community participation as referred to in paragraph (1) (2t can be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (l) (3) can take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) are regulated by Regent Regulation.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 17\n(1) The provision of protection services for women as referred to in Article 16 letter e shall be in the form of victim identification, legal assistance, medical rehabilitation, psychosocial rehabilitation, social reintegration, repatriation assistance, or other forms.\n(2) The provision of protection services for women referred to in paragraph (1) shall be provided for women who are:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. heads of households; and\ni. other vulnerable groups.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\n(1) The Regional Government provides protection to elderly women who are not independent, in a state of disability so that they can realize and enjoy a proper standard of living.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.\n\nArticle 11\n(1) The Regional Government provides protection and a sense of security as well as strives to fulfill basic needs for women who are in conflict areas and/or disaster-affected areas.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nTHE PROTECTION AND EMPOWERMENT OF WOMEN\nI. GENERAL\nWomen in the history of human life have indeed been in a disadvantageous condition. This means that in social community life, women have always been the party that is placed second after men, and even more tragically, the history of women in their social life can be said to have experienced a concerning historical condition.\nIn its development, although it can be said that the struggle of women has been quite successful, it needs to receive vigilance. This means that women must always be protected from actions that harm them due to their vulnerable condition. Women as a national asset who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination.\nIn addition to women needing to be protected, and in their development increasingly being able to protect themselves, women must be empowered. This empowerment is importantly aimed at gender equality, namely a condition of equality for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.02919863597612958
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe objectives of the Protection and Empowerment of Women are to: a. prevent and address risks from the vulnerability of women so that their survival can be fulfilled in accordance with minimum basic needs;\nb. empower women both individually and in groups, and communities experiencing gender issues so that they are able to fulfill their needs independently; and\nc. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 4\nParagraph (1) Sufficiently Clear Paragraph (2) Sufficiently Clear Paragraph (3) Disability or impairment is an abnormality in the organs of a living being's body that can be physical, cognitive, mental, sensory, emotional, developmental in nature or some combination of these.\nParagraph (4) Sufficiently Clear Paragraph (5) Sufficiently Clear :",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\n(1) Every woman has the right:\na. to live, sustain life and improve her standard of living;\nb. to live peacefully, safely, tranquilly, happily, prosperously both physically and spiritually;\nc. to a good and healthy living environment;\nd. to live in a family within the bonds of a legal marriage; e. to choose work that she likes and is also entitled to fair employment conditions;\nf. to receive fair wages in accordance with her work that is comparable and commensurate with human dignity.\n(2) A legal marriage can only take place based on the free will of the woman and the man in accordance with statutory regulations.\n(3) Every woman who is in a condition of disability, elderly age, or pregnant, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, with physical disability and/or mental disability, has the right to obtain care, education, training, and special assistance at the expense of the regional government, to ensure a decent life in accordance with human dignity.\n(5) The rights of women as referred to in paragraph (3) and paragraph (4) shall be regulated by Regent Regulation.\nPart Two\nPolitical Sector",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The Indonesian regulation does engage the private sector explicitly through obligations on “Perusahaan” (companies). Pasal 8 discusses equal opportunity and equal treatment by companies (“perlakuan yang sama dari Perusahaan”), and Pasal 9 states: “Perusahaan yang menggunakan tenaga kerja perempuan, wajib memberikan perlindungan...” (companies employing women must provide protection), with details to be regulated by a Regent Regulation. However, none of the retrieved candidate passages for this indicator included Pasal 8–9; they focused on community participation and general non-government actors. Because the relevant private-sector engagement evidence exists in the source but was not retrieved, the judge reasonably answered “No” based on what they saw.",
+      "diagnosis_status": "ok"
+    },
+    "7.2": {
+      "indicator": "National government budget",
+      "dimension": "budget_funding_sources",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(2) In the event that the region receives funding assistance for the implementation of policies, programs and activities for the protection of women from the Government, it shall be implemented in accordance with the provisions of laws and regulations.",
+      "evaluator_rationale": "The policy explicitly mentions the possibility of receiving funding assistance from “the Government,” indicating national-level government funding support as a source.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 14\n(1) The implementation of policies, programs and activities for the protection of women in the regions is carried out by establishing, developing, strengthening, or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups, or other institutions as referred to in paragraph (1) consists of relevant Regional Work Units, Community Institutions, Universities, and civil society.\n(3) The establishment of task forces, forums, working groups, or other institutions as referred to in paragraph (1) is stipulated by Regent's Decree.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 21\n(1) To guarantee synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of women, the Regional Government conducts monitoring.\n\n(2) Monitoring as referred to in paragraph (1) is intended to determine progress in the implementation of policies, programs, and activities for the protection of women in the region.\n\n(3) Monitoring is conducted periodically through coordination and direct monitoring of Regional Work Units that implement policies, programs and activities for the protection of women.\n\n(4) Monitoring is conducted from the planning stage through to the implementation of policies, programs and activities for the protection of women for the current year.\n\nArticle 22\n(1) Evaluation of the implementation of policies, programs, and activities for the protection of women is conducted at the end of each fiscal year.\n\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the protection of women are used as input material for the formulation of policies, programs, and activities for the protection of women for the following year.\n\n(3) Evaluation as referred to in paragraph (1) is implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER V\nEMPOWERMENT OF WOMEN\nArticle 18\n(1) In order to improve the position, role, and quality of women, as well as efforts to realize equality and gender justice in family life, society, nationhood, and statehood, women must be empowered.\n(2) The empowerment of women as referred to in paragraph (1) is directed toward obtaining opportunities and their rights as human beings, to be able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying the results of development.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\n(1) Every woman has the right:\na. to live, sustain life and improve her standard of living;\nb. to live peacefully, safely, tranquilly, happily, prosperously both physically and spiritually;\nc. to a good and healthy living environment;\nd. to live in a family within the bonds of a legal marriage; e. to choose work that she likes and is also entitled to fair employment conditions;\nf. to receive fair wages in accordance with her work that is comparable and commensurate with human dignity.\n(2) A legal marriage can only take place based on the free will of the woman and the man in accordance with statutory regulations.\n(3) Every woman who is in a condition of disability, elderly age, or pregnant, has the right to obtain facilities and special treatment.\n(4) Every elderly woman, with physical disability and/or mental disability, has the right to obtain care, education, training, and special assistance at the expense of the regional government, to ensure a decent life in accordance with human dignity.\n(5) The rights of women as referred to in paragraph (3) and paragraph (4) shall be regulated by Regent Regulation.\nPart Two\nPolitical Sector",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER VIII\nFUNDING\nArticle 23\n(1) Funding for the implementation of policies, programs and activities for the protection of women in the region is sourced from the Regional Revenue and Expenditure Budget, and other legitimate sources of income that are non-binding.\n(2) In the event that the region receives funding assistance for the implementation of policies, programs and activities for the protection of women from the Government, it shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Tapin Regency.\n2. Regional Government is the Regent as an element of the administration of the Regional Government of Tapin Regency.\n3. Regent is the Regent of Tapin.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of Tapin Regency.\n5. Agency is the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n6. Head of Agency is the Head of the Agency for Women's Empowerment and Family Planning of Tapin Regency.\n7. Gender is a concept that refers to the roles and responsibilities of men and women that have equality in accordance with the development and socio-cultural conditions of society.\n8. Gender-Based Violence is any act of deviation caused by an imbalance in the relations between women and men that results in suffering or hardship for women including children whether physically, sexually and/or psychologically including threats of certain actions, coercion or arbitrary deprivation of freedom that occurs in the private/domestic sphere and in the public sphere.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\n10. Women's Empowerment is any effort to improve physical, mental spiritual, social, knowledge, and skills capabilities so that women are ready to be utilized in accordance with their respective abilities.\n11. Disability is a permanent physical, mental and intellectual, or sensory impairment.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 5\nIn the political sphere, women have the right to:\na. vote and/or be elected in general elections, regional head elections, village head elections and/or other political position elections based on equal rights through direct, general, free, secret, honest and fair voting in accordance with applicable laws and regulations; and\nb. be appointed to any government position.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 15\n(1) In implementing policies, programs, and activities for the protection of women, Regional Governments may conduct cooperation with International Institutions.\n(2) Cooperation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\nArticle 16\nThe Regent in implementing policies, programs, and activities for the protection of women shall undertake efforts to:\na. coordinate the implementation of policies, programs, and activities for the protection of women among Regional Apparatus Work Units;\nb. cooperate with Regencies/Cities within one Province, and cooperation between Regencies/Cities in other Provinces in the implementation of policies, programs, and activities for the protection of women in accordance with the provisions of laws and regulations;\nc. strengthen institutional capacity for gender mainstreaming for the implementation of policies, programs and activities for the protection of women;\nd. facilitate protection services for women;\ne. provide protection services for women;\nf. implement affirmative action for the protection of women; and\ng. formulate a data system for the protection of women.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\nWomen victims of acts of violence have the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling both from individuals, groups or institutions both Government and Non-Government.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\n(1) The Regional Government provides protection to elderly women who are not independent, in a state of disability so that they can realize and enjoy a proper standard of living.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.\n\nArticle 11\n(1) The Regional Government provides protection and a sense of security as well as strives to fulfill basic needs for women who are in conflict areas and/or disaster-affected areas.\n(2) The forms of protection as referred to in paragraph (1) are regulated by Regent Regulation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian funding clause (Pasal 23 ayat (2)) states: “Dalam hal daerah mendapatkan bantuan pendanaan ... dari Pemerintah ...” which in Indonesian legal drafting typically refers to the central/national government (“Pemerintah” vs “Pemerintah Daerah”). This is an explicit acknowledgement of possible funding assistance from the (central) Government, in addition to APBD in ayat (1). The retrieved English passage matches this meaning, and the judge’s “Yes” is supported. Therefore the golden label “No” appears wrong.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_SELATAN_TAPIN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.222374+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

@@ -1,0 +1,210 @@
+{
+  "diagnoses": {
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences describe integrated prevention efforts, establishment of networks/systems, and institutional arrangements (P2TP2A/FPKK), but none explicitly establish or assign responsibility for a data collection/recording/reporting/management system on violence cases or victims within the candidate text for this criterion.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the regional apparatus that administers governmental affairs in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\n- 13 -\nc. establishing a violence prevention system;\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. providing critical education on the rights of women and children for the community.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 56,
+          "text": "I. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and address violence against women and children in the City of Gorontalo so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee their implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment for women and children victims of violence in the City of Gorontalo.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence which includes every act against the law in the form of speech, writing, image, symbol, or body movement, whether with or without using means that cause fear or restrict a person's inherent freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe Protection of Victims aims to:\na. prevent violence against women and children;\nb. provide services to Victims; and\nc. carry out empowerment of women victims of violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by:\n1. Region is the City of Gorontalo.\n2. Mayor is the Head of the Region.\n3. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous Region.\n4. Regional Governance is the administration of government affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n5. Woman is a person who is female by sex.\n6. Child is a person who is not yet 18 years old, including a child still in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n- 5 -\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence that occurs in the area of the City of Gorontalo.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecution, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n15. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A, is an integrated service unit established by the Region to provide services in the context of empowerment of women and children victims of violence.\n16. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct lineage upward or downward up to the third degree.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n19. Forum for the Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through:\na. policy determination;\nb. preparation of program and activity planning;\ne. establishment of P2TP2A;\nd. providing support for facilities and infrastructure;\ne. allocating budget; and\nf. establishment of FPKK.\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides services for victims in the form of:\na. facilitating the establishment of P2TP2A;\nb. facilitating P2TP2A facilities and infrastructure according to capacity; and c. facilitating FPKK as a network forum for victim handling.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits either material or immaterial; and/or\nc. all forms of exploitation of sexual organs or other organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe community and family have obligations and responsibilities which include:\na. preventing the occurrence of violence against women and children;\n-1 1 -\nb. reporting if violence occurs;\nc. protecting victims; and\nd. providing emergency assistance.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obliged to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text DOES assign a data-related function: Pasal 38 huruf e states FPKK shall \"mengumpulkan, menyusun, dan menyajikan laporan data korban kekerasan\" (collect, compile, and present reports of data on victims of violence). That is an explicit data collection/management/reporting responsibility. The judge predicted No because the retrieved candidates (mostly Pasal 21, definitions, etc.) did not mention data systems; however, this is not a retrieval failure because the relevant provision exists in the document and should have been surfaced. Given the discrepancy setup, the most plausible cause is that the judge did not have Pasal 38(e) in the shown candidates and therefore answered No; but since the task asks to diagnose using the original text, the correct label should be Yes. If Pasal 38(e) was actually among candidates (it was not), then it would be a clear judge error; as presented, the pipeline failure is that the judge lacked the key passage. Still, among the provided root-cause options, this is best categorized as evaluation_failure only if we assume the system expected the judge to infer a data system from \"membentuk sistem pencegahan\" in Pasal 21(2)(c), which is too indirect. The direct basis for Yes is Pasal 38(e), which was not retrieved.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. providing critical education on the rights of women and children for the community.",
+      "evaluator_rationale": "The policy includes prevention activities that explicitly involve socialization of relevant laws/regulations and critical education on the rights of women and children, which are information/education measures aimed at preventing violence against women and children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe Protection of Victims aims to:\na. prevent violence against women and children;\nb. provide services to Victims; and\nc. carry out empowerment of women victims of violence.",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the regional apparatus that administers governmental affairs in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a network in efforts to prevent violence;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\n- 13 -\nc. establishing a violence prevention system;\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. providing critical education on the rights of women and children for the community.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 56,
+          "text": "I. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and address violence against women and children in the City of Gorontalo so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee their implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment for women and children victims of violence in the City of Gorontalo.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through:\na. policy determination;\nb. preparation of program and activity planning;\ne. establishment of P2TP2A;\nd. providing support for facilities and infrastructure;\ne. allocating budget; and\nf. establishment of FPKK.\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides services for victims in the form of:\na. facilitating the establishment of P2TP2A;\nb. facilitating P2TP2A facilities and infrastructure according to capacity; and c. facilitating FPKK as a network forum for victim handling.",
+          "score": 0.030090497737556562
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe community and family have obligations and responsibilities which include:\na. preventing the occurrence of violence against women and children;\n-1 1 -\nb. reporting if violence occurs;\nc. protecting victims; and\nd. providing emergency assistance.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by:\n1. Region is the City of Gorontalo.\n2. Mayor is the Head of the Region.\n3. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous Region.\n4. Regional Governance is the administration of government affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n5. Woman is a person who is female by sex.\n6. Child is a person who is not yet 18 years old, including a child still in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n- 5 -\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence that occurs in the area of the City of Gorontalo.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecution, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n15. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A, is an integrated service unit established by the Region to provide services in the context of empowerment of women and children victims of violence.\n16. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct lineage upward or downward up to the third degree.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n19. Forum for the Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 32\nEmpowerment of women victims of violence includes: a. job training;\nb. productive economic enterprises and/or joint business groups; and c. capital assistance.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits either material or immaterial; and/or\nc. all forms of exploitation of sexual organs or other organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services and empowerment for victims of violence in Gorontalo City.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes information/education measures as part of prevention: Pasal 21 ayat (2) huruf d mandates \"melakukan sosialisasi tentang peraturan perundang-undangan\" related to protection of women/children victims of violence, and huruf e mandates \"memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.\" These are clearly information and education activities aimed at preventing VAW/VAC. The retrieved English candidates accurately reflect this, and the judge’s Yes rationale matches the Indonesian. Therefore the golden label of No appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Exploitation as referred to in Article 5 letter e is caused by:\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits either material or immaterial; and/or\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.",
+      "evaluator_rationale": "The policy includes exploitation (including prostitution, forced labor/services, slavery or similar practices) as a form/cause of violence, and defines violence against children to include exploitation, indicating that victims of exploitation/trafficking-related acts fall within the regulation’s scope for protection.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, physical exploitation, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits either material or immaterial; and/or\nc. all forms of exploitation of sexual organs or other organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nThe Protection of Victims aims to:\na. prevent violence against women and children;\nb. provide services to Victims; and\nc. carry out empowerment of women victims of violence.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 56,
+          "text": "I. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and address violence against women and children in the City of Gorontalo so that they are protected from violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee their implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment for women and children victims of violence in the City of Gorontalo.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services and empowerment for victims of violence in Gorontalo City.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by:\n1. Region is the City of Gorontalo.\n2. Mayor is the Head of the Region.\n3. Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous Region.\n4. Regional Governance is the administration of government affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n5. Woman is a person who is female by sex.\n6. Child is a person who is not yet 18 years old, including a child still in the womb.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n- 5 -\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence that occurs in the area of the City of Gorontalo.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecution, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n15. Integrated Service Center for Women and Children Empowerment hereinafter abbreviated as P2TP2A, is an integrated service unit established by the Region to provide services in the context of empowerment of women and children victims of violence.\n16. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct lineage upward or downward up to the third degree.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n19. Forum for the Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through:\na. policy determination;\nb. preparation of program and activity planning;\ne. establishment of P2TP2A;\nd. providing support for facilities and infrastructure;\ne. allocating budget; and\nf. establishment of FPKK.\n(2) To anticipate the occurrence of acts of violence, the Regional Government provides services for victims in the form of:\na. facilitating the establishment of P2TP2A;\nb. facilitating P2TP2A facilities and infrastructure according to capacity; and c. facilitating FPKK as a network forum for victim handling.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 2\nProtection of Victims is based on:\na. respect for and fulfillment of the rights of victims;\nb. justice and gender equality;\nc. non-discrimination;\nd. the best interests of victims; and\ne. empowerment.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence which includes every act against the law in the form of speech, writing, image, symbol, or body movement, whether with or without using means that cause fear or restrict a person's inherent freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 32\nEmpowerment of women victims of violence includes: a. job training;\nb. productive economic enterprises and/or joint business groups; and c. capital assistance.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The regulation’s scope includes exploitation as a form of violence (Pasal 5 huruf e; Pasal 10 defines exploitation including prostitution, forced labor/services, slavery-like practices, etc.). It also references the national anti-trafficking law in the legal basis (\"Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang\"), indicating trafficking-related harms are within the contemplated framework. While the Perda does not use the explicit term \"perdagangan orang\" in operative articles, its inclusion of exploitation (which overlaps strongly with trafficking indicators) supports treating trafficking/exploitation victims as covered victims. The retrieved passages (Pasal 10; definitions including exploitation for children) are consistent with the Indonesian and support a Yes. Thus the golden label No likely reflects an overly narrow interpretation requiring explicit mention of trafficking victims, and appears wrong.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "GORONTALO_GORONTALO_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:39.881251+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

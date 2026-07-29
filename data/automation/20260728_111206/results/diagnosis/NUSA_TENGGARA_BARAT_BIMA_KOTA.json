@@ -1,0 +1,144 @@
+{
+  "diagnoses": {
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text mentions building an information system and includes reporting/monitoring language elsewhere, none of the provided candidate sentences explicitly establish or assign responsibility for a system to collect, document, record, manage, exchange, or maintain data specifically on violence cases/victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of implementing protection for women victims of violence are to: prevent violence against women including human trafficking;\neliminate all forms of violence and exploitation against women;\nprotect and provide a sense of security for women;\nprovide services to women victims of violence, reporters, witnesses; and facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\nThe objectives of implementing protection for women victims of violence as referred to in paragraph (1), include aspects of: prevention;\nservices and assistance;\nreunification; and empowerment.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 16\nIn order to provide services and protection to women from violence, the Regional Government establishes PPT as an integrated service center for women victims of violence.\nPPT as referred to in paragraph (1), consists of elements from the Health Service, Education and Culture Service, Social Service, Cooperatives Industry and Trade Service, Population and Civil Registration Service, Women's Empowerment and Child Protection Service, Civil Service Police Unit, Regional General Hospital, City Police Resort, Non-Governmental Organizations, and Higher Education Institutions.\nThe elements of PPT as referred to in paragraph (2), shall be determined by Mayor's Decree.\nThe provision of services to victims shall be carried out in an integrated manner by PPT.\nPPT as referred to in paragraph (4) may receive and send case referrals from or to other service units in a networked manner.\nPPT provides services and temporary protection in the form of safe houses.\nIn the event that PPT does not yet have a safe house, then victims of violence shall be referred to PPT that has a safe house.\nPPT consists of several counseling fields.\nThe counseling fields as referred to in paragraph (8) consist of: legal field;\nhealth field;\nspiritual field; and psychology field.\nFurther provisions regarding the organizational structure of PPT shall be regulated by Mayor's Regulation.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d is caused by: an act that results in the unfulfillment of a woman's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nan act of deliberately neglecting to maintain, care for, or look after a woman as appropriate, committed by parents, guardians or any other party responsible for her care;\nan act of neglecting a person within the household environment, whereas according to the law applicable to him or her or due to an agreement or contract he or she is obligated to provide livelihood, care, or maintenance to that person; and/or an act that results in economic dependence by means of restricting and/or prohibiting from engaging in decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e is caused by: acts that exploit economically or sexually with the intention of benefiting oneself or others;\nacts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including and not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 34,
+          "text": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 26\nThe Regional Government conducts guidance and supervision of the implementation of protection for women victims of violence.\nThe guidance as referred to in paragraph (1), includes: guidelines and fulfillment standards;\ntechnical guidance and training;\nprovision of facilities;\nmonitoring; and evaluation Supervision as referred to in paragraph (1), is conducted with the principles of: professional;\ntransparent; and accountable.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: Region is the City of Bima.\nRegional Government is the regional head as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\nMayor is the Mayor of Bima.\nRegional Apparatus is an auxiliary element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\nWoman is an adult human of female gender and a person who is legally recognized as a woman.\nPrevention is activities carried out to prevent the occurrence of acts of violence against women.\nProtection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nViolence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\nPhysical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage or fainting and/or causes death.\nPsychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\nSexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and/or certain purposes.\nVictim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\nCommunity is individuals, families, groups, social organizations and/or community organizations.\nFamily is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of the woman.\nParents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.\nService is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\nAssistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-empowerment of victims of violence to resolve the problems they face.\nRepatriation is an effort to return women victims of violence to the family, substitute family, or community that can provide protection and fulfill their needs.\nRehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.\nSocial Reintegration is an effort to reunite victims with family, community, institutions, or other social environments that can provide protection.\nInstitution is an agency/office/body/office within the scope of regional government and/or non-governmental organizations that provide assistance.\nIntegrated Service Center hereinafter referred to as PPT is a general term that can be used by various institutions that provide services for victims of violence.\nRegional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women victims of violence.\nSafe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 22\nPrevention of the occurrence of violence against women as referred to in Article 21, is implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\neducation;\nmanpower;\nwomen's empowerment and child protection;\nmental and spiritual; and peace and order.\nPrevention of violence by regional apparatus as referred to in paragraph (1), is implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nSexual violence as referred to in Article 4 letter c is caused by: acts in the form of sexual harassment;\nforced sexual relations;\nforced sexual relations in an unnatural or unwanted manner; and/or forced sexual relations with another person for commercial purposes and or specific purposes.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\nRegional Government implements efforts to protect women victims of violence through: policies, programs, and activities for the protection of women victims of violence;\nestablishment of PPT;\nease of service to victims;\npursuing effectiveness and efficiency for the victim recovery process; and cooperation and coordination in victim recovery efforts.\nIn order to implement the obligations and responsibilities as referred to in paragraph (1) letter b, the regional government establishes programs and action activities for the protection of women in 1 (one) Regional Action Plan as a basis for regional apparatus in implementing protection for women victims of violence.\nThe Regional Action Plan as referred to in paragraph (2), constitutes part of the Regional Medium-Term Development Plan (RPJMD).\nThe Regional Action Plan as referred to in paragraph (2), is further regulated by Mayor Regulation.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text does contain an explicit commitment to an information system: Pasal 21 ayat (2) includes “membangun dan menyediakan system informasi yang lengkap dan mudah diakses” (build and provide a complete and easily accessible information system) as part of prevention efforts. This sentence was present in the retrieved English candidates ([2.3-26]). While it does not spell out detailed data fields, it does establish an information system as a government effort within the violence-prevention framework, which is typically sufficient for a “data/information systems” indicator. The judge was overly strict by requiring explicit language about collecting/recording case data and/or assigning responsibility, despite the candidate passage already establishing the system.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Forms of prevention of violence against women carried out by PPT, can be implemented through: Socialization activities of Laws and Regulations to the community related to the protection of women's rights; and Training of PPT members related to the implementation of their duties in preventing violence against women.\nthe implementation of independent socialization of women's rights;",
+      "evaluator_rationale": "The policy includes educational/socialization activities related to the protection of women's rights, including independent socialization of women's rights and community socialization of laws and regulations related to protecting women's rights, which constitutes primary prevention education on women's rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nTo prevent the occurrence of violence against women, the government conducts empowerment and awareness-raising to families, parents and the community by providing information, guidance and/or counseling.\nIn addition to empowerment and awareness-raising as referred to in paragraph (1), the government undertakes efforts as follows: increasing the quantity and quality of education both formal and non-formal and informal;\nopening accessibility to obtain education, training, funding, income enhancement and social services;\nopening employment opportunities for women;\nbuilding community participation and concern to implement prevention and protection of women from violence;\nbuilding and providing a complete and easily accessible information system;\nbuilding networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women; and opening complaint posts for the protection of women from violence.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nForms of prevention of violence against women carried out by PPT, can be implemented through: Socialization activities of Laws and Regulations to the community related to the protection of women's rights; and Training of PPT members related to the implementation of their duties in preventing violence against women.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 14\nThe obligations and responsibilities of the community as referred to in Article 12 letter b, shall be implemented in the form of community participation.\nCommunity participation as referred to in paragraph (1), includes: the establishment of family partners at the kelurahan level;\nthe establishment of women's protection units within community organizations;\nthe implementation of independent socialization of women's rights;\nthe provision of first aid to victims; and reporting to the competent authorities if violence against victims occurs in their environment.\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e is caused by: acts that exploit economically or sexually with the intention of benefiting oneself or others;\nacts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including and not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by: Region is the City of Bima.\nRegional Government is the regional head as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\nMayor is the Mayor of Bima.\nRegional Apparatus is an auxiliary element of the regional head and DPRD in the administration of Government Affairs that are the authority of the Region.\nWoman is an adult human of female gender and a person who is legally recognized as a woman.\nPrevention is activities carried out to prevent the occurrence of acts of violence against women.\nProtection is all efforts aimed at providing a sense of security to victims carried out by family, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily or based on court determination.\nViolence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\nPhysical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage or fainting and/or causes death.\nPsychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\nSexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and/or certain purposes.\nVictim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence.\nCommunity is individuals, families, groups, social organizations and/or community organizations.\nFamily is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of the woman.\nParents are biological father and/or mother, or stepfather and/or stepmother, or adoptive father and/or mother.\nService is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\nAssistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-empowerment of victims of violence to resolve the problems they face.\nRepatriation is an effort to return women victims of violence to the family, substitute family, or community that can provide protection and fulfill their needs.\nRehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in society.\nSocial Reintegration is an effort to reunite victims with family, community, institutions, or other social environments that can provide protection.\nInstitution is an agency/office/body/office within the scope of regional government and/or non-governmental organizations that provide assistance.\nIntegrated Service Center hereinafter referred to as PPT is a general term that can be used by various institutions that provide services for victims of violence.\nRegional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women victims of violence.\nSafe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 22\nPrevention of the occurrence of violence against women as referred to in Article 21, is implemented by regional apparatus whose duties and functions are in the fields of: social;\nhealth;\neducation;\nmanpower;\nwomen's empowerment and child protection;\nmental and spiritual; and peace and order.\nPrevention of violence by regional apparatus as referred to in paragraph (1), is implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of implementing protection for women victims of violence are to: prevent violence against women including human trafficking;\neliminate all forms of violence and exploitation against women;\nprotect and provide a sense of security for women;\nprovide services to women victims of violence, reporters, witnesses; and facilitate and mediate household disputes to realize the integrity of a harmonious and prosperous household.\nThe objectives of implementing protection for women victims of violence as referred to in paragraph (1), include aspects of: prevention;\nservices and assistance;\nreunification; and empowerment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nThe implementation of protection for women victims of violence, is carried out based on the principles of: justice;\ngender equality; and non-discrimination.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d is caused by: an act that results in the unfulfillment of a woman's needs properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nan act of deliberately neglecting to maintain, care for, or look after a woman as appropriate, committed by parents, guardians or any other party responsible for her care;\nan act of neglecting a person within the household environment, whereas according to the law applicable to him or her or due to an agreement or contract he or she is obligated to provide livelihood, care, or maintenance to that person; and/or an act that results in economic dependence by means of restricting and/or prohibiting from engaging in decent work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 20,
+          "text": "Second Part\nForm and Mechanism of Prevention and Services by PPT",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian policy explicitly includes education/socialization on women’s rights as a prevention measure. Pasal 17 provides “Kegiatan sosialisasi Peraturan Perundang-Undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan” (socialization of laws/regulations to the community related to protection of women’s rights). Pasal 14 ayat (2) also includes “pelaksanaan sosialisasi hak perempuan secara mandiri” (independent socialization of women’s rights). These are primary-prevention educational activities related to women’s rights/gender equality and were correctly cited by the judge from the retrieved passages. Therefore the predicted “Yes” aligns with the source text, and the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "NUSA_TENGGARA_BARAT_BIMA_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.377546+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 2,
+  "diagnosed_count": 2
+}

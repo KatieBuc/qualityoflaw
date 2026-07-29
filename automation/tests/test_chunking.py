@@ -4,6 +4,7 @@ from automation.src.chunking import (
     STRUCTURE_MARKER_EN_RE,
     Chunk,
     check_fallback_output,
+    check_structural_output,
     chunk_policy_text,
     chunk_policy_text_with_debug,
     clean_text,
@@ -271,6 +272,29 @@ def test_check_fallback_output_flags_disproportionately_long_output():
     assert check_fallback_output("short target", "x" * 1000) is True
     assert check_fallback_output("a reasonably sized target text here", "a similar length output") is False
     assert check_fallback_output("", "anything") is False
+
+
+def test_check_structural_output_flags_runaway_output():
+    # Reproduces the observed hallucination: a 22-char signature-block source
+    # producing a 128K-char unrelated document.
+    assert check_structural_output("BUPATI BLORA,\nCap Ttd.", "x" * 128_418) is True
+
+
+def test_check_structural_output_tolerates_normal_legal_expansion():
+    source = "Pasal 5\n" + ("Ketentuan ini berlaku efektif sejak diundangkan. " * 20)
+    # ~1.3x expansion, typical for Indonesian->English legal translation.
+    translated = "Article 5\n" + ("This provision takes effect from the date of promulgation. " * 20)
+    assert check_structural_output(source, translated) is False
+
+
+def test_check_structural_output_ignores_short_titles_despite_high_ratio():
+    # "BAB I" -> "CHAPTER I" is a ~1.8x ratio but tiny in absolute size —
+    # must not be flagged (below STRUCTURAL_MIN_SUSPICIOUS_CHARS).
+    assert check_structural_output("BAB I", "CHAPTER I") is False
+
+
+def test_check_structural_output_empty_source_never_flagged():
+    assert check_structural_output("", "x" * 10_000) is False
 
 
 def test_chunk_policy_text_with_debug_matches_chunk_policy_text():

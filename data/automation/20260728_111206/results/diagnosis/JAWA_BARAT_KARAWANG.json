@@ -1,0 +1,408 @@
+{
+  "diagnoses": {
+    "1.3": {
+      "indicator": "Physical violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences refer generally to “acts of violence” and “criminal violence” but do not explicitly mention physical violence as a distinct form.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER IV\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups and/or social community organizations.\n(3) Community participation as referred to in paragraph (2) may take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) Further provisions regarding the procedures for community participation as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 0,
+          "text": "WEST JAVA PROVINCE\nREGIONAL REGULATION OF KARAWANG REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF KARAWANG,\n\nConsidering : a. that women as one of the community groups whose existence constitutes potential and development assets need to be empowered so that they can actualize their potential optimally to participate in development;\nb. that women as national assets who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination;\nc. that in order to make effective a comprehensive and integrative system in empowering and protecting women in Karawang Regency, regulation regarding the empowerment and protection of women is required;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Number 9) as amended by Law Number 4 of 1968 concerning the Establishment of Purwakarta Regency and Subang Regency by amending Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Year 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 2851);\n3. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention On The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29 Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number\n5679).\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF KARAWANG REGENCY and",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 7\nThe rights of women in public and political life are the right to vote and be elected as well as to obtain equal opportunities to participate in the formulation of government policy up to its implementation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 16\n(1) Regional Governments conduct evaluations of the implementation of policies, programs, and activities for Women's Empowerment and Protection at the end of each fiscal year in accordance with the provisions of laws and regulations.\n(2) The evaluation results as referred to in paragraph (1) are used as input material for the formulation of policies, programs, and activities for Women's Protection for the following year.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe rights of women in the field of Health include:\na. The opportunity to be free from death during childbirth; b. The obtaining of health services, especially family planning services, pregnancy, childbirth and post-childbirth.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation repeatedly uses the generic term “tindak kekerasan” (acts of violence) (e.g., Pasal 9(1), Pasal 11(1)) and provides services for “korban kekerasan” and “rehabilitasi medis/psikososial” (Pasal 13), but it never explicitly enumerates types of violence such as “kekerasan fisik” (physical violence). The retrieved English candidates accurately reflect this general wording. Given the indicator is specifically “Physical violence,” the judge’s ‘No’ is consistent with the text shown and with the Indonesian text; therefore the golden ‘Yes’ likely over-interprets general ‘violence’ as explicitly covering physical violence.",
+      "diagnosis_status": "ok"
+    },
+    "1.4": {
+      "indicator": "Psychological violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences discuss violence in general and psychosocial rehabilitation services, but they do not explicitly identify psychological violence as a form of violence covered.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER IV\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups and/or social community organizations.\n(3) Community participation as referred to in paragraph (2) may take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) Further provisions regarding the procedures for community participation as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.030834914611005692
+        },
+        {
+          "chunk_id": 0,
+          "text": "WEST JAVA PROVINCE\nREGIONAL REGULATION OF KARAWANG REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF KARAWANG,\n\nConsidering : a. that women as one of the community groups whose existence constitutes potential and development assets need to be empowered so that they can actualize their potential optimally to participate in development;\nb. that women as national assets who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination;\nc. that in order to make effective a comprehensive and integrative system in empowering and protecting women in Karawang Regency, regulation regarding the empowerment and protection of women is required;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Number 9) as amended by Law Number 4 of 1968 concerning the Establishment of Purwakarta Regency and Subang Regency by amending Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Year 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 2851);\n3. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention On The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29 Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number\n5679).\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF KARAWANG REGENCY and",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 16\n(1) Regional Governments conduct evaluations of the implementation of policies, programs, and activities for Women's Empowerment and Protection at the end of each fiscal year in accordance with the provisions of laws and regulations.\n(2) The evaluation results as referred to in paragraph (1) are used as input material for the formulation of policies, programs, and activities for Women's Protection for the following year.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 7\nThe rights of women in public and political life are the right to vote and be elected as well as to obtain equal opportunities to participate in the formulation of government policy up to its implementation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nWOMEN'S RIGHTS\nArticle 2\nEvery woman has the right:\na. to live and improve her standard of living;\nb. to security;\nc. to a good and healthy environment;\nd. to form a family and continue descendants;\ne. to work and receive fair wages for her work;\nf. to obtain proper education;\ng. to obtain care, education, training and/or special assistance;\nh. to personal freedom; and\ni. to health.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation does not explicitly mention “kekerasan psikis/psikologis” (psychological violence) as a distinct form. It refers generally to “tindak kekerasan” (Pasal 9, Pasal 11) and includes “rehabilitasi psikososial” as a service component (Pasal 13(1)(d)), but psychosocial rehabilitation is a response service and is not an explicit statement that psychological violence is a covered category. The English candidates reflect this correctly. Thus the judge’s ‘No’ is reasonable, and the golden ‘Yes’ appears to be the problematic label.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;",
+      "evaluator_rationale": "The policy establishes programs and activities to eliminate acts of violence against women and explicitly lists socialization, public communication, information delivery, and education as forms of cooperation/activities under women’s empowerment and protection, which constitute awareness and education measures related to preventing/responding to VAW.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nWomen's Rights in Employment include:\na. Having equal employment opportunities as men; b. Equal opportunities from the selection process, work facilities, benefits to the right to receive equal wages; c. Obtaining paid leave including maternity leave; and\nd. Women cannot be dismissed by the employer on the grounds of pregnancy or marital status.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 5\nThe rights of women in the field of education are to obtain opportunities to pursue education and to receive scholarships.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 16\n(1) Regional Governments conduct evaluations of the implementation of policies, programs, and activities for Women's Empowerment and Protection at the end of each fiscal year in accordance with the provisions of laws and regulations.\n(2) The evaluation results as referred to in paragraph (1) are used as input material for the formulation of policies, programs, and activities for Women's Protection for the following year.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER IV\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups and/or social community organizations.\n(3) Community participation as referred to in paragraph (2) may take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) Further provisions regarding the procedures for community participation as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.014925373134328358
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Karawang Regency.\n2. Regent is the Regent of Karawang.\n3. Regional Government is the Regent and regional apparatus as elements of regional government administration that lead the implementation of government affairs that are the authority of the autonomous region.\n4. Regional Apparatus is the supporting element of the Regent and DPRD in the administration of government affairs that are the authority of the Region.\n5. Women are human beings of female gender starting from infants, adolescents, adults up to the elderly.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts or other parties, either temporarily or based on court decisions.\n8. Task force is a semi-permanent working group, consisting of related regional apparatus work units, community, universities, and/or community organizations chaired by the Regional Secretary, who is given additional tasks within a certain period of time, to implement specific programs/activities in the field of women's empowerment and protection.\n9. Gender Mainstreaming is a strategy carried out rationally and systematically to achieve and realize gender equality and justice in a number of aspects of human life (household, community and state), through policies and programs that take into account the experiences, aspirations, needs and problems of women and men into the planning, implementation, monitoring and evaluation of all policies and programs in various fields of life and development.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text does include prevention/awareness-type modalities tied to eliminating violence: Pasal 11(1) mandates programs/activities to eliminate “tindak kekerasan terhadap Perempuan,” and Pasal 11(4) lists “sosialisasi,” “komunikasi publik,” “penyampaian informasi,” and “edukasi” as forms of cooperation/implementation. That is directly “information & education” related to VAW in the plain meaning of the words. The retrieved English passage contains this content, and the judge’s ‘Yes’ follows from it. Therefore the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\na. Obtain opportunities and their rights as human beings;",
+      "evaluator_rationale": "The policy frames women’s empowerment/protection as eliminating discrimination and includes advocacy, socialization, public communication, information delivery, and education as implementation/cooperation modalities. It also states empowerment is directed so women obtain opportunities and rights as human beings, aligning these educational/awareness activities with women’s rights and anti-discrimination (gender equality) aims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 16\n(1) Regional Governments conduct evaluations of the implementation of policies, programs, and activities for Women's Empowerment and Protection at the end of each fiscal year in accordance with the provisions of laws and regulations.\n(2) The evaluation results as referred to in paragraph (1) are used as input material for the formulation of policies, programs, and activities for Women's Protection for the following year.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 8\n(1) The empowerment of women is implemented to enhance the position, role and quality of Women in family life, community life, and national life.\n(2) The Empowerment of Women as referred to in paragraph (1) is directed so that Women:\na. Obtain opportunities and their rights as human beings;\nb. Are able to play a role and participate in political, economic, socio-cultural, defense and security activities; and\nc. Have equality in enjoying the results of development.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.029850746268656716
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER IV\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups and/or social community organizations.\n(3) Community participation as referred to in paragraph (2) may take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) Further provisions regarding the procedures for community participation as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Karawang Regency.\n2. Regent is the Regent of Karawang.\n3. Regional Government is the Regent and regional apparatus as elements of regional government administration that lead the implementation of government affairs that are the authority of the autonomous region.\n4. Regional Apparatus is the supporting element of the Regent and DPRD in the administration of government affairs that are the authority of the Region.\n5. Women are human beings of female gender starting from infants, adolescents, adults up to the elderly.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts or other parties, either temporarily or based on court decisions.\n8. Task force is a semi-permanent working group, consisting of related regional apparatus work units, community, universities, and/or community organizations chaired by the Regional Secretary, who is given additional tasks within a certain period of time, to implement specific programs/activities in the field of women's empowerment and protection.\n9. Gender Mainstreaming is a strategy carried out rationally and systematically to achieve and realize gender equality and justice in a number of aspects of human life (household, community and state), through policies and programs that take into account the experiences, aspirations, needs and problems of women and men into the planning, implementation, monitoring and evaluation of all policies and programs in various fields of life and development.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nWOMEN'S RIGHTS\nArticle 2\nEvery woman has the right:\na. to live and improve her standard of living;\nb. to security;\nc. to a good and healthy environment;\nd. to form a family and continue descendants;\ne. to work and receive fair wages for her work;\nf. to obtain proper education;\ng. to obtain care, education, training and/or special assistance;\nh. to personal freedom; and\ni. to health.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "While the regulation does not say “pendidikan kesetaraan gender” verbatim, it explicitly targets eliminating “diskriminasi” against women (Pasal 11(1)) and defines “Pengarusutamaan Gender” as a strategy to realize “kesetaraan dan keadilan gender” (Pasal 1 angka 9). It also lists “edukasi”/education among implementation modalities (Pasal 11(4)). These provisions support that the policy contemplates gender-equality-oriented education/awareness within its empowerment/protection framework. The judge’s ‘Yes’ is defensible based on retrieved content; the golden ‘No’ likely reflects an overly narrow coding rule (requiring explicit school curriculum, etc.) not stated in the prompt.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\ng. education;",
+      "evaluator_rationale": "The policy explicitly aims to eliminate acts of violence against women and lists education as one of the forms through which cooperation/implementation is conducted, making education an explicit strategy within the violence-elimination framework (even though children are not mentioned in the provided sentences).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 5\nThe rights of women in the field of education are to obtain opportunities to pursue education and to receive scholarships.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 8\n(1) The empowerment of women is implemented to enhance the position, role and quality of Women in family life, community life, and national life.\n(2) The Empowerment of Women as referred to in paragraph (1) is directed so that Women:\na. Obtain opportunities and their rights as human beings;\nb. Are able to play a role and participate in political, economic, socio-cultural, defense and security activities; and\nc. Have equality in enjoying the results of development.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER IV\nCOMMUNITY PARTICIPATION\nArticle 14\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Community participation as referred to in paragraph (1) may be carried out by individuals, groups and/or social community organizations.\n(3) Community participation as referred to in paragraph (2) may take the form of:\na. cooperation;\nb. active role in policy formulation; and\nc. complaints/reports.\n(4) Further provisions regarding the procedures for community participation as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 7\nThe rights of women in public and political life are the right to vote and be elected as well as to obtain equal opportunities to participate in the formulation of government policy up to its implementation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 0,
+          "text": "WEST JAVA PROVINCE\nREGIONAL REGULATION OF KARAWANG REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF KARAWANG,\n\nConsidering : a. that women as one of the community groups whose existence constitutes potential and development assets need to be empowered so that they can actualize their potential optimally to participate in development;\nb. that women as national assets who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination;\nc. that in order to make effective a comprehensive and integrative system in empowering and protecting women in Karawang Regency, regulation regarding the empowerment and protection of women is required;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Number 9) as amended by Law Number 4 of 1968 concerning the Establishment of Purwakarta Regency and Subang Regency by amending Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Year 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 2851);\n3. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention On The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29 Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number\n5679).\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF KARAWANG REGENCY and",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly includes “edukasi” (education) as one of the forms of cooperation/implementation for programs aimed at eliminating violence against women (Pasal 11(1) and Pasal 11(4) huruf g). If the indicator is broadly “Prevention through education,” this is affirmative. The retrieved English candidates contain this exact point and the judge’s reasoning matches it. Thus the golden label ‘No’ appears inconsistent with the source text (unless the golden coding required child/school-specific education, which the regulation does not specify).",
+      "diagnosis_status": "ok"
+    },
+    "7.3": {
+      "indicator": "International donors",
+      "dimension": "budget_funding_sources",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.",
+      "evaluator_rationale": "The policy explicitly allows cooperation with international institutions in women’s empowerment and protection activities, indicating an avenue for international support (even if not framed specifically as funding).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 11\n(1) The Regent establishes policy programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against Women.\n(2) The implementation of policies, programs and activities as referred to in paragraph (1) shall be carried out by Regional Apparatus with authority over the empowerment and Protection of Women.\n(3) The Regional Apparatus as referred to in paragraph (2) may cooperate with the community, universities, community organizations, other regency/city governments, and/or international institutions in the empowerment and Protection of Women activities.\n(4) The form of cooperation as referred to in paragraph (3) shall be conducted through:\na. policy analysis;\nb. implementation coordination;\nc. advocacy;\nd. socialization;\ne. public communication;\nf. information delivery;\ng. education;\nh. training;\ni. service facilities;\nj. service provision;\nk. model development; and\nl. other activities.\n(5) The integration of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be set forth in the documents:\na. Regional long-term development plan;\nb. Regional medium-term development plan; c. Strategic plan of Regional Apparatus;\nd. Regional Government work plan; and\ne. work plan and budget of Regional Apparatus.\n(6) The provisions regarding the establishment of policies, programs and activities for the empowerment and Protection of Women as referred to in paragraph (1) shall be stipulated by Regent's Decree.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VI\nFUNDING\nArticle 17\nFunding for the implementation of Women's Empowerment and Protection is sourced from:\na. Regional revenue and expenditure budget; and\nb. Other legal and non-binding sources, in accordance with the provisions of laws and regulations.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 12\n(1) The implementation of policies, programs and activities for the Protection of Women in the Region as referred to in Article 7 paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.\n(2) The membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) shall consist of relevant Regional Apparatus, community, Higher Education Institutions and/or community organizations.\n(3) Provisions regarding the establishment and membership of task forces, forums, working groups or other institutions as referred to in paragraph (1) and paragraph (2) shall be stipulated by Regent's Decree.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 13\n(1) The provision of Women's Empowerment and Protection services as referred to in Article 11 paragraph (4) letter j, includes:\na. identification of victims of criminal violence;\nb. legal assistance;\nc. medical rehabilitation;\nd. psychosocial rehabilitation;\ne. social reintegration;\nf. repatriation assistance; and\ng. other forms.\n(2) Women's Empowerment and Protection services as referred to in paragraph (1) are provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. in conflict-prone and disaster areas;\nd. workers;\ne. elderly;\nf. persons with disabilities;\ng. victims of sexual exploitation;\nh. who are heads of households;\ni. pregnant and/or breastfeeding; and\nj. other vulnerable victims.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nMONITORING AND EVALUATION\nArticle 15\n(1) The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the empowerment and Protection of Women.\n(2) The monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs, and activities for the Protection of Women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically through coordination and direct monitoring of Regional Apparatus implementing policies, programs and activities that implement policies, programs, and activities for the empowerment and Protection of Women.\n(4) The monitoring as referred to in paragraph (3) is conducted starting from the planning stage, up to the implementation of policies, programs and activities for the Empowerment and Protection of Women for the current year.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 16\n(1) Regional Governments conduct evaluations of the implementation of policies, programs, and activities for Women's Empowerment and Protection at the end of each fiscal year in accordance with the provisions of laws and regulations.\n(2) The evaluation results as referred to in paragraph (1) are used as input material for the formulation of policies, programs, and activities for Women's Protection for the following year.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 0,
+          "text": "WEST JAVA PROVINCE\nREGIONAL REGULATION OF KARAWANG REGENCY\nNUMBER 2 OF 2017\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF KARAWANG,\n\nConsidering : a. that women as one of the community groups whose existence constitutes potential and development assets need to be empowered so that they can actualize their potential optimally to participate in development;\nb. that women as national assets who play a role in the process of continuation and creation of quality generations need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination;\nc. that in order to make effective a comprehensive and integrative system in empowering and protecting women in Karawang Regency, regulation regarding the empowerment and protection of women is required;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Number 9) as amended by Law Number 4 of 1968 concerning the Establishment of Purwakarta Regency and Subang Regency by amending Law Number 14 of 1950 concerning the Establishment of Regency Regions within West Java Province (State Gazette of the Republic of Indonesia Year 1968 Number 31, Supplement to the State Gazette of the Republic of Indonesia Number 2851);\n3. Law Number 7 of 1984 concerning the Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention On The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29 Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n5. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number\n5679).\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF KARAWANG REGENCY and",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\n(1) Women who become victims of acts of violence have the right to obtain protection, information, integrated services and continuous handling.\n(2) Continuous handling as referred to in paragraph (1) is carried out up to the rehabilitation stage.\n(3) Continuous handling as referred to in paragraph (2) may be carried out by individuals, groups, regional government institutions, and/or non-governmental institutions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nWomen's Rights in Employment include:\na. Having equal employment opportunities as men; b. Equal opportunities from the selection process, work facilities, benefits to the right to receive equal wages; c. Obtaining paid leave including maternity leave; and\nd. Women cannot be dismissed by the employer on the grounds of pregnancy or marital status.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Karawang Regency.\n2. Regent is the Regent of Karawang.\n3. Regional Government is the Regent and regional apparatus as elements of regional government administration that lead the implementation of government affairs that are the authority of the autonomous region.\n4. Regional Apparatus is the supporting element of the Regent and DPRD in the administration of government affairs that are the authority of the Region.\n5. Women are human beings of female gender starting from infants, adolescents, adults up to the elderly.\n6. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, courts or other parties, either temporarily or based on court decisions.\n8. Task force is a semi-permanent working group, consisting of related regional apparatus work units, community, universities, and/or community organizations chaired by the Regional Secretary, who is given additional tasks within a certain period of time, to implement specific programs/activities in the field of women's empowerment and protection.\n9. Gender Mainstreaming is a strategy carried out rationally and systematically to achieve and realize gender equality and justice in a number of aspects of human life (household, community and state), through policies and programs that take into account the experiences, aspirations, needs and problems of women and men into the planning, implementation, monitoring and evaluation of all policies and programs in various fields of life and development.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, funding is addressed in Pasal 17: it comes from (a) APBD and (b) “Sumber lain yang sah dan tidak mengikat” (other lawful, non-binding sources). Separately, Pasal 11(3) allows cooperation with “lembaga internasional” (international institutions), but that is framed as cooperation in activities, not as donors/funding. The retrieved candidates included both Pasal 11(3) and Pasal 17; a careful judge should not equate ‘may cooperate with international institutions’ with ‘international donors’ or an explicit international funding source. Therefore the error is mainly the judge over-inferred funding from cooperation language (evaluation failure).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_BARAT_KARAWANG.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:39.949236+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 6,
+  "diagnosed_count": 6
+}

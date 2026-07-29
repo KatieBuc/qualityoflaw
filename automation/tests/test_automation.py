@@ -270,13 +270,34 @@ def test_validate_run_for_steps_missing_translation(tmp_path, monkeypatch):
         validate_run_for_steps(run_id, ["evaluation"])
 
 
+def test_validate_run_for_steps_accepts_pre_refactor_flat_layout(tmp_path, monkeypatch):
+    """A run created before the results/mid_product split (flat run_dir/<name>
+    layout) must still pass validation without being physically migrated."""
+    monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
+    monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
+
+    run_id = "old_layout_run"
+    run_dir = tmp_path / run_id
+    translation_dir = run_dir / "translation"  # flat, pre-refactor layout
+    translation_dir.mkdir(parents=True)
+    (translation_dir / "A.txt").write_text("text", encoding="utf-8")
+    evaluation_dir = run_dir / "evaluation"
+    evaluation_dir.mkdir(parents=True)
+    (evaluation_dir / "report.json").write_text("{}", encoding="utf-8")
+
+    from automation.src.metadata import validate_run_for_steps
+
+    # Should not raise, even though there's no results/ or mid_product/ subfolder.
+    validate_run_for_steps(run_id, ["comparison"], retrieval_enabled=False)
+
+
 def test_validate_run_for_steps_requires_rag_store_when_retrieval_enabled(tmp_path, monkeypatch):
     monkeypatch.setattr("automation.src.metadata.DEFAULT_DATA_ROOT", tmp_path)
     monkeypatch.setattr("automation.src.config_loader.DEFAULT_DATA_ROOT", tmp_path)
 
     run_id = "test_run"
     run_dir = tmp_path / run_id
-    translation_dir = run_dir / "translation"
+    translation_dir = run_dir / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
 
@@ -292,10 +313,10 @@ def test_validate_run_for_steps_allows_comparison_when_evaluation_also_requested
 
     run_id = "test_run"
     run_dir = tmp_path / run_id
-    translation_dir = run_dir / "translation"
+    translation_dir = run_dir / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
-    rag_store_dir = run_dir / "rag_store"
+    rag_store_dir = run_dir / "mid_product" / "rag_store"
     rag_store_dir.mkdir(parents=True)
     (rag_store_dir / "A.json").write_text("{}", encoding="utf-8")
 
@@ -326,7 +347,7 @@ def test_validate_run_for_steps_skips_rag_store_when_retrieval_disabled(tmp_path
 
     run_id = "test_run"
     run_dir = tmp_path / run_id
-    translation_dir = run_dir / "translation"
+    translation_dir = run_dir / "results" / "translation"
     translation_dir.mkdir(parents=True)
     (translation_dir / "A.txt").write_text("text", encoding="utf-8")
 

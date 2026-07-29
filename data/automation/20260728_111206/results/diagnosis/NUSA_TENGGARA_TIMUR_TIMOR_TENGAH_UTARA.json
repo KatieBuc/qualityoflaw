@@ -1,0 +1,540 @@
+{
+  "diagnoses": {
+    "3.3": {
+      "indicator": "Reporting / hotline",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. providing counseling to immediately report to local authorities if Violence against women occurs;",
+      "evaluator_rationale": "The policy includes a prevention measure that provides counseling to immediately report to local authorities if violence against women occurs, which constitutes a mechanism for receiving reports/complaints (even if not a dedicated hotline).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 73,
+          "text": "CHAPTER VII\nSANCTION PROVISIONS\nArticle 44\nRegional Apparatus (PD) that do not establish a Gender Mainstreaming Focal Point as referred to in Article 8, Article 9, Article 10 and Article 11 shall be subject to administrative sanctions in the form of:\na. verbal warning;\nb. written warning; or\nc. statement of dissatisfaction.",
+          "score": 0.029850746268656716
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 29\n(1) Every PD is responsible for making a report on the implementation of Women's Empowerment activities that have been carried out to the Regent through the Dinas.\n(2) The Dinas after receiving the report submitted by the PD conducts an evaluation of the implementation of activities.\n(3) The results of the evaluation of the implementation of activities as referred to in paragraph (2) are reported to the Regent.\n(4) The results of the evaluation as referred to in paragraph (3) are used for budgetary planning for the following year.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 56,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\na. strengthening of Service Institutions; and\nb. development of Service Institutions (2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\na. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\na. providing additional facilities and infrastructure;\nb. providing information technology-based service approaches; and/or\nc. recruiting village cadres as assistant paralegals.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) is implemented through:\na. facilitating the establishment of service provider institutions; b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n1. improving entrepreneurial capabilities for women; or\n2. developing job training for women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the framework of efforts to prevent violence against women.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a shall be implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include: a. preparing regulations;\nb. preparing human resources;\nc. preparing facilities and infrastructure; and\nd. establishment of family learning centers.\n(3) Family learning centers function:\na. as service institutions in prevention and counseling; b. as a referral liaison point as a solution for child and family problems;\nc. strengthening family capacity in nurturing and protecting children;\nd. as a place for family learning through education for parents; and\ne. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 44,
+          "text": "Paragraph 4\nReporting and Evaluation",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the Regional Strategic Plan, Regional Work Plan and Regional Government Work Plan;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and g. preparing activity reports periodically and reporting them to the regent through the chairperson of the PUG working group.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, Pasal 35 ayat (2) huruf d only says “memberikan penyuluhan untuk segera melaporkan kepada aparat setempat apabila terjadi Kekerasan terhadap perempuan” (provide counseling/education to promptly report to local authorities if violence occurs). This is a prevention/awareness instruction, not a reporting mechanism/service channel (e.g., hotline, complaint desk, intake procedure). The retrieved English passage accurately reflects this, but the judge over-interpreted it as a reporting/complaints mechanism.",
+      "diagnosis_status": "ok"
+    },
+    "3.5": {
+      "indicator": "Legal assistance",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. facilitating access and legal consultation services.\nb. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\nc. recruiting village cadres as assistant paralegals.",
+      "evaluator_rationale": "The text explicitly includes facilitating access and legal consultation services, and also supports paralegal capacity through regular paralegal training and recruiting assistant paralegals, indicating legal assistance-related services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\na. strengthening of Service Institutions; and\nb. development of Service Institutions (2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\na. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\na. providing additional facilities and infrastructure;\nb. providing information technology-based service approaches; and/or\nc. recruiting village cadres as assistant paralegals.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and b. facilitating access and legal consultation services.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 49,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for Women and Child Protection",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a shall be implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include: a. preparing regulations;\nb. preparing human resources;\nc. preparing facilities and infrastructure; and\nd. establishment of family learning centers.\n(3) Family learning centers function:\na. as service institutions in prevention and counseling; b. as a referral liaison point as a solution for child and family problems;\nc. strengthening family capacity in nurturing and protecting children;\nd. as a place for family learning through education for parents; and\ne. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 64,
+          "text": "Part Three\nStrengthening And Development Of Service Provider Institutions For Improving Family Quality In Realizing Gender Equality",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) is implemented through:\na. facilitating the establishment of service provider institutions; b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n1. improving entrepreneurial capabilities for women; or\n2. developing job training for women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 79,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This is what needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 31\n(1) PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementing units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly provides legal-assistance elements. Pasal 26 ayat (2) huruf b states “fasilitasi akses dan layanan konsultasi hukum” (facilitate access and legal consultation services). Additionally, Pasal 36 ayat (2) huruf b and ayat (3) huruf c mention “memfasilitasi pelatihan paralegal” and recruiting “kader desa sebagai paralegal pembantu,” which are legal aid capacity measures. Since this content is clearly present in the original and was retrieved, a “No” golden label appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "3.6": {
+      "indicator": "Health / medical services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;",
+      "evaluator_rationale": "The policy includes efforts to address health problems through promotive, preventive, curative, and rehabilitative efforts (primarily reproductive health), which indicates provision/facilitation of health-related services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\na. strengthening of Service Institutions; and\nb. development of Service Institutions (2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\na. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\na. providing additional facilities and infrastructure;\nb. providing information technology-based service approaches; and/or\nc. recruiting village cadres as assistant paralegals.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 49,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for Women and Child Protection",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) is implemented through:\na. facilitating the establishment of service provider institutions; b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n1. improving entrepreneurial capabilities for women; or\n2. developing job training for women.",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 64,
+          "text": "Part Three\nStrengthening And Development Of Service Provider Institutions For Improving Family Quality In Realizing Gender Equality",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a shall be implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include: a. preparing regulations;\nb. preparing human resources;\nc. preparing facilities and infrastructure; and\nd. establishment of family learning centers.\n(3) Family learning centers function:\na. as service institutions in prevention and counseling; b. as a referral liaison point as a solution for child and family problems;\nc. strengthening family capacity in nurturing and protecting children;\nd. as a place for family learning through education for parents; and\ne. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 10\n(1) The Hospital Director has the authority to establish a Hospital PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be determined by a decision of the Hospital Director. (3) The management of the PUG Focal Point as referred to in paragraph (1) shall consist of:\na. person in charge by the hospital director;\nb. coordinator by an echelon IIIB official in charge of hospital planning;\nc. vice coordinator by an echelon IVA official who has competence in PUG; and\nd. members by representatives of officials or staff in divisions or sections within the hospital.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 11\n(1) The Head of the Community Health Center has the authority to establish the Focal Point PUG Puskesmas.\n(2) The establishment of the Focal Point PUG as referred to in paragraph (1) shall be stipulated by a Decree of the Head of the Community Health Center.\n(3) The management of the Focal Point PUG puskesmas consists of:8\na. person in charge by the Head of Puskesmas;\nb. coordinator by an echelon IV B official in charge of Puskesmas planning; and\nc. members consisting of Puskesmas staff.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 79,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This is what needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 31\n(1) PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementing units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian Pasal 27 ayat (2) huruf b discusses improving women’s awareness/ability to address health problems via promotive, preventive, curative, rehabilitative efforts, especially reproductive health (“peningkatan kesadaran... mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif...”). This is framed as empowerment/health promotion, not an explicit commitment to provide or ensure access to medical services for survivors (specialised support services). The judge treated general health-improvement programming as ‘health/medical services’ support, which is too broad for this indicator.",
+      "diagnosis_status": "ok"
+    },
+    "3.7": {
+      "indicator": "Psychosocial counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. conducting counseling and socialization regarding matters related to violence against women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;",
+      "evaluator_rationale": "The policy includes counseling related to violence against women and counseling to report incidents, which constitutes counselling services (though not explicitly framed as psychological therapy).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and c. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 22\nEfforts for Women's Empowerment in the fields of politics, law, social culture and economy in community organizations include the stages of:\na. planning;\nb. implementation; and\nc. reporting and evaluation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the framework of efforts to prevent violence against women.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 56,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 74,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the Regional Strategic Plan, Regional Work Plan and Regional Government Work Plan;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and g. preparing activity reports periodically and reporting them to the regent through the chairperson of the PUG working group.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 49,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for Women and Child Protection",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian text, Pasal 35 ayat (2) huruf a and d use “penyuluhan dan sosialisasi” and “penyuluhan untuk segera melaporkan...” which are outreach/education activities. They are not psychosocial counseling/therapy services for survivors. Although the English uses the word “counseling,” the underlying Indonesian term is closer to ‘counseling/briefing/education’ (penyuluhan), not psychosocial support. The judge incorrectly equated prevention counseling/socialization with psychosocial counselling services.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. provision of skills and job training;\nd. facilitation and capital assistance; and",
+      "evaluator_rationale": "The policy explicitly provides for skills/job training and capital assistance as part of women’s economic empowerment facilitation, which constitutes economic support services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 43,
+          "text": "Article 28\n(1) PD that administers governmental affairs in the field of cooperatives, small and medium enterprises and industry and trade is responsible for facilitating Women's Empowerment in the economic field.\n(2) The implementation of Women's Empowerment in the economic field is carried out through:\na. provision of skills and job training;\nb. facilitation of the formation of productive economic business groups;\nc. facilitation of strengthening and development of productive economic business groups;\nd. facilitation and capital assistance; and\ne. facilitation of marketing network development.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\na. strengthening of Service Institutions; and\nb. development of Service Institutions (2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\na. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\na. providing additional facilities and infrastructure;\nb. providing information technology-based service approaches; and/or\nc. recruiting village cadres as assistant paralegals.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 64,
+          "text": "Part Three\nStrengthening And Development Of Service Provider Institutions For Improving Family Quality In Realizing Gender Equality",
+          "score": 0.030090497737556562
+        },
+        {
+          "chunk_id": 49,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for Women and Child Protection",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 33,
+          "text": "Third Part\nEmpowerment of Women in the Fields of Politics, Law, Social Culture and Economy in Community Organizations",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) is implemented through:\na. facilitating the establishment of service provider institutions; b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n1. improving entrepreneurial capabilities for women; or\n2. developing job training for women.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 79,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This is what needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 31\n(1) PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementing units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian Pasal 28 provides economic empowerment measures (skills/job training, forming business groups, capital assistance, marketing networks) as part of “Pemberdayaan Perempuan di bidang ekonomi.” This is not specialised economic support for violence survivors (e.g., emergency cash, reintegration support tied to VAW services). The judge treated general women’s economic empowerment programming as specialised support services, which is an over-broad interpretation given the indicator’s placement under specialised_support_services.",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions counseling/socialization about violence against women and general legal awareness activities, none of the provided sentences explicitly link information/education activities to laws or policies specifically on violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 57,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the framework of efforts to prevent violence against women.",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and c. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 56,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and b. facilitating access and legal consultation services.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the Regional Strategic Plan, Regional Work Plan and Regional Government Work Plan;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and g. preparing activity reports periodically and reporting them to the regent through the chairperson of the PUG working group.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 79,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This is what needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\na. strengthening of Service Institutions; and\nb. development of Service Institutions (2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\na. improvement of competence of service institution members; and/or b. facilitating paralegal training on a regular basis (3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\na. providing additional facilities and infrastructure;\nb. providing information technology-based service approaches; and/or\nc. recruiting village cadres as assistant paralegals.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian Pasal 35 ayat (2) huruf a explicitly mandates “melakukan penyuluhan dan sosialisasi mengenai hal yang berkenaan dengan kekerasan terhadap perempuan” (counseling/outreach/socialization regarding matters related to violence against women). This is an awareness-raising provision about VAW (even if it does not cite specific statutes by name). Given the indicator is “VAW laws awareness,” the document at least clearly includes VAW-focused awareness/socialization; the judge’s strict requirement for explicit mention of ‘laws/policies’ seems narrower than what the golden label expects. Since the relevant VAW-awareness text was retrieved and supports a Yes under a broader/typical reading, the golden “Yes” appears defensible and the judge’s “No” seems driven by an overly strict interpretation; however the discrepancy is best explained by the evaluation standard mismatch, suggesting the golden label aligns with the document content.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+      "evaluator_rationale": "The policy references facilitation and efforts to preserve customs and traditions, which indicates engagement with customary/cultural mechanisms within implementation activities in the socio-cultural sector.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 35,
+          "text": "Article 22\nEfforts for Women's Empowerment in the fields of politics, law, social culture and economy in community organizations include the stages of:\na. planning;\nb. implementation; and\nc. reporting and evaluation.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and c. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the Regional Strategic Plan, Regional Work Plan and Regional Government Work Plan;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and g. preparing activity reports periodically and reporting them to the regent through the chairperson of the PUG working group.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 10\n(1) The Hospital Director has the authority to establish a Hospital PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be determined by a decision of the Hospital Director. (3) The management of the PUG Focal Point as referred to in paragraph (1) shall consist of:\na. person in charge by the hospital director;\nb. coordinator by an echelon IIIB official in charge of hospital planning;\nc. vice coordinator by an echelon IVA official who has competence in PUG; and\nd. members by representatives of officials or staff in divisions or sections within the hospital.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 20,
+          "text": "Paragraph 5\nGender-Based Regional Development Planning Article 13 (1) The Regional Government is responsible for preparing planning for policies, programs and development activities with a Gender perspective.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the PD that administers governmental affairs in the field of development planning, research and Regional development.\n(3) Planning as referred to in paragraph (1) includes the stages:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at the regional level;\ne. preparation of RPJMD;\nf. preparation of Renstra PD;\ng. preparation of Renja PD; and\nh. RKPD;\ni. preparation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Renstra PD may collaborate with Higher Education institutions or other parties who have capability in their field.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 73,
+          "text": "CHAPTER VII\nSANCTION PROVISIONS\nArticle 44\nRegional Apparatus (PD) that do not establish a Gender Mainstreaming Focal Point as referred to in Article 8, Article 9, Article 10 and Article 11 shall be subject to administrative sanctions in the form of:\na. verbal warning;\nb. written warning; or\nc. statement of dissatisfaction.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) is implemented through:\na. facilitating the establishment of service provider institutions; b. in coordination with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n1. improving entrepreneurial capabilities for women; or\n2. developing job training for women.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian Pasal 27 ayat (2) huruf d says “fasilitasi dan upaya pelestarian adat istiadat...” (facilitation and efforts to preserve customs and traditions) for women’s advancement. This is about cultural preservation, not stakeholder engagement with traditional/customary leaders or mechanisms for implementing the policy (e.g., involving adat leaders in prevention/response). The judge inferred ‘traditional/cultural engagement’ from a cultural-preservation clause, which is not the same as engaging traditional institutions as stakeholders.",
+      "diagnosis_status": "ok"
+    },
+    "5.4": {
+      "indicator": "Education institutions engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(5) Implementation of Gender analysis on RPJMD and Renstra PD may collaborate with Higher Education institutions or other parties who have capability in their field.",
+      "evaluator_rationale": "The policy explicitly allows collaboration with higher education institutions in implementing gender analysis for planning documents, indicating engagement of education institutions in implementation/capacity-building processes.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 65,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a shall be implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include: a. preparing regulations;\nb. preparing human resources;\nc. preparing facilities and infrastructure; and\nd. establishment of family learning centers.\n(3) Family learning centers function:\na. as service institutions in prevention and counseling; b. as a referral liaison point as a solution for child and family problems;\nc. strengthening family capacity in nurturing and protecting children;\nd. as a place for family learning through education for parents; and\ne. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 22\nEfforts for Women's Empowerment in the fields of politics, law, social culture and economy in community organizations include the stages of:\na. planning;\nb. implementation; and\nc. reporting and evaluation.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 58,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 20,
+          "text": "Paragraph 5\nGender-Based Regional Development Planning Article 13 (1) The Regional Government is responsible for preparing planning for policies, programs and development activities with a Gender perspective.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the PD that administers governmental affairs in the field of development planning, research and Regional development.\n(3) Planning as referred to in paragraph (1) includes the stages:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at the regional level;\ne. preparation of RPJMD;\nf. preparation of Renstra PD;\ng. preparation of Renja PD; and\nh. RKPD;\ni. preparation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Renstra PD may collaborate with Higher Education institutions or other parties who have capability in their field.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and c. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the Regional Strategic Plan, Regional Work Plan and Regional Government Work Plan;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and g. preparing activity reports periodically and reporting them to the regent through the chairperson of the PUG working group.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 48,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and b. facilitating access and legal consultation services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the framework of efforts to prevent violence against women.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian Pasal 13 ayat (5) states gender analysis for RPJMD/Renstra “dapat bekerjasama dengan lembaga Perguruan Tinggi atau pihak lain” (may cooperate with higher education institutions or other capable parties). This is optional technical cooperation for planning analysis, not engagement of education institutions as stakeholders in implementation/awareness/service delivery. The judge treated a permissive ‘may collaborate’ clause in planning as sufficient for ‘education institutions engagement,’ which is likely too lenient for this indicator.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.412234+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 8,
+  "diagnosed_count": 8
+}

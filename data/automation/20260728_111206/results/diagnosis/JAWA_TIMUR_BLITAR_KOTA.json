@@ -1,0 +1,78 @@
+{
+  "diagnoses": {
+    "7.3": {
+      "indicator": "International donors",
+      "dimension": "budget_funding_sources",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Implementation of Women's Empowerment and Protection of Women and Child Victims of Violence is realized, among others, through the establishment of integrated and networked UPT formed by Regional Governments, communities, non-governmental organizations, donor institutions or other institutions.",
+      "evaluator_rationale": "The policy explicitly references involvement of “donor institutions” in establishing integrated and networked service units, indicating international/donor support is contemplated.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VI\nIMPLEMENTATION OF PROTECTION\nFirst Part\nArticle 16\n(1) The Implementation of Women's Empowerment and Protection of Women and Child Victims of Violence is realized, among others, through the establishment of integrated and networked UPT formed by Regional Governments, communities, non-governmental organizations, donor institutions or other institutions.\n(2) UPT as referred to in paragraph (1) is P2TP2A or similar institutions that have the same functions and roles.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 32\n(1) Regional Governments may provide financing assistance to community organizations, social organizations, or non-governmental organizations and universities that implement protection for women and children victims of violence.\n(2) Financing assistance as referred to in paragraph (1), shall be in accordance with regional financial capacity.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 40,
+          "text": "CHAPTER IX\nSOURCES OF FUNDS\nArticle 31\nFunds for the implementation of protection for women and children victims of violence, are sourced from:\na. Regional Revenue and Expenditure Budget; and/or\nb. other legitimate sources in accordance with the provisions of laws and regulations.",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\n(1) Forms of services provided to women and children victims of violence organized by UPT, include:\na. Medical services in the form of treatment and recovery of physical conditions carried out by medical personnel and paramedics;\nb. Medicolegal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. Legal aid services to assist victims of violence in undergoing judicial processes;\nd. Spiritual services;\ne. First psychosocial assistance to victims is carried out to identify the occurrence of violence and trauma experienced by victims;\nf. Assistance to victims of violence carried out by competent persons or institutions that have expertise to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence and have cooperated with UPT; and\ng. economic independence services in the form of services for skills training and provision of economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), are implemented in accordance with minimum service standards established by the government and implemented by regional apparatus whose duties and functions are in the fields of:\na. social affairs;\nb. health;\nc. women's empowerment and child protection; and\nd. mental and spiritual.\n(3) In carrying out duties and functions as referred to in paragraph (2), regional governments cooperate with government agencies, provincial governments, other district/city governments, communities, families and parents.\n(4) Further provisions regarding procedures for services, and handling of women and children victims of violence as referred to in paragraph (1), paragraph (2), and paragraph (3), are regulated in a Mayoral Regulation.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Blitar.\n2. Regional Government is the Government of the City of Blitar.\n3. Mayor is the Mayor of Blitar.\n4. Regional apparatus is the supporting element of the Mayor and the Regional House of Representatives in the administration of governmental affairs that are the authority of the region.\n5. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child in the womb.\n6. Woman is an adult human being of female gender and a person who is legally recognized as a woman.\n7. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n8. Protection is all efforts aimed at providing a sense of security to victims carried out by family, community, advocates, social institutions, police, prosecutors, courts, or other parties either temporarily.\n9. Violence is any act that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n10. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage or fainting and/or causes death.\n11. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, distrust or severe psychological suffering to a person.\n12. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, whether unnatural or unwanted with another person for commercial purposes and/or certain purposes.\n13. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n14. Community is individuals, families, groups, social organizations and/or community organizations.\n15. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman and/or child.\n16. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the self-empowerment of victims of violence to resolve the problems they face.\n19. Repatriation is an effort to return women and children victims of violence to their families, substitute families, or communities that can provide protection and fulfill their needs.\n20. Rehabilitation is the recovery of victims from psychosocial disorders and the restoration of normal social functioning, both in the family and in the community.\n21. Social Reintegration is an effort to reunite victims with families, communities, institutions, or other social environments that can provide protection.\n22. Institution is an agency/service/body/office within the scope of regional government and/or non-governmental organizations that provide assistance.\n23. Counseling is the provision of assistance by an expert/trained person in such a way that the psychological understanding and ability of the victim and/or perpetrator increases in solving the problems they face.\n24. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the Region that carry out integrated service functions for women and children victims of crime and/or violence, including as a center for information on women's empowerment and child protection.\n25. Integrated Service Center for Women's Empowerment and Child Protection hereinafter abbreviated as P2TP2A is a form of UPT established by the Regional Government that functions as an information center, service center and empowerment center for women and children.\n26. Regional Action Plan is a foundation and guideline for related agencies, vertical agencies, and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of violence.\n27. Safe House is a temporary residence, provided to provide protection to victims in accordance with predetermined standards.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\n(1) To prevent the occurrence of violence against women and children, the government conducts empowerment and awareness raising to families, parents and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the regional government undertakes efforts as follows:\na. increasing the quantity and quality of education both formal and non-formal and informal;\nb. opening accessibility to obtain education, training, funding, income enhancement and social services;\nc. opening employment opportunities for women;\nd. building community participation and concern to implement prevention and protection of women and children from violence;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children; and\ng. opening complaint posts for the protection of women and children from violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nNeglect as referred to in Article 4 letter d includes: a. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The objectives of implementing protection for women and children victims of violence are to:\na. prevent violence against women and children including human trafficking;\nb. eliminate all forms of violence and exploitation against women and children;\nc. protect and provide a sense of security for women and children; d. provide services to women and children victims of violence, reporters, and witnesses;\ne. facilitate and mediate domestic disputes to realize the integrity of a harmonious and prosperous household; and\nf. Empower women and children victims of violence.\n(2) The objectives of implementing protection for women and children victims of violence as referred to in paragraph (1), include aspects of:  a. prevention;\nb. services and assistance;\nc. reintegration and rehabilitation; and\nd. empowerment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nExploitation as referred to in Article 4 letter e includes:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 17\n(1) P2TP2A is established in the Region.\n(2) The institutional structure of P2TP2A as referred to in paragraph (1) is determined by Mayor's Decree.\n(3) P2TP2A as referred to in paragraph (1) is under the coordination of the Regional Work Unit or other units that handle women's empowerment and child protection.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, Pasal 16(1) says UPT can be formed by “Pemerintah Daerah, masyarakat, lembaga swadaya masyarakat, lembaga donor atau lembaga-lembaga lainnya.” This mentions “lembaga donor” (donor institutions) only as potential actors involved in establishing/organizing the integrated service unit network; it does not state that funding comes from international donors, nor does it specify that donors are international. The explicit funding sources are in Pasal 31: APBD and/or “sumber lain yang sah” (other lawful sources), which is generic and not an explicit international-donor funding commitment. Therefore the correct label for an indicator specifically about “International donors” is not supported by the text; the judge over-inferred from the mere presence of the word “donor institutions,” making this a reasoning/criteria error rather than a retrieval or translation problem.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_TIMUR_BLITAR_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.097912+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 1,
+  "diagnosed_count": 1
+}

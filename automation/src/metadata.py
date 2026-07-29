@@ -3,7 +3,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from automation.src.config_loader import get_run_dir, snapshot_configs
+from automation.src.config_loader import (
+    get_run_dir,
+    resolve_mid_product_dir,
+    resolve_results_dir,
+    snapshot_configs,
+)
 from automation.src.constants import DEFAULT_DATA_ROOT
 
 
@@ -118,7 +123,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
     run_dir = ensure_run_exists(run_id)
 
     if "storage" in steps and "translation" not in steps:
-        translation_dir = run_dir / "translation"
+        translation_dir = resolve_results_dir(run_dir, "translation")
         if not translation_dir.is_dir():
             raise FileNotFoundError(f"Translation output required for storage: {translation_dir}")
         txt_files = list(translation_dir.glob("*.txt"))
@@ -127,7 +132,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
 
     if "evaluation" in steps:
         if "translation" not in steps:
-            translation_dir = run_dir / "translation"
+            translation_dir = resolve_results_dir(run_dir, "translation")
             if not translation_dir.is_dir():
                 raise FileNotFoundError(
                     f"Translation output required for evaluation: {translation_dir}"
@@ -137,7 +142,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
                 raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
         if retrieval_enabled and "storage" not in steps:
-            rag_store_dir = run_dir / "rag_store"
+            rag_store_dir = resolve_mid_product_dir(run_dir, "rag_store")
             if not rag_store_dir.is_dir():
                 raise FileNotFoundError(
                     f"RAG store required for evaluation: {rag_store_dir}. Run the storage step first."
@@ -147,7 +152,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
                 raise FileNotFoundError(f"No RAG store files in {rag_store_dir}")
 
     if "comparison" in steps and "evaluation" not in steps:
-        evaluation_dir = run_dir / "evaluation"
+        evaluation_dir = resolve_results_dir(run_dir, "evaluation")
         if not evaluation_dir.is_dir():
             raise FileNotFoundError(
                 f"Evaluation output required for comparison: {evaluation_dir}"
@@ -158,7 +163,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
 
     if "discrepancy_diagnosis" in steps:
         if "evaluation" not in steps:
-            rag_candidates_dir = run_dir / "rag_candidates"
+            rag_candidates_dir = resolve_mid_product_dir(run_dir, "rag_candidates")
             if not rag_candidates_dir.is_dir() or not list(rag_candidates_dir.glob("*.json")):
                 raise FileNotFoundError(
                     f"RAG candidates required for discrepancy_diagnosis: {rag_candidates_dir}. "
@@ -166,7 +171,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
                     "only written by the evaluation step."
                 )
 
-            evaluation_dir = run_dir / "evaluation"
+            evaluation_dir = resolve_results_dir(run_dir, "evaluation")
             if not evaluation_dir.is_dir() or not list(evaluation_dir.glob("*.json")):
                 raise FileNotFoundError(
                     f"Evaluation output required for discrepancy_diagnosis: {evaluation_dir}. "
@@ -174,7 +179,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
                 )
 
         if "comparison" not in steps:
-            comparison_dir = run_dir / "comparison"
+            comparison_dir = resolve_results_dir(run_dir, "comparison")
             if not comparison_dir.is_dir():
                 raise FileNotFoundError(
                     f"Comparison output required for discrepancy_diagnosis: {comparison_dir}. "

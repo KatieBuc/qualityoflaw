@@ -161,7 +161,7 @@ def data_root(tmp_path, monkeypatch):
 @patch("automation.src.run_eval._evaluate_policy_parallel")
 def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_config, data_root):
     run_id = "eval_parallel"
-    policy_dir = data_root / run_id / "translation"
+    policy_dir = data_root / run_id / "results" / "translation"
     policy_dir.mkdir(parents=True)
     (policy_dir / "A.txt").write_text("policy A", encoding="utf-8")
     (policy_dir / "B.txt").write_text("policy B", encoding="utf-8")
@@ -173,7 +173,7 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
         ),
         ({"policy_file": "B.txt", "evaluation_results": {}, "failed_dimensions": [], "errors": []}, {}),
     ]
-    mock_finalize.return_value = (True, str(data_root / run_id / "evaluation" / "report.json"))
+    mock_finalize.return_value = (True, str(data_root / run_id / "results" / "evaluation" / "report.json"))
 
     wrapper = MagicMock()
     wrapper.profile.deployment = "gpt-4o"
@@ -195,7 +195,7 @@ def test_run_evaluation_step_parallel(mock_eval_policy, mock_finalize, pipeline_
     assert result["counts"]["succeeded"] == 2
     assert mock_eval_policy.call_count == 2
 
-    rag_candidates_dir = data_root / run_id / "rag_candidates"
+    rag_candidates_dir = data_root / run_id / "mid_product" / "rag_candidates"
     a_candidates = json.loads((rag_candidates_dir / "A.json").read_text(encoding="utf-8"))
     assert a_candidates["policy_file"] == "A.txt"
     assert a_candidates["candidates"] == {

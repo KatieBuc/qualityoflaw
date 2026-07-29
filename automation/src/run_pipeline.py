@@ -151,14 +151,6 @@ def main() -> None:
         help="Save incomplete LLM evaluation or discrepancy diagnosis reports.",
     )
     parser.add_argument(
-        "--keep-chunk-result",
-        action="store_true",
-        help=(
-            "When translation.chunking is enabled, also save the clean and chunk "
-            "results for each policy under data/automation/<run_id>/chunks/."
-        ),
-    )
-    parser.add_argument(
         "--pipeline-config",
         default=str(DEFAULT_PIPELINE_CONFIG),
         help="Path to pipeline_config.yaml.",
@@ -252,12 +244,6 @@ def main() -> None:
 
         if not stopped and "translation" in steps:
             print("\nStep: translation")
-            if args.keep_chunk_result and not config.chunking.enabled:
-                print(
-                    "Note: --keep-chunk-result has no effect because translation.chunking "
-                    "is not enabled in the pipeline config.",
-                    file=sys.stderr,
-                )
             try:
                 wrapper = AzureLLMWrapper.from_profile(config.translation_model, limiter=limiter)
                 result = run_translation_step(
@@ -267,7 +253,6 @@ def main() -> None:
                     limiter=limiter,
                     small_scale=args.small_scale,
                     force=args.force,
-                    keep_chunk_result=args.keep_chunk_result,
                 )
             except (FileNotFoundError, ValueError, RuntimeError) as exc:
                 exit_code = 1

@@ -1,0 +1,474 @@
+{
+  "diagnoses": {
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions prevention through fields including “Economy and employment,” it does not define or identify economic violence, economic exploitation, or domestic neglect as forms of violence against women in the provided sentences.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER V\nPREVENTION AND HANDLING\nArticle 9\n(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nb. Public facilities and infrastructure;\nc. Government and institutional governance\nd. Economy and employment;\ne. Social welfare;\nf. Culture;\ng. Information technology;\nh. Religion; and\ni. Family",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 1,
+          "text": "CONCERNING\nTHE PROTECTION OF WOMEN VICTIMS OF VIOLENCE BY THE GRACE OF GOD THE ALMIGHTY",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER VIII\nREPORTING\nArticle 15\n(1) The Regent is responsible for preparing a report on the implementation of SPM in the field of integrated services for Women Victims of Violence and submitting it to the Governor with a copy submitted to the State Minister for Women's Empowerment and Child Protection and the Minister of Home Affairs.\n(2) Reporting on implementation as referred to in paragraph (1) shall be conducted annually.\n(3) Further provisions regarding the procedures and form of reporting as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 3\nLetter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance, for the purpose of strengthening victims of violence to resolve the problems they face.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation defines “Kekerasan” generally as unlawful acts against physical/psychological integrity (Pasal 1 angka 10) and “Kekerasan Terhadap Perempuan” as acts causing physical, sexual, or psychological suffering (Pasal 1 angka 11). It does not mention or define economic violence (kekerasan ekonomi), economic exploitation, deprivation of economic resources, or neglect as a form of violence. Article 9(2) only lists “Ekonomi dan ketenagakerjaan” as a prevention field, which is not the same as recognizing economic violence as a violence type. Therefore a ‘Yes’ golden label for “Economic violence” appears inconsistent with the actual text; the judge’s ‘No’ aligns with the source.",
+      "diagnosis_status": "ok"
+    },
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "This Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.",
+      "evaluator_rationale": "The policy states that the regulation covers reporting as part of protection efforts, which implies an assigned function/process for documenting and reporting information related to protection for women victims of violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.031544957774465976
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER V\nPREVENTION AND HANDLING\nArticle 9\n(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nb. Public facilities and infrastructure;\nc. Government and institutional governance\nd. Economy and employment;\ne. Social welfare;\nf. Culture;\ng. Information technology;\nh. Religion; and\ni. Family",
+          "score": 0.0304147465437788
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nAUTHORITY AND RESPONSIBILITY\nArticle 4\n(1) The Regional Government has the authority and responsibility for the Protection of Women Victims of Violence.\n(2) The authority as referred to in paragraph (1) includes: a. service activities for Women Victims of Violence; b. monitoring, strengthening of victims of Violence; and\nc. capacity building of apparatus and other stakeholders.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women shall be conducted at the end of each fiscal year or when needed according to requirements.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\n-8-",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 12\n(1) Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence.\n(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence in the Region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 7\nLetter a What is meant by adequate supporting facilities and infrastructure is adjusted to the minimum service standards and standard operating procedures for repatriation and social reintegration that apply.\nLetter b What is meant by implementing officers or functional officers includes health workers, psychologists, psychiatrists, social workers provided by relevant agencies or institutions.\nLetter c Sufficiently clear.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text includes ‘PELAPORAN’ (Bab VIII) requiring the Regent to prepare and submit an annual report on SPM implementation for integrated services (Pasal 15), but it does not establish a data collection system/information system (sistem informasi), case database, standardized data recording, or data management mechanism. The judge inferred that because reporting exists, there must be a documentation/information system, which is an overreach. Reporting obligations alone do not satisfy an indicator about data collection/information systems. Thus the evidence supports ‘No’ and the ‘Yes’ prediction reflects judge reasoning error.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support services",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although the policy mentions empowerment and capacity building in general aims, none of the provided sentences specify an economic empowerment/support service unit (e.g., skills training or financial support) for victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER VI\nSOCIAL PROTECTION HOUSE\nArticle 11\n(1) The Regional Government is obligated to establish a social protection house and/or Safe House or other designation.\n(2) The social protection house and/or Safe House as referred to in paragraph (1) guarantees the implementation of Health Rehabilitation Services, Social Rehabilitation, Repatriation, and Social Reintegration.\n(3) For the implementation of Services as referred to in paragraph (2), the Regional Government may utilize social protection houses and/or Safe Houses owned by the community or other social service institutions.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 7\nLetter a What is meant by adequate supporting facilities and infrastructure is adjusted to the minimum service standards and standard operating procedures for repatriation and social reintegration that apply.\nLetter b What is meant by implementing officers or functional officers includes health workers, psychologists, psychiatrists, social workers provided by relevant agencies or institutions.\nLetter c Sufficiently clear.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\n(1) UPTD PPA has the duty to carry out technical operational activities in its working area in providing services for women and children who experience problems of violence, discrimination, special protection, and other problems.\n(2) UPTD PPA in carrying out its duties as referred to in paragraph (1) performs service functions:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) UPTD PPA in carrying out functions as referred to in paragraph (2) is conducted for basic services in 1 (one) Regency.\n-6-",
+          "score": 0.030330882352941176
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 24,
+          "text": "BAB XJI\nCLOSING PROVISIONS\nArticle 20\nThis Regional Regulation shall come into force on the date of promulgation.\nSo that everyone may know of it, the promulgation of this Regional Regulation is ordered by its placement in the Regional Gazette of North Penajam Paser Regency.\nEnacted in Penajam on the date of 11 April 2023",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation provides integrated handling services (Pasal 10) such as complaint handling, health services, social rehabilitation, spiritual guidance, law enforcement support, legal aid, repatriation, and social reintegration, plus establishment of a safe house (Pasal 11). It also states general aims of ‘pemberdayaan’ and ‘peningkatan kapasitas’ (Pasal 2), but it does not specify economic support services (e.g., cash assistance, livelihood support, job placement, skills training, microcredit) as services for victims. Because the source text lacks explicit economic support services, a ‘Yes’ golden label appears incorrect; the judge’s ‘No’ matches the document.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nc. conduct socialization of Women's rights independently;",
+      "evaluator_rationale": "The policy explicitly mandates prevention of violence against women and specifies that prevention is carried out through multiple fields including education, and it also mentions community-led socialization of women’s rights, which constitutes awareness/education activities relevant to preventing VAW and protecting women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women shall be conducted at the end of each fiscal year or when needed according to requirements.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\n-8-",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) Monitoring is conducted through coordination and direct monitoring of related Regional apparatus periodically.\n(2) Monitoring is carried out from the planning stage up to the implementation of policies, programs, and activities for the Protection of Women Victims of Violence for the current year.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 12\n(1) Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence.\n(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence in the Region.",
+          "score": 0.029211087420042643
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER V\nPREVENTION AND HANDLING\nArticle 9\n(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nb. Public facilities and infrastructure;\nc. Government and institutional governance\nd. Economy and employment;\ne. Social welfare;\nf. Culture;\ng. Information technology;\nh. Religion; and\ni. Family",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly mandates prevention: “Pemerintah Daerah wajib menyelenggarakan Pencegahan Kekerasan terhadap Perempuan…” (Pasal 9 ayat (1)) and states prevention is carried out through multiple fields including “Pendidikan” (Pasal 9 ayat (2) huruf a). It also allows community participation to “melakukan sosialisasi hak Perempuan secara mandiri” (Pasal 18 ayat (1) huruf c), which is an information/awareness activity. Given this, the document does include information/education-related prevention elements. Therefore the golden label ‘No’ appears wrong; the judge’s ‘Yes’ is supported by the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. conduct socialization of Women's rights independently;",
+      "evaluator_rationale": "The policy includes an explicit educational/awareness activity focused on women’s rights via community participation provisions that allow the community to conduct socialization of women’s rights, which aligns with primary prevention education about women’s rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women shall be conducted at the end of each fiscal year or when needed according to requirements.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\n-8-",
+          "score": 0.03200204813108039
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER V\nPREVENTION AND HANDLING\nArticle 9\n(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nb. Public facilities and infrastructure;\nc. Government and institutional governance\nd. Economy and employment;\ne. Social welfare;\nf. Culture;\ng. Information technology;\nh. Religion; and\ni. Family",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 12\n(1) Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence.\n(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence in the Region.",
+          "score": 0.03007688828584351
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) Monitoring is conducted through coordination and direct monitoring of related Regional apparatus periodically.\n(2) Monitoring is carried out from the planning stage up to the implementation of policies, programs, and activities for the Protection of Women Victims of Violence for the current year.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER VI\nSOCIAL PROTECTION HOUSE\nArticle 11\n(1) The Regional Government is obligated to establish a social protection house and/or Safe House or other designation.\n(2) The social protection house and/or Safe House as referred to in paragraph (1) guarantees the implementation of Health Rehabilitation Services, Social Rehabilitation, Repatriation, and Social Reintegration.\n(3) For the implementation of Services as referred to in paragraph (2), the Regional Government may utilize social protection houses and/or Safe Houses owned by the community or other social service institutions.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Pasal 18 ayat (1) huruf c in Indonesian states the community may “melakukan sosialisasi hak Perempuan secara mandiri” (socialization/awareness of women’s rights). While it does not explicitly say “gender equality curriculum,” it is still education/awareness on women’s rights, which many frameworks treat as part of gender equality education. Since the policy contains this explicit women’s-rights socialization provision, the golden ‘No’ is likely incorrect relative to the indicator as applied by the pipeline/judge.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;",
+      "evaluator_rationale": "The policy explicitly frames prevention of violence against women as an obligation of regional government and specifies education as one of the fields through which prevention is to be organized, making education an explicit prevention strategy.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER V\nPREVENTION AND HANDLING\nArticle 9\n(1) Regional Governments are obligated to organize Prevention of Violence against Women in a swift, integrated and comprehensive manner.\n(2) The organization of Prevention of acts of Violence against Women as referred to in paragraph (1) shall be carried out through the fields of:\na. Education;\nb. Public facilities and infrastructure;\nc. Government and institutional governance\nd. Economy and employment;\ne. Social welfare;\nf. Culture;\ng. Information technology;\nh. Religion; and\ni. Family",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.030309988518943745
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women shall be conducted at the end of each fiscal year or when needed according to requirements.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\n-8-",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER VI\nSOCIAL PROTECTION HOUSE\nArticle 11\n(1) The Regional Government is obligated to establish a social protection house and/or Safe House or other designation.\n(2) The social protection house and/or Safe House as referred to in paragraph (1) guarantees the implementation of Health Rehabilitation Services, Social Rehabilitation, Repatriation, and Social Reintegration.\n(3) For the implementation of Services as referred to in paragraph (2), the Regional Government may utilize social protection houses and/or Safe Houses owned by the community or other social service institutions.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 12\n(1) Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence.\n(2) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of Women Victims of Violence in the Region.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation directly links prevention to the education sector: Pasal 9(1) obligates the regional government to conduct prevention of violence against women, and Pasal 9(2) lists “Pendidikan” as one of the fields through which prevention is implemented. This is an explicit prevention-through-education statement. Therefore the golden label ‘No’ appears inconsistent with the source text; the judge’s ‘Yes’ is supported.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text defines “Health Rehabilitation” as recovery of victims of trafficking in persons, the regulation’s scope and service provisions shown are framed around women victims of violence generally and do not explicitly include women victims of trafficking (as trafficking/exploitation) within the policy’s target group or scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nHandling of women victims of violence is through the provision of integrated and comprehensive services including:\na. coverage of Women Victims of Violence who receive complaint handling by trained officers within the integrated Service unit;\nb. coverage of Women Victims of Violence who receive health services by trained health personnel at community health centers and hospitals;\nc. coverage of Social Rehabilitation services provided by trained Social Rehabilitation officers for Women Victims of Violence within the integrated Service unit;\nd. coverage of spiritual guidance services provided by trained spiritual guidance officers for Women Victims of Violence within the integrated Service unit;\ne. coverage of law enforcement from the investigation level up to court decisions on cases of Violence Against Women;\nf. coverage of Women Victims of Violence who receive Legal Aid services;\ng. coverage of Repatriation services for Women Victims of Violence; and\nh. coverage of Social Reintegration services for Women Victims of Violence.\n-7-",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 29,
+          "text": "ABOUT\nPROTECTION OF WOMEN VICTIMS OF VIOLENCE\nI. GENERAL\nViolence against Women is one form of act that violates human rights. As is known that the rights of Women have been guaranteed and regulated in the 1945 Constitution of the Republic of Indonesia and the Law on Human Rights. Therefore, the protection of Women's rights from violence should be respected, upheld and human dignity enhanced without discrimination, welfare and justice for Women.\nViolence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom. Furthermore, Violence against women is any action based on gender differences that results in or may result in suffering or hardship for women physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life. Violence against children is any act against a child that results in suffering or hardship physically, mentally, sexually, psychologically, including neglect and ill-treatment that threatens bodily integrity and degrades the dignity of the child. The existence of Women victims of violence has not yet received adequate services so that minimum services are needed for victims of violence.\nIn order to prevent and overcome violence against Women in Penajam Paser Utara Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and worth, it is necessary to provide protection for Women victims of violence in the form of Regional regulations.\nThis Regional Regulation regulates protection efforts for Women victims of violence specifically in terms of services, monitoring and evaluation, reporting, funding, guidance and supervision of Women victims of violence in Penajam Paser Utara Regency.\n-11-",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 2\nProtection of Women Victims aims to: a. protect Women Victims of Violence;\nb. provide Services to Women Victims of acts of Violence; and c. empowerment of Women Victims of Violence;\nd. capacity building of women victims of violence in women's empowerment through related Regional Apparatus Organizations, Private Parties, Business World and others.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nRIGHTS OF VICTIMS\nArticle 3\nVictims have the right to obtain:\na. Protection from:\n1. Family;\n2. police;\n3. prosecutor's office;\n4. court;\n5. advocate; and\n6. social institutions, or other parties either temporarily or based on a Protection order determination from the court.\nb. Health services in accordance with medical needs;\nc. special handling related to the confidentiality of Victims; d. assistance by social workers and Legal Aid at every level of the examination process in accordance with the provisions of laws and regulations;\ne. Religious guidance services; and\nf. Victims have the right to determine their own decisions related to which options will be implemented.",
+          "score": 0.030090497737556562
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 18\n(1) In providing Protection to Women Victims of Violence, the community may:\na. form Family partners at the kelurahan/Village level;\nb. form Women's Protection units within community organizations;\nc. conduct socialization of Women's rights independently;\nd. provide first aid to Victims; and\ne. report to the competent authority if Violence against Victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, Community self-reliance institutions, educational institutions, religious institutions, the private sector, and mass media.\n-9-",
+          "score": 0.029850746268656716
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women shall be conducted at the end of each fiscal year or when needed according to requirements.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.\n-8-",
+          "score": 0.02857142857142857
+        },
+        {
+          "chunk_id": 1,
+          "text": "CONCERNING\nTHE PROTECTION OF WOMEN VICTIMS OF VIOLENCE BY THE GRACE OF GOD THE ALMIGHTY",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PENAJAM PASER UTARA,\n\nConsidering\n\na. that acts of violence against women constitute violations of human rights, therefore it is necessary to protect their dignity and honor and to guarantee their right to life in accordance with their nature without discrimination;\n\nb. that to prevent and address violence against women, it is necessary to provide legal protection for women victims of violence;\n\nc. that Penajam Paser Utara Regency does not yet have a regulatory basis regarding the implementation of protection for women victims of violence;\n\nd. that based on the considerations as referred to in point a, point b, and point c, it is necessary to establish a Regional Regulation on the Protection of Women Victims of Violence;\n\nBearing in Mind",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is North Penajam Paser Regency.\n2. Regional Government is the Regent as an element of the regional government administration who leads the implementation of government affairs that are the authority of the autonomous region of North Penajam Paser Regency.\n3. Regent is the Regent of North Penajam Paser Utara.\n4. Village is a legal community unit that has territorial boundaries with the authority to regulate and manage government affairs, the interests of the local community based on community initiative, rights of origin and/or traditional rights that are recognized and respected in the government system of the Unitary State of the Republic of Indonesia.\n5. Family is a person who has a blood relationship in a direct line upward or downward and a collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of a woman.\n6. Service is an activity and immediate action carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n-3-\n7. Protection is all service actions to guarantee and protect the rights of victims of acts of violence organized by the Integrated Service Center.\n8. Prevention is all actions or efforts made to eliminate various factors that cause acts of violence against women.\n9. Woman is an adult human being of female sex and a person who is legally recognized as a woman.\n10. Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence Against Women is any action based on gender differences that results in or may result in suffering or hardship for Women physically, sexually or psychologically, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Victim is a Woman who experiences acts of violence.\n13. Health Rehabilitation is the recovery of Victims of trafficking in persons from the health disorders they suffer.\n14. Social Rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n15. Repatriation is an effort to return Women Victims of Violence to the Family, substitute family, or community that can provide protection and fulfillment of their needs.\n16. Social Reintegration is an effort to reunite victims with the Family, substitute family, or community that can provide protection and fulfillment of needs for Victims.\n17. Legal Aid is legal services provided by legal assistants and advocates to carry out the process of accompanying sanctions and/or Victims of Violence against Women and children that are gender sensitive.\n18. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n19. Safe House is a temporary residence, provided to give protection to Victims in accordance with predetermined standards.\n-4-",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 24,
+          "text": "BAB XJI\nCLOSING PROVISIONS\nArticle 20\nThis Regional Regulation shall come into force on the date of promulgation.\nSo that everyone may know of it, the promulgation of this Regional Regulation is ordered by its placement in the Regional Gazette of North Penajam Paser Regency.\nEnacted in Penajam on the date of 11 April 2023",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian definitions explicitly reference trafficking victims: Pasal 1 angka 13 states “Rehabilitasi Kesehatan adalah pemulihan Korban perdagangan orang…” (health rehabilitation is recovery of victims of trafficking in persons). This indicates the regulation contemplates trafficking victims within its service/rehabilitation concepts. The retrieved English candidates included this definition, but the judge discounted it because other provisions speak generally about women victims of violence. Given the explicit mention of “Korban perdagangan orang” in the regulation’s definitions, the judge’s ‘No’ is not well-supported; the available text supports ‘Yes’ for including trafficking victims at least as a recognized victim category for rehabilitation.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_TIMUR_PENAJAM_PASER_UTARA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.269839+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

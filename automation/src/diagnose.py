@@ -5,7 +5,8 @@ persisted by the evaluation step (see run_eval.py:_write_candidates_file),
 and the translated snippet + rationale the judge produced.
 
 Final stage of the pipeline, run after comparison. Writes one aggregated
-JSON report per policy file to `data/automation/<run_id>/diagnosis/<stem>.json`.
+JSON report per policy file to
+`data/automation/<run_id>/results/diagnosis/<stem>.json`.
 A no-op (no report files written) when comparison found zero mismatches.
 """
 
@@ -21,7 +22,12 @@ import pandas as pd
 from pydantic import BaseModel
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir
+from automation.src.config_loader import (
+    ResolvedPipelineConfig,
+    get_run_dir,
+    resolve_mid_product_dir,
+    resolve_results_dir,
+)
 from automation.src.constants import SMALL_SCALE_FILES
 from automation.src.diagnose_prompt_builder import build_diagnosis_prompt
 from automation.src.evaluate_accuracy import deduplicate_reports, load_report_files
@@ -81,7 +87,8 @@ def _load_candidates(rag_candidates_dir: Path, policy_filename: str) -> dict[str
     if not path.exists():
         raise FileNotFoundError(
             f"No RAG candidates found at {path}. Re-run the evaluation step (with --force) "
-            "for this run to generate rag_candidates/ before running discrepancy_diagnosis."
+            "for this run to generate mid_product/rag_candidates/ before running "
+            "discrepancy_diagnosis."
         )
     data = json.loads(path.read_text(encoding="utf-8"))
     return data.get("candidates", {})
@@ -226,10 +233,10 @@ def run_diagnosis_step(
     force: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
-    comparison_dir = run_dir / "comparison"
-    evaluation_dir = run_dir / "evaluation"
-    rag_candidates_dir = run_dir / "rag_candidates"
-    output_dir = run_dir / "diagnosis"
+    comparison_dir = resolve_results_dir(run_dir, "comparison")
+    evaluation_dir = resolve_results_dir(run_dir, "evaluation")
+    rag_candidates_dir = resolve_mid_product_dir(run_dir, "rag_candidates")
+    output_dir = resolve_results_dir(run_dir, "diagnosis")
 
     start = time.time()
     df = _load_error_analysis(comparison_dir)

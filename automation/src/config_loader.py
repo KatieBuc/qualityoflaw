@@ -288,6 +288,44 @@ def get_run_dir(run_id: str) -> Path:
     return DEFAULT_DATA_ROOT / run_id
 
 
+def results_dir(run_dir: Path, name: str) -> Path:
+    """Path to a main-result subfolder (cleaned_text, translation, evaluation,
+    comparison, diagnosis) — final deliverables of the pipeline."""
+    return run_dir / "results" / name
+
+
+def mid_product_dir(run_dir: Path, name: str) -> Path:
+    """Path to a mid-product subfolder (chunks, rag_store, rag_candidates) —
+    intermediate artifacts consumed by later pipeline stages."""
+    return run_dir / "mid_product" / name
+
+
+def _resolve_existing_or_new(run_dir: Path, name: str, new_path: Path) -> Path:
+    if new_path.is_dir():
+        return new_path
+    old_path = run_dir / name
+    if old_path.is_dir():
+        return old_path
+    return new_path
+
+
+def resolve_results_dir(run_dir: Path, name: str) -> Path:
+    """Resolve a main-result subfolder, for either a new or a pre-existing run.
+
+    Prefers results/<name> (the current layout); falls back to the
+    pre-refactor flat run_dir/<name> layout when that's what a given run
+    already has on disk, so runs created before results/mid_product/ was
+    introduced keep working without being physically migrated. When neither
+    exists yet (a brand new run), returns the results/<name> path.
+    """
+    return _resolve_existing_or_new(run_dir, name, results_dir(run_dir, name))
+
+
+def resolve_mid_product_dir(run_dir: Path, name: str) -> Path:
+    """Same as resolve_results_dir, but for mid_product/<name> subfolders."""
+    return _resolve_existing_or_new(run_dir, name, mid_product_dir(run_dir, name))
+
+
 def snapshot_configs(
     run_dir: Path,
     pipeline_config_path: Path,

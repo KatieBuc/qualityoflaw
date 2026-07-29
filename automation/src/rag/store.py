@@ -1,12 +1,14 @@
 """Storage stage: chunk translated policy files and embed each chunk.
 
 Writes one JSON store file per policy under
-`data/automation/<run_id>/rag_store/<stem>.json` — this one-file-per-policy
-layout is what guarantees retrieval never mixes evidence across policies.
+`data/automation/<run_id>/mid_product/rag_store/<stem>.json` — this
+one-file-per-policy layout is what guarantees retrieval never mixes evidence
+across policies.
 
 Two ways to get chunk text for a policy, tried in order:
 1. Reuse the translation step's own chunk boundaries and per-chunk English
-   translations, if `data/automation/<run_id>/chunks/<stem>.chunks.json`
+   translations, if
+   `data/automation/<run_id>/mid_product/chunks/<stem>.chunks.json`
    exists and is valid (see `_load_translation_chunks`). These boundaries were
    decided on the source-language text (reliable BAB/Pasal/Bagian/Paragraf
    markers), so they're preferred over re-detecting structure in translated
@@ -21,15 +23,51 @@ import time
 from dataclasses import dataclass
 from pathlib import Path
 
-from automation.src.chunking import STRUCTURE_MARKER_EN_RE, chunk_policy_text
+from automation.src.chunking import STRUCTURE_MARKER_EN_RE, chunk_policy_text, fallback_split
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir
+from automation.src.config_loader import (
+    ResolvedPipelineConfig,
+    get_run_dir,
+    resolve_mid_product_dir,
+    resolve_results_dir,
+)
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.policy_files import filter_policy_files
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.translate import chunks_artifact_path
 
 logger = logging.getLogger(__name__)
+
+# Azure's embedding models cap input at 8192 tokens. Translation chunking's
+# safe_limit (chars, ~32000) is sized for the translation LLM's context, not
+# this — and legal-citation-heavy text (lots of digits/punctuation) can
+# tokenize less efficiently than prose, so a chunk under safe_limit can still
+# exceed 8192 tokens. BPE tokenizers never split a single ASCII character
+# into more than one token, so staying well under this many *characters*
+# guarantees staying under the token limit regardless of tokenization
+# density, without needing a tokenizer dependency to measure exactly.
+EMBEDDING_SAFE_CHAR_LIMIT = 6000
+
+
+def _split_oversized_for_embedding(chunk_dicts: list[dict]) -> list[dict]:
+    """Sub-split any chunk whose text could exceed the embedding model's
+    token limit, independent of the translation step's own chunk boundaries.
+
+    `chunk_id` is renumbered sequentially across the result — retrieval only
+    ever treats it as an index into this one policy's own rag_store chunk
+    list (see retriever.py), never against chunks.json, so re-splitting here
+    doesn't affect anything downstream.
+    """
+    expanded: list[dict] = []
+    for chunk in chunk_dicts:
+        text = chunk["text"]
+        if len(text) <= EMBEDDING_SAFE_CHAR_LIMIT:
+            expanded.append(chunk)
+            continue
+        for sub_text, _context in fallback_split(text, safe_limit=EMBEDDING_SAFE_CHAR_LIMIT):
+            expanded.append({**chunk, "text": sub_text})
+
+    return [{**c, "chunk_id": i} for i, c in enumerate(expanded)]
 
 
 @dataclass
@@ -107,6 +145,7 @@ def _embed_policy_file(
                 for i, c in enumerate(chunks)
             ]
 
+        chunk_dicts = _split_oversized_for_embedding(chunk_dicts)
         vectors = embedder.embed_texts([c["text"] for c in chunk_dicts])
         payload = {
             "policy_file": filename,
@@ -130,9 +169,9 @@ def run_storage_step(
     force: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
-    policy_dir = run_dir / "translation"
-    chunks_dir = run_dir / "chunks"
-    store_dir = run_dir / "rag_store"
+    policy_dir = resolve_results_dir(run_dir, "translation")
+    chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
+    store_dir = resolve_mid_product_dir(run_dir, "rag_store")
     store_dir.mkdir(parents=True, exist_ok=True)
 
     policy_files = filter_policy_files(policy_dir, small_scale)

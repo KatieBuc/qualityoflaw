@@ -1,0 +1,469 @@
+{
+  "policy_file": "DI_YOGYAKARTA_BANTUL_v2.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-28T13:48:04.005587+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Forms of critical education for the community consist of: trainings on gender equality and justice, education about reproductive health for women, and providing understanding of laws and regulations concerning the Elimination of Domestic Violence and Child Protection.",
+      "rationale": "The policy explicitly references laws and regulations concerning the elimination of domestic violence as part of community critical education, indicating domestic violence is within scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "14. Sexual Violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain purposes.",
+      "rationale": "The policy explicitly defines sexual violence, indicating it is included as a form of violence addressed by the regulation.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "12. Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and or causes death.",
+      "rationale": "The policy explicitly defines physical violence, demonstrating that physical violence is included.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "13. Psychological Violence is any act that causes fear, loss of self-confidence, loss of ability to act, feelings of helplessness and or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly defines psychological violence, demonstrating that psychological violence is included.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "15. Economic Violence is any act that neglects family members in the form of not providing proper living care or maintenance.",
+      "rationale": "The policy explicitly defines economic violence as neglecting family members by not providing proper living care or maintenance, covering economic violence/domestic neglect.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention harmful practices such as child/early marriage, FGM, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences discuss violence generally and include death as a possible outcome of physical violence, but do not explicitly address femicide/feminicide as a distinct concept or category.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention human trafficking or trafficking in persons.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "16. Exploitation of Children is any act involving children in activities that may harm their welfare and development or endanger the safety of children with the aim of enabling others to obtain economic, sexual, social, or political benefits, including if there is restriction or elimination of opportunities for children to obtain their rights.",
+      "rationale": "The policy explicitly includes exploitation (including for sexual benefits) within the definition of exploitation of children, thereby addressing sexual exploitation (at least in relation to children).",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention cyber/online/digital forms of violence, harassment, bullying, pornography, or other technology-facilitated abuse.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "7. The provisions of Article 13 are amended, to read as follows: Article 13 (1) In order to provide services and protection to victims of violence, the Regional Government establishes PPT.\n(1) In an effort to provide and organize handling of services and protection for victims, the Regional Government and Village Government establish FPKK.\n41. Forum for Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for handling victims of violence against Children and Women whose implementation is carried out in a networked manner.",
+      "rationale": "The policy establishes institutional structures for coordinated implementation, including the creation of an Integrated Service Center (PPT) and a coordination forum (FPKK) that operates in a networked manner for handling cases and coordinating services.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines an \"institution\" as including NGOs and mentions community networks and referral systems, the provided sentences do not explicitly establish a collaboration/cooperation mechanism with NGOs or other non-government service providers.",
+      "evidence_verified": null
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "(1) PPT and FPKK shall prepare reports on the protection of Children and Women victims of violence to the Regent.\n(2) Reporting as referred to in paragraph (1) shall be submitted in writing, covering:\nd. collect, compile and present reports on cases of violence.",
+      "rationale": "The policy assigns responsibility for reporting on protection activities (including specified reporting contents) and includes functions to collect, compile, and present reports on cases of violence, which constitutes a system for documenting and reporting information on violence cases.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference gender justice/equality principles and gender-responsive budgeting, but they do not establish or require gender mainstreaming as an institutional mechanism for implementing women’s protection or VAW policies/programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "c. education and training; and\n(5) Education and training as referred to in paragraph (2) letter c shall be conducted by SKPD responsible for women's empowerment and child protection.",
+      "rationale": "The policy includes education and training as part of guidance and supervision, and assigns responsibility for conducting such education and training to the relevant SKPD, indicating required capacity-building for implementation.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "d. monitoring and evaluation.\n(6) Monitoring and evaluation as referred to in paragraph (2) letter d shall be conducted periodically.\n(1) PPT and FPKK shall prepare reports on the protection of Children and Women victims of violence to the Regent.",
+      "rationale": "The policy explicitly includes monitoring and evaluation within guidance and supervision and requires it to be conducted periodically; it also requires regular reporting by PPT and FPKK, supporting ongoing monitoring of implementation and service delivery.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "31. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n7. The provisions of Article 13 are amended, to read as follows: Article 13 (1) In order to provide services and protection to victims of violence, the Regional Government establishes PPT.",
+      "rationale": "The policy defines an Integrated Service Center (PPT) as a functional work unit organizing integrated services for victims of violence and states that the Regional Government establishes PPT to provide services and protection to victims (including women).",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the police are mentioned as one of the parties involved in protection, the provided sentences do not establish or describe a specialised service unit for VAW within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions on “REPORTING” concern periodic institutional reporting by PPT/FPKK to the Regent, not a mechanism/service for victims or the public to submit complaints or reports of violence.",
+      "evidence_verified": null
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "33. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and dangers from perpetrators in accordance with predetermined standards.",
+      "rationale": "The policy defines a Safe House as a shelter for victims for safety and comfort from threats and dangers from perpetrators, indicating provision for protective shelter services.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "c. legal role;",
+      "rationale": "The policy establishes FPKK and specifies membership roles including a legal role, indicating an organized service function that can provide legal assistance within the victim-handling framework.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "a. health role;",
+      "rationale": "The policy establishes FPKK and specifies membership roles including a health role, indicating an organized service function that can provide health/medical services as part of handling and protection for victims.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "Letter b What is meant by the \"service and assistance\" aspect is immediate activities and actions carried out by professionals and assistants in accordance with their respective professions in the form of counseling, therapy and advocacy for the strengthening and recovery of victims of violence.",
+      "rationale": "The policy explicitly describes service and assistance as immediate activities by professionals/assistants including counseling and therapy for strengthening and recovery of victims.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "26. Spiritual guidance is assistance in the form of services for spiritual strengthening so that sick people can rise to be closer to God so that a sense of calm, security arises, and mental health is achieved.",
+      "rationale": "The policy defines spiritual guidance as a form of service for spiritual strengthening to create calm and security and achieve mental health, indicating availability of faith-based/spiritual support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "34. Social Reintegration is the process of preparing the community and victims that supports the reunification of victims into the family environment, family substitutes who can provide protection and fulfillment of victims' needs.",
+      "rationale": "The policy defines social reintegration as a process supporting reunification of victims into a family environment and fulfilling victims’ needs, indicating resocialisation/reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "e. economic role.",
+      "rationale": "The policy establishes FPKK and specifies membership roles including an economic role, indicating an organized service function that can provide economic empowerment/support within victim handling.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "Forms of critical education for the community consist of: trainings on gender equality and justice, education about reproductive health for women, and providing understanding of laws and regulations concerning the Elimination of Domestic Violence and Child Protection.\nPoint d Socialization can be conducted through mass media, electronic media, and direct counseling to the community.",
+      "rationale": "The policy describes community-facing preventive education and socialization activities, including critical education and trainings (e.g., gender equality/justice training and legal understanding related to domestic violence), and specifies socialization channels (mass media, electronic media, direct counseling) aimed at preventing violence against women (and children).",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "Yes",
+      "evidence": "7 2015 Point c What is meant by \"Critical education about the rights of children and women\" is an effort to build awareness of children and women about their rights.\nForms of critical education for the community consist of: trainings on gender equality and justice, education about reproductive health for women, and providing understanding of laws and regulations concerning the Elimination of Domestic Violence and Child Protection.",
+      "rationale": "The policy explicitly includes critical education about the rights of women and specifies that forms of this education include trainings on gender equality and justice, which are primary-prevention educational activities focused on women’s rights and gender equality.",
+      "evidence_verified": true
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "Yes",
+      "evidence": "Forms of critical education for the community consist of: trainings on gender equality and justice, education about reproductive health for women, and providing understanding of laws and regulations concerning the Elimination of Domestic Violence and Child Protection.",
+      "rationale": "The policy includes primary-prevention education that provides understanding of laws and regulations concerning the elimination of domestic violence, which constitutes awareness/education about relevant VAW-related laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "a. Primary prevention, all people, families, communities and the state in efforts to increase the capacity of knowledge, understanding and ensuring that violence against women and children does not occur, including policy socialization, adequate services, supportive workplace policies, and life skills training for women and children.\n7 2015 Point c What is meant by \"Critical education about the rights of children and women\" is an effort to build awareness of children and women about their rights.",
+      "rationale": "The policy frames prevention as increasing knowledge and understanding to ensure violence against women and children does not occur (including socialization and training), and it explicitly identifies critical education about the rights of children and women as part of prevention efforts.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "30. Institution is an agency/office/body/office within the scope of regional government and/or non-governmental organization (NGO) that provides assistance to victims of violence.\n(4) In the event that PPT does not have facilities to provide services and protection as referred to in paragraph (3), then children and women victims of violence are referred through a network system within the FPKK forum.",
+      "rationale": "The policy explicitly defines an \"Institution\" as including non-governmental organizations (NGOs) that provide assistance to victims, and it establishes a network/referral mechanism (via FPKK) through which victims are referred when PPT lacks facilities—indicating collaboration/engagement with non-government actors for service delivery.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention \"practicing religious values\" and define \"spiritual guidance,\" but they do not include or assign roles to religious organisations/leaders/clergy/faith-based actors in prevention, services, coordination, or implementation.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences refer generally to community, family, networks, and prevention activities, but do not mention traditional/customary/cultural leaders or customary institutions/mechanisms in implementation, coordination, services, or dispute resolution.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "c. educational institutions.\nLetter b Prevention efforts in the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication among family members Letter c Educational institutions can participate in efforts to provide punishments that are educational in nature, endeavoring to eliminate provisions that do not side with victims of violence.",
+      "rationale": "The policy explicitly includes educational institutions as actors in prevention efforts and states that educational institutions can participate in efforts related to addressing violence (e.g., educational punishments and eliminating provisions not siding with victims).",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organizations, international partners, or international support for prevention or service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "Point d Socialization can be conducted through mass media, electronic media, and direct counseling to the community.",
+      "rationale": "The policy explicitly references mass media and electronic media as channels through which socialization (public outreach) can be conducted, indicating engagement/recognition of media in prevention-related activities.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "a. the community;\na. Primary prevention, all people, families, communities and the state in efforts to increase the capacity of knowledge, understanding and ensuring that violence against women and children does not occur, including policy socialization, adequate services, supportive workplace policies, and life skills training for women and children.",
+      "rationale": "The policy explicitly states that prevention efforts are carried out by the community and describes primary prevention as involving communities (along with people, families, and the state), demonstrating stakeholder engagement with community/society in prevention.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "Yes",
+      "evidence": "a. Primary prevention, all people, families, communities and the state in efforts to increase the capacity of knowledge, understanding and ensuring that violence against women and children does not occur, including policy socialization, adequate services, supportive workplace policies, and life skills training for women and children.",
+      "rationale": "The policy includes \"supportive workplace policies\" as part of primary prevention, which implicitly engages the workplace/employers (i.e., the private/business sector) as stakeholders in prevention.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe general prevention, services, assistance, safe houses, and protection for women and children victims of violence, but do not mention conflict, disaster, emergency, displacement, or refugees, nor any special measures tailored to such contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy includes “exploitation” as a form of violence and defines exploitation of children, none of the cited sentences explicitly include human trafficking or trafficking victims (especially women) within scope or provide trafficking-specific measures.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text mentions “supportive workplace policies” within a general prevention explanation, but it does not explicitly identify women workers/employees as a target group or set out specific protections/measures for them as workers.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No cited sentence mentions elderly women or provides age-specific protection measures targeted to older women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not mention disability, women with disabilities, or any disability-specific protection or service adaptations.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences define family/household generally and outline victim protection structures, but do not identify women heads of household/families as a specific group or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although non-discrimination is referenced generally, there are no explicit or implicit special protection measures targeted specifically at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text focuses on victims of violence and general legal institutions/terms, but does not explicitly provide protection/services for women as suspects, defendants, perpetrators, or witnesses (i.e., women in conflict with the law).",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No cited sentence mentions Indigenous peoples, customary communities (masyarakat adat), or Indigenous women, nor any targeted measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not mention refugees, forced displacement, evacuation, or related contexts, and therefore do not establish special protection measures for displaced/refugee populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text defines “household” to include domestic workers residing in the household, but it does not provide any special protection measures specifically targeted at domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No cited sentence mentions homelessness or provides targeted protection measures for women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences do not mention former inmates, correctional institutions, or reintegration measures specifically for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "39. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of Bantul Regency\nd. allocating special gender-responsive budgets that support the protection of children and women victims of violence;",
+      "rationale": "The text defines the Regional Revenue and Expenditure Budget (APBD) of Bantul Regency and states that the Regional Government allocates special gender-responsive budgets to support protection efforts, indicating a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text defines 'Government' as the Central Government, the candidate sentences do not specify any funding/budget source coming from the national (central) government; the only explicit budget reference is to regional budgets.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organizations, foreign governments, donors, UN agencies, development partners, or any other form of international funding/support.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not identify any non-governmental or alternative legal funding sources (e.g., private sector, NGOs as funders, grants, philanthropy, or other lawful sources); they discuss services and definitions but not funding sources beyond regional budgeting concepts.",
+      "evidence_verified": null
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences reference the Bantul Regency APBD and regional government budgeting, but do not explicitly mention a provincial government budget or provincial funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

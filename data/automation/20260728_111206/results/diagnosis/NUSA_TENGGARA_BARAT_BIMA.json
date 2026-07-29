@@ -1,0 +1,937 @@
+{
+  "diagnoses": {
+    "1.1": {
+      "indicator": "Domestic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences refer generally to \"violence against women\" and related services and prevention, but none explicitly mention domestic violence or violence within the household/intimate partner context.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 30\n(1) The Regent is responsible for the implementation of PUG in the Region.\n(2) The Regent establishes the Regional Apparatus that administers governmental affairs in the field of women's empowerment and child protection as the coordinator for the implementation of PUG in the Region.\n(3) The success of PUG implementation by carrying out Gender Responsive Planning and Budgeting (PPRG) is measured through human development indicators, Gender development indicators, and gender empowerment indicators in development.\n(4) The Regent conducts periodic evaluations of PUG implementation annually in accordance with their authority to determine the achievements of PUG implementation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nStrengthening and development of institutions providing services for improving the quality of life of children as referred to in Article 22 letter b shall be carried out through: a. capacity building of resources of institutions providing services for improving the quality of life of children in the regions;\nb. assistance in the implementation of services for improving the quality of life of children in the regions;\nc. development of materials and implementation of Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of children in the regions;\nd. strengthening networks among institutions providing services for improving the quality of life of Children in the regions;\ne. facilitation of the implementation of standardization of institutions providing services for improving the quality of life of Children in the regions; and\nf. development of institutions providing services for improving the quality of life of children in the regions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In the implementation of KLA, the Regional Government integrates policies, programs, and development activities in the RAD.\n(2) The preparation of RAD as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 38\nThe implementation stage of KLA is carried out based on the RAD that has been prepared by optimizing the role of the KLA Task Force and conducting monitoring.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation defines “Kekerasan” broadly (Pasal 1 angka 11: physical/psychological/sexual/neglect, threats, coercion, deprivation of liberty) and then regulates prevention/services for “kekerasan terhadap perempuan/anak” generally (Pasal 11–15, 25–28). However, it does not specifically mention domestic violence/violence in the household (e.g., KDRT, dalam rumah tangga, pasangan intim/suami-istri). The judge’s rationale (no explicit domestic/intimate-partner framing in the provided passages) matches the source. Therefore the golden ‘Yes’ for domestic violence appears incorrect for this document.",
+      "diagnosis_status": "ok"
+    },
+    "1.2": {
+      "indicator": "Sexual violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences discuss prevention and services for \"violence against women\" and \"violence against women and children\" in general, but do not explicitly mention sexual violence or any sexual-violence-specific terms.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 30\n(1) The Regent is responsible for the implementation of PUG in the Region.\n(2) The Regent establishes the Regional Apparatus that administers governmental affairs in the field of women's empowerment and child protection as the coordinator for the implementation of PUG in the Region.\n(3) The success of PUG implementation by carrying out Gender Responsive Planning and Budgeting (PPRG) is measured through human development indicators, Gender development indicators, and gender empowerment indicators in development.\n(4) The Regent conducts periodic evaluations of PUG implementation annually in accordance with their authority to determine the achievements of PUG implementation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nStrengthening and development of institutions providing services for improving the quality of life of children as referred to in Article 22 letter b shall be carried out through: a. capacity building of resources of institutions providing services for improving the quality of life of children in the regions;\nb. assistance in the implementation of services for improving the quality of life of children in the regions;\nc. development of materials and implementation of Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of children in the regions;\nd. strengthening networks among institutions providing services for improving the quality of life of Children in the regions;\ne. facilitation of the implementation of standardization of institutions providing services for improving the quality of life of Children in the regions; and\nf. development of institutions providing services for improving the quality of life of children in the regions.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In the implementation of KLA, the Regional Government integrates policies, programs, and development activities in the RAD.\n(2) The preparation of RAD as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 38\nThe implementation stage of KLA is carried out based on the RAD that has been prepared by optimizing the role of the KLA Task Force and conducting monitoring.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian source explicitly includes sexual violence within the definition of violence: Pasal 1 angka 11 states violence causes suffering “secara fisik, psikis, seksual, dan/atau penelantaran…”. That is sufficient to answer ‘Yes’ for sexual violence being covered. Although this definition was available elsewhere in the document, the retrieved candidates for 1.2 did not include Pasal 1 angka 11, so retrieval failed. Additionally, the judge appears to have overlooked that the policy can cover sexual violence via a general definition section (even if later operational articles say only ‘kekerasan’), so with the correct definition passage present the judge should have answered Yes.",
+      "diagnosis_status": "ok"
+    },
+    "1.3": {
+      "indicator": "Physical violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although the text repeatedly mentions \"violence\" and protection from violence, it does not specify physical violence or physical assault as a distinct form.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 30\n(1) The Regent is responsible for the implementation of PUG in the Region.\n(2) The Regent establishes the Regional Apparatus that administers governmental affairs in the field of women's empowerment and child protection as the coordinator for the implementation of PUG in the Region.\n(3) The success of PUG implementation by carrying out Gender Responsive Planning and Budgeting (PPRG) is measured through human development indicators, Gender development indicators, and gender empowerment indicators in development.\n(4) The Regent conducts periodic evaluations of PUG implementation annually in accordance with their authority to determine the achievements of PUG implementation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nStrengthening and development of institutions providing services for improving the quality of life of children as referred to in Article 22 letter b shall be carried out through: a. capacity building of resources of institutions providing services for improving the quality of life of children in the regions;\nb. assistance in the implementation of services for improving the quality of life of children in the regions;\nc. development of materials and implementation of Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of children in the regions;\nd. strengthening networks among institutions providing services for improving the quality of life of Children in the regions;\ne. facilitation of the implementation of standardization of institutions providing services for improving the quality of life of Children in the regions; and\nf. development of institutions providing services for improving the quality of life of children in the regions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\nThe Implementation of Special Protection for Children is carried out by means of: a. prevention of violence against Children;\nb. provision of services for Children requiring special protection through coordination of parties both government and non-government institutions in the Region; and\nc. strengthening and development of service provider institutions for Children requiring special protection in the Region.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved candidates for 1.3 included the definition of “Kekerasan” (Pasal 1 angka 11) stating violence includes suffering “secara fisik…”. That directly covers physical violence. The judge’s rationale that physical violence is not specified is incorrect given the explicit term “fisik” in the definition. So the error is primarily judge/evaluation failure, not retrieval.",
+      "diagnosis_status": "ok"
+    },
+    "1.4": {
+      "indicator": "Psychological violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The sentences mention fear, threats, and non-discrimination including \"psychological condition,\" but they do not explicitly identify psychological violence (e.g., emotional/psychological abuse) as a form of violence addressed by the policy.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 30\n(1) The Regent is responsible for the implementation of PUG in the Region.\n(2) The Regent establishes the Regional Apparatus that administers governmental affairs in the field of women's empowerment and child protection as the coordinator for the implementation of PUG in the Region.\n(3) The success of PUG implementation by carrying out Gender Responsive Planning and Budgeting (PPRG) is measured through human development indicators, Gender development indicators, and gender empowerment indicators in development.\n(4) The Regent conducts periodic evaluations of PUG implementation annually in accordance with their authority to determine the achievements of PUG implementation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nStrengthening and development of institutions providing services for improving the quality of life of children as referred to in Article 22 letter b shall be carried out through: a. capacity building of resources of institutions providing services for improving the quality of life of children in the regions;\nb. assistance in the implementation of services for improving the quality of life of children in the regions;\nc. development of materials and implementation of Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of children in the regions;\nd. strengthening networks among institutions providing services for improving the quality of life of Children in the regions;\ne. facilitation of the implementation of standardization of institutions providing services for improving the quality of life of Children in the regions; and\nf. development of institutions providing services for improving the quality of life of children in the regions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In the implementation of KLA, the Regional Government integrates policies, programs, and development activities in the RAD.\n(2) The preparation of RAD as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved candidates for 1.4 included Pasal 1 angka 11 defining violence as causing suffering “secara … psikis …” (psychological). That is an explicit inclusion of psychological violence. The judge focused on other passages and concluded psychological violence was not identified; this is a misread/overly strict interpretation despite sufficient evidence in the candidates.",
+      "diagnosis_status": "ok"
+    },
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The excerpts mention exploitation and child neglect/care, and women’s empowerment in economic fields, but do not explicitly frame economic violence/economic exploitation/domestic neglect as a form of violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children, and child protection;\nc. preventing acts of violence from occurring within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+          "score": 0.031024531024531024
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\nEmpowerment of Women in the political, legal, social, and economic fields in community organizations as referred to in Article 7 letter b is carried out through:\na. improvement of quality and quantity of women in the political, legal, social, and economic fields in community organizations at the regional level; and\nb. involvement of women in decision-making in the political, legal, social, and economic fields in community organizations at the regional level.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian definition of “Kekerasan” (Pasal 1 angka 11) includes “penelantaran” (neglect) as part of violence. In many VAW/GBV frameworks used in policy coding, neglect/withholding support is treated as economic violence/abuse. The retrieved candidates for 1.5 included Pasal 1 angka 11 (via the long Article 1 definitions block shown under [4.2-2] in the overall materials and similarly in [3.5-2] for other indicators; for 1.5 the candidates include Article 2/3/41/44 but not the definition explicitly). However, even within the retrieved set for 1.5, there is strong linkage to “eksploitasi” and “penelantaran” concepts (e.g., Pasal 3(b) mentions exploitation; Pasal 41 addresses neglect/penelantaran of children). If the coding scheme equates economic violence with neglect/exploitation, the judge was too narrow in requiring the exact phrase ‘economic violence’. That said, the clearest basis would have been Pasal 1 angka 11 including neglect; because that exact definition was not retrieved for 1.5, retrieval also contributed. Overall: retrieval missed the strongest explicit hook, and the judge applied an overly literal standard.",
+      "diagnosis_status": "ok"
+    },
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "f. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\nh. prohibiting the occurrence of unregistered marriages;",
+      "evaluator_rationale": "The policy includes harmful practices by referencing prevention of unregistered marriages and the dangers of child marriage, and also includes prohibiting unregistered marriages.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe implementation of women's empowerment and child protection is carried out based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. nondiscrimination;\nd. protection of victims;\ne. best interests of the child;\nf. survival and development of the child;\ng. child participation; and\nh. benefit.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 3\nWhat is meant by \"Access\" is the identification of whether development policies/programs have provided fair space and opportunities for women and men.\nWhat is meant by \"Participation\" is the identification of whether development policies/programs involve fairly both women and men in voicing needs, constraints including in decision-making.\nWhat is meant by \"Control\" is the identification of whether policies/programs provide equal opportunities for mastery to women and men to control development resources.\nWhat is meant by \"Benefit\" is the identification of whether policies/programs provide fair benefits for women and men.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children, and child protection;\nc. preventing acts of violence from occurring within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 42\n(1) Facilitation of child care by child care institutions is carried out by regional apparatus with authority over women and children, social affairs, manpower, education, health, planning, and other regional apparatus as needed.\n(2) Child Care Facilitation as referred to in paragraph (1) may be conducted outside Social Institutions or inside Social Institutions in accordance with the provisions of laws and regulations.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian source explicitly mentions harmful practices related to child marriage and unregistered marriage in Pasal 44 ayat (3) huruf f (“pencegahan … bahaya perkawinan usia anak”) and huruf h (“melarang terjadinya perkawinan di bawah tangan”). Those are classic ‘harmful practices’ references. The judge’s ‘Yes’ is supported by the original text. Therefore the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "1.9": {
+      "indicator": "Sexual slavery / exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The excerpts refer to exploitation in general terms but do not explicitly mention sexual exploitation or sexual slavery.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.03128054740957967
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children, and child protection;\nc. preventing acts of violence from occurring within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe implementation of women's empowerment and child protection is carried out based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. nondiscrimination;\nd. protection of victims;\ne. best interests of the child;\nf. survival and development of the child;\ng. child participation; and\nh. benefit.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 23\nThe institutionalization of the fulfillment of Children's rights as referred to in Article 22 letter a is carried out through:\na. implementation of policies, programs and activities for the fulfillment of Children's rights in efforts to prevent violations of Children's rights in the region;\nb. increasing participation and role of children's forums or the like in the region; c. facilitating the strengthening of institutions and resources of government institutions, non-government, media and business sector in the region;  d. facilitating the strengthening of networks between government institutions, non-government, media, and business sector in the region; and\ne. strengthening cross-institutional cooperation between government, non-government, media, and business sector to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation repeatedly uses the general term “eksploitasi” (e.g., Menimbang a–b; Pasal 3 huruf b; Pasal 44(3) huruf d) but does not specify “eksploitasi seksual”, “perbudakan seksual”, trafficking for sexual exploitation, or similar. The definition of violence (Pasal 1 angka 11) includes “seksual” suffering, but that is sexual violence, not sexual slavery/exploitation specifically. Given the absence of explicit sexual exploitation/sexual slavery language, the judge’s ‘No’ is consistent with the source, so the golden ‘Yes’ likely over-coded this document.",
+      "diagnosis_status": "ok"
+    },
+    "3.5": {
+      "indicator": "Legal assistance",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy lists several service functions (complaints, outreach, case management, shelter, mediation, assistance), none of the candidate sentences explicitly mention legal aid/representation or legal assistance services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 60,
+          "text": "HEAD OF LEGAL DIVISION,\nAMAR MARUF\nNip. 196603111993031007",
+          "score": 0.03128054740957967
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 5\n(1) Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection in providing services for women and children who experience problems of violence, discrimination, special protection, and other technical problems shall be implemented by UPTD P3AP2KB.\n(2) UPTD P3AP2KB as referred to in paragraph (1) shall carry out service functions:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) In the implementation of service functions as referred to in paragraph (2) letter b, a task force for women's empowerment and child protection may be established, facilitated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(4) Service functions provided by UPTD P3AP2KB as referred to in paragraph (2) shall refer to service standards that have been established in accordance with the provisions of laws and regulations.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 27\nThe provision of services for Children requiring special protection as referred to in Article 25 letter b is carried out through: a. implementation of service provision for Children requiring special protection through Regional Apparatus handling the affairs of Women's Empowerment and Child Protection and/or UPTD P3AP2KB in the region;\nb. provision of public complaint services for Children requiring special protection in the region;\nc. provision of outreach services for Children requiring special protection in the region;\nd. provision of case management services for Children requiring special protection in the region;\ne. provision of temporary shelter services for Children requiring special protection in the region;\nf. provision of mediation services for Children requiring special protection in the region;\ng. provision of assistance services for children requiring special protection in the region; and\nh. provision of facilities and infrastructure services for children requiring special protection in the region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 31\nParagraph (1) What is meant by \"PUG Institutionalization\" is a working group within the scope of regional government and focal points in each regional apparatus.\nParagraph (2) What is meant by \"Working Group\" is a discussion forum consisting of stakeholders in the region (regional apparatus, NGOs, Business Sector, and Higher Education Institutions) in formulating agreements and/or policies that will be proposed to the regent in the form of recommendations for decision-making.\nParagraph (3) What is meant by Focal Point is a person appointed to be the driver of PUG in their organizational unit or Regional Apparatus as well as a liaison with the Working Group.\nArticle 32 Sufficiently clear.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 2\nLetter a What is meant by \"respect for human rights\" is as a basic form of human rights to be free from fear, threats, and violence in accordance with related policies such as the ratification of CEDAW and the Human Rights Protection Law as described above which become the foundation for formulation.\nLetter b What is meant by \"the principle of gender equality\" is that the implementation of gender equality must realize the fulfillment of human rights, life needs, and aspirations that differ between women and men, girls and boys, the elderly, disability groups, as well as vulnerable and marginalized groups.\nLetter c What is meant by \"the principle of non-discrimination\" is not differentiating ethnicity, race, religion, gender, language, political views, national origin, economic status, physical or psychological condition of children, or other factors.\nLetter d What is meant by \"the principle of victim protection\" is prioritizing the safety of victims from all forms of violence.\nLetter e What is meant by \"the principle of the best interests of the child\" is that in all actions concerning children carried out by the government, regional government, society, legislative bodies, and judicial bodies, must be based on the best interests of the child as the primary consideration.\nLetter f What is meant by \"the principle of survival and development of the child\" is the most fundamental human right for children which is protected by the state, government, regional government, society, family, and parents.\nLetter g What is meant by \"the principle of child participation\" is respect for the rights of children to participate and express their opinions in decision-making especially if it concerns matters that affect their lives Letter h What is meant by \"the principle of benefit\" is that the implementation of women's empowerment and child protection must provide equal benefits for women and men.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 28\nStrengthening and development of service provider institutions for Children requiring special protection as referred to in Article 25 letter c shall be carried out through:\na. capacity building of resources of service provider institutions for protection and handling of Children requiring special protection in the regions;\nb. provision of specific needs for Children in emergency situations and special conditions in the regions;\nc. provision of Communication, Information, and Education on protection of Children requiring special protection in the regions;\nd. strengthening networks among service provider institutions for protection of Children requiring special protection in the regions; and e. facilitation of implementation of standardization of service provider institutions for protection of Children requiring special protection in the regions.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Bima Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs.\n3. Regent is the Regent of Bima.\n4. Regional House of Representatives of Bima Regency hereinafter abbreviated as DPRD is a regional people's representative institution positioned as an element of regional government administration.\n5. Regional Apparatus is an auxiliary element of the Regent and DPRD in administering government affairs that are the authority of the Region.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Child's rights are part of human rights that must be guaranteed, protected, and fulfilled by parents, family, community, government, regional government, and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive protection from violence and discrimination.\n9. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Women's Empowerment is a structured effort to realize gender equality in terms of access, participation, control, and benefits in development and control of resources in order to improve quality of life and enhance the role of women.\n11. Violence is any act that results in misery and/or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\n12. Regional Children's Forum hereinafter referred to as Forda is a forum for Children's participation formed with the aim of facilitating children's involvement in decision-making processes and enjoying changes concerning their lives either directly or indirectly, which is carried out with the consent and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n13. Regional Technical Implementation Unit for Women's Empowerment, Child Protection, Population Control and Family Planning hereinafter abbreviated as UPTD P3AP2KB is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n14. Gender mainstreaming hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policies and programs.\n15. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n16. Gender Responsive Planning and Budgeting hereinafter abbreviated as PPRG is a planning and budgeting instrument prepared to accommodate different needs and difficulties as women and as men with the aim of realizing just planning and budgeting in order to achieve Gender Equality in development.\n17. Gender Responsive Budget hereinafter abbreviated as ARG is a budget that is responsive to the needs of women and men with the aim of realizing gender equality and justice.\n18. Gender equality is equal conditions for men and women to obtain opportunities and their rights as human beings, so they are able to play a role and participate in political, economic, socio-cultural, national defense and security activities, and equality in enjoying development results.\n19. Child-Friendly Regency hereinafter abbreviated as KLA is a regency that has a child rights-based development system through the integration of government commitments and resources, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.\n20. Child Rights Mainstreaming hereinafter abbreviated as PUHA is a strategy for implementing child protection by integrating children's rights in legislation, policies, programs, activities and budgets starting from the planning, formulation, implementation, monitoring and evaluation stages with the principle of the best interests of the child.\n21. Child Care is an effort to meet the needs for affection, attachment, safety, and welfare that is permanent and sustainable for the best interests of the Child.\n22. Gender Mainstreaming Working Group hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of PUG from various agencies or institutions in the region.\n23. Gender Mainstreaming Focal Point hereinafter referred to as Focal Point PUG is a Regional Apparatus official who has the ability to carry out PUG in their respective work units.\n24. Regional Medium-Term Development Plan hereinafter abbreviated as RPJMD is a regional planning document for a period of 5 (five) years and refers to the National Medium-Term Development Plan.\n25. Regional Government Work Plan hereinafter abbreviated as RKPD is a regional planning document for a period of 1 (one) year.\n26. Regional Apparatus Work Plan hereinafter referred to as Renja Regional Apparatus is a work planning document of the Regional Apparatus for a period of 1 (one) year.\n27. Regional Action Plan hereinafter abbreviated as RAD is a Regional Action Plan in implementing the protection of women and children.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian text, UPTD P3AP2KB service functions are listed (Pasal 5(2): pengaduan, penjangkauan, pengelolaan kasus, penampungan sementara, mediasi, pendampingan korban). There is no explicit mention of “bantuan hukum”, legal aid, legal representation, or advocacy in court. ‘Pendampingan korban’ could be interpreted broadly, but the regulation does not specify it as legal assistance. The judge’s ‘No’ matches the wording. Thus the golden label ‘Yes’ appears incorrect unless the coding scheme treats any ‘pendampingan’ as legal aid (which is not stated in the regulation).",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. development of materials and implementation of Communication, Information, and Education on gender equality and child protection for families in the region.\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+      "evaluator_rationale": "The policy includes Communication, Information, and Education activities focused on gender equality and on protection of women's rights, which are educational/awareness-raising measures related to gender equality and women’s rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 37,
+          "text": "CHAPTER IV\nGENDER MAINSTREAMING\nArticle 29\n(1) The implementation of Women's Empowerment is carried out through GMS.\n(2) The implementation of GMS as referred to in paragraph (1) is conducted by integrating Gender in the process of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities of the Regional Government that produce GRB.\n(3) Policies, programs, and development activities of the Regional Government with Gender perspective as referred to in paragraph (2) are included in the RPJMD, Strategic Plan (Renstra) of Regional Apparatus, and SKPD Work Plan.",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 17\nImprovement of family quality as referred to in Article 16 letter a is carried out through:\na. implementation of policies, programs and activities for improving family quality to realize gender equality and child protection in the region; and\nb. development of materials and implementation of Communication, Information, and Education on gender equality and child protection for families in the region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe implementation of women's empowerment and child protection is carried out based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. nondiscrimination;\nd. protection of victims;\ne. best interests of the child;\nf. survival and development of the child;\ng. child participation; and\nh. benefit.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Bima Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs.\n3. Regent is the Regent of Bima.\n4. Regional House of Representatives of Bima Regency hereinafter abbreviated as DPRD is a regional people's representative institution positioned as an element of regional government administration.\n5. Regional Apparatus is an auxiliary element of the Regent and DPRD in administering government affairs that are the authority of the Region.\n6. Child is a person who has not reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Child's rights are part of human rights that must be guaranteed, protected, and fulfilled by parents, family, community, government, regional government, and the state.\n8. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive protection from violence and discrimination.\n9. Special Protection is a form of protection received by Children in certain situations and conditions to obtain a guarantee of security against threats that endanger themselves and their lives in their growth and development.\n10. Women's Empowerment is a structured effort to realize gender equality in terms of access, participation, control, and benefits in development and control of resources in order to improve quality of life and enhance the role of women.\n11. Violence is any act that results in misery and/or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion, or deprivation of liberty unlawfully.\n12. Regional Children's Forum hereinafter referred to as Forda is a forum for Children's participation formed with the aim of facilitating children's involvement in decision-making processes and enjoying changes concerning their lives either directly or indirectly, which is carried out with the consent and will of all children based on awareness and understanding, in accordance with age and level of thinking maturity.\n13. Regional Technical Implementation Unit for Women's Empowerment, Child Protection, Population Control and Family Planning hereinafter abbreviated as UPTD P3AP2KB is a regional technical implementation unit established by the regional government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n14. Gender mainstreaming hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policies and programs.\n15. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n16. Gender Responsive Planning and Budgeting hereinafter abbreviated as PPRG is a planning and budgeting instrument prepared to accommodate different needs and difficulties as women and as men with the aim of realizing just planning and budgeting in order to achieve Gender Equality in development.\n17. Gender Responsive Budget hereinafter abbreviated as ARG is a budget that is responsive to the needs of women and men with the aim of realizing gender equality and justice.\n18. Gender equality is equal conditions for men and women to obtain opportunities and their rights as human beings, so they are able to play a role and participate in political, economic, socio-cultural, national defense and security activities, and equality in enjoying development results.\n19. Child-Friendly Regency hereinafter abbreviated as KLA is a regency that has a child rights-based development system through the integration of government commitments and resources, community and business world that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights.\n20. Child Rights Mainstreaming hereinafter abbreviated as PUHA is a strategy for implementing child protection by integrating children's rights in legislation, policies, programs, activities and budgets starting from the planning, formulation, implementation, monitoring and evaluation stages with the principle of the best interests of the child.\n21. Child Care is an effort to meet the needs for affection, attachment, safety, and welfare that is permanent and sustainable for the best interests of the Child.\n22. Gender Mainstreaming Working Group hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of PUG from various agencies or institutions in the region.\n23. Gender Mainstreaming Focal Point hereinafter referred to as Focal Point PUG is a Regional Apparatus official who has the ability to carry out PUG in their respective work units.\n24. Regional Medium-Term Development Plan hereinafter abbreviated as RPJMD is a regional planning document for a period of 5 (five) years and refers to the National Medium-Term Development Plan.\n25. Regional Government Work Plan hereinafter abbreviated as RKPD is a regional planning document for a period of 1 (one) year.\n26. Regional Apparatus Work Plan hereinafter referred to as Renja Regional Apparatus is a work planning document of the Regional Apparatus for a period of 1 (one) year.\n27. Regional Action Plan hereinafter abbreviated as RAD is a Regional Action Plan in implementing the protection of women and children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 8\nThe institutionalization of PUG in government institutions as referred to in Article 7 letter a is carried out through the implementation of gender-responsive policies, programs, and activities at the regional level.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian source includes explicit education/IEC related to gender equality: Pasal 17 huruf b provides “pengembangan materi dan pelaksanaan Komunikasi, Informasi, dan Edukasi kesetaraan gender dan perlindungan anak bagi keluarga”; and Pasal 15 huruf c provides KIE on protection of women’s rights. This supports a ‘Yes’ for gender-equality education/awareness activities. Therefore the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "f. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;",
+      "evaluator_rationale": "The policy includes socialization and education on laws and regulations related to women’s empowerment and protection of women and children, which constitutes primary prevention through legal/policy awareness-raising.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children, and child protection;\nc. preventing acts of violence from occurring within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nStrengthening and development of institutions providing services for improving the quality of life of children as referred to in Article 22 letter b shall be carried out through: a. capacity building of resources of institutions providing services for improving the quality of life of children in the regions;\nb. assistance in the implementation of services for improving the quality of life of children in the regions;\nc. development of materials and implementation of Communication, Information, and Education for the fulfillment of Children's rights for institutions providing services for improving the quality of life of children in the regions;\nd. strengthening networks among institutions providing services for improving the quality of life of Children in the regions;\ne. facilitation of the implementation of standardization of institutions providing services for improving the quality of life of Children in the regions; and\nf. development of institutions providing services for improving the quality of life of children in the regions.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.014925373134328358
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 42\n(1) Facilitation of child care by child care institutions is carried out by regional apparatus with authority over women and children, social affairs, manpower, education, health, planning, and other regional apparatus as needed.\n(2) Child Care Facilitation as referred to in paragraph (1) may be conducted outside Social Institutions or inside Social Institutions in accordance with the provisions of laws and regulations.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly mentions socialization/education on laws and regulations related to women’s empowerment and protection of women and children (Pasal 44(3) huruf f: “sosialisasi dan edukasi peraturan perundang-undangan terkait pemberdayaan perempuan, perlindungan perempuan dan Anak…”). That is directly ‘VAW laws awareness’/legal awareness-raising as primary prevention. The judge’s ‘Yes’ is supported by the source, so the golden ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. provision of education on the prevention of violence against women in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;",
+      "evaluator_rationale": "The policy explicitly identifies education as a method for preventing violence against women and for preventing violence against children requiring special protection.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 16,
+          "text": "Article 12\nPrevention of violence against women as referred to in Article 11 letter a is carried out through:\na. implementation of policies, programs and activities for the prevention of violence against women involving parties within the regional scope;\nb. provision of education on the prevention of violence against women in the region;\nc. enhancement of community participation, business sector, and media in the prevention of violence against women in the region; and\nd. creation and/or utilization of the Citizen Information System application in submitting reports of cases of violence against women and children.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 44\n(1) The community, Family and/or parents may participate in the implementation of women's empowerment and child protection.\n(2) The community as referred to in paragraph (1) shall be carried out individually or institutionally.\n(3) Community participation as referred to in paragraph (1) shall be carried out, among others, by:\na. establishing women's empowerment and child protection units within community organizations, community-based child protection, or professional organizations;\nb. conducting socialization regarding women's empowerment, prevention of violence against women and children, and child protection;\nc. preventing acts of violence from occurring within the community environment; and\nd. providing information and/or reporting the occurrence of violence, discrimination, exploitation, and human rights violations against women and Children to the competent authorities if violence against women and Children occurs in their environment;\ne. optimizing the function of community organizations such as PKK, integrated service institutions for the protection of women and children in the Region;\nf. conducting socialization and education on laws and regulations related to women's empowerment, protection of women and Children, such as prevention of unregistered marriages and the dangers of child marriage;\ng. providing input in the process of formulating regional laws and regulations;\nh. prohibiting the occurrence of unregistered marriages;\ni. providing space for Children to gather and organize to express themselves and convey their opinions; and\nj. supervising Children in accessing various information.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\nThe Implementation of Special Protection for Children is carried out by means of: a. prevention of violence against Children;\nb. provision of services for Children requiring special protection through coordination of parties both government and non-government institutions in the Region; and\nc. strengthening and development of service provider institutions for Children requiring special protection in the Region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe implementation of women's empowerment and child protection is carried out based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. nondiscrimination;\nd. protection of victims;\ne. best interests of the child;\nf. survival and development of the child;\ng. child participation; and\nh. benefit.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation explicitly includes education as a prevention method: Pasal 12 huruf b (“pemberian edukasi pencegahan kekerasan terhadap perempuan”) and Pasal 26 huruf b (“pemberian edukasi pencegahan kekerasan terhadap Anak…”). This is clearly prevention through education. The judge’s ‘Yes’ is correct; the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.4": {
+      "indicator": "Elderly women",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although the text references “the elderly” as a group in a general principle explanation, it does not set out any special protection measures specifically targeted at elderly women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 32,
+          "text": "Seventh Part\nSpecial Protection of Children",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\nThe Implementation of Special Protection for Children is carried out by means of: a. prevention of violence against Children;\nb. provision of services for Children requiring special protection through coordination of parties both government and non-government institutions in the Region; and\nc. strengthening and development of service provider institutions for Children requiring special protection in the Region.",
+          "score": 0.031054405392392875
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 27\nThe provision of services for Children requiring special protection as referred to in Article 25 letter b is carried out through: a. implementation of service provision for Children requiring special protection through Regional Apparatus handling the affairs of Women's Empowerment and Child Protection and/or UPTD P3AP2KB in the region;\nb. provision of public complaint services for Children requiring special protection in the region;\nc. provision of outreach services for Children requiring special protection in the region;\nd. provision of case management services for Children requiring special protection in the region;\ne. provision of temporary shelter services for Children requiring special protection in the region;\nf. provision of mediation services for Children requiring special protection in the region;\ng. provision of assistance services for children requiring special protection in the region; and\nh. provision of facilities and infrastructure services for children requiring special protection in the region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 28\nStrengthening and development of service provider institutions for Children requiring special protection as referred to in Article 25 letter c shall be carried out through:\na. capacity building of resources of service provider institutions for protection and handling of Children requiring special protection in the regions;\nb. provision of specific needs for Children in emergency situations and special conditions in the regions;\nc. provision of Communication, Information, and Education on protection of Children requiring special protection in the regions;\nd. strengthening networks among service provider institutions for protection of Children requiring special protection in the regions; and e. facilitation of implementation of standardization of service provider institutions for protection of Children requiring special protection in the regions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 9,
+          "text": "Second Part\nQuality of Life of Women",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 26\nPrevention of violence against Children as referred to in Article 25 letter a is carried out through:\na. implementation of policies, programs and activities for prevention of violence against Children requiring special protection involving government and non-government institutions in the region;\nb. provision of education on prevention of violence against Children requiring special protection in the region;\nc. enhancement of community participation through the Community-Based Integrated Child Protection (PATBM) movement, business sector, media and children in violence prevention in the region; and\nd. strengthening cooperation to realize Child-Friendly Regency (KLA), Child-Friendly Sub-district (Kelana), and Child-Friendly Village (Dela).",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The only explicit mention of elderly/older persons in the Indonesian text is in the elucidation of Pasal 2 huruf b (asas kesetaraan gender), which lists groups whose differing needs/aspirations should be realized, including “lanjut usia”. The regulation does not provide specific measures/programs/services targeted to elderly women in particular. If the indicator requires explicit inclusion/consideration of elderly women as a group (not necessarily special measures), the mention of “lanjut usia” could justify ‘Yes’; but the judge’s rationale suggests the indicator expects targeted measures. Based on the document, there is no targeted elderly-women provision; thus a golden ‘Yes’ seems likely over-inclusive for this policy.",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The text mentions “disability groups” in a general description of gender equality principles, but it does not specify any special protection measures targeted at women with disabilities or persons with disabilities.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\nThe Implementation of Special Protection for Children is carried out by means of: a. prevention of violence against Children;\nb. provision of services for Children requiring special protection through coordination of parties both government and non-government institutions in the Region; and\nc. strengthening and development of service provider institutions for Children requiring special protection in the Region.",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe implementation of women's empowerment and child protection is carried out based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. nondiscrimination;\nd. protection of victims;\ne. best interests of the child;\nf. survival and development of the child;\ng. child participation; and\nh. benefit.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER X\nTRANSITIONAL PROVISIONS\nArticle 46\nAt the time this Regional Regulation comes into force, all provisions regulating women and children are declared to remain in force insofar as they do not conflict with the provisions as regulated in this Regional Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 42\n(1) Facilitation of child care by child care institutions is carried out by regional apparatus with authority over women and children, social affairs, manpower, education, health, planning, and other regional apparatus as needed.\n(2) Child Care Facilitation as referred to in paragraph (1) may be conducted outside Social Institutions or inside Social Institutions in accordance with the provisions of laws and regulations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 3\nThe implementation of women's empowerment and child protection aims to:\na. realize opportunities in access, participation, control, and benefits in development and control of resources in the Region;\nb. prevent and handle violence, exploitation, and discriminatory treatment toward women and children;\nc. improve the quality and role of women and children; and\nd. provide available data for planning women's empowerment as well as fulfillment and protection of children's rights.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text mentions disability explicitly in the elucidation of Pasal 2 huruf b (asas kesetaraan gender) as “kelompok disabilitas” among groups whose differing needs/aspirations must be realized. However, the regulation does not set out concrete, disability-specific protection or service measures. If the indicator is satisfied by explicit recognition of disability groups (intersectional mention), then the judge should have answered Yes—but the retrieved candidates shown to the judge for 6.5 did not include that elucidation passage, so the judge could not see it. Still, because the golden label is ‘Yes’, it likely reflects the mere mention approach; and the pipeline predicted ‘No’ due to missing evidence. Therefore the main issue is retrieval failure rather than golden error. (If your coding standard requires specific measures, then golden would be wrong; but given the explicit mention exists, golden ‘Yes’ is at least defensible.)",
+      "diagnosis_status": "ok"
+    },
+    "6.7": {
+      "indicator": "Minority groups",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The passages provide general women’s protection services and non-discrimination principles, but do not specify special protection measures targeted at women from minority or isolated groups.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nStrengthening and development of institutions providing protection services for women as referred to in Article 11 letter c shall be carried out through:\na. capacity building of service providers for handling and protection of the rights of women victims of violence in the regions;\nb. provision of specific needs for women in emergency situations and special conditions in the regions; and\nc. development of Communication, Information, and Education for the protection of women's rights in the regions.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 25\nThe Implementation of Special Protection for Children is carried out by means of: a. prevention of violence against Children;\nb. provision of services for Children requiring special protection through coordination of parties both government and non-government institutions in the Region; and\nc. strengthening and development of service provider institutions for Children requiring special protection in the Region.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 14,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nAUTHORITY\nArticle 4\n(1) The implementation of Women's Empowerment and Child Protection in the Region is carried out by the Regional Government.\n(2) In implementing the administration of Women's Empowerment and Child Protection, the Regent has the authority to:\na. implement Women's Empowerment and Child Protection policies at the regency level;\nb. provide human resources who have gender perspective and child rights, facilities, infrastructure and infrastructure that are friendly, safe, and comfortable for women and Children;\nc. conduct coordination and cooperation with stakeholders that are cross-sectoral in nature in the Region; and\nd. conduct technical guidance and supervision in the Region.\n(3) The Regent in exercising his/her authority as referred to in paragraph (2), may assign the Regional Secretary or Regional Apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection of the Region.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\nThe implementation of women's protection is carried out by means of: a. prevention of violence against women involving parties in the Region;\nb. provision of services for women victims of violence requiring coordination between Regional Apparatus, Vertical Agencies, and other institutions in the Region; and\nc. strengthening and development of institutions providing women's protection services in the Region.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER X\nTRANSITIONAL PROVISIONS\nArticle 46\nAt the time this Regional Regulation comes into force, all provisions regulating women and children are declared to remain in force insofar as they do not conflict with the provisions as regulated in this Regional Regulation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER VI\nCARE\nArticle 41\n(1) Every Child in the Region whose growth and development is not guaranteed or whose needs are not fulfilled or who experiences neglect from parents, guardians, or family in a proper manner, whether physical, mental, spiritual, or social, has the right to receive care.\n(2) Care that is implemented as a result of separation of the Child is carried out for the best interests of the child.\n(3) In the event that separation of the Child is carried out for the best interests of the child, Care must be carried out by a Child Care Institution with requirements in accordance with the provisions of laws and regulations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\nThe provision of services for women victims of violence as referred to in Article 11 letter b shall be carried out through:\na. implementation of service provision for women victims of violence through UPTD P3AP2KB or work units handling PPA affairs that require coordination in the region;\nb. provision of public complaint services for women victims of violence in the region;\nc. provision of outreach services for women victims of violence in the region;\nd. provision of case management services for women victims of violence at the regency level;\ne. provision of temporary shelter services for women victims of violence in the region;\nf. provision of mediation services for women victims of violence in the region;\ng. provision of assistance services for women victims of violence in the region;\nh. provision of facilities and infrastructure for services for women victims of violence in the region;\ni. provision of information facilities and infrastructure available in public spaces; and\nj. developing an emergency response system for acts of violence against women and children through applications.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 27\nThe provision of services for Children requiring special protection as referred to in Article 25 letter b is carried out through: a. implementation of service provision for Children requiring special protection through Regional Apparatus handling the affairs of Women's Empowerment and Child Protection and/or UPTD P3AP2KB in the region;\nb. provision of public complaint services for Children requiring special protection in the region;\nc. provision of outreach services for Children requiring special protection in the region;\nd. provision of case management services for Children requiring special protection in the region;\ne. provision of temporary shelter services for Children requiring special protection in the region;\nf. provision of mediation services for Children requiring special protection in the region;\ng. provision of assistance services for children requiring special protection in the region; and\nh. provision of facilities and infrastructure services for children requiring special protection in the region.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 61,
+          "text": "ELUCIDATION\nON\nREGIONAL REGULATION OF BIMA REGENCY\nNUMBER 5 OF 2019\nCONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT AND\nCHILD PROTECTION\n\nI. GENERAL\nThe 1945 Constitution of the Republic of Indonesia mandates Regional Governments to regulate and manage their own regions for the realization of community welfare through improved services, empowerment and community participation. One of the authorities of regional governments is to make regional policies with the aim of improving the welfare of the people in their regions.\n\nIn addition, the 1945 Constitution has also mandated in Article 28D paragraph (1) that every person has the right to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law. Article 28B Paragraph 2 also states that every child has the right to survival, growth, and development as well as the right to protection from violence and discrimination. This shows that girls should be protected by the state, particularly against violence because their rights are already regulated in the constitution.\n\nTherefore, it is necessary to make efforts to prevent and eradicate all forms of discrimination and violence against women and children, especially for the Region. The Region is one of the most authorized parties in carrying out women's empowerment and child protection by implementing and formulating regulations in order to provide guarantees for women's empowerment and child protection.\n\nOne form of such regulation is Regional Regulation. This regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women and children who are victims of violence.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explains the nondiscrimination principle (Penjelasan Pasal 2 huruf c) as not differentiating “suku, ras, agama, … asal kebangsaan … atau faktor lainnya.” This is an explicit recognition of minority-related categories (ethnicity/race/religion/national origin). The regulation does not provide targeted measures for minority women, but it does include minority categories within nondiscrimination. If the indicator is about inclusion/recognition of minority groups (not necessarily targeted programs), the golden ‘Yes’ is supported. The judge predicted ‘No’ because the retrieved candidates for 6.7 did not include the Penjelasan Pasal 2 huruf c passage; thus retrieval failed to surface the relevant minority-language evidence.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "NUSA_TENGGARA_BARAT_BIMA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.372274+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 14,
+  "diagnosed_count": 14
+}

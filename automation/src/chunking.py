@@ -288,8 +288,7 @@ def chunk_policy_text_with_debug(
     marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE,
 ) -> tuple[list[CleanedLine], list[Chunk]]:
     """Same as chunk_policy_text, but also returns the cleaned lines (section 1
-    output) so callers can persist both the clean and chunk results, e.g. for
-    the --keep-chunk-result debugging option."""
+    output) so callers can persist both the clean and chunk results."""
     cleaned_lines, sections = clean_and_split_sections(raw_text, marker_re)
     chunks = _chunks_from_sections(sections, safe_limit)
     return cleaned_lines, chunks
@@ -334,3 +333,29 @@ def check_fallback_output(target_text: str, translated_text: str) -> bool:
     if not target_text:
         return False
     return len(translated_text) > len(target_text) * FALLBACK_LENGTH_RATIO_MAX
+
+
+# Structural chunks have no separate "context" to echo, so a runaway output
+# there is a different failure mode: the model hallucinating unrelated
+# content instead of translating a short/trivial section (observed in
+# practice — a 22-character source line producing a 128,000+ character,
+# completely unrelated document). The ratio is looser than
+# FALLBACK_LENGTH_RATIO_MAX to tolerate normal Indonesian->English legal-text
+# expansion, and paired with an absolute floor so short titles/headers (where
+# a tiny char difference can look like a huge ratio) don't false-positive.
+STRUCTURAL_LENGTH_RATIO_MAX = 3.0
+STRUCTURAL_MIN_SUSPICIOUS_CHARS = 300
+
+
+def check_structural_output(source_text: str, translated_text: str) -> bool:
+    """Return True if a structural chunk's translation looks like a runaway
+    (likely hallucinated/unrelated) output rather than a faithful translation.
+
+    Advisory only, same philosophy as `check_fallback_output` — log for human
+    review rather than auto-correct.
+    """
+    if not source_text:
+        return False
+    if len(translated_text) < STRUCTURAL_MIN_SUSPICIOUS_CHARS:
+        return False
+    return len(translated_text) > len(source_text) * STRUCTURAL_LENGTH_RATIO_MAX

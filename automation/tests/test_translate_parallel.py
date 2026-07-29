@@ -89,11 +89,16 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
 
     assert result["counts"] == {"total": 3, "succeeded": 3, "skipped": 0, "failed": 0}
     assert result["token_usage"]["total_tokens"] == 6
-    out_dir = data_root / run_id / "translation"
+    out_dir = data_root / run_id / "results" / "translation"
     assert (out_dir / "A.txt").read_text(encoding="utf-8") == "translated-A.txt"
     assert (out_dir / "B.txt").read_text(encoding="utf-8") == "translated-B.txt"
     assert (out_dir / "C.txt").read_text(encoding="utf-8") == "translated-C.txt"
     assert wrapper.complete_text.call_count == 3
+
+    cleaned_dir = data_root / run_id / "results" / "cleaned_text"
+    assert (cleaned_dir / "A.cleaned.txt").read_text(encoding="utf-8") == "source-A.txt"
+    assert (cleaned_dir / "B.cleaned.txt").read_text(encoding="utf-8") == "source-B.txt"
+    assert (cleaned_dir / "C.cleaned.txt").read_text(encoding="utf-8") == "source-C.txt"
 
 
 def test_run_translation_step_skips_existing(pipeline_config, data_root):
@@ -102,7 +107,7 @@ def test_run_translation_step_skips_existing(pipeline_config, data_root):
     input_dir.mkdir(parents=True)
     (input_dir / "A.txt").write_text("source", encoding="utf-8")
 
-    out_dir = data_root / run_id / "translation"
+    out_dir = data_root / run_id / "results" / "translation"
     out_dir.mkdir(parents=True)
     (out_dir / "A.txt").write_text("existing", encoding="utf-8")
 
@@ -129,7 +134,7 @@ def test_run_translation_step_force_retranslates(pipeline_config, data_root):
     input_dir.mkdir(parents=True)
     (input_dir / "A.txt").write_text("source", encoding="utf-8")
 
-    out_dir = data_root / run_id / "translation"
+    out_dir = data_root / run_id / "results" / "translation"
     out_dir.mkdir(parents=True)
     (out_dir / "A.txt").write_text("existing", encoding="utf-8")
 

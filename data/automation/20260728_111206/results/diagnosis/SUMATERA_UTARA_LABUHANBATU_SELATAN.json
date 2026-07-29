@@ -1,0 +1,144 @@
+{
+  "diagnoses": {
+    "1.1": {
+      "indicator": "Domestic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences discuss violence against women and children generally (including within the family/household) and list forms of violence, but they do not explicitly mention or define “domestic violence” as a specific category.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 40,
+          "text": "Article 29\n(1) Regional Apparatus with authority over Women and Children shall formulate service policy regarding the protection of Women and Children from acts of Violence.\n(2) The formulation of service policy as referred to in paragraph (1) shall be implemented through the following mechanism:\na. formulating case reporting policy related to Women and Children who become Victims of acts of Violence;\nb. preparing reporting and referral mechanisms between regional apparatus organizations with authority over the protection of Women and Children against acts of Violence with relevant agencies and with P2TP2A; and\nc. preparing budget for the implementation of protection policy for Women and Children against acts of Violence.",
+          "score": 0.03128054740957967
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 6\nForms of Violence against Women and Children may include:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect; and\ne. exploitation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 54,
+          "text": "Part Eleven\nChild-Friendly Regency Development Policy",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nThe obligations of the Family and/or parents as referred to in Article 13 letters c and d have full responsibility to prevent all forms of Violence and protect Women and Children as members of the Family.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nThe scope of this Regional Regulation includes:\na. forms of Violence;\nb. rights of Victims;\nc. obligations and responsibilities;\nd. implementation of protection of Women and Children from acts of Violence;\ne. coordination and cooperation;\nf. participation of the Community and business sector;\ng. guidance and supervision;\nh. reporting; and\ni. sources of funding.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 39\n(1) The development of a Child-Friendly Regency aims to build Regional Government initiatives that lead to efforts to transform the concept of Children's rights into policies, programs and activities to guarantee the fulfillment of Children's rights.\n(2) The Child-Friendly Regency Development Policy as referred to in paragraph (1) is implemented based on principles that include: a. good governance;\nb. non-discrimination;\nc. culture and local wisdom;\nd. the best interests of the Child; and\ne. respect for the views of the Child;\nf. inclusive; and\ng. multi-cultural.\n(3) The Child-Friendly Regency Development Policy is directed at strengthening institutions for the fulfillment of Children's rights and special protection, including: a. civil rights and freedoms;\nb. rights to Family environment and alternative care;\nc. rights to basic health and Child welfare;\nd. rights to education, leisure time utilization and cultural activities; and e. rights to special protection.\n(4) Further provisions regarding Child-Friendly Regency Development as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER V\nIMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN FROM ACTS OF VIOLENCE",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\nExploitation as referred to in Article 6 letter e is caused by: a. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the Victim which include but are not limited to prostitution, forced labor or Services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the Victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nProtection of Women and Children from acts of Violence is implemented based on the principles of:\na. respect for Human Rights;\nb. the right to life, survival, and development;\nc. non-discrimination;\nd. the best interests of the Child;\ne. justice and Gender equality; and\nf. protection of victims.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 19\n(1) P2TP2A as referred to in Article 18 consists of elements of the Community, universities, professional organizations, community organizations concerned with the Community.\n(2) The formation of P2TP2A as referred to in paragraph (1) shall be stipulated by Regent's decree.\n(3) The implementation of Services to Victims shall be carried out in an integrated manner by Village/Kelurahan P2TP2A, Sub-district P2TP2A, and Regency P2TP2A.\n(4) P2TP2A as referred to in paragraph (1) shall have the duties to:\na. receive complaints/reports of Violence against Women and/or Children, consultation, and counseling;\nb. receive and send to other Service units in a tiered manner;\nc. provide legal assistance and accompaniment;\nd. health;\ne. Social Rehabilitation;\nf. legal Services;\ng. repatriation and social reintegration; and\nh. provide protection to Victims, reporters and witnesses.\n(5) P2TP2A may provide temporary services and protection in the form of a Safe House.\n(6) In the event that P2TP2A does not yet have a Safe House as referred to in paragraph (5), then Victims of Violence shall be referred to P2TP2A that has a Safe House.\n(7) P2TP2A consists of several Divisions comprising:\na. Complaints Service division;\nb. health Service division;\nc. legal assistance consultation; and\nd. rehabilitation, Repatriation and Social Reintegration.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "In the original Indonesian text, “domestic violence” is explicitly covered within the definition of violence: Pasal 1 angka 5 defines Kekerasan as acts causing suffering “dan/atau penelantaran rumah tangga” (and/or household/domestic neglect), and Pasal 10(c) also refers to neglect “orang dalam lingkup Rumah Tangganya” (persons within the household). This is the policy’s way of addressing violence in the domestic/household sphere (KDRT-related), even if it does not create a separate labeled category called “domestic violence.” However, the retrieved candidates shown to the judge did not include Pasal 1(5) or Pasal 10, so the judge lacked the key evidence needed to answer Yes. The judge’s ‘No’ is therefore mainly due to retrieval not surfacing the relevant passages.",
+      "diagnosis_status": "ok"
+    },
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "None of the candidate sentences explicitly mention harmful practices such as child/early marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 40,
+          "text": "Article 29\n(1) Regional Apparatus with authority over Women and Children shall formulate service policy regarding the protection of Women and Children from acts of Violence.\n(2) The formulation of service policy as referred to in paragraph (1) shall be implemented through the following mechanism:\na. formulating case reporting policy related to Women and Children who become Victims of acts of Violence;\nb. preparing reporting and referral mechanisms between regional apparatus organizations with authority over the protection of Women and Children against acts of Violence with relevant agencies and with P2TP2A; and\nc. preparing budget for the implementation of protection policy for Women and Children against acts of Violence.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThis Regional Regulation aims to:\na. respect and protect Human Rights;\nb. guarantee the rights of every Woman and Child to survival, growth and development;\nc. non-discrimination;\nd. protect Women and Children from threats, fear, torture and or treatment that degrades dignity, self-worth and human dignity;\ne. prevent forms of violence against Women and Children;\nf. eliminate all forms of violence and exploitation against Women and Children;\ng. protect and provide a sense of security for Women and Children;\nh. provide services to Women and Children victims of violence, reporters, and witnesses;\ni. protect and prevent all forms of discrimination against Women and Children in the region;\nj. Empowerment of Women;\nk. the best interests of the Child; and\nl. realize a region that is appropriate for Women and Children.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nProtection of Women and Children from acts of Violence is implemented based on the principles of:\na. respect for Human Rights;\nb. the right to life, survival, and development;\nc. non-discrimination;\nd. the best interests of the Child;\ne. justice and Gender equality; and\nf. protection of victims.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\nExploitation as referred to in Article 6 letter e is caused by: a. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the Victim which include but are not limited to prostitution, forced labor or Services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial; and/or\nc. all forms of exploitation of sexual organs or other body organs of the Victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 6\nForms of Violence against Women and Children may include:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect; and\ne. exploitation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation what is meant by:\n1. Region is South Labuhanbatu Regency.\n2. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Regent is the Regent of South Labuhanbatu.\n4. Discrimination is any distinction, harassment or exclusion either directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, social status, economic status, gender, language, political beliefs that result in the reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.\n5. Violence is any act that results in misery or suffering either physically, sexually, psychologically, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n6. Child is a person who is not yet 18 years old, including a Child who is still in the womb.\n7. Woman is a person who is female in gender.\n8. Violence against Women is any action that results in or may result in misery or suffering of Women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of Children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a Woman and Child who experiences violence and/or threat of violence.\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecutor's office, courts, social institutions, or other parties who know or hear that Violence against Women will, is, or has occurred.\n12. Child Protection is all activities to guarantee and protect Children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from acts of Violence and discrimination.\n13. Service is an action taken as soon as possible to the Victim when seeing, hearing and knowing that Violence against the Victim will, is, or has occurred.\n14. Companion is a person or representative from an institution who has expertise in accompanying Victims to conduct counseling, therapy and advocacy, integrated for the strengthening and recovery of Violence Victims.\n15. Gender is the difference in characteristics, roles, functions and status between Women and men which is not based on biological differences, but rather based on socio-cultural relations influenced by the broader structure of society.\n16. Gender Mainstreaming is a strategy built to integrate Gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n17. Office of Women's Empowerment and Child Protection hereinafter abbreviated as Dinas PPPA is the office that administers the affairs of Women's empowerment and Child Protection.\n18. Integrated Service Center for Women's and Children's Empowerment, hereinafter abbreviated as P2TP2A is an integrated Service center in the effort to empower Women and Children established by the Regional Government with active Community participation which includes an information center, consultation center, complaint service, initial health care, counseling, legal assistance, repatriation and social reintegration, shelter/temporary safe house (shelter), as well as a referral center.\n19. Safe House is a shelter/temporary protection house for Victims, during the assistance process, for the safety and comfort of Victims from threats and danger from perpetrators, and is only known by relevant parties such as certain personnel at UPT P2TP2A for reasons of Victim safety and security.\n20. Standard Operating Procedure hereinafter abbreviated as SOP is the standard steps that must be taken in protecting Victims starting from complaints/identification, rehabilitation, health, Social Rehabilitation, advocacy up to repatriation and social reintegration of witnesses and/or Victims.\n21. Family is the smallest unit in Society consisting of husband and wife, or husband-wife and their Child, or father and his Child, or mother and her Child or Family by blood in a straight line upward or downward up to the third degree and/or if any up to the fourth degree.\n22. Household is husband, wife, and Child, people who have Family relationships due to blood relations, marriage, milk kinship, foster care, representation, and/or Household workers and reside in that Household.\n23. Community is individuals, Families, groups, and social organizations and/or community organizations.\n24. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of South Labuhanbatu Regency.\n25. Social Rehabilitation is a process of refunctionalization and development to enable a person to be able to carry out their social functions properly in Community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 33\nTo implement the protection of Women and Children, the Regional Government shall conduct Gender Mainstreaming which includes:\na. providing guidance for regional apparatus in formulating Gender integration strategies conducted through planning, preparation, implementation, budgeting, monitoring and evaluation of development policies, programs and activities.\nb. developing a Gender-based information system;\nc. facilitating institutional strengthening and development of Gender Mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, as well as non-governmental institutions;\nd. implementing development in education, health, economy, law, Human Rights and politics, environment and social affairs that take into account Gender aspects and are Child-friendly;\ne. conducting protection of Women especially protection for Victims of Violence, Women workers, Women Victims of human trafficking, elderly Women, and Women with disabilities, and areas affected by disasters; and\nf. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of Gender mainstreaming.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER V\nIMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN FROM ACTS OF VIOLENCE",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 32\n(1) The fulfillment of social welfare for Women and Children for prevention as referred to in Article 31 paragraph (1) includes:\na. enhancement of the role of Regional Government towards the protection of Children including Children with special needs, Children with disabilities and other vulnerable Children;\nb. enhancement of community awareness including Children towards the protection and participation of Women and Children;\nc. enhancement of the capacity of the Community, Families, including Children and social welfare institutions, regarding Child protection;\nd. enhancement of the capacity of protection services for Women and Children;\ne. guarantee of continuity of education in accordance with the 12 (twelve) year compulsory Basic Education program; and\nf. guarantee of obtaining basic health Services.\n(2) The fulfillment of social welfare for Women and Children for vulnerability risk reduction, includes:\na. identification and/or early detection of vulnerable Women and Children; b. mediation and counseling for vulnerable Women and Children;\nc. services and facilitation of support for vulnerable Women and Children; and d. care support for Children who require alternative care.\n(3) The fulfillment of social welfare for Women and Children for handling Victims, includes:\na. fulfillment of the rights of Women and Children who become Victims; b. referral services;\nc. rehabilitation; and\nd. reintegration.\n(4) The handling of Child Victims as referred to in paragraph (3) shall have the right to obtain protection from local mass media coverage both electronic and print to guarantee the future of the Child.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\nThe scope of this Regional Regulation includes:\na. forms of Violence;\nb. rights of Victims;\nc. obligations and responsibilities;\nd. implementation of protection of Women and Children from acts of Violence;\ne. coordination and cooperation;\nf. participation of the Community and business sector;\ng. guidance and supervision;\nh. reporting; and\ni. sources of funding.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Reviewing the original Indonesian regulation, it does not appear to include ‘harmful practices’ as typically defined in this indicator (e.g., child/early marriage, FGM, honour crimes, female infanticide). The closest relevant mention is Pasal 38 huruf b: “mencegah terjadinya perkawinan pada usia anak-anak” (prevent child-age marriage). That is a harmful practice (child marriage) and would support a Yes if the indicator counts child marriage prevention as coverage. However, the retrieved candidates shown to the judge did not include Pasal 38 at all, and the judge correctly noted the absence of explicit harmful-practice mentions in the provided English passages. Given the discrepancy setup (golden=Yes), the more fundamental problem is that the golden label likely relied on Pasal 38(b), but the evaluation packet omitted it; if the golden label expects explicit harmful practices, it is only supported by that single child-marriage-prevention clause. Because the judge had no access to Pasal 38, the disagreement is best attributed to a golden-labeling expectation mismatch (golden assumes coverage) rather than judge error; the golden label should be reconsidered or clarified to ensure Pasal 38(b) is within scope and retrievable.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SUMATERA_UTARA_LABUHANBATU_SELATAN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.620640+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 2,
+  "diagnosed_count": 2
+}

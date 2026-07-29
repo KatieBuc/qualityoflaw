@@ -1,0 +1,276 @@
+{
+  "diagnoses": {
+    "3.2": {
+      "indicator": "Police specialised service unit",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "This service unit can be located at the Integrated Service Center (PPT) and Integrated Crisis Center (PKT) based in Hospitals, Community Health Centers, Integrated Service Center for Women and Children Empowerment (P2TP2A), Women and Children Service Unit (UPPA), Trauma Center Shelter (RPTC), Children's Social Shelter (RPSA), BP4, and other religious institutions, prosecutor's offices, courts, Women Crisis Center (WCC), and other similar institutions.",
+      "evaluator_rationale": "The policy indicates that a service unit for women and children victims of violence can be located at the Women and Children Service Unit (UPPA), which is a specialized unit within the policing context.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 92,
+          "text": "Article 30\nParagraph (1) Sufficiently clear.\nParagraph (2) What is meant by \"other service units\" is a unified unit that organizes integrated service functions for women and children victims of violence. This service unit can be located at the Integrated Service Center (PPT) and Integrated Crisis Center (PKT) based in Hospitals, Community Health Centers, Integrated Service Center for Women and Children Empowerment (P2TP2A), Women and Children Service Unit (UPPA), Trauma Center Shelter (RPTC), Children's Social Shelter (RPSA), BP4, and other religious institutions, prosecutor's offices, courts, Women Crisis Center (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\n(1) P2TP2A as referred to in paragraph (1) is P2TP2A constitutes a functional work unit that has the duties, principal tasks, and functions of providing protection to women and children from acts of violence.\n(2) P2TP2A as referred to in paragraph (1) has the duty to provide services and temporary protection in the form of a safe house for victims of violence.\n(3) In the event that P2TP2A does not have a safe house (shelter) as referred to in paragraph (3), then victims of violence shall be referred to PPT that has a safe house.",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Objectives of Victim Protection are:\na. To prevent violence against women and children;\nb. To provide services to Victims; and\nc. To carry out empowerment and rehabilitation for victims of violence.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 47,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL\nPROVISIONS\nArticle In this Regional Regulation what is meant by:\n1. Region is East Kotawaringin Regency\n2. Regional Government is the Regional Government of East Kotawaringin Regency\n3. Regent is the Regent of East Kotawaringin\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of East Kotawaringin Regency\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the area of East Kotawaringin Regency.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecution, courts, social institutions, or other parties who know or hear about what will or has occurred in violence against women.\n12. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing about, during or after the occurrence of violence against victims.\n14. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n15. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaint/identification, rehabilitation, health, social rehabilitation, legal services up to repatriation and social reintegration of witnesses and/or victims.\n18. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n19. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n20. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of East Kotawaringin Regency\n21. Coordination Forum for Protection of Victims of Violence hereinafter abbreviated as FKPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.\n22. Integrated Service Center for the Protection of Women and children hereinafter abbreviated as PPTPPA is a community-based institution whose members are multistakeholder observers of women and children at the government and non-government levels.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 31\nThe provision of services to victims shall be implemented with:\na. Speed;\nb. Safety and comfort;\nc. Sense of empathy;\nd. Non-discrimination;\ne. Easy accessibility;\nf. No charges imposed; and\ng. Guaranteed confidentiality.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER XI\nOBLIGATIONS\nArticle 47\n(1) The Regional Government and the Community shall establish and ensure the operation of the TP2TP2A integrated service institution to protect victims of violence against women and children.\n(2) Facilitate the formation of service institutions.\n(3) The Regional Government shall encourage the community regarding the importance of services for women and children.\n(4) Provide funds for the protection of women and children through the Regional Budget (APBD) of East Kotawaringin Regency according to capacity.\n(5) Every person/government administrator is obligated to provide protection to women and children who are victims of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER VII\nINTEGRATED SERVICE CENTER FOR THE PROTECTION OF WOMEN AND CHILDREN (P2TP2A)",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 63,
+          "text": "HEAD OF LEGAL DIVISION\nREGIONAL SECRETARIAT OF EAST KOTAWARINGIN REGENCY\nCHAIRUL HUDA EKO YULIANTO, SH\nNIP.19620701 198903 1 014\nELUCIDATION\nOF\nREGIONAL REGULATION OF EAST KOTAWARINGIN REGENCY\nNUMBER 3 OF 2015\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\n\n\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in East Kotawaringin Regency so that they are protected from violence, threats of violence, torture or treatment that degrades their degree and human dignity, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation governs protection efforts for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in East Kotawaringin Regency.\nII. ARTICLE BY ARTICLE\nSufficiently clear.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 54,
+          "text": "Fourth Part\nCoordination of Victim Protection",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, the only relevant mention is in the elucidation of Pasal 30 ayat (2), which lists examples of where “unit pelayanan lainnya” (other service units) may be located, including “Unit Pelayanan Perempuan dan Anak (UPPA)”. This is presented as an example of a possible service unit location/network partner, not as a requirement that the police have/operate a specialized police service unit, nor does it establish/mandate a police-run specialized unit. The judge over-interpreted the mere mention of UPPA as proof the policy provides for a specialized police unit, so the error is due to judge reasoning rather than missing/incorrect translation or retrieval.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information & education on VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. Conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. Providing critical education on the rights of women and children for the community.",
+      "evaluator_rationale": "The policy specifies prevention efforts that include socialization about laws/regulations related to protection of women and children victims of violence and providing critical education on rights, which are explicit information/education activities aimed at preventing violence and protecting women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 90,
+          "text": "Article 28\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups existing in the Region.\nPoint b What is meant by \"coordination\" includes: planning, implementation and monitoring of violence prevention programs.\nPoint c What is meant by \"violence prevention system\" includes: mapping of locations or areas prone to violence and conducting promotive and preventive efforts to the community.\nPoint d Socialization can be conducted through mass media, electronic media, and direct outreach to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist decision-making and prevent becoming a victim of repeated violence. Forms of critical education for women victims of violence consist of: trainings on gender equality and justice, education on reproductive health for women, and provision of understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently Clear",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Objectives of Victim Protection are:\na. To prevent violence against women and children;\nb. To provide services to Victims; and\nc. To carry out empowerment and rehabilitation for victims of violence.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\nThe community and family have the following obligations and responsibilities:\na. Prevent the occurrence of violence against women and children;\nb. Report if violence occurs;\nc. Protect victims; and\nd. Provide emergency assistance.",
+          "score": 0.030679156908665108
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 28\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the agency having the principal tasks and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. Establishing a working network in efforts to prevent violence;\nb. Conducting coordination, integration, synchronization of violence prevention based on partnership patterns; c. Establishing a violence prevention system;\nd. Conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. Providing critical education on the rights of women and children for the community.\nf. Implementing a curfew for children which shall be further regulated by the Regent Regulation of East Kotawaringin.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 29\nLetter a Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication among family members.\nLetter b Prevention efforts within the community include: fostering environmental awareness of acts of violence occurring in their environment.\nLetter c Educational institutions can participate in efforts to provide punishments that are educational in nature, efforts to eliminate provisions that do not side with victims of violence.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL\nPROVISIONS\nArticle In this Regional Regulation what is meant by:\n1. Region is East Kotawaringin Regency\n2. Regional Government is the Regional Government of East Kotawaringin Regency\n3. Regent is the Regent of East Kotawaringin\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of East Kotawaringin Regency\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the area of East Kotawaringin Regency.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecution, courts, social institutions, or other parties who know or hear about what will or has occurred in violence against women.\n12. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing about, during or after the occurrence of violence against victims.\n14. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n15. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaint/identification, rehabilitation, health, social rehabilitation, legal services up to repatriation and social reintegration of witnesses and/or victims.\n18. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n19. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n20. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of East Kotawaringin Regency\n21. Coordination Forum for Protection of Victims of Violence hereinafter abbreviated as FKPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.\n22. Integrated Service Center for the Protection of Women and children hereinafter abbreviated as PPTPPA is a community-based institution whose members are multistakeholder observers of women and children at the government and non-government levels.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 47,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial;\nand/or\nc. all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 39\nForms of empowerment for women victims of violence include:\na. Job training;\nb. Productive economic enterprises and joint business groups; and\nc. Capital assistance.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 33,
+          "text": "CHAPTER VIII\nVICTIM PROTECTION\nPart One\nPrevention",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly includes information/education as prevention measures. Pasal 28 ayat (2) huruf d states “Melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan” and huruf e states “Memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.” The Penjelasan Pasal 28 further elaborates that sosialisasi can be through mass/electronic media and direct outreach, and that “pendidikan kritis” builds awareness of women’s rights and includes trainings (gender equality/justice, reproductive health education, understanding laws on domestic violence). Since the policy does address information/education on VAW/violence against women and children, the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. Providing critical education on the rights of women and children for the community.\nThe purpose of implementing critical education is to assist decision-making and prevent becoming a victim of repeated violence.",
+      "evaluator_rationale": "The policy lists critical education as a prevention effort and states its purpose includes preventing becoming a victim of repeated violence, making education an explicit strategy for preventing violence against women/children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 90,
+          "text": "Article 28\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups existing in the Region.\nPoint b What is meant by \"coordination\" includes: planning, implementation and monitoring of violence prevention programs.\nPoint c What is meant by \"violence prevention system\" includes: mapping of locations or areas prone to violence and conducting promotive and preventive efforts to the community.\nPoint d Socialization can be conducted through mass media, electronic media, and direct outreach to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist decision-making and prevent becoming a victim of repeated violence. Forms of critical education for women victims of violence consist of: trainings on gender equality and justice, education on reproductive health for women, and provision of understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently Clear",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 28\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the agency having the principal tasks and functions of coordination in the field of women's empowerment and child protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. Establishing a working network in efforts to prevent violence;\nb. Conducting coordination, integration, synchronization of violence prevention based on partnership patterns; c. Establishing a violence prevention system;\nd. Conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\ne. Providing critical education on the rights of women and children for the community.\nf. Implementing a curfew for children which shall be further regulated by the Regent Regulation of East Kotawaringin.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Objectives of Victim Protection are:\na. To prevent violence against women and children;\nb. To provide services to Victims; and\nc. To carry out empowerment and rehabilitation for victims of violence.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\nThe community and family have the following obligations and responsibilities:\na. Prevent the occurrence of violence against women and children;\nb. Report if violence occurs;\nc. Protect victims; and\nd. Provide emergency assistance.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER XI\nOBLIGATIONS\nArticle 47\n(1) The Regional Government and the Community shall establish and ensure the operation of the TP2TP2A integrated service institution to protect victims of violence against women and children.\n(2) Facilitate the formation of service institutions.\n(3) The Regional Government shall encourage the community regarding the importance of services for women and children.\n(4) Provide funds for the protection of women and children through the Regional Budget (APBD) of East Kotawaringin Regency according to capacity.\n(5) Every person/government administrator is obligated to provide protection to women and children who are victims of violence.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 29\nLetter a Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication among family members.\nLetter b Prevention efforts within the community include: fostering environmental awareness of acts of violence occurring in their environment.\nLetter c Educational institutions can participate in efforts to provide punishments that are educational in nature, efforts to eliminate provisions that do not side with victims of violence.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 47,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL\nPROVISIONS\nArticle In this Regional Regulation what is meant by:\n1. Region is East Kotawaringin Regency\n2. Regional Government is the Regional Government of East Kotawaringin Regency\n3. Regent is the Regent of East Kotawaringin\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of East Kotawaringin Regency\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the area of East Kotawaringin Regency.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecution, courts, social institutions, or other parties who know or hear about what will or has occurred in violence against women.\n12. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing about, during or after the occurrence of violence against victims.\n14. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n15. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaint/identification, rehabilitation, health, social rehabilitation, legal services up to repatriation and social reintegration of witnesses and/or victims.\n18. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n19. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n20. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of East Kotawaringin Regency\n21. Coordination Forum for Protection of Victims of Violence hereinafter abbreviated as FKPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.\n22. Integrated Service Center for the Protection of Women and children hereinafter abbreviated as PPTPPA is a community-based institution whose members are multistakeholder observers of women and children at the government and non-government levels.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 52,
+          "text": "Paragraph 2\nFulfillment of the Rights of Child Victims of Violence",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, image, symbol, or body movement, whether with or without using means that creates fear or restricts a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy clearly states prevention through education. Pasal 28 ayat (2) huruf e: “Memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.” The Penjelasan Pasal 28 huruf e explains this education aims to build awareness of rights and to avoid repeated victimization (“tidak menjadi korban kekerasan berulang”), and gives concrete forms (trainings on gender equality/justice, reproductive health education, and understanding relevant laws). Therefore the document supports a ‘Yes’ for prevention through education; the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial;\nc. all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse",
+      "evaluator_rationale": "The policy defines and includes exploitation practices such as prostitution, forced labor/services, slavery or similar practices, and sexual abuse, which are core elements associated with trafficking/exploitation, thereby bringing such victims within scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or ability of a person by another party to obtain benefits both material and immaterial;\nand/or\nc. all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 47,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 63,
+          "text": "HEAD OF LEGAL DIVISION\nREGIONAL SECRETARIAT OF EAST KOTAWARINGIN REGENCY\nCHAIRUL HUDA EKO YULIANTO, SH\nNIP.19620701 198903 1 014\nELUCIDATION\nOF\nREGIONAL REGULATION OF EAST KOTAWARINGIN REGENCY\nNUMBER 3 OF 2015\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\n\n\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in East Kotawaringin Regency so that they are protected from violence, threats of violence, torture or treatment that degrades their degree and human dignity, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation governs protection efforts for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in East Kotawaringin Regency.\nII. ARTICLE BY ARTICLE\nSufficiently clear.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 2\nLetter a Sufficiently clear.\nLetter b What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter c What is meant by \"justice\" is a condition where every person, both men and women, are treated equally and obtain equal opportunities to gain access, as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.\nLetter d What is meant by \"non-discrimination\" is an attitude and treatment toward victims by not making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter e What is meant by \"the best interests of victims\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, then the best interests of victims must be the primary consideration.\nLetter f What is meant by \"empowerment\" is the strengthening of victims of violence to be able to work and earn a living independently after they have been restored and provided with health and social rehabilitation services.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person. e. Neglect within the household.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services and rehabilitation empowerment for victims of violence in East Kotawaringin Regency.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 29\nLetter a Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication among family members.\nLetter b Prevention efforts within the community include: fostering environmental awareness of acts of violence occurring in their environment.\nLetter c Educational institutions can participate in efforts to provide punishments that are educational in nature, efforts to eliminate provisions that do not side with victims of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe principles of implementing protection for Victims are:\na. Humanity;\nb. Respect and fulfillment of victims' rights;\nc. Justice and gender equality;\nd. Non-discrimination;\ne. Best interests of victims; and\nf. Empowerment.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL\nPROVISIONS\nArticle In this Regional Regulation what is meant by:\n1. Region is East Kotawaringin Regency\n2. Regional Government is the Regional Government of East Kotawaringin Regency\n3. Regent is the Regent of East Kotawaringin\n4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of East Kotawaringin Regency\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the area of East Kotawaringin Regency.\n11. Protection of women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecution, courts, social institutions, or other parties who know or hear about what will or has occurred in violence against women.\n12. Child protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing about, during or after the occurrence of violence against victims.\n14. Companion is a person or representative from an institution who has expertise in accompanying victims to conduct counseling, therapy and advocacy for strengthening and recovery of victims of violence.\n15. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a functional work unit that organizes integrated services for victims of violence.\n16. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaint/identification, rehabilitation, health, social rehabilitation, legal services up to repatriation and social reintegration of witnesses and/or victims.\n18. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n19. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, breastfeeding, care, and representation, and/or domestic workers and reside in that household.\n20. Regional Revenue and Expenditure Budget hereinafter abbreviated as APBD is the Regional Revenue and Expenditure Budget of East Kotawaringin Regency\n21. Coordination Forum for Protection of Victims of Violence hereinafter abbreviated as FKPKK is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.\n22. Integrated Service Center for the Protection of Women and children hereinafter abbreviated as PPTPPA is a community-based institution whose members are multistakeholder observers of women and children at the government and non-government levels.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Objectives of Victim Protection are:\na. To prevent violence against women and children;\nb. To provide services to Victims; and\nc. To carry out empowerment and rehabilitation for victims of violence.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text (e.g., Pasal 10 on “Eksploitasi”) defines exploitation broadly (including prostitution, forced labor/services, slavery-like practices, etc.), but it does not explicitly mention “perdagangan orang” (human trafficking) victims as a distinct group, nor does it set out specific provisions targeted to trafficking victims. The indicator is about trafficking victims (an intersectional/vulnerable group). The judge inferred trafficking coverage from exploitation language alone, which is an overreach: exploitation can overlap with trafficking, but the regulation does not clearly state it covers trafficking victims specifically. Thus the false positive is best explained by judge reasoning error, not translation or retrieval.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_TENGAH_KOTAWARINGIN_TIMUR.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.236035+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

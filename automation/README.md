@@ -33,22 +33,28 @@ Each pipeline execution writes a self-contained run folder under `data/automatio
 ```
 data/automation/<run_id>/
 ├── metadata.json              # Run summary (steps, timing, config, counts)
+├── failures.json              # Persistent log of translation/evaluation/diagnosis failures (when present)
 ├── config/                    # Snapshot of configs used for this run
 │   ├── model_config.yaml
 │   └── pipeline_config.yaml
-├── translation/               # English policy .txt files (one per input policy)
-├── chunks/                    # Only when --keep-chunk-result is used (see below)
-│   ├── <policy>.cleaned.txt
-│   └── <policy>.chunks.json
-├── evaluation/                # LLM JSON reports (one per policy)
-├── rag_candidates/            # Full RAG candidate list per indicator (one per policy, written by evaluation)
-├── failures.json              # Persistent log of translation/evaluation/diagnosis failures (when present)
-├── comparison/                # Golden-dataset comparison outputs
-│   ├── metrics.csv
-│   ├── error_analysis.csv
-│   └── unmatched_indicators.csv   # Only when join pairs are missing on one side
-└── diagnosis/                 # Discrepancy diagnosis reports (one per policy with mismatches)
+├── results/                   # Main deliverables of the pipeline
+│   ├── cleaned_text/          # OCR-noise-stripped, reflowed original-language text (one per input policy)
+│   │   └── <policy>.cleaned.txt
+│   ├── translation/           # English policy .txt files (one per input policy)
+│   ├── evaluation/            # LLM JSON reports (one per policy)
+│   ├── comparison/            # Golden-dataset comparison outputs
+│   │   ├── metrics.csv
+│   │   ├── error_analysis.csv
+│   │   └── unmatched_indicators.csv   # Only when join pairs are missing on one side
+│   └── diagnosis/             # Discrepancy diagnosis reports (one per policy with mismatches)
+└── mid_product/                # Intermediate artifacts consumed by later stages
+    ├── chunks/                # Per-policy chunk boundaries + per-chunk translations
+    │   └── <policy>.chunks.json
+    ├── rag_store/              # Per-policy embedded chunk store
+    └── rag_candidates/         # Full RAG candidate list per indicator (one per policy, written by evaluation)
 ```
+
+`results/` holds the pipeline's final deliverables; `mid_product/` holds intermediate artifacts that only exist to feed later stages.
 
 ### `metadata.json`
 
@@ -314,15 +320,25 @@ discrepancy_diagnosis:
 
 #### Chunked translation (`translation.chunking`)
 
+Every translation run always cleans each source file first — strips OCR noise
+lines (including stray lone-punctuation residue like a leftover `.` on its own
+line) and reflows broken lines back into paragraphs, while keeping structural
+markers (`BAB` / `Pasal` / `Bagian` / `Paragraf` / all-caps titles) on their
+own line (`automation/src/chunking.py:clean_text`). The result is always saved
+as a main-result artifact at `results/cleaned_text/<policy>.cleaned.txt`,
+regardless of whether chunking is enabled. Line breaks follow the same
+convention as the translated output: a blank line between structural
+sections, a single newline between lines within a section — since each
+section is exactly what becomes a chunk's source text for translation, the
+two files stay visually consistent.
+
 Some source policy files are large enough that a single translation call risks
 a timeout. When `translation.chunking.enabled` is `true`, `translate.py` runs
-each file through a clean -> chunk -> translate -> combine pipeline
-(`automation/src/chunking.py`) instead of a single API call:
+each file through the rest of the chunk -> translate -> combine pipeline
+instead of a single API call:
 
-1. **Cleaning** — strips OCR noise lines (including stray lone-punctuation
-   residue like a leftover `.` on its own line) and reflows broken lines back
-   into paragraphs, while keeping structural markers (`BAB` / `Pasal` /
-   `Bagian` / `Paragraf` / all-caps titles) on their own line.
+1. **Cleaning** — see above (always runs; chunking reuses the same cleaned
+   output as its input).
 2. **Structural split** — cuts the cleaned text into sections at structural
    markers (no overlap; these are the document's natural boundaries).
    Consecutive markers with no body text between them (e.g. a `BAB` line
@@ -349,16 +365,17 @@ translation:
     safe_limit: 32000   # chars; default 32000, well under the ~50,000 timeout ceiling
 ```
 
-Disabled by default — existing runs are unaffected unless `enabled: true` is set.
+Chunking is disabled by default — existing runs are unaffected unless `enabled: true` is set. The cleaned-text artifact is written either way (see above).
 
-##### Keeping the clean/chunk results (`--keep-chunk-result`)
+When chunking is enabled, `mid_product/chunks/<policy>.chunks.json` is also always written — the chunk list (section 2 output): `chunk_index`, `section_id`, `type` (`structural`/`fallback`), `context`, `text`, `translated_text`, in translation order. The RAG storage step reuses it instead of re-chunking the merged English output.
 
-Pass `--keep-chunk-result` to also save each policy's cleaning and chunking output under `data/automation/<run_id>/chunks/`:
+##### Embedding chunk size (storage step)
 
-- `<policy>.cleaned.txt` — the reflowed text after OCR-noise removal (section 1 output; one cleaned line/marker per output line).
-- `<policy>.chunks.json` — the chunk list (section 2 output): `chunk_index`, `section_id`, `type` (`structural`/`fallback`), `context`, `text`, in translation order.
+`translation.chunking.safe_limit` sizes chunks in characters against the *translation* LLM's context window — it's much larger than the *embedding* model's hard 8192-token input cap, and legal/citation-heavy text (dense with digits and punctuation) can tokenize less efficiently than prose, so a chunk under `safe_limit` can still exceed 8192 tokens at embedding time. The storage step sub-splits any chunk over `EMBEDDING_SAFE_CHAR_LIMIT` (6000 chars, `automation/src/rag/store.py`) before calling the embedding API, independent of the translation chunk boundaries — this only affects `mid_product/rag_store/`'s retrieval granularity, not `mid_product/chunks/` or the translated output.
 
-Only takes effect when `translation.chunking.enabled` is `true`; otherwise it's a no-op (a note is printed to stderr).
+#### Golden-label corrections (`data/corrections/manual_overwrites.yaml`)
+
+Before comparing predictions against the golden dataset, the comparison step applies any corrections from `data/corrections/manual_overwrites.yaml` — `filename: {indicator_id: corrected_value}` — directly to the golden `value`s in memory, so `results/comparison/` always reflects the latest corrections even if `data/processed/long_policy_encoding.csv` hasn't been regenerated yet. A correction with no matching (filename, indicator_id) in the golden CSV is skipped with a warning rather than failing the run; a missing/absent corrections file is treated as no corrections. See `evaluate_accuracy.py:apply_manual_overwrites`.
 
 #### Concurrency
 
@@ -406,7 +423,6 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 | `--run-id` | Existing run ID (required for eval/comparison/diagnosis without translation) |
 | `--force` | Re-run a step even if its output already exists (all steps are idempotent by default — they skip items that already have output) |
 | `--allow-partial` | Save incomplete evaluation or discrepancy diagnosis reports |
-| `--keep-chunk-result` | With chunking enabled, also save clean/chunk results to `data/automation/<run_id>/chunks/` |
 | `--max-workers` | Override `concurrency.max_workers` from pipeline config |
 | `--no-concurrency` | Disable parallel API calls (serial mode) |
 | `--pipeline-config` | Path to experiment YAML (default: [`automation\config\pipeline_config.yaml`](.\config\pipeline_config.yaml))|

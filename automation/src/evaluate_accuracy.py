@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 import pandas as pd
+import yaml
 from sklearn.metrics import classification_report, confusion_matrix
 
 from quality_eval.v1.criteria import get_indicator_dimension
@@ -100,6 +101,58 @@ def load_golden_dataframe(csv_path: str) -> pd.DataFrame:
     golden_df["indicator_id"] = golden_df["indicator_id"].astype(str).str.strip()
     golden_df["value"] = golden_df["value"].astype(float)
     return golden_df
+
+
+def load_manual_overwrites(path: str | Path | None) -> dict[str, dict[str, float]]:
+    """Load golden-label corrections: filename -> {indicator_id: corrected_value}.
+
+    A missing path (or a path that doesn't exist) yields an empty dict rather
+    than raising, so comparison still runs in environments without the
+    corrections dataset.
+    """
+    if not path:
+        return {}
+    path = Path(path)
+    if not path.exists():
+        return {}
+    with path.open(encoding="utf-8") as f:
+        data = yaml.safe_load(f) or {}
+    return {
+        str(filename).strip(): {str(indicator_id): float(value) for indicator_id, value in (fixes or {}).items()}
+        for filename, fixes in data.items()
+    }
+
+
+def apply_manual_overwrites(
+    golden_df: pd.DataFrame, overwrites: dict[str, dict[str, float]]
+) -> pd.DataFrame:
+    """Replace golden `value`s with manually-corrected labels before comparison.
+
+    Corrections are applied by (filename, indicator_id) regardless of `year`
+    — a corrected filename in the golden dataset already identifies the
+    specific policy version (see data/corrections/manual_overwrites.yaml).
+    """
+    if not overwrites:
+        return golden_df
+
+    df = golden_df.copy()
+    applied = 0
+    for filename, indicator_values in overwrites.items():
+        for indicator_id, value in indicator_values.items():
+            mask = (df["filename"] == filename) & (df["indicator_id"] == indicator_id)
+            matched = int(mask.sum())
+            if matched == 0:
+                print(
+                    f"Warning: manual overwrite for {filename}/{indicator_id} "
+                    "does not match any golden row; ignored."
+                )
+                continue
+            df.loc[mask, "value"] = value
+            applied += matched
+
+    if applied:
+        print(f"Applied {applied} manual golden-label overwrite(s).")
+    return df
 
 
 def filter_golden_to_evaluated(golden_df: pd.DataFrame, evaluated_policies: list[str]) -> pd.DataFrame:
@@ -240,9 +293,12 @@ def build_dimension_metrics(merged_df: pd.DataFrame) -> dict:
 
 
 def calculate_metrics(
-    csv_path: str, llm_df: pd.DataFrame
+    csv_path: str,
+    llm_df: pd.DataFrame,
+    manual_overwrites: dict[str, dict[str, float]] | None = None,
 ) -> tuple[pd.DataFrame | None, pd.DataFrame | None, dict | None]:
     golden_df = load_golden_dataframe(csv_path)
+    golden_df = apply_manual_overwrites(golden_df, manual_overwrites or {})
 
     llm_df = llm_df.copy()
     llm_df["filename"] = llm_df["filename"].str.strip()
@@ -410,13 +466,16 @@ def run_accuracy_evaluation(
     llm_input: str,
     export_errors: str = "error_analysis.csv",
     export_metrics: str | None = None,
+    manual_overwrites_path: str | None = None,
 ) -> dict | None:
     llm_df = load_llm_results(llm_input)
     if llm_df.empty:
         raise ValueError("No LLM results could be loaded.")
 
+    manual_overwrites = load_manual_overwrites(manual_overwrites_path)
+
     print("Evaluating...")
-    errors_df, unmatched_df, metrics_summary = calculate_metrics(golden_csv, llm_df)
+    errors_df, unmatched_df, metrics_summary = calculate_metrics(golden_csv, llm_df, manual_overwrites)
     if metrics_summary is None:
         return None
 
@@ -471,6 +530,12 @@ def main() -> None:
         default=None,
         help="Export metrics summary CSV path (default: alongside error CSV)",
     )
+    parser.add_argument(
+        "-c",
+        "--manual_overwrites",
+        default=None,
+        help="Path to a manual_overwrites.yaml golden-label corrections file (optional)",
+    )
     args = parser.parse_args()
 
     print("Loading JSON report...")
@@ -480,6 +545,7 @@ def main() -> None:
             llm_input=args.llm_input,
             export_errors=args.export_errors,
             export_metrics=args.export_metrics,
+            manual_overwrites_path=args.manual_overwrites,
         )
     except ValueError as exc:
         print(f"Error: {exc}")

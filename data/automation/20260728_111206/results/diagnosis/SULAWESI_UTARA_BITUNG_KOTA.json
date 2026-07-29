@@ -1,0 +1,276 @@
+{
+  "diagnoses": {
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention reporting violence to authorities and an information system in general contexts, but do not explicitly establish or assign responsibility for a system to collect, document, record, monitor, manage, exchange, or maintain data on VAW/victims/cases.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 24,
+          "text": "Article 21\nThe family has the responsibility to prevent the occurrence of acts of violence against women and children, including:\na. maintaining harmony in family relationships; b. providing assistance to victims;\nc. reporting every form of violence in the family to the authorized authorities; and\nd. assisting the government in efforts to carry out rehabilitation and reunification of victims.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER V\nPROVISION OF SERVICES, ASSISTANCE AND RECOVERY FOR WOMEN AND CHILDREN WHO ARE VICTIMS OF ACTS OF VIOLENCE",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER IV\nIMPLEMENTATION OF PREVENTION OF THE OCCURRENCE OF ACTS OF VIOLENCE AGAINST WOMEN AND CHILDREN",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for or look after children as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts of neglecting a wife within the household sphere, whereas according to the law applicable to them or due to agreement or contract, he is obligated to provide livelihood, care or maintenance to his wife; and/or\nd. acts that result in economic dependence, by means of restricting and/or prohibiting the wife from working properly inside or outside the home so that the wife is under the control of her husband.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe implementation of protection for women and children from acts of violence, is carried out based on the following principles:\na. respect for Human Rights possessed by women and children;\nb. justice and gender equality;\nc. non-discrimination; and\nd. the best interests of women and children. Article 4 The purpose and objectives of implementing protection for women and children from acts of violence, include:\na. prevention of the occurrence of acts of violence against women and children;\nb. handling services, assistance and recovery for women and children who become victims of acts of violence;\nc. reunification; and\nd. empowerment of women and rehabilitation of children who become victims of acts of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "FROM ACTS OF VIOLENCE IN THE CITY OF BITUNG.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bitung.\n2. Regional Government is the Mayor and regional apparatus as elements of the Regional government administration.\n3. Mayor is the Mayor of Bitung.\n4. Regional House of Representatives, hereinafter abbreviated as DPRD is the DPRD of the City of Bitung.\n5. Agency is the Agency that administers government affairs in the field of women's empowerment and child protection of the Region.\n6. Woman is a person who has the female sex from birth or based on a court determination who is over 18 years of age.\n7. Child is a person who is not yet 18 (eighteen) years of age, including a child in the womb.\n8. Act of violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Victim of violence is a woman and child who experiences misery and/or suffering, either directly or indirectly as a result of acts of violence.\n10. Protection of women and children from acts of violence is action, deed, activity that includes prevention of the occurrence of acts of violence against women and children, handling services, assistance, recovery, reunification, empowerment of women and rehabilitation of child victims of acts of violence, carried out by the Regional Government, parents, husband, family or community, including therein is the Integrated Service Center.\n11. Prevention is the process, method, act to prevent the occurrence of acts of violence against women and children.\n12. Handling is the process, method, act to handle women and child victims as a result of acts of violence.\n13. Assistance and recovery is all activities in order to assist and restore the physical, psychological condition and health disorders of women and child victims of acts of violence.\n14. Reunification is an activity in order to reunite women and child victims of acts of violence with parents and/or family.\n15. Empowerment is the process, method and act to empower women victims of acts of violence.\n16. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that child victims of acts of violence can carry out their roles again properly both in the family and in society.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife or husband and wife and their child or father and his child or mother and her child or blood relatives in a straight line upward or downward up to the third degree.\n19. Parent/guardian is biological father and/or mother or step father and/or mother or adoptive father and/or mother or guardian based on the provisions of laws and regulations.\n20. Integrated Service Center, hereinafter abbreviated as PPT is various institutions that provide services for victims of violence, such as the Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Centre Protection House, Women's Social Protection House, Shelter House and the like.\n21. Regional Action Plan, hereinafter abbreviated as RAD is the foundation and guideline for related regional apparatus, vertical agencies and the community in order to carry out activities for the implementation of prevention and protection of women and child victims of acts of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 18,
+          "text": "Second Part\nProtection of Women and Children from Acts of Violence Article 16 (1) The implementation of protection of women from acts of violence is carried out through activities:\na. prevention of acts of violence;\nb. assistance and recovery services for women who are victims of acts of violence;\nc. reunification; and\nd. empowerment of women who are victims of acts of violence.\n(2) The implementation of protection of children from acts of violence is carried out through activities:\na. prevention of acts of violence;\nb. handling services for children who are victims of acts of violence;\nc. reunification; and\nd. rehabilitation of children who are victims of acts of violence.\n(3) The implementation of protection as referred to in paragraph (1) and paragraph (2) is carried out by the Regional Government through the Agency.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 39,
+          "text": "Part Three\nService Mechanism for Handling, Assistance and Recovery\nArticle 33 (1) PPT may receive and send case referrals from or to other service units in a networked manner.\n(2) PPT provides temporary services and protection in the form of a Safe House.\n(3) In the event that PPT does not yet have a Safe House, women and children who are victims of acts of violence shall be referred to a PPT that has a Safe House.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\n(1) Every woman and child who becomes a victim of acts of violence has the right to obtain:\na. protection;\nb. information;\nc. optimal services;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.\n(2) The Regional Government guarantees the fulfillment of the rights of women and children who become victims of acts of violence as referred to in paragraph (1).",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text DOES establish an information system: Pasal 18 ayat (1) huruf i states the local government will conduct prevention efforts through “pembangunan dan penyediaan sistem informasi yang lengkap dan mudah diakses” (development and provision of a complete and easily accessible information system). This is directly responsive to an indicator about information systems/data collection mechanisms. The judge concluded there was no explicit establishment/assignment, but the cited obligation is explicit (Pemerintah Daerah melaksanakan upaya… melalui … pembangunan dan penyediaan sistem informasi). The retrieved candidates shown to the judge did not include Pasal 18(1)(i), so the judge’s rationale about the candidates is understandable; however, the predicted label is still wrong relative to the document because the policy clearly mandates an information system.",
+      "diagnosis_status": "ok"
+    },
+    "3.3": {
+      "indicator": "Reporting / hotline",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The text includes reporting by PPT to the Mayor and referral mechanisms between service units, but it does not specify a mechanism/service for victims or the public to submit reports/complaints (e.g., hotline/complaint intake).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 39,
+          "text": "Part Three\nService Mechanism for Handling, Assistance and Recovery\nArticle 33 (1) PPT may receive and send case referrals from or to other service units in a networked manner.\n(2) PPT provides temporary services and protection in the form of a Safe House.\n(3) In the event that PPT does not yet have a Safe House, women and children who are victims of acts of violence shall be referred to a PPT that has a Safe House.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 38\n(1) PPT reports the implementation of protection services for women and children who are victims of violence to the Mayor through the Dinas.\n(2) The reporting as referred to in paragraph (1) shall be submitted in writing, covering:\na. administration;\nb. finance;\nc. services; and\nd. performance.\n(3) The submission of written reports as referred to in paragraph (2) shall be carried out at least once every 3 (three) months.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER V\nPROVISION OF SERVICES, ASSISTANCE AND RECOVERY FOR WOMEN AND CHILDREN WHO ARE VICTIMS OF ACTS OF VIOLENCE",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for or look after children as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts of neglecting a wife within the household sphere, whereas according to the law applicable to them or due to agreement or contract, he is obligated to provide livelihood, care or maintenance to his wife; and/or\nd. acts that result in economic dependence, by means of restricting and/or prohibiting the wife from working properly inside or outside the home so that the wife is under the control of her husband.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 37\nThe provision of services and assistance to women and children who are victims of acts of violence, is carried out with the principles of:\na. fast, safe and empathetic;\nb. guarantee of confidentiality;\nc. easily accessible; and\nd. free of charge.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "FROM ACTS OF VIOLENCE IN THE CITY OF BITUNG.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bitung.\n2. Regional Government is the Mayor and regional apparatus as elements of the Regional government administration.\n3. Mayor is the Mayor of Bitung.\n4. Regional House of Representatives, hereinafter abbreviated as DPRD is the DPRD of the City of Bitung.\n5. Agency is the Agency that administers government affairs in the field of women's empowerment and child protection of the Region.\n6. Woman is a person who has the female sex from birth or based on a court determination who is over 18 years of age.\n7. Child is a person who is not yet 18 (eighteen) years of age, including a child in the womb.\n8. Act of violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Victim of violence is a woman and child who experiences misery and/or suffering, either directly or indirectly as a result of acts of violence.\n10. Protection of women and children from acts of violence is action, deed, activity that includes prevention of the occurrence of acts of violence against women and children, handling services, assistance, recovery, reunification, empowerment of women and rehabilitation of child victims of acts of violence, carried out by the Regional Government, parents, husband, family or community, including therein is the Integrated Service Center.\n11. Prevention is the process, method, act to prevent the occurrence of acts of violence against women and children.\n12. Handling is the process, method, act to handle women and child victims as a result of acts of violence.\n13. Assistance and recovery is all activities in order to assist and restore the physical, psychological condition and health disorders of women and child victims of acts of violence.\n14. Reunification is an activity in order to reunite women and child victims of acts of violence with parents and/or family.\n15. Empowerment is the process, method and act to empower women victims of acts of violence.\n16. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that child victims of acts of violence can carry out their roles again properly both in the family and in society.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife or husband and wife and their child or father and his child or mother and her child or blood relatives in a straight line upward or downward up to the third degree.\n19. Parent/guardian is biological father and/or mother or step father and/or mother or adoptive father and/or mother or guardian based on the provisions of laws and regulations.\n20. Integrated Service Center, hereinafter abbreviated as PPT is various institutions that provide services for victims of violence, such as the Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Centre Protection House, Women's Social Protection House, Shelter House and the like.\n21. Regional Action Plan, hereinafter abbreviated as RAD is the foundation and guideline for related regional apparatus, vertical agencies and the community in order to carry out activities for the implementation of prevention and protection of women and child victims of acts of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 29\nIn order to handle victims of violence, the Regional Government establishes PPT as an integrated service center for women and children who are victims of violence.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 6\nPhysical violence as referred to in Article 5 paragraph (2) letter a is caused by acts that result in pain, injury, wounds or disability to a person's body, miscarriage, loss of consciousness and/or cause death.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\n(1) Every woman and child who becomes a victim of acts of violence has the right to obtain:\na. protection;\nb. information;\nc. optimal services;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.\n(2) The Regional Government guarantees the fulfillment of the rights of women and children who become victims of acts of violence as referred to in paragraph (1).",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly provides a complaint/reporting mechanism for the public: Pasal 18 ayat (1) huruf k requires “pembukaan pos pengaduan untuk perlindungan dan pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak” (opening complaint posts). That satisfies a reporting/complaints intake mechanism (even if not a phone hotline). None of the retrieved passages shown to the judge include Pasal 18(1)(k); instead they focus on PPT internal reporting to the Mayor (Pasal 38) and referrals (Pasal 33). So retrieval failed to surface the key evidence, leading to a false negative.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+      "evaluator_rationale": "The policy explicitly defines exploitation of women and children to include practices such as prostitution, forced labor/services, slavery-like practices, and sexual abuse, which brings trafficking/exploitation victims within scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe implementation of protection for women and children from acts of violence, is carried out based on the following principles:\na. respect for Human Rights possessed by women and children;\nb. justice and gender equality;\nc. non-discrimination; and\nd. the best interests of women and children. Article 4 The purpose and objectives of implementing protection for women and children from acts of violence, include:\na. prevention of the occurrence of acts of violence against women and children;\nb. handling services, assistance and recovery for women and children who become victims of acts of violence;\nc. reunification; and\nd. empowerment of women and rehabilitation of children who become victims of acts of violence.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 28\n(1) Assistance and recovery services for women and children who are victims of acts of violence as referred to in Article 25 shall be provided to women and children who are domiciled in the Region and who experience violence within the territory of the Region.\n(2) The form of assistance and recovery services as referred to in paragraph (1) shall be implemented in the form of:\na. empowerment of women;\nb. rehabilitation of children;\nc. complaint, consultation and counseling services; and\nd. assistance services.\n(3) Provisions regarding the form and procedures for assistance and recovery services for women and children who are victims of acts of violence shall be further regulated in a Mayoral Regulation.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER V\nPROVISION OF SERVICES, ASSISTANCE AND RECOVERY FOR WOMEN AND CHILDREN WHO ARE VICTIMS OF ACTS OF VIOLENCE",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 39,
+          "text": "Part Three\nService Mechanism for Handling, Assistance and Recovery\nArticle 33 (1) PPT may receive and send case referrals from or to other service units in a networked manner.\n(2) PPT provides temporary services and protection in the form of a Safe House.\n(3) In the event that PPT does not yet have a Safe House, women and children who are victims of acts of violence shall be referred to a PPT that has a Safe House.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\n(1) Every woman and child who becomes a victim of acts of violence has the right to obtain:\na. protection;\nb. information;\nc. optimal services;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.\n(2) The Regional Government guarantees the fulfillment of the rights of women and children who become victims of acts of violence as referred to in paragraph (1).",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for or look after children as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts of neglecting a wife within the household sphere, whereas according to the law applicable to them or due to agreement or contract, he is obligated to provide livelihood, care or maintenance to his wife; and/or\nd. acts that result in economic dependence, by means of restricting and/or prohibiting the wife from working properly inside or outside the home so that the wife is under the control of her husband.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 37\nThe provision of services and assistance to women and children who are victims of acts of violence, is carried out with the principles of:\na. fast, safe and empathetic;\nb. guarantee of confidentiality;\nc. easily accessible; and\nd. free of charge.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 3,
+          "text": "FROM ACTS OF VIOLENCE IN THE CITY OF BITUNG.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bitung.\n2. Regional Government is the Mayor and regional apparatus as elements of the Regional government administration.\n3. Mayor is the Mayor of Bitung.\n4. Regional House of Representatives, hereinafter abbreviated as DPRD is the DPRD of the City of Bitung.\n5. Agency is the Agency that administers government affairs in the field of women's empowerment and child protection of the Region.\n6. Woman is a person who has the female sex from birth or based on a court determination who is over 18 years of age.\n7. Child is a person who is not yet 18 (eighteen) years of age, including a child in the womb.\n8. Act of violence is any act that results in misery or suffering physically, psychologically, sexually and/or neglect, including threats to commit acts, coercion, or unlawful deprivation of liberty.\n9. Victim of violence is a woman and child who experiences misery and/or suffering, either directly or indirectly as a result of acts of violence.\n10. Protection of women and children from acts of violence is action, deed, activity that includes prevention of the occurrence of acts of violence against women and children, handling services, assistance, recovery, reunification, empowerment of women and rehabilitation of child victims of acts of violence, carried out by the Regional Government, parents, husband, family or community, including therein is the Integrated Service Center.\n11. Prevention is the process, method, act to prevent the occurrence of acts of violence against women and children.\n12. Handling is the process, method, act to handle women and child victims as a result of acts of violence.\n13. Assistance and recovery is all activities in order to assist and restore the physical, psychological condition and health disorders of women and child victims of acts of violence.\n14. Reunification is an activity in order to reunite women and child victims of acts of violence with parents and/or family.\n15. Empowerment is the process, method and act to empower women victims of acts of violence.\n16. Rehabilitation is recovery from disturbances to physical, psychological, and social conditions so that child victims of acts of violence can carry out their roles again properly both in the family and in society.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife or husband and wife and their child or father and his child or mother and her child or blood relatives in a straight line upward or downward up to the third degree.\n19. Parent/guardian is biological father and/or mother or step father and/or mother or adoptive father and/or mother or guardian based on the provisions of laws and regulations.\n20. Integrated Service Center, hereinafter abbreviated as PPT is various institutions that provide services for victims of violence, such as the Integrated Service Center for Women and Children Empowerment, Safe House, Child Social Protection House, Trauma Centre Protection House, Women's Social Protection House, Shelter House and the like.\n21. Regional Action Plan, hereinafter abbreviated as RAD is the foundation and guideline for related regional apparatus, vertical agencies and the community in order to carry out activities for the implementation of prevention and protection of women and child victims of acts of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nThe scope of this regional regulation includes:\na. acts of violence;\nb. implementation of protection;\nc. implementation of prevention of acts of violence against women and children;\nd. implementation of services, assistance and recovery for women and children who are victims of acts of violence;\ne. institutional matters;\nf. reunification;\ng. empowerment and rehabilitation;\nh. guidance and supervision; and\ni. financing.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The judge treated the definition of “eksploitasi” in Pasal 10 (including prostitution, forced labor/services, slavery-like practices, etc.) as equivalent to an explicit trafficking-victims/intersectional provision. But the Indonesian regulation does not specifically mention “perdagangan orang” (trafficking) victims as a distinct group needing tailored measures; it only defines forms of violence/exploitation within its general scope. Mentioning exploitation behaviors that can overlap with trafficking is not the same as explicitly addressing trafficking victims as a targeted/recognized victim category for special consideration. Thus the judge over-inferred from general exploitation language, producing a false positive.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Legal process involvement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. legal services to assist women and children who are victims of acts of violence in undergoing legal processes; and",
+      "evaluator_rationale": "The policy includes legal services to assist women (and children) victims of violence in undergoing legal processes, which constitutes explicit provision of services related to engagement with the legal process.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Second Part\nProtection of Women and Children from Acts of Violence Article 16 (1) The implementation of protection of women from acts of violence is carried out through activities:\na. prevention of acts of violence;\nb. assistance and recovery services for women who are victims of acts of violence;\nc. reunification; and\nd. empowerment of women who are victims of acts of violence.\n(2) The implementation of protection of children from acts of violence is carried out through activities:\na. prevention of acts of violence;\nb. handling services for children who are victims of acts of violence;\nc. reunification; and\nd. rehabilitation of children who are victims of acts of violence.\n(3) The implementation of protection as referred to in paragraph (1) and paragraph (2) is carried out by the Regional Government through the Agency.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER V\nPROVISION OF SERVICES, ASSISTANCE AND RECOVERY FOR WOMEN AND CHILDREN WHO ARE VICTIMS OF ACTS OF VIOLENCE",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 9\nNeglect as referred to in Article 5 paragraph (2) letter d is caused by:\na. acts that result in the failure to fulfill the needs of children properly, whether physical, mental, spiritual or social, committed by parents, guardians or other parties responsible for care;\nb. acts of deliberately neglecting to maintain, care for or look after children as appropriate, committed by parents, guardians or any other party responsible for their care;\nc. acts of neglecting a wife within the household sphere, whereas according to the law applicable to them or due to agreement or contract, he is obligated to provide livelihood, care or maintenance to his wife; and/or\nd. acts that result in economic dependence, by means of restricting and/or prohibiting the wife from working properly inside or outside the home so that the wife is under the control of her husband.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 37\nThe provision of services and assistance to women and children who are victims of acts of violence, is carried out with the principles of:\na. fast, safe and empathetic;\nb. guarantee of confidentiality;\nc. easily accessible; and\nd. free of charge.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 10\nExploitation as referred to in Article 5 paragraph (2) letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts without the consent of women and children who become victims of exploitation, including but not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits, whether physical/material in nature or non-physical/non-material in nature; and/or\nc. all forms of utilization of sexual organs or other body organs of women and children who become victims of exploitation to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\n(1) Every woman and child who becomes a victim of acts of violence has the right to obtain:\na. protection;\nb. information;\nc. optimal services;\nd. continuous handling up to the rehabilitation stage;\ne. confidential handling;\nf. psychological and legal assistance; and\ng. guarantee of rights related to status as a family member as well as a community member.\n(2) The Regional Government guarantees the fulfillment of the rights of women and children who become victims of acts of violence as referred to in paragraph (1).",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 39,
+          "text": "Part Three\nService Mechanism for Handling, Assistance and Recovery\nArticle 33 (1) PPT may receive and send case referrals from or to other service units in a networked manner.\n(2) PPT provides temporary services and protection in the form of a Safe House.\n(3) In the event that PPT does not yet have a Safe House, women and children who are victims of acts of violence shall be referred to a PPT that has a Safe House.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe implementation of protection for women and children from acts of violence, is carried out based on the following principles:\na. respect for Human Rights possessed by women and children;\nb. justice and gender equality;\nc. non-discrimination; and\nd. the best interests of women and children. Article 4 The purpose and objectives of implementing protection for women and children from acts of violence, include:\na. prevention of the occurrence of acts of violence against women and children;\nb. handling services, assistance and recovery for women and children who become victims of acts of violence;\nc. reunification; and\nd. empowerment of women and rehabilitation of children who become victims of acts of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 45\n(1) Regional Governments may provide financial assistance to community organizations, social organizations or non-governmental organizations and universities that carry out protection of women and children who are victims of acts of violence.\n(2) Financial assistance as referred to in paragraph (1) shall be adjusted to the financial capacity of the Region and implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 34\nForms of PPT services for women and children who are victims of acts of violence, include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of women and children who are victims of acts of violence carried out by medical personnel and paramedics;\nb. medical services for the purposes of evidence in the legal field;\nc. psychosocial services;\nd. legal services to assist women and children who are victims of acts of violence in undergoing legal processes; and\ne. economic independence services in the form of skills training and providing economic access so that women and children who are victims of acts of violence can be independent.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The cited Indonesian provision (Pasal 34 huruf d: “pelayanan hukum untuk membantu perempuan dan anak … dalam menjalani proses hukum”) is a general service component for all women/child victims, not an intersectional measure about legal-process involvement for a specific subgroup (as implied by the ‘intersectional_approach’ dimension and the golden label being No). The judge appears to have answered a different question (whether any legal assistance exists) rather than whether the policy includes an intersectional/legal-process-involvement provision as a targeted approach. Since the regulation broadly provides legal services but does not frame this as an intersectional provision, the judge’s Yes is an overbroad interpretation, hence a false positive.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_UTARA_BITUNG_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.520280+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

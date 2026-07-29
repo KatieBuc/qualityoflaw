@@ -1,0 +1,606 @@
+{
+  "diagnoses": {
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text mentions economic exploitation and neglect (primarily in relation to children) and notes victims may suffer economic loss, it does not explicitly frame economic violence/economic exploitation/domestic neglect as a form of violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe Duties of Regional Government in the Implementation of Women's Protection include: - a. formulation of strategic plans for Women's Protection long-term, medium-term, and short-term as an integrated part of the Development Planning Document;\n, b. implementation and supervision of the Implementation of Women's Protection. Article 16 (1) Regional government conducts Prevention of acts of violence against women.\n(2) Prevention efforts of acts of violence against women are carried out in the form of activities which include:\na. Regional Action Plan\nb. Socialization;\nc. Seminar or workshop;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against women.",
+          "score": 0.03076923076923077
+        },
+        {
+          "chunk_id": 38,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF DONGGALA REGENCY\nNUMBER 5 OF 2014\nCONCERNING\nPROTECTION FOR WOMEN AND CHILDREN\nI. GENERAL\nThe State through the government and regional governments currently places very great attention on the existence of children. Based on their existence as the nation's future generation who are qualified and dignified, the government and regional governments are obligated to recognize the existence of children's rights in their humanity. The human rights inherent in children include basic rights as human beings, namely the Right to Life, the Right to Growth and Development, the Right to Protection and the Right to Participation. To fulfill the Right to life, children need food in sufficient quantities, healthy and nutritious, as well as optimal health access. In supporting the realization of children to grow and develop, children need various adequate educational facilities and infrastructure, development of talents and interests. In order to realize the right to protection and the right to participation, children need serious attention from various parties, both government, regional government and society.\nSpecifically regarding protection efforts from violence that threatens the safety and health of children and women must be provided from an early age. Protection is needed to prevent violence and physical, mental and sexual exploitation. For example, women and children victims of abuse, neglect, eviction and maltreatment by parents or other people. For women and children experiencing these problems, the government must provide Safe Houses and adequate budget, the role of various parties to help handle violence problems faced by women and children include social community organizations, volunteers, social workers, medical personnel, advocates and religious figures.\nThe condition of children's deterioration along with their rights and the condition of violence against women and children that frequently occurs in the region should become a common concern for all stakeholders without exception for regional governments to play a role in preventing and overcoming such deterioration and violence.\nFor the regional government of Donggala Regency in facing the universe of conditions above, various actions are taken to fulfill children's rights as well as: prevent and assist in handling acts of violence against women and children which are endeavored by establishing a Regional Regulation concerning Protection for Women and Children.",
+          "score": 0.030330882352941176
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of the protection of women and children are to:\na. provide and increase a sense of security for women and children;\nb. help prevent acts of violence against women and children;\nc. help prevent exploitation activities against women and children;\nd. provide services to women and children in facing problems;\ne. help improve the quality of life of children",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.029418126757516764
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for the protection of women and children includes:\na. Rights of Women and children;\nb. Duties and authorities\nc. Handling of acts of violence;\ne. Financing;\nf. Supervision;\ng. Community participation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nRegional governments are obligated to assist in handling acts of violence against women.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\nIn the implementation of child protection in the region, children have the right to: a. to live, grow and develop and participate reasonably in accordance with human dignity and to receive guidance and protection from violence, neglect and discrimination;\nb. to a valid birth certificate obtained and/or procured by their parents in accordance with the provisions of applicable laws and regulations; c. to worship according to their religion, to think and express themselves in accordance with their level of intelligence and age under parental guidance;\nd. to know, be raised and cared for by their own parents; e. in the event that for any reason parents cannot guarantee the growth and development of the child or the child is in a state of neglect, then the child has the right to be cared for or adopted as a foster child or adopted child by other people in accordance with the provisions of laws and regulations; f. to obtain health services and social security in accordance with physical, mental, spiritual and social needs; g. to obtain education and teaching in accordance with their abilities, interests and talents; h. to express opinions and have their opinions heard; i. to rest and utilize time to develop their talents and abilities; j. to receive protection from the family, community and Regional government against discriminatory treatment and exploitation both economically and socially, neglect, cruelty, violence, abuse, injustice and other mistreatment;\nk. to regain formal or non-formal education for children who drop out of school;\nl. to receive exclusive breast milk (Mother's Milk) as a priority;\nm. to receive guidance;\nn. to obtain other rights in accordance with the provisions of laws and regulations.",
+          "score": 0.015873015873015872
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text explicitly includes economic harm in the definition of violence/victimhood. Pasal 1 angka 16 defines a victim as someone who suffers \"kerugian ekonomi\" (economic loss) as a consequence of violence/rights violations. Also Pasal 5 huruf j mentions protection from \"eksploitasi baik secara ekonomi maupun sosial\" (economic and social exploitation) and \"penelantaran\" (neglect). The retrieved English candidates contained these same points (economic loss; economic exploitation), so a correct judge could have answered Yes for an economic-violence/economic-harm element. The judge was overly narrow by requiring an explicit label 'economic violence against women' rather than recognizing the regulation’s inclusion of economic loss/exploitation within the violence framework.",
+      "diagnosis_status": "ok"
+    },
+    "2.5": {
+      "indicator": "Training and capacity building",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences refer to socialization, seminars/workshops (as public prevention activities), and duties of various personnel, but do not explicitly require or provide training/technical guidance/capacity building for officials, implementers, or service providers.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 12,
+          "text": "Paragraph 1\nThe duties of the government in implementing Child protection",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.031099324975891997
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 23\nParagraph (1) Sufficiently clear.\nParagraph (2) The construction of Safe Houses is prioritized within the vicinity of every Sub-District Office.\nArticle 24 - Sufficiently Clear.\nArticle 25 .\nArticle 26 Sufficiently clear.\n- Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear\nParagraph (3)\nArticle 27 At the time of preparing the RAPBD the Regent allocates and proposes a budget for the purposes of implementing protection for women and children.\nSufficiently clear.",
+          "score": 0.028985507246376812
+        },
+        {
+          "chunk_id": 30,
+          "text": "CHAPTER VI\nFINANCING\nArticle 26\n(1) The costs of activities related to the implementation of protection for women and children shall be charged to the Regional Revenue and Expenditure Budget as well as other legitimate revenues in accordance with the applicable laws and regulations.\n(2) Activity expenditures sourced from the Regional Revenue and Expenditure Budget shall be budgeted in the Regional Work Unit that oversees the affairs of implementing protection for women and children in accordance with the needs and financial capacity of the Region.\n(3) The budget allocation as referred to in paragraph (1) must be budgeted by the Regent and DPRD and determined every budget year in the APBD.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 21\nRegional government assistance is in the form of budgetary support and/or goods needed by the Police in providing special rooms. Article 22 Sufficiently clear.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 18,
+          "text": "Pasal t3\n(1) The regional government conducts prevention \"\": T-?1t:l\"Otransplantation of children's body organs to other Parties and acts of violence against children.\n(2) Prevention efforts *0\"n\"'#ij;;;;t'\"0 o\"o\" \"v\"r 1i1 are determined by forms of activities which include:\na. Early detection and intervention;\nb. Socialization and education;\nc. Seminars or workshops;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against children.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\nReligious counselors as referred to in Article 19 paragraph (1) letter d have the duty to (1) provide spiritual guidance or strengthening of faith and piety to victims. (2) In addition to providing spiritual guidance, religious counselors are obligated to provide explanation regarding the rights and obligations of victims.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian regulation, prevention activities include \"sosialisasi dan edukasi\" and \"seminar atau lokakarya\" (Pasal 13(2) for children; Pasal 16(2) for women). However, these are framed as public awareness/prevention activities, not as mandatory training/capacity building for implementers/service providers (e.g., police, health workers, social workers) and there is no clear provision on technical training (pelatihan/bimtek/peningkatan kapasitas) for officials. The retrieved English passages reflect this same content. Therefore the judge’s No is consistent with the text, suggesting the golden label Yes is likely incorrect for a 'training and capacity building' indicator.",
+      "diagnosis_status": "ok"
+    },
+    "3.2": {
+      "indicator": "Police specialised service unit",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The text mentions providing special rooms for victims at police agencies, but it does not establish or describe a specialised police service unit for VAW within police offices.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 23\n(1) Regional governments are obligated to prepare Safe Houses to be used in temporary handling for victims of violence against women and children.\n(2) Safe Houses as referred to in paragraph (2) shall be provided in every Sub-district.",
+          "score": 0.03055037313432836
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 24\nAdvocates as referred to in Article 19 paragraph (1) letter c assist (1) in providing legal services for victims or providing legal consultation in the form of information regarding the rights of victims and the judicial process;\nAdvocates are obligated to accompany and/or represent victims at the investigation level, (2) prosecution, and examination in court proceedings and assist victims to comprehensively describe the violence they have experienced.\nInformation on violence from victims that is personal in nature must be kept confidential by (3) advocates.\nAdvocates may coordinate with fellow law enforcers, volunteer (3) companions, and social workers so that the judicial process proceeds as it should.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nRegional governments are obligated to assist in handling acts of violence against women.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 23\nParagraph (1) Sufficiently clear.\nParagraph (2) The construction of Safe Houses is prioritized within the vicinity of every Sub-District Office.\nArticle 24 - Sufficiently Clear.\nArticle 25 .\nArticle 26 Sufficiently clear.\n- Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear\nParagraph (3)\nArticle 27 At the time of preparing the RAPBD the Regent allocates and proposes a budget for the purposes of implementing protection for women and children.\nSufficiently clear.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of the protection of women and children are to:\na. provide and increase a sense of security for women and children;\nb. help prevent acts of violence against women and children;\nc. help prevent exploitation activities against women and children;\nd. provide services to women and children in facing problems;\ne. help improve the quality of life of children",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nRegional governments are obligated to assist in handling acts of violence against children.\nPaiag.at 2 Government Duties in the Implementation of Women's Protection",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text requires support for \"ruangan khusus\" (special rooms) for victims at Polres/Polsek (Pasal 21) and discusses accompaniment by social workers/volunteers (Pasal 22), but it does not establish a specialised police service unit (e.g., a dedicated VAW unit) within police offices. The retrieved candidates accurately show only special rooms, not a unit. Thus the judge’s No matches the regulation, and the golden label Yes likely over-interprets 'special rooms' as a 'specialised police unit'.",
+      "diagnosis_status": "ok"
+    },
+    "3.9": {
+      "indicator": "Resocialisation services",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions various services (safe houses, counseling, coordination, health, legal, spiritual), the provided sentences do not explicitly describe resocialisation/rehabilitation/reintegration services as a service unit or program for victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nThe regional government provides special protection for children who are victims of riots or armed conflict in the form of fulfillment of basic needs consisting of clothing, shelter, housing, education, health, social, and recreation, security guarantees, and equality including special treatment for children with disabilities and children experiencing psychosocial disorders.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) The related parties with whom cooperation is carried out by the Regent as referred to in Article 14 paragraph (1) include:\na. Social community organizations, institutions or orphanages that have activities related to the protection, care, shelter, guidance, empowerment of children and/or women;\nb. Social workers or volunteers;\nc. Advocates; and\nd. Religious leaders (2) Cooperation as referred to in paragraph (1) is carried out in the form of a cooperation agreement.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VII\nSUPERVISION AND GUIDANCE\nArticle 27 (1) Supervision and guidance of the implementation of protection of women and children shall be carried out by the Regent.\n(2) Supervision and guidance activities as referred to in paragraph (1) shall be carried out on a daily basis by the Regional Work Unit responsible for child protection.\n(3) The results of supervision and guidance activities by the Regional Work Unit must be reported to the Regent.\nCHAPTER VIII",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\nReligious counselors as referred to in Article 19 paragraph (1) letter d have the duty to (1) provide spiritual guidance or strengthening of faith and piety to victims. (2) In addition to providing spiritual guidance, religious counselors are obligated to provide explanation regarding the rights and obligations of victims.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 30,
+          "text": "CHAPTER VI\nFINANCING\nArticle 26\n(1) The costs of activities related to the implementation of protection for women and children shall be charged to the Regional Revenue and Expenditure Budget as well as other legitimate revenues in accordance with the applicable laws and regulations.\n(2) Activity expenditures sourced from the Regional Revenue and Expenditure Budget shall be budgeted in the Regional Work Unit that oversees the affairs of implementing protection for women and children in accordance with the needs and financial capacity of the Region.\n(3) The budget allocation as referred to in paragraph (1) must be budgeted by the Regent and DPRD and determined every budget year in the APBD.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 23\n(1) Regional governments are obligated to prepare Safe Houses to be used in temporary handling for victims of violence against women and children.\n(2) Safe Houses as referred to in paragraph (2) shall be provided in every Sub-district.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The regulation provides services such as Rumah Aman (Pasal 23), medical services (Pasal 20), legal aid/advocacy (Pasal 24), spiritual guidance (Pasal 25), and defines \"pemulangan\" (returning the victim to family/community) in Pasal 1 angka 19. But it does not clearly set out a resocialisation/reintegration/rehabilitation service program/unit for victims (in the sense of structured social reintegration services). The retrieved passages likewise do not contain explicit resocialisation provisions. Therefore the judge’s No is consistent with the Indonesian text, implying the golden label Yes is likely wrong or based on a broader interpretation than the document supports.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. financial support to meet the needs of victims according to the community's capacity;",
+      "evaluator_rationale": "The policy includes provision of financial support to meet victims’ needs (as a form of assistance), which constitutes economic support.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 30,
+          "text": "CHAPTER VI\nFINANCING\nArticle 26\n(1) The costs of activities related to the implementation of protection for women and children shall be charged to the Regional Revenue and Expenditure Budget as well as other legitimate revenues in accordance with the applicable laws and regulations.\n(2) Activity expenditures sourced from the Regional Revenue and Expenditure Budget shall be budgeted in the Regional Work Unit that oversees the affairs of implementing protection for women and children in accordance with the needs and financial capacity of the Region.\n(3) The budget allocation as referred to in paragraph (1) must be budgeted by the Regent and DPRD and determined every budget year in the APBD.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) The related parties with whom cooperation is carried out by the Regent as referred to in Article 14 paragraph (1) include:\na. Social community organizations, institutions or orphanages that have activities related to the protection, care, shelter, guidance, empowerment of children and/or women;\nb. Social workers or volunteers;\nc. Advocates; and\nd. Religious leaders (2) Cooperation as referred to in paragraph (1) is carried out in the form of a cooperation agreement.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 21\nRegional government assistance is in the form of budgetary support and/or goods needed by the Police in providing special rooms. Article 22 Sufficiently clear.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 32,
+          "text": ": COMMUNITY PARTICIPATION\nArticle 28\n(1) The community has the right to obtain the widest possible opportunity to participate in assisting/supporting efforts for the protection of women and children. (2) Community participation as referred to in paragraph (1) is carried out by individuals, child protection institutions, social community institutions, non-governmental organizations, educational institutions, religious institutions, business entities, and mass media.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VII\nSUPERVISION AND GUIDANCE\nArticle 27 (1) Supervision and guidance of the implementation of protection of women and children shall be carried out by the Regent.\n(2) Supervision and guidance activities as referred to in paragraph (1) shall be carried out on a daily basis by the Regional Work Unit responsible for child protection.\n(3) The results of supervision and guidance activities by the Regional Work Unit must be reported to the Regent.\nCHAPTER VIII",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 6\nIn the implementation of protection of women in the region, women have the right to:\na. basic needs;\no. comfort;\nd. security;\ne. maximum health services in facing acts of violence;\nf. assistance services, legal aid and spiritual guidance in facing acts of violence; and\ng. confidentiality regarding the problems faced.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text in Pasal 29(3) indeed mentions community assistance including \"dukungan dana\" (financial support) for victims and financial assistance/facilities to support government implementation. That is an economic support measure. Since the judge relied on this correctly, the disagreement suggests the golden label No is likely incorrect (unless the indicator definition narrowly requires government-provided economic support rather than community-provided support; the document still explicitly provides for financial support as a service/assistance mechanism).",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Paragraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.",
+      "evaluator_rationale": "The policy includes socialization activities that explain women's rights and the implications of violations of women's rights to the community, which constitutes primary prevention education/awareness raising about women's rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe Duties of Regional Government in the Implementation of Women's Protection include: - a. formulation of strategic plans for Women's Protection long-term, medium-term, and short-term as an integrated part of the Development Planning Document;\n, b. implementation and supervision of the Implementation of Women's Protection. Article 16 (1) Regional government conducts Prevention of acts of violence against women.\n(2) Prevention efforts of acts of violence against women are carried out in the form of activities which include:\na. Regional Action Plan\nb. Socialization;\nc. Seminar or workshop;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against women.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 18,
+          "text": "Pasal t3\n(1) The regional government conducts prevention \"\": T-?1t:l\"Otransplantation of children's body organs to other Parties and acts of violence against children.\n(2) Prevention efforts *0\"n\"'#ij;;;;t'\"0 o\"o\" \"v\"r 1i1 are determined by forms of activities which include:\na. Early detection and intervention;\nb. Socialization and education;\nc. Seminars or workshops;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against children.",
+          "score": 0.03200204813108039
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.029857397504456328
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of the protection of women and children are to:\na. provide and increase a sense of security for women and children;\nb. help prevent acts of violence against women and children;\nc. help prevent exploitation activities against women and children;\nd. provide services to women and children in facing problems;\ne. help improve the quality of life of children",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for the protection of women and children includes:\na. Rights of Women and children;\nb. Duties and authorities\nc. Handling of acts of violence;\ne. Financing;\nf. Supervision;\ng. Community participation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nThe regional government provides special protection for children who are victims of riots or armed conflict in the form of fulfillment of basic needs consisting of clothing, shelter, housing, education, health, social, and recreation, security guarantees, and equality including special treatment for children with disabilities and children experiencing psychosocial disorders.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 9\n(1) Regional governments provide facilities and organize comprehensive health efforts for children, so that every child obtains optimal health status from the womb through community health centers and hospitals.\n(2) Comprehensive health efforts as referred to in paragraph (1) include promotive, preventive, curative, and rehabilitative efforts, both for basic health services and referrals.\n(3) Comprehensive health efforts as referred to in paragraph (2) are provided free of charge for families who are unable or poor families.\n(4) Regional governments implement activities to support the provision of breastmilk to infants.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian elucidation of Pasal 16(2) huruf b states that socialization includes explanations about \"hak-hak perempuan\" (women’s rights) and implications of violations, delivered to the community. However, this is not specifically 'gender equality education' (pendidikan kesetaraan gender) as a distinct curriculum/content; it is general rights-awareness/socialization. The judge treated any women’s-rights socialization as gender-equality education. If the indicator is specifically about gender equality education, the golden label No appears plausible and the prediction Yes is an over-broad mapping; thus the issue is likely with the golden label/policy-indicator alignment rather than missing evidence. (If the indicator definition in your framework equates women’s-rights awareness with gender-equality education, then the golden label would be wrong; based on the label provided, it seems the framework expects a narrower concept.)",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Paragraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.",
+      "evaluator_rationale": "The policy describes socialization to the community that includes explanations of laws and regulations related to the protection of women, which is an information/education activity about relevant legal frameworks connected to preventing/responding to violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 18,
+          "text": "Pasal t3\n(1) The regional government conducts prevention \"\": T-?1t:l\"Otransplantation of children's body organs to other Parties and acts of violence against children.\n(2) Prevention efforts *0\"n\"'#ij;;;;t'\"0 o\"o\" \"v\"r 1i1 are determined by forms of activities which include:\na. Early detection and intervention;\nb. Socialization and education;\nc. Seminars or workshops;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against children.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe Duties of Regional Government in the Implementation of Women's Protection include: - a. formulation of strategic plans for Women's Protection long-term, medium-term, and short-term as an integrated part of the Development Planning Document;\n, b. implementation and supervision of the Implementation of Women's Protection. Article 16 (1) Regional government conducts Prevention of acts of violence against women.\n(2) Prevention efforts of acts of violence against women are carried out in the form of activities which include:\na. Regional Action Plan\nb. Socialization;\nc. Seminar or workshop;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against women.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.030536130536130537
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\nIn the implementation of child protection in the region, children have the right to: a. to live, grow and develop and participate reasonably in accordance with human dignity and to receive guidance and protection from violence, neglect and discrimination;\nb. to a valid birth certificate obtained and/or procured by their parents in accordance with the provisions of applicable laws and regulations; c. to worship according to their religion, to think and express themselves in accordance with their level of intelligence and age under parental guidance;\nd. to know, be raised and cared for by their own parents; e. in the event that for any reason parents cannot guarantee the growth and development of the child or the child is in a state of neglect, then the child has the right to be cared for or adopted as a foster child or adopted child by other people in accordance with the provisions of laws and regulations; f. to obtain health services and social security in accordance with physical, mental, spiritual and social needs; g. to obtain education and teaching in accordance with their abilities, interests and talents; h. to express opinions and have their opinions heard; i. to rest and utilize time to develop their talents and abilities; j. to receive protection from the family, community and Regional government against discriminatory treatment and exploitation both economically and socially, neglect, cruelty, violence, abuse, injustice and other mistreatment;\nk. to regain formal or non-formal education for children who drop out of school;\nl. to receive exclusive breast milk (Mother's Milk) as a priority;\nm. to receive guidance;\nn. to obtain other rights in accordance with the provisions of laws and regulations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 24\nAdvocates as referred to in Article 19 paragraph (1) letter c assist (1) in providing legal services for victims or providing legal consultation in the form of information regarding the rights of victims and the judicial process;\nAdvocates are obligated to accompany and/or represent victims at the investigation level, (2) prosecution, and examination in court proceedings and assist victims to comprehensively describe the violence they have experienced.\nInformation on violence from victims that is personal in nature must be kept confidential by (3) advocates.\nAdvocates may coordinate with fellow law enforcers, volunteer (3) companions, and social workers so that the judicial process proceeds as it should.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 10\n(1) Regional governments organize basic and secondary education for those who organize education as referred to in paragraph (1) originating from families who are unable or Regional governments are obligated to provide education costs or free education for students whose families are poor or abandoned children.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of the protection of women and children are to:\na. provide and increase a sense of security for women and children;\nb. help prevent acts of violence against women and children;\nc. help prevent exploitation activities against women and children;\nd. provide services to women and children in facing problems;\ne. help improve the quality of life of children",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian elucidation for Pasal 16(2) huruf b explicitly says socialization includes explanation of \"peraturan perundang-undangan terkait dengan perlindungan perempuan\" (laws/regulations related to women’s protection) to the community. That is direct VAW-related legal awareness content. The retrieved English passage contains this. Therefore the judge’s Yes is supported by the source text, and the golden label No is likely incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Education is carried out related to children's rights, maltreatment and violence against children.",
+      "evaluator_rationale": "The policy explicitly states that education is carried out related to maltreatment and violence against children, indicating education is used as a strategy connected to preventing violence against children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe objectives of the protection of women and children are to:\na. provide and increase a sense of security for women and children;\nb. help prevent acts of violence against women and children;\nc. help prevent exploitation activities against women and children;\nd. provide services to women and children in facing problems;\ne. help improve the quality of life of children",
+          "score": 0.03225806451612903
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 38,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF DONGGALA REGENCY\nNUMBER 5 OF 2014\nCONCERNING\nPROTECTION FOR WOMEN AND CHILDREN\nI. GENERAL\nThe State through the government and regional governments currently places very great attention on the existence of children. Based on their existence as the nation's future generation who are qualified and dignified, the government and regional governments are obligated to recognize the existence of children's rights in their humanity. The human rights inherent in children include basic rights as human beings, namely the Right to Life, the Right to Growth and Development, the Right to Protection and the Right to Participation. To fulfill the Right to life, children need food in sufficient quantities, healthy and nutritious, as well as optimal health access. In supporting the realization of children to grow and develop, children need various adequate educational facilities and infrastructure, development of talents and interests. In order to realize the right to protection and the right to participation, children need serious attention from various parties, both government, regional government and society.\nSpecifically regarding protection efforts from violence that threatens the safety and health of children and women must be provided from an early age. Protection is needed to prevent violence and physical, mental and sexual exploitation. For example, women and children victims of abuse, neglect, eviction and maltreatment by parents or other people. For women and children experiencing these problems, the government must provide Safe Houses and adequate budget, the role of various parties to help handle violence problems faced by women and children include social community organizations, volunteers, social workers, medical personnel, advocates and religious figures.\nThe condition of children's deterioration along with their rights and the condition of violence against women and children that frequently occurs in the region should become a common concern for all stakeholders without exception for regional governments to play a role in preventing and overcoming such deterioration and violence.\nFor the regional government of Donggala Regency in facing the universe of conditions above, various actions are taken to fulfill children's rights as well as: prevent and assist in handling acts of violence against women and children which are endeavored by establishing a Regional Regulation concerning Protection for Women and Children.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe Duties of Regional Government in the Implementation of Women's Protection include: - a. formulation of strategic plans for Women's Protection long-term, medium-term, and short-term as an integrated part of the Development Planning Document;\n, b. implementation and supervision of the Implementation of Women's Protection. Article 16 (1) Regional government conducts Prevention of acts of violence against women.\n(2) Prevention efforts of acts of violence against women are carried out in the form of activities which include:\na. Regional Action Plan\nb. Socialization;\nc. Seminar or workshop;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against women.",
+          "score": 0.03125
+        },
+        {
+          "chunk_id": 18,
+          "text": "Pasal t3\n(1) The regional government conducts prevention \"\": T-?1t:l\"Otransplantation of children's body organs to other Parties and acts of violence against children.\n(2) Prevention efforts *0\"n\"'#ij;;;;t'\"0 o\"o\" \"v\"r 1i1 are determined by forms of activities which include:\na. Early detection and intervention;\nb. Socialization and education;\nc. Seminars or workshops;\nd. Preparation of an effective information system;\ne. Cooperation with institutions that have activities in the prevention of acts of violence against children.",
+          "score": 0.030303030303030304
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 29\n(1) Forms of community participation may include:\na. Supervision; or\nb. Provision of assistance;\n(2) Community supervision includes activities:\na. observing or viewing conditions of the fulfillment of women's and children's rights; and b. providing information on any conditions that tend to lead to acts of violence against women and children to police officers and/or local government.\n(3) Provision of assistance as referred to in paragraph (1) letter b in the form of: a. securing or temporary shelter for victims;\nb. financial support to meet the needs of victims according to the community's capacity;\nc. Financial assistance and/or facilities to local government in supporting the implementation of protection of women and children.",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle I\nIn this Regional Regulation, what is meant by:\n1. Bupati is the Bupati of Donggala.\n2. Regional People's Representative Council hereinafter abbreviated as DPRD, is the regional people's representative institution of Donggala Regency as an element of regional government administration.\n3. Regional Government is the Bupati of Donggala and Regional Apparatus as elements of regional government administration.\n4. Regional Apparatus Work Unit hereinafter abbreviated as SKPD, is the regional apparatus work unit of Donggala Regency that handles the interests of women and children.\n5. Regional Apparatus Work Unit hereinafter abbreviated as UKPD, is the apparatus work unit located within the SKPD of Donggala Regency.\n6. Child is a person who has not reached 18 years of age, including a child who is still in the womb and a person recognized by law.\n7. Woman is a human being of female sex and a person recognized by law.\n8. Prevention is an activity carried out to prevent the occurrence of acts of violence against women and children.\n9. Protection is all actions and services to fulfill rights, as well as to guarantee and protect the rights of victims of acts of violence.\n10. Child protection is all efforts to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, and receive protection from violence and discrimination.\n11. Referral is an effort made to protect and fulfill the rights of victims of violence.\n12. Violence is any act against a person, especially women and children, that results in or may result in physical, sexual, psychological misery and suffering, neglect, including threats of certain acts, coercion or arbitrary deprivation of liberty, whether occurring in public or in private life.\n13. Physical violence is an act that results in pain, injury, or causes misery, miscarriage or fainting.\n14. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, a sense of helplessness or severe psychological suffering in a person.\n15. Sexual violence is the coercion of sexual relations, coercion of sexual relations with another person for commercial purposes and/or certain purposes.\n16. Victim of acts of violence hereinafter referred to as victim is an individual or group of people who suffer physically, mentally as well as economic loss, emotional, deprivation of fundamental rights as a consequence of an act of violation of human rights (HAM), or criminal acts and acts of violence that occur both by state apparatus or by regional government apparatus or by other persons.\n17. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy and advocacy for the empowerment and recovery of victims of violence.\n18. Assistance is activities and actions carried out by assistants during the service process.\n19. Repatriation is an effort to return victims of acts of violence to family, substitute family, or community that can provide protection and fulfill their needs.\n20. Institution is a non-governmental organization (NGO) that conducts assistance.\n21. Regional Action Plan is the foundation and guideline for related agencies and the community, in order to carry out activities for the implementation of prevention and protection of women and children victims of acts of violence.\n22. Community is individuals, families, groups, social organizations and/or community organizations.\n23. Family is a person who has a blood relationship in a straight line upward or downward and collateral line up to the third degree, or who has a marital relationship, or a person who is a dependent of women and/or children.\n24. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n25. Supervision is an activity of observing, listening, examining, reviewing, assessing the implementation of protection of women and children.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for the protection of women and children includes:\na. Rights of Women and children;\nb. Duties and authorities\nc. Handling of acts of violence;\ne. Financing;\nf. Supervision;\ng. Community participation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 10\n(1) Regional governments organize basic and secondary education for those who organize education as referred to in paragraph (1) originating from families who are unable or Regional governments are obligated to provide education costs or free education for students whose families are poor or abandoned children.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian elucidation for Pasal 13(2) (children) states \"Edukasi dilakukan terkait dengan hak-hak anak, perlakuan salah dan kekerasan pada anak\" (education is carried out regarding children’s rights, maltreatment, and violence against children). This is explicitly prevention through education/awareness. The retrieved English passage reflects this. Thus the judge’s Yes is supported by the original text, and the golden label No is likely wrong (unless the indicator is narrowly defined to require school-based education or a specific formal education program; the regulation still clearly mandates educational activities as prevention).",
+      "diagnosis_status": "ok"
+    },
+    "6.5": {
+      "indicator": "Disability",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "The regional government provides special protection for children who are victims of riots or armed conflict in the form of fulfillment of basic needs consisting of clothing, shelter, housing, education, health, social, and recreation, security guarantees, and equality including special treatment for children with disabilities and children experiencing psychosocial disorders.",
+      "evaluator_rationale": "The policy explicitly mentions special treatment for children with disabilities (and psychosocial disorders) as part of special protection measures, indicating disability-targeted protection measures are included (at least for children).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nRegional governments are obligated to assist in providing adequate special rooms for victims at Resort Police Agencies (Polres) and at every Sector Police agency.\nArticle 22 (1) Social workers or volunteer personnel as referred to in Article 19 paragraph (1) letter b are tasked with accompanying victims in facing the process of resolving acts of violence.\n(2) Social workers or volunteer personnel in addition to being tasked as referred to in paragraph (1) carry out activities including:\na. counseling or guidance to strengthen and provide a sense of security for victims;\nb. providing information regarding the rights of victims to obtain protection from the police and the establishment of protection orders from the court;\nc. escorting victims to safe houses or alternative residences; and d. conducting integrated coordination in providing services to victims with agencies or related parties needed by victims.",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 25,
+          "text": "BAB V\nHANDLING OF ACTS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 20\n(1) Regional governments are obligated to prepare medical personnel at community health centers (Puskesmas) or hospitals specifically to handle victims. (2) Medical personnel as referred to in paragraph (1) are obligated to provide complete health services to victims.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 12\nThe regional government provides special protection for children who are victims of riots or armed conflict in the form of fulfillment of basic needs consisting of clothing, shelter, housing, education, health, social, and recreation, security guarantees, and equality including special treatment for children with disabilities and children experiencing psychosocial disorders.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 23\nParagraph (1) Sufficiently clear.\nParagraph (2) The construction of Safe Houses is prioritized within the vicinity of every Sub-District Office.\nArticle 24 - Sufficiently Clear.\nArticle 25 .\nArticle 26 Sufficiently clear.\n- Paragraph (1) Sufficiently clear.\nParagraph (2) Sufficiently clear\nParagraph (3)\nArticle 27 At the time of preparing the RAPBD the Regent allocates and proposes a budget for the purposes of implementing protection for women and children.\nSufficiently clear.",
+          "score": 0.02964426877470356
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 14 Article 15 Article 16\nLetter b: Letter c: Letter d: Letter e: Sufficiently clear.\nSufficiently clear.\nParagraph (1) Early detection and intervention is carried out against potential violations of children's rights from all forms of violence, maltreatment, exploitation, neglect and discrimination.\nSocialization activities in the form of explanations regarding children's rights, implications of violations of children's rights and laws and regulations related to child protection to the community.\nSocialization can use various means or media adjusted to the material to be conveyed. Education is carried out related to children's rights, maltreatment and violence against children.\nSeminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle child protection.\nSeminars or workshops are focused on the theme \"protection of children's rights\".\npreparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nSufficiently clear Sufficiently clear.\nParagraph (2) Letter a: Sufficiently clear Letter b: Socialization activities in the form of explanations regarding children's rights, implications of violations of women's rights and laws and regulations related to the protection of women to the community.\nSocialization can use various means or media adjusted to the material to be conveyed.\nLetter c: Seminar and workshop activities can be carried out by Higher Education Institutions in Central Sulawesi, NGOs or other institutions that handle women's issues.\nSeminars or workshops are focused on the theme \"protection of women\".\nLetter d: Preparation of information systems in the form of providing data about the condition of regional children or telephone facilities, facsimile, website or other facilities for the purposes of oral reports/complaints from victims/the community.\nLetter e: Sufficiently clear",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for the protection of women and children includes:\na. Rights of Women and children;\nb. Duties and authorities\nc. Handling of acts of violence;\ne. Financing;\nf. Supervision;\ng. Community participation.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 38,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF DONGGALA REGENCY\nNUMBER 5 OF 2014\nCONCERNING\nPROTECTION FOR WOMEN AND CHILDREN\nI. GENERAL\nThe State through the government and regional governments currently places very great attention on the existence of children. Based on their existence as the nation's future generation who are qualified and dignified, the government and regional governments are obligated to recognize the existence of children's rights in their humanity. The human rights inherent in children include basic rights as human beings, namely the Right to Life, the Right to Growth and Development, the Right to Protection and the Right to Participation. To fulfill the Right to life, children need food in sufficient quantities, healthy and nutritious, as well as optimal health access. In supporting the realization of children to grow and develop, children need various adequate educational facilities and infrastructure, development of talents and interests. In order to realize the right to protection and the right to participation, children need serious attention from various parties, both government, regional government and society.\nSpecifically regarding protection efforts from violence that threatens the safety and health of children and women must be provided from an early age. Protection is needed to prevent violence and physical, mental and sexual exploitation. For example, women and children victims of abuse, neglect, eviction and maltreatment by parents or other people. For women and children experiencing these problems, the government must provide Safe Houses and adequate budget, the role of various parties to help handle violence problems faced by women and children include social community organizations, volunteers, social workers, medical personnel, advocates and religious figures.\nThe condition of children's deterioration along with their rights and the condition of violence against women and children that frequently occurs in the region should become a common concern for all stakeholders without exception for regional governments to play a role in preventing and overcoming such deterioration and violence.\nFor the regional government of Donggala Regency in facing the universe of conditions above, various actions are taken to fulfill children's rights as well as: prevent and assist in handling acts of violence against women and children which are endeavored by establishing a Regional Regulation concerning Protection for Women and Children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 6\nIn the implementation of protection of women in the region, women have the right to:\na. basic needs;\no. comfort;\nd. security;\ne. maximum health services in facing acts of violence;\nf. assistance services, legal aid and spiritual guidance in facing acts of violence; and\ng. confidentiality regarding the problems faced.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\nIn the implementation of child protection in the region, children have the right to: a. to live, grow and develop and participate reasonably in accordance with human dignity and to receive guidance and protection from violence, neglect and discrimination;\nb. to a valid birth certificate obtained and/or procured by their parents in accordance with the provisions of applicable laws and regulations; c. to worship according to their religion, to think and express themselves in accordance with their level of intelligence and age under parental guidance;\nd. to know, be raised and cared for by their own parents; e. in the event that for any reason parents cannot guarantee the growth and development of the child or the child is in a state of neglect, then the child has the right to be cared for or adopted as a foster child or adopted child by other people in accordance with the provisions of laws and regulations; f. to obtain health services and social security in accordance with physical, mental, spiritual and social needs; g. to obtain education and teaching in accordance with their abilities, interests and talents; h. to express opinions and have their opinions heard; i. to rest and utilize time to develop their talents and abilities; j. to receive protection from the family, community and Regional government against discriminatory treatment and exploitation both economically and socially, neglect, cruelty, violence, abuse, injustice and other mistreatment;\nk. to regain formal or non-formal education for children who drop out of school;\nl. to receive exclusive breast milk (Mother's Milk) as a priority;\nm. to receive guidance;\nn. to obtain other rights in accordance with the provisions of laws and regulations.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 24\nAdvocates as referred to in Article 19 paragraph (1) letter c assist (1) in providing legal services for victims or providing legal consultation in the form of information regarding the rights of victims and the judicial process;\nAdvocates are obligated to accompany and/or represent victims at the investigation level, (2) prosecution, and examination in court proceedings and assist victims to comprehensively describe the violence they have experienced.\nInformation on violence from victims that is personal in nature must be kept confidential by (3) advocates.\nAdvocates may coordinate with fellow law enforcers, volunteer (3) companions, and social workers so that the judicial process proceeds as it should.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian Pasal 12 explicitly includes \"kebutuhan khusus bagi anak yang menyandang cacat\" (special needs for children with disabilities) and children with psychosocial disorders as part of special protection measures. The retrieved English passage captures this. Therefore the judge’s Yes is supported by the original text, and the golden label No is likely incorrect (even though it is framed for children rather than women, the indicator 'Disability' is satisfied by explicit disability-targeted provisions in the policy).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_TENGAH_DONGGALA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.455670+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 9,
+  "diagnosed_count": 9
+}

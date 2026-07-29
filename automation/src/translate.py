@@ -8,12 +8,21 @@ from automation.src.chunking import (
     Chunk,
     CleanedLine,
     check_fallback_output,
+    check_structural_output,
     chunk_policy_text,
     chunk_policy_text_with_debug,
+    clean_text,
     combine_translations,
+    split_into_sections,
 )
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ChunkingConfig, ResolvedPipelineConfig, get_run_dir
+from automation.src.config_loader import (
+    ChunkingConfig,
+    ResolvedPipelineConfig,
+    get_run_dir,
+    resolve_mid_product_dir,
+    resolve_results_dir,
+)
 from automation.src.constants import SMALL_SCALE_FILES, STRUCTURE_HINT
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
@@ -52,6 +61,16 @@ def _translate_chunk(
             filename,
             chunk.section_id,
             chunk.chunk_index,
+            len(translated),
+            len(chunk.text),
+        )
+    elif chunk.type == "structural" and check_structural_output(chunk.text, translated):
+        logger.warning(
+            "[%s] structural chunk (section %d) output looks suspiciously long "
+            "(%d chars vs %d source chars) — possible hallucinated/unrelated content; "
+            "flagging for manual review.",
+            filename,
+            chunk.section_id,
             len(translated),
             len(chunk.text),
         )
@@ -120,6 +139,7 @@ def _failure_entry_from_exc(filename: str, exc: Exception) -> dict:
 def _translate_one(
     input_path: Path,
     output_path: Path,
+    cleaned_dir: Path,
     prompt_template: str,
     wrapper: AzureLLMWrapper,
 ) -> TranslateResult:
@@ -129,6 +149,8 @@ def _translate_one(
 
     try:
         source_text = input_path.read_text(encoding="utf-8")
+        cleaned_lines = clean_text(source_text)
+        _write_cleaned_text(cleaned_dir, filename, cleaned_lines)
         prompt = _build_translation_prompt(prompt_template, source_text)
         translated, usage = wrapper.complete_text(prompt)
         output_path.write_text(translated, encoding="utf-8")
@@ -168,19 +190,26 @@ def chunks_artifact_path(chunks_dir: Path, filename: str) -> Path:
     return chunks_dir / f"{Path(filename).stem}.chunks.json"
 
 
-def _write_cleaned_text_debug(
-    chunks_dir: Path,
+def _write_cleaned_text(
+    cleaned_dir: Path,
     filename: str,
     cleaned_lines: list[CleanedLine],
 ) -> None:
-    """Persist the clean (section 1) result for inspection: ``<stem>.cleaned.txt``,
-    the reflowed text after OCR-noise removal, one cleaned line per output line.
-    Only written when --keep-chunk-result is passed; purely a debugging aid.
+    """Persist the clean (section 1) result as a main-result artifact:
+    ``<stem>.cleaned.txt``, the reflowed text after OCR-noise removal. Always
+    written, for both the chunked and non-chunked translation paths.
+
+    Line breaks follow the same convention as the translated output
+    (`combine_translations`): a blank line between structural sections, a
+    single newline between lines within a section — since each section here
+    is exactly what becomes a chunk's source text for translation, the two
+    outputs stay visually consistent.
     """
-    chunks_dir.mkdir(parents=True, exist_ok=True)
+    cleaned_dir.mkdir(parents=True, exist_ok=True)
     stem = Path(filename).stem
-    cleaned_text = "\n".join(line.text for line in cleaned_lines)
-    (chunks_dir / f"{stem}.cleaned.txt").write_text(cleaned_text, encoding="utf-8")
+    sections = split_into_sections(cleaned_lines)
+    cleaned_text = "\n\n".join(sections)
+    (cleaned_dir / f"{stem}.cleaned.txt").write_text(cleaned_text, encoding="utf-8")
 
 
 def _write_chunks_artifact(
@@ -190,12 +219,12 @@ def _write_chunks_artifact(
     translations: list[str],
 ) -> None:
     """Persist chunk metadata plus each chunk's English translation as
-    ``<stem>.chunks.json`` into ``data/automation/<run_id>/chunks/``.
+    ``<stem>.chunks.json`` into ``data/automation/<run_id>/mid_product/chunks/``.
 
-    Always written when translation chunking is enabled (not gated behind
-    --keep-chunk-result) — the RAG storage step reuses these per-chunk
-    translations (and their structural boundaries decided from the source
-    language) instead of re-chunking the merged English output.
+    Always written when translation chunking is enabled — the RAG storage
+    step reuses these per-chunk translations (and their structural
+    boundaries decided from the source language) instead of re-chunking the
+    merged English output.
     """
     chunks_dir.mkdir(parents=True, exist_ok=True)
     chunks_data = [
@@ -217,12 +246,12 @@ def _write_chunks_artifact(
 def _translate_one_chunked(
     input_path: Path,
     output_path: Path,
+    cleaned_dir: Path,
     structural_template: str,
     fallback_template: str,
     wrapper: AzureLLMWrapper,
     safe_limit: int,
     chunks_dir: Path,
-    keep_cleaned_debug: bool = False,
 ) -> TranslateResult:
     """Clean -> chunk -> translate each chunk -> combine, per the chunking spec.
 
@@ -232,9 +261,9 @@ def _translate_one_chunked(
     the previous sub-chunk's tail as non-translated context.
 
     The per-chunk translations are always persisted to `chunks_dir` (see
-    `_write_chunks_artifact`) for reuse by the RAG storage step. When
-    `keep_cleaned_debug` is set (--keep-chunk-result), the cleaned section-1
-    text is also written for inspection.
+    `_write_chunks_artifact`) for reuse by the RAG storage step. The cleaned
+    section-1 text is always persisted to `cleaned_dir` as a main-result
+    artifact.
     """
     filename = input_path.name
     if not input_path.exists():
@@ -243,8 +272,7 @@ def _translate_one_chunked(
     try:
         source_text = input_path.read_text(encoding="utf-8")
         cleaned_lines, chunks = chunk_policy_text_with_debug(source_text, safe_limit=safe_limit)
-        if keep_cleaned_debug:
-            _write_cleaned_text_debug(chunks_dir, filename, cleaned_lines)
+        _write_cleaned_text(cleaned_dir, filename, cleaned_lines)
 
         translations: list[str] = []
         total_usage = {"prompt_tokens": 0, "completion_tokens": 0, "total_tokens": 0}
@@ -306,18 +334,18 @@ def run_translation_step(
     limiter: ConcurrencyLimiter,
     small_scale: bool = False,
     force: bool = False,
-    keep_chunk_result: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
-    output_dir = run_dir / "translation"
+    output_dir = resolve_results_dir(run_dir, "translation")
     output_dir.mkdir(parents=True, exist_ok=True)
+    cleaned_dir = resolve_results_dir(run_dir, "cleaned_text")
 
     prompt_template = config.translation_prompt_path.read_text(encoding="utf-8")
     chunking: ChunkingConfig = config.chunking
     fallback_template = (
         chunking.fallback_prompt_path.read_text(encoding="utf-8") if chunking.enabled else None
     )
-    chunks_dir = run_dir / "chunks"
+    chunks_dir = resolve_mid_product_dir(run_dir, "chunks")
     input_files = resolve_input_files(config.paths.input_dir, small_scale)
 
     counts = {"total": len(input_files), "succeeded": 0, "skipped": 0, "failed": 0}
@@ -340,18 +368,18 @@ def run_translation_step(
                 lambda inp=inp, out=out: _translate_one_chunked(
                     inp,
                     out,
+                    cleaned_dir,
                     prompt_template,
                     fallback_template,
                     wrapper,
                     chunking.safe_limit,
                     chunks_dir=chunks_dir,
-                    keep_cleaned_debug=keep_chunk_result,
                 )
                 for inp, out in pending
             ]
         else:
             tasks = [
-                lambda inp=inp, out=out: _translate_one(inp, out, prompt_template, wrapper)
+                lambda inp=inp, out=out: _translate_one(inp, out, cleaned_dir, prompt_template, wrapper)
                 for inp, out in pending
             ]
         results = limiter.run_parallel(tasks)

@@ -1,0 +1,469 @@
+{
+  "policy_file": "BALI_BANGLI.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-07-28T13:43:48.893510+00:00",
+  "prompt_version": "v1",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "Considering : that with the enactment of Law Number 23 Year 2002 concerning Child Protection as amended by Law Number 35 Year 2014 Concerning Amendment to Law Number 23 Year 2002 Concerning Child Protection and Law Number 24 Year 2004 concerning Elimination of Domestic Violence, it is deemed necessary to prevent and overcome violence against Women and Children through legal protection for Women and Children victims of violence;\nLaw Number 24 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);",
+      "rationale": "The policy explicitly references the elimination of domestic violence by citing the relevant national law and frames the regulation as necessary to prevent and address violence against women and children in connection with that law.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\nto Recovery of physical, psychological and sexual health services in accordance with the suffering experienced by victims of violence;",
+      "rationale": "The definition of violence explicitly includes sexual harm, and victims’ rights include access to sexual health recovery services, indicating the policy covers sexual violence.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\nto Recovery of physical, psychological and sexual health services in accordance with the suffering experienced by victims of violence;",
+      "rationale": "The policy’s definition of violence includes physical harm, and it provides for recovery of physical health services for victims, demonstrating inclusion of physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "Violence is any act that results in or causes misery and suffering whether physical, sexual, psychological including neglect, threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in public or in private life.\nto Recovery of physical, psychological and sexual health services in accordance with the suffering experienced by victims of violence;",
+      "rationale": "The policy defines violence to include psychological harm and provides for psychological health recovery services for victims, showing psychological violence is addressed.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy defines violence broadly and mentions neglect in general definitions, none of the provided sentences explicitly identify economic violence, economic exploitation, or domestic neglect as a form of violence against women specifically.",
+      "evidence_verified": null
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention early/child marriage, female genital mutilation, honour crimes, female infanticide, or other harmful practices affecting women and girls.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences discuss violence against women and children generally but do not explicitly mention femicide/feminicide or gender-related killing of women.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);",
+      "rationale": "The policy explicitly references the national law on eradication of trafficking in persons, indicating trafficking is included within the policy’s legal framework and considerations.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy references sexual health recovery and defines violence to include sexual harm, none of the candidate sentences explicitly mention sexual exploitation or sexual slavery.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences explicitly reference cyber/online/digital forms of violence, harassment, abuse, or exploitation.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "In providing protection for Women and Child Victims of Violence in the Region, the Regent may establish PPT.\nPPT as referred to in paragraph (1) may accommodate institutions/work units that provide services for victims of violence such as P2TP2A, safe houses, social protection houses for Children, trauma center protection houses, women's social protection houses, shelters and other service activities in accordance with applicable laws and regulations.\nnetwork with government or private hospitals for treatment and health recovery of victims and cooperate with witness and victim protection institutions, social protection houses or government-owned trauma centers, community, or other institutions for health recovery of victims;",
+      "rationale": "The policy provides for the Regent to establish an Integrated Service Center (PPT) and describes it as accommodating multiple service institutions/work units and networking/cooperating with hospitals and other institutions, which constitutes an institutional coordination mechanism to support protection/response services.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\nFor the implementation of services as referred to in paragraph (2), the Regional Government may utilize social protection houses and/or Safe Houses owned by the community or other social service institutions.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors in community participation and allows the Regional Government to utilize social protection/safe houses owned by the community or other social service institutions, indicating cooperation with non-government service providers.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention monitoring, evaluation, and community reporting of incidents, but they do not establish or assign responsibility for a formal system to collect, document, manage, exchange, or maintain data on cases/victims of violence.",
+      "evidence_verified": null
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles including gender equality, the provided sentences do not establish or require gender mainstreaming as an institutional mechanism for implementing women’s protection/VAW policies and programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "The Regent conducts guidance on the development of PPT.\nThe guidance as referred to in paragraph (1) includes: provision of implementation instructions;\nmentoring;",
+      "rationale": "The policy assigns the Regent a guidance role for PPT development and specifies that such guidance includes implementation instructions and mentoring, which constitutes technical guidance/capacity-building support for implementation.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "The Regional Government conducts monitoring to ensure synergy, continuity, and effectiveness of integrated measures in the implementation of policies, programs, and activities for the protection of Women and Children victims of violence.\nEvaluation of the implementation of policies, programs, and activities for the protection of Women and Children shall be conducted at the end of each fiscal year or when necessary according to needs.\nMonitoring is conducted through coordination and direct monitoring of related Regional Apparatus on a regular basis.",
+      "rationale": "The policy explicitly mandates monitoring by the Regional Government and specifies regular monitoring through coordination/direct monitoring of regional apparatus, and it requires evaluation of implementation at least annually or as needed.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "Integrated Service Center hereinafter referred to as PPT is a functional work unit that organizes integrated services for victims of acts of violence.\nIn providing protection for Women and Child Victims of Violence in the Region, the Regent may establish PPT.",
+      "rationale": "The policy defines an Integrated Service Center (PPT) as a functional work unit organizing integrated services for victims and states the Regent may establish PPT to provide protection for women and child victims of violence, indicating an integrated service unit exists/ is предусмотр for VAW (within women-and-children scope).",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While police are mentioned among parties that can provide protection, none of the provided sentences establish or describe a specialised service unit within police offices dedicated to VAW victims.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "The forms of services implemented by PPT include: complaints;\nThe MSS for Integrated Services for Women and Children Victims of Violence includes services for: handling complaints/reports of victims of violence against Women and Children;",
+      "rationale": "The policy includes complaint/report handling as a form of service delivered by the integrated service center and within minimum service standards, indicating a mechanism for receiving reports/complaints of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "Regional Government is obligated to establish a Social Protection House and/or Safe House.",
+      "rationale": "The policy obligates the Regional Government to establish a Social Protection House and/or Safe House, which constitutes a shelter/safety service unit for victims (including women victims within the women-and-children victim group).",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "Legal assistance;",
+      "rationale": "Legal assistance is explicitly listed as one of the forms of services implemented by the integrated service center (PPT), indicating a service unit provides legal assistance.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "health services for Women and Children victims of violence;",
+      "rationale": "Health services for women and children victims of violence are explicitly included in the minimum service standards for integrated services, indicating provision of health/medical services.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "to Recovery of physical, psychological and sexual health services in accordance with the suffering experienced by victims of violence;\nParagraph (2) What is meant by implementing officers or functional officers includes health workers, psychologists, psychiatrists, social workers provided by relevant agencies or institutions.",
+      "rationale": "Victims have a right to recovery of psychological health services, and implementing officers include psychologists/psychiatrists, which together indicate psychosocial/psychological support services are included.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "to spiritual guidance services; and to determine their own decisions.\ncoverage of spiritual guidance services provided by trained spiritual guidance officers for Women and Children victims of violence in integrated service units;",
+      "rationale": "The policy explicitly provides for spiritual guidance services as a victim right and includes coverage of spiritual guidance services in performance indicators, indicating faith-based/spiritual support is available.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "The Social Protection House and/or Safe House as referred to in paragraph (1) guarantees the implementation of health rehabilitation services, social rehabilitation, repatriation, and social reintegration.",
+      "rationale": "The Social Protection House/Safe House is stated to guarantee implementation of social rehabilitation and social reintegration (and related services), indicating a service unit provides resocialisation/rehabilitation-reintegration services.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention economic empowerment/support measures (e.g., skills training, financial assistance) as a service unit function or service type.",
+      "evidence_verified": null
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "conduct independent socialization of Women and Children's rights;",
+      "rationale": "The policy includes an explicit socialization/awareness activity related to women’s and children’s rights, which functions as information/education to help prevent and respond to violence against women and children.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender equality as a guiding principle and mentions socialization of women’s and children’s rights, the provided sentences do not explicitly describe primary prevention education activities specifically about gender equality and/or women’s rights (as distinct topics) beyond general rights socialization.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention reporting violence and that implementation is based on laws and regulations, but they do not describe any primary prevention activity that provides information or education about VAW laws and policies.",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text states an objective to prevent violence and mentions community responsibilities and rights socialization, but it does not explicitly identify education as a strategy to prevent violence against women or children.",
+      "evidence_verified": null
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes non-governmental organizations as actors through which community participation in protection activities is carried out, indicating engagement with NGOs/civil society in implementation.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\ncoverage of spiritual guidance services provided by trained spiritual guidance officers for Women and Children victims of violence in integrated service units;",
+      "rationale": "The policy explicitly names religious institutions as participants in community participation, and it also includes spiritual guidance services delivered by trained spiritual guidance officers as a service performance indicator, implying involvement of faith-based/spiritual actors in service delivery.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "Yes",
+      "evidence": "In providing protection to Women and Children victims of violence, the community may: establish family partners at the kelurahan/village level coordinating with Desa Pakraman;\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.\nDesa Pakraman is a customary law community unit in Bali Province that has a unified tradition and etiquette of social life of the Hindu community passed down through generations in the bond of Kahyangan Tiga or Kahyangan Desa which has a specific territory and its own assets and has the right to manage its own household;",
+      "rationale": "The policy references coordination with Desa Pakraman and defines Desa Pakraman as a customary law community unit, and it includes Desa Pakraman among the actors carrying out community participation, indicating engagement of customary/traditional institutions in protection implementation.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "community participation; and financing.",
+      "rationale": "The policy explicitly lists educational institutions among the actors through which community participation is carried out, indicating engagement of the education sector in protection-related participation.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention international organizations, international partners, or international support mechanisms for service delivery or prevention.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes mass media among the actors through which community participation is carried out, recognizing media as a stakeholder.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "In providing protection to Women and Children victims of violence, the community may: establish family partners at the kelurahan/village level coordinating with Desa Pakraman;\nCommunity participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy contains a dedicated community participation article describing actions the community may take and specifies multiple community-based actors, demonstrating explicit engagement/collaboration with community/society.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "Yes",
+      "evidence": "Community participation as referred to in paragraph (1) shall be carried out by individuals, Desa Pakraman, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+      "rationale": "The policy explicitly includes the private sector among the actors through which community participation is carried out, recognizing business/private sector as a stakeholder.",
+      "evidence_verified": true
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions describe rights and services for women and child victims of violence generally (e.g., protection orders, health recovery, safe houses, integrated services), but none of the candidate sentences mention conflict, disaster, emergency, or displacement contexts or special measures tailored to those situations.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define and address violence against women/children and list general victim services. While one sentence lists a national law on trafficking in persons in the legal basis, the excerpts do not explicitly include trafficking victims within the regulation’s scope or define trafficking/exploitation as covered harm.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "All cited text focuses on women and child victims of violence in general and on service delivery institutions/standards. There is no explicit mention of women workers/employees as a specific target group or any worker-specific protections.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts define “Woman” as an adult female and provide general protections for women and child victims of violence, but do not identify elderly women as a distinct group or provide age-specific measures.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences provide general victim rights and services and describe institutions (PPT, safe houses) but do not mention disability, accessibility, or special measures for women with disabilities/people with disabilities.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions address women and child victims of violence broadly and outline government/community responsibilities, but do not reference women heads of household/families or provide targeted measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts emphasize non-discrimination and general victim services and community participation, but do not identify minority/isolated women as a specific target group or provide tailored protections for them.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences focus on victims of violence (including legal aid for victims) and service institutions. They do not explicitly address women as suspects, defendants, perpetrators, or witnesses (other than victims) or provide protections/services for women in conflict with the law in those roles.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although “Desa Pakraman” (a customary community unit) is defined and mentioned in community participation, the excerpts do not establish special protection measures targeted at Indigenous peoples/Indigenous women/customary communities as beneficiaries; references are about coordination/participation rather than targeted protections.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited text includes repatriation and social reintegration for victims of violence, but does not mention refugees, forced displacement, asylum, or emergency displacement contexts, nor any special measures specifically for displaced/refugee populations.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The excerpts provide general protections for women and child victims of violence and describe service institutions, but do not mention domestic workers or provide occupation-specific measures.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation requires establishing social protection houses/safe houses for victims of violence, the excerpts do not identify homeless women as a target group or provide homelessness-specific protections beyond general victim sheltering.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences address women and child victims of violence and related services (including legal aid and reintegration for victims), but do not mention former inmates/correctional institutions or provide targeted measures for formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "Funds for the implementation of protection for Women and Children Victims of violence, are sourced from: regional revenue and expenditure budget; and other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly states that funding for implementation is sourced from the regional revenue and expenditure budget, which is the local government budget.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention funding from the regional revenue and expenditure budget and other legal/non-binding sources, but do not explicitly identify the national government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the candidate sentences mention international organizations, foreign governments, UN agencies, donors, or any other explicit international assistance as a funding or support source.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "Funds for the implementation of protection for Women and Children Victims of violence, are sourced from: regional revenue and expenditure budget; and other legal and non-binding sources in accordance with the provisions of laws and regulations.",
+      "rationale": "The policy explicitly includes 'other legal and non-binding sources' as a funding source, which matches the criterion of other legal sources.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer to the regional revenue and expenditure budget (local/regency level) and other legal/non-binding sources, but do not explicitly mention a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

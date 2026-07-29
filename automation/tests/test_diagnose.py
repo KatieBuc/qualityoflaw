@@ -117,7 +117,7 @@ def test_missing_error_analysis_is_noop(config, data_root):
     assert result["counts"]["discrepancies_total"] == 0
     assert result["counts"]["saved_reports"] == 0
     assert "skipped_reason" in result
-    assert not (data_root / run_id / "diagnosis").exists()
+    assert not (data_root / run_id / "results" / "diagnosis").exists()
     wrapper.complete_structured.assert_not_called()
 
 
@@ -129,12 +129,12 @@ def test_missing_rag_candidates_fails_only_that_policy(config, data_root):
 
     row_a = {**DISCREPANCY_ROW, "filename": "A.txt"}
     row_b = {**DISCREPANCY_ROW, "fullname": "Policy B", "filename": "B.txt"}
-    _write_error_analysis(run_dir / "comparison", [row_a, row_b])
-    _write_evaluation_report(run_dir / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
-    _write_evaluation_report(run_dir / "evaluation", "B.txt", {"1.1": {"id": "1.1", "included": "No"}})
+    _write_error_analysis(run_dir / "results" / "comparison", [row_a, row_b])
+    _write_evaluation_report(run_dir / "results" / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
+    _write_evaluation_report(run_dir / "results" / "evaluation", "B.txt", {"1.1": {"id": "1.1", "included": "No"}})
     # Only B has a rag_candidates file — A's is entirely missing.
     _write_candidates(
-        run_dir / "rag_candidates", "B.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
+        run_dir / "mid_product" / "rag_candidates", "B.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
     )
 
     wrapper = _make_wrapper(
@@ -149,8 +149,8 @@ def test_missing_rag_candidates_fails_only_that_policy(config, data_root):
     assert result["failed_policies"] == ["A.txt"]
     assert result["counts"]["succeeded"] == 1
     assert result["counts"]["failed"] == 1
-    assert not (run_dir / "diagnosis" / "A.json").exists()
-    assert (run_dir / "diagnosis" / "B.json").exists()
+    assert not (run_dir / "results" / "diagnosis" / "A.json").exists()
+    assert (run_dir / "results" / "diagnosis" / "B.json").exists()
 
     failures = json.loads((run_dir / "failures.json").read_text(encoding="utf-8"))
     assert failures["discrepancy_diagnosis"][0]["policy_file"] == "A.txt"
@@ -163,15 +163,15 @@ def test_unresolved_indicator_excluded_and_reported(config, data_root):
 
     row_resolvable = {**DISCREPANCY_ROW, "filename": "C.txt", "indicator_id": "1.1"}
     row_unresolved = {**DISCREPANCY_ROW, "filename": "C.txt", "indicator_id": "9.9", "indicator_value": "Unknown"}
-    _write_error_analysis(run_dir / "comparison", [row_resolvable, row_unresolved])
+    _write_error_analysis(run_dir / "results" / "comparison", [row_resolvable, row_unresolved])
     _write_evaluation_report(
-        run_dir / "evaluation",
+        run_dir / "results" / "evaluation",
         "C.txt",
         {"1.1": {"id": "1.1", "included": "No"}, "9.9": {"id": "9.9", "included": "No"}},
     )
     # rag_candidates exists but only covers "1.1" — "9.9" has no entry at all.
     _write_candidates(
-        run_dir / "rag_candidates", "C.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
+        run_dir / "mid_product" / "rag_candidates", "C.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
     )
 
     seen_prompts = []
@@ -186,7 +186,7 @@ def test_unresolved_indicator_excluded_and_reported(config, data_root):
     # Without --allow-partial: unresolved_indicators makes the whole policy incomplete.
     result = run_diagnosis_step(run_id=run_id, config=config, wrapper=wrapper, limiter=limiter, allow_partial=False)
     assert result["failed_policies"] == ["C.txt"]
-    assert not (run_dir / "diagnosis" / "C.json").exists()
+    assert not (run_dir / "results" / "diagnosis" / "C.json").exists()
     # "9.9" must never reach the LLM prompt since it has no candidates.
     assert "9.9" not in seen_prompts[0]
     assert "1.1" in seen_prompts[0]
@@ -199,14 +199,14 @@ def test_partial_report_written_with_allow_partial(config, data_root):
 
     row_1 = {**DISCREPANCY_ROW, "filename": "D.txt", "indicator_id": "1.1"}
     row_2 = {**DISCREPANCY_ROW, "filename": "D.txt", "indicator_id": "1.2", "indicator_value": "Sexual violence"}
-    _write_error_analysis(run_dir / "comparison", [row_1, row_2])
+    _write_error_analysis(run_dir / "results" / "comparison", [row_1, row_2])
     _write_evaluation_report(
-        run_dir / "evaluation",
+        run_dir / "results" / "evaluation",
         "D.txt",
         {"1.1": {"id": "1.1", "included": "No"}, "1.2": {"id": "1.2", "included": "No"}},
     )
     _write_candidates(
-        run_dir / "rag_candidates",
+        run_dir / "mid_product" / "rag_candidates",
         "D.txt",
         {
             "1.1": [{"chunk_id": 0, "text": "evidence 1", "score": 0.5}],
@@ -226,7 +226,7 @@ def test_partial_report_written_with_allow_partial(config, data_root):
 
     assert result["failed_policies"] == []
     assert result["counts"]["succeeded"] == 1
-    report_path = run_dir / "diagnosis" / "D.json"
+    report_path = run_dir / "results" / "diagnosis" / "D.json"
     assert report_path.exists()
     report = json.loads(report_path.read_text(encoding="utf-8"))
     assert report["missing_diagnoses"] == ["1.2"]
@@ -241,12 +241,12 @@ def test_run_diagnosis_step_skips_existing_report_by_default(config, data_root):
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
 
     row = {**DISCREPANCY_ROW, "filename": "A.txt"}
-    _write_error_analysis(run_dir / "comparison", [row])
-    _write_evaluation_report(run_dir / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
+    _write_error_analysis(run_dir / "results" / "comparison", [row])
+    _write_evaluation_report(run_dir / "results" / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
     _write_candidates(
-        run_dir / "rag_candidates", "A.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
+        run_dir / "mid_product" / "rag_candidates", "A.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
     )
-    diagnosis_dir = run_dir / "diagnosis"
+    diagnosis_dir = run_dir / "results" / "diagnosis"
     diagnosis_dir.mkdir(parents=True)
     (diagnosis_dir / "A.json").write_text(json.dumps({"policy_file": "A.txt", "diagnoses": {}}), encoding="utf-8")
 
@@ -266,12 +266,12 @@ def test_run_diagnosis_step_force_reruns_existing(config, data_root):
     (config.paths.input_dir / "A.txt").write_text("Teks asli A.", encoding="utf-8")
 
     row = {**DISCREPANCY_ROW, "filename": "A.txt"}
-    _write_error_analysis(run_dir / "comparison", [row])
-    _write_evaluation_report(run_dir / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
+    _write_error_analysis(run_dir / "results" / "comparison", [row])
+    _write_evaluation_report(run_dir / "results" / "evaluation", "A.txt", {"1.1": {"id": "1.1", "included": "No"}})
     _write_candidates(
-        run_dir / "rag_candidates", "A.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
+        run_dir / "mid_product" / "rag_candidates", "A.txt", {"1.1": [{"chunk_id": 0, "text": "evidence", "score": 0.5}]}
     )
-    diagnosis_dir = run_dir / "diagnosis"
+    diagnosis_dir = run_dir / "results" / "diagnosis"
     diagnosis_dir.mkdir(parents=True)
     (diagnosis_dir / "A.json").write_text(json.dumps({"policy_file": "A.txt", "diagnoses": {}}), encoding="utf-8")
 

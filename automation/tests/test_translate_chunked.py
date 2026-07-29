@@ -102,7 +102,7 @@ def test_run_translation_step_chunked_splits_translates_and_combines(
     assert wrapper.complete_text.call_count == 3
     assert result["token_usage"]["total_tokens"] == 6
 
-    out_path = data_root / run_id / "translation" / "POLICY.txt"
+    out_path = data_root / run_id / "results" / "translation" / "POLICY.txt"
     assert out_path.read_text(encoding="utf-8") == "T0\n\nT1AT1B"
 
     prompts = [call.args[0] for call in wrapper.complete_text.call_args_list]
@@ -145,10 +145,48 @@ def test_run_translation_step_chunked_logs_suspicious_fallback_output(
     assert any("suspiciously long" in record.message for record in caplog.records)
 
 
-def test_run_translation_step_chunked_keep_chunk_result_writes_artifacts(
+def test_run_translation_step_chunked_logs_suspicious_structural_output(
+    chunked_pipeline_config, data_root, caplog
+):
+    """Reproduces the real failure: a tiny structural chunk (e.g. a
+    signature-block section) whose translation balloons into an enormous,
+    unrelated amount of text — previously undetected since the suspicious-
+    output check only covered fallback chunks."""
+    run_id = "chunked_structural_hallucination"
+    input_dir = chunked_pipeline_config.paths.input_dir
+    input_dir.mkdir(parents=True)
+    # A single tiny structural section, well under safe_limit — no fallback split.
+    (input_dir / "POLICY.txt").write_text("BUPATI BLORA,\nCap Ttd.\n", encoding="utf-8")
+
+    usage = {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2}
+    wrapper = MagicMock()
+    wrapper.complete_text.return_value = ("x" * 5000, usage)
+
+    limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
+
+    with caplog.at_level(logging.WARNING):
+        run_translation_step(
+            run_id=run_id,
+            config=chunked_pipeline_config,
+            wrapper=wrapper,
+            limiter=limiter,
+            small_scale=False,
+            force=False,
+        )
+
+    assert any(
+        "structural chunk" in record.message and "suspiciously long" in record.message
+        for record in caplog.records
+    )
+
+
+def test_run_translation_step_chunked_always_writes_cleaned_text_and_chunks(
     chunked_pipeline_config, data_root
 ):
-    run_id = "chunked_keep_result"
+    """The cleaned original text (results/cleaned_text/) and chunks.json
+    (mid_product/chunks/, needed by the RAG storage step) are always written
+    when chunking is enabled — no flag required."""
+    run_id = "chunked_always_writes"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
     (input_dir / "POLICY.txt").write_text(RAW_POLICY_TEXT, encoding="utf-8")
@@ -167,18 +205,21 @@ def test_run_translation_step_chunked_keep_chunk_result_writes_artifacts(
         limiter=limiter,
         small_scale=False,
         force=False,
-        keep_chunk_result=True,
     )
 
-    chunks_dir = data_root / run_id / "chunks"
-    cleaned_path = chunks_dir / "POLICY.cleaned.txt"
-    chunks_path = chunks_dir / "POLICY.chunks.json"
+    cleaned_path = data_root / run_id / "results" / "cleaned_text" / "POLICY.cleaned.txt"
+    chunks_path = data_root / run_id / "mid_product" / "chunks" / "POLICY.chunks.json"
     assert cleaned_path.exists()
     assert chunks_path.exists()
 
     cleaned_text = cleaned_path.read_text(encoding="utf-8")
     assert "BAB I" in cleaned_text
     assert "Kalimat kedua yang cukup panjang untuk diuji juga." in cleaned_text
+    # Sections (BAB I.../Pasal 1 vs BAB II...) are separated by a blank line,
+    # matching combine_translations' section-join pattern — not a uniform
+    # single newline between every line regardless of section boundary.
+    assert "Isi pasal satu selesai.\n\nBAB II" in cleaned_text
+    assert "\n\n\n" not in cleaned_text
 
     chunks_data = json.loads(chunks_path.read_text(encoding="utf-8"))
     assert len(chunks_data) == 3
@@ -190,36 +231,3 @@ def test_run_translation_step_chunked_keep_chunk_result_writes_artifacts(
         for c in chunks_data
     )
     assert [c["translated_text"] for c in chunks_data] == translated_outputs
-
-
-def test_run_translation_step_chunked_without_keep_chunk_result_skips_cleaned_debug_only(
-    chunked_pipeline_config, data_root
-):
-    """chunks.json (needed by the RAG storage step) is always written when
-    chunking is enabled; only the .cleaned.txt debug artifact is gated behind
-    --keep-chunk-result."""
-    run_id = "chunked_no_keep_result"
-    input_dir = chunked_pipeline_config.paths.input_dir
-    input_dir.mkdir(parents=True)
-    (input_dir / "POLICY.txt").write_text(RAW_POLICY_TEXT, encoding="utf-8")
-
-    usage = {"prompt_tokens": 1, "completion_tokens": 1, "total_tokens": 2}
-    translated_outputs = ["T0", "T1A", "T1B"]
-    wrapper = MagicMock()
-    wrapper.complete_text.side_effect = [(t, usage) for t in translated_outputs]
-
-    limiter = ConcurrencyLimiter(max_workers=1, enabled=True)
-
-    run_translation_step(
-        run_id=run_id,
-        config=chunked_pipeline_config,
-        wrapper=wrapper,
-        limiter=limiter,
-        small_scale=False,
-        force=False,
-        keep_chunk_result=False,
-    )
-
-    chunks_dir = data_root / run_id / "chunks"
-    assert (chunks_dir / "POLICY.chunks.json").exists()
-    assert not (chunks_dir / "POLICY.cleaned.txt").exists()

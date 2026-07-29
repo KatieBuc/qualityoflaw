@@ -10,7 +10,13 @@ from quality_eval.run_eval_new import PolicyEvaluationResponse, finalize_and_sav
 from quality_eval.v1.criteria import CRITERIA_FILES, PROMPT_VERSION
 
 from automation.src.concurrency import ConcurrencyLimiter
-from automation.src.config_loader import ResolvedPipelineConfig, RetrievalConfig, get_run_dir
+from automation.src.config_loader import (
+    ResolvedPipelineConfig,
+    RetrievalConfig,
+    get_run_dir,
+    resolve_mid_product_dir,
+    resolve_results_dir,
+)
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
@@ -335,8 +341,9 @@ def _write_candidates_file(
     candidates_by_id: dict[str, list[RetrievedChunk]],
 ) -> None:
     """Persist the full RAG candidate list per indicator (not just the one the
-    judge cited) to `rag_candidates/<stem>.json`, so the discrepancy_diagnosis
-    step can read them later without recomputing retrieval.
+    judge cited) to `mid_product/rag_candidates/<stem>.json`, so the
+    discrepancy_diagnosis step can read them later without recomputing
+    retrieval.
     """
     rag_candidates_dir.mkdir(parents=True, exist_ok=True)
     payload = {
@@ -386,10 +393,10 @@ def run_evaluation_step(
     force: bool = False,
 ) -> dict:
     run_dir = get_run_dir(run_id)
-    policy_dir = run_dir / "translation"
-    rag_store_dir = run_dir / "rag_store"
-    output_dir = run_dir / "evaluation"
-    rag_candidates_dir = run_dir / "rag_candidates"
+    policy_dir = resolve_results_dir(run_dir, "translation")
+    rag_store_dir = resolve_mid_product_dir(run_dir, "rag_store")
+    output_dir = resolve_results_dir(run_dir, "evaluation")
+    rag_candidates_dir = resolve_mid_product_dir(run_dir, "rag_candidates")
     output_dir.mkdir(parents=True, exist_ok=True)
 
     policy_files = filter_policy_files(policy_dir, small_scale)

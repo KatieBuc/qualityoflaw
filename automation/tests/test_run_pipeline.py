@@ -371,64 +371,6 @@ def test_main_translation_only_passes_force_flag(
 
 @patch("automation.src.run_pipeline.update_metadata")
 @patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
-@patch("automation.src.run_pipeline.AzureLLMWrapper")
-@patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_translation_only_passes_keep_chunk_result_flag(
-    mock_load_config,
-    mock_wrapper,
-    mock_translate,
-    mock_init_metadata,
-    mock_update_metadata,
-    mock_config,
-    data_root,
-):
-    mock_config.chunking.enabled = True
-    mock_load_config.return_value = mock_config
-
-    with patch.object(
-        sys,
-        "argv",
-        ["run_pipeline", "--steps", "translation", "--run-id", "chunk_run", "--keep-chunk-result"],
-    ):
-        with pytest.raises(SystemExit) as exc:
-            main()
-
-    assert exc.value.code == 0
-    mock_translate.assert_called_once()
-    assert mock_translate.call_args.kwargs["keep_chunk_result"] is True
-
-
-@patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
-@patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)
-@patch("automation.src.run_pipeline.AzureLLMWrapper")
-@patch("automation.src.run_pipeline.load_pipeline_config")
-def test_main_keep_chunk_result_defaults_false(
-    mock_load_config,
-    mock_wrapper,
-    mock_translate,
-    mock_init_metadata,
-    mock_update_metadata,
-    mock_config,
-    data_root,
-):
-    mock_load_config.return_value = mock_config
-
-    with patch.object(
-        sys,
-        "argv",
-        ["run_pipeline", "--steps", "translation", "--run-id", "no_chunk_run"],
-    ):
-        with pytest.raises(SystemExit) as exc:
-            main()
-
-    assert exc.value.code == 0
-    assert mock_translate.call_args.kwargs["keep_chunk_result"] is False
-
-
-@patch("automation.src.run_pipeline.update_metadata")
-@patch("automation.src.run_pipeline.init_run_metadata")
 @patch("automation.src.run_pipeline.generate_run_id", return_value="20250101_120000")
 @patch("automation.src.run_pipeline.run_evaluation_step")
 @patch("automation.src.run_pipeline.run_translation_step", return_value=TRANSLATION_RESULT)

@@ -7,6 +7,7 @@ DEFAULT_PIPELINE_CONFIG = AUTOMATION_ROOT / "config" / "pipeline_config.yaml"
 DEFAULT_DATA_ROOT = PROJECT_ROOT / "data" / "automation"
 PROMPTS_ROOT = AUTOMATION_ROOT / "prompts"
 CHUNKING_FALLBACK_PROMPT = PROMPTS_ROOT / "translation" / "chunking" / "fallback_prompt.txt"
+DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_overwrites.yaml"
 
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",

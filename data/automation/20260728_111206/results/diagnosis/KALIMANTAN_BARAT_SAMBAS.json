@@ -1,0 +1,408 @@
+{
+  "diagnoses": {
+    "1.1": {
+      "indicator": "Domestic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences list several forms of violence (including domestic neglect) and discuss prevention and education related to elimination of domestic violence, but they do not explicitly state that the policy includes or defines domestic violence itself within the provided excerpts for this criterion.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 2\nForms of violence are:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. domestic neglect;\ne. exploitation; and\nf. other violence.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 11,
+          "text": "CHAPTER III\nRIGHTS OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\nArticle 9\nThe Rights of Women and Children from acts of violence include:\na. the right to have their dignity and worth as human beings respected;\nb. the right to health and psychological recovery from the suffering experienced as victims;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of identity;\nf. the right to restitution;\ng. the right to rehabilitation and social reintegration;\nh. the right to complaint handling;\ni. the right to obtain facilitation in the judicial process; and/or\nj. the right to assistance.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\nForms of Empowerment for children and victims of violence include the fulfillment of children's rights to:\na. education;\nb. health; and\nc. rehabilitation, repatriation and social reintegration.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) In the event that female victims of violence and children involved in acts of violence as referred to in Article 9 require continuous handling, they have the right to reside in a Shelter House or alternative residence.\n(2) Continuous handling as referred to in paragraph (1) constitutes handling at the rehabilitation stage carried out by individuals, groups or Government and non-Government institutions.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nExploitation as referred to in Article 2 letter e includes: a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nThe community and family have the following obligations and responsibilities:\na. to prevent the occurrence of violence against Women and Children;\nb. to provide information and/or report acts of violence against Women and Children to law enforcement or authorized parties;\nc. to participate in handling victims of acts of violence;\nd. to protect victims; and\ne. to provide emergency assistance.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 13\n(1) Regional Government is obligated to:\na. implement the policy on Protection of Women and Children from acts of violence established by the Government;\nb. establish policies, programs, and activities for the protection of Women and Children from acts of violence; and\nc. conduct cooperation with law enforcement apparatus, government apparatus, as well as educational institutions, health institutions, hospitals, and various non-governmental organizations concerned with Women and Children in the implementation of Protection of Women and Children from acts of violence.\n(2) Regional Government is responsible for:\na. providing support for facilities and infrastructure for the implementation of Protection of Women and Children from acts of violence; and\nb. allocating budget for the implementation of protection of Women and Children from acts of violence in accordance with regional financial capacity.\n(3) In the implementation of the obligations of Regional Government as referred to in paragraph (1) and the implementation of the responsibilities of Regional Government as referred to in paragraph (2), Regional Government shall prepare a Regional Action Plan for the Protection of Women and Children from acts of violence.\n(4) Further provisions regarding the Regional Action Plan for the protection of Women and Children from Acts of Violence as referred to in Paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 6\nHousehold neglect as referred to in Article 2 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child in a proper manner, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect Women and/or Children within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to such Women and/or Children; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of such person.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text explicitly defines domestic violence in Pasal 1 angka 9: \"Kekerasan dalam rumah tangga adalah setiap tindakan... dalam lingkup rumah tangga.\" The retrieved English candidates also include this definition (in [4.2-3]/[5.6-3]/[4.4-3], though not shown under the [1.1-*] list) and include household-scope violence via \"penelantaran rumah tangga\" (Pasal 2 huruf d; Pasal 6). Given the policy clearly includes domestic violence as a concept/definition, a correct judgment should be Yes. The judge’s rationale was overly strict/missed that the policy does include domestic violence (and even if only 'household neglect' was retrieved, the document still explicitly defines KDRT elsewhere).",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights.",
+      "evaluator_rationale": "The policy specifies critical education to build women’s awareness of their rights and explicitly lists training on gender equality and justice as a form of such education.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER VIII\nEMPOWERMENT\nArticle 24\nForms of Empowerment for Women victims of acts of violence include:\na. job training;\nb. productive economic enterprises and joint business families;\nc. capital assistance; and\nd. other activities that support Women's Empowerment",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER V\nPREVENTION\nArticle 17\n(1) Prevention efforts against violence toward Women and Children shall be carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network together with law enforcement apparatus, government apparatus, as well as educational institutions, health facilities, hospitals, various non-governmental organizations concerned with Women and Children;\nb. building community and family participation and awareness toward prevention and Protection of Women and Children from acts of violence;\nc. establishing a violence prevention system that provides a complete and easily accessible information system;\nd. conducting socialization regarding laws and regulations related to the Protection of Women and Children from acts of violence;\ne. providing critical education about the rights of Women and Children from acts of violence; and\nf. opening complaint services for the Protection of Women and Children from acts of violence.",
+          "score": 0.031746031746031744
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nExploitation as referred to in Article 2 letter e includes: a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against Women and Children as referred to in Article 17, shall be implemented by Regional Apparatus or government and non-government institutions whose fields cover:\na. empowerment of Women and Protection of Children;\nb. education;\nc. manpower;\nd. health;\ne. social affairs;\nf. mental and spiritual;\ng. peace and order;\nh. youth affairs; and\ni. community affairs.\n(2) Implementation of prevention of acts of violence as referred to in paragraph (1), shall be carried out in an integrated and continuous manner.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 11,
+          "text": "CHAPTER III\nRIGHTS OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\nArticle 9\nThe Rights of Women and Children from acts of violence include:\na. the right to have their dignity and worth as human beings respected;\nb. the right to health and psychological recovery from the suffering experienced as victims;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of identity;\nf. the right to restitution;\ng. the right to rehabilitation and social reintegration;\nh. the right to complaint handling;\ni. the right to obtain facilitation in the judicial process; and/or\nj. the right to assistance.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 23\nParagraph (1) Letter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Non-discrimination as intended protects victims from patriarchal cultural understanding which can hinder victims from having their rights protected.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sambas Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of Sambas Regency.\n3. Regent is the Regent of Sambas.\n4. Regional Apparatus is an auxiliary element of the Regent and Regional House of Representatives in the administration of government affairs that are the authority of Sambas Regency.\n5. Woman is a person who is female in gender.\n6. Child is a person who has not reached 18 years of age, including a child still in the womb.\n7. Violence against Women is any act that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against Children is any act that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n9. Domestic violence is any act of conduct against a person, especially women, that results in misery or suffering physically, sexually, psychologically and/or household neglect including threats to commit acts of coercion or unlawful deprivation of freedom within the household sphere.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs.\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Protection of Children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy, integrated for the strengthening and recovery of the victim's self from violence.\n15. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n16. Shelter House is a shelter for the safety and security of Women and Children from Acts of Violence.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, foster care, guardianship, and/or domestic workers who reside in that household.\n19. Society is individuals, families, groups, and social organizations and/or community organizations.\n20. Social rehabilitation is a process of refunctionalization and development to enable a person to be able to carry out social functions properly in community life.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IX\nCOOPERATION\nArticle 27\n(1) In order to achieve the objectives of Protection of Women and Children from acts of violence, the Regional Government may cooperate with government and non-government institutions.\n(2) Cooperation as referred to in paragraph (1) includes:\na. prevention;\nb. services;\nc. empowerment; and/or\nd. exchange of data and information;",
+          "score": 0.014925373134328358
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian regulation does include gender-equality education content. In the Penjelasan for the prevention provisions (the English candidate [4.2-61]), it states: \"Bentuk pendidikan kritis ... terdiri dari: pelatihan kesetaraan dan keadilan gender...\" This is explicit training/education on gender equality and justice. Therefore the correct label should be Yes, not No; the golden label appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. providing critical education about the rights of Women and Children from acts of violence; and\nForms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.",
+      "evaluator_rationale": "Education is explicitly included as a prevention strategy through the provision of critical education about rights from acts of violence, with specified educational content (including gender equality and justice training and legal understanding) aimed at preventing repeated victimization.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.03252247488101534
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER V\nPREVENTION\nArticle 17\n(1) Prevention efforts against violence toward Women and Children shall be carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network together with law enforcement apparatus, government apparatus, as well as educational institutions, health facilities, hospitals, various non-governmental organizations concerned with Women and Children;\nb. building community and family participation and awareness toward prevention and Protection of Women and Children from acts of violence;\nc. establishing a violence prevention system that provides a complete and easily accessible information system;\nd. conducting socialization regarding laws and regulations related to the Protection of Women and Children from acts of violence;\ne. providing critical education about the rights of Women and Children from acts of violence; and\nf. opening complaint services for the Protection of Women and Children from acts of violence.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against Women and Children as referred to in Article 17, shall be implemented by Regional Apparatus or government and non-government institutions whose fields cover:\na. empowerment of Women and Protection of Children;\nb. education;\nc. manpower;\nd. health;\ne. social affairs;\nf. mental and spiritual;\ng. peace and order;\nh. youth affairs; and\ni. community affairs.\n(2) Implementation of prevention of acts of violence as referred to in paragraph (1), shall be carried out in an integrated and continuous manner.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nThe community and family have the following obligations and responsibilities:\na. to prevent the occurrence of violence against Women and Children;\nb. to provide information and/or report acts of violence against Women and Children to law enforcement or authorized parties;\nc. to participate in handling victims of acts of violence;\nd. to protect victims; and\ne. to provide emergency assistance.",
+          "score": 0.03131881575727918
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\nForms of Empowerment for children and victims of violence include the fulfillment of children's rights to:\na. education;\nb. health; and\nc. rehabilitation, repatriation and social reintegration.",
+          "score": 0.030117753623188408
+        },
+        {
+          "chunk_id": 41,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF SAMBAS REGENCY\nNUMBER 2 OF 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nFROM ACTS OF VIOLENCE\n\nI. GENERAL\nTo prevent, protect victims, and take action against perpetrators of violence against Women and Children, the state and society are obligated to implement prevention, protection, and action against perpetrators in accordance with the philosophy of Pancasila and the 1945 Constitution of the Republic of Indonesia. The state holds the view that all forms of violence, especially violence against Women and Children, constitute violations of human rights and crimes against human dignity as well as forms of discrimination.\n\nSuch a view is based on the provisions of Article 28 of the 1945 Constitution of the Republic of Indonesia. Article 28G paragraph (1) of the 1945 Constitution of the Republic of Indonesia stipulates that \"Every person shall have the right to protection of self, family, honor, dignity, and property under his/her control, and shall have the right to a sense of security and protection from the threat of fear to do or not do something which is a human right\". Article 28H paragraph (2) of the 1945 Constitution of the Republic of Indonesia stipulates that \"Every person shall have the right to receive facilities and special treatment to obtain equal opportunities and benefits in order to achieve equality and justice\".\n\nCurrent developments show that acts of violence against Women and Children physically, psychologically, sexually, and through neglect do in fact occur, thus requiring adequate legal instruments to eliminate violence against Women and Children.\n\nThe Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1984 concerning the Elimination of All Forms of Discrimination Against Women), and is therefore obligated to comply with these provisions. Likewise, in the 1945 Constitution of the Republic of Indonesia fourth amendment, it is stated that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.\n\nIn the National Action Plan for the Elimination of Violence Against Women, it is stated that Women as mothers of the nation and successors of the nation are creatures created by Almighty God, and therefore must be protected and their honor, dignity and self-respect safeguarded in a reasonable and proportional manner, both legally, economically, politically, socially and culturally, without distinction of ethnicity, religion, race and class.\n\nRegional Governments also have the obligation to prevent, protect victims, and take action against perpetrators of violence against Women and Children. For this purpose, Regional Governments require regional regulations that can be used as instruments to realize prevention, protection and action against perpetrators of violence against Women and Children.",
+          "score": 0.029631255487269532
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sambas Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of Sambas Regency.\n3. Regent is the Regent of Sambas.\n4. Regional Apparatus is an auxiliary element of the Regent and Regional House of Representatives in the administration of government affairs that are the authority of Sambas Regency.\n5. Woman is a person who is female in gender.\n6. Child is a person who has not reached 18 years of age, including a child still in the womb.\n7. Violence against Women is any act that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against Children is any act that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n9. Domestic violence is any act of conduct against a person, especially women, that results in misery or suffering physically, sexually, psychologically and/or household neglect including threats to commit acts of coercion or unlawful deprivation of freedom within the household sphere.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs.\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Protection of Children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy, integrated for the strengthening and recovery of the victim's self from violence.\n15. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n16. Shelter House is a shelter for the safety and security of Women and Children from Acts of Violence.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, foster care, guardianship, and/or domestic workers who reside in that household.\n19. Society is individuals, families, groups, and social organizations and/or community organizations.\n20. Social rehabilitation is a process of refunctionalization and development to enable a person to be able to carry out social functions properly in community life.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER VIII\nEMPOWERMENT\nArticle 24\nForms of Empowerment for Women victims of acts of violence include:\na. job training;\nb. productive economic enterprises and joint business families;\nc. capital assistance; and\nd. other activities that support Women's Empowerment",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 11,
+          "text": "CHAPTER III\nRIGHTS OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\nArticle 9\nThe Rights of Women and Children from acts of violence include:\na. the right to have their dignity and worth as human beings respected;\nb. the right to health and psychological recovery from the suffering experienced as victims;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of identity;\nf. the right to restitution;\ng. the right to rehabilitation and social reintegration;\nh. the right to complaint handling;\ni. the right to obtain facilitation in the judicial process; and/or\nj. the right to assistance.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly includes education as a prevention strategy. Pasal 17 ayat (2) huruf e states: \"memberikan pendidikan kritis tentang hak Perempuan dan Anak dari tindak kekerasan\" and the Penjelasan further details the educational content (including gender equality training, reproductive health education, and legal education). This satisfies 'prevention through education', so the correct label should be Yes; the golden label (No) appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "5.6": {
+      "indicator": "Media engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Point d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.",
+      "evaluator_rationale": "The policy explicitly recognizes the media as a channel for prevention-related socialization by stating that socialization can be carried out through mass media and electronic media.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The community participates in the implementation of Protection for female victims and Children involved in acts of violence.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the neighborhood unit/community unit or sub-district/village level by the community;\nb. establishing a Women and Child Protection unit/section within community organizations;\nc. conducting independent socialization of the rights of Women and Children;\nd. providing first aid to victims; and\ne. reporting to Regional Apparatus or relevant authorized institutions if acts of violence occur in their environment.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sambas Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of Sambas Regency.\n3. Regent is the Regent of Sambas.\n4. Regional Apparatus is an auxiliary element of the Regent and Regional House of Representatives in the administration of government affairs that are the authority of Sambas Regency.\n5. Woman is a person who is female in gender.\n6. Child is a person who has not reached 18 years of age, including a child still in the womb.\n7. Violence against Women is any act that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against Children is any act that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n9. Domestic violence is any act of conduct against a person, especially women, that results in misery or suffering physically, sexually, psychologically and/or household neglect including threats to commit acts of coercion or unlawful deprivation of freedom within the household sphere.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs.\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Protection of Children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy, integrated for the strengthening and recovery of the victim's self from violence.\n15. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n16. Shelter House is a shelter for the safety and security of Women and Children from Acts of Violence.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, foster care, guardianship, and/or domestic workers who reside in that household.\n19. Society is individuals, families, groups, and social organizations and/or community organizations.\n20. Social rehabilitation is a process of refunctionalization and development to enable a person to be able to carry out social functions properly in community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER V\nPREVENTION\nArticle 17\n(1) Prevention efforts against violence toward Women and Children shall be carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network together with law enforcement apparatus, government apparatus, as well as educational institutions, health facilities, hospitals, various non-governmental organizations concerned with Women and Children;\nb. building community and family participation and awareness toward prevention and Protection of Women and Children from acts of violence;\nc. establishing a violence prevention system that provides a complete and easily accessible information system;\nd. conducting socialization regarding laws and regulations related to the Protection of Women and Children from acts of violence;\ne. providing critical education about the rights of Women and Children from acts of violence; and\nf. opening complaint services for the Protection of Women and Children from acts of violence.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nPhysical violence as referred to in Article 2 letter a constitutes all forms of acts that result in:\na. the victim falling ill or being seriously injured;\nb. the death of the victim; and/or\nc. causing illness or impediment to carrying out official duties or livelihood or daily activities.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IX\nCOOPERATION\nArticle 27\n(1) In order to achieve the objectives of Protection of Women and Children from acts of violence, the Regional Government may cooperate with government and non-government institutions.\n(2) Cooperation as referred to in paragraph (1) includes:\na. prevention;\nb. services;\nc. empowerment; and/or\nd. exchange of data and information;",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 6\nHousehold neglect as referred to in Article 2 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child in a proper manner, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect Women and/or Children within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to such Women and/or Children; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of such person.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against Women and Children as referred to in Article 17, shall be implemented by Regional Apparatus or government and non-government institutions whose fields cover:\na. empowerment of Women and Protection of Children;\nb. education;\nc. manpower;\nd. health;\ne. social affairs;\nf. mental and spiritual;\ng. peace and order;\nh. youth affairs; and\ni. community affairs.\n(2) Implementation of prevention of acts of violence as referred to in paragraph (1), shall be carried out in an integrated and continuous manner.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nExploitation as referred to in Article 2 letter e includes: a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The judge treated mention of using mass/electronic media for 'sosialisasi' as 'media engagement' stakeholder engagement. In the original Indonesian Penjelasan (corresponding to [5.6-61] point d), it says: \"Sosialisasi dapat dilakukan melalui media massa, media elektronik...\" This describes communication channels, not engagement/partnership with media organizations as stakeholders. If the indicator intends active engagement with media actors (journalists/media institutions) rather than merely using media as a dissemination channel, then the correct answer is No and the judge over-interpreted the text. Thus the error is the judge’s reasoning/threshold, not missing evidence.",
+      "diagnosis_status": "ok"
+    },
+    "5.8": {
+      "indicator": "Private sector engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences do not explicitly mention businesses, employers, companies, or the private sector as stakeholders in prevention, protection, or services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The community participates in the implementation of Protection for female victims and Children involved in acts of violence.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the neighborhood unit/community unit or sub-district/village level by the community;\nb. establishing a Women and Child Protection unit/section within community organizations;\nc. conducting independent socialization of the rights of Women and Children;\nd. providing first aid to victims; and\ne. reporting to Regional Apparatus or relevant authorized institutions if acts of violence occur in their environment.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sambas Regency.\n2. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of Sambas Regency.\n3. Regent is the Regent of Sambas.\n4. Regional Apparatus is an auxiliary element of the Regent and Regional House of Representatives in the administration of government affairs that are the authority of Sambas Regency.\n5. Woman is a person who is female in gender.\n6. Child is a person who has not reached 18 years of age, including a child still in the womb.\n7. Violence against Women is any act that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n8. Violence against Children is any act that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n9. Domestic violence is any act of conduct against a person, especially women, that results in misery or suffering physically, sexually, psychologically and/or household neglect including threats to commit acts of coercion or unlawful deprivation of freedom within the household sphere.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs.\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the Regional Government, police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Protection of Children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to provide assistance to victims to conduct counseling, therapy and advocacy, integrated for the strengthening and recovery of the victim's self from violence.\n15. Regional Technical Implementation Unit for the Protection of Women and Children, hereinafter abbreviated as UPTD PPA, is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n16. Shelter House is a shelter for the safety and security of Women and Children from Acts of Violence.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, foster care, guardianship, and/or domestic workers who reside in that household.\n19. Society is individuals, families, groups, and social organizations and/or community organizations.\n20. Social rehabilitation is a process of refunctionalization and development to enable a person to be able to carry out social functions properly in community life.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IX\nCOOPERATION\nArticle 27\n(1) In order to achieve the objectives of Protection of Women and Children from acts of violence, the Regional Government may cooperate with government and non-government institutions.\n(2) Cooperation as referred to in paragraph (1) includes:\na. prevention;\nb. services;\nc. empowerment; and/or\nd. exchange of data and information;",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nPhysical violence as referred to in Article 2 letter a constitutes all forms of acts that result in:\na. the victim falling ill or being seriously injured;\nb. the death of the victim; and/or\nc. causing illness or impediment to carrying out official duties or livelihood or daily activities.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "CHAPTER V\nPREVENTION\nArticle 17\n(1) Prevention efforts against violence toward Women and Children shall be carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network together with law enforcement apparatus, government apparatus, as well as educational institutions, health facilities, hospitals, various non-governmental organizations concerned with Women and Children;\nb. building community and family participation and awareness toward prevention and Protection of Women and Children from acts of violence;\nc. establishing a violence prevention system that provides a complete and easily accessible information system;\nd. conducting socialization regarding laws and regulations related to the Protection of Women and Children from acts of violence;\ne. providing critical education about the rights of Women and Children from acts of violence; and\nf. opening complaint services for the Protection of Women and Children from acts of violence.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 6\nHousehold neglect as referred to in Article 2 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child in a proper manner, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect Women and/or Children within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to such Women and/or Children; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of such person.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against Women and Children as referred to in Article 17, shall be implemented by Regional Apparatus or government and non-government institutions whose fields cover:\na. empowerment of Women and Protection of Children;\nb. education;\nc. manpower;\nd. health;\ne. social affairs;\nf. mental and spiritual;\ng. peace and order;\nh. youth affairs; and\ni. community affairs.\n(2) Implementation of prevention of acts of violence as referred to in paragraph (1), shall be carried out in an integrated and continuous manner.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nExploitation as referred to in Article 2 letter e includes: a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian Penjelasan Pasal 21 ayat (1) explicitly mentions private sector entities as non-government institutions: \"Lembaga diluar Pemerintah seperti Perusahaan Swasta...\" This supports private-sector engagement (at least as potential cooperating/implementing partners). However, none of the retrieved candidates for 5.8 include this Penjelasan about \"Perusahaan Swasta\"; they only show general cooperation with 'government and non-government institutions' (Pasal 27) without specifying private companies. Retrieval therefore missed the key passage that would justify a Yes.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others;\nb. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;",
+      "evaluator_rationale": "The policy explicitly includes exploitation of women and children (including prostitution, forced labor/services, slavery or similar practices, and other exploitative acts), which falls within trafficking/exploitation-related harms and thus brings women victims of trafficking/exploitation within scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 9,
+          "text": "Article 7\nExploitation as referred to in Article 2 letter e includes: a. actions that exploit women and children economically or sexually with the intention of benefiting oneself or others; b. actions with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or exploiting the labor or capabilities of a person by other parties to obtain benefits both material and immaterial;\nc. all forms of exploitation of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or sexual abuse.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 25\nForms of Empowerment for children and victims of violence include the fulfillment of children's rights to:\na. education;\nb. health; and\nc. rehabilitation, repatriation and social reintegration.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 11,
+          "text": "CHAPTER III\nRIGHTS OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\nArticle 9\nThe Rights of Women and Children from acts of violence include:\na. the right to have their dignity and worth as human beings respected;\nb. the right to health and psychological recovery from the suffering experienced as victims;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of identity;\nf. the right to restitution;\ng. the right to rehabilitation and social reintegration;\nh. the right to complaint handling;\ni. the right to obtain facilitation in the judicial process; and/or\nj. the right to assistance.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 20\nParagraph (1) Sufficiently clear.\nParagraph (2) Point a What is meant by \"network\" includes: family partners, dasawisma, family groups that exist in the Region.\nPoint b Prevention efforts within the family and/or closest relatives can be carried out by strengthening resilience within the household such as: practicing religious values, managing household time, and communication between family members. Prevention efforts within the community include: fostering environmental awareness of acts of violence that occur in their environment.\nPoint c What is meant by \"violence prevention system\" includes: mapping locations or areas prone to violence and conducting preventive efforts to the community.\nPoint d Socialization can be carried out through mass media, electronic media, and direct counseling to the community.\nPoint e Critical education for women victims of violence is an effort to build women's awareness about their rights. The purpose of implementing critical education is to assist in decision-making and prevent becoming victims of repeated violence. Forms of critical education for women victims of violence consist of: training on gender equality and justice, education on reproductive health for women, and providing understanding of laws and regulations on the Elimination of Domestic Violence.\nPoint f Sufficiently clear.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 23\nParagraph (1) Letter a Sufficiently clear.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Non-discrimination as intended protects victims from patriarchal cultural understanding which can hinder victims from having their rights protected.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 27,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 23\n(1) The community participates in the implementation of Protection for female victims and Children involved in acts of violence.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the neighborhood unit/community unit or sub-district/village level by the community;\nb. establishing a Women and Child Protection unit/section within community organizations;\nc. conducting independent socialization of the rights of Women and Children;\nd. providing first aid to victims; and\ne. reporting to Regional Apparatus or relevant authorized institutions if acts of violence occur in their environment.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter b What is meant by \"justice\" is a condition where every person, both men and women, are treated equally and obtain equal opportunities to gain access, as well as welfare.\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims by not making distinctions based on age, sex, race, ethnicity, religion and between groups.\nLetter d What is meant by \"the best interests of women and children\" is all best actions for women and children carried out by the Government, society, legislative bodies and judicial bodies, so that the best interests of women and children must be the primary consideration.\nLetter e What is meant by \"empowerment\" is the strengthening of women victims of violence to be able to work and operate independently after they are recovered and provided with health and social rehabilitation services.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) In the event that female victims of violence and children involved in acts of violence as referred to in Article 9 require continuous handling, they have the right to reside in a Shelter House or alternative residence.\n(2) Continuous handling as referred to in paragraph (1) constitutes handling at the rehabilitation stage carried out by individuals, groups or Government and non-Government institutions.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 8\nOther violence as referred to in Article 2 letter f includes:\na. any unlawful act in the form of speech, writing, images, symbols, or body movements, either with or without using means that cause fear or restrict a person's fundamental freedom; and/or\nb. a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 28,
+          "text": "CHAPTER VIII\nEMPOWERMENT\nArticle 24\nForms of Empowerment for Women victims of acts of violence include:\na. job training;\nb. productive economic enterprises and joint business families;\nc. capital assistance; and\nd. other activities that support Women's Empowerment",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian regulation includes exploitation as a form of violence (Pasal 2 huruf e) and defines it broadly in Pasal 7, including \"pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa\"—concepts closely aligned with trafficking/exploitation. It also cites the national anti-trafficking law in the legal basis (UU No. 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang). Given this, victims of trafficking/exploitation are within the policy’s scope of protected victims. The judge’s Yes is supported by the text; the golden label No appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_BARAT_SAMBAS.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.178680+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 6,
+  "diagnosed_count": 6
+}

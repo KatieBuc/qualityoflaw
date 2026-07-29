@@ -1,0 +1,344 @@
+{
+  "diagnoses": {
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "None of the provided sentences explicitly mention harmful practices such as early/child marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER XII\nPROTECTION OF WOMEN AND CHILDREN\nFROM VIOLENCE, TRAFFICKING AND EXPLOITATION\nArticle 39\nProtection of women and children from violence includes: a. preventing acts of violence against women and children including human trafficking;\nb. eliminating all forms of violence and exploitation against women and children;\nc. protecting from discriminatory treatment against women and children, protection from neglect and other maltreatment; d. providing services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitating and conducting mediation on domestic disputes to realize the integrity of harmonious and prosperous households.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) This Protection of Women aims to:\na. improve the quality of women's human resources towards a world-quality society;\nb. provide opportunities for women to actualize themselves, optimally utilize existing opportunities in a comprehensive integrated manner, play a role in development and enjoy the results of development;\nc. eliminate discrimination in all its forms against women and enable the realization of the principles of equal rights for women in the fields of education, health, environment, politics, law, economy, civil, and socio-culture;\nd. increase gender sensitivity, awareness and justice from all society, policy makers, decision makers, planners and law enforcers, as well as reform legal products that contain socio-cultural values and gender-responsive justice;\ne. guarantee the rights of women in Bekasi City through the empowerment and protection of women;\nf. guarantee protection for women in Bekasi City from acts of physical, psychological, sexual and economic violence;\ng. increase the role of government and institutions in society to further encourage development programs related to the protection of women;\nh. improve the welfare of women in the economic, social, political, cultural and religious fields, so that women obtain a place of justice and gender equality;\ni. increase the participation of women in regional development through participation organized by local government and non-governmental institutions.\n(2) Protection of Children aims to:\na. improve the quality of children's resources towards a world-quality society;\nb. provide a comfortable space for children during their growth and development as assets of the nation;\nc. guarantee the rights of children in Bekasi City through child protection;\nd. guarantee protection for children in Bekasi City from acts of physical, psychological, sexual and economic violence;\ne. increase the role of government and institutions in society to further encourage development programs related to child protection;\nf. improve the welfare of children through opportunities to create and be creative in the fields of art and culture;\ng. open opportunities for children to gain access to education, health, and an environment that supports the process of children's growth and development;\nh. increase the participation of children in regional development through participation carried out by the Regional Government or non-governmental institutions in accordance with the development and capabilities of children.",
+          "score": 0.031009615384615385
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The regulation of protection of women is intended to provide guidance and direction for the Regional Government and society in realizing:\na. empowerment of women;\nb. gender justice and equality;\nc. prevention and handling of acts of violence, exploitation and trafficking in persons.\n(2) The regulation of protection of children is intended to provide guidance and direction for the Regional Government and society in realizing the social welfare of children and families which includes prevention and handling of acts of violence and exploitation, maltreatment, neglect/abandonment in all situations of children's lives including children in conflict with the law and children in emergency situations.",
+          "score": 0.03057889822595705
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 5\n(1) Women's Rights include:\na. Right to obtain health services;\nb. Rights in the economic, social and political fields;\nc. Right to family allowances;\nd. Right to Bank loans and capital;\ne. Rights in recreation, sports and socio-culture;\nf. Right to participate in the field of development;\ng. Right to obtain social security;\nh. Right to obtain training and education;\ni. Right to participate in community activities;\nj. Right to obtain adequate living conditions along with facilities and infrastructure.\n(2) Guarantee of protection of women's rights includes:\na. strengthening institutional capacity of PUG for the implementation of policies, programs and activities for the protection of women's rights;\nb. provision of facilitation of women's protection services;\nc. provision of women's protection services;\nd. implementation of affirmative action for women's protection;\ne. preparation of a women's protection data system, including a data system on violence against women.\n(3) Provision of women's protection services as referred to in paragraph (1) letter c is provided for women victims of violence, including victims of human trafficking, women in conflict-prone and disaster areas, women workers, elderly women, women with disabilities, women victims of sexual exploitation, women heads of households and other vulnerable groups of women;\n(4) Provision of women's protection services as referred to in paragraph (3) includes:\na. victim identification;\nb. Legal assistance;\nc. Medical rehabilitation;\nd. Psychosocial rehabilitation;\ne. Social reintegration;\nf. Repatriation assistance;\ng. Empowerment.\n(5) Provision of women's protection services as referred to in paragraph (4), is borne by the Regional Government.",
+          "score": 0.03036576949620428
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 17\n(1) Protection for female workers includes:\na. receiving wages in accordance with applicable provisions;\nb. receiving a lactation room;\nc. receiving early childhood care facilities.\n(2) Early childhood care facilities as referred to in paragraph (1) letter c that are managed by the community must obtain a recommendation from the Regional Government.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 45\n(1) Prevention of acts of violence against women and children, trafficking and exploitation as referred to in Article 44, shall be implemented by Agencies and institutions whose duties and functions are in the fields of:\na. social;\nb. economic;\nc. health;\nd. education;\ne. manpower;\nf. women's empowerment and child protection;\ng. mental and spiritual; and\nh. security, peace and order.\n(2) Prevention of acts of violence by related Agencies and institutions as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on the Regional Action Plan.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bekasi.\n2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.\n3. Mayor is the Mayor of Bekasi.\n4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.\n5. Women are all women who are both inside and outside the household.\n6. Child is a person who has not reached the age of 18 (eighteen) years.\n7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.\n8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.\n11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.\n12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.\n13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.\n14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.\n15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.\n16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.\n17. Women as heads of households are women who bear the burden of household needs including child care.\n18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.\n19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.\n20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.\n21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.\n22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.\n23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.\n24. Right is about something that is correct, belonging, ownership, authority and power to do something.\n25. Guarantee is liability.\n26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.\n27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.\n28. Community is individuals, families, groups and/or community organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 67,
+          "text": "CHAPTER XIII\nPREVENTION OF ACTS OF VIOLENCE\nTRAFFICKING AND EXPLOITATION\nArticle 44\n(1) To prevent the occurrence of acts of violence against women and children, trafficking and exploitation, the regional government shall conduct empowerment and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement, and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern toward the prevention of women and children from acts of violence, trafficking and exploitation;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence, trafficking and exploitation.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 23,
+          "text": "BAB VI\nIMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\nPart One\nProtection of Women",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 48\nRegional Government and the community or social service institutions may establish recovery houses or safe houses.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, harmful practice of child/early marriage is explicitly addressed: Pasal 12 ayat (1) huruf b states the family/parents must “mencegah terjadinya perkawinan pada usia anak” (prevent marriage at child age). That is directly relevant to the “harmful practices” indicator. However, none of the retrieved English candidate passages include Pasal 12, so the judge did not see the key evidence (RAG retrieval failure). Additionally, the judge’s rationale was overly narrow: it claimed no mention of early/child marriage, but the policy does contain it (even though it was not retrieved).",
+      "diagnosis_status": "ok"
+    },
+    "2.4": {
+      "indicator": "Gender mainstreaming institutionalisation",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text defines gender mainstreaming (PUG) and references strengthening institutional capacity of PUG in the context of guaranteeing women’s rights, the provided sentences do not explicitly establish or require gender mainstreaming as an institutional mechanism for implementing women’s protection or VAW policies/programs.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) This Protection of Women aims to:\na. improve the quality of women's human resources towards a world-quality society;\nb. provide opportunities for women to actualize themselves, optimally utilize existing opportunities in a comprehensive integrated manner, play a role in development and enjoy the results of development;\nc. eliminate discrimination in all its forms against women and enable the realization of the principles of equal rights for women in the fields of education, health, environment, politics, law, economy, civil, and socio-culture;\nd. increase gender sensitivity, awareness and justice from all society, policy makers, decision makers, planners and law enforcers, as well as reform legal products that contain socio-cultural values and gender-responsive justice;\ne. guarantee the rights of women in Bekasi City through the empowerment and protection of women;\nf. guarantee protection for women in Bekasi City from acts of physical, psychological, sexual and economic violence;\ng. increase the role of government and institutions in society to further encourage development programs related to the protection of women;\nh. improve the welfare of women in the economic, social, political, cultural and religious fields, so that women obtain a place of justice and gender equality;\ni. increase the participation of women in regional development through participation organized by local government and non-governmental institutions.\n(2) Protection of Children aims to:\na. improve the quality of children's resources towards a world-quality society;\nb. provide a comfortable space for children during their growth and development as assets of the nation;\nc. guarantee the rights of children in Bekasi City through child protection;\nd. guarantee protection for children in Bekasi City from acts of physical, psychological, sexual and economic violence;\ne. increase the role of government and institutions in society to further encourage development programs related to child protection;\nf. improve the welfare of children through opportunities to create and be creative in the fields of art and culture;\ng. open opportunities for children to gain access to education, health, and an environment that supports the process of children's growth and development;\nh. increase the participation of children in regional development through participation carried out by the Regional Government or non-governmental institutions in accordance with the development and capabilities of children.",
+          "score": 0.03149801587301587
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 45\n(1) Prevention of acts of violence against women and children, trafficking and exploitation as referred to in Article 44, shall be implemented by Agencies and institutions whose duties and functions are in the fields of:\na. social;\nb. economic;\nc. health;\nd. education;\ne. manpower;\nf. women's empowerment and child protection;\ng. mental and spiritual; and\nh. security, peace and order.\n(2) Prevention of acts of violence by related Agencies and institutions as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on the Regional Action Plan.",
+          "score": 0.030886196246139225
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 48\nRegional Government and the community or social service institutions may establish recovery houses or safe houses.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 23,
+          "text": "BAB VI\nIMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\nPart One\nProtection of Women",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bekasi.\n2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.\n3. Mayor is the Mayor of Bekasi.\n4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.\n5. Women are all women who are both inside and outside the household.\n6. Child is a person who has not reached the age of 18 (eighteen) years.\n7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.\n8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.\n11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.\n12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.\n13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.\n14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.\n15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.\n16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.\n17. Women as heads of households are women who bear the burden of household needs including child care.\n18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.\n19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.\n20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.\n21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.\n22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.\n23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.\n24. Right is about something that is correct, belonging, ownership, authority and power to do something.\n25. Guarantee is liability.\n26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.\n27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.\n28. Community is individuals, families, groups and/or community organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 84,
+          "text": "Article 57\nThe community may conduct supervision of the implementation of protection of women and children from acts of violence organized by the Regional Government through a mechanism of conveying aspirations to the Mayor or to the DPRD.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The regulation of protection of women is intended to provide guidance and direction for the Regional Government and society in realizing:\na. empowerment of women;\nb. gender justice and equality;\nc. prevention and handling of acts of violence, exploitation and trafficking in persons.\n(2) The regulation of protection of children is intended to provide guidance and direction for the Regional Government and society in realizing the social welfare of children and families which includes prevention and handling of acts of violence and exploitation, maltreatment, neglect/abandonment in all situations of children's lives including children in conflict with the law and children in emergency situations.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 82,
+          "text": "CHAPTER XVII\nGUIDANCE AND SUPERVISION\nArticle 55\n(1) The Regional Government is obligated to conduct guidance and supervision of the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1), includes: a. guidelines and fulfillment standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2), is in order to realize the objectives of protection of women and children from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Work Unit within the Bekasi City Government that is related to the Protection of Women and children.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 41\n(1) The obligations and responsibilities of regional government as referred to in Article 40 letter a include:\na. implementing policies for the protection of women and children from acts of violence, trafficking and exploitation established by the government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence, trafficking and exploitation;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence, trafficking and exploitation;\nd. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence, trafficking and exploitation;\ne. allocating budget for the implementation of protection of women and children from acts of violence, trafficking and exploitation in accordance with regional financial capacity;\nf. fostering and supervising the implementation of protection of women and children from acts of violence, trafficking and exploitation.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1), the Mayor establishes programs and activities for action on the protection of women and children, trafficking and exploitation in one regional action plan as a basis for SKPD in implementing the protection of women and children from acts of violence, trafficking and exploitation.\n(3) The Regional Action Plan as referred to in paragraph (2) constitutes part of the Regional Medium-Term Development Plan (RPJMD).\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated by Mayor Regulation.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 6\nThe implementation of protection services for women from all forms of discriminatory actions is carried out by the Regional Government together with the community through the Integrated Service Center for Women and Children Empowerment (P2TP2A) of Bekasi City.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved passages actually contain gender mainstreaming institutionalisation content. In the original Indonesian (and reflected in the English candidates), Pasal 1 angka 13 defines Pengarusutamaan Gender (PUG) as a strategy integrating gender into planning, implementation, monitoring, and evaluation. More importantly, Pasal 5 ayat (2) huruf a states “penguatan kapasitas kelembagaan PUG untuk pelaksanaan kebijakan, program dan kegiatan perlindungan hak perempuan” (strengthening the institutional capacity of PUG for implementing policies/programs/activities protecting women’s rights). This is an explicit institutionalisation/strengthening of a gender mainstreaming mechanism. Since this evidence was in the retrieved candidates ([2.4-2] and [2.4-9] via Article 5), the judge’s “No” appears to be an overly strict reading (it demanded an ‘establish/require’ clause, but the regulation does require institutional strengthening of PUG for implementation).",
+      "diagnosis_status": "ok"
+    },
+    "3.4": {
+      "indicator": "Safety / protection shelter",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the broader policy context discusses services for victims, the provided candidate sentences for this criterion do not mention recovery houses or safe houses or any shelter service unit.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 82,
+          "text": "CHAPTER XVII\nGUIDANCE AND SUPERVISION\nArticle 55\n(1) The Regional Government is obligated to conduct guidance and supervision of the implementation of protection of women and children.\n(2) Guidance as referred to in paragraph (1), includes: a. guidelines and fulfillment standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2), is in order to realize the objectives of protection of women and children from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Work Unit within the Bekasi City Government that is related to the Protection of Women and children.",
+          "score": 0.032018442622950824
+        },
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER XII\nPROTECTION OF WOMEN AND CHILDREN\nFROM VIOLENCE, TRAFFICKING AND EXPLOITATION\nArticle 39\nProtection of women and children from violence includes: a. preventing acts of violence against women and children including human trafficking;\nb. eliminating all forms of violence and exploitation against women and children;\nc. protecting from discriminatory treatment against women and children, protection from neglect and other maltreatment; d. providing services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitating and conducting mediation on domestic disputes to realize the integrity of harmonious and prosperous households.",
+          "score": 0.0315136476426799
+        },
+        {
+          "chunk_id": 69,
+          "text": "CHAPTER XIV\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nTRAFFICKING AND EXPLOITATION\nArticle 46\n(1) Forms of services provided to women and children victims of acts of violence, trafficking and exploitation are as follows:\na. complaint services;\nb. health services;\nc. legal aid;\nd. repatriation;\ne. rehabilitation, social reintegration, and medicolegal;\nf. identification services; and\ng. psychological services.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the government and implemented by SKPD and institutions whose duties and functions are in the fields of:\na. social;\nb. health;\nc. women's empowerment and child protection;\nd. mental and spiritual.\n(3) In carrying out duties and functions as referred to in paragraph (1), the regional government cooperates with government agencies, other regional governments and the community.\n(4) Further provisions regarding procedures for services handling women and children from acts of violence, trafficking and exploitation as referred to in paragraph (1), paragraph (2), and paragraph (3) shall be regulated by Mayor Regulation.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 45\n(1) Prevention of acts of violence against women and children, trafficking and exploitation as referred to in Article 44, shall be implemented by Agencies and institutions whose duties and functions are in the fields of:\na. social;\nb. economic;\nc. health;\nd. education;\ne. manpower;\nf. women's empowerment and child protection;\ng. mental and spiritual; and\nh. security, peace and order.\n(2) Prevention of acts of violence by related Agencies and institutions as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on the Regional Action Plan.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 53\n(1) In order to achieve the objectives of protecting women and children from acts of violence as referred to in Article 4, the Regional Government cooperates with:\na. the government;\nb. other provinces;\nc. regencies/cities;\nd. non-governmental institutions.\n(2) Cooperation as referred to in paragraph (1) includes:\na. exchange of data and information;\nb. rehabilitation of victims of acts of violence;\nc. repatriation and social reintegration;\nd. provision of evidence and witnesses.\n(3) Cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bekasi.\n2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.\n3. Mayor is the Mayor of Bekasi.\n4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.\n5. Women are all women who are both inside and outside the household.\n6. Child is a person who has not reached the age of 18 (eighteen) years.\n7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.\n8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.\n11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.\n12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.\n13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.\n14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.\n15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.\n16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.\n17. Women as heads of households are women who bear the burden of household needs including child care.\n18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.\n19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.\n20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.\n21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.\n22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.\n23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.\n24. Right is about something that is correct, belonging, ownership, authority and power to do something.\n25. Guarantee is liability.\n26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.\n27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.\n28. Community is individuals, families, groups and/or community organizations.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 56,
+          "text": "CHAPTER IX\nPROTECTION OF CHILD WORKERS\nArticle 35\n(1) Regional Government and society as well as the business sector are obligated to provide protection to Child Workers.\n(2) Protection of Child Workers is implemented in accordance with Law Number 13 Year 2003 concerning Manpower.\n(3) Protection of Child Workers aims to:\na. prevent all forms of exploitation, discrimination, harassment and violence against children;\nb. protect children from activities that disrupt the growth and development process of children both physically, mentally, morally and intellectually as well as children's health.\n(4) protection efforts for Child Workers as referred to in paragraph (2) include:\na. education on children's rights;\nb. social assistance;\nc. social advocacy\nd. legal assistance\ne. psychological, medical and legal service assistance for informal sector Child Workers who are victims of exploitation, discrimination, harassment, and violence;\nf. family empowerment through skills training; g. provision of non-formal education and training for Child Workers for children who do not continue formal education to higher levels;\nh. the government is obligated to formulate policies regarding requirements for those who employ children in order to protect children from wrongful treatment.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 29\n(1) Regional Government is obligated to:\na. provide proper facilities and infrastructure in the teaching and learning process;\nb. facilitate education both formal and informal organized by the government.\n(2) There shall be no discrimination in Education against Children based on gender.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 54\n(1) Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence.\n(2) Partnerships as referred to in paragraph (1) are conducted through:\na. notification of employment opportunity information for women victims of acts of violence;\nb. education and training for women and children victims of acts of violence;\nc. educational assistance for women and children victims of acts of violence who have been withdrawn from their education; and\nd. fostering and increasing economic independence of women victims of acts of violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 42\n(1) The obligations and responsibilities of the community as referred to in Article 40 letter b shall be implemented in the form of community participation.\n(2) The forms of community participation as referred to in paragraph (1) include:\na. preventing the occurrence of acts of violence against women and children, trafficking and exploitation;\nb. providing information and/or reporting acts of violence against women and children, trafficking and exploitation to law enforcement or authorized parties;\nc. participating in the handling of victims of acts of violence, trafficking and exploitation.\n(3) The forms of community participation as referred to in paragraph (2) shall be implemented responsibly in accordance with the provisions of laws and regulations.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text clearly mentions shelters/safe houses: Pasal 48 states “Pemerintah Daerah dan masyarakat atau lembaga pelayanan sosial dapat membentuk rumah pemulihan atau rumah aman” (may establish recovery houses or safe houses). That satisfies the shelter indicator. But the retrieved candidates shown for 3.4 did not include Pasal 48 (unlike other indicators where Article 48 appears), so the judge lacked the direct shelter evidence (RAG candidate issue). The judge also stated the candidates did not mention safe houses; given the candidates provided, that statement is correct, but relative to the document it led to a false negative because retrieval missed the key article.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. increase gender sensitivity, awareness and justice from all society, policy makers, decision makers, planners and law enforcers, as well as reform legal products that contain socio-cultural values and gender-responsive justice;",
+      "evaluator_rationale": "The policy includes an objective to increase gender sensitivity, awareness, and justice across society and among key decision-makers and law enforcers, which constitutes an educational/awareness-raising primary prevention activity focused on gender equality.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 67,
+          "text": "CHAPTER XIII\nPREVENTION OF ACTS OF VIOLENCE\nTRAFFICKING AND EXPLOITATION\nArticle 44\n(1) To prevent the occurrence of acts of violence against women and children, trafficking and exploitation, the regional government shall conduct empowerment and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.\n(2) In addition to empowerment and awareness raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:\na. improvement of the quantity and quality of education both formal and informal;\nb. opening of accessibility to obtain education, training, funding, income enhancement, and social services;\nc. opening of employment opportunities for women;\nd. building community participation and concern toward the prevention of women and children from acts of violence, trafficking and exploitation;\ne. building and providing a complete and easily accessible information system;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children; and\ng. opening complaint posts for the protection of women and children from acts of violence, trafficking and exploitation.",
+          "score": 0.03278688524590164
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\n(1) This Protection of Women aims to:\na. improve the quality of women's human resources towards a world-quality society;\nb. provide opportunities for women to actualize themselves, optimally utilize existing opportunities in a comprehensive integrated manner, play a role in development and enjoy the results of development;\nc. eliminate discrimination in all its forms against women and enable the realization of the principles of equal rights for women in the fields of education, health, environment, politics, law, economy, civil, and socio-culture;\nd. increase gender sensitivity, awareness and justice from all society, policy makers, decision makers, planners and law enforcers, as well as reform legal products that contain socio-cultural values and gender-responsive justice;\ne. guarantee the rights of women in Bekasi City through the empowerment and protection of women;\nf. guarantee protection for women in Bekasi City from acts of physical, psychological, sexual and economic violence;\ng. increase the role of government and institutions in society to further encourage development programs related to the protection of women;\nh. improve the welfare of women in the economic, social, political, cultural and religious fields, so that women obtain a place of justice and gender equality;\ni. increase the participation of women in regional development through participation organized by local government and non-governmental institutions.\n(2) Protection of Children aims to:\na. improve the quality of children's resources towards a world-quality society;\nb. provide a comfortable space for children during their growth and development as assets of the nation;\nc. guarantee the rights of children in Bekasi City through child protection;\nd. guarantee protection for children in Bekasi City from acts of physical, psychological, sexual and economic violence;\ne. increase the role of government and institutions in society to further encourage development programs related to child protection;\nf. improve the welfare of children through opportunities to create and be creative in the fields of art and culture;\ng. open opportunities for children to gain access to education, health, and an environment that supports the process of children's growth and development;\nh. increase the participation of children in regional development through participation carried out by the Regional Government or non-governmental institutions in accordance with the development and capabilities of children.",
+          "score": 0.03125763125763126
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 45\n(1) Prevention of acts of violence against women and children, trafficking and exploitation as referred to in Article 44, shall be implemented by Agencies and institutions whose duties and functions are in the fields of:\na. social;\nb. economic;\nc. health;\nd. education;\ne. manpower;\nf. women's empowerment and child protection;\ng. mental and spiritual; and\nh. security, peace and order.\n(2) Prevention of acts of violence by related Agencies and institutions as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on the Regional Action Plan.",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 5\n(1) Women's Rights include:\na. Right to obtain health services;\nb. Rights in the economic, social and political fields;\nc. Right to family allowances;\nd. Right to Bank loans and capital;\ne. Rights in recreation, sports and socio-culture;\nf. Right to participate in the field of development;\ng. Right to obtain social security;\nh. Right to obtain training and education;\ni. Right to participate in community activities;\nj. Right to obtain adequate living conditions along with facilities and infrastructure.\n(2) Guarantee of protection of women's rights includes:\na. strengthening institutional capacity of PUG for the implementation of policies, programs and activities for the protection of women's rights;\nb. provision of facilitation of women's protection services;\nc. provision of women's protection services;\nd. implementation of affirmative action for women's protection;\ne. preparation of a women's protection data system, including a data system on violence against women.\n(3) Provision of women's protection services as referred to in paragraph (1) letter c is provided for women victims of violence, including victims of human trafficking, women in conflict-prone and disaster areas, women workers, elderly women, women with disabilities, women victims of sexual exploitation, women heads of households and other vulnerable groups of women;\n(4) Provision of women's protection services as referred to in paragraph (3) includes:\na. victim identification;\nb. Legal assistance;\nc. Medical rehabilitation;\nd. Psychosocial rehabilitation;\ne. Social reintegration;\nf. Repatriation assistance;\ng. Empowerment.\n(5) Provision of women's protection services as referred to in paragraph (4), is borne by the Regional Government.",
+          "score": 0.030158730158730156
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\n(1) The regulation of protection of women is intended to provide guidance and direction for the Regional Government and society in realizing:\na. empowerment of women;\nb. gender justice and equality;\nc. prevention and handling of acts of violence, exploitation and trafficking in persons.\n(2) The regulation of protection of children is intended to provide guidance and direction for the Regional Government and society in realizing the social welfare of children and families which includes prevention and handling of acts of violence and exploitation, maltreatment, neglect/abandonment in all situations of children's lives including children in conflict with the law and children in emergency situations.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bekasi.\n2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.\n3. Mayor is the Mayor of Bekasi.\n4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.\n5. Women are all women who are both inside and outside the household.\n6. Child is a person who has not reached the age of 18 (eighteen) years.\n7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.\n8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.\n11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.\n12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.\n13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.\n14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.\n15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.\n16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.\n17. Women as heads of households are women who bear the burden of household needs including child care.\n18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.\n19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.\n20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.\n21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.\n22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.\n23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.\n24. Right is about something that is correct, belonging, ownership, authority and power to do something.\n25. Guarantee is liability.\n26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.\n27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.\n28. Community is individuals, families, groups and/or community organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 15\n(1) The Regional Government guarantees the implementation of informal education for women who have dropped out of school.\n(2) The implementation of informal education as referred to in paragraph (1) is supported by the participation of the community and the business sector.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 18\nProtection of Women's Micro Economy includes:\na. obtaining opportunities to conduct business activities in the household environment;\nb. obtaining economic empowerment facilities especially for women heads of households.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 54\n(1) Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence.\n(2) Partnerships as referred to in paragraph (1) are conducted through:\na. notification of employment opportunity information for women victims of acts of violence;\nb. education and training for women and children victims of acts of violence;\nc. educational assistance for women and children victims of acts of violence who have been withdrawn from their education; and\nd. fostering and increasing economic independence of women victims of acts of violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.",
+          "score": 0.015151515151515152
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 8\nThe implementation of protection services for children from all forms of discriminatory actions is carried out by the Regional Government together with the community through the Regional Indonesian Child Protection Commission (KPAID), or other similar institutions.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text includes explicit awareness-raising/education-type prevention related to gender equality. Pasal 4 ayat (1) huruf d aims to “meningkatkan kepekaan, kepedulian dan keadilan gender” across society, policymakers, decision-makers, planners, and law enforcers. Pasal 44 ayat (1) also mandates “pemberdayaan dan penyadaran ... dengan memberikan informasi, bimbingan dan/atau penyuluhan” (empowerment and awareness-raising via information/guidance/counseling) to prevent violence/trafficking/exploitation. These provisions support a “Yes” for gender-equality awareness/education as primary prevention. Since the judge’s cited snippet is genuinely in the policy and supports the interpretation, the golden label “No” appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.10": {
+      "indicator": "Refugees / displacement",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Children in emergency situations referred to are children who become refugees, children victims of riots and disturbances, children victims of disasters and children in conflict situations.\n(2) The Government is obligated to provide protection and fulfillment of needs consisting of security protection, fulfillment of children's basic needs during emergency situations.",
+      "evaluator_rationale": "The policy explicitly includes refugees within “children in emergency situations” and obligates the government to provide protection and fulfill basic needs during such emergency situations.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 77,
+          "text": "Article 52\n(1) Protection of children in conflict with the law includes:\na. children as victims targeted by crimes of violence, exploitation, discrimination and other maltreatment;\nb. children as perpetrators of criminal acts;\nc. children as witnesses whose testimony is required in investigation process reports.\n(2) Protection provided to children as referred to in paragraph (1) letters a, b, and c shall be adjusted to the provisions of applicable laws and regulations.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 7\n(1) Guarantees for the protection of children's rights, include:\na. Civil rights and Freedoms;\nb. basic welfare (Education and Health);\nc. proper care.\nd. safe and comfortable environment.\ne. special protection for children with special needs.\nf. right to obtain appropriate information.\ng. right to assistance;\nh. right to complaint handling;\ni. right to social rehabilitation;\nj. right to health and psychological recovery from suffering experienced by victims;\nk. right of victims and their families to obtain facilitation in the judicial process\nl. right to obtain protection facilities for children who do not have a place of residence and/or whose lives are threatened.\n(2) Children with special needs as referred to in paragraph (1) letter e are:\na. physically disabled;\nb. mentally disabled;\nc. visually impaired;\nd. hearing/speech impaired;\ne. multiple disabilities;\nf. children with social psychological problems.",
+          "score": 0.02967032967032967
+        },
+        {
+          "chunk_id": 58,
+          "text": "Article 36\n(1) Children in emergency situations referred to are children who become refugees, children victims of riots and disturbances, children victims of disasters and children in conflict situations.\n(2) The Government is obligated to provide protection and fulfillment of needs consisting of security protection, fulfillment of children's basic needs during emergency situations.\n(3) The provision of fulfillment of basic needs during emergency situations refers to the provisions of applicable laws and regulations.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 29\n(1) Regional Government is obligated to:\na. provide proper facilities and infrastructure in the teaching and learning process;\nb. facilitate education both formal and informal organized by the government.\n(2) There shall be no discrimination in Education against Children based on gender.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 60,
+          "text": "Article 37\n(1) Children in disaster situations are natural disasters, fire disasters and riots.\n(2) The Government is obligated to provide protection covering:\na. basic needs consisting of clothing, food, shelter, education, health, learning, playing, security and non-discrimination.\nb. rehabilitation;\nc. reconstruction.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bekasi.\n2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.\n3. Mayor is the Mayor of Bekasi.\n4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.\n5. Women are all women who are both inside and outside the household.\n6. Child is a person who has not reached the age of 18 (eighteen) years.\n7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.\n8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.\n9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.\n11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.\n12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.\n13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.\n14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.\n15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.\n16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.\n17. Women as heads of households are women who bear the burden of household needs including child care.\n18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.\n19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.\n20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.\n21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.\n22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.\n23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.\n24. Right is about something that is correct, belonging, ownership, authority and power to do something.\n25. Guarantee is liability.\n26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.\n27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.\n28. Community is individuals, families, groups and/or community organizations.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 59,
+          "text": "Second Part\nChildren in Disaster Situations",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 25\nChildren with special needs are given equal opportunity and accessibility to obtain regular education and special education.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER X\nCHILDREN IN EMERGENCY OR DISASTER SITUATIONS\nPart One\nChildren in Emergency Situations",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER XII\nPROTECTION OF WOMEN AND CHILDREN\nFROM VIOLENCE, TRAFFICKING AND EXPLOITATION\nArticle 39\nProtection of women and children from violence includes: a. preventing acts of violence against women and children including human trafficking;\nb. eliminating all forms of violence and exploitation against women and children;\nc. protecting from discriminatory treatment against women and children, protection from neglect and other maltreatment; d. providing services to women and children victims of acts of violence, reporters and witnesses;\ne. facilitating and conducting mediation on domestic disputes to realize the integrity of harmonious and prosperous households.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly covers refugees/displacement for children: Pasal 36 ayat (1) defines children in emergency situations as including “anak yang menjadi pengungsi” (children who become refugees), and Pasal 36 ayat (2) obligates government protection and fulfillment of basic needs during emergencies. This exact content was also present in the retrieved English candidates ([6.10-58]). Therefore the judge’s “Yes” is well-supported, and the golden label “No” appears to be wrong for this document.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_BARAT_BEKASI_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:39.927431+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 5,
+  "diagnosed_count": 5
+}

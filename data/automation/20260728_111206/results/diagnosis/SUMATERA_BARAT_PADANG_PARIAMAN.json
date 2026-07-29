@@ -1,0 +1,474 @@
+{
+  "diagnoses": {
+    "1.6": {
+      "indicator": "Harmful practices",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. enhancement of women's awareness of the impact of early marriage;",
+      "evaluator_rationale": "The policy explicitly addresses early marriage by including efforts to enhance women’s awareness of the impact of early marriage, which is a harmful practice affecting women and girls.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 25,
+          "text": "Article 16\n(1) Regional Government in the effort of Protection of women is responsible for: a. establishing and implementing policies, programs and activities for the Protection of women;\nb. undertaking prevention efforts against acts of Violence against women including criminal acts of trafficking in persons;\nc. improving the effectiveness of services for women victims of acts of Violence;\nd. improving Protection efforts for female workers;\ne. strengthening and developing institutions providing Protection services for women;\nf. conducting cooperation with the Government, other Regional Governments, private parties, business sector and/or NGOs in efforts to prevent acts of Violence against women;\ng. involving the active role of families, ninik mamak, bundo kanduang, customary leaders, religious leaders, communities, and institutions in the field of Protection of women;\n(2) The responsibility of Regional Government in the effort of Protection of women as referred to in paragraph (1) shall be implemented by SKPD in accordance with their duties and functions and may coordinate with relevant agencies.",
+          "score": 0.029910714285714284
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 14\nEfforts to enhance the role, quality and capability of women in the social field as referred to in Article 5 paragraph (1) letter d number 3 include:\na. enhancement of knowledge and skills to encourage the fulfillment of education in accordance with existing potential;\nb. enhancement and fulfillment of health quality for women;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration;\nd. enhancement of women's awareness of the impact of early marriage;\ne. facilitating and endeavoring to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women;\nf. conducting enhancement of women's awareness and knowledge regarding independent, healthy and prosperous family planning;\ng. conducting programs to reduce maternal mortality rates;\nh. encouraging the establishment of women's organizations in the Region;",
+          "score": 0.02877846790890269
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of regulation for Women's Empowerment and Child Protection includes:\na. improvement of women's quality of life;\nb. Protection of women;\nc. gender and Child data system;\nd. fulfillment of Child rights;\ne. Child Protection;\nf. community participation; and\ng. guidance and supervision.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 33\n(1) Female workers/laborers under the age of 18 (eighteen) years are prohibited from being employed between 23.00 WIB until 07.00 WIB.\n(2) Employers are prohibited from employing pregnant female workers/laborers who according to a doctor's statement would endanger the health and safety of their pregnancy.\n(3) Employers who employ female workers/laborers between 23.00 WIB until 07.00 WIB, are obligated to:\na. provide nutritious food and beverages; and\nb. maintain decency and security while at the workplace.\n(4) Employers are obligated to provide shuttle transportation for female workers/laborers who depart for and return from work between 23.00 WIB until 05.00 WIB.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe Implementation of Women's Empowerment and Child Protection is based on the principles of:\na. the best interests of women and Children;\nb. gender justice and gender equality;\nc. local wisdom;\nd. law enforcement and legal certainty.\ne. non-discrimination;\nf. the right to life, survival, and development; g. respect for the opinion of Children; and\nh. law enforcement and legal certainty.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 24\n(1) Counseling services as referred to in Article 23 paragraph (2) letter a aim to:\na. assist female victims of acts of Violence in recognizing their problems and finding effective ways to overcome them themselves;\nb. empower female victims of acts of Violence to determine their future;\nc. provide moral support to female victims of acts of Violence in facing the process they are undergoing; and\nd. make female victims of acts of Violence feel accepted in the community environment.\n(2) Counseling services are carried out by social rehabilitation officers who are gender responsive, consisting of:\na. counselors;\nb. psychologists; and\nc. psychiatrists.\n(3) Counseling services are carried out in places that guarantee a sense of security, comfort and confidentiality of information from female victims of acts of Violence.\n(4) Stages of counseling services include:\na. initial counseling;\nb. follow-up counseling;\nc. case discussion; and\nd. site visits.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 26,
+          "text": "Part Two\nPrevention of Acts of Violence against Women",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 32\n(1) Employers who employ women are obligated to maintain decency, safety and security while in the workplace.\n(2) Employers are obligated to place female workers in places that are safe for women's reproductive health.\n(3) Employers are obligated to fulfill the rights of female workers to receive wages in accordance with the provisions of laws and regulations.\n(4) Employers are obligated to provide special breastfeeding facilities at their company.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 18\n(1) Protection of women victims of acts of Violence is implemented through integrated services.\n(2) The provision of integrated services to women victims of acts of Violence as referred to in paragraph (1) uses the principles of:\na. gender responsive;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitive to the background and condition of victims and the use of language that is appropriate and understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of women's rights.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 93,
+          "text": "Article 66\n(1) Community participation in efforts to Protect women and Children:\na. participate in prevention and provide support for the development of programs to prevent violations of the rights of women and Children;\nb. provide information and/or report violations of the rights of women and Children to the competent authorities; and\nc. monitor the law enforcement process regarding cases of violations of the rights of women and Children.\n(2) Ninik mamak, alim ulama and cadiak pandai as well as bundo kanduang are responsible for protecting and preventing violations of the rights of women and Children.\n(3) Community participation as referred to in paragraph (1) and paragraph (2) is based on laws and regulations and the values of local wisdom of the local community.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian text, Pasal 14 huruf d states \"peningkatan kesadaran perempuan terhadap dampak pernikahan dini\" (increasing women’s awareness of the impact of early marriage). This is a prevention/awareness activity about early marriage, but the indicator is specifically about whether the policy covers harmful practices as a form/scope of violence. The cited passage does not define early marriage as violence nor regulate/prohibit it as a harmful practice; it only mentions awareness-raising. So the judge over-interpreted the presence of early-marriage awareness as meeting the harmful-practices scope indicator.",
+      "diagnosis_status": "ok"
+    },
+    "1.9": {
+      "indicator": "Sexual slavery / exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. all work in the form of slavery or similar practices;\nb. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;",
+      "evaluator_rationale": "The policy explicitly includes slavery or similar practices and the exploitation of children for prostitution/pornography, which constitutes sexual exploitation and can encompass sexual slavery/exploitation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 80,
+          "text": "Article 57\n(1) Every person/entity is prohibited from employing and involving Children in the worst forms of work.\n(2) The worst forms of work referred to in paragraph (1) include: a. all work in the form of slavery or similar practices; b. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;\nc. all work that exploits, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of Children.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 46\n(1) Every Child has the right to obtain education and teaching in the context of developing their personality and level of intelligence in accordance with their interests and talents.\n(2) Every Child has the right to obtain Protection in educational units from sexual crimes and Violence committed by educators, educational personnel, fellow students, and/or other parties.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of regulation for Women's Empowerment and Child Protection includes:\na. improvement of women's quality of life;\nb. Protection of women;\nc. gender and Child data system;\nd. fulfillment of Child rights;\ne. Child Protection;\nf. community participation; and\ng. guidance and supervision.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 60\n(1) In order to fulfill the rights of Children in an integrated, systematic and sustainable manner, the Regional Government establishes a policy for the Development of KLA.\n(2) The KLA Development policy contains:\na. the KLA concept concerning objectives, strategies and roles of related parties;\nb. the rights of Children; and\nc. the KLA development approach.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 29\n(1) Repatriation is intended to return women victims of acts of Violence to their region of origin.\n(2) Repatriation of women victims of acts of Violence is accompanied by social reintegration efforts.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 61\n(1) The policy for the development of KLA is directed towards the fulfillment of Children's rights which are divided into 5 (five) groups, comprising:\na. civil rights and freedoms;\nb. family environment and alternative care;\nc. basic health and welfare;\nd. education, utilization of leisure time, and cultural activities; and e. Special protection.\n(2) Further provisions regarding the policy for the development of KLA as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 26,
+          "text": "Part Two\nPrevention of Acts of Violence against Women",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 28,
+          "text": "Third Part\nEffectiveness of Services for Women Victims of Acts of Violence",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 3,
+          "text": "Article 2\nThe Implementation of Women's Empowerment and Child Protection is based on the principles of:\na. the best interests of women and Children;\nb. gender justice and gender equality;\nc. local wisdom;\nd. law enforcement and legal certainty.\ne. non-discrimination;\nf. the right to life, survival, and development; g. respect for the opinion of Children; and\nh. law enforcement and legal certainty.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved Indonesian provision (Pasal 57) prohibits the worst forms of child labor, including \"segala pekerjaan dalam bentuk perbudakan\" and work exploiting children for prostitution/pornography. This is framed as child labor/‘worst forms of work’ regulation, not as a violence-against-women policy recognizing or addressing sexual slavery/exploitation as a violence category (especially against women). The judge treated any mention of slavery/prostitution exploitation as satisfying the sexual slavery/exploitation indicator, which is too broad given the policy’s framing and the indicator’s intended scope.",
+      "diagnosis_status": "ok"
+    },
+    "2.3": {
+      "indicator": "Data collection / information systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "None of the provided sentences establish or assign responsibility for a system to collect, record, manage, monitor, or report data specifically on violence against women, victims, or cases.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 43,
+          "text": "Article 27\n(1) Law enforcement and legal aid services as referred to in Article 19 letter d constitute actions by law enforcement officials to implement laws and regulations in the context of handling cases of acts of Violence against women, especially to impose sanctions on perpetrators and provide Protection for witnesses and/or victims.\n(2) Law enforcement and legal aid services as referred to in paragraph (1) shall be carried out by prioritizing the best interests of victims.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 28,
+          "text": "Third Part\nEffectiveness of Services for Women Victims of Acts of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 26,
+          "text": "Part Two\nPrevention of Acts of Violence against Women",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 57\n(1) Every person/entity is prohibited from employing and involving Children in the worst forms of work.\n(2) The worst forms of work referred to in paragraph (1) include: a. all work in the form of slavery or similar practices; b. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;\nc. all work that exploits, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of Children.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 18\n(1) Protection of women victims of acts of Violence is implemented through integrated services.\n(2) The provision of integrated services to women victims of acts of Violence as referred to in paragraph (1) uses the principles of:\na. gender responsive;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitive to the background and condition of victims and the use of language that is appropriate and understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of women's rights.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 25\n(1) Regional Government may provide safe houses for women victims of acts of Violence.\n(2) The provision of safe house services as referred to in Article 23 paragraph (2) letter b aims to protect women victims of acts of Violence from intimidation by perpetrators or other parties.\n(3) The location of safe houses as referred to in paragraph (1) must be kept confidential.\n(4) The criteria for women victims of acts of Violence who require safe houses include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far away; and/or\nd. abandoned if not placed in a safe house.\n(5) The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness, consisting of:\na. social workers/volunteers;\nb. security officers; and/or\nc. community leaders.\n(6) Further provisions regarding the implementation of safe house services shall be regulated by Regent Regulation.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\nIn order to prevent acts of Violence against women, the Regional Government:\na. conducts socialization regarding the prevention of Violence against women by optimizing the role of customary, cultural, religious institutions and community organizations;\nb. builds networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children victims of Violence;\nc. provides public facilities that are comfortable and safe for women;",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 26\n(1) Spiritual guidance as referred to in Article 23 paragraph (2) letter c aims for psychological recovery.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim (self determination).\n(3) Spiritual guidance is conducted by spiritual guidance officers.\n(4) Spiritual guidance officers as referred to in paragraph (3) consist of consultants from the Marriage Advisory, Development and Preservation Board (BP4), Officers of the Religious Affairs Office, Ustad/Ulama, Priests, Pastors and other religious leaders who have gender sensitivity or gender awareness.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 19\nThe form of integrated services for women victims of acts of Violence includes:\na. complaint handling;\nb. health rehabilitation;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and\ne. repatriation and social reintegration.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The original Indonesian regulation does contain explicit data-system language: Pasal 4 huruf c includes \"sistem data gender dan Anak\" (a gender and child data system), and Pasal 9 huruf h requires the Pokja PUG to \"menyusun profil Gender Daerah\" (compile a regional gender profile), while Pasal 11 ayat (2) huruf f assigns the focal point to \"memfasilitasi penyusunan data gender\" in each SKPD. However, the retrieved candidates shown to the judge for indicator 2.3 did not include Pasal 4(c), Pasal 9(h), or Pasal 11(2)(f). Because the relevant evidence was not retrieved, the judge reasonably answered No based on what they saw.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. implementing programs, activities, training for improving the skills and expertise of women in order to realize the improvement of women's welfare;\nb. facilitation of business capital strengthening for women with weak economic capacity;",
+      "evaluator_rationale": "The policy includes economic empowerment measures for women, including skills training and facilitation of business capital strengthening, which constitute economic support mechanisms.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 23,
+          "text": "Article 15\nEfforts to enhance the role, quality and capability of women in the economic field as referred to in Article 5 paragraph (1) letter d number 4 include:\na. implementing programs, activities, training for improving the skills and expertise of women in order to realize the improvement of women's welfare;\nb. facilitation of business capital strengthening for women with weak economic capacity;\nc. marketing of products resulting from businesses of women with weak economic capacity;\nd. training for developing women's capabilities through economic empowerment of pre-prosperous families;\ne. comprehensive entrepreneurship training for women.",
+          "score": 0.03177805800756621
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 23\n(1) Social rehabilitation as referred to in Article 19 letter c is intended to restore and develop the capabilities of women victims of acts of Violence who experience social dysfunction to be able to carry out their social functions in society properly.\n(2) Social rehabilitation as referred to in paragraph (1) includes services:\na. counseling;\nb. provision of safe houses; and\nc. spiritual guidance.\n(3) The implementation of services as referred to in paragraph (2) is carried out by:\na. SKPD that has duties and functions in the social field;\nb. SKPD that handles Women's Empowerment, and may cooperate with integrated service centers, women crisis centres or social community organizations that already exist; or\nc. the ministry of religion.",
+          "score": 0.030776515151515152
+        },
+        {
+          "chunk_id": 22,
+          "text": "Seventh Part\nEnhancement of the Role, Quality, and Capability of Women in the Economic Field",
+          "score": 0.030621785881252923
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 45\n(1) Every organizer of an education unit is obligated to provide opportunities to Children to obtain educational services without discrimination.\n(2) Every organizer of an education unit is prohibited from expelling Children from educational institutions unless there is a guarantee for the continuity of the Child's education.\n(3) In the event that a Child victim of an act of Violence experiences dropping out of school, the organizer of the education unit is obligated to coordinate with relevant agencies.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 20,
+          "text": "Sixth Part\nEnhancement of the Role, Quality, and Capability of Women in the Social Sector",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 26\n(1) Spiritual guidance as referred to in Article 23 paragraph (2) letter c aims for psychological recovery.\n(2) Spiritual guidance as referred to in paragraph (1) is implemented based on the principles of:\na. not imposing any religion or belief; and\nb. leaving the final decision in the hands of the victim (self determination).\n(3) Spiritual guidance is conducted by spiritual guidance officers.\n(4) Spiritual guidance officers as referred to in paragraph (3) consist of consultants from the Marriage Advisory, Development and Preservation Board (BP4), Officers of the Religious Affairs Office, Ustad/Ulama, Priests, Pastors and other religious leaders who have gender sensitivity or gender awareness.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 14\nEfforts to enhance the role, quality and capability of women in the social field as referred to in Article 5 paragraph (1) letter d number 3 include:\na. enhancement of knowledge and skills to encourage the fulfillment of education in accordance with existing potential;\nb. enhancement and fulfillment of health quality for women;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration;\nd. enhancement of women's awareness of the impact of early marriage;\ne. facilitating and endeavoring to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women;\nf. conducting enhancement of women's awareness and knowledge regarding independent, healthy and prosperous family planning;\ng. conducting programs to reduce maternal mortality rates;\nh. encouraging the establishment of women's organizations in the Region;",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 28,
+          "text": "Third Part\nEffectiveness of Services for Women Victims of Acts of Violence",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 57\n(1) Every person/entity is prohibited from employing and involving Children in the worst forms of work.\n(2) The worst forms of work referred to in paragraph (1) include: a. all work in the form of slavery or similar practices; b. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;\nc. all work that exploits, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of Children.",
+          "score": 0.015151515151515152
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "Pasal 15 in the Indonesian text is about general women’s economic empowerment (training, capital facilitation, marketing, entrepreneurship) as part of improving women’s quality of life, not about specialized economic support services for survivors/victims of violence (e.g., cash assistance, livelihood support tied to case management for victims). The specialized services section for victims (Pasal 18–31) lists complaint handling, health rehab, social rehab, legal aid, repatriation/reintegration, safe house, counseling, etc., but not economic assistance for victims. The judge incorrectly treated general empowerment programming as ‘economic support services’ in the specialized support services sense.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. implementing training, socialization, advocacy of Gender Mainstreaming to all officials and staff within the SKPD;",
+      "evaluator_rationale": "The policy includes training, socialization, and advocacy related to Gender Mainstreaming for officials/staff, which is an educational activity directly tied to advancing gender equality in government practice.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 58,
+          "text": "Article 40\nCommunication, information and education as referred to in Article 39 letter a constitutes communication activities to increase knowledge and improve the attitudes and behavior of families and communities in the Population and family planning Program.",
+          "score": 0.030798389007344232
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 14\nEfforts to enhance the role, quality and capability of women in the social field as referred to in Article 5 paragraph (1) letter d number 3 include:\na. enhancement of knowledge and skills to encourage the fulfillment of education in accordance with existing potential;\nb. enhancement and fulfillment of health quality for women;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration;\nd. enhancement of women's awareness of the impact of early marriage;\ne. facilitating and endeavoring to preserve customs and traditions and the development of science, technology, arts and culture for the advancement of women;\nf. conducting enhancement of women's awareness and knowledge regarding independent, healthy and prosperous family planning;\ng. conducting programs to reduce maternal mortality rates;\nh. encouraging the establishment of women's organizations in the Region;",
+          "score": 0.030090497737556562
+        },
+        {
+          "chunk_id": 26,
+          "text": "Part Two\nPrevention of Acts of Violence against Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\n(1) The Gender Mainstreaming Focal Point in each SKPD consists of officials and/or staff whose field covers planning and/or program duties.\n(2) The Gender Mainstreaming Focal Point as referred to in paragraph (1), has the following duties:\na. promoting Gender Mainstreaming in the work unit;\nb. facilitating the preparation of work plans and budgeting of SKPD that are gender responsive;\nc. implementing training, socialization, advocacy of Gender Mainstreaming to all officials and staff within the SKPD;\nd. reporting the implementation of Gender Mainstreaming to the leadership of SKPD;\ne. encouraging the implementation of gender analysis on policies, programs, and activities in the work unit; and\nf. facilitating the preparation of gender data in each SKPD;\n(3) The Gender Mainstreaming Focal Point as referred to in paragraph (1), shall be selected and determined by the leadership of SKPD.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 8,
+          "text": "Second Part\nImplementation of Gender Mainstreaming in the Regions",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 20,
+          "text": "Sixth Part\nEnhancement of the Role, Quality, and Capability of Women in the Social Sector",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\nIn order to prevent acts of Violence against women, the Regional Government:\na. conducts socialization regarding the prevention of Violence against women by optimizing the role of customary, cultural, religious institutions and community organizations;\nb. builds networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children victims of Violence;\nc. provides public facilities that are comfortable and safe for women;",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 57\n(1) Every person/entity is prohibited from employing and involving Children in the worst forms of work.\n(2) The worst forms of work referred to in paragraph (1) include: a. all work in the form of slavery or similar practices; b. all work that exploits, provides, or offers Children for prostitution, pornography production, pornographic performances, or gambling;\nc. all work that exploits, provides, or involves Children for the production and trade of alcoholic beverages, narcotics, psychotropic substances, and other addictive substances; and/or\nd. all work that endangers the health, safety, or morals of Children.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of regulation for Women's Empowerment and Child Protection includes:\na. improvement of women's quality of life;\nb. Protection of women;\nc. gender and Child data system;\nd. fulfillment of Child rights;\ne. Child Protection;\nf. community participation; and\ng. guidance and supervision.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The cited Indonesian provision (Pasal 11 ayat (2) huruf c) mandates internal training/socialization/advocacy on Pengarusutamaan Gender for SKPD officials/staff (bureaucratic capacity-building for gender mainstreaming). The indicator ‘Gender equality education’ in primary prevention typically refers to public/school/community education to promote gender equality norms (often aimed at preventing violence), not internal government training on mainstreaming procedures. The judge equated internal PUG training with gender-equality education for prevention, which is an overly lenient interpretation of the indicator.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. conducts socialization, seminars and counseling regarding Protection and rights of Children;",
+      "evaluator_rationale": "The policy explicitly includes socialization, seminars, and counseling regarding child protection and rights, which are education-oriented strategies linked to preventing violence against children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 66,
+          "text": "Article 45\n(1) Every organizer of an education unit is obligated to provide opportunities to Children to obtain educational services without discrimination.\n(2) Every organizer of an education unit is prohibited from expelling Children from educational institutions unless there is a guarantee for the continuity of the Child's education.\n(3) In the event that a Child victim of an act of Violence experiences dropping out of school, the organizer of the education unit is obligated to coordinate with relevant agencies.",
+          "score": 0.032266458495966696
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\nIn order to prevent acts of Violence against women, the Regional Government:\na. conducts socialization regarding the prevention of Violence against women by optimizing the role of customary, cultural, religious institutions and community organizations;\nb. builds networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children victims of Violence;\nc. provides public facilities that are comfortable and safe for women;",
+          "score": 0.031754032258064516
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 16\n(1) Regional Government in the effort of Protection of women is responsible for: a. establishing and implementing policies, programs and activities for the Protection of women;\nb. undertaking prevention efforts against acts of Violence against women including criminal acts of trafficking in persons;\nc. improving the effectiveness of services for women victims of acts of Violence;\nd. improving Protection efforts for female workers;\ne. strengthening and developing institutions providing Protection services for women;\nf. conducting cooperation with the Government, other Regional Governments, private parties, business sector and/or NGOs in efforts to prevent acts of Violence against women;\ng. involving the active role of families, ninik mamak, bundo kanduang, customary leaders, religious leaders, communities, and institutions in the field of Protection of women;\n(2) The responsibility of Regional Government in the effort of Protection of women as referred to in paragraph (1) shall be implemented by SKPD in accordance with their duties and functions and may coordinate with relevant agencies.",
+          "score": 0.029437229437229435
+        },
+        {
+          "chunk_id": 90,
+          "text": "CHAPTER VII\nCHILD PROTECTION\nArticle 64\nRegional Government, in the context of providing protection to Children: a. implements and supports national policy in the implementation of Child Protection in the Region;\nb. guarantees Children to exercise their rights in expressing opinions in accordance with the age and intelligence level of the Child;\nc. conducts prevention of Violence against Children by optimizing the role of customary institutions;\nd. conducts socialization, seminars and counseling regarding Protection and rights of Children;\ne. develops child-friendly school models;\nf. provides public facilities that are friendly and safe for Children\ng. encourages community awareness of the importance of Protection for Children;",
+          "score": 0.029411764705882353
+        },
+        {
+          "chunk_id": 26,
+          "text": "Part Two\nPrevention of Acts of Violence against Women",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 96,
+          "text": "Article 68\nThe family in efforts to Protect the rights of women has the role to:\na. protect women from conflict and Violence in the household that degrades the dignity of women;\nb. provide equal opportunities to women to develop themselves in the fields of education, social, economic, political and cultural; and\nc. prevent the occurrence of violations against the rights of women in the household.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 28,
+          "text": "Third Part\nEffectiveness of Services for Women Victims of Acts of Violence",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 4\nThe scope of regulation for Women's Empowerment and Child Protection includes:\na. improvement of women's quality of life;\nb. Protection of women;\nc. gender and Child data system;\nd. fulfillment of Child rights;\ne. Child Protection;\nf. community participation; and\ng. guidance and supervision.",
+          "score": 0.015384615384615385
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 60\n(1) In order to fulfill the rights of Children in an integrated, systematic and sustainable manner, the Regional Government establishes a policy for the Development of KLA.\n(2) The KLA Development policy contains:\na. the KLA concept concerning objectives, strategies and roles of related parties;\nb. the rights of Children; and\nc. the KLA development approach.",
+          "score": 0.015384615384615385
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text (Pasal 64 huruf d) indeed says the government conducts \"sosialisasi, seminar dan penyuluhan mengenai Perlindungan dan hak Anak\". This is education/awareness about child protection and children’s rights, but it is not clearly specified as violence-prevention education (e.g., prevention curricula, behavior-change programs, or education explicitly aimed at preventing violence). The judge treated any socialization/seminar/counseling about rights as satisfying ‘prevention through education’ for violence prevention, which may be too broad given the indicator’s likely intent and the golden label of No.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Trafficking victims",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. undertaking prevention efforts against acts of Violence against women including criminal acts of trafficking in persons;\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.",
+      "evaluator_rationale": "The policy explicitly references trafficking in persons in the context of preventing violence against women and defines human trafficking, indicating trafficking is within scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 47,
+          "text": "Article 30\n(1) Social reintegration is carried out in the context of reuniting women victims of acts of Violence with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n(2) Social reintegration is aimed so that:\na. women victims of acts of Violence can resume their social life; and\nb. women victims of acts of Violence can have a decent life.\n(3) Social reintegration as referred to in paragraph (1) is carried out after victims receive social rehabilitation services.",
+          "score": 0.029877369007803793
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 22\n(1) Health rehabilitation as referred to in Article 19 letter b constitutes efforts that include aspects of:\na. promotive;\nb. preventive;\nc. curative; and\nd. rehabilitative.\n(2) Health rehabilitation as referred to in paragraph (1) shall be conducted comprehensively, accessible 24 (twenty-four) hours, with quality and carried out in accordance with health service standards.\n(3) Women victims of acts of Violence have the right to free health services, including:\na. medical services;\nb. medicolegal services;\nc. psychosocial counseling; and\nd. visum.\n(4) Further provisions regarding the procedures for implementing health services as referred to in paragraph (3) shall be regulated by Regent Regulation.",
+          "score": 0.028991596638655463
+        },
+        {
+          "chunk_id": 28,
+          "text": "Third Part\nEffectiveness of Services for Women Victims of Acts of Violence",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Padang Pariaman Regency.\n2. Regional Government is the Government of Padang Pariaman Regency.\n3. Regent is the Regent of Padang Pariaman Regency.\n4. Regional Work Unit hereinafter abbreviated as SKPD is the Regional Work Unit within the Government of Padang Pariaman Regency.\n5. Women's Empowerment is an effort of Protection, strengthening of human rights, improvement of quality of life, and enhancement of women's participation in development.\n6. Child Protection is all activities to guarantee and protect Children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and worth, as well as receive Protection from Violence and discrimination.\n7. Child is a person who has not yet reached the age of 18 (eighteen) years, including a Child who is still in the womb and is not yet married.\n8. Prevention is a direct effort carried out by the Regional Government, community and parents and/or family to prevent violations of the rights of women and Children.\n9. Violence is any act that results in misery or suffering whether physical, sexual, psychological and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n10. Children's Forum is a forum for Children's participation formed with the aim of facilitating Children's involvement in decision-making processes and enjoying changes relating to their lives either directly or indirectly, which is carried out with the consent and will of all Children based on awareness and understanding, in accordance with age and level of maturity of thinking.\n11. Child-Friendly Regency hereinafter abbreviated as KLA is a Regency that has a Child rights-based development system through the integration of commitment and resources of government, community and business world that is planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of Children's rights.\n12. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring and evaluation of national development program policies.\n13. Community is individuals, families, groups and social organizations and/or community organizations.\n14. Women Victims of Violence are women who experience actions that result in misery or suffering physically, sexually or psychologically, including threats of certain actions, coercion or arbitrary deprivation of freedom, whether occurring in the public sphere or in private life.\n15. Child Victims of Violence are Children who experience actions that result in misery or suffering physically, mentally, sexually, psychologically or neglect that threatens life, body and degrades human dignity.\n16. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of Violence, use of Violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.\n17. Complaint handling is a series of actions taken by integrated service providers to follow up on reports of acts of Violence against women and Children, submitted by victims, families or the community.\n18. Social rehabilitation is a service aimed at restoring and developing the ability of a person experiencing social dysfunction so that they can carry out their social functions properly.\n19. Law enforcement is action by officials authorized by the state to implement laws and regulations.\n20. Legal aid is legal services provided by legal assistants and advocates to carry out the process of assisting witnesses and/or victims of Violence against women and Children that is gender sensitive.\n21. Repatriation is an effort to return women and Child victims of Violence from abroad to the debarkation point/entry point, or from the receiving Region to the Region of origin.\n22. Social reintegration is an effort to reunite victims with family, substitute family, or community that can provide Protection and fulfillment of needs for victims.\n23. Safe house is a temporary shelter that aims to provide Protection and a sense of security to victims of Violence.\n24. Shelter house is a forum for guidance and welfare services for street Children that carries out activities of social assistance/guidance, maintenance, care, education, and health, skills guidance in order to ensure that Children do not carry out activities on the streets so that they can grow and develop normally.\n25. Spiritual Guidance is an effort to restore mental health through strengthening the religion adhered to by the victim.\n26. Gender Mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the Region.\n27. Gender responsive is consistent and systematic attention to the differences between women and men in society accompanied by efforts to eliminate structural and cultural barriers in achieving gender equality.\n28. Gender Sensitivity or Gender Awareness is the ability to identify gaps in power relations between women and men in the family and in the community, the impact of gender-based division of labor on women and men, and that the experiences, problems, needs, interests and aspirations of women and men are different.\n29. Public service provider is every state organizing institution, corporation, independent institution formed based on Law for public service activities, and other legal entities formed solely for public service activities.\n30. Community Organization is an organization established and formed by the community voluntarily based on common aspirations, will, needs, interests, activities and goals to participate in development for the achievement of the objectives of the Unitary State of the Republic of Indonesia based on Pancasila.\n31. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n32. Family is the smallest unit in society consisting of husband and wife or husband, wife and their Child, or father and his Child, or mother and her Child, or blood relatives in direct line upward or downward up to the third degree.\n33. Customs are patterns of behavior that are eternal and passed down from one generation to another generation as heritage, so that they are strongly integrated with community behavior patterns.",
+          "score": 0.01639344262295082
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 18\n(1) Protection of women victims of acts of Violence is implemented through integrated services.\n(2) The provision of integrated services to women victims of acts of Violence as referred to in paragraph (1) uses the principles of:\na. gender responsive;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining confidentiality;\ne. providing a sense of security and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of victims;\ni. sensitive to the background and condition of victims and the use of language that is appropriate and understood by victims;\nj. fast and simple;\nk. empathy; and\nl. fulfillment of women's rights.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 16\n(1) Regional Government in the effort of Protection of women is responsible for: a. establishing and implementing policies, programs and activities for the Protection of women;\nb. undertaking prevention efforts against acts of Violence against women including criminal acts of trafficking in persons;\nc. improving the effectiveness of services for women victims of acts of Violence;\nd. improving Protection efforts for female workers;\ne. strengthening and developing institutions providing Protection services for women;\nf. conducting cooperation with the Government, other Regional Governments, private parties, business sector and/or NGOs in efforts to prevent acts of Violence against women;\ng. involving the active role of families, ninik mamak, bundo kanduang, customary leaders, religious leaders, communities, and institutions in the field of Protection of women;\n(2) The responsibility of Regional Government in the effort of Protection of women as referred to in paragraph (1) shall be implemented by SKPD in accordance with their duties and functions and may coordinate with relevant agencies.",
+          "score": 0.016129032258064516
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 29\n(1) Repatriation is intended to return women victims of acts of Violence to their region of origin.\n(2) Repatriation of women victims of acts of Violence is accompanied by social reintegration efforts.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 53\n(1) Regional Government is obligated to provide Social Welfare for: a. Children in conflict with the law;\nb. Child victims of Violence who are exploited economically and sexually, Neglected children, Child victims of abduction and Child victims of human trafficking;\nc. Children who do not have parents and are cared for by parties or families who are unable;\nd. Child victims of natural disasters or social disasters; and\ne. Children with disabilities;\n(2) Social welfare as referred to in paragraph (1) may be in the form of provision of services:\na. health;\nb. education;\nc. legal aid;\nd. assistance;\ne. social, mental and spiritual guidance;\nf. social rehabilitation; and/or\ng. reintegration.",
+          "score": 0.015873015873015872
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 19\nThe form of integrated services for women victims of acts of Violence includes:\na. complaint handling;\nb. health rehabilitation;\nc. social rehabilitation;\nd. law enforcement and legal assistance; and\ne. repatriation and social reintegration.",
+          "score": 0.015625
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 25\n(1) Regional Government may provide safe houses for women victims of acts of Violence.\n(2) The provision of safe house services as referred to in Article 23 paragraph (2) letter b aims to protect women victims of acts of Violence from intimidation by perpetrators or other parties.\n(3) The location of safe houses as referred to in paragraph (1) must be kept confidential.\n(4) The criteria for women victims of acts of Violence who require safe houses include:\na. their life is threatened;\nb. receiving rejection from family or community;\nc. requiring intensive services but their residence is relatively far away; and/or\nd. abandoned if not placed in a safe house.\n(5) The implementation of safe house services is carried out by social rehabilitation officers who have gender sensitivity or gender awareness, consisting of:\na. social workers/volunteers;\nb. security officers; and/or\nc. community leaders.\n(6) Further provisions regarding the implementation of safe house services shall be regulated by Regent Regulation.",
+          "score": 0.015625
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian regulation mentions trafficking (Pasal 16(1) huruf b includes prevention of violence against women including trafficking; Pasal 1 angka 16 defines trafficking; Pasal 53(1) huruf b includes child victims of trafficking for social welfare). However, the indicator is about an intersectional approach specifically addressing trafficking victims as a distinct vulnerable group (typically with tailored measures/services). The retrieved passages mainly show trafficking is within scope/definitions and mentioned in prevention, but do not clearly set out specific victim-centered provisions for trafficking victims (especially women) beyond general violence-victim services. The judge inferred that mere mention/definition equals an intersectional trafficking-victims approach, which is an overreach.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SUMATERA_BARAT_PADANG_PARIAMAN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-07-28T14:44:40.543650+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

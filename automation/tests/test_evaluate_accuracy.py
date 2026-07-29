@@ -5,12 +5,15 @@ import pandas as pd
 import pytest
 
 from automation.src.evaluate_accuracy import (
+    apply_manual_overwrites,
     build_error_analysis_df,
+    calculate_metrics,
     deduplicate_reports,
     filter_golden_to_evaluated,
     find_unmatched_indicator_pairs,
     load_golden_dataframe,
     load_llm_results,
+    load_manual_overwrites,
     parse_report_timestamp,
 )
 
@@ -119,3 +122,82 @@ def test_filter_golden_to_latest_year():
     filtered = filter_golden_to_evaluated(golden_df, ["A.txt", "B.txt"])
     assert len(filtered) == 2
     assert filtered[filtered["filename"] == "A.txt"].iloc[0]["value"] == 1.0
+
+
+def test_load_manual_overwrites_missing_path_returns_empty():
+    assert load_manual_overwrites(None) == {}
+
+
+def test_load_manual_overwrites_missing_file_returns_empty(tmp_path):
+    assert load_manual_overwrites(tmp_path / "does_not_exist.yaml") == {}
+
+
+def test_load_manual_overwrites_parses_yaml(tmp_path):
+    path = tmp_path / "manual_overwrites.yaml"
+    path.write_text(
+        "A.txt:\n  '4.4': 1\n  '5.1': 0\n"
+        "B.txt:\n  '1.2': 1\n",
+        encoding="utf-8",
+    )
+
+    overwrites = load_manual_overwrites(path)
+    assert overwrites == {
+        "A.txt": {"4.4": 1.0, "5.1": 0.0},
+        "B.txt": {"1.2": 1.0},
+    }
+
+
+def test_apply_manual_overwrites_replaces_matching_value():
+    golden_df = pd.DataFrame(
+        [
+            {"filename": "A.txt", "indicator_id": "4.4", "value": 0.0},
+            {"filename": "A.txt", "indicator_id": "5.1", "value": 0.0},
+            {"filename": "B.txt", "indicator_id": "4.4", "value": 0.0},
+        ]
+    )
+    overwrites = {"A.txt": {"4.4": 1.0}}
+
+    result = apply_manual_overwrites(golden_df, overwrites)
+
+    assert result[(result["filename"] == "A.txt") & (result["indicator_id"] == "4.4")]["value"].iloc[0] == 1.0
+    # unrelated rows are untouched
+    assert result[(result["filename"] == "A.txt") & (result["indicator_id"] == "5.1")]["value"].iloc[0] == 0.0
+    assert result[(result["filename"] == "B.txt") & (result["indicator_id"] == "4.4")]["value"].iloc[0] == 0.0
+
+
+def test_apply_manual_overwrites_no_match_is_ignored_not_raised():
+    golden_df = pd.DataFrame([{"filename": "A.txt", "indicator_id": "4.4", "value": 0.0}])
+    # "9.9" doesn't exist for A.txt — should warn (printed) but not raise or add rows.
+    result = apply_manual_overwrites(golden_df, {"A.txt": {"9.9": 1.0}})
+    assert len(result) == 1
+    assert result.iloc[0]["value"] == 0.0
+
+
+def test_apply_manual_overwrites_empty_overwrites_returns_same_df():
+    golden_df = pd.DataFrame([{"filename": "A.txt", "indicator_id": "4.4", "value": 0.0}])
+    assert apply_manual_overwrites(golden_df, {}) is golden_df
+
+
+def test_calculate_metrics_applies_manual_overwrites(tmp_path):
+    csv_path = tmp_path / "golden.csv"
+    csv_path.write_text(
+        "fullname,filename,year,indicator_id,value,indicator_value\n"
+        "ACEH BIREUEN,ACEH_BIREUEN.txt,2022,4.4,0.0,Prevention through education\n"
+        "ACEH BIREUEN,ACEH_BIREUEN.txt,2022,5.1,0.0,NGO collaboration\n",
+        encoding="utf-8",
+    )
+    llm_df = pd.DataFrame(
+        [
+            {"filename": "ACEH_BIREUEN.txt", "indicator_id": "4.4", "pred_value": 1.0},
+            {"filename": "ACEH_BIREUEN.txt", "indicator_id": "5.1", "pred_value": 0.0},
+        ]
+    )
+
+    errors_df, _, metrics_summary = calculate_metrics(
+        str(csv_path), llm_df, manual_overwrites={"ACEH_BIREUEN.txt": {"4.4": 1.0}}
+    )
+
+    # Golden value for 4.4 corrected from 0.0 to 1.0 before comparison, so the
+    # LLM's "Yes" prediction now matches it — no error, full accuracy.
+    assert errors_df.empty
+    assert metrics_summary["overall"]["accuracy"] == 1.0
