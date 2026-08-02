@@ -1,0 +1,775 @@
+# CENTRAL LOMBOK REGENCY
+
+# WEST NUSA TENGGARA PROVINCE
+
+REGIONAL REGULATION OF CENTRAL LOMBOK REGENCY NUMBER 22 OF 2024
+
+# CONCERNING
+
+# THE PROTECTION OF WOMEN AND CHILDREN
+
+# BY THE GRACE OF ALMIGHTY GOD THE REGENT OF CENTRAL LOMBOK,
+
+Considering that women and children are creatures of God and assets of the nation who must be protected, respected, and have their human rights fulfilled by the State, law and government to obtain true welfare as stipulated in Pancasila and the 1945 Constitution of the Republic of Indonesia; that women and children require protection from various forms of violence, exploitation, child marriage, and neglect, there needs to be strategic efforts from the Regional Government and other parties who are obligated to provide protection for women and children; that Regional Regulation of Central Lombok Regency Number 3 of 2009 concerning the Protection of Children and Women Victims of Violence is no longer in accordance with the development of law and policies on the protection of women and children established by the government and provincial government and therefore needs to be replaced; that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children.
+
+#### Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia:
+
+2. Law Number 69 of 1958 concerning the Establishment of Second Level Regions within the First Level Regions of Bali, West Nusa Tenggara, East Nusa Tenggara (State Gazette of the Republic of Indonesia of 1958 Number 122, Supplement to the State Gazette of the Republic of Indonesia Number 1665), Law Number 1 of 1974 concerning Marriage (State Gazette of the Republic of Indonesia of 1974 Number 1, Supplement to the State Gazette of the Republic of Indonesia Number 3019) as amended by Law Number 16 of 2019 concerning Amendment to Law Number 1 of 1974 concerning Marriage (State Gazette of the Republic of Indonesia of 2019 Number 186, Supplement to the State Gazette of the Republic of Indonesia Number 6401), Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended several times most recently by Law Number 17 of 2016 concerning Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection into Law (State Gazette of the Republic of Indonesia of 2016 Number 237, Supplement to the State Gazette of the Republic of Indonesia Number 5946): Law Number 12 of 2022 concerning the Criminal Act of Sexual Violence (State Gazette of the Republic of Indonesia of 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792): Regulation of the State Minister for Women's Empowerment Number 19 of 2011 concerning Guidelines for the Empowerment of Women Victims of Violence (State News of the Republic of Indonesia of 2011 Number 903): Regional Regulation of West Nusa Tenggara Province Number 8 of 2015 concerning the Implementation of Protection of Women and Children (Regional Gazette of West Nusa Tenggara Province of 2015 Number 8, Supplement to the Regional Gazette of West Nusa Tenggara Province Number 119), Regional Regulation of West Nusa Tenggara Province Number 5 of 2021 concerning Prevention of Child Marriage (Regional Gazette of West Nusa Tenggara Province of 2021 Number 5, Supplement to the Regional Gazette of West Nusa Tenggara Province Number 174), With the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF CENTRAL LOMBOK REGENCY and
+
+##### REGENT OF CENTRAL LOMBOK
+
+##### DECIDES:
+
+To Establish: REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN AND CHILDREN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by: 1.
+
+2.
+3.
+10.
+
+Region is Central Lombok Regency.
+
+Regent is the Regent of Central Lombok.
+
+Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous Region.
+
+Regional apparatus is an auxiliary element of the Regent in the administration of Government Affairs that are the authority of the region.
+
+Implementation of Protection is all actions and service efforts to guarantee and protect the rights of children and women organized by the Regional Government and Society.
+
+Violence is any act unlawfully with or without the use of means against physical and psychological that causes danger to life, body or causes the deprivation of a person's freedom.
+
+Violence against women hereinafter abbreviated as KTP is that which results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically including threats of certain actions. Coercion or deprivation of freedom, whether occurring in public or private life.
+
+Violence against children is any action that results in misery or suffering to children physically, sexually, economically, socially, psychologically including threats of certain actions, coercion or deprivation of freedom.
+
+Victim is a woman and child who experiences and/or suffers either directly or indirectly as a result of violence. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecution, Court, social institutions, or other parties who know or hear that violence against women will or has occurred.
+
+Protection of children is all activities to guarantee
+
+11.
+
+and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and dignity and receive Protection from violence and discrimination.
+
+#### Article 2
+
+The protection of women and children is based on the principles of: Up respect for human dignity; non-discrimination; "Pp best interests of Victims, justice; benefit, and legal certainty.
+
+#### Article 3
+
+The objectives of the Protection of women and children consist of: preventing all forms of violence against women
+
+a.
+
+and children, providing Protection and services to
+
+b.
+
+women and children victims of violence: providing a sense of security to women and children from crime and violence: preventing children from child marriage, guaranteeing Protection and fulfillment of children's rights, and providing guarantees for reproductive health to women and children.
+
+#### Article 4
+
+The scope of this Regional Regulation includes: Women's Empowerment,
+
+a.
+
+Women's Protection,
+
+b.
+
+Fulfillment of Children's Rights, and Special Protection of Children.
+
+# CHAPTER II
+
+## WOMEN'S EMPOWERMENT
+
+#### Article 5
+
+The Implementation of Women's Empowerment, includes: a. efforts to raise awareness and shape women's behavior in the need for self-capacity improvement, efforts to develop women's access to participate in the economic, political, social, and cultural fields, and efforts to improve women's competence.
+
+#### Article 6
+
+Efforts to raise awareness and shape women's behavior in the need for self-capacity enhancement as referred to in Article 5 letter a, include: a. understanding and awareness of women's basic rights,
+
+   - b. providing motivation for women to have capability or empowerment, and c. fostering awareness in women about equality and their position.
+2. Efforts to raise awareness and shape women's behavior as referred to in paragraph (1), are implemented through guidance of community groups, women's forums, women's organizations, and women's institutions. (3) Guidance as referred to in paragraph (2), is conducted in the form of education, socialization, and advocacy. Article 7 Efforts to develop women's access to participate in the economic, political, social and cultural fields as referred to in Article 5 letter b, include: a. fostering and developing women's entrepreneurship,
+   - b. enhancing Women's Empowerment in various professions, c. enhancing the role and function of women in political organizations, d. involving women to participate actively in development programs, e. providing access for women to participate in the Provincial Regional Government environment, f. providing leadership opportunities for women, g. fostering and developing women's forums or institutions in the framework of enhancing Women's Empowerment, and h. enhancing Women's Empowerment in arts and culture.
+
+#### Article 8
+
+Efforts to improve women's competence as referred to in Article 5 letter c, among others, are carried out through:
+
+   - a. skills training, and
+   - b. education and literacy for women.
+
+# CHAPTER III
+
+## PROTECTION OF WOMEN
+
+#### Article 9
+
+The implementation of Protection of Women as referred to in paragraph (1) includes:
+
+   - a. efforts to improve family quality,
+   - b. efforts to fulfill the special needs of women,
+   - c. efforts to prevent and protect women victims of Violence, Exploitation, and Discrimination in a fast, integrated, and coordinated manner, and
+   - d. efforts to protect women in disaster situations.
+
+#### Article 10
+
+Efforts to improve family quality as referred to in Article 9 letter a, are implemented through:
+
+   - a. improving the quality of children through providing access to information, education, counseling, and services regarding care, nurturing, Protection, and child development,
+   - b. improving the quality of adolescents through providing access to information, education, counseling, and services regarding family life,
+   - c. improving the functioning, roles, and duties of the family,
+   - d. empowering vulnerable families through Protection and assistance and/or facilitation to develop themselves to be equal with other families,
+   - e. improving the quality of the family environment,
+   - f. increasing access and opportunities to receive information and family economic resources; and
+   - g. developing innovative methods through assistance and/or facilitation that are more effective for pre-prosperous families, and developing programs and activities in efforts to reduce poverty rates for pre-prosperous families and women who serve as heads of families.
+
+Pasal 11 Efforts to fulfill the special needs of women as referred to in Article 9 letter b, are implemented through: a. health services, particularly family planning services, pregnancy, childbirth and post-childbirth, b. fulfillment of the right to obtain paid leave including maternity leave, and c. provision of special facilities and infrastructure for women.
+
+#### Article 12
+
+Efforts for prevention and Protection of Women victims of Violence, Exploitation, and Discrimination as referred to in Article 9 letter c, include:
+
+   - a. prevention of women from becoming victims of Violence, Exploitation, and Discrimination;
+   - b. handling of women victims of Violence, Exploitation, and Discrimination, and
+   - c. Empowerment of Women victims of Violence, Exploitation, and Discrimination.
+
+#### Article 13
+
+Efforts for the Protection of Women in disaster situations as referred to in Article 9 letter d, shall be implemented through:
+
+   - a. health services, and
+   - b. provision of women-friendly facilities at disaster evacuation sites.
+
+# CHAPTER IV
+
+## FULFILLMENT OF CHILDREN'S RIGHTS
+
+#### Article 14
+
+Fulfillment of Children's Rights as referred to in Article 4 letter c, includes:
+
+   - a. fulfillment of civil rights and freedoms;
+   - b. development of family environment and alternative care;
+   - c. fulfillment of the right to basic health and welfare; and
+   - d. fulfillment of the right to education, leisure time, culture, and recreation.
+
+#### Article 15
+
+The fulfillment of civil rights and freedoms as referred to in Article 14 letter a, shall be implemented through:
+
+   - a. facilitation of population administration and civil registration of children,
+   - b. provision of child-appropriate information, and
+   - c. enhancement of children's participation in development.
+
+#### Article 16
+
+Facilitation of population administration and civil registration of Children as referred to in Article 15 letter a, among others:
+
+   - a. facilitation of ownership of birth certificate extract;
+   - b. facilitation of ownership of family card, and
+   - c. facilitation of child identity card.
+
+#### Article 17
+
+The provision of Child-appropriate information as referred to (1) in Article 15 letter b, includes efforts to:
+
+   - a. provide broad access to information for Children, b. provide appropriate information for Children, c. encourage the production and dissemination of Children's books: and
+   - d. develop the Protection of Children from inappropriate information.
+
+In order to provide broad access to information for (2) Children as referred to in paragraph (1) letter a, analog information facilities and digital information facilities shall be built and developed.
+
+#### Article 18
+
+The enhancement of Child participation in development as referred to in Article 15 letter c, is carried out through the institutionalization of Child participation.
+
+The institutionalization of Child participation as referred to in paragraph (1), takes the form of a Regional Child Forum to accommodate Child participation in development.
+
+The Regional Child Forum as referred to in paragraph (2), has the following functions:
+
+   - a. monitoring the fulfillment of rights and implementation of obligations of Children,
+   - b. socialization of children's rights and obligations among peer environments,
+   - c. voicing the aspirations of Children,
+   - d. involving themselves in regional development planning deliberation forums,
+   - e. involving themselves in decision-making processes, and
+   - f. encouraging children to actively develop their potential.
+
+#### Article 19
+
+Development of family environment and alternative care (1) as referred to in Article 14 letter b, shall be implemented through:
+
+   - a. development of family or substitute family, and
+   - b. holistic and integrative early childhood development, and c. development of prevention of Child marriage.
+
+Development of family or substitute family as referred to in paragraph (1) letter a, includes:
+
+   - a. development of fulfillment of Child Rights required during their care, and
+   - b. development to always include love and affection in child care.
+3. Forms of development of family or substitute family as referred to in paragraph (2), among others:
+   - a. provision of family consultation institutions for Child care,
+   - b. development of standardization of alternative care institutions, and
+   - c. capacity strengthening of consultation institutions providing Child care services.
+
+#### Article 20
+
+1. The fulfillment of basic health and welfare as referred to in Article 14 letter c, includes: provision of health facilities and infrastructure for Children,
+
+a.
+
+provision of human resources in the health sector,
+
+b.
+
+guidance on Protection and health maintenance of Children, covering:
+
+c.
+
+1. guidance on child growth health in efforts to reduce infant mortality rates and malnutrition rates for children,
+2. guidance on providing early breastfeeding initiation, exclusive breast milk and continuous breast milk directly,
+3. guidance on providing complete immunization for children, and
+4. guidance on providing healthy, balanced, and safe food for Children, provision of welfare facilities and infrastructure for Children, covering:
+1. guidance on child-appropriate households,
+2. provision of child-friendly public spaces,
+3. guidance on the availability of child-friendly infrastructure in public spaces, guidance on organizing Children's playgrounds, guidance on Child care facilities, guidance on the availability of breastfeeding (lactation) rooms: guidance on the availability of child-friendly places of worship,
+8. provision and guidance on the availability of green open spaces,
+9. guidance on organizing smoke-free areas, and
+10. guidance on organizing child-friendly public transportation, provision of accessibility facilities and infrastructure for Children with disabilities,
+   - f. maintenance, care, and social rehabilitation of neglected children,
+   - g. guidance on improving the welfare of poor families.
+2. Guidance on child-appropriate households as referred to in paragraph (1) letter d number 1, is carried out in efforts to fulfill access to clean water and proper sanitation.
+
+#### Article 21
+
+The fulfillment of the rights to education, leisure time, culture, and recreation as referred to in Article 14 letter d, shall be implemented through:
+
+   - a. provision of educational facilities and infrastructure,
+   - b. provision of educational human resources,
+   - c. implementation of Child-friendly schools,
+   - d. implementation of support for the 12 (twelve) year compulsory education program,
+   - e. development of early childhood education,
+   - f. facilitation of access to education for children who are already married,
+   - g. facilitation of access to education for children in conflict with the law,
+   - h. provision of facilities and infrastructure for children's playgrounds,
+      - i. provision of creative and recreational facilities and infrastructure, and
+   - j. provision of sports facilities and infrastructure for Children with disabilities.
+
+# CHAPTER V
+
+## SPECIAL PROTECTION OF CHILDREN
+
+## Part One
+
+General
+
+#### Article 22
+
+1. Special Protection as referred to in Article 4 letter d, includes: 020p a) Children in emergency situations, Children victims of child marriage, Children in conflict with the law, Children from minority and isolated groups, Children who are exploited economically and/or sexually, Children who are victims of narcotics abuse, alcohol, psychotropic substances, and other addictive substances,
+   - g. Children who are victims of pornography,
+   - h. Children with Human Immunodeficiency Virus and Acquired Immune Deficiency Syndrome, i) Children victims of kidnapping, sale, and/or trafficking;
+   - j. Children victims of physical and/or psychological Violence,
+
+##### 1  AN
+
+Child victims of sexual crimes, Child victims of terrorism networks, . Children with Disabilities, Child victims of maltreatment and neglect, Na Children with deviant social behavior, and Children who become victims of stigmatization from labeling related to their parents' condition.
+
+2. Children in emergency situations as referred to in paragraph (1) letter a, consist of:
+   - a. Children who become refugees:
+   - b. Child victims of riots,
+   - c. Child victims of natural disasters and non-natural disasters, and d. Children in armed conflict situations.
+3. Child victims of child marriage as referred to in paragraph (1) letter b, constitutes a marriage conducted between a man and a woman where one and/or both are still of child age.
+
+#### Article 23
+
+The Implementation of Special Protection for Children as referred to in Article 22 paragraph (1), includes:
+
+   - a. Prevention, and
+   - b. Handling.
+
+## Part Two
+
+Prevention
+
+#### Article 24
+
+Prevention as referred to in Article 23 letter a, includes:
+
+   - a. optimization of children's resource capacity, creation of an environment that supports Child Protection, DO strengthening coordination of stakeholders.
+
+increasing accessibility and expansion of services, strengthening regulations and institutions, and
+
+#### Article 25
+
+1. Optimization of children's resource capacity as referred to in Article 4 letter a is carried out through: a. increasing awareness and attitudes of children related to the right to receive Protection,
+   - b. increasing children's participation in child Protection efforts: and c. increasing spaces and communities that support children to grow and develop optimally, both in formal and informal environments in line with the development of information, technology, and children's situations.
+2. (3) (1) (2) (3) Increasing awareness and attitudes of children related to the right to receive Protection as referred to in paragraph (1) letter a is carried out through regional government policy intervention towards optimizing the implementation of child Protection in school education.
+
+Increasing children's participation in child Protection efforts as referred to in paragraph (1) letter b, is carried out through regional policy intervention: a. providing and strengthening peer counselors and Youth Posyandu starting from the village/kelurahan level to the district level integrated with the formal referral system,
+
+   - b. providing formal participation mechanisms for children and adolescents to be directly involved in child Protection efforts at various levels, one of which is through the Children's Forum, and c. strengthening the Children's Forum as pioneers and reporters.
+
+#### Article 26
+
+The creation of an environment that supports Child Protection as referred to in Article 24 letter b, is carried out through:
+
+   - a. transformation of values, norms, and perspectives regarding Child Protection,
+   - b. strengthening the role of parents, schools, families, and communities in Child Protection, and
+   - c. revitalization of cultures that risk encouraging the occurrence of violence and child marriage.
+
+The transformation of values, norms, and perspectives regarding Child Protection as referred to in paragraph (1) letter a is carried out through local government policy intervention strategies toward:
+
+   - a. strengthening the understanding and role of parents, families, social/community organizations, schools, Islamic boarding schools and other stakeholders in Child Protection efforts,
+   - b. transformation of counseling and assistance services for parents and children professionally,
+   - c. improvement of quality parenting skills especially for adolescents, and
+   - d. encouraging cultural practices that support the realization of Child Protection and prevent child marriage.
+
+The strengthening of the role of parents, schools, families, communities and other stakeholders in Child Protection as referred to in paragraph (1) letter b is carried out through local government policy intervention strategies toward: (1) (2) (3) (4)
+
+   - a. socialization and education about the importance of Child Protection,
+   - b. family economic empowerment through family entrepreneurship, family hope programs and/or other programs that ensure children from poor and vulnerable families receive social assistance:
+   - c. strengthening the system and child-friendly school environment by adding reproductive health rights and mental health, and
+   - d. strengthening community institutions at various levels up to the village/sub-district level with various training and child assistance skills.
+
+#### Article 27
+
+Increasing accessibility and expanding services as referred to in Article 24 letter c is carried out through:
+
+   - a. provision of child and adolescent-friendly, gender-responsive and inclusive access and services before violence against children occurs, and
+   - b. provision of child and adolescent-friendly, gender-responsive and inclusive access and services after violence against children occurs.
+
+Increasing accessibility and expanding services through the provision of child and adolescent-friendly, gender-responsive and inclusive access and services before violence against children occurs as referred to in paragraph (1) letter a, is carried out through local government policy intervention towards:
+
+   - a. provision of child-friendly information services,
+   - b. developing Adolescent Posyandu services starting at the hamlet/neighborhood level, and
+   - c. optimization of services to reduce vulnerability in children.
+
+Increasing accessibility and expanding services through the provision of child and adolescent-friendly, gender-responsive and inclusive access and services after violence against children occurs as referred to in paragraph (1) letter b, is carried out through local government policy intervention towards:
+
+   - a. Development of a comprehensive service referral system for vulnerable children, and
+   - b. Assistance for children who require special Protection to obtain their rights as children.
+
+Increasing accessibility and expanding services can be carried out by strengthening existing service institutions, namely: puskesmas, posyandu, Adolescent Posyandu and Family Posyandu, UPTD PPA, Family Learning Center (PUSPAGA), Family Welfare Consultation Institution (LK3), Child Protection Organizing Institution, Child Social Welfare Institution (LKSA), Prosperous Family Service Center (PPKS), and
+
+#### Article 28
+
+Strengthening of regulations and institutions as referred to (1) in Article 24 letter d is carried out through: a. strengthening the institutional capacity of child Protection and empowerment and education units,
+
+   - b. encouraging the establishment of village regulations and village head regulations concerning child Protection,
+   - c. conducting evaluations of village regulations, school regulations and/or awig-awig that encourage the occurrence of violence and child vulnerability, and Strengthening the institutional capacity of child Protection and empowerment and education units as referred to in paragraph (1) letter a is carried out through local government policy intervention toward increasing the knowledge and skills of law enforcement officers, village apparatus, KUA officers, customary stakeholders, extension workers and teachers.
+
+#### Article 29
+
+Strengthening stakeholder coordination as referred to in Article 24 letter e is carried out through strategies focused on:
+
+   - a. improving cross-sectoral, cross-field, and cross-regional cooperation,
+   - b. strengthening data and information systems, and C. supervision, monitoring, and evaluation.
+
+Strengthening stakeholder coordination as referred to in paragraph (1) is carried out through local government policy interventions toward:
+
+   - a. strengthening coordination forums for planning and implementation of child Protection policies,
+   - b. utilization of data for policy improvement, and C. building data and information systems as the basis for implementing referral services for children requiring special Protection.
+
+## Part Three
+
+Handling
+
+#### Article 30
+
+1. Handling as referred to in Article 23 letter b, includes:
+   - a. rehabilitation services, covering physical, medical, psychological, educational, and social rehabilitation:
+   - b. facilitation of legal aid services,
+   - c. facilitation of fulfillment of basic needs, covering food, clothing, shelter, education, health, learning and recreation, security guarantees, and equal treatment,
+   - d. facilitation of fulfillment of special needs for children with disabilities and psycho-social disorders,
+   - e. facilitation of health services:
+   - f. repatriation and social reintegration, and
+   - g. protection of child witnesses.
+2. Protection of child witnesses as referred to in paragraph (1) letter g, is implemented through:
+   - a. facilitation of medical rehabilitation, psychological, social rehabilitation, within institutions and outside institutions:
+   - b. facilitation of safety guarantees: and
+   - c. facilitation of ease in obtaining information regarding case developments.
+
+#### Article 31
+
+In order to implement handling in the effort of Special Protection for Children, the Regional Government needs to provide social protection houses for children/comprehensive integrated safe houses for children.
+
+# CHAPTER VI
+
+## COORDINATION TEAM FOR THE PROTECTION OF WOMEN AND CHILDREN
+
+#### Article 32
+
+1. The Regent establishes a Coordination Team for the Protection of Women and Children.
+2. The Coordination Team for the Protection of Women and Children as referred to in paragraph (1), serves as a coordination forum in implementing empowerment, Protection of women, fulfillment of Children's Rights and Special Protection of Children in the region, which has the following functions:
+   - a. facilitation in the empowerment and Protection of women, and
+   - b. facilitation in efforts to fulfill Children's Rights and Special Protection of Children.
+3. The membership of the Coordination Team for the Protection of Women and Children as referred to in paragraph (1) and paragraph (2), shall consist of at least:
+   - a. elements of Regional Apparatus that carry out governmental affairs in the field of women's empowerment and child Protection,
+   - b. Regional Apparatus that carry out governmental affairs in the field of education,
+   - c. Regional Apparatus that carry out governmental affairs in the field of health,
+   - d. Regional Apparatus that carry out governmental affairs in the field of social affairs,
+   - e. Regional Apparatus that carry out governmental affairs in the field of transportation,
+   - f. Regional Apparatus that carry out governmental affairs in the field of community and village empowerment,
+   - g. Regional Apparatus that carry out governmental affairs in the field of population and civil registration,
+   - h. Regional Apparatus that carry out governmental affairs in the field of communication and informatics,
+      - i. Regional Apparatus that carry out governmental affairs in the field of manpower and transmigration,
+   - j. Regional Apparatus that carry out governmental affairs in the field of highways and spatial planning,
+   - k. elements of the Police,
+   - l. elements of the Prosecutor's Office,
+   - m. elements of the Court,
+   - n. elements of the Children's Forum,
+   - o. educational institutions,
+   - p. community organizations concerned with the Protection of women and children,
+   - q. media, and
+   - r. the community.
+4. The Coordination Team for the Protection of Women and Children as referred to in paragraph (1), paragraph (2), and paragraph (3), shall be established by Regent's Decree.
+
+# CHAPTER VII
+
+## INSTITUTIONAL ARRANGEMENTS
+
+#### Article 33
+
+1. Regional government establishes UPTD PPA which administers Handling, Protection, and Recovery of Victims, Families of Victims, and/or Witnesses.
+2. UPTD PPA is positioned in the work unit that administers governmental affairs in the field of women's empowerment and child protection.
+3. The establishment of UPTD PPA is stipulated by Regent Regulation after fulfilling requirements in accordance with statutory provisions.
+4. UPTD PPA as referred to in paragraph (1) has the duty to:
+   - a. receive reports or outreach to Victims,
+   - b. provide information about the rights of Victims,
+   - c. facilitate the provision of health services,
+   - d. facilitate the provision of psychological strengthening services,
+   - e. facilitate the provision of psychosocial services, social rehabilitation, social empowerment, and social reintegration,
+   - f. provide legal services,
+   - g. identify economic empowerment needs,
+   - h. identify temporary shelter needs for Victims and Families of Victims that need to be fulfilled immediately,
+      - i. facilitate the needs of Victims with Disabilities,
+   - j. coordinate and work together on the fulfillment of Victims' rights with other institutions, and
+   - k. monitor the fulfillment of Victims' rights by law enforcement apparatus during the judicial process.
+
+#### Article 34
+
+1. UPTD PPA in carrying out duties as referred to in Article 33 performs the functions of:
+   - a. provision of facilities, places, and/or service spaces,
+   - b. arrangement of service patterns,
+   - c. guarantee of service quality,
+   - d. provision of mechanisms, management, and resolution of public complaints, and
+   - e. monitoring and evaluation.
+2. Work Procedures and Mechanisms for Implementation of Duties and Functions of UPTD PPA are further regulated in Regent Regulation.
+
+# CHAPTER VIII
+
+## COMMUNITY AND BUSINESS PARTICIPATION
+
+## Part One
+
+Community Participation
+
+#### Article 35
+
+Community participation in the empowerment and Protection of Women can be carried out through:
+
+   - a. provision of skills training,
+   - b. prevention of women from becoming victims of Violence, Exploitation, and Discrimination, and
+   - c. assistance to women victims of Violence, Exploitation, and Discrimination.
+
+#### Article 36
+
+Community participation in the implementation of Child Protection is carried out through activities:
+
+   - a. providing suggestions and considerations in the implementation of Child Protection,
+   - b. dissemination of information in the context of Child Protection,
+   - c. provision of funds, services, as well as facilities and infrastructure in the context of Child Protection,
+   - d. providing education in efforts to improve the morals of Children,
+   - e. prevention of child marriage, Violence, exploitation, discrimination and neglect of Children,
+   - f. reporting, emergency assistance and Protection for Children who experience child marriage, Violence, exploitation, discrimination and neglect,
+   - g. advocacy for handling child marriage, Violence, exploitation, discrimination and neglect of Children,
+   - h. facilitation of the repatriation and/or social reintegration process, and
+      - i. other activities that support efforts for Protection, care, and welfare of Children.
+
+Second Part Business Sector Participation
+
+#### Article 37
+
+Participation of the business sector in the empowerment and Protection of Women can be carried out through:
+
+   - a. provision of facilities and infrastructure for the empowerment and Protection of Women,
+   - b. facilitation of education and training, and
+   - c. granting of awards.
+
+#### Article 38
+
+Participation of the business sector in child protection can be carried out through: providing advice and considerations in the implementation of Child Protection, provision of funds, services, as well as facilities and infrastructure in the context of Child Protection, provision of education in child protection efforts, prevention of child marriage, Violence, exploitation, discrimination and neglect of Children, other activities that support protection, care, and welfare efforts of Children.
+
+# CHAPTER IX
+
+## AWARDS
+
+#### Article 39
+
+The Regent may grant awards to Regional Apparatus, Village/Sub-district Government, business sector, and community members who have actively played a role in:
+
+   - a. support and active participation in women's empowerment efforts, and
+   - b. provision of facilitation for the protection of women and children.
+
+The granting of awards as referred to in paragraph (2) (1) shall be in the form of:
+
+   - a. Incentives, grants or financial assistance,
+   - b. certificates, C. trophies, and/or
+   - d. facilitation of infrastructure and facilities development for the protection of women and children.
+
+# CHAPTER X
+
+## FINANCING
+
+#### Article 40
+
+Financing for the implementation of Child Protection is sourced from:
+
+a.
+
+b.
+
+1. Regional Revenue and Expenditure Budget, and other legitimate sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER XI
+
+## TRANSITIONAL PROVISIONS
+
+#### Article 41
+
+UPTD PPA that have been established before this regional regulation is promulgated shall continue to carry out their duties and functions related to the protection of women and children and must adjust to this regional regulation no later than 1 (one) year from the promulgation of this regional regulation.
+
+2. In the event that UPTD PPA has not been established, the establishment of UPTD PPA shall be carried out no later than 2 (two) years from the promulgation of this regional regulation.
+3. In the event that UPTD PPA has not been established as referred to in paragraph (2), the implementation of Integrated Services in the region shall be conducted by the regional work unit that administers governmental affairs in the field of women's empowerment and child protection.
+
+# CHAPTER XII
+
+## CLOSING PROVISIONS
+
+#### Article 42
+
+At the time this Regional Regulation comes into force, Regional Regulation of Central Lombok Regency Number 3 of 2009 concerning Protection of Children and Women Victims of Violence, is revoked and declared invalid.
+
+#### Article 43
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+So that everyone may know of it, orders the promulgation of this Regional Regulation by placing it in the Regional Gazette of Central Lombok Regency.
+
+Derenan di Praya ag xgal, 23 9-— 2024 REGIONAL GAZETTE OF CENTRAL LOMBOK REGENCY YEAR .... NUMBER ....  REGISTRATION NUMBER OF REGIONAL REGULATION OF CENTRAL LOMBOK REGENCY, PROVINCE OF WEST NUSA TENGGARA NUMBER ... YEAR 2024
+
+##### ELUCIDATION
+
+##### REGIONAL REGULATION OF CENTRAL LOMBOK REGENCY
+
+##### NUMBER YEAR 2024
+
+##### CONCERNING
+
+##### PROTECTION OF WOMEN AND CHILDREN
+
+##### GENERAL
+
+l.
+
+Regional Regulation of Central Lombok Regency number 3 year 2009 concerning Protection of children and women victims of violence has been in effect for approximately 14 years. During the period of its validity there have been many changes in policies and legislation in the field of Protection of children and women both taken by the central government, provincial government and Central Lombok regency government. Therefore at the level of regency regional regulations adjustments need to be made so that the Central Lombok regency government has a legal basis in implementing policies and programs in the field of Protection of women and children.
+
+The field of regional government has undergone changes with the revocation of Law Number 32 Year 2004 concerning Regional Government by Law Number 23 Year 2014 concerning Regional Government. Based on article 12 of Law Number 23 year 2014 concerning Regional Government that the affairs of women's empowerment and protection of children constitute Mandatory Government Affairs that are not related to Basic Services. In the appendix of Law Number 23 year 2014 concerning Regional Government is regulated in more detail the division of regency government affairs in the field of women's empowerment and protection of children. The field of women includes authorities: a). Prevention of violence against women involving parties within the scope of regency/city Region. b). Provision of services for women victims of violence requiring coordination at the regency/city Region level. c. Strengthening and development of institutions providing Protection services for women at the regency/city Region level. Field. Quality of Life of Women includes, Institutionalization of PUG in government institutions at the regency/city Region level. b. Empowerment of women in the political, legal, social and economic fields in community organizations at the regency/city Region level. c. Strengthening and development of institutions providing women's empowerment services at the regency/city Region level. Field of Fulfillment of Children's Rights (PHA), includes: Institutionalization of PHA in government institutions, non-government, and business world at the regency/city Region level, Strengthening and development of institutions providing services for improving the quality of life of children at the regency/city Region level. Field of Protection of special children includes, a. Prevention of violence against children involving parties within the scope of regency/city Region. b. Provision of services for children requiring special Protection requiring coordination at the regency/city Region level. c. Strengthening development of institutions providing services for children requiring special Protection at the regency/city Region level.
+
+Changes also occurred in law number 23 year 2022 concerning Protection of children through two changes namely 1). law number 35 year 2014 concerning amendments to law number concerning Protection of children, and 2. Stipulation of Government Regulation in Lieu of Law Number 1 Year 2016 Concerning the Second Amendment to Law Number 23 Year 2002 Concerning Protection of Children into Law. There are a number of obligations of regional governments contained in this law that must be further regulated by regional regulations. Changes to law number 23 year 2022 concerning Protection of children certainly have legal implications for legal policies on Protection of children in Central Lombok regency.
+
+In the aspect of Protection of women significant changes occurred when law number 12 year 2022 concerning criminal acts of sexual violence was enacted. There are several provisions related to the obligations of regional governments that must be regulated in regional regulations: 1). Provisions of Article 76 paragraph (2) Provincial and regency/city Regional Governments are obliged to establish UPTD PPA that organizes Handling, Protection, and Recovery of Victims, Families of Victims, and/or Witnesses, 2). Article 79 paragraph (1) obligation of the Central Government and Regional Governments are obliged to organize Prevention of Criminal Acts of Sexual Violence quickly, integrated, and integrated. 3). Article 80 paragraph (1) Regional Governments are obliged to organize education and training for law enforcement officials, government service personnel, and service personnel at Community-Based Service Provider Institutions, 4). Article 82 Central Government and Regional Governments are obliged to conduct coordination regularly and continuously for Victims.
+
+At the provincial government level has enacted Regional Regulation of West Nusa Tenggara Province Number 8 Year 2015 concerning Implementation of Protection of Women and Children. There are several obligations contained in the Regional Regulation related to regency obligations. 1). formation of regional regulations and regional head regulations in regencies/cities concerning Protection of Women and Children, 2). Formation of Coordination Team for Protection of Women and Children at the regency/city level.
+
+#### ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently Clear
+
+#### Article 2
+
+Letter a What is meant by "the principle of respect for human dignity" is the recognition of the dignity of Victims that must be protected, respected, and upheld.
+
+Letter b What is meant by "the principle of non-discrimination" is respecting equality of status without distinction, for all parties, on the basis of religion, race, ethnicity, ethnic group, skin color, social status, affiliation, and ideology.
+
+Letter c What is meant by "the principle of the best interests of the Victim" is that all actions concerning Victims carried out by executive institutions, legislative institutions, judicial institutions, and the Community must be the primary consideration.
+
+Letter d What is meant by "the principle of justice" is that the substance related to Sexual Violence Crimes must reflect fair and proportional treatment for every citizen.
+
+Letter e What is meant by "the principle of benefit" is that the substance related to Sexual Violence Crimes is able to provide broad benefits for the interests of the Community, nation, and state.
+
+Letter f What is meant by "the principle of legal certainty" is that the implementation of regulations on Sexual Violence Crimes must be carried out within the framework of a rule of law that prioritizes the foundation of laws and regulations, propriety, and justice.
+
+#### Article 3
+
+Sufficiently Clear
+
+#### Article 4
+
+Sufficiently Clear
+
+#### Article 5
+
+Sufficiently Clear
+
+#### Article 6
+
+Sufficiently Clear
+
+#### Article 7
+
+Sufficiently Clear
+
+#### Article 8
+
+Sufficiently Clear
+
+#### Article 9
+
+Sufficiently Clear
+
+#### Article 10
+
+Sufficiently Clear
+
+#### Article 11
+
+Sufficiently Clear
+
+#### Article 12
+
+Sufficiently Clear
+
+#### Article 13
+
+Sufficiently Clear
+
+#### Article 14
+
+Sufficiently Clear
+
+#### Article 15
+
+Sufficiently Clear
+
+#### Article 16
+
+Sufficiently Clear
+
+#### Article 17
+
+Sufficiently Clear
+
+#### Article 18
+
+Sufficiently Clear
+
+#### Article 19
+
+Sufficiently Clear
+
+#### Article 20
+
+Sufficiently Clear
+
+#### Article 21
+
+Sufficiently Clear
+
+#### Article 22
+
+Sufficiently Clear
+
+#### Article 23
+
+Sufficiently Clear
+
+#### Article 24
+
+Sufficiently Clear
+
+#### Article 25
+
+Sufficiently Clear
+
+#### Article 26
+
+Sufficiently Clear
+
+#### Article 27
+
+Sufficiently Clear
+
+#### Article 28
+
+Sufficiently Clear
+
+#### Article 29
+
+Sufficiently Clear
+
+#### Article 30
+
+Sufficiently Clear
+
+#### Article 31
+
+Sufficiently Clear
+
+#### Article 32
+
+Sufficiently Clear
+
+#### Article 33
+
+Sufficiently Clear
+
+#### Article 34
+
+Sufficiently Clear
+
+#### Article 35
+
+Sufficiently Clear
+
+#### Article 36
+
+Sufficiently Clear
+
+#### Article 37
+
+Sufficiently Clear
+
+#### Article 38
+
+Sufficiently Clear
+
+#### Article 39
+
+Sufficiently Clear
+
+#### Article 40
+
+Sufficiently Clear
+
+#### Article 41
+
+Sufficiently Clear
+
+#### Article 42
+
+Sufficiently Clear
+
+#### Article 43
+
+Sufficiently Clear SUPPLEMENT TO THE REGIONAL GAZETTE OF CENTRAL LOMBOK REGENCY NUMBER ....

@@ -174,6 +174,142 @@ def split_into_sections(cleaned_lines: list[CleanedLine]) -> list[str]:
     return ["\n".join(section) for section in sections]
 
 
+# --- Markdown rendering --------------------------------------------------
+# Used by the cleaning-step output (translate._write_cleaned_text /
+# _write_translation_markdown) to turn clean_text()'s reflowed lines into
+# Markdown: structural markers become nested headings, list starts become
+# ordered/nested-bullet list items. Doesn't affect chunk_policy_text() or
+# split_into_sections() above, which remain unchanged for the LLM chunking
+# pipeline.
+
+# Structural-marker keyword -> heading level. Covers both the Indonesian
+# originals (BAB/Bagian/Paragraf/Pasal) and the English translations
+# (Chapter/Part/Section/Paragraph/Article), so the same rule works on either
+# language without a language flag.
+HEADING_KEYWORD_LEVELS: dict[str, int] = {
+    "bab": 1,
+    "chapter": 1,
+    "buku": 1,
+    "book": 1,
+    "bagian": 2,
+    "part": 2,
+    "section": 2,
+    "paragraf": 3,
+    "paragraph": 3,
+    "pasal": 4,
+    "article": 4,
+}
+MAX_HEADING_LEVEL = 6
+
+ROMAN_CHARS = frozenset("ivxlcdm")
+
+_NUMBER_PAREN_ITEM_RE = re.compile(r"^\((\d+)\)\s*(.*)$")
+_NUMBER_DOT_ITEM_RE = re.compile(r"^(\d+)[.)]\s*(.*)$")
+_LETTER_OR_ROMAN_ITEM_RE = re.compile(r"^([a-z]+)[.)]\s+(.*)$")
+
+_LIST_INDENT = {"number": 0, "letter": 1, "roman": 2}
+
+
+def _heading_level(text: str, current_level: int) -> tuple[int, int]:
+    """Return (level, updated current_level) for a structural marker line.
+
+    A recognized keyword (BAB/Chapter/Pasal/Article/...) sets the level
+    directly. An unrecognized marker (the all-caps-title fallback in
+    is_structure_marker -- also what any keyword-less heading in another
+    language falls back to) is nested one level under the most recently
+    seen keyword heading, without changing what that "most recent" level is
+    -- so a run of consecutive title-only lines stays siblings.
+    """
+    words = text.split(None, 1)
+    first_word = words[0].strip(".:;,").lower() if words else ""
+    keyword_level = HEADING_KEYWORD_LEVELS.get(first_word)
+    if keyword_level is not None:
+        return keyword_level, keyword_level
+    fallback_level = min(current_level + 1, MAX_HEADING_LEVEL) if current_level > 0 else 1
+    return fallback_level, current_level
+
+
+def _classify_list_item(text: str, last_tier: str | None) -> tuple[str, str, str] | None:
+    """Classify a non-structure line as a NUMBER/LETTER/ROMAN list item.
+
+    Returns (tier, marker, rest_text), or None if the line isn't a list
+    item. `last_tier` -- the tier of the immediately preceding list item, or
+    None -- resolves the single-character roman/letter ambiguity ("i."/"v."
+    could be the 9th/22nd letter in a lettered list, or the first roman
+    numeral nested under one): a lone roman-alphabet char is only ROMAN when
+    it directly follows a LETTER-tier item, matching the real nesting
+    pattern (1./a./i.) observed in the source documents. Multi-character
+    roman tokens (ii., iii., iv., ...) are unambiguous.
+    """
+    match = _NUMBER_PAREN_ITEM_RE.match(text) or _NUMBER_DOT_ITEM_RE.match(text)
+    if match:
+        return "number", match.group(1), match.group(2)
+
+    match = _LETTER_OR_ROMAN_ITEM_RE.match(text)
+    if not match:
+        return None
+    token, rest = match.group(1), match.group(2)
+    if len(token) > 1:
+        if all(c in ROMAN_CHARS for c in token):
+            return "roman", token, rest
+        return None
+    # A lone roman-alphabet letter ("c.", "d.", "v.", "x.", ...) is, on its
+    # own, indistinguishable from the next item in a lettered list (a, b,
+    # c, ...) -- only "i." is treated as the possible start of a nested
+    # roman list, since roman numbering always begins at "i" and a genuine
+    # nested list directly follows a lettered item.
+    if token == "i" and last_tier == "letter":
+        return "roman", token, rest
+    return "letter", token, rest
+
+
+def render_markdown(cleaned_lines: list[CleanedLine]) -> str:
+    """Render clean_text()'s output as Markdown.
+
+    Structural marker lines become headings, nested per _heading_level().
+    List-start lines become ordered (numbered/parenthesized) or nested
+    bullet (lettered/roman) list items via _classify_list_item(). Everything
+    else stays a plain paragraph. Headings and paragraphs are blank-line
+    separated; consecutive list items (any tier) are newline-separated so
+    they render as one nested list rather than several.
+    """
+    blocks: list[tuple[str, str]] = []
+    current_level = 0
+    last_tier: str | None = None
+
+    for cleaned in cleaned_lines:
+        if cleaned.is_structure:
+            level, current_level = _heading_level(cleaned.text, current_level)
+            blocks.append(("block", f"{'#' * level} {cleaned.text}"))
+            last_tier = None
+            continue
+
+        item = _classify_list_item(cleaned.text, last_tier)
+        if item is None:
+            blocks.append(("block", cleaned.text))
+            last_tier = None
+            continue
+
+        tier, marker, rest = item
+        indent = "   " * _LIST_INDENT[tier]
+        prefix = f"{marker}." if tier == "number" else f"- {marker}."
+        blocks.append(("list", f"{indent}{prefix} {rest}" if rest else f"{indent}{prefix}"))
+        last_tier = tier
+
+    lines: list[str] = []
+    prev_kind: str | None = None
+    for kind, text in blocks:
+        if kind == "list" and prev_kind == "list":
+            lines.append(text)
+        else:
+            if lines:
+                lines.append("")
+            lines.append(text)
+        prev_kind = kind
+
+    return "\n".join(lines).strip() + "\n"
+
+
 def _split_sentences(text: str) -> list[str]:
     return [part for part in SENTENCE_SPLIT_RE.split(text) if part]
 

@@ -180,12 +180,14 @@ def test_run_translation_step_chunked_logs_suspicious_structural_output(
     )
 
 
-def test_run_translation_step_chunked_always_writes_cleaned_text_and_chunks(
+def test_run_translation_step_chunked_always_writes_chunks_but_not_markdown(
     chunked_pipeline_config, data_root
 ):
-    """The cleaned original text (results/cleaned_text/) and chunks.json
-    (mid_product/chunks/, needed by the RAG storage step) are always written
-    when chunking is enabled — no flag required."""
+    """chunks.json (mid_product/chunks/, needed by the RAG storage step) is
+    always written when chunking is enabled — no flag required. Markdown
+    rendering (results/cleaned_text/, results/translation_markdown/) is a
+    separate `markdown` step (see test_markdown_step.py) and is not written
+    here."""
     run_id = "chunked_always_writes"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
@@ -207,19 +209,10 @@ def test_run_translation_step_chunked_always_writes_cleaned_text_and_chunks(
         force=False,
     )
 
-    cleaned_path = data_root / run_id / "results" / "cleaned_text" / "POLICY.cleaned.txt"
     chunks_path = data_root / run_id / "mid_product" / "chunks" / "POLICY.chunks.json"
-    assert cleaned_path.exists()
     assert chunks_path.exists()
-
-    cleaned_text = cleaned_path.read_text(encoding="utf-8")
-    assert "BAB I" in cleaned_text
-    assert "Kalimat kedua yang cukup panjang untuk diuji juga." in cleaned_text
-    # Sections (BAB I.../Pasal 1 vs BAB II...) are separated by a blank line,
-    # matching combine_translations' section-join pattern — not a uniform
-    # single newline between every line regardless of section boundary.
-    assert "Isi pasal satu selesai.\n\nBAB II" in cleaned_text
-    assert "\n\n\n" not in cleaned_text
+    assert not (data_root / run_id / "results" / "cleaned_text").exists()
+    assert not (data_root / run_id / "results" / "translation_markdown").exists()
 
     chunks_data = json.loads(chunks_path.read_text(encoding="utf-8"))
     assert len(chunks_data) == 3

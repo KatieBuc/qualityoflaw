@@ -95,10 +95,11 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
     assert (out_dir / "C.txt").read_text(encoding="utf-8") == "translated-C.txt"
     assert wrapper.complete_text.call_count == 3
 
-    cleaned_dir = data_root / run_id / "results" / "cleaned_text"
-    assert (cleaned_dir / "A.cleaned.txt").read_text(encoding="utf-8") == "source-A.txt"
-    assert (cleaned_dir / "B.cleaned.txt").read_text(encoding="utf-8") == "source-B.txt"
-    assert (cleaned_dir / "C.cleaned.txt").read_text(encoding="utf-8") == "source-C.txt"
+    # Markdown rendering (results/cleaned_text/*.cleaned.md,
+    # results/translation_markdown/*.md) is a separate `markdown` step
+    # (see test_markdown_step.py) — the translation step no longer writes it.
+    assert not (data_root / run_id / "results" / "cleaned_text").exists()
+    assert not (data_root / run_id / "results" / "translation_markdown").exists()
 
 
 def test_run_translation_step_skips_existing(pipeline_config, data_root):

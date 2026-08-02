@@ -12,6 +12,7 @@ from automation.src.chunking import (
     fallback_split,
     is_noise_line,
     is_structure_marker,
+    render_markdown,
     split_into_sections,
 )
 
@@ -316,3 +317,116 @@ def test_chunk_policy_text_with_debug_matches_chunk_policy_text():
         "Pasal 2",
         "Isi pasal dua.",
     ]
+
+
+def test_render_markdown_heading_levels_indonesian():
+    raw = "BAB I\nKETENTUAN UMUM\nPasal 1\nIsi pasal satu."
+    markdown = render_markdown(clean_text(raw))
+    assert "# BAB I" in markdown
+    assert "## KETENTUAN UMUM" in markdown
+    assert "#### Pasal 1" in markdown
+    assert "Isi pasal satu." in markdown
+
+
+def test_render_markdown_heading_levels_english():
+    raw = "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nThe content is complete."
+    markdown = render_markdown(clean_text(raw, marker_re=STRUCTURE_MARKER_EN_RE))
+    assert "# CHAPTER I" in markdown
+    assert "## GENERAL PROVISIONS" in markdown
+    assert "#### Article 1" in markdown
+
+
+def test_render_markdown_bagian_and_paragraf_levels():
+    raw = "BAB I\nBagian Kesatu\nParagraf 1\nPasal 1\nIsi."
+    markdown = render_markdown(clean_text(raw))
+    assert "# BAB I" in markdown
+    assert "## Bagian Kesatu" in markdown
+    assert "### Paragraf 1" in markdown
+    assert "#### Pasal 1" in markdown
+
+
+def test_render_markdown_fallback_headings_stay_siblings_under_last_keyword():
+    # Two consecutive all-caps title lines with no keyword between them stay
+    # at the same nested level (both children of the last keyword heading)
+    # instead of nesting deeper into each other.
+    raw = "BAB I\nFIRST TITLE\nSECOND TITLE\nPasal 1\nIsi."
+    markdown = render_markdown(clean_text(raw))
+    assert "## FIRST TITLE" in markdown
+    assert "## SECOND TITLE" in markdown
+
+
+def test_render_markdown_numbered_list_is_ordered():
+    raw = "Pasal 1\nDalam Qanun ini:\n1. Daerah adalah Kabupaten.\n2. Kabupaten adalah Kabupaten."
+    markdown = render_markdown(clean_text(raw))
+    assert "1. Daerah adalah Kabupaten." in markdown
+    assert "2. Kabupaten adalah Kabupaten." in markdown
+
+
+def test_render_markdown_parenthesized_number_strips_parens():
+    raw = "Pasal 1\n(1) Setiap perempuan berhak untuk:"
+    markdown = render_markdown(clean_text(raw))
+    assert "1. Setiap perempuan berhak untuk:" in markdown
+    assert "(1)" not in markdown
+
+
+def test_render_markdown_lettered_list_is_nested_bullet():
+    raw = "Pasal 2\na. penghargaan terhadap nilai;\nb. kepastian hukum;"
+    markdown = render_markdown(clean_text(raw))
+    assert "   - a. penghargaan terhadap nilai;" in markdown
+    assert "   - b. kepastian hukum;" in markdown
+
+
+def test_render_markdown_roman_list_is_double_nested_bullet():
+    raw = "Pasal 3\na. berhak atas:\ni. pendampingan;\nii. perlindungan."
+    markdown = render_markdown(clean_text(raw))
+    assert "   - a. berhak atas:" in markdown
+    assert "      - i. pendampingan;" in markdown
+    assert "      - ii. perlindungan." in markdown
+
+
+def test_render_markdown_single_roman_char_needs_preceding_letter_item():
+    # A lone "i." with no active lettered list before it is just a
+    # letter-tier item, not a nested roman numeral.
+    raw = "Pasal 4\ni. item i;\nii. item ii;"
+    markdown = render_markdown(clean_text(raw))
+    assert "   - i. item i;" in markdown
+    assert "      - i. item i;" not in markdown
+
+
+def test_render_markdown_single_roman_char_after_letter_nests_as_roman():
+    # "i." directly after a lettered item is the nested roman numeral under
+    # that clause -- the real a./i./ii. pattern seen in the source documents.
+    raw = "Pasal 4\na. item a:\ni. item i;\nii. item ii;"
+    markdown = render_markdown(clean_text(raw))
+    assert "   - a. item a:" in markdown
+    assert "      - i. item i;" in markdown
+    assert "      - ii. item ii;" in markdown
+
+
+def test_render_markdown_lettered_list_reaching_roman_letters_stays_letter_tier():
+    # "c."/"d." are valid roman-numeral characters, but as the 3rd/4th item
+    # of a plain lettered list (a./b./c./d.) they must stay letter-tier
+    # siblings, not get misread as a nested roman list starting mid-alphabet
+    # (a real a./b./c. "Menimbang" list observed in the source corpus).
+    raw = "Pasal 1\na. item a;\nb. item b;\nc. item c;\nd. item d;"
+    markdown = render_markdown(clean_text(raw))
+    assert "   - a. item a;" in markdown
+    assert "   - b. item b;" in markdown
+    assert "   - c. item c;" in markdown
+    assert "   - d. item d;" in markdown
+    assert "      - c. item c;" not in markdown
+    assert "      - d. item d;" not in markdown
+
+
+def test_render_markdown_list_items_stay_together_no_blank_lines_between():
+    raw = "Pasal 1\n1. Pertama.\n2. Kedua.\n3. Ketiga."
+    markdown = render_markdown(clean_text(raw))
+    assert "1. Pertama.\n2. Kedua.\n3. Ketiga." in markdown
+
+
+def test_render_markdown_heading_ends_list():
+    raw = "Pasal 1\na. item a;\nBAB II\nJUDUL\nPasal 2\nIsi."
+    markdown = render_markdown(clean_text(raw))
+    idx_list = markdown.index("- a. item a;")
+    idx_heading = markdown.index("# BAB II")
+    assert idx_heading > idx_list

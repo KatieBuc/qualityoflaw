@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-07-28T11:12:06.390975+00:00",
-    "updated_at": "2026-07-29T02:30:10.303387+00:00"
+    "updated_at": "2026-08-02T11:07:38.014686+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -39,7 +39,8 @@
       "storage",
       "evaluation",
       "comparison",
-      "discrepancy_diagnosis"
+      "discrepancy_diagnosis",
+      "markdown"
     ],
     "small_scale": false,
     "evaluated_policy_files": [
@@ -224,6 +225,7 @@
       "SUMATERA_SELATAN_MUARA_ENIM.txt",
       "SUMATERA_SELATAN_MUSI_BANYUASIN.txt",
       "SUMATERA_SELATAN_MUSI_RAWAS.txt",
+      "SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt",
       "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt",
       "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt",
       "SUMATERA_SELATAN_PALEMBANG_KOTA.txt",
@@ -237,31 +239,37 @@
   },
   "file_counts": {
     "translation": {
-      "total": 190,
-      "succeeded": 1,
-      "skipped": 189,
+      "total": 191,
+      "succeeded": 0,
+      "skipped": 191,
       "failed": 0
     },
     "storage": {
-      "total": 190,
-      "succeeded": 1,
-      "skipped": 189,
+      "total": 191,
+      "succeeded": 0,
+      "skipped": 191,
       "failed": 0
     },
     "evaluation": {
-      "total": 190,
-      "succeeded": 1,
-      "failed": 0,
-      "skipped": 189,
-      "saved_reports": 1
-    },
-    "discrepancy_diagnosis": {
-      "total": 188,
+      "total": 191,
       "succeeded": 0,
       "failed": 0,
-      "skipped": 188,
+      "skipped": 191,
+      "saved_reports": 0
+    },
+    "discrepancy_diagnosis": {
+      "total": 189,
+      "succeeded": 0,
+      "failed": 0,
+      "skipped": 189,
       "saved_reports": 0,
-      "discrepancies_total": 957
+      "discrepancies_total": 961
+    },
+    "markdown": {
+      "total": 382,
+      "succeeded": 380,
+      "skipped": 2,
+      "failed": 0
     }
   },
   "failures": {
@@ -273,14 +281,14 @@
   },
   "token_usage": {
     "translation": {
-      "prompt_tokens": 17371,
-      "completion_tokens": 9077,
-      "total_tokens": 26448
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
     },
     "evaluation": {
-      "prompt_tokens": 233440,
-      "completion_tokens": 3736,
-      "total_tokens": 237176
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
     },
     "discrepancy_diagnosis": {
       "prompt_tokens": 0,
@@ -289,11 +297,12 @@
     }
   },
   "timing_seconds": {
-    "translation": 243.01,
-    "storage": 5.73,
-    "evaluation": 25.0,
-    "comparison": 0.38,
-    "discrepancy_diagnosis": 0.28,
-    "total": 281.79
+    "translation": 0.07,
+    "storage": 0.04,
+    "evaluation": 0.0,
+    "comparison": 0.51,
+    "discrepancy_diagnosis": 0.31,
+    "total": 11.63,
+    "markdown": 3.15
   }
 }

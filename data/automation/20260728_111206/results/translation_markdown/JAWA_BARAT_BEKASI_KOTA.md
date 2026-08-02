@@ -1,0 +1,831 @@
+# REGIONAL GAZETTE
+
+# BEKASI CITY
+
+# NUMBER: 12 2012 SERIES: E
+
+# REGIONAL REGULATION OF BEKASI CITY
+
+# NUMBER 12 YEAR 2012
+
+# CONCERNING
+
+# PROTECTION OF WOMEN AND CHILDREN
+
+# BY THE GRACE OF ALMIGHTY GOD
+
+# THE MAYOR OF BEKASI,
+
+Considering: a. that in order to guarantee and protect the rights of women and children so that they can participate optimally in accordance with human dignity and worth, and receive protection from violence, discrimination and other violations of the rights of women and children, it is necessary to undertake efforts to protect women and children;
+
+   - b. that in order for the efforts to protect women and children to obtain optimal results, there needs to be concrete action from the Regional Government and it is necessary to increase broad community participation;
+   - c. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children.
+
+In View of: 1. The 1945 Constitution Amendment, Article 27 paragraph (1);
+
+2. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1, Supplement to the State Gazette of the Republic of Indonesia Year 3019);
+3. Law Number 4 Year 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);
+4. Law Number 7 year 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination and Violence Against Women (Convention on the Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+5. Law Number 52 year 2009 concerning Population Development and Family Development (State Gazette of the Republic of Indonesia Year 2009 Number 35, Supplement to the State Gazette of the Republic of Indonesia Number 5058)
+6. Law Number 9 Year 1996 concerning Establishment of the Municipality of Second Level Region of Bekasi (State Gazette of the Republic of Indonesia Year 1996 Number 111, Supplement to the State Gazette of the Republic of Indonesia Number 3663);
+7. Law Number 20 Year 1999 concerning Ratification of ILO Convention Number 138 Concerning Minimum Age for Admission to Employment (ILO Convention concerning minimum age for admission to employment) (State Gazette of the Republic of Indonesia Year 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Year 1999 Number 3838);
+8. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+9. Law Number 1 Year 2000 concerning Ratification of ILO Convention Number 182 Concerning the Prohibition of the Worst Forms of Child Labour (ILO Convention 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour) (State Gazette of the Republic of Indonesia Year 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941) and U.N Convention Against Transnational Organized Crime, 2000;
+10. Law Number 23 Year 2002 concerning Protection of Children (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Year 4235);
+11. Law Number 23 Year 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Year 4419);
+12. Law Number 32 Year 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as has been amended several times most recently by Law Number 12 Year 2008 concerning the Second Amendment to Law Number 32 Year 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);
+13. Law Number 21 Year 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Year 4720);
+14. Law Number 11 Year 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia Year 2009 Number 11, Supplement to the State Gazette of the Republic of Indonesia Year 4967);
+15. Law Number 12 Year 2011 concerning Establishment of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Year 5234);
+16. Government Regulation Number 38 Year 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 4737);
+17. Presidential Instruction Number 9 Year 2000 concerning Gender Mainstreaming in National Development;
+18. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 Year 2008 concerning Guidelines for Implementation of Improvement of Women's Quality of Life;
+19. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 02 Year 2008 concerning Implementation of Women's Protection;
+20. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 03 Year 2008 concerning Guidelines for Implementation of Child Protection;
+21. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 23 Year 2010 concerning General Guidelines for Establishment of Information and Consultation Centers for Women with Disabilities;
+22. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 24 Year 2010 concerning Model for Protection of Elderly Women that is Gender Responsive;
+23. Joint Regulation of the State Minister for Women's Empowerment, Minister of Manpower and Transmigration, and Minister of Health Number: 48/Men.PP/XII/2008, Number:PER.27/MEN/XII/2008, Number: 1177/Menkes/PB/XII/2008 concerning Improvement of Provision of Breast Milk During Working Hours at the Workplace;
+24. Joint Regulation of the State Minister for Women's Empowerment, Minister of Home Affairs and Minister of National Education, Number: 17/Men.PP/Dep.II/VII/2005, Number: 28A Year 2005 and Number: 1/PB/2005 concerning Acceleration of Eradication of Women's Illiteracy;
+25. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 15 Year 2010 concerning General Guidelines for Handling Children in Conflict with the Law;
+26. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 12 Year 2011 concerning Indicators of Child-Friendly Regency/City;
+27. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 02 Year 2011 concerning Handling of Child Victims of Violence;
+28. Regional Regulation of Bekasi City Number 03 Year 2008 concerning Mandatory and Optional Government Affairs That Are the Authority of the Bekasi City Government (Regional Gazette Year 2008 Number 3 Series E);
+29. Regional Regulation of Bekasi City Number 05 Year 2008 concerning Regional Technical Institutions of Bekasi City (Regional Gazette Year 2008 Number 5 Series D) as has been amended by Regional Regulation of Bekasi City Number 05 Year 2010 concerning Amendment to Regional Regulation of Bekasi City Number 05 Year 2008 concerning Regional Technical Institutions of Bekasi City (Regional Gazette Year 2010 Number 5 Series D).
+
+With Joint Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF BEKASI CITY and
+
+# MAYOR OF BEKASI
+
+Enacts : REGIONAL REGULATION CONCERNING THE PROTECTION OF WOMEN AND CHILDREN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+1. Region is the City of Bekasi.
+2. Regional Government is the Mayor and regional apparatus as elements of Regional Government administration.
+3. Mayor is the Mayor of Bekasi.
+4. Regional Secretariat is the Regional Secretariat of the City of Bekasi.
+5. Women are all women who are both inside and outside the household.
+6. Child is a person who has not reached the age of 18 (eighteen) years.
+7. Protection is a form of service that must be implemented by law enforcement officers or security officers to provide a sense of security, both physical and mental, to victims and sanctions from threats, disturbances, terror and violence from any party given at the stage of investigation, inquiry, prosecution and or examination in court hearings.
+8. Protection of women is all efforts aimed at protecting women and providing a sense of security in fulfilling their rights by providing consistent and systematic attention aimed at achieving gender equality.
+9. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop, and participate optimally in accordance with human dignity and receive protection from violence and discrimination.
+10. Empowerment of women is an effort by women to obtain access and control over resources, economic, political, socio-cultural, so that women can regulate themselves and increase self-confidence to be able to play a role and participate actively in solving problems so as to be able to build their abilities and self-concept.
+11. Gender and development is the equality of women's roles in development to the analysis of gender relations in access and control over resources and decision-making.
+12. Gender equality and justice is a condition of equal and just social roles of women and men, through access, participation and control as well as benefits, especially in development.
+13. Gender mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into an integral dimension of all processes of planning, implementation, monitoring and evaluation of development policies, programs and activities.
+14. Regional government affairs in the protection of women and children is by making planning, implementation, monitoring and evaluating development activities that involve the role of women and children.
+15. Economically disadvantaged women are women who have no income but have a high household economic burden yet are responsible for meeting household economic needs.
+16. Women working in the formal sector are those who receive protection of rights as workers in laws and regulations and are subject to tax obligations.
+17. Women as heads of households are women who bear the burden of household needs including child care.
+18. Women and reproductive health are women who must obtain the right to receive reproductive health and understanding of reproductive health.
+19. Women and violence is any action that violates, obstructs, eliminates enjoyment and ignores women's human rights.
+20. Community participation in the protection of women is the participation of the community individually or institutionally in the community, responsible for child protection and women's protection.
+21. Child Worker is a child who performs work on his/her own behalf, with others and/or with an Employer.
+22. Neglected child is a child whose needs are not properly fulfilled, whether physical, mental, spiritual or social.
+23. Street children are children whose lives are irregular by spending most of their time seeking a livelihood and or in other public places.
+24. Right is about something that is correct, belonging, ownership, authority and power to do something.
+25. Guarantee is liability.
+26. Parents are biological Father and/or Mother, step Father and/or Mother, adoptive Father and/or Mother.
+27. Family is a person who has a blood relationship upward/downward up to the third degree or has a marital relationship or a person who has dependents, both women and/or children.
+28. Community is individuals, families, groups and/or community organizations.
+
+# CHAPTER II
+
+## PRINCIPLES
+
+#### Article 2
+
+1. Protection of women and children is carried out with due regard to religion, customs, social culture of the community while prioritizing the basic principles of women's rights and children's rights.
+2. Protection of women includes efforts to protect women and provide a sense of security by fulfilling their rights, namely through empowerment to improve the quality of life of women through improvement of the physical and mental conditions of women in the fulfillment of their rights and life needs as part of human rights.
+3. The basic principles of protection of women as referred to in paragraph (1) include:
+   - a. non-discriminatory;
+   - b. respect for women's human rights;
+   - c. gender justice and equality;
+   - d. protection against violence.
+4. The basic principles of protection of children as referred to in paragraph (1) include:
+   - a. non-discrimination;
+   - b. the best interests of the child;
+   - c. the right to life, survival and development; and d. respect for the views of the child.
+   - e. protection against violence.
+
+# BAB III
+
+## PURPOSE AND OBJECTIVES
+
+## Part One
+
+Purpose
+
+#### Article 3
+
+1. The regulation of protection of women is intended to provide guidance and direction for the Regional Government and society in realizing:
+   - a. empowerment of women;
+   - b. gender justice and equality;
+   - c. prevention and handling of acts of violence, exploitation and trafficking in persons.
+2. The regulation of protection of children is intended to provide guidance and direction for the Regional Government and society in realizing the social welfare of children and families which includes prevention and handling of acts of violence and exploitation, maltreatment, neglect/abandonment in all situations of children's lives including children in conflict with the law and children in emergency situations.
+
+Second Part Objectives
+
+#### Article 4
+
+1. This Protection of Women aims to:
+   - a. improve the quality of women's human resources towards a world-quality society;
+   - b. provide opportunities for women to actualize themselves, optimally utilize existing opportunities in a comprehensive integrated manner, play a role in development and enjoy the results of development;
+   - c. eliminate discrimination in all its forms against women and enable the realization of the principles of equal rights for women in the fields of education, health, environment, politics, law, economy, civil, and socio-culture;
+   - d. increase gender sensitivity, awareness and justice from all society, policy makers, decision makers, planners and law enforcers, as well as reform legal products that contain socio-cultural values and gender-responsive justice;
+   - e. guarantee the rights of women in Bekasi City through the empowerment and protection of women;
+   - f. guarantee protection for women in Bekasi City from acts of physical, psychological, sexual and economic violence;
+   - g. increase the role of government and institutions in society to further encourage development programs related to the protection of women;
+   - h. improve the welfare of women in the economic, social, political, cultural and religious fields, so that women obtain a place of justice and gender equality;
+      - i. increase the participation of women in regional development through participation organized by local government and non-governmental institutions.
+2. Protection of Children aims to:
+   - a. improve the quality of children's resources towards a world-quality society;
+   - b. provide a comfortable space for children during their growth and development as assets of the nation;
+   - c. guarantee the rights of children in Bekasi City through child protection;
+   - d. guarantee protection for children in Bekasi City from acts of physical, psychological, sexual and economic violence;
+   - e. increase the role of government and institutions in society to further encourage development programs related to child protection;
+   - f. improve the welfare of children through opportunities to create and be creative in the fields of art and culture;
+   - g. open opportunities for children to gain access to education, health, and an environment that supports the process of children's growth and development;
+   - h. increase the participation of children in regional development through participation carried out by the Regional Government or non-governmental institutions in accordance with the development and capabilities of children.
+
+# CHAPTER IV
+
+## GUARANTEE OF PROTECTION OF WOMEN'S AND CHILDREN'S RIGHTS
+
+## Part One
+
+Guarantee of Protection of Women's Rights
+
+#### Article 5
+
+1. Women's Rights include:
+   - a. Right to obtain health services;
+   - b. Rights in the economic, social and political fields;
+   - c. Right to family allowances;
+   - d. Right to Bank loans and capital;
+   - e. Rights in recreation, sports and socio-culture;
+   - f. Right to participate in the field of development;
+   - g. Right to obtain social security;
+   - h. Right to obtain training and education;
+      - i. Right to participate in community activities;
+   - j. Right to obtain adequate living conditions along with facilities and infrastructure.
+2. Guarantee of protection of women's rights includes:
+   - a. strengthening institutional capacity of PUG for the implementation of policies, programs and activities for the protection of women's rights;
+   - b. provision of facilitation of women's protection services;
+   - c. provision of women's protection services;
+   - d. implementation of affirmative action for women's protection;
+   - e. preparation of a women's protection data system, including a data system on violence against women.
+3. Provision of women's protection services as referred to in paragraph (1) letter c is provided for women victims of violence, including victims of human trafficking, women in conflict-prone and disaster areas, women workers, elderly women, women with disabilities, women victims of sexual exploitation, women heads of households and other vulnerable groups of women;
+4. Provision of women's protection services as referred to in paragraph (3) includes:
+   - a. victim identification;
+   - b. Legal assistance;
+   - c. Medical rehabilitation;
+   - d. Psychosocial rehabilitation;
+   - e. Social reintegration;
+   - f. Repatriation assistance;
+   - g. Empowerment.
+5. Provision of women's protection services as referred to in paragraph (4), is borne by the Regional Government.
+
+#### Article 6
+
+The implementation of protection services for women from all forms of discriminatory actions is carried out by the Regional Government together with the community through the Integrated Service Center for Women and Children Empowerment (P2TP2A) of Bekasi City.
+
+Second Part Guarantee of Protection of Children's Rights
+
+#### Article 7
+
+1. Guarantees for the protection of children's rights, include:
+   - a. Civil rights and Freedoms;
+   - b. basic welfare (Education and Health);
+   - c. proper care.
+   - d. safe and comfortable environment.
+   - e. special protection for children with special needs.
+   - f. right to obtain appropriate information.
+   - g. right to assistance;
+   - h. right to complaint handling;
+      - i. right to social rehabilitation;
+   - j. right to health and psychological recovery from suffering experienced by victims;
+   - k. right of victims and their families to obtain facilitation in the judicial process
+   - l. right to obtain protection facilities for children who do not have a place of residence and/or whose lives are threatened.
+2. Children with special needs as referred to in paragraph (1) letter e are:
+   - a. physically disabled;
+   - b. mentally disabled;
+   - c. visually impaired;
+   - d. hearing/speech impaired;
+   - e. multiple disabilities;
+   - f. children with social psychological problems.
+
+#### Article 8
+
+The implementation of protection services for children from all forms of discriminatory actions is carried out by the Regional Government together with the community through the Regional Indonesian Child Protection Commission (KPAID), or other similar institutions.
+
+# CHAPTER V
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+## Part One
+
+General
+
+#### Article 9
+
+Regional Government, Society, Family and Parents have the obligation and responsibility for the implementation of protection of Women and Children.
+
+## Part Two
+
+Obligations and Responsibilities of Regional Government
+
+#### Article 10
+
+The Regional Government has the obligation and responsibility to: a. respect and guarantee the human rights of every woman and child without distinguishing ethnicity, religion, race, group, gender, ethnic origin, culture and language, legal status of the child, birth order of the child, and physical and/or mental condition;
+
+   - b. provide support for facilities and infrastructure in the implementation of protection of women and children;
+   - c. guarantee the protection, care, and welfare of children by taking into account the rights and obligations of parents, guardians, or other persons who are legally responsible for the child;
+   - d. supervise the implementation of protection of women and children; e. guarantee women to exercise their rights in expressing opinions;
+   - f. guarantee children to exercise their rights in expressing opinions in accordance with the age and level of intelligence of the child; g. guarantee the availability of a safe and comfortable environment for the optimal growth and development of children.
+
+## Part Three
+
+Obligations and Responsibilities of the Community
+
+#### Article 11
+
+The community has the obligation and responsibility for the protection of women and children through community participation activities in the implementation of protection for women and children.
+
+## Part Four
+
+Obligations and Responsibilities of Family and Parents Article 12 (1) Family and parents have obligations and responsibilities toward children in the form of:
+
+   - a. caring for, maintaining, educating and protecting children;
+   - b. preventing marriage at child age;
+   - c. ensuring the continuity of children's education according to the children's abilities, talents and interests;
+   - d. reporting every child birth to the authorized agency that conducts birth registration.
+2. In the event that parents do not exist or their whereabouts are unknown or due to a certain reason, cannot carry out their obligations and responsibilities, then the obligations and responsibilities as referred to in paragraph (1) may be transferred to the family, which shall be implemented in accordance with the provisions of applicable laws and regulations.
+
+## Part Five
+
+Obligations and Responsibilities of the Child
+
+#### Article 13
+
+Every child has the obligation to:
+
+   - a. respect parents, guardians and teachers;
+   - b. love family, society and care for friends;
+   - c. love the homeland, nation and state;
+   - d. perform worship in accordance with their religion;
+   - e. practice noble ethics and morals.
+
+# BAB VI
+
+## IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN
+
+## Part One
+
+Protection of Women
+
+### Paragraph 1
+
+Health
+
+#### Article 14
+
+1. Regional Governments are obligated to provide facilities and organize comprehensive health efforts for women in order to obtain optimal health status.
+2. The provision of facilities and organization of comprehensive health efforts as referred to in paragraph (1) is supported by community participation.
+3. Comprehensive health efforts as referred to in paragraph (1) include promotive, preventive, curative, and rehabilitative efforts both for basic health and referral.
+4. Comprehensive health efforts as referred to in paragraph (1) shall be organized free of charge for persons with disabilities, victims of violence, abduction, neglect, HIV/AIDS transmission, those exploited economically and sexually, trafficking.
+5. Comprehensive health efforts as referred to in paragraph (1) shall be carried out in stages adjusted to the regional financial capacity.
+
+### Paragraph 2
+
+Education
+
+#### Article 15
+
+1. The Regional Government guarantees the implementation of informal education for women who have dropped out of school.
+2. The implementation of informal education as referred to in paragraph (1) is supported by the participation of the community and the business sector.
+
+### Paragraph 3
+
+Empowerment
+
+#### Article 16
+
+1. The Regional Government guarantees the implementation of empowerment for women.
+2. The implementation of women's empowerment as referred to in paragraph (1) is supported by the participation of the community and the business sector.
+
+### Paragraph 4
+
+Women Workers
+
+#### Article 17
+
+1. Protection for female workers includes:
+   - a. receiving wages in accordance with applicable provisions;
+   - b. receiving a lactation room;
+   - c. receiving early childhood care facilities.
+2. Early childhood care facilities as referred to in paragraph (1) letter c that are managed by the community must obtain a recommendation from the Regional Government.
+
+### Paragraph 5
+
+Micro Economy
+
+#### Article 18
+
+Protection of Women's Micro Economy includes:
+
+   - a. obtaining opportunities to conduct business activities in the household environment;
+   - b. obtaining economic empowerment facilities especially for women heads of households.
+
+### Paragraph 6
+
+Marriage
+
+#### Article 19
+
+1. Protection of women in marriage is women receiving legal protection and based on their rights as women.
+2. The implementation of protection of women in marriage is carried out by the Ministry of Religious Affairs, namely the Office of Religious Affairs (KUA) which is responsible for the implementation of marriage.
+3. The responsibility of KUA for the protection of women in marriage includes:
+   - a. supervising the implementation of marriage according to religious and state law;
+   - b. socializing the prohibition of unregistered marriage (nikah sirih) which can harm women and children;
+   - c. canceling marriages that do not go through a legal process that is valid both religiously and by the State.
+4. Regional Governments may carry out mass marriage activities for couples who are unable to afford it free of charge.
+
+### Paragraph 7
+
+Politics
+
+#### Article 20
+
+1. Political parties have the obligation to provide opportunities for women to participate, obtain access and have political representation in the legislature of a minimum of 30%.
+2. If necessary, regulations on women in politics can be developed by related agencies.
+
+Second Part Child Protection
+
+### Paragraph 1
+
+Health
+
+#### Article 21
+
+1. Regional Government is obligated to provide facilities and organize comprehensive health efforts for children to obtain optimal health status starting from the womb.
+2. The provision of facilities and organization of comprehensive health efforts as referred to in paragraph (1) is supported by community participation.
+3. Comprehensive health efforts as referred to in paragraph (1) include promotive, preventive, curative, and rehabilitative efforts both for basic health and referral.
+4. Comprehensive health efforts as referred to in paragraph (1) shall be organized free of charge for persons with disabilities, street children, children who are victims of violence, kidnapping, neglected children, HIV/AIDS transmission, economically and sexually exploited, trafficking, abuse of narcotics, alcohol, psychotropic substances, and other addictive substances (NAFZA) from poor families.
+5. Children receive a guarantee to receive exclusive breastmilk from their Mother properly and naturally.
+6. For children from underprivileged families, the Government facilitates and provides nutritional assistance or supplementary food for the improvement of children's health.
+7. To ensure the implementation of Children's rights as referred to in paragraph (5) above, the Government is obligated to facilitate facilities and infrastructure for breastfeeding places at minimum in public service places.
+8. Comprehensive health efforts as referred to in paragraph (1) shall be carried out in stages adjusted to regional financial capacity.
+
+#### Article 22
+
+The family and parents are responsible for protecting and caring for the child from the womb.
+
+#### Article 23
+
+Regional Government, business sector, community, family and parents are obligated to ensure that children who are born are protected from disease, are responsible for safeguarding and caring for children from the time they are in the womb.
+
+### Paragraph 2
+
+Education
+
+#### Article 24
+
+1. The Regional Government guarantees the implementation of a compulsory education program of at least 9 (nine) years for all children.
+2. The implementation of the compulsory education program as referred to in paragraph (1) is supported by the participation of the community and the business sector.
+3. Parents and families are obligated to provide the widest possible opportunity to children according to the child's ability to obtain education.
+4. Every education provider is prohibited from expelling children from educational institutions without guaranteeing the continuity of the child's education.
+5. The implementation of the compulsory education program as referred to in paragraph (1) shall be regulated in a separate regional regulation.
+
+#### Article 25
+
+Children with special needs are given equal opportunity and accessibility to obtain regular education and special education.
+
+#### Article 26
+
+Children in conflict with the law, children who experience pregnancy outside of marriage and children who are victims of HIV/AIDS transmission are protected in their rights to obtain education.
+
+#### Article 27
+
+1. Regional Government, community and private sector shall organize integrated Early Childhood Education Posts (PAUD) in every RW.
+2. The organization of Early Childhood Education Posts (PAUD) by the Regional Government as referred to in paragraph (1) above shall be implemented in accordance with regional financial capacity.
+
+#### Article 28
+
+For children aged 7 (seven) to less than 18 (eighteen) years who have not completed their formal education may pursue education through informal education units:
+
+   - a. Study Group Package A equivalent to Elementary School and Madrasah Ibtidaiyah;
+   - b. Study Group Package B equivalent to Junior High School and Madrasah Tsanawiyah;
+   - c. Study Group Package C equivalent to Senior High School and Madrasah Aliyah;
+   - d. Study Group Package C Vocational equivalent to Vocational Senior High School and Madrasah Aliyah Vocational.
+
+#### Article 29
+
+1. Regional Government is obligated to:
+   - a. provide proper facilities and infrastructure in the teaching and learning process;
+   - b. facilitate education both formal and informal organized by the government.
+2. There shall be no discrimination in Education against Children based on gender.
+
+### Paragraph 3
+
+Social Welfare
+
+#### Article 30
+
+1. The implementation of social welfare for children is the obligation of the Regional Government by involving the community, business sector and family.
+2. The implementation of social welfare for children as referred to in paragraph (1) above is provided to:
+   - a. children in conflict with the law;
+   - b. children exploited economically and sexually;
+   - c. children victims of trafficking;
+   - d. children victims of narcotics abuse;
+   - e. children victims of HIV/AIDS transmission;
+   - f. children victims of abduction;
+   - g. children who do not have parents and/or family;
+   - h. abandoned children and;
+      - i. street children;
+   - j. children victims of violence;
+   - k. children victims of disaster;
+   - l. children with disabilities;
+   - m. children who receive other maltreatment.
+3. The implementation of social welfare protection for children as referred to in paragraph (2) is in the form of services:
+   - a. social, mental and spiritual guidance;
+   - b. social rehabilitation;
+   - c. assistance;
+   - d. empowerment;
+   - e. social assistance;
+   - f. legal aid and/or;
+   - g. reintegration of children into the family.
+4. The community and business sector as referred to in paragraph (1) have the same obligations and position as the Regional Government to participate in the protection of children's rights and supervision both individually, in groups and institutionally.
+5. Forms of participation of the community and business sector in the implementation of child protection may include:
+   - a. provision of safe houses and shelters;
+   - b. establishment of integrated child service centers;
+   - c. establishment and management of orphanages;
+   - d. establishment of rehabilitation centers for children victims of narcotics abuse;
+   - e. provision of assistance to children in conflict with the law;
+   - f. provision of educational scholarships;
+   - g. provision of health cost assistance;
+   - h. provision of Children's Playgrounds;
+      - i. actively supervising children's activities that are not in accordance with the norms prevailing in society;
+   - j. other forms of participation of the community and business sector related to the implementation of child protection.
+
+# CHAPTER VII
+
+## CHILD CARE
+
+#### Article 31
+
+1. Care for children is the obligation of parents, society and the Government.
+2. Family care is the first and foremost care for children.
+3. Community care for children can be carried out individually and/or institutionally.
+4. Institutionally it can be organized through Child Care Social Institutions.
+5. Child Care Social Institutions as referred to in paragraph (4) must obtain permission from the Regional Government through the relevant agency.
+6. The Government provides care for children through:
+   - a. formulation of child protection policies so that children's rights are fulfilled;
+   - b. providing facilities and infrastructure for Child Care Social Institutions;
+   - c. if Regional Government-owned Child Care Social Institutions are not yet available, they can refer to the nearest Government-owned PSAA according to the needs of the child;
+   - d. providing a budget for maintaining a safe and comfortable environment for optimal child growth and development through the development of Child-Friendly Bekasi City.
+
+#### Article 32
+
+1. The development of Child-Friendly Bekasi City as referred to in Article 31 paragraph (6) letter d, shall be implemented through the Child-Friendly City Task Force.
+2. The membership of the Child-Friendly City Task Force as referred to in paragraph (1) shall be appointed and dismissed by the Mayor.
+
+#### Article 33
+
+1. To assist the smooth implementation of the tasks of the Child-Friendly City Task Force, a secretariat is formed.
+2. The Secretariat of the Child-Friendly City Task Force is facilitated by the Regional Government.
+3. The establishment of the secretariat and secretariat personnel of the Child-Friendly City Task Force is determined by the Mayor.
+
+# CHAPTER VIII
+
+## GUARDIANSHIP
+
+#### Article 34
+
+1. Guardianship constitutes a guarantee of protection for children to continue their lives towards adulthood.
+2. Guardianship of children is intended to properly safeguard the rights of children.
+3. Guardianship is carried out in the event that parents are not competent in legal actions, their existence and residence are not known.
+4. Guardianship referred to in paragraphs (1) and (2) above is carried out through court determination.
+5. Guardianship for neglected children is carried out with the permission of the Regional Government through the relevant agency.
+6. Guardianship of children who experience violence is carried out with the permission of the parents or family of the child and acknowledged by the Regional Government through the relevant agency.
+
+# CHAPTER IX
+
+## PROTECTION OF CHILD WORKERS
+
+#### Article 35
+
+1. Regional Government and society as well as the business sector are obligated to provide protection to Child Workers.
+2. Protection of Child Workers is implemented in accordance with Law Number 13 Year 2003 concerning Manpower.
+3. Protection of Child Workers aims to:
+   - a. prevent all forms of exploitation, discrimination, harassment and violence against children;
+   - b. protect children from activities that disrupt the growth and development process of children both physically, mentally, morally and intellectually as well as children's health.
+4. protection efforts for Child Workers as referred to in paragraph (2) include:
+   - a. education on children's rights;
+   - b. social assistance;
+   - c. social advocacy
+   - d. legal assistance
+   - e. psychological, medical and legal service assistance for informal sector Child Workers who are victims of exploitation, discrimination, harassment, and violence;
+   - f. family empowerment through skills training; g. provision of non-formal education and training for Child Workers for children who do not continue formal education to higher levels;
+   - h. the government is obligated to formulate policies regarding requirements for those who employ children in order to protect children from wrongful treatment.
+
+# CHAPTER X
+
+## CHILDREN IN EMERGENCY OR DISASTER SITUATIONS
+
+## Part One
+
+Children in Emergency Situations
+
+#### Article 36
+
+1. Children in emergency situations referred to are children who become refugees, children victims of riots and disturbances, children victims of disasters and children in conflict situations.
+2. The Government is obligated to provide protection and fulfillment of needs consisting of security protection, fulfillment of children's basic needs during emergency situations.
+3. The provision of fulfillment of basic needs during emergency situations refers to the provisions of applicable laws and regulations.
+
+Second Part Children in Disaster Situations
+
+#### Article 37
+
+1. Children in disaster situations are natural disasters, fire disasters and riots.
+2. The Government is obligated to provide protection covering:
+   - a. basic needs consisting of clothing, food, shelter, education, health, learning, playing, security and non-discrimination.
+   - b. rehabilitation;
+   - c. reconstruction.
+
+# CHAPTER XI
+
+## CHILDREN'S FORUM
+
+#### Article 38
+
+1. The Regional Government is obligated to facilitate the establishment of a children's forum.
+2. The children's forum as referred to in paragraph (1) above constitutes a representation of children of Bekasi City, both representation of children's geographical domicile, children's socio-cultural groups and children's educational background.
+3. In every formulation of policies related to children, the Regional Government must consider and accommodate the opinions of children conveyed through the children's forum.
+4. The establishment of the children's forum as referred to in paragraph (1) shall be determined by Mayor's Decree.
+5. Sources of financing for the children's forum may come from:
+   - a. contributions from members of the children's forum;
+   - b. donations from the community/private parties that are non-binding in nature;
+   - c. assistance from the Regional Government;
+   - d. other sources of financing in accordance with applicable laws and regulations.
+
+# CHAPTER XII
+
+## PROTECTION OF WOMEN AND CHILDREN
+
+## FROM VIOLENCE, TRAFFICKING AND EXPLOITATION
+
+#### Article 39
+
+Protection of women and children from violence includes: a. preventing acts of violence against women and children including human trafficking;
+
+   - b. eliminating all forms of violence and exploitation against women and children;
+   - c. protecting from discriminatory treatment against women and children, protection from neglect and other maltreatment; d. providing services to women and children victims of acts of violence, reporters and witnesses;
+   - e. facilitating and conducting mediation on domestic disputes to realize the integrity of harmonious and prosperous households.
+
+#### Article 40
+
+The obligations and responsibilities in providing protection to women and children from acts of violence, trafficking and exploitation are the shared responsibility of:
+
+   - a. regional government;
+   - b. community;
+   - c. family; and
+   - d. parents.
+
+#### Article 41
+
+1. The obligations and responsibilities of regional government as referred to in Article 40 letter a include:
+   - a. implementing policies for the protection of women and children from acts of violence, trafficking and exploitation established by the government;
+   - b. establishing policies, programs, and activities for the protection of women and children from acts of violence, trafficking and exploitation;
+   - c. conducting cooperation in the implementation of protection of women and children from acts of violence, trafficking and exploitation;
+   - d. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence, trafficking and exploitation;
+   - e. allocating budget for the implementation of protection of women and children from acts of violence, trafficking and exploitation in accordance with regional financial capacity;
+   - f. fostering and supervising the implementation of protection of women and children from acts of violence, trafficking and exploitation.
+2. In order to implement the obligations and responsibilities as referred to in paragraph (1), the Mayor establishes programs and activities for action on the protection of women and children, trafficking and exploitation in one regional action plan as a basis for SKPD in implementing the protection of women and children from acts of violence, trafficking and exploitation.
+3. The Regional Action Plan as referred to in paragraph (2) constitutes part of the Regional Medium-Term Development Plan (RPJMD).
+4. Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated by Mayor Regulation.
+
+#### Article 42
+
+1. The obligations and responsibilities of the community as referred to in Article 40 letter b shall be implemented in the form of community participation.
+2. The forms of community participation as referred to in paragraph (1) include:
+   - a. preventing the occurrence of acts of violence against women and children, trafficking and exploitation;
+   - b. providing information and/or reporting acts of violence against women and children, trafficking and exploitation to law enforcement or authorized parties;
+   - c. participating in the handling of victims of acts of violence, trafficking and exploitation.
+3. The forms of community participation as referred to in paragraph (2) shall be implemented responsibly in accordance with the provisions of laws and regulations.
+
+#### Article 43
+
+The obligations of family and/or parents as referred to in Article 40 letters c and d, who legally have full responsibility to prevent all forms of violence and protect women and children as family members.
+
+# CHAPTER XIII
+
+## PREVENTION OF ACTS OF VIOLENCE
+
+## TRAFFICKING AND EXPLOITATION
+
+#### Article 44
+
+1. To prevent the occurrence of acts of violence against women and children, trafficking and exploitation, the regional government shall conduct empowerment and awareness raising to families, parents, and the community by providing information, guidance and/or counseling.
+2. In addition to empowerment and awareness raising as referred to in paragraph (1), the regional government shall undertake efforts as follows:
+   - a. improvement of the quantity and quality of education both formal and informal;
+   - b. opening of accessibility to obtain education, training, funding, income enhancement, and social services;
+   - c. opening of employment opportunities for women;
+   - d. building community participation and concern toward the prevention of women and children from acts of violence, trafficking and exploitation;
+   - e. building and providing a complete and easily accessible information system;
+   - f. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care for women and children; and
+   - g. opening complaint posts for the protection of women and children from acts of violence, trafficking and exploitation.
+
+#### Article 45
+
+1. Prevention of acts of violence against women and children, trafficking and exploitation as referred to in Article 44, shall be implemented by Agencies and institutions whose duties and functions are in the fields of:
+   - a. social;
+   - b. economic;
+   - c. health;
+   - d. education;
+   - e. manpower;
+   - f. women's empowerment and child protection;
+   - g. mental and spiritual; and
+   - h. security, peace and order.
+2. Prevention of acts of violence by related Agencies and institutions as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on the Regional Action Plan.
+
+# CHAPTER XIV
+
+## SERVICES FOR VICTIMS OF ACTS OF VIOLENCE
+
+## TRAFFICKING AND EXPLOITATION
+
+#### Article 46
+
+1. Forms of services provided to women and children victims of acts of violence, trafficking and exploitation are as follows:
+   - a. complaint services;
+   - b. health services;
+   - c. legal aid;
+   - d. repatriation;
+   - e. rehabilitation, social reintegration, and medicolegal;
+   - f. identification services; and
+   - g. psychological services.
+2. Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the government and implemented by SKPD and institutions whose duties and functions are in the fields of:
+   - a. social;
+   - b. health;
+   - c. women's empowerment and child protection;
+   - d. mental and spiritual.
+3. In carrying out duties and functions as referred to in paragraph (1), the regional government cooperates with government agencies, other regional governments and the community.
+4. Further provisions regarding procedures for services handling women and children from acts of violence, trafficking and exploitation as referred to in paragraph (1), paragraph (2), and paragraph (3) shall be regulated by Mayor Regulation.
+
+#### Article 47
+
+The Regional Government is obligated to provide complaint services for the protection of women and children from acts of violence, trafficking and exploitation.
+
+#### Article 48
+
+Regional Government and the community or social service institutions may establish recovery houses or safe houses.
+
+#### Article 49
+
+Further provisions regarding complaint services and social services as referred to in Article 47 and Article 48 shall be regulated by Mayoral Regulation.
+
+#### Article 50
+
+In addition to P2TP2A as referred to in Article 6 and KPAID as referred to in Article 8, in order to support the implementation of protection for women and children from acts of violence, trafficking in persons and exploitation, the Task Force on the Crime of Trafficking in Persons (TPPO) shall be involved.
+
+# CHAPTER XV
+
+## WOMEN AND CHILDREN IN CONFLICT WITH THE LAW
+
+## Part One
+
+Women in Conflict with the Law
+
+#### Article 51
+
+1. Protection of women in conflict with the law includes:  a. women as victims are women who become targets of crime;
+   - b. women as perpetrators are women who commit criminal acts;
+   - c. women as witnesses are women whose testimony is required in the investigation process report.
+2. Protection provided to women as referred to in paragraph (1) letters a, b and c shall be in accordance with the provisions of applicable laws and regulations.
+
+Second Part Children in Conflict with the Law
+
+#### Article 52
+
+1. Protection of children in conflict with the law includes:
+   - a. children as victims targeted by crimes of violence, exploitation, discrimination and other maltreatment;
+   - b. children as perpetrators of criminal acts;
+   - c. children as witnesses whose testimony is required in investigation process reports.
+2. Protection provided to children as referred to in paragraph (1) letters a, b, and c shall be adjusted to the provisions of applicable laws and regulations.
+
+# CHAPTER XVI
+
+## COOPERATION AND PARTNERSHIP
+
+## Part One
+
+Cooperation
+
+#### Article 53
+
+1. In order to achieve the objectives of protecting women and children from acts of violence as referred to in Article 4, the Regional Government cooperates with:
+   - a. the government;
+   - b. other provinces;
+   - c. regencies/cities;
+   - d. non-governmental institutions.
+2. Cooperation as referred to in paragraph (1) includes:
+   - a. exchange of data and information;
+   - b. rehabilitation of victims of acts of violence;
+   - c. repatriation and social reintegration;
+   - d. provision of evidence and witnesses.
+3. Cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.
+
+Second Part Partnership
+
+#### Article 54
+
+1. Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence.
+2. Partnerships as referred to in paragraph (1) are conducted through:
+   - a. notification of employment opportunity information for women victims of acts of violence;
+   - b. education and training for women and children victims of acts of violence;
+   - c. educational assistance for women and children victims of acts of violence who have been withdrawn from their education; and
+   - d. fostering and increasing economic independence of women victims of acts of violence.
+3. Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.
+
+# CHAPTER XVII
+
+## GUIDANCE AND SUPERVISION
+
+#### Article 55
+
+1. The Regional Government is obligated to conduct guidance and supervision of the implementation of protection of women and children.
+2. Guidance as referred to in paragraph (1), includes: a. guidelines and fulfillment standards;
+   - b. technical guidance and training;
+   - c. provision of facilities;
+   - d. monitoring; and
+   - e. evaluation.
+3. Guidance as referred to in paragraph (2), is in order to realize the objectives of protection of women and children from acts of violence in accordance with minimum service standards implemented by SKPD and the community.
+4. SKPD as referred to in paragraph (3) is the Regional Work Unit within the Bekasi City Government that is related to the Protection of Women and children.
+
+#### Article 56
+
+1. Regional Governments are obligated to conduct supervision of the implementation of protection of women and children from acts of violence.
+2. Supervision as referred to in paragraph (1), shall be conducted with the principles of professionalism, transparency and accountability.
+
+#### Article 57
+
+The community may conduct supervision of the implementation of protection of women and children from acts of violence organized by the Regional Government through a mechanism of conveying aspirations to the Mayor or to the DPRD.
+
+# CHAPTER XVIII
+
+## FINANCING
+
+#### Article 58
+
+Financing for the implementation of protection of women and children from acts of violence is sourced from:
+
+   - a. Regional Revenue and Expenditure Budget (APBD); and
+   - b. other legitimate sources in accordance with the provisions of laws and regulations.
+
+#### Article 59
+
+1. Regional Governments may provide financial assistance to community organizations, social organizations or non-governmental organizations that implement protection of women and children from discrimination and acts of violence.
+2. Financial assistance as referred to in paragraph (1), shall be in accordance with regional financial capacity, and implemented in accordance with the provisions of laws and regulations.
+
+# CHAPTER XIX
+
+## OTHER PROVISIONS
+
+#### Article 60
+
+Matters not yet regulated in this Regional Regulation shall be further regulated by Mayor Regulation.
+
+# CHAPTER XX
+
+## CLOSING PROVISIONS
+
+#### Article 61
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placement in the Regional Gazette.
+
+Enacted in Bekasi on 18 October 2012
+
+##### MAYOR OF BEKASI,
+
+Signed/Sealed
+
+##### # RAHMAT EFFENDI
+
+Promulgated in Bekasi on October 18, 2012
+
+##### REGIONAL SECRETARY OF BEKASI CITY,
+
+Signed/Sealed
+
+##### RAYENDRA SUKARMADJI
+
+##### LOCAL GAZETTE OF BEKASI CITY YEAR 2012 NUMBER 12 SERIES E

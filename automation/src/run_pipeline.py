@@ -29,7 +29,7 @@ from automation.src.metadata import (
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
-from automation.src.translate import run_translation_step
+from automation.src.translate import run_markdown_step, run_translation_step
 
 
 def parse_steps(steps_arg: str | None) -> list[str]:
@@ -44,7 +44,10 @@ def parse_steps(steps_arg: str | None) -> list[str]:
 
 def requires_run_id(steps: list[str], run_id: str | None) -> bool:
     eval_or_compare_only = (
-        any(step in steps for step in ("storage", "evaluation", "comparison", "discrepancy_diagnosis"))
+        any(
+            step in steps
+            for step in ("markdown", "storage", "evaluation", "comparison", "discrepancy_diagnosis")
+        )
         and "translation" not in steps
     )
     return run_id is None and eval_or_compare_only
@@ -126,7 +129,7 @@ def main() -> None:
         "--steps",
         default=None,
         help=(
-            "Comma-separated steps: translation, storage, evaluation, comparison, "
+            "Comma-separated steps: translation, markdown, storage, evaluation, comparison, "
             "discrepancy_diagnosis (default: all)."
         ),
     )
@@ -280,6 +283,42 @@ def main() -> None:
                         print(
                             f"  {entry['filename']}: [{entry['error_type']}] {entry['message']} "
                             f"(status={status})",
+                            file=sys.stderr,
+                        )
+                if result["counts"]["failed"] > 0:
+                    exit_code = 1
+
+        if not stopped and "markdown" in steps:
+            print("\nStep: markdown")
+            try:
+                result = run_markdown_step(
+                    run_id=run_id,
+                    config=config,
+                    small_scale=args.small_scale,
+                    force=args.force,
+                )
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "markdown", str(exc))
+                _print_step_failure("markdown", str(exc))
+            else:
+                clear_step_failure(run_id, "markdown")
+                update_metadata(
+                    run_id,
+                    execution_scope={"steps_executed": ["markdown"]},
+                    file_counts={"markdown": result["counts"]},
+                    timing_seconds={"markdown": result["elapsed_s"]},
+                )
+                print(
+                    f"Markdown: {result['counts']['succeeded']} succeeded, "
+                    f"{result['counts']['skipped']} skipped, "
+                    f"{result['counts']['failed']} failed"
+                )
+                if result.get("failed_files"):
+                    for entry in result["failed_files"]:
+                        print(
+                            f"  {entry['filename']} ({entry['artifact']}): {entry['message']}",
                             file=sys.stderr,
                         )
                 if result["counts"]["failed"] > 0:
