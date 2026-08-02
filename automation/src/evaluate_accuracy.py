@@ -9,7 +9,7 @@ import pandas as pd
 import yaml
 from sklearn.metrics import classification_report, confusion_matrix
 
-from quality_eval.v1.criteria import get_indicator_dimension
+from automation.src.criteria import get_indicator_dimension
 
 
 def parse_report_timestamp(file_path: str, metadata: dict) -> datetime:

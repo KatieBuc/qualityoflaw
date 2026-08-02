@@ -18,7 +18,14 @@ from automation.src.config_loader import (
 from automation.src.constants import AUTOMATION_ROOT, CHUNKING_FALLBACK_PROMPT, PROJECT_ROOT
 from automation.src.llm.model_profile import ModelProfile
 from automation.src.rag.retriever import RetrievedChunk
-from automation.src.run_eval import DimensionResult, _evaluate_policy_parallel, _merge_dimension_results, run_evaluation_step
+from automation.src.criteria import EXPECTED_INDICATOR_IDS
+from automation.src.run_eval import (
+    DimensionResult,
+    _evaluate_policy_parallel,
+    _merge_dimension_results,
+    run_evaluation_step,
+    validate_completeness,
+)
 
 
 @pytest.fixture
@@ -87,17 +94,32 @@ def test_merge_dimension_results_handles_failures():
         DimensionResult("01_scope_of_violence.txt", {"1.1": {"id": "1.1", "indicator": "x", "included": "Yes"}}),
         DimensionResult("02_institutional_mechanism.txt", {}, error="02_institutional_mechanism.txt: boom"),
     ]
-    report, candidates_by_id = _merge_dimension_results(policy_path, "gpt-4o", results)
+    report, candidates_by_id = _merge_dimension_results(policy_path, "gpt-4o", "v3", results)
     assert report["completed_dimensions"] == ["01_scope_of_violence.txt"]
     assert report["failed_dimensions"] == ["02_institutional_mechanism.txt"]
+    assert report["prompt_version"] == "v3"
     assert "1.1" in report["evaluation_results"]
     assert candidates_by_id == {}
+
+
+def test_validate_completeness_detects_missing():
+    partial = {"1.1": {"id": "1.1", "included": "Yes"}}
+    is_complete, issues = validate_completeness(partial)
+    assert not is_complete
+    assert any("Missing indicators" in issue for issue in issues)
+
+
+def test_validate_completeness_passes_for_full_set():
+    full = {indicator_id: {"id": indicator_id} for indicator_id in EXPECTED_INDICATOR_IDS}
+    is_complete, issues = validate_completeness(full)
+    assert is_complete
+    assert issues == []
 
 
 def test_evaluate_policy_parallel_merges_dimensions(tmp_path):
     import re
 
-    from quality_eval.v1.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT
+    from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT
 
     policy_path = Path("policy.txt")
     rag_store_dir = tmp_path / "rag_store"

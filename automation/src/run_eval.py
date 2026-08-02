@@ -1,13 +1,13 @@
 import json
 import logging
+import sys
 import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Callable
+from typing import Callable, List, Optional
 
-from quality_eval.run_eval_new import PolicyEvaluationResponse, finalize_and_save_report
-from quality_eval.v1.criteria import CRITERIA_FILES, PROMPT_VERSION
+from pydantic import BaseModel, Field
 
 from automation.src.concurrency import ConcurrencyLimiter
 from automation.src.config_loader import (
@@ -17,6 +17,7 @@ from automation.src.config_loader import (
     resolve_mid_product_dir,
     resolve_results_dir,
 )
+from automation.src.criteria import CRITERIA_FILES, EXPECTED_INDICATOR_COUNT, EXPECTED_INDICATOR_IDS
 from automation.src.failure_log import clear_failure, record_failure
 from automation.src.llm.wrapper import AzureLLMWrapper, LLMCallError, format_api_error
 from automation.src.policy_files import filter_policy_files
@@ -31,6 +32,80 @@ from automation.src.rag.retriever import RetrievedChunk, load_policy_store, retr
 from automation.src.rag.store import store_path_for
 
 logger = logging.getLogger(__name__)
+
+
+class CriterionResult(BaseModel):
+    id: str = Field(description="The ID of the indicator being evaluated. Only contain numbers and a single dot for seperation.")
+    indicator: str = Field(description="The name of the indicator being evaluated.")
+    included: str = Field(description="Must be 'Yes' or 'No'.")
+    evidence: Optional[List[str]] = Field(default=None, description="One or more citation tags (e.g. [\"1.3-4.0\", \"1.3-4.2\"]) of the sentences that support this indicator if included is 'Yes', otherwise null. Never transcribe sentence text here.")
+    rationale: str = Field(description="Explanation of how the text addresses or fails to address this indicator.")
+
+
+class PolicyEvaluationResponse(BaseModel):
+    evaluation_results: List[CriterionResult]
+
+
+def validate_completeness(evaluation_results: dict) -> tuple[bool, list[str]]:
+    found_ids = set(evaluation_results.keys())
+    missing = sorted(EXPECTED_INDICATOR_IDS - found_ids)
+    extra = sorted(found_ids - set(EXPECTED_INDICATOR_IDS))
+    issues: list[str] = []
+    if missing:
+        issues.append(f"Missing indicators ({len(missing)}): {', '.join(missing)}")
+    if extra:
+        issues.append(f"Unexpected indicators ({len(extra)}): {', '.join(extra)}")
+    if len(found_ids) != EXPECTED_INDICATOR_COUNT:
+        issues.append(
+            f"Expected {EXPECTED_INDICATOR_COUNT} indicators, found {len(found_ids)}"
+        )
+    return len(issues) == 0, issues
+
+
+def save_report(report: dict, output_folder: str, policy_path: str) -> str:
+    Path(output_folder).mkdir(parents=True, exist_ok=True)
+    basename = Path(policy_path).name.replace(".txt", ".json")
+    output_path = str(Path(output_folder) / basename)
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(report, f, ensure_ascii=False, indent=2)
+    return output_path
+
+
+def finalize_and_save_report(
+    final_report: dict,
+    policy_path: str,
+    output_folder: str,
+    deployment_name: str,
+    allow_partial: bool,
+) -> tuple[bool, str | None]:
+    is_complete, completeness_issues = validate_completeness(
+        final_report["evaluation_results"]
+    )
+    has_failures = bool(final_report["failed_dimensions"])
+
+    if not is_complete:
+        for issue in completeness_issues:
+            print(f"Completeness issue: {issue}", file=sys.stderr)
+
+    if is_complete and not has_failures:
+        output_path = save_report(
+            final_report, output_folder, policy_path
+        )
+        print(f"Evaluation completed successfully: {output_path}")
+        return True, output_path
+
+    if allow_partial:
+        output_path = save_report(
+            final_report, output_folder, policy_path
+        )
+        print(f"Partial evaluation saved: {output_path}", file=sys.stderr)
+        return False, output_path
+
+    print(
+        "Evaluation incomplete; report not saved. Use --allow-partial to save anyway.",
+        file=sys.stderr,
+    )
+    return False, None
 
 
 @dataclass
@@ -219,6 +294,7 @@ def _resolve_batch_evidence(
 def _merge_dimension_results(
     policy_path: Path,
     deployment_name: str,
+    prompt_version: str,
     dimension_results: list[DimensionResult | BaseException],
 ) -> tuple[dict, dict[str, list[RetrievedChunk]]]:
     evaluated_at = datetime.now(timezone.utc).isoformat()
@@ -226,7 +302,7 @@ def _merge_dimension_results(
         "policy_file": policy_path.name,
         "model": deployment_name,
         "evaluated_at": evaluated_at,
-        "prompt_version": PROMPT_VERSION,
+        "prompt_version": prompt_version,
         "completed_dimensions": [],
         "failed_dimensions": [],
         "errors": [],
@@ -296,7 +372,7 @@ def _evaluate_policy_serial(
         )
         for criteria_file in CRITERIA_FILES
     ]
-    return _merge_dimension_results(policy_path, deployment_name, dimension_results)
+    return _merge_dimension_results(policy_path, deployment_name, criteria_folder.name, dimension_results)
 
 
 def _evaluate_policy_parallel(
@@ -332,7 +408,7 @@ def _evaluate_policy_parallel(
         for cf in CRITERIA_FILES
     ]
     dimension_results = limiter.run_parallel(tasks)
-    return _merge_dimension_results(policy_path, deployment_name, dimension_results)
+    return _merge_dimension_results(policy_path, deployment_name, criteria_folder.name, dimension_results)
 
 
 def _write_candidates_file(

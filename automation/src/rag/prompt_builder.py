@@ -11,10 +11,7 @@ from automation.src.rag.sentence_split import split_sentences
 
 
 def parse_criteria_lines(criteria_file_path: str) -> list[tuple[str, str, str]]:
-    """Parse `id | indicator | question` rows from a criteria file.
-
-    Same format/parsing as `quality_eval.v1.prompts.prompt_loader.generate_judge_prompt`.
-    """
+    """Parse `id | indicator | question` rows from a criteria file."""
     rows: list[tuple[str, str, str]] = []
     with open(criteria_file_path, encoding="utf-8") as f:
         for line in f:

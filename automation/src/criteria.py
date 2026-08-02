@@ -3,11 +3,9 @@ from typing import Dict, FrozenSet, List, Set
 
 import yaml
 
-V1_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = V1_DIR.parent.parent
+from automation.src.constants import PROJECT_ROOT
+
 DEFAULT_INDEX_SCHEMA_PATH = PROJECT_ROOT / "data" / "mapping" / "index_schema.yaml"
-PROMPTS_DIR = V1_DIR / "prompts"
-PROMPT_VERSION = "v1"
 
 CRITERIA_FILES: List[str] = [
     "01_scope_of_violence.txt",
@@ -76,8 +74,7 @@ def load_criteria_file_ids(criteria_file_path: Path) -> Set[str]:
     return ids
 
 
-def validate_criteria_files(criteria_dir: Path | None = None) -> tuple[bool, List[str]]:
-    criteria_dir = criteria_dir or PROMPTS_DIR
+def validate_criteria_files(criteria_dir: Path) -> tuple[bool, List[str]]:
     issues: List[str] = []
 
     file_ids: Set[str] = set()

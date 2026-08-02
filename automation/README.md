@@ -2,7 +2,7 @@
 
 Config-driven orchestration for policy translation, LLM quality evaluation, golden-dataset comparison, and discrepancy diagnosis.
 
-Legacy CLIs in `translation/` and `quality_eval/` remain available independently. Golden-dataset comparison logic lives in [`src/evaluate_accuracy.py`](src/evaluate_accuracy.py); `quality_eval/evaluate_accuracy.py` re-exports it for backward compatibility.
+Golden-dataset comparison logic lives in [`src/evaluate_accuracy.py`](src/evaluate_accuracy.py).
 
 ## Layout
 
