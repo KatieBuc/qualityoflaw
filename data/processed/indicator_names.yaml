@@ -1,279 +1,293 @@
-"1.1":
-  indicator: "Domestic violence"
-  definition: "Any act of physical, psychological, sexual, or economic violence based on gender perpetrated by family members, intimate partners, or members of the same household."
-  qu: "Does the policy cover domestic violence?"
+scope_of_violence:
+  "name": "Scope of Violence"
+  "1.1":
+    indicator: "Domestic violence"
+    definition: "Any act of physical, psychological, sexual, or economic violence based on gender perpetrated by family members, intimate partners, or members of the same household."
+    qu: "Does the policy cover domestic violence?"
 
-"1.2":
-  indicator: "Sexual violence"
-  definition: "Any unwelcome physical, verbal, or non-verbal act, threat, or coercive conduct that targets a person's body, sexuality, or reproductive organs and violates their dignity."
-  qu: "Does the policy cover sexual violence?"
+  "1.2":
+    indicator: "Sexual violence"
+    definition: "Any unwelcome physical, verbal, or non-verbal act, threat, or coercive conduct that targets a person's body, sexuality, or reproductive organs and violates their dignity."
+    qu: "Does the policy cover sexual violence?"
 
-"1.3":
-  indicator: "Physical violence"
-  definition: "Any act of physical aggression, force, or abuse directed at an individual because of their gender, resulting in or likely to result in physical harm, injury, pain, or suffering."
-  qu: "Does the policy cover physical violence?"
+  "1.3":
+    indicator: "Physical violence"
+    definition: "Any act of physical aggression, force, or abuse directed at an individual because of their gender, resulting in or likely to result in physical harm, injury, pain, or suffering."
+    qu: "Does the policy cover physical violence?"
 
-"1.4":
-  indicator: "Psychological violence"
-  definition: "Any act or behaviour that causes emotional or mental harm through tactics of fear and control such as intimidation, threats, humiliation, or forced isolation."
-  qu: "Does the policy cover psychological violence?"
+  "1.4":
+    indicator: "Psychological violence"
+    definition: "Any act or behaviour that causes emotional or mental harm through tactics of fear and control such as intimidation, threats, humiliation, or forced isolation."
+    qu: "Does the policy cover psychological violence?"
 
-"1.5":
-  indicator: "Economic violence"
-  definition: "Any act that controls, exploits, or restricts a person's access to financial resources and economic opportunities, such as forbidding attendance at school or employment."
-  qu: "Does the policy cover economic violence, economic exploitation, or domestic neglect?"
+  "1.5":
+    indicator: "Economic violence"
+    definition: "Any act that controls, exploits, or restricts a person's access to financial resources and economic opportunities, such as forbidding attendance at school or employment."
+    qu: "Does the policy cover economic violence, economic exploitation, or domestic neglect?"
 
-"1.6":
-  indicator: "Harmful practices"
-  definition: "Practices or traditions based on discriminatory social or gender norms that cause physical, psychological, sexual, economic, or social harm such as female genital mutilation, early marriage, honour crimes, female infanticide, and virginity testing."
-  qu: "Does the policy cover harmful practices, including early marriage, female genital mutilation, honour crimes, or female infanticide?"
+  "1.6":
+    indicator: "Harmful practices"
+    definition: "Practices or traditions based on discriminatory social or gender norms that cause physical, psychological, sexual, economic, or social harm such as female genital mutilation, early marriage, honour crimes, female infanticide, and virginity testing."
+    qu: "Does the policy cover harmful practices, including early marriage, female genital mutilation, honour crimes, or female infanticide?"
 
-"1.7":
-  indicator: "Femicide/feminicide"
-  definition: "Intentional killing of a woman or a girl because of discrimination towards women and girls, harmful stereotypes, and unequal power dynamics between women and men."
-  qu: "Does the policy cover femicide/feminicide?"
+  "1.7":
+    indicator: "Femicide/feminicide"
+    definition: "Intentional killing of a woman or a girl because of discrimination towards women and girls, harmful stereotypes, and unequal power dynamics between women and men."
+    qu: "Does the policy cover femicide/feminicide?"
 
-"1.8":
-  indicator: "Human trafficking"
-  definition: "The recruitment, transportation, transfer, harbouring, or receipt of persons through force, coercion, deception, abuse of power, or other forms of violence for the purpose of exploitation."
-  qu: "Does the policy cover human trafficking?"
+  "1.8":
+    indicator: "Human trafficking"
+    definition: "The recruitment, transportation, transfer, harbouring, or receipt of persons through force, coercion, deception, abuse of power, or other forms of violence for the purpose of exploitation."
+    qu: "Does the policy cover human trafficking?"
 
-"1.9":
-  indicator: "Sexual slavery/exploitation"
-  definition: "Any act of abuse of a position of vulnerability, power or trust, or use of force or threat of force, for profiting financially, physically, socially or politically from the prostitution or sexual acts of a person."
-  qu: "Does the policy cover sexual slavery or exploitation?"
+  "1.9":
+    indicator: "Sexual slavery/exploitation"
+    definition: "Any act of abuse of a position of vulnerability, power or trust, or use of force or threat of force, for profiting financially, physically, socially or politically from the prostitution or sexual acts of a person."
+    qu: "Does the policy cover sexual slavery or exploitation?"
 
-"1.10":
-  indicator: "Technology-facilitated violence"
-  definition: "Any gender-based violence that is committed, assisted, aggravated, or amplified by the use of digital tools or information communication technologies."
-  qu: "Does the policy cover technology-facilitated violence?"
+  "1.10":
+    indicator: "Technology-facilitated violence"
+    definition: "Any gender-based violence that is committed, assisted, aggravated, or amplified by the use of digital tools or information communication technologies."
+    qu: "Does the policy cover technology-facilitated violence?"
 
-"2.1":
-  indicator: "Institutional network"
-  definition: "Mechanisms established by institutions to foster networks and strengthen coordination or cooperation among relevant governmental and non-governmental actors within and across jurisdictions to prevent and respond to violence, and to support monitoring and evaluation activities."
-  qu: "Does the policy establish or refer to institutional coordination mechanisms across government agencies or jurisdictions?"
+institutional_mechanism:
+  "name": "Institutional Mechanism"
+  "2.1":
+    indicator: "Institutional network"
+    definition: "Mechanisms established by institutions to foster networks and strengthen coordination or cooperation among relevant governmental and non-governmental actors within and across jurisdictions to prevent and respond to violence, and to support monitoring and evaluation activities."
+    qu: "Does the policy establish or refer to institutional coordination mechanisms across government agencies or jurisdictions?"
 
-"2.2":
-  indicator: "Collaboration with NGOs"
-  definition: "Engagement or collaboration/cooperation mechanism with non-government organisations or service providers to support prevention and response services (e.g., forum, working group)."
-  qu: "Does the policy establish or refer to collaboration mechanisms with non-government service providers (e.g., forums, partnerships, working groups)?"
+  "2.2":
+    indicator: "Collaboration with NGOs"
+    definition: "Engagement or collaboration/cooperation mechanism with non-government organisations or service providers to support prevention and response services (e.g., forum, working group)."
+    qu: "Does the policy establish or refer to collaboration mechanisms with non-government service providers (e.g., forums, partnerships, working groups)?"
 
-"2.3":
-  indicator: "Data collection systems"
-  definition: "Establishment of a system or mechanism to collect data or information about violence against women and women’s protection."
-  qu: "Does the policy establish or refer to data collection or information systems for VAW and women's protection?"
+  "2.3":
+    indicator: "Data collection systems"
+    definition: "Establishment of a system or mechanism to collect data or information about violence against women and women’s protection."
+    qu: "Does the policy establish or refer to data collection or information systems for VAW and women's protection?"
 
-"2.4":
-  indicator: "Gender mainstreaming institutionalisation"
-  definition: "Adoption or implementation of a gender mainstreaming mechanism, such as a working group,  gender responsive budgeting, gender analysis, or other gender responsive programs to implement violence against women response services and prevention."
-  qu: "Does the policy institutionalise gender mainstreaming through formal mechanisms, such as designated units or working groups, to support VAW policies and programs?"
+  "2.4":
+    indicator: "Gender mainstreaming institutionalisation"
+    definition: "Adoption or implementation of a gender mainstreaming mechanism, such as a working group,  gender responsive budgeting, gender analysis, or other gender responsive programs to implement violence against women response services and prevention."
+    qu: "Does the policy institutionalise gender mainstreaming through formal mechanisms, such as designated units or working groups, to support VAW policies and programs?"
 
-"2.5":
-  indicator: "Training and capacity building"
-  definition: "The provision and delivery of training and capacity-building programs for government officials and service providers to support the implementation of violence against women policies, response services, and prevention initiatives."
-  qu: "Does the policy require or provide training, technical guidance, or capacity building for government officials, implementing agencies, or service providers?"
+  "2.5":
+    indicator: "Training and capacity building"
+    definition: "The provision and delivery of training and capacity-building programs for government officials and service providers to support the implementation of violence against women policies, response services, and prevention initiatives."
+    qu: "Does the policy require or provide training, technical guidance, or capacity building for government officials, implementing agencies, or service providers?"
 
-"2.6":
-  indicator: "Monitoring and evaluation"
-  definition: "Establishment or the designation of monitoring and evaluation mechanisms to assess the implementation of violence against women policies and services."
-  qu: "Does the policy establish or require monitoring and evaluation of policy implementation and service delivery?"
+  "2.6":
+    indicator: "Monitoring and evaluation"
+    definition: "Establishment or the designation of monitoring and evaluation mechanisms to assess the implementation of violence against women policies and services."
+    qu: "Does the policy establish or require monitoring and evaluation of policy implementation and service delivery?"
 
-"3.1":
-  indicator: "Integrated service unit"
-  definition: "Establishment or the designation of a dedicated unit to provide comprehensive and integrated support services for victim-survivors of violence against women."
-  qu: "Does the policy provide for or establish an integrated service unit for victims/survivors of violence against women?"
+specialised_support_services:
+  "name": "Specialised Support Services"
+  "3.1":
+    indicator: "Integrated service unit"
+    definition: "Establishment or the designation of a dedicated unit to provide comprehensive and integrated support services for victim-survivors of violence against women."
+    qu: "Does the policy provide for or establish an integrated service unit for victims/survivors of violence against women?"
 
-"3.2":
-  indicator: "Police specialised service unit"
-  definition: "Designation of or engagement with specialised police units on violence against women."
-  qu: "Does the policy provide for or establish specialised police units/services for victims/survivors of violence against women?"
+  "3.2":
+    indicator: "Police specialised service unit"
+    definition: "Designation of or engagement with specialised police units on violence against women."
+    qu: "Does the policy provide for or establish specialised police units/services for victims/survivors of violence against women?"
 
-"3.3":
-  indicator: "Reporting/hotline service"
-  definition: "Establishment or designation of a service unit or mechanism that would receive reports or complaints of violence against women."
-  qu: "Does the policy provide for services that receive reports or complaints of violence against women (e.g., reporting mechanisms or hotlines)?"
+  "3.3":
+    indicator: "Reporting/hotline service"
+    definition: "Establishment or designation of a service unit or mechanism that would receive reports or complaints of violence against women."
+    qu: "Does the policy provide for services that receive reports or complaints of violence against women (e.g., reporting mechanisms or hotlines)?"
 
-"3.4":
-  indicator: "Safety/protection shelter"
-  definition: "Establishment or designation of a service unit or mechanism that would provide safety or protection shelter, providing safe refuge or emergency accommodation for victim-survivors of violence against women."
-  qu: "Does the policy provide for safety or protection shelters for victims/survivors of violence against women?"
+  "3.4":
+    indicator: "Safety/protection shelter"
+    definition: "Establishment or designation of a service unit or mechanism that would provide safety or protection shelter, providing safe refuge or emergency accommodation for victim-survivors of violence against women."
+    qu: "Does the policy provide for safety or protection shelters for victims/survivors of violence against women?"
 
-"3.5":
-  indicator: "Legal assistance"
-  definition: "Establishment or designation of a service unit or mechanism that would provide legal assistance or counselling for victim-survivors of violence against women, facilitating their access to legal remedies and formal justice systems."
-  qu: "Does the policy provide for legal assistance services for victims/survivors of violence against women?"
+  "3.5":
+    indicator: "Legal assistance"
+    definition: "Establishment or designation of a service unit or mechanism that would provide legal assistance or counselling for victim-survivors of violence against women, facilitating their access to legal remedies and formal justice systems."
+    qu: "Does the policy provide for legal assistance services for victims/survivors of violence against women?"
 
-"3.6":
-  indicator: "Health/medical services"
-  definition: "Designation or provision of health care or medical services for victim-survivors of violence against women to support treatment, healing, and recovery from injuries, physical harm, and related health consequences."
-  qu: "Does the policy provide for health or medical services for victims/survivors of violence against women?"
+  "3.6":
+    indicator: "Health/medical services"
+    definition: "Designation or provision of health care or medical services for victim-survivors of violence against women to support treatment, healing, and recovery from injuries, physical harm, and related health consequences."
+    qu: "Does the policy provide for health or medical services for victims/survivors of violence against women?"
 
-"3.7":
-  indicator: "Psychosocial counselling"
-  definition: "Designation or provision of psychological or psychosocial services or assistance for victim-survivors of violence against women, such as psychological counselling or therapy to support recovery from trauma and enhance well-being."
-  qu: "Does the policy provide for psychosocial counselling services for victims/survivors of violence against women?"
+  "3.7":
+    indicator: "Psychosocial counselling"
+    definition: "Designation or provision of psychological or psychosocial services or assistance for victim-survivors of violence against women, such as psychological counselling or therapy to support recovery from trauma and enhance well-being."
+    qu: "Does the policy provide for psychosocial counselling services for victims/survivors of violence against women?"
 
-"3.8":
-  indicator: "Religious/spiritual counselling"
-  definition: "Designation or provision of religious/faith-based or spiritual guidance or counselling services for victim-survivors of violence against women to support their recovery and enhance well-being."
-  qu: "Does the policy provide for religious or spiritual counselling, guidance, or similar faith-based support for victims/survivors of violence against women?"
+  "3.8":
+    indicator: "Religious/spiritual counselling"
+    definition: "Designation or provision of religious/faith-based or spiritual guidance or counselling services for victim-survivors of violence against women to support their recovery and enhance well-being."
+    qu: "Does the policy provide for religious or spiritual counselling, guidance, or similar faith-based support for victims/survivors of violence against women?"
 
-"3.9":
-  indicator: "Resocialisation services"
-  definition: "Designation or provision of resocialition or reintegration/repatriation services or assistance for victim-survivors of violence against women to support their recovery and safe return to community."
-  qu: "Does the policy provide for rehabilitation, reintegration, or resocialisation services for victims/survivors of violence against women?"
+  "3.9":
+    indicator: "Resocialisation services"
+    definition: "Designation or provision of resocialition or reintegration/repatriation services or assistance for victim-survivors of violence against women to support their recovery and safe return to community."
+    qu: "Does the policy provide for rehabilitation, reintegration, or resocialisation services for victims/survivors of violence against women?"
 
-"3.10":
-  indicator: "Economic support"
-  definition: "Provision of economic support or assistance for victim-survivors of violence against women, such as through skill training, access to financial resources, and livelihood opportunities to promote economic security and independence."
-  qu: "Does the policy provide for economic empowerment or support services (e.g., skills training or financial assistance) for victims/survivors of violence against women?"
+  "3.10":
+    indicator: "Economic support"
+    definition: "Provision of economic support or assistance for victim-survivors of violence against women, such as through skill training, access to financial resources, and livelihood opportunities to promote economic security and independence."
+    qu: "Does the policy provide for economic empowerment or support services (e.g., skills training or financial assistance) for victims/survivors of violence against women?"
 
-"4.1":
-  indicator: "Information and education about VAW"
-  definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about violence against women and its consequences."
-  qu: "Does the policy include primary prevention activities that provide information, education, or awareness raising about violence against women?"
+primary_prevention:
+  "name": "Primary Prevention"
+  "4.1":
+    indicator: "Information and education about VAW"
+    definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about violence against women and its consequences."
+    qu: "Does the policy include primary prevention activities that provide information, education, or awareness raising about violence against women?"
 
-"4.2":
-  indicator: "Gender equality education"
-  definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about gender equality and/or women’s rights."
-  qu: "Does the policy include primary prevention activities that promote awareness, education, or advocacy on gender equality and/or women's rights?"
+  "4.2":
+    indicator: "Gender equality education"
+    definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about gender equality and/or women’s rights."
+    qu: "Does the policy include primary prevention activities that promote awareness, education, or advocacy on gender equality and/or women's rights?"
 
-"4.3":
-  indicator: "VAW laws awareness"
-  definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about laws and policies on violence against women."
-  qu: "Does the policy include primary prevention activities that provide information or education about laws and policies related to violence against women?"
+  "4.3":
+    indicator: "VAW laws awareness"
+    definition: "The establishment or implementation of prevention programs or initiatives that deliver training, education, campaigns, or awareness-raising activities to enhance knowledge or information about laws and policies on violence against women."
+    qu: "Does the policy include primary prevention activities that provide information or education about laws and policies related to violence against women?"
 
-"4.4":
-  indicator: "Prevention through education"
-  definition: "The establishment or implementation of prevention programs or initiatives through education, educational curricula, or improving the quality of education."
-  qu: "Does the policy include primary prevention activities delivered through education systems or initiatives to improve the quality of education?"
+  "4.4":
+    indicator: "Prevention through education"
+    definition: "The establishment or implementation of prevention programs or initiatives through education, educational curricula, or improving the quality of education."
+    qu: "Does the policy include primary prevention activities delivered through education systems or initiatives to improve the quality of education?"
 
-"5.1":
-  indicator: "NGO collaboration"
-  definition: "Engagement, cooperation or collaboration with non-governmental organisations or civil society organisations, such as women’s organisations or crisis centres, to provide or coordinate support services and violence prevention efforts."
-  qu: "Does the policy include collaboration with civil society organisations or NGOs for VAW services or prevention?"
+stakeholder_engagement:
+  "name": "Stakeholder Engagement"
+  "5.1":
+    indicator: "NGO collaboration"
+    definition: "Engagement, cooperation or collaboration with non-governmental organisations or civil society organisations, such as women’s organisations or crisis centres, to provide or coordinate support services and violence prevention efforts."
+    qu: "Does the policy include collaboration with civil society organisations or NGOs for VAW services or prevention?"
 
-"5.2":
-  indicator: "Religious engagement"
-  definition: "Engagement, cooperation or collaboration with religious or faith-based organisations, leaders, clerics, spiritual mentors, and counsellors to provide counselling, spiritual care, and well-being support for victim-survivors, and to contribute to violence prevention efforts."
-  qu: "Does the policy include engagement with religious organisations or leaders for VAW services, prevention, or implementation?"
+  "5.2":
+    indicator: "Religious engagement"
+    definition: "Engagement, cooperation or collaboration with religious or faith-based organisations, leaders, clerics, spiritual mentors, and counsellors to provide counselling, spiritual care, and well-being support for victim-survivors, and to contribute to violence prevention efforts."
+    qu: "Does the policy include engagement with religious organisations or leaders for VAW services, prevention, or implementation?"
 
-"5.3":
-  indicator: "Traditional/cultural engagement"
-  definition: "Engagement, cooperation or collaboration with traditional or Indigenous organisations or leaders, such as cultural and community leaders, to provide culturally appropriate support for victim-survivors and promote violence prevention."
-  qu: "Does the policy include engagement with traditional, customary, or cultural leaders or organisations for VAW services, prevention, or implementation?"
+  "5.3":
+    indicator: "Traditional/cultural engagement"
+    definition: "Engagement, cooperation or collaboration with traditional or Indigenous organisations or leaders, such as cultural and community leaders, to provide culturally appropriate support for victim-survivors and promote violence prevention."
+    qu: "Does the policy include engagement with traditional, customary, or cultural leaders or organisations for VAW services, prevention, or implementation?"
 
-"5.4":
-  indicator: "Education institutions engagement"
-  definition: "Engagement, cooperation or collaboration with educational institutions and providers, including universities and research institutions, to support the provision of support services for victim-survivors and advance violence prevention efforts."
-  qu: "Does the policy include engagement with education institutions, including universities, for VAW services or prevention?"
+  "5.4":
+    indicator: "Education institutions engagement"
+    definition: "Engagement, cooperation or collaboration with educational institutions and providers, including universities and research institutions, to support the provision of support services for victim-survivors and advance violence prevention efforts."
+    qu: "Does the policy include engagement with education institutions, including universities, for VAW services or prevention?"
 
-"5.5":
-  indicator: "International organisations engagement"
-  definition: "Engagement, cooperation or collaboration with international organisations and institutions that provide development assistance or support to strengthen support services for victim-survivors, build institutional capacity, and advance violence prevention efforts."
-  qu: "Does the policy include engagement or support from international organisations for VAW services or prevention?"
+  "5.5":
+    indicator: "International organisations engagement"
+    definition: "Engagement, cooperation or collaboration with international organisations and institutions that provide development assistance or support to strengthen support services for victim-survivors, build institutional capacity, and advance violence prevention efforts."
+    qu: "Does the policy include engagement or support from international organisations for VAW services or prevention?"
 
-"5.6":
-  indicator: "Media engagement"
-  definition: "Engagement, cooperation or collaboration with media or journalists to raise public awareness, strengthen institutional capacity, and advance violence prevention initiatives."
-  qu: "Does the policy include engagement with media for VAW services, prevention, or awareness?"
+  "5.6":
+    indicator: "Media engagement"
+    definition: "Engagement, cooperation or collaboration with media or journalists to raise public awareness, strengthen institutional capacity, and advance violence prevention initiatives."
+    qu: "Does the policy include engagement with media for VAW services, prevention, or awareness?"
 
-"5.7":
-  indicator: "Community engagement"
-  definition: "Engagement, cooperation or collaboration with community members or society to support the provision of support services for victim-survivors and advance violence prevention efforts."
-  qu: "Does the policy include engagement with communities or society for VAW services, prevention, or implementation?"
+  "5.7":
+    indicator: "Community engagement"
+    definition: "Engagement, cooperation or collaboration with community members or society to support the provision of support services for victim-survivors and advance violence prevention efforts."
+    qu: "Does the policy include engagement with communities or society for VAW services, prevention, or implementation?"
 
-"5.8":
-  indicator: "Private sector engagement"
-  definition: "Engagement, cooperation or collaboration with business and private sector organisations to support the provision of support services for victim-survivors and advance violence prevention efforts."
-  qu: "Does the policy include engagement with businesses or the private sector for VAW services or prevention?"
+  "5.8":
+    indicator: "Private sector engagement"
+    definition: "Engagement, cooperation or collaboration with business and private sector organisations to support the provision of support services for victim-survivors and advance violence prevention efforts."
+    qu: "Does the policy include engagement with businesses or the private sector for VAW services or prevention?"
 
-"6.1":
-  indicator: "Women in conflict/disaster areas"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women in conflict-affected, disaster-prone, or disaster-impacted areas to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women in conflict or disaster-affected areas?"
+intersectional_approach:
+  "name": "Intersectional Approach"
+  "6.1":
+    indicator: "Women in conflict/disaster areas"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women in conflict-affected, disaster-prone, or disaster-impacted areas to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women in conflict or disaster-affected areas?"
 
-"6.2":
-  indicator: "Women victims of trafficking"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women who are victim-survivors of human trafficking to address their specific needs and vulnerabilities."
-  qu: "Does the policy include women victims of human trafficking or exploitation within its scope?"
+  "6.2":
+    indicator: "Women victims of trafficking"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women who are victim-survivors of human trafficking to address their specific needs and vulnerabilities."
+    qu: "Does the policy include women victims of human trafficking or exploitation within its scope?"
 
-"6.3":
-  indicator: "Women workers"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women workers or employees to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women workers or employees?"
+  "6.3":
+    indicator: "Women workers"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women workers or employees to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women workers or employees?"
 
-"6.4":
-  indicator: "Elderly women"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist elderly women to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for elderly women?"
+  "6.4":
+    indicator: "Elderly women"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist elderly women to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for elderly women?"
 
-"6.5":
-  indicator: "People with disability"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women with disabilities or people with disabilities to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women or people with disabilities?"
+  "6.5":
+    indicator: "People with disability"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women with disabilities or people with disabilities to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women or people with disabilities?"
 
-"6.6":
-  indicator: "Women heads of household"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women heads of households or families to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women heads of households or families?"
+  "6.6":
+    indicator: "Women heads of household"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women heads of households or families to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women heads of households or families?"
 
-"6.7":
-  indicator: "Women from minority groups"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women from minority or isolated groups to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women from minority or isolated groups?"
+  "6.7":
+    indicator: "Women from minority groups"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women from minority or isolated groups to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women from minority or isolated groups?"
 
-"6.8":
-  indicator: "Women in legal process"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women in conflict with the law as witnesses or perpetrators to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection for women involved in legal processes, including as witnesses or persons in conflict with the law?"
+  "6.8":
+    indicator: "Women in legal process"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women in conflict with the law as witnesses or perpetrators to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection for women involved in legal processes, including as witnesses or persons in conflict with the law?"
 
-"6.9":
-  indicator: "Indigenous people/groups"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist Indigenous people, traditional communities, and cultural groups to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for Indigenous people or groups (masyarakat adat)?"
+  "6.9":
+    indicator: "Indigenous people/groups"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist Indigenous people, traditional communities, and cultural groups to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for Indigenous people or groups (masyarakat adat)?"
 
-"6.10":
-  indicator: "Refugee/forced displacement"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist migrant and refugee women, and women affected by forced displacement, to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for refugees or people experiencing forced displacement?"
+  "6.10":
+    indicator: "Refugee/forced displacement"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist migrant and refugee women, and women affected by forced displacement, to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for refugees or people experiencing forced displacement?"
 
-"6.11":
-  indicator: "Domestic workers"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist domestic and household workers to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for domestic workers?"
+  "6.11":
+    indicator: "Domestic workers"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist domestic and household workers to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for domestic workers?"
 
-"6.12":
-  indicator: "Women experiencing homelessness"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women experiencing homelessness to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for women experiencing homelessness?"
+  "6.12":
+    indicator: "Women experiencing homelessness"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women experiencing homelessness to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for women experiencing homelessness?"
 
-"6.13":
-  indicator: "Formerly incarcerated women"
-  definition: "Provision of targeted measures and support mechanisms to protect and assist women who are former inmates in correctional institutions, or formerly incarcerated women, to address their specific needs and vulnerabilities."
-  qu: "Does the policy include protection measures for formerly incarcerated women or women released from correctional institutions?"
+  "6.13":
+    indicator: "Formerly incarcerated women"
+    definition: "Provision of targeted measures and support mechanisms to protect and assist women who are former inmates in correctional institutions, or formerly incarcerated women, to address their specific needs and vulnerabilities."
+    qu: "Does the policy include protection measures for formerly incarcerated women or women released from correctional institutions?"
 
-"7.1":
-  indicator: "Local government budget"
-  definition: "The designation or allocation of local government budget to fund the implementation of violence against women response services and prevention initiatives."
-  qu: "Does the policy identify local government budgets as a funding source?"
+budget_funding_sources:
+  "name": "Budget Funding Sources"
+  "7.1":
+    indicator: "Local government budget"
+    definition: "The designation or allocation of local government budget to fund the implementation of violence against women response services and prevention initiatives."
+    qu: "Does the policy identify local government budgets as a funding source?"
 
-"7.2":
-  indicator: "National government budget"
-  definition: "The designation or allocation of national government budget to fund the implementation of violence against women response services and prevention initiatives."
-  qu: "Does the policy identify national government budgets as a funding source?"
+  "7.2":
+    indicator: "National government budget"
+    definition: "The designation or allocation of national government budget to fund the implementation of violence against women response services and prevention initiatives."
+    qu: "Does the policy identify national government budgets as a funding source?"
 
-"7.3":
-  indicator: "International donors"
-  definition: "The designation or allocation of funding or assistance from international organisations or donors, including foreign governments, bilateral or multilateral donors, United Nations agencies, and development partners, to fund the implementation of violence against women response services and prevention initiatives."
-  qu: "Does the policy identify international support or donors as a funding source?"
+  "7.3":
+    indicator: "International donors"
+    definition: "The designation or allocation of funding or assistance from international organisations or donors, including foreign governments, bilateral or multilateral donors, United Nations agencies, and development partners, to fund the implementation of violence against women response services and prevention initiatives."
+    qu: "Does the policy identify international support or donors as a funding source?"
 
-"7.4":
-  indicator: "Other legal sources"
-  definition: "The designation or allocation of other legal funding or financial sources to fund the implementation of violence against women response services and prevention initiatives."
-  qu: "Does the policy identify other legal funding sources?"
+  "7.4":
+    indicator: "Other legal sources"
+    definition: "The designation or allocation of other legal funding or financial sources to fund the implementation of violence against women response services and prevention initiatives."
+    qu: "Does the policy identify other legal funding sources?"
 
-"7.5":
-  indicator: "Provincial government budget"
-  definition: "The designation or allocation of provincial government budget to fund the implementation of violence against women response services and prevention initiatives."
-  qu: "Does the policy identify provincial government budgets as a funding source?"
+  "7.5":
+    indicator: "Provincial government budget"
+    definition: "The designation or allocation of provincial government budget to fund the implementation of violence against women response services and prevention initiatives."
+    qu: "Does the policy identify provincial government budgets as a funding source?"
