@@ -2,7 +2,12 @@ import time
 
 from automation.src.evaluate_accuracy import run_accuracy_evaluation
 
-from automation.src.config_loader import ResolvedPipelineConfig, get_run_dir, resolve_results_dir
+from automation.src.config_loader import (
+    ResolvedPipelineConfig,
+    evaluation_output_names,
+    get_run_dir,
+    resolve_results_dir,
+)
 from automation.src.constants import DEFAULT_MANUAL_OVERWRITES
 
 
@@ -11,8 +16,9 @@ def run_comparison_step(
     config: ResolvedPipelineConfig,
 ) -> dict:
     run_dir = get_run_dir(run_id)
-    evaluation_dir = resolve_results_dir(run_dir, "evaluation")
-    comparison_dir = resolve_results_dir(run_dir, "comparison")
+    eval_name, comparison_name = evaluation_output_names(config.evaluation_method)
+    evaluation_dir = resolve_results_dir(run_dir, eval_name)
+    comparison_dir = resolve_results_dir(run_dir, comparison_name)
     comparison_dir.mkdir(parents=True, exist_ok=True)
 
     export_errors = str(comparison_dir / "error_analysis.csv")

@@ -65,3 +65,23 @@ def get_embedding_deployment() -> str:
             "AZURE_OPENAI_EMBEDDING_MODEL must be set in .env for the storage/retrieval RAG step."
         )
     return deployment
+
+
+def get_cohere_rerank_endpoint() -> str:
+    _load_env()
+    endpoint = clean_env_value(os.environ.get("AZURE_COHERE_RERANK_ENDPOINT", ""))
+    if not endpoint:
+        raise RuntimeError(
+            "AZURE_COHERE_RERANK_ENDPOINT must be set in .env for the reranker step."
+        )
+    return endpoint
+
+
+def get_cohere_rerank_api_key() -> str:
+    _load_env()
+    api_key = clean_env_value(os.environ.get("AZURE_COHERE_RERANK_API_KEY", ""))
+    if not api_key:
+        raise RuntimeError(
+            "AZURE_COHERE_RERANK_API_KEY must be set in .env for the reranker step."
+        )
+    return api_key

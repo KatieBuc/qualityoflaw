@@ -25,11 +25,18 @@ def _chunk(chunk_id: int, text: str, embedding: list[float]) -> dict:
     }
 
 
-def _retrieval_config(top_k=10, bm25_enabled=False, reranker_enabled=False) -> RetrievalConfig:
+def _retrieval_config(
+    top_k=10, bm25_enabled=False, reranker_enabled=False, candidate_pool_size=30, reranker_top_k=5
+) -> RetrievalConfig:
     return RetrievalConfig(
         top_k=top_k,
         hybrid_bm25=HybridBM25Config(enabled=bm25_enabled, rrf_k=60),
-        reranker=RerankerConfig(enabled=reranker_enabled),
+        reranker=RerankerConfig(
+            enabled=reranker_enabled,
+            model="fake-model",
+            candidate_pool_size=candidate_pool_size,
+            top_k=reranker_top_k,
+        ),
         evidence_verification_enabled=True,
     )
 
@@ -92,10 +99,31 @@ def test_reciprocal_rank_fusion_boosts_items_ranked_high_in_both_lists():
     assert len(fused) == 2
 
 
-def test_rerank_stub_is_passthrough_truncation():
+def test_rerank_reorders_by_cross_encoder_score(monkeypatch):
     candidates = [RetrievedChunk(chunk_id=i, text=f"c{i}", score=1.0) for i in range(5)]
-    result = rerank("query", candidates, top_k=3)
-    assert result == candidates[:3]
+
+    def fake_score_candidates(model_name, query, texts):
+        assert model_name == "fake-model"
+        assert query == "query"
+        # Deliberately inverted relative to candidate order, so a passthrough
+        # would fail this assertion.
+        return [float(i) for i in range(len(texts))][::-1]
+
+    monkeypatch.setattr(
+        "automation.src.rag.reranker.score_candidates", fake_score_candidates
+    )
+    result = rerank("query", candidates, top_k=3, model_name="fake-model")
+    assert [r.chunk_id for r in result] == [0, 1, 2]
+
+
+def test_rerank_empty_candidates_returns_empty(monkeypatch):
+    calls = []
+    monkeypatch.setattr(
+        "automation.src.rag.reranker.score_candidates",
+        lambda *a, **k: calls.append(1) or [],
+    )
+    assert rerank("query", [], top_k=3, model_name="fake-model") == []
+    assert calls == []
 
 
 def test_retrieve_evidence_candidates_vector_only():
@@ -117,6 +145,27 @@ def test_retrieve_evidence_candidates_hybrid_bm25():
     config = _retrieval_config(top_k=2, bm25_enabled=True)
     results = retrieve_evidence_candidates("domestic violence", [1.0, 0.0], chunks, config)
     assert {r.chunk_id for r in results} == {0, 1}
+
+
+def test_retrieve_evidence_candidates_reranker_uses_own_pool_size_and_top_k(monkeypatch):
+    chunks = [_chunk(i, f"chunk {i}", [1.0, 0.0]) for i in range(10)]
+
+    seen_pool_sizes = []
+
+    def fake_score_candidates(model_name, query, texts):
+        seen_pool_sizes.append(len(texts))
+        return [1.0] * len(texts)
+
+    monkeypatch.setattr(
+        "automation.src.rag.reranker.score_candidates", fake_score_candidates
+    )
+    config = _retrieval_config(
+        top_k=10, reranker_enabled=True, candidate_pool_size=4, reranker_top_k=2
+    )
+    results = retrieve_evidence_candidates("q", [1.0, 0.0], chunks, config)
+
+    assert seen_pool_sizes == [4]
+    assert len(results) == 2
 
 
 def test_retrieve_evidence_candidates_never_sees_other_policy_chunks():

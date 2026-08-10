@@ -19,6 +19,7 @@ from automation.src.failure_log import (
     record_step_failure,
     summarize_failures,
 )
+from automation.src.llm.client import get_cohere_rerank_api_key, get_cohere_rerank_endpoint
 from automation.src.llm.wrapper import AzureLLMWrapper
 from automation.src.metadata import (
     generate_run_id,
@@ -29,6 +30,7 @@ from automation.src.metadata import (
 from automation.src.rag.embedder import AzureEmbedder
 from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
+from automation.src.run_eval_sliding_window import run_sliding_window_evaluation_step
 from automation.src.translate import run_markdown_step, run_translation_step
 
 
@@ -78,7 +80,16 @@ def build_config_summary(config) -> dict:
             "top_k": config.retrieval.top_k,
             "hybrid_bm25_enabled": config.retrieval.hybrid_bm25.enabled,
             "reranker_enabled": config.retrieval.reranker.enabled,
+            "reranker_model": config.retrieval.reranker.model,
+            "reranker_candidate_pool_size": config.retrieval.reranker.candidate_pool_size,
+            "reranker_top_k": config.retrieval.reranker.top_k,
             "evidence_verification_enabled": config.retrieval.evidence_verification_enabled,
+        },
+        "evaluation_method": config.evaluation_method,
+        "sliding_window": {
+            "window_sentences": config.sliding_window.window_sentences,
+            "overlap_sentences": config.sliding_window.overlap_sentences,
+            "prompt_version": config.sliding_window.prompt_version,
         },
     }
 
@@ -130,7 +141,9 @@ def main() -> None:
         default=None,
         help=(
             "Comma-separated steps: translation, markdown, storage, evaluation, comparison, "
-            "discrepancy_diagnosis (default: all)."
+            "discrepancy_diagnosis (default: all). The evaluation/comparison steps' behavior "
+            "(RAG vs sliding window, and which results/ subfolder they use) is controlled by "
+            "evaluation.method in pipeline_config.yaml, not by --steps."
         ),
     )
     parser.add_argument(
@@ -240,7 +253,12 @@ def main() -> None:
                     f"Run directory not found: {run_dir}. Run translation first or omit --run-id."
                 )
         else:
-            validate_run_for_steps(run_id, steps, retrieval_enabled=config.retrieval.enabled)
+            validate_run_for_steps(
+                run_id,
+                steps,
+                retrieval_enabled=config.retrieval.enabled,
+                evaluation_method=config.evaluation_method,
+            )
             print(f"Using existing run: {run_id}")
 
         stopped = False
@@ -368,24 +386,40 @@ def main() -> None:
                         exit_code = 1
 
         if not stopped and "evaluation" in steps:
-            print("\nStep: evaluation")
+            print(f"\nStep: evaluation (method={config.evaluation_method})")
             try:
                 wrapper = AzureLLMWrapper.from_profile(config.evaluation_model, limiter=limiter)
-                embedder = (
-                    AzureEmbedder.from_env(batch_size=config.storage.batch_size)
-                    if config.retrieval.enabled
-                    else None
-                )
-                result = run_evaluation_step(
-                    run_id=run_id,
-                    config=config,
-                    wrapper=wrapper,
-                    embedder=embedder,
-                    limiter=limiter,
-                    small_scale=args.small_scale,
-                    allow_partial=args.allow_partial,
-                    force=args.force,
-                )
+                if config.evaluation_method == "sliding_window":
+                    result = run_sliding_window_evaluation_step(
+                        run_id=run_id,
+                        config=config,
+                        wrapper=wrapper,
+                        limiter=limiter,
+                        small_scale=args.small_scale,
+                        allow_partial=args.allow_partial,
+                        force=args.force,
+                    )
+                else:
+                    embedder = (
+                        AzureEmbedder.from_env(batch_size=config.storage.batch_size)
+                        if config.retrieval.enabled
+                        else None
+                    )
+                    if config.retrieval.reranker.enabled:
+                        # Fail fast on missing credentials, rather than every
+                        # worker thread independently hitting the same error.
+                        get_cohere_rerank_endpoint()
+                        get_cohere_rerank_api_key()
+                    result = run_evaluation_step(
+                        run_id=run_id,
+                        config=config,
+                        wrapper=wrapper,
+                        embedder=embedder,
+                        limiter=limiter,
+                        small_scale=args.small_scale,
+                        allow_partial=args.allow_partial,
+                        force=args.force,
+                    )
             except (FileNotFoundError, ValueError, RuntimeError) as exc:
                 exit_code = 1
                 stopped = True

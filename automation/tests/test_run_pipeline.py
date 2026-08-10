@@ -337,7 +337,12 @@ def test_main_comparison_only_with_existing_run_id(
     mock_translate.assert_not_called()
     mock_eval.assert_not_called()
     mock_compare.assert_called_once_with(run_id=run_id, config=mock_config)
-    mock_validate.assert_called_once_with(run_id, ["comparison"], retrieval_enabled=mock_config.retrieval.enabled)
+    mock_validate.assert_called_once_with(
+        run_id,
+        ["comparison"],
+        retrieval_enabled=mock_config.retrieval.enabled,
+        evaluation_method=mock_config.evaluation_method,
+    )
 
 
 @patch("automation.src.run_pipeline.update_metadata")

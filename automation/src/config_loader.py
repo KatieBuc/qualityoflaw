@@ -1,5 +1,5 @@
 import shutil
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 import yaml
@@ -14,7 +14,7 @@ from automation.src.constants import (
     PROJECT_ROOT,
     PROMPTS_ROOT,
 )
-from automation.src.llm.model_profile import ModelProfile
+from automation.src.llm.model_profile import ModelProfile, RerankerProfile
 
 
 @dataclass
@@ -51,7 +51,10 @@ class HybridBM25Config:
 
 @dataclass
 class RerankerConfig:
-    enabled: bool  # stub — see automation/src/rag/retriever.py:rerank()
+    enabled: bool
+    model: str = ""  # resolved deployment name (e.g. Cohere rerank model), not a config key
+    candidate_pool_size: int = 30
+    top_k: int = 5
 
 
 @dataclass
@@ -61,6 +64,16 @@ class RetrievalConfig:
     reranker: RerankerConfig
     evidence_verification_enabled: bool
     enabled: bool = True
+
+
+@dataclass
+class SlidingWindowConfig:
+    window_sentences: int = 40
+    overlap_sentences: int = 10
+    prompt_version: str = "sliding_window_v1"
+
+
+EVALUATION_METHODS = ("rag", "sliding_window")
 
 
 @dataclass
@@ -80,6 +93,11 @@ class ResolvedPipelineConfig:
     retrieval: RetrievalConfig
     pipeline_config_path: Path
     model_config_path: Path
+    evaluation_method: str = "rag"
+    sliding_window: SlidingWindowConfig = field(default_factory=SlidingWindowConfig)
+    sliding_window_template_path: Path = field(
+        default_factory=lambda: PROMPTS_ROOT / "quality_eval" / "sliding_window_v1" / "prompt_template.txt"
+    )
 
 
 def _resolve_path(path_value: str) -> Path:
@@ -121,6 +139,28 @@ def get_model_profile(profiles: dict[str, ModelProfile], key: str) -> ModelProfi
     if key not in profiles:
         available = ", ".join(sorted(profiles))
         raise ValueError(f"Unknown model key '{key}'. Available: {available}")
+    return profiles[key]
+
+
+def parse_reranker_profile(name: str, raw: dict) -> RerankerProfile:
+    if not raw:
+        raise ValueError(f"Reranker profile '{name}' is empty.")
+    deployment = raw.get("deployment")
+    if not deployment:
+        raise ValueError(f"Reranker profile '{name}' missing deployment.")
+    return RerankerProfile(name=name, deployment=str(deployment))
+
+
+def load_reranker_profiles(model_config_path: Path) -> dict[str, RerankerProfile]:
+    data = load_yaml(model_config_path)
+    rerankers = data.get("rerankers", {})
+    return {name: parse_reranker_profile(name, raw) for name, raw in rerankers.items()}
+
+
+def get_reranker_profile(profiles: dict[str, RerankerProfile], key: str) -> RerankerProfile:
+    if key not in profiles:
+        available = ", ".join(sorted(profiles))
+        raise ValueError(f"Unknown reranker model key '{key}'. Available: {available}")
     return profiles[key]
 
 
@@ -172,7 +212,12 @@ def parse_storage_config(raw: dict | None, *, rag_enabled: bool) -> StorageConfi
     return StorageConfig(enabled=rag_enabled, batch_size=batch_size)
 
 
-def parse_retrieval_config(raw: dict | None, *, rag_enabled: bool) -> RetrievalConfig:
+def parse_retrieval_config(
+    raw: dict | None,
+    *,
+    rag_enabled: bool,
+    reranker_profiles: dict[str, RerankerProfile] | None = None,
+) -> RetrievalConfig:
     raw = raw or {}
 
     top_k = int(raw.get("top_k", 10))
@@ -183,16 +228,74 @@ def parse_retrieval_config(raw: dict | None, *, rag_enabled: bool) -> RetrievalC
     reranker_raw = raw.get("reranker") or {}
     verification_raw = raw.get("evidence_verification") or {}
 
+    reranker_enabled = bool(reranker_raw.get("enabled", False))
+
+    reranker_top_k = int(reranker_raw.get("top_k", top_k))
+    if reranker_top_k < 1:
+        raise ValueError("evaluation.rag.retrieval.reranker.top_k must be >= 1")
+
+    candidate_pool_size = int(reranker_raw.get("candidate_pool_size", top_k * 3))
+    if candidate_pool_size < reranker_top_k:
+        raise ValueError(
+            "evaluation.rag.retrieval.reranker.candidate_pool_size must be >= reranker.top_k"
+        )
+
+    reranker_deployment = ""
+    if reranker_enabled:
+        reranker_model_key = reranker_raw.get("model")
+        if not reranker_model_key:
+            raise ValueError(
+                "evaluation.rag.retrieval.reranker.model must be set (a key in model_config.yaml's "
+                "rerankers:) when reranker.enabled is true"
+            )
+        reranker_deployment = get_reranker_profile(reranker_profiles or {}, reranker_model_key).deployment
+
     return RetrievalConfig(
         top_k=top_k,
         hybrid_bm25=HybridBM25Config(
             enabled=bool(bm25_raw.get("enabled", False)),
             rrf_k=int(bm25_raw.get("rrf_k", 60)),
         ),
-        reranker=RerankerConfig(enabled=bool(reranker_raw.get("enabled", False))),
+        reranker=RerankerConfig(
+            enabled=reranker_enabled,
+            model=reranker_deployment,
+            candidate_pool_size=candidate_pool_size,
+            top_k=reranker_top_k,
+        ),
         evidence_verification_enabled=bool(verification_raw.get("enabled", True)),
         enabled=rag_enabled,
     )
+
+
+def parse_sliding_window_config(raw: dict | None) -> SlidingWindowConfig:
+    raw = raw or {}
+
+    window_sentences = int(raw.get("window_sentences", 40))
+    if window_sentences < 1:
+        raise ValueError("evaluation.sliding_window.window_sentences must be >= 1")
+
+    overlap_sentences = int(raw.get("overlap_sentences", 10))
+    if overlap_sentences < 0:
+        raise ValueError("evaluation.sliding_window.overlap_sentences must be >= 0")
+    if overlap_sentences >= window_sentences:
+        raise ValueError(
+            "evaluation.sliding_window.overlap_sentences must be < window_sentences"
+        )
+
+    return SlidingWindowConfig(
+        window_sentences=window_sentences,
+        overlap_sentences=overlap_sentences,
+        prompt_version=str(raw.get("prompt_version", "sliding_window_v1")),
+    )
+
+
+def evaluation_output_names(method: str) -> tuple[str, str]:
+    """Map the active evaluation method to its (evaluation_dir, comparison_dir)
+    names, so both methods can be run against the same run_id without one
+    overwriting the other's results."""
+    if method == "sliding_window":
+        return "evaluation_sliding_window", "comparison_sliding_window"
+    return "evaluation", "comparison"
 
 
 def resolve_prompt_paths(
@@ -221,6 +324,13 @@ def resolve_prompt_paths(
     return translation_prompt, evaluation_dir, evaluation_template, discrepancy_diagnosis_template
 
 
+def resolve_sliding_window_prompt_path(version: str) -> Path:
+    template_path = PROMPTS_ROOT / "quality_eval" / version / "prompt_template.txt"
+    if not template_path.exists():
+        raise FileNotFoundError(f"Sliding window prompt template not found: {template_path}")
+    return template_path
+
+
 def load_pipeline_config(
     pipeline_config_path: Path | None = None,
     model_config_path: Path | None = None,
@@ -230,6 +340,7 @@ def load_pipeline_config(
 
     pipeline_data = load_yaml(pipeline_path)
     profiles = load_model_profiles(model_path)
+    reranker_profiles = load_reranker_profiles(model_path)
 
     translation_cfg = pipeline_data.get("translation", {})
     evaluation_cfg = pipeline_data.get("evaluation", {})
@@ -257,6 +368,15 @@ def load_pipeline_config(
     rag_cfg = evaluation_cfg.get("rag") or {}
     rag_enabled = bool(rag_cfg.get("enabled", True))
 
+    evaluation_method = str(evaluation_cfg.get("method", "rag"))
+    if evaluation_method not in EVALUATION_METHODS:
+        raise ValueError(
+            f"evaluation.method must be one of {EVALUATION_METHODS}, got '{evaluation_method}'"
+        )
+
+    sliding_window = parse_sliding_window_config(evaluation_cfg.get("sliding_window"))
+    sliding_window_template_path = resolve_sliding_window_prompt_path(sliding_window.prompt_version)
+
     return ResolvedPipelineConfig(
         experiment_name=pipeline_data.get("experiment_name", "unnamed"),
         translation_model=get_model_profile(profiles, translation_model_key),
@@ -277,10 +397,17 @@ def load_pipeline_config(
         ),
         concurrency=parse_concurrency_config(pipeline_data.get("concurrency")),
         chunking=parse_chunking_config(translation_cfg.get("chunking")),
-        storage=parse_storage_config(rag_cfg.get("storage"), rag_enabled=rag_enabled),
-        retrieval=parse_retrieval_config(rag_cfg.get("retrieval"), rag_enabled=rag_enabled),
+        storage=parse_storage_config(
+            rag_cfg.get("storage"), rag_enabled=rag_enabled and evaluation_method == "rag"
+        ),
+        retrieval=parse_retrieval_config(
+            rag_cfg.get("retrieval"), rag_enabled=rag_enabled, reranker_profiles=reranker_profiles
+        ),
         pipeline_config_path=pipeline_path.resolve(),
         model_config_path=model_path.resolve(),
+        evaluation_method=evaluation_method,
+        sliding_window=sliding_window,
+        sliding_window_template_path=sliding_window_template_path,
     )
 
 

@@ -22,3 +22,7 @@ models:
     temperature: 0.2
     max_tokens: null
     max_retries: 3
+
+rerankers:
+  cohere-rerank-v4.0-fast:
+    deployment: Cohere-rerank-v4.0-fast

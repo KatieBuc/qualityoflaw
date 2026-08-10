@@ -90,14 +90,22 @@ def _reciprocal_rank_fusion(
     ]
 
 
-def rerank(query: str, candidates: list[RetrievedChunk], top_k: int) -> list[RetrievedChunk]:
-    """Stub: passthrough truncation to top_k.
+def rerank(
+    query: str, candidates: list[RetrievedChunk], top_k: int, model_name: str
+) -> list[RetrievedChunk]:
+    """Reorder candidates by relevance score from the Cohere rerank API (see
+    automation/src/rag/reranker.py)."""
+    if not candidates:
+        return []
 
-    `retrieval.reranker.enabled` exists as a config toggle but is not wired to
-    an actual scoring model yet (no cross-encoder/LLM reranker implemented) —
-    enabling it today has no effect beyond this truncation.
-    """
-    return candidates[:top_k]
+    from automation.src.rag.reranker import score_candidates
+
+    scores = score_candidates(model_name, query, [c.text for c in candidates])
+    reranked = sorted(zip(candidates, scores), key=lambda pair: pair[1], reverse=True)
+    return [
+        RetrievedChunk(chunk_id=c.chunk_id, text=c.text, score=score)
+        for c, score in reranked[:top_k]
+    ]
 
 
 def retrieve_evidence_candidates(
@@ -106,7 +114,7 @@ def retrieve_evidence_candidates(
     store_chunks: list[dict],
     config: "RetrievalConfig",
 ) -> list[RetrievedChunk]:
-    pool_size = config.top_k if not config.reranker.enabled else config.top_k * 3
+    pool_size = config.top_k if not config.reranker.enabled else config.reranker.candidate_pool_size
     vector_hits = vector_search(query_embedding, store_chunks, pool_size)
 
     if config.hybrid_bm25.enabled:
@@ -118,5 +126,5 @@ def retrieve_evidence_candidates(
         candidates = vector_hits
 
     if config.reranker.enabled:
-        return rerank(query, candidates, config.top_k)
+        return rerank(query, candidates, config.reranker.top_k, config.reranker.model)
     return candidates[: config.top_k]

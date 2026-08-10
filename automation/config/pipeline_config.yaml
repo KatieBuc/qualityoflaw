@@ -2,7 +2,7 @@ experiment_name: first-full-run
 
 concurrency:
   enabled: true
-  max_workers: 8
+  max_workers: 20
 
 translation:
   model: claude-sonnet-4-5
@@ -14,6 +14,11 @@ translation:
 evaluation:
   model: gpt-5.2
   prompt_version: v3
+  method: rag  # "rag" | "sliding_window"
+  sliding_window:
+    prompt_version: sliding_window_v1
+    window_sentences: 100
+    overlap_sentences: 15
   rag:
     enabled: true
     storage:
@@ -24,7 +29,10 @@ evaluation:
         enabled: true
         rrf_k: 60
       reranker:
-        enabled: false
+        enabled: true
+        model: cohere-rerank-v4.0-fast
+        candidate_pool_size: 125
+        top_k: 25
       evidence_verification:
         enabled: true
 

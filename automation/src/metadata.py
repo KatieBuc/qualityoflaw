@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import Any
 
 from automation.src.config_loader import (
+    evaluation_output_names,
     get_run_dir,
     resolve_mid_product_dir,
     resolve_results_dir,
@@ -111,7 +112,12 @@ def ensure_run_exists(run_id: str) -> Path:
     return run_dir
 
 
-def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: bool = True) -> Path:
+def validate_run_for_steps(
+    run_id: str,
+    steps: list[str],
+    retrieval_enabled: bool = True,
+    evaluation_method: str = "rag",
+) -> Path:
     """Check that each requested step's prerequisite output already exists.
 
     A step's prerequisite is only enforced when the earlier step that would
@@ -141,7 +147,7 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
             if not txt_files:
                 raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
 
-        if retrieval_enabled and "storage" not in steps:
+        if retrieval_enabled and evaluation_method == "rag" and "storage" not in steps:
             rag_store_dir = resolve_mid_product_dir(run_dir, "rag_store")
             if not rag_store_dir.is_dir():
                 raise FileNotFoundError(
@@ -152,7 +158,8 @@ def validate_run_for_steps(run_id: str, steps: list[str], retrieval_enabled: boo
                 raise FileNotFoundError(f"No RAG store files in {rag_store_dir}")
 
     if "comparison" in steps and "evaluation" not in steps:
-        evaluation_dir = resolve_results_dir(run_dir, "evaluation")
+        eval_name, _ = evaluation_output_names(evaluation_method)
+        evaluation_dir = resolve_results_dir(run_dir, eval_name)
         if not evaluation_dir.is_dir():
             raise FileNotFoundError(
                 f"Evaluation output required for comparison: {evaluation_dir}"
