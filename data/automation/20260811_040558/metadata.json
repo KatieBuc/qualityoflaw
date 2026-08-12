@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-08-11T04:05:58.216885+00:00",
-    "updated_at": "2026-08-11T13:12:07.582308+00:00"
+    "updated_at": "2026-08-12T11:12:28.139012+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -95,6 +95,7 @@
       "JAWA_BARAT_MAJALENGKA.txt",
       "JAWA_BARAT_PANGANDARAN.txt",
       "JAWA_BARAT_PURWAKARTA.txt",
+      "JAWA_BARAT_SUMEDANG.txt",
       "JAWA_BARAT_TASIKMALAYA.txt",
       "JAWA_TENGAH_BANYUMAS.txt",
       "JAWA_TENGAH_BLORA.txt",
@@ -181,6 +182,7 @@
       "LAMPUNG_BANDAR_LAMPUNG_KOTA.txt",
       "LAMPUNG_LAMPUNG_TIMUR.txt",
       "LAMPUNG_LAMPUNG_UTARA.txt",
+      "LAMPUNG_METRO_KOTA.txt",
       "LAMPUNG_PESAWARAN.txt",
       "LAMPUNG_PESISIR_BARAT.txt",
       "LAMPUNG_PRINGSEWU.txt",
@@ -209,10 +211,12 @@
       "SULAWESI_BARAT_MAMUJU.txt",
       "SULAWESI_BARAT_PASANGKAYU.txt",
       "SULAWESI_SELATAN_BULUKUMBA.txt",
+      "SULAWESI_SELATAN_ENREKANG.txt",
       "SULAWESI_SELATAN_LUWU_TIMUR.txt",
       "SULAWESI_SELATAN_LUWU_TIMUR_v2.txt",
       "SULAWESI_SELATAN_PALOPO_KOTA.txt",
       "SULAWESI_SELATAN_TANA_TORAJA.txt",
+      "SULAWESI_TENGAH_BUOL.txt",
       "SULAWESI_TENGAH_DONGGALA.txt",
       "SULAWESI_TENGAH_MOROWALI.txt",
       "SULAWESI_TENGAH_PARIGI_MOUTONG.txt",
@@ -225,8 +229,10 @@
       "SULAWESI_TENGGARA_KONAWE.txt",
       "SULAWESI_TENGGARA_KONAWE_KEPULAUAN.txt",
       "SULAWESI_TENGGARA_KONAWE_UTARA.txt",
+      "SULAWESI_TENGGARA_MUNA.txt",
       "SULAWESI_TENGGARA_MUNA_BARAT.txt",
       "SULAWESI_UTARA_BITUNG_KOTA.txt",
+      "SULAWESI_UTARA_MINAHASA_TENGGARA.txt",
       "SUMATERA_BARAT_BUKITTINGGI_KOTA.txt",
       "SUMATERA_BARAT_DHARMASRAYA.txt",
       "SUMATERA_BARAT_KEPULAUAN_MENTAWAI.txt",
@@ -237,6 +243,7 @@
       "SUMATERA_SELATAN_MUARA_ENIM.txt",
       "SUMATERA_SELATAN_MUSI_BANYUASIN.txt",
       "SUMATERA_SELATAN_MUSI_RAWAS.txt",
+      "SUMATERA_SELATAN_MUSI_RAWAS_UTARA.txt",
       "SUMATERA_SELATAN_OGAN_KOMERING_ULU.txt",
       "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt",
       "SUMATERA_SELATAN_OGAN_KOMERING_ULU_v2.txt",
@@ -251,45 +258,45 @@
   },
   "file_counts": {
     "translation": {
-      "total": 191,
-      "succeeded": 0,
+      "total": 198,
+      "succeeded": 7,
       "skipped": 191,
       "failed": 0
     },
     "translation_qa": {
-      "total": 191,
-      "succeeded": 0,
-      "corrected": 0,
+      "total": 198,
+      "succeeded": 7,
+      "corrected": 7,
       "incomplete": 0,
       "skipped": 191,
       "failed": 0
     },
     "markdown": {
-      "total": 382,
-      "succeeded": 0,
+      "total": 396,
+      "succeeded": 14,
       "skipped": 382,
       "failed": 0
     },
     "storage": {
-      "total": 191,
-      "succeeded": 0,
+      "total": 198,
+      "succeeded": 7,
       "skipped": 191,
       "failed": 0
     },
     "evaluation": {
-      "total": 191,
-      "succeeded": 1,
+      "total": 198,
+      "succeeded": 7,
       "failed": 0,
-      "skipped": 190,
-      "saved_reports": 1
+      "skipped": 191,
+      "saved_reports": 7
     },
     "discrepancy_diagnosis": {
-      "total": 185,
-      "succeeded": 1,
+      "total": 192,
+      "succeeded": 7,
       "failed": 0,
-      "skipped": 184,
-      "saved_reports": 1,
-      "discrepancies_total": 892
+      "skipped": 185,
+      "saved_reports": 7,
+      "discrepancies_total": 933
     }
   },
   "failures": {
@@ -302,34 +309,34 @@
   },
   "token_usage": {
     "translation": {
-      "prompt_tokens": 0,
-      "completion_tokens": 0,
-      "total_tokens": 0
+      "prompt_tokens": 172825,
+      "completion_tokens": 86256,
+      "total_tokens": 259081
     },
     "translation_qa": {
-      "prompt_tokens": 0,
-      "completion_tokens": 0,
-      "total_tokens": 0
+      "prompt_tokens": 544028,
+      "completion_tokens": 77464,
+      "total_tokens": 621492
     },
     "evaluation": {
-      "prompt_tokens": 406079,
-      "completion_tokens": 3797,
-      "total_tokens": 409876
+      "prompt_tokens": 3091561,
+      "completion_tokens": 26677,
+      "total_tokens": 3118238
     },
     "discrepancy_diagnosis": {
-      "prompt_tokens": 26538,
-      "completion_tokens": 470,
-      "total_tokens": 27008
+      "prompt_tokens": 301662,
+      "completion_tokens": 6053,
+      "total_tokens": 307715
     }
   },
   "timing_seconds": {
-    "translation": 0.28,
-    "translation_qa": 0.19,
-    "markdown": 0.32,
-    "storage": 0.22,
-    "evaluation": 74.78,
-    "comparison": 1.31,
-    "discrepancy_diagnosis": 11.59,
-    "total": 114.7
+    "translation": 1094.77,
+    "translation_qa": 390.46,
+    "markdown": 0.94,
+    "storage": 15.81,
+    "evaluation": 428.37,
+    "comparison": 1.69,
+    "discrepancy_diagnosis": 34.47,
+    "total": 2000.41
   }
 }

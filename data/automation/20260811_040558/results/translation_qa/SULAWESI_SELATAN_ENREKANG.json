@@ -1,0 +1,755 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 94,
+  "chunks_corrected": 35,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the Indonesian heading states \"BUPATI ENREKANG PROVINSI SULAWESI SELATAN\" (Regent of Enrekang, South Sulawesi Province), but the translation renders it as \"REGENT OF ENREKANG SOUTH SULAWESI PROVINCE\" (missing the comma/structure, implying Enrekang South Sulawesi Province).",
+        "Leftover/non-policy text and OCR artifact: the segment \"2018 S32\" is not translated and appears to be an extraction artifact; it should be rendered as part of the legal text (\"2018 S32\") or removed only if it is clearly not part of the policy text. Here it is present in the original and should be kept but formatted consistently.",
+        "Scrambled/unclear structure at the end: the original continues with \"Dengan Persetujuan Bersama ... dan\"; the translation merges this into the previous line and uses inconsistent casing, making the legal clause boundary unclear. It should be separated as its own clause following the ministerial regulation citation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 9: 'disability' should refer to persons with disabilities (disabilitas), not the abstract condition 'disability'.",
+        "Minor meaning drift/terminology in item 25: 'Rumah singgah' is a 'halfway house/transit shelter' for street children; 'Shelter house' is inaccurate/unnatural and may mislead downstream use."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list lettering: the original has two items labeled \"e\"; the last item should be \"f\" to preserve the intended sequence and avoid ambiguity."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Trafficking\" should be translated as \"trafficking in persons\" (human trafficking) and not left as a capitalized English loanword.",
+        "Meaning drift/grammar: item (c) should clearly list forms of violence (physical, psychological, sexual) rather than \"physical, psychological, sexual violence\" which can read as a single combined term."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "List marker error: item 'l.' in the original is mistranslated as '1.' (number one), disrupting the lettered list sequence."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"PD\" is left untranslated/undefined; should be rendered consistently as the relevant implementing Regional Apparatus/Local Government Work Unit (Perangkat Daerah) rather than the ambiguous acronym."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regulation of the Regent\"; current \"Regent Regulation\" is acceptable, but \"is regulated by\" is inaccurate—should be \"is stipulated/regulated by a Regent Regulation\" to reflect 'diatur dengan' (regulated by means of).",
+        "Meaning drift/ambiguity: \"PD\" is left untranslated/undefined; should be rendered consistently as \"Regional Apparatus (PD)\" or \"Regional Government Agencies (PD)\" to preserve meaning that it refers to local government apparatus, not a generic acronym."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item (1)(e): \"prevent marriage at child age\" should reflect \"prevent the occurrence of marriage at a child's age\" (i.e., child marriage)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item (b): \"in the fields of education, social, economic, political and cultural\" omits the noun for \"social\" and \"cultural\"; should reflect \"bidang pendidikan, sosial, ekonomi, politik dan budaya\" as \"education, social, economic, political, and cultural fields/areas\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal term: \"marriage at the age of Children\" should reflect \"perkawinan pada usia Anak\" as \"child marriage\" or \"marriage at a child's age\" (marriage when the person is a child)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pekerjaan\" means \"Work\"/\"Occupation\", not \"Employment\" in this heading context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering of headings: missing definite article and proper heading structure; 'Bagian Kedua Perlindungan Anak' should be rendered as 'Part Two Child Protection' (or 'Protection of Children') rather than 'Second Part Protection of Children'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: missing subject linkage; should clearly state that such children may pursue education through informal education units (not 'For children ... may')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (3): 'penyandang disabilitas' refers to children with disabilities, not 'persons with disabilities' generally."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item (2) list uses inconsistent punctuation; item b ends with a period while other items use semicolons, and item c lacks the expected separator after b, risking mis-parsing of list items in downstream processing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah Daerah\" should be singular (Local Government), not plural (Regional Governments).",
+        "Meaning drift/omission: \"Organisasi Kemasyarakatan di bidang sosial\" means community organizations in the social field; translation renders it as \"Social Community Organizations\" which is ambiguous and drops \"in the social field\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/ambiguity: \"PD\" is left untranslated/undefined; in the original it refers to \"Pemerintah Daerah\" (Regional Government), so keeping \"PD\" can change or obscure the legal subject responsible."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah Daerah\" should be singular (Local Government), not plural \"Regional Governments\".",
+        "Meaning drift: \"panti sosial\" is translated as \"social institutions\"; more accurate is \"social homes\"/\"social shelters\" (panti sosial)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item f: 'without charging fees from victims' should reflect 'without being charged any fees to the victim' (free of charge for the victim)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal meaning: \"reporters consisting of\" misrenders \"pelapor yang terdiri atas\"; should be \"a complainant, which may be\" (victim, family, community, and/or relevant community organizations).",
+        "Meaning drift/typo in translation of \"electronic mail\": original has \"elektroni mail\" (intended \"electronic mail\"), but translation should reflect \"electronic mail\" while keeping the medium as \"letter/electronic mail\"; also ensure \"by telephone/short message service\" reads as a method of filing a complaint."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/term not translated: \"P2TP2A\" is an acronym for \"Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak\" and should be rendered in English (at least expanded) for legal clarity.",
+        "Meaning drift/abbreviation not preserved: \"Satuan tugas PPA\" should retain the PPA abbreviation as in the original (not expanded/altered), and should be translated as a \"task force\" with the abbreviation kept."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal term: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in paragraph (5): list of victim categories is mistranslated/ungrounded (\"economically exploited, sexually and trafficking\") and should reflect \"economically and sexually exploited, and trafficking in women and children\".",
+        "Meaning drift in paragraph (5): \"upaya pelayanan kesehatan\" should be rendered as \"efforts to provide health services\" (not \"health service efforts\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 43(3): \"confidentiality of information from victims\" should be \"confidentiality of the victim's information\" (kerahasiaan informasi dari korban)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering structure: paragraphs (3) and (4) are run into item (2)(b) without proper separation.",
+        "Minor meaning/terminology drift: 'putusan akhir ditangan korban' should be rendered as 'the final decision to the victim' (self-determination), not 'in the hands of the victim' merged with following text. Also 'Pendeta' should be 'Ministers' (or Protestant ministers), distinct from 'Pastor'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"putusan sidang pengadilan\" is the court decision/judgment, and \"keputusan yang berkekuatan hukum tetap\" is a final and binding decision (final legal force), better rendered explicitly to avoid ambiguity.",
+        "Meaning drift/terminology: \"Berita Acara Pemeriksaan\" is an Examination/Investigation Report (official minutes of examination), not \"Official Investigation Report\" as a fixed term; adjust to standard legal meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: missing definite article in 'by Regent's Decree' (should be 'by a Regent's Decree' / 'by Regent Decree') and inconsistent rendering of official titles; clarify that determination is made through a Regent's Decree.",
+        "Meaning drift: 'Urban Village Head' is not the correct equivalent of 'Lurah' in this context; should be 'Head of Urban Village (Lurah)' or 'Lurah' to preserve the legal office. Also 'Sub-District Head' should align with 'Camat' (Sub-district Head/Camat)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal phrasing in (7) and (9): missing definite article and possessive construction; should be 'by a Regent Decree'/'by a Village Head Decree' rather than 'by Regent's Decree'/'Village Head's Decree' to reflect 'dengan Keputusan Bupati/Kepala Desa'.",
+        "Minor meaning/term precision: 'urban village head' should correspond to 'Lurah' (Head of Kelurahan), and 'sub-district head' to 'Camat'; capitalization inconsistency for 'village' in (9)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"victims of violence\" omits \"tindak\" (acts/criminal acts of violence) from \"korban tindak kekerasan\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2)(d): 'mennubuhkan' (typo for 'menumbuhkan') means 'to foster/grow', not 'establishing'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: item f is incorrectly joined with paragraph (3) due to missing line break/punctuation, making the structure unclear."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 80,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 81,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2) letter d: missing the concept of 'children who are victims of sexual exploitation or other exploitation' (translation reads as incomplete/ungrounded 'child victims and sexual exploitation or other exploitation')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 82,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 83,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 84,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 85,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"eksplotasi\" in the original is translated as \"exploitation\"; it should be \"exploitation\" only if the source is \"eksploitasi\"—as written, the correct rendering is \"explotation\" (or keep the Indonesian term) to match the source text exactly for downstream evaluation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 86,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 87,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 88,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Article 62(4) incorrectly references paragraph (2) letter c; the original refers to paragraph (2) letter d (revocation of license)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 89,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 90,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 91,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 92,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: \"LEMBARAN DAERAH ... TAHUN 2018 NOMOR\" was translated as \"YEAR 2018 NUMBER\" but the specific gazette number after \"NOMOR\" is missing in the source; it should remain as \"NUMBER\" without implying a value, and \"NOMOR NOREG\" should be rendered as \"NOREG Number\" (registration number) rather than duplicating \"NUMBER\" awkwardly.",
+        "Minor meaning/structure issue: \"NOMOR NOREG\" and repeated \"NOREG ... NOMOR\" should be kept as in the original (including repetition) but with clearer legal-label rendering (NOREG) rather than \"NUMBER REGISTRATION NUMBER\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 93,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_SELATAN_ENREKANG.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-12T11:03:54.259746+00:00",
+  "prompt_version": "v1"
+}
