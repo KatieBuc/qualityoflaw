@@ -1,0 +1,377 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 46,
+  "chunks_corrected": 19,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the phrase \"Mengingat\" (In View of) is missing before the legal basis list in the Indonesian; the English adds it but the Indonesian segment shown lacks the label, indicating the Indonesian text is OCR-scrambled and the translation should reflect the original structure by keeping the legal-basis heading separate from the Considering section.",
+        "Minor meaning drift: \"Pemerintah Kabupaten Kota\" is rendered as \"Regency/City Government\"; the intended meaning is \"Regency/City Governments\" (plural) or \"the Regency/City Government\" as a level of government—needs alignment with the Indonesian phrasing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled/omitted list structure: original has items a–f, but translation merges e and f and omits item f marker/content separation caused by hyphenation in source."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'mendapatkan peningkatan kapasitasnya' is better rendered as 'to have their capacity enhanced' rather than 'to receive capacity building'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/incorrect cross-reference in item (k): original refers to paragraph (2) letter k (huruf k), but translation says \"paragraph k\"; also original text itself is awkward but should be rendered as referring to letter (k) under paragraph (2)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the original imposes obligations on the City (Kota) and separately on the City Government (Pemerintah Kota); the translation adds paragraph numbering (1) not present in the original text as provided.",
+        "Meaning drift: the original includes 'baik yang diadakan oleh pemerintah maupun swasta' (whether established/organized by government or private); translation renders as 'whether organized by the government or private sector'—acceptable, but the added (1) numbering should be removed to match the source structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in (1): original guarantees accompanying officers access to information and access to accompany women victims; translation changes second element to 'provide assistance' rather than guaranteeing access to accompaniment."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the Indonesian text includes the category 'perempuan korban kekerasan' (women victims of violence) in paragraph (1), but the English translation renders it only as 'victims of violence' (not explicitly women)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list marker: item c is missing in the Indonesian but the English keeps the jump from b to d; needs to reflect the original structure by inserting (c.) and separating the two obligations currently merged in b.",
+        "Meaning drift/structure: Indonesian item b contains two separate obligations (implement gender mainstreaming; form a working group); they should be split into b and c to match the original list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: paragraph (6) incorrectly refers to paragraph (4); the original refers to paragraph (1)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (5): subject changed; original states that women referred to in (4) obtain employment according to their knowledge/skills by developing policy mechanisms toward private companies/government/SOEs, not that the City Government develops mechanisms 'so that' they can obtain employment."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing numbering: paragraph (1) content is present but the '(1)' marker is missing in the translation (and in the source excerpt), while paragraph (2) refers back to it."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: 'stipulated by Mayor's Decree' is missing the definite article and implies the decree belongs to the Mayor rather than being issued by the Mayor; should be 'stipulated by a Mayor's Decree' or 'by Mayoral Decree'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: \"secara berkala, berjenjang\" means periodically and in stages/levels, not \"tiered basis\"; \"sesuai dengan kebutuhan\" refers to needs (as required), not \"according to needs\" in a way that could imply needs of the recipients only.",
+        "Minor meaning accuracy: duplicated word \"kapasitas kapasitas\" in the source should be reflected as \"capacity\" (intended single term) rather than potentially implying two different capacities."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in (1): Indonesian states the Mayor is responsible for the annual report on implementation of women's protection; the phrase about 'to make empowerment' is garbled and should not be rendered as an additional obligation to 'carry out women's empowerment'.",
+        "Scrambled/garbled source clause in (1) ('untuk membuat pemberdayaan') was incorrectly interpreted; translation should reflect only what is clearly stated in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list marker: item 'a.' is missing in the original text but present in the translation; the original shows the first duty without the 'a.' marker, so the list structure needs correction to match the source."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: extraneous word \"yang\" in the original indicates a likely OCR artifact; translation should reflect the article text without introducing or omitting content, and the structure should be normalized to match the intended legal provision."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift: \"Majelis Permusyawaratan Ulama\" is rendered as \"Ulama Consultative Council\"; the more direct/standard rendering is \"Ulama Consultative Assembly\" (MPU)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Leftover non-policy text: the Cyrillic fragment \"иб\" is carried over and is not part of the Indonesian source text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"KOTA\" should be translated as \"CITY OF\" rather than \"CITY\" to reflect the formal Indonesian heading structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "ACEH_SUBULUSSALAM_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.387085+00:00",
+  "prompt_version": "v1"
+}

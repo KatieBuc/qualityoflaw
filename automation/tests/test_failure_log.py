@@ -146,6 +146,7 @@ def test_summarize_failures(data_root):
     summary = summarize_failures(run_id)
     assert summary == {
         "translation": 1,
+        "translation_qa": 0,
         "storage": 0,
         "evaluation": 1,
         "discrepancy_diagnosis": 0,
@@ -181,6 +182,7 @@ def test_load_failures_empty_run(data_root):
     assert load_failures("nonexistent") == {
         "updated_at": None,
         "translation": [],
+        "translation_qa": [],
         "storage": [],
         "evaluation": [],
         "discrepancy_diagnosis": [],

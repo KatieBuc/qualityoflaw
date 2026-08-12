@@ -13,6 +13,7 @@ automation/
 │   └── pipeline_config.yaml   # Experiment combination
 ├── prompts/
 │   ├── translation/v1/
+│   ├── translation_qa/v1/
 │   ├── quality_eval/v1/
 │   └── discrepancy_diagnosis/v1/
 └── src/
@@ -20,6 +21,8 @@ automation/
     ├── evaluate_accuracy.py   # Golden-dataset comparison
     ├── run_pipeline.py        # Main entry point
     ├── translate.py
+    ├── translation_qa.py      # Translation QA + re-align step (runs right after translation)
+    ├── translation_qa_prompt_builder.py
     ├── run_eval.py
     ├── diagnose.py            # Discrepancy diagnosis (final pipeline step)
     ├── diagnose_prompt_builder.py
@@ -38,9 +41,13 @@ data/automation/<run_id>/
 │   ├── model_config.yaml
 │   └── pipeline_config.yaml
 ├── results/                   # Main deliverables of the pipeline
-│   ├── cleaned_text/          # OCR-noise-stripped, reflowed original-language text, rendered as Markdown (one per input policy)
+│   ├── cleaned_text/          # OCR-noise-stripped, reflowed original-language text — plain text (one per input policy)
+│   │   └── <policy>.cleaned.txt
+│   ├── cleaned_markdown/      # Markdown-rendered copy of cleaned_text, for human reading only
 │   │   └── <policy>.cleaned.md
 │   ├── translation/           # English policy .txt files (one per input policy) — plain text, read by storage/RAG/evaluation
+│   ├── translation_qa/        # QA audit reports (one per policy) — action_required/issues per chunk, not the text itself
+│   │   └── <policy>.json
 │   ├── translation_markdown/  # Markdown-rendered copy of the translation output, for human reading only
 │   │   └── <policy>.md
 │   ├── evaluation/            # LLM JSON reports (one per policy)
@@ -117,6 +124,30 @@ Example:
 ### `translation/`
 
 UTF-8 `.txt` files with the same basenames as the Indonesian source policies (e.g. `ACEH_BIREUEN.txt`). Filenames must match the `filename` column in the golden CSV for comparison to work.
+
+### `translation_qa/`
+
+Written by the `translation_qa` step, which runs right after `translation`. For each policy, an LLM checks the translated text against the original (per chunk, when `mid_product/chunks/<stem>.chunks.json` exists — otherwise once for the whole file) for three things: leftover LLM notes/preambles, meaning drift from the original, and numbered/lettered/roman list markers scrambled by OCR layout errors. If a check finds a problem, the LLM's corrected text replaces the translation in place (both `results/translation/<policy>.txt` and, when chunked, `mid_product/chunks/<stem>.chunks.json`'s `translated_text` fields — the latter is what RAG storage actually reads, so corrections must land there too); otherwise the translation is left untouched.
+
+One audit-only JSON report per policy at `<stem>.json` (the corrected text itself isn't duplicated here — it already lives in `translation/`/`chunks.json`):
+
+```json
+{
+  "policy_file": "ACEH_BIREUEN.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-10T12:00:00+00:00",
+  "prompt_version": "v1",
+  "granularity": "chunked",
+  "chunks_checked": 12,
+  "chunks_corrected": 2,
+  "chunks_response_incomplete": 0,
+  "items": [{ "chunk_index": 0, "section_id": 0, "action_required": false, "issues": [], "response_incomplete": false }]
+}
+```
+
+If any chunk's QA call **raises** (a real API/LLM-call failure, after the wrapper's own retries are exhausted), the whole policy's correction is aborted atomically — nothing is written for that policy (`translation/`, `chunks.json`, and `translation_qa/<stem>.json` are all left exactly as they were), and the failure is recorded the same way as a translation failure.
+
+A different, more common case is handled separately: the LLM sometimes sets `action_required: true` but doesn't actually return `corrected_text` (a content-quality slip, not an API error). Since one policy can be split into dozens or hundreds of chunks, treating this as a hard failure would mean even a small per-chunk chance of it happening discards every other chunk's already-good result. Instead, that one unit is retried once; if it's still missing, the unit is degraded to "no action" (its original text is kept) and flagged with `response_incomplete: true` in the report for manual review, rather than failing the whole policy.
 
 ### `evaluation/`
 
@@ -296,6 +327,12 @@ models:
     temperature: 0.2
     max_tokens: null
     max_retries: 3
+
+  gpt-5.2-translation-qa:
+    deployment: gpt-5.2
+    temperature: 0.1
+    max_tokens: null
+    max_retries: 3
 ```
 
 ### `config/pipeline_config.yaml`
@@ -310,6 +347,9 @@ concurrency:
 translation:
   model: gpt-5.2-translate
   prompt_version: v1
+translation_qa:
+  model: gpt-5.2-translation-qa
+  prompt_version: v1
 evaluation:
   model: gpt-4o-eval
   prompt_version: v1
@@ -318,19 +358,27 @@ discrepancy_diagnosis:
   prompt_version: v1
 ```
 
-`discrepancy_diagnosis.model`/`prompt_version` are required just like `translation`/`evaluation`'s (config is validated eagerly on every invocation, regardless of which `--steps` are selected). The template lives at `automation/prompts/discrepancy_diagnosis/<prompt_version>/prompt_template.txt`.
+`discrepancy_diagnosis.model`/`prompt_version` and `translation_qa.model`/`prompt_version` are required just like `translation`/`evaluation`'s (config is validated eagerly on every invocation, regardless of which `--steps` are selected). Templates live at `automation/prompts/discrepancy_diagnosis/<prompt_version>/prompt_template.txt` and `automation/prompts/translation_qa/<prompt_version>/prompt_template.txt` respectively.
+
+#### Translation QA + re-align (`translation_qa` step)
+
+Runs right after `translation`, using a different model than translation by default (`gpt-5.2-translation-qa` vs. the translation model) as an independent cross-check. See [`results/translation_qa/`](#translation_qa) above for what it checks and writes. Idempotent like the other LLM steps: skips a policy whose `translation_qa/<stem>.json` report already exists unless `--force` is passed.
 
 #### Markdown rendering (`markdown` step)
 
-`results/cleaned_text/<policy>.cleaned.md` and `results/translation_markdown/<policy>.md`
-are written by their own pipeline step, `markdown` — independent of `translation`,
-and idempotent: it only (re)renders a policy whose `.md` doesn't exist yet,
-so it's safe to run anytime (`--steps markdown`) to backfill whatever is
-missing, without re-running translation.
+`results/cleaned_text/<policy>.cleaned.txt`, `results/cleaned_markdown/<policy>.cleaned.md`,
+and `results/translation_markdown/<policy>.md` are written by their own
+pipeline step, `markdown` — independent of `translation`, and idempotent: it
+only (re)renders a policy whose outputs don't exist yet, so it's safe to run
+anytime (`--steps markdown`) to backfill whatever is missing, without
+re-running translation.
 
-- `results/cleaned_text/<policy>.cleaned.md` is rendered straight from the raw
-  original-language input (`data/raw/localpolicies/<policy>.txt`) — it has no
-  dependency on translation having run.
+- `results/cleaned_text/<policy>.cleaned.txt` and
+  `results/cleaned_markdown/<policy>.cleaned.md` are both rendered straight
+  from the raw original-language input (`data/raw/localpolicies/<policy>.txt`)
+  — they have no dependency on translation having run. `cleaned_text` is
+  plain text (mirrors `translation/<policy>.txt`); `cleaned_markdown` is the
+  same content rendered as Markdown (mirrors `translation_markdown`).
 - `results/translation_markdown/<policy>.md` is rendered from
   `results/translation/<policy>.txt` (the translated English output), so a
   given policy is only rendered once its translation exists; policies not
@@ -339,7 +387,7 @@ missing, without re-running translation.
   what the storage/RAG and evaluation steps read, and reformatting it as
   Markdown in place would change both.
 
-Both artifacts are rendered by `chunking.render_markdown` on top of
+The Markdown artifacts are rendered by `chunking.render_markdown` on top of
 `chunking.clean_text` (OCR-noise removal, paragraph reflow, structural-marker
 detection — `automation/src/chunking.py:clean_text`): structural markers
 become headings nested by keyword (`BAB`/`Chapter` → `#`,
@@ -347,7 +395,8 @@ become headings nested by keyword (`BAB`/`Chapter` → `#`,
 `Pasal`/`Article` → `####`, with an unrecognized/foreign-language marker
 nested one level under the most recent keyword heading), and
 numbered/lettered/roman-numeral list starts become proper
-ordered/nested-bullet Markdown lists.
+ordered/nested-bullet Markdown lists. The plain-text artifacts
+(`cleaned_text`, `translation`) skip that rendering step entirely.
 
 `markdown` runs by default as part of the full pipeline (right after
 `translation`). See `run_markdown_step` in `automation/src/translate.py`.
@@ -361,7 +410,8 @@ and keeps structural markers (`BAB` / `Pasal` / `Bagian` / `Paragraf` /
 all-caps titles) on their own line (`automation/src/chunking.py:clean_text`) —
 this is internal to chunking (it decides the chunk boundaries) and isn't
 persisted on its own; the `markdown` step above re-derives the same cleaning
-from the raw input when it renders `results/cleaned_text/*.cleaned.md`.
+from the raw input when it renders `results/cleaned_text/*.cleaned.txt` and
+`results/cleaned_markdown/*.cleaned.md`.
 
 Some source policy files are large enough that a single translation call risks
 a timeout. When `translation.chunking.enabled` is `true`, `translate.py` runs
@@ -449,7 +499,7 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 | Flag | Description |
 |------|-------------|
 | `--small-scale` | Process only 5 benchmark policy files |
-| `--steps` | `translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` (default: all) |
+| `--steps` | `translation`, `translation_qa`, `markdown`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis` (default: all) |
 | `--run-id` | Existing run ID (required for eval/comparison/diagnosis without translation) |
 | `--force` | Re-run a step even if its output already exists (all steps are idempotent by default — they skip items that already have output) |
 | `--allow-partial` | Save incomplete evaluation or discrepancy diagnosis reports |
@@ -460,11 +510,12 @@ python -m automation.src.run_pipeline --run-id 20250630_143022 --steps discrepan
 
 ### Step rules
 
-- **New run** (no `--run-id`): auto-generates `run_id`, runs all steps by default (`translation`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis`)
+- **New run** (no `--run-id`): auto-generates `run_id`, runs all steps by default (`translation`, `translation_qa`, `markdown`, `storage`, `evaluation`, `comparison`, `discrepancy_diagnosis`)
+- **Translation QA only**: requires `--run-id` and existing `translation/` outputs
 - **Eval only**: requires `--run-id` and existing `translation/` outputs
 - **Comparison only**: requires `--run-id` and existing `evaluation/` JSON reports
 - **Discrepancy diagnosis**: requires `--run-id` and existing `rag_candidates/`, `evaluation/*.json`, and `comparison/` outputs. Runs whose `evaluation` step predates `rag_candidates/` need `evaluation` re-run with `--force` first. Produces no report files (not an error) when `comparison/error_analysis.csv` doesn't exist, i.e. zero mismatches
-- **Idempotent by default**: translation, storage, evaluation, and discrepancy_diagnosis each skip an item (file/policy) that already has output — translation and storage skip an input whose output file exists, evaluation skips a policy that already has an eval report, discrepancy_diagnosis skips a policy that already has a `diagnosis/<stem>.json`. Comparison always re-runs (it recomputes `metrics.csv`/`error_analysis.csv` from whatever `evaluation/` reports currently exist). Pass `--force` to re-run a step's items regardless of existing output
+- **Idempotent by default**: translation, translation_qa, storage, evaluation, and discrepancy_diagnosis each skip an item (file/policy) that already has output — translation and storage skip an input whose output file exists, translation_qa skips a policy that already has a `translation_qa/<stem>.json` report, evaluation skips a policy that already has an eval report, discrepancy_diagnosis skips a policy that already has a `diagnosis/<stem>.json`. Comparison always re-runs (it recomputes `metrics.csv`/`error_analysis.csv` from whatever `evaluation/` reports currently exist). Pass `--force` to re-run a step's items regardless of existing output
 - **Step failures**: if a step fails outright (e.g. a required input directory is missing), the pipeline records the step name and error message under `step_failures` in `failures.json`, prints `Step '<name>' failed: <message>` to stderr, and stops before running any later steps
 
 API retry messages include error type, message, HTTP status, and request ID (SDK-level httpx retry noise is suppressed).

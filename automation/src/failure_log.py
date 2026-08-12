@@ -4,7 +4,7 @@ from typing import Any
 
 from automation.src.config_loader import get_run_dir
 
-STEPS = ("translation", "storage", "evaluation", "discrepancy_diagnosis")
+STEPS = ("translation", "translation_qa", "storage", "evaluation", "discrepancy_diagnosis")
 
 
 def _failures_path(run_id: str):
@@ -15,6 +15,7 @@ def _empty_log() -> dict[str, Any]:
     return {
         "updated_at": None,
         "translation": [],
+        "translation_qa": [],
         "storage": [],
         "evaluation": [],
         "discrepancy_diagnosis": [],
@@ -37,7 +38,7 @@ def _write_failures(run_id: str, log: dict[str, Any]) -> None:
 
 
 def _item_key(step: str, entry: dict[str, Any]) -> str:
-    if step in ("translation", "storage"):
+    if step in ("translation", "translation_qa", "storage"):
         return entry["filename"]
     if step in ("evaluation", "discrepancy_diagnosis"):
         return entry["policy_file"]
@@ -111,6 +112,7 @@ def _write_or_delete(run_id: str, log: dict[str, Any]) -> None:
     path = _failures_path(run_id)
     if (
         not log.get("translation")
+        and not log.get("translation_qa")
         and not log.get("storage")
         and not log.get("evaluation")
         and not log.get("discrepancy_diagnosis")
@@ -125,6 +127,7 @@ def summarize_failures(run_id: str) -> dict[str, int]:
     log = load_failures(run_id)
     return {
         "translation": len(log.get("translation", [])),
+        "translation_qa": len(log.get("translation_qa", [])),
         "storage": len(log.get("storage", [])),
         "evaluation": len(log.get("evaluation", [])),
         "discrepancy_diagnosis": len(log.get("discrepancy_diagnosis", [])),

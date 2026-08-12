@@ -1,0 +1,780 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 98,
+  "chunks_corrected": 34,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"PERATURAN DAERAH KOTA GORONTALO\" should be rendered as \"Regional Regulation of Gorontalo City\" (not \"of the City of Gorontalo\")",
+        "Meaning drift: \"terhadap\" in this context is \"against\" (protection ... against violence), not \"for victims of\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in considering clause (e): original references letters a, b, e, d (OCR error) but translation changes it to a, b, c, d; should follow the original text as given.",
+        "Minor meaning drift in item 12: 'Pembentukan Produk Hukum Daerah' is 'Formation/Establishment of Regional Legal Products', not 'Formulation'.",
+        "Minor meaning drift in item 10: 'penyelenggaraan' is 'implementation/administration/organization', not 'implementation' alone; adjust to reflect 'implementation/administration and cooperation'.",
+        "Original ends with 'dan' (and) indicating continuation; translation preserves it, no issue there."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Typo in place name: \"GOROJ^TALO\" should be rendered as \"GORONTALO\" to match the intended meaning in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward legal meaning in item 7: 'whether physical, sexual, economic, social, and psychological to the victim' should express forms/types of suffering experienced by the victim (physical, sexual, economic, social, psychological).",
+        "Meaning drift in item 12: duplicated/mistranslated phrase 'human dignity and dignity' should be 'dignity and worth of humanity' (harkat dan martabat kemanusiaan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"melakukan pemberdayaan kepada perempuan korban kekerasan\" is rendered as \"carry out empowerment for\"; should be \"provide empowerment to\" (and fix typo in source word reflected in meaning)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pingstin\" (likely intended \"pingsan\") was translated as \"loss of consciousness\"; the source text is unclear/garbled and should be rendered more literally as \"pingstin\" rather than interpreted.",
+        "Meaning drift: \"gugumy a kandungan\" is garbled in the source; translating it as \"miscarriage\" may be an interpretation rather than a faithful rendering of the provided text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: original refers to Article 5 letter f b (huruf b under letter f), but translation renders it as Article 5, letter b, omitting 'letter f'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in cross-reference: original says Article 5 letter f c (likely 'huruf c'), but translation renders only 'letter c' and omits the 'f' present in the source text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: reference should be to Article 5 letter f (not letter d)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in cross-reference: original says Article 5 letter f, but translation says letter e."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'disebabkan karena' means 'is caused by', not 'includes'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'accompaniment' for 'pendampingan' is unnatural/ambiguous in legal context; should be 'assistance' or 'accompaniment/assistance' as victim support.",
+        "Minor meaning/grammar issue: 'Every Victim obtains the right' should be 'has the right(s)' to reflect Indonesian 'mendapatkan hak' and plural list."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: list item letter in the original is 'e.' for 'perlindungan yang sama' but translation uses 'c.', altering the marker sequence."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"Pemerintah Da€;rah\" should be translated as \"Regional Government\"; the source text contains OCR corruption that should be normalized to \"Pemerintah Daerah\" in meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 14(2): \"layanan bsigi\" is rendered as \"psychological services\"; the source text is unclear/likely OCR error and should be translated more literally as \"services for victims\" to avoid adding specificity not present in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/typo: 'is obligated and responsible to' should be 'is obliged and responsible for' to match 'wajib dan bertanggungjawab untuk' in legal phrasing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "List item marker mismatch: original uses letter 'e.' but translation has 'c.'",
+        "Extraneous leftover page/formatting artifact \"-1 1 -\" included in translated text"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: list item lettering in the source is inconsistent/duplicated (c/e/d/e/e/d), but the translation normalizes it to a–g, which changes the document’s formal structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "List/numbering structure issue: item lettering in paragraph (2) uses 'e.' instead of 'c.' (original sequence a, b, e)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the chapter number is incorrect; original is 'BAB VI' (Chapter VI), but translation says 'CHAPTER V'.",
+        "Typo in original heading 'PEFJLINDUNGAN' indicates 'PERLINDUNGAN'; translation should reflect the intended meaning 'PROTECTION'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'secara berjejaring' should be rendered as 'through a network'/'in a networking manner', not 'in a networked manner' (implies already networked units rather than the method)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo not reflected: original item (d) reads \"pelayarian rehabilitasi sosial\" (as written), but translation normalizes it to \"social rehabilitation services\" instead of reflecting the source text faithfully."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: \"Passil 25 huru f a\" should be rendered as \"Article 25 letter a\" but the translation omits the typo/wording present in the original (\"Passil\" and spacing in \"huru f\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: list item marker in the original is 'e.' but translated as 'c.'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: \"huruf\" (letter) in the cross-reference was not translated; should be \"letter f\" rather than \"point f\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/possible OCR error in heading: original reads \"Pemberdayasm\" but translation renders it as \"Empowerment\" (\"Pemberdayaan\"), which is not an exact match to the source text as provided."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo correction: \"bantuiin permodalan\" should be rendered as \"capital assistance\"; translation is correct in meaning but needs to reflect the source term (assistance) without altering content—no change needed other than confirming; however original contains a typo that should not affect meaning.",
+        "Scrambled list/numbering structure: none detected; list structure is preserved."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: original references \"Pasal 32 huru f a\" (typo for \"huruf a\"); translation renders it as \"Article 32 letter a\" without reflecting the source wording."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'menyelenggarakan penanganan layanan bagi korban' translated awkwardly as 'provide service handling for victims' (should be 'organize/implement the handling of services for victims')",
+        "Minor meaning/term accuracy: 'Peraturan Walikota' should be 'Mayor Regulation' (not 'Mayor's Regulation')"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: chapter number in heading does not match the original (original shows BAB VII; translation says CHAPTER VII)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: 'SEKRJETARIg^AEPAH' is 'SEKRETARIS DAERAH' (Regional Secretary); translation should reflect the title without adding 'Acting' unless 'Pit.' is explicitly rendered as 'Acting' (it is 'Plt.' in Indonesian).",
+        "Potential OCR artifact in original ('Pit.' likely intended 'Plt.'), requiring correction to match intended meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: placeholder \"[insert number]\" added; the original text does not contain this bracketed note and the regulation number is missing in the translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": true,
+      "issues": [
+        "Scrambled/mismatched list lettering: original has letters a, b, e, d, e (no c), but translation outputs a, b, c, d, e; the third item should be letter e, not c, and there is a duplicate letter e in the original that must be preserved."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": true,
+      "issues": [
+        "Scrambled/duplicated list structure: after Letter j, the lettering restarts at a–e without any indication in the original translation; the original Indonesian shows two separate a–e sequences but the translation does not distinguish them, which can confuse downstream parsing.",
+        "Meaning drift/added content: \"return/transportation costs\" adds \"transportation\" not present in \"biaya pemulangan\" (return/repatriation costs).",
+        "Meaning drift: \"complaint handling\" translated as availability of a unit \"by officers\"; original indicates a special integrated service unit provided by officers (unit is staffed/served by officers), so wording should reflect provision/availability of the unit with officers as service providers."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 80,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 81,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 82,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 83,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 84,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 85,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 86,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 87,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 88,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 89,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 90,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 91,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 92,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 93,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 94,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 95,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 96,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 97,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "GORONTALO_GORONTALO_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.437719+00:00",
+  "prompt_version": "v1"
+}

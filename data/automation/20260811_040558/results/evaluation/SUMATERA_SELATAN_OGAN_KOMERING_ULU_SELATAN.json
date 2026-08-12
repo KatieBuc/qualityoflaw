@@ -1,0 +1,469 @@
+{
+  "policy_file": "SUMATERA_SELATAN_OGAN_KOMERING_ULU_SELATAN.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-08-11T13:05:57.609756+00:00",
+  "prompt_version": "v3",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "5. Law Number 23 of 2004 on the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\na. protecting women from disputes and violence in the household that degrade the dignity of women;",
+      "rationale": "The policy explicitly references the national law on the elimination of domestic violence and also addresses violence in the household as something families must protect women from, indicating domestic violence is within scope.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "c. obtain protection from physical violence, psychological violence, sexual violence, and neglect;\nl. every child has the right to obtain legal protection from all forms of physical or mental violence, neglect, maltreatment, and sexual abuse while in the care of parents or guardians, or other parties responsible for the care of the child;",
+      "rationale": "The policy explicitly includes sexual violence in women’s rights protections and also references children’s protection from sexual abuse, showing sexual violence is covered.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "c. obtain protection from physical violence, psychological violence, sexual violence, and neglect;\n9. victims of physical and/or psychological violence;",
+      "rationale": "The policy explicitly mentions protection from physical violence for women and identifies children as needing special protection as victims of physical violence.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "c. obtain protection from physical violence, psychological violence, sexual violence, and neglect;\n9. victims of physical and/or psychological violence;",
+      "rationale": "The policy explicitly includes psychological violence in women’s protections and also lists children as needing special protection as victims of psychological violence.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "b. obtain protection from economic exploitation and sexual exploitation;\nc. obtain protection from physical violence, psychological violence, sexual violence, and neglect;",
+      "rationale": "The policy explicitly mentions protection from economic exploitation and also includes neglect as a form of violence-related harm from which women should be protected.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "Yes",
+      "evidence": "c. prevention of marriage at child age.\ne. preventing the occurrence of marriage at a child's age.",
+      "rationale": "The policy explicitly addresses prevention of marriage at child age (child/early marriage) through community efforts and parental responsibilities, which is a harmful practice affecting girls.",
+      "evidence_verified": true
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences explicitly mention femicide/feminicide or gender-related killing of women; references to violence are general and do not specify femicide.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "Yes",
+      "evidence": "17. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer, or receipt of a person by threat of violence, use of violence, kidnapping, confinement, forgery, fraud, abuse of power or position of vulnerability, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the Country or between Countries, for the purpose of exploitation or resulting in a person being exploited.",
+      "rationale": "The policy explicitly defines and includes human trafficking, indicating it is covered.",
+      "evidence_verified": true
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "Yes",
+      "evidence": "b. obtain protection from economic exploitation and sexual exploitation;\na. all work in the form of slavery or similar practices;",
+      "rationale": "The policy explicitly includes sexual exploitation in women’s protections and also references slavery or similar practices in the context of prohibited worst forms of child labor, covering sexual slavery/exploitation-related concepts.",
+      "evidence_verified": true
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention cyber/online/digital forms of violence, harassment, bullying, or online sexual exploitation; references to violence and pornography are not tied to digital technologies.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "(1) The implementation of handling of Women and Children victims of violence as referred to in Article 40 is carried out through integrated services.\nServices for handling complaints of victims of violence against Women and Children are implemented by:\nThe implementation of protection of Women and Children is carried out by Regional Apparatus whose duties and functions are related to the protection of Women and Children.",
+      "rationale": "The policy specifies that handling of women and children victims of violence is carried out through integrated services, and it enumerates multiple service institutions involved (health facilities, police, prosecutors, courts, legal aid, shelters, etc.), indicating an institutional service network. It also assigns implementation to relevant regional apparatus, supporting coordinated implementation across institutions.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "c. cooperate with the community and/or Community Organizations in the implementation of Women's Protection in accordance with the provisions of Laws and Regulations;\n(4) In providing legal aid as referred to in paragraph (3) the Regency Government may cooperate with:\n(3) The implementation of services as referred to in paragraph (2) is carried out by:",
+      "rationale": "The policy explicitly provides for cooperation with the community and/or community organizations in implementing women’s protection, allows cooperation with non-government legal aid and crisis center actors for legal aid, and includes non-government entities (e.g., crisis centers, social community organizations, religious institutions) among implementers of rehabilitation services.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "d. developing an integrated database and information system on acts of violence against Women;\nf. developing an integrated database and information system on acts of violence against Children;",
+      "rationale": "The policy calls for developing an integrated database and information system on acts of violence against women and on acts of violence against children, which constitutes establishing a data collection/management system related to violence cases.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender responsiveness and gender equality as principles (e.g., in integrated services), the provided sentences do not establish or require gender mainstreaming as an institutional mechanism (such as a formal mainstreaming framework, mandated processes, or institutional structures for mainstreaming) for implementing women’s protection/VAW programs.",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "Yes",
+      "evidence": "(2) Guidance as referred to in paragraph (1) may be conducted in the form of:",
+      "rationale": "The policy provides for guidance that may take the form of training for multiple categories of personnel involved in prevention and handling of violence (government apparatus, law enforcers, health workers, social rehabilitation and spiritual guidance officers), which constitutes training/capacity building for implementation.",
+      "evidence_verified": true
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "(1) The Regent conducts supervision and evaluation of the implementation of Women and Children Protection periodically 1 (one) time every 3 (three) months.\n(1) The Head of DPPKBPP-PA is obligated to submit a report on the implementation of the Women and Children protection program to the Regent.",
+      "rationale": "The policy requires periodic supervision and evaluation by the Regent and obligates the Head of DPPKBPP-PA to submit periodic implementation reports, demonstrating monitoring and evaluation of program implementation.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "(1) The implementation of handling of Women and Children victims of violence as referred to in Article 40 is carried out through integrated services.",
+      "rationale": "The policy states that handling of women and children victims of violence is carried out through integrated services, indicating an integrated service approach/unit for victims.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "Yes",
+      "evidence": "d. Women and Children Service Units (UPPA);",
+      "rationale": "The policy lists Women and Children Service Units (UPPA) among institutions implementing complaint-handling services, implying a specialized unit relevant to police handling of VAW/VAWC cases.",
+      "evidence_verified": true
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "(2) Reporters as referred to in paragraph (1) may file complaints:",
+      "rationale": "The policy provides a mechanism for submitting complaints, including by telephone, which constitutes a reporting/hotline-type channel for receiving reports of violence.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "(1) The Regency Government may provide a Safe House for Women and Children victims of violence.",
+      "rationale": "The policy provides for a Safe House for women and children victims of violence, which is a protection/shelter service for victims.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "(1) Law enforcement and legal aid services as referred to in Article 49 are intended to provide assistance and protection to Women and Children victims of violence and witnesses with a gender-responsive approach so that victims obtain justice and legal certainty.",
+      "rationale": "The policy explicitly provides for law enforcement and legal aid services intended to assist and protect women and children victims of violence, indicating availability of legal assistance services.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "(1) Health services for Women and Children victims of violence include aspects of:",
+      "rationale": "The policy explicitly includes health services for women and children victims of violence, demonstrating provision of medical/health services as part of victim support.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "c. psychosocial counseling.",
+      "rationale": "The policy explicitly states that victims are entitled to health services including psychosocial counseling, directly addressing psychosocial/psychological counseling services.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "Yes",
+      "evidence": "(1) Every Woman and Child victim of violence is provided spiritual guidance aimed at psychological recovery.",
+      "rationale": "The policy explicitly provides spiritual guidance aimed at psychological recovery for every woman and child victim of violence, which constitutes faith-based psychosocial support.",
+      "evidence_verified": true
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "(1) Social rehabilitation services for Women and Children victims of violence are aimed at restoring and developing the capabilities of victims who experience social dysfunction to be able to carry out their social functions in society properly.",
+      "rationale": "The policy establishes social rehabilitation services aimed at restoring and developing victims’ capabilities to function in society, which is a form of rehabilitation/resocialisation service.",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "d. conduct rehabilitation and empowerment of Women who are victims of acts of violence;\n(1) The Regency Government provides skills training for capacity building of Women.",
+      "rationale": "The policy includes empowerment of women victims of violence and provides skills training for women, which are economic empowerment/support measures that can promote economic security and independence.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "a. conducting socialization regarding the prevention of violence against Women by optimizing the role of customary, cultural, religious institutions and community organizations;",
+      "rationale": "The policy includes preventive socialisation/awareness activities specifically focused on preventing violence against women, indicating an information/communication approach as a prevention measure.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender equality as a principle and mentions women’s rights and education entitlements, the provided sentences do not specify primary prevention education/awareness/campaign activities explicitly about gender equality and/or women’s rights.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention socialization on preventing violence against women and guidelines for handling violence, but they do not explicitly indicate education or information activities about VAW laws and policies (i.e., legal rights, legal provisions, or specific laws/policies awareness-raising).",
+      "evidence_verified": null
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "b. developing child-friendly schools;",
+      "rationale": "The policy includes an education-related preventive strategy for children—developing child-friendly schools—as part of efforts to prevent violations/violence against children, indicating education is used as a prevention approach.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "f. conduct cooperation with the community and/or Community Organizations in the implementation of Child Protection in accordance with the provisions of Laws and Regulations;\n(4) In providing legal aid as referred to in paragraph (3) the Regency Government may cooperate with:\n(3) The implementation of services as referred to in paragraph (2) is carried out by:",
+      "rationale": "The policy explicitly requires/permits cooperation with community organizations in implementing child protection and women’s protection, and it allows cooperation with specific civil-society legal aid and crisis-center actors for service delivery (legal aid and social rehabilitation).",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "Yes",
+      "evidence": "(4) Spiritual guidance officers as referred to in paragraph (3) consist of:\nf. religious institutions.\nb. training for religious leaders, community leaders, customary leaders, educators, journalists and media managers in order to prevent violence against Women and Children;",
+      "rationale": "The policy includes faith-based actors in service delivery and capacity building by specifying spiritual guidance officers (including clergy/religious leaders), involving religious institutions in rehabilitation services, and providing training for religious leaders for prevention.",
+      "evidence_verified": true
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "Yes",
+      "evidence": "a. conducting socialization regarding the prevention of violence against Women by optimizing the role of customary, cultural, religious institutions and community organizations;\na. preventing acts of violence against Children by optimizing the role of customary, cultural, religious institutions and community organizations;\nb. training for religious leaders, community leaders, customary leaders, educators, journalists and media managers in order to prevent violence against Women and Children;",
+      "rationale": "The policy explicitly references customary/cultural institutions and customary leaders as part of prevention efforts and training, indicating engagement of traditional/community mechanisms in implementation.",
+      "evidence_verified": true
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "Yes",
+      "evidence": "d. teachers and/or academics;\nb. training for religious leaders, community leaders, customary leaders, educators, journalists and media managers in order to prevent violence against Women and Children;\nChildren who are in the environment of formal and non-formal educational institutions must be protected from acts of violence.",
+      "rationale": "The policy involves education-sector actors (teachers/academics) in implementation, includes educators in capacity-building/training for prevention, and addresses protection of children within formal and non-formal educational institutions.",
+      "evidence_verified": true
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention collaboration with international organizations or international support for prevention or service delivery.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "Yes",
+      "evidence": "b. training for religious leaders, community leaders, customary leaders, educators, journalists and media managers in order to prevent violence against Women and Children;",
+      "rationale": "The policy explicitly includes journalists and media managers in training aimed at preventing violence against women and children, recognizing media as a stakeholder in prevention.",
+      "evidence_verified": true
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "(1) The community is obligated and responsible in implementing the protection of Women and Children including:\nf. conduct cooperation with the community and/or Community Organizations in the implementation of Child Protection in accordance with the provisions of Laws and Regulations;",
+      "rationale": "The policy assigns responsibilities to the community in prevention and support for prevention programs and requires/permits government cooperation with the community/community organizations in implementing child protection.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention engagement or collaboration with the business/private sector; references to the ‘business world’ appear only in a definition context and not as stakeholder engagement for prevention/services.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided passages include special protection for children in emergency situations, but do not specify any special protection measures targeted at women in conflict, disaster, emergency, or displacement contexts.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "Yes",
+      "evidence": "e. provide special protection to Women victims of acts of violence and human trafficking; and",
+      "rationale": "The policy explicitly includes women victims of human trafficking by requiring special protection for women who are victims of violence and human trafficking.",
+      "evidence_verified": true
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "Yes",
+      "evidence": "(1) Employers who employ Women are obligated to maintain decency, safety and security while in the workplace.\n(2) Employers are obligated to place Women workers in places that are safe for Women's reproductive health.\n(4) Employers provide special facilities for breastfeeding mothers in their companies.\n(2) Employers are prohibited from employing pregnant female workers/laborers who according to a doctor's statement would endanger the health and safety of their pregnancy as well as themselves during working hours from 23.00 WIB until 07.00 WIB.\n(4) Employers are obligated to provide shuttle transportation for female workers/laborers who depart for and return from work between 23.00 WIB until 05.00 WIB.",
+      "rationale": "The policy contains explicit workplace protections and special measures for female workers, including safety/decency obligations, reproductive-health-related placement, facilities for breastfeeding mothers, restrictions on night work for pregnant workers, and employer-provided transportation for night shifts.",
+      "evidence_verified": true
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention elderly women or establish special protection measures specifically targeted at elderly women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "Yes",
+      "evidence": "(3) Every Child with Disabilities in addition to obtaining the rights as referred to in paragraph (1) is also entitled to obtain:\na. special needs education/special education;\nb. rehabilitation;\nc. social assistance; and\nd. maintenance of social welfare standards.",
+      "rationale": "The policy provides specific entitlements for children with disabilities (special education, rehabilitation, social assistance, and welfare standards), which constitutes special protection measures targeted at people with disabilities within the policy’s scope.",
+      "evidence_verified": true
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The passages discuss family responsibilities and general women’s rights but do not identify women heads of household/families as a specific target group or provide special measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the text provides special protection to children from minority and isolated groups, it does not provide special protection measures specifically targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions focus on legal aid and law enforcement services for women who are victims of violence and/or witnesses, not women in conflict with the law as suspects, defendants, or perpetrators.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although the policy references customary leaders and local wisdom, it does not provide special protection measures specifically targeted at Indigenous peoples/communities (masyarakat adat) or Indigenous women.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention refugees, displacement, or forced displacement, nor do they establish special protection measures for such groups (the only related reference is children in emergency situations).",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy includes protections for women workers generally but does not specifically identify domestic workers as a target group or provide special measures tailored to domestic work.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Safe houses are described for women and children victims of violence, but the text does not explicitly address women experiencing homelessness as a target group or provide homelessness-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention former inmates, correctional institutions, or formerly incarcerated women, nor do they provide special measures for this group.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "a. Regional Revenue and Expenditure Budget of the Regency;",
+      "rationale": "The policy explicitly lists the Regency’s Regional Revenue and Expenditure Budget as a financing source for implementation activities, which constitutes a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "Yes",
+      "evidence": "b. State Revenue and Expenditure Budget; and",
+      "rationale": "The policy explicitly identifies the State Revenue and Expenditure Budget as a financing source, which is a national government budget.",
+      "evidence_verified": true
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention international organizations, foreign governments, UN agencies, donors, development partners, or any other form of international funding/support for women’s protection/VAW measures.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "c. other legal and non-binding sources.",
+      "rationale": "The policy explicitly includes “other legal and non-binding sources” as a financing source, which directly corresponds to other legal sources of funding.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences list regency (local) and state (national) budgets and other sources, but do not explicitly mention a provincial government budget as a funding source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

@@ -1,0 +1,351 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 41,
+  "chunks_corrected": 20,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal character/bullet \"•\" appears in the translated text (not part of the policy text).",
+        "Meaning drift in item 12: \"Pembentukan Peraturan Perundang-Undangan\" should be translated as \"Formation/Establishment of Laws and Regulations\", not \"Formulation of Legislation\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in the regency name: \"KABUPATEN MALUKU TENGGARA BARAT\" should be \"West Southeast Maluku Regency\" (not \"West SOUTHEAST Maluku Regency\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 7: \"pasca konflik dan negara\" rendered as \"post-conflict and state\"; should indicate \"post-conflict situations and the state\" (i.e., contexts/situations, not adding an odd standalone \"state\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward clause attachment: \"that occurs\" appears to modify \"best interests of the child\" instead of the violence; needs restructuring to reflect that the violence occurs in the household and/or public sphere."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'peraturan Bupati' should be translated as 'Regent Regulation' (a regulation issued by the Regent), not 'Regent regulation' (unclear/incorrect form)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list formatting: Article 8 item e is run together with item d on the same line; Article 9(1) list marker 'a.' is run together with the introductory clause; stray bullet '•' appears as leftover non-legal text/artefact.",
+        "Minor meaning drift/awkward rendering: Article 8(b) and (c) translate 'dari korban kekerasan' as 'from victims of violence' (should be 'for victims of violence' / 'against violence'); Article 9(c) better rendered as preventing child marriage."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Leftover untranslated Indonesian heading marker \"BAB V\" should be translated to \"CHAPTER V\".",
+        "Meaning drift: \"PENYELENGARAAN PERLINDUNGAN\" is better rendered as \"Administration/Implementation of Protection\"; keep consistent legal heading translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Extraneous leftover text at the end: \"42 ( 1)\" is not part of Article 11 and appears to be a page/footnote artifact."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'peraturan Bupati' should be translated as 'Regent Regulation' (a regulation issued by the Regent), not 'Regent regulation' (generic)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: \"with guarantee of confidentiality\" is missing the article \"a\" and is less faithful to \"adanya jaminan kerahasiaan\" (the existence of a guarantee of confidentiality)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in Article 16(4): 'assist in the implementation for children and women victims of violence' does not match the original meaning (assisting the implementation of protection for children and women victims of violence)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"perlindungan perempuan dan anak korban kekerasan\" translated as \"protection for women and child victims of violence\" instead of \"protection of women and children who are victims of violence\" (both women and children are victims)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 20(4): Indonesian specifies forcing children and women to have sexual intercourse with the perpetrator ('dengannya') or another person; translation uses 'him/her', changing the referent.",
+        "Meaning drift/awkward legal meaning in Article 20(8): 'membiarkan ... tanpa perlindungan jiwa' is rendered as 'allowing ... without protection of life', which is unclear; should be 'leaving ... without protection of their lives/safety'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/terminology: \"Rumah aman\" is singular in the original; translation uses plural \"Safe houses\".",
+        "Minor formatting issue: missing punctuation/line break after \"Article 21\" (should separate article heading from provision)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'BUPATI MALUKU TENGGARA BARAT' should be 'Regent of West Southeast Maluku' (not 'Regent of West SOUTHEAST Maluku')",
+        "Meaning drift/omission: 'Diundangkan pada tanggal.' should be translated as 'Promulgated on (the) date.' (missing 'the')",
+        "Scrambled/unclear structure: 'di Saumlaki 7 Agustus 2017' should be rendered as 'in Saumlaki, 7 August 2017' with proper ordering/punctuation"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in proper name of the regency: \"Kabupaten Maluku Tenggara Barat\" should be \"West Southeast Maluku Regency\" (not \"West Southeast Maluku Regency\" is acceptable, but current \"West Southeast Maluku Regency\" reverses/changes the Indonesian word order and can be read as a different entity).",
+        "Typo/meaning drift: \"PROVINS!\" should be rendered as \"PROVINCE\" (exclamation mark is OCR noise)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: incorrect legal reference—original cites Article 22 letter a of Law No. 23/2004 on Domestic Violence, but translation renders it as Law No. 23/2004 on Regional Government."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list structure: the definition of \"the principle of justice and gender equality\" appears without its letter marker (should be under letter c), causing subsequent lettered items to shift.",
+        "Meaning drift: the original has two separate principles labeled Huruf b (non-discrimination) and Huruf d (non-discrimination); the translation labels them as Paragraph b and Paragraph d but the intervening unlettered paragraph obscures the intended structure.",
+        "Leftover formatting artifact: stray bullet \"•\" before Paragraph e not present as part of the legal text structure. (Should be removed for clean legal text.)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the original contains an explanatory note for Letter a and then states Letters b–e are 'Cukup jelas'; the translation keeps the note but does not reflect that the 'Cukup jelas' items are separate letter explanations and the original formatting is run together.",
+        "Scrambled/unclear structure: the 'Huruf b/c/d/e Cukup jelas' section is merged into one line with a bullet, obscuring that they are separate items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pasal 12 s.d Pasal 23\" should be rendered as \"Articles 12 through 23\" (plural), not split across lines as \"Article 12 up to Article 23\".",
+        "Meaning drift: \"Tambahan Lembaran Daerah\" is \"Supplement to the Regional Gazette\"; \"Lembaran Daerah\" is not \"Regional Gazette\" in the sense of a newspaper, and the regency name should remain \"West Southeast Maluku Regency\" (not \"West Southeast Maluku Regency\" is fine, but ensure consistent official naming)."
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "MALUKU_KEPULAUAN_TANIMBAR.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.758010+00:00",
+  "prompt_version": "v1"
+}

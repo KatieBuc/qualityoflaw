@@ -1,0 +1,1452 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 189,
+  "chunks_corrected": 50,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in legal citation: item 5 incorrectly states 'Law Number 32 of 2004' whereas the original states 'Law Number 32 of 2004' (as written) but this creates an internal inconsistency; however correction must follow the original text exactly—no change needed. Actual issue: missing space and punctuation/formatting causing merged words in the last line ('REGENCYand') which should be separated as in the original ('...REGENCY dan').",
+        "Meaning drift/omission: the final line ends with 'and' but the Indonesian 'dan' indicates continuation; translation should preserve it as 'and' but must not merge with preceding word; also the Indonesian line includes 'DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN DHARMASRAYA dan' which should be fully rendered with proper spacing/casing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: list markers and items run together on the same line (e.g., 'b.' with 'c.'; 'a.' with preceding text; 'and e.'), obscuring the intended itemization."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items c and f are not properly separated onto their own list lines (\"b.\" and \"c.\" run together; \"and f.\" runs together with item e)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: lettered items a–h are run together on the same lines (a with b; d with e) instead of being clearly separated as distinct list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items run together on the same lines (a with b, f with g, j with k, m with n); needs clear separation per original markers.",
+        "Minor meaning drift/grammar: item h should reflect 'not be forced to change religion' (passive) and item i should reflect 'recognized and to know their parents' without adding extra meaning; restructure for clarity without changing content."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: items a and b are run together on one line, making the list formatting unclear."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Scrambled/inline list structure: items a–e are run together on the same lines instead of clearly separated as distinct list items.",
+        "Minor meaning drift/unnatural phrasing: 'prevent marriage at child age' should reflect 'prevent the occurrence of marriage at a child's age' (child marriage)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items b–e and paragraph (2) run together on the same line; list markers need proper separation to preserve structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item c and paragraph (3) are run together on the same line; list items should be separated and clearly ordered as a, b, c.",
+        "Minor meaning/term consistency: 'Pokja' should be rendered consistently as 'Working Group' (capitalization/formatting) and 'Regent's Decree' should reflect 'Decree of the Regent' (Keputusan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item i ends with a period and item j starts on a new line, breaking the a–l list formatting (should be consistent semicolon-separated items with 'and' before l)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: paragraph (1) and (2) are run together without proper separation.",
+        "Scrambled list formatting: items b and c are on the same line; items e and f are on the same line, obscuring list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"socialization\" should be rendered as outreach/dissemination (sosialisasi).",
+        "Meaning drift/incorrect term: \"assembling\" should be \"gathering\" (berkumpul)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: missing space in Indonesian title indicates 'Kemampuan Perempuan' (women's capability); translation should reflect this explicitly."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item e is run together with item d on the same line, making the lettering/segmentation unclear.",
+        "Minor meaning drift/unnatural rendering: 'women who have weak economy' should be 'women with weak economic conditions' (perempuan yang memiliki ekonomi lemah)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/formatting: missing spacing in the original heading is an OCR artifact; translation should reflect the intended structure as a single continuous legal heading without inserting an extra blank line.",
+        "Scrambled structure: heading components should be kept together as in the original (Chapter title followed immediately by section title and part title)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: list item markers 'c.' in paragraph (1) and 'a., f., h.' in paragraph (2) are run together on the same line as preceding text instead of being properly separated as distinct items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item d: \"marriage at child age\" should be \"marriage at the age of a child\" / \"child marriage\" to match \"perkawinan pada usia anak\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in paragraph (3) and (4), list item markers are run together (\"and f.\"; \"to: a.\") instead of being separated into distinct items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: 'Peraturan Bupati' should be translated as 'Regent Regulation' or 'Regent's Regulation' (a regulation issued by the Regent), not 'Regent Regulation' as a generic term; add definite article for legal clarity.",
+        "Minor meaning precision: 'ditetapkan dengan' is 'shall be stipulated by/through' a Regent's Regulation; current phrasing is acceptable but can be made precise without changing meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list structure: original has items a–j, but translation has a–k and shifts items after f by one letter.",
+        "Meaning drift: item d in the original is 'rumah perlindungan trauma center' (trauma center protection house/shelter), but translation renders it as 'trauma center shelters' without the 'protection house' concept; also ensure 'women crisis centre' corresponds to original item d (not e)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (1) letter b: original says to prevent so as not to get sick; translation narrows to 'contracting diseases' only.",
+        "Meaning drift in paragraph (4): 'Peraturan Bupati' should be 'Regent Regulation' or 'Regent's Regulation'; current phrasing 'regulated by Regent Regulation' is ungrammatical and slightly unclear. Correct to 'regulated by a Regent Regulation'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (4): reference should be to paragraph (4) itself (\"ayat (4)\") not paragraph (3)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in paragraph (4): items b and c are merged on one line, obscuring the separate lettered markers and item boundaries."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: items a and b are merged (\"andb.\") and need separation to match the original lettering."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items b–e and paragraph (4) are run together on the same line; list markers should be separated and ordered clearly as in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: paragraphs (7) and (8) incorrectly refer to paragraph (1) instead of paragraph (6) (\"ayat (1)\" should be \"ayat (6)\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: lettered items a–c and paragraph (2) are run together on one line; list items should be separated and clearly associated with their markers."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item c is run together on the same line as item b, obscuring the list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"hidupperempuan\" should be rendered as \"women's lives\" (quality of women's lives), not \"quality of life of women\" without the possessive nuance.",
+        "Scrambled/formatting: list items a–c should be clearly separated to match the original structure. (Minor but affects downstream parsing.)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/formatting: item c is run together with item b on the same line, obscuring the list structure.",
+        "Minor meaning/wording drift: 'fasilitas sarana dan prasarana pelayanan kesehatan yang memadai' should be rendered as adequate facilities and infrastructure for health services (not 'health service facilities and infrastructure')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item (4) letter e is merged into item d on the same line; needs separation into distinct list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: missing definite article in 'by Regent's Decree' (should be 'by a Regent's Decree' or 'by the Regent's Decree')"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (d): 'selanjutnya dijadikan data sekunder pada data Gender dan Anak' means the data is subsequently made secondary data in/for Gender and Child data; translation 'make it secondary data on Gender and Child data' is ungrammatical/unclear and risks altering meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 80,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 81,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 82,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 83,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 84,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 85,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 86,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 87,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (3): \"coordinated with\" should reflect \"berkoordinasi dengan\" (coordinate with), i.e., the organizer coordinates with the Women and Child Empowerment Unit (not that the education is merely 'coordinated')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 88,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 89,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah daerah\" should be translated as \"local government\" (singular) rather than \"Regional governments\" (plural)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 90,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: \"Sosial\" (Social) is left incomplete; should be \"Social\" or \"Social Affairs\".",
+        "Minor spacing issue in source title (\"danSosial\") reflected as awkward phrasing; translation should render the full heading naturally as \"Health and Social\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 91,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in (3): 'mengusahakan agar' means to endeavor/strive to ensure, not simply 'ensure'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 92,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in paragraph (2): item marker 'e.' is merged into item 'd.' instead of being a separate list item.",
+        "Meaning drift in paragraph (3): 'penyelenggaraan kesehatan' means implementation/administration of health (health sector/health services), not specifically 'health service provision'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 93,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: item f is run together with item e on the same line, obscuring the separate list marker and item boundary."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 94,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 95,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 96,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 97,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 98,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 99,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 100,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 101,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 102,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 103,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: lettered items b. and c. run together on the same line, reducing clarity of item separation.",
+        "Meaning drift/terminology: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 104,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: lettered items c–h are merged onto the same lines (e.g., 'c. ... d. ...' and 'g. ... and h. ...') instead of being separated as distinct list items.",
+        "Meaning drift: 'rencana aksi daerah Kota Layak Anak' was translated as 'Child Friendly City regional action plan' whereas the original refers to a 'Child-Friendly City (Kota Layak Anak) regional action plan' (KLA), not a generic 'Child Friendly City' without linking to KLA."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 105,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"layanan Perlindungan dan Anak\" refers to services for the Protection of Women and Children (PPA context), not \"Protection and Child services\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 106,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items (2)(c)-(e) and paragraph (3) are run together on one line; lettered items d and e are not clearly separated; paragraph (3)(b) and paragraph (4) lack proper sentence-ending punctuation/structure separation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 107,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 108,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 109,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/typo: \"PulauPunjung\" should be rendered as \"Pulau Punjung\" (place name spacing) consistent with the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 110,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 111,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 112,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: title in Indonesian is \"Perlindungan Anak\" (Child Protection) but translated as \"CHILD PROTECTION\" while the original is \"PERLINDUNGANANAK\"; also later uses \"Protection\" without specifying \"Child\" in one place (\"Women's Empowerment and Protection\") which is inconsistent with the original meaning \"Pemberdayaan Perempuan dan Pelindungan Anak\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 113,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 114,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear list structure: lettered items (a–d) and paragraph (2) are run together without clear separation, risking mis-association in downstream processing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 115,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 116,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 117,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 118,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 119,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 120,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 121,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: Paragraph (1) and Paragraph (2) are run together; should be separated as distinct paragraphs as in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 122,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 123,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 124,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 125,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 126,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 127,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 128,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 129,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 130,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 131,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 132,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 133,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 134,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 135,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 136,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 137,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 138,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 139,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 140,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 141,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 142,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 143,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 144,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 145,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 146,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 147,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 148,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 149,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 150,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 151,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 152,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 153,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 154,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 155,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 156,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 157,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 158,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 159,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 160,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 161,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 162,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 163,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 164,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 165,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 166,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 167,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 168,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 169,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 170,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"membangun kemauan\" translated as \"building willingness\"; should be \"building motivation/initiative\" in the educational context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 171,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: Paragraph (1), Paragraph (2) letter a, letter b, and Paragraph (3) are run together without clear separation, risking misassociation of items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 172,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 173,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 174,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 175,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 176,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 177,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 178,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 179,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 180,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 181,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 182,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 183,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 184,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 185,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 186,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 187,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 188,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_BARAT_DHARMASRAYA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.879582+00:00",
+  "prompt_version": "v1"
+}

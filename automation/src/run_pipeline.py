@@ -32,6 +32,7 @@ from automation.src.rag.store import run_storage_step
 from automation.src.run_eval import run_evaluation_step
 from automation.src.run_eval_sliding_window import run_sliding_window_evaluation_step
 from automation.src.translate import run_markdown_step, run_translation_step
+from automation.src.translation_qa import run_translation_qa_step
 
 
 def parse_steps(steps_arg: str | None) -> list[str]:
@@ -48,7 +49,14 @@ def requires_run_id(steps: list[str], run_id: str | None) -> bool:
     eval_or_compare_only = (
         any(
             step in steps
-            for step in ("markdown", "storage", "evaluation", "comparison", "discrepancy_diagnosis")
+            for step in (
+                "translation_qa",
+                "markdown",
+                "storage",
+                "evaluation",
+                "comparison",
+                "discrepancy_diagnosis",
+            )
         )
         and "translation" not in steps
     )
@@ -58,9 +66,11 @@ def requires_run_id(steps: list[str], run_id: str | None) -> bool:
 def build_config_summary(config) -> dict:
     return {
         "translation_model": config.translation_model.name,
+        "translation_qa_model": config.translation_qa_model.name,
         "evaluation_model": config.evaluation_model.name,
         "discrepancy_diagnosis_model": config.discrepancy_diagnosis_model.name,
         "translation_prompt_version": config.translation_prompt_path.parent.name,
+        "translation_qa_prompt_version": config.translation_qa_template_path.parent.name,
         "evaluation_prompt_version": config.evaluation_criteria_dir.name,
         "discrepancy_diagnosis_prompt_version": config.discrepancy_diagnosis_template_path.parent.name,
         "concurrency": {
@@ -140,8 +150,8 @@ def main() -> None:
         "--steps",
         default=None,
         help=(
-            "Comma-separated steps: translation, markdown, storage, evaluation, comparison, "
-            "discrepancy_diagnosis (default: all). The evaluation/comparison steps' behavior "
+            "Comma-separated steps: translation, translation_qa, markdown, storage, evaluation, "
+            "comparison, discrepancy_diagnosis (default: all). The evaluation/comparison steps' behavior "
             "(RAG vs sliding window, and which results/ subfolder they use) is controlled by "
             "evaluation.method in pipeline_config.yaml, not by --steps."
         ),
@@ -301,6 +311,49 @@ def main() -> None:
                         print(
                             f"  {entry['filename']}: [{entry['error_type']}] {entry['message']} "
                             f"(status={status})",
+                            file=sys.stderr,
+                        )
+                if result["counts"]["failed"] > 0:
+                    exit_code = 1
+
+        if not stopped and "translation_qa" in steps:
+            print("\nStep: translation_qa")
+            try:
+                wrapper = AzureLLMWrapper.from_profile(config.translation_qa_model, limiter=limiter)
+                result = run_translation_qa_step(
+                    run_id=run_id,
+                    config=config,
+                    wrapper=wrapper,
+                    limiter=limiter,
+                    small_scale=args.small_scale,
+                    force=args.force,
+                )
+            except (FileNotFoundError, ValueError, RuntimeError) as exc:
+                exit_code = 1
+                stopped = True
+                record_step_failure(run_id, "translation_qa", str(exc))
+                _print_step_failure("translation_qa", str(exc))
+            else:
+                clear_step_failure(run_id, "translation_qa")
+                update_metadata(
+                    run_id,
+                    execution_scope={"steps_executed": ["translation_qa"]},
+                    file_counts={"translation_qa": result["counts"]},
+                    timing_seconds={"translation_qa": result["elapsed_s"]},
+                    token_usage={"translation_qa": result["token_usage"]},
+                    failures=summarize_failures(run_id),
+                )
+                print(
+                    f"Translation QA: {result['counts']['succeeded']} succeeded "
+                    f"({result['counts']['corrected']} corrected, "
+                    f"{result['counts']['incomplete']} incomplete-response), "
+                    f"{result['counts']['skipped']} skipped, "
+                    f"{result['counts']['failed']} failed"
+                )
+                if result.get("failed_files"):
+                    for entry in result["failed_files"]:
+                        print(
+                            f"  {entry['filename']}: [{entry['error_type']}] {entry['message']}",
                             file=sys.stderr,
                         )
                 if result["counts"]["failed"] > 0:
@@ -528,6 +581,7 @@ def main() -> None:
         print(f"\nPipeline finished (run_id={run_id}, status={status})")
         if (
             failure_summary["translation"]
+            or failure_summary["translation_qa"]
             or failure_summary["storage"]
             or failure_summary["evaluation"]
             or failure_summary["discrepancy_diagnosis"]
@@ -536,6 +590,7 @@ def main() -> None:
             failures_path = get_run_dir(run_id) / "failures.json"
             print(
                 f"Failures logged: {failure_summary['translation']} translation, "
+                f"{failure_summary['translation_qa']} translation_qa, "
                 f"{failure_summary['storage']} storage, "
                 f"{failure_summary['evaluation']} evaluation, "
                 f"{failure_summary['discrepancy_diagnosis']} discrepancy_diagnosis, "

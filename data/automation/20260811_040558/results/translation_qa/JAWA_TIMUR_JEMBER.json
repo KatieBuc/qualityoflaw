@@ -1,0 +1,382 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 47,
+  "chunks_corrected": 17,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal pagination artifacts included in the translated text (\"- 1 - - 2 -\", \"- 3 -\", \"- 4 -\").",
+        "Minor meaning drift in statutory citation details: item 4 ends with a period instead of a semicolon, and item 21 ends with a period instead of a semicolon, which affects list structure consistency with the original. (Also preserve original punctuation style)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Leftover pagination artifacts included in the legal text (\"- 5 -\" and \"- 6 -\") within/between provisions."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"ASAS, TUJUAN DAN PRINSIP PELAYANAN\" translated as \"PRINCIPLES, OBJECTIVES AND PRINCIPLES OF SERVICE\"; \"ASAS\" should be rendered as \"principles/basis\" and \"TUJUAN\" as \"objectives\", while \"PRINSIP\" as \"principles\"—current translation duplicates \"principles\" and omits \"objectives\" as a distinct term."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"with principles including\" should be \"based on the principles\"; list items should be parallel (\"empathetic\" rather than \"empathy\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text/page marker \"- 7 -\" included in the translation",
+        "Minor meaning drift in item 4: \"peradilan diluar pengadilan\" should be rendered as out-of-court/non-court settlement rather than \"courts outside the judiciary\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: item 5 mistranslates 'mencegah bertambahnya korban-korban kekerasan yang lain' as 'prevent the increase of other victims of violence' instead of preventing an increase in the number of other victims of violence."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in translation: page marker \"- 8 -\" should be removed."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/structure: paragraph markers (1)-(4) are run together without clear separation, risking mis-association in downstream processing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Bupati' should be translated as 'Regent Regulation' or 'Regent's Regulation' (not 'Regent Regulation' without possessive/article is acceptable but better as 'a Regent Regulation'); ensure it reflects regulation issued by the Regent.",
+        "Minor meaning drift/term consistency: 'Pusat Pelayanan Terpadu Kabupaten' should be rendered as 'District Integrated Service Center' consistently; add 'District' in item (3) to match the original scope."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Leftover page marker \"- 10 -\" included in translated legal text",
+        "Meaning drift/typo in term: \"Informed Concent\" should be \"Informed Consent\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pendamping\" translated as \"assistant\"; in this legal context it should be \"companion/escort\" or \"assistant (companion)\"—the role is accompaniment/assistance to victims, not a generic assistant.",
+        "Minor meaning/term consistency: \"penanganan\" rendered as \"handling\"; more accurate is \"assistance/support/services\" in the context of victim support."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Leftover page number marker \"- 11 -\" included in the translated legal text"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Leftover page marker \"- 12 -\" included in the translated legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Pembina Utama Muda' is a civil-service rank; translated as 'Principal Senior Supervisor' which is inaccurate. It should be rendered as 'Junior Principal Supervisor' (or equivalent)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: mistranslated phrase \"segenap bangsa dan tumpah darah Indonesia\" as \"all the blood of Indonesia\"; should be \"the entire Indonesian nation and the homeland/territory of Indonesia\".",
+        "Meaning drift: CEDAW ratification law number/year incorrect in translation; original states \"Undang-undang Nomor 7 Tahun 1948\" (as written in source), but translation renders it as \"Law Number 7 Year 1948\" tied to CEDAW without reflecting the original phrasing; needs to mirror the source text exactly."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Leftover pagination/notes in body text: \"- 1 - - 2 -\" should not appear in the translated legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: paragraph markers and their contents are run together; should be separated per paragraph.",
+        "Meaning drift/unnatural rendering: \"Cukup jelas\" should be rendered as \"Sufficiently clear\" as a standalone statement for each paragraph; \"prinsip-prinsip layanan\" should be \"principles of services\" (plural) rather than \"principles of service\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_JEMBER.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.600512+00:00",
+  "prompt_version": "v1"
+}

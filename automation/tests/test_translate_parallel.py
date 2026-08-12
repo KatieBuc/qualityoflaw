@@ -24,13 +24,16 @@ def pipeline_config(tmp_path):
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
     diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
+    translation_qa_model = ModelProfile(name="test-translation-qa", deployment="gpt-5.2", temperature=0.1)
     prompt_path = AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt"
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
+        translation_qa_model=translation_qa_model,
         evaluation_model=eval_model,
         discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=prompt_path,
+        translation_qa_template_path=AUTOMATION_ROOT / "prompts" / "translation_qa" / "v1" / "prompt_template.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
         discrepancy_diagnosis_template_path=(
@@ -95,10 +98,12 @@ def test_run_translation_step_parallel(pipeline_config, data_root):
     assert (out_dir / "C.txt").read_text(encoding="utf-8") == "translated-C.txt"
     assert wrapper.complete_text.call_count == 3
 
-    # Markdown rendering (results/cleaned_text/*.cleaned.md,
-    # results/translation_markdown/*.md) is a separate `markdown` step
-    # (see test_markdown_step.py) — the translation step no longer writes it.
+    # Cleaned/Markdown rendering (results/cleaned_text/*.cleaned.txt,
+    # results/cleaned_markdown/*.cleaned.md, results/translation_markdown/*.md)
+    # is a separate `markdown` step (see test_markdown_step.py) — the
+    # translation step no longer writes it.
     assert not (data_root / run_id / "results" / "cleaned_text").exists()
+    assert not (data_root / run_id / "results" / "cleaned_markdown").exists()
     assert not (data_root / run_id / "results" / "translation_markdown").exists()
 
 

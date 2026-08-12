@@ -1,0 +1,218 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 25,
+  "chunks_corrected": 11,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Numbering inconsistency in the legal basis list: the original repeats item number \"4\" (UU 39/1999 and UU 23/2002); translation should preserve this numbering exactly to match the source."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 4: 'penyelenggara perlindungan' refers to protection administrators/organizers (actors), not 'protection providers'.",
+        "Meaning drift in item 5: 'Penyelenggaraan Perlindungan' is the implementation/organization of protection, not 'Protection Administration'.",
+        "Meaning drift in item 7: structure implies suffering 'physically, sexually, economically, socially, psychologically' (adverbial), not 'whether physical, sexual, economic, social, psychological' (adjectival list)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"hak-hak asasi\" translated as \"basic rights\"; should be \"human rights\"",
+        "Meaning drift: \"kepentingan terbaik bagi korban\" rendered as \"best interests of victims\"; should be singular \"the victim\" to match the original phrasing"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/ambiguity: the phrase \"the best interests of children occurring\" is ungrammatical and misrepresents that the incidents occur in domestic/public settings; it should refer to violence against women and children occurring in those settings, with protection based on the best interests of the child."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regulation of the Regent\"; current \"Regent Regulation\" is acceptable but missing the definite article and may imply a type name—clarify as \"a Regent Regulation\" to match Indonesian meaning of being stipulated by a regulation.",
+        "Minor meaning drift: \"penanganan perlindungan serta pelayanan\" is \"handling of protection and services\"; current phrasing is acceptable but \"handling protection\" could read as handling protection itself rather than handling protective measures—adjust to mirror original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"Pasal 7ayat (2)\" should be rendered as \"Article 7 paragraph (2)\" (missing space in source reflected in translation)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: '(1) ... termasuk swasta' refers to facilities owned by the community, including private facilities; current translation implies 'including private sector' as an add-on to the list of owners and is grammatically unclear.",
+        "Meaning drift: (2) 'guna penguatan dan pemulihan diri korban' means for strengthening and self-recovery of the victim; current translation omits 'self' aspect.",
+        "Meaning drift: (4) 'hak dan kewajibannya' refers to the victim's rights and obligations; current translation uses ambiguous 'their'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: item markers and contents run together (b. and c. on same line), reducing clarity of separate list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in Article 11(3): missing the idea of forcing someone to have sexual relations with another person for commercial and/or certain purposes (trafficking/prostitution element); current phrasing is grammatically unclear and could change meaning.",
+        "Minor meaning/grammar issue: inconsistent rendering of 'dan/atau' as 'and or/' and missing 'and/or' consistency across clauses."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward agency in (2) and (3): 'whether committed'/'where committed' lacks explicit reference to acts of violence; should refer to violence occurring in or outside the region, not victims being 'committed'.",
+        "Minor meaning precision: (2) and (3) should clearly distinguish residents vs non-residents and location of the violence (in West Bangka vs outside)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in paragraph (5): \"intimidation for victims\" should be \"intimidation against victims\" (ancaman dan intimidasi bagi korban).",
+        "Meaning drift/unnatural rendering in paragraph (6): \"services for skills\" should reflect skills training/services (layanan untuk keterampilan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.725736+00:00",
+  "prompt_version": "v1"
+}

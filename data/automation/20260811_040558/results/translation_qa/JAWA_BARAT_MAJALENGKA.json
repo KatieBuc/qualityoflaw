@@ -1,0 +1,253 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 29,
+  "chunks_corrected": 14,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Menimbang\" and \"Mengingat\" were merged into one heading (\"Considering and Bearing in Mind\"), whereas the original has separate sections (Menimbang; Mengingat).",
+        "Meaning drift: extra phrase \"To stipulate\" appears in the translation but is not present in the provided original excerpt (the original shows an OCR artifact \"Menetapkan\" but no clear standalone stipulation clause in this excerpt)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 23: \"ibu 00\" in the source is rendered as \"stepmother\"; the source indicates \"tiri\" (step-) but the OCR shows \"00\", so the translation should not introduce \"step-\" without basis.",
+        "Minor meaning drift in item 12: \"penjeratan uang\" is translated as \"debt bondage\"; the source wording is closer to \"debt entrapment\"/\"debt bondage\" but to avoid over-specificity, render as \"debt bondage/entrapment\".",
+        "Source contains stray page-number artifacts (\"Perangkat 5\", \"Korban 6\") that are not legal text; translation correctly omits them, but corrected text should remain clean legal text only (no change needed there)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Bentuk-bentuk kekerasan terhadap perempuan dan anak, antara lain' should be rendered as 'among others' rather than 'include' to match the non-exhaustive phrasing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/ambiguity in Article 8(a): 'within the scope of her household' misrenders 'dalam lingkup rumah tangganya' (should be within the scope of his/her household/domestic sphere), and 'care/treatment' adds an extra nuance not in 'perawatan'.",
+        "Minor meaning drift in Article 8(a): 'provide livelihood' should be 'provide a living' (kehidupan) and the obligation is to provide a living and care to the woman (not 'care/treatment')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/misaligned list markers in Article 11: original items a–j were shifted; an extra item 'k' was introduced and 'a. Right 9' is erroneous",
+        "Meaning drift/structure error: 'a. Right 9' does not correspond to any right in the original and causes the subsequent rights to be assigned to the wrong letters"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regent's Regulation\"; current text says \"Regent Regulation\" but missing definite article is fine—however the main issue is that (4) should indicate it is regulated \"by\" a Regent Regulation (i.e., \"regulated by a Regent Regulation\"), not \"regulated by Regent Regulation\" (minor grammatical ambiguity).",
+        "Scrambled/OCR artifact in original (\"C. melakukan 10\") is correctly omitted in translation; no issue there. However, ensure list item markers match original: original has a, b, c, d, e, f, g; translation matches. The only required correction is to render (4) more faithfully as \"regulated by a Regent Regulation\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'UPTDPPA' in paragraph (1) is rendered as 'UPTD PPA' (spacing differs from the original term).",
+        "Minor meaning drift/typo: 'Forum Anak Remaja Majalengkai' is translated as 'Majalengka' (missing final 'i' from the proper name in the original)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear structure: heading and article title/number run together (\"Service Principles Article 23\") and should be separated to reflect the original layout.",
+        "Minor meaning drift/typo: \"arnan\" in the source is clearly intended as \"aman\" (safe); ensure rendered as \"safe\" in a clean legal sentence."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2)(b): \"pemulihan korban tindak kekerasan\" refers to recovery/rehabilitation of victims of acts of violence, not \"victims of violence\" generally."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (5): 'Peraturan Bupati' should be translated as 'Regent Regulation' (a regulation issued by the Regent), not 'a Regent Regulation' is acceptable but should be 'in a Regent Regulation' to reflect 'diatur dalam' (regulated in)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Salinan sesuai dengan aslinya\" should be rendered as \"Copy conforms to the original\" (or equivalent), not \"Copy in accordance with the original\".",
+        "Minor meaning/structure: \"Kabupaten Majalengka\" is \"Majalengka Regency\" but the original is written as one word \"KABUPATENMAJALENGKA\"; keep as proper name \"Majalengka Regency\" is fine; however \"NOMOR REGISTER\" is better translated as \"Registration Number\" (already) but \"PROVINSIJAWA BARAT\" should be \"West Java Province\" (already). Only correction needed is the last line phrasing to match legal attestation usage."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"community services\" mistranslates \"Pelayanan masyarakat\" (should be \"community service\"/\"public services\" in general, not pluralized as a specific service unit).",
+        "Meaning drift: \"Regional area\" is an awkward/incorrect rendering of \"wilayah Daerah\"; should be \"the Region\"/\"the Regional area\" as a jurisdictional term (\"in the Region\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Omission of the standalone number \"18\" that appears after \"Pasal 5\" in the original text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Scrambled/duplicated structure around Article 24: stray number \"19\" and repeated \"Article 24\" reflect OCR artifact from the source and should be consolidated so Article 24 reads \"Sufficiently clear\" once."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_MAJALENGKA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.482814+00:00",
+  "prompt_version": "v1"
+}

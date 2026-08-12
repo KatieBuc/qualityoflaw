@@ -1,0 +1,295 @@
+{
+  "diagnoses": {
+    "5.6": {
+      "indicator": "Media engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Letter c What is meant by \"socialization\" is the dissemination of information on laws and regulations carried out through mass media, electronic media, and/or direct outreach/education to the public.",
+      "evaluator_rationale": "The policy explicitly references dissemination of information through mass media and electronic media as part of socialization activities, indicating recognition of media channels in prevention-related outreach.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 52,
+          "text": "Article 7\nLetter a What is meant by \"work network\" is the working partner of the Regional Government in the implementation of the prevention of violence against women in the form of family partners, including, among others, family groups and dasawisma.\nLetter b Sufficiently clear.\nLetter c What is meant by \"socialization\" is the dissemination of information on laws and regulations carried out through mass media, electronic media, and/or direct outreach/education to the public.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. City Region is the City Region of Banjar.\n2. City Regional Government is the Mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Banjar.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of Regional Government administration.\n5. Regional Apparatus is an auxiliary element of the Mayor and Regional House of Representatives in the administration of government that is the authority of the region.\n6. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n7. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and worth, as well as receive protection from violence and discrimination.\n8. Woman is a person who is female by sex and a person who is recognized by law as a woman.\n9. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs within the Regional territory.\n11. Violence is any act against women and children that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of freedom unlawfully.\n12. Empowerment of women is the strengthening of women victims of violence to be able to work and earn independently after being recovered and provided with health and social rehabilitation services.\n13. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n14. Social rehabilitation is recovery from disturbances to physical, psychological and social conditions in order to be able to carry out their role again properly both in the family and in society.\n15. Social reintegration is an effort to reunite victims with their families and communities.\n16. Assistance is an activity to provide counseling, therapy and advocacy for the strengthening and recovery of victims carried out by a person or representative from an institution that has expertise.\n17. Prevention is the effort of the government together with families and communities as well as the private sector and/or business world to prevent the occurrence of violence through socialization, education, advocacy and promotion activities.\n18. Handling is action taken as soon as possible to victims when seeing, hearing, and knowing that violence against victims will, is, and/or has occurred.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy, and advocacy for the strengthening and recovery of victims of violence.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n21. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a technical implementing unit of the Regional Apparatus that carries out technical operational activities and/or technical supporting activities for integrated services for women and children victims of violence.\n22. Forum for the Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for prevention, handling and empowerment of victims of violence against women and children whose implementation is carried out in a networked manner and is formed at the Regional, sub-district, and village levels.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 29,
+          "text": "CHAPTER VI\nOBLIGATIONS AND RESPONSIBILITIES\nOF THE CITY REGIONAL GOVERNMENT\nArticle 17\n(1) The City Regional Government carries out efforts to prevent the occurrence of violence against Women and Children in the form of:\na. collecting data and organizing an information system for the Protection of Women and Children Victims of Violence;\nb. conducting education on anti-violence values toward Women and Children; and\nc. conducting dissemination of laws and regulations related to Women's Empowerment and the Protection of Child Victims of Violence.\n(2) The City Regional Government is obliged and responsible to provide and organize services for Victims in the form of:\na. establishing and organizing technical service institutions for Victims by involving elements of the community; and\nb. encouraging public awareness of the importance of protection for Victims of violence.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 21,
+          "text": "Paragraph 1\nPrevention of Violence against Children",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 6\n(1) Prevention of violence against women as referred to in Article 5 letter a is carried out in an integrated manner coordinated by the Regional Apparatus responsible for women's empowerment and child protection.\n(2) Prevention as referred to in paragraph (1) is carried out by involving:\na. family;\nb. community;\nc. private sector;\nd. community institutions;\ne. social institutions; and\nf. educational institutions.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 14\n(1) The handling of child victims of violence as referred to in Article 11 letter b shall be implemented in accordance with the provisions of laws and regulations.\n(2) In handling child victims of violence as referred to in paragraph (1), the Regional Government may cooperate with:\na. vertical agencies;\nb. provincial government;\nc. other regency/city governments;\nd. village government;\ne. non-governmental organizations;\nf. private parties;\ng. the community; and/or\nh. families.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 45,
+          "text": "REGIONAL SECRETARY OF BANJAR CITY,\nADE SETIANA\nREGIONAL GAZETTE OF BANJAR CITY YEAR 2017 NUMBER 10\nREGISTRATION NUMBER OF REGIONAL REGULATION OF BANJAR CITY,\nWEST JAVA PROVINCE (10/269/2017)\nELUCIDATION\nON\nREGIONAL REGULATION OF BANJAR CITY\nNUMBER 10 YEAR 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children are experiencing an increasingly rising trend. Economic factors, the social environment and technological development have a major influence on the increase of such acts of violence.\nThis condition requires the Regional Government to take concrete steps through program activities as efforts to prevent and protect women and children from acts of violence. One of the efforts to prevent violence against women is carried out through women's empowerment and optimization of previously possessed potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families. Efforts to prevent violence against children are the obligation of parents, families, communities and the private sector.\nCommunity service is the frontline when potential violence against children occurs. The mechanism for violence prevention efforts and protection of child victims of violence involves multiple sectors coordinated by the Regional Government. The intended efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reintegrating child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.\nIn connection with this matter, to realize the provision of protection efforts for women and children victims of violence as well as for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Regional area, it is necessary to regulate it in a Regional Regulation.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 12\n(1) Prevention of Violence against Children as referred to in Article 11 letter a shall be implemented by:\na. establishing a network in efforts to Prevent Violence against Children;\nb. conducting coordination, integration, synchronization of Violence Prevention based on partnership patterns with the community, private sector and Non-Governmental Organizations; and\nc. conducting socialization of laws and regulations related to the Protection of Child Victims of Violence.\n(2) Prevention of Violence against Children as referred to in paragraph (1) shall be carried out in an integrated manner and coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 24\nThe duties and functions of FPKK as referred to in Article 23 consist of:\na. coordinating and synchronizing prevention, services, and empowerment for women and children victims of violence;\nb. maintaining and developing FPKK in prevention, services, and empowerment of victims through networking and referral systems;\nc. conducting education on non-discrimination values towards women and children;\nd. conducting socialization of laws and regulations related to the implementation of Protection for Women and Children Victims of Violence;\ne. collecting, compiling, and presenting data reports on victims of violence; and\nf. conducting monitoring and evaluation of the implementation of Protection for Women and Children Victims of Violence.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 54,
+          "text": "Article 9\nParagraph (1) Sufficiently clear.\nParagraph (2) What is meant by \"in a networked manner\" is that the Regional Government may, through coordination among relevant agencies, undertake efforts to protect child victims of violence and to provide recovery for victims of violence in accordance with the provisions of laws and regulations.\nParagraph (3) Sufficiently clear.\nParagraph (4) Sufficiently clear.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 23,
+          "text": "Article 13\nEfforts to prevent Violence against Children as referred to in Article 12 shall be carried out by involving: a. parents and/or family;\nb. the community;\nc. educational institutions;\nd. child social welfare institutions; and/or\ne. other institutions engaged in the field of concern for child protection.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\nThe stages of protection for women victims of violence include: a. prevention of violence against women;\nb. protection services for women victims of violence; and c. empowerment of women victims of violence.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 1\nPrevention of Violence Against Women",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 13,
+          "text": "Paragraph 2\nServices for the Protection of Women Victims of Violence",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\n(1) The objectives of protection for women victims of violence are directed to:\na. create conditions that support the development of the potential of women victims of violence;\nb. strengthen the potential already possessed by women victims of violence; and\nc. improve the work skills of women victims of violence.\n(2) The objectives of protection for child victims of violence are directed to:\na. provide social rehabilitation for child victims of violence;\nb. reunite child victims of violence with their family and/or environment; and\nc. improve the empowerment of child victims of violence.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 23\nSufficiently clear.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 9\n(1) The Forms of Protection Services for Women Victims of Violence as referred to in Article 8 include:\na. legal aid services;\nb. health services;\nc. social rehabilitation services;\nd. repatriation and social reintegration services;\ne. complaint, consultation, and counseling services; and/or\nf. assistance services.\n(2) In addition to the Protection Services for Women Victims of Violence as referred to in paragraph (1), Services are carried out by receiving and sending case referrals from and/or to other service units in a networked manner.\n(3) The implementation of Protection Services for Women Victims of Violence as referred to in paragraph (1) shall be carried out by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(4) Further provisions regarding the forms and procedures of Protection Services for Women Victims of Violence as referred to in paragraph (1) through paragraph (3) shall be regulated by a Mayor Regulation.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 24,
+          "text": "Paragraph 2\nHandling of Child Victims of Violence",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 2\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 27\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 70,
+          "text": "Article 25\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 6\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 29\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 24\nSufficiently clear.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 26\nSufficiently clear.",
+          "score": 0.35362908
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly defines “sosialisasi” as dissemination of legal/regulatory information through “media massa, media elektronik, dan/atau penyuluhan langsung kepada masyarakat” (Elucidation of Pasal 7 huruf c). This is a clear, direct reference to using media channels (mass media/electronic media) for outreach/engagement. The retrieved English candidate [5.6-52] accurately reflects this, and the judge’s reasoning (that the policy recognizes media channels in prevention outreach) is consistent with the source text. Therefore the golden label of “No” appears incorrect for a ‘media engagement’ indicator framed around acknowledging/using media for dissemination.",
+      "diagnosis_status": "ok"
+    },
+    "6.7": {
+      "indicator": "Women from minority groups",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy states non-discrimination across ethnicity, religion, race, culture, and language, it does not establish special protection measures specifically targeted at women from minority or isolated groups.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 48,
+          "text": "Article 3\nLetter a What is meant by \"gender responsive\" is that all service officers must be gender sensitive when examining the problems experienced by victims and be able to provide protection to women and children victims of violence.\nLetter b What is meant by \"non-discrimination\" is that the implementation of protection for women and children victims of violence is provided to every woman and/or every child and is not differentiated based on ethnicity, religion, race, class, gender, ethnic group, culture and language, legal status, and physical or mental condition.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.\nLetter f Sufficiently clear.\nLetter g Sufficiently clear.\nLetter h Sufficiently clear.\nLetter i Sufficiently clear.\nLetter j Sufficiently clear.\nLetter k Sufficiently clear.\nLetter l Sufficiently clear.\nLetter m Sufficiently clear.",
+          "score": 0.61286587
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 8\n(1) Protection Services for Women Victims of Violence as referred to in Article 5 letter b shall be provided to women residents of the Region and/or women who experience violence with the location of the incident in the Region.\n(2) The implementation of Protection Services for Women Victims of Violence as referred to in paragraph (1) shall be carried out with the principles of:\na. swift;\nb. safe;\nc. a sense of empathy;\nd. non-discrimination;\ne. easily accessible; and\nf. its confidentiality is guaranteed.",
+          "score": 0.5790196
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 9\n(1) The Forms of Protection Services for Women Victims of Violence as referred to in Article 8 include:\na. legal aid services;\nb. health services;\nc. social rehabilitation services;\nd. repatriation and social reintegration services;\ne. complaint, consultation, and counseling services; and/or\nf. assistance services.\n(2) In addition to the Protection Services for Women Victims of Violence as referred to in paragraph (1), Services are carried out by receiving and sending case referrals from and/or to other service units in a networked manner.\n(3) The implementation of Protection Services for Women Victims of Violence as referred to in paragraph (1) shall be carried out by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(4) Further provisions regarding the forms and procedures of Protection Services for Women Victims of Violence as referred to in paragraph (1) through paragraph (3) shall be regulated by a Mayor Regulation.",
+          "score": 0.53665286
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. City Region is the City Region of Banjar.\n2. City Regional Government is the Mayor as an element of the Regional Government administrator who leads the implementation of government affairs that are the authority of the autonomous region.\n3. Mayor is the Mayor of Banjar.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of Regional Government administration.\n5. Regional Apparatus is an auxiliary element of the Mayor and Regional House of Representatives in the administration of government that is the authority of the region.\n6. Protection of women is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n7. Protection of children is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and worth, as well as receive protection from violence and discrimination.\n8. Woman is a person who is female by sex and a person who is recognized by law as a woman.\n9. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs within the Regional territory.\n11. Violence is any act against women and children that results in misery or suffering physically, psychologically, sexually, and/or neglect, including threats to commit acts, coercion or deprivation of freedom unlawfully.\n12. Empowerment of women is the strengthening of women victims of violence to be able to work and earn independently after being recovered and provided with health and social rehabilitation services.\n13. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n14. Social rehabilitation is recovery from disturbances to physical, psychological and social conditions in order to be able to carry out their role again properly both in the family and in society.\n15. Social reintegration is an effort to reunite victims with their families and communities.\n16. Assistance is an activity to provide counseling, therapy and advocacy for the strengthening and recovery of victims carried out by a person or representative from an institution that has expertise.\n17. Prevention is the effort of the government together with families and communities as well as the private sector and/or business world to prevent the occurrence of violence through socialization, education, advocacy and promotion activities.\n18. Handling is action taken as soon as possible to victims when seeing, hearing, and knowing that violence against victims will, is, and/or has occurred.\n19. Service is immediate activities and actions carried out by professional personnel in accordance with their respective professions in the form of counseling, therapy, and advocacy for the strengthening and recovery of victims of violence.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in a direct line upward or downward up to the third degree.\n21. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a technical implementing unit of the Regional Apparatus that carries out technical operational activities and/or technical supporting activities for integrated services for women and children victims of violence.\n22. Forum for the Protection of Victims of Violence hereinafter abbreviated as FPKK is a coordination forum for prevention, handling and empowerment of victims of violence against women and children whose implementation is carried out in a networked manner and is formed at the Regional, sub-district, and village levels.",
+          "score": 0.5347097
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\n(1) The objectives of protection for women victims of violence are directed to:\na. create conditions that support the development of the potential of women victims of violence;\nb. strengthen the potential already possessed by women victims of violence; and\nc. improve the work skills of women victims of violence.\n(2) The objectives of protection for child victims of violence are directed to:\na. provide social rehabilitation for child victims of violence;\nb. reunite child victims of violence with their family and/or environment; and\nc. improve the empowerment of child victims of violence.",
+          "score": 0.5230306
+        },
+        {
+          "chunk_id": 13,
+          "text": "Paragraph 2\nServices for the Protection of Women Victims of Violence",
+          "score": 0.5230306
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\nThe stages of protection for women victims of violence include: a. prevention of violence against women;\nb. protection services for women victims of violence; and c. empowerment of women victims of violence.",
+          "score": 0.5230306
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nProtection of women and children victims of violence is implemented based on the principles of:\na. gender responsiveness;\nb. non-discrimination;\nc. equal and respectful relationships;\nd. maintaining privacy and confidentiality;\ne. providing a sense of safety and comfort;\nf. respecting individual differences;\ng. non-judgmental;\nh. respecting the choices and decisions of the victim;\ni. being sensitive to the background and conditions of the victim;\nj. use of appropriate language that is understood by the victim;\nk. fast and simple;\nl. empathy; and\nm. the best interests of the victim.",
+          "score": 0.52108127
+        },
+        {
+          "chunk_id": 38,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 25\n(1) The community may participate in the protection of Women and Children Victims of Violence.\n(2) Community participation as referred to in paragraph (1) shall be carried out through:\na. provision of safe houses and/or shelters;\nb. establishment and management of orphanages for children;\nc. establishment of child rehabilitation centers;\nd. active supervision of violence against women and children and reporting to the competent authorities;\ne. providing first aid to victims;\nf. reporting the occurrence of violence against women and children and providing protection;\ng. forming family partners at the village level by the community; and\nh. other forms of community participation related to the implementation of protection of women and protection of children.",
+          "score": 0.5132781
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 7\nPrevention of violence against women as referred to in Article 6 shall be implemented among others by: a. establishing a network in efforts to prevent violence against women;\nb. conducting coordination, integration, synchronization of violence prevention based on partnership patterns with the community, private sector and non-governmental organizations; and\nc. conducting socialization of laws and regulations related to the protection of women.",
+          "score": 0.5093739
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER III\nPROTECTION OF WOMEN\nVICTIMS OF VIOLENCE\nPart One\nStages",
+          "score": 0.50156254
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 6\n(1) Prevention of violence against women as referred to in Article 5 letter a is carried out in an integrated manner coordinated by the Regional Apparatus responsible for women's empowerment and child protection.\n(2) Prevention as referred to in paragraph (1) is carried out by involving:\na. family;\nb. community;\nc. private sector;\nd. community institutions;\ne. social institutions; and\nf. educational institutions.",
+          "score": 0.49179763
+        },
+        {
+          "chunk_id": 42,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION\nArticle 29\n(1) Guidance and supervision of the implementation of Protection for Women and Children Victims of Violence shall be carried out by the Regional Apparatus responsible for Women's Empowerment and Child Protection.\n(2) Guidance and supervision as referred to in paragraph (1) shall include:\na. coordination;\nb. guidance;\nc. education and training; and\nd. monitoring and evaluation.\n(3) Coordination as referred to in paragraph (2) letter a shall cover aspects related to planning and implementation.\n(4) Guidance as referred to in paragraph (2) letter b shall cover aspects related to planning, implementation, procedures, funding, quality, control and supervision.\n(5) Education and training as referred to in paragraph (2) letter c shall be conducted in accordance with laws and regulations.\n(6) Monitoring and evaluation as referred to in paragraph (2) letter d shall be conducted periodically every 3 (three) months.",
+          "score": 0.49179763
+        },
+        {
+          "chunk_id": 45,
+          "text": "REGIONAL SECRETARY OF BANJAR CITY,\nADE SETIANA\nREGIONAL GAZETTE OF BANJAR CITY YEAR 2017 NUMBER 10\nREGISTRATION NUMBER OF REGIONAL REGULATION OF BANJAR CITY,\nWEST JAVA PROVINCE (10/269/2017)\nELUCIDATION\nON\nREGIONAL REGULATION OF BANJAR CITY\nNUMBER 10 YEAR 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children are experiencing an increasingly rising trend. Economic factors, the social environment and technological development have a major influence on the increase of such acts of violence.\nThis condition requires the Regional Government to take concrete steps through program activities as efforts to prevent and protect women and children from acts of violence. One of the efforts to prevent violence against women is carried out through women's empowerment and optimization of previously possessed potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families. Efforts to prevent violence against children are the obligation of parents, families, communities and the private sector.\nCommunity service is the frontline when potential violence against children occurs. The mechanism for violence prevention efforts and protection of child victims of violence involves multiple sectors coordinated by the Regional Government. The intended efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reintegrating child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.\nIn connection with this matter, to realize the provision of protection efforts for women and children victims of violence as well as for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Regional area, it is necessary to regulate it in a Regional Regulation.",
+          "score": 0.48398986
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 26\n(1) In addition to P2TP2A as referred to in Article 20, the community may establish forums or groups at the sub-district and village levels that function as P2TP2A networks in the context of implementing efforts for the Protection of Women and Children Victims of Violence.\n(2) The establishment of forums or groups at the village level as referred to in paragraph (1) may be facilitated by the Village Government.",
+          "score": 0.48203897
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nFUNDAMENTALS, PRINCIPLES, AND OBJECTIVES\nArticle 2\nProtection of women and children victims of violence is implemented based on the following fundamentals:\na. respect and recognition of rights; and\nb. equal human dignity.",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 1\nPrevention of Violence Against Women",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 29,
+          "text": "CHAPTER VI\nOBLIGATIONS AND RESPONSIBILITIES\nOF THE CITY REGIONAL GOVERNMENT\nArticle 17\n(1) The City Regional Government carries out efforts to prevent the occurrence of violence against Women and Children in the form of:\na. collecting data and organizing an information system for the Protection of Women and Children Victims of Violence;\nb. conducting education on anti-violence values toward Women and Children; and\nc. conducting dissemination of laws and regulations related to Women's Empowerment and the Protection of Child Victims of Violence.\n(2) The City Regional Government is obliged and responsible to provide and organize services for Victims in the form of:\na. establishing and organizing technical service institutions for Victims by involving elements of the community; and\nb. encouraging public awareness of the importance of protection for Victims of violence.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 12\n(1) Prevention of Violence against Children as referred to in Article 11 letter a shall be implemented by:\na. establishing a network in efforts to Prevent Violence against Children;\nb. conducting coordination, integration, synchronization of Violence Prevention based on partnership patterns with the community, private sector and Non-Governmental Organizations; and\nc. conducting socialization of laws and regulations related to the Protection of Child Victims of Violence.\n(2) Prevention of Violence against Children as referred to in paragraph (1) shall be carried out in an integrated manner and coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 10\nParagraph (1) Sufficiently clear.\nParagraph (2) Letter a What is meant by \"equality of rights\" is fair treatment given to every female victim of violence without regard to background.\nEquality of rights also means that female victims of violence have the right to work and conduct business in accordance with their expertise and capabilities, the same as men.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nParagraph (3) Sufficiently clear.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 24\nThe duties and functions of FPKK as referred to in Article 23 consist of:\na. coordinating and synchronizing prevention, services, and empowerment for women and children victims of violence;\nb. maintaining and developing FPKK in prevention, services, and empowerment of victims through networking and referral systems;\nc. conducting education on non-discrimination values towards women and children;\nd. conducting socialization of laws and regulations related to the implementation of Protection for Women and Children Victims of Violence;\ne. collecting, compiling, and presenting data reports on victims of violence; and\nf. conducting monitoring and evaluation of the implementation of Protection for Women and Children Victims of Violence.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 10\n(1) Empowerment of women victims of violence as referred to in Article 5 letter c is implemented through efforts including:\na. job training; and\nb. productive economic enterprises and joint business groups.\n(2) The implementation of empowerment of women victims of violence is carried out with the principles of:\na. equality and justice of rights;\nb. responsibility;\nc. utility and effectiveness; and\nd. respect and enforcement of human rights.\n(3) The implementation of empowerment of women victims of violence as referred to in paragraph (1) is carried out by the relevant Regional Apparatus in accordance with their main duties and functions.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 40,
+          "text": "CHAPTER IX\nMONITORING, EVALUATION, AND REPORTING\nArticle 27\nMonitoring, Evaluation, and Reporting of the Protection of women and child victims of violence shall be coordinated by the Regional Apparatus responsible for Women's Empowerment and Child Protection.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGIONAL HOUSE OF REPRESENTATIVES OF BANJAR CITY\nMAYOR OF BANJAR\nDECIDES:\nTo Establish : REGIONAL REGULATION ON PROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 0,
+          "text": "MAYOR OF BANJAR\nWEST JAVA PROVINCE\nREGIONAL REGULATION OF THE CITY OF BANJAR\nNUMBER 10 OF 2017\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nBY THE GRACE OF THE ONE ALMIGHTY GOD",
+          "score": 0.41641688
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue",
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian regulation does not appear to include any specific provisions targeting women from minority/isolated groups (e.g., indigenous, remote, minority women) with special measures. What it does include is a general non-discrimination principle: protection is provided to every woman/child and “tidak dibedakan berdasarkan suku, agama, ras, golongan, jenis kelamin, etnis, budaya dan bahasa, status hukum, dan kondisi fisik maupun mental” (Penjelasan Pasal 3 huruf b), which is exactly what the retrieved passage [6.7-48] says. If the indicator requires explicit mention of minority groups or tailored measures, the correct answer should be No, making the golden label “Yes” likely wrong (golden_label_issue). Separately, if the evaluation rubric intended that broad non-discrimination across ethnicity/religion/race/culture/language counts as addressing minority women, then the judge was too strict in requiring ‘special measures’ and should have answered Yes based on [6.7-48] (evaluation_failure). The discrepancy likely stems from a mismatch/ambiguity in how the indicator is defined versus how the golden label was applied.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_BARAT_BANJAR_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.032292+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 2,
+  "diagnosed_count": 2
+}

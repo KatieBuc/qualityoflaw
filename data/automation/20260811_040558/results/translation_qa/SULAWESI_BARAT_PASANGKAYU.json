@@ -1,0 +1,740 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 95,
+  "chunks_corrected": 25,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"kodratnya\" translated as \"destiny\"; should be rendered as \"natural disposition/role\" (kodrat) to match the legal meaning.",
+        "Omission/truncation: the citation for Law Number 23 of 2014 is cut off; the original continues with \"Tambahan Lembaran\" (Supplement to the State Gazette), which is missing in the translation. (Only the portion present in the provided original can be restored.)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Negara Republik Indonesia\" should be rendered as \"State Gazette of the Republic of Indonesia\" in this citation context (\"Lembaran Negara Republik Indonesia\"), not \"State of the Republic of Indonesia\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the 'English' translation is not translated and remains in Indonesian (items 8–14)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list punctuation: item c ends with a period instead of a semicolon, breaking consistency with the original list structure"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural phrasing: \"is caused by\" misrenders \"disebabkan karena\" in context; should describe that psychological violence is due to acts that cause the listed effects.",
+        "Meaning drift: \"to a person\" should be \"in a person\" to match \"pada seseorang\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: \"and or\" should be \"and/or\" to match \"dan/atau\" in item (c)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in item (c) the obligation is on the perpetrator to provide livelihood/care/maintenance to the neglected person; the translation incorrectly makes the obligation apply to the neglected person ('they are obliged')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"yang layak\" means \"decent/appropriate\" (contextually: decent work), not \"in a proper manner\"; the phrase refers to work inside or outside the home.",
+        "Meaning drift: \"Korban berada di bawah kendali orang tersebut\" is better rendered as \"the Victim is under that person's control\" (not \"under the control of that person\"), to match the original reference."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"disebabkan karena\" should be rendered as \"is caused by\" (not \"is caused by\" is fine) but item (b) mistranslates \"kerja atau Pelayanan paksa\" as \"forced labor or Services\"; it should be \"forced labor or forced services\"/\"forced work or forced services\" to reflect \"paksa\" applying to both.",
+        "issues"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item marker \"e.\" is merged into item \"d.\" instead of being a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"Protection of Women long-term, medium-term, and short-term\" omits the sense of time horizons as a phrase and reads as a fragment; should reflect \"long-term, medium-term, and short-term Women's Protection\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Scrambled/missing list lettering: item b is omitted in the original text sequence; lettering jumps from a to c, which should be preserved but indicates a structural issue for downstream evaluation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Leftover header text in original (\"JDIH KABUPATEN PASANGKAYU\") is not translated; translated text omits this content. If it is part of the legal text, it must be included in English."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah Daerah\" should be singular \"Regional Government\" (not plural).",
+        "Meaning drift/term accuracy: \"Kepolisian Resort\" and \"Kepolisian Sektor\" are better rendered as \"Resort Police\" and \"Sector Police\" without adding \"the\"; keep consistent with Indonesian institutional terms. \"di Daerah\" should be \"in the Region\" (not capitalized as a proper noun)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: proper noun left untranslated/inconsistent—\"JDIH KABUPATEN PASANGKAYU\" should be rendered as \"JDIH of Pasangkayu Regency\" (JDIH is the Legal Documentation and Information Network)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: paragraph (1) and paragraph (2) are merged into one line; missing separation between clauses."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Untranslated header left in Indonesian (\"JDIH KABUPATEN PASANGKAYU\") causing meaning drift / non-English content in the translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'dibebankan pada' should be rendered as 'borne by' rather than 'charged to'.",
+        "Meaning drift: 'Perangkat Daerah' should be translated as 'Regional Government Work Unit' (or equivalent), not 'Regional Apparatus'.",
+        "Meaning drift: 'pemberdayaan Perempuan dan Anak' should be 'empowerment of Women and Children' (plural), not 'Women and Child empowerment'.",
+        "Minor meaning drift: 'dianggarkan pada' is more accurately 'allocated/budgeted in' rather than 'budgeted to'.",
+        "Minor meaning drift: 'huruf a' should be 'letter a' (not capitalized as a defined term) and refers specifically to item (a) above."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Plt. KEPALA BAGIAN HUKUM DAN HAM\" refers to the Acting Head of the Legal and Human Rights Section/Division, not \"Acting HEAD OF LEGAL AND HUMAN RIGHTS DIVISION\" (missing \"Section/Head of Section\" nuance).",
+        "Meaning drift: \"Salinan Sesuai Bunyi Aslinya\" is more accurately \"Copy in accordance with the original wording\"; current translation is slightly off. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Penata Tk.I\" is a civil-service rank \"Penata Tingkat I\" and should not be translated as \"Administrator Level I\"; keep the rank term accurately (or transliterate) while preserving the grade III.d."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Rumah Aman\" translated as \"Safe Houses\" (plural) whereas the original is singular \"Rumah Aman\" (a Safe House)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Paragraph (2): lettered items a–d are not separated; item b has no content and needs to be preserved as an empty/unspecified item as in the source.",
+        "Meaning drift risk from list formatting: 'Huruf a/b/c/d' should be rendered as separate lettered sub-items under Paragraph (2)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"soialisasi\" should be translated as \"socialization\"/\"outreach\"; current \"Socialization\" is acceptable but the sentence structure omits that the explanations are provided \"to the public\" (needs clearer attachment).",
+        "Meaning drift/terminology: \"Anak Daerah\" refers to children in the region/area (local children), not \"Regional Children\".",
+        "Minor meaning drift: \"Cukup jelas\" is a legal drafting phrase meaning \"Sufficiently clear\"/\"Self-explanatory\"; keep but ensure it reflects the standard meaning (no change needed beyond consistency)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 80,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 81,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 82,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"diprioritaskan pada\" should be translated as \"priority is given to\" (not \"is prioritized to\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 83,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 84,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 85,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 86,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 87,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 88,
+      "action_required": true,
+      "issues": [
+        "Leftover non-translated header text: \"JDIH KABUPATEN PASANGKAYU\" should be translated or removed; leaving it in Indonesian is meaning drift for an English-only legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 89,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 90,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 91,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 92,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 93,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 94,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_BARAT_PASANGKAYU.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.813685+00:00",
+  "prompt_version": "v1"
+}

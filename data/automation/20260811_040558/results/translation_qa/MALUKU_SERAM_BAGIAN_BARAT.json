@@ -1,0 +1,647 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 80,
+  "chunks_corrected": 29,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the phrase \"Dengan Persetujuan Bersama\" at the end of the original is left incomplete in English as \"With Mutual Approval\" without indicating approval by whom; the translation should preserve the original phrase as a standalone clause if the approving parties are not provided in the source excerpt."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo not reflected: 'Penyeenggaraan' should be rendered as 'administration/implementation' (translation ok) but 'Pemerintah Daerah adalah Penyeenggaraan Urusan Pemerintahan' is mistranslated as 'Regional Government is the Implementation...' instead of defining 'Regional Government' as the administration of governmental affairs (i.e., the act/process), not the institution; needs clearer equivalence.",
+        "Incomplete translation: '(3) Bupati adalah Bupati Seram' is incomplete in English; should specify 'Regent of Seram' (missing 'of' at end punctuation/closure)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in (4): 'Kabupaten Seram Bagian Barat' should be 'West Seram Regency' (not 'West Seram Regency'/'West Seram Regency' is fine) but the Indonesian is 'Kabupaten Seram Bagian Barat' (West Seram Regency) — OK; however the heading 'Bagian Barat.' is left as 'Western Part.' which is ambiguous and likely should refer to 'West Seram' context.",
+        "Scrambled/incorrect list formatting in (37): item 'f.' is merged into item 'e.' on the same line; list markers should be separated and in order.",
+        "Meaning drift/term inconsistency: (29) Indonesian defines 'Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak' but translation abbreviates it as 'LPPA'; in the original, the abbreviation for that center is inconsistent/likely intended 'P2TP2A' while LPPA is used earlier for 'Lembaga ... (LPPA)'; to match the source text as given, keep 'LPPA' but ensure the definition is clearly for the Integrated Service Center, not the earlier institution (potential ambiguity)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal meaning in item g: 'determine their own decisions' should reflect 'determine their own decision(s)' (make their own decisions)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Regional government\" should be \"Regional Government\" (proper noun referring to Pemerintah Daerah)",
+        "Meaning drift/grammar: \"and or\" should be rendered as \"and/or\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Bupati' should be translated as 'Regent Regulation' or 'Regent's Regulation' consistently; current 'Regent Regulation' is acceptable, but 'shall be regulated by Regent Regulation' is awkward and slightly shifts meaning—should be 'shall be stipulated by a Regent Regulation' to match 'diatur dengan'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: item (b) renders \"yang adalah bagian dari anggota keluarganya\" awkwardly as \"who are part of their family members\"; should mean victims who are part of the family."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Leftover Indonesian heading marker \"BAB IV\" not translated; should be rendered as \"CHAPTER IV\" to keep the English text purely translated legal text.",
+        "Meaning drift: \"PENYELENGGARAAN\" is closer to \"Administration/Implementation/Organization\"; translation is acceptable, but the remaining Indonesian marker makes the section inconsistent as an English translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear list structure: items a–d are not cleanly separated; item b runs into item c without proper separation.",
+        "Minor meaning/term drift: \"socialization\" should be rendered as dissemination/outreach of laws and regulations (sosialisasi peraturan perundang-undangan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Kecamatan, Desa' should be 'the Subdistrict, the Village' (not treated as proper names).",
+        "Meaning drift/grammar: 'diatur dengan peraturan Bupati' should be 'regulated by a Regent Regulation' (missing article and incorrect phrasing 'Regent regulation')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: 'which is conducted' incorrectly refers to the institutions; the original states coordination is carried out once every 3 months."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item d: original states 'pencegahan dan penanganan' (prevention and handling/response), but translation renders 'prevention and protect'.",
+        "Minor meaning drift in item b: 'pembukaan aksesibilitas' is better rendered as 'opening access' rather than 'opening accessibility'.",
+        "Punctuation/structure: missing semicolon after item e (items a–e use semicolons; e should end with ';' before f)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item g: \"ketenteraman dan ketertiban\" should be \"tranquility and public order,\" not \"peace and order.\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regent's Regulation\"; current \"Regent Regulation\" is acceptable, but missing the definite article \"a\" and could imply a generic regulation rather than a specific type of regulation. Use \"a Regent Regulation\" to match Indonesian meaning of being regulated by a Regent Regulation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"repatriation services\" for \"pelayanan pemulangan\" is inaccurate in this context; should be \"return services\"/\"services for returning\".",
+        "Meaning drift: \"Regent Regulation\" should be \"Regent's Regulation\" (Peraturan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'pelayanan sosial' was translated as 'social services' but the original refers to 'pelayanan sosial' in connection with paragraph (2) which is about providing a recovery house/safe house; the translation should reflect 'social services' only if present—here it should refer to services related to recovery/safe house provision, not introduce a new category.",
+        "Meaning drift/terminology: 'Peraturan Bupati' should be translated as 'Regent Regulation' or 'Regent's Regulation'; current phrasing 'Regent Regulation' is acceptable but missing the definite article and possessive nuance; adjust to standard legal rendering."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: paragraph (3) is incorrectly merged into paragraph (2); missing line break/structure for (3)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in list item (2)(c): \"pemerintah kabupaten/Kabupaten lain\" should be \"regency government/other regency governments\" (not \"district/other District government\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2)(a): 'Pemberitahuan informasi' means notification/provision of information, not 'Provision of information' alone; clarify as notification of information on job opportunities.",
+        "Minor list/formatting issue: list items b. and c. run together on one line; separate to preserve structure. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Perangkat Daerah' should be plural ('Regional Apparatuses' / 'Regional Government Apparatus') to match the Indonesian plural subject."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Perangkat Daerah\" translated as \"Regional Government\" in paragraph (3), inconsistent with paragraph (1) and not faithful to the original (should remain \"Regional Apparatus\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"kelurahan\" was translated as \"sub-district\"; it should be \"urban village\" (kelurahan) and \"village\" (desa)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"lembaga swadaya masyarakat\" should be translated as \"non-governmental institutions/organizations (LSM)\"; current translation uses \"non-governmental organizations\" which can be acceptable, but \"implement Protection\" is awkward and risks shifting meaning from \"carry out the protection\"; also \"PerlindunganPerempuan\" missing space in source should be rendered as \"Protection of Women and Children\".",
+        "Minor meaning/grammar: paragraph (2) should clearly state the assistance is provided according to regional financial capacity and carried out per laws; current comma splice slightly obscures the clause structure. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: subject-verb agreement and plurality changed (\"LPPA\" singular in source; translation uses plural \"LPPA that already exist\" and \"their duties\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kabupaten Seram\" translated as \"Seram Regency\"; should be \"Seram District\" to match the original administrative term \"Kabupaten\".",
+        "Minor meaning/grammar issue: \"Agar setiap orang mengetahuinya\" better rendered as \"In order that everyone may know\" (not \"shall know of it\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Kabupaten Seram Bagian Barat' refers to 'West Seram Regency' (Seram Bagian Barat), not 'West Seram Regency' (Seram Barat) — should be 'West Seram Part Regency'/'West Seram (Western Part) Regency' to reflect the official name.",
+        "Meaning drift: 'Penata TK I' is a civil-service rank and should be translated (or at least clarified) rather than left in Indonesian."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in definition: 'with or without the use of means' should be 'with or without using instruments/means' and 'against physical and psychological aspects' should be 'against the physical and psychological (integrity)' to match 'terhadap fisik dan psikis'.",
+        "Minor meaning/term accuracy: 'West Seram Regency' should reflect 'Kabupaten Seram Bagian Barat' as 'West Seram Part Regency' is uncommon; standard is 'West Seram Regency', but 'SBB Regency' later should be consistent with 'West Seram Regency (SBB)' to avoid ambiguity in downstream evaluation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: for Number 25, the original says only \"Angka 25\" (no \"Cukup Jelas\"), but the translation omits this standalone item and runs directly into Number 26.",
+        "Scrambled/unclear list structure: items are run together in one paragraph; Number 25 should appear as its own item, and the sequence should be clearly separated to preserve the original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear list structure: lettered items (a–e) run together without clear separation, risking downstream parsing errors."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "MALUKU_SERAM_BAGIAN_BARAT.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.762768+00:00",
+  "prompt_version": "v1"
+}

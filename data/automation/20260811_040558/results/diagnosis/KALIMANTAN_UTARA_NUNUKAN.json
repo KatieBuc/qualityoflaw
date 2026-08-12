@@ -1,0 +1,435 @@
+{
+  "diagnoses": {
+    "4.1": {
+      "indicator": "Information and education about VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+      "evaluator_rationale": "The policy explicitly includes preventive activities involving socialization about relevant laws/regulations and critical education on women’s and children’s rights as part of efforts to prevent violence against women and children.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 48,
+          "text": "Article 34\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. establishing a working network in efforts to prevent violence;\nc. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.77702934
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Nunukan.\n2. Regional Government is the Regional Government of Nunukan Regency.\n3. Regent is the Regent of Nunukan.\n4. Regional Work Unit, hereinafter abbreviated as SKPD, is an auxiliary element of the Regent and DPRD in the implementation of Government Affairs that are the authority of the Region.\n5. Technical Regional Work Unit, hereinafter referred to as technical SKPD, is a Regional Work Unit whose scope of duties and responsibilities includes the affairs of Women's Empowerment and/or Child Protection.\n6. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Woman is a human being of female sex and a person who is legally recognized as a woman.\n8. Women's Empowerment is every effort to improve physical, mental spiritual, social abilities, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n9. Fulfillment of Children's Rights is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n11. Victim is a woman and/or child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the Nunukan Regency area.\n12. Protection is all preventive actions, services and empowerment to protect and guarantee the rights of women and children from acts of violence.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n15. Empowerment is the strengthening of women victims of violence to be able to work and work independently after they are recovered and provided with health and social rehabilitation services.\n16. Health Rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles properly and normally both in the family and in society.\n17. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.\n18. Repatriation is an effort to return victims of violence from the regional area to their area of origin.\n19. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.\n20. Integrated Service Center, hereinafter abbreviated as PPT, is a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of human trafficking.",
+          "score": 0.680539
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThis Regional Regulation aims to:\na. guarantee the fulfillment of the rights of women and children;\nb. maintain the integrity of households in order to realize harmonious families;\nc. prevent violence against women and children;\nd. protect and provide a sense of security for women and children;\ne. provide services to women and children victims of acts of violence;\nf. provide protection to reporters and witnesses; and\ng. carry out empowerment of women victims of violence.",
+          "score": 0.54441386
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children",
+          "score": 0.53859496
+        },
+        {
+          "chunk_id": 69,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct socialization of women's and children's rights independently;\nc. provide first aid to victims; and\nd. report to the authorized agency if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, private sector and/or mass media.",
+          "score": 0.5347097
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 51\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women and children victims of violence shall be conducted at the end of each Fiscal year or if necessary according to needs.\n(2) The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and children victims of violence shall be used as input material for the formulation of policies, programs and activities for the protection of Women and children victims of violence for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.5113262
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 10\n(1) The implementation of women's empowerment in the field of law as referred to in Article 5 paragraph (2) includes:\n   a. increasing awareness and knowledge in the field of law through communication, information, and education services; and\n   b. facilitating access to and legal consultation services.\n(2) The implementation of women's empowerment in the field of law as referred to in paragraph (1) shall be carried out in accordance with the applicable laws and regulations.",
+          "score": 0.50156254
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 11\n(1) To implement Women's Empowerment as referred to in Article 6, the Regional Government shall organize gender mainstreaming including:\na. establishing the implementation of gender mainstreaming;\nb. coordinating, facilitating, and mediating gender mainstreaming;\nc. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd. implementing gender mainstreaming related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ne. improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nf. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ng. coordinating the implementation of improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nh. organizing the protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni. facilitating the integration of protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj. coordinating the protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities;\nk. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl. developing a gender-based information system; and\nm. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) Further provisions regarding the forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 60,
+          "text": "CHAPTER V\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nArticle 45\nEvery Woman and Child victim of violence receives the following rights:\na. the right to complaint handling;\nb. the right to have their dignity and worth as human beings respected;\nc. the right to obtain protection from family, community, regional government and/or other parties either temporarily or based on a protection order from the court;\nd. the right to health and psychological recovery from the suffering experienced by the victim;\ne. the right to determine their own decisions;\nf. the right to special handling related to the confidentiality of the victim;\ng. the right to obtain information;\nh. the right to confidentiality of their identity;\ni. the right to social rehabilitation;\nj. the right to assistance by social workers and legal aid at every level of the examination process in accordance with statutory regulations; and\nk. the right to spiritual guidance services.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 50\n(1) To ensure synergy, balance and effectiveness of integrated measures in the implementation of policies, programs, activities, protection of Women and children, the Government conducts monitoring.\n(2) Monitoring as referred to in paragraph (1) shall be implemented by the Technical SKPD and PPT.\n(3) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs and activities for the Protection of Women and children.\n(4) Monitoring shall be conducted periodically through coordination and direct monitoring of SKPDs that implement policies, activities for the protection of Women and children victims of violence.\n(5) Monitoring shall be conducted from planning through to implementation of policies, programs and activities for the protection of women and children every year.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NUNUKAN\nPROVINCE OF NORTH KALIMANTAN\nREGIONAL REGULATION OF NUNUKAN REGENCY\nNUMBER 17 YEAR 2015\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\nBY THE GRACE OF GOD ALMIGHTY\nREGENT OF NUNUKAN,\n\nConsidering : In View of :\n\na. that the right of every citizen to be free from torture or treatment that degrades human dignity and the right to obtain security and freedom from all forms of violence;\n\nb. that all forms of acts of violence against women and children constitute violations of human rights so that their honor and dignity need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\n\nc. that laws and regulations governing the protection of women and children victims of violence have not yet regulated protection efforts in the Region so that institutional support and regulations are needed that can guarantee its implementation;\n\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation of Nunukan Regency concerning the Implementation of Protection for Women and Children;",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 37\nForms of handling for women and children victims of violence include:\na. complaint services, consultation, and counseling;\nb. assistance services;\nc. medical rehabilitation services;\nd. social rehabilitation services;\ne. legal services; and\nf. social reintegration services.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 36\nThe implementation of handling for women and children who are victims of violence is carried out in a manner that is:\na. prompt;\nb. safe and comfortable;\nc. with a sense of empathy;\nd. non-discriminatory;\ne. easily accessible;\nf. free of charge; and\ng. with confidentiality guaranteed.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 50,
+          "text": "Fifth Part\nHandling of Women and Children Victims of Violence",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 46\nWomen and children victims of violence, in addition to receiving the rights as referred to in Article 45, also receive special rights, as follows:\na. right to survival;\nb. right to grow and develop;\nc. right to receive equal protection; and\nd. right to participate in community life.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 59,
+          "text": "CHAPTER IV\nINTEGRATED SERVICE CENTER\nArticle 44\n(1) The provision of services to women and children victims of violence shall be carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) is an integrated part and constitutes one entity with the PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.\n(3) The provision of services to women and children victims of violence as referred to in paragraph (1) includes: a. providing fast and free services to victims; b. providing protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperating with certain institutions in providing translators and volunteer assistants required for victims;\nd. establishing networks with government or private hospitals for treatment and health recovery of victims and cooperating with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for the health recovery of victims;\ne. providing convenience, comfort and safety for victims;\nf. maintaining the confidentiality of victims; and\ng. providing fulfillment of legal assistance for victims.\n(4) Further provisions regarding the procedures and mechanisms for implementing the PPT shall be regulated by Regent Regulation.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nOther violence as referred to in Article 27 letter f is caused by:\na. threat of violence includes: any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes: a situation where a person/victim is ordered to do something in such a way that the person does something contrary to their own will.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 6,
+          "text": "BAB III\nPROTECTION OF WOMEN AND CHILDREN\nFirst Section\nWomen's Empowerment",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 5\n(1) In order to enhance the position, role, and quality of women, as well as efforts to realize gender equality and justice in family life, society, nation, and state, women must be empowered.\n(2) The empowerment of women as referred to in paragraph (1) is directed towards obtaining opportunities and their rights as human beings, so that they are able to play a role and participate in economic, socio-cultural, political, and legal activities.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\nEvery Woman has the right:\na. to life and the right to maintain her life and existence;\nb. to form a family and continue descendants through legal marriage;\nc. to develop herself through the fulfillment of her basic needs;\nd. to obtain education and benefit from science and technology, arts and culture, in order to improve the quality of her life and for the welfare of humankind;\ne. to advance herself in fighting for her rights collectively to build society, nation and state;\nf. to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law;\ng. to work and receive fair and proper remuneration and treatment in employment relations;\nh. to obtain equal opportunities in government;\ni. to freedom of association, assembly and expression of opinion;\nj. to protection of her person, family, honor, dignity and property under her control, and the right to a sense of security and protection from threats of fear to do or not do something which is a basic right;\nk. to be free from torture or treatment that degrades human dignity and the right to obtain political asylum from other countries;\nl. to live in physical and spiritual prosperity, to reside and obtain a good and healthy living environment, and the right to obtain health services;\nm. to social security that enables her full development as a dignified human being;\nn. to equality of position in law and government;\no. to work and a livelihood worthy of humanity;\np. in efforts to defend the state;\nq. to communicate and obtain information to develop her personal and social environment, and the right to seek, obtain, possess, store, process, and convey information using all types of available channels;\nr. to embrace her respective religion and to worship according to her religion and beliefs; and\ns. to obtain education.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 8\nEmpowerment of women in the social and cultural field as referred to in Article 5 paragraph (2) shall be implemented through:\na. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe Protection of Women and Children is implemented based on the principles of:\na. respect and protection of Human Rights;\nb. justice and gender equality;\nc. non-discrimination;\nd. best interests of the Child;\ne. right to life, survival, and development;\nf. empowerment; and\ng. legal certainty.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 27\nForms of violence include:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 30\nSexual violence as referred to in Article 27 letter c is caused by:\na. acts in the form of sexual harassment;\nb. forced sexual intercourse;\nc. forced sexual intercourse in an unnatural or unwanted manner; and/or\nd. forced sexual intercourse with another person for commercial purposes and/or specific purposes.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 24\n(1) The implementation of Protection and empowerment of children in the field of social welfare as referred to in Article 13 letter d, the Regional Government is obligated to provide social welfare for:\na. children in conflict with the law;\nb. child victims of violence who are exploited economically and sexually, neglected children, child victims of kidnapping and child victims of human trafficking;\nc. child victims of narcotics abuse, alcohol, psychotropic substances and other addictive substances (NAPZA);\nd. children infected with HIV/AIDS;\ne. children who do not have parents and are cared for by other parties or families who are unable;\nf. street children;\ng. child victims of natural disasters or social disasters;\nh. children with disabilities;\ni. children of migrant worker families;\nj. children living in or around prostitution locations; and\nk. child victims of other maltreatment.\n(2) Social welfare as referred to in paragraph (1) may be in the form of provision of services:\na. health;\nb. education;\nc. legal aid;\nd. assistance;\ne. social, mental and spiritual guidance;\nf. social rehabilitation;\ng. empowerment;\nh. social assistance; and/or\ni. reintegration.",
+          "score": 0.35362908
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the original Indonesian text, Pasal 34 ayat (2) explicitly lists prevention actions including: \"melakukan sosialisasi mengenai peraturan perundang-undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan\" and \"memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat.\" This is directly “information/socialization and education” about violence against women and children (VAW/VAC) as a primary prevention measure. The retrieved English passage [4.1-48] accurately reflects this content, and the judge’s rationale matches the Indonesian provision. Therefore the golden label 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "f. providing critical education regarding the rights of women and children for the community.",
+      "evaluator_rationale": "Education is explicitly included as part of the listed prevention efforts for violence against women and children, through the provision of critical education regarding the rights of women and children for the community.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 48,
+          "text": "Article 34\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. establishing a working network in efforts to prevent violence;\nc. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.7988781
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThis Regional Regulation aims to:\na. guarantee the fulfillment of the rights of women and children;\nb. maintain the integrity of households in order to realize harmonious families;\nc. prevent violence against women and children;\nd. protect and provide a sense of security for women and children;\ne. provide services to women and children victims of acts of violence;\nf. provide protection to reporters and witnesses; and\ng. carry out empowerment of women victims of violence.",
+          "score": 0.67026305
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Nunukan.\n2. Regional Government is the Regional Government of Nunukan Regency.\n3. Regent is the Regent of Nunukan.\n4. Regional Work Unit, hereinafter abbreviated as SKPD, is an auxiliary element of the Regent and DPRD in the implementation of Government Affairs that are the authority of the Region.\n5. Technical Regional Work Unit, hereinafter referred to as technical SKPD, is a Regional Work Unit whose scope of duties and responsibilities includes the affairs of Women's Empowerment and/or Child Protection.\n6. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Woman is a human being of female sex and a person who is legally recognized as a woman.\n8. Women's Empowerment is every effort to improve physical, mental spiritual, social abilities, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n9. Fulfillment of Children's Rights is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n11. Victim is a woman and/or child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the Nunukan Regency area.\n12. Protection is all preventive actions, services and empowerment to protect and guarantee the rights of women and children from acts of violence.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n15. Empowerment is the strengthening of women victims of violence to be able to work and work independently after they are recovered and provided with health and social rehabilitation services.\n16. Health Rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles properly and normally both in the family and in society.\n17. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.\n18. Repatriation is an effort to return victims of violence from the regional area to their area of origin.\n19. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.\n20. Integrated Service Center, hereinafter abbreviated as PPT, is a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of human trafficking.",
+          "score": 0.6456563
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 46\nWomen and children victims of violence, in addition to receiving the rights as referred to in Article 45, also receive special rights, as follows:\na. right to survival;\nb. right to grow and develop;\nc. right to receive equal protection; and\nd. right to participate in community life.",
+          "score": 0.61286587
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children",
+          "score": 0.60542583
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 24\n(1) The implementation of Protection and empowerment of children in the field of social welfare as referred to in Article 13 letter d, the Regional Government is obligated to provide social welfare for:\na. children in conflict with the law;\nb. child victims of violence who are exploited economically and sexually, neglected children, child victims of kidnapping and child victims of human trafficking;\nc. child victims of narcotics abuse, alcohol, psychotropic substances and other addictive substances (NAPZA);\nd. children infected with HIV/AIDS;\ne. children who do not have parents and are cared for by other parties or families who are unable;\nf. street children;\ng. child victims of natural disasters or social disasters;\nh. children with disabilities;\ni. children of migrant worker families;\nj. children living in or around prostitution locations; and\nk. child victims of other maltreatment.\n(2) Social welfare as referred to in paragraph (1) may be in the form of provision of services:\na. health;\nb. education;\nc. legal aid;\nd. assistance;\ne. social, mental and spiritual guidance;\nf. social rehabilitation;\ng. empowerment;\nh. social assistance; and/or\ni. reintegration.",
+          "score": 0.5904014
+        },
+        {
+          "chunk_id": 69,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct socialization of women's and children's rights independently;\nc. provide first aid to victims; and\nd. report to the authorized agency if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, private sector and/or mass media.",
+          "score": 0.5598677
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe Protection of Women and Children is implemented based on the principles of:\na. respect and protection of Human Rights;\nb. justice and gender equality;\nc. non-discrimination;\nd. best interests of the Child;\ne. right to life, survival, and development;\nf. empowerment; and\ng. legal certainty.",
+          "score": 0.5540844
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 11\n(1) To implement Women's Empowerment as referred to in Article 6, the Regional Government shall organize gender mainstreaming including:\na. establishing the implementation of gender mainstreaming;\nb. coordinating, facilitating, and mediating gender mainstreaming;\nc. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd. implementing gender mainstreaming related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ne. improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nf. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ng. coordinating the implementation of improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nh. organizing the protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni. facilitating the integration of protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj. coordinating the protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities;\nk. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl. developing a gender-based information system; and\nm. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) Further provisions regarding the forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.53665286
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 36\nThe implementation of handling for women and children who are victims of violence is carried out in a manner that is:\na. prompt;\nb. safe and comfortable;\nc. with a sense of empathy;\nd. non-discriminatory;\ne. easily accessible;\nf. free of charge; and\ng. with confidentiality guaranteed.",
+          "score": 0.5249792
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 51\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women and children victims of violence shall be conducted at the end of each Fiscal year or if necessary according to needs.\n(2) The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and children victims of violence shall be used as input material for the formulation of policies, programs and activities for the protection of Women and children victims of violence for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.52108127
+        },
+        {
+          "chunk_id": 50,
+          "text": "Fifth Part\nHandling of Women and Children Victims of Violence",
+          "score": 0.5191313
+        },
+        {
+          "chunk_id": 6,
+          "text": "BAB III\nPROTECTION OF WOMEN AND CHILDREN\nFirst Section\nWomen's Empowerment",
+          "score": 0.5093739
+        },
+        {
+          "chunk_id": 60,
+          "text": "CHAPTER V\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nArticle 45\nEvery Woman and Child victim of violence receives the following rights:\na. the right to complaint handling;\nb. the right to have their dignity and worth as human beings respected;\nc. the right to obtain protection from family, community, regional government and/or other parties either temporarily or based on a protection order from the court;\nd. the right to health and psychological recovery from the suffering experienced by the victim;\ne. the right to determine their own decisions;\nf. the right to special handling related to the confidentiality of the victim;\ng. the right to obtain information;\nh. the right to confidentiality of their identity;\ni. the right to social rehabilitation;\nj. the right to assistance by social workers and legal aid at every level of the examination process in accordance with statutory regulations; and\nk. the right to spiritual guidance services.",
+          "score": 0.50546855
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NUNUKAN\nPROVINCE OF NORTH KALIMANTAN\nREGIONAL REGULATION OF NUNUKAN REGENCY\nNUMBER 17 YEAR 2015\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\nBY THE GRACE OF GOD ALMIGHTY\nREGENT OF NUNUKAN,\n\nConsidering : In View of :\n\na. that the right of every citizen to be free from torture or treatment that degrades human dignity and the right to obtain security and freedom from all forms of violence;\n\nb. that all forms of acts of violence against women and children constitute violations of human rights so that their honor and dignity need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\n\nc. that laws and regulations governing the protection of women and children victims of violence have not yet regulated protection efforts in the Region so that institutional support and regulations are needed that can guarantee its implementation;\n\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation of Nunukan Regency concerning the Implementation of Protection for Women and Children;",
+          "score": 0.4996094
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 37\nForms of handling for women and children victims of violence include:\na. complaint services, consultation, and counseling;\nb. assistance services;\nc. medical rehabilitation services;\nd. social rehabilitation services;\ne. legal services; and\nf. social reintegration services.",
+          "score": 0.49375033
+        },
+        {
+          "chunk_id": 59,
+          "text": "CHAPTER IV\nINTEGRATED SERVICE CENTER\nArticle 44\n(1) The provision of services to women and children victims of violence shall be carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) is an integrated part and constitutes one entity with the PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.\n(3) The provision of services to women and children victims of violence as referred to in paragraph (1) includes: a. providing fast and free services to victims; b. providing protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperating with certain institutions in providing translators and volunteer assistants required for victims;\nd. establishing networks with government or private hospitals for treatment and health recovery of victims and cooperating with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for the health recovery of victims;\ne. providing convenience, comfort and safety for victims;\nf. maintaining the confidentiality of victims; and\ng. providing fulfillment of legal assistance for victims.\n(4) Further provisions regarding the procedures and mechanisms for implementing the PPT shall be regulated by Regent Regulation.",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 50\n(1) To ensure synergy, balance and effectiveness of integrated measures in the implementation of policies, programs, activities, protection of Women and children, the Government conducts monitoring.\n(2) Monitoring as referred to in paragraph (1) shall be implemented by the Technical SKPD and PPT.\n(3) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs and activities for the Protection of Women and children.\n(4) Monitoring shall be conducted periodically through coordination and direct monitoring of SKPDs that implement policies, activities for the protection of Women and children victims of violence.\n(5) Monitoring shall be conducted from planning through to implementation of policies, programs and activities for the protection of women and children every year.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 28,
+          "text": "Paragraph 4\nEducation",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 10\n(1) The implementation of women's empowerment in the field of law as referred to in Article 5 paragraph (2) includes:\n   a. increasing awareness and knowledge in the field of law through communication, information, and education services; and\n   b. facilitating access to and legal consultation services.\n(2) The implementation of women's empowerment in the field of law as referred to in paragraph (1) shall be carried out in accordance with the applicable laws and regulations.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 8\nEmpowerment of women in the social and cultural field as referred to in Article 5 paragraph (2) shall be implemented through:\na. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\nEvery education unit organizer is obligated to coordinate with relevant child protection agencies if they find a child dropping out of school due to being a victim of violence.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\nEvery Woman has the right:\na. to life and the right to maintain her life and existence;\nb. to form a family and continue descendants through legal marriage;\nc. to develop herself through the fulfillment of her basic needs;\nd. to obtain education and benefit from science and technology, arts and culture, in order to improve the quality of her life and for the welfare of humankind;\ne. to advance herself in fighting for her rights collectively to build society, nation and state;\nf. to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law;\ng. to work and receive fair and proper remuneration and treatment in employment relations;\nh. to obtain equal opportunities in government;\ni. to freedom of association, assembly and expression of opinion;\nj. to protection of her person, family, honor, dignity and property under her control, and the right to a sense of security and protection from threats of fear to do or not do something which is a basic right;\nk. to be free from torture or treatment that degrades human dignity and the right to obtain political asylum from other countries;\nl. to live in physical and spiritual prosperity, to reside and obtain a good and healthy living environment, and the right to obtain health services;\nm. to social security that enables her full development as a dignified human being;\nn. to equality of position in law and government;\no. to work and a livelihood worthy of humanity;\np. in efforts to defend the state;\nq. to communicate and obtain information to develop her personal and social environment, and the right to seek, obtain, possess, store, process, and convey information using all types of available channels;\nr. to embrace her respective religion and to worship according to her religion and beliefs; and\ns. to obtain education.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 68,
+          "text": "CHAPTER IX\nGUIDANCE AND SUPERVISION\nArticle 53\n(1) The Regent conducts guidance and supervision over the implementation of this regional regulation.\n(2) Guidance and supervision as referred to in paragraph (1) includes providing implementation instructions, guidance, supervision, monitoring and evaluation of the Implementation of Protection of Women and Children.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 5\n(1) In order to enhance the position, role, and quality of women, as well as efforts to realize gender equality and justice in family life, society, nation, and state, women must be empowered.\n(2) The empowerment of women as referred to in paragraph (1) is directed towards obtaining opportunities and their rights as human beings, so that they are able to play a role and participate in economic, socio-cultural, political, and legal activities.",
+          "score": 0.42403036
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian policy clearly includes education as a prevention strategy. Pasal 34 ayat (2) huruf f states: \"memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat\" as part of \"Upaya pencegahan kekerasan terhadap perempuan dan anak\". The retrieved candidate [4.4-48] contains this exact point in English, and the judge correctly relied on it. Thus the golden label 'No' is likely wrong for this indicator.",
+      "diagnosis_status": "ok"
+    },
+    "6.11": {
+      "indicator": "Domestic workers",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(2) Child Workers in the informal sector as referred to in paragraph (1) include: a domestic workers;",
+      "evaluator_rationale": "The policy explicitly includes domestic workers within the category of child workers in the informal sector, for whom the regional government is obligated to protect rights, indicating targeted measures for domestic workers (in this context, child domestic workers).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 37,
+          "text": "Article 25\n(1) Regional Government is obligated to protect the fulfillment of the rights of child workers in the informal sector.\n(2) Child Workers in the informal sector as referred to in paragraph (1) include: a domestic workers;\nb shoe shiners;\nc street vendors;\nd scavengers;\ne parking attendants;\nf children who work in the field of agriculture, livestock and plantations;\ng children who work in the field of mining; and h other informal sector work that employs children.\n(3) Every person who employs children in the informal sector is obligated to observe the requirements: a minimum age of 15 (fifteen) years, except for the category of Worst Forms of Child Labor minimum 18 (eighteen) years;\nb obtain written consent from the parent/guardian of the child worker;\nc have a written work agreement between the employer and the parent/guardian of the child worker and obtain validation from the authorized agency;\nd not employed at night;\ne working time of maximum 3 (three) hours per day;\nf not employed in a place or environment that can disrupt the child's growth and development process, whether physical, mental, moral and intellectual or the child's health;\ng provide opportunities to obtain education in accordance with their talents and interests;\nh employ for light types of work; and\ni provide one day off per week.",
+          "score": 0.70464814
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 11\n(1) To implement Women's Empowerment as referred to in Article 6, the Regional Government shall organize gender mainstreaming including:\na. establishing the implementation of gender mainstreaming;\nb. coordinating, facilitating, and mediating gender mainstreaming;\nc. facilitating institutional strengthening and development of gender mainstreaming mechanisms in government institutions, women's study centers, research and development institutions, non-governmental institutions;\nd. implementing gender mainstreaming related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ne. improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nf. integrating efforts to improve the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\ng. coordinating the implementation of improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nh. organizing the protection of women especially protection for victims of violence, female workers, elderly women, and women with disabilities, in conflict areas and disaster-affected areas;\ni. facilitating the integration of protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities, in conflict areas and disaster-affected areas;\nj. coordinating the protection of women especially protection for victims of violence, female workers, elderly women and women with disabilities;\nk. facilitating the strengthening and development of networks of community institutions or organizations and the business sector for the implementation of gender mainstreaming;\nl. developing a gender-based information system; and\nm. providing and organizing integrated or non-integrated services for women victims of violence, female workers, elderly women, and women with disabilities.\n(2) Further provisions regarding the forms of women's empowerment and gender mainstreaming mechanisms as referred to in paragraph (1) shall be regulated by Regent Regulation.",
+          "score": 0.5540844
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency Region of Nunukan.\n2. Regional Government is the Regional Government of Nunukan Regency.\n3. Regent is the Regent of Nunukan.\n4. Regional Work Unit, hereinafter abbreviated as SKPD, is an auxiliary element of the Regent and DPRD in the implementation of Government Affairs that are the authority of the Region.\n5. Technical Regional Work Unit, hereinafter referred to as technical SKPD, is a Regional Work Unit whose scope of duties and responsibilities includes the affairs of Women's Empowerment and/or Child Protection.\n6. Child is a person who has not yet reached the age of 18 (eighteen) years, including a child still in the womb.\n7. Woman is a human being of female sex and a person who is legally recognized as a woman.\n8. Women's Empowerment is every effort to improve physical, mental spiritual, social abilities, knowledge, and skills so that women are ready to be utilized according to their respective abilities.\n9. Fulfillment of Children's Rights is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n10. Violence is any act that results in misery or suffering whether physical, sexual, psychological, and/or domestic neglect including threats to commit acts, coercion, or unlawful deprivation of a person's freedom.\n11. Victim is a woman and/or child who experiences misery and/or suffering either directly or indirectly as a result of violence occurring in the Nunukan Regency area.\n12. Protection is all preventive actions, services and empowerment to protect and guarantee the rights of women and children from acts of violence.\n13. Prevention is activities carried out to prevent the occurrence of acts of violence against women and children.\n14. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against victims will, is or has occurred.\n15. Empowerment is the strengthening of women victims of violence to be able to work and work independently after they are recovered and provided with health and social rehabilitation services.\n16. Health Rehabilitation is an effort to restore the condition of victims including physical, psychological and social health so that victims can carry out their roles properly and normally both in the family and in society.\n17. Social rehabilitation is a service aimed at restoring and developing the ability of a person who experiences social dysfunction so that they can carry out their social functions normally.\n18. Repatriation is an effort to return victims of violence from the regional area to their area of origin.\n19. Social reintegration is an effort to reunite victims with family, substitute family or community that can provide protection and fulfillment of needs for victims.\n20. Integrated Service Center, hereinafter abbreviated as PPT, is a unit that organizes integrated services for victims of violence and is integrated with PPT that organizes integrated services for witnesses and/or victims of criminal acts of human trafficking.",
+          "score": 0.4976563
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThis Regional Regulation aims to:\na. guarantee the fulfillment of the rights of women and children;\nb. maintain the integrity of households in order to realize harmonious families;\nc. prevent violence against women and children;\nd. protect and provide a sense of security for women and children;\ne. provide services to women and children victims of acts of violence;\nf. provide protection to reporters and witnesses; and\ng. carry out empowerment of women victims of violence.",
+          "score": 0.4976563
+        },
+        {
+          "chunk_id": 48,
+          "text": "Article 34\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government and coordinated by the technical SKPD.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. conducting guidance towards harmonious household integrity;\nb. establishing a working network in efforts to prevent violence;\nc. conducting coordination, integration, synchronization of violence prevention based on partnership patterns;\nd. establishing a violence prevention system;\ne. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence; and\nf. providing critical education regarding the rights of women and children for the community.",
+          "score": 0.48203897
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 4\nEvery Woman has the right:\na. to life and the right to maintain her life and existence;\nb. to form a family and continue descendants through legal marriage;\nc. to develop herself through the fulfillment of her basic needs;\nd. to obtain education and benefit from science and technology, arts and culture, in order to improve the quality of her life and for the welfare of humankind;\ne. to advance herself in fighting for her rights collectively to build society, nation and state;\nf. to recognition, guarantee, protection and fair legal certainty as well as equal treatment before the law;\ng. to work and receive fair and proper remuneration and treatment in employment relations;\nh. to obtain equal opportunities in government;\ni. to freedom of association, assembly and expression of opinion;\nj. to protection of her person, family, honor, dignity and property under her control, and the right to a sense of security and protection from threats of fear to do or not do something which is a basic right;\nk. to be free from torture or treatment that degrades human dignity and the right to obtain political asylum from other countries;\nl. to live in physical and spiritual prosperity, to reside and obtain a good and healthy living environment, and the right to obtain health services;\nm. to social security that enables her full development as a dignified human being;\nn. to equality of position in law and government;\no. to work and a livelihood worthy of humanity;\np. in efforts to defend the state;\nq. to communicate and obtain information to develop her personal and social environment, and the right to seek, obtain, possess, store, process, and convey information using all types of available channels;\nr. to embrace her respective religion and to worship according to her religion and beliefs; and\ns. to obtain education.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 60,
+          "text": "CHAPTER V\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE\nArticle 45\nEvery Woman and Child victim of violence receives the following rights:\na. the right to complaint handling;\nb. the right to have their dignity and worth as human beings respected;\nc. the right to obtain protection from family, community, regional government and/or other parties either temporarily or based on a protection order from the court;\nd. the right to health and psychological recovery from the suffering experienced by the victim;\ne. the right to determine their own decisions;\nf. the right to special handling related to the confidentiality of the victim;\ng. the right to obtain information;\nh. the right to confidentiality of their identity;\ni. the right to social rehabilitation;\nj. the right to assistance by social workers and legal aid at every level of the examination process in accordance with statutory regulations; and\nk. the right to spiritual guidance services.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 59,
+          "text": "CHAPTER IV\nINTEGRATED SERVICE CENTER\nArticle 44\n(1) The provision of services to women and children victims of violence shall be carried out in an integrated manner by the PPT.\n(2) The PPT as referred to in paragraph (1) is an integrated part and constitutes one entity with the PPT that provides integrated services for witnesses and/or victims of criminal acts of human trafficking.\n(3) The provision of services to women and children victims of violence as referred to in paragraph (1) includes: a. providing fast and free services to victims; b. providing protection and fulfillment of victims' rights to health rehabilitation, social rehabilitation, repatriation, social reintegration and legal assistance;\nc. cooperating with certain institutions in providing translators and volunteer assistants required for victims;\nd. establishing networks with government or private hospitals for treatment and health recovery of victims and cooperating with witness and victim protection institutions, social protection houses or trauma centers owned by the government, community or other institutions for the health recovery of victims;\ne. providing convenience, comfort and safety for victims;\nf. maintaining the confidentiality of victims; and\ng. providing fulfillment of legal assistance for victims.\n(4) Further provisions regarding the procedures and mechanisms for implementing the PPT shall be regulated by Regent Regulation.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 24\n(1) The implementation of Protection and empowerment of children in the field of social welfare as referred to in Article 13 letter d, the Regional Government is obligated to provide social welfare for:\na. children in conflict with the law;\nb. child victims of violence who are exploited economically and sexually, neglected children, child victims of kidnapping and child victims of human trafficking;\nc. child victims of narcotics abuse, alcohol, psychotropic substances and other addictive substances (NAPZA);\nd. children infected with HIV/AIDS;\ne. children who do not have parents and are cared for by other parties or families who are unable;\nf. street children;\ng. child victims of natural disasters or social disasters;\nh. children with disabilities;\ni. children of migrant worker families;\nj. children living in or around prostitution locations; and\nk. child victims of other maltreatment.\n(2) Social welfare as referred to in paragraph (1) may be in the form of provision of services:\na. health;\nb. education;\nc. legal aid;\nd. assistance;\ne. social, mental and spiritual guidance;\nf. social rehabilitation;\ng. empowerment;\nh. social assistance; and/or\ni. reintegration.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 36\nThe implementation of handling for women and children who are victims of violence is carried out in a manner that is:\na. prompt;\nb. safe and comfortable;\nc. with a sense of empathy;\nd. non-discriminatory;\ne. easily accessible;\nf. free of charge; and\ng. with confidentiality guaranteed.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 1,
+          "text": "Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia of 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);\n3. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women [Convention on the Elimination of All Forms of Discrimination Against Women] (State Gazette of the Republic of Indonesia of 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);\n4. Law Number 20 of 1999 concerning Ratification of ILO Convention Number 138 Concerning Minimum Age for Admission to Employment [ILO Convention Concerning Minimum Age for Admission to Employment] (State Gazette of the Republic of Indonesia of 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Number 3835);\n5. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n6. Law Number 47 of 1999 concerning the Establishment of Nunukan Regency, Malinau Regency, West Kutai Regency, East Kutai Regency and Bontang City (State Gazette of the Republic of Indonesia of 1999 Number 175, Supplement to the State Gazette of the Republic of Indonesia Number 3896) as amended by Law Number 7 of 2000 concerning Amendment to Law Number 47 of 1999 (State Gazette of the Republic of Indonesia of 2000 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 3962);\n7. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour [ILO Convention Number 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour] (State Gazette of the Republic of Indonesia of 2000 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);\n8. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2000 Number 208, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n9. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n10. Law Number 13 of 2006 concerning Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64, Supplement to the State Gazette of the Republic of Indonesia Number 4635);\n11. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2009 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n12. Law Number 11 of 2009 concerning Social Welfare (State Gazette of the Republic of Indonesia of 2009 Number 12, Supplement to the State Gazette of the Republic of Indonesia Number 4967);\n13. Law Number 25 of 2009 concerning Public Services (State Gazette of the Republic of Indonesia of 2009 Number 112, Supplement to the State Gazette of the Republic of Indonesia Number 5038);\n14. Law Number 12 of 2011 concerning the Formulation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n15. Law Number 10 of 2012 concerning Ratification of the Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution and Child Pornography [Optional Protocol to the Convention on the Rights of the Child on the Sale of Children, Child Prostitution, and Child Pornography] (State Gazette of the Republic of Indonesia of 2012 Number 149, Supplement to the State Gazette of the Republic of Indonesia Number 5330);\n16. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679);\n17. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n18.\n19.\n20. Government Regulation Number 2 of 1988 concerning Social Welfare Efforts for Children with Problems (State Gazette of the Republic of Indonesia of 1988 Number 2, Supplement to the State Gazette of the Republic of Indonesia Number 3367);\n21. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n22. Regional Regulation of Nunukan Regency Number 15 of 2008 concerning Regional Government Affairs (Regional Gazette of Nunukan Regency of 2008 Number 15 Series D Number 04);\nWith Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF NUNUKAN REGENCY and",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 46\nWomen and children victims of violence, in addition to receiving the rights as referred to in Article 45, also receive special rights, as follows:\na. right to survival;\nb. right to grow and develop;\nc. right to receive equal protection; and\nd. right to participate in community life.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe Protection of Women and Children is implemented based on the principles of:\na. respect and protection of Human Rights;\nb. justice and gender equality;\nc. non-discrimination;\nd. best interests of the Child;\ne. right to life, survival, and development;\nf. empowerment; and\ng. legal certainty.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 47,
+          "text": "Part Four\nPrevention of Violence against Women and Children",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 65,
+          "text": "CHAPTER VII\nMONITORING AND EVALUATION\nArticle 50\n(1) To ensure synergy, balance and effectiveness of integrated measures in the implementation of policies, programs, activities, protection of Women and children, the Government conducts monitoring.\n(2) Monitoring as referred to in paragraph (1) shall be implemented by the Technical SKPD and PPT.\n(3) Monitoring as referred to in paragraph (1) is to determine the progress and obstacles in the implementation of policies, programs and activities for the Protection of Women and children.\n(4) Monitoring shall be conducted periodically through coordination and direct monitoring of SKPDs that implement policies, activities for the protection of Women and children victims of violence.\n(5) Monitoring shall be conducted from planning through to implementation of policies, programs and activities for the protection of women and children every year.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 31\nNeglect as referred to in Article 27 point d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or other parties responsible for their care;\nc. acts of neglecting a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting the victim from working properly inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 32\nExploitation as referred to in Article 27 letter e occurs due to:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others;\nb. acts which, with or without the consent of the victim, include among others prostitution, forced labor or services, slavery or similar practices, oppression, extortion, exploitation of the physical body, sexual organs, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues, or exploiting the labor or capabilities of a person by other parties to obtain material or immaterial benefits; and/or\nc. all forms of exploitation of the victim’s sexual organs or other body organs to obtain benefits, including but not limited to all activities of prostitution or indecent acts.",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NUNUKAN\nPROVINCE OF NORTH KALIMANTAN\nREGIONAL REGULATION OF NUNUKAN REGENCY\nNUMBER 17 YEAR 2015\nCONCERNING\nTHE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN\nBY THE GRACE OF GOD ALMIGHTY\nREGENT OF NUNUKAN,\n\nConsidering : In View of :\n\na. that the right of every citizen to be free from torture or treatment that degrades human dignity and the right to obtain security and freedom from all forms of violence;\n\nb. that all forms of acts of violence against women and children constitute violations of human rights so that their honor and dignity need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\n\nc. that laws and regulations governing the protection of women and children victims of violence have not yet regulated protection efforts in the Region so that institutional support and regulations are needed that can guarantee its implementation;\n\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation of Nunukan Regency concerning the Implementation of Protection for Women and Children;",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 37\nForms of handling for women and children victims of violence include:\na. complaint services, consultation, and counseling;\nb. assistance services;\nc. medical rehabilitation services;\nd. social rehabilitation services;\ne. legal services; and\nf. social reintegration services.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 66,
+          "text": "Article 51\n(1) Evaluation of the implementation of policies, programs and activities for the Protection of Women and children victims of violence shall be conducted at the end of each Fiscal year or if necessary according to needs.\n(2) The results of the evaluation of the implementation of policies, programs and activities for the protection of Women and children victims of violence shall be used as input material for the formulation of policies, programs and activities for the protection of Women and children victims of violence for the following year.\n(3) Evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 7,
+          "text": "Paragraph 1\nRights and Obligations of Women",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 68,
+          "text": "CHAPTER IX\nGUIDANCE AND SUPERVISION\nArticle 53\n(1) The Regent conducts guidance and supervision over the implementation of this regional regulation.\n(2) Guidance and supervision as referred to in paragraph (1) includes providing implementation instructions, guidance, supervision, monitoring and evaluation of the Implementation of Protection of Women and Children.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 69,
+          "text": "CHAPTER X\nCOMMUNITY PARTICIPATION\nArticle 54\n(1) In the implementation of Protection for Women and children, the community may:\na. establish family partners at the Kelurahan/Village level by the community;\nb. conduct socialization of women's and children's rights independently;\nc. provide first aid to victims; and\nd. report to the authorized agency if violence against victims occurs in their environment.\n(2) Community participation as referred to in paragraph (1) shall be carried out by individuals, community institutions, non-governmental organizations, educational institutions, religious institutions, private sector and/or mass media.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) The Implementation of Fulfillment of Children's Rights in the health sector as referred to in Article 13 letter b, the Regional Government is obligated to provide facilities and organize comprehensive health services for children, so that every child obtains an optimal degree of health from the womb which is carried out in stages adjusted to the regional financial capacity and supported by community participation.\n(2) Comprehensive health services as referred to in paragraph (1) include:\n   a. promotive, preventive, curative and rehabilitative efforts for basic health services;\n   b. exemption from the burden of costs for malnourished children; children undergoing dialysis due to kidney failure; children suffering from thalassemia major; children with disabilities; children with special needs; street children; children infected with HIV/AIDS; child workers; children who are victims of abuse of narcotics, alcohol, psychotropic substances and other addictive substances (NAPZA); and children who are victims of violence, such as neglect, economic exploitation, sexual exploitation, and victims of human trafficking.\n(3) Children as referred to in paragraph (2) are children from poor families except as otherwise regulated in accordance with the health financing program established by the government.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 6,
+          "text": "BAB III\nPROTECTION OF WOMEN AND CHILDREN\nFirst Section\nWomen's Empowerment",
+          "score": 0.38269496
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The judge treated the mention of \"pekerja rumah tangga\" (domestic workers) in Pasal 25 ayat (2) as satisfying an intersectional indicator about “Domestic workers.” However, the Indonesian text is specifically about CHILD workers in the informal sector (\"Pekerja Anak pada sektor informal\"), listing domestic work as one example, and then setting child-labor conditions (minimum age, max 3 hours/day, no night work, etc.). It does not establish targeted measures for domestic workers as a broader vulnerable group (e.g., adult domestic workers, women domestic workers, migrant domestic workers) in the context of VAW services/intersectionality. Since the retrieved passage [6.11-37] contains the relevant limitation (it is only about child workers), the error is the judge’s over-broad interpretation rather than missing evidence or translation problems.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_UTARA_NUNUKAN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.291374+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

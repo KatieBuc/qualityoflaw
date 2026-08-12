@@ -1,0 +1,867 @@
+# REGIONAL GAZETTE
+
+# CITY OF BEKASI
+
+# NUMBER: 4 2023 SERIES: E
+
+# REGIONAL REGULATION OF THE CITY OF BEKASI
+
+# NUMBER 4 YEAR 2023
+
+# CONCERNING
+
+# EMPOWERMENT AND PROTECTION OF WOMEN
+
+# BY THE GRACE OF ALMIGHTY GOD
+
+# THE MAYOR OF BEKASI,
+
+Considering: a. that every citizen has equal rights to live a dignified life in accordance with the principles of humanity, equality and justice;
+
+   - b. that women are national assets who play a very important role in the national development process, continuation and creation of quality generations, therefore they need to receive protection from acts of violence and discrimination and need to be empowered so that they can actualize their potential optimally;
+   - c. that in order to guarantee the fulfillment of women's constitutional rights to be able to develop their potential optimally so that they can participate in various fields of life in accordance with human dignity and worth, and receive protection from violence, discrimination and other violations of women's rights, efforts need to be made for empowerment and protection of women;
+   - d. that Regional Regulation of the City of Bekasi Number 12 Year 2012 which regulates the Protection of Women is deemed no longer in accordance with legal developments and community needs, therefore a new Regional Regulation needs to be established to ensure its implementation;
+   - e. that based on the considerations as referred to in letter a, letter b, letter c and letter d, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;
+
+In View of: 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;
+
+2. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1, Supplement to the State Gazette of the Republic of Indonesia Number 3019) as amended by Law Number 16 Year 2019 concerning Amendment to Law Number 1 Year 1974 on Marriage (State Gazette of the Republic of Indonesia Year 2019 Number 186, Supplement to the State Gazette of the Republic of Indonesia Number 6401);
+3. Law Number 7 year 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention on the Elimination of All Forms of Discrimination Agains Women) (State Gazette of the Republic of Indonesia year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3277);
+4. Law Number 9 Year 1996 concerning the Establishment of the Second Level Regional Municipality of Bekasi (State Gazette of the Republic of Indonesia Year 1996 Number 111, Supplement to the State Gazette of the Republic of Indonesia Number 3663);
+5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+6. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+7. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as has been amended several times, most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);
+8. Regional Regulation of the City of Bekasi Number 06 Year 2016 concerning Government Affairs that are the Authority of the Regional Government of the City of Bekasi (Regional Gazette of the City of Bekasi Year 2016 Number 6);
+
+With Mutual Approval
+
+# REGIONAL HOUSE OF REPRESENTATIVES OF BEKASI CITY
+
+# MAYOR OF BEKASI
+
+# DECIDES:
+
+To Establish : REGIONAL REGULATION ON EMPOWERMENT AND PROTECTION OF WOMEN.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+1. City Region is the Bekasi City Region.
+2. City Regional Government is the Mayor as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.
+3. Mayor is the Mayor of Bekasi.
+4. Regional Apparatus is an auxiliary element of the Mayor and the Regional House of Representatives in the administration of government affairs that are the authority of the region.
+5. Regional Apparatus in charge of women and child protection is the Regional Apparatus that has the main duties and functions in the field of women's empowerment and child protection in Bekasi City.
+6. Woman is a person of female sex outside the definition of child.
+7. Gender is a concept that refers to the roles and responsibilities as women and as men that are created and internalized in the family, society and community culture where we live including expectations, attitudes, characteristics, behavior of how to be a man and how to be a woman.
+8. Discrimination is any distinction, restriction, harassment or exclusion that is directly or indirectly based on human differentiation on the basis of religion, tribe, race, ethnic group, group, class, social status, economic status, sex, language, political conviction, which results in the reduction, deviation or elimination of recognition, implementation or use of human rights and basic freedoms in life both individually and collectively in the political, economic, legal, social, cultural and other aspects of life.
+9. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their child, or father and his child, or mother and her child, or blood relatives in a straight line upward or downward up to the third degree.
+10. Household is husband, wife, child, people who have family relations due to blood relations, marriage, milk kinship, foster care, and guardianship, and/or domestic workers and reside in that household.
+11. Victim is a woman who experiences misery and/or suffering either directly or indirectly as a result of violence and life vulnerability.
+12. Women's empowerment is any effort to improve physical, mental, spiritual, social, knowledge and skills capabilities so that women are ready to be utilized according to their abilities.
+13. Women's protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights carried out consistently and systematically by the family, community/social institutions, government, advocates, police, prosecutors, courts or other parties either temporarily or based on court decisions.
+14. Violence is any act that results in or can result in misery or suffering either physically, psychologically, sexually, economically and socially and discrimination against victims that poses danger to life, body or results in the deprivation of a person's freedom.
+15. Violence against women is any action that results in or may result in misery or suffering either physically, psychologically, sexually, economically and socially and discrimination, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.
+16. Domestic violence is any act against a person especially women that results in misery or suffering physically, sexually, psychologically and/or threats of household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the scope of the household.
+17. Physical violence is any act that results in pain, injury, wounds or disability on a person's body, miscarriage, fainting and or causes death.
+18. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or other psychological suffering to a person.
+19. Sexual violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and or certain other purposes.
+20. Human trafficking is the act of recruitment, transportation, harboring, sending, transfer or receipt of a person by threat of violence, use of violence, kidnapping, confinement, forgery, fraud, abuse of power, debt bondage or giving payment or benefits, so as to obtain consent from the person holding control over that other person, whether carried out within the State or between States, for the purpose of exploitation or causing people to be exploited.
+21. Women's rights are a set of rights inherent in a woman or group of people not to experience discrimination, misery or suffering either directly or indirectly committed by state apparatus or by the state or by Regional Government apparatus or individuals which are natural rights given by God Almighty.
+22. Service is an action taken as soon as possible to victims when seeing, hearing and or knowing that violence against victims will, is or has occurred.
+23. Integrated service is a series of activities to provide protection for witnesses and victims of violence carried out jointly by relevant agencies or institutions as one unit of organizing health rehabilitation, social rehabilitation, repatriation, social reintegration, and legal assistance.
+24. Disability is an individual who has physical or mental limitations.
+25. Safe House is a temporary shelter for victims, during the assistance process, for the safety and comfort of victims from threats and dangers of perpetrators.
+26. UPTD PPA (Women and Child Protection) is an integrated service institution for victims of violence against women and children established by the government according to needs.
+
+# CHAPTER II
+
+## PRINCIPLES, OBJECTIVES AND SCOPE
+
+#### Article 2
+
+1. The Implementation of Women's Empowerment and Protection shall be carried out based on the principles of:
+   - a. respect for human rights;
+   - b. the best interests of women;
+   - c. gender justice and equality;
+   - d. protection of women's rights;
+   - e. non-discrimination; and
+   - f. legal certainty.
+2. The Implementation of Women's Empowerment and Protection shall be carried out with the objectives to:
+   - a. guarantee the fulfillment of women's rights to live and participate optimally in accordance with human dignity and worth;
+   - b. provide gender justice and equality;
+   - c. improve the quality of life of women;
+   - d. carry out empowerment of women both individually and in groups as potential and resources in the implementation of social community life;
+   - e. prevent and address risks from women's vulnerability so that their survival can be fulfilled in accordance with minimum basic needs;
+   - f. provide protection and a sense of security for women victims of violence and discrimination, including criminal acts of trafficking in persons;
+   - g. prevent and eliminate all forms of violence, discrimination and exploitation against women;
+   - h. provide services to women victims of acts of violence, reporters and witnesses;
+      - i. carry out recovery of women victims of violence; and
+   - j. facilitate and mediate domestic disputes to realize harmonious and prosperous household integrity.
+3. The scope of this Regional Regulation includes:
+   - a. basic human rights and freedoms of women;
+   - b. obligations and responsibilities of the Regional Government;
+   - c. women's empowerment;
+   - d. protection and Prevention of Acts of Violence;
+   - e. special protection for women;
+   - f. community participation;
+   - g. funding;
+   - h. monitoring, evaluation and reporting; and
+      - i. sanctions.
+
+# CHAPTER III
+
+## HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS OF WOMEN
+
+## Part One
+
+General
+
+#### Article 3
+
+Human rights and fundamental freedoms, consist of:
+
+   - a. the right to life;
+   - b. the right to form a family and procreate;
+   - c. the right to self-development;
+   - d. the right to obtain justice;
+   - e. the right to personal freedom;
+   - f. the right to security;
+   - g. the right to health;
+   - h. the right to welfare; and
+      - i. the right to participate in government and development.
+
+#### Article 4
+
+1. Every woman has the right to:
+   - a. live peacefully, safely, in peace, happily, prosperously both physically and spiritually;
+   - b. obtain justice, a sense of security, and freedom to express opinions without discrimination;
+   - c. fulfill her basic needs to grow and develop properly, live in a family within the bonds of a legal marriage and continue her lineage;
+   - d. maintain life and improve her standard of living;
+   - e. be free from slavery or enslavement and threats;
+   - f. perform legal acts;
+   - g. have work that she likes and is also entitled to fair employment conditions;
+   - h. be involved in every stage of the development process;
+      - i. receive fair wages in accordance with her work that is comparable and commensurate;
+   - j. obtain education and teaching in all types, levels and pathways of education in accordance with the specified requirements;
+   - k. obtain a healthy and clean environment;
+   - l. develop her personality and improve her quality of life so as to become a human being who is faithful, pious, responsible, of noble character, happy and prosperous in accordance with human rights;
+   - m. be free to elect and/or be elected in general elections, regional head elections, and/or other political office elections based on equal rights according to laws and regulations;
+   - n. receive special protection in the implementation of her work or profession against matters that may threaten her safety and/or health in relation to women's reproductive function; and
+   - o. special rights inherent to women due to their reproductive function are guaranteed and protected by law.
+2. Women who are adults and or are married have the right to perform legal acts independently unless otherwise determined by their religious law.
+3. A legal marriage can only take place based on the free will of the woman and the man in accordance with laws and regulations.
+4. A wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children and ownership rights and management of joint property.
+5. After the dissolution of marriage, a woman has the same rights and responsibilities as her former husband over all matters relating to her children, taking into account the best interests of the child.
+6. After the dissolution of marriage, a woman has the same rights as her former husband over all matters relating to joint property without reducing the rights of the child, in accordance with the provisions of laws and regulations.
+7. Every woman who is in a condition of disability, is elderly, or is pregnant has the right to obtain facilities and special treatment.
+8. Every elderly woman, with physical and/or mental disability, has the right to obtain care, education, training and other special assistance at the expense of the regional government in accordance with applicable provisions.
+
+## Part Two
+
+Rights of Women with Disabilities
+
+#### Article 5
+
+Every woman with disability, has the right to obtain:
+
+   - a. education in all units, pathways, types and levels of education both public and private;
+   - b. decent work and livelihood in accordance with the type and degree of disability, education and ability;
+   - c. equal treatment to play a role in development and enjoy its results;
+   - d. provision of accessibility services in the context of their independence (such as preparation of wheelchair lanes in government offices, schools or other public facilities);
+   - e. rehabilitation, social assistance, and maintenance of social welfare standards;
+   - f. equal rights to develop talents, abilities, and social life;
+   - g. special services at public facilities and commercial centers (such as road markers on sidewalks, provision of special parking for women and persons with disabilities at Malls, provision of special toilets for persons with disabilities);
+   - h. special treatment and facilities to obtain health services, population administration and other matters (such as waiting rooms specifically designated for persons with disabilities, special mobile services for persons with disabilities for processing population administration documents, and others); and
+      - i. active participation in social, arts, sports, economic activities including in politics.
+
+Third Part Rights of Women Victims of Violence
+
+#### Article 6
+
+Every woman victim of violence (physical, psychological, sexual, domestic violence and criminal acts of human trafficking), has the right to obtain:
+
+   - a. the right to have her dignity and worth as a human being respected;
+   - b. health recovery, education and psychosocial services from the suffering experienced by the victim;
+   - c. the right to determine her own decision to take legal action against the perpetrator of violence or to forgive the perpetrator based on humanitarian considerations;
+   - d. complete and reliable information;
+   - e. complaint handling services, consultation and legal assistance;
+   - f. free visum et repertum services for victims of violence at health facilities of the Regional General Hospital owned by the Regional Government of Bekasi City and Private Hospitals that have visum service competence through Regional Apparatus in charge of health;
+   - g. protection both as a victim, witness including for her family;
+   - h. assistance in the legal process either by advocates, Regional Apparatus related to the protection of women, or other community institutions;
+      - i. the right to rehabilitation and social reintegration;
+   - j. protection from fear and trauma in safe houses owned by the government or private sector.
+
+Fourth Part Rights of Women in Emergency Situations
+
+#### Article 7
+
+1. Every woman has the right to obtain special services when in an emergency situation caused by:
+   - a. Women who become refugees;
+   - b. Women victims of riots;
+   - c. Women victims of natural disasters and non-natural disasters;
+   - d. Women in armed conflict situations;
+   - e. Women who are victims of terrorist networks;
+   - f. Women who are victims of abduction, trafficking/sale, and sexual exploitation;
+   - g. Women victims of abuse of narcotics, alcohol, psychotropics, and other addictive substances;
+   - h. Women with HIV/AIDS.
+2. The Regional Government through authorized Regional Apparatus, the community and the business sector must be actively involved in efforts to handle and fulfill the basic rights of women in emergency situations.
+3. The Regional Government may allocate special funds for handling emergency situations.
+
+# CHAPTER IV
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+## OF REGIONAL GOVERNMENT
+
+## Part One
+
+General
+
+#### Article 8
+
+1. The Regional Government has the obligation and responsibility to provide empowerment and protection to women so that they can realize and enjoy a proper standard of living.
+2. Efforts for empowerment and protection of women as referred to in paragraph (1), include:
+   - a. determination of policies, programs and activities;
+   - b. determination of implementation guidelines;
+   - c. provision of services by related Regional Apparatus;
+   - d. coordination of policies, programs and activities; and
+   - e. provision of means, infrastructure and facilitation.
+
+Second Part Determination of Policies, Programs and Activities
+
+#### Article 9
+
+1. The Regional Government facilitates the establishment of institutions for the empowerment and protection of women.
+2. The Mayor establishes policies, programs and activities for the empowerment and protection of women to eliminate all forms of discrimination and acts of violence against women in the Region.
+3. The implementation of policies, programs and activities for the empowerment and protection of women as referred to in paragraph (2) shall be carried out by establishing, developing, strengthening or utilizing task forces, forums, working groups or other institutions.
+4. The membership of task forces, forums, working groups or other institutions as referred to in paragraph (3) shall consist of relevant Regional Apparatus, community leaders, religious leaders, the business sector and the education sector.
+5. Further provisions regarding the establishment of task forces, forums, working groups or other institutions as referred to in paragraph (3) shall be regulated by a Mayor Regulation.
+
+Third Part Implementation of Policies, Programs and Activities
+
+#### Article 10
+
+The implementation of policies, programs and activities for the empowerment and protection of women, may be carried out through efforts to:
+
+   - a. conduct cooperation with the business sector, non-governmental organizations, private companies, foundations, educational institutions and other domestic institutions as well as international institutions, in accordance with the provisions of laws and regulations;
+   - b. conduct regional cooperation, in accordance with the provisions of laws and regulations;
+   - c. provide and facilitate services for the empowerment and protection of women;
+   - d. develop a data system for the empowerment and protection of women;
+   - e. develop prevention programs through comprehensive education and socialization in order to prevent the occurrence of violence against women; and
+   - f. implement coordination of the implementation of policies, programs and activities for the empowerment and protection of women among Regional Apparatus.
+
+Fourth Part Provision of Facilities, Infrastructure and Facilitation
+
+#### Article 11
+
+1. The provision of facilities, infrastructure and facilitation of protection services for women as referred to in Article 8 paragraph (2) letter e shall be in the form of:
+   - a. victim identification;
+   - b. legal assistance;
+   - c. medical rehabilitation;
+   - d. psychosocial rehabilitation;
+   - e. social reintegration;
+   - f. repatriation assistance;
+   - g. providing safe houses; or
+   - h. other forms.
+2. The provision of facilities, infrastructure and facilitation of protection services for women as referred to in paragraph (1) shall be provided to women:
+   - a. victims of violence;
+   - b. victims of human trafficking;
+   - c. elderly who are not independent;
+   - d. persons with disabilities;
+   - e. victims of terrorism networks;
+   - f. victims of natural and non-natural disasters;
+   - g. refugee women;
+   - h. victims of sexual exploitation;
+      - i. women heads of households;
+   - j. women in conflict- and disaster-prone areas;
+   - k. working women; and
+   - l. other vulnerable groups.
+
+# CHAPTER V
+
+## WOMEN'S EMPOWERMENT
+
+## Part One
+
+General
+
+#### Article 12
+
+1. Regional Governments have the obligation and responsibility in efforts to empower women.
+2. Efforts to empower women as referred to in paragraph (1) shall be carried out in an integrated manner in accordance with laws and regulations.
+3. Empowerment of women as referred to in paragraph (1) is directed to obtain opportunities and rights as human beings in order to be able to play a role and participate in the fields of:
+   - a. economy;
+   - b. social culture;
+   - c. politics and government;
+   - d. law;
+   - e. education;
+   - f. health;
+   - g. employment; and
+   - h. social security.
+
+Second Part Empowerment in the Economic Field
+
+#### Article 13
+
+1. Women's empowerment in the economic sector as referred to in Article 12 paragraph (3) letter a shall be implemented by Regional Apparatus in charge of the economy, manpower, industry and trade, welfare, tourism and culture, cooperatives and SMEs, as well as by individuals, the community, the education sector, and the business sector.
+2. The implementation of Women's Empowerment in the economic field as referred to in paragraph (1) shall be carried out through:
+   - a. job training;
+   - b. productive economic enterprises and joint economic enterprises;
+   - c. capital assistance and employment accessibility;
+   - d. marketing network development facilities.
+3. Job training as referred to in paragraph (2) letter a includes:
+   - a. briefing, workshops, mentoring for women to be work-ready;
+   - b. field work practice; and
+   - c. apprenticeship.
+4. Productive economic enterprises and joint business groups as referred to in paragraph (2) letter b include:
+   - a. entrepreneurial skills training;
+   - b. facilities for establishing joint business groups; and
+   - c. business implementation assistance.
+5. Capital assistance and employment accessibility shall be the responsibility of regional financial institutions, facilitated by Regional Apparatus in charge of cooperatives and micro, small and medium enterprises, as referred to in paragraph (2) letter c, including:
+   - a. work facilities and infrastructure assistance;
+   - b. facilitating working capital assistance by Regional Apparatus in charge of cooperatives and micro, small and medium enterprises; and
+   - c. equitable employment accessibility for women.
+6. Marketing network development facilities as referred to in paragraph (2) letter d include:
+   - a. marketing assistance for women's business products through government programs;
+   - b. facilitating marketing of women's business products domestically and abroad;
+   - c. involving women's business groups to introduce their business products.
+
+Second Part Empowerment in the Socio-Cultural Field
+
+#### Article 14
+
+1. Empowerment of women in the socio-cultural field as referred to in Article 12 paragraph (3) letter b, shall be implemented by Regional Apparatus with authority over social affairs, culture and tourism, individuals, communities, the education sector and the business sector.
+2. Empowerment of Women in the socio-cultural field as referred to in paragraph (1) shall be implemented through:
+   - a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve their social status;
+   - b. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative and rehabilitative efforts;
+   - c. strengthening the capacity of women through social institutions, cultural preservation center institutions;
+   - d. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration;
+   - e. active participation of women in socializing and educating the community to develop themselves in the social and cultural fields;
+   - f. inclusion of women in various socio-cultural events at various levels whether local, national or international; and
+   - g. facilitation and efforts to preserve customs and traditions and development of science, technology, sports, arts and culture for the advancement of women.
+
+Third Part Empowerment in the Field of Politics and Governance
+
+#### Article 15
+
+1. Empowerment of women in the field of politics and governance as referred to in Article 12 paragraph (3) letter c, shall be implemented by Regional Apparatus with authority in the field of governance, politics, individuals, society, the education sector and the business sector.
+2. Empowerment of Women in the field of politics and governance as referred to in paragraph (1) shall be implemented through:
+   - a. involvement of women in decision-making at various levels;
+   - b. provision of opportunities for women to hold public office;
+   - c. participation in political activities at various levels including general elections;
+   - d. self-development through organizations to associate, assemble and express opinions.
+3. Implementation of empowerment of women in the field of politics as referred to in paragraph (1) shall be carried out in accordance with laws and regulations.
+4. Women shall be given the opportunity to obtain the right to vote and/or be elected in general elections, regional head elections, or other political office elections based on equal rights through voting in accordance with the provisions of laws and regulations.
+5. Women shall be given the opportunity to be appointed as Regional Government officials and occupy strategic positions in Regional Government.
+6. Regional Government shall endeavor to ensure the proportion of positions in the government of Bekasi City are filled by women (such as in the positions of school principals (elementary and junior high schools), Village Heads, Sub-district Heads, Heads of Regional Apparatus, Heads of Divisions and so forth, in accordance with needs through mechanisms that have been established (7) Women shall be given the opportunity to receive political education and the government is obligated to facilitate it.
+
+Fourth Part Empowerment in the Field of Law
+
+#### Article 16
+
+1. Empowerment of women in the field of law as referred to in Article 12 paragraph (3) letter d, shall be implemented by work units responsible for the field of law, individuals, communities, the education sector and the business sector.
+2. Empowerment of Women in the field of law as referred to in paragraph (1) shall be implemented through:
+   - a. increasing awareness and knowledge in the field of law through communication services, consultation, information and education;
+   - b. facilitating access and consultation services and legal aid;
+   - c. conducting socialization and education regarding women's rights and women's obligations;
+   - d. providing capacity strengthening to women so that they can perform legal acts independently and responsibly;
+   - e. promoting discussion activities, FGDs, training that raises issues/problems regarding law in local, national and international perspectives; and
+   - f. encouraging women to be actively involved in advocacy education, and government as well as the business sector to contribute to its implementation.
+3. The implementation of empowerment of women in the field of law as referred to in paragraph (1) shall be carried out in accordance with laws and regulations.
+
+Fifth Part Empowerment in the Field of Education
+
+#### Article 17
+
+1. Women's empowerment in the field of Education as referred to in Article 12 paragraph (3) letter e, shall be implemented by the Regional Apparatus in charge of education, individuals, the community, the education sector and the business sector.
+2. Women's Empowerment in the field of education as referred to in paragraph (1) shall be implemented through:
+   - a. provision of formal, nonformal and informal education for women;
+   - b. provision of formal education with compulsory education of minimum 12 (twelve) years for women implemented by government and private institutions;
+   - c. nonformal education aimed at improving women's abilities and skills conducted through equivalency education package A, Package B and Package C as well as courses/training;
+   - d. women who become victims of violence are protected in their right to obtain continuity of education both online and offline in formal schools, or through nonformal pathways/equivalency education;
+   - e. in the context of strengthening women's capacity in the field of education, every education provider shall facilitate the continuity of education for female students.
+
+Sixth Part Empowerment in the Health Sector
+
+#### Article 18
+
+1. Empowerment of women in the health sector as referred to in Article 12 paragraph (3) letter f, shall be implemented by Regional Apparatus with authority in Health, individuals, communities, the education sector and the business sector.
+2. Women have the right to obtain health services in order to undergo a reproductive life and sexual life that is healthy, safe, and free from coercion and/or violence.
+3. Empowerment of women shall be conducted through education, socialization, assistance and guidance on women's rights in the health sector, basic health, sexual education, reproductive health, provision of nutritional intake and other related matters.
+4. Health services as referred to in paragraph (1) include:
+   - a. health services for the period before pregnancy, pregnancy, childbirth and after childbirth;
+   - b. pregnancy regulation, contraceptive services and sexual health; and
+   - c. reproductive health services.
+5. Health services as referred to in paragraph (1) shall be implemented through promotive, preventive, curative and rehabilitative approaches.
+6. Health empowerment shall be conducted through institutional strengthening of health services carried out by women such as posyandu cadres or other units that have similar functions.
+
+Seventh Part Empowerment in the Field of Employment
+
+#### Article 19
+
+1. Empowerment of women in the field of employment as referred to in Article 12 paragraph (3) letter g, shall be implemented by the Regional Apparatus responsible for employment affairs, individuals, the community, the education sector and the business sector.
+2. Women have equal opportunities without discrimination to obtain employment.
+3. Employers who employ female workers are obligated to provide protection that includes welfare, safety and health.
+4. Women are given opportunities to be appointed, obtain promotion and occupy strategic positions in their workplace in accordance with applicable provisions.
+5. Empowerment and protection of female workers shall be implemented in accordance with the provisions of laws and regulations.
+
+Eighth Part Empowerment in the Field of Social Security
+
+#### Article 20
+
+1. The responsibility for women's empowerment in the field of social security as referred to in Article 12 paragraph (3) letter h, shall be implemented by the Regional Apparatus responsible for social welfare, women's empowerment.
+2. Women shall be given the opportunity to obtain social security development facilities.
+3. Women shall be given the opportunity to obtain the right to social security.
+4. The Regional Government may allocate social assistance funds for old age security for women in accordance with regional capacity.
+
+# CHAPTER VI
+
+## PROTECTION AND PREVENTION OF ACTS OF VIOLENCE
+
+## Part One
+
+General
+
+#### Article 21
+
+1. Efforts for protection and prevention of acts of violence against women are carried out in an integrated manner by the Regional Government coordinated by the Regional Apparatus that has the main duties and functions of coordination in the field of protection and empowerment of women.
+2. Protection and prevention efforts as referred to in paragraph (1) are implemented by:
+   - a. forming cooperation networks in efforts to protect women's rights and prevention from acts of violence with law enforcement apparatus, government apparatus, the education sector and various non-governmental organizations that work and/or care about women;
+   - b. conducting coordination, integration, synchronization of prevention of acts of violence based on partnership patterns that can involve community organizations, the education sector, professionals as well as customary leaders and/or community leaders;
+   - c. establishing a violence prevention system;
+   - d. conducting socialization regarding laws and regulations related to the protection of the rights of women victims of violence;
+   - e. opening accessibility to obtain education, health, employment, training and funding, welfare improvement and social services;
+   - f. providing education regarding women's rights for the community;
+   - g. building community participation and concern towards the protection of women from acts of violence;
+   - h. building and providing a complete and easily accessible information system; and
+      - i. providing integrated service institutions for victims of violence against women in the form of UPTD PPA (Protection of Women and Children).
+
+#### Article 22
+
+1. Prevention of the occurrence of acts of violence against women as referred to in Article 21, shall be implemented by Regional Apparatus whose duties and functions are in the field of:
+   - a. social affairs;
+   - b. health;
+   - c. education;
+   - d. manpower;
+   - e. protection of women and empowerment of women;
+   - f. mental and spiritual; and
+   - g. peace and order.
+2. Prevention of acts of violence by Regional Apparatus as referred to in paragraph (1), shall be implemented in an integrated and continuous manner.
+
+#### Article 23
+
+Efforts to protect women's rights and prevent violations of women's rights carried out by Regional Governments as referred to in Article 22, protection and prevention efforts are also carried out by:
+
+   - a. family and/or closest relatives;
+   - b. community leaders and/or customary leaders;
+   - c. educational institutions; and
+   - d. private parties.
+
+Second Part Service Providers
+
+#### Article 24
+
+1. The provision of services to women victims of violence is carried out in an integrated manner by Regional Apparatus that oversees women and child protection, UPTD PPA (protection of women and children) or other service institutions that have the same function.
+2. Regional Apparatus that oversees women and child protection, UPTD PPA as referred to in paragraph (1) may receive and send case referrals from or to other service units in a networked and tiered manner.
+
+Third Part Services for Women Victims of Violence
+
+#### Article 25
+
+Services for women victims of violence include:
+
+   - a. complaint, consultation and counseling services;
+   - b. assistance services;
+   - c. health services;
+   - d. social rehabilitation services;
+   - e. legal services and/or legal aid; and
+   - f. repatriation and social reintegration services.
+
+#### Article 26
+
+Complaint, consultation and counseling services as referred to in Article 25 letter a include:
+
+   - a. identification or initial recording of victims; and
+   - b. consent for action to be taken (Informed consent).
+
+#### Article 27
+
+1. Accompaniment services as referred to in Article 25 letter b include:
+   - a. accompanying victims during the examination process and health recovery;
+   - b. accompanying victims during the medicolegal process;
+   - c. accompanying victims during the examination process at the Police, prosecutor's office and court;
+   - d. monitoring the interests and rights of victims in the examination process at the Police, prosecutor's office and court;
+   - e. maintaining the privacy and confidentiality of victims from all interested parties, including coverage by mass media;
+   - f. coordinating with other companions; and
+   - g. providing continuous assistance up to the rehabilitation stage.
+2. Accompaniment as referred to in paragraph (1) is an activity and action carried out by companions originating from individuals or representatives from institutions that have expertise in accompanying victims to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence.
+
+#### Article 28
+
+Health services as referred to in Article 25 letter c include:
+
+   - a. first aid to victims in all health service facilities in Bekasi City;
+   - b. treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;
+   - c. implementation of visum et repertum for investigation purposes shall be the responsibility of and carried out by the Bekasi City Regional General Hospital and private hospitals;
+   - d. financing of visum et repertum implementation for investigation purposes shall be the responsibility of the Regional Apparatus authorized for the health sector;
+   - e. provision of services in accordance with SOP to women victims of violence; and
+   - f. referral to health services for women in accordance with applicable provisions.
+
+#### Article 29
+
+1. Social rehabilitation services as referred to in Article 25 letter d include:
+   - a. provision of spiritual guidance to victims; and
+   - b. psychological recovery of victims.
+2. Social rehabilitation services as referred to in paragraph (1) constitute services provided by assistants in order to restore victims from traumatic conditions, including the provision of safe houses to protect witnesses and victims from various threats and intimidation.
+
+#### Article 30
+
+Legal services as referred to in Article 25 letter e to assist victims in undergoing the judicial process by:
+
+   - a. providing legal consultation that includes information regarding the rights of victims and the judicial process;
+   - b. accompanying victims at the level of investigation examination, prosecution and court decisions that have permanent legal force; and
+   - c. conducting coordination with law enforcement officials, accompanying volunteers and social workers so that the judicial process runs as it should.
+
+#### Article 31
+
+1. Repatriation and social reintegration services as referred to in article 25 letter f aim to return victims to their families and social environment.
+2. Repatriation and social reintegration services as referred to in paragraph (1) shall be carried out by the Regional Government in coordination with:
+   - a. District/city governments within one provincial territory and outside the provincial territory;
+   - b. Related agencies and institutions both government and non-government.
+
+Fourth Part Coordination of Victim Protection
+
+#### Article 32
+
+1. In an effort to provide and organize service handling for victims, the Regional Government optimizes the function of UPTD PPA.
+2. UPTD PPA as referred to in paragraph (1) aims to:
+   - a. coordinate and synchronize service handling by UPTD PPA based on partnerships with related stakeholders;
+   - b. maintain and develop networks and referral systems; and
+   - c. collect, compile and present reports regarding the protection of women.
+3. Further provisions regarding the establishment, main duties and functions as well as membership of UPTD PPA as referred to in paragraph (1) shall be regulated by a Mayor's Regulation.
+
+# CHAPTER VII
+
+## SPECIAL PROTECTION FOR WOMEN
+
+#### Article 33
+
+1. Women have the right to obtain special protection from matters that threaten their safety and/or health.
+2. Special protection is given to women because their reproductive function is guaranteed and protected by law.
+3. Special protection as referred to in paragraph (2) consists of health services related to:
+   - a. menstruation;
+   - b. pregnancy;
+   - c. childbirth; and
+   - d. breastfeeding.
+4. Women are given special protection to take maternity leave/menstrual leave.
+5. The mechanism and duration of leave shall be further regulated in the Mayor's Regulation.
+
+#### Article 34
+
+Women victims of acts of violence have the right to obtain protection, information, integrated services, ongoing handling up to the rehabilitation stage, and handling carried out confidentially, whether provided by individuals, groups, or institutions, both governmental and non-governmental.
+
+#### Article 35
+
+1. Women have equal opportunity without discrimination to obtain employment.
+2. Equal opportunity as referred to in paragraph (1) is realized through the fulfillment of women's rights to receive equal treatment from employers.
+3. Employers who employ female workers are obligated to provide protection in accordance with laws and regulations.
+4. Protection that must be provided by employers to women as referred to in paragraph (3) shall be further regulated by a Mayor's Regulation.
+
+# CHAPTER VIII
+
+## COMMUNITY PARTICIPATION
+
+#### Article 36
+
+1. The community may participate in the implementation of women's empowerment and protection.
+2. Participation as referred to in paragraph (1) shall be carried out by individuals, the business sector, groups and/or social community organizations.
+3. Community participation as referred to in paragraph (1) may take the form of:
+   - a. active role in policy formulation;
+   - b. provision of access and services;
+   - c. cooperation; and/or
+   - d. complaints/reports.
+4. The procedures for community participation as referred to in paragraph (3) shall be further regulated by a Mayor's Regulation.
+
+# CHAPTER IX
+
+## FUNDING
+
+#### Article 37
+
+Funding for the implementation of policies, programs and activities for women's empowerment and protection is sourced from:
+
+   - a. Regional Revenue and Expenditure Budget of Bekasi City; and
+   - b. other legal and non-binding sources in accordance with the provisions of laws and regulations.
+
+# CHAPTER X
+
+## MONITORING, EVALUATION AND REPORTING
+
+#### Article 38
+
+1. To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for women's empowerment and protection, the Regional Government shall conduct monitoring.
+2. Monitoring as referred to in paragraph (1) is intended to identify developments and obstacles in the implementation of policies, programs and activities for women's empowerment and protection in the Region.
+3. Monitoring shall be conducted periodically from the planning stage through the implementation of policies, programs and activities for women's empowerment and protection for the current year.
+4. Evaluation of the implementation of policies, programs and activities for women's empowerment and protection shall be conducted at the end of each fiscal year.
+5. The results of evaluation of the implementation of policies, programs and activities for women's empowerment and protection shall be used as input material for the formulation of policies, programs and activities for the following year.
+6. The Mayor shall submit reports on the implementation of policies, programs and activities for women's empowerment and protection to the Governor.
+7. The implementation of reporting as referred to in paragraph (6) shall be conducted annually and/or when necessary.
+
+# CHAPTER XI
+
+## CLOSING PROVISIONS
+
+#### Article 39
+
+At the time this Regional Regulation comes into force, Regional Regulation of Bekasi City Number 12 of 2012 concerning Women's Empowerment and Child Protection (Regional Gazette of Bekasi City Year 2012 Number 12) is revoked and declared invalid.
+
+#### Article 40
+
+This Regional Regulation shall come into force on the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered, with its placement in the Regional Gazette of the City of Bekasi.
+
+Enacted in Bekasi on the date of 28 July 2023 Acting MAYOR OF BEKASI,
+
+##### TRI ADHIANTO TJAHYONO
+
+Promulgated in Bekasi on 28 July 2023 Acting REGIONAL SECRETARY OF THE CITY OF BEKASI,
+
+##### JUNAEDI
+
+##### REGIONAL GAZETTE OF BEKASI CITY YEAR 2023 NUMBER 4
+
+REGISTRATION NUMBER OF REGIONAL REGULATION OF BEKASI CITY WEST JAVA PROVINCE: (6/90/2023)
+
+##### ELUCIDATION
+
+##### REGIONAL REGULATION OF BEKASI CITY
+
+##### NUMBER 4 OF 2023
+
+##### CONCERNING EMPOWERMENT AND PROTECTION OF WOMEN
+
+##### I. GENERAL
+
+The 1945 Constitution of the Republic of Indonesia mandates the authority of regional governments to regulate and manage their own governmental affairs directed towards accelerating the realization of public welfare through improvement of services, empowerment and community participation. The authority of Regional Government is to make regional policies to provide services, increase participation, initiative, and community empowerment aimed at improving people's welfare.
+
+The implementation of regional autonomy must always be oriented towards improving community welfare by always paying attention to the interests and aspirations that grow in society. Therefore, governmental affairs related to basic services such as basic education, health, fulfillment of minimum living needs, and basic environmental infrastructure must be fulfilled.
+
+Human rights are basic rights that are inherently attached to human beings by nature, are universal and lasting, so they must be protected, respected, maintained, and may not be ignored, reduced, or seized by anyone. In the context of the enforcement of Human Rights (HAM) to guarantee justice for every individual, efforts are made to prevent all forms of unbalanced treatment or treatment deemed detrimental to other parties, whether between individuals, between groups of individuals, or between individuals as well as between government and society, including the process of marginalization of women which causes women to be vulnerable to acts of violence, discrimination and exploitation in both domestic and public spheres.
+
+Women have the same and equal rights as men; however, in certain discriminatory conditions, the government is obliged to implement affirmative action so that the rights of women, including women in vulnerable groups, need to receive protection so that they do not experience violence and can live a decent life in accordance with the principles of humanity, equality and justice.
+
+Empowerment of women and protection of women is implemented in order to realize gender equality and justice. To implement these affairs, efforts are needed to increase the capacity of women's human resources and strengthen gender mainstreaming institutions, through gender mainstreaming strategies and gender-disaggregated data.
+
+The Regional Government of Bekasi City as the party that has the authority to regulate and protect the citizens of Bekasi City, deems it necessary to continuously carry out and formulate regulations in order to provide guarantees for the empowerment of women and protection of women in Bekasi City.
+
+This Regional Regulation is expected to be able to encourage efforts to improve the physical and mental conditions of women in fulfilling their rights and life needs as part of human rights from various fields of development, increase the commitment and effectiveness of regional government in implementing policies, programs and activities as well as encourage the institutional capacity of government and society that improves the quality of life of women.
+
+##### I. ARTICLE BY ARTICLE
+
+#### Article 1
+
+Sufficiently clear
+
+#### Article 2
+
+Sufficiently clear
+
+#### Article 3
+
+Sufficiently clear
+
+#### Article 4
+
+### Paragraph (1)
+
+letter a Sufficiently clear.
+
+letter b Sufficiently clear.
+
+letter c Sufficiently clear.
+
+letter d Sufficiently clear.
+
+letter e Sufficiently clear.
+
+letter f Sufficiently clear.
+
+letter g Sufficiently clear.
+
+letter h What is meant by the stages of the development process is through the preparation of the Regional Medium-Term Development Plan (RPJMD), Strategic Plan (RENSTRA), Regional Government Work Plan (RKPD), and Work Plan (RENJA).
+
+letter i Sufficiently clear.
+
+letter j Sufficiently clear.
+
+letter k Sufficiently clear.
+
+letter l Sufficiently clear.
+
+letter m Sufficiently clear.
+
+letter n Sufficiently clear.
+
+letter o Sufficiently clear.
+
+### Paragraph (2) Sufficiently clear.
+
+### Paragraph (3) Sufficiently clear.
+
+### Paragraph (4) Sufficiently clear.
+
+### Paragraph (5) Sufficiently clear.
+
+### Paragraph (6) Sufficiently clear.
+
+### Paragraph (7) Sufficiently clear.
+
+### Paragraph (8) Elderly Women are women who have reached 60 (sixty) years of age and above.
+
+#### Article 5
+
+Sufficiently clear
+
+#### Article 6
+
+Sufficiently clear
+
+#### Article 7
+
+Sufficiently clear
+
+#### Article 8
+
+Sufficiently clear
+
+#### Article 9
+
+Sufficiently clear
+
+#### Article 10
+
+Sufficiently clear
+
+#### Article 11
+
+Sufficiently clear
+
+#### Article 12
+
+Sufficiently clear
+
+#### Article 13
+
+Sufficiently clear
+
+#### Article 14
+
+Sufficiently clear
+
+#### Article 15
+
+Sufficiently clear
+
+#### Article 16
+
+Sufficiently clear
+
+#### Article 17
+
+Sufficiently clear
+
+#### Article 18
+
+Sufficiently clear
+
+#### Article 19
+
+Sufficiently clear
+
+#### Article 20
+
+Sufficiently clear
+
+#### Article 21
+
+Sufficiently clear
+
+#### Article 22
+
+Sufficiently clear
+
+#### Article 23
+
+Sufficiently clear
+
+#### Article 24
+
+Sufficiently clear
+
+#### Article 25
+
+Sufficiently clear
+
+#### Article 26
+
+Sufficiently clear
+
+#### Article 27
+
+Sufficiently clear
+
+#### Article 28
+
+Sufficiently clear
+
+#### Article 29
+
+Sufficiently clear
+
+#### Article 30
+
+Sufficiently clear
+
+#### Article 31
+
+Sufficiently clear
+
+#### Article 32
+
+Sufficiently clear
+
+#### Article 33
+
+Sufficiently clear
+
+#### Article 34
+
+Sufficiently clear
+
+#### Article 35
+
+Sufficiently clear
+
+#### Article 36
+
+Sufficiently clear
+
+#### Article 37
+
+Sufficiently clear
+
+#### Article 38
+
+Sufficiently clear
+
+#### Article 39
+
+Sufficiently clear
+
+##### SUPPLEMENT TO THE REGIONAL GAZETTE OF BEKASI CITY NUMBER 3

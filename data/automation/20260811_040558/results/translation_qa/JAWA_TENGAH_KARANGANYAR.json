@@ -1,0 +1,290 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 33,
+  "chunks_corrected": 19,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover translator note/commentary in brackets is not part of the legal text (\"[title text illegible/corrupted in source: ...]\")"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: In item 5, the Supplement to the State Gazette number is mistranslated (should be 3495, not 3668)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Menetapkan\" should be rendered as \"Establishes\" (or \"Enacts\"), not \"Stipulates\" in this legal context.",
+        "Minor OCR artifact in source indicates \"MEMUTUSKAN\"; translate as \"DECIDES\" (already correct), but keep standard legal phrasing for the second line."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 15: 'WNI' means Indonesian citizens, not 'Indonesian citizens' (missing 'Indonesian' qualifier for citizens)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"provide services to women based on gender\" misrenders \"pelayanan terhadap perempuan berbasis gender\" (services for women victims of gender-based violence)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/terminology: \"pendampingan\" is better rendered as \"support/advocacy\" rather than \"assistance\" to reflect accompaniment/assistance in psychological and legal contexts."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"PHNYEI-ENGGARAAN PERLIN DU NGAN\" corresponds to \"PENYELENGGARAAN PERLINDUNGAN\" (Implementation/Provision of Protection), not \"Administration of Protection\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in original not reflected: membership minimum rendered as 'at least 9' but original text shows 'paling sedikit g (sembilan) orang' (letter 'g' appears in the source and should be preserved as written)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (3): \"pada i ayat (1)\" was mistranslated as \"in letter i of paragraph (1)\"; it refers to paragraph (1), not a lettered item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"gugurnya kandungan\" is mistranslated as \"loss of pregnancy\"; should be \"miscarriage\"/\"termination of pregnancy\" in the sense of miscarriage.",
+        "Minor meaning drift: \"memberikan kehidupan\" is better rendered as \"providing a livelihood\" (not \"providing livelihood\" without article), to reflect the intended meaning of support/means of living."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/awkward rendering in Article 12(5): 'services for skills' should reflect skills training/services (layanan keterampilan).",
+        "Minor meaning drift/awkward rendering in Article 12(6): 'intimidation for victims' should be 'intimidation against victims' (intimidasi bagi korban)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Pemerintah Daerah' should be singular ('Regional Government'), not plural ('Regional Governments')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"Hal-halain\" means \"Hal-hal lain\" (Other matters); translation should reflect this without implying a single fused term."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"pada tanggaldiundangkan\" should be \"on the date it is promulgated\" (not \"on the date of its promulgation\").",
+        "Minor meaning drift: \"Agar setiap orang mengetahuinya\" is better rendered as \"So that everyone may know\" (not \"In order that everyone may know of it\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the regulation number in the original ('NOiroR TAI{UN 2009' = 'NOMOR TAHUN 2009') was replaced with ellipsis ('NUMBER ... YEAR 2009')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: \"Pasal 1 : Pasal 2\" was rendered as \"Article 1: Article 2\" instead of keeping Article 1 and Article 2 as separate items.",
+        "Meaning drift/omission: the translation does not reflect that Article 1 and Article 2 are separate headings; Article 2 should introduce letters a–d under it."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Penghonnatian\" should be translated as \"honoring\" (or \"respecting\"), not \"respect\" as a noun; adjust to reflect the original wording.",
+        "Meaning drift: \"jenis kelamin\" is sex (biological), not gender; translate as \"sex\" to match the original legal basis for non-discrimination.",
+        "Minor meaning/wording: \"antar golongan\" is \"between groups\" but in this context better rendered as \"among groups\"; keep meaning aligned."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Ayat\" should be translated as \"Paragraph\" only for numbered subsections; \"Ayat (a)\" is inconsistent with the original structure and should be rendered as a lettered item (e.g., \"Letter (a)\") rather than a paragraph.",
+        "Scrambled/invalid list structure: the original shows \"Ayat (a)\" among numbered paragraphs, indicating a lettered sub-item marker that should be kept distinct from numbered paragraphs in English."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"terlibat dafam\" should be translated as \"involved in\" but the sentence is missing its subject; original is a fragment likely continuing from prior text, so translation should not imply a complete standalone provision",
+        "Meaning drift/typo normalization: Indonesian contains OCR variants \"Gr.rkup jelas\" and \"Gukup jelas\" which mean \"Cukup jelas\"; translation should consistently render these as \"Sufficiently clear.\" without implying different meaning"
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_KARANGANYAR.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.506581+00:00",
+  "prompt_version": "v1"
+}

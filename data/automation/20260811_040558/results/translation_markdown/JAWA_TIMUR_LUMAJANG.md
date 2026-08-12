@@ -1,0 +1,249 @@
+# LUMAJANG REGENCY GOVERNMENT
+
+# LUMAJANG REGENCY REGIONAL REGULATION
+
+# NUMBER 48 OF 2007
+
+# CONCERNING
+
+THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN LUMAJANG REGENCY
+
+# BY THE GRACE OF ALMIGHTY GOD
+
+# THE REGENT OF LUMAJANG
+
+Considering : a. that until now cases of violence against women and children still frequently occur, while services and protection have not been carried out optimally;
+
+   - b. that in connection with the consideration referred to in letter a, it is deemed necessary to regulate the Implementation of Protection for Women and Children Victims of Violence in Lumajang Regency which is stipulated by Regional Regulation.
+
+In View of : 1. Law Number 12 of 1950, concerning the Establishment of Regency Regions within the Province of East Java (State Gazette of the Republic of Indonesia Year 1950 Number 19, Supplement to the State Gazette of the Republic of Indonesia Number 9);
+
+2. Law Number 6 of 1974, concerning Basic Provisions on Social Welfare (State Gazette of the Republic of Indonesia Year 1974 Number 53, Supplement to the State Gazette of the Republic of Indonesia Number 3039);
+3. Law Number 4 of 1979, concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 32, Supplement to the State Gazette of the Republic of Indonesia Number 3143);
+4. Law Number 7 of 1984, concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention on The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette of the Republic of Indonesia Number 3668);
+5. Law Number 23 of 1992, concerning Health (State Gazette of the Republic of Indonesia Year 1992 Number 100);
+6. Law Number 20 of 1999, concerning Ratification of ILO Convention Number 138 Concerning Minimum Age for Admission to Employment (State Gazette of the Republic of Indonesia Year 1999 Number 56, Supplement to the State Gazette of the Republic of Indonesia Number 3835);
+7. Law Number 5 of 1998, concerning the Convention Against Torture and Cruel Punishment (State Gazette of the Republic of Indonesia Year 1998 Number 164, Supplement to the State Gazette of the Republic of Indonesia Number 3783);
+8. Law Number 39 of 1999, concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);
+9. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 Concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor (State Gazette of the Republic of Indonesia Year 200 Number 30, Supplement to the State Gazette of the Republic of Indonesia Number 3941);
+10. Law Number 23 of 2002, concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette Number 4235);
+11. Law Number 10 of 2004, concerning the Formulation of Legislation (State Gazette of the Republic of Indonesia Year 2004 Number 53, Supplement to the State Gazette of the Republic of Indonesia Number 4389);
+12. Law Number 23 of 2004, concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);
+13. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended by Law Number 8 of 2005 State Gazette of the Republic of Indonesia Year 2005 Number 108, Supplement to the State Gazette of the Republic of Indonesia Number 4548);
+14. Law Number 33 of 2004 concerning Financial Balance between the Central Government and Regional Governments (State Gazette of the Republic of Indonesia Year 2004 Number 126, Supplement to the State Gazette of the Republic of Indonesia Number 4422);
+15. Government Regulation Number 38 of 2007 concerning the Division of Government Affairs Between the Government, Provincial Regional Government, and Regency/City Regional Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to the State Gazette Number 4737);
+16. Presidential Decree Number 36 of 1990 concerning Ratification of the Convention on the Rights of the Child;
+17. Presidential Decree Number 181 of 1998, concerning the National Commission on Violence Against Women;
+18. Presidential Decree Number 88 of 2002 concerning the National Action Plan (RAN) for the Elimination of Trafficking in Women and Children;
+19. Presidential Decree Number 61 of 2003 concerning the National Action Plan for Human Rights of Indonesia 1999 – 2003;
+20. Regional Regulation of East Java Province Number 9 of 2005, concerning the Implementation of Protection for Women and Children Victims of Violence.
+
+With Mutual Approval
+
+# REGIONAL HOUSE OF REPRESENTATIVES
+
+# LUMAJANG REGENCY
+
+# REGENT OF LUMAJANG
+
+# DECIDES:
+
+To Establish: REGIONAL REGULATION CONCERNING THE ADMINISTRATION OF PROTECTION FOR WOMEN AND CHILD VICTIMS
+
+# VIOLENCE IN LUMAJANG REGENCY.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation, what is meant by:
+
+1. Regional Government is the Government of Lumajang Regency;
+2. Regent is the Regent of Lumajang;
+3. Child is a person who has not yet reached 18 years of age, including those in the womb;
+4. Violence is any act that results in or may result in misery or suffering, whether physical, sexual, economic, or psychological, to the victim;
+5. Physical violence is any act that results in pain, injury, wounds, or disability to a person's body, miscarriage, fainting and/or causing death;
+6. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and severe psychological suffering to a person;
+7. Sexual violence is an act in the form of sexual harassment, coercion of unnatural or unwanted sexual relations, coercion of sexual relations with others for commercial purposes and certain purposes;
+8. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence;
+9. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim is about to occur, is occurring or has occurred;
+10. Companion is a person who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence;
+11. Integrated Service Center, hereinafter abbreviated as PPT is an institution providing services to victims of violence, based in hospitals, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services;
+12. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards;
+13. Community is individuals, families, groups, social organizations and/or community organizations;
+14. Family is the smallest unit in society consisting of husband-wife, or husband-wife and their children, or father with his children, and mother and her children;
+15. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins, and so on) and non-relatives (domestic helpers, drivers, and so on) who live and eat from one kitchen and reside in one house.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The principles of implementing protection for women and children victims of violence are:
+
+   - a. Respect for the rights of victims;
+   - b. Justice and gender equality;
+   - c. Non-discrimination;
+   - d. Best interests of victims;
+   - e. Respect for the rights of women and children.
+
+#### Article 3
+
+The purpose of implementing protection for women and children victims of violence is to provide protection and services to women and children victims of gender-based violence, based on the best interests of the victims, occurring in the household and/or in the public sphere.
+
+# CHAPTER III
+
+## RIGHTS OF VICTIMS
+
+#### Article 4
+
+Every victim has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage, and confidential handling, whether provided by individuals, groups, or institutions, whether the Regency Government or non-government.
+
+#### Article 5
+
+In the event of violence, every victim has the right to receive assistance both psychologically and legally as well as to receive guarantees of their rights related to their status as a wife, mother, child, family member or as a member of society.
+
+# CHAPTER IV
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 6
+
+1. The Regency Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence, in the form of:
+   - a. collecting data and information about the values and meaning of violence as well as laws and regulations;
+   - b. conducting education about anti-violence values toward women and children;
+   - c. conducting socialization of laws and regulations related to the implementation of protection for women and children victims of violence;
+   - d. conducting monitoring and evaluation of the implementation of protection for women and children victims of violence.
+2. To anticipate the occurrence of acts of violence, the Regency Government has the obligation to provide and organize services for victims in the form of:
+   - a. improving the quality of integrated service institutions for victims by involving community elements;
+   - b. encouraging community awareness of the importance of protection for victims.
+3. The Regency Government in carrying out obligations as referred to in paragraph (1) and paragraph (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons legally responsible for victims.
+
+# CHAPTER V
+
+## IMPLEMENTATION OF PROTECTION
+
+First Part Institutional
+
+#### Article 8
+
+1. The implementation of protection for victims is carried out in an integrated manner within the framework of PPT.
+2. The Lumajang Regency PPT may receive case referrals from Sub-districts within the Lumajang Regency Area.
+3. Provisions regarding PPT shall be further regulated in a Regent Regulation and/or Regent Decree.
+
+Second Part Form and Mechanism of Service
+
+#### Article 9
+
+1. The forms of services for victims organized by PPT include:
+   - a. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims, carried out by medical personnel and paramedics;
+   - b. medicolegal services constitute a form of medical services for evidentiary purposes in the legal field;
+   - c. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from threats and intimidation against victims and to provide social support so that victims have self-confidence, strength, and independence in resolving their problems;
+   - d. legal services to assist victims in undergoing the judicial process;
+   - e. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.
+2. The service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures, which will be further regulated by a Regent Regulation;
+
+Third Part Principles of Service
+
+#### Article 10
+
+The provision of services to victims shall be conducted free of charge, promptly, safely, with empathy, non-discriminatorily, easily accessible, and with a guarantee of confidentiality.
+
+#### Article 11
+
+The PPT Manager is obligated to provide services in accordance with the service principles as referred to in article 10.
+
+# CHAPTER VII
+
+## ASSISTANCE
+
+#### Article 12
+
+Assistance is carried out by parents or institutions that have expertise in conducting counseling, therapy and advocacy for the strengthening and recovery of victims of violence and have cooperated with PPT.
+
+# CHAPTER VIII
+
+## SANCTION PROVISIONS
+
+#### Article 13
+
+1. Every person who intentionally does not provide protection to women and children resulting in the occurrence of violence, allows violence to occur, and or does not report and does not provide protection to victims, shall be subject to sanctions as stipulated in the applicable laws and regulations.
+2. Officials appointed to administer protection who do not carry out their obligations and responsibilities shall be subject to administrative action or sanctions.
+3. PPT managers who carry out service duties that violate service principles, may be subject to sanctions in accordance with PPT internal mechanisms.
+
+# CHAPTER X
+
+## CLOSING PROVISIONS
+
+#### Article 14
+
+This Regional Regulation shall come into force from the date of promulgation.
+
+In order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Lumajang Regency.
+
+Enacted in Lumajang On the date of 9 November 2007
+
+##### REGENT OF LUMAJANG
+
+##### ACHMAD FAUZI
+
+##### ELUCIDATION
+
+##### REGIONAL REGULATION OF LUMAJANG REGENCY NUMBER 48 OF 2007
+
+##### CONCERNING
+
+THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE IN LUMAJANG REGENCY
+
+##### I. GENERAL EXPLANATION
+
+that the State has an obligation to provide a sense of security to its citizens from threats and actions that can disturb or damage psychological, physical, sexual and economic security, this is philosophically stated in the Preamble of the 1945 Constitution, that the first purpose of the establishment of the Unitary State of the Republic of Indonesia is to protect the entire nation and the entire Indonesian homeland.
+
+that the Government of Indonesia has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified CEDAW (Law Number 7 of 1948 concerning the Elimination of All Forms of Discrimination against Women), therefore it is obliged to comply with these provisions. Likewise in the 1945 Constitution fourth amendment Chapter XA of the 1945 Constitution concerning Human Rights is the responsibility of the state, especially the government.
+
+furthermore in the National Action Plan for the Elimination of Violence Against Women of 1999 it is stated that Women as Mothers of the Nation, and Children as successors of the nation are creatures created by God Almighty so they must be protected and their honor, dignity and self-respect must be safeguarded appropriately and proportionally, both legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and class.
+
+that from the series of provisions above, the Government is responsible for taking actions both legally, politically, economically, and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children because this constitutes a crime against human existence.
+
+##### II. ARTICLE-BY-ARTICLE EXPLANATION
+
+#### Article 1
+
+Sufficiently Clear
+
+#### Article 2
+
+- respect for the rights of victims is intended to guarantee the fulfillment of the rights of victims;
+
+- gender justice is a process to be fair to men and women;
+
+- gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, economic, socio-cultural activities, defense and security in enjoying the results of development;
+
+- non-discrimination is an attitude and treatment toward victims by not making distinctions on the basis of age, sex, race, ethnicity, religion, between groups;
+
+- the best interests of victims means that in all actions concerning victims carried out by the government, society, legislative bodies, and judicial bodies, the best interests of victims must be the primary consideration.
+
+#### Article 3
+
+what is meant by gender-based violence is actions based on gender relations that place women in a subordinate position to men
+
+#### Article 4
+
+what is meant by obtaining protection is obtaining protection from individuals, groups or institutions both government and non-government;
+
+obtaining information about the existence/location of complaint centers, PPT, and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and progress in handling the case;
+
+what is meant by integrated services are services that include medical, medico legal, psychosocial and legal;
+
+what is meant by continuous handling is handling that does not only stop at physical and psychological recovery, but until the victim can resume their life in society including restoration of their good name.
+
+#### Article 5
+
+what is meant by receiving psychological and legal assistance is psychological and legal assistance at every level of examination and throughout the judicial process.
+
+#### Article 6 through article 14
+
+Sufficiently Clear SUPPLEMENT TO THE REGIONAL GAZETTE OF LUMAJANG REGENCY YEAR 2007 NUMBER

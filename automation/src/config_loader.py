@@ -80,9 +80,11 @@ EVALUATION_METHODS = ("rag", "sliding_window")
 class ResolvedPipelineConfig:
     experiment_name: str
     translation_model: ModelProfile
+    translation_qa_model: ModelProfile
     evaluation_model: ModelProfile
     discrepancy_diagnosis_model: ModelProfile
     translation_prompt_path: Path
+    translation_qa_template_path: Path
     evaluation_criteria_dir: Path
     evaluation_template_path: Path
     discrepancy_diagnosis_template_path: Path
@@ -302,12 +304,16 @@ def resolve_prompt_paths(
     translation_version: str,
     evaluation_version: str,
     discrepancy_diagnosis_version: str,
-) -> tuple[Path, Path, Path, Path]:
+    translation_qa_version: str,
+) -> tuple[Path, Path, Path, Path, Path]:
     translation_prompt = PROMPTS_ROOT / "translation" / translation_version / "prompt.txt"
     evaluation_dir = PROMPTS_ROOT / "quality_eval" / evaluation_version
     evaluation_template = evaluation_dir / "prompt_template.txt"
     discrepancy_diagnosis_template = (
         PROMPTS_ROOT / "discrepancy_diagnosis" / discrepancy_diagnosis_version / "prompt_template.txt"
+    )
+    translation_qa_template = (
+        PROMPTS_ROOT / "translation_qa" / translation_qa_version / "prompt_template.txt"
     )
 
     if not translation_prompt.exists():
@@ -320,8 +326,16 @@ def resolve_prompt_paths(
         raise FileNotFoundError(
             f"Discrepancy diagnosis template not found: {discrepancy_diagnosis_template}"
         )
+    if not translation_qa_template.exists():
+        raise FileNotFoundError(f"Translation QA template not found: {translation_qa_template}")
 
-    return translation_prompt, evaluation_dir, evaluation_template, discrepancy_diagnosis_template
+    return (
+        translation_prompt,
+        evaluation_dir,
+        evaluation_template,
+        discrepancy_diagnosis_template,
+        translation_qa_template,
+    )
 
 
 def resolve_sliding_window_prompt_path(version: str) -> Path:
@@ -343,26 +357,38 @@ def load_pipeline_config(
     reranker_profiles = load_reranker_profiles(model_path)
 
     translation_cfg = pipeline_data.get("translation", {})
+    translation_qa_cfg = pipeline_data.get("translation_qa", {})
     evaluation_cfg = pipeline_data.get("evaluation", {})
     diagnosis_cfg = pipeline_data.get("discrepancy_diagnosis", {})
     paths_cfg = pipeline_data.get("paths", {})
 
     translation_model_key = translation_cfg.get("model")
+    translation_qa_model_key = translation_qa_cfg.get("model")
     evaluation_model_key = evaluation_cfg.get("model")
     diagnosis_model_key = diagnosis_cfg.get("model")
     if not translation_model_key or not evaluation_model_key:
         raise ValueError("pipeline_config must define translation.model and evaluation.model")
     if not diagnosis_model_key:
         raise ValueError("pipeline_config must define discrepancy_diagnosis.model")
+    if not translation_qa_model_key:
+        raise ValueError("pipeline_config must define translation_qa.model")
 
     translation_version = translation_cfg.get("prompt_version", "v1")
+    translation_qa_version = translation_qa_cfg.get("prompt_version", "v1")
     evaluation_version = evaluation_cfg.get("prompt_version", "v1")
     diagnosis_version = diagnosis_cfg.get("prompt_version", "v1")
 
-    translation_prompt, evaluation_dir, evaluation_template, diagnosis_template = resolve_prompt_paths(
+    (
+        translation_prompt,
+        evaluation_dir,
+        evaluation_template,
+        diagnosis_template,
+        translation_qa_template,
+    ) = resolve_prompt_paths(
         translation_version,
         evaluation_version,
         diagnosis_version,
+        translation_qa_version,
     )
 
     rag_cfg = evaluation_cfg.get("rag") or {}
@@ -380,9 +406,11 @@ def load_pipeline_config(
     return ResolvedPipelineConfig(
         experiment_name=pipeline_data.get("experiment_name", "unnamed"),
         translation_model=get_model_profile(profiles, translation_model_key),
+        translation_qa_model=get_model_profile(profiles, translation_qa_model_key),
         evaluation_model=get_model_profile(profiles, evaluation_model_key),
         discrepancy_diagnosis_model=get_model_profile(profiles, diagnosis_model_key),
         translation_prompt_path=translation_prompt,
+        translation_qa_template_path=translation_qa_template,
         evaluation_criteria_dir=evaluation_dir,
         evaluation_template_path=evaluation_template,
         discrepancy_diagnosis_template_path=diagnosis_template,
@@ -416,8 +444,9 @@ def get_run_dir(run_id: str) -> Path:
 
 
 def results_dir(run_dir: Path, name: str) -> Path:
-    """Path to a main-result subfolder (cleaned_text, translation, evaluation,
-    comparison, diagnosis) — final deliverables of the pipeline."""
+    """Path to a main-result subfolder (cleaned_text, cleaned_markdown,
+    translation, translation_markdown, evaluation, comparison, diagnosis) —
+    final deliverables of the pipeline."""
     return run_dir / "results" / name
 
 

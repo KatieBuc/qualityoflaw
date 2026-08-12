@@ -36,6 +36,12 @@ def model_config_path(tmp_path):
                 "max_tokens": None,
                 "max_retries": 2,
             },
+            "test-translation-qa": {
+                "deployment": "gpt-5.2",
+                "temperature": 0.1,
+                "max_tokens": None,
+                "max_retries": 2,
+            },
         }
     }
     path = tmp_path / "model_config.yaml"
@@ -48,6 +54,7 @@ def pipeline_config_path(tmp_path, model_config_path):
     data = {
         "experiment_name": "test_experiment",
         "translation": {"model": "test-translate", "prompt_version": "v1"},
+        "translation_qa": {"model": "test-translation-qa", "prompt_version": "v1"},
         "evaluation": {"model": "test-eval", "prompt_version": "v1"},
         "discrepancy_diagnosis": {"model": "test-diagnosis", "prompt_version": "v1"},
         "paths": {
@@ -73,11 +80,13 @@ def test_load_pipeline_config(pipeline_config_path, model_config_path):
     config = load_pipeline_config(pipeline_config_path, model_config_path)
     assert config.experiment_name == "test_experiment"
     assert config.translation_model.name == "test-translate"
+    assert config.translation_qa_model.name == "test-translation-qa"
     assert config.evaluation_model.name == "test-eval"
     assert config.discrepancy_diagnosis_model.name == "test-diagnosis"
     assert config.concurrency.enabled is True
     assert config.concurrency.max_workers == 5
     assert config.translation_prompt_path.exists()
+    assert config.translation_qa_template_path.exists()
     assert config.evaluation_template_path.exists()
     assert config.discrepancy_diagnosis_template_path.exists()
     assert config.chunking.enabled is False

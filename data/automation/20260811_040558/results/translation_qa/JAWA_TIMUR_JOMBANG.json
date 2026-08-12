@@ -1,0 +1,278 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 31,
+  "chunks_corrected": 18,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"KARUPATE\" is not translated; it appears to be the regent heading and should be rendered as \"REGENT\" (or equivalent), not omitted/changed to \"REGENCY\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Mengingat\" should be translated as \"Bearing in mind\" (or \"In view of\"), not \"Noting\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: items 3 and 4 are run together on one line; items 10 and 11 are run together on one line.",
+        "Meaning drift/typo: Indonesian text has duplicated word \"meningkatkan meningkatkan\" which is not reflected in the translation (should be preserved as in source for fidelity).",
+        "Meaning drift: \"Peraturan Pemerintah Pemerintah\" (duplicated word) in item 11 is not reflected in the translation (should be preserved as in source for fidelity)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in translation: \"# }\".",
+        "Scrambled numbering/structure: items 14–15 and 17–18 are run together on the same line; should be separated into distinct numbered items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering: \"based on gender\" should reflect \"berbasis gender\" (gender-based), i.e., violence that is gender-based, not protection/services based on gender."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: item (1) letter points a and b and the start of paragraph (2) run together on one line; list markers are not clearly separated per the original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"First Part Institutional\" is an incorrect/unnatural rendering of \"Bagian Pertama Kelembagaan\"; it should be \"First Part: Institutional\" (Institutional Affairs/Institutional Framework)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (a regulation issued by the Regent), not \"Regent Regulation\" without the article; better rendered as \"a Regent Regulation\" to reflect \"dengan Peraturan Bupati\".",
+        "Minor omission/structure: Paragraph (1) marker is not present in the Indonesian excerpt (likely OCR omission), but the translation adds \"(1)\"; keep structure consistent with the provided source text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the clause 'yang tergabung dalam Tim Pengelola P2T-P2A' modifies the person/institution providing assistance, not the victims."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Plt.\" (Pelaksana Tugas) should be translated as \"Acting\" and placed before the title; \"Kabupaten\" should be rendered as \"Regency of\" rather than \"of the Regency\".",
+        "Formatting/structure: missing line break/punctuation separation between the promulgation clause and the official's title, causing the text to run together."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Indonesian civil-service rank \"Pembina Utama Muda\" was mistranslated as \"Principal Senior Supervisor\"; it should be rendered as \"Young Principal Supervisor\" (or kept as the official rank title)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/incorrect rendering of official titles: \"Asisten Tata Praja\" translated as \"Assistant for General Administration\"; \"Sekretaris Daerah\" should be \"Regional Secretary\" (not \"Regional Secretary it.\")",
+        "Untranslated/garbled abbreviation: \"it.\" appears in the English text and does not correspond to the Indonesian source"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pembina Utama Muda\" is a civil-service rank; translated as \"Principal Young Supervisor\" which is inaccurate.",
+        "Meaning drift: \"DAERAH\" should be rendered as \"Regional\" modifying \"Secretariat\" (i.e., \"Regional Secretariat\"), not split into two separate lines changing the intended unit name."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"tumpah darah Indonesia\" translated as \"entire homeland of Indonesia\"; should be \"the entire bloodshed/territory of Indonesia\" (standard rendering: \"the entire Indonesian nation and the entire homeland/territory of Indonesia\").",
+        "Leftover/stray punctuation: leading standalone \".\" before the final paragraph is not part of the legal text and should be removed. (It appears to be an OCR artifact from the source.)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal characters from source/OCR included in translation (\"}\", \"#\")",
+        "List/numbering structure incomplete: \"Number 4\" has no content in the translation, matching an apparent missing/stray marker in the source"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering: the phrase \"from the court, husband, wife and children\" misrepresents the original, which lists the court as an institution providing protection and separately mentions husband, wife, and children as subjects covered; needs restructuring to reflect the original meaning.",
+        "Minor meaning drift: \"complaint centers\" should be \"complaint/reporting places\" (tempat pengaduan) and \"companion institutions\" should be \"assisting/companion institutions\"; adjust to better match original without adding content.",
+        "Punctuation/run-on sentence: the last paragraph merges two definitions with a comma; should be separated to reflect two distinct definitional sentences in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear list structure: item markers (Letter a, b, c, d) and 'Sufficiently clear' statements are run together without clear separation, making it ambiguous which text belongs to which letter.",
+        "Minor meaning/clarity drift from structure: 'Cukup jelas' for Letter c is not clearly preserved as belonging to Letter c due to formatting."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Kesatuan Polri' translated as 'Police Unit' (should be Indonesian National Police/Police institution context).",
+        "Meaning drift: 'dengan pengantar surat visum dari Kepolisian' rendered as 'with a visum letter of introduction from the Police' (should be 'with an introductory letter for a visum from the Police')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_JOMBANG.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.602737+00:00",
+  "prompt_version": "v1"
+}

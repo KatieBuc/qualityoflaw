@@ -1,0 +1,999 @@
+{
+  "diagnoses": {
+    "1.2": {
+      "indicator": "Sexual violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text broadly addresses 'violence against women' and cites a law on sexual violence in the preamble, none of the provided sentences explicitly include or define sexual violence as a form addressed by the policy.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.5521534
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.54441386
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF MAMUJU\nWEST SULAWESI PROVINCE\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 YEAR 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MAMUJU,\n\nConsidering : a. that the fulfillment of constitutional rights and protection of women's human rights regarding empowerment and protection of women is one of the values contained in Pancasila and the 1945 Constitution;\nb. that women play a very important role in the process of continuation and creation of quality generations, thus requiring a sense of security, obtaining guarantees of protection from acts of violence and discrimination, and need to be empowered so that they can actualize their potential optimally;\nc. that based on Law Number 23 Year 2014 concerning Regional Government as mentioned in the Appendix that the division of government affairs in the field of women's empowerment with one of the sub-affairs is the protection of women;\nd. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 29 Year 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n3. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);\n4. Law Number 12 Year 2022 concerning Criminal Acts of Sexual Violence (State Gazette of the Republic of Indonesia Year 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF MAMUJU REGENCY and",
+          "score": 0.5327655
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.53082025
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.5288741
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.52692705
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.49570328
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The forms of services as referred to in Article 23 include:\na. complaint services;\nb. health services;\nc. social rehabilitation services;\nd. legal aid and law enforcement services; and\ne. repatriation and social reintegration services.\n(2) Services for women victims of violence shall be implemented promptly, free of charge, comprehensively, with quality and integrated with services provided by government agencies, communities, educational institutions, religious institutions, professional institutions, Islamic boarding schools, and the business sector through an integrated service system.",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing education regarding women's rights;\nb. providing skills training to support the community's economy;\nc. establishing social community institutions to assist victims of violence;\nd. providing information and/or reporting violence against women to law enforcement or the authorities; and/or\ne. participating in handling acts of violence against women.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 65,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 OF 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\n\nI. GENERAL ELUCIDATION\n\nEmpowerment and Protection of women currently needs to receive serious attention from all parties, including attention from the Regional Government, in relation to the existence of phenomena in social and community life that often make women victims of violence and exploitation; they are often positioned as economic objects and are often excluded and/or marginalized in social interaction.\n\nIn Law Number 23 of 2004 concerning the Elimination of Domestic Violence (UU KDRT), it is stipulated that the state guarantees to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence. Victims of domestic violence, who are mostly women and children, must receive protection in order to avoid and be free from violence or threats of violence, torture, or treatment that degrades human dignity and worth. Therefore, the Regional Government makes regulations related to the Empowerment and Protection of Women.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\n(1) In the implementation of protection services for women, the Regional Government establishes P2TP2A as a service network for women victims of violence.\n(2) The establishment of P2TP2A is intended so that women victims of violence obtain comprehensive, integrated, quality, inclusive and sustainable services.\n(3) P2TP2A as referred to in paragraph (1) has the following duties:\n a. provide services to women victims of violence in accordance with standard operating procedures;\n b. coordinate prevention, services and referrals between government-owned service institutions, community-owned service institutions, professional organizations, law enforcement institutions and other related institutions;\n c. conduct data collection on case services;\n d. provide various information needed by victims, victims' families and the community;\n e. conduct prevention of recurrence of violence, exploitation and discrimination against women;\n f. conduct monitoring and evaluation of victim services; and\n g. provide capacity strengthening, guidance and assistance related to victim services.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 30,
+          "text": "Second Part\nProvision of Services for Women Victims of Violence",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 55,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) The Regent implements guidance and supervision of women's empowerment and protection in the Region. (2) In implementing guidance and supervision as referred to in paragraph (1), the Regent assigns the Regional Apparatus that handles women's empowerment and child protection affairs.\n(3) The Regional Apparatus that handles women's empowerment and child protection affairs as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and protection in the Region.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Social rehabilitation services as referred to in Article 24 paragraph (1) letter c shall be implemented with the following activities:\na. counseling;\nb. assistance;\nc. linguists and/or interpreters;\nd. spiritual guidance;\ne. shelters and/or safe houses;\nf. temporary shelter;\ng. strengthening based on family and/or group support;\nh. mobility support for victims with disabilities;\ni. provision of special social assistance for victims; and\nj. other forms of social rehabilitation services needed by victims.\n(2) Social rehabilitation services as referred to in paragraph (1) letter a, letter b, letter c, letter d, letter f, letter g, letter h, and letter i shall be the responsibility of Regional Apparatus in charge of women's empowerment and child protection affairs.\n(3) Social rehabilitation services as referred to in paragraph (1) letter e and letter j shall be the responsibility of Regional Apparatus in charge of social affairs and women's empowerment and child protection affairs.\n(4) Further provisions regarding social rehabilitation services shall be regulated by Regent Regulation.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 18,
+          "text": "Paragraph 3\nSocial Sector",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 16,
+          "text": "Paragraph 2\nLegal Field",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER III\nWOMEN'S RIGHTS\nArticle 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, have a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement;\ng. be free from threats;\nh. obtain protection of her person, family, honor, dignity and property rights;\ni. obtain welfare and a decent life;\nj. participate in the political, economic, social and cultural fields;\nk. perform legal acts; and\nl. be free to choose a partner in her marriage.\n(2) Every wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children, and ownership and management of joint property in accordance with applicable laws and regulations.\n(3) After the dissolution of marriage, a woman has rights and responsibilities with her former husband over all matters relating to children with due regard to the best interests of the child.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 25\n(1) Complaint services as referred to in Article 24 paragraph (1) letter a consist of:\na. complaint reception;\nb. special complaints;\nc. provision of information;\nd. outreach;\ne. crisis or emergency services;\nf. assessment; and\ng. other forms of complaint services needed by victims.\n(2) Complaint services as referred to in paragraph (1) shall be carried out by trained officers in a special room that is safe and comfortable.\n(3) Further provisions regarding complaint services shall be regulated by Regent Regulation.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 26\n(1) Health services as referred to in Article 24 paragraph (1) letter b shall be implemented with the following activities:\na. physical and mental health examination and treatment;\nb. psychological examination and recovery;\nc. pregnancy, childbirth, and reproductive health services;\nd. medical resume and psychological examination results;\ne. visum et repertum and visum et psikiatrikum;\nf. Deoxyribo Nucleic Acid test; and\ng. other forms of health services needed by victims.\n(2) Health services for female victims shall be carried out by trained officers in a special room that is safe and comfortable.\n(3) Health services as referred to in paragraph (1) shall be carried out through a special mechanism of integrated services based on hospitals and shall be the responsibility of Regional Apparatus that administers health affairs.\n(4) Further provisions regarding health services shall be regulated by Regent Regulation.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER X\nTRANSITIONAL PROVISIONS\nArticle 43\nUpon the entry into force of this Regional Regulation, all provisions of regional laws and regulations related to the Implementation of Women's Empowerment and Protection that have existed thus far, shall remain in force insofar as they are not contrary to the provisions in this Regional Regulation.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 29\n(1) Repatriation and social reintegration services as referred to in Article 24 paragraph (1) letter e shall be implemented with the following activities:\n a. repatriation and/or retrieval of victims;\n b. provision of population documents or personal identity;\n c. alternative family;\n d. scholarships and educational support facilities;\n e. non-formal education;\n f. skills training and economic enterprise;\n g. financial assistance and business capital;\n h. economic enterprise assistance;\n i. housing assistance;\n j. food and/or nutrition assistance for victims and their families;\n k. provision of social protection programs and poverty alleviation programs;\n l. other forms of repatriation and social reintegration services needed by victims.\n(2) Repatriation and social reintegration services as referred to in paragraph (1) shall be provided to victims, families and persons whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.\n(3) Repatriation and social reintegration services as referred to in paragraph (1) shall be conducted in an integrated manner with the Integrated Referral Service System for social protection and poverty alleviation and the Child Social Welfare Center.\n(4) Repatriation and social reintegration services as referred to in paragraph (1) shall be the responsibility of Regional Apparatus in charge of:\n a. social affairs;\n b. population administration and civil registration affairs;\n c. labor affairs;\n d. small and medium enterprise cooperative affairs;\n e. education affairs;\n f. health affairs;\n g. public works and spatial planning affairs;\n h. land affairs, women's empowerment and child protection affairs; and\n i. other related affairs.\n(5) Further provisions regarding repatriation and social reintegration services shall be regulated by Regent Regulation.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 109,
+          "text": "Article 44\nSufficiently Clear",
+          "score": 0.3644156
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation defines “Kekerasan Terhadap Perempuan” broadly (Pasal 1 angka 8) and regulates prevention and services for women victims of violence, but it does not explicitly mention “kekerasan seksual” as a category within the operative articles. The only explicit sexual-violence reference is in the legal basis (“Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual”) in the preamble, which is a citation of higher law, not a substantive inclusion/definition of sexual violence in this local regulation. Given that, a ‘Yes’ golden label for ‘Sexual violence’ appears unsupported by the actual Indonesian text; the judge’s ‘No’ is reasonable.",
+      "diagnosis_status": "ok"
+    },
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "Empowerment and Protection of women currently needs to receive serious attention from all parties, including attention from the Regional Government, in relation to the existence of phenomena in social and community life that often make women victims of violence and exploitation; they are often positioned as economic objects and are often excluded and/or marginalized in social interaction.",
+      "evaluator_rationale": "The general elucidation states that women are often positioned as economic objects and are victims of exploitation, which constitutes inclusion of economic exploitation as a relevant form of violence/abuse addressed by the regulation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.6615731
+        },
+        {
+          "chunk_id": 65,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 OF 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\n\nI. GENERAL ELUCIDATION\n\nEmpowerment and Protection of women currently needs to receive serious attention from all parties, including attention from the Regional Government, in relation to the existence of phenomena in social and community life that often make women victims of violence and exploitation; they are often positioned as economic objects and are often excluded and/or marginalized in social interaction.\n\nIn Law Number 23 of 2004 concerning the Elimination of Domestic Violence (UU KDRT), it is stipulated that the state guarantees to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence. Victims of domestic violence, who are mostly women and children, must receive protection in order to avoid and be free from violence or threats of violence, torture, or treatment that degrades human dignity and worth. Therefore, the Regional Government makes regulations related to the Empowerment and Protection of Women.",
+          "score": 0.61286587
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.5752063
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.5502207
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.5405358
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.5249792
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\n(1) In the implementation of protection services for women, the Regional Government establishes P2TP2A as a service network for women victims of violence.\n(2) The establishment of P2TP2A is intended so that women victims of violence obtain comprehensive, integrated, quality, inclusive and sustainable services.\n(3) P2TP2A as referred to in paragraph (1) has the following duties:\n a. provide services to women victims of violence in accordance with standard operating procedures;\n b. coordinate prevention, services and referrals between government-owned service institutions, community-owned service institutions, professional organizations, law enforcement institutions and other related institutions;\n c. conduct data collection on case services;\n d. provide various information needed by victims, victims' families and the community;\n e. conduct prevention of recurrence of violence, exploitation and discrimination against women;\n f. conduct monitoring and evaluation of victim services; and\n g. provide capacity strengthening, guidance and assistance related to victim services.",
+          "score": 0.46840155
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing education regarding women's rights;\nb. providing skills training to support the community's economy;\nc. establishing social community institutions to assist victims of violence;\nd. providing information and/or reporting violence against women to law enforcement or the authorities; and/or\ne. participating in handling acts of violence against women.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER III\nWOMEN'S RIGHTS\nArticle 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, have a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement;\ng. be free from threats;\nh. obtain protection of her person, family, honor, dignity and property rights;\ni. obtain welfare and a decent life;\nj. participate in the political, economic, social and cultural fields;\nk. perform legal acts; and\nl. be free to choose a partner in her marriage.\n(2) Every wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children, and ownership and management of joint property in accordance with applicable laws and regulations.\n(3) After the dissolution of marriage, a woman has rights and responsibilities with her former husband over all matters relating to children with due regard to the best interests of the child.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 30,
+          "text": "Second Part\nProvision of Services for Women Victims of Violence",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 34\nGuidance as referred to in Article 32 letter b includes:\na. providing protection and assistance to develop oneself through enhancement of family capabilities and skills;\nb. conducting counseling on improving women's quality of life;\nc. conducting counseling on improving gender equality in family and community life;\nd. improving access and opportunities to receive information and economic resources through efforts to increase prosperous family income and enhance women's economic productivity; and\ne. undertaking empowerment efforts for women heads of household.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The forms of services as referred to in Article 23 include:\na. complaint services;\nb. health services;\nc. social rehabilitation services;\nd. legal aid and law enforcement services; and\ne. repatriation and social reintegration services.\n(2) Services for women victims of violence shall be implemented promptly, free of charge, comprehensively, with quality and integrated with services provided by government agencies, communities, educational institutions, religious institutions, professional institutions, Islamic boarding schools, and the business sector through an integrated service system.",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 20,
+          "text": "Paragraph 4\nEconomic Sector",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 16,
+          "text": "Paragraph 2\nLegal Field",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nEmpowerment of Women as referred to in Article 5 paragraph (1) letter c is directed to obtain opportunities and rights as human beings in order to be able to play a role and participate in the fields of:\na. politics;\nb. law;\nc. social culture; and\nd. economy.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF MAMUJU\nWEST SULAWESI PROVINCE\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 YEAR 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MAMUJU,\n\nConsidering : a. that the fulfillment of constitutional rights and protection of women's human rights regarding empowerment and protection of women is one of the values contained in Pancasila and the 1945 Constitution;\nb. that women play a very important role in the process of continuation and creation of quality generations, thus requiring a sense of security, obtaining guarantees of protection from acts of violence and discrimination, and need to be empowered so that they can actualize their potential optimally;\nc. that based on Law Number 23 Year 2014 concerning Regional Government as mentioned in the Appendix that the division of government affairs in the field of women's empowerment with one of the sub-affairs is the protection of women;\nd. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 29 Year 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n3. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);\n4. Law Number 12 Year 2022 concerning Criminal Acts of Sexual Violence (State Gazette of the Republic of Indonesia Year 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF MAMUJU REGENCY and",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 15\nSufficiently clear",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 18,
+          "text": "Paragraph 3\nSocial Sector",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 14,
+          "text": "Paragraph 1\nPolitical Field",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 100,
+          "text": "Article 35\nSufficiently Clear",
+          "score": 0.36080432
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The judge treated the General Elucidation phrase “sering menjadikan korban atas kekerasan dan ekploitasi… diposisikan sebagai objek ekonomi” as equivalent to ‘economic violence’. In the Indonesian text, this is a contextual description of marginalization/exploitation, not a clear policy scope statement defining/including economic violence as a specific form of violence addressed. The operative provisions also do not define “kekerasan ekonomi” or similar; they use general “kekerasan” and “eksploitasi” (e.g., Pasal 16(1)(b), Pasal 20(3)(e)). So the retrieved English passages were not sufficient to justify a confident ‘Yes’ for the specific indicator ‘Economic violence’; the judge over-interpreted general “exploitation/economic objectification” language.",
+      "diagnosis_status": "ok"
+    },
+    "1.9": {
+      "indicator": "Sexual slavery/exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences mention exploitation in general but do not explicitly refer to sexual exploitation or sexual slavery.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.49570328
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER III\nWOMEN'S RIGHTS\nArticle 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, have a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement;\ng. be free from threats;\nh. obtain protection of her person, family, honor, dignity and property rights;\ni. obtain welfare and a decent life;\nj. participate in the political, economic, social and cultural fields;\nk. perform legal acts; and\nl. be free to choose a partner in her marriage.\n(2) Every wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children, and ownership and management of joint property in accordance with applicable laws and regulations.\n(3) After the dissolution of marriage, a woman has rights and responsibilities with her former husband over all matters relating to children with due regard to the best interests of the child.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 55,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) The Regent implements guidance and supervision of women's empowerment and protection in the Region. (2) In implementing guidance and supervision as referred to in paragraph (1), the Regent assigns the Regional Apparatus that handles women's empowerment and child protection affairs.\n(3) The Regional Apparatus that handles women's empowerment and child protection affairs as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and protection in the Region.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\n(1) In the implementation of protection services for women, the Regional Government establishes P2TP2A as a service network for women victims of violence.\n(2) The establishment of P2TP2A is intended so that women victims of violence obtain comprehensive, integrated, quality, inclusive and sustainable services.\n(3) P2TP2A as referred to in paragraph (1) has the following duties:\n a. provide services to women victims of violence in accordance with standard operating procedures;\n b. coordinate prevention, services and referrals between government-owned service institutions, community-owned service institutions, professional organizations, law enforcement institutions and other related institutions;\n c. conduct data collection on case services;\n d. provide various information needed by victims, victims' families and the community;\n e. conduct prevention of recurrence of violence, exploitation and discrimination against women;\n f. conduct monitoring and evaluation of victim services; and\n g. provide capacity strengthening, guidance and assistance related to victim services.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF MAMUJU\nWEST SULAWESI PROVINCE\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 YEAR 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MAMUJU,\n\nConsidering : a. that the fulfillment of constitutional rights and protection of women's human rights regarding empowerment and protection of women is one of the values contained in Pancasila and the 1945 Constitution;\nb. that women play a very important role in the process of continuation and creation of quality generations, thus requiring a sense of security, obtaining guarantees of protection from acts of violence and discrimination, and need to be empowered so that they can actualize their potential optimally;\nc. that based on Law Number 23 Year 2014 concerning Regional Government as mentioned in the Appendix that the division of government affairs in the field of women's empowerment with one of the sub-affairs is the protection of women;\nd. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 29 Year 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n3. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);\n4. Law Number 12 Year 2022 concerning Criminal Acts of Sexual Violence (State Gazette of the Republic of Indonesia Year 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF MAMUJU REGENCY and",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 65,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 OF 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\n\nI. GENERAL ELUCIDATION\n\nEmpowerment and Protection of women currently needs to receive serious attention from all parties, including attention from the Regional Government, in relation to the existence of phenomena in social and community life that often make women victims of violence and exploitation; they are often positioned as economic objects and are often excluded and/or marginalized in social interaction.\n\nIn Law Number 23 of 2004 concerning the Elimination of Domestic Violence (UU KDRT), it is stipulated that the state guarantees to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence. Victims of domestic violence, who are mostly women and children, must receive protection in order to avoid and be free from violence or threats of violence, torture, or treatment that degrades human dignity and worth. Therefore, the Regional Government makes regulations related to the Empowerment and Protection of Women.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 16,
+          "text": "Paragraph 2\nLegal Field",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 18,
+          "text": "Paragraph 3\nSocial Sector",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 15\nSufficiently clear",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The forms of services as referred to in Article 23 include:\na. complaint services;\nb. health services;\nc. social rehabilitation services;\nd. legal aid and law enforcement services; and\ne. repatriation and social reintegration services.\n(2) Services for women victims of violence shall be implemented promptly, free of charge, comprehensively, with quality and integrated with services provided by government agencies, communities, educational institutions, religious institutions, professional institutions, Islamic boarding schools, and the business sector through an integrated service system.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Social rehabilitation services as referred to in Article 24 paragraph (1) letter c shall be implemented with the following activities:\na. counseling;\nb. assistance;\nc. linguists and/or interpreters;\nd. spiritual guidance;\ne. shelters and/or safe houses;\nf. temporary shelter;\ng. strengthening based on family and/or group support;\nh. mobility support for victims with disabilities;\ni. provision of special social assistance for victims; and\nj. other forms of social rehabilitation services needed by victims.\n(2) Social rehabilitation services as referred to in paragraph (1) letter a, letter b, letter c, letter d, letter f, letter g, letter h, and letter i shall be the responsibility of Regional Apparatus in charge of women's empowerment and child protection affairs.\n(3) Social rehabilitation services as referred to in paragraph (1) letter e and letter j shall be the responsibility of Regional Apparatus in charge of social affairs and women's empowerment and child protection affairs.\n(4) Further provisions regarding social rehabilitation services shall be regulated by Regent Regulation.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 93,
+          "text": "Article 28\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\n(1) To improve the quality of life of women, the Regional Government is responsible for:\na. respecting and guaranteeing the rights of women without discrimination in accordance with human dignity and worth;\nb. institutionalization of PUG in Regional Government institutions;\nc. Women's Empowerment;\nd. strengthening and developing service provider institutions for Women's Empowerment in the Region.\n(2) Efforts to improve the quality of life of women as referred to in paragraph (1) shall be implemented by the Regional Apparatus (PD) that administers governmental affairs in the field of women's empowerment and child protection.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 100,
+          "text": "Article 35\nSufficiently Clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 108,
+          "text": "Article 43\nSufficiently Clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 106,
+          "text": "Article 41\nSufficiently Clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 105,
+          "text": "Article 40\nSufficiently Clear",
+          "score": 0.3465192
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation does not explicitly mention “perbudakan seksual” or “eksploitasi seksual.” It mentions “eksploitasi” generally (e.g., Pasal 16(1)(b); Pasal 20(3)(e)) and “perdagangan orang” in the definition of P2TP2A (Pasal 1 angka 9: “termasuk perdagangan orang”), but that still is not an explicit statement about sexual slavery/sexual exploitation. Because the substantive text lacks a specific sexual exploitation/slavery reference, the golden label ‘Yes’ appears incorrect; the judge’s ‘No’ aligns with the Indonesian ground truth.",
+      "diagnosis_status": "ok"
+    },
+    "1.10": {
+      "indicator": "Technology facilitated violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "i. conducting education and advocacy to owners, managers and/or users of social media;",
+      "evaluator_rationale": "The prevention measures explicitly include education and advocacy directed at owners/managers/users of social media, indicating the policy addresses violence prevention in digital/social-media contexts (technology-facilitated dimension).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 16,
+          "text": "Paragraph 2\nLegal Field",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 18,
+          "text": "Paragraph 3\nSocial Sector",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 4\nParagraph (1) Sufficiently Clear",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 93,
+          "text": "Article 28\nSufficiently Clear",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 101,
+          "text": "Article 36\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 13\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 100,
+          "text": "Article 35\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 106,
+          "text": "Article 41\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 103,
+          "text": "Article 38\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 109,
+          "text": "Article 44\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 104,
+          "text": "Article 39\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 108,
+          "text": "Article 43\nSufficiently Clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 84,
+          "text": "Article 19\nSufficiently clear.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 12\nSufficiently Clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 15\nSufficiently clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 7\nSufficiently Clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 11\nSufficiently Clear",
+          "score": 0.3465192
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text (Pasal 17(2) huruf i) says “melakukan edukasi dan advokasi kepada pemilik, pengelola dan/atau pengguna sosial media.” This is a prevention activity involving social media, but it does not explicitly define or include technology-facilitated violence (e.g., online harassment, non-consensual image sharing, cyberstalking) as a form of violence within the policy’s scope. The judge inferred that any social-media-related prevention equals coverage of technology-facilitated violence; that inference is too broad for a scope-of-violence indicator, so this is an evaluation/interpretation error rather than missing evidence.",
+      "diagnosis_status": "ok"
+    },
+    "2.3": {
+      "indicator": "Data collection systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "c. conduct data collection on case services;",
+      "evaluator_rationale": "The policy assigns P2TP2A the duty to conduct data collection on case services, establishing an entity responsible for collecting information related to violence cases and service provision.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 31,
+          "text": "Article 20\n(1) In the implementation of protection services for women, the Regional Government establishes P2TP2A as a service network for women victims of violence.\n(2) The establishment of P2TP2A is intended so that women victims of violence obtain comprehensive, integrated, quality, inclusive and sustainable services.\n(3) P2TP2A as referred to in paragraph (1) has the following duties:\n a. provide services to women victims of violence in accordance with standard operating procedures;\n b. coordinate prevention, services and referrals between government-owned service institutions, community-owned service institutions, professional organizations, law enforcement institutions and other related institutions;\n c. conduct data collection on case services;\n d. provide various information needed by victims, victims' families and the community;\n e. conduct prevention of recurrence of violence, exploitation and discrimination against women;\n f. conduct monitoring and evaluation of victim services; and\n g. provide capacity strengthening, guidance and assistance related to victim services.",
+          "score": 0.62392694
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.59417456
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.5405358
+        },
+        {
+          "chunk_id": 30,
+          "text": "Second Part\nProvision of Services for Women Victims of Violence",
+          "score": 0.52108127
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.50546855
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing education regarding women's rights;\nb. providing skills training to support the community's economy;\nc. establishing social community institutions to assist victims of violence;\nd. providing information and/or reporting violence against women to law enforcement or the authorities; and/or\ne. participating in handling acts of violence against women.",
+          "score": 0.4976563
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.48594123
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.4761899
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The forms of services as referred to in Article 23 include:\na. complaint services;\nb. health services;\nc. social rehabilitation services;\nd. legal aid and law enforcement services; and\ne. repatriation and social reintegration services.\n(2) Services for women victims of violence shall be implemented promptly, free of charge, comprehensively, with quality and integrated with services provided by government agencies, communities, educational institutions, religious institutions, professional institutions, Islamic boarding schools, and the business sector through an integrated service system.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 55,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) The Regent implements guidance and supervision of women's empowerment and protection in the Region. (2) In implementing guidance and supervision as referred to in paragraph (1), the Regent assigns the Regional Apparatus that handles women's empowerment and child protection affairs.\n(3) The Regional Apparatus that handles women's empowerment and child protection affairs as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and protection in the Region.",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 41,
+          "text": "Third Part\nStrengthening and Development of Institutions Providing Women's Protection Services",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 41\n(1) Guidance and supervision as referred to in Article 40 shall be implemented with the following activities:\na. routine coordination;\nb. preparation of modules and work guidelines;\nc. technical guidance and training;\nd. preparation of standard operating procedures;\ne. providing facilities and mechanisms for managing complaints or grievances related to services for women victims from the community;\nf. service access testing;\ng. mapping and studies;\nh. resolution of inter-agency disputes;\ni. monitoring and evaluation; and\nj. reporting.\n(2) Guidance and supervision shall be implemented at least 1 (one) time in 1 (one) year.\n(3) The results of the implementation of guidance and supervision shall be reported to the Regent.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF MAMUJU\nWEST SULAWESI PROVINCE\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 YEAR 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MAMUJU,\n\nConsidering : a. that the fulfillment of constitutional rights and protection of women's human rights regarding empowerment and protection of women is one of the values contained in Pancasila and the 1945 Constitution;\nb. that women play a very important role in the process of continuation and creation of quality generations, thus requiring a sense of security, obtaining guarantees of protection from acts of violence and discrimination, and need to be empowered so that they can actualize their potential optimally;\nc. that based on Law Number 23 Year 2014 concerning Regional Government as mentioned in the Appendix that the division of government affairs in the field of women's empowerment with one of the sub-affairs is the protection of women;\nd. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 29 Year 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n3. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);\n4. Law Number 12 Year 2022 concerning Criminal Acts of Sexual Violence (State Gazette of the Republic of Indonesia Year 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF MAMUJU REGENCY and",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 4\nParagraph (1) Sufficiently Clear",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 15\nSufficiently clear",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 18,
+          "text": "Paragraph 3\nSocial Sector",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 93,
+          "text": "Article 28\nSufficiently Clear",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 16,
+          "text": "Paragraph 2\nLegal Field",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 106,
+          "text": "Article 41\nSufficiently Clear",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 102,
+          "text": "Article 37\nSufficiently Clear",
+          "score": 0.36080432
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text clearly assigns P2TP2A a duty to “melakukan pendataan pelayanan kasus” (Pasal 20 ayat (3) huruf c), i.e., data collection/recording of case services. That is a concrete data-collection mechanism within the institutional setup. Since this exact content was also present in the retrieved English passage and the judge’s reasoning matches it, the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. providing education regarding women's rights;\nc. conducting counseling on improving gender equality in family and community life;",
+      "evaluator_rationale": "The policy includes educational activities specifically about women’s rights and about improving gender equality in family and community life, which constitute primary prevention through information/education on gender equality and women’s rights.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.7681076
+        },
+        {
+          "chunk_id": 23,
+          "text": "Article 14\n(1) Strengthening and development of institutions providing women's empowerment services shall be implemented by PD responsible for governmental affairs in the field of women's empowerment.\n(2) Strengthening and development of institutions providing women's empowerment services as referred to in paragraph (1) shall include:\na. socialization;\nb. coordination;\nc. communication, information and education;\nd. training; and\ne. increasing participation of community members.",
+          "score": 0.7610771
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 36\nThe provision of services for families in realizing gender equality includes:\na. communication, information and education;\nb. contraceptive devices and medicines; and\nc. recording and reporting of family planning services; family planning facilitated at facilities with adequate health service infrastructure and facilities; and breastfeeding corner rooms in every public facility.",
+          "score": 0.6685341
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 11\n(1) Empowerment of women in the field of law as referred to in Article 9 letter b includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services;\nb. mapping and review of gender-biased policies; and\nc. facilitation of access and legal consultation services.\n(2) Empowerment of women in the field of law as referred to in paragraph (1) shall be implemented in accordance with applicable laws and regulations.",
+          "score": 0.60168713
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 34\nGuidance as referred to in Article 32 letter b includes:\na. providing protection and assistance to develop oneself through enhancement of family capabilities and skills;\nb. conducting counseling on improving women's quality of life;\nc. conducting counseling on improving gender equality in family and community life;\nd. improving access and opportunities to receive information and economic resources through efforts to increase prosperous family income and enhance women's economic productivity; and\ne. undertaking empowerment efforts for women heads of household.",
+          "score": 0.60168713
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing education regarding women's rights;\nb. providing skills training to support the community's economy;\nc. establishing social community institutions to assist victims of violence;\nd. providing information and/or reporting violence against women to law enforcement or the authorities; and/or\ne. participating in handling acts of violence against women.",
+          "score": 0.5809227
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 12\nEmpowerment of women in the social field is implemented through;\na. improvement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. improvement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. improvement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.5249792
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.52108127
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.48984516
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.48008865
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 37\n(1) In order to improve family quality, Regional Governments are responsible for:\na. conducting efforts to improve family quality to realize gender equality and children's rights;\nb. providing services for families in realizing gender equality and children's rights; and\nc. strengthening and developing institutions that provide family quality improvement services.\n(2) The responsibility of Regional Governments in efforts to improve family quality as referred to in paragraph (1) shall be implemented by PD in accordance with their duties and functions.",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nProvision of Services for Families in Realizing Gender Equality",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 43,
+          "text": "CHAPTER VI\nFAMILY QUALITY\nArticle 31\n(1) To improve family quality, the Regional Government is responsible for:\na. improving family quality in realizing gender equality and children's rights;\nb. strengthening and developing institutions providing family quality improvement services in realizing gender equality; and\nc. providing services for families in realizing gender equality and children's rights.\n(2) Efforts to improve family quality as referred to in paragraph (1) shall be implemented by PD in accordance with their duties and functions.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nEmpowerment of Women as referred to in Article 5 paragraph (1) letter c is directed to obtain opportunities and rights as human beings in order to be able to play a role and participate in the fields of:\na. politics;\nb. law;\nc. social culture; and\nd. economy.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER III\nWOMEN'S RIGHTS\nArticle 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, have a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement;\ng. be free from threats;\nh. obtain protection of her person, family, honor, dignity and property rights;\ni. obtain welfare and a decent life;\nj. participate in the political, economic, social and cultural fields;\nk. perform legal acts; and\nl. be free to choose a partner in her marriage.\n(2) Every wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children, and ownership and management of joint property in accordance with applicable laws and regulations.\n(3) After the dissolution of marriage, a woman has rights and responsibilities with her former husband over all matters relating to children with due regard to the best interests of the child.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 32\nRegional Governments undertake efforts to improve family quality in realizing gender equality by means of:\na. coaching;\nb. guidance;\nc. supervision;\nd. facilitation of family development implementation; and\ne. improvement of health quality for pregnant and breastfeeding mothers.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 57,
+          "text": "CHAPTER IX\nFUNDING\nArticle 42\nFunding for the implementation of policies, programs and activities for Women's Empowerment and Protection in the Region is sourced from:\na. State Revenue and Expenditure Budget;\nb. Regional Revenue and Expenditure Budget; and\nc. other legitimate and non-binding sources of funds.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\n(1) To improve the quality of life of women, the Regional Government is responsible for:\na. respecting and guaranteeing the rights of women without discrimination in accordance with human dignity and worth;\nb. institutionalization of PUG in Regional Government institutions;\nc. Women's Empowerment;\nd. strengthening and developing service provider institutions for Women's Empowerment in the Region.\n(2) Efforts to improve the quality of life of women as referred to in paragraph (1) shall be implemented by the Regional Apparatus (PD) that administers governmental affairs in the field of women's empowerment and child protection.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 10\n(1) Empowerment of women in the political field as referred to in Article 9 letter a includes:\na. involvement of women in decision-making at various levels;\nb. provision of opportunities for women to hold public office;\nc. participation in general elections; and\nd. self-development through organizations to associate, assemble and express opinions.\n(2) Empowerment of women in the political field as referred to in paragraph (1) shall be implemented in accordance with applicable laws and regulations.\n(3) The Regional Government provides guarantees to women to vote and/or be elected in:\na. general elections;\nb. regional head elections;\nc. village head elections; and/or\nd. other political office elections,\nbased on equal rights.\n(4) Equal rights as referred to in paragraph (3) shall be implemented through voting that is direct, general, free, secret, honest and fair according to applicable laws and regulations.\n(5) The Regional Government provides opportunities for women to be appointed as regional government officials and occupy strategic positions in regional government; and\n(6) The Regional Government and/or Political Parties are responsible for providing political education for women.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 12,
+          "text": "Third Part\nWomen's Empowerment",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 33\nThe guidance as referred to in Article 32 letter a includes:\na. provision of access to information;\nb. education; and\nc. counseling.\nregarding family life in the family development (Bina Keluarga) program.",
+          "score": 0.38639295
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation includes education/counseling elements tied to women’s rights and gender equality: Pasal 39(2)(a) “pemberian penyuluhan mengenai hak perempuan” and Pasal 34(c) “melakukan penyuluhan peningkatan kesetaraan gender dalam kehidupan keluarga masyarakat.” These are explicit informational/educational activities that fit ‘gender equality education’ as a primary prevention approach. Because the evidence is in the operative text and was retrieved, the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.7": {
+      "indicator": "Women from minority groups",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "k. women in situations of intolerance; and",
+      "evaluator_rationale": "The policy explicitly includes “women in situations of intolerance” as a vulnerable group, which constitutes a form of targeted recognition of women facing minority-related or intolerance-based vulnerability.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Prevention of violence against women is intended to:\na. create a safe environment for women; and\nb. reduce vulnerability to violence, exploitation and discrimination against vulnerable groups of women.\n(2) Vulnerable groups of women as referred to in paragraph (1) letter b are as follows:\na. women in disaster and social conflict situations;\nb. women with disabilities;\nc. women with HIV/AIDS;\nd. women migrant workers;\ne. girls;\nf. women heads of household;\ng. women domestic workers;\nh. home-based women workers;\ni. elderly women;\nj. informal women workers;\nk. women in situations of intolerance; and\nl. other vulnerable groups of women.",
+          "score": 0.6633201
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 17\n(1) Prevention of violence against women is carried out in the following fields:\na. education;\nb. health;\nc. religion;\nd. security;\ne. judiciary;\nf. public works and spatial planning;\ng. public housing and settlement areas;\nh. social affairs;\ni. labor;\nj. women's empowerment and child protection;\nk. land affairs;\nl. environment;\nm. population administration and civil registration;\nn. population control and family planning;\no. transportation;\np. communication and informatics;\nq. cooperatives, small and medium enterprises;\nr. youth and sports;\ns. culture;\nt. tourism;\nu. trade and industry; and\nv. other related fields.\n(2) Prevention of violence against women as referred to in paragraph (1) is carried out in the following forms:\na. developing media for communication, information, education and public campaigns through media;\nb. developing educational materials and curriculum;\nc. developing safe transportation systems and public spaces;\nd. establishing early detection systems, security and integrated complaint services in industrial areas, companies, residential areas, educational environments, Islamic boarding schools and other public spaces;\ne. providing consultation services for families, prospective brides and grooms, students, Islamic boarding school students, youth, university students and vulnerable groups;\nf. encouraging behavioral change of parents and the community;\ng. developing policies related to regencies/cities, villages, schools, Islamic boarding schools, and universities that are safe and friendly for women and integrated with regional spatial planning policies;\nh. forming and developing cadres, communities, and groups from among youth, students, Islamic boarding school students, university students, journalists, social media influencers, educators, and religious leaders for prevention;\ni. conducting education and advocacy to owners, managers and/or users of social media;\nj. developing protection systems and special support for vulnerable women groups;\nk. conducting awareness-raising for perpetrators;\nl. conducting cooperation between those responsible for prevention of violence against women; and\nm. conducting socialization of laws and regulations.\n(3) The fields and forms of prevention of violence against women as referred to in paragraph (1) and paragraph (2) shall be the responsibility of Regional Apparatus that oversee related affairs.",
+          "score": 0.6615731
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 23\n(1) Services are implemented to fulfill the rights of women victims of violence and are carried out with the following principles:\na. respect for human rights; b. non-discrimination;\nc. confidentiality;\nd. empathy;\ne. inclusion;\nf. empowerment;\ng. victim-based decisions;\nh. honesty;\ni. professionalism;\nj. integration; and\nk. sustainability.\n(2) Services to women victims of violence must consider special conditions and needs based on the vulnerabilities experienced by women as referred to in Article 20",
+          "score": 0.5752063
+        },
+        {
+          "chunk_id": 65,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 OF 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\n\nI. GENERAL ELUCIDATION\n\nEmpowerment and Protection of women currently needs to receive serious attention from all parties, including attention from the Regional Government, in relation to the existence of phenomena in social and community life that often make women victims of violence and exploitation; they are often positioned as economic objects and are often excluded and/or marginalized in social interaction.\n\nIn Law Number 23 of 2004 concerning the Elimination of Domestic Violence (UU KDRT), it is stipulated that the state guarantees to prevent the occurrence of domestic violence, take action against perpetrators of domestic violence, and protect victims of domestic violence. Victims of domestic violence, who are mostly women and children, must receive protection in order to avoid and be free from violence or threats of violence, torture, or treatment that degrades human dignity and worth. Therefore, the Regional Government makes regulations related to the Empowerment and Protection of Women.",
+          "score": 0.5598677
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER V\nPROTECTION OF WOMEN\nPart One\nPrevention of Violence against Women",
+          "score": 0.5579416
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 24\n(1) The forms of services as referred to in Article 23 include:\na. complaint services;\nb. health services;\nc. social rehabilitation services;\nd. legal aid and law enforcement services; and\ne. repatriation and social reintegration services.\n(2) Services for women victims of violence shall be implemented promptly, free of charge, comprehensively, with quality and integrated with services provided by government agencies, communities, educational institutions, religious institutions, professional institutions, Islamic boarding schools, and the business sector through an integrated service system.",
+          "score": 0.5249792
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 26\n(1) Health services as referred to in Article 24 paragraph (1) letter b shall be implemented with the following activities:\na. physical and mental health examination and treatment;\nb. psychological examination and recovery;\nc. pregnancy, childbirth, and reproductive health services;\nd. medical resume and psychological examination results;\ne. visum et repertum and visum et psikiatrikum;\nf. Deoxyribo Nucleic Acid test; and\ng. other forms of health services needed by victims.\n(2) Health services for female victims shall be carried out by trained officers in a special room that is safe and comfortable.\n(3) Health services as referred to in paragraph (1) shall be carried out through a special mechanism of integrated services based on hospitals and shall be the responsibility of Regional Apparatus that administers health affairs.\n(4) Further provisions regarding health services shall be regulated by Regent Regulation.",
+          "score": 0.5249792
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 20\n(1) In the implementation of protection services for women, the Regional Government establishes P2TP2A as a service network for women victims of violence.\n(2) The establishment of P2TP2A is intended so that women victims of violence obtain comprehensive, integrated, quality, inclusive and sustainable services.\n(3) P2TP2A as referred to in paragraph (1) has the following duties:\n a. provide services to women victims of violence in accordance with standard operating procedures;\n b. coordinate prevention, services and referrals between government-owned service institutions, community-owned service institutions, professional organizations, law enforcement institutions and other related institutions;\n c. conduct data collection on case services;\n d. provide various information needed by victims, victims' families and the community;\n e. conduct prevention of recurrence of violence, exploitation and discrimination against women;\n f. conduct monitoring and evaluation of victim services; and\n g. provide capacity strengthening, guidance and assistance related to victim services.",
+          "score": 0.4996094
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER II\nOBLIGATIONS AND RESPONSIBILITIES OF REGIONAL GOVERNMENT\nArticle 2\n(1) The Regional Government has the obligation and responsibility for the empowerment and Protection of Women.\n(2) The efforts for Empowerment and Protection of Women as referred to in paragraph (1) include:\n   a. determination of policies, programs, and activities;\n   b. determination of implementation guidelines;\n   c. provision of services; and\n   d. coordination of policies, programs and activities.\n(3) The efforts for Empowerment and Protection of Women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.",
+          "score": 0.48594123
+        },
+        {
+          "chunk_id": 2,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this regional regulation, what is meant by:\n1. Region is Mamuju Regency.\n2. Regional Government is the Government of Mamuju Regency.\n3. Bupati is the Bupati of Mamuju.\n4. Regional Apparatus hereinafter abbreviated as PD is an auxiliary element of the regional head and DPRD in the administration of government affairs that are the authority of the region.\n5. Women's Empowerment is every effort to improve physical, mental spiritual, social capabilities, knowledge and skills so that women are ready to be utilized according to their respective capabilities.\n6. Protection of Women is all efforts made by families, government and others aimed at women to ensure the fulfillment of women's rights as a form of respect for human rights.\n7. Discrimination against women is any distinction, exclusion or restriction made on the basis of sex, which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, irrespective of their marital status, on the basis of equality between men and women.\n8. Violence Against Women is any action that violates, obstructs, eliminates enjoyment, and disregards the human rights of women.\n9. Integrated Service Center for Women's Empowerment and Children, hereinafter abbreviated as P2TP2A is an integrated service center in efforts to implement women's empowerment in various fields of development, as well as the protection of women and children from various types of discrimination and acts of violence, including trafficking in persons, which is established by the government or community-based.\n10. Integrated Service Unit hereinafter abbreviated as UPT is technical service units in the region that carry out integrated service functions for women and children victims of crime and/or violence, including as an information center for the implementation of women's empowerment and child protection.\n11. Gender is a concept that refers to the differentiation of roles, functions and responsibilities of men and women that occur as a result of and can be changed by the social and cultural conditions of society.\n12. Gender Mainstreaming, hereinafter abbreviated as PUG, is a strategy built to integrate gender into development.\n13. Regional Action Plan for Gender Mainstreaming hereinafter referred to as RANDA PUG is a planning document as a guide in efforts to implement development strategies by integrating gender into a unified integral dimension of planning, preparation, implementation, monitoring and evaluation of policies, programs, and development activities in the region.\n14. PUG Institution is an institution that meets the elements of PUG prerequisites, which functions effectively in a sustainable system with agreed norms in fulfilling the human rights of women and men fairly to achieve equality between women and men in all fields of development and levels of government.\n15. Community institution is an institution formed by members of the Indonesian citizen community voluntarily on the basis of shared vision, mission, profession, function, and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\n16. Victim is a person who experiences violence and/or threats of violence within the scope of the household.\n17. Community is individuals, families, groups, and social organizations and/or community organizations.\n18. Task force is a coordinative institution formed by the Mamuju Regency Government that coordinates policies, programs and activities for the protection of women and children in Mamuju Regency.",
+          "score": 0.48203897
+        },
+        {
+          "chunk_id": 54,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of empowerment and protection of women.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. providing education regarding women's rights;\nb. providing skills training to support the community's economy;\nc. establishing social community institutions to assist victims of violence;\nd. providing information and/or reporting violence against women to law enforcement or the authorities; and/or\ne. participating in handling acts of violence against women.",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 30\n(1) Strengthening of institutions providing protection services for women through the establishment of community shelters in every urban village and village;\n(2) Human resource development for institutions providing protection services for women, for the members of the shelters that have been established, through training.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 55,
+          "text": "CHAPTER VIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) The Regent implements guidance and supervision of women's empowerment and protection in the Region. (2) In implementing guidance and supervision as referred to in paragraph (1), the Regent assigns the Regional Apparatus that handles women's empowerment and child protection affairs.\n(3) The Regional Apparatus that handles women's empowerment and child protection affairs as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and protection in the Region.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 41,
+          "text": "Third Part\nStrengthening and Development of Institutions Providing Women's Protection Services",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 18\nPrevention of violence against women is carried out in an integrated and coordinated manner between those responsible for the prevention of violence against women and Regional Apparatus that oversee matters of women's empowerment and child protection.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Social rehabilitation services as referred to in Article 24 paragraph (1) letter c shall be implemented with the following activities:\na. counseling;\nb. assistance;\nc. linguists and/or interpreters;\nd. spiritual guidance;\ne. shelters and/or safe houses;\nf. temporary shelter;\ng. strengthening based on family and/or group support;\nh. mobility support for victims with disabilities;\ni. provision of special social assistance for victims; and\nj. other forms of social rehabilitation services needed by victims.\n(2) Social rehabilitation services as referred to in paragraph (1) letter a, letter b, letter c, letter d, letter f, letter g, letter h, and letter i shall be the responsibility of Regional Apparatus in charge of women's empowerment and child protection affairs.\n(3) Social rehabilitation services as referred to in paragraph (1) letter e and letter j shall be the responsibility of Regional Apparatus in charge of social affairs and women's empowerment and child protection affairs.\n(4) Further provisions regarding social rehabilitation services shall be regulated by Regent Regulation.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 19\nFurther provisions regarding the prevention of violence against women as referred to in Article 16, Article 17 and Article 18 shall be regulated by a Regent's Regulation.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 30,
+          "text": "Second Part\nProvision of Services for Women Victims of Violence",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 40,
+          "text": "Article 29\n(1) Repatriation and social reintegration services as referred to in Article 24 paragraph (1) letter e shall be implemented with the following activities:\n a. repatriation and/or retrieval of victims;\n b. provision of population documents or personal identity;\n c. alternative family;\n d. scholarships and educational support facilities;\n e. non-formal education;\n f. skills training and economic enterprise;\n g. financial assistance and business capital;\n h. economic enterprise assistance;\n i. housing assistance;\n j. food and/or nutrition assistance for victims and their families;\n k. provision of social protection programs and poverty alleviation programs;\n l. other forms of repatriation and social reintegration services needed by victims.\n(2) Repatriation and social reintegration services as referred to in paragraph (1) shall be provided to victims, families and persons whose lives depend on victims with the aim that victims have the readiness and ability to live life in society.\n(3) Repatriation and social reintegration services as referred to in paragraph (1) shall be conducted in an integrated manner with the Integrated Referral Service System for social protection and poverty alleviation and the Child Social Welfare Center.\n(4) Repatriation and social reintegration services as referred to in paragraph (1) shall be the responsibility of Regional Apparatus in charge of:\n a. social affairs;\n b. population administration and civil registration affairs;\n c. labor affairs;\n d. small and medium enterprise cooperative affairs;\n e. education affairs;\n f. health affairs;\n g. public works and spatial planning affairs;\n h. land affairs, women's empowerment and child protection affairs; and\n i. other related affairs.\n(5) Further provisions regarding repatriation and social reintegration services shall be regulated by Regent Regulation.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF MAMUJU\nWEST SULAWESI PROVINCE\nREGIONAL REGULATION OF MAMUJU REGENCY\nNUMBER 9 YEAR 2023\nCONCERNING\nEMPOWERMENT AND PROTECTION OF WOMEN\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF MAMUJU,\n\nConsidering : a. that the fulfillment of constitutional rights and protection of women's human rights regarding empowerment and protection of women is one of the values contained in Pancasila and the 1945 Constitution;\nb. that women play a very important role in the process of continuation and creation of quality generations, thus requiring a sense of security, obtaining guarantees of protection from acts of violence and discrimination, and need to be empowered so that they can actualize their potential optimally;\nc. that based on Law Number 23 Year 2014 concerning Regional Government as mentioned in the Appendix that the division of government affairs in the field of women's empowerment with one of the sub-affairs is the protection of women;\nd. that based on the considerations as referred to in letter a, letter b and letter c, it is necessary to establish a Regional Regulation concerning Empowerment and Protection of Women;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 29 Year 1959 concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n3. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as amended several times most recently by Law Number 6 Year 2023 concerning Stipulation of Government Regulation in Lieu of Law Number 2 Year 2022 concerning Job Creation into Law (State Gazette of the Republic of Indonesia Year 2023 Number 41, Supplement to the State Gazette of the Republic of Indonesia Number 6856);\n4. Law Number 12 Year 2022 concerning Criminal Acts of Sexual Violence (State Gazette of the Republic of Indonesia Year 2022 Number 120, Supplement to the State Gazette of the Republic of Indonesia Number 6792);\n\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF MAMUJU REGENCY and",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 15\nPrevention of violence against women is the responsibility of:\na. Regional Government;\nb. educational institutions;\nc. religious institutions;\nd. health service provider institutions;\ne. professional institutions;\nf. business sector;\ng. service institutions;\nh. Islamic boarding schools;\ni. youth organizations;\nj. legal aid organizations;\nk. communities; and\nl. media.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 34\nGuidance as referred to in Article 32 letter b includes:\na. providing protection and assistance to develop oneself through enhancement of family capabilities and skills;\nb. conducting counseling on improving women's quality of life;\nc. conducting counseling on improving gender equality in family and community life;\nd. improving access and opportunities to receive information and economic resources through efforts to increase prosperous family income and enhance women's economic productivity; and\ne. undertaking empowerment efforts for women heads of household.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 58,
+          "text": "CHAPTER X\nTRANSITIONAL PROVISIONS\nArticle 43\nUpon the entry into force of this Regional Regulation, all provisions of regional laws and regulations related to the Implementation of Women's Empowerment and Protection that have existed thus far, shall remain in force insofar as they are not contrary to the provisions in this Regional Regulation.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER III\nWOMEN'S RIGHTS\nArticle 3\n(1) Every woman has the right to:\na. live and maintain life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, have a family and continue offspring;\nc. develop her personality, to obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement;\ng. be free from threats;\nh. obtain protection of her person, family, honor, dignity and property rights;\ni. obtain welfare and a decent life;\nj. participate in the political, economic, social and cultural fields;\nk. perform legal acts; and\nl. be free to choose a partner in her marriage.\n(2) Every wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her marital life, relations with her children, and ownership and management of joint property in accordance with applicable laws and regulations.\n(3) After the dissolution of marriage, a woman has rights and responsibilities with her former husband over all matters relating to children with due regard to the best interests of the child.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 1,
+          "text": "HEAD OF MAMUJU REGENCY\nDECIDES:\nTo Establish: REGIONAL REGULATION CONCERNING EMPOWERMENT AND PROTECTION OF WOMEN.",
+          "score": 0.41641688
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Pasal 16(2) explicitly lists “perempuan dalam situasi intoleransi” as part of “kelompok perempuan rentan.” This is a targeted recognition of women vulnerable due to intolerance (commonly linked to minority status/religious/ethnic intolerance). The retrieved English passage contained this, and the judge’s interpretation is reasonable. Therefore the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_BARAT_MAMUJU.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.393418+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

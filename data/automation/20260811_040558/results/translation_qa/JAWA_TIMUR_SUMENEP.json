@@ -1,0 +1,170 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 19,
+  "chunks_corrected": 9,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: heading 'Mengingat' was translated as 'Considering' (should be 'In view of/Considering' but must match the legal heading; also letter case mismatch 'C.' vs 'c.' is minor but acceptable).",
+        "Meaning drift: Item 15 'Penanggulangan Pekerjaan Anak' was mistranslated as 'Prevention of Child Labor' (should be 'Countermeasures/Handling of Child Labor')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Daerah Kabupaten Sumenep' refers to the Regional People's Representative Council of Sumenep Regency; 'Regional House of Representatives' is not the standard/accurate rendering.",
+        "Omission: the word 'DAERAH' (Regional) is not reflected as part of the institution's formal name in the translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: items 1 and 2 are on the same line; items 14–16 and 17–18 are merged instead of being separate numbered points.",
+        "Meaning drift: 'Korban adalah perempuan anak' should be 'women and children' (not 'a woman or child').",
+        "Extraneous leftover heading/word at end: 'Penyelenggaraan/Implementation' appears after item 18 and is not part of Article 1 definitions list."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"kepentingan terbaik bagi korban\" translated as \"the best interests of victims\"; should be singular \"the victim\" to match the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward clause attachment: \"the best interests of children that occur\" incorrectly makes \"best interests\" the thing that occurs; original means violence occurs in household/public and protection is based on best interests of the child. Also \"children\" should be singular conceptually (best interests of the child)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regent's Regulation\" (not \"Regent Regulation\" without possessive is acceptable, but better as \"Regent Regulation\" is fine); however the main issue is that the original has paragraphs (3) and (4) run together in one line, but translation already separates—no issue. Actually meaning drift: \"dalam wadah P2TP2A\" is better rendered as \"under/within the P2TP2A\" rather than \"within the framework of\"; minor but could affect legal indicator.",
+        "No other issues found."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward clause: paragraph (2) and (3) use 'whether carried out'/'which is carried out' without clearly referring to the violence; needs to explicitly tie location to the act of violence to match the Indonesian text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Pembina Utama Muda' is a civil-service rank and was mistranslated as 'Principal Senior Supervisor'.",
+        "Formatting/structure: the Indonesian text presents two names followed by the rank; the English translation should preserve that structure and not attach the rank as an English job title."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Garis Komando\" and \"Garis Koordinasi\" are mistranslated as \"COMMAND LINE\" and \"COORDINATION LINE\"; should be \"Line of Command\" and \"Line of Coordination\".",
+        "Meaning drift/format: \"Nomor Tanggal\" rendered as \"NUMBER DATE\" and the following line is awkwardly structured; should reflect \"Number\" and \"Date\" fields (\"Number: 6 of 2011\"; \"Date: 14 February 2011\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_SUMENEP.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.632571+00:00",
+  "prompt_version": "v1"
+}

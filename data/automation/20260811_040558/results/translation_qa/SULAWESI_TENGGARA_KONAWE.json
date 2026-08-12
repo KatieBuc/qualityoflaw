@@ -1,0 +1,334 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 38,
+  "chunks_corrected": 24,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission in Considering letter b: missing 'sesuai dengan fitrah dan kodratnya' (in accordance with their natural disposition and inherent nature) and 'tanpa diskriminasi' should apply to that full clause.",
+        "Meaning drift in Considering letter b: 'to protect their dignity' omits 'harga diri' (self-respect) and should reflect both 'harga diri dan martabat'.",
+        "Scrambled/leftover text in legal citation item 7: stray '2' inserted into the title ('concerning 2 Elimination...') which is not part of the law title and comes from pagination/OCR.",
+        "Meaning drift in legal citation item 7: should be 'Elimination of Domestic Violence' (without '2') and keep the law title intact."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering structure: item markers run together (e.g., '...: 1.' and '2.'/ '3.' on same line) instead of being cleanly separated as distinct list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list marker in Article 3(2): item 'h.' should be 'b.' to match the original sequence and lettering."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/leftover source text: \"BAB II I\" is not translated and appears to be a corrupted chapter numeral (should be \"CHAPTER III\" / \"BAB III\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"gugumya kandungan\" should be translated as \"miscarriage\" (loss of pregnancy), not \"miscarriage\" in the sense of a general failure; clarify as \"miscarriage\"/\"loss of pregnancy\" to match legal meaning",
+        "Minor meaning drift/word choice: \"serious wounds\" should be \"serious injury\" to reflect \"luka berat\" more accurately in legal context"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural phrasing: \"is caused by\" should be \"is in the form of\" (kekerasan psikis ... disebabkan karena perbuatan) and \"to a person\" should be \"in a person\" (pada seseorang)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/wording: \"is caused by\" should be \"is caused by/occurs due to\" (Indonesian: \"disebabkan karena\") and item (d) should reflect \"and/or\" (dan atau) consistently as in the original.",
+        "Minor meaning/structure consistency: item (d) uses \"and or\" instead of \"and/or\" as used elsewhere and implied by \"dan atau\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"letter d\" should be \"letter b\" (Original: Pasal 4 huruf b)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"full utilization\" does not reflect \"penghormatan dan penggunaan sepenuhnya\" in context; should convey full respect and full enjoyment/use of rights for survival, growth, and development."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Leftover untranslated headings/article label: \"BAB V\" and \"Pasal 12\" should be translated to English (\"CHAPTER V\" and \"Article 12\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item (1) letter d: 'ensuring the implementation of service facilitation' does not clearly convey 'guaranteeing the implementation of ease of services to victims'.",
+        "Meaning drift in paragraph (4): 'Regent Regulation' should be 'Regent's Regulation' (Peraturan Bupati)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item marker 'e.' is merged into item 'd.' on the same line; should be a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: the Indonesian text is a complete provision stating that the family/parents have full legal responsibility; the English renders it as a fragment with an unclear relative clause (\"who\") and does not clearly state the obligation as a full sentence."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in (2): \"Kepolisian Resor\" translated as \"Police Resort\"; should be \"Resort Police\"/\"Resort Police Office\" (i.e., the local police resort)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pelayanan\" should be translated as \"Service\" (or \"Services\"), not \"Services\" in a way that implies multiple distinct services; more accurate is \"Service\" in this legal heading context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/terminology: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regulation of the Regent\" (not \"Regent Regulation\" without article is acceptable, but \"by Regent Regulation\" is unidiomatic; better \"by a Regent Regulation\" to reflect \"dengan Peraturan Bupati\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in item (c): \"intimidation for victims\" should be \"intimidation against victims\" to match \"bagi korban\" (directed at the victim)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Bupati' should be translated as 'Regent Regulation' (a regulation issued by the Regent), not 'Regent Regulation' without the article; also 'child and woman' should be 'children and women' to match the general category in Indonesian."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (a regulation issued by the Regent), not \"Regent Regulation\" without the article; also \"diselenggarakan\" is better rendered as \"implemented/organized\" rather than \"conducted\" in this legal context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Extraneous text '14' appears in paragraph (2) after item c; not present in the original and disrupts the list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in chapter numbering: original shows 'BAB VI I' (Chapter VII), but translation renders it as 'CHAPTER VII' without reflecting the original formatting/numbering as written."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: chapter number is incorrect (original is CHAPTER VII, translation says CHAPTER VIII)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: garbled Indonesian text after the regent's name (\"DrgjQjdgjigkan\") indicates missing/incorrect rendering of the promulgation clause (\"Diundangkan di ... pada tanggal ...\")",
+        "Meaning drift: \"Ditetapkan di\" should be rendered as \"Stipulated/Determined in\" (not \"Enacted in\"), and the promulgation line should explicitly state \"Promulgated in ... on ...\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"LEMBARAN DAERAH\" was translated as \"REGIONAL REGULATION\" instead of \"REGIONAL GAZETTE\"/\"REGIONAL SHEET\".",
+        "Meaning drift: \"KEPALA BAGIAN HUKUM\" was mistranslated as \"HEAD^sLEGAL DIVISION\" (missing \"Head of the Legal Division\")."
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGGARA_KONAWE.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.862652+00:00",
+  "prompt_version": "v1"
+}

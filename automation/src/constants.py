@@ -11,14 +11,20 @@ DEFAULT_MANUAL_OVERWRITES = PROJECT_ROOT / "data" / "corrections" / "manual_over
 
 SMALL_SCALE_FILES = [
     "ACEH_BIREUEN.txt",
-    "LAMPUNG_LAMPUNG_TIMUR.txt",
-    "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
-    "SUMATERA_BARAT_PADANG_PARIAMAN.txt",
-    "JAWA_TENGAH_SEMARANG.txt",
-    # "KALIMANTAN_TENGAH_SUKAMARA.txt"
+    "NUSA_TENGGARA_BARAT_LOMBOK_TENGAH_v2.txt",
+    "NUSA_TENGGARA_BARAT_DOMPU.txt",
+    "RIAU_PEKANBARU_KOTA.txt"
 ]
 
-DEFAULT_STEPS = ("translation", "markdown", "storage", "evaluation", "comparison", "discrepancy_diagnosis")
+DEFAULT_STEPS = (
+    "translation",
+    "translation_qa",
+    "markdown",
+    "storage",
+    "evaluation",
+    "comparison",
+    "discrepancy_diagnosis",
+)
 VALID_STEPS = DEFAULT_STEPS
 
 STRUCTURE_HINT = (

@@ -1,0 +1,718 @@
+{
+  "diagnoses": {
+    "3.1": {
+      "indicator": "Integrated service unit",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n(2) The Regional Government establishes the Networked P2TP2A as an integrated service center by Regent's Decree.\n(2) Services carried out by the Regional Government as referred to in paragraph (1) are carried out by the Networked P2TP2A, in accordance with the type of service required.",
+      "evaluator_rationale": "The text defines an Integrated Service Center (PPT) as a functional unit organizing integrated services and states the Regional Government establishes a networked integrated service center (P2TP2A Berjejaring) that delivers services to women victims of violence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 78,
+          "text": "Article 25\n\nParagraph (1) Sufficiently clear.\n\nParagraph (2) Sufficiently clear.\n\nParagraph (3) Sufficiently clear.\n\nParagraph (4) Sufficiently clear.\n\nParagraph (5) Sufficiently clear.\n\nParagraph (6) Sufficiently clear.\n\nParagraph (7) What is meant by “other service units” is a unified unit that carries out integrated service functions for women and children victims of violence.\nThis service unit can be located at Integrated Service Centers (PPT) and Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other community/faith-based institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.\n\nParagraph (8) Sufficiently clear.",
+          "score": 0.8182145
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Gunungkidul Regency.\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n3. Regent is the Regent of Gunungkidul.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering, including physical, sexual, economic, social, and psychological suffering, to the victim.\n8. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs in the Special Region of Yogyakarta (Daerah Istimewa Yogyakarta).\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will or has occurred.\n12. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against women and children will, is or has occurred.\n14. Behavior Change Counseling is psychological counseling provided to male perpetrators of domestic violence to help stop violence and become people who can respect their partners, so they can establish better relationships with partners and children.\n15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n16. Integrated Service Center for Women and Children Empowerment Network hereinafter referred to as P2TP2A Berjejaring is an Integrated Service Center in Gunungkidul Regency that organizes integrated services for women and children victims of violence in a network, which is established by Decree of the Regent of Gunungkidul.\n17. Forum for Handling Victims of Violence against Women and Children abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is networked and established at the regency and sub-district levels.\n18. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n19. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints/identification, health rehabilitation, social rehabilitation, legal services, up to return and social reintegration of witnesses and/or victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n21. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n22. Gender Mainstreaming in the Region is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n23. Gender is a concept that refers to the differentiation of roles, functions, and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n24. Gender Equality is equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying development results.\n25. Gender Justice is a process to be fair to men and women.\n26. Disaggregated data is data disaggregated by sex and status and conditions of women and men in all development sectors including health, education, economy and employment, politics and decision-making, law and socio-culture and violence.\n27. Gender Responsive Planning and Budgeting is a series of approaches to integrate gender perspectives in the planning and budgeting process, gender responsive planning is planning to achieve gender equality and justice, which is carried out through integrating experiences, aspirations, needs, potentials, and problem solving of women and men.\n28. Women and Children Supervision and Service Institution in Villages or Sub-Districts or by Other Names is an institution established by village communities that functions to serve victims of violence with members consisting of local community leaders.",
+          "score": 0.6822351
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER III\nINTEGRATED SERVICE CENTER\nArticle 12\n(1) PPT is established by the Regional Government, Vertical Agencies in the Region, or community institutions.\n(2) The Regional Government establishes the Networked P2TP2A as an integrated service center by Regent's Decree.\n(3) The Networked P2TP2A as referred to in paragraph (2) is a functional work unit that has the duties and functions of providing protection to women and children from acts of violence.\n(4) In carrying out the duties as referred to in paragraph (3), the Networked P2TP2A may provide services and temporary protection in the form of a safe house.\n(5) In the event that the Networked P2TP2A does not have a safe house (shelter) as referred to in paragraph (4), then victims of violence are referred to a PPT that has a safe house.",
+          "score": 0.658066
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 30\n(1) The Regional Government provides services to women victims of violence.\n(2) Services carried out by the Regional Government as referred to in paragraph (1) are carried out by the Networked P2TP2A, in accordance with the type of service required.",
+          "score": 0.5521534
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION.\nArticle 37\n(1) The Regent conducts guidance and supervision of the implementation of protection for women and children victims of violence, through the Regional Work Unit that has duties and functions in the field of women and child empowerment.\n(2) Guidance and Supervision as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.48398986
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 25\n(1) In addition to establishing a Networked P2TP2A, the Regional Government shall establish a Forum for Handling Victims of Violence against Women and Children (FPK2PA).\n(2) FPK2PA as referred to in paragraph (1) consists of regency FPK2PA and sub-district FPK2PA.\n(3) The Organizational Structure of FPK2PA consists of:\na. Patron;\nb. Advisors;\nc. Steering Committee;\nd. Chairperson;\ne. Vice Chairperson;\nf. Secretary;\ng. Field Coordinator;\nh. Members; and\ni. Secretariat Staff.\n(4) The establishment of Regency FPK2PA as referred to in paragraph (2) shall be stipulated by Regent's Decree.\n(5) The establishment of Sub-district FPK2PA as referred to in paragraph (2) shall be stipulated by Sub-district Head's Decree.\n(6) The Duties and Functions of FPK2PA as referred to in paragraph (2) are:\na. coordinating and synchronizing the handling of PPT services;\nb. maintaining and developing networks and referral systems; and\nc. collecting, compiling, and presenting reports on violence.\n(7) FPK2PA as referred to in paragraph (2) may receive and send case referrals from or to other service units in a networked manner.\n(8) Members of FPK2PA as referred to in paragraph (3) letter h consist of Regional Work Units that have duties and functions in the fields of social affairs, handling of women and children, health, education, youth and sports, religion, population, manpower, and/or industry and trade, as well as Vertical Institutions and community institutions that are grouped in the following fields:\na. health field;\nb. psychology field;\nc. law field;\nd. social field; and\ne. economic field.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 38,
+          "text": "Second Part\nService Efforts for Women Victims of Violence",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 32\n(1) The Regional Government carries out empowerment for women victims of violence.\n(2) Empowerment as referred to in paragraph (1) is carried out by the Networked P2TP2A and may cooperate with all parties.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 29\nLetter a What is meant by “the right to have one’s dignity and worth respected as a human being” is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by “the right to receive information” is the right to obtain information, explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts, or their explanations, which can be seen, heard, and read, presented in various packages and formats in accordance with the development of information and communication technology, either electronically or non-electronically, related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by “the right to social rehabilitation” includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter g What is meant by “the right to complaint handling” is the availability of a special integrated service unit by officers.\nLetter h Sufficiently clear.\nLetter i What is meant by “the right to accompaniment/assistance” includes, among others: psychologists, psychiatrists, health experts, religious leaders, advocates, and family members.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF GUNUNGKIDUL,\nConsidering : a. that all forms of violence against women and children constitute violations of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nb. that in addition to protection efforts, prevention, services, and empowerment are needed for women and children victims of violence;\nc. that regulation of efforts as referred to in letter b is needed in the region;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Protection of Women and Children Victims of Violence;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 15 of 1950 concerning the Establishment of Regency Areas within the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 44);\n3. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette Number 4844);\n4. Government Regulation Number 32 of 1950 concerning the Determination of the Entry into Force of Laws of 1950 Numbers 12, 13, 14 and 15 regarding the Establishment of Regency areas within Central Java Province, West Java and the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 59);\n5. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation in the Recovery of Victims of Domestic Violence, State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604;\n6. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n7. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 05 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;\n8. Special Regional Regulation of Yogyakarta Number 3 of 2012 concerning the Protection of Women and Children Victims of Violence (Regional Gazette of the Special Region of Yogyakarta Province of 2012 Number 3);\n9. Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2008 Number 01 Series E) as amended by Regional Regulation of Gunungkidul Regency Number 8 of 2010 concerning Amendment to Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2010 Number 07 Series E);\nWith Mutual Approval",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 3\nThe purpose of protection for women and children victims of violence is to provide a reference for protection and services for the best interests of women and children victims of violence in the domestic sphere and/or public sphere.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 47,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 35\n(1) Every person shall participate in providing protection to women and children victims of violence.\n(2) Community participation as referred to in paragraph (1) may take the form of:\na. establishing institutions for the protection of women and children at the village level with the task of conducting prevention, services, and supervision;\nb. conducting socialization of the rights of women and children;\nc. providing assistance to victims;\nd. reporting and referring to the authorized agency/institution at the Sub-district level if violence against victims occurs in their environment; and\ne. The authorized Agency/Institution at the Sub-district level, if necessary, may refer to other Agencies/institutions.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER V\nSERVICE EFFORTS FOR WOMEN\nAND CHILDREN VICTIMS OF VIOLENCE\nFirst Section\nService Principles",
+          "score": 0.292272
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 29\nIn the implementation of integrated services, every victim shall receive the following rights:\na. the right to have their dignity respected as a human being;\nb. the right to health and psychological recovery from the suffering experienced by the victim;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of their identity;\nf. the right to social rehabilitation;\ng. the right to complaint handling;\nh. the right to obtain facilitation in the judicial process; and/or\ni. the right to assistance.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe chief executive as referred to in Article 13 paragraph (1) letter b has the duties of:\na. coordinating the duties and functions of each service sector;\nb. controlling the implementation of protection and handling programs for victims of violence;\nc. conducting coordination and cooperation with related external parties;\nd. collecting and utilizing resources effectively and efficiently for protection and handling activities for victims of violence; and\ne. providing periodic reports to the Regent specifically for victims of the criminal act of human trafficking, whereby copies of the reports are also provided to the task force for prevention and handling of the criminal act of human trafficking.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 42,
+          "text": "CHAPTER VI\nEMPOWERMENT EFFORTS FOR\nWOMEN AND CHILDREN VICTIMS OF VIOLENCE\nPart One\nEmpowerment Efforts for Women Victims of Violence",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe Secretary as referred to in Article 13 paragraph (1) letter c has the duties to:\na. assist in the implementation of duties of the General Chairperson;\nb. assist in preparing coordination activities and follow-up on protection and handling of victims of violence;\nc. assist in preparing the work program plan of the central task force;\nd. provide administrative services in the cooperation of the central Task Force with Ministries/Institutions and Community Organizations that are members of the Central Task Force;\ne. organize service activities for the collection, processing, and presentation of data as well as the preparation of secretariat activity reports; and\nf. foster and implement working cooperation with Ministries/Institutions and related Community Organizations in the implementation of prevention and handling of criminal acts of trafficking in persons.",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 31\n(1) The Regional Government provides services to child victims of violence.\n(2) Services as referred to in paragraph (1) are implemented by the Networked P2TP2A, in accordance with the type of services needed.",
+          "score": 0.25208935
+        },
+        {
+          "chunk_id": 53,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF GUNUNGKIDUL REGENCY NUMBER 25 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nVICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in Gunungkidul Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in Gunungkidul Regency.",
+          "score": 0.2404891
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services to victims of violence, rehabilitation, and empowerment of victims of violence in the Region.",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter b What is meant by \"justice\" is a condition where every person, both men and women, is treated equally and obtains equal opportunities to obtain opportunities (access), as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men, including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims without making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter d What is meant by \"the best interests of victims\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.\nLetter e What is meant by \"empowerment\" is the strengthening of victims of violence to be able to make efforts and work independently after they are recovered and provided with health and social rehabilitation services.",
+          "score": 0.21840255
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nThe General Chairperson as referred to in Article 13 paragraph (1) letter a has the duties of:\na. coordinating the formulation of policies, strategies, programs, and activities as well as necessary measures in the implementation of Networked P2TP2A;\nb. conducting supervision and guidance over the implementation of protection and handling of victims of violence;\nc. implementing policies established by the Regent; and\nd. being responsible for the entire process of implementing protection and handling of violence against victims of violence.",
+          "score": 0.21840255
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IV\nEFFORTS TO PREVENT VIOLENCE AGAINST\nWOMEN AND CHILDREN\nPart One\nEfforts to Prevent Violence against Women",
+          "score": 0.21311502
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 26\n(1) Every person has the obligation to prevent the occurrence of violence against women.\n(2) The Regional Government, in efforts to prevent violence against women, implements gender mainstreaming in order to realize gender equality and gender justice in the fields of education, economy, health, law, politics, religion, and socio-culture.\n(3) Gender mainstreaming as referred to in paragraph (2) is carried out based on disaggregated data as data to provide insight in analyzing gender-responsive planning and budgeting.\n(4) Further provisions regarding Gender Mainstreaming and Gender-Responsive Planning and Budgeting are regulated in a Regent's Regulation.",
+          "score": 0.20792148
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe field of social rehabilitation services as referred to in Article 13 paragraph (2) letter c has the following duties:\na. to provide assistance during the case handling process; and\nb. to provide counseling to victims and/or perpetrators of violence.",
+          "score": 0.20792148
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian regulation clearly establishes an integrated service unit. Pasal 1 angka 15 defines “Pusat Pelayanan Terpadu (PPT)” as a functional unit providing integrated services to victims, and Pasal 12(1)-(3) states PPT can be formed by the local government/vertical agencies/community institutions and that the local government establishes “P2TP2A Berjejaring” as an integrated service center with duties to provide protection to women and children from violence. This directly satisfies the indicator about having an integrated service unit. The retrieved English passages accurately reflect these provisions, and the judge’s “Yes” is consistent with the Indonesian text. Therefore the golden label ‘No’ appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "3.8": {
+      "indicator": "Religious/spiritual counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although religious leaders are mentioned as possible companions/assistants, the text does not specify religious or spiritual counseling/guidance as a service provided to victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 82,
+          "text": "Article 29\nLetter a What is meant by “the right to have one’s dignity and worth respected as a human being” is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by “the right to receive information” is the right to obtain information, explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts, or their explanations, which can be seen, heard, and read, presented in various packages and formats in accordance with the development of information and communication technology, either electronically or non-electronically, related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by “the right to social rehabilitation” includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter g What is meant by “the right to complaint handling” is the availability of a special integrated service unit by officers.\nLetter h Sufficiently clear.\nLetter i What is meant by “the right to accompaniment/assistance” includes, among others: psychologists, psychiatrists, health experts, religious leaders, advocates, and family members.",
+          "score": 0.5752063
+        },
+        {
+          "chunk_id": 25,
+          "text": "Article 20\nThe field of social rehabilitation services as referred to in Article 13 paragraph (2) letter c has the following duties:\na. to provide assistance during the case handling process; and\nb. to provide counseling to victims and/or perpetrators of violence.",
+          "score": 0.53859496
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 29\nIn the implementation of integrated services, every victim shall receive the following rights:\na. the right to have their dignity respected as a human being;\nb. the right to health and psychological recovery from the suffering experienced by the victim;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of their identity;\nf. the right to social rehabilitation;\ng. the right to complaint handling;\nh. the right to obtain facilitation in the judicial process; and/or\ni. the right to assistance.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 25\n\nParagraph (1) Sufficiently clear.\n\nParagraph (2) Sufficiently clear.\n\nParagraph (3) Sufficiently clear.\n\nParagraph (4) Sufficiently clear.\n\nParagraph (5) Sufficiently clear.\n\nParagraph (6) Sufficiently clear.\n\nParagraph (7) What is meant by “other service units” is a unified unit that carries out integrated service functions for women and children victims of violence.\nThis service unit can be located at Integrated Service Centers (PPT) and Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other community/faith-based institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.\n\nParagraph (8) Sufficiently clear.",
+          "score": 0.5113262
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Gunungkidul Regency.\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n3. Regent is the Regent of Gunungkidul.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering, including physical, sexual, economic, social, and psychological suffering, to the victim.\n8. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs in the Special Region of Yogyakarta (Daerah Istimewa Yogyakarta).\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will or has occurred.\n12. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against women and children will, is or has occurred.\n14. Behavior Change Counseling is psychological counseling provided to male perpetrators of domestic violence to help stop violence and become people who can respect their partners, so they can establish better relationships with partners and children.\n15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n16. Integrated Service Center for Women and Children Empowerment Network hereinafter referred to as P2TP2A Berjejaring is an Integrated Service Center in Gunungkidul Regency that organizes integrated services for women and children victims of violence in a network, which is established by Decree of the Regent of Gunungkidul.\n17. Forum for Handling Victims of Violence against Women and Children abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is networked and established at the regency and sub-district levels.\n18. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n19. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints/identification, health rehabilitation, social rehabilitation, legal services, up to return and social reintegration of witnesses and/or victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n21. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n22. Gender Mainstreaming in the Region is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n23. Gender is a concept that refers to the differentiation of roles, functions, and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n24. Gender Equality is equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying development results.\n25. Gender Justice is a process to be fair to men and women.\n26. Disaggregated data is data disaggregated by sex and status and conditions of women and men in all development sectors including health, education, economy and employment, politics and decision-making, law and socio-culture and violence.\n27. Gender Responsive Planning and Budgeting is a series of approaches to integrate gender perspectives in the planning and budgeting process, gender responsive planning is planning to achieve gender equality and justice, which is carried out through integrating experiences, aspirations, needs, potentials, and problem solving of women and men.\n28. Women and Children Supervision and Service Institution in Villages or Sub-Districts or by Other Names is an institution established by village communities that functions to serve victims of violence with members consisting of local community leaders.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services to victims of violence, rehabilitation, and empowerment of victims of violence in the Region.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter b What is meant by \"justice\" is a condition where every person, both men and women, is treated equally and obtains equal opportunities to obtain opportunities (access), as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men, including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims without making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter d What is meant by \"the best interests of victims\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.\nLetter e What is meant by \"empowerment\" is the strengthening of victims of violence to be able to make efforts and work independently after they are recovered and provided with health and social rehabilitation services.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER V\nSERVICE EFFORTS FOR WOMEN\nAND CHILDREN VICTIMS OF VIOLENCE\nFirst Section\nService Principles",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 28\nPrinciples of service delivery to victims:\na. prompt;\nb. safe and comfortable;\nc. sense of empathy;\nd. non-discrimination;\ne. easily accessible;\nf. not subject to fees; and\ng. guaranteed confidentiality.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\nThe health service sector as referred to in Article 13 paragraph (2) letter b has the following duties:\na. to conduct examination, treatment, and follow-up care for victims;\nb. to coordinate the implementation of health rehabilitation and medico-legal services;\nc. to conduct medico-legal examination including the collection of evidence from victims and the preparation of visum et repertum;\nd. to conduct supporting examinations and laboratory testing of evidence;\ne. to conduct consultation with specialist doctors or make referrals; and\nf. to prepare case reports.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 31\n(1) The Regional Government provides services to child victims of violence.\n(2) Services as referred to in paragraph (1) are implemented by the Networked P2TP2A, in accordance with the type of services needed.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 30\n(1) The Regional Government provides services to women victims of violence.\n(2) Services carried out by the Regional Government as referred to in paragraph (1) are carried out by the Networked P2TP2A, in accordance with the type of service required.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 25\n(1) In addition to establishing a Networked P2TP2A, the Regional Government shall establish a Forum for Handling Victims of Violence against Women and Children (FPK2PA).\n(2) FPK2PA as referred to in paragraph (1) consists of regency FPK2PA and sub-district FPK2PA.\n(3) The Organizational Structure of FPK2PA consists of:\na. Patron;\nb. Advisors;\nc. Steering Committee;\nd. Chairperson;\ne. Vice Chairperson;\nf. Secretary;\ng. Field Coordinator;\nh. Members; and\ni. Secretariat Staff.\n(4) The establishment of Regency FPK2PA as referred to in paragraph (2) shall be stipulated by Regent's Decree.\n(5) The establishment of Sub-district FPK2PA as referred to in paragraph (2) shall be stipulated by Sub-district Head's Decree.\n(6) The Duties and Functions of FPK2PA as referred to in paragraph (2) are:\na. coordinating and synchronizing the handling of PPT services;\nb. maintaining and developing networks and referral systems; and\nc. collecting, compiling, and presenting reports on violence.\n(7) FPK2PA as referred to in paragraph (2) may receive and send case referrals from or to other service units in a networked manner.\n(8) Members of FPK2PA as referred to in paragraph (3) letter h consist of Regional Work Units that have duties and functions in the fields of social affairs, handling of women and children, health, education, youth and sports, religion, population, manpower, and/or industry and trade, as well as Vertical Institutions and community institutions that are grouped in the following fields:\na. health field;\nb. psychology field;\nc. law field;\nd. social field; and\ne. economic field.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 3\nThe purpose of protection for women and children victims of violence is to provide a reference for protection and services for the best interests of women and children victims of violence in the domestic sphere and/or public sphere.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 2\nThe principles of Victim protection are:\na. respect for and fulfillment of victims' rights;\nb. justice and gender equality;\nc. non-discrimination;\nd. the best interests of victims; and\ne. empowerment.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 12\nParagraph (1) What is meant by \"community institution\" is an institution formed by members of the community who are Citizens of the Republic of Indonesia voluntarily on the basis of shared vision, mission, profession, function and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) What is meant by \"safe house\" is a temporary shelter intended to provide protection and a sense of security to victims of violence. Temporary protection is provided for a period of up to 14 (fourteen) days and can be extended according to the condition of the victim. PPTs that do not have shelters can network with PPTs that have shelters.\nParagraph (5) Sufficiently clear.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER III\nINTEGRATED SERVICE CENTER\nArticle 12\n(1) PPT is established by the Regional Government, Vertical Agencies in the Region, or community institutions.\n(2) The Regional Government establishes the Networked P2TP2A as an integrated service center by Regent's Decree.\n(3) The Networked P2TP2A as referred to in paragraph (2) is a functional work unit that has the duties and functions of providing protection to women and children from acts of violence.\n(4) In carrying out the duties as referred to in paragraph (3), the Networked P2TP2A may provide services and temporary protection in the form of a safe house.\n(5) In the event that the Networked P2TP2A does not have a safe house (shelter) as referred to in paragraph (4), then victims of violence are referred to a PPT that has a safe house.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION.\nArticle 37\n(1) The Regent conducts guidance and supervision of the implementation of protection for women and children victims of violence, through the Regional Work Unit that has duties and functions in the field of women and child empowerment.\n(2) Guidance and Supervision as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 40,
+          "text": "Third Part\nService Efforts for Child Victims of Violence",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 38,
+          "text": "Second Part\nService Efforts for Women Victims of Violence",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 23,
+          "text": "Article 18\nThe complaint service sector as referred to in Article 13 paragraph (2) letter a has the following duties:\na. conduct interviews and observation of the victim's condition;\nb. make recommendations for follow-up services;\nc. conduct coordination and referral to follow-up services and related parties; and\nd. carry out administration of the complaint process.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 47,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 35\n(1) Every person shall participate in providing protection to women and children victims of violence.\n(2) Community participation as referred to in paragraph (1) may take the form of:\na. establishing institutions for the protection of women and children at the village level with the task of conducting prevention, services, and supervision;\nb. conducting socialization of the rights of women and children;\nc. providing assistance to victims;\nd. reporting and referring to the authorized agency/institution at the Sub-district level if violence against victims occurs in their environment; and\ne. The authorized Agency/Institution at the Sub-district level, if necessary, may refer to other Agencies/institutions.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 21\nThe field of repatriation and social reintegration as referred to in Article 13 paragraph (2) letter d has the following duties:\na. to coordinate with relevant agencies for the repatriation of victims;\nb. to prepare progress reports on the assistance process for repatriation and social rehabilitation; and\nc. to conduct monitoring for at least three months after the victim is returned to their family.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 4,
+          "text": "VICTIMS OF VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nPart One\nDefinitions",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to fulfill the needs of a child properly, whether physical, mental, spiritual or social, committed by parents, guardians, or any other party responsible for their care;\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for their care;\nc. acts that neglect a person within the scope of their household, whereas according to the law applicable to them or due to an agreement or contract they are obligated to provide livelihood, care, or maintenance to that person; and/or\nd. acts that result in economic dependence by means of restricting and/or prohibiting proper work inside or outside the home so that the victim is under the control of that person.",
+          "score": 0.33250546
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text supports the existence of religious/spiritual support as part of victim assistance. In the Elucidation of Pasal 29 huruf i, it states: “hak atas pendampingan antara lain: ... rohaniwan ...” (companionship/assistance includes clergy/spiritual advisers). While Pasal 20 only says “konseling” generally, the explicit inclusion of “rohaniwan” as a type of assistance indicates spiritual/religious guidance is contemplated as part of services/assistance to victims. The retrieved English passage includes “religious leaders” under assistance, so the judge could have answered Yes based on the provided candidates. Thus the golden label ‘Yes’ is supported; the pipeline’s ‘No’ is due to an overly strict interpretation by the judge.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information and education about VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. conducting socialization of the rights of women and children;",
+      "evaluator_rationale": "The policy includes a community participation measure that explicitly calls for conducting socialization of the rights of women and children, which constitutes awareness/education activity relevant to preventing violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 5,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Gunungkidul Regency.\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n3. Regent is the Regent of Gunungkidul.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering, including physical, sexual, economic, social, and psychological suffering, to the victim.\n8. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs in the Special Region of Yogyakarta (Daerah Istimewa Yogyakarta).\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will or has occurred.\n12. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against women and children will, is or has occurred.\n14. Behavior Change Counseling is psychological counseling provided to male perpetrators of domestic violence to help stop violence and become people who can respect their partners, so they can establish better relationships with partners and children.\n15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n16. Integrated Service Center for Women and Children Empowerment Network hereinafter referred to as P2TP2A Berjejaring is an Integrated Service Center in Gunungkidul Regency that organizes integrated services for women and children victims of violence in a network, which is established by Decree of the Regent of Gunungkidul.\n17. Forum for Handling Victims of Violence against Women and Children abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is networked and established at the regency and sub-district levels.\n18. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n19. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints/identification, health rehabilitation, social rehabilitation, legal services, up to return and social reintegration of witnesses and/or victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n21. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n22. Gender Mainstreaming in the Region is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n23. Gender is a concept that refers to the differentiation of roles, functions, and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n24. Gender Equality is equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying development results.\n25. Gender Justice is a process to be fair to men and women.\n26. Disaggregated data is data disaggregated by sex and status and conditions of women and men in all development sectors including health, education, economy and employment, politics and decision-making, law and socio-culture and violence.\n27. Gender Responsive Planning and Budgeting is a series of approaches to integrate gender perspectives in the planning and budgeting process, gender responsive planning is planning to achieve gender equality and justice, which is carried out through integrating experiences, aspirations, needs, potentials, and problem solving of women and men.\n28. Women and Children Supervision and Service Institution in Villages or Sub-Districts or by Other Names is an institution established by village communities that functions to serve victims of violence with members consisting of local community leaders.",
+          "score": 0.6202536
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 26\n(1) Every person has the obligation to prevent the occurrence of violence against women.\n(2) The Regional Government, in efforts to prevent violence against women, implements gender mainstreaming in order to realize gender equality and gender justice in the fields of education, economy, health, law, politics, religion, and socio-culture.\n(3) Gender mainstreaming as referred to in paragraph (2) is carried out based on disaggregated data as data to provide insight in analyzing gender-responsive planning and budgeting.\n(4) Further provisions regarding Gender Mainstreaming and Gender-Responsive Planning and Budgeting are regulated in a Regent's Regulation.",
+          "score": 0.60542583
+        },
+        {
+          "chunk_id": 47,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 35\n(1) Every person shall participate in providing protection to women and children victims of violence.\n(2) Community participation as referred to in paragraph (1) may take the form of:\na. establishing institutions for the protection of women and children at the village level with the task of conducting prevention, services, and supervision;\nb. conducting socialization of the rights of women and children;\nc. providing assistance to victims;\nd. reporting and referring to the authorized agency/institution at the Sub-district level if violence against victims occurs in their environment; and\ne. The authorized Agency/Institution at the Sub-district level, if necessary, may refer to other Agencies/institutions.",
+          "score": 0.5922893
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IV\nEFFORTS TO PREVENT VIOLENCE AGAINST\nWOMEN AND CHILDREN\nPart One\nEfforts to Prevent Violence against Women",
+          "score": 0.5885108
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 3\nThe purpose of protection for women and children victims of violence is to provide a reference for protection and services for the best interests of women and children victims of violence in the domestic sphere and/or public sphere.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services to victims of violence, rehabilitation, and empowerment of victims of violence in the Region.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 25\n(1) In addition to establishing a Networked P2TP2A, the Regional Government shall establish a Forum for Handling Victims of Violence against Women and Children (FPK2PA).\n(2) FPK2PA as referred to in paragraph (1) consists of regency FPK2PA and sub-district FPK2PA.\n(3) The Organizational Structure of FPK2PA consists of:\na. Patron;\nb. Advisors;\nc. Steering Committee;\nd. Chairperson;\ne. Vice Chairperson;\nf. Secretary;\ng. Field Coordinator;\nh. Members; and\ni. Secretariat Staff.\n(4) The establishment of Regency FPK2PA as referred to in paragraph (2) shall be stipulated by Regent's Decree.\n(5) The establishment of Sub-district FPK2PA as referred to in paragraph (2) shall be stipulated by Sub-district Head's Decree.\n(6) The Duties and Functions of FPK2PA as referred to in paragraph (2) are:\na. coordinating and synchronizing the handling of PPT services;\nb. maintaining and developing networks and referral systems; and\nc. collecting, compiling, and presenting reports on violence.\n(7) FPK2PA as referred to in paragraph (2) may receive and send case referrals from or to other service units in a networked manner.\n(8) Members of FPK2PA as referred to in paragraph (3) letter h consist of Regional Work Units that have duties and functions in the fields of social affairs, handling of women and children, health, education, youth and sports, religion, population, manpower, and/or industry and trade, as well as Vertical Institutions and community institutions that are grouped in the following fields:\na. health field;\nb. psychology field;\nc. law field;\nd. social field; and\ne. economic field.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 27\n(1) The Regional Government and the community shall prevent violence against children.\n(2) Prevention of violence as referred to in paragraph (1) includes the fulfillment of children's basic rights in accordance with their needs.\n(3) Further provisions regarding the fulfillment of children's basic rights shall be regulated in a Regent's Regulation.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 38,
+          "text": "Second Part\nService Efforts for Women Victims of Violence",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nThe General Chairperson as referred to in Article 13 paragraph (1) letter a has the duties of:\na. coordinating the formulation of policies, strategies, programs, and activities as well as necessary measures in the implementation of Networked P2TP2A;\nb. conducting supervision and guidance over the implementation of protection and handling of victims of violence;\nc. implementing policies established by the Regent; and\nd. being responsible for the entire process of implementing protection and handling of violence against victims of violence.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 53,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF GUNUNGKIDUL REGENCY NUMBER 25 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nVICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in Gunungkidul Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in Gunungkidul Regency.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER V\nSERVICE EFFORTS FOR WOMEN\nAND CHILDREN VICTIMS OF VIOLENCE\nFirst Section\nService Principles",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION.\nArticle 37\n(1) The Regent conducts guidance and supervision of the implementation of protection for women and children victims of violence, through the Regional Work Unit that has duties and functions in the field of women and child empowerment.\n(2) Guidance and Supervision as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF GUNUNGKIDUL,\nConsidering : a. that all forms of violence against women and children constitute violations of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nb. that in addition to protection efforts, prevention, services, and empowerment are needed for women and children victims of violence;\nc. that regulation of efforts as referred to in letter b is needed in the region;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Protection of Women and Children Victims of Violence;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 15 of 1950 concerning the Establishment of Regency Areas within the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 44);\n3. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette Number 4844);\n4. Government Regulation Number 32 of 1950 concerning the Determination of the Entry into Force of Laws of 1950 Numbers 12, 13, 14 and 15 regarding the Establishment of Regency areas within Central Java Province, West Java and the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 59);\n5. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation in the Recovery of Victims of Domestic Violence, State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604;\n6. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n7. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 05 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;\n8. Special Regional Regulation of Yogyakarta Number 3 of 2012 concerning the Protection of Women and Children Victims of Violence (Regional Gazette of the Special Region of Yogyakarta Province of 2012 Number 3);\n9. Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2008 Number 01 Series E) as amended by Regional Regulation of Gunungkidul Regency Number 8 of 2010 concerning Amendment to Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2010 Number 07 Series E);\nWith Mutual Approval",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 29\nLetter a What is meant by “the right to have one’s dignity and worth respected as a human being” is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by “the right to receive information” is the right to obtain information, explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts, or their explanations, which can be seen, heard, and read, presented in various packages and formats in accordance with the development of information and communication technology, either electronically or non-electronically, related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by “the right to social rehabilitation” includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter g What is meant by “the right to complaint handling” is the availability of a special integrated service unit by officers.\nLetter h Sufficiently clear.\nLetter i What is meant by “the right to accompaniment/assistance” includes, among others: psychologists, psychiatrists, health experts, religious leaders, advocates, and family members.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 32\n(1) The Regional Government carries out empowerment for women victims of violence.\n(2) Empowerment as referred to in paragraph (1) is carried out by the Networked P2TP2A and may cooperate with all parties.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is caused by:\na. threat of violence includes any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrict a person's fundamental freedom; and\nb. coercion, includes a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe Secretary as referred to in Article 13 paragraph (1) letter c has the duties to:\na. assist in the implementation of duties of the General Chairperson;\nb. assist in preparing coordination activities and follow-up on protection and handling of victims of violence;\nc. assist in preparing the work program plan of the central task force;\nd. provide administrative services in the cooperation of the central Task Force with Ministries/Institutions and Community Organizations that are members of the Central Task Force;\ne. organize service activities for the collection, processing, and presentation of data as well as the preparation of secretariat activity reports; and\nf. foster and implement working cooperation with Ministries/Institutions and related Community Organizations in the implementation of prevention and handling of criminal acts of trafficking in persons.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter b What is meant by \"justice\" is a condition where every person, both men and women, is treated equally and obtains equal opportunities to obtain opportunities (access), as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men, including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims without making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter d What is meant by \"the best interests of victims\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.\nLetter e What is meant by \"empowerment\" is the strengthening of victims of violence to be able to make efforts and work independently after they are recovered and provided with health and social rehabilitation services.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe chief executive as referred to in Article 13 paragraph (1) letter b has the duties of:\na. coordinating the duties and functions of each service sector;\nb. controlling the implementation of protection and handling programs for victims of violence;\nc. conducting coordination and cooperation with related external parties;\nd. collecting and utilizing resources effectively and efficiently for protection and handling activities for victims of violence; and\ne. providing periodic reports to the Regent specifically for victims of the criminal act of human trafficking, whereby copies of the reports are also provided to the task force for prevention and handling of the criminal act of human trafficking.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 33,
+          "text": "Second Part\nEfforts to Prevent Violence Against Children",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 42,
+          "text": "CHAPTER VI\nEMPOWERMENT EFFORTS FOR\nWOMEN AND CHILDREN VICTIMS OF VIOLENCE\nPart One\nEmpowerment Efforts for Women Victims of Violence",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 10,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 5\nForms of violence include:\na. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other violence.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 25\n\nParagraph (1) Sufficiently clear.\n\nParagraph (2) Sufficiently clear.\n\nParagraph (3) Sufficiently clear.\n\nParagraph (4) Sufficiently clear.\n\nParagraph (5) Sufficiently clear.\n\nParagraph (6) Sufficiently clear.\n\nParagraph (7) What is meant by “other service units” is a unified unit that carries out integrated service functions for women and children victims of violence.\nThis service unit can be located at Integrated Service Centers (PPT) and Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other community/faith-based institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.\n\nParagraph (8) Sufficiently clear.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER III\nINTEGRATED SERVICE CENTER\nArticle 12\n(1) PPT is established by the Regional Government, Vertical Agencies in the Region, or community institutions.\n(2) The Regional Government establishes the Networked P2TP2A as an integrated service center by Regent's Decree.\n(3) The Networked P2TP2A as referred to in paragraph (2) is a functional work unit that has the duties and functions of providing protection to women and children from acts of violence.\n(4) In carrying out the duties as referred to in paragraph (3), the Networked P2TP2A may provide services and temporary protection in the form of a safe house.\n(5) In the event that the Networked P2TP2A does not have a safe house (shelter) as referred to in paragraph (4), then victims of violence are referred to a PPT that has a safe house.",
+          "score": 0.3644156
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation includes an explicit awareness/education activity relevant to preventing violence: Pasal 35(2) huruf b states community participation may take the form of “melakukan sosialisasi hak perempuan dan anak” (conducting socialization/outreach on the rights of women and children). This is information/education content and is directly in the retrieved candidates. The judge’s ‘Yes’ aligns with the Indonesian text; therefore the golden label ‘No’ appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. conducting socialization of the rights of women and children;",
+      "evaluator_rationale": "The policy explicitly includes socialization of the rights of women and children as a form of community participation, which is an educational/awareness activity about rights (including women’s rights) consistent with primary prevention.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 32,
+          "text": "Article 26\n(1) Every person has the obligation to prevent the occurrence of violence against women.\n(2) The Regional Government, in efforts to prevent violence against women, implements gender mainstreaming in order to realize gender equality and gender justice in the fields of education, economy, health, law, politics, religion, and socio-culture.\n(3) Gender mainstreaming as referred to in paragraph (2) is carried out based on disaggregated data as data to provide insight in analyzing gender-responsive planning and budgeting.\n(4) Further provisions regarding Gender Mainstreaming and Gender-Responsive Planning and Budgeting are regulated in a Regent's Regulation.",
+          "score": 0.54441386
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Gunungkidul Regency.\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n3. Regent is the Regent of Gunungkidul.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering, including physical, sexual, economic, social, and psychological suffering, to the victim.\n8. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs in the Special Region of Yogyakarta (Daerah Istimewa Yogyakarta).\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will or has occurred.\n12. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against women and children will, is or has occurred.\n14. Behavior Change Counseling is psychological counseling provided to male perpetrators of domestic violence to help stop violence and become people who can respect their partners, so they can establish better relationships with partners and children.\n15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n16. Integrated Service Center for Women and Children Empowerment Network hereinafter referred to as P2TP2A Berjejaring is an Integrated Service Center in Gunungkidul Regency that organizes integrated services for women and children victims of violence in a network, which is established by Decree of the Regent of Gunungkidul.\n17. Forum for Handling Victims of Violence against Women and Children abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is networked and established at the regency and sub-district levels.\n18. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n19. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints/identification, health rehabilitation, social rehabilitation, legal services, up to return and social reintegration of witnesses and/or victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n21. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n22. Gender Mainstreaming in the Region is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n23. Gender is a concept that refers to the differentiation of roles, functions, and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n24. Gender Equality is equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying development results.\n25. Gender Justice is a process to be fair to men and women.\n26. Disaggregated data is data disaggregated by sex and status and conditions of women and men in all development sectors including health, education, economy and employment, politics and decision-making, law and socio-culture and violence.\n27. Gender Responsive Planning and Budgeting is a series of approaches to integrate gender perspectives in the planning and budgeting process, gender responsive planning is planning to achieve gender equality and justice, which is carried out through integrating experiences, aspirations, needs, potentials, and problem solving of women and men.\n28. Women and Children Supervision and Service Institution in Villages or Sub-Districts or by Other Names is an institution established by village communities that functions to serve victims of violence with members consisting of local community leaders.",
+          "score": 0.50546855
+        },
+        {
+          "chunk_id": 47,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 35\n(1) Every person shall participate in providing protection to women and children victims of violence.\n(2) Community participation as referred to in paragraph (1) may take the form of:\na. establishing institutions for the protection of women and children at the village level with the task of conducting prevention, services, and supervision;\nb. conducting socialization of the rights of women and children;\nc. providing assistance to victims;\nd. reporting and referring to the authorized agency/institution at the Sub-district level if violence against victims occurs in their environment; and\ne. The authorized Agency/Institution at the Sub-district level, if necessary, may refer to other Agencies/institutions.",
+          "score": 0.48008865
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IV\nEFFORTS TO PREVENT VIOLENCE AGAINST\nWOMEN AND CHILDREN\nPart One\nEfforts to Prevent Violence against Women",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 55,
+          "text": "Article 2\nLetter a What is meant by \"respect and fulfillment of victims' rights\" is the guarantee of the fulfillment of victims' basic rights.\nLetter b What is meant by \"justice\" is a condition where every person, both men and women, is treated equally and obtains equal opportunities to obtain opportunities (access), as well as welfare;\nWhat is meant by \"gender equality\" is equality of rights, opportunities, benefits and decision-making between women and men, including in entering employment opportunities both in the formal and informal sectors.\nLetter c What is meant by \"non-discrimination\" is an attitude and treatment toward victims without making distinctions based on age, gender, race, ethnicity, religion and between groups.\nLetter d What is meant by \"the best interests of victims\" is all best actions concerning victims carried out by the Government, society, legislative bodies and judicial bodies, therefore the best interests of victims must be the primary consideration.\nLetter e What is meant by \"empowerment\" is the strengthening of victims of violence to be able to make efforts and work independently after they are recovered and provided with health and social rehabilitation services.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 6,
+          "text": "Part Two\nPrinciples, Objectives, and Scope",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION.\nArticle 37\n(1) The Regent conducts guidance and supervision of the implementation of protection for women and children victims of violence, through the Regional Work Unit that has duties and functions in the field of women and child empowerment.\n(2) Guidance and Supervision as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 38\nSufficiently clear.\n---///---",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 3\nThe purpose of protection for women and children victims of violence is to provide a reference for protection and services for the best interests of women and children victims of violence in the domestic sphere and/or public sphere.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 25\n\nParagraph (1) Sufficiently clear.\n\nParagraph (2) Sufficiently clear.\n\nParagraph (3) Sufficiently clear.\n\nParagraph (4) Sufficiently clear.\n\nParagraph (5) Sufficiently clear.\n\nParagraph (6) Sufficiently clear.\n\nParagraph (7) What is meant by “other service units” is a unified unit that carries out integrated service functions for women and children victims of violence.\nThis service unit can be located at Integrated Service Centers (PPT) and Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other community/faith-based institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.\n\nParagraph (8) Sufficiently clear.",
+          "score": 0.32560632
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 3\nSufficiently clear",
+          "score": 0.32560632
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 29\nLetter a What is meant by “the right to have one’s dignity and worth respected as a human being” is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by “the right to receive information” is the right to obtain information, explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts, or their explanations, which can be seen, heard, and read, presented in various packages and formats in accordance with the development of information and communication technology, either electronically or non-electronically, related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by “the right to social rehabilitation” includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter g What is meant by “the right to complaint handling” is the availability of a special integrated service unit by officers.\nLetter h Sufficiently clear.\nLetter i What is meant by “the right to accompaniment/assistance” includes, among others: psychologists, psychiatrists, health experts, religious leaders, advocates, and family members.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 32\n(1) The Regional Government carries out empowerment for women victims of violence.\n(2) Empowerment as referred to in paragraph (1) is carried out by the Networked P2TP2A and may cooperate with all parties.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF GUNUNGKIDUL,\nConsidering : a. that all forms of violence against women and children constitute violations of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nb. that in addition to protection efforts, prevention, services, and empowerment are needed for women and children victims of violence;\nc. that regulation of efforts as referred to in letter b is needed in the region;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Protection of Women and Children Victims of Violence;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 15 of 1950 concerning the Establishment of Regency Areas within the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 44);\n3. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette Number 4844);\n4. Government Regulation Number 32 of 1950 concerning the Determination of the Entry into Force of Laws of 1950 Numbers 12, 13, 14 and 15 regarding the Establishment of Regency areas within Central Java Province, West Java and the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 59);\n5. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation in the Recovery of Victims of Domestic Violence, State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604;\n6. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n7. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 05 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;\n8. Special Regional Regulation of Yogyakarta Number 3 of 2012 concerning the Protection of Women and Children Victims of Violence (Regional Gazette of the Special Region of Yogyakarta Province of 2012 Number 3);\n9. Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2008 Number 01 Series E) as amended by Regional Regulation of Gunungkidul Regency Number 8 of 2010 concerning Amendment to Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2010 Number 07 Series E);\nWith Mutual Approval",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 4\nSufficiently clear",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 2\nThe principles of Victim protection are:\na. respect for and fulfillment of victims' rights;\nb. justice and gender equality;\nc. non-discrimination;\nd. the best interests of victims; and\ne. empowerment.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 25\n(1) In addition to establishing a Networked P2TP2A, the Regional Government shall establish a Forum for Handling Victims of Violence against Women and Children (FPK2PA).\n(2) FPK2PA as referred to in paragraph (1) consists of regency FPK2PA and sub-district FPK2PA.\n(3) The Organizational Structure of FPK2PA consists of:\na. Patron;\nb. Advisors;\nc. Steering Committee;\nd. Chairperson;\ne. Vice Chairperson;\nf. Secretary;\ng. Field Coordinator;\nh. Members; and\ni. Secretariat Staff.\n(4) The establishment of Regency FPK2PA as referred to in paragraph (2) shall be stipulated by Regent's Decree.\n(5) The establishment of Sub-district FPK2PA as referred to in paragraph (2) shall be stipulated by Sub-district Head's Decree.\n(6) The Duties and Functions of FPK2PA as referred to in paragraph (2) are:\na. coordinating and synchronizing the handling of PPT services;\nb. maintaining and developing networks and referral systems; and\nc. collecting, compiling, and presenting reports on violence.\n(7) FPK2PA as referred to in paragraph (2) may receive and send case referrals from or to other service units in a networked manner.\n(8) Members of FPK2PA as referred to in paragraph (3) letter h consist of Regional Work Units that have duties and functions in the fields of social affairs, handling of women and children, health, education, youth and sports, religion, population, manpower, and/or industry and trade, as well as Vertical Institutions and community institutions that are grouped in the following fields:\na. health field;\nb. psychology field;\nc. law field;\nd. social field; and\ne. economic field.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 27\n(1) The Regional Government and the community shall prevent violence against children.\n(2) Prevention of violence as referred to in paragraph (1) includes the fulfillment of children's basic rights in accordance with their needs.\n(3) Further provisions regarding the fulfillment of children's basic rights shall be regulated in a Regent's Regulation.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 35,
+          "text": "CHAPTER V\nSERVICE EFFORTS FOR WOMEN\nAND CHILDREN VICTIMS OF VIOLENCE\nFirst Section\nService Principles",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 60,
+          "text": "Article 7\nSufficiently clear.",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 53,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF GUNUNGKIDUL REGENCY NUMBER 25 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nVICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in Gunungkidul Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in Gunungkidul Regency.",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 33,
+          "text": "Second Part\nEfforts to Prevent Violence Against Children",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 21\nSufficiently clear.",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 22\nSufficiently clear.",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 20\nSufficiently clear.",
+          "score": 0.29551446
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure",
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text does mention “pengarusutamaan gender” to realize “kesetaraan dan keadilan gender” across sectors (Pasal 26(2)), but it does not explicitly require education/training/curriculum or public education specifically about gender equality. The judge relied on Pasal 35(2)(b) “sosialisasi hak perempuan dan anak,” which is rights outreach, not necessarily gender-equality education. So if the indicator is narrowly ‘gender equality education,’ the judge’s reasoning is too broad (evaluation_failure). However, if the project’s coding scheme treats rights socialization and/or gender mainstreaming measures as sufficient for ‘gender equality education,’ then the golden label ‘No’ would be questionable. Given the text lacks an explicit ‘education on gender equality’ program, I am not fully certain; but the judge’s cited evidence does not cleanly match the indicator, suggesting at least evaluation_failure, and possibly a golden-label mismatch depending on how the indicator is defined.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy refers broadly to community participation and local community leaders, the provided sentences do not explicitly mention traditional/customary/cultural leaders, customary institutions, or customary dispute-resolution mechanisms.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 47,
+          "text": "CHAPTER VIII\nCOMMUNITY PARTICIPATION\nArticle 35\n(1) Every person shall participate in providing protection to women and children victims of violence.\n(2) Community participation as referred to in paragraph (1) may take the form of:\na. establishing institutions for the protection of women and children at the village level with the task of conducting prevention, services, and supervision;\nb. conducting socialization of the rights of women and children;\nc. providing assistance to victims;\nd. reporting and referring to the authorized agency/institution at the Sub-district level if violence against victims occurs in their environment; and\ne. The authorized Agency/Institution at the Sub-district level, if necessary, may refer to other Agencies/institutions.",
+          "score": 0.6438669
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 1\nIn this Regional Regulation what is meant by:\n1. Region is Gunungkidul Regency.\n2. Regional Government is the Regent and regional apparatus as elements of regional government administration.\n3. Regent is the Regent of Gunungkidul.\n4. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution as an element of regional government administration.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering, including physical, sexual, economic, social, and psychological suffering, to the victim.\n8. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against Children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence that occurs in the Special Region of Yogyakarta (Daerah Istimewa Yogyakarta).\n11. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, court, social institutions, or other parties who know or hear that violence against women will or has occurred.\n12. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is action taken as soon as possible to victims when seeing, hearing and knowing that violence against women and children will, is or has occurred.\n14. Behavior Change Counseling is psychological counseling provided to male perpetrators of domestic violence to help stop violence and become people who can respect their partners, so they can establish better relationships with partners and children.\n15. Integrated Service Center hereinafter abbreviated as PPT is a functional work unit that organizes integrated services for victims of violence.\n16. Integrated Service Center for Women and Children Empowerment Network hereinafter referred to as P2TP2A Berjejaring is an Integrated Service Center in Gunungkidul Regency that organizes integrated services for women and children victims of violence in a network, which is established by Decree of the Regent of Gunungkidul.\n17. Forum for Handling Victims of Violence against Women and Children abbreviated as FPK2PA is a coordination forum for handling victims of violence against women and children whose implementation is networked and established at the regency and sub-district levels.\n18. Safe House is a shelter for victims, during the assistance process, for the safety and comfort of victims from threats and danger from perpetrators.\n19. Standard Operating Procedure hereinafter abbreviated as SOP is standard steps that must be taken in protecting victims starting from complaints/identification, health rehabilitation, social rehabilitation, legal services, up to return and social reintegration of witnesses and/or victims.\n20. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n21. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, care, and representation, and/or domestic workers and reside in that household.\n22. Gender Mainstreaming in the Region is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of policies, programs, and development activities in the region.\n23. Gender is a concept that refers to the differentiation of roles, functions, and responsibilities of men and women that occur as a result of and can be changed by the social and cultural circumstances of society.\n24. Gender Equality is equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in political, economic, socio-cultural activities, national defense and security, and equality in enjoying development results.\n25. Gender Justice is a process to be fair to men and women.\n26. Disaggregated data is data disaggregated by sex and status and conditions of women and men in all development sectors including health, education, economy and employment, politics and decision-making, law and socio-culture and violence.\n27. Gender Responsive Planning and Budgeting is a series of approaches to integrate gender perspectives in the planning and budgeting process, gender responsive planning is planning to achieve gender equality and justice, which is carried out through integrating experiences, aspirations, needs, potentials, and problem solving of women and men.\n28. Women and Children Supervision and Service Institution in Villages or Sub-Districts or by Other Names is an institution established by village communities that functions to serve victims of violence with members consisting of local community leaders.",
+          "score": 0.6091522
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe Secretary as referred to in Article 13 paragraph (1) letter c has the duties to:\na. assist in the implementation of duties of the General Chairperson;\nb. assist in preparing coordination activities and follow-up on protection and handling of victims of violence;\nc. assist in preparing the work program plan of the central task force;\nd. provide administrative services in the cooperation of the central Task Force with Ministries/Institutions and Community Organizations that are members of the Central Task Force;\ne. organize service activities for the collection, processing, and presentation of data as well as the preparation of secretariat activity reports; and\nf. foster and implement working cooperation with Ministries/Institutions and related Community Organizations in the implementation of prevention and handling of criminal acts of trafficking in persons.",
+          "score": 0.59417456
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 25\n(1) In addition to establishing a Networked P2TP2A, the Regional Government shall establish a Forum for Handling Victims of Violence against Women and Children (FPK2PA).\n(2) FPK2PA as referred to in paragraph (1) consists of regency FPK2PA and sub-district FPK2PA.\n(3) The Organizational Structure of FPK2PA consists of:\na. Patron;\nb. Advisors;\nc. Steering Committee;\nd. Chairperson;\ne. Vice Chairperson;\nf. Secretary;\ng. Field Coordinator;\nh. Members; and\ni. Secretariat Staff.\n(4) The establishment of Regency FPK2PA as referred to in paragraph (2) shall be stipulated by Regent's Decree.\n(5) The establishment of Sub-district FPK2PA as referred to in paragraph (2) shall be stipulated by Sub-district Head's Decree.\n(6) The Duties and Functions of FPK2PA as referred to in paragraph (2) are:\na. coordinating and synchronizing the handling of PPT services;\nb. maintaining and developing networks and referral systems; and\nc. collecting, compiling, and presenting reports on violence.\n(7) FPK2PA as referred to in paragraph (2) may receive and send case referrals from or to other service units in a networked manner.\n(8) Members of FPK2PA as referred to in paragraph (3) letter h consist of Regional Work Units that have duties and functions in the fields of social affairs, handling of women and children, health, education, youth and sports, religion, population, manpower, and/or industry and trade, as well as Vertical Institutions and community institutions that are grouped in the following fields:\na. health field;\nb. psychology field;\nc. law field;\nd. social field; and\ne. economic field.",
+          "score": 0.5560139
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 25\n\nParagraph (1) Sufficiently clear.\n\nParagraph (2) Sufficiently clear.\n\nParagraph (3) Sufficiently clear.\n\nParagraph (4) Sufficiently clear.\n\nParagraph (5) Sufficiently clear.\n\nParagraph (6) Sufficiently clear.\n\nParagraph (7) What is meant by “other service units” is a unified unit that carries out integrated service functions for women and children victims of violence.\nThis service unit can be located at Integrated Service Centers (PPT) and Integrated Crisis Centers (PKT) based in Hospitals, Community Health Centers, Women and Children Service Units (UPPA), Trauma Center Shelters (RPTC), Children's Social Shelters (RPSA), BP4, and other community/faith-based institutions, prosecutor's offices, courts, Women Crisis Centers (WCC), and other similar institutions. This service can be in the form of one roof (one stop crisis center) or in the form of a network, depending on the needs in each region.\n\nParagraph (8) Sufficiently clear.",
+          "score": 0.5288741
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 12\nParagraph (1) What is meant by \"community institution\" is an institution formed by members of the community who are Citizens of the Republic of Indonesia voluntarily on the basis of shared vision, mission, profession, function and activities to participate in development in order to achieve national goals within the framework of the Unitary State of the Republic of Indonesia based on Pancasila, which consists of religious organizations, non-governmental organizations, professional organizations, private organizations, social organizations, political organizations, mass media, and other forms of organizations.\nParagraph (2) Sufficiently clear.\nParagraph (3) Sufficiently clear.\nParagraph (4) What is meant by \"safe house\" is a temporary shelter intended to provide protection and a sense of security to victims of violence. Temporary protection is provided for a period of up to 14 (fourteen) days and can be extended according to the condition of the victim. PPTs that do not have shelters can network with PPTs that have shelters.\nParagraph (5) Sufficiently clear.",
+          "score": 0.49375033
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 27\n(1) The Regional Government and the community shall prevent violence against children.\n(2) Prevention of violence as referred to in paragraph (1) includes the fulfillment of children's basic rights in accordance with their needs.\n(3) Further provisions regarding the fulfillment of children's basic rights shall be regulated in a Regent's Regulation.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 15\nThe chief executive as referred to in Article 13 paragraph (1) letter b has the duties of:\na. coordinating the duties and functions of each service sector;\nb. controlling the implementation of protection and handling programs for victims of violence;\nc. conducting coordination and cooperation with related external parties;\nd. collecting and utilizing resources effectively and efficiently for protection and handling activities for victims of violence; and\ne. providing periodic reports to the Regent specifically for victims of the criminal act of human trafficking, whereby copies of the reports are also provided to the task force for prevention and handling of the criminal act of human trafficking.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER III\nINTEGRATED SERVICE CENTER\nArticle 12\n(1) PPT is established by the Regional Government, Vertical Agencies in the Region, or community institutions.\n(2) The Regional Government establishes the Networked P2TP2A as an integrated service center by Regent's Decree.\n(3) The Networked P2TP2A as referred to in paragraph (2) is a functional work unit that has the duties and functions of providing protection to women and children from acts of violence.\n(4) In carrying out the duties as referred to in paragraph (3), the Networked P2TP2A may provide services and temporary protection in the form of a safe house.\n(5) In the event that the Networked P2TP2A does not have a safe house (shelter) as referred to in paragraph (4), then victims of violence are referred to a PPT that has a safe house.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 23\nThe organizational structure of PPT formed by Vertical Agencies in the Regions and community institutions, shall be established in accordance with the needs of each agency.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 46,
+          "text": "CHAPTER VII\nIMPLEMENTATION OF PROTECTION\nArticle 34\nImplementation of Protection is carried out in an integrated and interconnected manner within the framework of Networked P2TP2A and FPK2PA as referred to in Article 25.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 4\nThe scope of protection for Victims includes prevention efforts, services to victims of violence, rehabilitation, and empowerment of victims of violence in the Region.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF GUNUNGKIDUL,\nConsidering : a. that all forms of violence against women and children constitute violations of human rights and therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination;\nb. that in addition to protection efforts, prevention, services, and empowerment are needed for women and children victims of violence;\nc. that regulation of efforts as referred to in letter b is needed in the region;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation on the Protection of Women and Children Victims of Violence;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 15 of 1950 concerning the Establishment of Regency Areas within the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 44);\n3. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as amended several times most recently by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette Number 4844);\n4. Government Regulation Number 32 of 1950 concerning the Determination of the Entry into Force of Laws of 1950 Numbers 12, 13, 14 and 15 regarding the Establishment of Regency areas within Central Java Province, West Java and the Special Region of Yogyakarta (State Gazette of the Republic of Indonesia of 1950 Number 59);\n5. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation in the Recovery of Victims of Domestic Violence, State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604;\n6. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 1 of 2010 concerning Minimum Service Standards in the Field of Integrated Services for Women and Children Victims of Violence;\n7. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 05 of 2010 concerning Guidelines for the Establishment and Development of Integrated Service Centers;\n8. Special Regional Regulation of Yogyakarta Number 3 of 2012 concerning the Protection of Women and Children Victims of Violence (Regional Gazette of the Special Region of Yogyakarta Province of 2012 Number 3);\n9. Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2008 Number 01 Series E) as amended by Regional Regulation of Gunungkidul Regency Number 8 of 2010 concerning Amendment to Regional Regulation of Gunungkidul Regency Number 2 of 2008 concerning Regional Government Affairs (Regional Gazette of Gunungkidul Regency of 2010 Number 07 Series E);\nWith Mutual Approval",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 29\nLetter a What is meant by “the right to have one’s dignity and worth respected as a human being” is upholding human rights.\nLetter b Sufficiently clear.\nLetter c Sufficiently clear.\nLetter d What is meant by “the right to receive information” is the right to obtain information, explanations, statements, ideas, and signs that contain value, meaning, and messages, whether data, facts, or their explanations, which can be seen, heard, and read, presented in various packages and formats in accordance with the development of information and communication technology, either electronically or non-electronically, related to acts of violence.\nLetter e Sufficiently clear.\nLetter f What is meant by “the right to social rehabilitation” includes: access to medical services for physical and psychological recovery, legal assistance to restore civil rights, restoration of good name, and citizenship.\nLetter g What is meant by “the right to complaint handling” is the availability of a special integrated service unit by officers.\nLetter h Sufficiently clear.\nLetter i What is meant by “the right to accompaniment/assistance” includes, among others: psychologists, psychiatrists, health experts, religious leaders, advocates, and family members.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 53,
+          "text": "ELUCIDATION\nOF\nREGIONAL REGULATION OF GUNUNGKIDUL REGENCY NUMBER 25 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN\nVICTIMS OF VIOLENCE\nI. GENERAL\nActs of violence against women and children constitute violations of human rights, therefore their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination.\nIn order to prevent and overcome violence against women and children in Gunungkidul Regency so as to avoid violence, threats of violence, torture or treatment that degrades human dignity and honor, it is necessary to provide protection for women and children victims of violence in the form of regional regulations.\nThus far, laws and regulations governing the protection of women and children victims of violence have not yet regulated protection measures at the Regional level, therefore institutional support and regulations are needed that can guarantee its implementation.\nThis Regional Regulation regulates protection measures for victims, particularly in terms of prevention, services and empowerment of women and children victims of violence in Gunungkidul Regency.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 3\nThe purpose of protection for women and children victims of violence is to provide a reference for protection and services for the best interests of women and children victims of violence in the domestic sphere and/or public sphere.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 29\nIn the implementation of integrated services, every victim shall receive the following rights:\na. the right to have their dignity respected as a human being;\nb. the right to health and psychological recovery from the suffering experienced by the victim;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality of their identity;\nf. the right to social rehabilitation;\ng. the right to complaint handling;\nh. the right to obtain facilitation in the judicial process; and/or\ni. the right to assistance.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 26\n(1) Every person has the obligation to prevent the occurrence of violence against women.\n(2) The Regional Government, in efforts to prevent violence against women, implements gender mainstreaming in order to realize gender equality and gender justice in the fields of education, economy, health, law, politics, religion, and socio-culture.\n(3) Gender mainstreaming as referred to in paragraph (2) is carried out based on disaggregated data as data to provide insight in analyzing gender-responsive planning and budgeting.\n(4) Further provisions regarding Gender Mainstreaming and Gender-Responsive Planning and Budgeting are regulated in a Regent's Regulation.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER X\nGUIDANCE AND SUPERVISION.\nArticle 37\n(1) The Regent conducts guidance and supervision of the implementation of protection for women and children victims of violence, through the Regional Work Unit that has duties and functions in the field of women and child empowerment.\n(2) Guidance and Supervision as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 33\n(1) The Regional Government provides empowerment for child victims of violence.\n(2) Empowerment as referred to in paragraph (1) is implemented by the Networked P2TP2A and may cooperate with all parties.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 14\nThe General Chairperson as referred to in Article 13 paragraph (1) letter a has the duties of:\na. coordinating the formulation of policies, strategies, programs, and activities as well as necessary measures in the implementation of Networked P2TP2A;\nb. conducting supervision and guidance over the implementation of protection and handling of victims of violence;\nc. implementing policies established by the Regent; and\nd. being responsible for the entire process of implementing protection and handling of violence against victims of violence.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 33,
+          "text": "Second Part\nEfforts to Prevent Violence Against Children",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 6,
+          "text": "Part Two\nPrinciples, Objectives, and Scope",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 3\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER IV\nEFFORTS TO PREVENT VIOLENCE AGAINST\nWOMEN AND CHILDREN\nPart One\nEfforts to Prevent Violence against Women",
+          "score": 0.33947718
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text engages local/traditional community structures via the creation of village-level institutions composed of “tokoh masyarakat lokal” (local community leaders). Pasal 1 angka 28 defines “Lembaga Pengawasan dan Pelayanan Perempuan dan Anak di Desa...” as an institution formed by village communities with members consisting of local community leaders, and Pasal 35(2)(a) allows forming village institutions for protection tasks. While it does not use the specific term “tokoh adat” (customary leaders), “tokoh masyarakat lokal” commonly includes traditional/cultural leaders in local governance contexts, and this is the closest explicit cultural/community-leader engagement mechanism in the regulation. The retrieved candidates included Pasal 1(28) with “local community leaders,” so the judge could have supported a ‘Yes’ if the indicator accepts engagement with local/traditional leaders. Therefore the golden label ‘Yes’ is defensible from the Indonesian text, and the judge’s ‘No’ appears overly strict.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "DI_YOGYAKARTA_GUNUNGKIDUL.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:13.999808+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 5,
+  "diagnosed_count": 5
+}

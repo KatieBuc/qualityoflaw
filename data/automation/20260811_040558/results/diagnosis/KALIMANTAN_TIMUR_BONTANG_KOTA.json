@@ -1,0 +1,717 @@
+{
+  "diagnoses": {
+    "1.9": {
+      "indicator": "Sexual slavery/exploitation",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy includes sexual violence and mentions coercion of sexual relations for commercial purposes, the provided sentences do not explicitly address sexual exploitation or sexual slavery as such.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 9\n(1) The scope of acts of violence against women and children includes:\na. acts of violence that occur within the household; and\nb. acts of violence that occur outside the household.\n(2) Acts of violence that occur within the household as referred to in paragraph (1) letter a occur within the household committed by:\na. husband or wife within a marriage;\nb. those having blood family relations, marriage, customary relations, adoption; or\nc. those working for others or living and residing with others.\n(3) Acts of violence that occur outside the household as referred to in paragraph (1) letter b occur outside the household including:\na. harassment;\nb. violence discrimination in the workplace;\nc. violence in conflict areas;\nd. violence in mass media; and\ne. human trafficking.",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\nSexual violence as referred to in Article 4 letter c includes acts in the form of:\na. sexual harassment; and/or\nb. coercion of sexual relations, in an unnatural manner or not desired by one of the parties, for commercial purposes and/or certain purposes.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of acts of violence is carried out based on:\na. humanity;\nb. justice and gender equality;\nc. shelter;\nd. non-discrimination;\ne. respect and recognition of human rights;\nf. best interests of women and children; and\ng. victim protection.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 24\n(1) The Regional Government facilitates temporary protection, legal protection and support directly or channels to third parties, whether the police, foundations, non-governmental organizations, or individuals for women and children victims of acts of violence;\n(2) Protection and support as referred to in paragraph (1) shall be carried out from the moment a report is received, either from the victim or other parties or from the moment it is known that an act of violence against women and children has occurred.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 12 letter a, include:\na. implementing policies for the protection of women and children from acts of violence established by the Government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence;\nd. providing integrated services for women and children victims of acts of violence;\ne. guaranteeing the implementation of protection for women and children victims of acts of violence by taking into account the rights and obligations of parents, guardians, husbands or other persons legally responsible for the victims;\nf. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;\ng. allocating budget for the implementation of protection of women and children victims of acts of violence in accordance with regional financial capacity;\nh. fostering and supervising the implementation of protection of women and children victims of acts of violence;\ni. opening the widest possible access to information for women and children victims of acts of violence.\n(2) The implementation of obligations and responsibilities as referred to in paragraph (1) shall be set forth in a Regional Action Plan containing programs and activities for the protection of women and children victims of acts of violence;\n(3) The Regional Action Plan as referred to in paragraph (2) shall become part of the Regional Medium-Term Development Plan to be subsequently used as a basis for SKPD in implementing protection for women and children victims of acts of violence;\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated in a Mayoral Regulation.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bontang.\n2. Regional Government is the Mayor and regional apparatus as elements of the administration of the Regional Government.\n3. Regional Head is the Mayor of Bontang.\n4. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus of the Bontang City Government.\n5. Integrated Service Center for the Empowerment of Women and Children, hereinafter abbreviated as P2TP2A, is an Integrated Service Unit established by the Regional Government to provide services to women and children victims of violence comprehensively, including information services, accompaniment and legal aid, counseling services, medical services, and safe houses through referral.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. General Hospital is a service facility that provides basic and specialist medical services, medical support services, hospital installation/unit services, and care services on an outpatient and inpatient basis.\n8. Violence is any act that results in or may result in misery or suffering, whether physical, sexual, economic, social, or psychological, to the victim.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Services are actions that must be immediately provided to the victim when seeing, hearing, and knowing that violence against the victim will occur, is occurring, or has occurred.\n11. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy, and advocacy in order to provide strengthening and recovery of victims of violence, as stipulated in a decision of an authorized official.\n12. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance for the self-strengthening of victims of domestic violence to resolve the problems faced.\n13. Victim Recovery is all actions to strengthen victims of domestic violence to be more empowered, both physically and psychologically.\n14. Recovery Implementation is all actions that include services and assistance to victims of domestic violence.\n15. Cooperation is a systematic and integrated method among recovery implementers in providing services to recover victims of domestic violence.\n16. Safe House is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife, or husband, wife and their children, or father and his children and mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n19. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) and non-relatives (domestic helpers, drivers and so forth) who live and eat from one kitchen and reside in one house.\n20. Household Scope is people who have family relations with persons as referred to in number 19 due to blood relations, marriage, milk kinship, foster care, or guardianship who reside in the household, as well as people who work to assist the household and reside in that household.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER VI\nPREVENTION OF ACTS OF VIOLENCE\nArticle 16\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising for families, parents, and the community by providing information, guidance and/or outreach;\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. increase the quantity and quality of education, both formal and non-formal and informal;\nb. open accessibility to obtain education, training, funding, and improvement of social services;\nc. open employment opportunities for women;\nd. build community participation and concern towards the prevention and protection of women and children from acts of violence;\ne. build and provide a complete and easily accessible information system;\nf. build networks and cooperation with law enforcement apparatus, government apparatus, universities and non-governmental organizations that work and/or care for women and children; and\ng. open complaints posts/desks for the protection of women and children from acts of violence.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER IV\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nArticle 10\nWomen and children victims of violence shall receive the following rights:\na. respect for their dignity and worth as human beings;\nb. recovery of health and psychological recovery from the suffering experienced;\nc. to decide for themselves;\nd. guarantee of their rights related to their status as wife, mother or child and member of the household as well as member of society;\ne. compensation;\nf. handling of complaints;\ng. obtaining protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling whether from individuals, groups or institutions both government and non-government;\nh. obtaining access and services at Government and private health service facilities;\ni. obtaining facilitation in the judicial process; and\nj. psychological and legal assistance.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of protection for women and children victims of acts of violence is to provide protection and services in the best interests of victims of acts of violence that occur in the household and/or in public.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 27\n(1) The Regional Government and/or integrated service institutions for women and children victims of violence and community organizations, social organizations or non-governmental organizations are obligated to carry out handling in a confidential manner;\n(2) Confidential handling of cases of women and children victims of violence is carried out at the request of the applicant, companion and/or counselor;\n(3) Handling of cases of women and children victims of violence may be publicized by the Regional Government and/or service institutions for women and children victims of violence, and community organizations, social organizations or non-governmental organizations if the victim and/or companion have given written permission.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 38\n(1) The Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence;\n(2) Partnerships as referred to in paragraph (1) are conducted through:\na. notification of employment opportunity information for women victims of acts of violence;\nb. education and training for women victims of acts of violence;\nc. educational assistance for children victims of acts of violence; and\nd. fostering and increasing economic independence of women victims of acts of violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In order to achieve the objectives of protection of women and children from acts of violence as referred to in Article 3, the Regional Government cooperates with:\na. the Government;\nb. the Provincial Government;\nc. other Regency/City Governments; and/or\nd. non-governmental institutions.\n(2) The cooperation as referred to in paragraph (1) shall be followed up in accordance with applicable law, covering:\na. exchange of data and information;\nb. provision of evidence and witnesses;\nc. rehabilitation of victims of acts of violence; and\nd. repatriation and social reintegration.\n(3) The cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 12 letter b shall be implemented in the form of community participation through:\na. prevention of acts of violence against women and children;\nb. providing information and/or reporting acts of violence against women and children to the competent authorities;\nc. assistance and aid in handling women and children victims of acts of violence;\nd. efforts to provide protection and moral and/or material support to women and children victims of acts of violence.\n(2) Provisions regarding the procedures for implementing community participation shall be regulated in a Mayoral Regulation.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 41\n(1) Regional Governments are obligated to conduct supervision of the implementation of protection for women and children victims of acts of violence;\n(2) Supervision as referred to in paragraph (1) shall be conducted with the principles of professionalism, transparency and accountability.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER XIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) Regional Government is obligated to conduct guidance and supervision of the implementation of protection for women and children victims of violence;\n(2) Guidance as referred to in paragraph (1) includes:\na. service guidelines and standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2) is in order to realize the objectives of protection for women and children victims of violence in accordance with minimum service standards implemented by SKPD/P2TP2A and the community.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nThe obligations of family and/or parents as referred to in Article 6 letter c, legally have full responsibility to prevent all forms of acts of violence and protect women and children as family members.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 35\nTreatment of children as victims of criminal acts as referred to in Article 33 letter b, is as follows:\na. immediately after receiving a report from the victim of a criminal act, the investigator conducts an initial interview;\nb. in conducting the interview, the investigator pays attention to the situation and condition of the victim;\nc. if the victim requires further treatment, after the initial interview the victim may be treated or placed in a special (temporary) room for other necessary services such as medical care, psychological care or examination in the context of the inquiry and investigation process; and\nd. after the victim has recovered and all services including the legal process are completed, the victim may be returned home or placed in a children's social protection home, safe house, trauma center, for social and mental rehabilitation.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Services for victims of acts of violence shall be implemented by service institutions established by the Regional Government as well as non-governmental institutions;\n(2) The provision of services by the Regional Government as referred to in paragraph (1) may be carried out by regional apparatus that have the main duties and functions of providing services in the fields of health and social welfare;\n(3) The provision of services other than by regional apparatus as referred to in paragraph (2) may also be carried out by police agencies;\n(4) The provision of services by non-governmental institutions as referred to in paragraph (1) shall be carried out by community organizations engaged in advocacy and services for women and children who are victims of acts of violence.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 42\nThe community may conduct supervision of the implementation of protection for women and children victims of violence organized by the Regional Government.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) Forms of services provided to women and children victims of acts of violence include:\na. health/medical services in the form of treatment and recovery of the victim's physical condition carried out by medical personnel and paramedics;\nb. medico legal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. psychosocial services constitute services provided by companions in the context of recovery from the victim's traumatic condition, by providing safe houses to protect victims from various threats and intimidation;\nd. provision of moral/mental support to restore self-confidence, strength of mental attitude and independence in facing and resolving problems befalling them;\ne. provision of services and legal assistance to help victims undergo legal processes related to the violence cases they face; and\nf. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the Government;\n(3) Provisions regarding procedures for services to women and children victims of acts of violence shall be regulated in a Mayoral Regulation.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nForms of acts of violence against women and children consist of:\na. physical violence;\nb. psychological violence;\nc. sexual violence; or\nd. domestic household neglect.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nIn implementing efforts to prevent acts of violence against women and children, the Regional Government must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 16, shall be implemented by SKPD whose duties and functions are in the field of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. women's empowerment and child protection;\nf. mental and spiritual matters; and\ng. public peace and order.\n(2) Prevention of acts of violence by SKPD as referred to in paragraph (1), shall be implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 28\n(1) The Regional Government provides a safe house that is kept confidential with all its facilities, the financing of which is charged to the APBD;\n(2) Services at the safe house are provided to victims by fulfilling the following requirements:\na. filling out an identity form and fulfillment of the victim's needs;\nb. signing an agreement letter on the confidentiality of the safe house location; and\nc. complying with the provisions in place at the safe house.\n(3) Services provided at the safe house include counseling, empowerment activities, and fostering the victim's self-reliance;\n(4) Service facilities at the safe house are also provided for child victims according to their needs;\n(5) Further provisions regarding services at the safe house are stipulated in the Safe House Standard Operating Procedures.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 22\n(1) The Regional Government provides protection services to women and children who are victims of acts of violence through P2TP2A;\n(2) P2TP2A as referred to in paragraph (1) functions as an integrated service center in providing protection to women and children from acts of violence.",
+          "score": 0.3500658
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the policy defines sexual violence (Pasal 7) as sexual harassment and coercion of sexual relations “untuk tujuan komersial dan/atau tujuan tertentu,” and it also includes “perdagangan orang” (human trafficking) in the scope of violence outside the household (Pasal 9 ayat (3) huruf e). However, the text does not explicitly mention “perbudakan seksual” (sexual slavery) or “eksploitasi seksual” as a distinct form, nor does it clearly equate trafficking with sexual exploitation/slavery. Given only the retrieved English passages (Articles 7 and 9), a ‘No’ is a reasonable, text-faithful answer for an indicator specifically about sexual slavery/exploitation. This suggests the golden ‘Yes’ likely over-interprets the presence of trafficking/commercial sexual coercion as automatically satisfying sexual slavery/exploitation.",
+      "diagnosis_status": "ok"
+    },
+    "5.2": {
+      "indicator": "Religious engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions 'spiritual guidance' and 'spiritual services' as part of assistance/medical services, none of the candidate sentences explicitly include or assign roles to religious organizations, religious leaders, clergy, or other faith-based actors in delivery, coordination, or implementation.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Services for victims of acts of violence shall be implemented by service institutions established by the Regional Government as well as non-governmental institutions;\n(2) The provision of services by the Regional Government as referred to in paragraph (1) may be carried out by regional apparatus that have the main duties and functions of providing services in the fields of health and social welfare;\n(3) The provision of services other than by regional apparatus as referred to in paragraph (2) may also be carried out by police agencies;\n(4) The provision of services by non-governmental institutions as referred to in paragraph (1) shall be carried out by community organizations engaged in advocacy and services for women and children who are victims of acts of violence.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bontang.\n2. Regional Government is the Mayor and regional apparatus as elements of the administration of the Regional Government.\n3. Regional Head is the Mayor of Bontang.\n4. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus of the Bontang City Government.\n5. Integrated Service Center for the Empowerment of Women and Children, hereinafter abbreviated as P2TP2A, is an Integrated Service Unit established by the Regional Government to provide services to women and children victims of violence comprehensively, including information services, accompaniment and legal aid, counseling services, medical services, and safe houses through referral.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. General Hospital is a service facility that provides basic and specialist medical services, medical support services, hospital installation/unit services, and care services on an outpatient and inpatient basis.\n8. Violence is any act that results in or may result in misery or suffering, whether physical, sexual, economic, social, or psychological, to the victim.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Services are actions that must be immediately provided to the victim when seeing, hearing, and knowing that violence against the victim will occur, is occurring, or has occurred.\n11. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy, and advocacy in order to provide strengthening and recovery of victims of violence, as stipulated in a decision of an authorized official.\n12. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance for the self-strengthening of victims of domestic violence to resolve the problems faced.\n13. Victim Recovery is all actions to strengthen victims of domestic violence to be more empowered, both physically and psychologically.\n14. Recovery Implementation is all actions that include services and assistance to victims of domestic violence.\n15. Cooperation is a systematic and integrated method among recovery implementers in providing services to recover victims of domestic violence.\n16. Safe House is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife, or husband, wife and their children, or father and his children and mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n19. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) and non-relatives (domestic helpers, drivers and so forth) who live and eat from one kitchen and reside in one house.\n20. Household Scope is people who have family relations with persons as referred to in number 19 due to blood relations, marriage, milk kinship, foster care, or guardianship who reside in the household, as well as people who work to assist the household and reside in that household.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 39,
+          "text": "CHAPTER IX\nIMPLEMENTATION OF ASSISTANCE\nArticle 32\n(1) Assistance shall be carried out by persons or institutions that have the expertise to conduct counseling, therapy, and advocacy for the empowerment and recovery of victims of violence;\n(2) Assistance carried out by persons or institutions as referred to in paragraph (1) must coordinate with P2TP2A.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 24\n(1) The Regional Government facilitates temporary protection, legal protection and support directly or channels to third parties, whether the police, foundations, non-governmental organizations, or individuals for women and children victims of acts of violence;\n(2) Protection and support as referred to in paragraph (1) shall be carried out from the moment a report is received, either from the victim or other parties or from the moment it is known that an act of violence against women and children has occurred.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 23\n(1) The provision of services implemented by Regional Government as well as non-governmental institutions includes receiving complaints and providing assistance;\n(2) In carrying out its duties, non-governmental service institutions as referred to in paragraph (1) shall coordinate and cooperate with P2TP2A established by the Regional Government.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER VI\nPREVENTION OF ACTS OF VIOLENCE\nArticle 16\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising for families, parents, and the community by providing information, guidance and/or outreach;\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. increase the quantity and quality of education, both formal and non-formal and informal;\nb. open accessibility to obtain education, training, funding, and improvement of social services;\nc. open employment opportunities for women;\nd. build community participation and concern towards the prevention and protection of women and children from acts of violence;\ne. build and provide a complete and easily accessible information system;\nf. build networks and cooperation with law enforcement apparatus, government apparatus, universities and non-governmental organizations that work and/or care for women and children; and\ng. open complaints posts/desks for the protection of women and children from acts of violence.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 38,
+          "text": "CHAPTER VIII\nREHABILITATION AND REINTEGRATION\nArticle 31\n(1) Every woman and child victim of acts of violence has the right to obtain rehabilitation both physical and psychological;\n(2) Rehabilitation facilitation services include counseling services, psychological and medical services, legal assistance and skills training or alternative education;\n(3) Every woman and child victim of acts of violence who has recovered both physically and psychologically has the right to be integrated or returned to their family, community and educational institutions for those who are still in school status;\n(4) Fulfillment of the integration rights of women and child victims of acts of violence is carried out through cooperation and coordination between all related SKPD, vertical agencies in the region, community organizations, non-governmental organizations and family parties;\n(5) Further provisions regarding the implementation of rehabilitation and reintegration are regulated in the Mayor's Regulation.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 36,
+          "text": "Third Part\nService Mechanism",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 16, shall be implemented by SKPD whose duties and functions are in the field of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. women's empowerment and child protection;\nf. mental and spiritual matters; and\ng. public peace and order.\n(2) Prevention of acts of violence by SKPD as referred to in paragraph (1), shall be implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 26\n(1) Medical services provided to victims include the provision of visum et repertum, DNA examination, health examination, inpatient and outpatient care, as well as psychosocial and spiritual services;\n(2) Services organized by P2TP2A must be carried out quickly in accordance with the needs of victims;\n(3) The provision of medical services, counseling and reporting by P2TP2A is conducted free of charge.",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 30\n(1) Integrated services for women and children victims of acts of violence are carried out based on:\na. the initiative of the Regional Government itself or, technically, by the relevant SKPD either directly or indirectly; or\nb. upon the request and complaint of the victim, an applicant for family assistance/companion services, family companion, other persons, community organizations, social organizations, or non-governmental organizations that know/are aware of the incident.\n(2) Integrated services carried out by P2TP2A are conducted based on referrals from service institutions or based on complaints from victims or their families;\n(3) Provisions regarding the procedures and processes for obtaining P2TP2A services are regulated in the Mayor's Regulation.",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 27\n(1) The Regional Government and/or integrated service institutions for women and children victims of violence and community organizations, social organizations or non-governmental organizations are obligated to carry out handling in a confidential manner;\n(2) Confidential handling of cases of women and children victims of violence is carried out at the request of the applicant, companion and/or counselor;\n(3) Handling of cases of women and children victims of violence may be publicized by the Regional Government and/or service institutions for women and children victims of violence, and community organizations, social organizations or non-governmental organizations if the victim and/or companion have given written permission.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In order to achieve the objectives of protection of women and children from acts of violence as referred to in Article 3, the Regional Government cooperates with:\na. the Government;\nb. the Provincial Government;\nc. other Regency/City Governments; and/or\nd. non-governmental institutions.\n(2) The cooperation as referred to in paragraph (1) shall be followed up in accordance with applicable law, covering:\na. exchange of data and information;\nb. provision of evidence and witnesses;\nc. rehabilitation of victims of acts of violence; and\nd. repatriation and social reintegration.\n(3) The cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 26,
+          "text": "Second Part\nService Institution",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) Forms of services provided to women and children victims of acts of violence include:\na. health/medical services in the form of treatment and recovery of the victim's physical condition carried out by medical personnel and paramedics;\nb. medico legal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. psychosocial services constitute services provided by companions in the context of recovery from the victim's traumatic condition, by providing safe houses to protect victims from various threats and intimidation;\nd. provision of moral/mental support to restore self-confidence, strength of mental attitude and independence in facing and resolving problems befalling them;\ne. provision of services and legal assistance to help victims undergo legal processes related to the violence cases they face; and\nf. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the Government;\n(3) Provisions regarding procedures for services to women and children victims of acts of violence shall be regulated in a Mayoral Regulation.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 12 letter b shall be implemented in the form of community participation through:\na. prevention of acts of violence against women and children;\nb. providing information and/or reporting acts of violence against women and children to the competent authorities;\nc. assistance and aid in handling women and children victims of acts of violence;\nd. efforts to provide protection and moral and/or material support to women and children victims of acts of violence.\n(2) Provisions regarding the procedures for implementing community participation shall be regulated in a Mayoral Regulation.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER VII\nSERVICES FOR VICTIMS OF ACTS OF VIOLENCE\nPart One\nForms of Services",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 12 letter a, include:\na. implementing policies for the protection of women and children from acts of violence established by the Government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence;\nd. providing integrated services for women and children victims of acts of violence;\ne. guaranteeing the implementation of protection for women and children victims of acts of violence by taking into account the rights and obligations of parents, guardians, husbands or other persons legally responsible for the victims;\nf. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;\ng. allocating budget for the implementation of protection of women and children victims of acts of violence in accordance with regional financial capacity;\nh. fostering and supervising the implementation of protection of women and children victims of acts of violence;\ni. opening the widest possible access to information for women and children victims of acts of violence.\n(2) The implementation of obligations and responsibilities as referred to in paragraph (1) shall be set forth in a Regional Action Plan containing programs and activities for the protection of women and children victims of acts of violence;\n(3) The Regional Action Plan as referred to in paragraph (2) shall become part of the Regional Medium-Term Development Plan to be subsequently used as a basis for SKPD in implementing protection for women and children victims of acts of violence;\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated in a Mayoral Regulation.",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of protection for women and children victims of acts of violence is to provide protection and services in the best interests of victims of acts of violence that occur in the household and/or in public.",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER XII\nFUNDING\nArticle 39\n(1) Funds for the implementation of protection for women and children victims of violence managed by P2TP2A must be allocated in the Regional Revenue and Expenditure Budget;\n(2) In addition to the budget source as referred to in paragraph (1), funds for the implementation of protection for women and children victims of violence may also be sourced from other legitimate and non-binding budgets.",
+          "score": 0.292272
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 28\n(1) The Regional Government provides a safe house that is kept confidential with all its facilities, the financing of which is charged to the APBD;\n(2) Services at the safe house are provided to victims by fulfilling the following requirements:\na. filling out an identity form and fulfillment of the victim's needs;\nb. signing an agreement letter on the confidentiality of the safe house location; and\nc. complying with the provisions in place at the safe house.\n(3) Services provided at the safe house include counseling, empowerment activities, and fostering the victim's self-reliance;\n(4) Service facilities at the safe house are also provided for child victims according to their needs;\n(5) Further provisions regarding services at the safe house are stipulated in the Safe House Standard Operating Procedures.",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of acts of violence is carried out based on:\na. humanity;\nb. justice and gender equality;\nc. shelter;\nd. non-discrimination;\ne. respect and recognition of human rights;\nf. best interests of women and children; and\ng. victim protection.",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 41\n(1) Regional Governments are obligated to conduct supervision of the implementation of protection for women and children victims of acts of violence;\n(2) Supervision as referred to in paragraph (1) shall be conducted with the principles of professionalism, transparency and accountability.",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 44,
+          "text": "CHAPTER XI\nCOOPERATION AND PARTNERSHIP\nPart One\nCooperation",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nIn implementing efforts to prevent acts of violence against women and children, the Regional Government must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+          "score": 0.28585017
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation mentions “bimbingan rohani” (spiritual guidance) in the definition of assistance (Pasal 1 angka 12) and “pelayanan ... spiritual” (spiritual services) as part of medical services (Pasal 26 ayat (1)), and it lists an SKPD field of “mental dan spiritual” for prevention (Pasal 18 ayat (1) huruf f). But nowhere does it explicitly engage religious organizations/leaders (e.g., tokoh agama, lembaga keagamaan, clergy) as stakeholders responsible for implementation/coordination. The judge’s ‘No’ matches what the Indonesian text actually states; therefore the golden ‘Yes’ appears incorrect for an indicator requiring explicit religious/faith-based actor engagement.",
+      "diagnosis_status": "ok"
+    },
+    "5.3": {
+      "indicator": "Traditional/cultural engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The candidate sentences do not explicitly reference traditional/customary/cultural leaders or customary institutions/mechanisms as stakeholders in prevention, services, coordination, or dispute resolution. References to 'customary relations' describe scope of household violence, not engagement of customary actors.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Services for victims of acts of violence shall be implemented by service institutions established by the Regional Government as well as non-governmental institutions;\n(2) The provision of services by the Regional Government as referred to in paragraph (1) may be carried out by regional apparatus that have the main duties and functions of providing services in the fields of health and social welfare;\n(3) The provision of services other than by regional apparatus as referred to in paragraph (2) may also be carried out by police agencies;\n(4) The provision of services by non-governmental institutions as referred to in paragraph (1) shall be carried out by community organizations engaged in advocacy and services for women and children who are victims of acts of violence.",
+          "score": 0.56371427
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 27\n(1) The Regional Government and/or integrated service institutions for women and children victims of violence and community organizations, social organizations or non-governmental organizations are obligated to carry out handling in a confidential manner;\n(2) Confidential handling of cases of women and children victims of violence is carried out at the request of the applicant, companion and/or counselor;\n(3) Handling of cases of women and children victims of violence may be publicized by the Regional Government and/or service institutions for women and children victims of violence, and community organizations, social organizations or non-governmental organizations if the victim and/or companion have given written permission.",
+          "score": 0.5540844
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bontang.\n2. Regional Government is the Mayor and regional apparatus as elements of the administration of the Regional Government.\n3. Regional Head is the Mayor of Bontang.\n4. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus of the Bontang City Government.\n5. Integrated Service Center for the Empowerment of Women and Children, hereinafter abbreviated as P2TP2A, is an Integrated Service Unit established by the Regional Government to provide services to women and children victims of violence comprehensively, including information services, accompaniment and legal aid, counseling services, medical services, and safe houses through referral.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. General Hospital is a service facility that provides basic and specialist medical services, medical support services, hospital installation/unit services, and care services on an outpatient and inpatient basis.\n8. Violence is any act that results in or may result in misery or suffering, whether physical, sexual, economic, social, or psychological, to the victim.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Services are actions that must be immediately provided to the victim when seeing, hearing, and knowing that violence against the victim will occur, is occurring, or has occurred.\n11. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy, and advocacy in order to provide strengthening and recovery of victims of violence, as stipulated in a decision of an authorized official.\n12. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance for the self-strengthening of victims of domestic violence to resolve the problems faced.\n13. Victim Recovery is all actions to strengthen victims of domestic violence to be more empowered, both physically and psychologically.\n14. Recovery Implementation is all actions that include services and assistance to victims of domestic violence.\n15. Cooperation is a systematic and integrated method among recovery implementers in providing services to recover victims of domestic violence.\n16. Safe House is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife, or husband, wife and their children, or father and his children and mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n19. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) and non-relatives (domestic helpers, drivers and so forth) who live and eat from one kitchen and reside in one house.\n20. Household Scope is people who have family relations with persons as referred to in number 19 due to blood relations, marriage, milk kinship, foster care, or guardianship who reside in the household, as well as people who work to assist the household and reside in that household.",
+          "score": 0.5405358
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 12 letter b shall be implemented in the form of community participation through:\na. prevention of acts of violence against women and children;\nb. providing information and/or reporting acts of violence against women and children to the competent authorities;\nc. assistance and aid in handling women and children victims of acts of violence;\nd. efforts to provide protection and moral and/or material support to women and children victims of acts of violence.\n(2) Provisions regarding the procedures for implementing community participation shall be regulated in a Mayoral Regulation.",
+          "score": 0.50546855
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 24\n(1) The Regional Government facilitates temporary protection, legal protection and support directly or channels to third parties, whether the police, foundations, non-governmental organizations, or individuals for women and children victims of acts of violence;\n(2) Protection and support as referred to in paragraph (1) shall be carried out from the moment a report is received, either from the victim or other parties or from the moment it is known that an act of violence against women and children has occurred.",
+          "score": 0.49179763
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER VI\nPREVENTION OF ACTS OF VIOLENCE\nArticle 16\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising for families, parents, and the community by providing information, guidance and/or outreach;\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. increase the quantity and quality of education, both formal and non-formal and informal;\nb. open accessibility to obtain education, training, funding, and improvement of social services;\nc. open employment opportunities for women;\nd. build community participation and concern towards the prevention and protection of women and children from acts of violence;\ne. build and provide a complete and easily accessible information system;\nf. build networks and cooperation with law enforcement apparatus, government apparatus, universities and non-governmental organizations that work and/or care for women and children; and\ng. open complaints posts/desks for the protection of women and children from acts of violence.",
+          "score": 0.48984516
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 30\n(1) Integrated services for women and children victims of acts of violence are carried out based on:\na. the initiative of the Regional Government itself or, technically, by the relevant SKPD either directly or indirectly; or\nb. upon the request and complaint of the victim, an applicant for family assistance/companion services, family companion, other persons, community organizations, social organizations, or non-governmental organizations that know/are aware of the incident.\n(2) Integrated services carried out by P2TP2A are conducted based on referrals from service institutions or based on complaints from victims or their families;\n(3) Provisions regarding the procedures and processes for obtaining P2TP2A services are regulated in the Mayor's Regulation.",
+          "score": 0.48789302
+        },
+        {
+          "chunk_id": 38,
+          "text": "CHAPTER VIII\nREHABILITATION AND REINTEGRATION\nArticle 31\n(1) Every woman and child victim of acts of violence has the right to obtain rehabilitation both physical and psychological;\n(2) Rehabilitation facilitation services include counseling services, psychological and medical services, legal assistance and skills training or alternative education;\n(3) Every woman and child victim of acts of violence who has recovered both physically and psychologically has the right to be integrated or returned to their family, community and educational institutions for those who are still in school status;\n(4) Fulfillment of the integration rights of women and child victims of acts of violence is carried out through cooperation and coordination between all related SKPD, vertical agencies in the region, community organizations, non-governmental organizations and family parties;\n(5) Further provisions regarding the implementation of rehabilitation and reintegration are regulated in the Mayor's Regulation.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 29,
+          "text": "Article 23\n(1) The provision of services implemented by Regional Government as well as non-governmental institutions includes receiving complaints and providing assistance;\n(2) In carrying out its duties, non-governmental service institutions as referred to in paragraph (1) shall coordinate and cooperate with P2TP2A established by the Regional Government.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In order to achieve the objectives of protection of women and children from acts of violence as referred to in Article 3, the Regional Government cooperates with:\na. the Government;\nb. the Provincial Government;\nc. other Regency/City Governments; and/or\nd. non-governmental institutions.\n(2) The cooperation as referred to in paragraph (1) shall be followed up in accordance with applicable law, covering:\na. exchange of data and information;\nb. provision of evidence and witnesses;\nc. rehabilitation of victims of acts of violence; and\nd. repatriation and social reintegration.\n(3) The cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 39,
+          "text": "CHAPTER IX\nIMPLEMENTATION OF ASSISTANCE\nArticle 32\n(1) Assistance shall be carried out by persons or institutions that have the expertise to conduct counseling, therapy, and advocacy for the empowerment and recovery of victims of violence;\n(2) Assistance carried out by persons or institutions as referred to in paragraph (1) must coordinate with P2TP2A.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\n(1) The scope of acts of violence against women and children includes:\na. acts of violence that occur within the household; and\nb. acts of violence that occur outside the household.\n(2) Acts of violence that occur within the household as referred to in paragraph (1) letter a occur within the household committed by:\na. husband or wife within a marriage;\nb. those having blood family relations, marriage, customary relations, adoption; or\nc. those working for others or living and residing with others.\n(3) Acts of violence that occur outside the household as referred to in paragraph (1) letter b occur outside the household including:\na. harassment;\nb. violence discrimination in the workplace;\nc. violence in conflict areas;\nd. violence in mass media; and\ne. human trafficking.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 12 letter a, include:\na. implementing policies for the protection of women and children from acts of violence established by the Government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence;\nd. providing integrated services for women and children victims of acts of violence;\ne. guaranteeing the implementation of protection for women and children victims of acts of violence by taking into account the rights and obligations of parents, guardians, husbands or other persons legally responsible for the victims;\nf. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;\ng. allocating budget for the implementation of protection of women and children victims of acts of violence in accordance with regional financial capacity;\nh. fostering and supervising the implementation of protection of women and children victims of acts of violence;\ni. opening the widest possible access to information for women and children victims of acts of violence.\n(2) The implementation of obligations and responsibilities as referred to in paragraph (1) shall be set forth in a Regional Action Plan containing programs and activities for the protection of women and children victims of acts of violence;\n(3) The Regional Action Plan as referred to in paragraph (2) shall become part of the Regional Medium-Term Development Plan to be subsequently used as a basis for SKPD in implementing protection for women and children victims of acts of violence;\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated in a Mayoral Regulation.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER IV\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nArticle 10\nWomen and children victims of violence shall receive the following rights:\na. respect for their dignity and worth as human beings;\nb. recovery of health and psychological recovery from the suffering experienced;\nc. to decide for themselves;\nd. guarantee of their rights related to their status as wife, mother or child and member of the household as well as member of society;\ne. compensation;\nf. handling of complaints;\ng. obtaining protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling whether from individuals, groups or institutions both government and non-government;\nh. obtaining access and services at Government and private health service facilities;\ni. obtaining facilitation in the judicial process; and\nj. psychological and legal assistance.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 16, shall be implemented by SKPD whose duties and functions are in the field of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. women's empowerment and child protection;\nf. mental and spiritual matters; and\ng. public peace and order.\n(2) Prevention of acts of violence by SKPD as referred to in paragraph (1), shall be implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 42\nThe community may conduct supervision of the implementation of protection for women and children victims of violence organized by the Regional Government.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nIn implementing efforts to prevent acts of violence against women and children, the Regional Government must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of acts of violence is carried out based on:\na. humanity;\nb. justice and gender equality;\nc. shelter;\nd. non-discrimination;\ne. respect and recognition of human rights;\nf. best interests of women and children; and\ng. victim protection.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 12\nObligations and responsibilities in providing protection to women and children victims of acts of violence are the shared responsibility of:\na. Regional Government;\nb. Community; and\nc. Family and/or parents.",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER XIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) Regional Government is obligated to conduct guidance and supervision of the implementation of protection for women and children victims of violence;\n(2) Guidance as referred to in paragraph (1) includes:\na. service guidelines and standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2) is in order to realize the objectives of protection for women and children victims of violence in accordance with minimum service standards implemented by SKPD/P2TP2A and the community.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) Forms of services provided to women and children victims of acts of violence include:\na. health/medical services in the form of treatment and recovery of the victim's physical condition carried out by medical personnel and paramedics;\nb. medico legal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. psychosocial services constitute services provided by companions in the context of recovery from the victim's traumatic condition, by providing safe houses to protect victims from various threats and intimidation;\nd. provision of moral/mental support to restore self-confidence, strength of mental attitude and independence in facing and resolving problems befalling them;\ne. provision of services and legal assistance to help victims undergo legal processes related to the violence cases they face; and\nf. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the Government;\n(3) Provisions regarding procedures for services to women and children victims of acts of violence shall be regulated in a Mayoral Regulation.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE MAYOR OF BONTANG,\nConsidering : a. that women and children biologically and philosophically are groups vulnerable to acts of violence, both violence occurring within the household and that committed outside the household;\nb. that protection of women and children victims of acts of violence is one aspect of the duties and responsibilities of the government in providing protection and services to the community;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on Protection of Women and Children Victims of Acts of Violence;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 47 of 1999 concerning the Establishment of Nunukan Regency, Malinau Regency, West Kutai Regency, East Kutai Regency and Bontang City (State Gazette of the Republic of Indonesia of 1999 Number 175, Supplement to the State Gazette of the Republic of Indonesia Number 3839) as amended by Law Number 7 of 2000 (State Gazette of the Republic of Indonesia of 2000 Number 74 Supplement to the State Gazette of the Republic of Indonesia Number 3962);\n3. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia of 2004 Number 125, Supplement to the State Gazette of the Republic of Indonesia Number 4437) as last amended by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia of 2008 Number 59, Supplement to the State Gazette of the Republic of Indonesia Number 4844);\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF BONTANG CITY and",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of protection for women and children victims of acts of violence is to provide protection and services in the best interests of victims of acts of violence that occur in the household and/or in public.",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 41\n(1) Regional Governments are obligated to conduct supervision of the implementation of protection for women and children victims of acts of violence;\n(2) Supervision as referred to in paragraph (1) shall be conducted with the principles of professionalism, transparency and accountability.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 36,
+          "text": "Third Part\nService Mechanism",
+          "score": 0.38269496
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The only ‘customary/cultural’ reference in the Indonesian text is in Pasal 9 ayat (2) huruf b (“hubungan keluarga sedarah, perkawinan, adat, adopsi”) describing who can be a perpetrator within the household context. This is not an assignment of roles to customary/traditional leaders or institutions (tokoh adat/lembaga adat) in prevention, services, coordination, or dispute resolution. The retrieved passages reflect this, and the judge’s ‘No’ is consistent with the Indonesian source. Thus the golden ‘Yes’ likely mis-coded mere mention of “adat” as stakeholder engagement.",
+      "diagnosis_status": "ok"
+    },
+    "6.1": {
+      "indicator": "Women in conflict/disaster areas",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The text mentions that violence can occur in “conflict areas,” but it does not specify any special protection measures for women in conflict, disaster, emergency, or displacement situations beyond the general victim protection framework.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of acts of violence is carried out based on:\na. humanity;\nb. justice and gender equality;\nc. shelter;\nd. non-discrimination;\ne. respect and recognition of human rights;\nf. best interests of women and children; and\ng. victim protection.",
+          "score": 0.60168713
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 24\n(1) The Regional Government facilitates temporary protection, legal protection and support directly or channels to third parties, whether the police, foundations, non-governmental organizations, or individuals for women and children victims of acts of violence;\n(2) Protection and support as referred to in paragraph (1) shall be carried out from the moment a report is received, either from the victim or other parties or from the moment it is known that an act of violence against women and children has occurred.",
+          "score": 0.56371427
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of protection for women and children victims of acts of violence is to provide protection and services in the best interests of victims of acts of violence that occur in the household and/or in public.",
+          "score": 0.5288741
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 41\n(1) Regional Governments are obligated to conduct supervision of the implementation of protection for women and children victims of acts of violence;\n(2) Supervision as referred to in paragraph (1) shall be conducted with the principles of professionalism, transparency and accountability.",
+          "score": 0.52692705
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER XIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) Regional Government is obligated to conduct guidance and supervision of the implementation of protection for women and children victims of violence;\n(2) Guidance as referred to in paragraph (1) includes:\na. service guidelines and standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2) is in order to realize the objectives of protection for women and children victims of violence in accordance with minimum service standards implemented by SKPD/P2TP2A and the community.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 42\nThe community may conduct supervision of the implementation of protection for women and children victims of violence organized by the Regional Government.",
+          "score": 0.49570328
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 22\n(1) The Regional Government provides protection services to women and children who are victims of acts of violence through P2TP2A;\n(2) P2TP2A as referred to in paragraph (1) functions as an integrated service center in providing protection to women and children from acts of violence.",
+          "score": 0.48398986
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 12 letter a, include:\na. implementing policies for the protection of women and children from acts of violence established by the Government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence;\nd. providing integrated services for women and children victims of acts of violence;\ne. guaranteeing the implementation of protection for women and children victims of acts of violence by taking into account the rights and obligations of parents, guardians, husbands or other persons legally responsible for the victims;\nf. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;\ng. allocating budget for the implementation of protection of women and children victims of acts of violence in accordance with regional financial capacity;\nh. fostering and supervising the implementation of protection of women and children victims of acts of violence;\ni. opening the widest possible access to information for women and children victims of acts of violence.\n(2) The implementation of obligations and responsibilities as referred to in paragraph (1) shall be set forth in a Regional Action Plan containing programs and activities for the protection of women and children victims of acts of violence;\n(3) The Regional Action Plan as referred to in paragraph (2) shall become part of the Regional Medium-Term Development Plan to be subsequently used as a basis for SKPD in implementing protection for women and children victims of acts of violence;\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated in a Mayoral Regulation.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER VI\nPREVENTION OF ACTS OF VIOLENCE\nArticle 16\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising for families, parents, and the community by providing information, guidance and/or outreach;\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. increase the quantity and quality of education, both formal and non-formal and informal;\nb. open accessibility to obtain education, training, funding, and improvement of social services;\nc. open employment opportunities for women;\nd. build community participation and concern towards the prevention and protection of women and children from acts of violence;\ne. build and provide a complete and easily accessible information system;\nf. build networks and cooperation with law enforcement apparatus, government apparatus, universities and non-governmental organizations that work and/or care for women and children; and\ng. open complaints posts/desks for the protection of women and children from acts of violence.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\n(1) The scope of acts of violence against women and children includes:\na. acts of violence that occur within the household; and\nb. acts of violence that occur outside the household.\n(2) Acts of violence that occur within the household as referred to in paragraph (1) letter a occur within the household committed by:\na. husband or wife within a marriage;\nb. those having blood family relations, marriage, customary relations, adoption; or\nc. those working for others or living and residing with others.\n(3) Acts of violence that occur outside the household as referred to in paragraph (1) letter b occur outside the household including:\na. harassment;\nb. violence discrimination in the workplace;\nc. violence in conflict areas;\nd. violence in mass media; and\ne. human trafficking.",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 12\nObligations and responsibilities in providing protection to women and children victims of acts of violence are the shared responsibility of:\na. Regional Government;\nb. Community; and\nc. Family and/or parents.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER IV\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nArticle 10\nWomen and children victims of violence shall receive the following rights:\na. respect for their dignity and worth as human beings;\nb. recovery of health and psychological recovery from the suffering experienced;\nc. to decide for themselves;\nd. guarantee of their rights related to their status as wife, mother or child and member of the household as well as member of society;\ne. compensation;\nf. handling of complaints;\ng. obtaining protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling whether from individuals, groups or institutions both government and non-government;\nh. obtaining access and services at Government and private health service facilities;\ni. obtaining facilitation in the judicial process; and\nj. psychological and legal assistance.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In order to achieve the objectives of protection of women and children from acts of violence as referred to in Article 3, the Regional Government cooperates with:\na. the Government;\nb. the Provincial Government;\nc. other Regency/City Governments; and/or\nd. non-governmental institutions.\n(2) The cooperation as referred to in paragraph (1) shall be followed up in accordance with applicable law, covering:\na. exchange of data and information;\nb. provision of evidence and witnesses;\nc. rehabilitation of victims of acts of violence; and\nd. repatriation and social reintegration.\n(3) The cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER XII\nFUNDING\nArticle 39\n(1) Funds for the implementation of protection for women and children victims of violence managed by P2TP2A must be allocated in the Regional Revenue and Expenditure Budget;\n(2) In addition to the budget source as referred to in paragraph (1), funds for the implementation of protection for women and children victims of violence may also be sourced from other legitimate and non-binding budgets.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) Forms of services provided to women and children victims of acts of violence include:\na. health/medical services in the form of treatment and recovery of the victim's physical condition carried out by medical personnel and paramedics;\nb. medico legal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. psychosocial services constitute services provided by companions in the context of recovery from the victim's traumatic condition, by providing safe houses to protect victims from various threats and intimidation;\nd. provision of moral/mental support to restore self-confidence, strength of mental attitude and independence in facing and resolving problems befalling them;\ne. provision of services and legal assistance to help victims undergo legal processes related to the violence cases they face; and\nf. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the Government;\n(3) Provisions regarding procedures for services to women and children victims of acts of violence shall be regulated in a Mayoral Regulation.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 12 letter b shall be implemented in the form of community participation through:\na. prevention of acts of violence against women and children;\nb. providing information and/or reporting acts of violence against women and children to the competent authorities;\nc. assistance and aid in handling women and children victims of acts of violence;\nd. efforts to provide protection and moral and/or material support to women and children victims of acts of violence.\n(2) Provisions regarding the procedures for implementing community participation shall be regulated in a Mayoral Regulation.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 27\n(1) The Regional Government and/or integrated service institutions for women and children victims of violence and community organizations, social organizations or non-governmental organizations are obligated to carry out handling in a confidential manner;\n(2) Confidential handling of cases of women and children victims of violence is carried out at the request of the applicant, companion and/or counselor;\n(3) Handling of cases of women and children victims of violence may be publicized by the Regional Government and/or service institutions for women and children victims of violence, and community organizations, social organizations or non-governmental organizations if the victim and/or companion have given written permission.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 38\n(1) The Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence;\n(2) Partnerships as referred to in paragraph (1) are conducted through:\na. notification of employment opportunity information for women victims of acts of violence;\nb. education and training for women victims of acts of violence;\nc. educational assistance for children victims of acts of violence; and\nd. fostering and increasing economic independence of women victims of acts of violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Services for victims of acts of violence shall be implemented by service institutions established by the Regional Government as well as non-governmental institutions;\n(2) The provision of services by the Regional Government as referred to in paragraph (1) may be carried out by regional apparatus that have the main duties and functions of providing services in the fields of health and social welfare;\n(3) The provision of services other than by regional apparatus as referred to in paragraph (2) may also be carried out by police agencies;\n(4) The provision of services by non-governmental institutions as referred to in paragraph (1) shall be carried out by community organizations engaged in advocacy and services for women and children who are victims of acts of violence.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nIn implementing efforts to prevent acts of violence against women and children, the Regional Government must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 16, shall be implemented by SKPD whose duties and functions are in the field of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. women's empowerment and child protection;\nf. mental and spiritual matters; and\ng. public peace and order.\n(2) Prevention of acts of violence by SKPD as referred to in paragraph (1), shall be implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 38,
+          "text": "CHAPTER VIII\nREHABILITATION AND REINTEGRATION\nArticle 31\n(1) Every woman and child victim of acts of violence has the right to obtain rehabilitation both physical and psychological;\n(2) Rehabilitation facilitation services include counseling services, psychological and medical services, legal assistance and skills training or alternative education;\n(3) Every woman and child victim of acts of violence who has recovered both physically and psychologically has the right to be integrated or returned to their family, community and educational institutions for those who are still in school status;\n(4) Fulfillment of the integration rights of women and child victims of acts of violence is carried out through cooperation and coordination between all related SKPD, vertical agencies in the region, community organizations, non-governmental organizations and family parties;\n(5) Further provisions regarding the implementation of rehabilitation and reintegration are regulated in the Mayor's Regulation.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGIONAL REGULATION OF BONTANG CITY\nNUMBER 9 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nThe obligations of family and/or parents as referred to in Article 6 letter c, legally have full responsibility to prevent all forms of acts of violence and protect women and children as family members.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 30\n(1) Integrated services for women and children victims of acts of violence are carried out based on:\na. the initiative of the Regional Government itself or, technically, by the relevant SKPD either directly or indirectly; or\nb. upon the request and complaint of the victim, an applicant for family assistance/companion services, family companion, other persons, community organizations, social organizations, or non-governmental organizations that know/are aware of the incident.\n(2) Integrated services carried out by P2TP2A are conducted based on referrals from service institutions or based on complaints from victims or their families;\n(3) Provisions regarding the procedures and processes for obtaining P2TP2A services are regulated in the Mayor's Regulation.",
+          "score": 0.38269496
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy includes “kekerasan di wilayah konflik” (violence in conflict areas) as one type of violence outside the household (Pasal 9 ayat (3) huruf c). But it does not provide any special measures, tailored protections, or specific provisions for women in conflict/disaster/emergency/displacement settings beyond the general victim protection and service framework. Since the indicator is about women in conflict/disaster areas (typically requiring targeted measures), the judge’s ‘No’ is supported by the Indonesian text and the retrieved evidence. This points to the golden ‘Yes’ being incorrect or based on a looser definition (mere mention of conflict areas).",
+      "diagnosis_status": "ok"
+    },
+    "6.3": {
+      "indicator": "Women workers",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The policy references workplace-related violence/discrimination and includes economic empowerment/employment opportunities for women victims, but it does not explicitly identify women workers/employees as a specific target group for protection or special measures as workers.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 47,
+          "text": "Article 38\n(1) The Regional Government establishes partnerships with the business sector in the protection of women and children from acts of violence;\n(2) Partnerships as referred to in paragraph (1) are conducted through:\na. notification of employment opportunity information for women victims of acts of violence;\nb. education and training for women victims of acts of violence;\nc. educational assistance for children victims of acts of violence; and\nd. fostering and increasing economic independence of women victims of acts of violence.\n(3) Partnerships as referred to in paragraph (1) and paragraph (2) are set forth in the form of an agreement.",
+          "score": 0.57329625
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nThe implementation of protection for women and children victims of acts of violence is carried out based on:\na. humanity;\nb. justice and gender equality;\nc. shelter;\nd. non-discrimination;\ne. respect and recognition of human rights;\nf. best interests of women and children; and\ng. victim protection.",
+          "score": 0.57329625
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 24\n(1) The Regional Government facilitates temporary protection, legal protection and support directly or channels to third parties, whether the police, foundations, non-governmental organizations, or individuals for women and children victims of acts of violence;\n(2) Protection and support as referred to in paragraph (1) shall be carried out from the moment a report is received, either from the victim or other parties or from the moment it is known that an act of violence against women and children has occurred.",
+          "score": 0.54828656
+        },
+        {
+          "chunk_id": 20,
+          "text": "CHAPTER VI\nPREVENTION OF ACTS OF VIOLENCE\nArticle 16\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government shall conduct empowerment and awareness-raising for families, parents, and the community by providing information, guidance and/or outreach;\n(2) In addition to empowerment and awareness-raising as referred to in paragraph (1), the Regional Government shall undertake efforts as follows:\na. increase the quantity and quality of education, both formal and non-formal and informal;\nb. open accessibility to obtain education, training, funding, and improvement of social services;\nc. open employment opportunities for women;\nd. build community participation and concern towards the prevention and protection of women and children from acts of violence;\ne. build and provide a complete and easily accessible information system;\nf. build networks and cooperation with law enforcement apparatus, government apparatus, universities and non-governmental organizations that work and/or care for women and children; and\ng. open complaints posts/desks for the protection of women and children from acts of violence.",
+          "score": 0.5327655
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe purpose of protection for women and children victims of acts of violence is to provide protection and services in the best interests of victims of acts of violence that occur in the household and/or in public.",
+          "score": 0.53082025
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\n(1) The scope of acts of violence against women and children includes:\na. acts of violence that occur within the household; and\nb. acts of violence that occur outside the household.\n(2) Acts of violence that occur within the household as referred to in paragraph (1) letter a occur within the household committed by:\na. husband or wife within a marriage;\nb. those having blood family relations, marriage, customary relations, adoption; or\nc. those working for others or living and residing with others.\n(3) Acts of violence that occur outside the household as referred to in paragraph (1) letter b occur outside the household including:\na. harassment;\nb. violence discrimination in the workplace;\nc. violence in conflict areas;\nd. violence in mass media; and\ne. human trafficking.",
+          "score": 0.53082025
+        },
+        {
+          "chunk_id": 50,
+          "text": "Article 41\n(1) Regional Governments are obligated to conduct supervision of the implementation of protection for women and children victims of acts of violence;\n(2) Supervision as referred to in paragraph (1) shall be conducted with the principles of professionalism, transparency and accountability.",
+          "score": 0.53082025
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 13\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 12 letter a, include:\na. implementing policies for the protection of women and children from acts of violence established by the Government;\nb. establishing policies, programs, and activities for the protection of women and children from acts of violence;\nc. conducting cooperation in the implementation of protection of women and children from acts of violence;\nd. providing integrated services for women and children victims of acts of violence;\ne. guaranteeing the implementation of protection for women and children victims of acts of violence by taking into account the rights and obligations of parents, guardians, husbands or other persons legally responsible for the victims;\nf. providing support for facilities and infrastructure for the implementation of protection of women and children from acts of violence;\ng. allocating budget for the implementation of protection of women and children victims of acts of violence in accordance with regional financial capacity;\nh. fostering and supervising the implementation of protection of women and children victims of acts of violence;\ni. opening the widest possible access to information for women and children victims of acts of violence.\n(2) The implementation of obligations and responsibilities as referred to in paragraph (1) shall be set forth in a Regional Action Plan containing programs and activities for the protection of women and children victims of acts of violence;\n(3) The Regional Action Plan as referred to in paragraph (2) shall become part of the Regional Medium-Term Development Plan to be subsequently used as a basis for SKPD in implementing protection for women and children victims of acts of violence;\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2) shall be regulated in a Mayoral Regulation.",
+          "score": 0.5288741
+        },
+        {
+          "chunk_id": 49,
+          "text": "CHAPTER XIII\nGUIDANCE AND SUPERVISION\nArticle 40\n(1) Regional Government is obligated to conduct guidance and supervision of the implementation of protection for women and children victims of violence;\n(2) Guidance as referred to in paragraph (1) includes:\na. service guidelines and standards;\nb. technical guidance and training;\nc. provision of facilities;\nd. monitoring; and\ne. evaluation.\n(3) Guidance as referred to in paragraph (2) is in order to realize the objectives of protection for women and children victims of violence in accordance with minimum service standards implemented by SKPD/P2TP2A and the community.",
+          "score": 0.5191313
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 22\n(1) The Regional Government provides protection services to women and children who are victims of acts of violence through P2TP2A;\n(2) P2TP2A as referred to in paragraph (1) functions as an integrated service center in providing protection to women and children from acts of violence.",
+          "score": 0.5113262
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER XII\nFUNDING\nArticle 39\n(1) Funds for the implementation of protection for women and children victims of violence managed by P2TP2A must be allocated in the Regional Revenue and Expenditure Budget;\n(2) In addition to the budget source as referred to in paragraph (1), funds for the implementation of protection for women and children victims of violence may also be sourced from other legitimate and non-binding budgets.",
+          "score": 0.5074213
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 42\nThe community may conduct supervision of the implementation of protection for women and children victims of violence organized by the Regional Government.",
+          "score": 0.49570328
+        },
+        {
+          "chunk_id": 16,
+          "text": "CHAPTER V\nOBLIGATIONS AND RESPONSIBILITIES\nArticle 12\nObligations and responsibilities in providing protection to women and children victims of acts of violence are the shared responsibility of:\na. Regional Government;\nb. Community; and\nc. Family and/or parents.",
+          "score": 0.48008865
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the City of Bontang.\n2. Regional Government is the Mayor and regional apparatus as elements of the administration of the Regional Government.\n3. Regional Head is the Mayor of Bontang.\n4. Regional Apparatus Work Unit, hereinafter abbreviated as SKPD, is the Regional Apparatus of the Bontang City Government.\n5. Integrated Service Center for the Empowerment of Women and Children, hereinafter abbreviated as P2TP2A, is an Integrated Service Unit established by the Regional Government to provide services to women and children victims of violence comprehensively, including information services, accompaniment and legal aid, counseling services, medical services, and safe houses through referral.\n6. Child is a person who has not yet reached 18 years of age, including those in the womb.\n7. General Hospital is a service facility that provides basic and specialist medical services, medical support services, hospital installation/unit services, and care services on an outpatient and inpatient basis.\n8. Violence is any act that results in or may result in misery or suffering, whether physical, sexual, economic, social, or psychological, to the victim.\n9. Victim is a woman and child who experiences misery and/or suffering either directly or indirectly as a result of violence.\n10. Services are actions that must be immediately provided to the victim when seeing, hearing, and knowing that violence against the victim will occur, is occurring, or has occurred.\n11. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy, and advocacy in order to provide strengthening and recovery of victims of violence, as stipulated in a decision of an authorized official.\n12. Assistance is all actions in the form of counseling, psychological therapy, advocacy, and spiritual guidance for the self-strengthening of victims of domestic violence to resolve the problems faced.\n13. Victim Recovery is all actions to strengthen victims of domestic violence to be more empowered, both physically and psychologically.\n14. Recovery Implementation is all actions that include services and assistance to victims of domestic violence.\n15. Cooperation is a systematic and integrated method among recovery implementers in providing services to recover victims of domestic violence.\n16. Safe House is a temporary residence used to provide protection to victims in accordance with determined operational standards.\n17. Community is individuals, families, groups, social organizations and/or community organizations.\n18. Family is the smallest unit in society consisting of husband and wife, or husband, wife and their children, or father and his children and mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n19. Household is family members and relatives (grandchildren, nieces/nephews, older siblings, younger siblings, grandfathers, grandmothers, cousins and so forth) and non-relatives (domestic helpers, drivers and so forth) who live and eat from one kitchen and reside in one house.\n20. Household Scope is people who have family relations with persons as referred to in number 19 due to blood relations, marriage, milk kinship, foster care, or guardianship who reside in the household, as well as people who work to assist the household and reside in that household.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER IV\nRIGHTS OF WOMEN AND CHILDREN VICTIMS OF ACTS OF VIOLENCE\nArticle 10\nWomen and children victims of violence shall receive the following rights:\na. respect for their dignity and worth as human beings;\nb. recovery of health and psychological recovery from the suffering experienced;\nc. to decide for themselves;\nd. guarantee of their rights related to their status as wife, mother or child and member of the household as well as member of society;\ne. compensation;\nf. handling of complaints;\ng. obtaining protection, information, integrated services, continuous handling up to the rehabilitation stage and confidential handling whether from individuals, groups or institutions both government and non-government;\nh. obtaining access and services at Government and private health service facilities;\ni. obtaining facilitation in the judicial process; and\nj. psychological and legal assistance.",
+          "score": 0.4761899
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 15\nThe obligations of family and/or parents as referred to in Article 6 letter c, legally have full responsibility to prevent all forms of acts of violence and protect women and children as family members.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 45,
+          "text": "Article 37\n(1) In order to achieve the objectives of protection of women and children from acts of violence as referred to in Article 3, the Regional Government cooperates with:\na. the Government;\nb. the Provincial Government;\nc. other Regency/City Governments; and/or\nd. non-governmental institutions.\n(2) The cooperation as referred to in paragraph (1) shall be followed up in accordance with applicable law, covering:\na. exchange of data and information;\nb. provision of evidence and witnesses;\nc. rehabilitation of victims of acts of violence; and\nd. repatriation and social reintegration.\n(3) The cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Joint Agreement.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Services for victims of acts of violence shall be implemented by service institutions established by the Regional Government as well as non-governmental institutions;\n(2) The provision of services by the Regional Government as referred to in paragraph (1) may be carried out by regional apparatus that have the main duties and functions of providing services in the fields of health and social welfare;\n(3) The provision of services other than by regional apparatus as referred to in paragraph (2) may also be carried out by police agencies;\n(4) The provision of services by non-governmental institutions as referred to in paragraph (1) shall be carried out by community organizations engaged in advocacy and services for women and children who are victims of acts of violence.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 19\n(1) Forms of services provided to women and children victims of acts of violence include:\na. health/medical services in the form of treatment and recovery of the victim's physical condition carried out by medical personnel and paramedics;\nb. medico legal services constitute a form of medical services for evidentiary purposes in the legal field;\nc. psychosocial services constitute services provided by companions in the context of recovery from the victim's traumatic condition, by providing safe houses to protect victims from various threats and intimidation;\nd. provision of moral/mental support to restore self-confidence, strength of mental attitude and independence in facing and resolving problems befalling them;\ne. provision of services and legal assistance to help victims undergo legal processes related to the violence cases they face; and\nf. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) Forms of services as referred to in paragraph (1), shall be implemented in accordance with minimum service standards established by the Government;\n(3) Provisions regarding procedures for services to women and children victims of acts of violence shall be regulated in a Mayoral Regulation.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The obligations and responsibilities of the community as referred to in Article 12 letter b shall be implemented in the form of community participation through:\na. prevention of acts of violence against women and children;\nb. providing information and/or reporting acts of violence against women and children to the competent authorities;\nc. assistance and aid in handling women and children victims of acts of violence;\nd. efforts to provide protection and moral and/or material support to women and children victims of acts of violence.\n(2) Provisions regarding the procedures for implementing community participation shall be regulated in a Mayoral Regulation.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 16, shall be implemented by SKPD whose duties and functions are in the field of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. women's empowerment and child protection;\nf. mental and spiritual matters; and\ng. public peace and order.\n(2) Prevention of acts of violence by SKPD as referred to in paragraph (1), shall be implemented in an integrated and continuous manner based on the Regional Action Plan.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 33,
+          "text": "Article 27\n(1) The Regional Government and/or integrated service institutions for women and children victims of violence and community organizations, social organizations or non-governmental organizations are obligated to carry out handling in a confidential manner;\n(2) Confidential handling of cases of women and children victims of violence is carried out at the request of the applicant, companion and/or counselor;\n(3) Handling of cases of women and children victims of violence may be publicized by the Regional Government and/or service institutions for women and children victims of violence, and community organizations, social organizations or non-governmental organizations if the victim and/or companion have given written permission.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGIONAL REGULATION OF BONTANG CITY\nNUMBER 9 OF 2012\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 17\nIn implementing efforts to prevent acts of violence against women and children, the Regional Government must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 30\n(1) Integrated services for women and children victims of acts of violence are carried out based on:\na. the initiative of the Regional Government itself or, technically, by the relevant SKPD either directly or indirectly; or\nb. upon the request and complaint of the victim, an applicant for family assistance/companion services, family companion, other persons, community organizations, social organizations, or non-governmental organizations that know/are aware of the incident.\n(2) Integrated services carried out by P2TP2A are conducted based on referrals from service institutions or based on complaints from victims or their families;\n(3) Provisions regarding the procedures and processes for obtaining P2TP2A services are regulated in the Mayor's Regulation.",
+          "score": 0.40131235
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text mentions workplace-related violence/discrimination (“diskriminasi kekerasan di tempat kerja,” Pasal 9 ayat (3) huruf b) and includes general prevention/economic measures like “membuka lapangan kerja bagi perempuan” (Pasal 16 ayat (2) huruf c) and partnerships with business to provide job opportunity information/training for women victims (Pasal 38). However, it does not explicitly identify “pekerja perempuan” (women workers) as a specific protected subgroup with tailored protections as workers (e.g., labor-specific protections, employer duties, workplace complaint mechanisms). Given the indicator framing, the judge’s ‘No’ is reasonable and consistent with the Indonesian source; the golden ‘Yes’ likely over-counted general employment/economic empowerment language or the mention of workplace violence as sufficient.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "KALIMANTAN_TIMUR_BONTANG_KOTA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.278618+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 5,
+  "diagnosed_count": 5
+}

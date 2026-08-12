@@ -128,6 +128,14 @@ def validate_run_for_steps(
     """
     run_dir = ensure_run_exists(run_id)
 
+    if "translation_qa" in steps and "translation" not in steps:
+        translation_dir = resolve_results_dir(run_dir, "translation")
+        if not translation_dir.is_dir():
+            raise FileNotFoundError(f"Translation output required for translation_qa: {translation_dir}")
+        txt_files = list(translation_dir.glob("*.txt"))
+        if not txt_files:
+            raise FileNotFoundError(f"No translated .txt files in {translation_dir}")
+
     if "storage" in steps and "translation" not in steps:
         translation_dir = resolve_results_dir(run_dir, "translation")
         if not translation_dir.is_dir():

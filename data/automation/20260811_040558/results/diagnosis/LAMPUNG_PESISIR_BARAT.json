@@ -1,0 +1,576 @@
+{
+  "diagnoses": {
+    "2.3": {
+      "indicator": "Data collection systems",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(2) Cooperation as referred to in paragraph (1) includes:\na. exchange of data and information;",
+      "evaluator_rationale": "The policy includes \"exchange of data and information\" as a component of cooperation, which implies an organized approach to managing and sharing information related to protection efforts, thereby addressing data/information system functions at least in terms of data exchange.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 28,
+          "text": "Article 15\n(1) The obligations and responsibilities of the private sector and community as referred to in Article 14 letter b and letter c, shall be implemented in the form of participation of the private sector and community.\n(2) The form of participation of the private sector and community as referred to in paragraph (1), includes:\n   a. preventing the occurrence of acts of violence against women and children;\n   b. providing information and/or reporting acts of violence against women and children to law enforcement or authorized parties; and\n   c. participating in the handling of victims of violence.\n(3) The form of participation of the private sector and community as referred to in paragraph (2), shall be implemented responsibly in accordance with the provisions of laws and regulations.",
+          "score": 0.63486034
+        },
+        {
+          "chunk_id": 5,
+          "text": "REGENT OF PESISIR BARAT\nDECIDES:\nTo Establish : REGIONAL REGULATION ON THE PROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE",
+          "score": 0.53859496
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 24\n(1) In order to achieve the objectives of protection of women and children, cooperation may be conducted with:\na. Central Government;\nb. Provincial Government;\nc. Other City/Regency Governments;\nd. Non-Governmental Institutions;\ne. Community;\nf. Higher Education Institutions; and\ng. Mass Media.\n(2) Cooperation as referred to in paragraph (1) includes:\na. exchange of data and information;\nb. recovery of victims of violence;\nc. repatriation and social reintegration;\nd. provision of evidence and witnesses; and\ne. shall be followed up in accordance with applicable law.\n(3) Cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Cooperation Agreement in accordance with the provisions of laws and regulations.",
+          "score": 0.5327655
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 3\nThe scope of regulation in the Protection of Women and Children from acts of violence includes:\na. Forms of violence against women and children;\nb. Rights of victims;\nc. Obligations and responsibilities;\nd. Implementation of protection;\ne. Cooperation and partnership;\nf. Assistance;\ng. Child-friendly regency;\nh. Funding.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.5230306
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 2\nThe objectives of protection of women and children from acts of violence are: a. to prevent all forms of violence against women and children; b. to provide protection and services to women and children victims of gender-based violence;\nc. to provide a sense of security to women and children victims of violence; d. to restore the physical, psychological and economic condition of women and children victims of violence;\ne. the best interests of women and children victims of violence that occurs in the domestic and/or public sphere; and\nf. to provide certainty of assistance to victims in the legal process against perpetrators of violence against women and children.",
+          "score": 0.48789302
+        },
+        {
+          "chunk_id": 7,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n4. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Pesisir Barat.\n6. Regional House of Representatives hereinafter abbreviated as DPRD is a people's representative institution positioned as an element of Regional Government administration.\n7. Office of Women's Empowerment, Child Protection and Family Planning hereinafter abbreviated as Dinas PPPAKB is a Regional Apparatus Organization that implements and handles affairs of Protection for Women and Children.\n8. Protection of Women and Children hereinafter abbreviated as PPA is a handling effort to protect and fulfill the rights of women and children from all forms of acts of violence, discrimination, special protection, and other problems.\n9. Discrimination is any distinction, harassment or exclusion that is direct or indirect based on human differentiation on the basis of religion, tribe, race, ethnic group, social status, economic status, gender, language, political beliefs that results in reduction, restriction or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n10. Violence is any act unlawfully with or without using means against a person's physical and psychological condition that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n13. Violence against women and children in the household is any act against a woman and child that results in misery or suffering physically, sexually, psychologically, economically and/or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.48008865
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 14\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 13 letter a include:\na. establishing policies for the protection, empowerment of women and children;\nb. implementing policies, protection, and empowerment of women and children from acts of violence in accordance with the provisions of laws and regulations;\nc. conducting cooperation in the implementation of protection and empowerment of women and children;\nd. providing support for facilities and infrastructure for the implementation of protection and empowerment of women and children;\ne. allocating budget for the implementation of protection and empowerment of women and children, in accordance with regional financial capacity;\nf. fostering and supervising the implementation of protection and empowerment of women and children; and\ng. realizing a Child-Friendly Regency.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1), the Regent establishes programs and activities for the protection and empowerment of women and children in the Regional Action Plan as a basis for Regional Apparatus in implementing the protection and empowerment of women and children.\n(3) The Regional Action Plan as referred to in paragraph (2) constitutes part of the RPJMD.\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2), shall be regulated by Regent Regulation.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus whose duties and functions are in the fields of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. population and civil registration;\nf. law;\ng. women's empowerment and child protection;\nh. cooperatives and micro enterprises;\ni. mental and spiritual; and\nj. public peace and order.\nk. community and pekon empowerment.\n(2) Prevention of acts of violence by Regional Apparatus as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on RPJPD and RPJMD.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 30,
+          "text": "Article 16\nThe obligations of the family and/or parents as referred to in Article 14 letter d are, by law, to have full responsibility to prevent all forms of violence and to protect women and children as family members.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PESISIR BARAT,\n\nConsidering: that to implement the provisions of number I letter H number 2 and number 6 column 5 of the appendix to Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 11 of 2020 concerning the Job Creation Law, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children from Acts of Violence;\n\nIn View of:\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 22 of 2012 concerning the Establishment of Pesisir Barat Regency, Lampung Province (State Gazette of the Republic of Indonesia of 2012 Number 231, Supplement to the State Gazette of the Republic of Indonesia Number 5364);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as has been amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 58,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nELUCIDATION OF\nREGIONAL REGULATION OF PESISIR BARAT REGENCY\nNUMBER 6 YEAR 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\n\nI. GENERAL\nActs of violence against women and children have shown an increasingly rising trend. Triggering factors such as economic, social, cultural and social environment are becoming more complex along with the influence of technological development. Concrete steps are needed to provide protection by all elements of Citizens as a unity of society, as well as the role of Regional Government as protector for its citizens with various programs to prevent acts of violence against women and children. One of the efforts to prevent violence against women is carried out through women's empowerment and optimization of previously possessed potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families.\n\nEfforts to prevent violence against children are a shared obligation of parents, families, communities and the private sector in a holistic manner and inseparable from one another. Community services are the frontline when potential violence against children occurs. The mechanism for preventing violence and protecting child victims of violence involves multi-sectors coordinated by the Regional Government. The intended efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reuniting child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.\n\nIn connection with this matter, to realize the provision of protection efforts for women and child victims of violence as well as for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Regional area, it is necessary to regulate this in a Regional Regulation.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 25\n(1) Regional Governments establish partnerships with the business world in the protection of women and children from acts of violence in accordance with the provisions of laws and regulations.\n(2) Partnerships as referred to in paragraph (1) are carried out through:\n   a. notification of employment opportunity information for women and children victims of acts of violence;\n   b. education and training for women and children victims of acts of violence;\n   c. development of facilities and infrastructure related to the protection of women and children from acts of violence.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 8,
+          "text": "LEGAL BUREAU OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n14. Trafficking in Persons is the act of recruitment, transportation, harbouring, sending, transfer, or receipt of a person by means of the threat of violence, use of violence, abduction, confinement, forgery, fraud and abuse of power or position of vulnerability, debt bondage or giving payments or benefits, so as to obtain the consent of a person having control over another person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n15. Child is a person who has not yet reached the age of 18 (eighteen) years including a child still in the womb.\n16. Child marriage is a marriage conducted through civil law, religion or custom with or without registration or official consent where one or both partners are children under the age of 18 years.\n17. Woman is a person (human being) who has genital organs, can menstruate, become pregnant, give birth to children, and breastfeed.\n18. Victim of violence is an individual or group of people who suffer physically, mentally or emotionally, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals, including victims are their heirs.\n19. Protection is a series of fulfillment of the rights of women and child victims of violence and discrimination starting from prevention efforts, handling and empowerment.\n20. Prevention is an effort made by the Regional Government to prevent acts of violence against women and children.\n21. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n22. Regional Long-Term Development Plan hereinafter referred to as RPJPD is a regional development planning document for a period of 20 (twenty) years.\n23. Regional Medium-Term Development Plan hereinafter referred to as RPJMD is a regional planning document for a period of 5 (five) years.\n24. Task Force for the Prevention and Handling of Criminal Acts of Trafficking in Persons hereinafter referred to as Task Force is a coordinative institution tasked with coordinating prevention and handling efforts for criminal acts of trafficking in persons in Pesisir Barat Regency.\n25. Parents are biological father and/or mother, or father and/or mother, or adoptive father and/or mother.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IV\nRIGHTS OF VICTIMS\nArticle 11\nWomen and children victims of acts of violence receive the following rights:\na. the right to have their dignity and worth as human beings respected; b. the right to recovery;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality;\nf. the right to social rehabilitation;\ng. the right to appropriate, comfortable, and needs-based complaint handling;\nh. the right of victims and their families to obtain facilitation in the judicial process;\ni. the right to assistance; and\nj. to receive continuous handling up to the rehabilitation stage.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 14,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nCHAPTER III\nFORMS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 4\nForms of violence against women and children include: a. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other forms of violence.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 19\n(1) In the framework of providing protection services to women and children from acts of violence, the Regional Government establishes UPTDPPA.\n(2) UPTD PPA as referred to in paragraph (1), functions to implement services for:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) Further provisions regarding the organization and work procedures of UPTD PPA as referred to in paragraph (1) shall be stipulated by a Regent Regulation.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 17\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts empowerment and builds awareness among families, parents, and the community by providing information, guidance and/or counseling and realizing a Child-Friendly Regency.\n(2) In addition to empowerment and awareness as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. providing material on the prevention of acts of violence against women and children in formal, non-formal, and informal education;\nb. provision of accessibility to obtain education, training, funding, income enhancement and social services;",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 1,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nREGENT OF PESISIR BARAT\nLAMPUNG PROVINCE\nREGIONAL REGULATION OF PESISIR BARAT REGENCY\nNUMBER 6 YEAR 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE BY THE GRACE OF GOD ALMIGHTY",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nScope",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 23.\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 90,
+          "text": "Article 31\nSufficiently clear",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 28\nSufficiently clear",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 29\nSufficiently clear",
+          "score": 0.37534004
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, there is explicit language about an information system: Pasal 17 ayat (2) huruf e states \"membangun dan menyediakan sistem informasi yang mudah diakses\" (build and provide an easily accessible information system). That is closer to a data/information system than Pasal 24(2)(a) \"pertukaran data dan informasi\" (exchange of data and information), which is merely a cooperation activity and does not by itself establish a data collection/management system. The retrieved candidates included the relevant system-language (shown in the candidate list as Article 17(2)(e)), so a careful judge should not have relied on 'exchange of data' as sufficient proof of a data collection system. The judge over-interpreted cooperation/data exchange as a data collection system.",
+      "diagnosis_status": "ok"
+    },
+    "2.5": {
+      "indicator": "Training and capacity building",
+      "dimension": "institutional_mechanism",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. provision of accessibility to obtain education, training, funding, income enhancement and social services;\nb. education and training for women and children victims of acts of violence;",
+      "evaluator_rationale": "The policy references provision of education and training (including through partnerships) for women and children victims of violence and includes training as part of support measures, indicating that training activities are contemplated within implementation-related programming.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 26,
+          "text": "Article 14\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 13 letter a include:\na. establishing policies for the protection, empowerment of women and children;\nb. implementing policies, protection, and empowerment of women and children from acts of violence in accordance with the provisions of laws and regulations;\nc. conducting cooperation in the implementation of protection and empowerment of women and children;\nd. providing support for facilities and infrastructure for the implementation of protection and empowerment of women and children;\ne. allocating budget for the implementation of protection and empowerment of women and children, in accordance with regional financial capacity;\nf. fostering and supervising the implementation of protection and empowerment of women and children; and\ng. realizing a Child-Friendly Regency.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1), the Regent establishes programs and activities for the protection and empowerment of women and children in the Regional Action Plan as a basis for Regional Apparatus in implementing the protection and empowerment of women and children.\n(3) The Regional Action Plan as referred to in paragraph (2) constitutes part of the RPJMD.\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2), shall be regulated by Regent Regulation.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 17\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts empowerment and builds awareness among families, parents, and the community by providing information, guidance and/or counseling and realizing a Child-Friendly Regency.\n(2) In addition to empowerment and awareness as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. providing material on the prevention of acts of violence against women and children in formal, non-formal, and informal education;\nb. provision of accessibility to obtain education, training, funding, income enhancement and social services;",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 41,
+          "text": "Third Part\nService Principles",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 58,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nELUCIDATION OF\nREGIONAL REGULATION OF PESISIR BARAT REGENCY\nNUMBER 6 YEAR 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\n\nI. GENERAL\nActs of violence against women and children have shown an increasingly rising trend. Triggering factors such as economic, social, cultural and social environment are becoming more complex along with the influence of technological development. Concrete steps are needed to provide protection by all elements of Citizens as a unity of society, as well as the role of Regional Government as protector for its citizens with various programs to prevent acts of violence against women and children. One of the efforts to prevent violence against women is carried out through women's empowerment and optimization of previously possessed potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families.\n\nEfforts to prevent violence against children are a shared obligation of parents, families, communities and the private sector in a holistic manner and inseparable from one another. Community services are the frontline when potential violence against children occurs. The mechanism for preventing violence and protecting child victims of violence involves multi-sectors coordinated by the Regional Government. The intended efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reuniting child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.\n\nIn connection with this matter, to realize the provision of protection efforts for women and child victims of violence as well as for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Regional area, it is necessary to regulate this in a Regional Regulation.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 25\n(1) Regional Governments establish partnerships with the business world in the protection of women and children from acts of violence in accordance with the provisions of laws and regulations.\n(2) Partnerships as referred to in paragraph (1) are carried out through:\n   a. notification of employment opportunity information for women and children victims of acts of violence;\n   b. education and training for women and children victims of acts of violence;\n   c. development of facilities and infrastructure related to the protection of women and children from acts of violence.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IX\nCHILD-FRIENDLY REGENCY\nArticle 27\n(1) In the context of implementing the Convention on the Rights of the Child and various laws and regulations as well as policies related to the fulfillment of children's rights and special protection of children, the Regional Government, Private Sector and Community Organizations make efforts to realize a Child-Friendly Regency.\n(2) To realize a Child-Friendly Regency as referred to in paragraph (1), child-friendly sub-districts and child-friendly villages/urban villages must be established.\n(3) The Regional Government, Private Sector and Community Organizations incorporated in the Task Force in realizing a child-friendly regency must pay attention to children's rights related to the right to life, growth and development, protection and participation",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PESISIR BARAT,\n\nConsidering: that to implement the provisions of number I letter H number 2 and number 6 column 5 of the appendix to Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 11 of 2020 concerning the Job Creation Law, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children from Acts of Violence;\n\nIn View of:\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 22 of 2012 concerning the Establishment of Pesisir Barat Regency, Lampung Province (State Gazette of the Republic of Indonesia of 2012 Number 231, Supplement to the State Gazette of the Republic of Indonesia Number 5364);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as has been amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VI\nADMINISTRATION OF PROTECTION\nSection One\nInstitutional Arrangements",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 8,
+          "text": "LEGAL BUREAU OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n14. Trafficking in Persons is the act of recruitment, transportation, harbouring, sending, transfer, or receipt of a person by means of the threat of violence, use of violence, abduction, confinement, forgery, fraud and abuse of power or position of vulnerability, debt bondage or giving payments or benefits, so as to obtain the consent of a person having control over another person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n15. Child is a person who has not yet reached the age of 18 (eighteen) years including a child still in the womb.\n16. Child marriage is a marriage conducted through civil law, religion or custom with or without registration or official consent where one or both partners are children under the age of 18 years.\n17. Woman is a person (human being) who has genital organs, can menstruate, become pregnant, give birth to children, and breastfeed.\n18. Victim of violence is an individual or group of people who suffer physically, mentally or emotionally, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals, including victims are their heirs.\n19. Protection is a series of fulfillment of the rights of women and child victims of violence and discrimination starting from prevention efforts, handling and empowerment.\n20. Prevention is an effort made by the Regional Government to prevent acts of violence against women and children.\n21. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n22. Regional Long-Term Development Plan hereinafter referred to as RPJPD is a regional development planning document for a period of 20 (twenty) years.\n23. Regional Medium-Term Development Plan hereinafter referred to as RPJMD is a regional planning document for a period of 5 (five) years.\n24. Task Force for the Prevention and Handling of Criminal Acts of Trafficking in Persons hereinafter referred to as Task Force is a coordinative institution tasked with coordinating prevention and handling efforts for criminal acts of trafficking in persons in Pesisir Barat Regency.\n25. Parents are biological father and/or mother, or father and/or mother, or adoptive father and/or mother.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 23.\nSufficiently clear",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 29\n(1) Funding for protection of women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, medication costs and medical support costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government, and is conducted transparently and can be legally accounted for.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 7,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n4. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Pesisir Barat.\n6. Regional House of Representatives hereinafter abbreviated as DPRD is a people's representative institution positioned as an element of Regional Government administration.\n7. Office of Women's Empowerment, Child Protection and Family Planning hereinafter abbreviated as Dinas PPPAKB is a Regional Apparatus Organization that implements and handles affairs of Protection for Women and Children.\n8. Protection of Women and Children hereinafter abbreviated as PPA is a handling effort to protect and fulfill the rights of women and children from all forms of acts of violence, discrimination, special protection, and other problems.\n9. Discrimination is any distinction, harassment or exclusion that is direct or indirect based on human differentiation on the basis of religion, tribe, race, ethnic group, social status, economic status, gender, language, political beliefs that results in reduction, restriction or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n10. Violence is any act unlawfully with or without using means against a person's physical and psychological condition that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n13. Violence against women and children in the household is any act against a woman and child that results in misery or suffering physically, sexually, psychologically, economically and/or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 19\n(1) In the framework of providing protection services to women and children from acts of violence, the Regional Government establishes UPTDPPA.\n(2) UPTD PPA as referred to in paragraph (1), functions to implement services for:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) Further provisions regarding the organization and work procedures of UPTD PPA as referred to in paragraph (1) shall be stipulated by a Regent Regulation.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus whose duties and functions are in the fields of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. population and civil registration;\nf. law;\ng. women's empowerment and child protection;\nh. cooperatives and micro enterprises;\ni. mental and spiritual; and\nj. public peace and order.\nk. community and pekon empowerment.\n(2) Prevention of acts of violence by Regional Apparatus as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on RPJPD and RPJMD.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nScope",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 1,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nREGENT OF PESISIR BARAT\nLAMPUNG PROVINCE\nREGIONAL REGULATION OF PESISIR BARAT REGENCY\nNUMBER 6 YEAR 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE BY THE GRACE OF GOD ALMIGHTY",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 70,
+          "text": "Article 11\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 18\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 7\na. Non-physical sexual harassment is an act directed at the body, sexual desire, and/or reproductive organs with the intention of degrading a person's dignity based on their sexuality and/or decency.\nTypes of non-physical violent behavior include dominant behavior from one party that is controlling, demeaning, intimidating, insulting and harassing both verbally such as speech and non-verbally such as attitude.\nb. Physical sexual harassment is any person who commits a physical sexual act directed at the body, sexual desire, and/or reproductive organs with the intention of degrading a person's dignity based on their sexuality and/or decency. Physical sexual harassment includes unwanted touching, leading to sexual acts such as kissing, patting, pinching, glancing or staring lustfully.\nc. Sufficiently clear.\nd. Sufficiently Clear.\ne. What is meant by forced marriage is child marriage, forced marriage in the name of cultural practices or forced marriage of Victims with perpetrators of rape.\nf. Sufficiently Clear\ng. Sexual exploitation is an act with violence or threat of violence or by abusing position, authority, trust, acts arising from fraud or relationship of circumstances, vulnerability, inequality, powerlessness, dependence of a person, debt bondage or giving payment or benefits with the intention of obtaining profit, or exploiting the sexual organs or other body organs of that person directed at sexual desire with them or with another person,\nh. Sexual slavery is any person who unlawfully places someone under their power or another person's power and renders them powerless with the intention of exploiting them sexually",
+          "score": 0.3465192
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian regulation does include training/capacity-building elements. Pasal 17 ayat (2) huruf b provides \"penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan...\" (accessibility to obtain education, training, etc.). Pasal 25 ayat (2) huruf b also states partnerships with the business sector through \"pendidikan dan pelatihan\" for women/children victims. Pasal 29 ayat (1) huruf e includes \"pelatihan keterampilan\" (skills training) as part of economic empowerment funding. These are direct mentions of training activities, so labeling this indicator as 'No' appears inconsistent with the source text. The judge’s 'Yes' is supported by retrieved passages and by the Indonesian original.",
+      "diagnosis_status": "ok"
+    },
+    "3.2": {
+      "indicator": "Police specialised service unit",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the police are mentioned as actors involved in assistance, none of the provided sentences establish or describe a specialised service unit for VAW victims within police offices.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 34,
+          "text": "Article 18\n(1) Prevention of acts of violence against women and children as referred to in Article 17 shall be implemented by Regional Apparatus whose duties and functions are in the fields of:\na. social affairs;\nb. health;\nc. education;\nd. manpower;\ne. population and civil registration;\nf. law;\ng. women's empowerment and child protection;\nh. cooperatives and micro enterprises;\ni. mental and spiritual; and\nj. public peace and order.\nk. community and pekon empowerment.\n(2) Prevention of acts of violence by Regional Apparatus as referred to in paragraph (1), shall be implemented in an integrated and sustainable manner based on RPJPD and RPJMD.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 2\nThe objectives of protection of women and children from acts of violence are: a. to prevent all forms of violence against women and children; b. to provide protection and services to women and children victims of gender-based violence;\nc. to provide a sense of security to women and children victims of violence; d. to restore the physical, psychological and economic condition of women and children victims of violence;\ne. the best interests of women and children victims of violence that occurs in the domestic and/or public sphere; and\nf. to provide certainty of assistance to victims in the legal process against perpetrators of violence against women and children.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 8,
+          "text": "LEGAL BUREAU OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n14. Trafficking in Persons is the act of recruitment, transportation, harbouring, sending, transfer, or receipt of a person by means of the threat of violence, use of violence, abduction, confinement, forgery, fraud and abuse of power or position of vulnerability, debt bondage or giving payments or benefits, so as to obtain the consent of a person having control over another person, whether conducted within the country or between countries, for the purpose of exploitation or resulting in a person being exploited.\n15. Child is a person who has not yet reached the age of 18 (eighteen) years including a child still in the womb.\n16. Child marriage is a marriage conducted through civil law, religion or custom with or without registration or official consent where one or both partners are children under the age of 18 years.\n17. Woman is a person (human being) who has genital organs, can menstruate, become pregnant, give birth to children, and breastfeed.\n18. Victim of violence is an individual or group of people who suffer physically, mentally or emotionally, economic loss, or experience neglect, reduction or deprivation of their basic rights, as a result of human rights violations, or criminal acts as well as acts of violence committed either by state apparatus or by the state or Regional Government apparatus or by individuals, including victims are their heirs.\n19. Protection is a series of fulfillment of the rights of women and child victims of violence and discrimination starting from prevention efforts, handling and empowerment.\n20. Prevention is an effort made by the Regional Government to prevent acts of violence against women and children.\n21. Regional Technical Implementation Unit for the Protection of Women and Children hereinafter abbreviated as UPTD PPA is a Regional technical implementation unit established by the Regional Government in providing services for women and children who experience violence, discrimination, special protection, and other problems.\n22. Regional Long-Term Development Plan hereinafter referred to as RPJPD is a regional development planning document for a period of 20 (twenty) years.\n23. Regional Medium-Term Development Plan hereinafter referred to as RPJMD is a regional planning document for a period of 5 (five) years.\n24. Task Force for the Prevention and Handling of Criminal Acts of Trafficking in Persons hereinafter referred to as Task Force is a coordinative institution tasked with coordinating prevention and handling efforts for criminal acts of trafficking in persons in Pesisir Barat Regency.\n25. Parents are biological father and/or mother, or father and/or mother, or adoptive father and/or mother.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 15\n(1) The obligations and responsibilities of the private sector and community as referred to in Article 14 letter b and letter c, shall be implemented in the form of participation of the private sector and community.\n(2) The form of participation of the private sector and community as referred to in paragraph (1), includes:\n   a. preventing the occurrence of acts of violence against women and children;\n   b. providing information and/or reporting acts of violence against women and children to law enforcement or authorized parties; and\n   c. participating in the handling of victims of violence.\n(3) The form of participation of the private sector and community as referred to in paragraph (2), shall be implemented responsibly in accordance with the provisions of laws and regulations.",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 35,
+          "text": "Article 19\n(1) In the framework of providing protection services to women and children from acts of violence, the Regional Government establishes UPTDPPA.\n(2) UPTD PPA as referred to in paragraph (1), functions to implement services for:\na. public complaints;\nb. victim outreach;\nc. case management;\nd. temporary shelter;\ne. mediation; and\nf. victim assistance.\n(3) Further provisions regarding the organization and work procedures of UPTD PPA as referred to in paragraph (1) shall be stipulated by a Regent Regulation.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 47,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nCHAPTER VIII\nASSISTANCE\nArticle 26\n(1) Assistance includes all integrated efforts to restore and strengthen the condition of victims, carried out by health workers, education personnel, the police, the public prosecutor’s office, the court, advocates, social workers, volunteer companions, and spiritual counselors.\n(2) Assistance as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.\n(3) The duties of assistants are:\na. to provide sufficient information to victims about their rights;\nb. to provide psychosocial services to victims so that victims feel safe and comfortable;\nc. to accompany victims during the examination and medical recovery process;\nd. to accompany victims during the medicolegal process;\ne. to accompany victims during the examination process at the Police, Prosecutor's Office and Court;\nf. to monitor the interests and rights of victims in the examination process at the Police, Prosecutor's Office and Court;\ng. to maintain the privacy and confidentiality of victims from all parties who have no interest, including coverage by mass media;\nh. to coordinate with other assistants; and\ni. to provide continuous handling up to the rehabilitation stage.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 24\n(1) In order to achieve the objectives of protection of women and children, cooperation may be conducted with:\na. Central Government;\nb. Provincial Government;\nc. Other City/Regency Governments;\nd. Non-Governmental Institutions;\ne. Community;\nf. Higher Education Institutions; and\ng. Mass Media.\n(2) Cooperation as referred to in paragraph (1) includes:\na. exchange of data and information;\nb. recovery of victims of violence;\nc. repatriation and social reintegration;\nd. provision of evidence and witnesses; and\ne. shall be followed up in accordance with applicable law.\n(3) Cooperation as referred to in paragraph (1) and paragraph (2) shall be set forth in the form of a Cooperation Agreement in accordance with the provisions of laws and regulations.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 51,
+          "text": "Article 29\n(1) Funding for protection of women and children victims of violence includes:\na. medical services, which include doctor examinations, treatment costs, hospital costs, medication costs and medical support costs;\nb. medicolegal services, which include examinations for Visum et Repertum and Visum et Psikiatrikum;\nc. psychosocial services, which consist of counseling and psychological therapy as well as safe houses (shelters);\nd. legal services;\ne. economic empowerment, in the form of services for skills training and providing economic access.\n(2) Funding management is carried out through technical institutions appointed by the Regional Government, and is conducted transparently and can be legally accounted for.",
+          "score": 0.28585017
+        },
+        {
+          "chunk_id": 5,
+          "text": "REGENT OF PESISIR BARAT\nDECIDES:\nTo Establish : REGIONAL REGULATION ON THE PROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IV\nRIGHTS OF VICTIMS\nArticle 11\nWomen and children victims of acts of violence receive the following rights:\na. the right to have their dignity and worth as human beings respected; b. the right to recovery;\nc. the right to determine their own decisions;\nd. the right to obtain information;\ne. the right to confidentiality;\nf. the right to social rehabilitation;\ng. the right to appropriate, comfortable, and needs-based complaint handling;\nh. the right of victims and their families to obtain facilitation in the judicial process;\ni. the right to assistance; and\nj. to receive continuous handling up to the rehabilitation stage.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 7,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\n4. Regional Government is the Regent as an element of regional government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Pesisir Barat.\n6. Regional House of Representatives hereinafter abbreviated as DPRD is a people's representative institution positioned as an element of Regional Government administration.\n7. Office of Women's Empowerment, Child Protection and Family Planning hereinafter abbreviated as Dinas PPPAKB is a Regional Apparatus Organization that implements and handles affairs of Protection for Women and Children.\n8. Protection of Women and Children hereinafter abbreviated as PPA is a handling effort to protect and fulfill the rights of women and children from all forms of acts of violence, discrimination, special protection, and other problems.\n9. Discrimination is any distinction, harassment or exclusion that is direct or indirect based on human differentiation on the basis of religion, tribe, race, ethnic group, social status, economic status, gender, language, political beliefs that results in reduction, restriction or elimination of recognition, implementation or use of human rights and basic freedoms in life both individual and collective in the political, economic, legal, social, cultural fields and other aspects of life.\n10. Violence is any act unlawfully with or without using means against a person's physical and psychological condition that causes danger to life, body or results in the deprivation of a person's freedom.\n11. Violence against women is any action based on gender differences that results in or may result in misery or suffering of women physically, sexually or psychologically, economic exploitation, social, including threats of certain actions, coercion or deprivation of freedom arbitrarily, whether occurring in the public sphere or in private life.\n12. Violence against children is any act against a child that results in misery or suffering physically, mentally, sexually, psychologically, economic exploitation, social, including neglect and maltreatment that threatens bodily integrity and degrades the dignity of the child.\n13. Violence against women and children in the household is any act against a woman and child that results in misery or suffering physically, sexually, psychologically, economically and/or household neglect including threats to commit acts of coercion or deprivation of freedom unlawfully within the household sphere.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 58,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nELUCIDATION OF\nREGIONAL REGULATION OF PESISIR BARAT REGENCY\nNUMBER 6 YEAR 2022\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN FROM ACTS OF VIOLENCE\n\nI. GENERAL\nActs of violence against women and children have shown an increasingly rising trend. Triggering factors such as economic, social, cultural and social environment are becoming more complex along with the influence of technological development. Concrete steps are needed to provide protection by all elements of Citizens as a unity of society, as well as the role of Regional Government as protector for its citizens with various programs to prevent acts of violence against women and children. One of the efforts to prevent violence against women is carried out through women's empowerment and optimization of previously possessed potential, so that it is expected to be able to improve and develop themselves to play a role and be protected from potential acts of violence. This condition will strengthen the form of appreciation and respect for women while maintaining their role and nature as women to play a role in educating and supporting the welfare and happiness of their families.\n\nEfforts to prevent violence against children are a shared obligation of parents, families, communities and the private sector in a holistic manner and inseparable from one another. Community services are the frontline when potential violence against children occurs. The mechanism for preventing violence and protecting child victims of violence involves multi-sectors coordinated by the Regional Government. The intended efforts are carried out with the direction of providing social rehabilitation for child victims of violence, reuniting child victims of violence with their families and/or environment, and increasing the empowerment of child victims of violence.\n\nIn connection with this matter, to realize the provision of protection efforts for women and child victims of violence as well as for legal certainty in the implementation of women's empowerment and protection of child victims of violence in the Regional area, it is necessary to regulate this in a Regional Regulation.",
+          "score": 0.2491548
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 25\n(1) Regional Governments establish partnerships with the business world in the protection of women and children from acts of violence in accordance with the provisions of laws and regulations.\n(2) Partnerships as referred to in paragraph (1) are carried out through:\n   a. notification of employment opportunity information for women and children victims of acts of violence;\n   b. education and training for women and children victims of acts of violence;\n   c. development of facilities and infrastructure related to the protection of women and children from acts of violence.",
+          "score": 0.24624321
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 3\nThe scope of regulation in the Protection of Women and Children from acts of violence includes:\na. Forms of violence against women and children;\nb. Rights of victims;\nc. Obligations and responsibilities;\nd. Implementation of protection;\ne. Cooperation and partnership;\nf. Assistance;\ng. Child-friendly regency;\nh. Funding.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 14\n(1) The obligations and responsibilities of the Regional Government as referred to in Article 13 letter a include:\na. establishing policies for the protection, empowerment of women and children;\nb. implementing policies, protection, and empowerment of women and children from acts of violence in accordance with the provisions of laws and regulations;\nc. conducting cooperation in the implementation of protection and empowerment of women and children;\nd. providing support for facilities and infrastructure for the implementation of protection and empowerment of women and children;\ne. allocating budget for the implementation of protection and empowerment of women and children, in accordance with regional financial capacity;\nf. fostering and supervising the implementation of protection and empowerment of women and children; and\ng. realizing a Child-Friendly Regency.\n(2) In order to implement the obligations and responsibilities as referred to in paragraph (1), the Regent establishes programs and activities for the protection and empowerment of women and children in the Regional Action Plan as a basis for Regional Apparatus in implementing the protection and empowerment of women and children.\n(3) The Regional Action Plan as referred to in paragraph (2) constitutes part of the RPJMD.\n(4) Further provisions regarding the Regional Action Plan as referred to in paragraph (2), shall be regulated by Regent Regulation.",
+          "score": 0.229259
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nScope",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 21\nForms of services for victims organized by UPTD PPA include:\na. medical services;\nb. medicolegal services (visum);\nc. psychosocial services;\nd. legal services;\ne. economic independence services; and\nf. spiritual services.",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 7\na. Non-physical sexual harassment is an act directed at the body, sexual desire, and/or reproductive organs with the intention of degrading a person's dignity based on their sexuality and/or decency.\nTypes of non-physical violent behavior include dominant behavior from one party that is controlling, demeaning, intimidating, insulting and harassing both verbally such as speech and non-verbally such as attitude.\nb. Physical sexual harassment is any person who commits a physical sexual act directed at the body, sexual desire, and/or reproductive organs with the intention of degrading a person's dignity based on their sexuality and/or decency. Physical sexual harassment includes unwanted touching, leading to sexual acts such as kissing, patting, pinching, glancing or staring lustfully.\nc. Sufficiently clear.\nd. Sufficiently Clear.\ne. What is meant by forced marriage is child marriage, forced marriage in the name of cultural practices or forced marriage of Victims with perpetrators of rape.\nf. Sufficiently Clear\ng. Sexual exploitation is an act with violence or threat of violence or by abusing position, authority, trust, acts arising from fraud or relationship of circumstances, vulnerability, inequality, powerlessness, dependence of a person, debt bondage or giving payment or benefits with the intention of obtaining profit, or exploiting the sexual organs or other body organs of that person directed at sexual desire with them or with another person,\nh. Sexual slavery is any person who unlawfully places someone under their power or another person's power and renders them powerless with the intention of exploiting them sexually",
+          "score": 0.21840255
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 17\n(1) To prevent the occurrence of acts of violence against women and children, the Regional Government conducts empowerment and builds awareness among families, parents, and the community by providing information, guidance and/or counseling and realizing a Child-Friendly Regency.\n(2) In addition to empowerment and awareness as referred to in paragraph (1), the Regional Government undertakes efforts as follows:\na. providing material on the prevention of acts of violence against women and children in formal, non-formal, and informal education;\nb. provision of accessibility to obtain education, training, funding, income enhancement and social services;",
+          "score": 0.20792148
+        },
+        {
+          "chunk_id": 14,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nCHAPTER III\nFORMS OF VIOLENCE AGAINST\nWOMEN AND CHILDREN\nArticle 4\nForms of violence against women and children include: a. physical violence;\nb. psychological violence;\nc. sexual violence;\nd. neglect;\ne. exploitation; and/or\nf. other forms of violence.",
+          "score": 0.2028219
+        },
+        {
+          "chunk_id": 33,
+          "text": "LEGAL SECTION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nc. creating a friendly and safe work environment atmosphere for women;\nd. building community participation and awareness towards prevention and protection of women and children from acts of violence;\ne. building and providing an information system that is easily accessible;\nf. building networks and cooperation with law enforcement apparatus, government apparatus, universities and various non-governmental organizations that work and/or care about women and children.",
+          "score": 0.2028219
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF PESISIR BARAT,\n\nConsidering: that to implement the provisions of number I letter H number 2 and number 6 column 5 of the appendix to Law Number 23 of 2014 concerning Regional Government as has been amended several times, most recently by Law Number 11 of 2020 concerning the Job Creation Law, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children from Acts of Violence;\n\nIn View of:\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 22 of 2012 concerning the Establishment of Pesisir Barat Regency, Lampung Province (State Gazette of the Republic of Indonesia of 2012 Number 231, Supplement to the State Gazette of the Republic of Indonesia Number 5364);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as has been amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);",
+          "score": 0.1978161
+        },
+        {
+          "chunk_id": 31,
+          "text": "CHAPTER VI\nADMINISTRATION OF PROTECTION\nSection One\nInstitutional Arrangements",
+          "score": 0.1978161
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 23\nThe provision of services to victims is carried out with principles, among others: no fees charged, fast, safe, empathy, non-discrimination, easily accessible, and confidentiality.\nhttps://jdih.pesisirbaratkab.go.id",
+          "score": 0.19534837
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 7\n(1) Sexual violence as referred to in Article 4 letter c includes:\na. non-physical sexual harassment;\nb. physical sexual harassment;\nc. forced contraception;\nd. forced sterilization;\ne. forced marriage;\nf. sexual torture;\ng. sexual exploitation;\nh. sexual slavery; and\ni. electronic-based sexual violence.\n(2) In addition to Criminal Acts of Sexual Violence as referred to in paragraph (1), Criminal Acts of Sexual Violence also include:\na. rape;\nb. indecent acts;\nc. intercourse with a Child, indecent acts against a Child, and/or sexual exploitation of a Child;",
+          "score": 0.192904
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text does not establish a specialised police service unit; it establishes a UPTD PPA (Pasal 19) as the service unit for victims, and only mentions police as one of several actors involved in pendampingan (Pasal 26 ayat (1): \"kepolisian\" among other professions). There is no clause about a dedicated unit within police offices (e.g., a women/children desk/unit) being created or mandated. Therefore the correct answer based on the Indonesian source is 'No', meaning the golden label 'Yes' is likely wrong; the judge’s 'No' aligns with the document.",
+      "diagnosis_status": "ok"
+    },
+    "5.2": {
+      "indicator": "Religious engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) Assistance includes all integrated efforts to restore and strengthen the condition of victims, carried out by health workers, education personnel, the police, the public prosecutor’s office, the court, advocates, social workers, volunteer companions, and spiritual counselors.",
+      "evaluator_rationale": "The policy includes spiritual counselors among those who carry out integrated assistance efforts for victims, which constitutes engagement of faith-based actors in service delivery.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 47,
+          "text": "LEGAL DIVISION OF PESISIR BARAT REGENCY REGIONAL SECRETARIAT\nCHAPTER VIII\nASSISTANCE\nArticle 26\n(1) Assistance includes all integrated efforts to restore and strengthen the condition of victims, carried out by health workers, education personnel, the police, the public prosecutor’s office, the court, advocates, social workers, volunteer companions, and spiritual counselors.\n(2) Assistance as referred to in paragraph (1) shall be in accordance with the provisions of laws and regulations.\n(3) The duties of assistants are:\na. to provide sufficient information to victims about their rights;\nb. to provide psychosocial services to victims so that victims feel safe and comfortable;\nc. to accompany victims during the examination and medical recovery process;\nd. to accompany victims during the medicolegal process;\ne. to accompany victims during the examination process at the Police, Prosecutor's Office and Court;\nf. to monitor the interests and rights of victims in the examination process at the Police, Prosecutor's Office and Court;\ng. to maintain the privacy and confidentiality of victims from all parties who have no interest, including coverage by mass media;\nh. to coordinate with other assistants; and\ni. to provide continuous handling up to the rehabilitation stage.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 23.\nSufficiently clear",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part\nScope",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 41,
+          "text": "Third Part\nService Principles",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 64,
+          "text": "Article 6\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 29\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 83,
+          "text": "Article 24\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 28\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 90,
+          "text": "Article 31\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 5\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 22\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 8\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 89,
+          "text": "Article 30\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 10\nSufficiently clear",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 18\nSufficiently clear",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 15\nSufficiently clear",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 70,
+          "text": "Article 11\nSufficiently clear",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 21\nSufficiently clear",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 33\nSufficiently Clear",
+          "score": 0.3790106
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian source, Pasal 26 ayat (1) includes \"pembimbing rohani\" (spiritual counselors) as part of integrated assistance providers. However, this is not the same as explicit 'religious engagement' with religious institutions/leaders/faith-based organizations in prevention, outreach, or coordination; it can be read as providing spiritual/psychological support services to victims. The judge treated the mere inclusion of spiritual counselors as sufficient proof of stakeholder engagement with religious actors, which is an overly broad interpretation of the indicator. The retrieved passage accurately reflects the Indonesian text, so the error is in the judge’s reasoning rather than translation or retrieval.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "LAMPUNG_PESISIR_BARAT.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.334446+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}

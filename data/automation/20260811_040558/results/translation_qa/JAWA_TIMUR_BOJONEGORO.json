@@ -1,0 +1,309 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 39,
+  "chunks_corrected": 9,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal pagination marker included in the translated text: \"- 2 -\".",
+        "Minor meaning drift/terminology: \"In View of\" should be rendered as \"In view of\"/\"Bearing in mind\" for \"Mengingat\" (legal basis/considering laws)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kabupaten\" should be translated as \"Regency\"; the translation uses \"Bojonegoro Regency\" but the Indonesian specifies \"Kabupaten Bojonegoro\" (spacing in source is OCR noise) and should not be rendered as \"Bojonegoro Regency\" if keeping the official name consistent; also \"To Establish\" should match \"Menetapkan\" as \"Stipulates/Enacts\" in legal style."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 7: 'baik dengan tidak wajar atau tidak disukai' refers to the manner of sexual relations (unnatural or unwanted), not 'with another person' being unnatural/unwanted.",
+        "Meaning drift in item 10: 'ketika melihat, mendengar dan mengetahui akan, sedang atau telah terjadinya kekerasan' means when witnessing/hearing/knowing that violence will occur/is occurring/has occurred; current translation uses 'impending, ongoing or completed occurrence' awkwardly and shifts meaning.",
+        "Meaning drift in item 11: 'yang mengetahui atau mendengar akan atau telah terjadi' means who know or hear that violence will occur or has occurred; current translation omits the 'is occurring' element present in item 10 and uses 'impending or completed' phrasing that is less faithful.",
+        "Meaning drift in item 18: 'kemenakan' is 'nephews/nieces' (not 'nieces/nephews' is fine), but list should reflect Indonesian order; minor but adjust for fidelity."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward clause attachment: 'based on gender' should modify 'violence' (gender-based violence), and 'that occurs' should refer to the violence occurring in domestic and/or public spheres, not to 'best interests of the child'.",
+        "Minor legal meaning clarity: 'di rumah tangga dan atau publik' should be rendered as 'in the household and/or in public' (domestic and/or public sphere)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: 'confidential handling both from individuals...' misrepresents 'penanganan secara rahasia ... baik dari individu, kelompok atau lembaga' (confidential handling provided by/through individuals, groups, or institutions)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (a regulation issued by the Regent), not \"Regent Regulation\" without the article; better rendered as \"a Regent Regulation\"/\"Regulation of the Regent\" to match the Indonesian legal term.",
+        "Leftover non-legal text: page marker \"- 6 -\" included in the translated text. It is not part of the article content."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: \"and or\" should be rendered as \"and/or\" to match \"dan atau\" and avoid ambiguity."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in official rank/title: \"Pembina Utama Madya\" is mistranslated as \"Primary Principal Supervisor\" (should be rendered as a senior civil-service rank, commonly \"Senior Main Advisor\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Pembina Utama Madya' is a civil-service rank; it was mistranslated as 'Principal Senior Supervisor'. It should be rendered as 'Senior Main Advisor (Madya)' (or equivalent), not a supervisory title."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BOJONEGORO.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.598506+00:00",
+  "prompt_version": "v1"
+}

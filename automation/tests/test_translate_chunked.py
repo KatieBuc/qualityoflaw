@@ -32,12 +32,15 @@ def chunked_pipeline_config(tmp_path):
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
     diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
+    translation_qa_model = ModelProfile(name="test-translation-qa", deployment="gpt-5.2", temperature=0.1)
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
+        translation_qa_model=translation_qa_model,
         evaluation_model=eval_model,
         discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
+        translation_qa_template_path=AUTOMATION_ROOT / "prompts" / "translation_qa" / "v1" / "prompt_template.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
         discrepancy_diagnosis_template_path=(
@@ -184,10 +187,10 @@ def test_run_translation_step_chunked_always_writes_chunks_but_not_markdown(
     chunked_pipeline_config, data_root
 ):
     """chunks.json (mid_product/chunks/, needed by the RAG storage step) is
-    always written when chunking is enabled — no flag required. Markdown
-    rendering (results/cleaned_text/, results/translation_markdown/) is a
-    separate `markdown` step (see test_markdown_step.py) and is not written
-    here."""
+    always written when chunking is enabled — no flag required. Cleaned/
+    Markdown rendering (results/cleaned_text/, results/cleaned_markdown/,
+    results/translation_markdown/) is a separate `markdown` step (see
+    test_markdown_step.py) and is not written here."""
     run_id = "chunked_always_writes"
     input_dir = chunked_pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
@@ -212,6 +215,7 @@ def test_run_translation_step_chunked_always_writes_chunks_but_not_markdown(
     chunks_path = data_root / run_id / "mid_product" / "chunks" / "POLICY.chunks.json"
     assert chunks_path.exists()
     assert not (data_root / run_id / "results" / "cleaned_text").exists()
+    assert not (data_root / run_id / "results" / "cleaned_markdown").exists()
     assert not (data_root / run_id / "results" / "translation_markdown").exists()
 
     chunks_data = json.loads(chunks_path.read_text(encoding="utf-8"))

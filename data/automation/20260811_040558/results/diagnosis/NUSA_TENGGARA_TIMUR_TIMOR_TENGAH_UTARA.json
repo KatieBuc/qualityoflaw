@@ -1,0 +1,1281 @@
+{
+  "diagnoses": {
+    "1.1": {
+      "indicator": "Domestic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+      "evaluator_rationale": "The policy includes provisions on preventing violence against women and strengthening institutions providing protection services for women victims of violence, which encompasses domestic violence even if not named explicitly.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.5809227
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.54828656
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.46257016
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 34\n(1) Evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be conducted at the end of each fiscal year.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 33\n(1) The Regent conducts monitoring of the implementation of policies, programs, and activities for the protection of women.\n(2) The monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically on PD through the Agency.\n(4) The monitoring is conducted from planning up to the implementation of policies, programs and activities for the Protection of women for the current year.",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 33,
+          "text": "Paragraph 9\nSupervision",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER V\nFAMILY QUALITY\nPart One\nGeneral",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nSCOPE\nArticle 2\nThe scope of the implementation of Women's Empowerment includes:\na. quality of life of women;\nb. protection of women;\nc. quality of family; and\nd. gender data system.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 31,
+          "text": "Paragraph 8\nPUG Reporting",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NORTH CENTRAL TIMOR\nPROVINCE OF EAST NUSA TENGGARA\nREGIONAL REGULATION OF NORTH CENTRAL TIMOR REGENCY NUMBER 3 OF 2020",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 76,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) shall be implemented through:\n   a. facilitating the establishment of service provider institutions;\n   b. in a coordinated manner with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n      1. improving entrepreneurial capabilities for women; or\n      2. developing job training for women.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 31\n(1) The PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementation units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by a Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be carried out no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\n(1) Regional Government is responsible for formulating planning of policies, programs and activities for Gender-responsive development.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the Regional Apparatus that administers governmental affairs in the field of development planning, regional research and development.\n(3) Planning as referred to in paragraph (1) includes the stages of:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at regional level;\ne. formulation of RPJMD;\nf. formulation of Regional Apparatus Strategic Plan;\ng. formulation of Regional Apparatus Work Plan; and\nh. RKPD;\ni. formulation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 46,
+          "text": "Paragraph 4\nReporting and Evaluation",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 21,
+          "text": "Paragraph 5\nRegional Development Planning based on Gender",
+          "score": 0.3120345
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the Indonesian text, Chapter IV regulates “Perlindungan Perempuan” and includes “pencegahan kekerasan terhadap perempuan” (Pasal 30, Pasal 35) and strengthening service institutions for women victims of violence (Pasal 36). However, it never specifies “kekerasan dalam rumah tangga” (domestic violence) or frames violence as occurring in the household/intimate partner context. The judge inferred domestic violence is included simply because ‘violence against women’ is mentioned. That inference is too broad for an indicator specifically about domestic violence scope; the available passages only support general VAW prevention/protection, not DV explicitly.",
+      "diagnosis_status": "ok"
+    },
+    "3.3": {
+      "indicator": "Reporting/hotline service",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "d. providing counseling to immediately report to local authorities if Violence against women occurs;",
+      "evaluator_rationale": "The policy includes a mechanism encouraging immediate reporting of violence against women to local authorities, indicating a reporting/complaints pathway.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.57329625
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.49179763
+        },
+        {
+          "chunk_id": 31,
+          "text": "Paragraph 8\nPUG Reporting",
+          "score": 0.48789302
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 46,
+          "text": "Paragraph 4\nReporting and Evaluation",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 33,
+          "text": "Paragraph 9\nSupervision",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NORTH CENTRAL TIMOR\nPROVINCE OF EAST NUSA TENGGARA\nREGIONAL REGULATION OF NORTH CENTRAL TIMOR REGENCY NUMBER 3 OF 2020",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 9\n(1) The Head of the PD is obligated to establish the PD PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be made by a Decree of the Head of the PD.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) consists of:\na. the person in charge: the Head of the PD;\nb. the coordinator: an echelon III A official in charge of planning affairs at the PD;\nc. the Deputy Coordinator: an echelon IIIB official who has competence in PUG; and\nd. members: representatives of officials or staff from divisions and the secretariat at the PD.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 8\n(1) The Regional Secretary has the authority to establish a PUG Focal Point within the Regional Secretariat.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be stipulated by a Decree of the Regional Secretary.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) shall consist of:\n a. the person in charge: the Regional Secretary;\n b. the coordinator: an echelon IIB official responsible for governmental affairs in the field of law;\n c. the deputy coordinator: an echelon IIIA official from each division within the Regional Secretariat, except the echelon IIB official as referred to in letter b; and\n d. members: representatives of officials and/or staff from all divisions within the Regional Secretariat.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 20\n(1) Pokja PUG is responsible for preparing the PUG Implementation Report every 6 (six) months and the five-yearly RAD PUG Implementation Report.\n(2) The reporting framework as referred to in paragraph (1) shall be guided by the reporting framework as referred to in the laws and regulations concerning General Guidelines for PUG Implementation in the Regions.\n(3) The Pokja PUG report as referred to in paragraph (1) shall be reported to the Regent.\n(4) The Regent is responsible for examining and declaring approval of the Pokja PUG Report as referred to in paragraph (1).\n(5) The Regent is responsible for sending the pokja PUG report as referred to in paragraph (1) to the Minister who administers Home Affairs governmental matters.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 103,
+          "text": "Article 22\nSufficiently clear.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 105,
+          "text": "Article 24\nSufficiently clear.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 115,
+          "text": "Article 34\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 7\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 113,
+          "text": "Article 32\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 114,
+          "text": "Article 33\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 104,
+          "text": "Article 23\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 123,
+          "text": "Article 42\nSufficiently clear.",
+          "score": 0.31878197
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "Pasal 35(2)(d) in Indonesian says “memberikan penyuluhan untuk segera melaporkan kepada aparat setempat apabila terjadi Kekerasan terhadap perempuan” (counseling to report to local authorities if violence occurs). This is an encouragement to report, not the establishment of a reporting mechanism/hotline/complaints service (no hotline number, no dedicated reporting channel, no service unit described for intake). The judge treated ‘encouraging reporting’ as equivalent to a reporting/hotline service, which over-reads the text.",
+      "diagnosis_status": "ok"
+    },
+    "3.5": {
+      "indicator": "Legal assistance",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. facilitating access and legal consultation services.\nb. facilitating paralegal training on a regular basis.",
+      "evaluator_rationale": "The policy includes facilitating access and legal consultation services and supports service institutions through paralegal training, indicating provision of legal assistance-related services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 61,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\n  a. strengthening of Service Institutions; and\n  b. development of Service Institutions.\n(2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\n  a. improvement of competence of service institution members; and/or\n  b. facilitating paralegal training on a regular basis.\n(3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\n  a. providing additional facilities and infrastructure;\n  b. providing information technology-based service approaches; and/or\n  c. recruiting village cadres as assistant paralegals.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\n a. increasing awareness and knowledge in the field of law through communication, information and education services; and\n b. facilitating access and legal consultation services.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 8\n(1) The Regional Secretary has the authority to establish a PUG Focal Point within the Regional Secretariat.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be stipulated by a Decree of the Regional Secretary.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) shall consist of:\n a. the person in charge: the Regional Secretary;\n b. the coordinator: an echelon IIB official responsible for governmental affairs in the field of law;\n c. the deputy coordinator: an echelon IIIA official from each division within the Regional Secretariat, except the echelon IIB official as referred to in letter b; and\n d. members: representatives of officials and/or staff from all divisions within the Regional Secretariat.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 76,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.27637792
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.26405463
+        },
+        {
+          "chunk_id": 1,
+          "text": "CONCERNING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nBY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF NORTH CENTRAL TIMOR,\nConsidering : a. that every person has equal dignity and worth to live in society, nation and state and has the right to obtain protection of human rights and fundamental human freedoms without discrimination as an effort to realize gender equality and justice in national and regional development;\nb. that in order to realize gender equality and justice in development in North Central Timor Regency, there is a need to increase the effectiveness and optimization of the implementation of the women's empowerment sub-affairs as an inseparable part of the functional activities of government and non-government institutions in order to improve the position, role and quality of women in development in North Central Timor Regency;\nc. that to guarantee legal certainty and to fill the legal vacuum in order to realize gender equality and justice in development in North Central Timor Regency, there is a need for regulation in a Regional Regulation concerning the implementation of women's empowerment;\nd. that based on the considerations as referred to in letter a, letter b, and letter c, it is necessary to establish a Regional Regulation concerning the Implementation of Women's Empowerment;\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 69 of 1958 concerning the Establishment of Level II Regions within the Level I Regional Areas of Bali, West Nusa Tenggara and East Nusa Tenggara (State Gazette of the Republic of Indonesia of 1958 Number 122 Supplement to the State Gazette of the Republic of Indonesia Number 1655);\n3. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587); As has been amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58 Supplement to the State Gazette of the Republic of Indonesia Number 5679);\nWith Mutual Approval: THE REGIONAL HOUSE OF REPRESENTATIVES OF NORTH CENTRAL TIMOR REGENCY and",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.25504667
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.25208935
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.25208935
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.24624321
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 7\nThe duties of the PUG Working Group include:\na. promoting and facilitating dialogue among work units within the scope of regional government;\nb. developing work networks in accordance with the main duties, functions and authorities granted by leadership in efforts to realize gender equality and justice;\nc. assigning technical teams to carry out the preparation of the PUG RAD in order to realize gender equality and justice adjusted to the RPJMD periodization;\nd. elaborating and following up on policies and implementation programs to be gender responsive both implicitly and explicitly stated in the RPJMD;\ne. coordinating the establishment of PUG Focal Points in every PD or work unit;\nf. promoting PUG in every PD;\ng. conducting capacity strengthening for PUG Focal Points in preparing gender responsive budgets by the technical team;\nh. overseeing the preparation of gender responsive planning and budgets in respective PDs;\ni. incorporating gender indicators in the guidelines for preparing the APBD;\nj. ensuring gender responsive budgets become a consideration in the discussion and determination of the APBD together with the DPRD;\nk. holding coordination meetings every 6 (six) months to ensure the implementation of PUG in the Region;\nl. preparing and submitting reports on PUG implementation to the regent every 6 (six) months; and\nm. holding coordination meetings before the preparation of the RKPD.",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.2404891
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF NORTH CENTRAL TIMOR\nPROVINCE OF EAST NUSA TENGGARA\nREGIONAL REGULATION OF NORTH CENTRAL TIMOR REGENCY NUMBER 3 OF 2020",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 31\n(1) The PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementation units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by a Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be carried out no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nQuality of Life for Women includes:\na. institutionalization of gender mainstreaming;\nb. Women's Empowerment in the fields of politics, law, social and economic matters in community organizations; and\nc. strengthening and development of institutions providing women's empowerment services.",
+          "score": 0.22108151
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.22108151
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.21840255
+        },
+        {
+          "chunk_id": 35,
+          "text": "Third Part\nEmpowerment of Women in the Fields of Politics, Law, Social Culture and Economy in Community Organizations",
+          "score": 0.21840255
+        },
+        {
+          "chunk_id": 81,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Regulation as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Regulation and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.21574706
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the PD Strategic Plan, PD Work Plan and RKPD;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and\ng. preparing activity reports periodically and reporting them to the Regent through the chairperson of the PUG working group.",
+          "score": 0.21574706
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 20\n(1) Pokja PUG is responsible for preparing the PUG Implementation Report every 6 (six) months and the five-yearly RAD PUG Implementation Report.\n(2) The reporting framework as referred to in paragraph (1) shall be guided by the reporting framework as referred to in the laws and regulations concerning General Guidelines for PUG Implementation in the Regions.\n(3) The Pokja PUG report as referred to in paragraph (1) shall be reported to the Regent.\n(4) The Regent is responsible for examining and declaring approval of the Pokja PUG Report as referred to in paragraph (1).\n(5) The Regent is responsible for sending the pokja PUG report as referred to in paragraph (1) to the Minister who administers Home Affairs governmental matters.",
+          "score": 0.21574706
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The cited Indonesian provisions concern (i) women’s empowerment in the legal field via KIE and “fasilitasi akses dan layanan konsultasi hukum” (Pasal 26(2)(b)), and (ii) strengthening service institutions via “memfasilitasi pelatihan paralegal” (Pasal 36(2)(b)). These are legal awareness/consultation and capacity-building measures, not necessarily legal assistance for survivors (e.g., representation, legal aid for cases, accompaniment in court) as a specialised support service. The judge equated legal consultation and paralegal training with provision of legal assistance services, which is a lenient interpretation not supported explicitly by the text.",
+      "diagnosis_status": "ok"
+    },
+    "3.6": {
+      "indicator": "Health/medical services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(1) The Hospital Director has the authority to establish a Hospital PUG Focal Point.\n(1) The Head of the Community Health Center has the authority to establish the Puskesmas PUG Focal Point.",
+      "evaluator_rationale": "The policy references institutional arrangements within hospitals and community health centers (Puskesmas), indicating the existence of health-sector service units relevant to providing medical services.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 11\n(1) The Head of the Community Health Center has the authority to establish the Puskesmas PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be stipulated by a Decree of the Head of the Community Health Center.\n(3) The management of the Puskesmas PUG Focal Point consists of:\na. the person in charge: the Head of the Puskesmas;\nb. the coordinator: an echelon IV B official responsible for Puskesmas planning; and\nc. members consisting of Puskesmas staff.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\n  a. strengthening of Service Institutions; and\n  b. development of Service Institutions.\n(2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\n  a. improvement of competence of service institution members; and/or\n  b. facilitating paralegal training on a regular basis.\n(3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\n  a. providing additional facilities and infrastructure;\n  b. providing information technology-based service approaches; and/or\n  c. recruiting village cadres as assistant paralegals.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 76,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 10\n(1) The Hospital Director has the authority to establish a Hospital PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be determined by a decision of the Hospital Director.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) consists of:\na. the person in charge: the Hospital Director;\nb. the coordinator: an echelon IIIB official in charge of hospital planning;\nc. the vice coordinator: an echelon IVA official who has competence in PUG; and\nd. a member: a representative of officials or staff in the fields or sections within the hospital.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) shall be implemented through:\n   a. facilitating the establishment of service provider institutions;\n   b. in a coordinated manner with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n      1. improving entrepreneurial capabilities for women; or\n      2. developing job training for women.",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.32560632
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 31\n(1) The PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementation units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by a Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be carried out no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 37\nFamily Quality includes:\na. improvement of family quality in realizing gender equality; and\nb. strengthening and development of institutions providing family quality improvement services in realizing gender equality.",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER V\nFAMILY QUALITY\nPart One\nGeneral",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.292272
+        },
+        {
+          "chunk_id": 71,
+          "text": "Third Part\nData Processing",
+          "score": 0.292272
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 66,
+          "text": "Part Three\nStrengthening And Development Of Service Provider Institutions For Improving Family Quality In Realizing Gender Equality",
+          "score": 0.28585017
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\n a. increasing awareness and knowledge in the field of law through communication, information and education services; and\n b. facilitating access and legal consultation services.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\n(1) Regional Government is responsible for formulating planning of policies, programs and activities for Gender-responsive development.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the Regional Apparatus that administers governmental affairs in the field of development planning, regional research and development.\n(3) Planning as referred to in paragraph (1) includes the stages of:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at regional level;\ne. formulation of RPJMD;\nf. formulation of Regional Apparatus Strategic Plan;\ng. formulation of Regional Apparatus Work Plan; and\nh. RKPD;\ni. formulation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nQuality of Life for Women includes:\na. institutionalization of gender mainstreaming;\nb. Women's Empowerment in the fields of politics, law, social and economic matters in community organizations; and\nc. strengthening and development of institutions providing women's empowerment services.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 7\nSufficiently clear.",
+          "score": 0.26710218
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian text mentions hospitals and puskesmas only in the context of establishing PUG focal points (Pasal 10–11), i.e., gender mainstreaming structures inside health institutions, not medical services for violence survivors. While Pasal 27(2)(b) mentions addressing health problems through promotive/preventive/curative/rehabilitative efforts (especially reproductive health), it is framed as women’s empowerment in socio-cultural/health broadly, not specialised medical services for VAW survivors. The judge inferred that the existence of hospital/puskesmas focal points implies medical support services, which is not what those articles provide.",
+      "diagnosis_status": "ok"
+    },
+    "3.7": {
+      "indicator": "Psychosocial counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. as service institutions in prevention and counseling;",
+      "evaluator_rationale": "The policy establishes family learning centers that function as service institutions for prevention and counseling, which constitutes psychosocial/psychological counseling support.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.46257016
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 31,
+          "text": "Paragraph 8\nPUG Reporting",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.32560632
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 103,
+          "text": "Article 22\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 114,
+          "text": "Article 33\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 113,
+          "text": "Article 32\nSufficiently clear.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 117,
+          "text": "Article 36\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 116,
+          "text": "Article 35\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 104,
+          "text": "Article 23\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 123,
+          "text": "Article 42\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 118,
+          "text": "Article 37\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 115,
+          "text": "Article 34\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 107,
+          "text": "Article 26\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 108,
+          "text": "Article 27\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 105,
+          "text": "Article 24\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 7\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 98,
+          "text": "Article 17\nSufficiently clear.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 112,
+          "text": "Article 31\nSufficiently clear.",
+          "score": 0.3153985
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "Pasal 39(3)(a) states “pusat pembelajaran keluarga” functions as a service institution for “pencegahan dan konseling” (prevention and counseling), aimed at child/family issues and parenting education (Pasal 39(3)(b)-(e)). It does not specify psychosocial counseling for women victims of violence or trauma-focused services. The judge treated generic ‘counseling’ in a family learning center as psychosocial counseling for VAW survivors, which is not explicitly supported by the Indonesian text.",
+      "diagnosis_status": "ok"
+    },
+    "3.9": {
+      "indicator": "Resocialisation services",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. as a referral liaison point as a solution for child and family problems;\nc. strengthening family capacity in nurturing and protecting children;",
+      "evaluator_rationale": "Family learning centers are described as referral liaison points for solving child and family problems and strengthening family capacity, which aligns with rehabilitation/reintegration (resocialisation) support functions.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Regional Governments are obligated to allocate budget for the implementation of PUG in the Region.\n(2) The implementation budget as referred to in paragraph (1) is sourced from:\na. APBD; and\nb. assistance from other parties that is non-binding, insofar as it complies with the provisions of applicable laws and regulations.\n(3) The budget as referred to in paragraph (1) and paragraph (2), is used to finance the activities of Pokja PUG and Focal Point PUG PD in integrating Gender at the level of planning, formulation, implementation, monitoring and evaluation of policies and development in the Region.",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\n  a. strengthening of Service Institutions; and\n  b. development of Service Institutions.\n(2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\n  a. improvement of competence of service institution members; and/or\n  b. facilitating paralegal training on a regular basis.\n(3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\n  a. providing additional facilities and infrastructure;\n  b. providing information technology-based service approaches; and/or\n  c. recruiting village cadres as assistant paralegals.",
+          "score": 0.21574706
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.21574706
+        },
+        {
+          "chunk_id": 76,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.21311502
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) shall be implemented through:\n   a. facilitating the establishment of service provider institutions;\n   b. in a coordinated manner with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n      1. improving entrepreneurial capabilities for women; or\n      2. developing job training for women.",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 17,
+          "text": "Article 9\n(1) The Head of the PD is obligated to establish the PD PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be made by a Decree of the Head of the PD.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) consists of:\na. the person in charge: the Head of the PD;\nb. the coordinator: an echelon III A official in charge of planning affairs at the PD;\nc. the Deputy Coordinator: an echelon IIIB official who has competence in PUG; and\nd. members: representatives of officials or staff from divisions and the secretariat at the PD.",
+          "score": 0.2003073
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.1978161
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 10\n(1) The Hospital Director has the authority to establish a Hospital PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be determined by a decision of the Hospital Director.\n(3) The management of the PUG Focal Point as referred to in paragraph (1) consists of:\na. the person in charge: the Hospital Director;\nb. the coordinator: an echelon IIIB official in charge of hospital planning;\nc. the vice coordinator: an echelon IVA official who has competence in PUG; and\nd. a member: a representative of officials or staff in the fields or sections within the hospital.",
+          "score": 0.19534837
+        },
+        {
+          "chunk_id": 54,
+          "text": "Article 32\n(1) The preparation of RAD as referred to in Article 7 letter c is implemented through the following mechanism:\na. establishment of a drafting team;\nb. conducting meetings to form working groups based on indicators;\nc. each Working Group (Pokja) conducts identification of objectives, targets, and indicators;\nd. determining priority programs and activities related to the achievement of each target; and\ne. determining the budget allocation for each program/activity.\n(2) RAD shall contain at minimum:\na. introduction;\nb. policy direction and achievement strategy;\nc. monitoring and evaluation;\nd. closing; and\ne. an appendix containing the RAD implementation matrix.\n(3) The preparation of RAD is implemented with due regard to:\na. RPJMN;\nb. RPJMD; and\nc. other related documents.\n(4) Provisions regarding the implementation of RAD shall be further regulated by a Regent Regulation.",
+          "score": 0.19534837
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.19534837
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.19048297
+        },
+        {
+          "chunk_id": 19,
+          "text": "Article 11\n(1) The Head of the Community Health Center has the authority to establish the Puskesmas PUG Focal Point.\n(2) The establishment of the PUG Focal Point as referred to in paragraph (1) shall be stipulated by a Decree of the Head of the Community Health Center.\n(3) The management of the Puskesmas PUG Focal Point consists of:\na. the person in charge: the Head of the Puskesmas;\nb. the coordinator: an echelon IV B official responsible for Puskesmas planning; and\nc. members consisting of Puskesmas staff.",
+          "score": 0.18808526
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.1857108
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\n(1) The Regent has the authority to establish the PUG Working Group.\n(2) The establishment of the PUG Working Group as referred to in paragraph (1) shall be stipulated by a Regent’s Decree.\n(3) The Regent’s Decree as referred to in paragraph (2) shall be valid for 5 (five) years.\n(4) The management of the PUG Working Group consists of:\na. chairperson, headed by the head of the agency;\nb. secretariat, served by the head of the department (dinas);\nc. members comprising:\n1. heads of PD;\n2. a technical team consisting of:\na) officials who have attended training or education in gender-responsive budget analysis, a maximum of 5 (five) persons;\nb) representatives from higher education institutions, a maximum of 5 (five) persons;\nc) press representatives, a maximum of 5 (five) persons; and\nd) representatives from non-governmental organizations whose scope of orientation is in the field of gender, a maximum of 5 (five) persons.",
+          "score": 0.1857108
+        },
+        {
+          "chunk_id": 62,
+          "text": "CHAPTER V\nFAMILY QUALITY\nPart One\nGeneral",
+          "score": 0.1857108
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.18103144
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\n(1) Regional Government is responsible for formulating planning of policies, programs and activities for Gender-responsive development.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the Regional Apparatus that administers governmental affairs in the field of development planning, regional research and development.\n(3) Planning as referred to in paragraph (1) includes the stages of:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at regional level;\ne. formulation of RPJMD;\nf. formulation of Regional Apparatus Strategic Plan;\ng. formulation of Regional Apparatus Work Plan; and\nh. RKPD;\ni. formulation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.",
+          "score": 0.17872643
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.17872643
+        },
+        {
+          "chunk_id": 53,
+          "text": "Paragraph 2\nRegional Action Plan",
+          "score": 0.17872643
+        },
+        {
+          "chunk_id": 66,
+          "text": "Part Three\nStrengthening And Development Of Service Provider Institutions For Improving Family Quality In Realizing Gender Equality",
+          "score": 0.17644444
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The Indonesian Pasal 39 describes family learning centers as prevention/counseling services, referral liaison for child and family problems, strengthening family capacity, and parenting education. These are family/child welfare functions, not resocialisation/reintegration services for women survivors of violence (e.g., reintegration programs, shelter-to-community transition, rehabilitation for survivors). The judge mapped general referral/family-capacity language onto ‘resocialisation’ without textual basis.",
+      "diagnosis_status": "ok"
+    },
+    "3.10": {
+      "indicator": "Economic support",
+      "dimension": "specialised_support_services",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. provision of skills and job training;\nd. facilitation and capital assistance; and",
+      "evaluator_rationale": "The policy provides for women’s economic empowerment through skills/job training and capital assistance, which are forms of economic support that can promote economic security and independence.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 45,
+          "text": "Article 28\n(1) PD that administers governmental affairs in the field of cooperatives, small and medium enterprises and industry and trade is responsible for facilitating Women's Empowerment in the economic field.\n(2) The implementation of Women's Empowerment in the economic field is carried out through:\na. provision of skills and job training;\nb. facilitation of the formation of productive economic business groups;\nc. facilitation of strengthening and development of productive economic business groups;\nd. facilitation and capital assistance; and\ne. facilitation of marketing network development.",
+          "score": 0.5922893
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.5405358
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.5327655
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) shall be implemented through:\n   a. facilitating the establishment of service provider institutions;\n   b. in a coordinated manner with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n      1. improving entrepreneurial capabilities for women; or\n      2. developing job training for women.",
+          "score": 0.47813898
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.46257016
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nSCOPE\nArticle 2\nThe scope of the implementation of Women's Empowerment includes:\na. quality of life of women;\nb. protection of women;\nc. quality of family; and\nd. gender data system.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 23\n(1) The Agency is responsible for facilitating the planning of Women's Empowerment in the fields of politics, law, social culture and economy in community organizations.\n(2) The planning as referred to in paragraph (1) is carried out in an integrated manner in development planning deliberations based on gender analysis pathway instruments.",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 41,
+          "text": "Article 24\nThe implementation of Women's Empowerment in community organizations shall be carried out by the PD in accordance with the main duties and functions assigned in accordance with the regional financial capacity.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\n a. increasing awareness and knowledge in the field of law through communication, information and education services; and\n b. facilitating access and legal consultation services.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 25\n(1) PD that administers governmental affairs in the field of national unity and politics is responsible for facilitating the empowerment of women in the political field.\n(2) Empowerment as referred to in paragraph (1) includes: a. implementing education and training for women in order to increase competence especially in the political field; and\nb. encouraging the representation of women in every management of community organizations.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 81,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Regulation as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Regulation and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 34\n(1) Evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be conducted at the end of each fiscal year.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF NORTH CENTRAL TIMOR\nDECIDES:\nTo Establish : REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF WOMEN'S EMPOWERMENT.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 47,
+          "text": "Article 29\n(1) Every PD is responsible for making a report on the implementation of Women's Empowerment activities that have been carried out to the Regent through the Dinas.\n(2) The Dinas after receiving the report submitted by the PD conducts an evaluation of the implementation of activities.\n(3) The results of the evaluation of the implementation of activities as referred to in paragraph (2) are reported to the Regent.\n(4) The results of the evaluation as referred to in paragraph (3) are used for budgeting planning for the following year.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nQuality of Life for Women includes:\na. institutionalization of gender mainstreaming;\nb. Women's Empowerment in the fields of politics, law, social and economic matters in community organizations; and\nc. strengthening and development of institutions providing women's empowerment services.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 37,
+          "text": "Article 22\nEfforts for Women's Empowerment in the fields of politics, law, social culture and economy in community organizations include the stages of:\na. planning;\nb. implementation; and\nc. reporting and evaluation.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 5\n(1) The Regent has the authority to appoint the Head of PD who administers governmental affairs in the field of Women's Empowerment as the coordinator for the implementation of PUG.\n(2) The appointment as referred to in paragraph (1) shall be by Regent's Decree.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Regional Governments are obligated to allocate budget for the implementation of PUG in the Region.\n(2) The implementation budget as referred to in paragraph (1) is sourced from:\na. APBD; and\nb. assistance from other parties that is non-binding, insofar as it complies with the provisions of applicable laws and regulations.\n(3) The budget as referred to in paragraph (1) and paragraph (2), is used to finance the activities of Pokja PUG and Focal Point PUG PD in integrating Gender at the level of planning, formulation, implementation, monitoring and evaluation of policies and development in the Region.",
+          "score": 0.3465192
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "Pasal 28 clearly provides economic empowerment measures for women (skills/job training, business groups, capital assistance, marketing networks). But these are framed as “Pemberdayaan Perempuan di bidang ekonomi” within community organizations, not specialised economic support for women victims/survivors of violence (e.g., emergency cash, survivor-specific livelihood support tied to protection services). The judge interpreted general women’s economic empowerment as the specialised support-service indicator ‘economic support’ (in a VAW services sense), which is an over-broad reading of the Indonesian policy.",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy mentions counseling/socialization about violence against women and general legal awareness services, none of the provided sentences explicitly indicate education or information about specific VAW laws or policies.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.62209207
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.5074213
+        },
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\n a. increasing awareness and knowledge in the field of law through communication, information and education services; and\n b. facilitating access and legal consultation services.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 34\n(1) Evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be conducted at the end of each fiscal year.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IV\nPROTECTION OF WOMEN\nPart One\nGeneral",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.27637792
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 56,
+          "text": "Article 33\n(1) The Regent conducts monitoring of the implementation of policies, programs, and activities for the protection of women.\n(2) The monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs, and activities for the Protection of women in the Region.\n(3) The monitoring as referred to in paragraph (2) is conducted periodically on PD through the Agency.\n(4) The monitoring is conducted from planning up to the implementation of policies, programs and activities for the Protection of women for the current year.",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.2491548
+        },
+        {
+          "chunk_id": 15,
+          "text": "Paragraph 4\nFocal Point PUG",
+          "score": 0.2404891
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Regional Governments are obligated to allocate budget for the implementation of PUG in the Region.\n(2) The implementation budget as referred to in paragraph (1) is sourced from:\na. APBD; and\nb. assistance from other parties that is non-binding, insofar as it complies with the provisions of applicable laws and regulations.\n(3) The budget as referred to in paragraph (1) and paragraph (2), is used to finance the activities of Pokja PUG and Focal Point PUG PD in integrating Gender at the level of planning, formulation, implementation, monitoring and evaluation of policies and development in the Region.",
+          "score": 0.2376467
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\n(1) Regional Government is responsible for formulating planning of policies, programs and activities for Gender-responsive development.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the Regional Apparatus that administers governmental affairs in the field of development planning, regional research and development.\n(3) Planning as referred to in paragraph (1) includes the stages of:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at regional level;\ne. formulation of RPJMD;\nf. formulation of Regional Apparatus Strategic Plan;\ng. formulation of Regional Apparatus Work Plan; and\nh. RKPD;\ni. formulation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 10,
+          "text": "Paragraph 2\nCoordinator",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 31,
+          "text": "Paragraph 8\nPUG Reporting",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 39,
+          "text": "Article 23\n(1) The Agency is responsible for facilitating the planning of Women's Empowerment in the fields of politics, law, social culture and economy in community organizations.\n(2) The planning as referred to in paragraph (1) is carried out in an integrated manner in development planning deliberations based on gender analysis pathway instruments.",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 20,
+          "text": "Article 12\nThe duties of the PUG Focal Point include:\na. assisting policy makers of work units within the scope of duties, principal tasks and functions of their agencies to take planned steps fully when there are gender gaps;\nb. encouraging and assisting work units to evaluate and improve mandates, policies, programs, projects, activities and budgets to be more gender responsive;\nc. facilitating the implementation of gender sensitivity training, gender analysis training and developing gender work networks with agencies or institutions or organizations and other work units, both government and non-government;\nd. endeavoring to ensure the implementation of gender analysis as one of the stages in every development process starting from the planning, implementation, monitoring and evaluation stages;\ne. elaborating and following up on policies and programs for development implementation to be gender responsive as implied in the PD Strategic Plan, PD Work Plan and RKPD;\nf. participating in various activities organized by the PUG Working Group and/or the national PUG working group; and\ng. preparing activity reports periodically and reporting them to the Regent through the chairperson of the PUG working group.",
+          "score": 0.22108151
+        },
+        {
+          "chunk_id": 4,
+          "text": "Gender Analysis Pathway hereinafter abbreviated as GAP is a gender analysis tool that can be used to assist planners in mainstreaming gender in planning development policies/programs/activities with the aim of identifying gender gaps and gender issues as well as simultaneously preparing development policy/program/activity plans aimed at reducing or eliminating such gender gaps. 31. Technical Team is a Team formed by Pokja PUG with the task of conducting gender perspective budget analysis and preparing the PUG RAD.",
+          "score": 0.21574706
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.21311502
+        },
+        {
+          "chunk_id": 81,
+          "text": "REGARDING\nTHE IMPLEMENTATION OF WOMEN'S EMPOWERMENT\nI. GENERAL\nThe presence of Law Number 23 of 2014 concerning Regional Regulation as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Regulation and Law Number 33 of 2004 concerning Financial Balance Between the Central Government and Regional Governments constitutes an entry point for Women's Empowerment in regional development. Women's empowerment is an appropriate development strategy to realize gender equality and justice through gender-sensitive and gender-responsive development policies and programs in the future, particularly in North Central Timor Regency.\nIn North Central Timor Regency there are several conditions that need to be intervened through the establishment of a Regional Regulation on Women's Empowerment. This occurs because there is much discrimination against women in developing themselves and opportunities for the fulfillment of their rights. Women are only considered as second-class citizens. Their duty is to take care of the household and they do not need to work. This needs to be fought against, this stigma becomes a problem that must be resolved through empowerment programs.\nThe above paradigm is reflected in data on the presence of women working in Government, data shows that women are not in strategic positions to participate in making decisions or policies, especially in Government affairs, through data on Civil Servants based on gender available in the field.\nBased on this thinking, it is time for North Central Timor Regency to establish a Regional Regulation on Women's Empowerment in North Central Timor Regency. This Regional Regulation will regulate the implementation of gender mainstreaming clearly, firmly, in a balanced and comprehensive manner to realize gender equality and justice as well as simultaneously provide understanding about the importance of women's empowerment as a gender analysis strategy in planning, formulating, implementing, monitoring and evaluating development policies and programs.",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 35,
+          "text": "Third Part\nEmpowerment of Women in the Fields of Politics, Law, Social Culture and Economy in Community Organizations",
+          "score": 0.20792148
+        },
+        {
+          "chunk_id": 24,
+          "text": "Article 15\n(1) The Gender Analysis Pathway method as referred to in Article 13 paragraph (4) is used as a way to make planning in every PD.\n(2) The method as referred to in paragraph (1) includes: a. stage I analysis of gender responsive policies;\nb. stage II formulation of gender responsive policies; c. stage III gender responsive action plan;\nd. stage IV implementation of activities that have been prepared; and e. stage V monitoring and evaluation of every stage and step taken.",
+          "score": 0.20792148
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text includes primary-prevention actions: Pasal 35(2)(a) “penyuluhan dan sosialisasi mengenai hal yang berkenaan dengan kekerasan terhadap perempuan” and Pasal 35(2)(b) “sosialisasi terhadap hak-hak perempuan.” It also includes legal awareness via KIE in Pasal 26(2)(a) (“peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi informasi dan edukasi”). While it does not cite specific statute names, it does mandate socialization/education about violence against women and women’s rights, which reasonably fits ‘VAW laws/policies awareness’ in many coding schemes. Since the judge had these passages but still answered No due to requiring explicit mention of specific laws, the stricter interpretation seems to be the judge’s choice; however the golden label ‘Yes’ is defensible and likely correct given the explicit “sosialisasi” on VAW and rights.",
+      "diagnosis_status": "ok"
+    },
+    "5.4": {
+      "indicator": "Education institutions engagement",
+      "dimension": "stakeholder_engagement",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.\nb) representatives from higher education institutions, a maximum of 5 (five) persons;",
+      "evaluator_rationale": "The policy explicitly involves higher education institutions by allowing cooperation with them for gender analysis implementation and by including representatives from higher education institutions in the PUG Working Group technical team.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 49,
+          "text": "Article 30\nProtection of Women includes:\na. strengthening and development of institutions providing women's protection services;\nb. prevention of violence against women; and\nc. strengthening and development of institutions providing protection services for women victims of violence;",
+          "score": 0.58472174
+        },
+        {
+          "chunk_id": 59,
+          "text": "Article 35\n(1) The Agency is responsible for implementing efforts to prevent the occurrence of Violence against Women.\n(2) Prevention as referred to in paragraph (1) is implemented in the form of:\na. conducting counseling and socialization regarding matters related to violence against women;\nb. conducting socialization on women's rights;\nc. endeavoring to improve education for women;\nd. providing counseling to immediately report to local authorities if Violence against women occurs;\ne. empowering social community organizations and women's organizations to increase women's knowledge and insight; and\nf. establishing a network in the context of efforts to prevent violence against women.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 22,
+          "text": "Article 13\n(1) Regional Government is responsible for formulating planning of policies, programs and activities for Gender-responsive development.\n(2) The responsibility as referred to in paragraph (1) shall be coordinated by the Regional Apparatus that administers governmental affairs in the field of development planning, regional research and development.\n(3) Planning as referred to in paragraph (1) includes the stages of:\na. Musrenbangdus;\nb. Musrembangdes/kel;\nc. Musrembangcam;\nd. Musrenbang at regional level;\ne. formulation of RPJMD;\nf. formulation of Regional Apparatus Strategic Plan;\ng. formulation of Regional Apparatus Work Plan; and\nh. RKPD;\ni. formulation of RAPBD;\n(4) Planning as referred to in paragraph (1) shall be conducted through Gender analysis using the Gender Analysis Pathway method or other analytical methods.\n(5) Implementation of Gender analysis on RPJMD and Regional Apparatus Strategic Plan may cooperate with Higher Education institutions or other parties that have capability in their field.",
+          "score": 0.50156254
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 39\n(1) Facilitation of the establishment of service provider institutions as referred to in Article 36 paragraph (2) letter a is implemented by establishing family learning centers.\n(2) The stages of establishing family learning centers include:\n a. preparing regulations;\n b. preparing human resources;\n c. preparing facilities and infrastructure; and\n d. establishment of family learning centers.\n(3) Family learning centers function:\n a. as service institutions in prevention and counseling;\n b. as a referral liaison point as a solution for child and family problems;\n c. strengthening family capacity in nurturing and protecting children;\n d. as a place for family learning through education for parents; and\n e. as a one-stop holistic integrative family service based on children's rights.",
+          "score": 0.48398986
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 17\n(1) The Regent has the authority to conduct monitoring and evaluation of the implementation of PUG.\n(2) The Regent may delegate the implementation of monitoring and evaluation to the PUG Working Group.\n(3) Monitoring and evaluation shall be conducted at each PD and/or other institutions that implement PUG efforts.\n(4) Monitoring and evaluation shall be implemented at least once every 6 (six) months.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 26,
+          "text": "Article 16\n(1) Regional Governments are obligated to allocate budget for the implementation of PUG in the Region.\n(2) The implementation budget as referred to in paragraph (1) is sourced from:\na. APBD; and\nb. assistance from other parties that is non-binding, insofar as it complies with the provisions of applicable laws and regulations.\n(3) The budget as referred to in paragraph (1) and paragraph (2), is used to finance the activities of Pokja PUG and Focal Point PUG PD in integrating Gender at the level of planning, formulation, implementation, monitoring and evaluation of policies and development in the Region.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 4\nThe institutionalization of PUG includes:\na. appointment of PUG coordinator;\nb. PUG working group;\nc. PUG Focal Point;\nd. Budgeting;\ne. gender-based development planning;\nf. monitoring and evaluation;\ng. reporting; and\nh. supervision.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 61,
+          "text": "Article 36\n(1) The Agency may provide assistance to Service Institutions located in the region in the form of:\n  a. strengthening of Service Institutions; and\n  b. development of Service Institutions.\n(2) Strengthening of service institutions as referred to in paragraph (1) letter a shall be implemented through:\n  a. improvement of competence of service institution members; and/or\n  b. facilitating paralegal training on a regular basis.\n(3) Development of Service Institutions as referred to in paragraph (1) letter b shall be implemented through:\n  a. providing additional facilities and infrastructure;\n  b. providing information technology-based service approaches; and/or\n  c. recruiting village cadres as assistant paralegals.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 58,
+          "text": "Third Part\nPrevention of Violence Against Women",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 60,
+          "text": "Part Four\nStrengthening and Development of Institutions Providing Protection Services for Women Victims of Violence",
+          "score": 0.40131235
+        },
+        {
+          "chunk_id": 51,
+          "text": "Paragraph 1\nRegional Technical Implementation Unit for the Protection of Women and Children",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 34,
+          "text": "Article 21\n(1) The Regent is responsible for conducting supervision of the implementation of PUG.\n(2) The supervision as referred to in paragraph (1) shall be in the form of:\n   a. Gender responsive planning and budgeting conducted by the regional government budget team;\n   b. implementation of coordination between the PUG Working Group and Gender Focal Point; and\n   c. progress of RAD PUG achievement every year.\n(3) The responsibility as referred to in paragraph (1) can be technically and operationally implemented by the Chairperson of the PUG Working Group and the Head of the PUG Working Group Secretariat.\n(4) The implementation of the responsibility as referred to in paragraph (3) shall be reported to the Regent.",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 76,
+          "text": "CHAPTER VIII\nTRANSITIONAL PROVISIONS\nArticle 45\nAt the time this Regional Regulation comes into force, the existing institutions providing protection services for women shall continue to carry out their duties until the establishment of the regional technical implementing unit for the protection of women and children in accordance with the provisions of this Regional Regulation.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 52,
+          "text": "Article 31\n(1) The PD that administers governmental affairs in the field of institutions and organizations is responsible for facilitating the establishment of regional technical implementation units for the protection of women and children.\n(2) The establishment of UPTD P2TP2A as referred to in paragraph (1) shall be regulated by a Regent Regulation.\n(3) The establishment of UPTD P2TP2A as referred to in paragraph (2) shall be carried out no later than 2 (two) years after this Regional Regulation is enacted.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 6\n(1) The Regent has the authority to establish the PUG Working Group.\n(2) The establishment of the PUG Working Group as referred to in paragraph (1) shall be stipulated by a Regent’s Decree.\n(3) The Regent’s Decree as referred to in paragraph (2) shall be valid for 5 (five) years.\n(4) The management of the PUG Working Group consists of:\na. chairperson, headed by the head of the agency;\nb. secretariat, served by the head of the department (dinas);\nc. members comprising:\n1. heads of PD;\n2. a technical team consisting of:\na) officials who have attended training or education in gender-responsive budget analysis, a maximum of 5 (five) persons;\nb) representatives from higher education institutions, a maximum of 5 (five) persons;\nc) press representatives, a maximum of 5 (five) persons; and\nd) representatives from non-governmental organizations whose scope of orientation is in the field of gender, a maximum of 5 (five) persons.",
+          "score": 0.3790106
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 38\n(1) The Agency is responsible for facilitating family quality improvement activities in the Region.\n(2) Family quality improvement as referred to in paragraph (1) shall be implemented through:\n   a. facilitating the establishment of service provider institutions;\n   b. in a coordinated manner with Regional Apparatus and/or related institutions that have the main duties and functions to carry out activities:\n      1. improving entrepreneurial capabilities for women; or\n      2. developing job training for women.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 40,
+          "text": "Paragraph 3\nImplementation",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 7\nThe duties of the PUG Working Group include:\na. promoting and facilitating dialogue among work units within the scope of regional government;\nb. developing work networks in accordance with the main duties, functions and authorities granted by leadership in efforts to realize gender equality and justice;\nc. assigning technical teams to carry out the preparation of the PUG RAD in order to realize gender equality and justice adjusted to the RPJMD periodization;\nd. elaborating and following up on policies and implementation programs to be gender responsive both implicitly and explicitly stated in the RPJMD;\ne. coordinating the establishment of PUG Focal Points in every PD or work unit;\nf. promoting PUG in every PD;\ng. conducting capacity strengthening for PUG Focal Points in preparing gender responsive budgets by the technical team;\nh. overseeing the preparation of gender responsive planning and budgets in respective PDs;\ni. incorporating gender indicators in the guidelines for preparing the APBD;\nj. ensuring gender responsive budgets become a consideration in the discussion and determination of the APBD together with the DPRD;\nk. holding coordination meetings every 6 (six) months to ensure the implementation of PUG in the Region;\nl. preparing and submitting reports on PUG implementation to the regent every 6 (six) months; and\nm. holding coordination meetings before the preparation of the RKPD.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is the Regency of North Central Timor. 2. Regional Government is the Government of North Central Timor Regency. 3. Regent is the Regent of North Central Timor. 4. Regional House of Representatives hereinafter abbreviated as DPRD is the Regional House of Representatives of North Central Timor Regency. 5. Regional Secretary is the Regional Secretary of North Central Timor Regency. 6. Office is the Regional Apparatus that administers governmental affairs in the field of women's empowerment and Child Protection. 7. Head of Office is the Head of Regional Apparatus that administers governmental affairs in the field of women's empowerment. 8. Regional Apparatus hereinafter abbreviated as PD is the Regional Apparatus in North Central Timor Regency. 9. Head of Regional Apparatus is the Head of Regional Apparatus in North Central Timor Regency. 10. Agency is the Regional Apparatus that administers governmental affairs in the field of development planning and regional research. 11. Head of Agency is the Head of the Regional Apparatus that administers governmental affairs in the field of planning. 12. Women's Empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge, and skills so that women are ready to be utilized according to their respective capabilities. 13. Gender Mainstreaming, hereinafter abbreviated as PUG is a strategy built to integrate gender into an integral dimension of planning, implementation, monitoring and evaluation of regional development policies and programs. 14. Gender is a concept that refers to the roles and responsibilities of men and women that occur as a result of social construction and can change due to social and cultural circumstances of society. 15. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so they are able to play a role and participate in the development process. 16. Gender Justice is a process to be fair to men and women. 17. Gender Mainstreaming Working Group, hereinafter referred to as Pokja PUG is a consultation forum for implementers and drivers of gender mainstreaming from various agencies/institutions in the region. 18. Gender Mainstreaming Focal Point, hereinafter referred to as Focal Point PUG is a PD apparatus that has the ability to conduct gender mainstreaming in their respective work units. 19. Regional Medium-Term Development Plan, hereinafter abbreviated as RPJMD is the elaboration of the vision, mission and program of the Regent whose preparation is guided by the Regional Long-Term Development Plan, which contains regional development strategies, general regional policies, 3 regional programs and macroeconomic framework that includes an overview of the economy as a whole including the direction of fiscal policy in a work plan in the form of a regulatory framework and funding framework that is indicative. 20. Gender Analysis is a process built systematically to identify and understand the division of labor or roles of men and women, access and control over development resources, participation in development and the benefits they enjoy. 21. Gender Responsive Budget is a performance-based budget allocation for certain programs or activities whose input, output, and outcome indicators can guarantee the fulfillment of the aspirations and needs of women and men fairly. 22. Communication, Information and Education hereinafter abbreviated as KIE is the delivery of messages in the form of information, ideas or facts related to gender mainstreaming that need to be known by the community directly or indirectly through communication channels to message recipients to obtain effects, as a process of behavioral change towards gender responsiveness. 23. Village/Sub-district Development Planning Deliberation hereinafter referred to as Musrembangkel is an annual village/sub-district development planning deliberation forum that involves development actors in the Village/Sub-district. 24. Sub-district Development Planning Deliberation hereinafter referred to as Musrembangcam is a deliberation forum among development actors to discuss and agree on steps to handle priority program activities listed in the list of proposed village development planning activities that are integrated with development priorities of the North Central Timor Regency in the sub-district area coordinated by the Regional Development Planning Agency and implemented by the Sub-district Head. 25. Development planning deliberation for the preparation of the Regional Medium-Term Development Plan hereinafter referred to as Musrembang RPJMD is a deliberation forum among stakeholders to discuss, sharpen and agree on the draft Regional Medium-Term Development Plan. 26. Strategic Plan hereinafter referred to as Renstra is a five-year planning document that contains the vision, mission, objectives, strategies, policies, programs and development activities in accordance with the organizational tasks and functions as an elaboration of the RPJMD. 27. Work Plan hereinafter referred to as Renja is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Apparatus and pursued by encouraging community participation as an elaboration of the Renstra. 28. Regional Government Work Plan hereinafter abbreviated as RKPD is a one-year planning document that contains policies, programs, and development activities both planned directly by the Regional Government and pursued by encouraging community participation as an elaboration of the Renstra. 29. Regional Action Plan hereinafter abbreviated as RAD is an activity planning document prepared by a technical team to be implemented in a certain period/time. 30.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 43,
+          "text": "Article 26\n(1) PD that administers governmental affairs in the field of law is responsible for facilitating Women's Empowerment in the field of law.\n(2) The implementation of Women's Empowerment in the field of law includes:\n a. increasing awareness and knowledge in the field of law through communication, information and education services; and\n b. facilitating access and legal consultation services.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER II\nSCOPE\nArticle 2\nThe scope of the implementation of Women's Empowerment includes:\na. quality of life of women;\nb. protection of women;\nc. quality of family; and\nd. gender data system.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 27\n(1) PD that administers governmental affairs in the social sector is responsible for facilitating Women's Empowerment in the socio-cultural sector.\n(2) Women's Empowerment in the socio-cultural sector through: a. enhancement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. enhancement of awareness, willingness and ability to address health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. enhancement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and traditions and development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 50,
+          "text": "Second Part\nStrengthening And Development of Institutions Providing Women's Protection Services",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 34\n(1) Evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be conducted at the end of each fiscal year.\n(2) The results of the evaluation of the implementation of policies, programs, and activities for the Protection of Women shall be used as input material for the formulation of policies, programs, and activities for the Protection of Women for the following year.\n(3) The evaluation as referred to in paragraph (1) shall be implemented in accordance with the provisions of laws and regulations.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 36,
+          "text": "Paragraph 1\nGeneral",
+          "score": 0.34298956
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian policy explicitly engages higher education institutions: Pasal 6(4)(c)2(b) includes “perwakilan unsur perguruan tinggi” as part of the Pokja PUG technical team, and Pasal 13(5) allows cooperation with “lembaga Perguruan Tinggi” for gender analysis of RPJMD/Renstra. That is direct involvement of education (higher education) institutions in implementation/planning structures. Therefore the predicted Yes is supported by the original text; the golden label No appears incorrect.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "NUSA_TENGGARA_TIMUR_TIMOR_TENGAH_UTARA.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.382468+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 9,
+  "diagnosed_count": 9
+}

@@ -1,0 +1,553 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 63,
+  "chunks_corrected": 39,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover meta-commentary/preamble and request for more text; not legal text.",
+        "Meaning drift: translation does not translate the original text; it adds unrelated explanatory sentences."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Leftover page/issue markers included in the translated legal text (e.g., \"2021, No. 3 -73-\", \"-74-\", \"-75-\").",
+        "Meaning drift/omission: item 21 is missing the regulation number (original shows \"Nomor ... Tahun 2004\"; translation renders \"Number of 2004\" without the number).",
+        "Meaning drift: stray OCR word \"clan\" in the original (meaning \"and\") is not properly rendered; the closing line should read \"... and\" without extraneous text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal page markers included: \"2021, No.3 -76-\" and \"2021, No. 3 -77-\".",
+        "Scrambled/duplicated numbering and term: item 29 appears before item 26; \"Business Entity\" definition duplicated; original shows OCR error (\"Sadan Usaha\") but intended term is \"Badan Usaha\"; numbering should run 25–29 in order with a single Business Entity definition.",
+        "Meaning drift in item 28: translated as \"national development program policies\" but original refers to \"development program policies\" (not explicitly national)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in the middle of the provision: \"2021, No. 3 -78-\" should not appear in the translated policy text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "List marker error: item after k uses numeral \"1.\" instead of letter \"l.\" (ell), disrupting the alphabetical structure"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in the middle of the article: \"2021, No. 3 -79-\" should be removed (gazette/page marker, not part of the provision)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal header/footer text included: \"2021, No. 3 -80-\"",
+        "Scrambled/incorrect list formatting: item g in paragraph (2) is not properly formatted as a list item (should follow f as \"g.\")"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pemerhati anak\" translated as \"child advocates\"; more accurate is \"child observers/child welfare observers/child protection observers\" (people concerned with child welfare), not necessarily advocates."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in item b: missing object after \"cultural\" (should be \"cultural fields\"), and \"develop themselves\" should reflect \"develop themselves\"/\"self-development\" but needs clearer legal equivalence.",
+        "Minor meaning drift in chapeau: \"in efforts\" should be \"in the effort\" (singular) to match \"dalam upaya\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item (1) letter c: \"prevent marriage at child age\" should reflect preventing marriage at a child's age (child marriage).",
+        "Meaning drift in paragraph (2): \"may transfer\" should be \"may be transferred\" (obligations/responsibilities shift to the family)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural preposition: \"suffering to a person\" should be \"suffering in a person\" or \"for a person\" to match \"pada seseorang\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Leftover non-policy text in item (e): \"2021, No. 3 -83-\" appears to be a page/gazette marker and not part of the legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: internal cross-reference is incorrect; original refers to 'as referred to in Article 16' but context indicates it should refer to Article 15 (self-referential in Indonesian source)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in heading: original reads \"PELAYANAN KOREAN TINDAKAN KEKERASAN\" (as written), but translation renders it as \"SERVICE FOR VICTIMS OF VIOLENCE\" and omits the words corresponding to \"KOREAN TINDAKAN\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 18(2): 'advocacy for the strengthening and recovery of victims' should reflect 'advocacy for strengthening and self-recovery of the victim' (pemulihan diri korban)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pengarah\" translated as \"Supervisor\"; should be \"Director/Steering\" (Pengarah) rather than supervisory role.",
+        "Minor meaning drift/terminology: \"Direktur Rumah Sakit Umum\" rendered as \"Director of General Hospital\"; more accurate is \"Director of the General Hospital\" (Rumah Sakit Umum)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Leftover non-policy text inserted into the middle of Article 20(4): \"2021, No. 3 -85-\"",
+        "Minor meaning drift in Article 20(6): \"constitute development objectives\" should reflect \"which is the objective of development\" (gender equality as the development objective)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: Article 22 paragraphs (1), (2), and (3) are run together; paragraph breaks and numbering should be separated as in the original.",
+        "Minor meaning/term issue: 'penginputan' should be rendered as 'data entry' (not 'input') in a legal/administrative context. Also fix 'monitoring' typo alignment (original 'pemantuan' intended 'pemantauan' = monitoring) already OK but keep consistent formatting."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering: last item marker rendered as \"1.\" instead of letter \"l.\" (ell), breaking the a–l sequence.",
+        "Meaning drift risk from incorrect list marker: could be read as a new numbered list rather than continuation of lettered duties."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text included: \"2021, No. 3 -87-\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/capitalization: \"Information system\" should be \"information system\" (sistem informasi), not a proper noun; adjust phrasing to reflect \"sistem Informasi data perempuan dan anak\" as \"women and children data information system\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in para (2): \"gender and children data, information\" should reflect \"data, informasi gender dan anak\" (gender and child-related data and information)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in the translation: \"2021, No. 3 -88-\" should not appear in the translated policy text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": true,
+      "issues": [
+        "Scrambled/unclear numbering structure: paragraph markers (1), (2), (3) run together without clear separation, risking mis-association in downstream processing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text included: \"2021, No. 3 -89-\"",
+        "List marker mismatch: last item is \"1.\" in the original but rendered as \"i.\" in the translation"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: missing line breaks between paragraphs and list items (e.g., (1) runs into (2); item f runs into (3)).",
+        "Meaning drift: paragraph (4) incorrectly refers to paragraph (2); in the original it refers to paragraph (1)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text included: \"2021, No. 3 -90-\"",
+        "List structure/formatting issue: items b and c are merged on one line; should be separate lettered items"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (2): original refers to 'Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A)' (Women's Empowerment and Children), but translation renders it as 'Women's Empowerment and Child Protection'.",
+        "Meaning drift in paragraph (3): 'Peraturan Wali Kota' is 'Mayor Regulation' (or 'Mayor's Regulation'); translation omits the possessive/article consistency and should reflect the formal instrument as 'a Mayor Regulation'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text in the middle of item d: \"2021, No. 3 -91-\" (page/footer artifact)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kata Layak Anak\" was translated as \"Child-Friendly Cities\"; it should be \"Child-Friendly District/Regency (Kabupaten Layak Anak)\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/term inconsistency: \"Kota Layak Anak\" is mistranslated as \"Child-Friendly City\"; it should be \"Child-Friendly City (Kota Layak Anak)\" consistently, and \"Wali Kota\" should be \"Mayor\" (not \"Wali Kata\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Wali Kota' should be translated as 'Mayor Regulation' or 'Mayor's Regulation' (a regulation issued by the Mayor), not 'Mayor Regulation' as a generic term; add definite article for legal clarity"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Leftover non-text artifact in item (4)(b): \"2021, No. 3 -93-\" is an inserted document/page marker, not part of the legal provision",
+        "Minor meaning drift in (4)(d): \"provision of evidence\" should be \"provision of physical evidence\" (barang bukti)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/inconsistency in institutional name: original lists UPT P2TP2A (a) and UPT P3TP2A (b); translation should reflect the original exactly (likely OCR inconsistency) and not silently change/standardize.",
+        "Minor meaning drift: \"jejaring penangan korban\" should be rendered as \"network for handling victims\" (plural) rather than \"victim handling networks\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": true,
+      "issues": [
+        "Leftover non-policy text in translation: \"2021, No. 3 -94-\" is an extraneous gazette/page marker from the source and should be removed.",
+        "Scrambled/merged structure: paragraph (3) item b runs into paragraph (4) without a break; paragraph (4) should start as a separate paragraph."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural legal phrasing: \"shall be threatened with\" should be rendered as \"shall be subject to\" (diancam dengan hukuman pidana).",
+        "Meaning drift: \"Laws and Regulations\" should be \"prevailing laws and regulations\" / \"statutory regulations\" (Peraturan Perundang-undangan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Ttd.\" is an abbreviation for \"signed\" and should be retained as such (not expanded to \"Signed.\") to match the original text exactly."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"LETNAN\" should be rendered as \"SUPPLEMENT\" (appendix) rather than \"SUPPLEMENT\" in a generic sense; standard legal heading is \"SUPPLEMENT\" but should reflect the Indonesian term used.",
+        "Meaning drift: \"PROVINS!  SUMATERA UTARA\" contains OCR error \"!\"; translation should reflect \"PROVINCE OF NORTH SUMATRA\" without implying different meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"KEP\" (abbrev. for Kepala/Head) was expanded as \"HEAD OF LEGAL SECTION\"; the source only states \"KEP GIAN HUKUM\" (Head of Legal Affairs/Legal Division), not \"section\".",
+        "Meaning drift: \"GIAN\" appears to be part of the office/unit name and was omitted/altered in translation."
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_UTARA_PADANGSIDIMPUAN_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.926044+00:00",
+  "prompt_version": "v1"
+}

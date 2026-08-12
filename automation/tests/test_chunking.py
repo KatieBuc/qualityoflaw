@@ -107,6 +107,89 @@ def test_clean_text_list_start_forces_flush():
     ]
 
 
+def test_clean_text_splits_heading_concatenated_onto_prior_line():
+    # BENGKULU_KEPAHIANG.txt line 182: an all-caps chapter title merged onto
+    # the same raw line as the next heading, no punctuation between them.
+    raw = "PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN Bagian Kesatu\nPencegahan"
+    cleaned = clean_text(raw)
+    assert [c.text for c in cleaned] == [
+        "PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAN",
+        "Bagian Kesatu",
+        "Pencegahan",
+    ]
+    assert [c.is_structure for c in cleaned] == [True, True, False]
+
+
+def test_clean_text_splits_heading_at_end_of_sentence():
+    # BENGKULU_KEPAHIANG.txt line 447: body text ending in "." immediately
+    # followed by the next Pasal heading on the same raw line.
+    raw = (
+        "Yang dimaksud dengan pemberdayaan adalah penguatan korban kekerasan "
+        "untuk dapat berusaha dan bekerja sendiri setelah mereka dipulihkan "
+        "dan diberikan layanan pemulihan kesehatan dan sosial. Pasal 5"
+    )
+    cleaned = clean_text(raw)
+    assert cleaned[-1].text == "Pasal 5"
+    assert cleaned[-1].is_structure is True
+    assert "Pasal 5" not in cleaned[0].text
+
+
+def test_clean_text_does_not_split_in_text_cross_reference():
+    # A "Pasal N" mention followed by more prose on the same line is a
+    # cross-reference, not a heading, and must stay joined.
+    raw = "Kekerasan psikis sebagaimana dimaksud dalam Pasal 7 huruf (b) disebabkan karena perbuatan."
+    cleaned = clean_text(raw)
+    assert len(cleaned) == 1
+    assert cleaned[0].is_structure is False
+    assert cleaned[0].text == raw
+
+
+def test_clean_text_does_not_split_wrapped_cross_reference_ending_line():
+    # Even when a cross-reference happens to end a wrapped OCR line, the
+    # trigger-word guard should keep it from being misread as a heading.
+    raw = "Ketentuan ini berlaku sebagaimana dimaksud dalam Pasal 7\nhuruf (b) di atas."
+    cleaned = clean_text(raw)
+    assert len(cleaned) == 1
+    assert cleaned[0].is_structure is False
+    assert cleaned[0].text == "Ketentuan ini berlaku sebagaimana dimaksud dalam Pasal 7 huruf (b) di atas."
+
+
+def test_clean_text_merges_bare_list_marker_with_next_line():
+    # JAMBI_BUNGO.txt lines 141-142: "a." alone on one line, its content on
+    # the next -- must not orphan "a." as its own paragraph.
+    raw = "asas:\na.\nkemanusiaan;\nb. keadilan dan kesetaraan gender;"
+    cleaned = clean_text(raw)
+    assert [c.text for c in cleaned] == [
+        "asas:",
+        "a. kemanusiaan;",
+        "b. keadilan dan kesetaraan gender;",
+    ]
+
+
+def test_clean_text_holds_consecutive_bare_markers_until_content():
+    # DKI_JAKARTA.txt lines 150-152: two bare markers in a row before any
+    # content arrives -- both must stay attached to the eventual content
+    # instead of being scattered as separate orphan paragraphs.
+    raw = "i.\nj.\nhak atas pendampingan."
+    cleaned = clean_text(raw)
+    assert [c.text for c in cleaned] == ["i. j. hak atas pendampingan."]
+
+
+def test_clean_text_uppercase_bare_marker_is_not_a_heading():
+    # JAWA_BARAT_BEKASI.txt line 274: "C." (OCR noise for "c.") must be
+    # treated as a bare list marker, not misclassified as a heading.
+    raw = "a.\nb.\nC.\nd.\nmenstruasi;"
+    cleaned = clean_text(raw)
+    assert len(cleaned) == 1
+    assert cleaned[0].is_structure is False
+    assert cleaned[0].text == "a. b. C. d. menstruasi;"
+
+
+def test_is_structure_marker_rejects_single_letter():
+    assert not is_structure_marker("C.")
+    assert not is_structure_marker("a.")
+
+
 def test_split_into_sections_groups_by_marker():
     raw = (
         "BAB I\nKETENTUAN UMUM\nPasal 1\nIsi pasal satu.\n"

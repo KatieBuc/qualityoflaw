@@ -1,0 +1,199 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 25,
+  "chunks_corrected": 5,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Omission: the Indonesian text ends with \"Dengan Persetujuan Bersama ... dan\" (and) indicating continuation; the English adds a period after item 5 and does not preserve the trailing conjunction/continuation formatting.",
+        "Minor meaning drift/accuracy: \"sebagaimana telah diubah beberapa kali terakhir\" is better rendered as \"as amended several times, most recently\" (current translation is acceptable) but the main issue is preserving the continuation after item 5 without closing punctuation. Also \"In View of\" is a less standard rendering of \"Mengingat\" in legal Indonesian; should be \"In view of\"/\"Having regard to\"—kept but standardized capitalization."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'perempuan' translated as 'women' in definition 5; should be 'female' (covers infants through elderly, not only adult women)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (6): 'Ketentuan mengenai menetapkan ... ditetapkan dengan Keputusan Bupati' refers to provisions on setting policies/programs/activities being stipulated by a Regent's Decree; current translation is awkward/ambiguous ('Provisions regarding the establishment ...') and should reflect 'provisions regarding setting ...'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2) letter c: original refers to 'conflict- and disaster-prone areas' (areas), not 'women in ... areas'.",
+        "Meaning drift in item (2) letter j: original refers to 'other vulnerable victims' (korban rentan lainnya), not 'other vulnerable victims' in a way that could imply only victims; should be 'other vulnerable victims' but aligned to 'women who are other vulnerable victims' / 'other vulnerable victims' as category of women; clarify as 'other vulnerable victims' is acceptable but better as 'other vulnerable victims' -> 'other vulnerable victims' is same; however original is 'other vulnerable victims' category; adjust to 'other vulnerable victims' as women category."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/duplication in paragraph (3): Indonesian text refers to monitoring of Regional Apparatus that implement the policies/programs/activities; the English repeats the clause \"implement policies, programs and activities\" redundantly, reflecting an OCR duplication and making the sentence awkward/unclear."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_KARAWANG.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.480227+00:00",
+  "prompt_version": "v1"
+}

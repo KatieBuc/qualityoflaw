@@ -1,0 +1,159 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 19,
+  "chunks_corrected": 6,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Omission/incomplete clause: the final line ends with \"and\" and does not translate the full phrase \"Dengan Persetujuan Bersama ... dan\" (missing the continuation after \"dan\" from the source excerpt)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"anak korban\" refers to \"children who are victims\" (plural), not \"child victims\" (could imply victims who are children but is less precise); align with original phrasing.",
+        "Minor meaning/format: \"Menetapkan\" is a formal enactment; \"To Establish\" is acceptable but better rendered as \"Stipulates/Enacts\" in this legal context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in item 15: missing/garbled clause about parties who know/hear that violence against women has occurred (\"who know or hear or violence against women has occurred\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Bupati' should be translated as 'Regent Regulation' (a regulation issued by the Regent), not 'Regent Regulation' phrasing is acceptable but should be 'a Regent Regulation' to reflect 'dengan Peraturan Bupati' (by/through a Regent Regulation)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Peraturan Bupati' should be translated as 'Regent Regulation'/'Regent's Regulation', not 'Regent Regulation' without article is acceptable but better as 'a Regent Regulation'; also paragraph (2) is a sentence fragment and misses the operative verb 'carries out/handles' implied by 'PPT ... dalam penanganan ...'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar in paragraph (2): original states 'treatment and recovery of physical injuries' (pemulihan luka-luka fisik), but translation reads 'recovery from physical injuries' and is missing the 'and' structure; needs to reflect 'treatment and recovery of physical injuries'.",
+        "Meaning drift in paragraph (6): 'layanan untuk keterampilan' should be rendered as skills training/development services; current 'services for skills' is unclear/unnatural and may misstate meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_BANGKA_BARAT_v2.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.727556+00:00",
+  "prompt_version": "v1"
+}

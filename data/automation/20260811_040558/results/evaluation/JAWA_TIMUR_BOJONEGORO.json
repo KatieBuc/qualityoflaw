@@ -1,0 +1,469 @@
+{
+  "policy_file": "JAWA_TIMUR_BOJONEGORO.txt",
+  "model": "gpt-5.2",
+  "evaluated_at": "2026-08-11T12:03:09.839742+00:00",
+  "prompt_version": "v3",
+  "completed_dimensions": [
+    "01_scope_of_violence.txt",
+    "02_institutional_mechanism.txt",
+    "03_specialised_support_services.txt",
+    "04_primary_prevention.txt",
+    "05_stakeholder_engagement.txt",
+    "06_intersectional_approach.txt",
+    "07_budget_funding_sources.txt"
+  ],
+  "failed_dimensions": [],
+  "errors": [],
+  "evaluation_results": {
+    "1.1": {
+      "id": "1.1",
+      "indicator": "Domestic violence",
+      "included": "Yes",
+      "evidence": "The purpose of services and protection for women and children victims of violence is to provide services and protection for women and children victims of gender-based violence, based on the best interests of the child, occurring in the household and/or in public.",
+      "rationale": "The policy states that services and protection cover gender-based violence occurring in the household, which encompasses domestic violence.",
+      "evidence_verified": true
+    },
+    "1.2": {
+      "id": "1.2",
+      "indicator": "Sexual violence",
+      "included": "Yes",
+      "evidence": "7. Sexual violence is any act in the form of sexual harassment, forced sexual relations, whether in an unnatural manner or unwanted, with another person for commercial purposes and/or certain purposes.",
+      "rationale": "The policy explicitly defines and includes sexual violence as a form of violence addressed by the regulation.",
+      "evidence_verified": true
+    },
+    "1.3": {
+      "id": "1.3",
+      "indicator": "Physical violence",
+      "included": "Yes",
+      "evidence": "5. Physical violence is any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.",
+      "rationale": "The policy explicitly defines physical violence, indicating it is included within the scope of violence addressed.",
+      "evidence_verified": true
+    },
+    "1.4": {
+      "id": "1.4",
+      "indicator": "Psychological violence",
+      "included": "Yes",
+      "evidence": "6. Psychological violence is an act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.",
+      "rationale": "The policy explicitly defines psychological violence, indicating it is included within the scope of violence addressed.",
+      "evidence_verified": true
+    },
+    "1.5": {
+      "id": "1.5",
+      "indicator": "Economic violence",
+      "included": "Yes",
+      "evidence": "8. Economic violence is the neglect of family members in the form of not providing a proper standard of living, care and maintenance.",
+      "rationale": "The policy explicitly defines economic violence as neglect of family members through failure to provide a proper standard of living, care, and maintenance.",
+      "evidence_verified": true
+    },
+    "1.6": {
+      "id": "1.6",
+      "indicator": "Harmful practices",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences mention harmful practices such as early/child marriage, female genital mutilation, honour crimes, or female infanticide.",
+      "evidence_verified": null
+    },
+    "1.7": {
+      "id": "1.7",
+      "indicator": "Femicide/feminicide",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not explicitly mention femicide/feminicide, nor do they frame killings of women as a distinct category; they only define violence generally (including acts that may cause death) without specifying femicide.",
+      "evidence_verified": null
+    },
+    "1.8": {
+      "id": "1.8",
+      "indicator": "Human trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The provided sentences do not mention human trafficking or trafficking in persons; references to a national action plan on trafficking appear only in a legal basis list and do not indicate the policy itself includes trafficking as a covered form of violence.",
+      "evidence_verified": null
+    },
+    "1.9": {
+      "id": "1.9",
+      "indicator": "Sexual slavery/exploitation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While sexual violence is defined, the provided sentences do not explicitly include sexual exploitation or sexual slavery as distinct issues addressed by the policy.",
+      "evidence_verified": null
+    },
+    "1.10": {
+      "id": "1.10",
+      "indicator": "Technology-facilitated violence",
+      "included": "No",
+      "evidence": null,
+      "rationale": "None of the provided sentences reference cyber/online/digital forms of violence, harassment, bullying, pornography, or other technology-facilitated abuse.",
+      "evidence_verified": null
+    },
+    "2.1": {
+      "id": "2.1",
+      "indicator": "Institutional network",
+      "included": "Yes",
+      "evidence": "(1) The Regent establishes a public service work unit that functions as a facilitator for the Women and Children Service Center (P3A).\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;",
+      "rationale": "The policy establishes an institutional arrangement for implementation by creating a public service work unit to facilitate the Women and Children Service Center (P3A), and it also mandates establishing/facilitating integrated service institutions involving community elements—together constituting an institutional coordination mechanism/network for services and protection.",
+      "evidence_verified": true
+    },
+    "2.2": {
+      "id": "2.2",
+      "indicator": "Collaboration with NGOs",
+      "included": "Yes",
+      "evidence": "(2) P3A (Women and Children Service Center) as referred to in paragraph (1) in handling services and protection for women and children victims of violence may establish partnerships with social community institutions engaged in the field of services and protection for women and children.\nAssistance is carried out by persons or institutions that have expertise to conduct counseling, therapy and advocacy for the empowerment and recovery of victims of violence and have cooperated with P3A (Women and Children Service Center).",
+      "rationale": "The policy explicitly allows/encourages cooperation with non-government actors by permitting P3A to form partnerships with social community institutions and by specifying that assistance can be delivered by persons or institutions that have cooperated with P3A.",
+      "evidence_verified": true
+    },
+    "2.3": {
+      "id": "2.3",
+      "indicator": "Data collection systems",
+      "included": "Yes",
+      "evidence": "a. collecting data and information about women and children victims of violence in accordance with Laws and Regulations;",
+      "rationale": "The policy assigns responsibility to the Bojonegoro Regency Government to collect data and information about women and children victims of violence, which constitutes a required data collection function.",
+      "evidence_verified": true
+    },
+    "2.4": {
+      "id": "2.4",
+      "indicator": "Gender mainstreaming institutionalisation",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references principles such as justice and gender equality, the provided sentences do not establish or require gender mainstreaming as an institutional mechanism (e.g., gender mainstreaming procedures, units, or mandatory integration across programs).",
+      "evidence_verified": null
+    },
+    "2.5": {
+      "id": "2.5",
+      "indicator": "Training and capacity building",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences describe service provision, partnerships, and general prevention activities (education/socialization), but they do not require or provide training/technical guidance/capacity building for officials, implementers, or service providers responsible for implementing the policy.",
+      "evidence_verified": null
+    },
+    "2.6": {
+      "id": "2.6",
+      "indicator": "Monitoring and evaluation",
+      "included": "Yes",
+      "evidence": "d. conducting monitoring and evaluation of the implementation of services and protection for women and children victims of violence.",
+      "rationale": "The policy explicitly includes monitoring and evaluation as part of the government’s obligations for implementing services and protection for women and children victims of violence.",
+      "evidence_verified": true
+    },
+    "3.1": {
+      "id": "3.1",
+      "indicator": "Integrated service unit",
+      "included": "Yes",
+      "evidence": "(1) The Regent establishes a public service work unit that functions as a facilitator for the Women and Children Service Center (P3A).\na. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;\n14. Women and Children Service Center, hereinafter abbreviated as P3A, is an institution providing services to victims of violence in the form of medical services (including medico-legal), psycho-social and legal services.",
+      "rationale": "The policy establishes and facilitates an institutional service center (P3A) for women and children victims of violence and explicitly refers to establishing integrated service institutions for victims, indicating an integrated service unit exists.",
+      "evidence_verified": true
+    },
+    "3.2": {
+      "id": "3.2",
+      "indicator": "Police specialised service unit",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy mentions the police as one of the actors involved in protection, it does not specify or establish a specialised service unit for VAW within police offices.",
+      "evidence_verified": null
+    },
+    "3.3": {
+      "id": "3.3",
+      "indicator": "Reporting/hotline service",
+      "included": "Yes",
+      "evidence": "- Obtaining information about the existence of complaint centers, P3A and matters related to the fulfillment of their rights and being involved in every decision-making process related to assistance and developments in case handling.",
+      "rationale": "The policy references victims obtaining information about the existence of complaint centers, indicating a mechanism/service for receiving complaints or reports.",
+      "evidence_verified": true
+    },
+    "3.4": {
+      "id": "3.4",
+      "indicator": "Safety/protection shelter",
+      "included": "Yes",
+      "evidence": "c. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation and to provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\n15. Safe house is a temporary residence used to provide protection to victims in accordance with determined operational standards.",
+      "rationale": "The policy includes provision of safe houses as part of psychosocial services and defines a safe house as a temporary residence used to provide protection to victims, indicating shelter services are available.",
+      "evidence_verified": true
+    },
+    "3.5": {
+      "id": "3.5",
+      "indicator": "Legal assistance",
+      "included": "Yes",
+      "evidence": "d. legal services to assist victims in undergoing the judicial process;",
+      "rationale": "The policy explicitly includes legal services to assist victims in undergoing the judicial process as part of services organized by P3A.",
+      "evidence_verified": true
+    },
+    "3.6": {
+      "id": "3.6",
+      "indicator": "Health/medical services",
+      "included": "Yes",
+      "evidence": "a. medical services in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics;",
+      "rationale": "The policy explicitly includes medical services (treatment and recovery of physical injuries) as a form of services organized by P3A.",
+      "evidence_verified": true
+    },
+    "3.7": {
+      "id": "3.7",
+      "indicator": "Psychosocial counselling",
+      "included": "Yes",
+      "evidence": "c. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation and to provide social support so that victims have self-confidence, strength, and independence in resolving their problems;\nIn the event of violence, every victim has the right to receive assistance both medically, psychologically and legally, as well as to obtain guarantees of their rights related to their status as a wife, mother, child, family member or as a member of society.",
+      "rationale": "The policy explicitly provides psychosocial services to restore victims’ traumatic condition and also states victims have the right to receive psychological assistance.",
+      "evidence_verified": true
+    },
+    "3.8": {
+      "id": "3.8",
+      "indicator": "Religious/spiritual counselling",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences list medical, medicolegal, psychosocial, legal, and economic services, but do not mention religious or spiritual counselling or faith-based support.",
+      "evidence_verified": null
+    },
+    "3.9": {
+      "id": "3.9",
+      "indicator": "Resocialisation services",
+      "included": "Yes",
+      "evidence": "Every victim has the right to obtain protection, information, integrated services, continuous handling up to the rehabilitation stage, and confidential handling, whether provided by individuals, groups, or institutions, whether Government or Non-Government.\n- What is meant by \"continuous handling\" is handling that does not only stop at physical and psychological recovery, but until the victim can resume their life in society including restoration of their good name.",
+      "rationale": "The policy provides for continuous handling up to the rehabilitation stage and clarifies that continuous handling continues until the victim can resume life in society, which corresponds to rehabilitation/reintegration (resocialisation).",
+      "evidence_verified": true
+    },
+    "3.10": {
+      "id": "3.10",
+      "indicator": "Economic support",
+      "included": "Yes",
+      "evidence": "e. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.",
+      "rationale": "The policy explicitly includes economic independence services such as skills training and providing economic access so that victims can be independent.",
+      "evidence_verified": true
+    },
+    "4.1": {
+      "id": "4.1",
+      "indicator": "Information and education about VAW",
+      "included": "Yes",
+      "evidence": "b. conducting education on anti-violence values towards women and children;",
+      "rationale": "The policy explicitly includes preventive education activities focused on anti-violence values toward women (and children), which constitutes information/education as a preventive measure against violence against women.",
+      "evidence_verified": true
+    },
+    "4.2": {
+      "id": "4.2",
+      "indicator": "Gender equality education",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy references gender equality as a principle/definition, the candidate sentences do not describe primary prevention activities (education, campaigns, training, etc.) specifically about gender equality and/or women’s rights.",
+      "evidence_verified": null
+    },
+    "4.3": {
+      "id": "4.3",
+      "indicator": "VAW laws awareness",
+      "included": "Yes",
+      "evidence": "c. conducting socialization of laws and regulations related to the implementation of protection for women and children victims of violence;",
+      "rationale": "The policy includes a primary prevention measure of socializing laws and regulations related to protection for women and children victims of violence, which constitutes awareness/education about relevant VAW-related laws and policies.",
+      "evidence_verified": true
+    },
+    "4.4": {
+      "id": "4.4",
+      "indicator": "Prevention through education",
+      "included": "Yes",
+      "evidence": "(1) The Bojonegoro Regency Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence in the form of:\nb. conducting education on anti-violence values towards women and children;",
+      "rationale": "Education is explicitly listed as part of the government’s efforts to prevent the occurrence of violence, specifically through conducting education on anti-violence values toward women and children.",
+      "evidence_verified": true
+    },
+    "5.1": {
+      "id": "5.1",
+      "indicator": "NGO collaboration",
+      "included": "Yes",
+      "evidence": "(2) P3A (Women and Children Service Center) as referred to in paragraph (1) in handling services and protection for women and children victims of violence may establish partnerships with social community institutions engaged in the field of services and protection for women and children.",
+      "rationale": "The policy states that the Women and Children Service Center (P3A) may establish partnerships with social community institutions engaged in services and protection for women and children, which constitutes collaboration with civil society/NGOs for service delivery and protection.",
+      "evidence_verified": true
+    },
+    "5.2": {
+      "id": "5.2",
+      "indicator": "Religious engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences refer generally to community elements, social institutions, and government/non-government providers, but do not explicitly mention religious organisations, religious leaders, clergy, spiritual counsellors, or other faith-based actors in service delivery, prevention, coordination, or implementation.",
+      "evidence_verified": null
+    },
+    "5.3": {
+      "id": "5.3",
+      "indicator": "Traditional/cultural engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences mention involving community elements and partnerships with social community institutions, but do not specifically reference traditional/customary/cultural leaders, customary institutions, or customary/community dispute-resolution mechanisms.",
+      "evidence_verified": null
+    },
+    "5.4": {
+      "id": "5.4",
+      "indicator": "Education institutions engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the policy includes “conducting education on anti-violence values,” it does not identify or involve education institutions (schools, universities, academics, or the education sector) as stakeholders in implementation, coordination, services, or capacity building in the provided sentences.",
+      "evidence_verified": null
+    },
+    "5.5": {
+      "id": "5.5",
+      "indicator": "International organisations engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention collaboration with international organizations or international support for service delivery; references to international instruments (e.g., UDHR, CEDAW) are not framed as stakeholder engagement or operational collaboration.",
+      "evidence_verified": null
+    },
+    "5.6": {
+      "id": "5.6",
+      "indicator": "Media engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention the media or any role for media actors in prevention, protection, awareness, or service delivery.",
+      "evidence_verified": null
+    },
+    "5.7": {
+      "id": "5.7",
+      "indicator": "Community engagement",
+      "included": "Yes",
+      "evidence": "a. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;\nb. encouraging community awareness of the importance of protection for victims.",
+      "rationale": "The policy requires establishing and facilitating integrated service institutions by involving community elements and encourages community awareness regarding protection for victims, which constitutes explicit community/society engagement for services and prevention.",
+      "evidence_verified": true
+    },
+    "5.8": {
+      "id": "5.8",
+      "indicator": "Private sector engagement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not reference businesses, employers, or the private sector as stakeholders, nor do they describe any private-sector role in prevention, protection, or service provision.",
+      "evidence_verified": null
+    },
+    "6.1": {
+      "id": "6.1",
+      "indicator": "Women in conflict/disaster areas",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited sentences describe general services and protection for women and children victims of violence (e.g., medical, psychosocial, legal services and safe houses) but do not mention conflict, disaster, emergency, or displacement contexts, nor any special measures tailored to those situations.",
+      "evidence_verified": null
+    },
+    "6.2": {
+      "id": "6.2",
+      "indicator": "Women victims of trafficking",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences define victims as women and children experiencing violence and outline services for gender-based violence, but they do not explicitly include trafficking in persons or human trafficking victims within the policy’s scope.",
+      "evidence_verified": null
+    },
+    "6.3": {
+      "id": "6.3",
+      "indicator": "Women workers",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text focuses on women and children victims of violence generally and does not identify women workers/employees as a specific target group or provide worker-specific protections.",
+      "evidence_verified": null
+    },
+    "6.4": {
+      "id": "6.4",
+      "indicator": "Elderly women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No sentence mentions elderly women or provides age-specific protection measures targeted at older women.",
+      "evidence_verified": null
+    },
+    "6.5": {
+      "id": "6.5",
+      "indicator": "People with disability",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The policy provisions shown address victims of violence generally and do not mention disability or provide disability-specific protections or accommodations.",
+      "evidence_verified": null
+    },
+    "6.6": {
+      "id": "6.6",
+      "indicator": "Women heads of household",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While the regulation references victims’ status in family/society and defines family/household, it does not identify women heads of household as a target group or provide special measures for them.",
+      "evidence_verified": null
+    },
+    "6.7": {
+      "id": "6.7",
+      "indicator": "Women from minority groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "Although non-discrimination is referenced, there are no special protection measures specifically targeted at women from minority or isolated groups.",
+      "evidence_verified": null
+    },
+    "6.8": {
+      "id": "6.8",
+      "indicator": "Women in legal process",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited provisions concern services for victims (including legal services to assist victims in judicial processes) but do not address women as suspects, defendants, perpetrators, or witnesses in conflict with the law.",
+      "evidence_verified": null
+    },
+    "6.9": {
+      "id": "6.9",
+      "indicator": "Indigenous people/groups",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention Indigenous peoples, customary communities (masyarakat adat), or Indigenous women, nor any targeted measures for such groups.",
+      "evidence_verified": null
+    },
+    "6.10": {
+      "id": "6.10",
+      "indicator": "Refugee/forced displacement",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The text provides general victim services and protection but does not mention refugees, forced displacement, or any displacement-specific protection measures.",
+      "evidence_verified": null
+    },
+    "6.11": {
+      "id": "6.11",
+      "indicator": "Domestic worker",
+      "included": "No",
+      "evidence": null,
+      "rationale": "No sentence identifies domestic workers as a target group or provides special protections specifically for domestic workers.",
+      "evidence_verified": null
+    },
+    "6.12": {
+      "id": "6.12",
+      "indicator": "Women experiencing homelessness",
+      "included": "No",
+      "evidence": null,
+      "rationale": "While safe houses are mentioned as part of psychosocial services for victims, the text does not address homelessness as a condition or provide special measures targeted at women experiencing homelessness.",
+      "evidence_verified": null
+    },
+    "6.13": {
+      "id": "6.13",
+      "indicator": "Formerly incarcerated women",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The candidate sentences do not mention former inmates, correctional institutions, or any special protections targeted at formerly incarcerated women.",
+      "evidence_verified": null
+    },
+    "7.1": {
+      "id": "7.1",
+      "indicator": "Local government budget",
+      "included": "Yes",
+      "evidence": "(1) The source of funds for the implementation of services and protection for women and children victims of violence carried out by the Regional Apparatus of Bojonegoro Regency as referred to in article 4 shall be from the Regional Revenue and Expenditure Budget of Bojonegoro Regency.",
+      "rationale": "The policy explicitly states that funding for implementation comes from the Bojonegoro Regency Regional Revenue and Expenditure Budget, which is a local government budget source.",
+      "evidence_verified": true
+    },
+    "7.2": {
+      "id": "7.2",
+      "indicator": "National government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The cited funding provision specifies the Bojonegoro Regency regional budget and mentions unspecified “other legitimate sources,” but it does not explicitly identify the national government budget as a funding source.",
+      "evidence_verified": null
+    },
+    "7.3": {
+      "id": "7.3",
+      "indicator": "International support/donors",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The funding clauses mention the regency budget and “other legitimate sources” without any explicit reference to international organizations, foreign governments, donors, UN agencies, or other international assistance as funding/support sources.",
+      "evidence_verified": null
+    },
+    "7.4": {
+      "id": "7.4",
+      "indicator": "Other legal sources",
+      "included": "Yes",
+      "evidence": "(2) The source of funds as referred to in paragraph (1) may come from other legitimate sources.",
+      "rationale": "Beyond the regency budget, the policy explicitly allows funding to come from “other legitimate sources,” which constitutes other legally permissible sources of funding.",
+      "evidence_verified": true
+    },
+    "7.5": {
+      "id": "7.5",
+      "indicator": "Provincial government budget",
+      "included": "No",
+      "evidence": null,
+      "rationale": "The funding provision identifies the Bojonegoro Regency budget and does not explicitly mention any provincial government budget as a source.",
+      "evidence_verified": null
+    }
+  },
+  "indicator_count": 56,
+  "evidence_verification_failures": []
+}

@@ -13,6 +13,7 @@ def model_config_path(tmp_path):
             "test-translate": {"deployment": "gpt-5.2", "temperature": 0.2},
             "test-eval": {"deployment": "gpt-4o", "temperature": 0.1},
             "test-diagnosis": {"deployment": "gpt-5.2", "temperature": 0.2},
+            "test-translation-qa": {"deployment": "gpt-5.2", "temperature": 0.1},
         }
     }
     path = tmp_path / "model_config.yaml"
@@ -24,6 +25,7 @@ def _write_pipeline_config(tmp_path, evaluation_overrides: dict) -> Path:
     data = {
         "experiment_name": "test",
         "translation": {"model": "test-translate", "prompt_version": "v1"},
+        "translation_qa": {"model": "test-translation-qa", "prompt_version": "v1"},
         "evaluation": {"model": "test-eval", "prompt_version": "v1", **evaluation_overrides},
         "discrepancy_diagnosis": {"model": "test-diagnosis", "prompt_version": "v1"},
         "paths": {

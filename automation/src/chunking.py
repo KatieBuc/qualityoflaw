@@ -54,6 +54,22 @@ END_SENTENCE_RE = re.compile(r"[;.]\s*$")
 # previous buffer to flush before this line starts a new one.
 LIST_START_RE = re.compile(r"^(\d+[.)]|[a-z][.)])")
 
+# Section 1.3 — a line that is *only* a list marker, with its content missing
+# (moved to the next raw line by the source OCR/extraction). Letter case is
+# accepted both ways: an uppercase single letter here ("C.") is virtually
+# always OCR noise for a lowercase marker ("c."), never a genuine heading.
+BARE_LIST_MARKER_RE = re.compile(r"^(\d+[.)]|[A-Za-z][.)])\s*$")
+
+# Section 1.2 — Indonesian phrases that mark a "Pasal N" / "Bagian N" mention
+# as an in-text cross-reference (e.g. "sebagaimana dimaksud dalam Pasal 7")
+# rather than a genuine heading, even when it happens to end a wrapped OCR
+# line. Checked against the text immediately preceding a trailing marker
+# match before treating it as a heading boundary to split out.
+CROSS_REFERENCE_GUARD_RE = re.compile(
+    r"(dimaksud|diatur|sebagaimana|berdasarkan|juncto|\bjo\b|sesuai|melanggar)",
+    re.IGNORECASE,
+)
+
 # Section 2 — fallback sentence boundary ('.' / ';' followed by whitespace).
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[.;])\s+")
 
@@ -87,7 +103,10 @@ def _is_all_upper_title(line: str) -> bool:
     if not stripped or len(stripped) >= UPPER_TITLE_MAX_LEN:
         return False
     letters = [c for c in stripped if c.isalpha()]
-    if not letters:
+    # A single letter (e.g. "C." -- OCR noise for a lowercase list marker
+    # "c.") must not pass as an all-caps title; a real title has at least a
+    # couple of letters.
+    if len(letters) < 2:
         return False
     return all(c.isupper() for c in letters)
 
@@ -101,6 +120,51 @@ def is_structure_marker(line: str, marker_re: re.Pattern[str] = STRUCTURE_MARKER
     return _is_all_upper_title(stripped)
 
 
+def _trailing_marker_pattern(marker_re: re.Pattern[str]) -> re.Pattern[str]:
+    """Build a regex matching `marker_re`'s keyword+token anchored to line end.
+
+    Always case-sensitive, even when `marker_re` itself is IGNORECASE (the
+    English marker regex is, to match e.g. "chapter" typos): a genuine
+    heading keyword is reliably capitalized ("Article 5", "CHAPTER I"), but
+    common English words like "article"/"part"/"section" appear constantly,
+    lowercase, in ordinary prose -- matching those case-insensitively at the
+    end of a wrapped line would misfire far too often.
+    """
+    inner = marker_re.pattern.removeprefix("^")
+    flags = marker_re.flags & ~re.IGNORECASE
+    return re.compile(rf"(?<=\s)(?:{inner})\s*$", flags)
+
+
+def _split_embedded_markers(line: str, marker_re: re.Pattern[str]) -> list[str]:
+    """Peel a heading concatenated onto the end of `line` into its own segment.
+
+    Raw OCR/extraction sometimes merges a heading onto the previous line
+    with no punctuation between them (e.g. "...TINDAK KEKERASAN Bagian
+    Kesatu", or "...dan sosial. Pasal 5"). Only a marker anchored to the
+    very end of the line is treated as a real heading boundary; a marker
+    followed by more prose is an ordinary in-text cross-reference (e.g.
+    "sebagaimana dimaksud dalam Pasal 7 huruf (b) disebabkan...") and is
+    left untouched. As a further guard, a marker preceded (within the
+    nearby text) by a cross-reference phrase is also left untouched, in
+    case the reference itself happens to end a wrapped OCR line.
+    """
+    trailing_re = _trailing_marker_pattern(marker_re)
+    segments: list[str] = []
+    remainder = line
+    while True:
+        match = trailing_re.search(remainder)
+        if not match or match.start() == 0:
+            break
+        prefix = remainder[: match.start()].rstrip()
+        if CROSS_REFERENCE_GUARD_RE.search(prefix[-60:]):
+            break
+        segments.append(remainder[match.start() :].strip())
+        remainder = prefix
+    segments.append(remainder)
+    segments.reverse()
+    return [segment for segment in segments if segment]
+
+
 def clean_text(
     raw_text: str, marker_re: re.Pattern[str] = STRUCTURE_MARKER_RE
 ) -> list[CleanedLine]:
@@ -110,31 +174,50 @@ def clean_text(
     structural marker line (kept standalone) or a fully reflowed paragraph.
     """
     text = raw_text.lstrip("﻿")
-    lines = text.splitlines()
+
+    lines: list[str] = []
+    for raw_line in text.splitlines():
+        stripped = raw_line.strip()
+        if stripped:
+            lines.extend(_split_embedded_markers(stripped, marker_re))
 
     result: list[CleanedLine] = []
     buffer: list[str] = []
+    buffer_has_content = False
 
     def flush() -> None:
+        nonlocal buffer_has_content
         if buffer:
             paragraph = " ".join(buffer).strip()
             if paragraph:
                 result.append(CleanedLine(text=paragraph, is_structure=False))
             buffer.clear()
+        buffer_has_content = False
 
-    for raw_line in lines:
-        line = raw_line.strip()
-        if not line:
-            continue
+    for line in lines:
         if is_noise_line(line):
             continue
         if is_structure_marker(line, marker_re):
             flush()
             result.append(CleanedLine(text=line, is_structure=True))
             continue
-        if LIST_START_RE.match(line) and buffer:
+
+        is_bare_marker = bool(BARE_LIST_MARKER_RE.match(line))
+        is_list_start = is_bare_marker or bool(LIST_START_RE.match(line))
+
+        # A bare marker never flushes a buffer that is itself only pending
+        # bare markers -- it joins them, waiting for the content that (in
+        # the source layout) belongs to one of them. Anything else that
+        # starts a new list item flushes the previous buffer as before.
+        if is_list_start and buffer and (buffer_has_content or not is_bare_marker):
             flush()
+
         buffer.append(line)
+        if is_bare_marker:
+            # No trailing-punctuation flush: "a." must not be treated as a
+            # complete paragraph before its real content has arrived.
+            continue
+        buffer_has_content = True
         if END_SENTENCE_RE.search(line):
             flush()
     flush()
@@ -175,7 +258,7 @@ def split_into_sections(cleaned_lines: list[CleanedLine]) -> list[str]:
 
 
 # --- Markdown rendering --------------------------------------------------
-# Used by the cleaning-step output (translate._write_cleaned_text /
+# Used by the cleaning-step output (translate._write_cleaned_markdown /
 # _write_translation_markdown) to turn clean_text()'s reflowed lines into
 # Markdown: structural markers become nested headings, list starts become
 # ordered/nested-bullet list items. Doesn't affect chunk_policy_text() or

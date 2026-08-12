@@ -189,8 +189,25 @@ def chunks_artifact_path(chunks_dir: Path, filename: str) -> Path:
     return chunks_dir / f"{Path(filename).stem}.chunks.json"
 
 
-def _write_cleaned_text(
+def _write_cleaned_plain_text(
     cleaned_dir: Path,
+    filename: str,
+    cleaned_lines: list[CleanedLine],
+) -> None:
+    """Persist the clean (section 1) result as plain text: ``<stem>.cleaned.txt``,
+    the reflowed original-language text after OCR-noise removal (one
+    structural marker or paragraph per line, no Markdown formatting). Mirrors
+    the plain-text `translation/<policy>.txt` artifact, for the source
+    language. Called by the standalone `markdown` step (`run_markdown_step`).
+    """
+    cleaned_dir.mkdir(parents=True, exist_ok=True)
+    stem = Path(filename).stem
+    plain_text = "\n".join(line.text for line in cleaned_lines) + "\n"
+    (cleaned_dir / f"{stem}.cleaned.txt").write_text(plain_text, encoding="utf-8")
+
+
+def _write_cleaned_markdown(
+    cleaned_md_dir: Path,
     filename: str,
     cleaned_lines: list[CleanedLine],
 ) -> None:
@@ -198,12 +215,13 @@ def _write_cleaned_text(
     ``<stem>.cleaned.md``, the reflowed text after OCR-noise removal,
     rendered as Markdown (structural markers as nested headings, list
     starts as ordered/nested-bullet items — see chunking.render_markdown).
-    Called by the standalone `markdown` step (`run_markdown_step`).
+    Mirrors the `translation_markdown/<policy>.md` artifact, for the source
+    language. Called by the standalone `markdown` step (`run_markdown_step`).
     """
-    cleaned_dir.mkdir(parents=True, exist_ok=True)
+    cleaned_md_dir.mkdir(parents=True, exist_ok=True)
     stem = Path(filename).stem
     markdown_text = render_markdown(cleaned_lines)
-    (cleaned_dir / f"{stem}.cleaned.md").write_text(markdown_text, encoding="utf-8")
+    (cleaned_md_dir / f"{stem}.cleaned.md").write_text(markdown_text, encoding="utf-8")
 
 
 def _write_translation_markdown(md_dir: Path, filename: str, translated_text: str) -> None:
@@ -434,18 +452,21 @@ def run_markdown_step(
     small_scale: bool = False,
     force: bool = False,
 ) -> dict:
-    """Backfill the Markdown side artifacts as a standalone, idempotent step:
-    ``results/cleaned_text/<policy>.cleaned.md`` (rendered from the raw
-    original-language input) and ``results/translation_markdown/<policy>.md``
+    """Backfill the cleaned/Markdown side artifacts as a standalone, idempotent
+    step: ``results/cleaned_text/<policy>.cleaned.txt`` and
+    ``results/cleaned_markdown/<policy>.cleaned.md`` (both rendered from the
+    raw original-language input), plus ``results/translation_markdown/<policy>.md``
     (rendered from ``results/translation/<policy>.txt``).
 
-    Independent of the `translation` step: a policy is only skipped if its
-    .md already exists (or, for translation_markdown, if its .txt source
-    hasn't been translated yet) -- run it anytime to fill in whatever .md
-    files are missing, without re-running translation.
+    Independent of the `translation` step: a policy is only skipped once both
+    its cleaned_text/cleaned_markdown outputs already exist (or, for
+    translation_markdown, if its .txt source hasn't been translated yet) --
+    run it anytime to fill in whatever outputs are missing, without
+    re-running translation.
     """
     run_dir = get_run_dir(run_id)
     cleaned_dir = resolve_results_dir(run_dir, "cleaned_text")
+    cleaned_md_dir = resolve_results_dir(run_dir, "cleaned_markdown")
     translation_dir = resolve_results_dir(run_dir, "translation")
     translation_md_dir = resolve_results_dir(run_dir, "translation_markdown")
 
@@ -455,20 +476,22 @@ def run_markdown_step(
 
     for input_path in resolve_input_files(config.paths.input_dir, small_scale):
         counts["total"] += 1
-        out_path = cleaned_dir / f"{input_path.stem}.cleaned.md"
-        if out_path.exists() and not force:
+        txt_path = cleaned_dir / f"{input_path.stem}.cleaned.txt"
+        md_path = cleaned_md_dir / f"{input_path.stem}.cleaned.md"
+        if txt_path.exists() and md_path.exists() and not force:
             counts["skipped"] += 1
             continue
         try:
             cleaned_lines = clean_text(input_path.read_text(encoding="utf-8"))
-            _write_cleaned_text(cleaned_dir, input_path.name, cleaned_lines)
+            _write_cleaned_plain_text(cleaned_dir, input_path.name, cleaned_lines)
+            _write_cleaned_markdown(cleaned_md_dir, input_path.name, cleaned_lines)
             counts["succeeded"] += 1
         except Exception as exc:
             counts["failed"] += 1
             failed_files.append(
                 {"filename": input_path.name, "artifact": "cleaned_text", "message": str(exc)}
             )
-            logger.error("[%s] failed to write cleaned_text markdown: %s", input_path.name, exc)
+            logger.error("[%s] failed to write cleaned_text/cleaned_markdown: %s", input_path.name, exc)
 
     translation_files = (
         filter_policy_files(translation_dir, small_scale) if translation_dir.is_dir() else []

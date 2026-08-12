@@ -1,0 +1,294 @@
+{
+  "diagnoses": {
+    "1.8": {
+      "indicator": "Human trafficking",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720),",
+      "evaluator_rationale": "The policy explicitly references the law on the eradication of trafficking in persons, indicating trafficking is included within the policy’s legal framework/scope.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others, acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits both material and immaterial, and/or all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or indecent acts.",
+          "score": 0.5074213
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 21\nii aa",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 2,
+          "text": "1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n2. Law Number 29 of 1959 concerning the Establishment of Second Level Regions in Sulawesi (State Gazette of the Republic of Indonesia of 1959 Number 14, Supplement to the State Gazette of the Republic of Indonesia Number 1822),\n3. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as has been amended several times, most recently by Law Number 17 of 2016 concerning the Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2016 Number 237, Supplement to the State Gazette of the Republic of Indonesia Number 5946),\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419),\n5. Law Number 33 of 2004 concerning Financial Balance between the Central Government and Regional Governments (State Gazette of the Republic of Indonesia of 2004 Number 126, Supplement to the State Gazette of the Republic of Indonesia Number 4438),\n6. Law Number 13 of 2006 concerning the Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64),\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720),\n8. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679),\n9. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64),\n10. Regulation of the State Minister for Women's Empowerment and Child Protection Number 01 of 2010 concerning Minimum Service Standards (SPM) in the Field of Integrated Services for Women and Children Victims of Violence,\n11. Regional Regulation of Gorontalo Regency Number 2 of 2015 concerning Child-Friendly Regency (Regional Gazette of Gorontalo Regency of 2015 Number 2),\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF GORONTALO REGENCY and",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is committed due to:\na. threats of violence, which include any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrain a person's fundamental freedom; and coercion, which includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through:\na. policy determination,\nb. formulation of program and activity planning,\nc. providing support for facilities and infrastructure,\nd. providing support for facilities and infrastructure, and\ne. allocating budget,\nf. establishment of Children's Forum, and\ng. establishment of Task Force.\n(2) To anticipate the occurrence of acts of violence, the Regional Government organizes services for victims in the form of:\na. facilitating the establishment of P2TP2A,\nb. facilitating facilities and infrastructure of P2TP2A according to the capacity of the Region, and\nc. facilitating the Task Force as a network forum for handling Victims.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 8\nSexual violence as referred to in Article 5 letter c is caused by:\na. acts in the form of sexual harassment,\nb. forced sexual intercourse,\nCc. forced sexual intercourse in an unnatural or unwanted manner, and/or\nd. forced sexual intercourse with another person for commercial purposes and/or specific purposes.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 5\nForms of violence include:\na. physical violence,\nb. psychological violence,\nc. sexual violence,\nd. neglect,\ne. exploitation, and/or\n1. other violence.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 26,
+          "text": "CHAPTER VI\nIMPLEMENTATION OF PROTECTION\nPart One\nPrevention",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER III\nRIGHTS OF VICTIMS\nArticle 12\nEvery Victim has the right:\na. to have their dignity and worth as a human being respected;\nb. health and psychological recovery from the suffering experienced by the victim; to determine their own decisions, to obtain information, confidentiality of their identity, compensation, social rehabilitation, complaint handling, to obtain facilitation in the judicial process, and/or assistance.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the regional apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network in efforts to prevent violence,\nb. the working network referred to in point 1 (one) is:\n1) task force on acts of violence against women and children,\n2) Bele lomongoditi moli,\n3) Children's Forum,\n4) Berlian (Bersama Lindungi Anak), and\n5) Suami sayang istri,\nc. establishing a violence prevention system:\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence, and\ne. providing critical education on the rights of women and children for the community.\n(3) The establishment of Institutions and Procedures for implementing the tasks of the working network as referred to in paragraph (2) shall be regulated by Regent Regulation.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to properly fulfill a child’s needs, whether physical, mental, spiritual, or social, committed by parents, guardians, or any other party responsible for the child’s care,\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for the child’s care,\nc. acts of neglecting a person within the scope of their household, whereas under the law applicable to them or due to consent or an agreement they are obliged to provide livelihood, care, or maintenance to that person, and/or,\nd. acts that result in economic dependency by limiting and/or prohibiting proper work inside or outside the home so that the victim is under that person’s control.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 17\nSufficiently clear.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nThe scope of this Regional Regulation includes prevention efforts, services and empowerment of victims of violence in the Region.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 23\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 22\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 84,
+          "text": "Article 29\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 20\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 7\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 27\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 16\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 94,
+          "text": "Article 39\nSufficiently clear.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF GORONTALO\nGORONTALO PROVINCE\nREGIONAL REGULATION OF GORONTALO REGENCY\nNUMBER 9 OF 2018\nCONCERNING\nPROTECTION OF WOMEN AND CHILDREN AGAINST ACTS OF VIOLENCE\nBY THE GRACE OF GOD ALMIGHTY",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 36\nSufficiently clear.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 88,
+          "text": "Article 33\nSufficiently clear.",
+          "score": 0.3053658
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian regulation, the scope of regulated “bentuk kekerasan” is defined in Pasal 5–11 (fisik, psikis, seksual, penelantaran, eksploitasi, dan/atau kekerasan lainnya). There is no explicit inclusion of “perdagangan orang” (human trafficking) as a form of violence or as a specific target group/offense in the operative provisions. The only place trafficking appears is in the legal basis list (“Mengingat”, item 7: UU No. 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang). Merely citing a national law in the legal basis does not mean the local regulation substantively covers trafficking as an indicator in its scope. The retrieved English candidates did contain this context (the legal basis list and the exploitation definition), so a careful judge should still answer No for ‘human trafficking’ unless the indicator is satisfied by mere citation. The judge over-inferred inclusion from a citation, so this is primarily an evaluation/logic error rather than retrieval or translation.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Women victims of trafficking",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720),",
+      "evaluator_rationale": "The policy’s legal basis explicitly references the national law on trafficking in persons, indicating trafficking is within the regulatory scope/concern of the framework.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 13,
+          "text": "Article 10\nExploitation as referred to in Article 5 letter e is caused by:\na. acts that exploit economically or sexually with the intention of benefiting oneself or others, acts with or without the consent of the victim which include but are not limited to prostitution, forced labor or services, slavery or similar practices, oppression, extortion, utilization of physical, sexual, reproductive organs, or unlawfully removing or transplanting organs and/or body tissues or utilizing the labor or capabilities of a person by other parties to obtain benefits both material and immaterial, and/or all forms of utilization of sexual organs or other body organs of the victim to obtain benefits, including but not limited to all activities of prostitution or indecent acts.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 14\n(1) The Regional Government is obligated and responsible to implement efforts to protect women and children victims of violence through:\na. policy determination,\nb. formulation of program and activity planning,\nc. providing support for facilities and infrastructure,\nd. providing support for facilities and infrastructure, and\ne. allocating budget,\nf. establishment of Children's Forum, and\ng. establishment of Task Force.\n(2) To anticipate the occurrence of acts of violence, the Regional Government organizes services for victims in the form of:\na. facilitating the establishment of P2TP2A,\nb. facilitating facilities and infrastructure of P2TP2A according to the capacity of the Region, and\nc. facilitating the Task Force as a network forum for handling Victims.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 15,
+          "text": "CHAPTER III\nRIGHTS OF VICTIMS\nArticle 12\nEvery Victim has the right:\na. to have their dignity and worth as a human being respected;\nb. health and psychological recovery from the suffering experienced by the victim; to determine their own decisions, to obtain information, confidentiality of their identity, compensation, social rehabilitation, complaint handling, to obtain facilitation in the judicial process, and/or assistance.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 41,
+          "text": "Paragraph 1\nEmpowerment of Women Victims of Violence",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 21\nii aa",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 2\nProtection of Victims is based on:\na. respect and fulfillment of the rights of victims,\nb. justice and gender equality,\nc. non-discrimination,\nd. the best interests of victims, and\ne. empowerment.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 3\nVictim Protection aims to:\na. prevent violence against women and children,\nb. provide services to Victims, and\nc. carry out empowerment of women victims of violence.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 42,
+          "text": "Article 32\nEmpowerment of women victims of violence includes:\na. job training;\nb. productive economic enterprises and/or joint business groups; and\nc. capital assistance.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 57,
+          "text": "Article 2\nLetter a What is meant by “respect and fulfillment of victims’ rights” is a guarantee that the victims’ basic rights are fulfilled.\nLetter b Every person, both male and female, is treated equally and obtains the same opportunity to obtain opportunity (access), as well as welfare.\nLetter c Sufficiently clear.\nLetter d Sufficiently clear.\nLetter e Sufficiently clear.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 4\nThe scope of this Regional Regulation includes prevention efforts, services and empowerment of victims of violence in the Region.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 2,
+          "text": "1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n2. Law Number 29 of 1959 concerning the Establishment of Second Level Regions in Sulawesi (State Gazette of the Republic of Indonesia of 1959 Number 14, Supplement to the State Gazette of the Republic of Indonesia Number 1822),\n3. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235) as has been amended several times, most recently by Law Number 17 of 2016 concerning the Stipulation of Government Regulation in Lieu of Law Number 1 of 2016 concerning the Second Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2016 Number 237, Supplement to the State Gazette of the Republic of Indonesia Number 5946),\n4. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419),\n5. Law Number 33 of 2004 concerning Financial Balance between the Central Government and Regional Governments (State Gazette of the Republic of Indonesia of 2004 Number 126, Supplement to the State Gazette of the Republic of Indonesia Number 4438),\n6. Law Number 13 of 2006 concerning the Protection of Witnesses and Victims (State Gazette of the Republic of Indonesia of 2006 Number 64),\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720),\n8. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia Number 5587) as has been amended several times, most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 5679),\n9. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for the Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 64),\n10. Regulation of the State Minister for Women's Empowerment and Child Protection Number 01 of 2010 concerning Minimum Service Standards (SPM) in the Field of Integrated Services for Women and Children Victims of Violence,\n11. Regional Regulation of Gorontalo Regency Number 2 of 2015 concerning Child-Friendly Regency (Regional Gazette of Gorontalo Regency of 2015 Number 2),\nWith the Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF GORONTALO REGENCY and",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 1,
+          "text": "REGENT OF GORONTALO,\n\nConsidering : a. that Pancasila and the 1945 Constitution of the State of the Republic of Indonesia guarantee the right of every citizen to be free from torture or treatment that degrades human dignity and to obtain a sense of security and freedom from all forms of violence;\n\nb. that all forms of acts of violence against women and children constitute violations of human rights so that their dignity and honor need to be protected and their right to life guaranteed in accordance with their nature and disposition without discrimination,\n\nc. that women's empowerment and child protection are concurrent governmental affairs delegated to the regions to become the basis for implementing regional autonomy and become mandatory governmental affairs not related to basic services as referred to in Law Number 23 of 2014 concerning Regional Government,\n\nd. that in order to provide regulatory strengthening, direction, and foundation in the protection of women and children victims of violence, regulation is needed related to the Protection of Women and Children Victims of Violence,\n\nBearing in mind: that based on the considerations as referred to in letter a, letter b, letter c, and letter d, it is necessary to establish a Regional Regulation concerning the Protection of Women and Children Against Acts of Violence;",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 9\nNeglect as referred to in Article 5 letter d is caused by:\na. acts that result in the failure to properly fulfill a child’s needs, whether physical, mental, spiritual, or social, committed by parents, guardians, or any other party responsible for the child’s care,\nb. acts of deliberately neglecting to maintain, care for, or look after a child as appropriate, committed by parents, guardians, or any other party responsible for the child’s care,\nc. acts of neglecting a person within the scope of their household, whereas under the law applicable to them or due to consent or an agreement they are obliged to provide livelihood, care, or maintenance to that person, and/or,\nd. acts that result in economic dependency by limiting and/or prohibiting proper work inside or outside the home so that the victim is under that person’s control.",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 8\nSexual violence as referred to in Article 5 letter c is caused by:\na. acts in the form of sexual harassment,\nb. forced sexual intercourse,\nCc. forced sexual intercourse in an unnatural or unwanted manner, and/or\nd. forced sexual intercourse with another person for commercial purposes and/or specific purposes.",
+          "score": 0.28585017
+        },
+        {
+          "chunk_id": 4,
+          "text": "WOMEN AND CHILDREN AGAINST ACTS OF VIOLENCE.\nCHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Gorontalo Regency.\n2. Regent is the Regent of Gorontalo.\n3. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous Region.\n4. Regional Governance is the administration of government affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n5. Child is a person who has not reached 18 years of age, including a child still in the womb.\n6. Woman is a person who is female in gender.\n7. Violence is any act that results in or may result in misery or suffering whether physical, sexual, economic, social, and psychological to the victim.\n8. Violence against women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life.\n9. Violence against children is any action that results in or may result in suffering of children physically, psychologically, sexually, neglect, exploitation, and other violence.\n10. Victim is women and children who experience misery and/or suffering either directly or ...\n11. Protection of women is all activities aimed at providing a sense of security carried out by the police, prosecutors, courts, social institutions, or other parties who know or hear that violence against women will, is, or has occurred.\n12. Child protection is all activities to guarantee and protect children and their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination.\n13. Service is an action taken as soon as possible to the victim when seeing, hearing and knowing that violence against the victim will, is, or has occurred.\n14. Companion is a person or representative from an institution who has the expertise to accompany victims to conduct counseling, therapy and advocacy for the strengthening and recovery of victims of violence.\n15. Integrated Service Center for Women and Children Empowerment, hereinafter abbreviated as P2TP2A, is an integrated service unit established by the Region to provide services in the context of empowerment of women and children victims of acts of violence.\n16. Safe House is a shelter for victims, during the accompaniment process, for the safety and comfort of victims from threats and danger from perpetrators.\n17. Family is the smallest unit in society consisting of husband and wife, or husband-wife and their children, or father and children, or mother and children, or blood relatives in direct line upward or downward up to the third degree.\n18. Household is husband, wife, and children, people who have family relationships due to blood relations, marriage, milk kinship, foster care, and ... in the household.\n19. Forum for the Protection of Victims of Violence, hereinafter abbreviated as FPKK, is a coordination forum for handling victims of violence against women and children whose implementation is carried out in a networked manner.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 52,
+          "text": "CHAPTER VIII\nCLOSING PROVISIONS\nArticle 40\nAt the time this Regional Regulation comes into force, all implementing regulations related to the protection of Women and Children in the Region are declared to remain valid insofar as they have not been replaced and do not conflict with the provisions in this Regional Regulation.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 51,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 39\n(1) The community participates in the implementation of protection for Victims.\n(2) Community participation as referred to in paragraph (1) shall be in the form of:\na. establishing family partners at the kelurahan/village level by the community,\nb. establishing women and children protection units within community organizations,\nc. conducting independent socialization of women's and children's rights,\nd. providing first aid to victims,\ne. reporting to the competent authorities if violence against victims occurs in their environment.\n(3) Community participation as referred to in paragraph (1) shall be carried out by individuals, social community institutions, non-governmental organizations, educational institutions, religious institutions, the private sector, and mass media.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 31,
+          "text": "Article 24\nThe implementation of services for victims is carried out with:\na. promptly,\nb. safely and comfortably,\nc. a sense of empathy,\nd. non-discrimination; easily accessible; free of charge; and guaranteed confidentiality.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 32,
+          "text": "Article 25\nForms of services for victims include:\na. complaint services, consultation, and counseling;\nb. assistance services;\nd. health services;\n   social rehabilitation services;\n   legal services; and\n   repatriation and social reintegration services.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 16\nThe community and family have obligations and responsibilities which include:\na. preventing the occurrence of violence against women and children,\nb. reporting if violence occurs, protecting victims; and\nd. providing emergency assistance.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 30\n(1) Legal services as referred to in Article 25 letter e are intended to assist victims in undergoing the judicial process.\n(2) Legal services as referred to in paragraph (1) are in the form of:\na. providing legal consultation that includes information regarding the rights of victims and the judicial process,\nb. accompanying victims at the investigation, prosecution, and examination levels in court hearings and assisting victims to comprehensively describe the violence they have experienced,\nc. coordinating with fellow law enforcers, volunteer companions, and social workers so that the judicial process proceeds as it should.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 11\nOther violence as referred to in Article 5 letter f is committed due to:\na. threats of violence, which include any unlawful act in the form of speech, writing, images, symbols, or body movements, whether with or without using means that cause fear or restrain a person's fundamental freedom; and coercion, which includes: a situation where a person/victim is ordered to do something in such a way that the person does something that is contrary to their own will.",
+          "score": 0.27017203
+        },
+        {
+          "chunk_id": 27,
+          "text": "Article 21\n(1) Efforts to prevent violence against women and children shall be carried out in an integrated manner by the Regional Government coordinated by the regional apparatus that administers governmental affairs in the field of Women's Empowerment and Child Protection.\n(2) Prevention efforts as referred to in paragraph (1) shall be implemented by:\na. establishing a working network in efforts to prevent violence,\nb. the working network referred to in point 1 (one) is:\n1) task force on acts of violence against women and children,\n2) Bele lomongoditi moli,\n3) Children's Forum,\n4) Berlian (Bersama Lindungi Anak), and\n5) Suami sayang istri,\nc. establishing a violence prevention system:\nd. conducting socialization regarding laws and regulations related to the protection of women and children victims of violence, and\ne. providing critical education on the rights of women and children for the community.\n(3) The establishment of Institutions and Procedures for implementing the tasks of the working network as referred to in paragraph (2) shall be regulated by Regent Regulation.",
+          "score": 0.27017203
+        },
+        {
+          "chunk_id": 26,
+          "text": "CHAPTER VI\nIMPLEMENTATION OF PROTECTION\nPart One\nPrevention",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER II\nFORMS OF VIOLENCE\nArticle 5\nForms of violence include:\na. physical violence,\nb. psychological violence,\nc. sexual violence,\nd. neglect,\ne. exploitation, and/or\n1. other violence.",
+          "score": 0.26102942
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The original Indonesian text does not specifically address “women victims of trafficking” as an intersectional group. It regulates protection for “perempuan dan anak korban kekerasan” generally (e.g., Pasal 3, Pasal 14, Pasal 23–31) and defines “eksploitasi” broadly (Pasal 10) but does not mention “korban perdagangan orang” or tailor provisions to trafficking survivors. As with discrepancy 1.8, trafficking is only referenced in the legal basis (UU No. 21 Tahun 2007) and not operationalized as a specific victim category. The retrieved passages shown to the judge included the legal basis citation and general victim-protection provisions; the judge again treated the citation as proof of substantive coverage of trafficking victims. That inference is flawed given the Indonesian ground truth, so the discrepancy is best explained by evaluation failure (overly lenient reasoning), not by missing evidence or mistranslation.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "GORONTALO_GORONTALO.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.013490+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 2,
+  "diagnosed_count": 2
+}

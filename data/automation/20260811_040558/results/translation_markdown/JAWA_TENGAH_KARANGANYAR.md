@@ -1,0 +1,380 @@
+# GOVERNMENT OF KARANGANYAR REGENCY
+
+REGIONAL REGULATION OF KARANGANYAR REGENCY NUMBER 20 OF 2009
+
+# CONCERNING
+
+PFNYELENGGARAAT.SHE:|il??T.?iXP€REiTPUANDANA
+
+# BY THE GRACE OF GOD ALMIGHTY
+
+# REGENT OF KARANGANYAR,
+
+Considering:
+
+   - a. that every member of society has the right to obtain a sense of security and freedom from all forms of violence in accordance with the Pancasila philosophy and the 1945 Constitution of the Republic of Indonesia;
+   - b. that all forms of violence constitute violations of human rights and crimes against human dignity as well as forms of discrimination that must be eliminated;
+   - c. that victims of violence, the majority of whom are women and children, must receive protection from the government and/or society in order to be protected and freed from violence or threats of violence, torture, or treatment that degrades human dignity and worth;
+   - d. that the number of cases of violence against women and children in Karanganyar Regency still occurs, while the regulation of the implementation of protection for women and children victims of violence has not been optimal;
+   - e. that based on the considerations as stated in letters a, b, c, and d, it is deemed necessary to regulate the implementation of protection for women and children victims of violence through a Regional Regulation of Karanganyar Regency;
+
+In View of:
+
+1. Law Number 13 of 1950 concerning the Establishment of Regency Areas within the Province of Central Java (State Gazette of the Republic of Indonesia Year 1950 Number 42);
+2. Law Number 6 of 1974 concerning Basic Provisions on Social Welfare (State Gazette Year 1974 Number 53, Supplement to State Gazette Number 3039);
+3. Law Number 4 of 1979 concerning Child Welfare (State Gazette of the Republic of Indonesia Year 1979 Number 32, Supplement to State Gazette Number 3243);
+4. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (Convention on The Elimination of All Forms of Discrimination Against Women) (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to State Gazette Number 3668);
+5. Law Number 23 of 1992 concerning Health (State Gazette of the Republic of Indonesia Year 1992 Number 100, Supplement to State Gazette Number 3495);
+6. Law Number 20 of 1999 concerning Ratification of ILO Convention Number 138 concerning Minimum Age for Admission to Employment (State Gazette of the Republic of Indonesia Year 1999 Number 56, Supplement to State Gazette Number 3835);
+7. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to State Gazette Number 3886);
+8. Law Number 1 of 2000 concerning Ratification of ILO Convention Number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labour (State Gazette of the Republic of Indonesia Year 2000 Number 30, Supplement to State Gazette Number 3941);
+9. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to State Gazette Number 4235);
+10. Law Number 10 of 2004 concerning Formation of Legislation (State Gazette of the Republic of Indonesia Year 2004 Number 53, Supplement to State Gazette Number 4389);
+11. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to State Gazette of the Republic of Indonesia Number 4419);
+12. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 125, Supplement to State Gazette of the Republic of Indonesia Number 4437); as has been amended several times, most recently by Law Number 12 of 2008 concerning the Second Amendment to Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2008 Number 59, Supplement to State Gazette of the Republic of Indonesia Number 4844);
+13. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to State Gazette of the Republic of Indonesia Number 4604);
+14. Government Regulation Number 38 of 2007 concerning Division of Authority between the Central Government, Provincial Government and Regency/City Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to State Gazette of the Republic of Indonesia Number 4739);
+
+With Mutual Approval of THE REGIONAL HOUSE OF REPRESENTATIVES OF KARANGANYAR REGENCY and THE REGENT OF KARANGANYAR
+
+# DECIDES:
+
+Establishes: REGIONAL REGULATION CONCERNING THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE.
+
+# CHAPTER I
+
+## GENERAL PROVISIONS
+
+#### Article 1
+
+In this Regional Regulation what is meant by:
+
+1. Region is the Regency of Karanganyar.
+2. Regional Government is the Regent and Regional Apparatus as elements of the Regional Government Administration.
+3. Regent is the Regent of Karanganyar.
+4. Regional Apparatus is the supporting element of the Regent in the administration of regional government consisting of the Regional Secretariat, DPRD Secretariat, Regional Agencies, Regional Technical Institutions, Sub-districts and Urban Villages.
+5. Implementation is the form of execution of protection for women and child victims of violence.
+6. Protection of women and child victims of violence is every activity aimed at providing a sense of security for victims and protecting their rights so that they can live, grow, develop and participate optimally in accordance with human dignity and receive protection, whether medical, legal, medicolegal (forensic medicine), economic or psychological protection from all forms of violence and discriminatory actions.
+7. Child is a person who has not yet reached 18 years of age, including those still in the womb.
+8. Victim is a woman and child who experiences misery and or suffering either directly or indirectly as a result of violence.
+9. Violence is any act that results in or can result in misery or suffering, whether physical, sexual, economic, social or psychological to the victim.
+10. Integrated Service Center for the Protection of Women and Children, hereinafter abbreviated as PPT P2A is an institution providing services to victims of violence, managed jointly in the form of medical services (including medico-legal), psycho-social and legal services.
+11. Commission for the Protection of Women and Children hereinafter abbreviated as KP2A is a Commission that functions to formulate policy programs for the protection of women and child victims of violence with the strategy of Gender Mainstreaming (PUG) and Child Rights Mainstreaming (PUA).
+12. Safe house is a temporary residence used to provide protection to victims.
+13. Social Community Institution is a Non-Governmental Organization (NGO) and or other community organizations.
+14. Community is individuals, families, groups, social organizations and/or community organizations.
+15. Residents are Indonesian citizens and/or foreigners who enter legally and reside in the territory of Indonesia.
+
+# CHAPTER II
+
+## PRINCIPLES AND OBJECTIVES
+
+#### Article 2
+
+The principles of implementing protection for women and children victims of violence are:
+
+   - a. Respect for the rights of victims;
+   - b. Justice and gender equality;
+   - c. Non-discrimination;
+   - d. Best interests of victims.
+
+#### Article 3
+
+The implementation of protection for victims of violence aims to prevent, protect victims, and provide services for women victims of gender-based violence and in the best interests of the child, occurring in the household and/or in public.
+
+# CHAPTER III
+
+## RIGHTS OF VICTIMS
+
+#### Article 4
+
+Every victim has the right to receive protection, information, integrated services, continuous assistance up to the rehabilitation stage, and handling carried out confidentially by individuals, groups, or institutions, whether the Regional Government or the community.
+
+#### Article 5
+
+In the event of violence, every victim has the right to receive health services and support, both psychological and legal, as well as to obtain guarantees of their rights related to their status as a wife, mother, child, family member, or as a member of society.
+
+# CHAPTER IV
+
+## OBLIGATIONS AND RESPONSIBILITIES
+
+#### Article 6
+
+1. The Regional Government has the obligation and responsibility to implement efforts to prevent the occurrence of violence against women and children, in the form of: a. collecting data and information about victims of violence and laws and regulations;
+   - b. conducting education about anti-violence values against women and children;
+   - c. conducting socialization of laws and regulations related to the implementation of protection for victims of violence;
+   - d. conducting monitoring and evaluation of the implementation of protection for victims of violence;
+   - e. preparing reports on the implementation of protection for victims of violence.
+2. To anticipate the occurrence of acts of violence against women and children, the Regional Government has the obligation to provide and organize services for victims in the form of:
+   - a. establishing and facilitating the operation of integrated service institutions for victims by involving community elements;
+   - b. encouraging community awareness of the importance of protection for victims.
+3. The Regional Government in carrying out its obligations as referred to in paragraphs (1) and (2) must pay attention to the rights and obligations of parents, guardians, husbands or other persons who are legally responsible for the victim.
+
+# CHAPTER V
+
+## IMPLEMENTATION OF PROTECTION
+
+First Part Institutional Arrangements
+
+#### Article 7
+
+1. The Regent establishes KP2A with a membership of at least g (nine) persons, with an organizational structure consisting of:
+   - a. Chairperson;
+   - b. Secretary;
+   - c. Division Coordinator:
+1. General Division;
+2. Study and Training Division;
+3. Network and Information Division;
+4. Advocacy and Litigation Division;
+5. Medical and Psychosocial Division;
+6. Service and Safe House Division;
+7. Rehabilitation Division.
+2. KP2A as referred to in paragraph (1) has the duties of:
+   - a. formulating various comprehensive protection efforts for victims of violence;
+   - b. raising awareness among women and children, especially victims of violence, regarding the importance of fulfilling human rights as human beings, based on institutions and the community;
+   - c. providing information and developing cooperation networks necessary in seeking protection for victims of violence;
+   - d. assisting the empowerment of victims of violence in their capacity as family members and as members of society;
+   - e. facilitating the availability of supporting facilities and infrastructure for the optimization of protection for victims of violence;
+   - f. implementing protection for women and children victims of violence;
+   - g. mobilizing funding sources for the benefit of implementing protection for victims of violence;
+   - h. carrying out protection activities for victims of violence;
+      - i. providing services and protection to victims of violence.
+3. KP2A as referred to in paragraph (1) reports the implementation of its duties to the Regent.
+4. Each division as referred to in paragraph (1) may be assisted by members according to needs.
+5. The membership of KP2A as referred to in paragraph (1) consists of elements from:
+   - a. Regional Apparatus;
+   - b. Professional Organizations;
+   - c. Community Leaders;
+   - d. Educational Institutions;
+   - e. Social Community Institutions.
+6. The term of office of KP2A as referred to in paragraph (1) is for 3 (three) years from inauguration and may be reappointed.
+7. KP2A as referred to in paragraph (1) proposes the establishment of PPT P2A according to needs.
+8. The organizational structure chart of KP2A is as set out in the appendix, which is an inseparable part of this Regional Regulation.
+9. The establishment and working procedures of KP2A and PPT P2A are stipulated by Regent's Decree.
+
+Second Part Handling and Mechanism
+
+#### Article I
+
+1. The implementation of protection for victims is carried out in an integrated manner within the KP2A forum.
+2. In handling medical, legal, medicolegal, psychological, and economic protection, KP2A may establish partnerships with social community institutions engaged in the field of protection of women and children.
+3. The implementation of protection for victims as referred to in paragraph (1) must take into account religious norms, as well as the rights and obligations of parents, guardians, husbands, or other persons who are legally responsible for the victim.
+4. The mechanism for handling protection as referred to in paragraph (1) shall be implemented according to standard operating procedures (SOP), which will be further regulated by a Regent Regulation.
+
+Third Part Principles of Service
+
+#### Article 9
+
+The provision of services to victims shall be conducted free of charge, promptly, safely, empathetically, non-discriminatorily, easily accessible, and with a guarantee of confidentiality.
+
+# CHAPTER VI
+
+## FORMS OF VIOLENCE AND PROTECTION
+
+#### Article 10
+
+1. Forms of violence against women and children include:
+   - a. Physical violence;
+   - b. Sexual violence;
+   - c. Economic violence;
+   - d. Psychological violence.
+2. Forms of physical violence as referred to in paragraph (1) letter a are any act that results in pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death.
+3. Forms of sexual violence as referred to in paragraph (1) letter b are sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with another person for commercial purposes and/or certain purposes.
+4. Forms of economic violence as referred to in paragraph (1) letter c are neglect of family members in the form of not providing a livelihood, care, or proper maintenance.
+5. Forms of psychological violence as referred to in paragraph (1) letter d are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering to a person.
+
+#### Article 11
+
+1. Every victim of violence must receive protection in accordance with applicable provisions.
+2. Protection for victims of violence as referred to in paragraph (1) is provided to every resident of Karanganyar Regency, both those who experience violence within the Territory of Karanganyar Regency and outside the Territory of Karanganyar Regency.
+3. Protection for victims of violence, in addition to being provided to residents of Karanganyar Regency as referred to in paragraph (2), is also provided to non-residents of Karanganyar Regency where the violence occurs within the Territory of Karanganyar Regency.
+
+#### Article 12
+
+1. Forms of protection for victims of violence include:
+   - a. medical protection;
+   - b. legal protection;
+   - c. medico legal protection (forensic medicine);
+   - d. economic protection;
+   - e. psychological protection.
+2. The form of medical protection as referred to in paragraph (1) letter a is in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics.
+3. The form of legal protection as referred to in paragraph (1) letter b is in the form of services and assistance to help victims undergo legal and judicial processes.
+4. The form of medico legal protection as referred to in paragraph (1) letter c is in the form of medical services for the purposes of evidence in the field of law.
+5. The form of economic protection as referred to in paragraph (1) letter d is in the form of skills-training services and providing economic access so that victims of violence can be independent.
+6. The form of psychological protection as referred to in paragraph (1) letter e is in the form of assistance in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation against victims and to provide psychological support so that victims have self-confidence, strength and independence in resolving problems.
+
+# CHAPTER VII
+
+## COMMUNITY PARTICIPATION
+
+:
+
+#### Article 13
+
+1. The Regional Government, in providing protection to victims of violence, may involve community participation.
+2. Community participation as referred to in paragraph (1) may be carried out by individuals, groups, or social community institutions.
+
+#### Article 14
+
+1. Community social institutions that participate in the implementation of protection for victims of violence as referred to in Article 13 paragraph (2) shall be given guidance by the Regional Government through Regional Apparatus in accordance with their main duties and functions. (2) The guidance as referred to in paragraph (1), may be in the form of social guidance, skills guidance and operational technical guidance.
+
+# CHAPTER VIII
+
+## SOURCES OF FUNDS
+
+#### Article 15
+
+1. The source of funds for the implementation of protection for victims of violence comes from the Regional Revenue and Expenditure Budget. (2) In addition to the source of funds as referred to in paragraph (1), it may also come from other lawful sources.
+3. The source of funds for implementation from other lawful sources as referred to in paragraph (2) shall be subject to supervision in accordance with the provisions of laws and regulations.
+
+# CHAPTER IX
+
+## SANCTION PROVISIONS
+
+#### Article 16
+
+Institutions that violate the principles of service may be subject to administrative sanctions in accordance with the provisions of applicable laws and regulations.
+
+# CHAPTER X
+
+## CLOSING PROVISIONS
+
+#### Article 17
+
+Other matters that have not yet been regulated in this Regional Regulation shall be further regulated by the Regent.
+
+#### Article 18
+
+This Regional Regulation shall come into force on the date it is promulgated.
+
+So that everyone may know, it is ordered that this Regional Regulation be promulgated by placing it in the Regional Gazette (Lembaran Daerah) of Karanganyar Regency.
+
+Enacted in Karanganyar on the date of December 2009 V Hj. RINA Tltffiffili,'f' Promulgated in Karanganyar on the date of December 2009
+
+##### REGIONAL SECRETARY
+
+REGIONAL GAZETTE OF KARANGANYAR REGENCY YEAR 2009 NUMBER *O T,Sffiffiffiffi,f' -
+
+##### ELUCIDATION
+
+##### REGIONAL REGULATION OF KARANGANYAR REGENCY
+
+##### NUMBER ... YEAR 2009
+
+##### REGARDING
+
+THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE
+
+t.
+
+##### GENERAL
+
+The Government has the obligation to provide a sense of security and to ensure that every member of the community is free from all forms of violence in the form of threats and actions that can disturb or damage psychological, physical, sexual and economic security, as mandated in the Preamble of the 1945 Constitution, which protects the entire Indonesian nation and the entire territory of Indonesia.
+
+The Indonesian Government has signed the Universal Declaration of Human Rights (UDHR 1948) and ratified Law Number 7 of 1984 concerning the Elimination of all forms of Discrimination against women; consequently, the Indonesian Government must comply with these provisions. Likewise, in the fourth amendment of the 1945 Constitution, Chapter XV of the 1945 Constitution concerning Human Rights, it is stated that the enforcement and fulfillment of Human Rights is the responsibility of the state, especially the Government.
+
+To realize the achievement of enforcement and fulfillment of human rights, the government is obliged to provide protection and a sense of security for women and children as set forth in a policy both at the national and regional levels.
+
+In the 1999 National Action Plan for the Elimination of Violence Against Women it is stated that women as mothers of the nation and children as successors of the nation are creatures created by God Almighty; therefore, they must be protected and their honor, dignity and self-respect must be safeguarded in a reasonable and proportional manner, legally, economically, politically, socially and culturally, without distinguishing ethnicity, religion, race and group in social, national and state life.
+
+From the series of policy provisions mentioned above, the Government is responsible for taking actions legally, politically, economically and socially to prevent, suppress, reduce and eliminate all forms of violence against women and children, both through policies applicable at the national and regional levels.
+
+##### II. ARTICLE BY ARTICLE
+
+#### Article 1:
+
+#### Article 2
+
+Letter a: Letter b: Letter c: Letter d:
+
+#### Article 3:
+
+#### Article 4:
+
+Sufficiently clear.
+
+Honoring the rights of victims is intended to guarantee the fulfillment of the rights of victims. Gender justice is a process to be fair to men and women; Gender equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings, so that they are able to play a role and participate in political, economic, social, cultural, defense and national security activities and equality in enjoying the results of such development.
+
+Non-discrimination is an attitude and treatment toward victims by not making distinctions based on age, sex, race, ethnicity, religion and among groups.
+
+The best interests of victims are that, in all actions concerning victims carried out by the government, society, legislative bodies and judicial bodies, the best interests of victims must be the primary consideration.
+
+Sufficiently clear.
+
+What is meant by "gender-based violence" is an act based on gender relations that places women in a subordinate position to men.
+
+What is meant by "obtaining protection" is obtaining protection from an individual, group or institution, both governmental and non-governmental. Obtaining information about the location of places for complaints, PPT and matters related to the fulfillment of their rights and
+
+#### Article 5
+
+#### Article 6
+
+#### Article 7
+
+#### Article 8
+
+#### Article 9
+
+#### Article 10
+
+#### Article 11
+
+#### Article 12
+
+### Paragraph (1)
+
+### Paragraph (2)
+
+### Paragraph (3) Letter (a)
+
+### Paragraph (5)
+
+### Paragraph (6)
+
+#### Article 13
+
+#### Article 14
+
+#### Article 16
+
+#### Article 17
+
+#### Article 18
+
+[To be] involved in every decision-making process related to assistance and the development of case handling.
+
+What is meant by "integrated services" is services that include medical, medico-legal, psychosocial, and legal services.
+
+What is meant by "ongoing handling" is handling that does not only stop at physical and psychological healing, but continues until the victim can resume their life in society, including the restoration of their reputation. What is meant by "receiving psychological and legal assistance" is receiving psychological and legal assistance at every level of examination and during the judicial process. Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Medical protection is carried out limited to initial efforts of treatment and recovery of physical injuries resulting from violence. Further treatment becomes the responsibility of the family.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.
+
+Sufficiently clear.

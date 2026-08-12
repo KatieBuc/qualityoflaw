@@ -1,0 +1,393 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 48,
+  "chunks_corrected": 18,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Omission: the year/number fragment \"2 2015\" and \"3 2015\" and \"4 2015\" appearing in the original (likely page/heading artifacts) is not reflected in the translation; downstream systems may rely on exact carryover of such text.",
+        "Meaning drift/format: the original has \"2 2015 Mengingat\" (i.e., the artifact appears immediately before \"Mengingat\"), but the translation starts directly with \"In View of\" without preserving that preceding text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: stray text \"5 2015\", \"6 2015\", \"7 2015\", \"8 2015\" in the original (page markers) is not reflected; translation should not silently drop source text for downstream evaluation consistency.",
+        "Scrambled/incorrect structure: the source contains an out-of-sequence page marker \"5 2015\" between items 3 and 4; translation should preserve this text in the correct position (as a standalone line) rather than omitting it."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: paragraph (3) incorrectly refers to paragraph (1); the original refers to paragraph (2)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"anak dan perempuan\" should be \"children and women\" (plural), not \"child and women\".",
+        "Scrambled/incorrect structure: item \"5.\" appears to belong to a different section/amendment and is not part of Article 6; it should not be attached under Article 6 in this excerpt."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (not \"Regent Regulation\")"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (3): 'Lurah Desa' is mistranslated as 'Village Headman'; it should be 'Village Head (Lurah)'.",
+        "Potential structural/formatting issue: trailing amendment clause '11. The provisions of Article 44...' is included but has no following amended text; keep as-is but ensure it is translated faithfully without adding or omitting content."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/leftover OCR artifact: stray text \"12 2015\" in the original is not reflected; the translation should preserve it as part of the legal text (as presented in the source)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Badan Kesejahteraan Keluarga\" should be translated as \"Family Welfare Agency/Body\" (not \"Family Welfare Body\"), and the phrase is a title/subject line that should read more naturally as an official heading.",
+        "Meaning drift/structure: the second line is a list of subject keywords; translation should preserve the keyword nature but correct the meaning of \"Perubahan\" as \"Amendment\" and \"Perlindungan\" as \"Protection\" in the context of a regulation title/subject (protection of child and women victims of violence)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Omission of the stray text/numbering \"2 2015\" present in the original; translation drops it entirely (likely OCR artifact but still part of source text)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the standalone text \"3 2015\" appearing before Letter e in the original is missing from the translation (only \"Number 3\" is retained)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Omitted stray page/numbering artifacts from the original (\"4 2015\" and \"5 2015 Angka 4\") are not represented; ensure no substantive content is missing (these appear to be pagination/formatting, not legal text).",
+        "Minor meaning drift/unnatural rendering: \"self assessment\" should be \"self-assessment\"; otherwise content matches."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Angka 5\" refers to item/number 5 within Article 6 and should not be rendered as a separate \"Point 5\" line; the phrase \"Cukup jelas Angka 5\" should be translated as a single statement tied to item 5."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Cukup jelas Angka 8\" refers to Point/Number 8 being self-explanatory, not Article 13 in general; the translation incorrectly separates and applies \"Self-explanatory\" to Article 13."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Cukup jelas Angka 9\" refers to Item/Number 9 as a whole; the translation incorrectly splits it into two separate statements (\"Sufficiently clear.\" and \"Item 9\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Angka 12\" refers to item/number 12 (a numbered point), not \"Point 12\" as a standalone line; the original indicates the explanation for Number 12 is sufficiently clear.",
+        "Structure: the phrase \"Cukup jelas Angka 12\" should be kept together as one statement tied to Number 12, not split into separate sentences/lines. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"mitra keluarga\" translated as \"family partners\"; should be \"Family Partners\" (proper name of a program/partner group) or \"family partner(s)\" in the sense of a specific community partner role, not partners within a family.",
+        "Meaning drift/omission: stray text \"7 2015\" in the original is not reflected; translation should not silently drop it (likely a page/year artifact) and should be retained or clearly represented as part of the text if it appears in the source."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"prosedur dipermudah\" translated as \"simplified procedures\"; should reflect that procedures are made easier (not merely simplified).",
+        "Minor meaning drift: \"adanya jaminan kerahasiaan\" rendered as \"guarantee of confidentiality\"; should reflect \"the existence of a guarantee of confidentiality\" (adanya)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in official abbreviations: \"a.n.\" and \"u.b.\" are rendered as \"on behalf of\" and \"for\"; should reflect the formal signatory notation (\"in the name of\" / \"by order of\") and the title \"Asisten Pemerintahan\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "DI_YOGYAKARTA_BANTUL_v2.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.415879+00:00",
+  "prompt_version": "v1"
+}

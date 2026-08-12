@@ -1,0 +1,464 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 58,
+  "chunks_corrected": 18,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item c: 'Peraturan Daerah tentang Pemberdayaan dan Perempuan' should be 'Regional Regulation on Women's Empowerment and Protection' (missing 'protection' and incorrect phrasing).",
+        "Minor meaning drift in item 2: 'Kotapraja' rendered as 'Municipal Cities'; should be 'Municipality' (Kotapraja) within the Level I Region of South Sumatra."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/list structure: list items are run together after the colon; should be clearly separated as items 1–17.",
+        "Minor meaning/term drift: 'Pendamping' translated as 'Companion' (should be 'Assistant/Companion (Pendamping)' or 'Assistant'); 'penelantaran rumah tanggal' refers to household neglect (typo in source) but translation is acceptable; add missing punctuation consistency (e.g., item 3 ends without period)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list formatting: several list markers (b./c., a./b./c., e./f., h./i.) are run together on the same line instead of being separated into distinct items, risking mis-association in downstream parsing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in (1)(b): 'continue offspring' should reflect 'continue lineage/descendants' (melanjutkan keturunan).",
+        "Minor meaning/grammar issue in (4): missing conjunction/structure; should clearly state right to obtain care and non-formal education."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item marker \"e.\" is merged into item \"d.\" on the same line instead of being a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: items a–d and paragraph (3) are run together on the same line; list markers are not cleanly separated from their content"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: paragraph (1) missing the main verb/obligation (should state that the implementation/provision is carried out through health services).",
+        "Scrambled list structure: in paragraph (2) items a and b are merged on one line; item b should be a separate lettered point."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"implementation for women\" should reflect \"penyelenggaraan ... bagi perempuan\" (provision/implementation of employment for women).",
+        "Meaning drift: \"without any gaps and differences with men\" should reflect \"without inequality/disparity or discrimination compared to men\" (kesenjangan dan perbedaan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Minor meaning/terminology drift: \"Mayoral Regulation\" should be \"Mayor Regulation\" (Peraturan Walikota).",
+        "Minor meaning drift: \"City Regional Government\" should reflect \"Municipal/City Local Government\" (Pemerintah Daerah Kota)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering: paragraphs (1) and (2) are run together without a clear break, unlike the original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Perempuan Pekerja Rumah Tangga\" refers to women who are domestic workers (female domestic workers), not \"Female Domestic Workers\" as a category title is acceptable but better rendered as \"Women Domestic Workers\"/\"Women Household Workers\"; however the main issue is that \"Pekerja Rumah Tangga\" is \"Domestic Workers\" and \"Perempuan\" modifies the workers (women), so \"Women Domestic Workers\" is the closer legal heading translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item d is merged into item c line instead of being a separate list item.",
+        "Minor meaning drift/awkward rendering: \"during disaster\" should be \"during a disaster\" (perlindungan saat bencana)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in paragraph (2): \"unconsciousness and or\" should be \"fainting and/or\" to match \"pingsan dan atau\".",
+        "Meaning drift in paragraph (5): \"severe psychological suffering to a person\" should be \"severe psychological suffering in a person\" to match \"pada seseorang\". "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": true,
+      "issues": [
+        "Scrambled list formatting in paragraph (1): item d is run together with item c on the same line (\"...); d.\")"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items c and d are combined on one line, obscuring separate lettered points.",
+        "Minor meaning drift/unnatural rendering: 'Kantor Kepolisian' should be 'Police Station' (not 'Police Offices')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in Article 36(3): item c is run together with item b on the same line (\"and c.\") instead of being a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural term: \"environmental social responsibility\" should reflect \"tanggung jawab sosial lingkungan\" as social and environmental responsibility (CSR)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"NOREG\" (registration number) is rendered but the phrase structure is inaccurate; it should reflect \"Registration Number of the Regional Regulation of Pangkalpinang City, Bangka Belitung Islands Province\".",
+        "Formatting/meaning: missing space before the parenthetical number \"NUMBER (1.8/2020)\". "
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KEPULAUAN_BANGKA_BELITUNG_PANGKALPINANG_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.737979+00:00",
+  "prompt_version": "v1"
+}

@@ -1,0 +1,294 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 32,
+  "chunks_corrected": 23,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Leftover notes/meta-commentary in the translated text (translator preamble and request for more text)",
+        "Original text \"Menimbang Mengingat\" was not translated; translation should contain only the legal text"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal formatting: leading '#' markdown header marker is not part of the legal text.",
+        "Scrambled structure: 'Menetapkan: I' is misplaced/omitted; 'Has decided:' appears too early (before items 3–4) and the 'I' (roman numeral) is missing.",
+        "Meaning drift/omission: 'Menetapkan: I' should be rendered (including the roman numeral) and positioned after the full list of legal bases (items 1–4), not between items 2 and 3."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list formatting: several lettered items (a–e) run together on the same line in Articles 2(2), 3, and 4, obscuring the list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: items b–e are run together on the same lines (\"b...; c...;\" and \"d...; e...\") instead of being clearly separated per marker."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: items b–d in paragraph (1) run together on one line instead of being separated as distinct list items.",
+        "Meaning drift: paragraph (4)(a) translates \"pendidikan luar biasa/pendidikan khusus\" as \"special education/special education\" (should distinguish \"special education\" and \"special needs education\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/formatting in Article 8(1) letter h: item 4 is merged into item 3 on the same line, disrupting list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged heading and article label: \"Community Article 10\" should reflect separate heading \"Community\" and \"Article 10\" as in the original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 12(1)(e): 'mencegah terjadinya perkawinan pada usia Anak' means preventing marriage at child age/child marriage, not 'preventing marriage at the age of Children'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list formatting: item markers and content run together (e.g., 'c.' and 'd.'; 'a.' and 'b.') causing list structure to be unclear."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Scrambled list formatting: item b in paragraph (1) is run together on the same line as item a.",
+        "Meaning drift/unnatural rendering: \"prevention of marriage at Child age\" should reflect \"prevention of marriage at a child's age/child marriage\" (perkawinan pada usia Anak)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Article number mistranslated (Pasal 17 rendered as Article 17, should be Article 17? Original is Pasal17 but heading shows 'Pasall7'—needs to be Article 17; however translation already Article 17; no issue. Actual issue: list item c mistranslated due to OCR ('pernuka agama' should be 'tokoh agama' = religious leaders) but translation ok; main issue is formatting/list structure: Article 20(3) item b and Article 20(4) are run together on one line, obscuring paragraph separation.",
+        "Scrambled/merged structure: Article 20(3)(b) and Article 20(4) are not properly separated; (4) should be its own paragraph after (3)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Perundang-undangan\" should be translated as \"laws and regulations\" (lowercase), not as a formal title \"Laws and Regulations\".",
+        "Minor punctuation/spacing issue: missing space in \"ayat (1)sesuai\" reflected as a spacing issue in translation; also stray exclamation mark in original should not introduce extra content but translation should remain clean legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 25: Indonesian text indicates the child has exceeded the formal education age limit by 3 years (\"melewati batas usia ... 3 tahun\"), but the translation reads as if they exceeded 3 years beyond the age limit for formal education without clearly tying it to the formal education age limit; needs clearer rendering to match the original condition."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: paragraph headings and article numbers run together (e.g., \"Paragraph 3 Employment Article 31\"; \"Paragraph 4 Social Article 36\"; Article 38(3) merged with Article 39).",
+        "Minor meaning drift/terminology: \"panti sosial\" translated as \"social institutions\"; should be \"social homes\"/\"social shelters\" (panti sosial)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: in Article 42, item h and item i are merged on one line (\"h...; i. Police\"), disrupting the list structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Leftover stray character \"I\" appears multiple times and is not part of the legal text",
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regent's Regulation\" with an article (\"a\") to reflect Indonesian phrasing; current text missing article and reads ungrammatical"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Extraneous leftover text/artefacts: stray page number \"25\" embedded in Article 46(1) and a stray bullet \"•\" in Article 48(4).",
+        "Meaning drift: \"Women Crisis Centre (WeC)\" mistranslated as \"Women Crisis Centre (WCC)\" (abbreviation differs from original)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in Article 50(2): items a–e are run together on the same lines (a with b; c with d), reducing clarity of the enumerated list."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in Article 54(1): item marker 'e.' is merged into item 'd.' instead of being a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'gagasan' translated as 'thoughts' instead of 'ideas/concepts' (duplicate with 'ideas')",
+        "Meaning drift: 'dalam kabupaten' rendered as 'within the regency' but should reflect the structure 'sub-districts within the regency' (i.e., within the regency area)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah Kecamatan\" refers to the Sub-district Government, not the District Government (which can imply a higher administrative level)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 58(2) item f: 'rumah sakit umum' (general hospitals) translated as 'hospitals' (omits 'general')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: \"orders the promulgation\" lacks an explicit subject; should reflect the standard formula \"it is ordered\"/\"the promulgation ... is ordered\".",
+        "Minor meaning drift: \"on date\" should be \"on the date\" to match \"pada tanggal\" (date field remains garbled but should be rendered as a date line)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SUMATERA_SELATAN_MUSI_BANYUASIN.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.900654+00:00",
+  "prompt_version": "v1"
+}

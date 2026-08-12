@@ -1,0 +1,135 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 14,
+  "chunks_corrected": 9,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Mengingat' should be translated as 'In view of' (legal drafting), not 'Remembering'.",
+        "Scrambled/incorrect numbering: 'Ii.' should be normalized to the roman numeral list marker 'II.'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the closing line in Indonesian ends with \"... dan\" (and) only; the translation adds \"Decides:\" which is not present in the provided original excerpt.",
+        "Meaning drift: \"Menetapkan\" appears as an OCR artifact within item 15 in the Indonesian text and should not be rendered as part of the legal citation; the translation omits it (good) but then adds an unrelated structural element (\"Decides:\") not supported by the source excerpt."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 15: 'sapir' (sopir) translated as 'drivers' (plural) instead of 'driver' (singular), and 'pembantu, sapir' should be rendered as examples of non-relatives in singular form consistent with the original.",
+        "Minor meaning/structure fidelity: item 4 omits the explicit parallelism 'baik ... maupun ...' (both ... and ...) and reads awkwardly; should clearly cover physical, sexual, economic, social, and psychological suffering."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'kepentingan terbaik bagi korban' translated as 'best interests of victims' but should be 'best interests of the victim' (singular)",
+        "Meaning drift/grammar: Article 3 final clause mis-scoped; should refer to violence occurring in the household and/or public, not 'best interests of the child that occur'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering: \"report on\" should be \"report\"; \"whether from\" misrepresents the source/provider of protection/services; clarify that services are provided by individuals/groups/institutions from both local government and non-government while keeping original meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" (a regulation issued by the Regent), not \"Regent Regulation\" without the article; also \"wadah\" is better rendered as \"forum\"/\"container\" but current is acceptable—main issue is minor but legal term should be precise.",
+        "Minor OCR/typo normalization needed: original has \"dapal\" and \"daTi\"; translation should reflect intended meaning \"dapat\" and \"dari\" (may/able to; from)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Peraturan Bupati\" should be translated as \"Regent Regulation\" or \"Regulation of the Regent\" (not \"Regent Regulation\" without article is acceptable, but the original indicates a specific type of regulation; clarify as \"Regulation of the Regent\" for fidelity)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: heading and article number run together (\"Principles of Service Article 9\") instead of separating the section heading from Article 9.",
+        "Minor meaning/format issue: \"jaminan._- kerahasiaan\" indicates \"a guarantee of confidentiality\"; translation should reflect \"a guarantee of confidentiality\" explicitly and keep the legal structure (Article 9/Article 10) clear. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the original specifies \"keahlian ...\" (expertise in the relevant field) and that they have worked together with PPT; translation weakens this to generic expertise and \"have cooperated\".",
+        "Minor formatting/structure: missing separation between \"Article 11\" and the article text (should reflect \"Pasal 11\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TIMUR_BANGKALAN.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.587236+00:00",
+  "prompt_version": "v1"
+}

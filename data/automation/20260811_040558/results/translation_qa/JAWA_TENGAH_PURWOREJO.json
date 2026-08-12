@@ -1,0 +1,1175 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 151,
+  "chunks_corrected": 42,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Omission: the Indonesian text ends with \"Dan\" indicating continuation; the translation ends with \"And\" but does not reflect that it is incomplete/continued (missing the counterpart party after \"And\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Item 8 mistranslates \"Kelurahan\" (urban village/administrative village) as \"Sub-district\"; \"Kecamatan\" is the sub-district, not \"Kelurahan\".",
+        "Meaning drift: Item 15 mistranslates \"kerja atau Pelayanan paksa\" as \"forced labor or Services\"; should be \"forced labor or forced services\" (forced service)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: items b and c are merged on one line; list markers/content should be separated per original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (b): 'Perlakuan Salah Terhadap Anak' means 'mistreatment of children' (as a form to be prevented), not 'Mistreatment of Children' as a standalone phrase; also 'Eksploitasi' should be linked as a form to be prevented against children, and 'neglect' refers to child neglect.",
+        "Meaning drift in item (g): 'pengamanan sosial' is 'social safeguarding' (not 'social security')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items a and b are on the same line; list markers should be separated into distinct items matching the original order."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: several lettered items run together on the same line (b with c; f with g; j with k; n with o), and item j is missing its terminating punctuation before item k.",
+        "Meaning drift in item i: Indonesian grants protection from being targeted for persecution/torture/inhuman punishment and grants freedom in accordance with law; English reads as protection from inhuman punishment and freedom, which is unclear—needs to reflect 'and (the right to) freedom in accordance with law'.",
+        "Meaning drift in item m: Indonesian covers (1) children with disabilities have the right to special education, and (2) children with excellence have the right to special education; English incorrectly ties special education for children with excellence to 'for children with disabilities'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items c–e are run together on one line instead of separate lettered points, risking downstream parsing errors."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: several lettered items (a–j) are run together on the same line (a with b; f with g; g with h), reducing clear item separation needed for downstream processing."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: item f is run together with item e on the same line, reducing clarity of the lettered list."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item d: 'menolak pekerja anak dibawah umur' means prohibiting/refusing underage child labor; translation 'refusing child workers under age' is unclear/awkward and can be misread.",
+        "Meaning drift in paragraph (4): 'sanksi ... tidak dilaksanakan' refers to the sanction (warning) not being complied with/heeded; translation 'sanctions ... are not implemented' shifts the actor/meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering in item (e): 'preventing marriage at child age' should be 'preventing marriage at a child age/underage marriage' (mencegah perkawinan di usia anak).",
+        "Meaning drift in item (f): 'express opinions or thoughts' omits 'expression of thoughts' (ekspresi pikirannya) and slightly shifts meaning; should reflect 'opinions or expression of their thoughts'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (3): 'ras, atau kesetaraan' refers to discrimination based on gender, race, or equality (i.e., equality-related), not 'gender, racial, or equality injustice'.",
+        "Meaning drift in paragraph (4): 'psikis' is 'psychic/psychological' but the structure should indicate forms of violence (physical, psychological, sexual), not 'conducted either physically, psychologically, or sexual violence'.",
+        "Minor meaning drift in paragraph (5): 'kehormatan' is 'honor' (not 'respect'); keep the triad 'dignity, dignity/martabat, and honor' as in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pengaman sosial\" translated as \"social security\"; more accurate is \"social safeguards\"/\"social protection measures\" in this context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pengamanan sosial\" translated as \"Social security\"; should be \"Social safeguarding\"/\"social protection\" in the sense of security measures, not social security benefits.",
+        "Meaning drift: \"Pemerintah Desa/Kelurahan\" rendered as \"Village/Sub-district Government\"; \"Kelurahan\" is an urban village/administrative village, not a sub-district."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (2)(c): \"Kelurahan\" was translated as \"Sub-districts\"; it should be \"Urban Villages\" (Kelurahan) and Villages (Desa)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in paragraph (2): items c–e are run together on the same line as b and not clearly separated.",
+        "Minor meaning/term drift: 'tenaga pendamping di bidang mental spiritual' should be rendered as companion/assistant personnel in the field of mental and spiritual (support), not 'mental spiritual' as a single unclear term."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemerintah Desa/Kelurahan\" translated as \"Village/Sub-district Government\"; \"Kelurahan\" is an urban village/administrative village, not a sub-district (kecamatan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in paragraph (2): \"provides Assistance or handling\" does not clearly reflect \"memfasilitasi atau melakukan pendampingan atau penanganan\" (facilitates or carries out assistance/accompaniment or handling)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"the results of mediation agreement\" should be \"the result of a mediation agreement\" (hasil kesepakatan mediasi).",
+        "Meaning drift: \"court decision\" should be \"a court decision\" (putusan pengadilan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: items f and g run together on one line, obscuring the list separation.",
+        "Minor meaning drift/unnatural rendering: 'aim for Prevention against' should be 'aimed at preventing' to reflect 'bertujuan untuk Pencegahan terhadap'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: paragraph (7) lacks the prohibition clause (“is prohibited for any reason whatsoever”) present in the Indonesian text’s pattern and intended norm.",
+        "Meaning drift: paragraph (7) mistranslates the actor/subject; it should prohibit parents’ discriminatory/favoritism acts and gender-inequality injustice toward children, not “toward children who discriminate”."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 31(4)(b): 'pemutusan nilai restitusi' is a decision/determination of restitution amount, not 'determination of restitution value' (awkward/less precise legal meaning).",
+        "Punctuation/listing issue in Article 31(5)(b): 'and/or;' has an extra semicolon after 'and/or' not present in the original structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pengamanan sosial\" translated as \"social security\"; should be \"social safeguarding/protection\" in this context",
+        "Meaning drift: item (d) \"pengamanan terhadap pelaku\" rendered as \"security against\"; should indicate securing/controlling the perpetrator"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Anak Korban\" translated as \"Child Victims\" instead of \"Child Victims\"/\"Child Victim\"; should reflect \"Child Victim\" (child who is a victim) rather than victims generally.",
+        "Meaning drift: item (e) \"bagi keluarga yang rentan\" translated as \"for vulnerable families\"; should be \"for vulnerable families\" is acceptable but more precise is \"for vulnerable families\"—however the main issue is consistency with legal subject; also (1) should be \"Child Victims\"? singular/plural mismatch."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kelurahan\" translated as \"Sub-district\"; it should be \"Urban Village\" (Kelurahan) distinct from Kecamatan (Sub-district)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: paragraph (2) is incomplete in the translation; the original states that the report recipient referred to in Article 35(3) is for protecting the reporter, victim, and witness (i.e., has the role/purpose to protect them)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 64,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 65,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"untuk tujuan penyidikan\" means for the purpose of investigation (criminal investigation), not generic \"investigation purposes\"; clarify as investigative/criminal investigation context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 66,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 67,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 68,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 69,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in item (2): \"through parents, guardians, or Regional Government\" should reflect payment made via parents/guardians or the Regional Government (as intermediary), not \"to ... through\".",
+        "Minor meaning/grammar issue in (2)(a) and (2)(b): missing definite articles/possessive clarity (\"the results of a mediation agreement\"; \"a court decision\") affecting legal clarity. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 70,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 71,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Desa/Kelurahan\" translated as \"Village/Sub-district\"; \"Kelurahan\" is urban village/ward, not sub-district."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 72,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 73,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 74,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 75,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item (1)(c): \"pengamanan sosial\" translated as \"social security measures\"; should be \"social safeguarding/social security\" in the sense of social protection/safeguarding, not social security benefits."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 76,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: item marker \"f.\" is merged into item \"e.\" instead of being a separate list item.",
+        "Minor meaning drift/grammar affecting modality: missing subject in \"may involve\" clause; should be \"it may involve\" (the Regional Government)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 77,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure in paragraph (3): items c–e are run together on one line, obscuring separate markers.",
+        "Meaning drift/terminology: \"Perbuatan Salah Terhadap Anak\" rendered as \"Wrongdoing Against Children\"; should be \"mistreatment/abuse of children\" in this legal-protection context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 78,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 79,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 80,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 81,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 82,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 83,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 84,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 85,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 86,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"piagam\" translated as \"plaques\"; should be \"charters/certificates of appreciation\" (written commendation), not a physical plaque."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 87,
+      "action_required": true,
+      "issues": [
+        "Leftover untranslated heading: \"BAB XIV\" should be translated to \"CHAPTER XIV\" to match the English translation context"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 88,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in paragraph (2): items a and b are run together on one line; should be separated into distinct list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 89,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 90,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 91,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 92,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 93,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'melindungi segenap tumpah darah' translated as 'protect the entire nation' instead of protecting the entire homeland/territory (land and blood)",
+        "Minor meaning drift: 'sosialisasikan' rendered as 'socializing' (awkward/incorrect verb choice); should be 'disseminating/raising awareness'"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 94,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 95,
+      "action_required": true,
+      "issues": [
+        "List/numbering issue: original has two items labeled 'Huruf g' but they refer to different principles; the second should be 'Huruf h' to preserve distinct lettering and avoid ambiguity in downstream evaluation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 96,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 97,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 98,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 99,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 100,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: in Point g, items b and c are merged on one line, obscuring the separate lettered list items."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 101,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'perubahan hak milik' means change of ownership rights, not transfer of ownership rights."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 102,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Pemerintah Desa/Kelurahan' translated as 'Village/Sub-district Government' (Kelurahan is urban village/ward, not sub-district).",
+        "Meaning drift: 'pengurusan perubahan hak milik' translated as 'managing the transfer of ownership rights' (should be change/amendment of ownership rights, not necessarily transfer)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 103,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 104,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 105,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 106,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 107,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 108,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 109,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 110,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 111,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 112,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 113,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Huruf\" (lettered sub-items) translated as \"Point\"; should be \"Letter\" to match the original structure.",
+        "Scrambled/duplicated structure: final line \"Ayat (1) Cukup jelas.\" appears again after Ayat (2) in the original; translation should reflect it as an additional Paragraph (1) note (keep but ensure structure is consistent)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 114,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 115,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 116,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 117,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 118,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 119,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 120,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 121,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 122,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 123,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 124,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 125,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 126,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 127,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 128,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 129,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 130,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 131,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 132,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 133,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in Letter d, \"harkat, dan martabat\" was translated as \"dignity, and the dignity\" (duplicate/incorrect rendering); should be \"status and dignity\" (or equivalent) to reflect both terms."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 134,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 135,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 136,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 137,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 138,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 139,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 140,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 141,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 142,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 143,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 144,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 145,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 146,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 147,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 148,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 149,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 150,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_TENGAH_PURWOREJO.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.555797+00:00",
+  "prompt_version": "v1"
+}

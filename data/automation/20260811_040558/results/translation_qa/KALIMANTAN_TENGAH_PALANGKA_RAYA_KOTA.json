@@ -1,0 +1,531 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 60,
+  "chunks_corrected": 37,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"DENGAN RAHMATTUHANYANG MAHA ESA\" is mistranslated; it should reflect \"By the Grace of God the One and Only\" (\"Yang Maha Esa\"), not \"God Almighty\" (\"Yang Maha Kuasa\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal page/section marker in translation: \"- 2 -\" (from original pagination \"I 11 - 2 -\") should be removed from the translated legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in item 13: 'Regional Gazette of Palangka Raya City Year 2017 Number 17' should be 'Year 2013 Number 17' per the original.",
+        "Minor meaning drift in item 11: 'Implementation of Coordination of Child Protection' should reflect 'Organization/Administration of Coordination for Child Protection' (Penyelenggaraan Koordinasi Perlindungan Anak)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": true,
+      "issues": [
+        "Leftover non-policy text/page marker included: \"I 11 - 5 -\"",
+        "Meaning drift: item 7 translates \"secara hukum\" as \"by law\" instead of \"unlawfully/illegally\"",
+        "Meaning drift: item 12 translates \"Kota Layak Anak\" as \"Child Friendly City\"; the established meaning is \"Child-Friendly City\" (not \"City\" as a generic friendly city) and should reflect \"Kota Layak Anak\"",
+        "Meaning drift: item 16 translates \"Kelurahan\" as \"Village\"; it should be \"Urban Village/Sub-district (Kelurahan)\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal/OCR artifact text included in translation: \"I 11 - 6 -\" between Article 3 and Article 4"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/lettering structure: item d is merged into item c instead of being a separate list item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text/artefact in translation: \"I 11 - 7 -\" appears between paragraphs (1) and (2).",
+        "Minor meaning drift/unnatural rendering: \"shall be implemented by\" for services; better as \"shall be carried out/undertaken\" to match \"dilaksanakan oleh\". Also \"Mayor Regulation\" should be \"Mayor's Regulation\" (Peraturan Walikota)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering: \"prevention of child marriage at child age\" should reflect \"pencegahan perkawinan anak pada usia anak\" as prevention of child marriage at a child's age/while still a child.",
+        "Minor typo in source (\"melakl..lkan\") correctly intended as \"melakukan\"; translation should consistently render as \"carry out/conduct\" (already mostly correct) but item d needs correction for meaning clarity. "
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the chapter number/identifier \"BABIJT\" is not translated; it should be rendered as \"CHAPTER IV\" (OCR artifact for \"BAB IV\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: 'Perlindungai1 Anak' should be translated as 'Child Protection' (already correct), but item a 'pelayanan' is better rendered as 'service provision' rather than 'services' to match the legal sense of providing services.",
+        "Scrambled/leftover text: trailing 'I 11 - 9.' appears to be an OCR/page artifact and not part of the legal provision; it should be removed from the translated legal text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: 'Mayor Regulation' should be 'Mayor's Regulation' (Peraturan Walikota).",
+        "Minor omission of article: missing 'a' before 'Mayor's Regulation' in English legal phrasing. (Not required but aligns meaning: 'by a Mayor's Regulation'.)"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering structure: several lettered items are run together on the same line (d/e in paragraph (1); d in paragraph (2); i/j in paragraph (2)), which can affect downstream parsing; reformat to clearly separate each marker and its content.",
+        "Minor meaning drift/normalization: render 'anak yang berhadapan dengan hukum' more literally as 'children who are in conflict with the law' (current is acceptable but standard legal phrasing is 'in conflict with the law'); keep content otherwise unchanged."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kota Layak Anak\" mistranslated as \"Child-Friendly City\"; should be \"Child-Friendly City/Regency\" (KLA) or \"Child-Friendly City\" only if the original says \"Kota\"—here it is \"Kota\" but the term is a formal program name commonly rendered \"Child-Friendly City\"; however the original has OCR error \"Kola\" and should be treated as \"Kota\"; keep as \"Child-Friendly City\" but ensure term reflects \"Kota Layak Anak\".",
+        "Meaning drift/typo: Indonesian has \"penelantaran\" (neglect/abandonment) but source OCR shows \"penebntaran\"; translation uses \"neglect\" which is correct, but paragraph reference uses \"ayat (I)\" with roman numeral I; should be \"paragraph (1)\" to match legal numbering."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text/page marker: \"- 11 -\" included in the translation output.",
+        "Minor meaning drift/unnatural rendering in paragraph (4): \"prevention of rights violations\" should reflect \"prevention of violations of rights\" (violations against rights)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: heading and article title run together (\"Monitoring Article 15\") instead of separating the section title from the article number/title.",
+        "Minor meaning/term issue: \"penyelenggaraan pemantauan\" is better rendered as \"conduct of monitoring\" rather than \"implementation of monitoring\" in this legal context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in Article 16(2)(e): \"lembaga swadaya masyarakat\" should be translated as \"non-governmental organizations (NGOs)\", not \"community organizations\".",
+        "Meaning drift in Article 16(3)(d): \"pemulangan\" means \"return\" (repatriation/returning home) of victims, not \"repatriation\" in a general sense; clarify as \"return (repatriation)\" to match the original term. Also original has \"pemulangan\" (not \"pernulangan\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"Bagian Kcsatu\" should be \"Bagian Kesatu\" meaning \"Part One\"; translation is fine but source indicates a typo—no correction needed in English, however \"U1num\" is OCR for \"Umum\" and should be translated as \"General\"; ensure it reflects the original heading \"Umum\".",
+        "Scrambled/OCR artifact in original (\"U1num\") not explicitly reflected as \"Umum\"; translation should remain \"General\" but align capitalization/structure with headings. No leftover commentary."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal/OCR page markers included in translation: \"I 11 - 12 -\" and \"I 11 - 13 -\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (1): original requires an information system for Women and Children data; translation implies an information system for Women and Children data (ok) but paragraph (1) in original specifically says 'data Perempuan dan Anak' and paragraph (2) clarifies the Women data system is inseparable from the Children data system—translation of (1) should align by stating 'information system for Women and Children data' without implying a single combined system only; adjust wording to match structure.",
+        "Meaning drift/terminology in paragraph (3): 'Peraturan Walikota' should be translated as 'Mayor Regulation' or 'Mayor's Regulation'; current 'Mayor Regulation' is acceptable but missing article/possessive can be ambiguous; standardize to 'Mayor Regulation' consistently."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo in original heading: \"Pcrempuan\" should be \"Perempuan\" (Women); translation is correct in meaning but source text contains an OCR error that should be reflected as corrected translation alignment."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Kelem bagaan\" (intended \"Kelembagaan\") refers to \"Institutional\"/\"Institutional Framework\", not plural \"Institutions\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: paragraph (3) references paragraph (1) in the translation, but the original references paragraph (1) (ayat (1)) for technical services; however paragraph (6) references paragraph (3) in the original and must remain so; ensure consistency with original (3) refers to ayat (1).",
+        "Meaning drift/term accuracy: 'Peraturan Walikota' should be translated as 'Mayor Regulation' or 'Mayor's Regulation'; add definite article 'a' as needed but keep legal meaning; also 'sanggar anak' is better rendered as 'children's studio/children's activity center'—current is acceptable but clarify as 'children's activity center (sanggar anak)' to avoid loss of meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"?eraturan Walikota\" should be translated as \"Mayor Regulation\" (Peraturan Wali Kota), not \"Mayoral Regulation\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"kelurahan\" was translated as \"Village\"; it should be \"Urban Village\" (kelurahan)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Kelurahan' should be translated as 'urban village' (not 'village'), and 'lurah' as 'urban village head' (not 'village head').",
+        "Minor meaning/term accuracy: 'Peraturan Walikota' should be rendered as 'Mayor Regulation' with consistent capitalization/article usage."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item c is run together with item b and should be a separate list item.",
+        "Meaning drift/unnatural phrasing: \"prevent marriage at Child age\" should reflect \"prevention of marriage at the age of a child\" (child marriage)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"prevention of marriage at Child age\" should reflect \"pencegahan perkawinan pada usia Anak\" as prevention of marriage at a child's age/child marriage."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Child Victims of Violence\" should be plural \"Children Victims of Violence\" to match \"Anak Korban Kekerasan\" (children victims of violence)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item i: original refers to provision of a safe house and/or social (services), not \"social houses\".",
+        "Meaning drift in paragraph (4): should be regulated by a Mayor Regulation (a regulation of the Mayor), not \"Mayor Regulation\" as a title without article."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (1): original refers to supervision of 'Anak Korban Kekerasan' (Child Victims of Violence), but translation shifts to 'Women and Child Victims of Violence Protection' (adds women and changes object to 'Protection').",
+        "Meaning drift/inconsistency: original consistently refers to 'Perlindungan Perempuan dan Perlindungan Anak Korban Kekerasan' (Women’s Protection and Protection of Child Victims of Violence), but translation alternates between 'Child Victims of Violence Protection' and 'Child Protection' and omits 'victims of violence' in paragraphs (4)-(7).",
+        "Meaning drift in paragraph (4): original states guidance/supervision is to realize the objectives of Women’s Protection and Child Protection; translation omits 'Women’s Protection' and changes scope."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pemantauan\" was translated as \"monitoring results\"; the original refers to \"hasil pemantauan\" (results of monitoring/observation) of the implementation/administration of protection, not \"monitoring results of the implementation\" in a way that could imply monitoring itself is being implemented.",
+        "Minor meaning drift/wording: \"penyelenggaraan\" is better rendered as \"administration/implementation\" of the protection program; current phrasing is slightly unclear. Also \"pemenuhan\" should be \"fulfillment\" (of rights/needs) but should remain clearly part of the basis documents list."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in paragraph (5): reference should be to paragraph (1), not paragraph (4)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: paragraph (1) missing the main verb conveying that the reporting is used/serves as consideration material for the Mayor."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged list structure: item b is merged into the same line as item a; restore separate list items a and b per original formatting.",
+        "Minor meaning drift/typo carryover: OCR corruption in original ('ses1.1ai deng;,m kelcnluan') should be rendered as 'in accordance with the provisions'—ensure clean legal phrasing without artifacts."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/grammar: missing verb and unclear phrase \"m1 paling iama\"; should state that implementation must occur no later than 1 year from the date this regulation is promulgated."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: missing phrase equivalent to \"Agar setiap orang mengetahuinya\" (\"so that everyone may know\") in the second sentence.",
+        "Scrambled/merged structure: promulgation/enactment lines are run together and partially untranslated (\"pada tanggal\" left as \"on the date\" without indicating the date is to be filled), and the placement clause should refer to the Regional Gazette (Lembaran Daerah) of Palangka Raya City."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the phrase \"LEMBARAN DAERAH\" is translated but the jurisdiction \"KOTA\" is not consistently preserved (\"Regional Gazette of Palangka Raya City\" is fine, but the preceding line omits \"KOTA\" in Indonesian context and the English line \"YEAR 2021 NUMBER\" is missing the actual number present in the original line).",
+        "Meaning drift: \"NOMOR REGJSTER\" is rendered as \"REGISTER NUMBER\" but the original refers to the registration number of the regional regulation (\"Nomor Register Peraturan Daerah\"), so the English should explicitly reflect that relationship rather than a standalone register number."
+      ],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_TENGAH_PALANGKA_RAYA_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.698845+00:00",
+  "prompt_version": "v1"
+}

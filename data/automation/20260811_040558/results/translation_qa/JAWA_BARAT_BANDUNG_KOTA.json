@@ -1,0 +1,321 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 37,
+  "chunks_corrected": 16,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: the heading includes \"Mengingat\" (In View of) but the translation omits it from the title line (only \"Considering\" appears)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 13: 'Pelayanan' should be translated as 'Service' (a defined term), not 'Service is immediate activities and actions' (adds 'immediate' and shifts meaning).",
+        "Meaning drift in item 14: 'Penanganan' should be translated as 'Handling' (a defined term), not 'Handling is actions taken' (adds wording not in original).",
+        "Meaning drift in item 16: 'Pendampingan' should be translated as 'Assistance/Accompaniment' (the activity), while 'Pendamping' is 'Companion/Assistant'; current translation risks conflating the actor and the activity."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: item (c) omits that the services are for handling empowerment and protection of women who are victims of violence (\"Perempuan korban tindak kekerasan\"), not \"Empowerment and Protection of Women victims of violence\" as a general phrase.",
+        "Meaning drift: item (d) mistranslates \"keluarga, kelompok\" as \"in families and groups\"; it should be \"family, group, and community\" contexts (\"secara individual, keluarga, kelompok dan Masyarakat\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'berkeluarga dan melanjutkan keturunan' translated as 'form a family and continue descendants' (should be 'have a family and continue offspring/lineage').",
+        "Meaning drift: 'turut serta dalam pemerintahan' translated as 'participate in government' (should be 'participate in governance/government administration').",
+        "Meaning drift/awkward legal meaning: 'hak untuk dipilih dan memilih' translated as 'the right to be elected and to elect' (should be 'the right to vote and to be elected').",
+        "Meaning drift: item (6)(e) structure implies ensuring fulfillment of the mother's rights; translation makes it read as a single right and is unclear; needs closer mirroring of original clause structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Bagian Kesatu\" heading \"Penyelenggaraan Pemberdayaan\" is mistranslated/merged as \"Implementation of Empowerment\" (missing \"Women’s\" and the full phrase \"Implementation of Empowerment of Women\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": true,
+      "issues": [
+        "Leftover page marker \"-10-\" included in the translated legal text (not part of the provision)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal text/page marker \"-13-\" included in translation."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged structure: \"Article 17 (1)\" is not formatted as a separate article heading followed by paragraph (1), unlike the original \"Pasal 17\" then \"(1)\".",
+        "Minor meaning drift: \"dunia pendidikan\" is \"the world/sector of education\"; translation \"the education sector\" is acceptable, but to stay closer to the original parallel structure with other domains, render as \"the education environment/sector\" and keep consistent domain phrasing. Also \"Masyarakat\" should be \"the community\" rather than capitalized \"Society\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal page markers included in the translated text (\"-14-\", \"-15-\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering in Article 19(1): missing that protection is 'carried out' comprehensively and integrated (current wording implies the women are implemented).",
+        "Minor meaning drift in Article 20(7): 'extraction of victim information' should be 'gathering/exploration of information about the victim'.",
+        "Minor meaning drift in Article 22: 'easily accessible to the community' should reflect 'easily reached by the community' (services easily accessible by the public)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: UPTDPPA in the original is translated as UPTD PPA (missing the full acronym as written).",
+        "Meaning drift: item (2)(g) in the original is 'identify economic needs' but translation adds 'empowerment' (economic empowerment needs).",
+        "Meaning drift: item (2)(e) structure is mistrendered; original lists 'psychosocial, social and empowerment' separately and includes 'social empowerment' and 'social reintegration'—translation collapses/omits parts.",
+        "Meaning drift: Article 25(2) opening clause is garbled in the original ('...melalui: terselenggaranya tindak kekerasan') and translation omits that fragment rather than reflecting it.",
+        "Meaning drift: Article 25(2)(b) mistranslates 'secara psiologis dan phsikologis' as 'psychologically and psychically' (should reflect the duplicated/erroneous terms as 'psychologically and psychologically' or similar)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"pembinaan\" in this context is better rendered as \"guidance\" (capacity building) rather than \"development\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Pemberdayaan Dan Pelindungan Perempuan\" translated as \"Women's Empowerment and Protection\"; should be \"Women's Empowerment and Protection of Women\" (Pelindungan Perempuan = protection of women), not a generic \"protection\".",
+        "Meaning drift: \"kebijakan\" (policy) rendered as plural \"policies\" in paragraph (1)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"BAB IX\" was translated as \"CHAPTER IX\" but the original states \"BAB IX\" (Chapter 9) while the Indonesian text shows \"BABIX\" which corresponds to Chapter IX; however the main issue is the mistranslation of \"Peraturan Daerah Ill!\" which appears to be \"Peraturan Daerah ini\" (this Regional Regulation) and should be rendered consistently as \"this Regional Regulation\" without the stray \"Ill!\" artifact.",
+        "Leftover OCR/garbage text in source reflected/handled: the original contains an OCR artifact \"Ill!\" that should not appear as a different meaning; translation should reflect the intended legal text (\"ini\" = \"this\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"LEMBARAN DAERAH\" should be rendered as \"Regional Sheet\" (official gazette sheet), not \"Regional Gazette\".",
+        "Meaning drift/omission: \"Sesuai dengan aslinya\" means \"In accordance with the original\"; translation changes it to \"Certified true copy\".",
+        "Meaning drift: \"BAGIAN HUKUM\" is \"Legal Section/Legal Affairs Division\", not \"Legal Bureau\".",
+        "Meaning drift: \"PEMERINTAH KOTA BANDUNG\" is \"Bandung City Government\"; translation renders it as \"BANDUNG CITY GOVERNMENT\" but drops \"Pemerintah\" nuance; keep as \"Bandung City Government\" in a formal line."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: original states Articles 6 and 7 together as 'Pasal 6 Pasal 7 Cukup jelas', but translation splits them into two separate 'Sufficiently clear' statements, altering the structure/content."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "JAWA_BARAT_BANDUNG_KOTA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.456231+00:00",
+  "prompt_version": "v1"
+}

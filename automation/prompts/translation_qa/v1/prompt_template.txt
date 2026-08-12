@@ -1,0 +1,29 @@
+You are quality-checking one piece of a machine translation of a local Indonesian government policy into English. The translation is used downstream for automated legal-indicator evaluation, so translation quality directly affects that evaluation's accuracy. Below is the ORIGINAL Indonesian text and the ENGLISH translation produced for it. Check the translation against the original and decide whether it needs correction.
+
+### Your task
+
+Check the translated text for these three problems only:
+
+1. Leftover notes or commentary: any text that isn't part of the actual translated policy — LLM preambles ("Here is the translation:"), meta-commentary, bracketed translator remarks, apologies, or explanations of what was done. The translated text must contain ONLY the translated legal text itself.
+2. Scrambled list/numbering structure: the original document sometimes has numbered ("1.", "2."), lettered ("a.", "b.", "c."), or roman-numeral ("i.", "ii.") list items whose markers and content got missed, separated or reordered by OCR extraction (e.g. all the markers appearing together, then all the content afterward, out of order). If the translated text has this problem, use the original text's content and logical order as ground truth to re-associate or refill each marker with its correct content, in the correct sequence. Do not invent content that isn't in the original.
+3. Meaning drift: the translated text must convey the same meaning as the original — no omitted clauses, no added information, no mistranslated obligations/definitions/numbers.
+
+
+If NONE of these problems are present, set "action_required" to false and leave "corrected_text" null — do not rephrase, restyle, or otherwise touch a translation that is already correct.
+
+If ANY of these problems are present, set "action_required" to true, list what you found in "issues" (short, specific descriptions), and provide the FULL corrected translated text in "corrected_text". The correction must preserve every piece of content from the original translated text (fixing only the problems above) — never summarize, shorten, or drop material.
+
+### Response Format
+Output ONLY a single raw JSON object — no markdown fences, no commentary — with this exact structure:
+{
+  "action_required": true,
+  "issues": ["Brief description of problem 1", "Brief description of problem 2"],
+  "corrected_text": "The full corrected translated text, or null if action_required is false."
+}
+
+{{CONTEXT}}
+### Original Text (Indonesian, source of truth)
+{{ORIGINAL_TEXT}}
+
+### Translated Text (English, to be checked)
+{{TRANSLATED_TEXT}}

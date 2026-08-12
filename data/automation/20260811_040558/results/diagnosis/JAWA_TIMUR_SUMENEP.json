@@ -1,0 +1,345 @@
+{
+  "diagnoses": {
+    "1.8": {
+      "indicator": "Human trafficking",
+      "dimension": "scope_of_violence",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "9. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette Number 4720);",
+      "evaluator_rationale": "The policy text explicitly references a law concerning eradication of trafficking in persons, indicating inclusion of human trafficking within the policy’s legal framework.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF SUMENEP\na. that the number of acts of violence against women and children in Sumenep Regency is still high, while services and protection for women and children in Sumenep Regency have not been carried out optimally;\nb. that in the framework of implementing regional autonomy, the regulation and service to the community, especially for women and children victims of violence, is the duty and function of the regency government because violence against women and children is a violation of Human Rights; that based on the considerations as referred to in letters a and b, it is necessary to establish the Implementation of Protection for Women and Children Victims of Violence in the Regional Regulation of Sumenep Regency.\nC. In view of:\n1. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette Number 3277);\n2. Law Number 5 of 1998 Concerning Ratification of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (State Gazette of the Republic of Indonesia Year 1998 Number 164, Supplement to the State Gazette Number 3783);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette Number 3886);\n4. Law Number 1 of 2000 concerning ILO Convention number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor (State Gazette of the Republic of Indonesia Year 2001 Number 30, Supplement to the State Gazette Number 3941);\n5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette Number 4235);\n6. Law Number 10 of 2004 concerning Formation of Legislation (State Gazette of the Republic of Indonesia Year 2004 Number 53, Supplement to the State Gazette Number 4389);\n7. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette Number 4419);\n8. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 125, Supplement to the State Gazette Number 4437), as amended for the second time by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia Year 2008 Number 59, Supplement to the State Gazette Number 4844);\n9. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette Number 4720);\n10. Government Regulation Number 79 of 2005 concerning Guidelines for Development and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia Year 2005 Number 165, Supplement to the State Gazette Number 4593);\n11. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to the State Gazette Number 4737);\n13. Regulation of the Minister of Home Affairs Number 15 of 2006 concerning Forms and Types of Regional Legal Products;\n14. Regulation of the Minister of Home Affairs Number 16 of 2006 concerning Procedures and Preparation of Regional Legal Products;\n15. Decree of the Minister of Home Affairs and Regional Autonomy Number 5 of 2001 concerning Countermeasures for Child Labor;\n16. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 of 2010 concerning Minimum Service Standards (SPM) in the field of integrated services for women and children victims of violence.\n17. Regional Regulation of East Java Province Number 9 of 2005 concerning Implementation of Protection for Women and Children Victims of Violence (Regional Gazette of East Java Province Year 2005 Number 4 Series E);\n18. Regional Regulation of Sumenep Regency number 4 of 2003 concerning Community Participation in Government and Development With Mutual Agreement",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 10,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 6\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n(3) Forms of sexual violence are sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing livelihood, care or maintenance as appropriate.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of Sumenep Regency;\n2. Regent is the Regent of Sumenep;\n3. Regional Apparatus is an organization/institution within the Regional Government that is responsible to the Regional Head in the context of administering government consisting of the Regional Secretariat, Regional Agencies and Regional Technical Institutions, Sub-districts and Civil Service Police Units according to regional needs;\n4. Implementation is a form of executing protection for women and children victims of violence;\n5. Child is a person who has not yet reached 18 years of age, including those in the womb;\n6. Violence is any unlawful act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim;\n7. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life;\n8. Violence against children is any action that results in or may result in discrimination, exploitation, whether economic or sexual, neglect, cruelty, abuse, injustice and other mistreatment;\n9. Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Sexual Violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes;\n11. Economic violence is any act that neglects family members in the form of not providing livelihood, care or maintenance as appropriate;\n12. Psychological Violence is any act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person;\n13. Victim is women and children who experience misery and/or suffering either directly or indirectly as a result of violence;\n14. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred;\n15. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination;\n16. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a service center that has the duties and functions of coordinating with related agencies in the formulation of technical policies and implementation in the field of prevention and eradication as well as elimination of acts of violence against children and women, implementation of prevention and eradication of acts of violence against women and children in accordance with the provisions of applicable Laws and Regulations as well as implementation of policies and prevention of problems in the field;\n17. Community Social Institution is a Non-Governmental Organization (NGO) and/or other community organizations;\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\n(1) The implementation of Protection for victims is carried out in an integrated manner under P2TP2A.\n(2) In handling medical, legal, medicolegal, psychological, and economic protection, P2TP2A, in its implementation, may establish partnerships with social community institutions engaged in the field of protection of women and children.\n(3) The implementation of protection for victims as referred to in paragraph (1) must take into account religious norms as well as the rights and obligations of parents, guardians, husbands/other persons who are legally responsible for the victim.\n(4) The mechanism for handling protection as referred to in paragraph (1) is stipulated by a Regent Regulation.",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\n(1) Every woman and child who becomes a victim of violence must receive protection in accordance with applicable provisions. (2) Protection of women and children victims of violence as referred to in paragraph (1) shall be provided to residents of Sumenep Regency, whether the violence is committed in Sumenep or outside Sumenep.\n(3) Protection of women and children victims of violence, in addition to being provided to residents of Sumenep as referred to in paragraph (2), shall also be provided to non-residents of Sumenep where the violence is committed within the territory of Sumenep Regency.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women and Children Victims of Violence is carried out based on respect and recognition of equal rights and human dignity, non-discrimination, gender equality and justice as well as protection of the fundamental rights of women and children and the best interests of the victim.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\n(1) Forms of protection for Women and Child Victims of Violence consist of medical, legal, medicolegal (forensic medicine), economic and psychological protection.\n(2) The form of medical protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics free of charge.\n(3) The form of legal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services and assistance to help victims undergo legal and judicial processes.\n(4) The form of medicolegal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of medical services for evidentiary purposes in the legal field.\n(5) The form of economic protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services for skills and providing economic access so that victims can be independent.\n(6) The form of psychological protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of assistance in order to restore the traumatic condition of victims including the provision of safe houses to protect victims from various threats and intimidation for victims and providing psychological support so that victims have self-confidence, strength and independence in resolving problems.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nThe implementation of Protection for Women and Children Victims of Violence aims to provide protection and services to women against gender-based violence, and to uphold the best interests of the child, in cases occurring in the household or in the public sphere.",
+          "score": 0.27017203
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nINSTITUTIONAL FRAMEWORK FOR THE PROTECTION OF WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nArticle 4\n(1) The Regent through Regional Apparatus shall establish a public service work unit that functions as P2TP2A.\n(2) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Child Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.26405463
+        },
+        {
+          "chunk_id": 4,
+          "text": "REGENT OF SUMENEP\nDECIDES :\nREGARDING\nStipulating : REGIONAL REGULATION OF SUMENEP REGENCY ON THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER IX\nTRANSITIONAL PROVISIONS\nArticle 13\nMatters not yet regulated in this Regional Regulation insofar as concerning its implementation shall be regulated in a Regent Regulation.",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 1,
+          "text": "IMPLEMENTATION OF PROTECTION FOR WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nBY THE GRACE OF GOD ALMIGHTY\nConsidering :",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF SUMENEP REGENCY and",
+          "score": 0.229259
+        },
+        {
+          "chunk_id": 16,
+          "text": "REGENT OF SUMENEP\nKH. A. BUSYRO KARIM, M.Si\nDrs. MOH. SALEH, M.Si\nPembina Utama Muda",
+          "score": 0.229259
+        },
+        {
+          "chunk_id": 0,
+          "text": "GOVERNMENT OF SUMENEP REGENCY\nREGIONAL REGULATION OF SUMENEP REGENCY NUMBER: 7 YEAR 2011 CONCERNING",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER X\nCLOSING PROVISIONS\nArticle 14\nThis Regional Regulation shall come into force on the date of promulgation.\nIn order that every person shall know of it, the promulgation of this Regional Regulation is ordered by placement in the Regional Gazette of Sumenep Regency.\nPromulgated in : Sumenep on the date : 20 April 2011",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 18,
+          "text": "SECRETARY\nFUNCTIONAL\nPOSITION\nGROUP\nGENERAL AND COOPERATION SUB-DIVISION\nSPORTS, ARTS, CULTURE, MENTAL AND SPIRITUAL SUB-DIVISION\nBUSINESS, LEGAL AID AND SOCIAL SUB-DIVISION\nREGENT OF SUMENEP\nKH. BUSYRO KARIM, M.Si",
+          "score": 0.18808526
+        },
+        {
+          "chunk_id": 17,
+          "text": "NIP. 19560506 198002 1 004\nREGIONAL GAZETTE OF SUMENEP REGENCY YEAR 2011 NUMBER 8\n= LINE OF COMMAND\n= LINE OF COORDINATION\nATTACHMENT I: REGIONAL REGULATION OF SUMENEP REGENCY\nNUMBER DATE\n: 6 OF 2011 : 14 FEBRUARY 2011 ORGANIZATIONAL STRUCTURE CHART OF THE SECRETARIAT OF THE KORPRI MANAGEMENT BOARD OF SUMENEP REGENCY",
+          "score": 0.17644444
+        },
+        {
+          "chunk_id": 15,
+          "text": "REGIONAL SECRETARY OF THE REGENCY\nOF SUMENEP\nEnacted in Sumenep on date : 14 February 2011",
+          "score": 0.17194927
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "In the original Indonesian text, the only mention related to trafficking is in the legal basis list (\"Mengingat\"), item 9: \"Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang\". However, the operative provisions defining scope of violence (Pasal 6) limit forms of violence to fisik, seksual, ekonomi, and psikis, and there is no explicit inclusion/definition of trafficking (perdagangan orang) as a form of violence covered by the regulation. Citing a referenced national law in the preamble does not, by itself, mean the local regulation’s scope includes human trafficking as an addressed violence type. The judge over-inferred inclusion from a citation, so the error is an evaluation/logic failure rather than translation or retrieval.",
+      "diagnosis_status": "ok"
+    },
+    "3.3": {
+      "indicator": "Reporting/hotline service",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences describe protection forms, institutional arrangements (P2TP2A), and that handling mechanisms will be set by a Regent Regulation, but they do not explicitly mention a reporting/complaints intake mechanism or hotline/service for receiving reports.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of Sumenep Regency;\n2. Regent is the Regent of Sumenep;\n3. Regional Apparatus is an organization/institution within the Regional Government that is responsible to the Regional Head in the context of administering government consisting of the Regional Secretariat, Regional Agencies and Regional Technical Institutions, Sub-districts and Civil Service Police Units according to regional needs;\n4. Implementation is a form of executing protection for women and children victims of violence;\n5. Child is a person who has not yet reached 18 years of age, including those in the womb;\n6. Violence is any unlawful act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim;\n7. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life;\n8. Violence against children is any action that results in or may result in discrimination, exploitation, whether economic or sexual, neglect, cruelty, abuse, injustice and other mistreatment;\n9. Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Sexual Violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes;\n11. Economic violence is any act that neglects family members in the form of not providing livelihood, care or maintenance as appropriate;\n12. Psychological Violence is any act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person;\n13. Victim is women and children who experience misery and/or suffering either directly or indirectly as a result of violence;\n14. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred;\n15. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination;\n16. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a service center that has the duties and functions of coordinating with related agencies in the formulation of technical policies and implementation in the field of prevention and eradication as well as elimination of acts of violence against children and women, implementation of prevention and eradication of acts of violence against women and children in accordance with the provisions of applicable Laws and Regulations as well as implementation of policies and prevention of problems in the field;\n17. Community Social Institution is a Non-Governmental Organization (NGO) and/or other community organizations;\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.60168713
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nThe implementation of Protection for Women and Children Victims of Violence aims to provide protection and services to women against gender-based violence, and to uphold the best interests of the child, in cases occurring in the household or in the public sphere.",
+          "score": 0.59417456
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\n(1) Every woman and child who becomes a victim of violence must receive protection in accordance with applicable provisions. (2) Protection of women and children victims of violence as referred to in paragraph (1) shall be provided to residents of Sumenep Regency, whether the violence is committed in Sumenep or outside Sumenep.\n(3) Protection of women and children victims of violence, in addition to being provided to residents of Sumenep as referred to in paragraph (2), shall also be provided to non-residents of Sumenep where the violence is committed within the territory of Sumenep Regency.",
+          "score": 0.5922893
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nINSTITUTIONAL FRAMEWORK FOR THE PROTECTION OF WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nArticle 4\n(1) The Regent through Regional Apparatus shall establish a public service work unit that functions as P2TP2A.\n(2) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Child Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.54828656
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\n(1) Forms of protection for Women and Child Victims of Violence consist of medical, legal, medicolegal (forensic medicine), economic and psychological protection.\n(2) The form of medical protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics free of charge.\n(3) The form of legal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services and assistance to help victims undergo legal and judicial processes.\n(4) The form of medicolegal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of medical services for evidentiary purposes in the legal field.\n(5) The form of economic protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services for skills and providing economic access so that victims can be independent.\n(6) The form of psychological protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of assistance in order to restore the traumatic condition of victims including the provision of safe houses to protect victims from various threats and intimidation for victims and providing psychological support so that victims have self-confidence, strength and independence in resolving problems.",
+          "score": 0.5347097
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\n(1) The implementation of Protection for victims is carried out in an integrated manner under P2TP2A.\n(2) In handling medical, legal, medicolegal, psychological, and economic protection, P2TP2A, in its implementation, may establish partnerships with social community institutions engaged in the field of protection of women and children.\n(3) The implementation of protection for victims as referred to in paragraph (1) must take into account religious norms as well as the rights and obligations of parents, guardians, husbands/other persons who are legally responsible for the victim.\n(4) The mechanism for handling protection as referred to in paragraph (1) is stipulated by a Regent Regulation.",
+          "score": 0.5074213
+        },
+        {
+          "chunk_id": 10,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 6\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n(3) Forms of sexual violence are sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing livelihood, care or maintenance as appropriate.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.",
+          "score": 0.5074213
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF SUMENEP\na. that the number of acts of violence against women and children in Sumenep Regency is still high, while services and protection for women and children in Sumenep Regency have not been carried out optimally;\nb. that in the framework of implementing regional autonomy, the regulation and service to the community, especially for women and children victims of violence, is the duty and function of the regency government because violence against women and children is a violation of Human Rights; that based on the considerations as referred to in letters a and b, it is necessary to establish the Implementation of Protection for Women and Children Victims of Violence in the Regional Regulation of Sumenep Regency.\nC. In view of:\n1. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette Number 3277);\n2. Law Number 5 of 1998 Concerning Ratification of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (State Gazette of the Republic of Indonesia Year 1998 Number 164, Supplement to the State Gazette Number 3783);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette Number 3886);\n4. Law Number 1 of 2000 concerning ILO Convention number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor (State Gazette of the Republic of Indonesia Year 2001 Number 30, Supplement to the State Gazette Number 3941);\n5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette Number 4235);\n6. Law Number 10 of 2004 concerning Formation of Legislation (State Gazette of the Republic of Indonesia Year 2004 Number 53, Supplement to the State Gazette Number 4389);\n7. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette Number 4419);\n8. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 125, Supplement to the State Gazette Number 4437), as amended for the second time by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia Year 2008 Number 59, Supplement to the State Gazette Number 4844);\n9. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette Number 4720);\n10. Government Regulation Number 79 of 2005 concerning Guidelines for Development and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia Year 2005 Number 165, Supplement to the State Gazette Number 4593);\n11. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to the State Gazette Number 4737);\n13. Regulation of the Minister of Home Affairs Number 15 of 2006 concerning Forms and Types of Regional Legal Products;\n14. Regulation of the Minister of Home Affairs Number 16 of 2006 concerning Procedures and Preparation of Regional Legal Products;\n15. Decree of the Minister of Home Affairs and Regional Autonomy Number 5 of 2001 concerning Countermeasures for Child Labor;\n16. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 of 2010 concerning Minimum Service Standards (SPM) in the field of integrated services for women and children victims of violence.\n17. Regional Regulation of East Java Province Number 9 of 2005 concerning Implementation of Protection for Women and Children Victims of Violence (Regional Gazette of East Java Province Year 2005 Number 4 Series E);\n18. Regional Regulation of Sumenep Regency number 4 of 2003 concerning Community Participation in Government and Development With Mutual Agreement",
+          "score": 0.4996094
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women and Children Victims of Violence is carried out based on respect and recognition of equal rights and human dignity, non-discrimination, gender equality and justice as well as protection of the fundamental rights of women and children and the best interests of the victim.",
+          "score": 0.4976563
+        },
+        {
+          "chunk_id": 4,
+          "text": "REGENT OF SUMENEP\nDECIDES :\nREGARDING\nStipulating : REGIONAL REGULATION OF SUMENEP REGENCY ON THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 1,
+          "text": "IMPLEMENTATION OF PROTECTION FOR WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nBY THE GRACE OF GOD ALMIGHTY\nConsidering :",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF SUMENEP REGENCY and",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 0,
+          "text": "GOVERNMENT OF SUMENEP REGENCY\nREGIONAL REGULATION OF SUMENEP REGENCY NUMBER: 7 YEAR 2011 CONCERNING",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 16,
+          "text": "REGENT OF SUMENEP\nKH. A. BUSYRO KARIM, M.Si\nDrs. MOH. SALEH, M.Si\nPembina Utama Muda",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER IX\nTRANSITIONAL PROVISIONS\nArticle 13\nMatters not yet regulated in this Regional Regulation insofar as concerning its implementation shall be regulated in a Regent Regulation.",
+          "score": 0.2376467
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER X\nCLOSING PROVISIONS\nArticle 14\nThis Regional Regulation shall come into force on the date of promulgation.\nIn order that every person shall know of it, the promulgation of this Regional Regulation is ordered by placement in the Regional Gazette of Sumenep Regency.\nPromulgated in : Sumenep on the date : 20 April 2011",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 17,
+          "text": "NIP. 19560506 198002 1 004\nREGIONAL GAZETTE OF SUMENEP REGENCY YEAR 2011 NUMBER 8\n= LINE OF COMMAND\n= LINE OF COORDINATION\nATTACHMENT I: REGIONAL REGULATION OF SUMENEP REGENCY\nNUMBER DATE\n: 6 OF 2011 : 14 FEBRUARY 2011 ORGANIZATIONAL STRUCTURE CHART OF THE SECRETARIAT OF THE KORPRI MANAGEMENT BOARD OF SUMENEP REGENCY",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 18,
+          "text": "SECRETARY\nFUNCTIONAL\nPOSITION\nGROUP\nGENERAL AND COOPERATION SUB-DIVISION\nSPORTS, ARTS, CULTURE, MENTAL AND SPIRITUAL SUB-DIVISION\nBUSINESS, LEGAL AID AND SOCIAL SUB-DIVISION\nREGENT OF SUMENEP\nKH. BUSYRO KARIM, M.Si",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 15,
+          "text": "REGIONAL SECRETARY OF THE REGENCY\nOF SUMENEP\nEnacted in Sumenep on date : 14 February 2011",
+          "score": 0.22108151
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Reviewing the original Indonesian regulation, there is no explicit provision establishing a reporting/complaints intake mechanism, hotline, call center, or similar service. The text creates P2TP2A (Pasal 4) and states protection is implemented in an integrated manner under P2TP2A (Pasal 5), and lists types of protection (Pasal 8), but it does not mention \"pengaduan\", \"pelaporan\", \"hotline\", \"telepon\", \"call center\", or procedures for receiving reports. Pasal 5(4) says the handling mechanism will be set by a Regent Regulation (Peraturan Bupati), but that is not an explicit reporting/hotline service in this document. Therefore the judge’s 'No' is consistent with the Indonesian text; the golden 'Yes' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Women in legal process",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(3) The form of legal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services and assistance to help victims undergo legal and judicial processes.",
+      "evaluator_rationale": "The policy includes legal protection consisting of services and assistance to help victims undergo legal and judicial processes, which constitutes provision of services related to legal proceedings for women victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 7,
+          "text": "Article 3\nThe implementation of Protection for Women and Children Victims of Violence aims to provide protection and services to women against gender-based violence, and to uphold the best interests of the child, in cases occurring in the household or in the public sphere.",
+          "score": 0.63486034
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\n(1) Forms of protection for Women and Child Victims of Violence consist of medical, legal, medicolegal (forensic medicine), economic and psychological protection.\n(2) The form of medical protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of treatment and recovery of physical injuries aimed at restoring the physical condition of victims carried out by medical personnel and paramedics free of charge.\n(3) The form of legal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services and assistance to help victims undergo legal and judicial processes.\n(4) The form of medicolegal protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of medical services for evidentiary purposes in the legal field.\n(5) The form of economic protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of services for skills and providing economic access so that victims can be independent.\n(6) The form of psychological protection for Women and Child Victims of Violence as referred to in paragraph (1) consists of assistance in order to restore the traumatic condition of victims including the provision of safe houses to protect victims from various threats and intimidation for victims and providing psychological support so that victims have self-confidence, strength and independence in resolving problems.",
+          "score": 0.596057
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women and Children Victims of Violence is carried out based on respect and recognition of equal rights and human dignity, non-discrimination, gender equality and justice as well as protection of the fundamental rights of women and children and the best interests of the victim.",
+          "score": 0.56755316
+        },
+        {
+          "chunk_id": 5,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Regional Government is the Government of Sumenep Regency;\n2. Regent is the Regent of Sumenep;\n3. Regional Apparatus is an organization/institution within the Regional Government that is responsible to the Regional Head in the context of administering government consisting of the Regional Secretariat, Regional Agencies and Regional Technical Institutions, Sub-districts and Civil Service Police Units according to regional needs;\n4. Implementation is a form of executing protection for women and children victims of violence;\n5. Child is a person who has not yet reached 18 years of age, including those in the womb;\n6. Violence is any unlawful act that results in or may result in misery or suffering whether physical, sexual, economic, social, psychological to the victim;\n7. Violence against Women is any action that results in or may result in misery or suffering of women physically, sexually, economically, socially, psychologically, including threats of certain actions, coercion or deprivation of freedom, whether occurring in public or private life;\n8. Violence against children is any action that results in or may result in discrimination, exploitation, whether economic or sexual, neglect, cruelty, abuse, injustice and other mistreatment;\n9. Physical Violence is any act that causes pain, injury, wounds or disability to a person's body, miscarriage, fainting and/or causes death;\n10. Sexual Violence is any act in the form of sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes;\n11. Economic violence is any act that neglects family members in the form of not providing livelihood, care or maintenance as appropriate;\n12. Psychological Violence is any act that results in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person;\n13. Victim is women and children who experience misery and/or suffering either directly or indirectly as a result of violence;\n14. Protection of Women is all activities aimed at providing a sense of security carried out by the police, prosecutor's office, courts, social institutions, or other parties who know or hear that violence against women will occur or has occurred;\n15. Child Protection is all activities to guarantee and protect children and their rights so they can live, grow, develop and participate optimally in accordance with human dignity and receive protection from violence and discrimination;\n16. Integrated Service Center for the Protection of Women and Children hereinafter abbreviated as P2TP2A is a service center that has the duties and functions of coordinating with related agencies in the formulation of technical policies and implementation in the field of prevention and eradication as well as elimination of acts of violence against children and women, implementation of prevention and eradication of acts of violence against women and children in accordance with the provisions of applicable Laws and Regulations as well as implementation of policies and prevention of problems in the field;\n17. Community Social Institution is a Non-Governmental Organization (NGO) and/or other community organizations;\n18. Population is Indonesian citizens and foreigners who enter legally and reside in the territory of Indonesia.",
+          "score": 0.56563467
+        },
+        {
+          "chunk_id": 9,
+          "text": "CHAPTER IV\nHANDLING AND MECHANISM\nArticle 5\n(1) The implementation of Protection for victims is carried out in an integrated manner under P2TP2A.\n(2) In handling medical, legal, medicolegal, psychological, and economic protection, P2TP2A, in its implementation, may establish partnerships with social community institutions engaged in the field of protection of women and children.\n(3) The implementation of protection for victims as referred to in paragraph (1) must take into account religious norms as well as the rights and obligations of parents, guardians, husbands/other persons who are legally responsible for the victim.\n(4) The mechanism for handling protection as referred to in paragraph (1) is stipulated by a Regent Regulation.",
+          "score": 0.5230306
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 7\n(1) Every woman and child who becomes a victim of violence must receive protection in accordance with applicable provisions. (2) Protection of women and children victims of violence as referred to in paragraph (1) shall be provided to residents of Sumenep Regency, whether the violence is committed in Sumenep or outside Sumenep.\n(3) Protection of women and children victims of violence, in addition to being provided to residents of Sumenep as referred to in paragraph (2), shall also be provided to non-residents of Sumenep where the violence is committed within the territory of Sumenep Regency.",
+          "score": 0.4996094
+        },
+        {
+          "chunk_id": 10,
+          "text": "CHAPTER V\nFORMS OF VIOLENCE AND PROTECTION\nArticle 6\n(1) Forms of violence against Women and Children include physical, sexual, economic and psychological.\n(2) Forms of physical violence are any act that results in pain, injury, wounds or disability to a person's body, miscarriage, unconsciousness and/or causes death.\n(3) Forms of sexual violence are sexual harassment, forced sexual intercourse, forced sexual intercourse in an unnatural or unwanted manner, forced sexual intercourse with others for commercial purposes and/or certain purposes.\n(4) Forms of economic violence are neglect of family members in the form of not providing livelihood, care or maintenance as appropriate.\n(5) Forms of psychological violence are acts that result in fear, loss of self-confidence, loss of ability to act, feelings of helplessness and/or severe psychological suffering in a person.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 4,
+          "text": "REGENT OF SUMENEP\nDECIDES :\nREGARDING\nStipulating : REGIONAL REGULATION OF SUMENEP REGENCY ON THE IMPLEMENTATION OF PROTECTION FOR WOMEN AND CHILDREN VICTIMS OF VIOLENCE",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER III\nINSTITUTIONAL FRAMEWORK FOR THE PROTECTION OF WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nArticle 4\n(1) The Regent through Regional Apparatus shall establish a public service work unit that functions as P2TP2A.\n(2) The Regional Apparatus as referred to in paragraph (1) in implementing the Protection of Women and Child Victims of Violence may coordinate with other Regional Apparatus.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 1,
+          "text": "IMPLEMENTATION OF PROTECTION FOR WOMEN AND\nCHILD VICTIMS OF VIOLENCE\nBY THE GRACE OF GOD ALMIGHTY\nConsidering :",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGENT OF SUMENEP\na. that the number of acts of violence against women and children in Sumenep Regency is still high, while services and protection for women and children in Sumenep Regency have not been carried out optimally;\nb. that in the framework of implementing regional autonomy, the regulation and service to the community, especially for women and children victims of violence, is the duty and function of the regency government because violence against women and children is a violation of Human Rights; that based on the considerations as referred to in letters a and b, it is necessary to establish the Implementation of Protection for Women and Children Victims of Violence in the Regional Regulation of Sumenep Regency.\nC. In view of:\n1. Law Number 7 of 1984 concerning Ratification of the Convention on the Elimination of All Forms of Discrimination Against Women (State Gazette of the Republic of Indonesia Year 1984 Number 29, Supplement to the State Gazette Number 3277);\n2. Law Number 5 of 1998 Concerning Ratification of the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (State Gazette of the Republic of Indonesia Year 1998 Number 164, Supplement to the State Gazette Number 3783);\n3. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette Number 3886);\n4. Law Number 1 of 2000 concerning ILO Convention number 182 concerning the Prohibition and Immediate Action for the Elimination of the Worst Forms of Child Labor (State Gazette of the Republic of Indonesia Year 2001 Number 30, Supplement to the State Gazette Number 3941);\n5. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia Year 2002 Number 109, Supplement to the State Gazette Number 4235);\n6. Law Number 10 of 2004 concerning Formation of Legislation (State Gazette of the Republic of Indonesia Year 2004 Number 53, Supplement to the State Gazette Number 4389);\n7. Law Number 23 of 2004 concerning Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette Number 4419);\n8. Law Number 32 of 2004 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2004 Number 125, Supplement to the State Gazette Number 4437), as amended for the second time by Law Number 12 of 2008 (State Gazette of the Republic of Indonesia Year 2008 Number 59, Supplement to the State Gazette Number 4844);\n9. Law Number 21 of 2007 concerning Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia Year 2007 Number 58, Supplement to the State Gazette Number 4720);\n10. Government Regulation Number 79 of 2005 concerning Guidelines for Development and Supervision of Regional Government Administration (State Gazette of the Republic of Indonesia Year 2005 Number 165, Supplement to the State Gazette Number 4593);\n11. Government Regulation Number 4 of 2006 concerning Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 38 of 2007 concerning Division of Government Affairs Between the Government, Provincial Regional Government and Regency/City Regional Government (State Gazette of the Republic of Indonesia Year 2007 Number 82, Supplement to the State Gazette Number 4737);\n13. Regulation of the Minister of Home Affairs Number 15 of 2006 concerning Forms and Types of Regional Legal Products;\n14. Regulation of the Minister of Home Affairs Number 16 of 2006 concerning Procedures and Preparation of Regional Legal Products;\n15. Decree of the Minister of Home Affairs and Regional Autonomy Number 5 of 2001 concerning Countermeasures for Child Labor;\n16. Regulation of the State Minister for Women's Empowerment and Child Protection of the Republic of Indonesia Number 01 of 2010 concerning Minimum Service Standards (SPM) in the field of integrated services for women and children victims of violence.\n17. Regional Regulation of East Java Province Number 9 of 2005 concerning Implementation of Protection for Women and Children Victims of Violence (Regional Gazette of East Java Province Year 2005 Number 4 Series E);\n18. Regional Regulation of Sumenep Regency number 4 of 2003 concerning Community Participation in Government and Development With Mutual Agreement",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 13,
+          "text": "CHAPTER IX\nTRANSITIONAL PROVISIONS\nArticle 13\nMatters not yet regulated in this Regional Regulation insofar as concerning its implementation shall be regulated in a Regent Regulation.",
+          "score": 0.2491548
+        },
+        {
+          "chunk_id": 16,
+          "text": "REGENT OF SUMENEP\nKH. A. BUSYRO KARIM, M.Si\nDrs. MOH. SALEH, M.Si\nPembina Utama Muda",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 0,
+          "text": "GOVERNMENT OF SUMENEP REGENCY\nREGIONAL REGULATION OF SUMENEP REGENCY NUMBER: 7 YEAR 2011 CONCERNING",
+          "score": 0.229259
+        },
+        {
+          "chunk_id": 14,
+          "text": "CHAPTER X\nCLOSING PROVISIONS\nArticle 14\nThis Regional Regulation shall come into force on the date of promulgation.\nIn order that every person shall know of it, the promulgation of this Regional Regulation is ordered by placement in the Regional Gazette of Sumenep Regency.\nPromulgated in : Sumenep on the date : 20 April 2011",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGIONAL PEOPLE'S REPRESENTATIVE COUNCIL OF SUMENEP REGENCY and",
+          "score": 0.21050651
+        },
+        {
+          "chunk_id": 18,
+          "text": "SECRETARY\nFUNCTIONAL\nPOSITION\nGROUP\nGENERAL AND COOPERATION SUB-DIVISION\nSPORTS, ARTS, CULTURE, MENTAL AND SPIRITUAL SUB-DIVISION\nBUSINESS, LEGAL AID AND SOCIAL SUB-DIVISION\nREGENT OF SUMENEP\nKH. BUSYRO KARIM, M.Si",
+          "score": 0.192904
+        },
+        {
+          "chunk_id": 15,
+          "text": "REGIONAL SECRETARY OF THE REGENCY\nOF SUMENEP\nEnacted in Sumenep on date : 14 February 2011",
+          "score": 0.17418541
+        },
+        {
+          "chunk_id": 17,
+          "text": "NIP. 19560506 198002 1 004\nREGIONAL GAZETTE OF SUMENEP REGENCY YEAR 2011 NUMBER 8\n= LINE OF COMMAND\n= LINE OF COORDINATION\nATTACHMENT I: REGIONAL REGULATION OF SUMENEP REGENCY\nNUMBER DATE\n: 6 OF 2011 : 14 FEBRUARY 2011 ORGANIZATIONAL STRUCTURE CHART OF THE SECRETARIAT OF THE KORPRI MANAGEMENT BOARD OF SUMENEP REGENCY",
+          "score": 0.16110896
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The original Indonesian text explicitly provides legal protection/assistance in legal proceedings. Pasal 8 ayat (3) states: \"Bentuk perlindungan hukum ... berupa pelayanan dan pendampingan untuk membantu korban dalam menjalani proses hukum dan peradilan.\" This clearly covers support for victims (including women victims, since the regulation is for \"Perempuan dan Anak Korban Kekerasan\") in the legal/judicial process. The retrieved English passage accurately reflects this, and the judge’s reasoning matches the text. Thus the discrepancy is best explained by the golden label being wrong (it should be Yes, not No).",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAWA_TIMUR_SUMENEP.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.196546+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 3,
+  "diagnosed_count": 3
+}

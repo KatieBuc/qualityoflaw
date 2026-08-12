@@ -1,0 +1,159 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 17,
+  "chunks_corrected": 11,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Mengingat\" should be translated as \"In view of\" (or \"Having regard to\"), not \"Considering\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: in item 14, the State Gazette year is mistranslated as 2007; the original states 2007 only for the gazette number but the year should be 2011 (Peraturan Pemerintah Nomor 40 Tahun 2011)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Menetapkan\" should be translated as \"Stipulates:\" (with colon) to match the formal legal structure of the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Scrambled/merged numbering structure: list items run together on the same lines; needs clear separation per item 1–13.",
+        "Meaning drift in item 8: 'tindakan penyimpangan' translated as 'act of deviation' (unnatural/incorrect); should be 'any act' (or equivalent) while keeping the legal meaning.",
+        "Minor meaning/term accuracy: 'rumah aman' should be 'safe house/shelter' (singular concept) and item 13 phrasing needs to reflect 'Pusat Kegiatan Terpadu' as 'Integrated Activity Center' without awkward fragments ('legal and religious')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Article number mistranslated (\"Pasa13\" should be Article 13, not Article 3)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Leftover non-legal/OCR artifact in list item c: '.,---\",' should be removed"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/omission: chapter title missing numeral \"V\" (should be \"CHAPTER V\").",
+        "Scrambled/incorrect structure: \"Article 7 Article 8\" appears merged; Article 7 content is missing and numbering should reflect that the following provisions are Article 8 and Article 9."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Article 11(4) mistranslates scope; original says monitoring is carried out from planning through implementation of policies/programs/activities for the current year, not 'up to policies, programs and activities'."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: \"(2)\" is incorrectly attached to Article 15; the original starts Article 16 after Article 15(1) and its explanation, without an Article 15(2) provision.",
+        "Meaning/structure drift: Article numbering and paragraph structure should reflect that the supervision provision is Article 16, not paragraph (2) of Article 15."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: Indonesian month is \"Mei\" (May) but source text shows OCR as \"Hei\"; translation normalizes to \"May\" without basis in the provided source text.",
+        "Meaning drift: \"diundangkan\" means \"promulgated/enacted\"; translation uses \"promulgation\" but should be \"promulgated\" (date of promulgation) to match legal meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: month name mistranslated/normalized; original reads \"15 Hei 2017\" but translation renders \"15 May 2017\".",
+        "Meaning drift: \"SEKRETARIS DAERAH~~BUPATEN TABALONG\" should be translated as \"Regional Secretary~~Regency of Tabalong\"; current translation uses \"TABALONG REGENCY\" and omits \"of\"/structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "KALIMANTAN_SELATAN_TABALONG.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.675256+00:00",
+  "prompt_version": "v1"
+}

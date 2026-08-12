@@ -33,12 +33,15 @@ def pipeline_config():
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
     diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
+    translation_qa_model = ModelProfile(name="test-translation-qa", deployment="gpt-5.2", temperature=0.1)
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
+        translation_qa_model=translation_qa_model,
         evaluation_model=eval_model,
         discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt",
+        translation_qa_template_path=AUTOMATION_ROOT / "prompts" / "translation_qa" / "v1" / "prompt_template.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v2" / "prompt_template.txt",
         discrepancy_diagnosis_template_path=(

@@ -1,0 +1,999 @@
+{
+  "diagnoses": {
+    "3.7": {
+      "indicator": "Psychosocial counselling",
+      "dimension": "specialised_support_services",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the policy includes shelters and rehabilitation/reintegration references, none of the provided sentences explicitly mention psychosocial or psychological counselling services for victims.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Regional Governments are responsible for realizing Child Protection in the Region in the form of coordinating the implementation of the administration of Child Protection in the Region.\n(2) Coordination of the implementation of the administration of Child Protection in the Region as referred to in paragraph (1) is in order to fulfill the Rights of Children requiring Special Protection.\n(3) Children requiring Special Protection as referred to in paragraph (1) include:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children who are perpetrators of pornography;\nh. children with human immunodeficiency virus/ acquired immuno deficiency syndrome;\ni. children who are victims of abduction, sale, and/or trafficking;\nj. children who are victims of physical and/or psychological violence;\nk. children who are victims of sexual crimes;\nl. children who are victims of terrorism networks;\nm. children who are perpetrators of terrorism networks;\nn. children with disabilities;\no. children who are victims of mistreatment and neglect;\np. children with deviant social behavior; and\nq. children who are victims of stigmatization from labeling related to their parents' condition.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 33\n(1) The form of guidance as referred to in Article 32 may be implemented through activities:\na. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;\nb. providing books, leaflets, brochures regarding women's empowerment and child protection, and other related issues as well as disseminating them to the community;\nc. facilitation of capacity building for women's empowerment and child protection institutions;\nd. facilitation of women's participation forums and women's and children's organizations;\ne. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;\nf. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and\ng. providing awards to the community and business sector both individually and institutionally who have made efforts in women's empowerment and child protection.\n(2) The form of supervision as referred to in Article 32 may be in the form of monitoring and evaluation activities on the implementation of policies, programs and activities for women's empowerment and child protection.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Six\nSpecial Protection",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 32\nSufficiently clear",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 18\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 26\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 31\nSufficiently Clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 22\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 7\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 76,
+          "text": "Article 21\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 23\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 91,
+          "text": "Article 36\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 90,
+          "text": "Article 35\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 25\nSufficiently clear",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 37\nSufficiently clear",
+          "score": 0.33947718
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation clearly provides for shelters (\"rumah aman\"), complaint services, rehabilitation/reintegration, and legal consultation, but it does not explicitly mention psychosocial/psychological counselling (e.g., \"konseling psikologis/psikososial\"). Relevant provisions include Pasal 29 huruf c (\"panti rehabilitasi\" etc.), Pasal 30 (rumah aman), and Pasal 33 huruf e (\"rehabilitasi dan reintegrasi\"). None of these specify counselling/therapy. Therefore a 'No' judgment is consistent with the text; the golden 'Yes' likely over-inferred counselling from generic rehabilitation/shelter language.",
+      "diagnosis_status": "ok"
+    },
+    "4.1": {
+      "indicator": "Information and education about VAW",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "e. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;",
+      "evaluator_rationale": "The policy includes guidance activities that cover rehabilitation and reintegration services for women and children who are victims of violence, indicating explicit attention to violence and related community-facing measures within the empowerment/protection framework.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 44,
+          "text": "Article 33\n(1) The form of guidance as referred to in Article 32 may be implemented through activities:\na. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;\nb. providing books, leaflets, brochures regarding women's empowerment and child protection, and other related issues as well as disseminating them to the community;\nc. facilitation of capacity building for women's empowerment and child protection institutions;\nd. facilitation of women's participation forums and women's and children's organizations;\ne. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;\nf. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and\ng. providing awards to the community and business sector both individually and institutionally who have made efforts in women's empowerment and child protection.\n(2) The form of supervision as referred to in Article 32 may be in the form of monitoring and evaluation activities on the implementation of policies, programs and activities for women's empowerment and child protection.",
+          "score": 0.56755316
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.5113262
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.48594123
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\n(1) Empowerment of women in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.\n(2) Empowerment of women in the field of law as referred to in paragraph (1) shall be implemented in accordance with the applicable laws and regulations.",
+          "score": 0.47229403
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 35\n(1) The business sector has responsibility in the implementation of women's empowerment and child protection.\n(2) The form of business sector responsibility as referred to in paragraph (4) shall be carried out in the form of:\na. financial assistance to service institutions;\nb. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and complaint services regarding violence; and\ng. non-binding social assistance.",
+          "score": 0.46840155
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 45,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 34\n(1) The Regional Government has the obligation to strengthen community participation in the development of women's empowerment and Child Protection.\n(2) Community participation as referred to in paragraph (1) may be conducted in the form of:\na. socialization;\nb. advocacy;\nc. counseling;\nd. guidance;\ne. supervision;\nf. facilitation;\ng. services;\nh. studies;\ni. training;\nj. capital provision; and\nk. provision of facilities and infrastructure.\n(3) Strengthening of community participation as referred to in paragraph (1) may be conducted through:\na. strengthening cooperation;\nb. strengthening institutional capacity for prevention and services from the community, Islamic boarding schools and the business sector; and\nc. financing support.",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 55,
+          "text": "A. GENERAL EXPLANATION\nPancasila and the 1945 Constitution of the Republic of Indonesia have firmly and clearly provided protection for Human Rights, including the rights of women and children. Every person has equal dignity and worth not only guaranteed by the 1945 Constitution of the Republic of Indonesia, but also internationally recognized through the Universal Declaration of Human Rights (UDHR) of 1948 which explicitly regulates the importance of protection of Human Rights including protection of women and children.\nTo guarantee the fulfillment of the rights of women and children, regional governments have the obligation and responsibility to implement and support national policies in the administration of governmental affairs in the field of empowerment and protection of women and children in the regions. In addition, regional governments are also given the obligation to conduct supervision over the administration of empowerment and protection of women and children.\nThe administration of empowerment and protection of women and children is an effort to realize capable women as well as an effort to protect women and children from all acts of violence in order to achieve the goal of welfare. The empowerment and protection of women and children that has been implemented so far has not been optimal and comprehensive in reaching the problems faced by women and children. In addition, public awareness of efforts to empower and protect women and children is still very lacking. To achieve these objectives and to implement the authority of regional governments as outlined in Law Number 23 of 2014 concerning Regional Government in the sub-affairs of empowerment and protection of women and children, a regulation is needed that can serve as a legal umbrella for regional governments in the administration of governmental affairs in the field of women's empowerment and child protection in the regions.\nIn formulating policies related to women's empowerment and child protection, it is necessary to pay attention to the principles of good legislation formation as regulated in Law Number 12 of 2011 concerning the Formation of Legislation, including:\nr. clarity of purpose;\ns. appropriate institution or forming official;\nt. conformity between type, hierarchy, and material content;\nu. implementability;\nv. utility and effectiveness;\nw. clarity of formulation; and\nx. openness.\nIn addition to the principles of legislation formation, it is also necessary to pay attention to the principles of material content which include:\na. protection;\nb. humanity;\nc. nationality;\nd. kinship;\ne. archipelagic principle;\nf. unity in diversity;\ng. justice;\nh. equality of position in law and government;\ni. order and legal certainty; and/or\nj. balance, harmony, and congruence.\nThe administration of governmental affairs in the field of Women's Empowerment and Child Protection aims to increase efforts for the protection of women's rights, fulfillment of children's rights and Special Protection for Children and to increase the role of Regional Governments and the business sector, media and society in efforts for Women's Empowerment and Child Protection. The principal matters contained in the body of the Regional Regulation concerning the Administration of Empowerment and Protection of Women and Children include:\na. fulfillment of women's rights;\nb. empowerment of women;\nc. protection of women;\nd. protection of children;\ne. fulfillment of children's rights;\nf. integrated service center;\ng. safe house;\nh. child-friendly regency;\ni. guidance and supervision;\nj. community participation;\nk. awards; and\nl. financing.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nEmpowerment of women in the social and cultural field as referred to in Article 8 letter b shall be implemented through:\na. improvement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. improvement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. improvement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Six\nSpecial Protection",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Regional Governments are responsible for realizing Child Protection in the Region in the form of coordinating the implementation of the administration of Child Protection in the Region.\n(2) Coordination of the implementation of the administration of Child Protection in the Region as referred to in paragraph (1) is in order to fulfill the Rights of Children requiring Special Protection.\n(3) Children requiring Special Protection as referred to in paragraph (1) include:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children who are perpetrators of pornography;\nh. children with human immunodeficiency virus/ acquired immuno deficiency syndrome;\ni. children who are victims of abduction, sale, and/or trafficking;\nj. children who are victims of physical and/or psychological violence;\nk. children who are victims of sexual crimes;\nl. children who are victims of terrorism networks;\nm. children who are perpetrators of terrorism networks;\nn. children with disabilities;\no. children who are victims of mistreatment and neglect;\np. children with deviant social behavior; and\nq. children who are victims of stigmatization from labeling related to their parents' condition.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 36,
+          "text": "Article 26\nRegional Government provides facilities to fulfill the rights to Education, Leisure Time Utilization and Cultural Activities, by:\na. providing the widest possible opportunity for children to obtain education by ensuring the implementation of a 12 (twelve) year compulsory education program for all children free of charge;\nb. providing opportunities and accessibility for children with disabilities to obtain education;\nc. organizing inclusive education for children with disabilities;\nd. optimizing skills education;\ne. providing city parks, playgrounds, art buildings and sports arenas as a forum to hone and develop children's talents, interests and creativity in the fields of art, culture and sports;\nf. realizing child-friendly schools at every level of education;\ng. providing scholarships for students from underprivileged families;\nh. facilitating school dropouts at Open Schools or Community Learning Activity Centers;\ni. providing awards to students who excel in academic, art, culture and sports fields;\nj. issuing policies for education providers not to expel students from educational institutions, by conducting guidance, except if involved in criminal acts;\nk. organizing student orientation periods that are educational and without violence; and\nl. establishing children's creativity centers.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for Women and Children Empowerment and Protection includes:\na. fulfillment of women's rights;\nb. women's empowerment;\nc. women's protection;\nd. children's protection;\ne. fulfillment of children's rights;\nf. safe houses;\ng. child-friendly regency;\nh. guidance and supervision;\ni. community participation;\nj. awards; and\nk. financing.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\nThe empowerment of women is directed towards obtaining opportunities and rights as human beings so that they are able to play a role and participate in the fields of:\na. economy;\nb. social culture;\nc. politics; and\nd. law.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 28,
+          "text": "Article 20\nThe Regional Government provides facilities for the fulfillment of children's rights in the family environment and alternative care environment, by: a. providing or facilitating alternative care for children whose parents have died or are ill such that they are unable to care for the child;\nb. providing welfare support to all children; c. fulfilling the rights of children's growth and development and protecting children with social welfare problems and children in conflict with the law; d. protecting children from cruel, inhuman and degrading treatment;\ne. conducting training for parents on good parenting patterns or establishing consultation institutions for families;\nf. playing an active role in assisting families in carrying out their obligations;\ng. preventing the occurrence of marriage at child age; and h. providing child-friendly infrastructure, child-friendly play spaces and safe routes to and from school.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nEmpowerment and Protection of Women and Children is organized based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. non-discrimination;\nd. justice and legal certainty;\ne. benefit;\nf. participatory;\ng. best interests of the child;\nh. accountability; and\ni. gender responsiveness.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 43,
+          "text": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 32\n(1) The Regent implements guidance and supervision of the implementation of women's empowerment and child protection in the Region. (2) Guidance as referred to in paragraph (1) is implemented by the Regional Apparatus that handles affairs of women's empowerment and child protection.\n(3) The Regional Apparatus that handles affairs of women's empowerment and child protection as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and child protection in the Region.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\n(1) Every woman has the right to:\na. live and maintain her life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue her lineage;\nc. develop her personality, obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, a sense of security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics and obtain equal opportunities in government;\nj. perform legal acts; and\nk. freely choose a partner in her marriage.\n(2) In addition to the rights as referred to in paragraph (1), specifically women with disabilities have the right to obtain facilitation and special treatment in public services.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 0,
+          "text": "COPY\nREGENT OF SAROLANGUN\nJAMBI PROVINCE\nREGIONAL REGULATION OF SAROLANGUN REGENCY\nNUMBER 2 OF 2023\nCONCERNING\nIMPLEMENTATION OF EMPOWERMENT AND PROTECTION OF WOMEN AND CHILDREN",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER III\nCHILD PROTECTION\nPart One\nGeneral",
+          "score": 0.3053658
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text does include community-facing information/education-type activities that relate to women/child protection and violence. Pasal 33(1) huruf a-b mandates \"sosialisasi\" to the community/business sector and dissemination of \"buku, leaflet, brosur\" about women's empowerment/child protection and related issues; Pasal 34(2) also lists participation forms including \"sosialisasi\" and \"penyuluhan\". These are information/education measures within the policy framework that explicitly concerns protection from violence (see also Pasal 33(1) huruf e on victims of violence). Thus a 'Yes' is supportable from the source; the golden 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "4.2": {
+      "indicator": "Gender equality education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "a. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;",
+      "evaluator_rationale": "The policy explicitly provides for socialization to the community and business sector regarding policies on women's empowerment and child protection, which constitutes awareness-raising/communication activities related to women’s rights and gender equality-oriented policy goals.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 44,
+          "text": "Article 33\n(1) The form of guidance as referred to in Article 32 may be implemented through activities:\na. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;\nb. providing books, leaflets, brochures regarding women's empowerment and child protection, and other related issues as well as disseminating them to the community;\nc. facilitation of capacity building for women's empowerment and child protection institutions;\nd. facilitation of women's participation forums and women's and children's organizations;\ne. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;\nf. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and\ng. providing awards to the community and business sector both individually and institutionally who have made efforts in women's empowerment and child protection.\n(2) The form of supervision as referred to in Article 32 may be in the form of monitoring and evaluation activities on the implementation of policies, programs and activities for women's empowerment and child protection.",
+          "score": 0.63486034
+        },
+        {
+          "chunk_id": 45,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 34\n(1) The Regional Government has the obligation to strengthen community participation in the development of women's empowerment and Child Protection.\n(2) Community participation as referred to in paragraph (1) may be conducted in the form of:\na. socialization;\nb. advocacy;\nc. counseling;\nd. guidance;\ne. supervision;\nf. facilitation;\ng. services;\nh. studies;\ni. training;\nj. capital provision; and\nk. provision of facilities and infrastructure.\n(3) Strengthening of community participation as referred to in paragraph (1) may be conducted through:\na. strengthening cooperation;\nb. strengthening institutional capacity for prevention and services from the community, Islamic boarding schools and the business sector; and\nc. financing support.",
+          "score": 0.56946963
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.5598677
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.5598677
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\n(1) Empowerment of women in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.\n(2) Empowerment of women in the field of law as referred to in paragraph (1) shall be implemented in accordance with the applicable laws and regulations.",
+          "score": 0.54828656
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 10\nEmpowerment of women in the social and cultural field as referred to in Article 8 letter b shall be implemented through:\na. improvement of knowledge, attitudes and skills to encourage the fulfillment of tiered education in accordance with potential to improve social status;\nb. improvement of awareness, willingness and ability to overcome health problems through quality promotive, preventive, curative, and rehabilitative efforts primarily in the field of reproductive health;\nc. improvement of awareness and knowledge about independent, healthy and prosperous family planning including access to consultation services and marriage registration; and\nd. facilitation and efforts to preserve customs and the development of science, technology, arts and culture for the advancement of women.",
+          "score": 0.5347097
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 35\n(1) The business sector has responsibility in the implementation of women's empowerment and child protection.\n(2) The form of business sector responsibility as referred to in paragraph (4) shall be carried out in the form of:\na. financial assistance to service institutions;\nb. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and complaint services regarding violence; and\ng. non-binding social assistance.",
+          "score": 0.48008865
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 12,
+          "text": "Article 8\nThe empowerment of women is directed towards obtaining opportunities and rights as human beings so that they are able to play a role and participate in the fields of:\na. economy;\nb. social culture;\nc. politics; and\nd. law.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.44707403
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for Women and Children Empowerment and Protection includes:\na. fulfillment of women's rights;\nb. women's empowerment;\nc. women's protection;\nd. children's protection;\ne. fulfillment of children's rights;\nf. safe houses;\ng. child-friendly regency;\nh. guidance and supervision;\ni. community participation;\nj. awards; and\nk. financing.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nEmpowerment and Protection of Women and Children is organized based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. non-discrimination;\nd. justice and legal certainty;\ne. benefit;\nf. participatory;\ng. best interests of the child;\nh. accountability; and\ni. gender responsiveness.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\n(1) Every woman has the right to:\na. live and maintain her life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue her lineage;\nc. develop her personality, obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, a sense of security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics and obtain equal opportunities in government;\nj. perform legal acts; and\nk. freely choose a partner in her marriage.\n(2) In addition to the rights as referred to in paragraph (1), specifically women with disabilities have the right to obtain facilitation and special treatment in public services.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 6\n(1) Every wife during the marriage bond has equal rights and responsibilities with her husband over all matters concerning their marital life, relationship with their children, and ownership as well as management of joint property in accordance with applicable laws and regulations.\n(2) After the dissolution of marriage, a woman has equal rights and responsibilities with her former husband over all matters concerning the children with due regard to the best interests of the children.\n(3) After the dissolution of marriage, a woman has equal rights with her former husband over all matters concerning joint property without prejudice to the rights of the children, in accordance with the provisions of laws and regulations.",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 11\n(1) Empowerment of women in the political field as referred to in Article 8 letter c includes:\na. involvement of women in decision-making at various levels;\nb. provision of opportunities for women to hold public office;\nc. participation in general elections; and\nd. self-development through organizations to associate, assemble and express opinions.\n(2) Empowerment of women in the political field as referred to in paragraph (1) shall be implemented in accordance with the prevailing laws and regulations.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 11,
+          "text": "Second Part\nWomen's Empowerment",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 55,
+          "text": "A. GENERAL EXPLANATION\nPancasila and the 1945 Constitution of the Republic of Indonesia have firmly and clearly provided protection for Human Rights, including the rights of women and children. Every person has equal dignity and worth not only guaranteed by the 1945 Constitution of the Republic of Indonesia, but also internationally recognized through the Universal Declaration of Human Rights (UDHR) of 1948 which explicitly regulates the importance of protection of Human Rights including protection of women and children.\nTo guarantee the fulfillment of the rights of women and children, regional governments have the obligation and responsibility to implement and support national policies in the administration of governmental affairs in the field of empowerment and protection of women and children in the regions. In addition, regional governments are also given the obligation to conduct supervision over the administration of empowerment and protection of women and children.\nThe administration of empowerment and protection of women and children is an effort to realize capable women as well as an effort to protect women and children from all acts of violence in order to achieve the goal of welfare. The empowerment and protection of women and children that has been implemented so far has not been optimal and comprehensive in reaching the problems faced by women and children. In addition, public awareness of efforts to empower and protect women and children is still very lacking. To achieve these objectives and to implement the authority of regional governments as outlined in Law Number 23 of 2014 concerning Regional Government in the sub-affairs of empowerment and protection of women and children, a regulation is needed that can serve as a legal umbrella for regional governments in the administration of governmental affairs in the field of women's empowerment and child protection in the regions.\nIn formulating policies related to women's empowerment and child protection, it is necessary to pay attention to the principles of good legislation formation as regulated in Law Number 12 of 2011 concerning the Formation of Legislation, including:\nr. clarity of purpose;\ns. appropriate institution or forming official;\nt. conformity between type, hierarchy, and material content;\nu. implementability;\nv. utility and effectiveness;\nw. clarity of formulation; and\nx. openness.\nIn addition to the principles of legislation formation, it is also necessary to pay attention to the principles of material content which include:\na. protection;\nb. humanity;\nc. nationality;\nd. kinship;\ne. archipelagic principle;\nf. unity in diversity;\ng. justice;\nh. equality of position in law and government;\ni. order and legal certainty; and/or\nj. balance, harmony, and congruence.\nThe administration of governmental affairs in the field of Women's Empowerment and Child Protection aims to increase efforts for the protection of women's rights, fulfillment of children's rights and Special Protection for Children and to increase the role of Regional Governments and the business sector, media and society in efforts for Women's Empowerment and Child Protection. The principal matters contained in the body of the Regional Regulation concerning the Administration of Empowerment and Protection of Women and Children include:\na. fulfillment of women's rights;\nb. empowerment of women;\nc. protection of women;\nd. protection of children;\ne. fulfillment of children's rights;\nf. integrated service center;\ng. safe house;\nh. child-friendly regency;\ni. guidance and supervision;\nj. community participation;\nk. awards; and\nl. financing.",
+          "score": 0.36080432
+        },
+        {
+          "chunk_id": 43,
+          "text": "CHAPTER VI\nGUIDANCE AND SUPERVISION\nArticle 32\n(1) The Regent implements guidance and supervision of the implementation of women's empowerment and child protection in the Region. (2) Guidance as referred to in paragraph (1) is implemented by the Regional Apparatus that handles affairs of women's empowerment and child protection.\n(3) The Regional Apparatus that handles affairs of women's empowerment and child protection as referred to in paragraph (2) serves as the coordinator for the implementation of women's empowerment and child protection in the Region.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 9\nWomen's empowerment in the economic field as referred to in Article 8 letter a is implemented through:\na. provision of skills and job training;\nb. facilitation of the formation of productive economic business groups;\nc. facilitation of strengthening and development of productive economic business groups;\nd. facilitation and capital assistance; and\ne. facilitation of marketing network development.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 0,
+          "text": "COPY\nREGENT OF SAROLANGUN\nJAMBI PROVINCE\nREGIONAL REGULATION OF SAROLANGUN REGENCY\nNUMBER 2 OF 2023\nCONCERNING\nIMPLEMENTATION OF EMPOWERMENT AND PROTECTION OF WOMEN AND CHILDREN",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 7\nSufficiently clear",
+          "score": 0.33250546
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "Although the regulation does not use the exact phrase \"pendidikan kesetaraan gender\" as a standalone program, it does mandate public outreach/education about women's empowerment and child protection (Pasal 33(1) huruf a-b: socialization and dissemination of materials) and embeds gender equality as a governing principle (Pasal 2 huruf b \"kesetaraan gender\" and huruf i \"responsif gender\"), plus defines gender and gender equality in Pasal 1 angka 9-10. Given these provisions, the judge’s 'Yes' based on mandated socialization about women’s empowerment/child protection is reasonably grounded in the Indonesian text; the golden 'No' likely reflects a narrower coding rule requiring explicit gender-equality curriculum, but that narrowness is not compelled by the indicator as described here.",
+      "diagnosis_status": "ok"
+    },
+    "4.3": {
+      "indicator": "VAW laws awareness",
+      "dimension": "primary_prevention",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "While the text mentions increasing legal awareness through communication, information and education services and references laws in the preamble, none of the provided sentences explicitly indicate primary prevention activities that educate the public specifically about violence-against-women laws or policies.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\n(1) Empowerment of women in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.\n(2) Empowerment of women in the field of law as referred to in paragraph (1) shall be implemented in accordance with the applicable laws and regulations.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 33\n(1) The form of guidance as referred to in Article 32 may be implemented through activities:\na. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;\nb. providing books, leaflets, brochures regarding women's empowerment and child protection, and other related issues as well as disseminating them to the community;\nc. facilitation of capacity building for women's empowerment and child protection institutions;\nd. facilitation of women's participation forums and women's and children's organizations;\ne. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;\nf. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and\ng. providing awards to the community and business sector both individually and institutionally who have made efforts in women's empowerment and child protection.\n(2) The form of supervision as referred to in Article 32 may be in the form of monitoring and evaluation activities on the implementation of policies, programs and activities for women's empowerment and child protection.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 35\n(1) The business sector has responsibility in the implementation of women's empowerment and child protection.\n(2) The form of business sector responsibility as referred to in paragraph (4) shall be carried out in the form of:\na. financial assistance to service institutions;\nb. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and complaint services regarding violence; and\ng. non-binding social assistance.",
+          "score": 0.3153985
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.292272
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Six\nSpecial Protection",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.28585017
+        },
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 55,
+          "text": "A. GENERAL EXPLANATION\nPancasila and the 1945 Constitution of the Republic of Indonesia have firmly and clearly provided protection for Human Rights, including the rights of women and children. Every person has equal dignity and worth not only guaranteed by the 1945 Constitution of the Republic of Indonesia, but also internationally recognized through the Universal Declaration of Human Rights (UDHR) of 1948 which explicitly regulates the importance of protection of Human Rights including protection of women and children.\nTo guarantee the fulfillment of the rights of women and children, regional governments have the obligation and responsibility to implement and support national policies in the administration of governmental affairs in the field of empowerment and protection of women and children in the regions. In addition, regional governments are also given the obligation to conduct supervision over the administration of empowerment and protection of women and children.\nThe administration of empowerment and protection of women and children is an effort to realize capable women as well as an effort to protect women and children from all acts of violence in order to achieve the goal of welfare. The empowerment and protection of women and children that has been implemented so far has not been optimal and comprehensive in reaching the problems faced by women and children. In addition, public awareness of efforts to empower and protect women and children is still very lacking. To achieve these objectives and to implement the authority of regional governments as outlined in Law Number 23 of 2014 concerning Regional Government in the sub-affairs of empowerment and protection of women and children, a regulation is needed that can serve as a legal umbrella for regional governments in the administration of governmental affairs in the field of women's empowerment and child protection in the regions.\nIn formulating policies related to women's empowerment and child protection, it is necessary to pay attention to the principles of good legislation formation as regulated in Law Number 12 of 2011 concerning the Formation of Legislation, including:\nr. clarity of purpose;\ns. appropriate institution or forming official;\nt. conformity between type, hierarchy, and material content;\nu. implementability;\nv. utility and effectiveness;\nw. clarity of formulation; and\nx. openness.\nIn addition to the principles of legislation formation, it is also necessary to pay attention to the principles of material content which include:\na. protection;\nb. humanity;\nc. nationality;\nd. kinship;\ne. archipelagic principle;\nf. unity in diversity;\ng. justice;\nh. equality of position in law and government;\ni. order and legal certainty; and/or\nj. balance, harmony, and congruence.\nThe administration of governmental affairs in the field of Women's Empowerment and Child Protection aims to increase efforts for the protection of women's rights, fulfillment of children's rights and Special Protection for Children and to increase the role of Regional Governments and the business sector, media and society in efforts for Women's Empowerment and Child Protection. The principal matters contained in the body of the Regional Regulation concerning the Administration of Empowerment and Protection of Women and Children include:\na. fulfillment of women's rights;\nb. empowerment of women;\nc. protection of women;\nd. protection of children;\ne. fulfillment of children's rights;\nf. integrated service center;\ng. safe house;\nh. child-friendly regency;\ni. guidance and supervision;\nj. community participation;\nk. awards; and\nl. financing.",
+          "score": 0.27017203
+        },
+        {
+          "chunk_id": 0,
+          "text": "COPY\nREGENT OF SAROLANGUN\nJAMBI PROVINCE\nREGIONAL REGULATION OF SAROLANGUN REGENCY\nNUMBER 2 OF 2023\nCONCERNING\nIMPLEMENTATION OF EMPOWERMENT AND PROTECTION OF WOMEN AND CHILDREN",
+          "score": 0.2491548
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.24624321
+        },
+        {
+          "chunk_id": 45,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 34\n(1) The Regional Government has the obligation to strengthen community participation in the development of women's empowerment and Child Protection.\n(2) Community participation as referred to in paragraph (1) may be conducted in the form of:\na. socialization;\nb. advocacy;\nc. counseling;\nd. guidance;\ne. supervision;\nf. facilitation;\ng. services;\nh. studies;\ni. training;\nj. capital provision; and\nk. provision of facilities and infrastructure.\n(3) Strengthening of community participation as referred to in paragraph (1) may be conducted through:\na. strengthening cooperation;\nb. strengthening institutional capacity for prevention and services from the community, Islamic boarding schools and the business sector; and\nc. financing support.",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 11,
+          "text": "Second Part\nWomen's Empowerment",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 6\n(1) Every wife during the marriage bond has equal rights and responsibilities with her husband over all matters concerning their marital life, relationship with their children, and ownership as well as management of joint property in accordance with applicable laws and regulations.\n(2) After the dissolution of marriage, a woman has equal rights and responsibilities with her former husband over all matters concerning the children with due regard to the best interests of the children.\n(3) After the dissolution of marriage, a woman has equal rights with her former husband over all matters concerning joint property without prejudice to the rights of the children, in accordance with the provisions of laws and regulations.",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 19,
+          "text": "CHAPTER III\nCHILD PROTECTION\nPart One\nGeneral",
+          "score": 0.2376467
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 13\nSufficiently Clear",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 86,
+          "text": "Article 31\nSufficiently Clear",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 24\nSufficiently Clear",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 54,
+          "text": "NIP. 19830316 200903 1 005\nELUCIDATION\nOF\nREGIONAL REGULATION OF SAROLANGUN REGENCY\nNUMBER 2 OF 2023\nCONCERNING\nTHE IMPLEMENTATION OF EMPOWERMENT AND PROTECTION OF WOMEN AND CHILDREN",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Regional Governments are responsible for realizing Child Protection in the Region in the form of coordinating the implementation of the administration of Child Protection in the Region.\n(2) Coordination of the implementation of the administration of Child Protection in the Region as referred to in paragraph (1) is in order to fulfill the Rights of Children requiring Special Protection.\n(3) Children requiring Special Protection as referred to in paragraph (1) include:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children who are perpetrators of pornography;\nh. children with human immunodeficiency virus/ acquired immuno deficiency syndrome;\ni. children who are victims of abduction, sale, and/or trafficking;\nj. children who are victims of physical and/or psychological violence;\nk. children who are victims of sexual crimes;\nl. children who are victims of terrorism networks;\nm. children who are perpetrators of terrorism networks;\nn. children with disabilities;\no. children who are victims of mistreatment and neglect;\np. children with deviant social behavior; and\nq. children who are victims of stigmatization from labeling related to their parents' condition.",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 65,
+          "text": "Article 10\nSufficiently clear",
+          "score": 0.22378391
+        }
+      ],
+      "root_causes": [
+        "evaluation_failure"
+      ],
+      "rationale": "The retrieved English candidates do contain explicit legal-awareness/education measures that can cover laws/policies relevant to violence against women. In the Indonesian source, Pasal 12(1) huruf a states \"peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi\" and Pasal 33(1) huruf a-b provides \"sosialisasi\" and dissemination of brochures/materials about women's empowerment and child protection. The preamble also explicitly references UU 23/2004 on elimination of domestic violence (KDRT) and UU 21/2007 on trafficking, etc. While not phrased as 'VAW laws awareness' verbatim, these provisions are sufficient to answer 'Yes' for awareness of relevant laws/policies. The judge was overly strict in requiring an explicit mention of educating the public about VAW laws, despite adequate legal-education and socialization language in the provided passages.",
+      "diagnosis_status": "ok"
+    },
+    "6.2": {
+      "indicator": "Women victims of trafficking",
+      "dimension": "intersectional_approach",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences discuss protection for women generally and list several target groups (e.g., victims of violence, female workers, elderly women, women with disabilities, victims of conflict/disasters), but none explicitly mention women victims of trafficking or trafficking in persons.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.42403036
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.37168384
+        },
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.3644156
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Regional Governments are responsible for realizing Child Protection in the Region in the form of coordinating the implementation of the administration of Child Protection in the Region.\n(2) Coordination of the implementation of the administration of Child Protection in the Region as referred to in paragraph (1) is in order to fulfill the Rights of Children requiring Special Protection.\n(3) Children requiring Special Protection as referred to in paragraph (1) include:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children who are perpetrators of pornography;\nh. children with human immunodeficiency virus/ acquired immuno deficiency syndrome;\ni. children who are victims of abduction, sale, and/or trafficking;\nj. children who are victims of physical and/or psychological violence;\nk. children who are victims of sexual crimes;\nl. children who are victims of terrorism networks;\nm. children who are perpetrators of terrorism networks;\nn. children with disabilities;\no. children who are victims of mistreatment and neglect;\np. children with deviant social behavior; and\nq. children who are victims of stigmatization from labeling related to their parents' condition.",
+          "score": 0.33947718
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for Women and Children Empowerment and Protection includes:\na. fulfillment of women's rights;\nb. women's empowerment;\nc. women's protection;\nd. children's protection;\ne. fulfillment of children's rights;\nf. safe houses;\ng. child-friendly regency;\nh. guidance and supervision;\ni. community participation;\nj. awards; and\nk. financing.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\n(1) Every woman has the right to:\na. live and maintain her life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue her lineage;\nc. develop her personality, obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, a sense of security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics and obtain equal opportunities in government;\nj. perform legal acts; and\nk. freely choose a partner in her marriage.\n(2) In addition to the rights as referred to in paragraph (1), specifically women with disabilities have the right to obtain facilitation and special treatment in public services.",
+          "score": 0.31878197
+        },
+        {
+          "chunk_id": 79,
+          "text": "Article 24\nSufficiently Clear",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Six\nSpecial Protection",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 77,
+          "text": "Article 22\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 68,
+          "text": "Article 13\nSufficiently Clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 62,
+          "text": "Article 7\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 26\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 84,
+          "text": "Article 29\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 75,
+          "text": "Article 20\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 23\nSufficiently clear",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 18\nSufficiently clear",
+          "score": 0.29551446
+        }
+      ],
+      "root_causes": [
+        "rag_candidate_issue"
+      ],
+      "rationale": "The Indonesian source does address trafficking explicitly, but in the child-protection special-protection list: Pasal 27(3) huruf i includes \"anak korban penculikan, penjualan, dan/atau perdagangan\" (children victims of abduction/sale/trafficking). However, the indicator is specifically \"Women victims of trafficking\". The retrieved passages shown to the judge for 6.2 did not include any provision that explicitly mentions women victims of trafficking; they mostly cover general women victims of violence/discrimination and the child special-protection list. If the golden label expects 'Yes' based on the regulation’s trafficking references (even if framed for children, or via the preamble’s UU 21/2007 reference), retrieval did not surface a clear women-trafficking-targeted clause because the regulation itself appears not to specify women trafficking victims in its operative articles. So the disagreement is best explained by missing/insufficiently targeted evidence in retrieved candidates for the women-specific trafficking aspect.",
+      "diagnosis_status": "ok"
+    },
+    "6.8": {
+      "indicator": "Women in legal process",
+      "dimension": "intersectional_approach",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+      "evaluator_rationale": "The policy explicitly provides legal protection for women who become witnesses and victims of acts of violence and discrimination, which constitutes protection/services for women involved in legal processes as witnesses (and as victims).",
+      "evidence_candidates": [
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.7030196
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.61286587
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.5560139
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.5540844
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.5405358
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 12\n(1) Empowerment of women in the field of law as referred to in Article 8 letter d includes:\na. increasing awareness and knowledge in the field of law through communication, information and education services; and\nb. facilitation of access and legal consultation services.\n(2) Empowerment of women in the field of law as referred to in paragraph (1) shall be implemented in accordance with the applicable laws and regulations.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\n(1) Every woman has the right to:\na. live and maintain her life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue her lineage;\nc. develop her personality, obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, a sense of security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics and obtain equal opportunities in government;\nj. perform legal acts; and\nk. freely choose a partner in her marriage.\n(2) In addition to the rights as referred to in paragraph (1), specifically women with disabilities have the right to obtain facilitation and special treatment in public services.",
+          "score": 0.45481116
+        },
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 38,
+          "text": "Article 27\n(1) Regional Governments are responsible for realizing Child Protection in the Region in the form of coordinating the implementation of the administration of Child Protection in the Region.\n(2) Coordination of the implementation of the administration of Child Protection in the Region as referred to in paragraph (1) is in order to fulfill the Rights of Children requiring Special Protection.\n(3) Children requiring Special Protection as referred to in paragraph (1) include:\na. children in emergency situations;\nb. children in conflict with the law;\nc. children from minority and isolated groups;\nd. children who are exploited economically and/or sexually;\ne. children who are victims of narcotics, alcohol, psychotropic substances, and other addictive substances abuse;\nf. children who are victims of pornography;\ng. children who are perpetrators of pornography;\nh. children with human immunodeficiency virus/ acquired immuno deficiency syndrome;\ni. children who are victims of abduction, sale, and/or trafficking;\nj. children who are victims of physical and/or psychological violence;\nk. children who are victims of sexual crimes;\nl. children who are victims of terrorism networks;\nm. children who are perpetrators of terrorism networks;\nn. children with disabilities;\no. children who are victims of mistreatment and neglect;\np. children with deviant social behavior; and\nq. children who are victims of stigmatization from labeling related to their parents' condition.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 4,
+          "text": "Article 2\nEmpowerment and Protection of Women and Children is organized based on the principles of:\na. respect for human rights;\nb. gender equality;\nc. non-discrimination;\nd. justice and legal certainty;\ne. benefit;\nf. participatory;\ng. best interests of the child;\nh. accountability; and\ni. gender responsiveness.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 55,
+          "text": "A. GENERAL EXPLANATION\nPancasila and the 1945 Constitution of the Republic of Indonesia have firmly and clearly provided protection for Human Rights, including the rights of women and children. Every person has equal dignity and worth not only guaranteed by the 1945 Constitution of the Republic of Indonesia, but also internationally recognized through the Universal Declaration of Human Rights (UDHR) of 1948 which explicitly regulates the importance of protection of Human Rights including protection of women and children.\nTo guarantee the fulfillment of the rights of women and children, regional governments have the obligation and responsibility to implement and support national policies in the administration of governmental affairs in the field of empowerment and protection of women and children in the regions. In addition, regional governments are also given the obligation to conduct supervision over the administration of empowerment and protection of women and children.\nThe administration of empowerment and protection of women and children is an effort to realize capable women as well as an effort to protect women and children from all acts of violence in order to achieve the goal of welfare. The empowerment and protection of women and children that has been implemented so far has not been optimal and comprehensive in reaching the problems faced by women and children. In addition, public awareness of efforts to empower and protect women and children is still very lacking. To achieve these objectives and to implement the authority of regional governments as outlined in Law Number 23 of 2014 concerning Regional Government in the sub-affairs of empowerment and protection of women and children, a regulation is needed that can serve as a legal umbrella for regional governments in the administration of governmental affairs in the field of women's empowerment and child protection in the regions.\nIn formulating policies related to women's empowerment and child protection, it is necessary to pay attention to the principles of good legislation formation as regulated in Law Number 12 of 2011 concerning the Formation of Legislation, including:\nr. clarity of purpose;\ns. appropriate institution or forming official;\nt. conformity between type, hierarchy, and material content;\nu. implementability;\nv. utility and effectiveness;\nw. clarity of formulation; and\nx. openness.\nIn addition to the principles of legislation formation, it is also necessary to pay attention to the principles of material content which include:\na. protection;\nb. humanity;\nc. nationality;\nd. kinship;\ne. archipelagic principle;\nf. unity in diversity;\ng. justice;\nh. equality of position in law and government;\ni. order and legal certainty; and/or\nj. balance, harmony, and congruence.\nThe administration of governmental affairs in the field of Women's Empowerment and Child Protection aims to increase efforts for the protection of women's rights, fulfillment of children's rights and Special Protection for Children and to increase the role of Regional Governments and the business sector, media and society in efforts for Women's Empowerment and Child Protection. The principal matters contained in the body of the Regional Regulation concerning the Administration of Empowerment and Protection of Women and Children include:\na. fulfillment of women's rights;\nb. empowerment of women;\nc. protection of women;\nd. protection of children;\ne. fulfillment of children's rights;\nf. integrated service center;\ng. safe house;\nh. child-friendly regency;\ni. guidance and supervision;\nj. community participation;\nk. awards; and\nl. financing.",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 80,
+          "text": "Article 25\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 81,
+          "text": "Article 26\nSufficiently clear",
+          "score": 0.38639295
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 93,
+          "text": "Article 38\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 78,
+          "text": "Article 23\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 87,
+          "text": "Article 32\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 89,
+          "text": "Article 34\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 92,
+          "text": "Article 37\nSufficiently clear",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 84,
+          "text": "Article 29\nSufficiently clear",
+          "score": 0.38269496
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly provides legal protection for women as witnesses/victims: Pasal 13(4) states \"Perlindungan hukum ... memberikan perlindungan terhadap perempuan yang menjadi saksi dan korban tindak kekerasan dan diskriminasi.\" This directly concerns women involved in legal processes (at least as witnesses and victims) and supports a 'Yes'. Therefore the judge’s reasoning aligns with the source, and the golden 'No' appears incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "7.3": {
+      "indicator": "International donors",
+      "dimension": "budget_funding_sources",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "f. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and",
+      "evaluator_rationale": "The policy explicitly references coordinating participation of institutions including international assistance for women's empowerment and child protection, indicating international support is contemplated.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 48,
+          "text": "CHAPTER IX\nFINANCING\nArticle 37\n(1) Financing for the implementation of women's empowerment and child protection is sourced from the Regional Revenue and Expenditure Budget. (2) In addition to being sourced from the Regional Revenue and Expenditure Budget, financing for the implementation of women's empowerment and child protection may be sourced from other legitimate and non-binding sources of financing.",
+          "score": 0.5132781
+        },
+        {
+          "chunk_id": 17,
+          "text": "Third Part\nProtection of Women",
+          "score": 0.45868814
+        },
+        {
+          "chunk_id": 7,
+          "text": "CHAPTER II\nPROTECTION OF WOMEN\nPart One\nFulfillment of Women's Rights",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 18,
+          "text": "Article 13\n(1) Protection of women includes:\na. social protection;\nb. economic protection; and\nc. legal protection.\n(2) Social protection as referred to in paragraph (1) letter a is to ensure the survival of women in the form of social protection in order to ensure the fulfillment of decent living needs.\n(3) Economic protection as referred to in paragraph (1) letter b is to prevent and address the risk of vulnerability resulting from shocks and social vulnerability of a person, family, group and/or community for the survival of women.\n(4) Legal protection as referred to in paragraph (1) letter c is implemented in terms of providing protection to women who become witnesses and victims of acts of violence and discrimination.",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 6,
+          "text": "Article 4\nThe scope of regulation for Women and Children Empowerment and Protection includes:\na. fulfillment of women's rights;\nb. women's empowerment;\nc. women's protection;\nd. children's protection;\ne. fulfillment of children's rights;\nf. safe houses;\ng. child-friendly regency;\nh. guidance and supervision;\ni. community participation;\nj. awards; and\nk. financing.",
+          "score": 0.33250546
+        },
+        {
+          "chunk_id": 44,
+          "text": "Article 33\n(1) The form of guidance as referred to in Article 32 may be implemented through activities:\na. providing socialization to the community and business sector regarding policies on women's empowerment and child protection;\nb. providing books, leaflets, brochures regarding women's empowerment and child protection, and other related issues as well as disseminating them to the community;\nc. facilitation of capacity building for women's empowerment and child protection institutions;\nd. facilitation of women's participation forums and women's and children's organizations;\ne. facilitation of rehabilitation and reintegration services for women and children victims of discrimination, violence and disasters;\nf. coordinating the participation of the business sector and other institutions, including international assistance for women's empowerment and child protection; and\ng. providing awards to the community and business sector both individually and institutionally who have made efforts in women's empowerment and child protection.\n(2) The form of supervision as referred to in Article 32 may be in the form of monitoring and evaluation activities on the implementation of policies, programs and activities for women's empowerment and child protection.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 10,
+          "text": "Article 7\n(1) The Regional Government has the obligation and responsibility for the empowerment and protection of women.\n(2) The efforts for empowerment and protection of women as referred to in paragraph (1) include:\na. determination of policies, programs, and activities for improving the quality of life of women related to the fields of development, education, health, economy, law, Human Rights and politics, environment and socio-culture;\nb. provision of services to women especially to victims of violence, female workers, elderly women, and women with disabilities, victims of conflict and victims affected by disasters; and\nc. implementation of gender mainstreaming in government institutions, women's study centers, research and development institutions, non-governmental institutions.\n(3) The efforts for empowerment and protection of women as referred to in paragraph (2) shall be carried out in an integrated manner in accordance with the prevailing laws and regulations.\n(4) The empowerment and protection of women shall be coordinated by the Regional Government Work Unit/Regional Apparatus Organization that administers regional government affairs in the field of women's empowerment and child protection.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 3,
+          "text": "CHAPTER I\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Region is Sarolangun Regency.\n2. Regional Government is the administration of governmental affairs by the Regional Government and the Regional House of Representatives according to the principles of autonomy and assistance tasks with the principle of the widest possible autonomy within the system and principles of the Unitary State of the Republic of Indonesia as referred to in the 1945 Constitution of the Republic of Indonesia.\n3. Regional Government is the Regent as an element of the organizer of Regional Government who leads the implementation of governmental affairs that are the authority of the autonomous region.\n4. Regent is the Regent of Sarolangun.\n5. Regional House of Representatives hereinafter abbreviated as DPRD is a regional people's representative institution that is positioned as an element of the organizer of Regional Government.\n6. Women's Empowerment is every effort to improve physical, mental, spiritual, social capabilities, knowledge, and skills so that women are ready to be utilized according to their respective capabilities.\n7. Women's Protection is all efforts aimed at protecting women and providing a sense of security in the fulfillment of their rights by providing consistent and systematic attention aimed at achieving gender equality.\n8. Discrimination Against Women is any distinction, exclusion or restriction made on the basis of sex which has the effect or purpose of impairing or nullifying the recognition, enjoyment or exercise of human rights and fundamental freedoms in the political, economic, social, cultural, civil or any other field by women, regardless of their marital status, on the basis of equality between men and women.\n9. Gender is a concept that refers to the differentiation of roles and responsibilities of men and women that occur as a result of social and cultural conditions of society.\n10. Gender Equality is the equality of conditions for men and women to obtain opportunities and their rights as human beings so that they are able to play a role and participate in political, economic, social, cultural, defense and security activities, and equality in enjoying the results of development.\n11. Gender mainstreaming is a strategy built to integrate gender into an integral dimension of planning, formulation, implementation, monitoring, and evaluation of national development policy programs.\n12. Child is a person who has not reached the age of 18 (eighteen) years, including a child who is still in the womb.\n13. Parents are biological father and/or mother, or step father and/or mother, or adoptive father and/or mother.\n14. Guardian is a person or body who in reality exercises parental authority over a child.\n15. Family is the smallest unit in society consisting of husband, wife and their children, or father and his children, or mother and her children, or blood relatives in direct lineage upward or downward up to the third degree.\n16. Community is individuals, families, communities, religious leaders, community leaders, traditional leaders, business world and corporations, community organizations, social organizations, women's and gender study centers, mass media or other similar entities.\n17. Child Protection is all activities to guarantee and protect children and their rights so that they can live, grow and develop and participate optimally in accordance with human dignity and receive protection from violence, exploitation, discrimination, and neglect.\n18. Special protection is protection given to children in emergency situations, children in conflict with the law, children from minority and isolated groups, children who are exploited economically and/or sexually, children who are trafficked, children who are victims of narcotics, alcohol, psychotropic, and other addictive substances (napza) abuse, children who are victims of kidnapping, sale, trafficking, children who are victims of violence both physical and/or mental, children with disabilities, and children who are victims of maltreatment and neglect.\n19. Safe house is a shelter or temporary protection house for victims during the assistance process to ensure the safety and comfort of victims from threats and dangers of perpetrators and is only known to interested parties for reasons of victim safety and security.\n20. Child-friendly regency is a regency that has a child rights-based development system through the integration of commitments and resources of government, community, business world, and media that are planned comprehensively and sustainably in policies, programs and activities to ensure the fulfillment of children's rights and special protection of children.",
+          "score": 0.3053658
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe regulation regarding the Empowerment and Protection of Women and Children aims to:\na. guarantee the fulfillment of the rights of every woman and child to survival, growth and development;\nb. improve the quality of life of women, children and the quality of families;\nc. increase the institutional capacity for women's empowerment and child protection in the regions, including the development of gender and child data systems; and\nd. provide protection of women's rights and fulfillment of children's rights including special protection for children from various forms of violence and other discriminatory treatment.",
+          "score": 0.30206156
+        },
+        {
+          "chunk_id": 11,
+          "text": "Second Part\nWomen's Empowerment",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 55,
+          "text": "A. GENERAL EXPLANATION\nPancasila and the 1945 Constitution of the Republic of Indonesia have firmly and clearly provided protection for Human Rights, including the rights of women and children. Every person has equal dignity and worth not only guaranteed by the 1945 Constitution of the Republic of Indonesia, but also internationally recognized through the Universal Declaration of Human Rights (UDHR) of 1948 which explicitly regulates the importance of protection of Human Rights including protection of women and children.\nTo guarantee the fulfillment of the rights of women and children, regional governments have the obligation and responsibility to implement and support national policies in the administration of governmental affairs in the field of empowerment and protection of women and children in the regions. In addition, regional governments are also given the obligation to conduct supervision over the administration of empowerment and protection of women and children.\nThe administration of empowerment and protection of women and children is an effort to realize capable women as well as an effort to protect women and children from all acts of violence in order to achieve the goal of welfare. The empowerment and protection of women and children that has been implemented so far has not been optimal and comprehensive in reaching the problems faced by women and children. In addition, public awareness of efforts to empower and protect women and children is still very lacking. To achieve these objectives and to implement the authority of regional governments as outlined in Law Number 23 of 2014 concerning Regional Government in the sub-affairs of empowerment and protection of women and children, a regulation is needed that can serve as a legal umbrella for regional governments in the administration of governmental affairs in the field of women's empowerment and child protection in the regions.\nIn formulating policies related to women's empowerment and child protection, it is necessary to pay attention to the principles of good legislation formation as regulated in Law Number 12 of 2011 concerning the Formation of Legislation, including:\nr. clarity of purpose;\ns. appropriate institution or forming official;\nt. conformity between type, hierarchy, and material content;\nu. implementability;\nv. utility and effectiveness;\nw. clarity of formulation; and\nx. openness.\nIn addition to the principles of legislation formation, it is also necessary to pay attention to the principles of material content which include:\na. protection;\nb. humanity;\nc. nationality;\nd. kinship;\ne. archipelagic principle;\nf. unity in diversity;\ng. justice;\nh. equality of position in law and government;\ni. order and legal certainty; and/or\nj. balance, harmony, and congruence.\nThe administration of governmental affairs in the field of Women's Empowerment and Child Protection aims to increase efforts for the protection of women's rights, fulfillment of children's rights and Special Protection for Children and to increase the role of Regional Governments and the business sector, media and society in efforts for Women's Empowerment and Child Protection. The principal matters contained in the body of the Regional Regulation concerning the Administration of Empowerment and Protection of Women and Children include:\na. fulfillment of women's rights;\nb. empowerment of women;\nc. protection of women;\nd. protection of children;\ne. fulfillment of children's rights;\nf. integrated service center;\ng. safe house;\nh. child-friendly regency;\ni. guidance and supervision;\nj. community participation;\nk. awards; and\nl. financing.",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 1,
+          "text": "BY THE GRACE OF ALMIGHTY GOD\nTHE REGENT OF SAROLANGUN,\n\nConsidering : a. that women and children are national assets who play a role in the process of continuation and creation of quality generations and need to receive guarantees for the fulfillment of their rights and protection from acts of violence and discrimination in order to build society, nation and state;\nb. that along with the increasing violence against women and children in Sarolangun Regency, which constitutes acts that degrade human dignity and honor, the role of the Sarolangun Regency government is required so that women and children are protected from violations of rights guaranteed by the Constitution;\nc. that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Implementation of Empowerment and Protection of Women and Children;\n\nIn View of : 1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia;\n2. Law Number 39 of 1999 concerning Human Rights (State Gazette of the Republic of Indonesia of 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n3. Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 1999 Number 182, Supplement to the State Gazette of the Republic of Indonesia Number 3903); as amended by Law Number 14 of 2000 concerning Amendment to Law Number 54 of 1999 concerning the Establishment of Sarolangun Regency, Tebo Regency, Muaro Jambi Regency and East Tanjung Jabung Regency (State Gazette of the Republic of Indonesia of 2000 Number 81, Supplement to the State Gazette of the Republic of Indonesia Number 3969);\n4. Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2002 Number 109, Supplement to the State Gazette of the Republic of Indonesia Number 4235), as amended by Law Number 35 of 2014 concerning Amendment to Law Number 23 of 2002 concerning Child Protection (State Gazette of the Republic of Indonesia of 2014 Number 297, Supplement to the State Gazette of the Republic of Indonesia Number 5606);\n5. Law Number 23 of 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia of 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n6. Law Number 30 of 2014 concerning Government Administration (State Gazette of the Republic of Indonesia of 2014 Number 292, Supplement to the State Gazette of the Republic of Indonesia Number 5601);\n7. Law Number 21 of 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2007 Number 58, Supplement to the State Gazette of the Republic of Indonesia Number 4720);\n8. Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234), as amended several times most recently by Law Number 13 of 2022 Concerning the Second Amendment to Law Number 12 of 2011 concerning the Formation of Laws and Regulations (State Gazette of the Republic of Indonesia of 2022 Number 143, Supplement to the State Gazette of the Republic of Indonesia Number 6801);\n9. Law Number 11 of 2012 concerning the Juvenile Criminal Justice System (State Gazette of the Republic of Indonesia of 2012 Number 153, Supplement to the State Gazette of the Republic of Indonesia Number 5332);\n10. Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2014 Number 244, Supplement to the State Gazette of the Republic of Indonesia of 2014 Number 5587), as amended several times most recently by Law Number 9 of 2015 concerning the Second Amendment to Law Number 23 of 2014 concerning Regional Government (State Gazette of the Republic of Indonesia of 2015 Number 58, Supplement to the State Gazette Number 5679);\n11. Government Regulation Number 4 of 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia of 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n12. Government Regulation Number 9 of 2008 concerning Procedures and Mechanisms for Integrated Services for Witnesses and/or Victims of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia of 2008 Number 22, Supplement to the State Gazette of the Republic of Indonesia 4818);\n13. Regulation of the State Minister for Women's Empowerment Number 1 of 2008 concerning Guidelines for Improving the Quality of Life of Women;\n14. Regulation of the State Minister for Women's Empowerment Number 2 of 2008 concerning Guidelines for the Implementation of Women's Protection;\n15. Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2015 Number 2036) as amended by Regulation of the Minister of Home Affairs Number 120 of 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 of 2015 concerning the Formation of Regional Legal Products (State News of the Republic of Indonesia of 2018 Number 157);\n16. Regional Regulation of Sarolangun Regency Number 5 of 2016 Concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2016 Number 5) as amended several times most recently by Regional Regulation of Sarolangun Regency Number 1 of 2021 concerning the Third Amendment to Regional Regulation of Sarolangun Regency Number 5 of 2016 concerning the Establishment and Composition of Regional Apparatus (Regional Gazette of Sarolangun Regency of 2021 Number 1);\n\nWith Mutual Approval",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 41,
+          "text": "CHAPTER IV\nSAFE HOUSE\nArticle 30\n(1) Women and child victims of violence who require ongoing assistance have the right to stay in a safe house.\n(2) The safe house as referred to in paragraph (1) provides a temporary safe place or shelter for victims of violence until their rights are restored.\n(3) The organization and management of the safe house as referred to in paragraph (1) shall be carried out by the regional apparatus that performs functions in the field of women and child empowerment.\n(4) Further provisions regarding the organization of the safe house as referred to in paragraph (1) shall be regulated by the Regent's Regulation.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 37,
+          "text": "Part Six\nSpecial Protection",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 8,
+          "text": "Article 5\n(1) Every woman has the right to:\na. live and maintain her life and improve her standard of living;\nb. fulfill her basic needs to grow and develop properly, form a family and continue her lineage;\nc. develop her personality, obtain education, and improve her quality of life in order to become a human being who is faithful, pious, responsible, of noble character, happy, and prosperous in accordance with human rights;\nd. obtain justice, a sense of security, and freedom to express opinions without discrimination;\ne. be involved in every stage of the development process;\nf. be free from slavery or enslavement and threats;\ng. obtain protection of her person, family, honor, dignity and property rights;\nh. obtain welfare and a decent life;\ni. participate in politics and obtain equal opportunities in government;\nj. perform legal acts; and\nk. freely choose a partner in her marriage.\n(2) In addition to the rights as referred to in paragraph (1), specifically women with disabilities have the right to obtain facilitation and special treatment in public services.",
+          "score": 0.26405463
+        },
+        {
+          "chunk_id": 74,
+          "text": "Article 19\nSufficiently clear",
+          "score": 0.26405463
+        },
+        {
+          "chunk_id": 82,
+          "text": "Article 27\nSufficiently clear",
+          "score": 0.26405463
+        },
+        {
+          "chunk_id": 63,
+          "text": "Article 8\nSufficiently clear",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 71,
+          "text": "Article 16\nSufficiently clear",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 72,
+          "text": "Article 17\nSufficiently clear",
+          "score": 0.26102942
+        },
+        {
+          "chunk_id": 45,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 34\n(1) The Regional Government has the obligation to strengthen community participation in the development of women's empowerment and Child Protection.\n(2) Community participation as referred to in paragraph (1) may be conducted in the form of:\na. socialization;\nb. advocacy;\nc. counseling;\nd. guidance;\ne. supervision;\nf. facilitation;\ng. services;\nh. studies;\ni. training;\nj. capital provision; and\nk. provision of facilities and infrastructure.\n(3) Strengthening of community participation as referred to in paragraph (1) may be conducted through:\na. strengthening cooperation;\nb. strengthening institutional capacity for prevention and services from the community, Islamic boarding schools and the business sector; and\nc. financing support.",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 46,
+          "text": "Article 35\n(1) The business sector has responsibility in the implementation of women's empowerment and child protection.\n(2) The form of business sector responsibility as referred to in paragraph (4) shall be carried out in the form of:\na. financial assistance to service institutions;\nb. empowerment;\nc. capacity building;\nd. publication and information media;\ne. provision of facilities and infrastructure;\nf. establishment of special institutions for prevention and complaint services regarding violence; and\ng. non-binding social assistance.",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 69,
+          "text": "Article 14\nSufficiently clear",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 67,
+          "text": "Article 12\nSufficiently clear",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 73,
+          "text": "Article 18\nSufficiently clear",
+          "score": 0.25802675
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text explicitly mentions \"bantuan internasional\" in Pasal 33(1) huruf f: \"mengkoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bantuan internasional bagi pemberdayaan perempuan dan perlindungan anak.\" This is a direct reference to international assistance (which can include international donors). Thus a 'Yes' is supported by the source; the golden 'No' appears wrong.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "JAMBI_SAROLANGUN.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-11T13:09:14.020979+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 7,
+  "diagnosed_count": 7
+}

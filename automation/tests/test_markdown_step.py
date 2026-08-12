@@ -29,13 +29,16 @@ def pipeline_config(tmp_path):
     translate_model = ModelProfile(name="test-translate", deployment="gpt-5.2", temperature=0.2)
     eval_model = ModelProfile(name="test-eval", deployment="gpt-4o", temperature=0.1)
     diagnosis_model = ModelProfile(name="test-diagnosis", deployment="gpt-5.2", temperature=0.2)
+    translation_qa_model = ModelProfile(name="test-translation-qa", deployment="gpt-5.2", temperature=0.1)
     prompt_path = AUTOMATION_ROOT / "prompts" / "translation" / "v1" / "prompt.txt"
     return ResolvedPipelineConfig(
         experiment_name="test",
         translation_model=translate_model,
+        translation_qa_model=translation_qa_model,
         evaluation_model=eval_model,
         discrepancy_diagnosis_model=diagnosis_model,
         translation_prompt_path=prompt_path,
+        translation_qa_template_path=AUTOMATION_ROOT / "prompts" / "translation_qa" / "v1" / "prompt_template.txt",
         evaluation_criteria_dir=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1",
         evaluation_template_path=AUTOMATION_ROOT / "prompts" / "quality_eval" / "v1" / "prompt_template.txt",
         discrepancy_diagnosis_template_path=(
@@ -70,8 +73,8 @@ def data_root(tmp_path, monkeypatch):
 
 
 def test_markdown_step_renders_cleaned_text_without_translation(pipeline_config, data_root):
-    # cleaned_text/*.cleaned.md only depends on the raw input, not on a
-    # translation having run yet.
+    # cleaned_text/*.cleaned.txt and cleaned_markdown/*.cleaned.md only
+    # depend on the raw input, not on a translation having run yet.
     run_id = "markdown_cleaned_only"
     input_dir = pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
@@ -80,7 +83,16 @@ def test_markdown_step_renders_cleaned_text_without_translation(pipeline_config,
     result = run_markdown_step(run_id=run_id, config=pipeline_config, small_scale=False, force=False)
 
     assert result["counts"] == {"total": 1, "succeeded": 1, "skipped": 0, "failed": 0}
-    cleaned_path = data_root / run_id / "results" / "cleaned_text" / "POLICY.cleaned.md"
+
+    plain_path = data_root / run_id / "results" / "cleaned_text" / "POLICY.cleaned.txt"
+    assert plain_path.exists()
+    plain_text = plain_path.read_text(encoding="utf-8")
+    assert "BAB I" in plain_text
+    assert "Pasal 1" in plain_text
+    assert "Kalimat kedua yang cukup panjang untuk diuji juga." in plain_text
+    assert "# " not in plain_text
+
+    cleaned_path = data_root / run_id / "results" / "cleaned_markdown" / "POLICY.cleaned.md"
     assert cleaned_path.exists()
     cleaned_text = cleaned_path.read_text(encoding="utf-8")
     assert "# BAB I" in cleaned_text
@@ -122,20 +134,25 @@ def test_markdown_step_skips_existing_output_unless_forced(pipeline_config, data
 
     cleaned_dir = data_root / run_id / "results" / "cleaned_text"
     cleaned_dir.mkdir(parents=True)
-    (cleaned_dir / "POLICY.cleaned.md").write_text("stale content", encoding="utf-8")
+    (cleaned_dir / "POLICY.cleaned.txt").write_text("stale content", encoding="utf-8")
+    cleaned_md_dir = data_root / run_id / "results" / "cleaned_markdown"
+    cleaned_md_dir.mkdir(parents=True)
+    (cleaned_md_dir / "POLICY.cleaned.md").write_text("stale content", encoding="utf-8")
 
     result = run_markdown_step(run_id=run_id, config=pipeline_config, small_scale=False, force=False)
     assert result["counts"] == {"total": 1, "succeeded": 0, "skipped": 1, "failed": 0}
-    assert (cleaned_dir / "POLICY.cleaned.md").read_text(encoding="utf-8") == "stale content"
+    assert (cleaned_dir / "POLICY.cleaned.txt").read_text(encoding="utf-8") == "stale content"
+    assert (cleaned_md_dir / "POLICY.cleaned.md").read_text(encoding="utf-8") == "stale content"
 
     result = run_markdown_step(run_id=run_id, config=pipeline_config, small_scale=False, force=True)
     assert result["counts"] == {"total": 1, "succeeded": 1, "skipped": 0, "failed": 0}
-    assert "# BAB I" in (cleaned_dir / "POLICY.cleaned.md").read_text(encoding="utf-8")
+    assert "BAB I" in (cleaned_dir / "POLICY.cleaned.txt").read_text(encoding="utf-8")
+    assert "# BAB I" in (cleaned_md_dir / "POLICY.cleaned.md").read_text(encoding="utf-8")
 
 
 def test_markdown_step_backfills_only_missing_files(pipeline_config, data_root):
     # Simulates re-running the step on an existing run where one policy
-    # already has its markdown and another doesn't yet.
+    # already has both its cleaned outputs and another doesn't yet.
     run_id = "markdown_backfill"
     input_dir = pipeline_config.paths.input_dir
     input_dir.mkdir(parents=True)
@@ -144,10 +161,15 @@ def test_markdown_step_backfills_only_missing_files(pipeline_config, data_root):
 
     cleaned_dir = data_root / run_id / "results" / "cleaned_text"
     cleaned_dir.mkdir(parents=True)
-    (cleaned_dir / "A.cleaned.md").write_text("already there", encoding="utf-8")
+    (cleaned_dir / "A.cleaned.txt").write_text("already there", encoding="utf-8")
+    cleaned_md_dir = data_root / run_id / "results" / "cleaned_markdown"
+    cleaned_md_dir.mkdir(parents=True)
+    (cleaned_md_dir / "A.cleaned.md").write_text("already there", encoding="utf-8")
 
     result = run_markdown_step(run_id=run_id, config=pipeline_config, small_scale=False, force=False)
 
     assert result["counts"] == {"total": 2, "succeeded": 1, "skipped": 1, "failed": 0}
-    assert (cleaned_dir / "A.cleaned.md").read_text(encoding="utf-8") == "already there"
-    assert (cleaned_dir / "B.cleaned.md").read_text(encoding="utf-8") == "source B\n"
+    assert (cleaned_dir / "A.cleaned.txt").read_text(encoding="utf-8") == "already there"
+    assert (cleaned_md_dir / "A.cleaned.md").read_text(encoding="utf-8") == "already there"
+    assert (cleaned_dir / "B.cleaned.txt").read_text(encoding="utf-8") == "source B\n"
+    assert (cleaned_md_dir / "B.cleaned.md").read_text(encoding="utf-8") == "source B\n"

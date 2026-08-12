@@ -1,0 +1,552 @@
+{
+  "granularity": "chunked",
+  "chunks_checked": 64,
+  "chunks_corrected": 34,
+  "chunks_response_incomplete": 0,
+  "items": [
+    {
+      "chunk_index": 0,
+      "section_id": 0,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 1,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in legal citation: item 2 Supplement number should be 4235 (not 3143) per the source text",
+        "Meaning drift in legal citation: item 10 Supplement number should be 1437 (not 4437) per the source text"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 2,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 3,
+      "action_required": true,
+      "issues": [
+        "Meaning drift in item 6: original includes 'including a child who is in the womb' but does not include 'a person who is determined by law' (that phrase belongs to the definition of 'Woman')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 4,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 5,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 6,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"anal(\" in the original appears to be \"anak\" (children); translation should reflect \"women and children\" consistently",
+        "Punctuation consistency: item b in the translation is missing the semicolon used in the original list items"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 7,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 8,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 9,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 10,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list lettering: original has items a, b, c, d, e, g but translation shows a, o, d, e, f, g (misread letters and shifted content).",
+        "Meaning drift due to mis-association of list items: 'maximum health services...' should be item d, and 'security' should be item c; missing item b ('rasa nyaman') and item e should remain assistance/legal aid/spiritual guidance."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 11,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 12,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 13,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/added content: the translation introduces \"Article 8\" which is not present in the original text (original remains under Article 7).",
+        "Meaning drift: the phrase \": pasar g '\" in the original appears to be OCR noise; it should not be translated as a new article number, but the substantive sentence that follows must remain as part of Article 7."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 14,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 15,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/garbling: OCR noise left untranslated and breaks the sentence; the intended subject and obligation are unclear in the English.",
+        "Omission/incorrect rendering: paragraph (2) content about obligation to provide assistance with education costs or free education for poor/neglected children is not properly separated and translated due to corruption in the source line."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 16,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 17,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"armed conflict\" is not supported by the original text (should be \"social conflict\"/\"social unrest\" based on 'konflik sosial')."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 18,
+      "action_required": true,
+      "issues": [
+        "Leftover untranslated/source text included in the English translation (\"Pasal t3\" and Indonesian sentence in item (1)).",
+        "Meaning drift/garbling in item (1): the phrase about preventing transplantation of children's organs and violence against children is corrupted and not properly translated; remove stray symbols and render the intended meaning from the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 19,
+      "action_required": true,
+      "issues": [
+        "Leftover OCR/garbled text in heading: \"Paiag.at 2\" should be \"Paragraph 2\".",
+        "Meaning drift: \"Pemerintah daerah\" should be translated as \"local government\" (singular) rather than \"regional governments\" (plural)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 20,
+      "action_required": true,
+      "issues": [
+        "Scrambled/punctuated list structure: stray hyphen and comma before list items; list markers should be cleanly formatted.",
+        "Meaning drift/typos: \"Pedindungan\" should be \"Protection\" (already) but Indonesian has \"penyusunan\"; translation is fine but needs to reflect \"preparation/drafting\"; remove leftover apostrophes at end of items (not in legal text)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 21,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Regional governments\" should be singular \"local government\" (pemerintah daerah).",
+        "Meaning drift: \"Socialization\" should be translated as outreach/dissemination (sosialisasi) in this legal context."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 22,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 23,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 24,
+      "action_required": true,
+      "issues": [
+        "Scrambled/duplicated numbering in paragraph (2): two separate provisions are both labeled (2); the second should be (3), shifting the last to (4)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 25,
+      "action_required": true,
+      "issues": [
+        "Scrambled numbering/structure: paragraph (2) marker is merged into item d and missing proper separation.",
+        "Minor meaning drift/typo carryover: \"Rohaniawan\" should be translated as \"clergy/spiritual counselors\" rather than \"religious leaders\" (more general)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 26,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 27,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure: item d is merged into item c on the same line; should be a separate lettered item.",
+        "Minor meaning/term issue: 'Instansi Polisi Resort (Polres)' is 'Resort Police Institution/Office (Polres)', not 'Resort Police Stations' (and 'Polsek' should be consistently rendered as Sector Police Office/Station)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 28,
+      "action_required": true,
+      "issues": [
+        "Incorrect cross-reference: paragraph (2) should refer to paragraph (1)",
+        "Minor meaning drift: 'penanganan sementara' is 'temporary shelter/placement/handling'; translation is acceptable but keep consistent while correcting the reference"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 29,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect list numbering: item markers (1)-(3) are misplaced; last sentence incorrectly shows (3) instead of (4).",
+        "Meaning drift/typos: \"volunteer (3) companions\" should be a separate item (4) and refers to \"volunteer companions\" (relawan pendamping), not a numbered element within the phrase. Also fix \"(21\" OCR artifact to (2) in structure."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 30,
+      "action_required": true,
+      "issues": [
+        "Scrambled/incorrect numbering: item (2) appears as '(21' in the source and should be rendered as '(2)' as a separate duty item."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 31,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 32,
+      "action_required": true,
+      "issues": [
+        "Leftover/garbled text in original ('aAB V I') appears to indicate the next chapter heading; translation adds 'CHAPTER VIII' without corresponding clear source text and omits the garbled fragment handling."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 33,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 34,
+      "action_required": true,
+      "issues": [
+        "Scrambled list structure in paragraph (2): item b is run together with item a on the same line, obscuring the list formatting"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 35,
+      "action_required": true,
+      "issues": [
+        "Minor meaning drift/typo: \"On the date of 28 August 2014\" should be \"on 28 August 2014\" (Indonesian: \"Pada tanggal 28 Agustus 2014\")."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 36,
+      "action_required": true,
+      "issues": [
+        "Typo/number misread in date: \"2g\" should be \"29\" (Agustus -> August 29)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 37,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: the official's name in the original is \"AtDtL t{uR\" (as written), but the translation renders it as \"ABDUL NUR\" which is not supported by the source text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 38,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"0S/YEAR 2014\" should reflect \"05/TAHUN 2014\" as \"05/YEAR 2014\" (number misread)."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 39,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/unnatural rendering: \"in their humanity\" should reflect \"dalam ke(h)ak asasiannya\" (in their human rights), not humanity.",
+        "Meaning drift: \"the universe of conditions\" mistranslates \"semesta kondisi\"; should be \"the overall/entirety of the conditions\".",
+        "Minor meaning/term choice: \"persecution\" is not the best equivalent for \"penganiayaan\" in this legal context; should be \"abuse/assault\"."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 40,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 41,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 42,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 43,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 44,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 45,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 46,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 47,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Cukup jelas.\" in legal drafting means \"Sufficiently clear\"/\"Self-explanatory\"; the translation \"Sufficiently clear.\" is acceptable, but the source text contains an OCR error (\"i€las\") that should not affect meaning; no correction needed to meaning, but standard legal rendering is \"Self-explanatory.\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 48,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 49,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 50,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 51,
+      "action_required": true,
+      "issues": [
+        "Scrambled list/numbering: in Article 16 the items 'Letter b/c/d/e' are run together and not associated with their respective content; 'Sufficiently clear' lines are misplaced.",
+        "Meaning drift/structure: Article 16 Paragraph (1) and Paragraph (2) lettered subitems are not clearly separated; needs reformatting to reflect original itemization without changing content."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 52,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 53,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 54,
+      "action_required": true,
+      "issues": [
+        "Scrambled/flattened list structure: lettered items (a–d) and paragraph (2) are run together without clear item separation.",
+        "Minor meaning drift/word choice: 'religious clergy' should be 'clergy/rohaniawan' (not 'religious clergy'); ensure 'both personally and institutionally/structurally' clearly modifies the listed religious figures."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 55,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/awkward rendering: \"diprioritaskan pada -\" indicates prioritization of (i.e., priority is given to) regional government-owned hospitals; translation \"prioritized to\" is incorrect/unnatural and misses the dash indicating the prioritized category.",
+        "Minor meaning drift: \"Cukup jelas\" is better rendered as \"Sufficiently clear\" without a colon, but keep legal meaning."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 56,
+      "action_required": true,
+      "issues": [
+        "Article numbering/formatting is merged: \"Pasal22\" should be rendered as a separate \"Article 22\" line, not run together with Article 21 text."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 57,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: 'Kantor Kecamatan' refers to Sub-district Office, not District Office."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 58,
+      "action_required": true,
+      "issues": [
+        "Scrambled structure: 'Paragraph (3) Article 27' is merged into the end of Article 26/Paragraph (2) line; Article 27 heading and Paragraph (3) marker are not properly separated.",
+        "Meaning/structure clarity: Article 26 Paragraph (2) and Paragraph (3) 'Sufficiently clear' statements are not clearly separated as in the original."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 59,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 60,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: original reads \"Cukup.ielas.\" (intended \"Cukup jelas.\"), but translation renders it as \"Sufficiently clear.\" instead of the standard legal phrase \"Sufficient.\"/\"Sufficiently.\""
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 61,
+      "action_required": true,
+      "issues": [
+        "Meaning drift: \"Cukup ielas\" is a standard legal phrase meaning \"Sufficiently clear\"/\"Self-explanatory\"; translation is acceptable, but the Indonesian has an OCR error (\"ielas\" for \"jelas\")—no change needed to meaning. However, \"LEMBARAN OAERAH\" should be \"LEMBARAN DAERAH\" and is a header; keep as translated but ensure it reflects the original header accurately.",
+        "corrected_text",
+        "Article 30\n- Sufficiently clear.\nREGIONAL GAZETTE OF DONGGALA REGENCY YEAR 2014 NUMBER 5\nCopy in accordance with the original: &\\Ed*.",
+        "corrected_text"
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 62,
+      "action_required": true,
+      "issues": [
+        "Meaning drift/typo: \"KAAUPATEN\" refers to \"Kabupaten\" (Regency), but the translation omits \"Kabupaten\" after \"Regional Regulation\" and instead places \"of the Regency\" on a separate line, losing the original structure \"Peraturan Daerah Kabupaten ...\".",
+        "Meaning drift: \"SULAWESI TEI{GAH\" is \"Sulawesi Tengah\" (Central Sulawesi); the translation renders it as \"CENTRAL SULAWESI\" but keeps it on a separate line without \"Regency of Central Sulawesi\" structure; should be \"Regional Regulation of the Regency of Central Sulawesi\" to match the original header meaning.",
+        "Minor meaning/format drift: \"o5/TAHUN m14\" should be \"05/TAHUN 2014\"; translation should reflect \"05/YEAR 2014\" but ensure the number is correctly read as 05 and 2014."
+      ],
+      "response_incomplete": false
+    },
+    {
+      "chunk_index": 0,
+      "section_id": 63,
+      "action_required": false,
+      "issues": [],
+      "response_incomplete": false
+    }
+  ],
+  "policy_file": "SULAWESI_TENGAH_DONGGALA.txt",
+  "model": "gpt-5.2",
+  "checked_at": "2026-08-11T11:05:42.839089+00:00",
+  "prompt_version": "v1"
+}
