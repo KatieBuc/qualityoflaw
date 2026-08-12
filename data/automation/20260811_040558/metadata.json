@@ -4,7 +4,7 @@
   "status": "completed",
   "timestamps": {
     "created_at": "2026-08-11T04:05:58.216885+00:00",
-    "updated_at": "2026-08-12T11:40:21.620562+00:00"
+    "updated_at": "2026-08-12T11:49:31.840625+00:00"
   },
   "config": {
     "translation_model": "claude-sonnet-4-5",
@@ -212,6 +212,7 @@
       "SULAWESI_BARAT_PASANGKAYU.txt",
       "SULAWESI_SELATAN_BULUKUMBA.txt",
       "SULAWESI_SELATAN_ENREKANG.txt",
+      "SULAWESI_SELATAN_LUWU.txt",
       "SULAWESI_SELATAN_LUWU_TIMUR.txt",
       "SULAWESI_SELATAN_LUWU_TIMUR_v2.txt",
       "SULAWESI_SELATAN_PALOPO_KOTA.txt",
@@ -259,44 +260,44 @@
   "file_counts": {
     "translation": {
       "total": 198,
-      "succeeded": 7,
-      "skipped": 191,
+      "succeeded": 1,
+      "skipped": 197,
       "failed": 0
     },
     "translation_qa": {
       "total": 198,
-      "succeeded": 7,
-      "corrected": 7,
+      "succeeded": 1,
+      "corrected": 1,
       "incomplete": 0,
-      "skipped": 191,
+      "skipped": 197,
       "failed": 0
     },
     "markdown": {
-      "total": 396,
-      "succeeded": 14,
-      "skipped": 382,
+      "total": 397,
+      "succeeded": 2,
+      "skipped": 395,
       "failed": 0
     },
     "storage": {
-      "total": 198,
-      "succeeded": 7,
-      "skipped": 191,
+      "total": 199,
+      "succeeded": 1,
+      "skipped": 198,
       "failed": 0
     },
     "evaluation": {
-      "total": 198,
-      "succeeded": 7,
+      "total": 199,
+      "succeeded": 1,
       "failed": 0,
-      "skipped": 191,
-      "saved_reports": 7
+      "skipped": 198,
+      "saved_reports": 1
     },
     "discrepancy_diagnosis": {
       "total": 192,
-      "succeeded": 7,
+      "succeeded": 1,
       "failed": 0,
-      "skipped": 185,
-      "saved_reports": 7,
-      "discrepancies_total": 933
+      "skipped": 191,
+      "saved_reports": 1,
+      "discrepancies_total": 928
     }
   },
   "failures": {
@@ -309,34 +310,34 @@
   },
   "token_usage": {
     "translation": {
-      "prompt_tokens": 172825,
-      "completion_tokens": 86256,
-      "total_tokens": 259081
+      "prompt_tokens": 8711,
+      "completion_tokens": 4432,
+      "total_tokens": 13143
     },
     "translation_qa": {
-      "prompt_tokens": 544028,
-      "completion_tokens": 77464,
-      "total_tokens": 621492
+      "prompt_tokens": 26478,
+      "completion_tokens": 5593,
+      "total_tokens": 32071
     },
     "evaluation": {
-      "prompt_tokens": 3091561,
-      "completion_tokens": 26677,
-      "total_tokens": 3118238
+      "prompt_tokens": 340024,
+      "completion_tokens": 3676,
+      "total_tokens": 343700
     },
     "discrepancy_diagnosis": {
-      "prompt_tokens": 301662,
-      "completion_tokens": 6053,
-      "total_tokens": 307715
+      "prompt_tokens": 22396,
+      "completion_tokens": 621,
+      "total_tokens": 23017
     }
   },
   "timing_seconds": {
-    "translation": 1094.77,
-    "translation_qa": 390.46,
-    "markdown": 0.94,
-    "storage": 15.81,
-    "evaluation": 428.37,
-    "comparison": 4.9,
-    "discrepancy_diagnosis": 34.47,
-    "total": 4.92
+    "translation": 130.33,
+    "translation_qa": 85.12,
+    "markdown": 0.32,
+    "storage": 3.48,
+    "evaluation": 62.97,
+    "comparison": 1.5,
+    "discrepancy_diagnosis": 12.4,
+    "total": 321.3
   }
 }

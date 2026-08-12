@@ -1,0 +1,576 @@
+{
+  "diagnoses": {
+    "1.2": {
+      "indicator": "Sexual violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "The provided sentences discuss violence against women generally and mention sexual exploitation, but they do not explicitly mention sexual violence (e.g., rape/sexual assault) as a category of violence addressed by the policy.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\nThe implementation of protection of women from acts of violence includes:\na. prevention;\nb. handling;\nc. empowerment.\n-5-",
+          "score": 0.5521534
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER XI\nPROHIBITIONS AND SANCTIONS\nArticle 28\nAny person who intentionally commits violence against women shall be subject to sanctions in accordance with the laws and regulations.\n-13-",
+          "score": 0.5521534
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\n(1) Prevention as referred to in Article 4 letter a, includes: a. collecting data and information about women victims of violence and laws and regulations; b. conducting education about anti-violence values toward women;\nc. disseminating laws and regulations related to the implementation of protection for women victims of violence;\nd. establishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\ne. encouraging community awareness of the importance of protection for women victims of violence;\n1. Increasing women's awareness of the importance of adhering to ethics, religious norms and cultural norms in behavior.\n(2) Prevention as referred to in paragraph (1) shall be carried out by the Regional Government of the Regency, police institutions, prosecution institutions, judicial institutions, non-governmental organizations, and the community in accordance with their respective duties, functions, and responsibilities.\n7.",
+          "score": 0.5463509
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 21\n(1) The provision and facilitation of Protection services for women as referred to in Article 20 letter c shall be in the form of:\na. handling of complaints/reports;\nb. legal assistance;\nc. health rehabilitation;\nd. social rehabilitation;\ne. social reintegration; or\nf. return/repatriation assistance.\n(2) The provision and facilitation of Protection services for women as referred to in paragraph (1) shall be provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. elderly who are not independent;\nd. persons with disabilities;\ne. victims of sexual exploitation;\nf. victims of disasters and those in conflict-prone areas; and\ng. workers/employees.",
+          "score": 0.5424755
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\n(1) Protection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\n(2) Protection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+          "score": 0.5424755
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Implementation of Women's Protection aims to:\na. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life;\nb. prevent all forms of Discrimination;\nc. empower women both individually and in groups and communities experiencing gender issues so they are able to fulfill their needs independently;\nd. prevent and address risks from women's vulnerability so that their survival can be fulfilled in accordance with minimum basic needs;\ne. a decrease in the gap in opportunities between women and men in achieving development; and\nf. a decrease in acts of Violence against women.",
+          "score": 0.5113262
+        },
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VIII\nINSTITUTIONALIZATION, GUIDANCE, AND SUPERVISION\nPart One Institutionalization\nArticle 23\n(1) Handling as referred to in Article 11 shall be carried out in an integrated manner by relevant SKPD and/or service institutions that handle the protection of women from acts of violence.\n(2) The implementation of integrated services shall be coordinated by BPPKB or other name as further regulated by Regent Regulation.\n(3) The implementation of integrated services shall be in accordance with laws and regulations.",
+          "score": 0.47034734
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) The forms of services for women victims of violence that are provided include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims, carried out by medical personnel and paramedics;\nb. medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nd. legal services to assist victims in undergoing the judicial process;\ne. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures that will be regulated in Regent Regulation.",
+          "score": 0.46840155
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGION\nCONCERNING\nPROTECTION\nWOMEN\nBABI\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Government is the Central Government.\n2. Governor is the Governor of South Sulawesi Province.\n3. Region is Luwu Regency.\n4. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Luwu.\n6. Gender is a concept that refers to roles and responsibilities as women and as men that are created and internalized in families, communities and community culture in which we live including expectations, attitudes, characteristics, behavior of how to be a man and how to be a woman.\n7. Discrimination is any restriction, harassment or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, resulting in reduction, deviation or elimination of recognition, implementation or human rights and basic freedoms in the use of rights in life both individually and collectively in the political, economic, legal, social, cultural fields and other aspects of life.\n8. Women's empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge and skills so that women are ready to be utilized according to their respective abilities.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, temporarily or courts or other parties either based on court decisions.\n10. Violence is any act unlawfully, with or without using means against physical and psychological that causes danger to life, body or causes deprivation of a person's freedom.\n11. Disability is an individual who has physical or mental limitations.\n12. Regional Cooperation is an agreement between governor and governor or governor and regent/mayor or between regent/mayor and other regent/mayor, and or governor, regent/mayor with third parties, made in writing and giving rise to rights and obligations.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 12\nThe provision of integrated services to women victims of violence shall be carried out free of charge, quickly, safely, empathetically, without discrimination, easily accessible, and with a guarantee of confidentiality.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Three Supervision\nArticle 24\n(1) The region is obligated to conduct supervision of the implementation of the protection of women from acts of violence. (2) Supervision as referred to in paragraph (1) shall be carried out with the principles of being professional, transparent and accountable.\nCommunity",
+          "score": 0.4432148
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.",
+          "score": 0.43936244
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 25\nmay conduct supervision of the implementation of the protection of women from acts of violence carried out by the regional government by submitting aspirations to the Regent or the DPRD.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER X\nMONITORING, EVALUATION AND REPORTING\nArticle 27\n(1) To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for Women's Empowerment and Protection, the Regional Government shall conduct monitoring.\n(2) Monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs and activities for Women's Empowerment and Protection in the Region.\n(3) Monitoring shall be conducted periodically from the planning stage through the implementation of policies, programs and activities for Women's Empowerment and Protection for the current year.\n(4) Evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be conducted at the end of each fiscal year.\n(5) The results of the evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be used as input material for the formulation of policies, programs and activities for the following year.\n(6) The Regent shall submit a report on the implementation of integrated services for the Protection of women victims of violence to the Governor with a copy submitted to the minister in charge of women's empowerment and child protection affairs, and the minister in charge of home affairs.\n(7) The Regent shall submit a report on the implementation of the establishment and development of task forces, forums, working groups or other institutions in an integrated manner to the minister in charge of home affairs with a copy to the minister in charge of women's empowerment and child protection affairs.\n(8) The implementation of reporting as referred to in paragraph (6) and paragraph (7) shall be conducted annually and/or when necessary.",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 19,
+          "text": "Second Part Development\nArticle 24\n(1) The regional government is obliged to carry out development and supervision of the implementation of protection for women victims of violence.\n(2) Development as referred to in paragraph (1) includes:\n   a. Guidelines and fulfillment standards;\n   b. Technical development and training;\n   c. Provision of facilities;\n   d. Monitoring;\n   e. Evaluation.\n(3) Development as referred to in paragraph (2) is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Apparatus Work Unit within the Regional Government of Luwu Regency that is related to the protection of women against acts of violence.\n(1) Government",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\n(1) Every Woman has the right to:\na. live peacefully, safely, in peace, happily, prosperously physically and spiritually,\nb. live in a family within the bonds of a legal marriage;\nc. maintain life and improve her standard of living;\nd. have work that she likes and is also entitled to fair employment conditions;\ne. obtain education and teaching in all types, levels and pathways of education in accordance with the requirements determined;\nf. a healthy and clean environment;\ng. receive fair wages in accordance with her work that is comparable and commensurate with human dignity,\nh. elect and/or be elected in general elections, regional head elections, village head elections, village head elections and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting according to applicable laws and regulations;\ni. receive special protection;\nj. receive special protection specifically in the implementation of her work or profession against matters that may threaten the safety and/or health related to women's reproductive function; and\nk. special rights inherent to women due to their reproductive function are guaranteed and protected by law.\n(2) Women who are adults and or are married have the right to perform legal acts independently unless otherwise determined by laws and regulations and other social norms.\n(3) A legal marriage can only take place based on the free will of the woman and the man in accordance with laws and regulations.\n(4) A wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her married life, relations with her children and ownership rights and management of joint property.\n(5) After the dissolution of her marriage a woman has the same rights and responsibilities as her former husband over all matters relating to her children, taking into account the best interests of the child.\n(6) After the dissolution of marriage, a woman has the same rights as her former husband over all matters relating to joint property without reducing the rights of children, in accordance with the provisions of laws and regulations.\n(7) Every woman who is in a condition of Disability, elderly age, and pregnant is entitled to receive facilities and special treatment.\n(8) Every elderly woman, with physical and/or mental disabilities, has the right to receive care, education, training and special assistance at the expense of the regional government to ensure a decent life in accordance with human dignity.",
+          "score": 0.42021888
+        },
+        {
+          "chunk_id": 1,
+          "text": "REGENT OF LUWU,\n\na. that Women and Men have equal rights in participating in various fields of life;\n\nb. that women are a national asset who play a very important role in the process of creating and developing quality generations, therefore they need to receive protection from discriminatory actions and need to be empowered to actualize their potential optimally;\n\nviolence and in order to that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Protection of Women;\n\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n\n2. Law Number concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n\n3. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1);\n\n4. Law Number 13 Year 1998 concerning Elderly Welfare (State Gazette of the Republic of Indonesia Year 1998 Number 190);\n\n5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n\n6. Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n\n7. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n\n8. Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia (State Gazette Number 58);\n\n9. Law Number Year 2009 Number 12);\n\n10. Law Number 12 Year 2011 concerning the Formation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n\n11. Law of the Republic of Indonesia Number 19 Year 2011 concerning Ratification of the Convention on The Rights of Persons With Disabilities (Convention Regarding the Rights of Persons with Disabilities) (State Gazette of the Republic of Indonesia Year 2011 Number 107, Supplement to the State Gazette of the Republic of Indonesia Number 5251);\n\n12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244 Supplement to the State Gazette Number 5589) as has been amended several times most recently by Law Number 9 Year 2015 concerning the Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Year 2015 Number 5679);\n\n13. Government Regulation Number 4 Year 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n\n14. Regulation of the State Minister for Women's Empowerment Number 2 Year 2008 concerning Women's Protection;\n\nGuidelines for Implementation\n\n15. Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products as has been amended by Regulation of the Minister of Home Affairs Number 120 Year 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products.\n\nWith Mutual Agreement",
+          "score": 0.39756414
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Participation as referred to in paragraph (1) shall be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. Responses and input in policy formulation;\nb. cooperation; and/or\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) shall be further regulated by a Regent Regulation.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part Handling\nArticle 10\nThe target of handling as referred to in Article 4 letter b is every woman.",
+          "score": 0.35720867
+        },
+        {
+          "chunk_id": 10,
+          "text": "BAB V\nIMPLEMENTATION OF PROTECTION\nFirst Part Prevention\nArticle 8\nThe target of prevention as referred to in Article 4 letter a is every woman.",
+          "score": 0.3465192
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF LUWU\nPROVINCE OF SOUTH SULAWESI\nREGIONAL REGULATION OF LUWU REGENCY\nNUMBER: 2019\nCONCERNING\nPROTECTION OF WOMEN\nBY THE GRACE OF THE ONE ALMIGHTY GOD\nConsidering: In view of:",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IX FUNDING\nArticle 26\n(1) Funding for the implementation of policies, programs and Women's Empowerment and Protection in the Region is sourced from the regional revenue and expenditure budget.\n-12- (2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities of Women's Empowerment and Protection from the Government, it must be implemented in accordance with the laws and regulations.",
+          "score": 0.32904667
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHUMAN RIGHTS AND FUNDAMENTAL HUMAN FREEDOMS\nArticle 6\nHuman Rights and fundamental human freedoms, consist of:\na. Right to life;\nb. Right to form a family and procreate;\nc. Right to self-development;\nd. Right to obtain justice;\ne. Right to personal freedom;\nf. Right to security;\ng. Right to welfare; and\nh. Right to participate in government.",
+          "score": 0.2890505
+        },
+        {
+          "chunk_id": 26,
+          "text": "REGENT OF LUWU,\nBASMIN MATTAYANG\nPromulgated in Belopa on 6 December 2019\nACTING REGIONAL SECRETARY OF LUWU REGENCY,",
+          "score": 0.28585017
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\nThe integrated service provider is obligated to provide services in accordance with the service principles as referred to in Article 12.\n-10-",
+          "score": 0.26405463
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "In the Indonesian source, the regulation repeatedly uses the generic term \"kekerasan\" (violence) and defines it broadly in Pasal 1 angka 10 as unlawful acts against physical and psychological integrity and deprivation of liberty. It also mentions \"korban eksploitasi seksual\" (Pasal 21 ayat (2) huruf e), but it does not explicitly name \"kekerasan seksual\" (sexual violence) or specific acts like rape/sexual assault as a category. The retrieved English passages accurately reflect this (general violence + sexual exploitation only), so the judge’s 'No' is consistent with the available text. This suggests the golden 'Yes' for 'sexual violence' is likely incorrect for this document.",
+      "diagnosis_status": "ok"
+    },
+    "1.5": {
+      "indicator": "Economic violence",
+      "dimension": "scope_of_violence",
+      "golden_label": "Yes",
+      "pred_label": "No",
+      "error_type": "false_negative",
+      "translated_snippet": null,
+      "evaluator_rationale": "Although the policy provides 'economic independence services' for victims, the candidate sentences do not identify economic violence/economic exploitation/domestic neglect as a form of violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER XI\nPROHIBITIONS AND SANCTIONS\nArticle 28\nAny person who intentionally commits violence against women shall be subject to sanctions in accordance with the laws and regulations.\n-13-",
+          "score": 0.5885108
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\nThe implementation of protection of women from acts of violence includes:\na. prevention;\nb. handling;\nc. empowerment.\n-5-",
+          "score": 0.58472174
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\n(1) Protection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\n(2) Protection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+          "score": 0.57329625
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Implementation of Women's Protection aims to:\na. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life;\nb. prevent all forms of Discrimination;\nc. empower women both individually and in groups and communities experiencing gender issues so they are able to fulfill their needs independently;\nd. prevent and address risks from women's vulnerability so that their survival can be fulfilled in accordance with minimum basic needs;\ne. a decrease in the gap in opportunities between women and men in achieving development; and\nf. a decrease in acts of Violence against women.",
+          "score": 0.5463509
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) The forms of services for women victims of violence that are provided include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims, carried out by medical personnel and paramedics;\nb. medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nd. legal services to assist victims in undergoing the judicial process;\ne. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures that will be regulated in Regent Regulation.",
+          "score": 0.53082025
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 21\n(1) The provision and facilitation of Protection services for women as referred to in Article 20 letter c shall be in the form of:\na. handling of complaints/reports;\nb. legal assistance;\nc. health rehabilitation;\nd. social rehabilitation;\ne. social reintegration; or\nf. return/repatriation assistance.\n(2) The provision and facilitation of Protection services for women as referred to in paragraph (1) shall be provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. elderly who are not independent;\nd. persons with disabilities;\ne. victims of sexual exploitation;\nf. victims of disasters and those in conflict-prone areas; and\ng. workers/employees.",
+          "score": 0.48203897
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\n(1) Prevention as referred to in Article 4 letter a, includes: a. collecting data and information about women victims of violence and laws and regulations; b. conducting education about anti-violence values toward women;\nc. disseminating laws and regulations related to the implementation of protection for women victims of violence;\nd. establishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\ne. encouraging community awareness of the importance of protection for women victims of violence;\n1. Increasing women's awareness of the importance of adhering to ethics, religious norms and cultural norms in behavior.\n(2) Prevention as referred to in paragraph (1) shall be carried out by the Regional Government of the Regency, police institutions, prosecution institutions, judicial institutions, non-governmental organizations, and the community in accordance with their respective duties, functions, and responsibilities.\n7.",
+          "score": 0.47424158
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGION\nCONCERNING\nPROTECTION\nWOMEN\nBABI\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Government is the Central Government.\n2. Governor is the Governor of South Sulawesi Province.\n3. Region is Luwu Regency.\n4. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Luwu.\n6. Gender is a concept that refers to roles and responsibilities as women and as men that are created and internalized in families, communities and community culture in which we live including expectations, attitudes, characteristics, behavior of how to be a man and how to be a woman.\n7. Discrimination is any restriction, harassment or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, resulting in reduction, deviation or elimination of recognition, implementation or human rights and basic freedoms in the use of rights in life both individually and collectively in the political, economic, legal, social, cultural fields and other aspects of life.\n8. Women's empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge and skills so that women are ready to be utilized according to their respective abilities.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, temporarily or courts or other parties either based on court decisions.\n10. Violence is any act unlawfully, with or without using means against physical and psychological that causes danger to life, body or causes deprivation of a person's freedom.\n11. Disability is an individual who has physical or mental limitations.\n12. Regional Cooperation is an agreement between governor and governor or governor and regent/mayor or between regent/mayor and other regent/mayor, and or governor, regent/mayor with third parties, made in writing and giving rise to rights and obligations.",
+          "score": 0.4664567
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\n(1) Every Woman has the right to:\na. live peacefully, safely, in peace, happily, prosperously physically and spiritually,\nb. live in a family within the bonds of a legal marriage;\nc. maintain life and improve her standard of living;\nd. have work that she likes and is also entitled to fair employment conditions;\ne. obtain education and teaching in all types, levels and pathways of education in accordance with the requirements determined;\nf. a healthy and clean environment;\ng. receive fair wages in accordance with her work that is comparable and commensurate with human dignity,\nh. elect and/or be elected in general elections, regional head elections, village head elections, village head elections and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting according to applicable laws and regulations;\ni. receive special protection;\nj. receive special protection specifically in the implementation of her work or profession against matters that may threaten the safety and/or health related to women's reproductive function; and\nk. special rights inherent to women due to their reproductive function are guaranteed and protected by law.\n(2) Women who are adults and or are married have the right to perform legal acts independently unless otherwise determined by laws and regulations and other social norms.\n(3) A legal marriage can only take place based on the free will of the woman and the man in accordance with laws and regulations.\n(4) A wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her married life, relations with her children and ownership rights and management of joint property.\n(5) After the dissolution of her marriage a woman has the same rights and responsibilities as her former husband over all matters relating to her children, taking into account the best interests of the child.\n(6) After the dissolution of marriage, a woman has the same rights as her former husband over all matters relating to joint property without reducing the rights of children, in accordance with the provisions of laws and regulations.\n(7) Every woman who is in a condition of Disability, elderly age, and pregnant is entitled to receive facilities and special treatment.\n(8) Every elderly woman, with physical and/or mental disabilities, has the right to receive care, education, training and special assistance at the expense of the regional government to ensure a decent life in accordance with human dignity.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.",
+          "score": 0.43551737
+        },
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VIII\nINSTITUTIONALIZATION, GUIDANCE, AND SUPERVISION\nPart One Institutionalization\nArticle 23\n(1) Handling as referred to in Article 11 shall be carried out in an integrated manner by relevant SKPD and/or service institutions that handle the protection of women from acts of violence.\n(2) The implementation of integrated services shall be coordinated by BPPKB or other name as further regulated by Regent Regulation.\n(3) The implementation of integrated services shall be in accordance with laws and regulations.",
+          "score": 0.43168002
+        },
+        {
+          "chunk_id": 1,
+          "text": "REGENT OF LUWU,\n\na. that Women and Men have equal rights in participating in various fields of life;\n\nb. that women are a national asset who play a very important role in the process of creating and developing quality generations, therefore they need to receive protection from discriminatory actions and need to be empowered to actualize their potential optimally;\n\nviolence and in order to that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Protection of Women;\n\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n\n2. Law Number concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n\n3. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1);\n\n4. Law Number 13 Year 1998 concerning Elderly Welfare (State Gazette of the Republic of Indonesia Year 1998 Number 190);\n\n5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n\n6. Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n\n7. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n\n8. Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia (State Gazette Number 58);\n\n9. Law Number Year 2009 Number 12);\n\n10. Law Number 12 Year 2011 concerning the Formation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n\n11. Law of the Republic of Indonesia Number 19 Year 2011 concerning Ratification of the Convention on The Rights of Persons With Disabilities (Convention Regarding the Rights of Persons with Disabilities) (State Gazette of the Republic of Indonesia Year 2011 Number 107, Supplement to the State Gazette of the Republic of Indonesia Number 5251);\n\n12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244 Supplement to the State Gazette Number 5589) as has been amended several times most recently by Law Number 9 Year 2015 concerning the Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Year 2015 Number 5679);\n\n13. Government Regulation Number 4 Year 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n\n14. Regulation of the State Minister for Women's Empowerment Number 2 Year 2008 concerning Women's Protection;\n\nGuidelines for Implementation\n\n15. Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products as has been amended by Regulation of the Minister of Home Affairs Number 120 Year 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products.\n\nWith Mutual Agreement",
+          "score": 0.42785084
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 25\nmay conduct supervision of the implementation of the protection of women from acts of violence carried out by the regional government by submitting aspirations to the Regent or the DPRD.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 19,
+          "text": "Second Part Development\nArticle 24\n(1) The regional government is obliged to carry out development and supervision of the implementation of protection for women victims of violence.\n(2) Development as referred to in paragraph (1) includes:\n   a. Guidelines and fulfillment standards;\n   b. Technical development and training;\n   c. Provision of facilities;\n   d. Monitoring;\n   e. Evaluation.\n(3) Development as referred to in paragraph (2) is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Apparatus Work Unit within the Regional Government of Luwu Regency that is related to the protection of women against acts of violence.\n(1) Government",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Three Supervision\nArticle 24\n(1) The region is obligated to conduct supervision of the implementation of the protection of women from acts of violence. (2) Supervision as referred to in paragraph (1) shall be carried out with the principles of being professional, transparent and accountable.\nCommunity",
+          "score": 0.40507212
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 12\nThe provision of integrated services to women victims of violence shall be carried out free of charge, quickly, safely, empathetically, without discrimination, easily accessible, and with a guarantee of confidentiality.",
+          "score": 0.3938279
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER X\nMONITORING, EVALUATION AND REPORTING\nArticle 27\n(1) To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for Women's Empowerment and Protection, the Regional Government shall conduct monitoring.\n(2) Monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs and activities for Women's Empowerment and Protection in the Region.\n(3) Monitoring shall be conducted periodically from the planning stage through the implementation of policies, programs and activities for Women's Empowerment and Protection for the current year.\n(4) Evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be conducted at the end of each fiscal year.\n(5) The results of the evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be used as input material for the formulation of policies, programs and activities for the following year.\n(6) The Regent shall submit a report on the implementation of integrated services for the Protection of women victims of violence to the Governor with a copy submitted to the minister in charge of women's empowerment and child protection affairs, and the minister in charge of home affairs.\n(7) The Regent shall submit a report on the implementation of the establishment and development of task forces, forums, working groups or other institutions in an integrated manner to the minister in charge of home affairs with a copy to the minister in charge of women's empowerment and child protection affairs.\n(8) The implementation of reporting as referred to in paragraph (6) and paragraph (7) shall be conducted annually and/or when necessary.",
+          "score": 0.37534004
+        },
+        {
+          "chunk_id": 10,
+          "text": "BAB V\nIMPLEMENTATION OF PROTECTION\nFirst Part Prevention\nArticle 8\nThe target of prevention as referred to in Article 4 letter a is every woman.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part Handling\nArticle 10\nThe target of handling as referred to in Article 4 letter b is every woman.",
+          "score": 0.3500658
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Participation as referred to in paragraph (1) shall be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. Responses and input in policy formulation;\nb. cooperation; and/or\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) shall be further regulated by a Regent Regulation.",
+          "score": 0.32218465
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IX FUNDING\nArticle 26\n(1) Funding for the implementation of policies, programs and Women's Empowerment and Protection in the Region is sourced from the regional revenue and expenditure budget.\n-12- (2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities of Women's Empowerment and Protection from the Government, it must be implemented in accordance with the laws and regulations.",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF LUWU\nPROVINCE OF SOUTH SULAWESI\nREGIONAL REGULATION OF LUWU REGENCY\nNUMBER: 2019\nCONCERNING\nPROTECTION OF WOMEN\nBY THE GRACE OF THE ONE ALMIGHTY GOD\nConsidering: In view of:",
+          "score": 0.3120345
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHUMAN RIGHTS AND FUNDAMENTAL HUMAN FREEDOMS\nArticle 6\nHuman Rights and fundamental human freedoms, consist of:\na. Right to life;\nb. Right to form a family and procreate;\nc. Right to self-development;\nd. Right to obtain justice;\ne. Right to personal freedom;\nf. Right to security;\ng. Right to welfare; and\nh. Right to participate in government.",
+          "score": 0.29877773
+        },
+        {
+          "chunk_id": 26,
+          "text": "REGENT OF LUWU,\nBASMIN MATTAYANG\nPromulgated in Belopa on 6 December 2019\nACTING REGIONAL SECRETARY OF LUWU REGENCY,",
+          "score": 0.27637792
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGIONAL HOUSE OF REPRESENTATIVES OF LUWU REGENCY\nREGENT OF LUWU\nDECIDES :\nTo Establish: REGULATION",
+          "score": 0.2376467
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text does not explicitly identify \"kekerasan ekonomi\" (economic violence) or economic abuse/neglect as a form of violence. It does mention \"pelayanan kemandirian ekonomi\" (Pasal 11 ayat (1) huruf e) as a service to help victims become economically independent, but that is a recovery/empowerment service, not a definition or recognition of economic violence as a violence type. The definition of \"kekerasan\" in Pasal 1 angka 10 is framed around physical/psychological harm and deprivation of liberty, not economic deprivation. Since the retrieved passages contained the relevant parts and the judge correctly distinguished services from violence categories, the golden 'Yes' appears wrong.",
+      "diagnosis_status": "ok"
+    },
+    "4.4": {
+      "indicator": "Prevention through education",
+      "dimension": "primary_prevention",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "b. conducting education about anti-violence values toward women;",
+      "evaluator_rationale": "Education is explicitly listed as part of prevention, specifically through conducting education about anti-violence values toward women, indicating education is a strategy to prevent violence against women.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 11,
+          "text": "Article 9\n(1) Prevention as referred to in Article 4 letter a, includes: a. collecting data and information about women victims of violence and laws and regulations; b. conducting education about anti-violence values toward women;\nc. disseminating laws and regulations related to the implementation of protection for women victims of violence;\nd. establishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\ne. encouraging community awareness of the importance of protection for women victims of violence;\n1. Increasing women's awareness of the importance of adhering to ethics, religious norms and cultural norms in behavior.\n(2) Prevention as referred to in paragraph (1) shall be carried out by the Regional Government of the Regency, police institutions, prosecution institutions, judicial institutions, non-governmental organizations, and the community in accordance with their respective duties, functions, and responsibilities.\n7.",
+          "score": 0.76531285
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\nThe implementation of protection of women from acts of violence includes:\na. prevention;\nb. handling;\nc. empowerment.\n-5-",
+          "score": 0.5752063
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Implementation of Women's Protection aims to:\na. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life;\nb. prevent all forms of Discrimination;\nc. empower women both individually and in groups and communities experiencing gender issues so they are able to fulfill their needs independently;\nd. prevent and address risks from women's vulnerability so that their survival can be fulfilled in accordance with minimum basic needs;\ne. a decrease in the gap in opportunities between women and men in achieving development; and\nf. a decrease in acts of Violence against women.",
+          "score": 0.56755316
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER XI\nPROHIBITIONS AND SANCTIONS\nArticle 28\nAny person who intentionally commits violence against women shall be subject to sanctions in accordance with the laws and regulations.\n-13-",
+          "score": 0.56371427
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\n(1) Protection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\n(2) Protection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\n(1) Every Woman has the right to:\na. live peacefully, safely, in peace, happily, prosperously physically and spiritually,\nb. live in a family within the bonds of a legal marriage;\nc. maintain life and improve her standard of living;\nd. have work that she likes and is also entitled to fair employment conditions;\ne. obtain education and teaching in all types, levels and pathways of education in accordance with the requirements determined;\nf. a healthy and clean environment;\ng. receive fair wages in accordance with her work that is comparable and commensurate with human dignity,\nh. elect and/or be elected in general elections, regional head elections, village head elections, village head elections and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting according to applicable laws and regulations;\ni. receive special protection;\nj. receive special protection specifically in the implementation of her work or profession against matters that may threaten the safety and/or health related to women's reproductive function; and\nk. special rights inherent to women due to their reproductive function are guaranteed and protected by law.\n(2) Women who are adults and or are married have the right to perform legal acts independently unless otherwise determined by laws and regulations and other social norms.\n(3) A legal marriage can only take place based on the free will of the woman and the man in accordance with laws and regulations.\n(4) A wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her married life, relations with her children and ownership rights and management of joint property.\n(5) After the dissolution of her marriage a woman has the same rights and responsibilities as her former husband over all matters relating to her children, taking into account the best interests of the child.\n(6) After the dissolution of marriage, a woman has the same rights as her former husband over all matters relating to joint property without reducing the rights of children, in accordance with the provisions of laws and regulations.\n(7) Every woman who is in a condition of Disability, elderly age, and pregnant is entitled to receive facilities and special treatment.\n(8) Every elderly woman, with physical and/or mental disabilities, has the right to receive care, education, training and special assistance at the expense of the regional government to ensure a decent life in accordance with human dignity.",
+          "score": 0.51718074
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 12\nThe provision of integrated services to women victims of violence shall be carried out free of charge, quickly, safely, empathetically, without discrimination, easily accessible, and with a guarantee of confidentiality.",
+          "score": 0.50156254
+        },
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VIII\nINSTITUTIONALIZATION, GUIDANCE, AND SUPERVISION\nPart One Institutionalization\nArticle 23\n(1) Handling as referred to in Article 11 shall be carried out in an integrated manner by relevant SKPD and/or service institutions that handle the protection of women from acts of violence.\n(2) The implementation of integrated services shall be coordinated by BPPKB or other name as further regulated by Regent Regulation.\n(3) The implementation of integrated services shall be in accordance with laws and regulations.",
+          "score": 0.4761899
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 21\n(1) The provision and facilitation of Protection services for women as referred to in Article 20 letter c shall be in the form of:\na. handling of complaints/reports;\nb. legal assistance;\nc. health rehabilitation;\nd. social rehabilitation;\ne. social reintegration; or\nf. return/repatriation assistance.\n(2) The provision and facilitation of Protection services for women as referred to in paragraph (1) shall be provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. elderly who are not independent;\nd. persons with disabilities;\ne. victims of sexual exploitation;\nf. victims of disasters and those in conflict-prone areas; and\ng. workers/employees.",
+          "score": 0.4645129
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) The forms of services for women victims of violence that are provided include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims, carried out by medical personnel and paramedics;\nb. medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nd. legal services to assist victims in undergoing the judicial process;\ne. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures that will be regulated in Regent Regulation.",
+          "score": 0.46257016
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.",
+          "score": 0.45093963
+        },
+        {
+          "chunk_id": 10,
+          "text": "BAB V\nIMPLEMENTATION OF PROTECTION\nFirst Part Prevention\nArticle 8\nThe target of prevention as referred to in Article 4 letter a is every woman.",
+          "score": 0.41641688
+        },
+        {
+          "chunk_id": 19,
+          "text": "Second Part Development\nArticle 24\n(1) The regional government is obliged to carry out development and supervision of the implementation of protection for women victims of violence.\n(2) Development as referred to in paragraph (1) includes:\n   a. Guidelines and fulfillment standards;\n   b. Technical development and training;\n   c. Provision of facilities;\n   d. Monitoring;\n   e. Evaluation.\n(3) Development as referred to in paragraph (2) is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Apparatus Work Unit within the Regional Government of Luwu Regency that is related to the protection of women against acts of violence.\n(1) Government",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGION\nCONCERNING\nPROTECTION\nWOMEN\nBABI\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Government is the Central Government.\n2. Governor is the Governor of South Sulawesi Province.\n3. Region is Luwu Regency.\n4. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Luwu.\n6. Gender is a concept that refers to roles and responsibilities as women and as men that are created and internalized in families, communities and community culture in which we live including expectations, attitudes, characteristics, behavior of how to be a man and how to be a woman.\n7. Discrimination is any restriction, harassment or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, resulting in reduction, deviation or elimination of recognition, implementation or human rights and basic freedoms in the use of rights in life both individually and collectively in the political, economic, legal, social, cultural fields and other aspects of life.\n8. Women's empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge and skills so that women are ready to be utilized according to their respective abilities.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, temporarily or courts or other parties either based on court decisions.\n10. Violence is any act unlawfully, with or without using means against physical and psychological that causes danger to life, body or causes deprivation of a person's freedom.\n11. Disability is an individual who has physical or mental limitations.\n12. Regional Cooperation is an agreement between governor and governor or governor and regent/mayor or between regent/mayor and other regent/mayor, and or governor, regent/mayor with third parties, made in writing and giving rise to rights and obligations.",
+          "score": 0.4126248
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER X\nMONITORING, EVALUATION AND REPORTING\nArticle 27\n(1) To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for Women's Empowerment and Protection, the Regional Government shall conduct monitoring.\n(2) Monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs and activities for Women's Empowerment and Protection in the Region.\n(3) Monitoring shall be conducted periodically from the planning stage through the implementation of policies, programs and activities for Women's Empowerment and Protection for the current year.\n(4) Evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be conducted at the end of each fiscal year.\n(5) The results of the evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be used as input material for the formulation of policies, programs and activities for the following year.\n(6) The Regent shall submit a report on the implementation of integrated services for the Protection of women victims of violence to the Governor with a copy submitted to the minister in charge of women's empowerment and child protection affairs, and the minister in charge of home affairs.\n(7) The Regent shall submit a report on the implementation of the establishment and development of task forces, forums, working groups or other institutions in an integrated manner to the minister in charge of home affairs with a copy to the minister in charge of women's empowerment and child protection affairs.\n(8) The implementation of reporting as referred to in paragraph (6) and paragraph (7) shall be conducted annually and/or when necessary.",
+          "score": 0.40884307
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Three Supervision\nArticle 24\n(1) The region is obligated to conduct supervision of the implementation of the protection of women from acts of violence. (2) Supervision as referred to in paragraph (1) shall be carried out with the principles of being professional, transparent and accountable.\nCommunity",
+          "score": 0.39010403
+        },
+        {
+          "chunk_id": 1,
+          "text": "REGENT OF LUWU,\n\na. that Women and Men have equal rights in participating in various fields of life;\n\nb. that women are a national asset who play a very important role in the process of creating and developing quality generations, therefore they need to receive protection from discriminatory actions and need to be empowered to actualize their potential optimally;\n\nviolence and in order to that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Protection of Women;\n\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n\n2. Law Number concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n\n3. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1);\n\n4. Law Number 13 Year 1998 concerning Elderly Welfare (State Gazette of the Republic of Indonesia Year 1998 Number 190);\n\n5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n\n6. Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n\n7. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n\n8. Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia (State Gazette Number 58);\n\n9. Law Number Year 2009 Number 12);\n\n10. Law Number 12 Year 2011 concerning the Formation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n\n11. Law of the Republic of Indonesia Number 19 Year 2011 concerning Ratification of the Convention on The Rights of Persons With Disabilities (Convention Regarding the Rights of Persons with Disabilities) (State Gazette of the Republic of Indonesia Year 2011 Number 107, Supplement to the State Gazette of the Republic of Indonesia Number 5251);\n\n12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244 Supplement to the State Gazette Number 5589) as has been amended several times most recently by Law Number 9 Year 2015 concerning the Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Year 2015 Number 5679);\n\n13. Government Regulation Number 4 Year 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n\n14. Regulation of the State Minister for Women's Empowerment Number 2 Year 2008 concerning Women's Protection;\n\nGuidelines for Implementation\n\n15. Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products as has been amended by Regulation of the Minister of Home Affairs Number 120 Year 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products.\n\nWith Mutual Agreement",
+          "score": 0.38269496
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 25\nmay conduct supervision of the implementation of the protection of women from acts of violence carried out by the regional government by submitting aspirations to the Regent or the DPRD.",
+          "score": 0.3680422
+        },
+        {
+          "chunk_id": 12,
+          "text": "Second Part Handling\nArticle 10\nThe target of handling as referred to in Article 4 letter b is every woman.",
+          "score": 0.35362908
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Participation as referred to in paragraph (1) shall be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. Responses and input in policy formulation;\nb. cooperation; and/or\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) shall be further regulated by a Regent Regulation.",
+          "score": 0.34298956
+        },
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IX FUNDING\nArticle 26\n(1) Funding for the implementation of policies, programs and Women's Empowerment and Protection in the Region is sourced from the regional revenue and expenditure budget.\n-12- (2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities of Women's Empowerment and Protection from the Government, it must be implemented in accordance with the laws and regulations.",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHUMAN RIGHTS AND FUNDAMENTAL HUMAN FREEDOMS\nArticle 6\nHuman Rights and fundamental human freedoms, consist of:\na. Right to life;\nb. Right to form a family and procreate;\nc. Right to self-development;\nd. Right to obtain justice;\ne. Right to personal freedom;\nf. Right to security;\ng. Right to welfare; and\nh. Right to participate in government.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\nThe integrated service provider is obligated to provide services in accordance with the service principles as referred to in Article 12.\n-10-",
+          "score": 0.25504667
+        },
+        {
+          "chunk_id": 0,
+          "text": "REGENT OF LUWU\nPROVINCE OF SOUTH SULAWESI\nREGIONAL REGULATION OF LUWU REGENCY\nNUMBER: 2019\nCONCERNING\nPROTECTION OF WOMEN\nBY THE GRACE OF THE ONE ALMIGHTY GOD\nConsidering: In view of:",
+          "score": 0.25208935
+        },
+        {
+          "chunk_id": 26,
+          "text": "REGENT OF LUWU,\nBASMIN MATTAYANG\nPromulgated in Belopa on 6 December 2019\nACTING REGIONAL SECRETARY OF LUWU REGENCY,",
+          "score": 0.229259
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian source explicitly includes education as a prevention measure. Pasal 9 ayat (1) huruf b states: \"melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan\" (conduct education about anti-violence values toward women). This is direct primary-prevention-through-education language. The English candidate passage reflects this correctly, and the judge’s 'Yes' follows straightforwardly. Therefore the golden label 'No' is likely incorrect.",
+      "diagnosis_status": "ok"
+    },
+    "7.2": {
+      "indicator": "National government budget",
+      "dimension": "budget_funding_sources",
+      "golden_label": "No",
+      "pred_label": "Yes",
+      "error_type": "false_positive",
+      "translated_snippet": "-12- (2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities of Women's Empowerment and Protection from the Government, it must be implemented in accordance with the laws and regulations.",
+      "evaluator_rationale": "The policy explicitly mentions the possibility of receiving funding assistance from the Government (defined as the Central Government), indicating national government budget support may be a source.",
+      "evidence_candidates": [
+        {
+          "chunk_id": 22,
+          "text": "CHAPTER IX FUNDING\nArticle 26\n(1) Funding for the implementation of policies, programs and Women's Empowerment and Protection in the Region is sourced from the regional revenue and expenditure budget.\n-12- (2) In the event that the Region receives funding assistance for the implementation of policies, programs and activities of Women's Empowerment and Protection from the Government, it must be implemented in accordance with the laws and regulations.",
+          "score": 0.5521534
+        },
+        {
+          "chunk_id": 23,
+          "text": "CHAPTER X\nMONITORING, EVALUATION AND REPORTING\nArticle 27\n(1) To ensure synergy, continuity and effectiveness of integrated measures in the implementation of policies, programs and activities for Women's Empowerment and Protection, the Regional Government shall conduct monitoring.\n(2) Monitoring as referred to in paragraph (1) is intended to determine the progress and obstacles in the implementation of policies, programs and activities for Women's Empowerment and Protection in the Region.\n(3) Monitoring shall be conducted periodically from the planning stage through the implementation of policies, programs and activities for Women's Empowerment and Protection for the current year.\n(4) Evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be conducted at the end of each fiscal year.\n(5) The results of the evaluation of the implementation of policies, programs and activities for Women's Empowerment and Protection shall be used as input material for the formulation of policies, programs and activities for the following year.\n(6) The Regent shall submit a report on the implementation of integrated services for the Protection of women victims of violence to the Governor with a copy submitted to the minister in charge of women's empowerment and child protection affairs, and the minister in charge of home affairs.\n(7) The Regent shall submit a report on the implementation of the establishment and development of task forces, forums, working groups or other institutions in an integrated manner to the minister in charge of home affairs with a copy to the minister in charge of women's empowerment and child protection affairs.\n(8) The implementation of reporting as referred to in paragraph (6) and paragraph (7) shall be conducted annually and/or when necessary.",
+          "score": 0.33598238
+        },
+        {
+          "chunk_id": 19,
+          "text": "Second Part Development\nArticle 24\n(1) The regional government is obliged to carry out development and supervision of the implementation of protection for women victims of violence.\n(2) Development as referred to in paragraph (1) includes:\n   a. Guidelines and fulfillment standards;\n   b. Technical development and training;\n   c. Provision of facilities;\n   d. Monitoring;\n   e. Evaluation.\n(3) Development as referred to in paragraph (2) is intended to realize the protection of women from acts of violence in accordance with minimum service standards implemented by SKPD and the community.\n(4) SKPD as referred to in paragraph (3) is the Regional Apparatus Work Unit within the Regional Government of Luwu Regency that is related to the protection of women against acts of violence.\n(1) Government",
+          "score": 0.3086902
+        },
+        {
+          "chunk_id": 11,
+          "text": "Article 9\n(1) Prevention as referred to in Article 4 letter a, includes: a. collecting data and information about women victims of violence and laws and regulations; b. conducting education about anti-violence values toward women;\nc. disseminating laws and regulations related to the implementation of protection for women victims of violence;\nd. establishing and facilitating the implementation of integrated service institutions for women victims by involving community elements;\ne. encouraging community awareness of the importance of protection for women victims of violence;\n1. Increasing women's awareness of the importance of adhering to ethics, religious norms and cultural norms in behavior.\n(2) Prevention as referred to in paragraph (1) shall be carried out by the Regional Government of the Regency, police institutions, prosecution institutions, judicial institutions, non-governmental organizations, and the community in accordance with their respective duties, functions, and responsibilities.\n7.",
+          "score": 0.29551446
+        },
+        {
+          "chunk_id": 9,
+          "text": "Article 7\n(1) Every Woman has the right to:\na. live peacefully, safely, in peace, happily, prosperously physically and spiritually,\nb. live in a family within the bonds of a legal marriage;\nc. maintain life and improve her standard of living;\nd. have work that she likes and is also entitled to fair employment conditions;\ne. obtain education and teaching in all types, levels and pathways of education in accordance with the requirements determined;\nf. a healthy and clean environment;\ng. receive fair wages in accordance with her work that is comparable and commensurate with human dignity,\nh. elect and/or be elected in general elections, regional head elections, village head elections, village head elections and/or other political office elections based on equal rights through direct, general, free, secret, honest and fair voting according to applicable laws and regulations;\ni. receive special protection;\nj. receive special protection specifically in the implementation of her work or profession against matters that may threaten the safety and/or health related to women's reproductive function; and\nk. special rights inherent to women due to their reproductive function are guaranteed and protected by law.\n(2) Women who are adults and or are married have the right to perform legal acts independently unless otherwise determined by laws and regulations and other social norms.\n(3) A legal marriage can only take place based on the free will of the woman and the man in accordance with laws and regulations.\n(4) A wife during the marriage bond has the same rights and responsibilities as her husband over all matters relating to her married life, relations with her children and ownership rights and management of joint property.\n(5) After the dissolution of her marriage a woman has the same rights and responsibilities as her former husband over all matters relating to her children, taking into account the best interests of the child.\n(6) After the dissolution of marriage, a woman has the same rights as her former husband over all matters relating to joint property without reducing the rights of children, in accordance with the provisions of laws and regulations.\n(7) Every woman who is in a condition of Disability, elderly age, and pregnant is entitled to receive facilities and special treatment.\n(8) Every elderly woman, with physical and/or mental disabilities, has the right to receive care, education, training and special assistance at the expense of the regional government to ensure a decent life in accordance with human dignity.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 18,
+          "text": "CHAPTER VIII\nINSTITUTIONALIZATION, GUIDANCE, AND SUPERVISION\nPart One Institutionalization\nArticle 23\n(1) Handling as referred to in Article 11 shall be carried out in an integrated manner by relevant SKPD and/or service institutions that handle the protection of women from acts of violence.\n(2) The implementation of integrated services shall be coordinated by BPPKB or other name as further regulated by Regent Regulation.\n(3) The implementation of integrated services shall be in accordance with laws and regulations.",
+          "score": 0.28267118
+        },
+        {
+          "chunk_id": 16,
+          "text": "Article 21\n(1) The provision and facilitation of Protection services for women as referred to in Article 20 letter c shall be in the form of:\na. handling of complaints/reports;\nb. legal assistance;\nc. health rehabilitation;\nd. social rehabilitation;\ne. social reintegration; or\nf. return/repatriation assistance.\n(2) The provision and facilitation of Protection services for women as referred to in paragraph (1) shall be provided to women:\na. victims of violence;\nb. victims of human trafficking;\nc. elderly who are not independent;\nd. persons with disabilities;\ne. victims of sexual exploitation;\nf. victims of disasters and those in conflict-prone areas; and\ng. workers/employees.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 8,
+          "text": "CHAPTER IV\nHUMAN RIGHTS AND FUNDAMENTAL HUMAN FREEDOMS\nArticle 6\nHuman Rights and fundamental human freedoms, consist of:\na. Right to life;\nb. Right to form a family and procreate;\nc. Right to self-development;\nd. Right to obtain justice;\ne. Right to personal freedom;\nf. Right to security;\ng. Right to welfare; and\nh. Right to participate in government.",
+          "score": 0.27951372
+        },
+        {
+          "chunk_id": 13,
+          "text": "Article 11\n(1) The forms of services for women victims of violence that are provided include:\na. medical services, in the form of treatment and recovery of physical injuries aimed at restoring the physical condition of victims, carried out by medical personnel and paramedics;\nb. medicolegal services constitute a form of medical service for the purposes of evidence in the legal field;\nc. psychosocial services constitute services provided by companions in order to restore the traumatic condition of victims, including the provision of safe houses to protect victims from various threats and intimidation for victims and provide social support so that victims have a sense of confidence, strength, and independence in resolving their problems;\nd. legal services to assist victims in undergoing the judicial process;\ne. economic independence services in the form of services for skills training and providing economic access so that victims can be independent.\n(2) The service mechanism as referred to in paragraph (1) shall be organized according to standard operating procedures that will be regulated in Regent Regulation.",
+          "score": 0.273264
+        },
+        {
+          "chunk_id": 3,
+          "text": "REGION\nCONCERNING\nPROTECTION\nWOMEN\nBABI\nGENERAL PROVISIONS\nArticle 1\nIn this Regional Regulation, what is meant by:\n1. Government is the Central Government.\n2. Governor is the Governor of South Sulawesi Province.\n3. Region is Luwu Regency.\n4. Regional Government is the Regent as an element of the Regional Government administration who leads the implementation of government affairs that are the authority of the autonomous region.\n5. Regent is the Regent of Luwu.\n6. Gender is a concept that refers to roles and responsibilities as women and as men that are created and internalized in families, communities and community culture in which we live including expectations, attitudes, characteristics, behavior of how to be a man and how to be a woman.\n7. Discrimination is any restriction, harassment or exclusion that is directly or indirectly based on human differentiation on the basis of religion, ethnicity, race, ethnic group, group, class, social status, economic status, gender, language, political beliefs, resulting in reduction, deviation or elimination of recognition, implementation or human rights and basic freedoms in the use of rights in life both individually and collectively in the political, economic, legal, social, cultural fields and other aspects of life.\n8. Women's empowerment is every effort to improve physical, mental spiritual, social capacity, knowledge and skills so that women are ready to be utilized according to their respective abilities.\n9. Protection is all efforts aimed at providing a sense of security to women carried out by family, advocates, social institutions, police, prosecutors, temporarily or courts or other parties either based on court decisions.\n10. Violence is any act unlawfully, with or without using means against physical and psychological that causes danger to life, body or causes deprivation of a person's freedom.\n11. Disability is an individual who has physical or mental limitations.\n12. Regional Cooperation is an agreement between governor and governor or governor and regent/mayor or between regent/mayor and other regent/mayor, and or governor, regent/mayor with third parties, made in writing and giving rise to rights and obligations.",
+          "score": 0.27017203
+        },
+        {
+          "chunk_id": 17,
+          "text": "CHAPTER VII\nCOMMUNITY PARTICIPATION\nArticle 22\n(1) The community may participate in the implementation of Women's Empowerment and Protection.\n(2) Participation as referred to in paragraph (1) shall be carried out by individuals, groups or social community organizations.\n(3) Community participation as referred to in paragraph (1) may take the form of:\na. Responses and input in policy formulation;\nb. cooperation; and/or\nc. complaints/reports.\n(4) The procedures for community participation as referred to in paragraph (3) shall be further regulated by a Regent Regulation.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 5,
+          "text": "Article 3\nThe Implementation of Women's Protection aims to:\na. increase the participation of women both individually and in groups as potential and resources in the implementation of social community life;\nb. prevent all forms of Discrimination;\nc. empower women both individually and in groups and communities experiencing gender issues so they are able to fulfill their needs independently;\nd. prevent and address risks from women's vulnerability so that their survival can be fulfilled in accordance with minimum basic needs;\ne. a decrease in the gap in opportunities between women and men in achieving development; and\nf. a decrease in acts of Violence against women.",
+          "score": 0.26710218
+        },
+        {
+          "chunk_id": 1,
+          "text": "REGENT OF LUWU,\n\na. that Women and Men have equal rights in participating in various fields of life;\n\nb. that women are a national asset who play a very important role in the process of creating and developing quality generations, therefore they need to receive protection from discriminatory actions and need to be empowered to actualize their potential optimally;\n\nviolence and in order to that based on the considerations as referred to in letter a and letter b, it is necessary to establish a Regional Regulation on the Protection of Women;\n\n1. Article 18 paragraph (6) of the 1945 Constitution of the Republic of Indonesia,\n\n2. Law Number concerning the Establishment of Level II Regions in Sulawesi (State Gazette of the Republic of Indonesia Year 1959 Number 74, Supplement to the State Gazette of the Republic of Indonesia Number 1822);\n\n3. Law Number 1 Year 1974 concerning Marriage (State Gazette of the Republic of Indonesia Year 1974 Number 1);\n\n4. Law Number 13 Year 1998 concerning Elderly Welfare (State Gazette of the Republic of Indonesia Year 1998 Number 190);\n\n5. Law Number 39 Year 1999 concerning Human Rights (State Gazette of the Republic of Indonesia Year 1999 Number 165, Supplement to the State Gazette of the Republic of Indonesia Number 3886);\n\n6. Law Number 13 Year 2003 concerning Manpower (State Gazette of the Republic of Indonesia Year 2003 Number 39, Supplement to the State Gazette of the Republic of Indonesia Number 4279);\n\n7. Law Number 23 Year 2004 concerning the Elimination of Domestic Violence (State Gazette of the Republic of Indonesia Year 2004 Number 95, Supplement to the State Gazette of the Republic of Indonesia Number 4419);\n\n8. Law Number 21 Year 2007 concerning the Eradication of the Criminal Act of Trafficking in Persons (State Gazette of the Republic of Indonesia (State Gazette Number 58);\n\n9. Law Number Year 2009 Number 12);\n\n10. Law Number 12 Year 2011 concerning the Formation of Legislation (State Gazette of the Republic of Indonesia Year 2011 Number 82, Supplement to the State Gazette of the Republic of Indonesia Number 5234);\n\n11. Law of the Republic of Indonesia Number 19 Year 2011 concerning Ratification of the Convention on The Rights of Persons With Disabilities (Convention Regarding the Rights of Persons with Disabilities) (State Gazette of the Republic of Indonesia Year 2011 Number 107, Supplement to the State Gazette of the Republic of Indonesia Number 5251);\n\n12. Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2014 Number 244 Supplement to the State Gazette Number 5589) as has been amended several times most recently by Law Number 9 Year 2015 concerning the Second Amendment to Law Number 23 Year 2014 concerning Regional Government (State Gazette of the Republic of Indonesia Year 2015 Number 58, Supplement to the State Gazette of the Republic of Indonesia Year 2015 Number 5679);\n\n13. Government Regulation Number 4 Year 2006 concerning the Implementation and Cooperation for Recovery of Victims of Domestic Violence (State Gazette of the Republic of Indonesia Year 2006 Number 15, Supplement to the State Gazette of the Republic of Indonesia Number 4604);\n\n14. Regulation of the State Minister for Women's Empowerment Number 2 Year 2008 concerning Women's Protection;\n\nGuidelines for Implementation\n\n15. Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products as has been amended by Regulation of the Minister of Home Affairs Number 120 Year 2018 concerning Amendment to Regulation of the Minister of Home Affairs Number 80 Year 2015 concerning the Formation of Regional Legal Products.\n\nWith Mutual Agreement",
+          "score": 0.25802675
+        },
+        {
+          "chunk_id": 21,
+          "text": "Article 25\nmay conduct supervision of the implementation of the protection of women from acts of violence carried out by the regional government by submitting aspirations to the Regent or the DPRD.",
+          "score": 0.24624321
+        },
+        {
+          "chunk_id": 14,
+          "text": "Article 12\nThe provision of integrated services to women victims of violence shall be carried out free of charge, quickly, safely, empathetically, without discrimination, easily accessible, and with a guarantee of confidentiality.",
+          "score": 0.24624321
+        },
+        {
+          "chunk_id": 20,
+          "text": "Part Three Supervision\nArticle 24\n(1) The region is obligated to conduct supervision of the implementation of the protection of women from acts of violence. (2) Supervision as referred to in paragraph (1) shall be carried out with the principles of being professional, transparent and accountable.\nCommunity",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 4,
+          "text": "CHAPTER II\nPRINCIPLES AND OBJECTIVES\nArticle 2\nProtection of Women is implemented based on the principles of:\na. respect for human rights;\nb. justice and gender equality;\nc. non-discrimination; and\nd. protection of victims.",
+          "score": 0.24335462
+        },
+        {
+          "chunk_id": 27,
+          "text": "RIDVAN\nREGIONAL GAZETTE OF LUWU REGENCY YEAR 2019 NUMBER .. REGISTRATION NUMBER OF REGIONAL REGULATION OF LUWU REGENCY, SOUTH SULAWESI",
+          "score": 0.2404891
+        },
+        {
+          "chunk_id": 6,
+          "text": "CHAPTER III\nSCOPE\nArticle 4\nThe implementation of protection of women from acts of violence includes:\na. prevention;\nb. handling;\nc. empowerment.\n-5-",
+          "score": 0.23482752
+        },
+        {
+          "chunk_id": 2,
+          "text": "REGIONAL HOUSE OF REPRESENTATIVES OF LUWU REGENCY\nREGENT OF LUWU\nDECIDES :\nTo Establish: REGULATION",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 15,
+          "text": "Article 13\nThe integrated service provider is obligated to provide services in accordance with the service principles as referred to in Article 12.\n-10-",
+          "score": 0.2320316
+        },
+        {
+          "chunk_id": 7,
+          "text": "Article 5\n(1) Protection of women from violence includes protection of women in the household, in the community, in the workplace and in conflict and disaster areas.\n(2) Protection of women from violence as referred to in paragraph (1) includes women with disabilities, elderly women.",
+          "score": 0.229259
+        },
+        {
+          "chunk_id": 28,
+          "text": "LUWU, PROVINCE\n* ;",
+          "score": 0.22650976
+        },
+        {
+          "chunk_id": 25,
+          "text": "CHAPTER XII\nCLOSING PROVISIONS\nArticle 29\nThis Regional Regulation shall come into force on the date of promulgation.\nIn order that everyone may know of it, the promulgation of this Regional Regulation is ordered by placing it in the Regional Gazette of Luwu Regency.\nEnacted in Belopa on the date of August 2019",
+          "score": 0.22378391
+        },
+        {
+          "chunk_id": 24,
+          "text": "CHAPTER XI\nPROHIBITIONS AND SANCTIONS\nArticle 28\nAny person who intentionally commits violence against women shall be subject to sanctions in accordance with the laws and regulations.\n-13-",
+          "score": 0.22108151
+        }
+      ],
+      "root_causes": [
+        "golden_label_issue"
+      ],
+      "rationale": "The Indonesian text defines \"Pemerintah\" as the Central Government (Pasal 1 angka 1: \"Pemerintah adalah Pemerintah Pusat\"). Funding is primarily from the regional budget (Pasal 26 ayat (1)), but Pasal 26 ayat (2) explicitly contemplates receiving \"bantuan pendanaan ... dari Pemerintah\" (funding assistance from the Central Government). That is a national government funding source, even if conditional/contingent. The retrieved English passage captured this accurately and the judge’s 'Yes' is reasonable. Thus the golden label 'No' appears to be the error.",
+      "diagnosis_status": "ok"
+    }
+  },
+  "missing_diagnoses": [],
+  "unresolved_indicators": [],
+  "policy_file": "SULAWESI_SELATAN_LUWU.txt",
+  "model": "gpt-5.2",
+  "diagnosed_at": "2026-08-12T11:49:31.755846+00:00",
+  "prompt_version": "v1",
+  "discrepancy_count": 4,
+  "diagnosed_count": 4
+}
