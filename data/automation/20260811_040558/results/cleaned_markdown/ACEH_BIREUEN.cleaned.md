@@ -334,7 +334,7 @@ d. memberikan layanan yang dibutuhkan bagi korban.
 
 Perempuan Lanjut Usia
 
-#### Pasal 2 1
+#### Pasal 21
 
 1. Pelaksanaan perlindungan bagi perempuan lanjut usia sebagaimana dimaksud dalam Pasal 9 huruf j, dalam rangka melaksanakan fungsi sosialnya dan berperan aktif secara wajar dalam kehidupan sosialnya.
 2. Perlindungan perempuan lanjut usia sebagaimana dimaksud pada ayat (1) lebih diutamakan perlindungan dari anak dan ahli warisnya.
@@ -442,11 +442,15 @@ Umum
 3. Satuan Kerja Perangkat Kabupaten yang tugas dan fungsinya menangani urusan pemberdayaan perempuan memfasilitasi pengintegrasian kebijakan, program, dan kegiatan perlindungan perempuan ke dalam penyusunan dokumen perencana; pada ayat (2).
 4. Dalam melaksanakan tugas dan ayat (3), unit kerja yang menang* n dan anggaran sebagaimana tertuang ungsinya sebagaimana dimaksud pada berkoordinasi dengan Badan (BAPPEDA).
 
-ani pemberdayaan perempuan di daerah Perencanaan Pembangunan Daerah Bagiap Kedua Sti Pas ategi al 30 (1) Perlindungan perempuan dilaÿ sanakan dengan mengintegrasikan Pengarusutamaan Gender (PUG) da data kekerasan secara terpadu undangan yang berlaku.
+## Bagian Kedua
+Strategi
+#### Pasal 30
 
-n basis data terpilah, data gender dan berdasarkan peraturan perundang- (2) Satuan Kerja Perangkat Kabupaten yang mengurusi pemberdayaan dan perlindungan perempuan berkoordinasi dengan organisasi Perangkat Daerah lainnya dalam rangka mewujudkan pelaksanaan perlindungan perempuan secara terpadu.
+(1) Perlindungan perempuan dilaÿ sanakan dengan mengintegrasikan Pengarusutamaan Gender (PUG) dan basis data terpilah, data gender dan data kekerasan secara terpadu berdasarkan peraturan perundang-undangan yang berlaku.
 
-3. Koordinasi sebagaimana dimaksud pada ayat (2), dilakukan dalam kerangka memperkuat sinergitas dalam perumusan kebijakan, dukungan program dan kegiatan, serta pemantauan dan evaluasi.
+(2) Satuan Kerja Perangkat Kabupaten yang mengurusi pemberdayaan dan perlindungan perempuan berkoordinasi dengan organisasi Perangkat Daerah lainnya dalam rangka mewujudkan pelaksanaan perlindungan perempuan secara terpadu.
+
+(3) Koordinasi sebagaimana dimaksud pada ayat (2), dilakukan dalam kerangka memperkuat sinergitas dalam perumusan kebijakan, dukungan program dan kegiatan, serta pemantauan dan evaluasi.
 
 ## Bagian Ketiga
 
