@@ -218,8 +218,6 @@ a. nafkah lahir batin;
 b. kepala keluarga memberikan perlindungan khusus kepada ibu rumah tangga saat masa kehamilan; dan
 c. ibu rumah tangga yang telah melahirkan harus mendapat perlindungan dari kepala keluarga untuk mengurangi beban sebagai ibu rumah tangga.
 
-*
-
 #### Pasal 11
 
 Ibu rumah tangga yang melakukan pekerjaan diluar rumah harus mendapat perlindungan dari kepala keluarga berupa memberi izin dan dapat menyediakan pekerja rumah tangga.
@@ -323,7 +321,6 @@ Perempuan korban konflik
 #### Pasal 20
 
 Pelaksanaan perlindungan bagi perempuan korban konflik sebagaimana dimaksud dalam Pasal 9 huruf i, melalui:
-
 a. memberikan rasa aman;
 b. pemenuhan kebutuhan dasar perempuan korban konflik; c. menghilangkan trauma; dan
 d. memberikan layanan yang dibutuhkan bagi korban.
@@ -463,23 +460,18 @@ b. penganggaran program dan kegiatan;
 c. pelaksanaan program dan kegiatan; dan
 d. monitoring, evaluasi dan pelaporan.
 
->
 
 #### Pasal 32
 
 1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf a, dilaksanakan melalui:
 a. pemetaan, pengumpulan, pengolahan dan penyajian data secara terpilah;
-
 b.koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan SKPK terkait; dan
-
 c. penetapan program dan kegiatan dalam dokumen perencanaan.
 2. Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan dan standar operasional prosedur.
 3. Penganggaran program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf b, dilaksanakan melalui kebijakan umum anggaran yang dituangkan dalam APBK.
 4. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf c, dilaksanakan melalui:
 a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen anggaran SKPK; dan
-
 b.koordinasi dan sinkronisasi pelaksanaan program dan kegiatan dengan SKPK terkait.
-
 5. Pelaksanaan monitoring, evaluasi dan pelaporan sebagaimana dimaksud dalam Pasal 31 huruf d, dilaksanakan melalui:
 a. monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; dan
 b. membuat laporan secara berkala setiap tahunnya yang disampaikan kepada Bupati.
@@ -535,7 +527,6 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban kekerasan.
 #### Pasal 37
 
 Segala biaya pelaksanaan kebijakan perencanaan program dan kegiatan terkait perlindungan perempuan bersumber dari:
-
 a. Anggaran Pendapatan dan Belanja Kabupaten; dan
 b. Sumber lainnya yang sah dan tidak mengikat.
 
