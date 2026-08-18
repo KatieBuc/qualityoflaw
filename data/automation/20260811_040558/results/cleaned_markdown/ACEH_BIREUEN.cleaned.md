@@ -476,9 +476,9 @@ b.koordinasi dan sinkronisasi pelaksanaan program dan kegiatan dengan SKPK terka
 a. monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; dan
 b. membuat laporan secara berkala setiap tahunnya yang disampaikan kepada Bupati.
 
-##### BABVIII
+# BAB VIII
 
-##### PERAN SERTA MASYARAKAT
+## PERAN SERTA MASYARAKAT
 
 #### Pasal 33
 
