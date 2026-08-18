@@ -113,7 +113,7 @@ h. menurunkan angka kekerasan terhadap perempuan.
 
 Ruang lingkup pengaturan dalam Qanun ini meliputi:
 
-a. asas dan tujuan;
+a. asas dan tujuan ;
 b. hak-hak perempuan;
 c. perlindungan perempuan;
 d. kewajiban dan tanggungjawab Pemerintah Kabupaten;
