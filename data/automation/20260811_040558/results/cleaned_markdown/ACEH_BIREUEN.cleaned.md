@@ -32,7 +32,7 @@ Mengingat :
 8. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);
 9. Peraturan Mahkamah Agung Nomor 3 Tahun 2017 tentang Pedoman Mengadili Perkara Perempuan Berhadapan dengan Hukum;
 10. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak;
-ll. Qanun Aceh Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan (Lembaran Daerah Aceh Tahun 2009 Nomor 06, Tambahan Lembaran Daerah Aceh Nomor 28);
+11. Qanun Aceh Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan (Lembaran Daerah Aceh Tahun 2009 Nomor 06, Tambahan Lembaran Daerah Aceh Nomor 28);
 12. Qanun Aceh Nomor 9 Tahun 2019 tentang Penyelenggaraan Penanganan Kekerasan Terhadap Perempuan dan Anak (Lembaran Aceh Tahun 2019 Nomor 17, Tambahan Lembaran Aceh Nomor 119);
 
 Dengan Persetujuan Bersama
