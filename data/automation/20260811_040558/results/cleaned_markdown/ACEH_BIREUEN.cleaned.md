@@ -24,13 +24,11 @@ c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b
 Mengingat : 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);
-3. Undang-Undang Nomor 48 Tahun 1999 tentang Pembentukan Kabupaten Bireuen dan Kabupaten Simeulue (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 176, Tambahan Lembaran Negara Republik Indonesia Nomor 3897) sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2000 (Lembaran Negara Republik Indonesia Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor
-3963. ;
+3. Undang-Undang Nomor 48 Tahun 1999 tentang Pembentukan Kabupaten Bireuen dan Kabupaten Simeulue (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 176, Tambahan Lembaran Negara Republik Indonesia Nomor 3897) sebagaimana telah diubah dengan Undang-Undang Nomor 8 Tahun 2000 (Lembaran Negara Republik Indonesia Nomor 75, Tambahan Lembaran Negara Republik Indonesia Nomor 3963. ;
 4. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);
 5. Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4633);
 6. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);
-7. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor
-6573. ;
+7. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Kerja (Lembaran Negara Republik Indonesia Tahun 2020 Nomor 245, Tambahan Lembaran Negara Republik Indonesia Nomor 6573. ;
 8. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerjasama Pemulihan Korban Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);
 9. Peraturan Mahkamah Agung Nomor 3 Tahun 2017 tentang Pedoman Mengadili Perkara Perempuan Berhadapan dengan Hukum;
 10. Peraturan Menteri Pemberdayaan Perempuan dan Perlindungan Anak Nomor 4 Tahun 2018 tentang Pedoman Pembentukan Unit Pelaksana Teknis Daerah Perlindungan Perempuan dan Anak;
