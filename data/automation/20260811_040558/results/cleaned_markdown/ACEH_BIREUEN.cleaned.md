@@ -17,9 +17,9 @@ DENGAN NAMA ALLAH YANG MAHA PENGASIH LAGI MAHA PENYAYANG ATAS RAHMAT ALLAH YANG 
 BUPATI BIREUEN,
 
 Menimbang : 
-a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;
-b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;
-c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;
+a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
+b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
+c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat : 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;
