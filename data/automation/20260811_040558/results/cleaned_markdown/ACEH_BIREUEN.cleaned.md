@@ -643,7 +643,11 @@ Cukup jelas
 
 #### Pasal 10
 
-Cukupjelas Pasal11 Cukupjelas
+Cukup jelas 
+
+#### Pasal 11 
+
+Cukup jelas
 
 #### Pasal 12
 
@@ -679,7 +683,7 @@ Cukupjelas
 
 #### Pasal 20
 
-Cukupjelas Pasal
+Cukupjelas 
 
 #### Pasal 21 
 
@@ -695,7 +699,7 @@ Cukup jelas
 
 #### Pasal 24
 
-Cukup jelas ÿ
+Cukup jelas
 
 #### Pasal 25
 
