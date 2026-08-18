@@ -562,8 +562,7 @@ f. mengkoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bant
 
 ## KETENTUAN PENUTUP
 
-#### Pasal 4 1
-
+#### Pasal 41
 Peraturan pelaksanaan dari Qanun ini berupa Peraturan Bupati ditetapkan paling lama enam (6) bulan sejak Qanun ini diundangkan.
 
 #### Pasal 42
@@ -572,33 +571,31 @@ Qanun ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan Qanun ini dengan penempatannya dalam Lembaran Kabupaten Bireuen.
 
-Ditetapkan di Bireuen pada tanggal 24 loit
+Ditetapkan di Bireuen
+pada tanggal 24 Agustus 2022
 
-##### BIREUEN
+Pj BUPATI BIREUEN
 
-k AULIA SOFYAN Diundangkan di Bireuen pada tanggal TA AjufW lozi
+AULIA SOFYAN 
 
-##### SEKRETARIS DAERAH
+Diundangkan di Bireuen 
+pada tanggal 24 Agustus 2022
 
-##### KABUPATEN BIREUEN
+SEKRETARIS DAERAH
 
-##### IBRAHIM
+KABUPATEN BIREUEN
 
-##### LEMBARAN KABUPATEN BIREUEN TAHUN 2022 NOMOR W
+IBRAHIM
+
+LEMBARAN KABUPATEN BIREUEN TAHUN 2022 NOMOR 102
 
 NOMOR REGISTER QANUN KABUPATEN BIREUEN, PROVINSI ACEH: (3/47/2022)
 
-##### PENJELASAN
+# PENJELASAN ATAS QANUN KABUPATEN BIREUEN
 
-##### ATAS
-
-##### QANUN KABUPATEN BIREUEN
-
-##### NOMOR 3 TAHUN 2022
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN
+NOMOR 3 TAHUN 2022
+TENTANG
+PERLINDUNGAN PEREMPUAN
 
 ##### I. UMUM
 
@@ -626,7 +623,23 @@ Cukup jelas
 
 #### Pasal 5
 
-Cukup jelas Pasal6 Cukupjelas Pasal7 Cukup jelas Pasal8 Cukupjelas Pasal9 Cukup jelas
+Cukup jelas 
+
+#### Pasal 6 
+
+Cukup jelas 
+
+#### Pasal 7 
+
+Cukup jelas 
+
+#### Pasal 8 
+
+Cukup jelas 
+
+#### Pasal 9 
+
+Cukup jelas 
 
 #### Pasal 10
 
@@ -666,7 +679,11 @@ Cukupjelas
 
 #### Pasal 20
 
-Cukupjelas Pasal21 Cukupjelas
+Cukupjelas Pasal
+
+#### Pasal 21 
+
+Cukup jelas 
 
 #### Pasal 22
 
@@ -744,7 +761,7 @@ Cukup jelas
 
 Cukupjelas
 
-#### Pasal 4 1
+#### Pasal 41
 
 Cukup jelas
 
@@ -752,4 +769,4 @@ Cukup jelas
 
 Cukup jelas
 
-##### TAMBAHAN LEMBARAN KABUPATEN BIREUEN NOMOR 127 >
+TAMBAHAN LEMBARAN KABUPATEN BIREUEN NOMOR 127
