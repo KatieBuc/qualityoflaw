@@ -15,11 +15,13 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 # BUPATI TANGGAMUS,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi  perempuan dan anak sesuai Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pemerintah Daerah Wajib bertanggung jawab dalam penyelenggaraan perlindungan perempuan dan anak terhadap tindak kekerasan;  
 b. bahwa untuk memenuhi indikator- indikator Pelaksanaan Kabupaten Layak Anak, berkenaan dengan layanan Perlindungan, pencegahan kekerasan terhadap perempuan dan anak, maka diperlukan peraturan yang mengatur berbagai peran lembaga perangkat daerah dan lembaga lainnya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -144,8 +146,10 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 #### Pasal 2
 
 Maksud dan Tujuan perlindungan perempuan dan anak dari tindak kekerasan  adalah:
-a. Mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. Memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
-c. Memberikan rasa aman terhadap perempuan dan anak korban kekerasan; d. Memulihkan kondisi fisik, psikis dan ekonomi perempuan dan anak  korban kekerasan;  
+a. Mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+b. Memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
+c. Memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
+d. Memulihkan kondisi fisik, psikis dan ekonomi perempuan dan anak  korban kekerasan;  
 e. Kepentingan terbaik bagi perempuan dan anak korban kekerasan yang  terjadi di rumah domestic dan/ atau publik; danf. Menindak pelaku kekerasan terhadap perempuan dan anak.  
 
 # BAB III
@@ -217,7 +221,8 @@ b. Perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak
 #### Pasal 11
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
-a. Hak untuk dihormati harkat dan martabat sebagai manusia; b. Hak pemulihan;  
+a. Hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. Hak pemulihan;  
 c. Hak menentukan sendiri keputusannya;  
 d. Hak mendapatkan informasi;  
 e. Hak atas kerahasiaan;  
@@ -228,7 +233,8 @@ i. Hak atas pendampingan; danj. Mendapatkan penanganan berkelanjutan sampai taha
 
 #### Pasal 12
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 11, juga mendapatkan hak khusus, sebagai berikut: a. Hak untuk kelangsungan hidup, tumbuh, dan berkembang; b. Hak pelayanan dasar kependudukan;  
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 11, juga mendapatkan hak khusus, sebagai berikut: a. Hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
 d. Hak bebas dari berbagai stigma; dane. Hak mendapatkan kebebasan.  
 
@@ -268,7 +274,8 @@ Swasta dan Lembaga Masyarakat
 #### Pasal 15
 
 1. Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana  dimaksud dalam Pasal 13 huruf b dan huruf c, diselenggarakan dalam  bentuk peran serta swasta dan masyarakat.  
-2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak; b. Memberikan informasi dan/ atau melaporkan tindak kekerasan  terhadap perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. Berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan  peraturan perundang-undangan.  
+2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
+b. Memberikan informasi dan/ atau melaporkan tindak kekerasan  terhadap perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. Berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan  peraturan perundang-undangan.  
 
 ## Bagian Ketiga
 
@@ -311,7 +318,9 @@ Pencegahan kekerasan terhadap perempuan dan anak
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut:a. Memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal, non formal,  maupun informal;  
 b. Penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. Menciptakan suasana lingkungan kerja yang ramah dan aman bagi  perempuan;  
-d. Membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; e. Membangun dan menyediakan sistem informasi yang mudah diakses; f. Membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak.  
+d. Membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
+e. Membangun dan menyediakan sistem informasi yang mudah diakses;  
+f. Membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak.  
 
 #### Pasal 20
 
@@ -352,10 +361,12 @@ f. Pendampingan korban; dang. Pemulangan korban.
 3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA  sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati. (4) Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah  membentuk:a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan  Orang;  
 b. Gugus Tugas Pencegahan Perkawinan Anak;  
 c. Gugus Tugas Kabupaten Layak Anak;  
-d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan terburuk  untuk anak atau Bentuk Pekerjaan Terburuk bagi Anak (BPTA); e. Forum Anak Daerah (FAD);  
+d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan terburuk  untuk anak atau Bentuk Pekerjaan Terburuk bagi Anak (BPTA);  
+e. Forum Anak Daerah (FAD);  
 f. Perlindungan Anak Terpadu Berbasis Masyarakat (PATBM) PENA  BISMA;  
 g. Forum Kekerasan Dalam Rumah Tangga (KDRT);  
-h. Satuan Tugas Perlindungan Perempuan dan Anak (Satgas PPA); i. Desa Ramah Perempuan dan Peduli Anak (DRPPA);  
+h. Satuan Tugas Perlindungan Perempuan dan Anak (Satgas PPA);  
+i. Desa Ramah Perempuan dan Peduli Anak (DRPPA);  
 j. TIM KTP/A di Rumah sakit, Puskesmas, sekolah-sekolah, Pondok Pondok Pesantren.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas, dan fungsi gugus  tugas sebagaimana dimaksud ayat (4) ditetapkan dengan Peraturan Bupati.  
 
@@ -453,7 +464,8 @@ d. penguatan jejaring antar Lembaga Penyedia Layanan Pemberdayaan  Perempuan tin
 3. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan: a. Hak sipil dan kebebasan;  
 b. Lingkungan keluarga dan pengasuhan alternatif;  
 c. Kesehatan dasar dan kesejahteraan;  
-d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya; e. Perlindungan khusus anak;  
+d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  
+e. Perlindungan khusus anak;  
 f. Serta Kelembagaan;  
 5. Pokja PUG sebagaimana dimaksud ayat (2), bertanggungjawab pada  pemenuhan hak perempuan yang perspektif gender.  
 6. Ketentuan yang berkaitan dengan Kabupaten Layak Anak (KLA) dan PUG  diatur dalam Peraturan Perundang-undangan.  
@@ -469,7 +481,8 @@ a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. Sumber lain yang sah dan
 
 #### Pasal 31
 
-1. Pendanaan perlindungan bagi perempuan dan anak korban kekerasan  meliputi:a. Pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rumah sakit, biaya obat-obatan dan biaya penunjang medic; b. Pelayanan medicolegal, yang meliputi pemeriksaan untuk Visum et  Repertum dan et Psikiatrikum;  
+1. Pendanaan perlindungan bagi perempuan dan anak korban kekerasan  meliputi:a. Pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rumah sakit, biaya obat-obatan dan biaya penunjang medic;  
+b. Pelayanan medicolegal, yang meliputi pemeriksaan untuk Visum et  Repertum dan et Psikiatrikum;  
 c. Pelayanan psikososial, yang terdiri dari konseling dan terapi psikologi  serta rumah aman (shelter);  
 d. Pelayanan hukum;  
 e. Penguatan ekonomi, berupa layanan untuk pelatihan keterampilan dan  memberikan akses ekonomi.  

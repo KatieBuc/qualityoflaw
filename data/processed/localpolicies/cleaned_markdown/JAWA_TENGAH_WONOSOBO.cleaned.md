@@ -11,12 +11,14 @@
 # BUPATI WONOSOBO,
 
 Menimbang:  
+ 
 a. bahwa masalah sosial perempuan dan anak di Kabupaten  Wonosobo terus meningkat dan semakin kompleks,  sehingga diperlukan upaya penanggulangan secara  menyeluruh, terpadu dan berkelanjutan yang  diselenggarakan oleh Pemerintah Daerah, masyarakat dan  dunia usaha;  
 b. bahwa penyelenggaraan perlindungan sosial bagi  perempuan dan anak masih terdapat kesenjangan dalam  penanganannya sehingga perlu mendapat prioritas sesuai  dengan yang dibutuhkan;  
 c. bahwa urusan sosial merupakan urusan wajib yang  menjadi tugas dan tanggung jawab Pemerintah Daerah,  sehingga diperlukan pengaturan mengenai perlindungan  sosial bagi perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf c maka perlu membentuk  Peraturan Daerah Kabupaten Wonosobo tentang  Perlindungan Sosial Bagi Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indobesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten Dalam  Lingkungan Propinsi Djawa Tengah (Berita Negara Tahun  1950);  
@@ -299,7 +301,8 @@ Tanggung Jawab Pemerintah Daerah
 2. Tanggung jawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)  dilaksanakan melalui:a. perencanaan, pelaksanaan, pengembangan, pembinaan dan pengawasan  terhadap perlindungan sosial dan penyelenggaraan kesejahteraan sosial  bagi perempuan dan anak;  
 b. penerapan standar pelayanan perlindungan sosial dan penyelenggaraan  kesejahteraan sosial bagi perempuan dan anak;  
 c. penyediaan dan/atau pemberian kemudahan serta sarana dan  prasarana;  
-d. pemberian kemudahan terhadap perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak; e. pengembangan kapasitas kelembagaan dan sumberdaya sosial sesuai  perkembangan ilmu pengetahuan dan teknologi;  
+d. pemberian kemudahan terhadap perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak;  
+e. pengembangan kapasitas kelembagaan dan sumberdaya sosial sesuai  perkembangan ilmu pengetahuan dan teknologi;  
 f. memfasilitasi partisipasi dari masyarakat, organisasi sosial dan/atau  dunia usaha terhadap perlindungan sosial dan penyelenggaraan  kesejahteraan sosial bagi perempuan dan anak.  
 3. Tanggungjawab sebagaimana dimaksud pada ayat (2), dapat didelegasikan  kepada SKPD/UKPD yang terkait dengan perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak.  
 
@@ -373,7 +376,8 @@ Pembinaan
 
 Pemerintah Daerah melakukan pembinaan perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak, meliputi: a. Koordinasi;  
 b. Penetapan pedoman dan standar;  
-c. Pemberian penyuluhan, bimbingan, supervisi, dan konsultasi; d. Penelitian, pemantauan, dan evaluasi.  
+c. Pemberian penyuluhan, bimbingan, supervisi, dan konsultasi;  
+d. Penelitian, pemantauan, dan evaluasi.  
 
 #### Pasal 31
 

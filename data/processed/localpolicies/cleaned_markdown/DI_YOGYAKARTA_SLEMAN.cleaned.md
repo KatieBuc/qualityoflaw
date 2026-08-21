@@ -13,11 +13,13 @@ PELINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ES
 # BUPATI SLEMAN,
 
 Menimbang:  
+ 
 a. bahwa untuk memulihkan harga diri dan martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 15 Tahun 1950 tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Daerah Istimewa Yogyakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 44);  
@@ -85,14 +87,16 @@ f. menghargai perbedaan individu;
 g. tidak menghakimi;  
 h. menghormati pilihan dan keputusan korban;  
 i. peka terhadap latar belakang dan kondisi korban;  
-j. pemakaian bahasa yang sesuai dan dimengerti oleh korban; k. cepat dan sederhana;  
+j. pemakaian bahasa yang sesuai dan dimengerti oleh korban;  
+k. cepat dan sederhana;  
 l. empati; danm. kepentingan terbaik bagi korban.  
 
 #### Pasal 4
 
 1. Tujuan pelindungan perempuan korban kekerasan diarahkan untuk: a. menciptakan kondisi yang mendukung pengembangan potensi perempuan korban kekerasan;  
 b. memperkuat potensi yang telah dimiliki oleh perempuan korban kekerasan; danc. meningkatkan keterampilan kerja perempuan korban kekerasan.  
-2. Tujuan pelindungan anak korban kekerasan diarahkan untuk: a. memberikan rehabilitasi sosial bagi anak korban kekerasan; b. menyatukan kembali anak korban kekerasan dengan keluarga dan/atau lingkungan; danc. meningkatkan keberdayaan anak korban kekerasan.  
+2. Tujuan pelindungan anak korban kekerasan diarahkan untuk: a. memberikan rehabilitasi sosial bagi anak korban kekerasan;  
+b. menyatukan kembali anak korban kekerasan dengan keluarga dan/atau lingkungan; danc. meningkatkan keberdayaan anak korban kekerasan.  
 
 # BAB II
 
@@ -240,7 +244,8 @@ g. masyarakat; dan/atauh. keluarga.
 
 #### Pasal 16
 
-1. Setiap Korban mendapatkan hak sebagai berikut:a. hak untuk dihormati harkat dan martabatnya sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis;  
+1. Setiap Korban mendapatkan hak sebagai berikut:a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan identitasnya;  
@@ -323,7 +328,8 @@ b. FPKK Kecamatan; danc. FPKK Desa.
 #### Pasal 24
 
 Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 23 ayat (2) terdiri dari:
-a. mengoordinasikan dan menyinkronkan pencegahan, pelayanan, dan pemberdayaan terhadap korban kekerasan perempuan dan anak; b. memelihara dan mengembangkan FPKK dalam pencegahan, pelayanan, dan pemberdayaan korban kekerasan secara berjejaring serta sistemrujukan;  
+a. mengoordinasikan dan menyinkronkan pencegahan, pelayanan, dan pemberdayaan terhadap korban kekerasan perempuan dan anak;  
+b. memelihara dan mengembangkan FPKK dalam pencegahan, pelayanan, dan pemberdayaan korban kekerasan secara berjejaring serta sistemrujukan;  
 c. melakukan pendidikan tentang nilai-nilai non diskriminasi terhadap perempuan dan anak;  
 d. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan pelindungan perempuan dan anak korban kekerasan;  
 e. mengumpulkan, menyusun, dan menyajikan laporan data korban kekerasan; danf. melakukan pemantauan dan evaluasi terhadap penyelenggaraan pelindungan perempuan dan anak korban kekerasan.  

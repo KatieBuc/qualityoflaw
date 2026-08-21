@@ -11,11 +11,13 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN
 # WALIKOTA TERNATE,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan bentuk kejahatan kemanusiaan yang merupakan pelanggaran terhadap hak asasi manusia;  
 b. bahwa jumlah kasus dan korban kekerasan terhadap perempuan dan anak di Kota Ternate masih cukup tinggi, sedangkan pelayanan dan perlindungan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1.Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi tentang Penghapusan Segala Bentuk Diskriminasi terhadap Wanita (Convention on The Elimination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -107,7 +109,8 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan perlindungan dan p
 b. melaksanakan pendidikan dan pembimbingan tentang anti kekerasan dan perlindungan pada perempuan dan anak korban kekerasan;  
 c. melaksanakan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan;  
 d. melakukan pemantauan dan evaluasi penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan perlindungan bagi perempuan dan anak dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya pusat pelayanan terpadu untuk korban dengan melibatkan unsur masyarakat; b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban.  
+2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan perlindungan bagi perempuan dan anak dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya pusat pelayanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
+b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami atau orang lain yang secara hukumbertanggung jawab terhadap korban.  
 
 #### Pasal 7

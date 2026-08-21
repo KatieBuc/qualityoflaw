@@ -15,6 +15,7 @@
 # BUPATI TEMANGGUNG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwapemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapat perlindungan khusus agar tidak mengalami kekerasan dan dapat menjalani hidup layak sesuai prinsip kemanusiaan kesetaraan dan keadilan;  
@@ -93,7 +94,8 @@ c. keadilan gender; dand. kepastian hukum.
 #### Pasal 3
 
 Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:
-a. menjamin terpenuhinya hak perempuan agar dapat hidup dan berpartisipasi  secara optimal sesuai dengan harkat dan martabat kemanusiaan; b. memberikan Keadilan dan Kesetaraan Gender, meningkatkan kualitas hidup  perempuan melalui peningkatan kapasitas kelembagaan Pemberdayaan dan  Perlindungan Perempuan di daerah, termasuk pengembangan sistem data  gender dan anak; danc. memberikan perlindungan hak perempuan dari berbagai bentuk kekerasan dan  perlakuan diskriminatif lainnya.  
+a. menjamin terpenuhinya hak perempuan agar dapat hidup dan berpartisipasi  secara optimal sesuai dengan harkat dan martabat kemanusiaan;  
+b. memberikan Keadilan dan Kesetaraan Gender, meningkatkan kualitas hidup  perempuan melalui peningkatan kapasitas kelembagaan Pemberdayaan dan  Perlindungan Perempuan di daerah, termasuk pengembangan sistem data  gender dan anak; danc. memberikan perlindungan hak perempuan dari berbagai bentuk kekerasan dan  perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
@@ -110,7 +112,8 @@ g. pemantauan evaluasi dan pelaporan; danh. pendanaan.
 
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf a  dilakukan melalui upaya:
 a. memberikan akses kepada perempuan terhadap layanan pendidikan, kesehatan,  dan bidang strategis lainnya;  
-b. mendorong keterlibatan perempuan dalam proses pembangunan; c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
+b. mendorong keterlibatan perempuan dalam proses pembangunan;  
+c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 6
 
@@ -172,7 +175,8 @@ Hak Perempuan Korban Kekerasan
 #### Pasal 13
 
 Setiap perempuan korban kekerasan mempunyai:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami  korban;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami  korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -188,7 +192,8 @@ Kewajiban Perempuan
 #### Pasal 14
 
 Setiap perempuan berkewajiban untuk:
-a. menjunjung tinggi harkat dan martabatnya sebagai perempuan; b. melaksanakan tugas dan tanggung jawabnya sebagai istri, ibu, anak dan warga  masyarakat dengan baik dan bertanggung jawab; danc. menaati ketentuan peraturan perundang-undangan.  
+a. menjunjung tinggi harkat dan martabatnya sebagai perempuan;  
+b. melaksanakan tugas dan tanggung jawabnya sebagai istri, ibu, anak dan warga  masyarakat dengan baik dan bertanggung jawab; danc. menaati ketentuan peraturan perundang-undangan.  
 
 # BAB IV
 
@@ -270,7 +275,9 @@ c. politik; dand. hukum.
 
 Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi sebagaimana  dimaksud dalam Pasal 23 huruf a, dilaksanakan melalui:
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif; d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
+d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 25
 
@@ -281,7 +288,8 @@ c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga  mandiri, 
 
 #### Pasal 26
 
-1. Penyelenggaraan Pemberdayaan Perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 23 huruf c, meliputi:a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan; b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
+1. Penyelenggaraan Pemberdayaan Perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 23 huruf c, meliputi:a. pelibatan perempuan dalam pengambilan keputusan di berbagai tingkatan;  
+b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat (2) Penyelenggaraan Pemberdayaan Perempuan di bidang politik sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan Peraturan  Perundang-undangan.  
 
 #### Pasal 27
@@ -310,7 +318,8 @@ Kewajiban dan Upaya Pemerintah Daerah
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawabuntuk melaksanakan  upaya pencegahan terjadinyaKekerasan terhadap Perempuan dalam bentuk: a. mengumpulkan data dan informasi tentang Korban kekerasan serta  Peraturan Perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti Kekerasan terhadap  Perempuan;  
-c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan penyelenggaraan Perlindungan akan Korban kekerasan; d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  Perlindungan Korban kekerasan; dane. menyusun laporan terhadap penyelenggaraan Perlindungan perempuan  Korban kekerasan.  
+c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan penyelenggaraan Perlindungan akan Korban kekerasan;  
+d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  Perlindungan Korban kekerasan; dane. menyusun laporan terhadap penyelenggaraan Perlindungan perempuan  Korban kekerasan.  
 2. Untuk mengantisipasi terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu  untuk Korban dengan melibatkan unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentinganya Perlindungan  terhadap Korban.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua,  wali atau orang lain yang secara hukum bertanggung jawab terhadap korban.  
 4. Untuk mencegah terjadinya tindak Kekerasan terhadap Perempuan, Pemerintah  Daerah melakukan upaya sebagai berikut:a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan Kekerasan terhadap Perempuan;  
@@ -381,8 +390,11 @@ Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 35,  Pemerintah D
 a. memberikan pelayanan dan penanganan secepat mungkin kepada saksi  dan/atau Korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi  saksi dan/atau Korban;  
 c. menjaga kerahasiaan saksi dan/atau Korban;  
-d. menjamin keadilan dan kepastian hukum bagi saksi dan/atau Korban; e. penyediaan ruang pelayanan khusus di Kantor Kepolisian;  
-f. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani; g. pembuatan dan pengembangam sistem dan mekanisme kerjasama program  pelayanan yang melibatkan pihak yang mudah diakses oleh Korban; h. memberikan Perlindungan bagi pendamping, saksi, keluarga, dan teman  Korban;  
+d. menjamin keadilan dan kepastian hukum bagi saksi dan/atau Korban;  
+e. penyediaan ruang pelayanan khusus di Kantor Kepolisian;  
+f. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
+g. pembuatan dan pengembangam sistem dan mekanisme kerjasama program  pelayanan yang melibatkan pihak yang mudah diakses oleh Korban;  
+h. memberikan Perlindungan bagi pendamping, saksi, keluarga, dan teman  Korban;  
 i. memberikan Perlindungan bagi pekerja/buruh perempuan sesuai ketentuan Peraturan Perundang-undangan.  
 
 # BAB VIII

@@ -13,12 +13,14 @@
 # BUPATI KARAWANG,
 
 Menimbang:  
+ 
 a. bahwa perempuan sebagai salah satu kelompok  masyarakat yang keberadaannya menjadi potensi dan aset pembangunan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak  kekerasan dan diskriminasi;  
 c. bahwa dalam rangka mengefektifkan sistem yang  komprehensif dan integratif dalam memberdayakan dan  melindungi perempuan di Kabupaten Karawang diperlukan pengaturan mengenai pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b,dan huruf c perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 14 tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten di Lingkungan Provinsi Jawa Barat (Lembaran Negara Republik Indonesia Nomor 9) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 31, Tambahan Lembaran Negara Republik Indoneisa Nomor 2851);  
@@ -72,12 +74,15 @@ h. atas kebebasan pribadi; dani. atas kesehatan.
 #### Pasal 3
 
 Hak Perempuan dalam Ketenagakerjaan meliputi:
-a. Memiliki kesempatan kerja yang sama dengan laki-laki; b. Kesempatan yang sama dari proses seleksi, fasilitas kerja,  tunjangan hingga hak untuk menerima upah yang setara; c. Mendapatkan masa cuti yang dibayar termasuk saat cuti  melahirkan; dand. Perempuan tidak bisa diberhentikan oleh pihak pemberi tenaga  kerja dengan alasan kehmilan maupun status pernikahan.  
+a. Memiliki kesempatan kerja yang sama dengan laki-laki;  
+b. Kesempatan yang sama dari proses seleksi, fasilitas kerja,  tunjangan hingga hak untuk menerima upah yang setara;  
+c. Mendapatkan masa cuti yang dibayar termasuk saat cuti  melahirkan; dand. Perempuan tidak bisa diberhentikan oleh pihak pemberi tenaga  kerja dengan alasan kehmilan maupun status pernikahan.  
 
 #### Pasal 4
 
 Hak perempuan dalam bidang Kesehatan meliputi:
-a. Kesempatan bebas dari kematian pada saat melahirkan; b. Diperolehnya pelayanan kesehatan khususnya pelayanan KB,  kehamilan, persalinan dan pasca-persalinan.  
+a. Kesempatan bebas dari kematian pada saat melahirkan;  
+b. Diperolehnya pelayanan kesehatan khususnya pelayanan KB,  kehamilan, persalinan dan pasca-persalinan.  
 
 #### Pasal 5
 
@@ -129,7 +134,8 @@ i. fasilitas pelayanan;
 j. penyediaan pelayanan;  
 k. pembangunan model; danl. kegiatan lain.  
 5. Pengintegrasian kebijakan, program dan kegiatan pemberdayaan  dan Perlindungan Perempuan sebagaimana dimaksud pada ayat  (1) dituangkan dalam dokumen:a. Rencana pembangunan jangka panjang daerah;  
-b. Rencana pembangunan jangka menengah daerah; c. Rencana strategis Perangkat Daerah;  
+b. Rencana pembangunan jangka menengah daerah;  
+c. Rencana strategis Perangkat Daerah;  
 d. Rencana kerja Pemerintah Daerah; dane. rencana kerja dan anggaran Perangkat Daerah.  
 6. Ketentuan mengenai menetapkan kebijakan, program dan  kegiatan pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) ditetapkan dengan  Keputusan Bupati.  
 

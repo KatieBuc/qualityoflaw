@@ -13,11 +13,13 @@ PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 # WALIKOTA PANGKALPINANG,
 
 Menimbang:  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap  pemenuhan hak-haknya dan Perlindungan dari tindak  kekerasan dan diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi diri perempuan dalam masyarakat di Kota Pangkalpinang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b, perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1959 (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 55, Tambahan Lembaran Negara Republik Indonesia Nomor 1091), Undang-Undang Darurat Nomor 5 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 56, Tambahan Lembaran Negara  Republik Indonesia Nomor 1091) dan Undang-Undang  Darurat Nomor 57 (Tambahan Lembaran Negara Republik  Indonesia Nomor 1091) tentang Pembentukan Daerah  Tingkat II termasuk Kotapraja Dalam Lingkungan Daerah  Tingkat I Sumatera Selatan sebagai Undang-Undang  (Lembaran Negara Republik Indonesia Nomor 1821);  
@@ -70,13 +72,16 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Kota adalah Kota Pangkalpina
 b. kesetaraan dan keadilan gender;  
 c. perlindungan terhadap hak korban; dand. tidak diskriminatif.  
 2. Tujuan Pemberdayaan dan Perlindungan Perempuan adalah untuk:a. menjamin terpenuhinya hak perempuan agar dapat  hidup dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan;  
-b. memberikan keadilan dan kesetaraan gender; c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasi, serta  tindak pidana perdagangan orang;  
+b. memberikan keadilan dan kesetaraan gender;  
+c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasi, serta  tindak pidana perdagangan orang;  
 d. menghapus segala bentuk kekerasan dan diskriminasi terhadap perempuan;  
 e. memberikan pelayanan kepada perempuan Korban kekerasan, dan saksi; danf. melakukan pemulihan terhadap perempuan Korban  kekerasan meningkatkan peran serta perempuan baik  secara individual maupun kelompok sebagai potensi  dan sumber daya dalam penyelenggaraan hidup sosial  kemasyarakatan.  
 3. Ruang lingkup Peraturan Daerah ini, meliputi: a. hak perempuan;  
-b. kewajiban dan tanggung jawab pemerintah daerah; c. pemberdayaan perempuan;  
+b. kewajiban dan tanggung jawab pemerintah daerah;  
+c. pemberdayaan perempuan;  
 d. perlindungan perempuan;  
-e. perlindungan perempuan korban kekerasan; f. larangan dan sanksi;  
+e. perlindungan perempuan korban kekerasan;  
+f. larangan dan sanksi;  
 g. peran serta masyarakat;  
 h. pemantauan dan evaluasi; dan i . pendanaan.  
 
@@ -94,7 +99,8 @@ Umum
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan  berkembang secara layak, berkeluarga dan melanjutkan keturunan;  
 c. mengembangkan pribadinya, untuk memperoleh  pendidikan, dan meningkatkan kualitas hidupnya  agar menjadi manusia yang beriman,bertaqwa,  bertanggung jawab, berakhlak mulia, bahagia, dan  sejahtera sesuai dengan hak asasi manusia;  
 d. memperoleh keadilan, rasa aman, dan kebebasan  menyampaikan pendapat tanpa diskriminasi;  
-e. terlibat dalam setiap tahapan proses pembangunan; f. bebas dari perbudakan atau diperhamba dan  ancaman;  
+e. terlibat dalam setiap tahapan proses pembangunan;  
+f. bebas dari perbudakan atau diperhamba dan  ancaman;  
 g. memperoleh perlindungan diri pribadi, keluarga,  kehormatan, martabat dan hak miliknya;  
 h. mendapatkan kesejahteraan dan kehidupan yang  layak;  
 i. berpartisipasi dalam politik;  
@@ -113,7 +119,8 @@ Setiap perempuan penyandang disabilitas, berhak memperoleh:
 a. pendidikan pada semua satuan, jalur, jenis, dan jenjang pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan jenis dan derajat kecacatan, pendidikan, dan kemampuannya;  
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
-d. aksesibilitas dalam rangka kemandiriannya; e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial; danf. hak yang sama untuk menumbuhkembangkan bakat, kemampuan, dan kehidupan sosialnya.  
+d. aksesibilitas dalam rangka kemandiriannya;  
+e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial; danf. hak yang sama untuk menumbuhkembangkan bakat, kemampuan, dan kehidupan sosialnya.  
 
 ## Bagian Ketiga
 
@@ -141,7 +148,8 @@ i hak Korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan;
 #### Pasal 6
 
 1. Pemerintah Kota berkewajiban dan bertanggungjawab  terhadap penyelenggaraan pemberdayaan dan  perlindungan perempuan.  
-2. Upaya pemberdayaan dan perlindungan perempuan  sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan; b. penetapan pedoman pelaksanaan;  
+2. Upaya pemberdayaan dan perlindungan perempuan  sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan;  
+b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan. (3) Upaya pemberdayaan dan perlindungaan perempuan  sebagaimana dimaksud pada ayat (2) dilakukan secara  terpadu.  
 
 #### Pasal 7
@@ -166,7 +174,8 @@ g. ketenagakerjaan; danh. jaminan sosial.
 #### Pasal 9
 
 Penyelenggaraan pemberdayaan perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a  dilaksanakan melalui:
-a. pemberian keterampilan dan pelatihan kerja; b. fasilitasi pembentukan kelompok usaha ekonomi  produktif;  
+a. pemberian keterampilan dan pelatihan kerja;  
+b. fasilitasi pembentukan kelompok usaha ekonomi  produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
 d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
@@ -180,7 +189,8 @@ c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, 
 #### Pasal 11
 
 Penyelenggaraan pemberdayaan perempuan dibidang politik dan pemerintahan sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:
-a. pelibatan perempuan dalam pengambilan keputusan; b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
+a. pelibatan perempuan dalam pengambilan keputusan;  
+b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
 
 #### Pasal 12
@@ -191,12 +201,14 @@ b. fasilitasi akses dan layanan konsultasi hukum.
 #### Pasal 13
 
 Penyelenggaraan pemberdayaan perempuan dibidang  pendidikan sebagaimana dimaksud dalam Pasal 8 huruf e melalui:
-a. penyelenggaraan pendidikan formal dan nonformal; b. pendidkan formal sebagaimana dimakud dalam huruf a  adalah sebagaimana yang diatur oleh pemerintah; dan c. pendidikan non formal sebagaimana dimaksud huruf a  meliputi pendidikan pemberdayaan perempuan,  pendidikan ketrampilan dan pelatihan kerja.  
+a. penyelenggaraan pendidikan formal dan nonformal;  
+b. pendidkan formal sebagaimana dimakud dalam huruf a  adalah sebagaimana yang diatur oleh pemerintah; dan c. pendidikan non formal sebagaimana dimaksud huruf a  meliputi pendidikan pemberdayaan perempuan,  pendidikan ketrampilan dan pelatihan kerja.  
 
 #### Pasal 14
 
 1. Penyelenggaran perempuan dibidang kesehatan  sebagaimana dimaksud dalam Pasal 8 huruf f pelayanan  kesehatan guna menjalani kehidupan reproduksi dan kehidupan seksual yang sehat, aman serta bebas dari  paksaan dan / atau kekerasan.  
-2. Pelayanan kesehatan sebagaimana dimaksud pada ayat  (1) meliputi:a. pelayanan kesehatan masa sebelum hamil, saat  hamil, masa persalinan dan sesudah melahirkan; b. pengaturan kehamilan, pelayanan kontrasepsi dan  kesehatan seksual; danc. pelayanan kesehatan reproduksi.  
+2. Pelayanan kesehatan sebagaimana dimaksud pada ayat  (1) meliputi:a. pelayanan kesehatan masa sebelum hamil, saat  hamil, masa persalinan dan sesudah melahirkan;  
+b. pengaturan kehamilan, pelayanan kontrasepsi dan  kesehatan seksual; danc. pelayanan kesehatan reproduksi.  
 3. Pelayanan kesehatan sebagaimana dimaksud pada ayat  (1) dilaksanakan melalui pendekatan promotif, preventif,  kuratif dan rehabilitatif.  
 
 #### Pasal 15
@@ -218,9 +230,12 @@ Umum
 
 #### Pasal 17
 
-Walikota dalam melaksanakan kebijakan, program dan  kegiatan perlindungan perempuan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan antar perangkat daerah; b. kerjasama dengan kabupaten/kota dalam satu provinsi  dan kerjasama antar kabupaten/kota di provinsi lainnya  dalam pelaksanaan kebijakan program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan  peraturan perundang-undangan;  
+Walikota dalam melaksanakan kebijakan, program dan  kegiatan perlindungan perempuan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan antar perangkat daerah;  
+b. kerjasama dengan kabupaten/kota dalam satu provinsi  dan kerjasama antar kabupaten/kota di provinsi lainnya  dalam pelaksanaan kebijakan program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan  peraturan perundang-undangan;  
 c. penguatan kapasitas kelembagaan pengarusutamaan  gender untuk pelaksanaan kebijakan program dan  kegiatan perlindungan perempuan;  
-d. fasilitasi pelayanan perlindungan perempuan; e. penyediaan pelayanan perlindungan perempuan; f. pelaksanaan aksi afirmasi perlindungan perempuan; dan g. penyusunan sistem pendataan perlindungan perempuan.  
+d. fasilitasi pelayanan perlindungan perempuan;  
+e. penyediaan pelayanan perlindungan perempuan;  
+f. pelaksanaan aksi afirmasi perlindungan perempuan; dan g. penyusunan sistem pendataan perlindungan perempuan.  
 
 #### Pasal 18
 
@@ -343,7 +358,8 @@ Kewajiban dan Upaya Pemerintah Daerah
 
 #### Pasal 29
 
-1. Pemerintah Kota berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk: a. mengumpulkan data dan informasi tentang korban kekerasan serta peraturan perundang-undangan; b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan;  
+1. Pemerintah Kota berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk: a. mengumpulkan data dan informasi tentang korban kekerasan serta peraturan perundang-undangan;  
+b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan;  
 c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan akan korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan korban kekerasan;  dane. menyusun laporan terhadap penyelenggaraan perlindungan perempuan korban kekerasan.  
 2. Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan, Pemerintah Kota berkewajiban menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk korban dengan melibatkan unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban.  
@@ -372,7 +388,8 @@ Setiap korban kekerasan harus mendapat perlindungan sesuai dengan ketentuan yang
 
 1. Bentuk perlindungan kekerasan terhadap perempuan meliputi:a. perlindungan medis;  
 b. perlindungan hukum;  
-c. perlindungan medico legal (kedokteran forensik); d. perlindungan ekonomi; dane. perlindungan psikis.  
+c. perlindungan medico legal (kedokteran forensik);  
+d. perlindungan ekonomi; dane. perlindungan psikis.  
 2. Bentuk perlindungan medis sebagaimana dimaksud  pada ayat (1) huruf a berupa perawatan dan pemulihan  luka-luka fisik yang bertujuan untuk pemulihan kondisi  fisik korban yang dilakukan tenaga medis dan  paramedis.  
 3. Bentuk perlindungan hukum sebagaimana dimaksud  pada ayat (1) huruf b berupa pelayanan dan  pendampingan untuk membantu korban dalam  menjalani proses hukum dan peradilan.  
 4. Bentuk perlindungan medico legal sebagaimana  dimaksud pada ayat (1) huruf c berupa layanan medis  untuk kepentingan pembuktian dibidang hukum.  
@@ -384,7 +401,8 @@ c. perlindungan medico legal (kedokteran forensik); d. perlindungan ekonomi; dan
 Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 27, Pemerintah Daerah Kota dapat melakukan upaya:
 a. memberikan pelayanan dan penanganan secepat mungkin kepada saksi dan/atau korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan dan bebas biaya bagi saksi dan/atau korban;  
-c. menjaga kerahasiaan saksi dan/atau korban; d. menjamin keadilan dan kepastian hukum bagi saksi dan/atau korban;  
+c. menjaga kerahasiaan saksi dan/atau korban;  
+d. menjamin keadilan dan kepastian hukum bagi saksi dan/atau korban;  
 e. penyediaan ruang pelayanan khusus di Kantor Kepolisian;  
 f. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
 g. pembuatan dan pengembangan sistem dan mekanisme kerjasama program pelayanan yang melibatkan pihak yang mudah diakses oleh korban;  

@@ -13,10 +13,12 @@
 # BUPATI SUMEDANG.  
 
 Menimbang:  
+ 
 a. bahwa setiap orang berhak untuk bebas dari perlakuan yang bersifat diskriminatif serta memperoleh kesempatan dan manfaat yang sama dalam berbagai bidang pembangunan di Kabupaten Sumedang: anak merupakan salah satu implementasi kebijakan penyelenggaraan urusan pemerintahan konkuren yang menjadi kewenangan pemerintahan daerah, yang menjadi kesatuan dimensi integral mulai dari perencanaan, penganggaran, pelaksanaan, pemantauan, evaluasi, pengawasan dan pelaporan atas kebijakan, program, serta kegiatan pembangunan daerah;  
 c. bahwa untuk mewujudkan kepastian hukum dan memberikan jaminan perlindungan hukum serta sinergitas dan keterpaduan dalam pelaksanaan kebijakan, program, dan kegiatan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten Sumedang, perlu diatur dan ditetapkan dengan Peraturan Daerah:d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Pelindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Berita Negara Republik Indonesia Tahun 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan mengubah Undang- Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 2851);  
@@ -394,7 +396,8 @@ c. memberikan keterangan tanpa tekanan;
 d. mendapat penerjemah;  
 e. bebas dari pertanyaan yang menjerat;  
 f. mendapat informasi mengenai perkembangan kasus;  
-g. mendapat informasi mengenai putusan pengadilan; h. mendapat informasi dalam hal terpidana dibebaskan;  
+g. mendapat informasi mengenai putusan pengadilan;  
+h. mendapat informasi dalam hal terpidana dibebaskan;  
 i. dirahasiakan identitasnya;  
 j. mendapat identitas baru;  
 k. mendapat tempat kediaman sementara;  
@@ -791,7 +794,8 @@ f. perlakuan yang sama dengan Anak lain untuk mencapai integrasi sosial dan peng
 Pemerintah Daerah Kabupaten dalam melaksanakan penyelenggaraan Perlindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61, menyediakan:
 a. pekerja sosial dan tenaga kesejahteraan sosial;  
 b. tenaga kesehatan yang kompeten dan terlatih;  
-c. petugas …c. petugas pembimbing rohani/ibadah; d. pendidik dan tenaga kependidikan; dan/atau e. tenaga bantuan hukum.  
+c. petugas …c. petugas pembimbing rohani/ibadah;  
+d. pendidik dan tenaga kependidikan; dan/atau e. tenaga bantuan hukum.  
 
 ### Paragraf 2 Penyelenggaraan
 
@@ -831,7 +835,8 @@ c. memfasilitasi pemberian layanan kesehatan;
 d. memfasilitasi pemberian layanan penguatan psikologis;  
 e. memfasilitasi pemberian layanan psikososial, Rehabilitasi Sosial, pemberdayaan sosial, dan Reintegrasi Sosial;  
 f. penyediaan layanan hukum;  
-g. mengidentifikasi kebutuhan penampungan sementara; h. memfasilitasi kebutuhan Korban penyandang disabilitas; dani. bekerja sama atas pemenuhan hak AMPK dengan lembaga lainnya.  
+g. mengidentifikasi kebutuhan penampungan sementara;  
+h. memfasilitasi kebutuhan Korban penyandang disabilitas; dani. bekerja sama atas pemenuhan hak AMPK dengan lembaga lainnya.  
 
 #### Pasal 75
 

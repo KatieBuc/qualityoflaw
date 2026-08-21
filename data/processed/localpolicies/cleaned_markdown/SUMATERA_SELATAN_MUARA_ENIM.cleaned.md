@@ -97,7 +97,8 @@ a. kepentingan terbaik bagi perempuan dan Anak;
 b. keadilan gender dan kesetaraan gender;  
 c. kearifan lokal;  
 d. penegakan dan kepastian hukum.  e. non diskriminasi;  
-f. hak untuk hidup, kelangsungan hidup, dan perkembangan; g. penghargaan terhadap pendapat Anak; danh. penegakan dan kepastian hukum.  
+f. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
+g. penghargaan terhadap pendapat Anak; danh. penegakan dan kepastian hukum.  
 
 #### Pasal 3
 
@@ -130,7 +131,9 @@ Umum
 
 ( 1) Dalam rangka meningkatkan kualitas hid up perempuan, pemerintah daerah bertanggung jawab:
 a. menghormati dan menjamin hak perempuan tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan;  
-b. melaksanakan Pengarusutamaan Gender di Kabupaten; c. membentuk pokja Pengarusutamaan Gender di Daerah; d. meningkatkan Pemberdayaan Perempuan dalam peran, kualitas dan kemampuan dibidang (9)
+b. melaksanakan Pengarusutamaan Gender di Kabupaten;  
+c. membentuk pokja Pengarusutamaan Gender di Daerah;  
+d. meningkatkan Pemberdayaan Perempuan dalam peran, kualitas dan kemampuan dibidang (9)
 1. politik;  
 2. hukum;  
 3. sosial;  
@@ -364,7 +367,9 @@ Pendampingan Korban, Penegakan dan Bantuan Hukum
 
 1. Pelayanan pendampingan korban, penegakan dan bantuan hukum ditujukan untuk memberikan pendampingan dan perlindungan terhadap perempuan korban tindak kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hukum.  
 2. Jenis pelayanan bantuan hukum meliputi:a. bantuan hukum dalam proses pelaporan dan pembuatan berita acara pemeriksaan;  
-b. bantuan hukum dalam proses penuntutan di kejaksaan; c. bantuan hukum dalam proses pemeriksaan di pengadilan; d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
+b. bantuan hukum dalam proses penuntutan di kejaksaan;  
+c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
+d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
 3. Pemerintah Daerah memberikan bantuan hukum kepada perempuan korban tindak kekerasan berdasarkan ketentuan peraturan perundang-undangan.  
 4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Daerah dapat bekerjasama dengan lembaga bantuan hukum, women crisis center, advokat dan/ a tau pendamping hukum lainnya yang sensitif gender.  
 19.  
@@ -696,7 +701,8 @@ h. anak korban penculikan, penjualan, dan/atau  perdagangan;
 J. anak korban kejahatan seksual;  
 k. anak korban jaringan terorisme;  
 1. anak penyandang disabilitas;  
-m. anak korban perlakuan salah dan penelantaran; n. anak dengan perilaku sosial menyimpang; dan o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
+m. anak korban perlakuan salah dan penelantaran;  
+n. anak dengan perilaku sosial menyimpang; dan o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
 2. Pemerintah Kabupaten dalam melaksanakan penanganan terhadap perlindungan khusus anak sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
 #### Pasal 61

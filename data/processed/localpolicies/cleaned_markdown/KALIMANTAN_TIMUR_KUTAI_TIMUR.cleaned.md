@@ -281,7 +281,8 @@ e. Reintegrasi Sosial, danf. Bantuan Hukum.
 
 1. SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan bertujuan menjamin Perempuan Korban kekerasan mendapatkan layanan minimal yang dibutuhkan.  
 2. SPM bidang layanan terpadu bagi Perempuan Korban kekerasan, meliputi layanan:a. penanganan pengaduanjlaporan Korban Kekerasan Terhadap Perempuan;  
-b. pelayanan kesehatan bagi perempuan Korban kekerasan; c. rehabilitasi sosial bagi perempuan Korban kekerasan;  
+b. pelayanan kesehatan bagi perempuan Korban kekerasan;  
+c. rehabilitasi sosial bagi perempuan Korban kekerasan;  
 d. penegakan dan Bantuan Hukum bagi perempuan Korban kekerasan;  
 e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; danf. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
 

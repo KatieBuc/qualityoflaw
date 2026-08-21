@@ -25,10 +25,12 @@ PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN BANTUL NOMOR 15  TAHUN 2013 TENTANG PE
 # BUPATI BANTUL,
 
 Menimbang:  
+ 
 a. bahwa berdasarkan klarifikasi dari Gubernur Daerah  Istimewa Yogyakarta, beberapa ketentuan dalam Peraturan  Daerah Kabupaten Bantul Nomor 15 Tahun 2013 tentang  Perlindungan Anak dan Perempuan Korban Kekerasan perlu  disempurnakan dengan perubahan Peraturan Daerah;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perubahan Atas Peraturan Daerah Kabupaten Bantul Nomor  15 Tahun 2013 tentang Perlindungan Anak dan Perempuan  Korban Kekerasan;  
 
 2 2015 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 15 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan  Daerah Istimewa Jogjakarta (Berita Negara Republik  Indonesia Tahun 1950 Nomor 44);  
@@ -130,7 +132,8 @@ Beberapa ketentuan dalam Peraturan Daerah Kabupaten Bantul Nomor 15  Tahun 2013 
 #### Pasal 2
 
 Asas penyelenggaraan perlindungan anak dan perempuan dari tindak  kekerasan adalah:
-a. penghormatan dan pemenuhan terhadap hak-hak korban; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan yang terbaik bagi korban; dane. pemberdayaan.  
 3. Ketentuan Pasal 3 diubah, sehingga berbunyi sebagai berikut:
@@ -208,7 +211,8 @@ b. keluarga; danc. lembaga pendidikan.
 #### Pasal 40
 
 1. Dalam upaya menyediakan dan menyelenggarakan penanganan  pelayanan dan perlindungan bagi korban, Pemerintah Daerah dan  Pemerintah Desa membentuk FPKK.  
-2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk: a. melakukan upaya pencegahan terjadinya kasus kekerasan; b. mengkoordinasikan dan mensinkronisasikan penanganan pelayanan  PPT;  
+2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk: a. melakukan upaya pencegahan terjadinya kasus kekerasan;  
+b. mengkoordinasikan dan mensinkronisasikan penanganan pelayanan  PPT;  
 c. memelihara dan mengembangkan jejaring serta sistem rujukan; dan d. mengumpulkan, menyusun dan menyajikan laporan kasus  kekerasan.  
 3. Kepengurusan dan keanggotaan FPKK Kabupaten ditetapkan dengan  Keputusan Bupati dan FPKK Desa ditetapkan dengan Keputusan  Lurah Desa.  
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3)  dikelompokkan dalam peran sebagai berikut:a. peran kesehatan;  

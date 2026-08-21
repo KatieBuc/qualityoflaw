@@ -13,6 +13,7 @@
 # BUPATI SAMPANG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan  prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwa pemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk  berperan serta dalam pembangunan sesuai dengan  kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapatkan perlindungan khusus agar tidak mengalami  kekerasan dan dapat menjalani hidup layak sesuai prinsip  kemanusiaan kesetaraan dan keadilan;  
@@ -109,20 +110,24 @@ g. Kepastian hukum
 
 #### Pasal 3
 
-Sistem Pemberdayaan perempuan dan perlindungan anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak, dan kualitas keluarga; b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistim data gender  dan anak;dan
+Sistem Pemberdayaan perempuan dan perlindungan anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak, dan kualitas keluarga;  
+b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistim data gender  dan anak;dan
 c. memberikan perlindungan hak perempuan dan pemenuhan hak anak  termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3  huruf a dilakukan melalui upaya:
 a. memberikan akses kepada perempuan dan anak terhadap layanan  pendidikan, kesehatan dan bidang strategis lainnya;  
-b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan; c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
+b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
+c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:
-a. pembentukan, pengembangan, dan penguatan kapasitas lembaga  perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak, serta layanan bantuan hukum; b. peningkatan kualitas sumber daya manusia pengelola;  
-c. penguatan kapasitas kelembagaan Pengarusutamaan Gender (PUG) dan anak; d. penguatan dan pengembangan sistem data gender dan anak.  
+a. pembentukan, pengembangan, dan penguatan kapasitas lembaga  perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak, serta layanan bantuan hukum;  
+b. peningkatan kualitas sumber daya manusia pengelola;  
+c. penguatan kapasitas kelembagaan Pengarusutamaan Gender (PUG) dan anak;  
+d. penguatan dan pengembangan sistem data gender dan anak.  
 
 #### Pasal 6
 
@@ -140,7 +145,8 @@ c. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  penc
 
 Upaya preventif sebagaimana dimaksud dalam Pasal 6adalah sebagai berikut: a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya bagi  perempuan dan anak;  
 b. mengadakan gerakan masif dan berkelanjutan yang melibatkan masyarakat  dalam aksi pencegahan dan penanganan kekerasan;  
-c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga; d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan  perempuan dan perlindungan anak.  
+c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  
+d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan  perempuan dan perlindungan anak.  
 
 #### Pasal 9
 

@@ -13,12 +13,14 @@
 # BUPATI PURWOREJO,
 
 Menimbang:  
+ 
 a. bahwa tujuan negara adalah melindungi seluruh  tumpah darah Bangsa Indonesia dengan memberikan  jaminan atas rasa aman, kesetaraan, dan kesejahteraan;  
 b. bahwa perempuan dan anak masih dalam posisi rentan  dari berbagai bentuk tindakan kekerasan, eksploitasi,  diskriminasi, perlakuan salah dan penelantaran sehingga  perlu ada upaya strategis dari Pemerintah Daerah bersama  pihak-pihak terkait untuk memberikan perlindungan yang  sistematis dan komprehensif;  
 c. bahwa untuk memberikan landasan hukum dan pedoman  dalam penyelengaraan perlindungan perempuan dan anak di Daerah, perlu adanya pengaturan yang terintegrasi dan  komprehensif untuk mewujudkan Kabupaten Purworejo  ramah perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam  Lingkungan Propinsi Djawa Tengah (Berita Negara  Republik Indonesia Tahun 1950 Nomor 42);  
@@ -72,7 +74,8 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 Penyelenggaraan pelindungan perempuan dan anak  berasaskan:
 a. kemanusiaan;  
-b. penghormatan dan pemenuhan hak perempuan dan anak; c. non diskriminasi dan non eksploitasi;  
+b. penghormatan dan pemenuhan hak perempuan dan anak;  
+c. non diskriminasi dan non eksploitasi;  
 d. rukun;  
 e. pengayoman;  
 f. keadilan dan kesetaraan gender;  
@@ -105,7 +108,8 @@ g. Pusat Pelayanan Terpadu;
 h. peran Pemerintah Desa/Kelurahan;  
 i. kelembagaan;  
 j. kerjasama dan kemitraan;  
-k. Kabupaten Ramah Perempuan dan Layak Anak; dan l. sistem data dan informasi perempuan dan anak; m. penghargaan; dann. pendanaan.  
+k. Kabupaten Ramah Perempuan dan Layak Anak; dan l. sistem data dan informasi perempuan dan anak;  
+m. penghargaan; dann. pendanaan.  
 
 # BAB II
 
@@ -118,7 +122,8 @@ Hak Perempuan
 #### Pasal 6
 
 1. Pemerintah Daerah menghormati dan menjaga hak  perempuan secara utuh berdasarkan peraturan  perundang-undangan.  
-2. Setiap perempuan berhak:a. mendapatkan perlakuan yang sama dan setara; b. mendapatkan kesempatan yang sama dan adil dalam  berbagai bidang, baik pendidikan, pekerjaan, politik,  dan sosial;  
+2. Setiap perempuan berhak:a. mendapatkan perlakuan yang sama dan setara;  
+b. mendapatkan kesempatan yang sama dan adil dalam  berbagai bidang, baik pendidikan, pekerjaan, politik,  dan sosial;  
 c. memperoleh informasi secara utuh untuk pelindungan  dan bantuan hukum;  
 d. memperoleh pelindungan dan pembelaan dari segala  bentuk tindakan Diskriminatif;  
 e. memperoleh pelindungan dan pembelaan dari  tindakan Kekerasan;  
@@ -132,16 +137,20 @@ Hak Anak
 
 1. Pemerintah Daerah menjaga dan menjamin terpenuhinya  secara utuh hak anak berdasarkan ketentuan peraturan  perundang-undangan.  
 2. Setiap anak berhak:a. untuk hidup, tumbuh, berkembang, dan berpartisipasi  secara wajar sesuai dengan harkat dan martabat  kemanusiaan;  
-b. memperoleh identitas diri sejak kelahirannya; c. beribadah menurut agamanya, berpikir, dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua atau Wali; d. mengetahui orang tuanya, dibesarkan, dan diasuh  oleh orang tuanya sendiri serta mendapatkan jaminan  atas kelangsungan hidup yang baik dan curahan kasih  sayang;  
+b. memperoleh identitas diri sejak kelahirannya;  
+c. beribadah menurut agamanya, berpikir, dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua atau Wali;  
+d. mengetahui orang tuanya, dibesarkan, dan diasuh  oleh orang tuanya sendiri serta mendapatkan jaminan  atas kelangsungan hidup yang baik dan curahan kasih  sayang;  
 e. memperoleh Pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental, spiritual, dan  sosial;  
-f. mendapatkan pelindungan dan pembelaan dari  perlakuan Diskriminatif, Kekerasan, Eksploitasi,  penelantaran, kekejaman, penganiayaan, ketidakadilan, dan/atau perlakuan salah lainnya; g. memperoleh jaminan pelindungan dari pengaruh  destruktif;  
+f. mendapatkan pelindungan dan pembelaan dari  perlakuan Diskriminatif, Kekerasan, Eksploitasi,  penelantaran, kekejaman, penganiayaan, ketidakadilan, dan/atau perlakuan salah lainnya;  
+g. memperoleh jaminan pelindungan dari pengaruh  destruktif;  
 h. memperoleh pelindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  kerusuhan sosial, peristiwa yang mengandung unsur  Kekerasan dan peperangan;  
 i. memperoleh pelindungan dari sasaran penganiayaan,  penyiksaan, atau penjatuhan hukuman yang tidak  manusiawi dan kebebasan sesuai dengan hukum;  
 j. mendapatkan bantuan hukum dan bantuan lainnya k. memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai minat dan bakat;  
 l. mendapatkan pelindungan di satuan pendidikan dari  kejahatan seksual dan Kekerasan yang dilakukan oleh  pendidik, tenaga kependidikan, sesama peserta didik,  dan/atau pihak lain;  
 
 m.memperoleh pendidikan luar biasa dan anak yang  memiliki keunggulan berhak mendapatkan pendidikan  khusus bagi anak penyandang disabilitas;  
-n. mendapatkan lingkungan dan asupan makanan yang  baik untuk tumbuh kembang sesuai dengan umurnya; o. untuk berfikir, berekspresi, menyatakan dan didengar  pendapatnya, menerima, mencari, dan memberikan  informasi sesuai tingkat kecerdasan dan usianya demi  pengembangan dirinya sesuai dengan nilai-nilai  kesusilaan dan kepatutan; danp. memperoleh waktu untuk beristirahat, dan  memanfaatkan waktu luang, bergaul dengan anak  yang sebaya, bermain, berekreasi, dan berkreasi  sesuai dengan minat, bakat, dan tingkat  kecerdasannya demi pengembangan diri.  
+n. mendapatkan lingkungan dan asupan makanan yang  baik untuk tumbuh kembang sesuai dengan umurnya;  
+o. untuk berfikir, berekspresi, menyatakan dan didengar  pendapatnya, menerima, mencari, dan memberikan  informasi sesuai tingkat kecerdasan dan usianya demi  pengembangan dirinya sesuai dengan nilai-nilai  kesusilaan dan kepatutan; danp. memperoleh waktu untuk beristirahat, dan  memanfaatkan waktu luang, bergaul dengan anak  yang sebaya, bermain, berekreasi, dan berkreasi  sesuai dengan minat, bakat, dan tingkat  kecerdasannya demi pengembangan diri.  
 
 # BAB III
 
@@ -156,7 +165,9 @@ Hak Perempuan Korban
 1. Pemerintah Daerah bertanggungjawab dalam pemenuhan  hak Perempuan Korban Diskriminasi, Kekerasan,  dan/atau Eksploitasi.  
 2. Hak Perempuan Korban sebagaimana dimaksud pada ayat  (1) meliputi:a. memperoleh informasi yang terkait pelindungan  perempuan, prosedur Pelayanan korban dan  perkembangan penanganan kasus;  
 b. melapor dan ditindaklanjuti laporannya, memberikan  keterangan, dan pandangan tanpa tekanan;  
-c. berpartisipasi dalam penanganan kasus dan dalam  upaya penghapusan Kekerasan terhadap perempuan; d. memperoleh pelindungan atas kerahasiaan; e. memperoleh pelindungan atas keamanan pribadi,  keluarga, dan harta bendanya dari ancaman;  
+c. berpartisipasi dalam penanganan kasus dan dalam  upaya penghapusan Kekerasan terhadap perempuan;  
+d. memperoleh pelindungan atas kerahasiaan;  
+e. memperoleh pelindungan atas keamanan pribadi,  keluarga, dan harta bendanya dari ancaman;  
 f. terbebas dari segala bentuk stereotip, stigma dan  diskriminasi lainnya;  
 g. memperoleh Pelayanan dan pemulihan yang dibutuhkan;  
 h. memperoleh restitusi; dani. membentuk dan bergabung dalam organisasi;  
@@ -169,11 +180,14 @@ Hak Anak Korban
 #### Pasal 9
 
 1. Pemerintah Daerah bertanggungjawab dalam pemenuhan  hak Anak Korban Diskriminasi, Kekerasan, Eksploitasi,  perlakuan salah, dan/atau penelantaran.  
-2. Hak Anak korban sebagaimana dimaksud pada ayat (1) meliputi:a. mendapat pelindungan hukum dan Bantuan Hukum; b. mendapatkan Pendampingan konseling;  
+2. Hak Anak korban sebagaimana dimaksud pada ayat (1) meliputi:a. mendapat pelindungan hukum dan Bantuan Hukum;  
+b. mendapatkan Pendampingan konseling;  
 c. mendapatkan jaminan pendidikan;  
 d. mendapatkan jaminan pelindungan pribadi dan  keluarga;  
 e. bebas dari berbagai macam stigma;  
-f. jaminan tempat tinggal dan kebutuhan hidup untuk  kelangsungan hidup, tumbuh dan berkembang; g. pelindungan atas harta atau kekayaan pribadi; h. jaminan kerahasiaan;  
+f. jaminan tempat tinggal dan kebutuhan hidup untuk  kelangsungan hidup, tumbuh dan berkembang;  
+g. pelindungan atas harta atau kekayaan pribadi;  
+h. jaminan kerahasiaan;  
 i. mendapatkan rehabilitasi; dan/atauj. mendapatkan restitusi.  
 
 # BAB IV
@@ -196,7 +210,8 @@ Tugas dan Tanggungjawab Pemerintah Daerah
 b. melaksanakan kebijakan dengan berorientasi pada  korban;  
 c. melakukan pengumpulan data dan verifikasi data  berkaitan informasi perempuan dan anak;  
 d. melakukan berbagai bentuk kerjasama untuk  meningkatkan upaya pelindungan perempuan dan  anak;  
-e. menyiapkan sarana dan prasarana pendukung; f. melakukan pembinaan dan pemberdayaan terhadap  perempuan;  
+e. menyiapkan sarana dan prasarana pendukung;  
+f. melakukan pembinaan dan pemberdayaan terhadap  perempuan;  
 g. menyediakan rumah aman bagi anak yang  mendukung perkembangan dan tumbuh kembang  serta asupan makanan dan perhatian; danh. mengalokasikan anggaran sesuai kebutuhan dan  kemampuan keuangan daerah;  
 i. melibatkan secara aktif Pemerintah Desa, masyarakat  dan Dunia Usaha dalam melakukan upaya  pelindungan terhadap perempuan dan anak; danj. mewujudkan Kabupaten Purworejo sebagai Kabupaten  Ramah Perempuan dan Layak Anak.  
 2. Tugas dan tanggungjawab sebagaimana dimaksud pada  ayat (1) dilakukan oleh Perangkat Daerah Teknis dan  dapat melibatkan Perangkat Daerah terkait lainnya.  
@@ -340,7 +355,8 @@ Penyediaan Sarana dan Prasarana Pendukung Perlindungan Terhadap Perempuan
 
 1. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud dalam Pasal 18 huruf c bertujuan  untuk memaksimalkan rasa aman, nyaman dan tenang  terhadap Perempuan Korban tindakan ancaman,  Diskriminasi, Kekerasan, dan/atau Eksploitasi.  
 2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1) meliputi:a. penyediaan rumah aman sementara;  
-b. penyediaan kebutuhan hidup sehari-hari selama proses  Pendampingan penanganan di rumah aman sementara; c. penyediaan Pendamping di bidang kesehatan dan  konseling jika dibutuhkan;  
+b. penyediaan kebutuhan hidup sehari-hari selama proses  Pendampingan penanganan di rumah aman sementara;  
+c. penyediaan Pendamping di bidang kesehatan dan  konseling jika dibutuhkan;  
 d. melakukan pemberdayaan untuk peningkatan  kapasitas perempuan di masa yang akan datang; dan e. penyediaan tenaga pendamping di bidang mental  spiritual.  
 3. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (2) dilakukan oleh  Perangkat Daerah Teknis dan dapat melibatkan Perangkat  Daerah terkait.  
 
@@ -435,7 +451,8 @@ b. peningkatan kesadaran atas dampak dan akibat  hukum melalui integrasi program
 c. internalisasi nilai anti Kekerasan, anti Eksploitasi, anti  perlakuan salah, dan anti penelantaran melalui  pendidikan formal dan pendidikan non formal;  
 d. mendorong pembentukan forum anak sebagai wadah  pembelajaran bersama, sistem pendukung, dan  kaderisasi;  
 e. pembinaan dan pendidikan bagi orang tua, wali,  maupun orang tua asuh mengenai pola pengasuhan  sesuai tumbuh kembang, penghargaan, dan curahan  kasih sayang;  
-f. menciptakan transportasi yang aman dan layak anak; g. membangun dan menyediakan sistem informasi dan  media berbasis digital yang mudah untuk  diaksesuntuk informasi, permohonan perlindungan, dan laporan; danh. pembinaan terhadap kapasitas keluarga, keluarga  pengganti, atau lembaga pengasuhan dalam  kemampuan mengasuh yang berorientasi pada  perkembangantumbuh kembang dan penghargaan anak.  
+f. menciptakan transportasi yang aman dan layak anak;  
+g. membangun dan menyediakan sistem informasi dan  media berbasis digital yang mudah untuk  diaksesuntuk informasi, permohonan perlindungan, dan laporan; danh. pembinaan terhadap kapasitas keluarga, keluarga  pengganti, atau lembaga pengasuhan dalam  kemampuan mengasuh yang berorientasi pada  perkembangantumbuh kembang dan penghargaan anak.  
 3. Dalam melaksanakan upaya Pencegahan sebagaimana  dimaksud pada ayat (2), Pemerintah Daerah dapat  melibatkan dan/atau bekerjasama dengan media,  masyarakat, Dunia Usaha dan/atau lembaga pendidikan.  
 
 ## Bagian Kedua
@@ -604,7 +621,8 @@ Bentuk dan Cakupan Pelayanan
 
 #### Pasal 41
 
-1. Bentuk dan cakupan Pusat Pelayanan Terpadu untuk  mewujudkan pelindungan perempuan dan anak meliputi: a. Pelayanan aduan atau laporan dan perindungan; b. Pelayanan kesehatan dan rehabilitasi;  
+1. Bentuk dan cakupan Pusat Pelayanan Terpadu untuk  mewujudkan pelindungan perempuan dan anak meliputi: a. Pelayanan aduan atau laporan dan perindungan;  
+b. Pelayanan kesehatan dan rehabilitasi;  
 c. Pelayanan hukum;  
 d. Pelayanan pendidikan dan pemberdayaan;  
 e. Pelayanan kemandirian ekonomi; danf. Pelayanan kerohanian.  
@@ -624,7 +642,8 @@ e. Pelayanan kemandirian ekonomi; danf. Pelayanan kerohanian.
 
 1. Bentuk pelindungan perempuan dan anak sebagaimana dimaksud dalam Pasal 42 meliputi:a. menerima aduan atau laporan warga;  
 b. memberikan pelindungan terhadap pelapor,  korban, dan/atau saksi;  
-c. melakukan pengamanan sosial terhadap pelaku; d. menyelenggarakan mediasi untuk menyelesaikan  perselisihan;  
+c. melakukan pengamanan sosial terhadap pelaku;  
+d. menyelenggarakan mediasi untuk menyelesaikan  perselisihan;  
 e. memberikan sanksi kepada aparatur desa yang  melakukan tindakan Diskriminasi, Kekerasan,  dan/atau Eksploitasi terhadap perempuan; danf. memberikan sanksi kepada aparatur desa yang  melakukan tindakan Kekerasan, Eksploitasi, Perlakuan  Salah Terhadap Anak, dan/atau penelantara.  
 2. Pemerintah Daerah memberikan pembinaan terhadap  Pemerintah Desa/Kelurahan dalam meningkatkan  kapasitas untuk menyelenggarakan pelindungan  perempuan dan anak.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) berupa: a. Pendampingan;  
@@ -641,7 +660,8 @@ b. pendidikan dan pelatihan; danc. monitoring berkala.
 b. sosial, pengendalian penduduk dan keluarga  berencana;  
 c. kesehatan;  
 d. komunikasi dan informatika;  
-e. perindustrian, tenaga kerja, dan transmigrasi; f. hukum;  
+e. perindustrian, tenaga kerja, dan transmigrasi;  
+f. hukum;  
 g. mental dan spiritual;  
 h. administrasi kependudukan dan pencatatan sipil;  dan/ataui. ketenteraman, ketertiban umum dan pelindungan  masyaraka.  
 3. Pemerintah Daerah membentuk UPTD PPA untuk  memberikan Pelayanan maksimal dan melakukan  koordinasi antar Perangkat Daerah dalam  menyelenggarkan pelindungan perempuan dan anak.  
@@ -657,7 +677,9 @@ e. mengumpulkan, menyusun, dan menyajikan laporan  data Perempuan Korban dan Ana
 f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan perlindungan perempuan dan anak.  
 3. UPTD PPA dapat melakukan pembinaan dan  Pendampingan terhadap:a. forum perempuan Purworejo;  
 b. forum anak Purworejo;  
-c. satuan tugas perlindungan perempuan dan anak; d. gugus tugas perlindungan perempuan dan anak; e. lembaga swadaya masyarakat;dan/atauf. organisasi yang berkaitan dengan perempuan dan anak  lainnya.  
+c. satuan tugas perlindungan perempuan dan anak;  
+d. gugus tugas perlindungan perempuan dan anak;  
+e. lembaga swadaya masyarakat;dan/atauf. organisasi yang berkaitan dengan perempuan dan anak  lainnya.  
 4. Pembinaan dan Pendampingan sebagaimana dimaksud  pada ayat (3) bertujuan untuk mendorong peran serta  masyarakat dalam penyelenggaraan pelindungan  perempuan dan anak.  
 
 #### Pasal 46
@@ -857,7 +879,8 @@ Huruf f Cukup jelas.
 
 Huruf g Yangdimaksud pengaruh destruktif diantaranya  meliputi:
 a. pengaruh dari pornografi;  
-b. pengaruh dari narkoba dan obat-obatan terlarang; c. pengaruh dari tontonan kekerasan dan perilaku  menyimpang; dand. pengaruh dari lingkungan yang buruk.  
+b. pengaruh dari narkoba dan obat-obatan terlarang;  
+c. pengaruh dari tontonan kekerasan dan perilaku  menyimpang; dand. pengaruh dari lingkungan yang buruk.  
 
 Huruf h Cukup jelas.  
 

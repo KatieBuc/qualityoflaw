@@ -13,6 +13,7 @@
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 Menimbang:  
+ 
 Mengingat:
 
 # BUPATI LUWU,
@@ -114,7 +115,8 @@ e. menurunnya kesenjangan kesempatan antara perempuan dan laki-laki dalam pencap
 
 Penyelenggaraan perlindungan perempuan dari tindak kekerasan meliputi:
 a. pencegahan;  
-b. penanganan; c. pemberdayaan.  
+b. penanganan;  
+c. pemberdayaan.  
 5-
 
 #### Pasal 5
@@ -138,7 +140,9 @@ g. Hak atas kesejahteraan; danh. Hak turut serta dalam pemerintahan.
 
 #### Pasal 7
 
-1. Setiap Perempuan berhak untuk:a. hidup tentram, aman, damai, bahagia, sejahtera lahir dan batin,b. hidup berkeluarga dalam ikatan perkawinan yang sah; c. mempertahankan hidup dan meningkatkan taraf hidupnya; d. memiliki pekerjaan yang disukainya dan berhak pula atas syarat-syarat ketenagakerjaan yang adil;  
+1. Setiap Perempuan berhak untuk:a. hidup tentram, aman, damai, bahagia, sejahtera lahir dan batin,b. hidup berkeluarga dalam ikatan perkawinan yang sah;  
+c. mempertahankan hidup dan meningkatkan taraf hidupnya;  
+d. memiliki pekerjaan yang disukainya dan berhak pula atas syarat-syarat ketenagakerjaan yang adil;  
 e. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan jalur pendidikan sesuai dengan persyaratan yang ditentukan;  
 
 lingkungan yang sehat dan bersih;  
@@ -167,7 +171,8 @@ Yang menjadi sasaran pencegahan sebagaimana yang dimaksud Pasal 4 huruf a adalah
 
 #### Pasal 9
 
-1. Pencegahan sebagaimana yang dimaksud Pasal 4 huruf a, meliputi: a. mengumpulkan data dan informasi tentang perempuan korban kekerasan serta peraturan perundang-undangan; b. melakukan pendidikan tentang nilai-nilai terhadap perempuan;  
+1. Pencegahan sebagaimana yang dimaksud Pasal 4 huruf a, meliputi: a. mengumpulkan data dan informasi tentang perempuan korban kekerasan serta peraturan perundang-undangan;  
+b. melakukan pendidikan tentang nilai-nilai terhadap perempuan;  
 
 anti kekerasan
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan korban kekerasan;  

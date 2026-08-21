@@ -15,12 +15,14 @@
 # BUPATI PROBOLINGGO,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang-Undang Dasar Negera Republik Indonesia Tahun 1945, karenanya perempuan dan anak wajib dilindungi dari segala bentuk kekerasan dan diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah  cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Berita Negara Tahun 1950 Nomor 41) sebagaimana telah diubah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 2730);  
@@ -84,13 +86,15 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak anak dan perempuan; b. keadilan dan kesetaraan gender;  
+Penyelenggaraan perlindungan perempuan dan anak berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak anak dan perempuan;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi perempuan dan anak korban kekerasan; dan e. kepastian hukum.  
 
 #### Pasal 3
 
-Penyelenggaraan perlindungan perempuan dan anak bertujuan untuk: a. menjamin terpenuhinya hak-hak perempuan dan anak agar dapat berpartisipasi  secara optimal dalam masyarakat sesuai harkat dan martabat kemanusiaan; b. memberikan perlindungan dan memberikan rasa aman kepada perempuan dan  anak dari segala bentuk kekerasan dan diskriminasi;  
+Penyelenggaraan perlindungan perempuan dan anak bertujuan untuk: a. menjamin terpenuhinya hak-hak perempuan dan anak agar dapat berpartisipasi  secara optimal dalam masyarakat sesuai harkat dan martabat kemanusiaan;  
+b. memberikan perlindungan dan memberikan rasa aman kepada perempuan dan  anak dari segala bentuk kekerasan dan diskriminasi;  
 c. mencegah dan menghapus segala bentuk kekerasan dan ekspolitasi terhadap  perempuan dan anak termasuk perdagangan orang;  
 d. memberikan pelayanan kepada perempuan dan anak korban kekerasan, pelapor,  dan saksi; dane. memberdayakan perempuan dan anak korban kekerasan.  
 
@@ -181,7 +185,8 @@ c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  d
 #### Pasal 14
 
 Penelantaran sebagaimana dimaksud dalam Pasal 10 huruf d disebabkan karena:  a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
-b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya; c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal  menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian  ia wajib memberikan penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/atau
+b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
+c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal  menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian  ia wajib memberikan penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/atau
 d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar  rumah sehingga korban berada di bawah kendali orang tersebut.  
 
 #### Pasal 15
@@ -244,9 +249,11 @@ b. pelayanan; danc. pemberdayaan.
 
 1. Pemerintah Daerah melakukan pencegahan sebagaiamana dimaksud dalam  Pasal 21 huruf a dengan cara:a. menyosialisasikan peraturan perundang-undangan yang berkaitan dengan  penyelenggaraan perlindungan perempuan dan anak;  
 b. memberikan konseling/bimbingan;  
-c. memberikan pendidikan tentang bahaya kekerasan dalam rumah tangga; d. membentuk jaringan kerjasama dalam upaya pencegahan kekerasan;  
+c. memberikan pendidikan tentang bahaya kekerasan dalam rumah tangga;  
+d. membentuk jaringan kerjasama dalam upaya pencegahan kekerasan;  
 e. melakukan koordinasi, integrasi, dan sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
-f. mengumpulkan data dan infromasi serta membentuk sistem pencegahan  kekerasan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan; g. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan perempuan dan anak;  
+f. mengumpulkan data dan infromasi serta membentuk sistem pencegahan  kekerasan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan;  
+g. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan perempuan dan anak;  
 h. meningkatkan kesadaran masyarakat dalam berperilaku yang sesuai dengan  norma-norma sosial.  
 2. Selain upaya pencegahan yang dilakukan oleh Pemerintah Daerah sebagaimana  dimaksud pada ayat (1), upaya pencegahan juga dilakukan keluarga dan/atau  masyarakat.  
 3. Pencegahan sebagaimana dimaksud pada ayat (1) diselenggarakan secara  terpadu oleh PPT
@@ -291,7 +298,8 @@ d. anak yang dieksploitasi secara ekonomi dan/atau seksual;
 e. anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika,  dan zat adiktif lainnya;  
 f. anak yang menjadi korban pornografi;  
 g. anak dengan HIV/AIDS;  
-h. anak korban penculikan, penjualan, dan/atau perdagangan; i. anak korban kekerasan fisik dan/atau psikis;  
+h. anak korban penculikan, penjualan, dan/atau perdagangan;  
+i. anak korban kekerasan fisik dan/atau psikis;  
 j. anak korban kejahatan seksual;  
 k. anak korban jaringan terorisme;  
 l. anak penyandang disabilitas;  
@@ -462,7 +470,8 @@ c. menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam  situasi 
 d. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta  melakukan kekerasan terhadap perempuan dan anak;  
 e. melakukan kekerasan atau ancaman kekerasan memaksa perempuan dan anak  melakukan persetubuhan dengannya atau dengan orang lain;  
 f. melakukan kekerasan atau ancaman kekerasan, memaksa, melakukan tipu  musihat, melakukan serangkaian kebohongan, atau membujuk perempuan dan  anak untuk melakukan atau membiarkan dilakukan perbuatan cabul;  
-g. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta  melakukan penculikan, penjualan dan/atau perdagangan perempuan dan anak; h. menghalang-halangi perempuan dan anak untuk menikmati budayanya sendiri  mengakui dan melaksanakan ajaran agamanya dan/atau menggunakan  bahasanya sendiri tanpa mengabaikan akses pembangunan masyarakat dan  budaya;  
+g. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta  melakukan penculikan, penjualan dan/atau perdagangan perempuan dan anak;  
+h. menghalang-halangi perempuan dan anak untuk menikmati budayanya sendiri  mengakui dan melaksanakan ajaran agamanya dan/atau menggunakan  bahasanya sendiri tanpa mengabaikan akses pembangunan masyarakat dan  budaya;  
 i. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta  melakukan eksploitasi secara ekonomi dan/atau sesksual terhadap perempuan  dan anak;  
 j. dengan sengaja menempatkan, membiarkan, melibatkan perempuan dan anak  dalam penyalahgunaan, serta produksi dan distribusi narkotika dan/atau  psikotropika dan/atauk. dengan sengajamenempatkan, membiarkan, melibatkan, menyuruh melibatkan  perempuan dan anak dalam penyalahgunaan, serta produksi dan distribusi  alkohol dan zat adiktif lainnya.  
 

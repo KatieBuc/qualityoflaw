@@ -17,12 +17,14 @@
 # BUPATI MALUKU TENGAH,
 
 Menimbang:  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak berhak  memperoleh perlindungan atas setiap tindakan kekerasan  yang dilakukan terhadapnya yang dapat menimbulkan  korban kekerasan fisik, psikis, seksual, maupun  penelantaran rumah tangga;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh Negara;  
 c. bahwa pemerintah termasuk Pemerintah Daerah, keluarga,  organisasi sosial dan atau organisasi kemasyarakatan  lainnya mempunyai tanggung jawab untuk mencegah  terjadinya tindak kekerasan dan melindungi perempuan  dan anak korban kekerasan sesuai ketentuan Perundang undangan yang berlaku;  
 d. bahwa Peraturan Daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan  memerlukan perubahan yang substansial terkait kelembagaan untuk disesuaikan dengan peraturan peraturan terbaru di tingkat Nasional, serta belum  mengatur secara komprehensif tentang upaya-upaya  penyelenggaran perlindungan yang menjamin pemenuhan  hak korban atas kebenaran, keadilan, pemulihan dan  jaminan ketidakberulangan kasus, sehingga diperlukan  Peraturan Daerah yang baru yang dapat menjamin  pelaksanaannya.  e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c dan huruf d, perlu  menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 60 Tahun 1958 tentang Penetapan  Undang-Undang Darurat Nomor 23 Tahun 1957 tentang Pembentukan Daerah-Daerah Swatantra Tingkat II dalam Wilayah Daerah Swatantra Tingkat I Maluku (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 111, Tambahan Lembaran Negara Republik Indonesia  Nomor 1645);  
@@ -101,7 +103,8 @@ a. penghormatan atas hak asasi manusia;
 b. non-diskriminasi;  
 c. kepentingan yang terbaik bagi perempuan dan/atau  anak;  
 d. hak untuk hidup, kelangsungan hidup dan  berkembang;  
-e. penghargaan terhadap pendapat perempuan dan anak; f. kesetaraan dan keadilan gender; dang. perlindungan korban;  
+e. penghargaan terhadap pendapat perempuan dan anak;  
+f. kesetaraan dan keadilan gender; dang. perlindungan korban;  
 2. Kepastian Hukum dan Kearifan lokal.  
 
 #### Pasal 3
@@ -214,7 +217,8 @@ Kedudukan P2TP2A di bawah Pemerintah Daerah dan  bertanggung jawab kepada Bupati
 P2TP2A berkewajiban untuk:
 a. memberikan layanan dan penanganan secepat mungkin  kepada korban;  
 b. memberikan kemudahan dan kenyamanan layanan bagi  korban;  
-c. memberikan layanan secara cuma-cuma bagi korban; d. menjaga keamanan dan kerahasiaan korban; dane. mengupayakan tercapainya keadilan dan kepastian hukum  bagi korban.  
+c. memberikan layanan secara cuma-cuma bagi korban;  
+d. menjaga keamanan dan kerahasiaan korban; dane. mengupayakan tercapainya keadilan dan kepastian hukum  bagi korban.  
 
 ## Bagian Kedua
 

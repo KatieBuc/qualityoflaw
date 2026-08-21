@@ -15,11 +15,13 @@
 # WALIKOTA BUKITTINGGI,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapatkan perlindungan dari kekerasan, diskriminasi dan pelanggaran perlu dilakukan upaya-upaya perlindungan;  
 b. bahwa agar upaya perlindungan terhadap perempuan  dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah serta peran serta masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indoensia Tahun 1945;  
 
 2. Undang-Undang Nomor 9 Tahun 1956 tentang  Pembentukan Daerah Otonomi Kota Besar Dalam Lingkungan Daerah Propinsi Sumatera Tengah (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 20);  
@@ -181,8 +183,10 @@ a. Melakukan sosialisasi, edukasi dan kampanye anti  kekerasan terhadap perempua
 2. Perlindungan anak dalam kandungan, bayi dan balita  meliputi:a. perlindungan anak dalam kandungan, termasuk  menjamin anak lahir dalam keadaan sehat, untuk  menekan angka kematian ibu dan menekan angka  kematian anak;  
 b. menjamin setiap anak dilahirkan dengan proses medis  sesuai SOP dari Kementerian Kesehatan;  
 c. menjamin setiap anak pasca dilahirkan,  diselenggarakan dengan proses tuntunan agama yang  dianut oleh orangtuanya;  
-d. penyediaan sarana imunisasi yang lengkap baik di  posyandu, puskesmas atau rumah sakit pemerintah; e. peningkatan kualitas dan kompetensi kader di  Posyandu, untuk menjamin tatacara yang benar dalam  rangka menjamin kesehatan ibu dan anak termasuk  proses imunisasi;  
-f. pemberian fasilitas yang layak bagi setiap posyandu  serta Bina Keluarga Balita (BKB) di setiap kelurahan; g. menjamin kualitas pengetahuan kader posyandu dan  kader bina keluarga balita sesuai dengan standar  pemerintah;  
+d. penyediaan sarana imunisasi yang lengkap baik di  posyandu, puskesmas atau rumah sakit pemerintah;  
+e. peningkatan kualitas dan kompetensi kader di  Posyandu, untuk menjamin tatacara yang benar dalam  rangka menjamin kesehatan ibu dan anak termasuk  proses imunisasi;  
+f. pemberian fasilitas yang layak bagi setiap posyandu  serta Bina Keluarga Balita (BKB) di setiap kelurahan;  
+g. menjamin kualitas pengetahuan kader posyandu dan  kader bina keluarga balita sesuai dengan standar  pemerintah;  
 h. pemberian edukasi kepada masyarakat tentang menjadi  orangtua hebat, untuk menjamin kesehatan anak, baik  di posyandu, bina keluarga balita bersama-sama  dengan mitra kerja pemerintah dan masyarakat;  
 i. penyediaan tempat bermain dan penitipan anak yang  dikelola oleh pemerintah daerah atau organisasi yang  berada di bawah naungan Pemerintah Daerah;  
 j. penyediaan Pojok ASI di perkantoran yang memiliki  tenaga perempuan; dank. pemberian perhatian dan kasih sayang dari keluarga. (3) Perlindungan bagi anak usia sekolah:a. melarang adanya tindakan bullying kepada anak di  sekolah;  

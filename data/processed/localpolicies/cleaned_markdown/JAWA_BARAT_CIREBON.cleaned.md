@@ -15,12 +15,14 @@ PERLINDUNGAN, PEMBERDAYAAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
 # BUPATI CIREBON,
 
 Menimbang:  
+ 
 a. bahwa anak merupakan amanah dan karunia Tuhan Yang Maha  Esa yang dalam dirinya melekat harkat dan martabat sebagai  manusia seutuhnya, serta merupakan generasi penerus cita-cita  perjuangan bangsa, sehingga perlu mendapat perlindungan dan  kesempatan seluas-luasnya untuk kelangsungan hidup, tumbuh  dan berkembang secara wajar;  
 b. bahwa sehubungan dengan masih banyaknya perempuan dan  anak yang perlu mendapat perlindungan dari berbagai bentuk  tindak kekerasan, perlakuan salah, eksploitasi, dan  penelantaran, maka dipandang perlu adanya upaya strategis  dari Pemerintah Daerah dan pihak-pihak lain yang berkewajiban  untuk memberikan perlindungan terhadap perempuan anak  dimaksud;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia, dan  kejahatan kemanusiaan, oleh karenanya dalam rangka  pemenuhan hak-hak konstitusional perempuan dan anak sebagaimana dimaksud pada huruf b, maka Pemerintah Daerah dapat menyelenggarakan fungsi koordinasi secara terpadu  terhadap pelaksanaan tugas, wewenang, dan tanggung jawabnya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b, dan huruf c, maka perlu menetapkan  Peraturan Daerah tentang Perlindungan, Pemberdayaan  Perempuan dan Anak.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Djawa Barat (Berita Negara Tanggal 8 Agustus 1950) sebagaimana  telah diubah dengan Undang-Undang Nomor 4 Tahun 1968  tentang Pembentukan Kabupaten Purwakarta dan Kabupaten  Subang dengan mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-daerah Kabupaten Dalam  Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik  Indonesia Tahun 1968 Nomor 3, Tambahan Lembaran Negara  Republik Indonesia Nomor 2851);  
@@ -103,7 +105,8 @@ k. Holistik.
 
 Tujuan perlindungan, pemberdayaan perempuan dan anak, untuk: a. Pemenuhan hak-hak anak;  
 b. Mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
-c. Menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan anak:d. Melindungi dan memberikan rasa aman bagi perempuan dan anak; e. Memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan;  
+c. Menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan anak:d. Melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+e. Memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan;  
 f. Melindungi anak dari perkawinan anak dan melakukan mediasi terhadap  sengketa rumahtangga untuk mewujudkan keutuhan rumah tangga yang  harmonis dan sejahtera.  
 
 # BAB III
@@ -118,7 +121,8 @@ f. Melindungi anak dari perkawinan anak dan melakukan mediasi terhadap  sengketa
 4. Gugus Tugas Kabupaten Layak Anak bertanggungjawab pada pemenuhan hak  anak yang berkaitan dengan:a. Hak sipil dan kebebasan;  
 b. Lingkungan keluarga dan pengasuhan alternatif;  
 c. Kesehatan dasar dan kesejahteraan;  
-d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya; e. Perlindungan khusus anak.  
+d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  
+e. Perlindungan khusus anak.  
 
 # BAB IV
 
@@ -171,7 +175,8 @@ f. Membina dan mengawasi penyelenggaraan perlindungan pemberdayaan  perempuan da
 #### Pasal 9
 
 1. Kewajiban dan tanggung jawab Swasta dan masyarakat sebagaimana  dimaksud dalam Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta  masyarakat dan bersama.  
-2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak; b. Memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. Turut serta dalam penanganan korban tindak kekerasan.  
+2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. Mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
+b. Memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. Turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 10

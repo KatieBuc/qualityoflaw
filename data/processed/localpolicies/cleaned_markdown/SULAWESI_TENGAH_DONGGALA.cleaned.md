@@ -21,6 +21,7 @@ a. bahwa perempuan dan anak merupakan ciptaan Tuhan Yang Maha Esa yang meniadi u
 b. bahwa perempuan Indonesia mempunyai peran penting dalam kegiatan kemasyarakatan, pembangunan dan kekeluargaan serta berkewajiban memelihara, melindungi dan membesarkan anak anak bangsa lndonesia untuk tumbuh dan berkembang sebagai gensrasi penerus bangsa:c. bahwa anak-anak Indonesia merupakan sumber daya manusia Indonesia yang kelak akan menjadi pelaku dalam semua bidang kehidupan bermasyarakat dan bemegara;  
 d. bahwa dalam kehidupan masyarakat seringkali perempuan dan anak di Kabupaten Donggala mendapatkan kekerasan atau perlakuan yang kurang menyenangkan sehingga dipandang penting untuk melindunginya;  
 e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c. dan huruf d dibentuk Peraturan Daerah Mengingat:  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
@@ -119,7 +120,8 @@ b. non diskriminasi:c. keadilan.
 #### Pasal 3
 
 Tujuan perlindungan perempuan dan anak untuk:
-a. memberikan dan meningkatkan rasa aman bagi perempuan dan anal(: b. membantu menc€gah tindak kekerasan terhadap perempuan dan anak; c. membantu mencegah kegiatan eksploitasi terhadap perempuan dan anal( d. memberikan pelayanan k€pada perempuan dan anak dalam menghadapi oermasalahan.  e. membantu meningkatkan kualitas hidup anak
+a. memberikan dan meningkatkan rasa aman bagi perempuan dan anal(: b. membantu menc€gah tindak kekerasan terhadap perempuan dan anak;  
+c. membantu mencegah kegiatan eksploitasi terhadap perempuan dan anal( d. memberikan pelayanan k€pada perempuan dan anak dalam menghadapi oermasalahan.  e. membantu meningkatkan kualitas hidup anak
 
 #### Pasal 4
 
@@ -140,8 +142,13 @@ Hak-Hak Anak
 #### Pasal 5
 
 Oalam penyelenggaraan perlindungan anak di daerah, anak befiak atas: a. untut Oipat hidup, tumbuh dan berkembang dan berpartisipasi secara wajar sesuai dengan harkat dan madabat kemanusiaan ssrta mendapat p€mbinaan dan perlindungan dari kekerasan, kelalaian dan diskriminasi;  
-b. atas suatu akta kelahiran yang sah diperoleh dan/atau diusahakan oleh orang tuanya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku; c. untuk beribadah menurut agamany€, berpikir dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan orang tua;  
-d. unluk mengetahui, dibesarkan dan diasuh oleh orang tuanya sendiri; e. dalam hal karena suatu sebab orang tua lidak dapat menlamin tumbuh kembang anak atau anak dalam keadaan terlantar maka anak berhak unfut diasuh atau diangkat sebagai anak asuh atau anak angkat oreh orang rain sesuai ketentuan peraturan perundang-undangan; f. unluk memperoleh pelayanan kesehatan dan jaminan sosial sesuai dengan kebutuhan fisik, mentalspritual dan sosial; g. memperoleh pendidikan dan pengajaran sesuai kemampuan, minat dan bakatnya: h. menyatakan pendapat dan didengar pendapatnya; a. beristirahat dan memanfaalkan waktu untuk mengembangKan dari dan Kemampuannya: j. mendapat pedindungan dari keluarga, masyarakat dan pemerintah Daerah terhadap perlakuan diskriminasi dan eksploitasi baik secara ekonomt maupun sosial, penelantaran, kekejaman, kekerasan, p€nganiayaan, ketidak aditan dan perlakuan salah lainnya;  
+b. atas suatu akta kelahiran yang sah diperoleh dan/atau diusahakan oleh orang tuanya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;  
+c. untuk beribadah menurut agamany€, berpikir dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan orang tua;  
+d. unluk mengetahui, dibesarkan dan diasuh oleh orang tuanya sendiri;  
+e. dalam hal karena suatu sebab orang tua lidak dapat menlamin tumbuh kembang anak atau anak dalam keadaan terlantar maka anak berhak unfut diasuh atau diangkat sebagai anak asuh atau anak angkat oreh orang rain sesuai ketentuan peraturan perundang-undangan;  
+f. unluk memperoleh pelayanan kesehatan dan jaminan sosial sesuai dengan kebutuhan fisik, mentalspritual dan sosial;  
+g. memperoleh pendidikan dan pengajaran sesuai kemampuan, minat dan bakatnya: h. menyatakan pendapat dan didengar pendapatnya;  
+a. beristirahat dan memanfaalkan waktu untuk mengembangKan dari dan Kemampuannya: j. mendapat pedindungan dari keluarga, masyarakat dan pemerintah Daerah terhadap perlakuan diskriminasi dan eksploitasi baik secara ekonomt maupun sosial, penelantaran, kekejaman, kekerasan, p€nganiayaan, ketidak aditan dan perlakuan salah lainnya;  
 k. untuk mendapatkan kembali pendidikan formal atau non formal bagi anak putus sekolah:l. mendapatkan ASI (AirSusu tbu) ekstusif sebagai prioritas;  
 
 m.untuk mendapatkan pembinaan

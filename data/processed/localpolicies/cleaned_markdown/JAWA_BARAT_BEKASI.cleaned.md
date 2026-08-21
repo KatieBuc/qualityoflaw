@@ -29,6 +29,7 @@ C. bahwa penyelenggaraan perlindungan perempuan Kabupaten Bekasi belum dapat dil
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 } Mengingat:  
+ 
 1.  
 
 2. 3.  

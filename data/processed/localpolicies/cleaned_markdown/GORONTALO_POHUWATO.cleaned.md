@@ -15,6 +15,7 @@
 # BUPATI POHUWATO,
 
 Menimbang:  
+ 
 a. bahwa untuk memulihkan harga diri dan Mengingat martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 

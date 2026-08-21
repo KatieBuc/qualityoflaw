@@ -11,12 +11,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 # WALIKOTA PROBOLINGGO,
 
 Menimbang:  
+ 
 a bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga penyelenggaraan  perlindungan perempuan dan anak harus dilakukan secara  terpadu dan berkesinambungan melalui pemenuhan dan  perlindungan hak-hak perempuan dan anak dalam kehidupan  pribadinya, keluarga, bermasyarakat, berbangsa dan  bernegara;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak di  Kota probolinggo belum dilaksanakan secara menyeluruh  sehingga pemenuhan dan perlindungan hak perempuan dan  anak belum dilaksanakan secara optimal;  
 c. bahwa dalam Undang-Undang tentang Pemerintahan Daerah menyatakan bahwa pemberdayaan perempuan dan  perlindungan anak merupakan salah satu urusan  pemerintahan wajib yang tidak berkaitan dengan pelayanan  dasar dan menjadi kewenangan Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 17 Tahun 1950 tentang Pembentukan  Daerah-Daerah Kota Kecil Dalam Lingkungan Propinsi Djawa  Timur, Djawa Tengah dan Djawa Barat (Berita Negara Republik  Indonesia, Tanggal 14 Agustus 1950) sebagaimana telah  diubah dengan Undang-undang Nomor 13 Tahun 1954 tentang  Pengubahan Undang-undang Nomor 16 dan Nomor 17 Tahun  1950 (Lembaran Negara Republik Indonesia Tahun 1954  Nomor 40, Tambahan Lembaran Negara Republik Indonesia  Nomor 551);  
@@ -103,14 +105,16 @@ Tanggungjawab masyarakat diselenggarakan dalam bentuk: (1) mencegah terjadinya t
 #### Pasal 4
 
 1. Pemerintah Daerah wajib memberikan perlindungan kepada perempuan agar  dapat mewujudkan kesejahteraan bagi perempuan.  
-2. Perlindungan perempuan sebagaimana dimaksud dilaksanakan melalui; a. pencegahan kekerasan terhadap perempuanb. penyediaan layanan bagi perempuan korban kekerasan; dan c. penguatan kelembagaan lembaga penyedia layanan perlindungan  perempuan.  
+2. Perlindungan perempuan sebagaimana dimaksud dilaksanakan melalui;  
+a. pencegahan kekerasan terhadap perempuanb. penyediaan layanan bagi perempuan korban kekerasan; dan c. penguatan kelembagaan lembaga penyedia layanan perlindungan  perempuan.  
 3. Pemerintah Daerah memfasilitasi terbentuknya lembaga-lembaga perlindungan  perempuan.  
 4. Walikota menetapkan kebijakan, program dan kegiatan perlindungan  perempuan untuk menghapus segala bentuk diskriminasi dan tindak  kekerasan terhadap perempuan termasuk perdagangan orang di Daerah.  
 
 #### Pasal 5
 
 Pemerintah daerah berkewajiban melaksanakan kebijakan, program dan kegiatan  perlindungan perempuan, yang dapat dilakukan dengan upaya:
-a. menyediakan dan memfasilitasi pelayanan perlindungan perempuan; b. menyusun sistem pendataan perlindungan perempuan;  
+a. menyediakan dan memfasilitasi pelayanan perlindungan perempuan;  
+b. menyusun sistem pendataan perlindungan perempuan;  
 c. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  perlindungan perempuan antar Perangkat Daerah; dand. melakukan kerjasama dengan dunia usaha, lembaga nonpemerintah, perusahaan  swasta, Yayasan, dan lembaga di dalam negeri lainnya serta lembaga  internasional, sesuai dengan ketentuan peraturan perundang-undangan.  
 
 ## Bagian Kedua

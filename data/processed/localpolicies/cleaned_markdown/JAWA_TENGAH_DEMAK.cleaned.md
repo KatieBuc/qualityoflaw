@@ -13,6 +13,7 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 # BUPATI DEMAK,
 
 Menimbang:  
+ 
 a. b.  
 c. d. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
@@ -23,6 +24,7 @@ bahwa berdasarkan Undang-undang Nomor 23 tahun  2002 tentang Perlindungan Anak d
 bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Perlindungan Terhadap  Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
 1 Pasal 18 ayat (6) Undang – Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2 Undang - Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Tengah;  
@@ -110,7 +112,8 @@ c. mendapatkan informasi mengenai perkembangan kasus dan putusan  pengadilan;
 d. mendapatkan pelayanan terpadu yang cepat, tepat, nyaman, dan sesuai  kebutuhan;  
 e. pemulihan dan reintegrasi sosial;  
 f. mendapatkan pendampingan hukum, psikologis, bimbingan rohani,  ekonomi, sosial dan penterjemah;  
-g. penanganan khusus berkaitan dengan kerahasiaan korban; h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai isteri/ibu, suami/bapak, anak dan anggota rumah tangga serta  anggota masyarakat; dani. mendapatkan informasi tentang peraturan perundang-undangan yang  melindungi korban.  
+g. penanganan khusus berkaitan dengan kerahasiaan korban;  
+h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai isteri/ibu, suami/bapak, anak dan anggota rumah tangga serta  anggota masyarakat; dani. mendapatkan informasi tentang peraturan perundang-undangan yang  melindungi korban.  
 2. Hak Korban sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB III
@@ -119,8 +122,10 @@ g. penanganan khusus berkaitan dengan kerahasiaan korban; h. mendapatkan jaminan
 
 #### Pasal 5
 
-1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis  gender dan anak Pemerintah Daerah berkewajiban:a. melaksanakan segala upaya mencegah terjadinya kekerasan; b. memberikan perlindungan bagi korban kekerasan;  
-c. menyediakan layanan pemulihan dan reintegrasi sosial bagi korban; d. mendorong dan meningkatkan partisipasi masyarakat;  
+1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis  gender dan anak Pemerintah Daerah berkewajiban:a. melaksanakan segala upaya mencegah terjadinya kekerasan;  
+b. memberikan perlindungan bagi korban kekerasan;  
+c. menyediakan layanan pemulihan dan reintegrasi sosial bagi korban;  
+d. mendorong dan meningkatkan partisipasi masyarakat;  
 e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan,  perlindungan dan pemulihan korban kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap korban yang melibatkan  masyarakat.  
 2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan  berbasis gender dan anak;  
 b. memfasilitasi terselenggaranya pelayanan terpadu;  
@@ -185,9 +190,11 @@ Upaya Pemulihan dan Reintegritas Sosial
 #### Pasal 11
 
 Upaya Pemulihan dan Reintegritas Sosial sebagaimana dimaksud dalam Pasal 8  huruf b, meliputi:
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. memberikan pelayanan medicolegal;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di rumah aman (shelter); e. memberikan pemulihan dan pendampingan psikososial;  
+d. memberikan perlindungan sementara di rumah aman (shelter);  
+e. memberikan pemulihan dan pendampingan psikososial;  
 f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan keluarga dan masyarakat, pemberdayaan ekonomi dan  pengembalian ke sekolah dan/atau lembaga pendidikan lainnya.  
 
 ## Bagian Keenam
@@ -221,7 +228,8 @@ Partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8 huruf e dilakukan  mel
 a. memberikan perlindungan bagi korban;  
 b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap korban dan atau masyarakat tentang  penanganan kasus kekerasan berbasis gender dan anak;  
-d. membantu proses pengajuan permohonan penetapan perlindungan; e. menyampaikan informasi kepada aparat yang berwenang terkait dengan kasus  kekerasan berbasis gender dan anak;  
+d. membantu proses pengajuan permohonan penetapan perlindungan;  
+e. menyampaikan informasi kepada aparat yang berwenang terkait dengan kasus  kekerasan berbasis gender dan anak;  
 f. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
 g. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; danh. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak;  
 

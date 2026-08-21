@@ -19,12 +19,14 @@ ATAS RAHMAT ALLAH YANG MAHA KUASA
 WALIKOTA SUBULUSSALAM,
 
 Menimbang:  
+ 
 a. bahwa perempuan memiliki peran strategis dalam pembangunan sehingga peningkatan kualitas hidup Mengingat perempuan perlu mendapatkan pengakuan sesuai kearifan lokal dan tuntunan Syariat Islam;  
 b. bahwa berdasarkan mandat Qanun Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan Pasal 4 dan 5 yang mengatur tentang ruang lingkup pemberdayaan dan perlindungan perempuan yang menjadi kewenangan Pemerintah Kabupaten Kota;  
 c. bahwa dalam kenyataannya, kualitas hidup perempuan masih rendah dan rentan mendapatkan ancaman kekerasan, penganiayaan, penyiksaan, kekerasan dalam rumah tangga, perdagangan perempuan, eksploitasi dan diskriminasi terhadap perempuan perlu segera dihentikan dengan memberikan perlindungan sesuai dengan harkat dan martabat kemanusiaan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, perlu membentuk Qanun Kota Subulussalam tentang Pemberdayaan Perempuan;  
 
-Mengingat: 
+Mengingat:  
+
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 3. Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4633);  
@@ -87,7 +89,9 @@ b. kepastian hukum;
 c. kepentingan umum;  
 d. tertib penyelenggaraan pemerintahan;  
 e. penghormatan atas hak asasi manusia;  
-f. keadilan dan kesetaraan gender serta inklusi; g. profesionalitas, akuntabilitas dan transparansi; h. non diskriminasi; dani. perlindungan dan pemenuhan hak korban.  
+f. keadilan dan kesetaraan gender serta inklusi;  
+g. profesionalitas, akuntabilitas dan transparansi;  
+h. non diskriminasi; dani. perlindungan dan pemenuhan hak korban.  
 
 #### Pasal 3
 
@@ -177,7 +181,8 @@ Tanggungjawab Pemerintah Kota (1) Pemerintah
 #### Pasal 12
 
 Kota berkewajiban untuk memberikan dukungan bagi pengembangan lembaga layanan untuk perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam, baik yang diadakan oleh pemerintah maupun swasta. (2) Pemerintah Kota berkewajiban untuk:
-a. Pembentukan Pusat Krisis Terpadu (PKT) dan/atau Pusat Pelayanan Terpadu (PPT) di Rumah Sakit Umum Daerah, Rumah Sakit Kepolisian, Rumah Sakit Swasta untuk pemberian layanan bagi perempuan disabilitas, 咋 perempuan HIV/Aids, perempuan korban kekerasan dan perempuan korban konflik dan bencana alam; b. Pembentukan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak atau UPTD PPA sebagai Unit Pelaksana Teknis di bawah Dinas Pemberdayaan Perempuan Perlindungan Anak dan Keluarga Berenacana Kota; danc. Mendirikan Rumah Perlindungan dan Trauma Center (RPTC) sebagai fasilitas untuk memberikan perlindungan dan membantu perempuan disabilitas, perempuan HIV/Aids, perempuan korban kekerasan, perempuan korban konflik dan bencana alam dalam pemulihan psikososial dan traumatis.  
+a. Pembentukan Pusat Krisis Terpadu (PKT) dan/atau Pusat Pelayanan Terpadu (PPT) di Rumah Sakit Umum Daerah, Rumah Sakit Kepolisian, Rumah Sakit Swasta untuk pemberian layanan bagi perempuan disabilitas, 咋 perempuan HIV/Aids, perempuan korban kekerasan dan perempuan korban konflik dan bencana alam;  
+b. Pembentukan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak atau UPTD PPA sebagai Unit Pelaksana Teknis di bawah Dinas Pemberdayaan Perempuan Perlindungan Anak dan Keluarga Berenacana Kota; danc. Mendirikan Rumah Perlindungan dan Trauma Center (RPTC) sebagai fasilitas untuk memberikan perlindungan dan membantu perempuan disabilitas, perempuan HIV/Aids, perempuan korban kekerasan, perempuan korban konflik dan bencana alam dalam pemulihan psikososial dan traumatis.  
 
 #### Pasal 13
 
@@ -222,7 +227,8 @@ perempuan, perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas
 
 2. Pemberdayaan perempuan, perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam disesuaikan dengan program peningkatan kapasitas melalui: a. Pemantapan kemandirian yaitu upaya untuk meningkatkan pengetahuan, kecakapan dan keterampilan kerja untuk lebih mudah mendapatkan pekerjaan;  
 b. Pemerintah Kota melakukan pembinaan industri kecil dan industri rumah tangga yang dikelola oleh perempuan;  
-c. Usaha Ekonomi Produktif yaitu upaya untuk menumbuhkan jiwa dan keterampilan kewirausahaan; d. Membuka akses permodalan, pemasaran, networking serta menjaga hasil produksi lokal baik ditingkat nasional dan internasional;  
+c. Usaha Ekonomi Produktif yaitu upaya untuk menumbuhkan jiwa dan keterampilan kewirausahaan;  
+d. Membuka akses permodalan, pemasaran, networking serta menjaga hasil produksi lokal baik ditingkat nasional dan internasional;  
 e. Pemerintah menjamin dan melindungi lisensi produk lokal sebagaimana dimaksud pada ayat (d) dari pembajakan; tiruan dan tindakan lain yang merugikan produk lokal sesuai dengan peraturan perundang- undangan; danf. Meningkatkan keahlian pengetahuan dan kepemimpinan sehingga ber peluang bagi perempuan terlibat aktif dalam posisi strategis baik level kampong, kecamatan dan kota.  
 
 #### Pasal 19

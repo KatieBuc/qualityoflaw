@@ -109,7 +109,8 @@ d. pembinaan dan pengawasan; dane. peran serta Masyarakat.
 
 Pasa16 Setiap Perempuan di Daerah berhak:
 a. untuk hidup;  
-b. berkeluarga dan melanjutkan keturunan; c. mengembangkan diri;  
+b. berkeluarga dan melanjutkan keturunan;  
+c. mengembangkan diri;  
 d. memperoleh keadilan;  
 e. atas rasa aman;  
 f. atas kesejahteraan; dang. turut serta dalam pemerintahan.  
@@ -124,7 +125,8 @@ c. hak untuk mengembangkan dan memperoleh manfaat dari ilmu pengetahuan dan tekn
 d. hak memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosial sesuai norma agama, sosial, dan hukum;  
 e. hak untuk mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyampaikan informasi dengan menggunakan segala jenis sarana yang tersedia sesuai norma agama, sosial, dan hukum;  
 f. hak untuk memperjuangkan pengembangan diri, baik secara pribadi maupun kolektif, untuk membangun masyarakat, bangsa, dan negara sesuai norma agama, sosial, dan hukum;  
-g. hak berpartisipasi dalam melakukan kegiatan sosial sesuai norma agama, sosial, dan hukum; h. hak berpartisipasi dalam perencanaan dan pelaksanaan kebijakan pemerintah sesuai peraturan perundang- undangan;  
+g. hak berpartisipasi dalam melakukan kegiatan sosial sesuai norma agama, sosial, dan hukum;  
+h. hak berpartisipasi dalam perencanaan dan pelaksanaan kebijakan pemerintah sesuai peraturan perundang- undangan;  
 i. hak berkumpul dan berserikat sesuai peraturan perundang-undangan; danj. hak memperoleh pendidikan dan pengajaran sesuai norma agama, sosial, dan hukum.  
 4. Hak memperoleh keadilan sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:a. hak mendapatkan perlakuan yang sarna tanpa diskriminasi; danb. hak untuk mengajukan permohonan, pengaduan, dan gugatan, baik dalam perkara pidana, perdata, maupun administrasi;  
 5. Hak atas rasa aman sebagaimana dimaksud dalam Pasal 6 huruf e, meliputi:a. hak atas pelindungan diri pribadi, keluarga, kehormatan, martabat, dan hak milik;  
@@ -166,7 +168,9 @@ f. rnengikutsertakan perernpuan dalarn berbagai event sosial budaya dan pariwisa
 b. Perangkat Daerah yang rnernbidangi urusan ketenagakerjaan;  
 c. Perangkat Daerah yang rnernbidangi urusan perindustrian dan perdagangan;  
 d. Perangkat Daerah yang rnernbidangi urusan pariwisata dan budaya;  
-e. Perangkat Daerah yang rnernbidangi urusan koperasi dan usaha rnikro, kecil dan rnenengah; f. Unit Kerja yang rnernbidangi urusan ekonorni; g. Unit Kerja yang rnernbidangi urusan kesejahteraan; danh. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
+e. Perangkat Daerah yang rnernbidangi urusan koperasi dan usaha rnikro, kecil dan rnenengah;  
+f. Unit Kerja yang rnernbidangi urusan ekonorni;  
+g. Unit Kerja yang rnernbidangi urusan kesejahteraan; danh. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
 2. Pernberdayaan Perernpuan di bidang ekonorni sebagairnana dirnaksud pada ayat (1) dilaksanakan rnelalui:a. pelatihan kerja;  
 b. usaha ekonorni produktif dan usaha ekonorni bersarna;  
 c. fasilitasi perrnodalan dan aksesibilitas ketenagakerjaan; dand. fasilitasi pengembangan jaringan pemasaran.  
@@ -177,7 +181,8 @@ b. praktek kerja lapangan; danc. pemagangan.
 b. fasilitasi pembentukan kelompok usaha bersama; danc. pendampingan pelaksanaan usaha.  
 5. Fasilitasi permodalan dan aksesibilitas ketenagakerjaan sebagaimana dimaksud pada ayat (2) huruf c meliputi:a. bantuan saran a dan prasarana kerja;  
 b. fasilitasi modal kerja; danc. aksesibilitasi ketenagakerjaan yang bagi perempuan.  
-6. Fasilitasi pengembangan jaringan berkeadilan pemasaran sebagaimana dimaksud pada ayat (2) meliputi: huruf da. fasilitasi pemasaran produk usaha perempuan; b. fasilitasi pemasaran produk usaha perempuan di dalam dan luar negeri; danc. pengikutsertaan kelompok perempuan dalam promosi ekonomi, industri dan perdagangan.  
+6. Fasilitasi pengembangan jaringan berkeadilan pemasaran sebagaimana dimaksud pada ayat (2) meliputi: huruf da. fasilitasi pemasaran produk usaha perempuan;  
+b. fasilitasi pemasaran produk usaha perempuan di dalam dan luar negeri; danc. pengikutsertaan kelompok perempuan dalam promosi ekonomi, industri dan perdagangan.  
 
 #### Pasal 11
 
@@ -216,8 +221,10 @@ Lembaga Pemberdayaan Perempuan
 b. Perangkat Daerah yang membidangi urusan ketenagakerjaan;  
 c. Perangkat Daerah yang membidangi urusan perindustrian dan perdagangan;  
 d. Perangkat Daerah yang membidangi urusan pariwisata dan budaya;  
-e. Perangkat Daerah yang membidangi urusan koperasi dan us aha mikro, kecil dan menengah; f. Unit Kerja yang membidangi urusan kesejahteraan;  
-g. Unit Kerja yang membidangi urusan ekonomi; h. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
+e. Perangkat Daerah yang membidangi urusan koperasi dan us aha mikro, kecil dan menengah;  
+f. Unit Kerja yang membidangi urusan kesejahteraan;  
+g. Unit Kerja yang membidangi urusan ekonomi;  
+h. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
 2. Ketentuan mengenai pembentukan Lembaga penyedia layanan Pemberdayaan Perempuan diatur dengan Peraturan Wali Kota.  
 
 ##### BABV
@@ -262,7 +269,8 @@ Tanggungjawab Pemerintah Daerah atas Pelindungan Perempuan Korban Tindak Kekeras
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara komprehensif dan terintegrasi.  
 14- (3) Pemerintah Daerah bertanggung jawab untuk melakukan tindakan pencegahan kekerasan terhadap Perempuan dalam bentuk:
 a. mengumpulkan data dan informasi kekerasan beserta korban tindak kekerasan dalam lingkungan keluarga, Masyarakat, dunia pendidikan, perkantoran dan dunia usaha sesuai peraturan perundang-undangan;  
-b. melakukan sosialisasi kepada Masyarakat tentang nilai-nilai anti kekerasan terhadap Perempuan; c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pelindungan korban tindak kekerasan;  
+b. melakukan sosialisasi kepada Masyarakat tentang nilai-nilai anti kekerasan terhadap Perempuan;  
+c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pelindungan korban tindak kekerasan;  
 d. menetapkan standar layanan Pelindungan Perempuan korban tindak kekerasan;  
 e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan Pelindungan Perempuan korban tindak kekerasan; danf. menyusun laporan penyelenggaraan pencegahan Pelindungan Perempuan korban tindak kekerasan.  
 4. Pemerintah Daerah bertanggung jawab menyediakan dan menyelenggarakan layanan bagi Perempuan korban tindak kekerasan dalam bentuk:a. Lembaga layanan untuk Perempuan korban tindak kekerasan;  
@@ -300,19 +308,26 @@ e. pengalaman dalam mengikuti pelatihan; darr/ atau f. riwayat pekerjaan.
 5. Pelindungan psikis sebagimana dimaksud dalam Pasal 19 ayat (2) huruf e berupa dukungan secara psikologis sehingga korban mempunyai rasa percaya diri, berkemampuan untuk mandiri dalam penyelesaian masalah.  
 6. Pelindungan psikis lainnya berupa Pendampingan korban untuk memulihkan kondisi traumatis. (7) Penyediaan tempat penampungan sementara yang ditujukan untuk melindungi korban dari berbagai ancaman dan intimidasi serta untuk memudahkan dalam pendataan dan penggalian informasi korban. (8) Penempatan korban di tempat penampungan sementara dengan memperhatikan:a. tingkat ancaman terhadap korban yang membahayakan jiwa;  
 b. keamanan dan keselamatan korban;  
-c. percepatan penanganan dan pemulihan korban; d. kemudahan akses dalam pendampingan korban; dane. penyiapan pemulangan korban sebelum kembali ke daerah asal.  
+c. percepatan penanganan dan pemulihan korban;  
+d. kemudahan akses dalam pendampingan korban; dane. penyiapan pemulangan korban sebelum kembali ke daerah asal.  
 
 Pasal21 Pelindungan sebagaimana dimaksud dalam Pasal 19 dilakukan melalui upaya memberikan layanan dan penanganan cepat kepada saksi darr/ atau korban, adalah sebagai berikut:
 a. memberikan layanan dan penanganan cepat kepada saksi dan / atau korban;  
-b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi saksi darr/ atau korban; c. menjaga kerahasiaan saksi dan Zatau korban; d. menjamin keadilan dan kepastian hukum bagi saksi dan/ atau korban;  
-e. penyediaan tenaga kesehatan, pekerja sosial, pembimbing rohani, psikolog, dan penasehat hukum; f. membentuk dan mengembangkan program layanan Pelindungan Perempuan korban tindak kekerasan dengan melibatkan dunia usaha dan Masyarakat untuk memudahkan Masyarakat menjangkau layanan; dang. memberikan pelindungan bagi Pendamping, saksi, korban dan keluarganya.  
+b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi saksi darr/ atau korban;  
+c. menjaga kerahasiaan saksi dan Zatau korban;  
+d. menjamin keadilan dan kepastian hukum bagi saksi dan/ atau korban;  
+e. penyediaan tenaga kesehatan, pekerja sosial, pembimbing rohani, psikolog, dan penasehat hukum;  
+f. membentuk dan mengembangkan program layanan Pelindungan Perempuan korban tindak kekerasan dengan melibatkan dunia usaha dan Masyarakat untuk memudahkan Masyarakat menjangkau layanan; dang. memberikan pelindungan bagi Pendamping, saksi, korban dan keluarganya.  
 17- Pasa122 Penye1enggaraan layanan Pelindungan Perempuan korban tindak kekerasan tidak dipungut biaya dan dilasanakan secara tepat, cermat dan mudah dijangkau masyaraka t.  
 
 ## Bagian Kelima
 
 Layanan Pengaduan Masyarakat Pasa123 (1) Pemerintah Daerah dalam menyelenggarakan kebijakan Pelindungan Perempuan korban tindak kekerasan harus menyediakan layanan pengaduan berupa UPTDPPA.  
 
-2. UPTD PPA sebagaimana dimaksud pada ayat (1) bertugas un tuk:a. menerima laporan atau penjangkauan korban; b. memberikan informasi tentang hak korban; c. memfasilitasi pemberian layanan kesehatan; d. memfasilitasi pemberian layanan penguatan psikologis;  
+2. UPTD PPA sebagaimana dimaksud pada ayat (1) bertugas un tuk:a. menerima laporan atau penjangkauan korban;  
+b. memberikan informasi tentang hak korban;  
+c. memfasilitasi pemberian layanan kesehatan;  
+d. memfasilitasi pemberian layanan penguatan psikologis;  
 e. memfasilitasi pemberian layanan rehabilitasi sosial, pemberdayaan reintegrasi sosial;  
 f. menyediakan layanan hukum;  
 

@@ -15,12 +15,14 @@
 # BUPATI KARANGANYAR,
 
 Menimbang:  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jamina n terhadap pemenuhan hak-haknya dan Perlindungan dar i tindak kekerasan dan Diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi  dir i perempuan dalam masyarakat di Kabupaten Karanganyar, perlu adanya suatu Peraturan Daerah yang mengatur tentang Perlindungan dan Pemberdayaan Perempuan;  
 c. bahwa Peraturan Daerah Kabupaten Karanganyar Nomor  20 Tahun 2009 tentang Penyelenggaraan Perlindungan Perempuan dan Anak dipandang sudah tidak sesuai lagi dengan perkembangan huku m dan kebutuhan masyarakat, sehingga perlu dibentuk peraturan daerah yang baru;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huru f a, huru f b dan huru f c, perlu membentuk Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) dan Pasal 281 Undang-Undang Dasar  Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten di Lingkungan Provinsi Jawa Tengah;  

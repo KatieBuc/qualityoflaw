@@ -13,12 +13,14 @@ PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
 # BUPATI OGAN KOMERING ULU,
 
 Menimbang:  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan hidup, tumbuh, dan berkembang secara wajar serta berhak atas perlindungan dari kekerasan dan diskriminasi sebagaimana diamanatkan dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa perlakuan diskriminatif dan kekerasan terhadap perempuan dan anak, akan berdampak terhadap kualitas sumber daya manusia di masa mendatang;  
 c. bahwa dalam rangka mewujudkan visi misi pembangunan di bidang pemberdayaan perempuandan perlindungan anak, perhormatan, perlindungan, pemenuhan, penegakan, dan pemajuan hak perempuan dananak, dipandang perlu menetapkan kebijakan yang dapat menjamin terselenggaranya pemberdayaan perempuan dan perlindungan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentukan Daerah Tingkat II dan Kota Praja Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
@@ -278,7 +280,9 @@ Penyediakan Layanan dan Penanganan Rujukan Lanjutan
 #### Pasal 20
 
 Penyediaan layanan dan penanganan rujukan lanjutan sebagaimana dimaksud dalam Pasal 17 huruf b diperuntukkan bagi:
-a. perempuan korban kekerasan dalam rumah tangga; b. perempuan korban tindak pidana perdagangan orang; c. perempuan dalam situasi darurat dan kondisi khusus; dand. perempuan korban tindak kekerasan lainnya yang memerlukan koordinasi tingkat Kabupaten.  
+a. perempuan korban kekerasan dalam rumah tangga;  
+b. perempuan korban tindak pidana perdagangan orang;  
+c. perempuan dalam situasi darurat dan kondisi khusus; dand. perempuan korban tindak kekerasan lainnya yang memerlukan koordinasi tingkat Kabupaten.  
 14-
 
 #### Pasal 21
@@ -366,7 +370,8 @@ Pemenuhan hak anak menjadi kewajiban Pemerintah Kabupaten, Orangtua, dan masyara
 
 ( 1 ) Pemerintah Kabupaten wajib memenuhi hak anak di bidang:
 a. hak sipil dan kebebasan;  
-b. lingkungan keluarga dan pengasuhan alternatif; c. kesehatan dasar dan kesejehteraan; dand. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya.  
+b. lingkungan keluarga dan pengasuhan alternatif;  
+c. kesehatan dasar dan kesejehteraan; dand. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya.  
 
 ( 2 ) Dalam memenuhi hak anak sebagaimana dimaksud pada ayat (1) huruf a Pemerintah Kabupaten berkewajiban:
 a. mengupayakan anak memperoleh akta kelahiran secara gratis;  
@@ -380,7 +385,8 @@ c. pemberian air susu ibu bagi bayi;
 d. pemberiaan imunisasi bagi anak;  
 e. pelayanan kesehatan reproduksi;  
 f. peningkatan perolehan akses peningkatan kesejahteraan bagi keluarga miskin;  
-g. peningkatan akses air bersih bagi rumah tangga; h. penciptaan kawasan tanpa rokok; dani. Puskesmas ramah anak.  
+g. peningkatan akses air bersih bagi rumah tangga;  
+h. penciptaan kawasan tanpa rokok; dani. Puskesmas ramah anak.  
 5. Dalam memenuhi hak anak sebagaimana dimaksud pada ayat (1) huruf d, Pemerintah Kabupaten melakukan upaya:a. penyediaan pendidikan anak usia dini;  
 b. wajib belajar 12 tahun;  
 c. sekolah ramah anak;  
@@ -424,7 +430,8 @@ j. anak korban kejahatan seksual;
 k. anak korban jaringan terorisme;  
 20-
 l. anak penyandang disabilitas;  
-m. anak korban perlakuan salah dan penelantaran; n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
+m. anak korban perlakuan salah dan penelantaran;  
+n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
 2. Perlindungan Khusus bagi Anak dilakukan melalui upaya:a. penanganan yang cepat, termasuk pengobatan dan/atau rehabilitasi secara fisik, psikis, dan sosial, serta pencegahan penyakit dan gangguan kesehatan lainnya;  
 b. pendampingan psikososial pada saat pengobatan sampai pemulihan;  
 c. pemberian bantuan sosial bagi Anak yang berasal dari keluarga yang tidak mampu; dand. pemberian perlindungan dan pendampingan pada setiap proses peradilan.  
@@ -434,7 +441,9 @@ c. pemberian bantuan sosial bagi Anak yang berasal dari keluarga yang tidak mamp
 #### Pasal 33
 
 Pemerintahan Kabupaten dalam melaksanakan Perlindungan Khusus sebagaimana dimaksud pada Pasal 32 menyediakan:
-a. pekerja sosial dan tenaga kesejahteraan sosial;; b. tenaga kesehatan yang kompeten dan terlatih; c. petugas pembimbing rohani/ibadah;  
+a. pekerja sosial dan tenaga kesejahteraan sosial;;  
+b. tenaga kesehatan yang kompeten dan terlatih;  
+c. petugas pembimbing rohani/ibadah;  
 d. pendidik dan tenaga kependidikan; dan/atau e. tenaga bantuan hukum.  
 
 ### Paragraf 1
@@ -517,7 +526,8 @@ b. tatap muka berupa penyuluhan, diskusi, ceramah, kampanye; danc. media di luar
 b. menyediakan tempat atau ruang untuk bermain, rekreasi yang sehat, dan menyalurkan kreativitas Anak;  
 c. memberikan tuntunan nilai agama dan nilai sosial;  
 d. melakukan pengawasan terhadap lingkungan yang akan berdampak terjadinya Anak yang berhadapan dengan Hukum;  
-e. meningkatkan ketahanan dan kesejahteraan keluarga; f. memberikan pembinaan dan pelatihan keterampilan;  
+e. meningkatkan ketahanan dan kesejahteraan keluarga;  
+f. memberikan pembinaan dan pelatihan keterampilan;  
 g. menyediakan tempat atau ruang untuk bermain, rekreasi yang sehat, dan menyalurkan kreativitas Anak;  
 h. memberikan tuntunan agama, nilai sosial, dan budi pekerti;  
 i. mengembangkan lingkungan yang peduli terhadap Anak yang Berhadapan dengan Hukum; dan/ atauj. melibatkan keluarga dalam program pelayanan, Pembinaan, dan pembimbingan.  
@@ -709,7 +719,8 @@ c. surveilans kesehatan berupa pencatatan, pelaporan, dan analisis data pada ibu
 Upaya pencegahan sebagaimana dimaksud dalam Pasal 62 dilakukan dalam bentuk:
 a. menyusun dan melaksanakan kebijakan terkait rencana aksi tentang pencegahan dan penanganan Anak dengan HIV dan AIDS;  
 b. promosi kesehatan untuk meningkatkan pengetahuan Masyarakat tentang manfaat deteksi dini dan penularan HIV dan AIDS serta meningkatkan pengetahuan dan tanggung jawab ibu, ibu hamil, Anak, dan pasangan suami istri;  
-c. mencegah penularan HIV dan AIDS dari ibu ke Anak; d. mencegah Anak untuk tidak menggunakan narkotika;  
+c. mencegah penularan HIV dan AIDS dari ibu ke Anak;  
+d. mencegah Anak untuk tidak menggunakan narkotika;  
 e. deteksi dini dengan memberikan tes HIV dan AIDS kepada ibu hamil di daerah endemik HIV dan AIDS yang meluas dan terkonsentrasi;  
 f. deteksi dini dengan memberikan tes HIV dan AIDS kepada ibu hamil dengan infeksi menular seksual dan tuberculosis di daerah epidemi HIV rendah;  
 g. menggunakan alat medis yang steril untuk Anak agar terhindar dari HIV dan AIDS;  
@@ -843,7 +854,8 @@ c. pendampingan psikososial pada saat pengobatan sampai pemulihan; dand. pemberi
 
 1. Rehabilitasi Sosial sebagaimana dimaksud dalam Pasal 81 huruf b dilakukan dalambentuk:a. motivasi dan diagnosis psikososial;  
 b. perawatan dan pengasuhan;  
-c. pelatihan vokasional dan pembinaan kewirausahaan; d. bimbingan mental spiritual;  
+c. pelatihan vokasional dan pembinaan kewirausahaan;  
+d. bimbingan mental spiritual;  
 e. bimbingan fisik;  
 f. bimbingan sosial dan Konseling psikososial;  
 g. pelayanan aksesibilitas;  
@@ -1120,7 +1132,9 @@ d. meningkatkan ketahanan keluarga.
 #### Pasal 123
 
 Pencegahan perkawinan usia anak sebagaimana dimaksud dalamPasal 122 huruf a bertujuan:
-a. meningkatkan produkstivitas anak perempuan; b. mengembangkan potensi diri anak perempuan; c. mencegah kehamilan di usia terlalu muda;  
+a. meningkatkan produkstivitas anak perempuan;  
+b. mengembangkan potensi diri anak perempuan;  
+c. mencegah kehamilan di usia terlalu muda;  
 d. menurunkan angka kematian ibu dan bayi;  
 e. menurunkan angka kemiskinan; danf. mencegah terjadinya kekerasan dalam rumah tangga.  
 

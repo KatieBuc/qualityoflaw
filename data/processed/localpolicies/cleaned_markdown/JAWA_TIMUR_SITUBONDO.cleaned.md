@@ -240,8 +240,10 @@ keluarga; dan orangtua.
 a. mengumpulkan data dan informasi tentang perempu€m dan anak serta peratur€m pertrndang-r-rndangan yang terkait;  
 b. melakukan pendidikan nilai-nilai anti kekerasan; danc. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pencegahan dan perlindungan korban kekerasa.n.  
 3. Perlindungan korban kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:a. mendirikan dan memfasilitasi terselenggarakannya lembaga layanan terpadu untuk korban dengan melibatkan dinas/instansi terkait dan unsur masyarakat;  
-b. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban; c. menyediakan tempat tinggal baik rumah aman maupun tempat tinggal alternatif beserta mekanisme penanganan, pelayanan, dan psikososial;  
-d. melakukan penanganan berkelanjutan sampai pada tahap rehabilitasi dan reintegrasi sosial; e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn korban kekerasan; danf. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban kekerasan.  
+b. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
+c. menyediakan tempat tinggal baik rumah aman maupun tempat tinggal alternatif beserta mekanisme penanganan, pelayanan, dan psikososial;  
+d. melakukan penanganan berkelanjutan sampai pada tahap rehabilitasi dan reintegrasi sosial;  
+e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn korban kekerasan; danf. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban kekerasan.  
 
 (41 Dalam rangka melaksanakan tanggungjawab sebagaimana dimaksud pada ayat (1), Pemerintah I t,vI a, Daerah menetapkan program dan kegiatan aksi perlindungan terhadap perempuan dan anak dalam satu Rencana Aksi Daerah Perlindungan Terhadap Perempuan dan Anak Korban Kekerasan.  
 
@@ -265,7 +267,8 @@ PENGAqIASAN
 Pengawasan penyelenggaraan perlindungan korban (1) kekerasan dilakukan oleh BPMP.  
 
 Dalam melakukan pengawasan sebagaimana (21 dimaksud pada ayat (1), BPMP berwenang:
-a. menempatkan korban kekerasan di rumah aman; b. memanggil dan menghadirkan keluarga korban kekerasan untuk didengarkan keterangannya; dan c. memerintahkan PPT untuk memberikan perlindungan terhadap seseorang yang menjadi korban kekerasan.  
+a. menempatkan korban kekerasan di rumah aman;  
+b. memanggil dan menghadirkan keluarga korban kekerasan untuk didengarkan keterangannya; dan c. memerintahkan PPT untuk memberikan perlindungan terhadap seseorang yang menjadi korban kekerasan.  
 
 \[ trl.  
 

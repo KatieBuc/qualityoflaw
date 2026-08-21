@@ -19,12 +19,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 # BUPATI KOTAWARINGIN TIMUR,
 
 Menimbang:  
+ 
 a. bahwa setiap warga Negara berhak atas rasa aman dan bebas dari segala bentuk tindak kekerasan terhadap perempuan dan anak yang merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan  dan anak di daerah terus meningkat, sehingga diperlukan upaya perlindungan;  
 c. bahwa peraturan perundang-undangan yang mengatur mengenai perlindungan perempuan dan anak korban kekerasan belum mengatur upaya-upaya perlindungan di daerah sehingga diperlukan dukungan kelembagaan dan peraturan yang dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b dan huruf c tersebut diatas, perlu diatur dan ditetapkan dengan Peraturan Daerah Kabupaten Kotawaringin Timur tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 27 Tahun 1959 tentang  Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9, Tambahan Lembaran Negara Republik Indonesia Nomor 352) Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran negara Republik Indonesia 1820);  
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang  Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -94,14 +96,16 @@ Pasal Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Asas penyelenggaraan perlindungan Korban adalah: a. K e m a n u s i a a n ;  
-b. Penghormatan dan pemenuhan terhadap hak-hak korban; c. Keadilan dan kesetaraan gender;  
+b. Penghormatan dan pemenuhan terhadap hak-hak korban;  
+c. Keadilan dan kesetaraan gender;  
 d. Non diskriminasi;  
 e. Kepentingan terbaik bagi korban; danf. Pemberdayaan.  
 
 #### Pasal 3
 
 Tujuan Perlindungan Korban adalah:
-a. Mencegah kekerasan terhadap perempuan dan anak; b. Memberikan pelayanan kepada Korban; danc. Melakukan pemberdayaan dan rehabilitasi kepada korban  kekerasan.  
+a. Mencegah kekerasan terhadap perempuan dan anak;  
+b. Memberikan pelayanan kepada Korban; danc. Melakukan pemberdayaan dan rehabilitasi kepada korban  kekerasan.  
 
 #### Pasal 4
 
@@ -194,7 +198,9 @@ Kewajiban Pemerintah Daerah
 
 1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya perlindungan korban, dalam bentuk:a. Menetapkan kebijakan;  
 b. Membentuk FKPKK;  
-c. Menyusun perencanaan program dan kegiatan; d. Memberikan dukungan sarana dan prasarana; e. Mengalokasikan anggaran; danf. melakukan pembinaan dan pengawasan perlindungan  perempuan dan anak melalui dinas terkait.  
+c. Menyusun perencanaan program dan kegiatan;  
+d. Memberikan dukungan sarana dan prasarana;  
+e. Mengalokasikan anggaran; danf. melakukan pembinaan dan pengawasan perlindungan  perempuan dan anak melalui dinas terkait.  
 2. Dalam hal pelaksanaan kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah menyusun Rencana Aksi Daerah untuk perlindungan korban.  
 
 #### Pasal 15
@@ -247,7 +253,8 @@ PUSAT PELAYANAN TERPADU PERLINDUNGAN PEREMPUAN DAN ANAK  (P2TP2A)
 
 #### Pasal 21
 
-1. Struktur organisasi P2TP2A yang dibentuk oleh  Pemerintah Daerah sebagaimana dimaksud dalam Pasal 19  ayat (1) terdiri dari:a. Ketua Umum atau sebutan lain yang setingkat; b. Sekretaris;  
+1. Struktur organisasi P2TP2A yang dibentuk oleh  Pemerintah Daerah sebagaimana dimaksud dalam Pasal 19  ayat (1) terdiri dari:a. Ketua Umum atau sebutan lain yang setingkat;  
+b. Sekretaris;  
 c. Bendahara; dand. Ketua Pelaksana yang membawahi bidang-bidang.  
 2. Bidang-Bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang- kurangnya meliputi:a. Bidang layanan pengaduan;  
 b. Bidang layanan kesehatan;  
@@ -257,7 +264,8 @@ d. B idang pemulangan dan reintegrasi sosial; dane. Bidang layanan bantuan hukum
 #### Pasal 22
 
 Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal 21 ayat (2) huruf a memiliki tugas:
-a. Melakukan wawancara dan observasi keadaan korban; b. Membuat rekomendasi layanan lanjutan;  
+a. Melakukan wawancara dan observasi keadaan korban;  
+b. Membuat rekomendasi layanan lanjutan;  
 c. Melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;dand. Melakukan administrasi proses pengaduan.  
 
 #### Pasal 23
@@ -303,7 +311,8 @@ Pencegahan
 
 1. Upaya pencegahan kekerasan terhadap perempuan dan anak dilakukan secara terpadu oleh Pemerintah Daerah yang dikoordinasikan oleh instansi yang mempunyai tugas  pokok dan fungsi koordinasi di bidang pemberdayaan perempuan dan perlindungan anak.  
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. Membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
-b. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan; c. Membentuk sistem pencegahan kekerasan;  
+b. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
+c. Membentuk sistem pencegahan kekerasan;  
 d. Melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan; dane. Memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.  f. Memberlakukan jam malam bagi anak-anak yang akan  diatur lebih lanjut dengan Peraturan Bupati Kotawaringin  Timur.  
 
 #### Pasal 29
@@ -334,7 +343,8 @@ f. Tidak dikenakan biaya; dang. Dijamin kerahasiaannya.
 #### Pasal 32
 
 Bentuk pelayanan terhadap korban meliputi:
-a. Pelayanan pengaduan, konsultasi, dan konseling; b. Pelayanan pendampingan;  
+a. Pelayanan pengaduan, konsultasi, dan konseling;  
+b. Pelayanan pendampingan;  
 c. Pelayanan kesehatan;  
 d. Pelayanan rehabilitasi sosial;  
 e. Pelayanan hukum; danf. Pelayanan pemulangan dan reintegrasi sosial.  
@@ -368,7 +378,8 @@ a. Memberikan bimbingan kerohanian kepada korban;dan  b. Pemulihan kejiwaan korb
 #### Pasal 37
 
 Pelayanan hukum sebagaimana dimaksud dalam Pasal 34  huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:
-a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak- hak korban dan proses peradilan; b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan  membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya;  
+a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak- hak korban dan proses peradilan;  
+b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan  membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya;  
 c. Melakukan koordinasi dengan penegak hukum relawan  pendamping dan pekerja social proses peradilan berjalan  sebagaimana mestinya.  
 
 #### Pasal 38

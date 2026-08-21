@@ -17,12 +17,14 @@ Revisi Hasil Pembahasan 22 mei 2019
 # BUPATI TASIKMALAYA,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama dan  setara untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan dan anak merupakan kelompok  masyarakat yang rentan terhadap tindakan ketidakadilan dan ketidaksetaraan serta tindak kekerasan yang dapat mencederai hak dan martabatnya sebagai manusia;  
 c. bahwa maraknya kasus kekerasan terhadap perempuan dan anak di Kabupaten Tasikmalaya diperlukan penanganan dan tindakan nyata dari Pemerintah Daerah untuk menghapuskan segala bentuk kekerasan terhadap perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 14 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Provinsi Djawa Barat (Berita Negara Republik Indonesia Tahun 1950), sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik Indonesia Tahun 1968 Nomor 31, Tambahan Lembaran Negara Republik Indonesia Nomor 2851);  
@@ -128,7 +130,8 @@ c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, s
 Penyelenggaraan pemberdayaan perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 3 huruf c meliputi:
 a. pendidikan politik untuk perempuan;  
 b. pelibatan perempuan dalam pengambilan keputusan diberbagai level pemerintahan;  
-c. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik; d. partisipasi dalam pemilihan umum; dane. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat.  
+c. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
+d. partisipasi dalam pemilihan umum; dane. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan  mengeluarkan pendapat.  
 
 #### Pasal 7
 
@@ -188,13 +191,16 @@ Perlindungan Anak di Bidang Sipil dan Kebebasan
 
 Perlindungan anak dibidang Sipil sebagaimana dimaksud dalam Pasal 10 pada  huruf b meliputi:
 a. penjaminan bahwa setiap anak berhak untuk mendapatkan nama dan  identitas diri sejak kelahirannya yang berupa akta kelahiran;  
-b. pembuatan akta kelahiran menjadi tanggungjawab Pemerintah; c. pembuatan akta kelahiran tidak dikenai biaya dan ditanggung oleh  Pemerintah Daerah; dand. ketentuan pembuatan akte kelahiran diatur lebih lanjut dalam Peraturan  Bupati.  
+b. pembuatan akta kelahiran menjadi tanggungjawab Pemerintah;  
+c. pembuatan akta kelahiran tidak dikenai biaya dan ditanggung oleh  Pemerintah Daerah; dand. ketentuan pembuatan akte kelahiran diatur lebih lanjut dalam Peraturan  Bupati.  
 
 #### Pasal 13
 
 1. Perlindungan anak dibidang sipil dan kebebasan membantu anak agar anak  dapat:a. berpartisipasi dalam segala bidang;  
-b. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan  agamanya sesuai dengan norma-norma yang berlaku di daerah; c. bebas menerima informasi lisan atau tertulis sesuai dengan tahapan usia  dan perkembangan anak;  
-d. bebas berserikat dan berkumpul sesuai dengan norma dan etika mulia; e. bebas beristirahat, bermain, berekreasi, dan berkarya seni budaya dengan  tidak melalaikan kewajiban sebagai anak; danf. memperoleh sarana bermain yang memenuhi syarat kesehatan dan  keselamatan.  
+b. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan  agamanya sesuai dengan norma-norma yang berlaku di daerah;  
+c. bebas menerima informasi lisan atau tertulis sesuai dengan tahapan usia  dan perkembangan anak;  
+d. bebas berserikat dan berkumpul sesuai dengan norma dan etika mulia;  
+e. bebas beristirahat, bermain, berekreasi, dan berkarya seni budaya dengan  tidak melalaikan kewajiban sebagai anak; danf. memperoleh sarana bermain yang memenuhi syarat kesehatan dan  keselamatan.  
 2. Upaya sebagaimana dimaksud pada ayat (1), dikembangkan dan disesuaikan  dengan usia, tingkat kemampuan anak, dan lingkungannya agar tidak  menghambat dan mengganggu perkembangan anak.  
 
 ## Bagian Keempat
@@ -216,7 +222,8 @@ Perlindungan Anak di Bidang Pendidikan
 #### Pasal 15
 
 Penyelenggaraan perlindungan anak di bidang pendidikan sebagaimana  dimaksud dalam Pasal 10 huruf d, meliputi:
-a. memberikan kesempatan seluas-luasnya kepada anak untuk memperoleh  pendidikan yang dilakukan oleh Pemerintah Daerah, keluarga dan orang tua; b. setiap penyelenggara pendidikan dilarang mengeluarkan anak dari Lembaga  Pendidikan tanpa adanya jaminan terhadap keberlangsungan pendidikan  anak;  
+a. memberikan kesempatan seluas-luasnya kepada anak untuk memperoleh  pendidikan yang dilakukan oleh Pemerintah Daerah, keluarga dan orang tua;  
+b. setiap penyelenggara pendidikan dilarang mengeluarkan anak dari Lembaga  Pendidikan tanpa adanya jaminan terhadap keberlangsungan pendidikan  anak;  
 c. penyelenggaraan program wajib belajar 12 (dua belas) tahun, diatur dalam  Peraturan Daerah tersendiri;  
 d. memberikan kesempatan yang sama dan aksesibilitas untuk memperoleh  pendidikan biasa dan pendidikan luar biasa bagi anak yang menyadang cacat;  dane. melindungi hak-haknya guna memperoleh pendidikan bagi anak korban  kekerasan, eksploitasi, penelantaran dan perlakuan salah.  
 
@@ -464,7 +471,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak 
 
 #### Pasal 27
 
-Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
+Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -506,7 +514,8 @@ Pemerintah Daerah
 
 1. Pemerintah Daerah sebagaimana dimaksud dalam Pasal 29 huruf a,  berkewajiban dan bertanggung jawab untuk:a. menghormati, melindungi dan memenuhi hak-hak korban serta hak-hak  khusus anak korban kekerasan;  
 b. menyusun dan melaksanakan program dan kegiatan terkait perlindungan perempuan dan anak;  
-c. melaksanakan perlindungan perempuan dan anak dari kekerasan; d. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar pelayanan minimal sesuai ketentuan peraturan perundang undangan;  
+c. melaksanakan perlindungan perempuan dan anak dari kekerasan;  
+d. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar pelayanan minimal sesuai ketentuan peraturan perundang undangan;  
 e. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari kekerasan sesuai kemampuan keuangan daerah dan  dianggarkan dalan setiap tahun anggaran; danf. mewujudkan Kabupaten Layak Anak.  
 2. Dalam rangka penyusunan dan pelaksanaan program perlindungan  perempuan dan anak yang efektif sebagaimana dimaksud pada ayat (1)  huruf b, Pemerintah Daerah menyelenggarakan:a. sistem data gender dan anak yang terpilah; danb. perencanaan dan penganggaran yang responsif gender dan layak anak. (3) Pemerintah Daerah dapat membentuk Unit Pelaksana Teknis Daerah  Pemberdayaan Perempuan dan Perlindungan Anak untuk menjangkau  pelayanan di Daerah.  
 
@@ -517,7 +526,8 @@ Pemerintah Desa
 #### Pasal 31
 
 1. Pemerintah Desa sebagaimana dimaksud dalam Pasal 29 huruf b, berkewajiban dan bertanggung jawab untuk:a. menyusun dan melaksanakan program dan kegiatan terkait perlindungan perempuan dan anak;  
-b. melaksanakan perlindungan perempuan dan anak dari kekerasan; c. mewujudkan desa Layak Anak; dand. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari kekerasan sesuai kemampuan keuangan desa dalam setiap  tahun anggaran.  
+b. melaksanakan perlindungan perempuan dan anak dari kekerasan;  
+c. mewujudkan desa Layak Anak; dand. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari kekerasan sesuai kemampuan keuangan desa dalam setiap  tahun anggaran.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), pemerintah desa menyusun program  dan kegiatan aksi perlindungan perempuan dan anak dalam rencana aksi desa yang merupakan bagian dari rencana pembangunan jangka menengah desa.  
 
 ## Bagian Keempat
@@ -527,7 +537,8 @@ Masyarakat
 #### Pasal 32
 
 1. Masyarakat sebagaimana dimaksud dalam Pasal 29 huruf c berkewajiban dan bertanggung jawab terhadap perlindungan perempuan  dan anak melalui kegiatan peran serta masyarakat dalam perlindungan  perempuan dan anak.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. turut serta dalam penanganan korban tindak kekerasan.  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. turut serta dalam penanganan korban tindak kekerasan.  
 
 ## Bagian Kelima
 
@@ -558,7 +569,8 @@ Pencegahan
 
 #### Pasal 35
 
-1. Pencegahan sebagaimana dimaksud dalam Pasal 34 huruf a, dilaksanakan  dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan; b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
+1. Pencegahan sebagaimana dimaksud dalam Pasal 34 huruf a, dilaksanakan  dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan kekerasan;  
 d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak; dane. memberikan pengetahuan tentang pencegahan dan mekanisme  penanggulangan kekerasan pada perempuan dan anak.  
 2. Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan secara terpadu oleh Perangkat Daerah Kabupaten dan instansi terkait yang mempunyai tugas pokok dan fungsinya dalam penyelenggaraan urusan: a. pemberdayaan perempuan dan perlindungan anak;  
@@ -610,7 +622,8 @@ a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindaka
 #### Pasal 40
 
 Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 38 huruf a angka 2 meliputi:
-a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan; b. pendampingan korban selama proses recovery psikologis;  
+a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
+b. pendampingan korban selama proses recovery psikologis;  
 c. mendampingi korban selama proses medicolegal;  
 d. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
 e. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di  kepolisian, kejaksaan dan pengadilan;  
@@ -620,7 +633,8 @@ g. melakukan koordinasi dengan pendamping yang lain; danh. memberikan penanganan
 #### Pasal 41
 
 Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 38 huruf a angka 3  meliputi:
-a. pertolongan pertama kepada korban oleh petugas yang berkompeten; b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan c. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
+a. pertolongan pertama kepada korban oleh petugas yang berkompeten;  
+b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan c. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
 
 #### Pasal 42
 
@@ -667,7 +681,8 @@ Umum
 Untuk membantu pemberdayaan perempuan dan perlindungan anak, Pemerintah Daerah dapat membentuk:
 a. Unit Pelaksana Teknis Daerah Pemberdayaan Perempuan dan Perlindungan  Anak;  
 b. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak di tingkat  Daerah;  
-c. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan; d. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa;  
+c. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan;  
+d. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa;  
 e. Komisi Perlindungan Anak Indonesia Daerah;  
 f. Forum Anak Daerah; dang. Lembaga atau organisasi lain sesuai ketentuan peraturan perundang undangan.  
 
@@ -744,8 +759,10 @@ Komisi Perlindungan Anak Indonesia Daerah
 
 1. Komisi Perlindungan Anak Indonesia Daerah sebagaimana dimaksud dalam  Pasal 45 huruf e mempunyai rincian tugas meliputi:a. melakukan pengawasan terhadap pelaksanaan perlindungan dan pemenuhan hak anak;  
 b. memberikan masukan dan usulan dalam perumusan kebijakan tentang  penyelenggaraan perlindungan anak;  
-c. mengumpulkan data dan informasi mengenai perlindungan anak; d. menerima dan melakukan penelaahan atas pengaduan masyarakat  mengenai pelanggaran hak anak;  
-e. melakukan mediasi atas sengketa pelanggaran hak anak; f. melakukan kerjasama dengan lembaga yang dibentuk masyarakat di bidang perlindungan anak; dang. tugas lain sesuai dengan ketentuan peraturan perundang-undangan.  
+c. mengumpulkan data dan informasi mengenai perlindungan anak;  
+d. menerima dan melakukan penelaahan atas pengaduan masyarakat  mengenai pelanggaran hak anak;  
+e. melakukan mediasi atas sengketa pelanggaran hak anak;  
+f. melakukan kerjasama dengan lembaga yang dibentuk masyarakat di bidang perlindungan anak; dang. tugas lain sesuai dengan ketentuan peraturan perundang-undangan.  
 2. Dalam hal terjadi perubahan peraturan perundang-undangan berkenaan  dengan Komisi Perlindungan Anak Indonesia Daerah, maka pengaturan  mengenai Komisi Perlindungan Anak Indonesia Daerah berpedoman kepada peraturan perundang-undangan yang diatur lebih lanjut dengan Peraturan Bupati.  
 
 ## Bagian Ketujuh
@@ -850,7 +867,8 @@ d. Hak anak dalam pendidikan, pemanfaatan waktu luang dan kegiatan budaya  yang 
 1. Untuk mengefektifkan pengembangan Kabupaten Layak Anak, maka dibentuk Gugus Tugas Kabupaten Layak Anak yang ditetapkan dengan Keputusan Bupati.  
 2. Keanggotaan Gugus Tugas Kabupaten Layak Anak sebagimana dimaksud  pada ayat (1) dapat berasal dari Pemerintah Daerah, perwakilan anak, dunia  usaha, tokoh agama, tokoh masyarakat dan pihak lain sesuai kebutuhan.  
 3. Dalam menyelenggarakan tugas pokok, anggota Gugus Tugas Kabupaten  Layak Anak sebagimana dimaksud pada ayat (2) mempunyai rincian tugas  meliputi:a. mengkoordinasikan berbagai upaya pengembangan Kabupaten Layak Anak;  
-b. menyusun Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak; c. melaksanakan sosialisasi, advokasi dan komunikasi pengembangan Kabupaten Layak Anak;  
+b. menyusun Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak;  
+c. melaksanakan sosialisasi, advokasi dan komunikasi pengembangan Kabupaten Layak Anak;  
 d. melakukan pemantauan terhadap pelaksanaan kebijakan, program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kabupaten Layak  Anak;  
 e. melakukan evaluasi setiap akhir tahun terhadap pelaksanaan kebijakan,  program dan kegiatan dalam Rencana Aksi Daerah Pembangunan  Kabupaten Layak Anak; danf. menyampaikan laporan kepada Bupati.  
 

@@ -17,11 +17,13 @@
 # BUPATI LUWU TIMUR,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup perempuan berhak mendapatatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga, memberi penegasan perlunya perlindungan dan pemberian rasa aman kepada perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak  Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -90,7 +92,8 @@ Maksud peraturan daerah ini yakni memberikan perlindungan perempuan  dan memberi
 #### Pasal 3
 
 Peraturan Daerah ini bertujuan untuk:
-a. mencegah segala bentuk kekerasan terhadap perempuan; b. melindungi perempuan terhadap kekerasan;  
+a. mencegah segala bentuk kekerasan terhadap perempuan;  
+b. melindungi perempuan terhadap kekerasan;  
 c. menjamin terpenuhinya hak perempuan korban kekerasan;  
 d. memberikan pelayanan kepada perempuan korban kekerasan; dan e. mewujudkan peran serta masyarakat dalam penyelenggaraan  perlindungan perempuan.  
 
@@ -131,7 +134,8 @@ PencegahanKekerasan
 #### Pasal 7
 
 1. Dalam perlindungan perempuan dilakukan pencegahan kekerasan. (2) Pencegahan sebagaimana ayat (1) dilaksanakan dengan cara: a. mensosialisasikan peraturan perundang-undangan;  
-b. memberikan edukasi bahaya kekerasan terhadap perempuan; c. melakukan seminar/lokakarya atau sejenisnya;  
+b. memberikan edukasi bahaya kekerasan terhadap perempuan;  
+c. melakukan seminar/lokakarya atau sejenisnya;  
 d. menjalin kerja sama dengan instansi pemerintah atau lembaga non pemerintah dalam upaya pencegahan kekerasan; dane. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan  terjadinya kekerasan.  
 3. Pencegahan kekerasan sebagaimana dimaksud pada ayat (2) dapat berkoordinasi dengan lembaga lain.  
 
@@ -253,7 +257,8 @@ Pelayanan Reintegrasi Sosial
 #### Pasal 20
 
 1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam Pasal 9 huruf  g, dilakukan oleh UPTD PPA bersama dengan instansi lain dan  masyarakat.  
-2. Reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan  dengan cara:a. menyatukan kembali korban dengan keluarga dan masyarakat; b. monitoring/bimbingan lanjut; danc. melakukan pemantaun paling kurang 3 (tiga) bulan setelah korban  kembali pada keluarganya.  
+2. Reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan  dengan cara:a. menyatukan kembali korban dengan keluarga dan masyarakat;  
+b. monitoring/bimbingan lanjut; danc. melakukan pemantaun paling kurang 3 (tiga) bulan setelah korban  kembali pada keluarganya.  
 
 # BAB V
 

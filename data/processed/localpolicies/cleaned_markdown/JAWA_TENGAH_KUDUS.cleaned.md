@@ -13,12 +13,14 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 # DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI KUDUS,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk kekerasan,  terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait, dan/atau masyarakat agar terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan  sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender Dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950  tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Jawa Tengah;  
@@ -102,7 +104,8 @@ b. kepentingan terbaik bagi korban;
 c. keadilan dan kesetaraan gender;  
 d. perlindungan korban;  
 e. kelangsungan hidup, dan tumbuh berkembang  anak;  
-f. penghargaan terhadap pendapat anak; g. keterbukaan;  
+f. penghargaan terhadap pendapat anak;  
+g. keterbukaan;  
 h. keterpaduan;  
 i. memberdayakan; danj. kerahasiaan korban.  
 
@@ -110,7 +113,8 @@ i. memberdayakan; danj. kerahasiaan korban.
 
 Tujuan Peraturan Daerah ini adalah:
 a. mencegah segala bentuk kekerasan berbasis gender  dalam rumah, dan kekerasan terhadap anak yang  terjadi di rumah tangga dan/atau masyarakat;  
-b. memberikan pelayanan dan perlindungan; c. memberikan pendampingan hukum;  
+b. memberikan pelayanan dan perlindungan;  
+c. memberikan pendampingan hukum;  
 d. mengupayakan pemulihan dan reintegrasi sosial;  dane. memberikan rasa aman terhadap korban.  
 
 # BAB III
@@ -227,7 +231,8 @@ Penimngkatan Partisipasi Masyarakat
 #### Pasal 13
 
 1. Peningkatan Partisipasi Masyarakat sebagaimana  dimaksud dalam Pasal 7 ayat (3) huruf e adalah  memberikan kesempatan seluas-luasnya kepada  masyarakat untuk berpartisipasi dalam membantu  pencegahan dan penanganan kekerasan berbasis  gender dan anak.  
-2. Partisipasi masyarakat sebagaimana dimaksud  dalam ayat (1) dapat dilakukan dengan:a. memberikan perlindungan bagi korban; b. memberikan pertolongan darurat;  
+2. Partisipasi masyarakat sebagaimana dimaksud  dalam ayat (1) dapat dilakukan dengan:a. memberikan perlindungan bagi korban;  
+b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap korban dan  atau masyarakat tentang penanganan kasus  kekerasan berbasis gender dan anak;  
 d. membantu proses pengajuan permohonan  penetapan perlindungan;  
 e. memberikan bantuan baik berupa uang,  barang, maupun jasa; dan/atauf. menyampaikan informasi kepada aparat yang  berwenang terkait dengan kasus kekerasan  berbasis gender dan anak.  

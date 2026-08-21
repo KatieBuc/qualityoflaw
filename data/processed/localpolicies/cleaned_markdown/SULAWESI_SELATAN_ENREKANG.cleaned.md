@@ -9,12 +9,14 @@
 # BUPATI ENREKANG.  
 
 Menimbang:  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, perlu dilakukan upaya-upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten Enrekang terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan dalam Pasal 12 Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822);  
 
 3. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  

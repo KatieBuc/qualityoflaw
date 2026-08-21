@@ -31,12 +31,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 # BUPATI BULELENG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 69 Tahun 1958 tentang  Pembentukan Daerah-daerah Tingkat II dalam Wilayah  Daerah-daerah Tingakat I Bali, Nusa Tenggara Barat dan  Nusa Tenggara Timur (Lembaran Negara Republik Indonesia jdih.bulelengkab.go.id Tahun 1958 Nomor 122, Tambahan Lembaran Negara  Republik Indonesia Nomor 1655);  
@@ -107,13 +109,15 @@ jdih.bulelengkab.go.id
 #### Pasal 2
 
 Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakanberdasarkan asas:
-a. penghormatan dan pemenuhan terhadap hak korban tindak kekerasan; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak korban tindak kekerasan;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi korban tindak kekerasan; dan e. kepastian hukum.  
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak dari Tindak Kekerasan bertujuan: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. melindungi Perempuan dan memberikan pelayanan kepada perempuan  dan anak korban tindak kekerasan; dan
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan bertujuan: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+b. melindungi Perempuan dan memberikan pelayanan kepada perempuan  dan anak korban tindak kekerasan; dan
 c. pemberdayaan perempuan dan anak korban tindak kekerasan.  
 
 # BAB III
@@ -128,7 +132,8 @@ a. untuk dihormati harkat dan martabat sebagai manusia;
 jdih.bulelengkab.go.id
 b. untuk mendapatkan Perlindungan dari keluarga, masyarakat, Pemerintah  Daerah dan/atau pihak lain baik sementara maupun berdasarkan  penetapan perintah Perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami korban kekerasan;  
-d. atas penanganan secara khusus berkaitan dengan kerahasiaan Korban; e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap  tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
+d. atas penanganan secara khusus berkaitan dengan kerahasiaan Korban;  
+e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap  tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
 f. atas pelayanan bimbingan rohani; dang. atas penyelesaian melalui mediasi, jika merupakan penyelesaian terbaik  bagi kepentingan korban; danh. menentukan sendiri keputusannya.  
 
 # BAB IV
@@ -154,7 +159,8 @@ g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.
 
 Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 5berkewajiban melakukan upaya-upaya  untuk:
 a. mencegah berlangsungnya tindak pidana;  
-b. memberikan perlindungan kepada korban tindak kekerasan; c. memberikan pertolongan darurat;dan /ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
+b. memberikan perlindungan kepada korban tindak kekerasan;  
+c. memberikan pertolongan darurat;dan /ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
 
 jdih.bulelengkab.go.id
 
@@ -170,9 +176,12 @@ Pencegahan Tindak Kekerasan
 
 #### Pasal 8
 
-1. Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap  perempuan dan anak dengan cara:a. melakukan sosialisasi peraturan perundang-undangan; b. memberikan konseling/bimbingan;  
-c. memberikan edukasi bahaya kekerasan dalam rumah tangga; d. melakukan seminar/lokakarya atau sejenisnya;  
-e. membentuk jaringan kerja dalam upaya pencegahan kekerasan; f. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
+1. Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap  perempuan dan anak dengan cara:a. melakukan sosialisasi peraturan perundang-undangan;  
+b. memberikan konseling/bimbingan;  
+c. memberikan edukasi bahaya kekerasan dalam rumah tangga;  
+d. melakukan seminar/lokakarya atau sejenisnya;  
+e. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+f. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
 g. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan;danh. meningkatkan kesadaran masyarakat dalam berprilaku yang sesuai  dengan norma agama.  
 2. Selain melakukan pencegahan sebagaimana dimaksud pada ayat (1)  pencegahan tindak kekerasan terhadap anak juga dilakukan dengan cara  meningkatkan kapasitas keluarga dalam perlindungan anak dan  ketrampilan pengasuhan anak.  
 3. Selain Pemerintah Daerah pencegahan sebagaimana dimaksud pada ayat  (1) berkewajiban dilaksanakan oleh:a. keluarga dan/atau kerabat terdekat;  
@@ -234,7 +243,8 @@ Perlindungan Khusus Anak
 1. Perlindungan khusus anak diberikan kepada:a. Anak dalam situasi darurat;  
 b. Anak yang berhadapan dengan hukum;  
 c. Anak dari kelompok minoritas dan terisolasi;  
-d. Anak yang dieksploitasi secara ekonomi dan/atau seksual; e. Anak yang menjadi korban penyalahgunaan narkotika, alkohol,  psikotropika, dan zat adiktif lainnya;  
+d. Anak yang dieksploitasi secara ekonomi dan/atau seksual;  
+e. Anak yang menjadi korban penyalahgunaan narkotika, alkohol,  psikotropika, dan zat adiktif lainnya;  
 f. Anak yang menjadi korban pornografi;  
 g. Anak dengan HIV/AIDS;  
 h. Anak korban penculikan, penjualan, dan/atau perdagangan;  
@@ -332,7 +342,9 @@ jdih.bulelengkab.go.id
 #### Pasal 18
 
 1. Setiap orang dapat berpatisipasi dalam memberikan perlindungan  terhadap perempuan dan anak dari tindak kekerasan.  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan  cara:a. melaporkan tindak kekerasan terhadap perempuan dan/atau anak; b. melakukan pertolongan pertama kepada korban Tindak Kekerasan; c. mensosialisasikan hak perempuan dan anak secara mandiri;  dan/ataud. membentuk lembaga sosial masyarakat yang mandiri.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan  cara:a. melaporkan tindak kekerasan terhadap perempuan dan/atau anak;  
+b. melakukan pertolongan pertama kepada korban Tindak Kekerasan;  
+c. mensosialisasikan hak perempuan dan anak secara mandiri;  dan/ataud. membentuk lembaga sosial masyarakat yang mandiri.  
 
 #### Pasal 19
 
@@ -350,7 +362,9 @@ Dalam hal lembaga sosial masyarakat melaksanakan perlindungan terhadap  perempua
 
 SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan,  meliputi layanan:
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap Perempuan  dan Anak;  
-b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan; c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan; d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban  Kekerasan; dane. pemulangan dan reintegrasi sosial bagi Perempuan dan AnakKorban  Kekerasan.  
+b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
+c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan;  
+d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban  Kekerasan; dane. pemulangan dan reintegrasi sosial bagi Perempuan dan AnakKorban  Kekerasan.  
 
 jdih.bulelengkab.go.id
 

@@ -13,12 +13,14 @@ KERJASAMA PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASA
 # BUPATI BANGKA BARAT,
 
 Menimbang:  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak merupakan kejahatan  kemanusiaan yang merupakan pelanggaran Hak Asasi Manusia;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kabupaten Bangka  Barat masih sering terjadi sedangkan pelayanan dan perlindungan terhadap  perempuan dan anak di Kabupaten Bangka Barat belum dilaksanakan secara  optimal;  
 c. bahwa dalam rangka pelaksanaan otonomi daerah, maka pengaturan dan  pelayanan masyarakat khususnya terhadap perempuan dan anak korban  tindak kekerasan merupakan tugas pokok dan fungsi pemerintah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Kerjasama Penyelenggaraan Perlindungan Perempuan dan Anak Korban Tindak  Kekerasan;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi  mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita  (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan  Lembaran Negara Republik Indonesia Nomor 3277 );  
 
 2. Undang-Undang Nomor 3 Tahun 1997 tentang Pengadilan Anak (Lembaran  Negara Republik Indonesia Tahun 1997 Nomor 3, Tambahan Lembaran  Negara Republik Indonesia Nomor 3668);  
@@ -127,7 +129,8 @@ d. bimbingan rohani;dane. resosialisasi.
 #### Pasal 10
 
 Dalam hal tertentu, tenaga kesehatan, pekerja sosial, relawan pendamping  dan/atau pembimbing rohani dapat menjalin kerjasama dengan: a. kepolisian, untuk melaporkan dan memproses pelaku tindak pidana  kekerasan dalam rumah tangga;  
-b. advokat, untuk membantu korban dalam proses peradilan; c. penegak hukum lainnya, untuk membantu korban dalam proses di sidang  pengadilan;  
+b. advokat, untuk membantu korban dalam proses peradilan;  
+c. penegak hukum lainnya, untuk membantu korban dalam proses di sidang  pengadilan;  
 d. Komisi Nasional Anti Kekerasan Terhadap Perempuan;  
 e. Komisi Perlindungan Anak Indonesia (KPAI); danf. pihak tertentu yang diinginkan demi kepentingan korban.  
 

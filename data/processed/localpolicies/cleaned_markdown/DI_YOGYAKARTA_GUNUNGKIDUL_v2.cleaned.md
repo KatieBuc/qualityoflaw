@@ -15,11 +15,13 @@ PENYELENGGARAAN PELINDUNGAN TERHADAP  PEREMPUAN DAN ANAK DARI KEKERASAN
 # DENGAN RAHMAT TUHAN YANG MAHA ESA  BUPATI GUNUNGKIDUL,
 
 Menimbang:  
+ 
 a. bahwa penyelenggaraan  perlindungan perempuan dan anak korban kekerasan telah ditetapkan dengan Peraturan Daerah Kabupaten Gunungkidul Nomor 25 Tahun 2012;  
 b. bahwa sesuai dengan perkembangan sosial dan dalam rangka optimalisasi terhadap perlindungan perempuan dan anak korban kekerasan, maka Peraturan Daerah Nomor 25 Tahun 2012 perlu diubah dan disesuaikan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan terhadap Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang – Undang Nomor 15 Tahun  1950 tentang Pembentukan Daerah – Daerah Kabupaten dalam Lingkungan Daerah Istimewa Jogjakarta (Berita Negara Tahun 1950 Nomor 44);  

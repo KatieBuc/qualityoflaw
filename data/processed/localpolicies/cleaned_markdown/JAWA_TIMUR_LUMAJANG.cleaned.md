@@ -13,10 +13,12 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN LU
 # BUPATI LUMAJANG
 
 Menimbang:  
+ 
 a. bahwa sampai saat ini masih sering terjadi kasus kekerasan terhadap perempuan dan anak, sementara pelayanan dan perlindungan belum dilakukan secara optimal ;  
 b. bahwa sehubungan dengan pertimbangan tersebut pada huruf a, dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan di Kabupaten Lumajang yang ditetapkan dengan Peraturan Daerah.  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 12 Tahun 1950, tentang Pembentukan Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Lembaran Negara Republik Indonesia Tahun 1950 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 9) ;  
 
 2. Undang-Undang Nomor 6 Tahun 1974, tentang Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 53. Tambahan Lembaran Negara Republik Indonesia Nomor 3039) ;  

@@ -11,12 +11,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 # WALIKOTA SEMARANG,
 
 Menimbang:  
+ 
 a. bahwa pemenuhan hak-hak konstitusional dan  perlindungan hak asasi manusia perempuan dan anak  terhadap tindak kekerasan merupakan salah satu nilai  yang tertuang dalam Pancasila dan Undang-Undang Dasar  1945;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kota  Semarang terus meningkat dan meluas yang  menyebabkan warga masyarakat tidak aman dalam  menjalankan kehidupan, sehingga diperlukan upaya  perlindungan secara terpadu;  
 c. bahwa untuk memberikan arah dan kepastian hukum  kepada semua yang terlibat dalam upaya memberikan  perlindungan hukum, maka diperlukan pengaturan  tentang perlindungan perempuan dan anak dari tindak  kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c maka perlu  membentuk Peraturan Daerah Kota Semarang tentang  Perlindungan Perempuan dan Anak Dari Tindak  Kekerasan.  
 
 Mengingat:  
+ 
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-daerah Kota Besar dalam  Lingkungan Propinsi Djawa Timur, Djawa Tengah, Djawa  Barat dan Daerah Istimewa Jogyakarta;  
@@ -123,7 +125,8 @@ f. Eksploitasi; dan/ataug. Kekerasan lainnya.
 #### Pasal 5
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
-a. Hak untuk dihormati harkat dan martabat sebagai manusia; b. Hak pemulihan;  
+a. Hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. Hak pemulihan;  
 c. Hak menentukan sendiri keputusannya;  
 d. Hak mendapatkan informasi;  
 e. Hak atas kerahasiaan;  
@@ -135,7 +138,8 @@ i. Hak atas pendampingan; danj. Hak rasa aman.
 #### Pasal 6
 
 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:
-a. Hak untuk kelangsungan hidup, tumbuh dan berkembang; b. Hak pelayanan dasar kependudukan;  
+a. Hak untuk kelangsungan hidup, tumbuh dan berkembang;  
+b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
 d. Hak bebas dari berbagai stigma;dane. Hak mendapatkan kebebasan.  
 
@@ -153,7 +157,8 @@ b. Masyarakat.
 
 1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 7 huruf a, meliputi:a. menetapkan, melaksanakan kebijakan, program, dan melakukan  kerjasama kegiatan dalam penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan;  
 b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak  dari tindak kekerasan serta memberikan dukungan sarana dan  prasarana;  
-c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah; d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
+c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah;  
+d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
 e. menyediakan pelayanan perlindungan perempuan dan anak korban  tindak kekerasan;  
 f. mendorong dan meningkatkan partisipasi masyarakat;  
 g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perlindungan untuk anak yang menjadi korban tindak  kekerasan.  
@@ -164,14 +169,16 @@ g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perl
 #### Pasal 9
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan;  
 c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dand. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 10
 
 Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas  kemampuannya untuk:
-a. Mencegah dan menghentikan berlangsungnya tindak kekerasan; b. Memberikan perlindungan kepada korban;  
+a. Mencegah dan menghentikan berlangsungnya tindak kekerasan;  
+b. Memberikan perlindungan kepada korban;  
 c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohonan penetapan perlindungan.  
 
 # BAB VI
@@ -213,9 +220,11 @@ Pencegahan Tindak Kekerasan
 #### Pasal 15
 
 1. Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal; b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial sesuai  dengan ketentuan yang berlaku;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  dilaksanakan dengan cara:a. memberikan materi tentang pencegahan tindak kekerasan terhadap  perempuan dan anak dalam pendidikan baik formal maupun informal;  
+b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial sesuai  dengan ketentuan yang berlaku;  
 c. pembukaan lapangan kerja bagi perempuan;  
-d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah di akses;  
+d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
+e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah di akses;  
 f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, lembaga pendidikan,dan berbagai lembaga  swadaya masyarakat yang bergerak dan/atau peduli terhadap  perempuan dan anak; dang. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari tindak kekerasan di setiap kelurahan.  
 
 #### Pasal 16
@@ -249,9 +258,11 @@ Pemulihan
 #### Pasal 18
 
 Pemulihan meliputi:
-a. Memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. Memberikan pelayanan medicolegal;  
+a. Memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. Memberikan pelayanan medicolegal;  
 c. Membantu pemulangan korban;  
-d. Memberikan perlindungan sementara di rumah aman (shelter); e. Memberikan pemulihan dan pendampingan psikososial;  
+d. Memberikan perlindungan sementara di rumah aman (shelter);  
+e. Memberikan pemulihan dan pendampingan psikososial;  
 f. Memberikan pelayanan bimbingan rohani;  
 g. Melakukan penyiapan lingkungan keluarga, sekolah, kerja dan masyarakat,  serta pemberdayaan ekonomi.  
 
@@ -308,7 +319,8 @@ Kemitraan
 
 1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan;  
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
-b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan; c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan Perundang-undangan.  
 
 # BAB IX

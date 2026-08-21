@@ -19,12 +19,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN
 # WALIKOTA MADIUN,
 
 Menimbang:  
+ 
 a. bahwa bentuk kekerasan terhadap perempuan dan  anak merupakan salah satu bentuk pelanggaran atas hak asasi manusia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa tindakan kekerasan terhadap perempuan dan  anak akan berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan sehingga perlu diberikan rasa aman dan perlindungan;  
 c. bahwa pada saat ini belum ada Peraturan Daerah yang  menjamin perlindungan terhadap perempuan dan anak korban kekerasan di Kota Madiun;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-daerah Kota Besar Dalam Lingkungan Propinsi Jawa Timur, Jawa Tengah, Jawa Barat dan Daerah Istimewa Yogyakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 45);  
@@ -127,7 +129,8 @@ d. penelantaran ekonomi; dane. pembatasan ruang gerak.
 1. Setiap orang dilarang membiarkan terjadinya tindak  kekerasan terhadap perempuan dan anak.  
 2. Setiap orang wajib melaporkan terjadinya kekerasan  terhadap perempuan dan anak kepada instansi yang  berwenang.  
 3. Perlindungan terhadap perempuan dan anak korban  kekerasan dilakukan oleh:a. Pemerintah Daerah;  
-b. instansi terkait beserta lembaga sosial lainnya; c. keluarga dan/atau kerabat terdekat;  
+b. instansi terkait beserta lembaga sosial lainnya;  
+c. keluarga dan/atau kerabat terdekat;  
 d. masyarakat; dan/ataue. lembaga pendidikan.  
 4. Upaya perlindungan terhadap perempuan dan anak  jika terjadi kekerasan terhadap perempuan dan anak  sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan cara:a. membentuk jaringan kerja dalam upaya  pencegahan kekerasan berdasarkan pola  kemitraan;  
 b. melakukan perlindungan secara represif berupa  pemberian ganti rugi dan kuratif berupa bantuan  medis, rehabilitasi psiko sosial; dan - 8 -c. melakukan pendidikan dan sosialisasi tentang  peraturan perundang-undangan yang berkaitan  dengan perlindungan perempuan dan anak korban  kekerasan.  

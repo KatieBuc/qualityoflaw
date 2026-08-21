@@ -15,12 +15,14 @@
 # BUPATI PESAWARAN,
 
 Menimbang:  
+ 
 a. bahwa Negara Republik Indonesia adalah Negara yang menjunjung tinggi harkat dan martabat setiap manusia, memberi jaminan atas hak dan rasa aman bagi perempuan dan anak serta bebas dari segala bentuk kekerasan, perlakuan salah, eksploitasi, trafficking dan penelantaran;  
 b. bahwa agar upaya-upaya perlindungan terhadap anak dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c di atas, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -358,7 +360,8 @@ Setiap anak yang menjadi korban atau pelaku tindak pidana berhak mendapatkan ban
 
 Setiap anak berkewajiban untuk:
 a. menghormati orang tua, wali, dan guru;  
-b. mencintai keluarga, masyarakat, dan menyayangi teman; c. mencintai tanah air, bangsa, dan negara;  
+b. mencintai keluarga, masyarakat, dan menyayangi teman;  
+c. mencintai tanah air, bangsa, dan negara;  
 d. menunaikan ibadah sesuai dengan ajaran agamanya; dan e. melaksanakan etika dan akhlak yang mulia.  
 
 #### Pasal 33
@@ -480,7 +483,8 @@ h. anak korban kekerasan fisik dan/atau psikis;
 i. anak korban kejahatan seksual;  
 j. anak korban jaringan terorisme;  
 k. anak penyandang disabilitas;  
-l. anak korban perlakuan salah dan penelantaran; m. anak dengan perilaku sosial menyimpang; dann. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
+l. anak korban perlakuan salah dan penelantaran;  
+m. anak dengan perilaku sosial menyimpang; dann. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya.  
 
 #### Pasal 50
 
@@ -748,7 +752,8 @@ Penyelenggaraan Kabupaten Layak Anak
 
 #### Pasal 80
 
-1. Penyelenggaraan kabupaten layak anak meliputi: a. Pemenuhan hak kesehatan dasar dan kesejahteraan; b. Pemenuhan hak untuk bertahan hidup;  
+1. Penyelenggaraan kabupaten layak anak meliputi: a. Pemenuhan hak kesehatan dasar dan kesejahteraan;  
+b. Pemenuhan hak untuk bertahan hidup;  
 c. Pemenuhan hak terhadap tumbuh kembang;  
 d. Pemenuhan hak untuk berpartisipasi; dane. Pemenuhan hak mendapatkan perlindungan terhadap kekerasan dan diskriminasi.  
 2. Setiap orang wajib mendukung program Kabupaten layak anak sebagaimana dimaksud pada ayat (1).  

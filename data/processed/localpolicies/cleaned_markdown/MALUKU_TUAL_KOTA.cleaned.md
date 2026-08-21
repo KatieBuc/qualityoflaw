@@ -15,12 +15,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 # WALIKOTA TUAL,
 
 Menimbang:  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak  berhak memperoleh perlindungan atas setiap tindakan kekerasan yang dilakukan terhadapnya yang  menimbulkan korban fisik maupun psykis, sebagai  bagian dari pengakuan dan penegakan hak asasi  manusia;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh pancasila sebagai falsafah negara, Undang-Undang  dasar Negara Republik Indonesia sebagai dasar hukum tertinggi dalam negara maupun berbagai peraturan  perundangan lainya;  
 c. bahwa perlindungan terhadap perempuan dan anak  korban kekerasan merupakan salah sat aspek dari tugas  dan tanggung jawab pemerintah daerah dalam  memberikan perlindungan dan pelayanan kepada  masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu ditetapkan dengan Peraturan Daerah Kota Tual tentang  Penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia 1945;  
 
 2. Undang-Undang Nomor 60 Tahun 1958 tentang  Penetapan Undang-Undang Nomor 23 Tahun 1957  tentang Pembentukan Daerah-Daerah Swatantra  Tingkat II Dalam Wilayah Daerah Swatantra Tingkat I  Maluku (Lembaran Negara Republik Indonesia  Tahun 1958 Nomor 111, Tambahan Lembaran Negara  Republik Indonesia Nomor 1645);  

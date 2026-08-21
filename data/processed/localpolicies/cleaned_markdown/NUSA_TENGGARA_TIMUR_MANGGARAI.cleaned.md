@@ -84,7 +84,8 @@ Tujuan
 
 #### Pasal 3
 
-Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk:  a. mencegah terjadinya kekerasan terhadap perempuan dan anak; b. mendampingi perempuan dan anak korban kekerasan dalam proses hukum baik litigasi maupun non litigasi sesuai dengan ketentuan peraturan  perundang-undangan;  
+Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk:  a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
+b. mendampingi perempuan dan anak korban kekerasan dalam proses hukum baik litigasi maupun non litigasi sesuai dengan ketentuan peraturan  perundang-undangan;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; dand. memulihkan kondisi fisik dan psikis perempuan dan anak korban kekerasan.  
 
 # BAB III
@@ -139,7 +140,8 @@ b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap kor
 #### Pasal 7
 
 1. Bupati dapat membentuk Pusat Pelayanan Terpadu dalam penyelenggaraan  perlindungan terhadap perempuan dan anak.  
-2. Pusat Pelayanan Terpadu sebagaimana dimaksud pada ayat (1) dapat  mewadahi lembaga dan/atau unit kerja yang memberikan pelayanan bagi  korban kekerasan antara lain:a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A); b. rumah aman;  
+2. Pusat Pelayanan Terpadu sebagaimana dimaksud pada ayat (1) dapat  mewadahi lembaga dan/atau unit kerja yang memberikan pelayanan bagi  korban kekerasan antara lain:a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
+b. rumah aman;  
 c. rumah perlindungan sosial anak;  
 d. rumah perlindungan trauma centre;  
 e. rumah perlindungan sosial wanita;  
@@ -157,7 +159,8 @@ d. bantuan hukum; dane. pemulangan dan reintegrasi sosial.
 
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban Kekerasan  dapat melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak; b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
 
 # BAB VIII
 

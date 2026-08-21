@@ -133,7 +133,8 @@ a. Untuk hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat
 b. Memperoieh perlindungan dari tindakan diskriminasi;  
 c. Memperoleh perlindungan dari ekspioitasi ekonomi dan eksploitasi seksuai;  
 d. Memperoleh perlindungan dari kekerasan frsik, psikoiogis, seksual dan penelantaran;  
-e. Atas suatu nama sebagai identitas diri dan status kewarganegaraan; f. Memperoleh akta kelahiran secara bebas biaya;  
+e. Atas suatu nama sebagai identitas diri dan status kewarganegaraan;  
+f. Memperoleh akta kelahiran secara bebas biaya;  
 g. Untuk memeluk agama dan beribadah menurut ajaran agamanya dengan bimbingan orang trra/ wali;  
 h. Untuk tidak dipaksa berganti agama oleh orang tua asuh, orang tua angkat dan oleh siapapun;  
 i. Untuk diakui dan mengetahui orang tuanya, dibesarkan dan diasuh orang ruanya sendiri;  
@@ -251,7 +252,8 @@ Orang tua, keluarga dan/atau wali
 #### Pasal 15
 
 1. Dalam rangka mencegah terjadinya pelanggaran terhadap hak anak, orang tua atau wali:a. Memberikan tauladan yang baik kepada anak sesuai ajaran agama dan adat;  
-b. Mengawasi anak dalam tieraktifitas di dalam ataupun diluar rumah; c. Memberikan peluang bagi anak berdialog menyarnpaikar pendapat secara demokratis; dand. Melindungi anak dari berbagai tindak pelanggaran hak anak dalam rumah tangga.  
+b. Mengawasi anak dalam tieraktifitas di dalam ataupun diluar rumah;  
+c. Memberikan peluang bagi anak berdialog menyarnpaikar pendapat secara demokratis; dand. Melindungi anak dari berbagai tindak pelanggaran hak anak dalam rumah tangga.  
 2. Dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan, keluarga:a. Melindungi perempuan dari berbagai pelanggaran hak dalam rumah tangga; danb. Mendorong terbentuknya keluarga yang harmonis, edukatif dan demokratis.  
 
 # BAB VI
@@ -366,10 +368,12 @@ Anak yang memeriukan perlindungan khusus dilindungi haknya guna memperoleh pendi
 a. Anak dalam situasi darurat;  
 b. Anak yang berhadapan dengan hukum;  
 c. Anak dari kelompok minoritas dan terisolasi;  
-d. Anak yang dieksploitasi secara ekonomi dan/atau seksual; e. Anak yang menjadi korban penyala-hgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya;  
+d. Anak yang dieksploitasi secara ekonomi dan/atau seksual;  
+e. Anak yang menjadi korban penyala-hgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya;  
 f. Anak yang menjadi korban pomograii;  
 g. Anak dengan HIV/AIDS;  
-h. Anak korban penculikan, penjualan, dalr/ atau perdagangan; i. Anak korban Kekerasan {isik dan/atau psikis;  
+h. Anak korban penculikan, penjualan, dalr/ atau perdagangan;  
+i. Anak korban Kekerasan {isik dan/atau psikis;  
 j. Anak korban kejahatan seksual;  
 k. Anak korban jaringan terorisme;  
 l. Anak Penyandang Disabilitas;  
@@ -626,7 +630,8 @@ b. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan per
 
 #### Pasal 63
 
-1. Setiap orang atau badan yang melanggar Pasal 20, Pasal 21, Pasal 32, Pasal 33 dan Pasal 36 dikenakan sanksi administratif berupa: a. Denda paling banyak Rp. 5O.OOO.OOO,- (lima puluh juta rupiah); b. Pencabutan izin usaha.  
+1. Setiap orang atau badan yang melanggar Pasal 20, Pasal 21, Pasal 32, Pasal 33 dan Pasal 36 dikenakan sanksi administratif berupa: a. Denda paling banyak Rp. 5O.OOO.OOO,- (lima puluh juta rupiah);  
+b. Pencabutan izin usaha.  
 
 (21Tata cara tentang pemberlakuan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Walikota.  
 

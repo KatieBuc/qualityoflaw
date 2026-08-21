@@ -13,6 +13,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DENGAN RAHMAT TUHAN YANG MAHA 
 # BUPATI KATINGAN,
 
 Menimbang Mengingat:  
+ 
 a. bahwa dengan ditetapkannya Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014  tentang Perubahan atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak dan Undang-Undang  Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga maka dipandang perlu mencegah dan  menanggulangi kekerasan terhadap Perempuan dan Anak  melalui perlindungan hukum terhadap Perempuan dan Anak  korban kekerasan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempuan dan Anak korban kekerasan;  
 
@@ -96,12 +97,14 @@ b. keadilan dan kesetaraan gender;
 c. non diskriminasi;  
 d. kepentingan terbaik bagi korban;  
 e. kearifan lokal;  
-f. hak untuk hidup, kelangsungan hidup dan perkembangan anak; g. penghargaan terhadap pendapat korban; danh. kepastian hukum.  
+f. hak untuk hidup, kelangsungan hidup dan perkembangan anak;  
+g. penghargaan terhadap pendapat korban; danh. kepastian hukum.  
 
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak korban kekerasan bertujuan:
-a. mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. melindungi perempuan dan anak serta memberikan pelayanan kepada  perempuan dan Anak korban kekerasan; danc. pemberdayaan perempuan dan Anak korban kekerasan.  
+a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+b. melindungi perempuan dan anak serta memberikan pelayanan kepada  perempuan dan Anak korban kekerasan; danc. pemberdayaan perempuan dan Anak korban kekerasan.  
 
 #### Pasal 4
 
@@ -125,13 +128,15 @@ Setiap Perempuan dan Anak korban kekerasan berhak:
 a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah  dan pihak lain baik sementara maupun berdasarkan penetapan perintah  Perlindungan dari Pengadilan;  
 c. mendapatkan pemulihan pelayanan kesehatan fisik, psikologis maupun  seksual sesuai penderitaan yang dialami oleh korban kekerasan;  
-d. mendapatkan penanganan secara khusus berkaitan dengan kerahasiaan korban; e. mendapatkan pendampingan oleh pendamping dan bantuan hukum pada  setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
+d. mendapatkan penanganan secara khusus berkaitan dengan kerahasiaan korban;  
+e. mendapatkan pendampingan oleh pendamping dan bantuan hukum pada  setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
 f. mendapatkan pelayanan bimbingan rohani.  
 
 #### Pasal 6
 
 Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus sebagai berikut:
-a. penghormatan atas kelangsungan hidup, tumbuh dan berkembang; b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; danc. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
+a. penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
+b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; danc. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
 
 6 -
 
@@ -148,14 +153,16 @@ c. menetapkan kebijakan, program dan kegiatan perlindungan Perempuan  dan Anak k
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  Perempuan dan Anak korban kekerasan;  
 e. mengalokasikan anggaran dalam penyelenggaraan perlindungan Perempuan  dan Anak korban kekerasan;  
 f. membina dan mengawasi penyelenggaraan perlindungan Perempuan dan  Anak korban kekerasan;  
-g. peningkatan kualitas dan kompetensi SDM yang memberikan pelayanan/  pendampingan bagi korban kekerasan pada perempuan dan anak; h. melakukan keijasama dengan masyarakat dan/atau organisasi  kemasyarakatan dalam penyelenggaraan perlindungan perempuan sesuai  dengan peraturan perundang-undangan;  
+g. peningkatan kualitas dan kompetensi SDM yang memberikan pelayanan/  pendampingan bagi korban kekerasan pada perempuan dan anak;  
+h. melakukan keijasama dengan masyarakat dan/atau organisasi  kemasyarakatan dalam penyelenggaraan perlindungan perempuan sesuai  dengan peraturan perundang-undangan;  
 i. melakukan tindakan preventive dalam rangka mencegah terjadinya  pelanggaran terhadap hak perempuan dan anak.  
 3. Tanggung jawab Pemerintah Daerah dalam upaya perlindungan perempuan dan  anak sebagaimana dimaksud pada Pasal 7 ayat (1) dilaksanakan oleh Perangkat  Daerah sesuai dengan tugas dan fungsinya.  
 
 #### Pasal 8
 
 1. Masyarakat dapat berpartisipasi dan bertanggung jawab dalam pelayanan,  pencegahan, pendampingan, pemulihan dan pemantauan terhadap korban  kekerasan.  
-2. Partisipasi masyarakat dan tanggung jawab sebagaimana dimaksud pada ayat (1)  diselenggarakan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak; b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  Perempuan dan Anak kepada pihak yang berwenang;  
+2. Partisipasi masyarakat dan tanggung jawab sebagaimana dimaksud pada ayat (1)  diselenggarakan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  Perempuan dan Anak kepada pihak yang berwenang;  
 c. memberikan pertolongan darurat; dand. memberikan perlindungan terhadap korban kekerasan.  
 
 # BAB V
@@ -183,16 +190,22 @@ f. mediasi; dang. pemulangan dan reintegrasi sosial.
 
 1. SPM dilaksanakan oleh Unit Pelaksana Teknis Daerah Perlindungan Perempuan  dan Anak bertujuan menjamin Perempuan dan Anak korban kekerasan  mendapatkan layanan minimal yang dibutuhkan.  
 2. SPM sebagaimana dimaksud pada ayat (1) meliputi layanan: a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
-b. rehabilitasi kesehatan bagi perempuan dan anak korban kekerasan; c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan; d. bantuan hukum bagi perempuan dan anak korban kekerasan; e. pemulihan/ layanan psikologis bagi perempuan dan anak korban kekerasan; f. mediasi bagi perempuan dan anak korban kekerasan; dang. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+b. rehabilitasi kesehatan bagi perempuan dan anak korban kekerasan;  
+c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
+d. bantuan hukum bagi perempuan dan anak korban kekerasan;  
+e. pemulihan/ layanan psikologis bagi perempuan dan anak korban kekerasan;  
+f. mediasi bagi perempuan dan anak korban kekerasan; dang. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
 #### Pasal 11
 
-1. SPM sebagaimana dimaksud dalam Pasal 9 ayat (3) memiliki indikator kineija meliputi:a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam UPTD PPA; b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
+1. SPM sebagaimana dimaksud dalam Pasal 9 ayat (3) memiliki indikator kineija meliputi:a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam UPTD PPA;  
+b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
 c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di  dalam UPTD PPA;  
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak korban kekerasan di  dalam UPTD PPA;  
 e. cakupan layanan bantuan hukum bagi perempuan dan anak korban  kekerasan;  
 f. cakupan layanan pemulihan/ layanan psikologis bagi perempuan dan anak  korban kekerasan;  
-g. cakupan layanan mediasi bagi perempuan dan anak korban kekerasan; h. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan;  dani. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+g. cakupan layanan mediasi bagi perempuan dan anak korban kekerasan;  
+h. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan;  dani. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 2. Penetapan indikator kineija SPM UPTD PPA bagi Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai.  
 
 # BAB VII
@@ -236,7 +249,8 @@ e. monitoring; danf. evaluasi.
 
 1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban  kekerasan, masyarakat dapat:a. membentuk mitra keluarga ditingkat kelurahan dan desa berkoordinasi  dengan Damang atau Mantir Adat dan Tokoh Masyarakat;  
 b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi  kemasyarakatan;  
-c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri; d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya teijadi  kekerasan terhadap korban.  
+c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya teijadi  kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh  perorangan, mitra keluarga, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 
 # BAB XI

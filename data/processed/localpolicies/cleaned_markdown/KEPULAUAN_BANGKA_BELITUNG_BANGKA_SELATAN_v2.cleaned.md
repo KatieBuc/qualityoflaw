@@ -13,11 +13,13 @@ PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 # BUPATI BANGKA SELATAN,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang sama  dalam berpartisipasi di berbagai bidang kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi  yang berkualitas sehingga perlu mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan  (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1,  Tambahan Lembaran Negara Republik Indonesia Nomor  3019);  
@@ -90,9 +92,11 @@ www.jdih.bangkaselatankab.go.id
 Ruang lingkup Peraturan Daerah ini meliputi:
 a. Asas dan tujuan;  
 b. Hak perempuan;  
-c. Kewajiban dan Tanggung Jawab Pemerintah Daerah; d. Pemberdayaan Perempuan;  
+c. Kewajiban dan Tanggung Jawab Pemerintah Daerah;  
+d. Pemberdayaan Perempuan;  
 e. Perlindungan Perempuan;  
-f. Strategi Pemberdayaan dan Perlindungan Perempuan; g. Mekanisme Penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan;  
+f. Strategi Pemberdayaan dan Perlindungan Perempuan;  
+g. Mekanisme Penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan;  
 h. Peran Serta Masyarakat;  
 i. Pendanaan; danj. Pembinaan dan Pengawasan.  
 
@@ -125,10 +129,13 @@ c. memberikan jaminan kepada perempuan dalam pemenuhan  hak sebagai manusia;dand
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan  berkembang secara layak, berkeluarga dan melanjutkan  keturunan;  
 c. mengembangkan pribadinya, untuk memperoleh  pendidikan, dan meningkatkan kualitas hidupnya agar  menjadi manusia yang beriman, bertaqwa, bertanggung  jawab, berakhlak mulia, bahagia, dan sejahtera sesuai  dengan hak asasi manusia;  
 d. memperoleh keadilan, rasa aman, dan kebebasan  menyampaikan pendapat tanpa diskriminasi;  
-e. terlibat dalam setiap tahapan proses pembangunan; f. bebas dari perbudakan atau diperhamba dan ancaman; g. memperoleh perlindungan diri pribadi, keluarga,  kehormatan, martabat dan hak miliknya;  
+e. terlibat dalam setiap tahapan proses pembangunan;  
+f. bebas dari perbudakan atau diperhamba dan ancaman;  
+g. memperoleh perlindungan diri pribadi, keluarga,  kehormatan, martabat dan hak miliknya;  
 
 www.jdih.bangkaselatankab.go.id
-h. mendapatkan kesejahteraan dan kehidupan yang layak; i. berpartisipasi dalam politik;  
+h. mendapatkan kesejahteraan dan kehidupan yang layak;  
+i. berpartisipasi dalam politik;  
 j. melakukan perbuatan hukum; dank. bebas memilih pasangan dalam perkawinannya. (2) Setiap istri selama dalam ikatan perkawinan mempunyai hak  dan tanggung jawab yang sama dengan suaminya atas semua  hal yang berkenaan dengan kehidupan perkawinannya,  hubungan dengan anak-anaknya, dan kepemilikan serta  pengelolaan harta bersama sesuai dengan peraturan  perundang-undangan yang berlaku.  
 3. Setelah putusnya perkawinan, seorang perempuan  mempunyai hak dan tanggung jawab dengan mantan  suaminya atas semua hal yang berkenaan dengan anak  dengan memperhatikan kepentingan terbaik bagi anak.  
 
@@ -170,7 +177,8 @@ Bidang Ekonomi
 
 Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
 d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 ## Bagian Kedua
@@ -265,7 +273,8 @@ c. perempuan penyandang disabilitas;
 d. perempuan tuna wisma;  
 e. perempuan pekerja rumah tangga;  
 f. perempuan penyangga ekonomi keluarga;  
-g. perempuan mantan warga binaan lembaga permasyarakatan; h. perempuan korban bencana;  
+g. perempuan mantan warga binaan lembaga permasyarakatan;  
+h. perempuan korban bencana;  
 i. perempuan pekerja seks komersial; danj. perempuan korban kekerasan.  
 
 ## Bagian Kesatu
@@ -274,7 +283,10 @@ Perempuan Pekerja / Buruh
 
 #### Pasal 17
 
-1. Pelaksanaan perlindungan bagi perempuan pekerja/ buruh  untuk memberikan perlindungan dari tindakan eksploitasi www.jdih.bangkaselatankab.go.id ekonomi dan perlakuan kejam, tidak manusiawi dan  mengusahakan penghargaan yang layak atas pekerjaan. (2) Perempuan pekerja/buruh sebagimana dimaksud pada ayat (1) mendapatkan perlindungan atas:a. Pengakuan hak, upah dan kondisi kerja yang layak; b. Jaminan kesehatan dan jaminan Sosial ketenagakerjaan; c. Akses informasi dan layanan konsultasi hukum; d. Kesempatan memperoleh pengetahuan dan ketrampilan  untuk meningkatkan status;  
+1. Pelaksanaan perlindungan bagi perempuan pekerja/ buruh  untuk memberikan perlindungan dari tindakan eksploitasi www.jdih.bangkaselatankab.go.id ekonomi dan perlakuan kejam, tidak manusiawi dan  mengusahakan penghargaan yang layak atas pekerjaan. (2) Perempuan pekerja/buruh sebagimana dimaksud pada ayat (1) mendapatkan perlindungan atas:a. Pengakuan hak, upah dan kondisi kerja yang layak;  
+b. Jaminan kesehatan dan jaminan Sosial ketenagakerjaan;  
+c. Akses informasi dan layanan konsultasi hukum;  
+d. Kesempatan memperoleh pengetahuan dan ketrampilan  untuk meningkatkan status;  
 
 ## Bagian Kedua
 
@@ -317,7 +329,9 @@ Perempuan Pekerja Rumah Tangga
 #### Pasal 21
 
 1. Pelaksanaan Perlindungan bagi perempuan pekerja rumah  tangga dalam rangka memberikan perlindungan dan  pencegahan terhadap bentuk-bentuk diskriminasi, perlakuan  kejam, tidak manusiawi, merendahkan martabat manusia,  dan eksploitasi dalam hubungan kerja.  
-2. Perempuan pekerja rumah tangga sebagaimana dimaksud  pada ayat (1) mendapat perlindungan atas:a. pengakuan hak, upah, dan kondisi kerja yang layak; b. jaminan kesehatan dan sosial ketenagakerjaan; c. akses informasi dan layanan konsultasi hukum; dan d. kesempatan memperoleh pengetahuan dan keterampilan  untuk meningkatkan status ekonomi.  
+2. Perempuan pekerja rumah tangga sebagaimana dimaksud  pada ayat (1) mendapat perlindungan atas:a. pengakuan hak, upah, dan kondisi kerja yang layak;  
+b. jaminan kesehatan dan sosial ketenagakerjaan;  
+c. akses informasi dan layanan konsultasi hukum; dan d. kesempatan memperoleh pengetahuan dan keterampilan  untuk meningkatkan status ekonomi.  
 
 www.jdih.bangkaselatankab.go.id
 
@@ -370,7 +384,8 @@ Perempuan Korban kekerasan
 #### Pasal 26
 
 1. Pelaksana Perlindungan bagi perempuan korban kekerasan  dalam rangka memberikan perlindungan hukum dan/atau  pemulihan kesehatan (2) Perlindungan bagi perempuan korban kekerasan sebagaimana  dimaksud pada ayat (1) meliputi:a. bantuan hukum;  
-b. pendampingan pasca terjadinya tindak kekerasan; c. rehabilitasi dan reintegrasi sosial; dand. pelayanan kesehatan.  
+b. pendampingan pasca terjadinya tindak kekerasan;  
+c. rehabilitasi dan reintegrasi sosial; dand. pelayanan kesehatan.  
 
 # BAB VIII
 
@@ -391,11 +406,13 @@ MEKANISME PENYELENGGARAAN PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
 #### Pasal 28
 
 Mekanisme penyelenggaraan pemberdayaan dan perlindungan  perempuan dilakukan melalui tahapan:
-a. perumusan kebijakan perencanaan program dan kegiatan; b. penganggaran program dan kegiatanc. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  
+a. perumusan kebijakan perencanaan program dan kegiatan;  
+b. penganggaran program dan kegiatanc. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  
 
 #### Pasal 29
 
-1. Perumusan kebijakan perencanaan program dan kegiatan  sebagaimana dimaksud dalam Pasal 28 huruf a, dilaksanakan  melalui:a. pemetaan, pengumpulan, pengolahan dan penyajian data; b. koordinasi dan sinkronisasi penyusunan perencanaan  program dan kegiatan dengan OPD terkait; danc. penetapan program dan kegiatan dalam dokumen  perencanaan.  
+1. Perumusan kebijakan perencanaan program dan kegiatan  sebagaimana dimaksud dalam Pasal 28 huruf a, dilaksanakan  melalui:a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
+b. koordinasi dan sinkronisasi penyusunan perencanaan  program dan kegiatan dengan OPD terkait; danc. penetapan program dan kegiatan dalam dokumen  perencanaan.  
 2. Perumusan kebijakan perencanaan program dan kegiatan  diatur lebih lanjut dalam standar pelayanan minimal dan  standar operasional prosedur.  
 3. Perumusan kebijakan perencanaan program dan kegiatan  penyelenggaraan pemberdayaan dan perlindungan  perempuan, dikoordinasikan oleh Perangkat Daerah yang  membidangi perencanaan.  
 4. Penganggaran program dan kegiatan sebagaimana dimaksud  dalam Pasal 28 huruf b, dilaksanakan melalui kebijakan  umum anggaran yang dituangkan dalam APBD.  

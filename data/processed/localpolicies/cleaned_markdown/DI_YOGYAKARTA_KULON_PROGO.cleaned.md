@@ -1,4 +1,5 @@
 Mengingat:  
+ 
 1. 2. 3. 4. (5. (2
 
 # KABUPATEN KULON PROGO
@@ -18,6 +19,7 @@ Mengingat:
 # BUPATI KULON PROGO,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan optimal,  belum kekerasan dan  kelembagaan penguatan peraturan yang dapat menjamin pelaksanaannya;  
 

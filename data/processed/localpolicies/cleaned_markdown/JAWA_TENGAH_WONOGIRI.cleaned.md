@@ -13,11 +13,13 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
 # BUPATI WONOGIRI,
 
 Menimbang:  
+ 
 a. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 b. bahwa untuk mewujudkan pemberian perlindungan terhadap korban kekerasan yang berbasis gender dan anak serta untuk memberikan kepastian hukum khususnya dalam penyelenggaraan perlindungan anak di Kabupaten Wonogiri, maka perlu diatur dalam Peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan berbasis Gender dan Anak.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten Dalam  Lingkungan Provinsi Jawa Tengah (Berita Negara  Republik Indonesia Tahun 1950 Nomor 42);  
@@ -160,7 +162,10 @@ k. mendapatkan pendampingan hukum, psikologis, bimbingan  rohani, ekonomi, dan s
 #### Pasal 7
 
 1. Kewajiban Pemerintah Daerah meliputi:a. mencegah terjadinya kekerasan;  
-b. memberikan perlindungan bagi korban kekerasan; c. menyediakan layanan pemulihan dan reintegrasi sosial; d. mendorong dan meningkatkan partisipasi masyarakat; e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban  kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap korban  dengan standar pelayanan yang melibatkan masyarakat;  (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah mempunyai kewenangan untuk: a. merumuskan kebijakan dan program tentang penghapusan  kekerasan berbasis gender dan anak;  
+b. memberikan perlindungan bagi korban kekerasan;  
+c. menyediakan layanan pemulihan dan reintegrasi sosial;  
+d. mendorong dan meningkatkan partisipasi masyarakat;  
+e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban  kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap korban  dengan standar pelayanan yang melibatkan masyarakat;  (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah mempunyai kewenangan untuk: a. merumuskan kebijakan dan program tentang penghapusan  kekerasan berbasis gender dan anak;  
 b. membentuk dan memfasilitasi terselenggaranya pelayanan  terpadu;  
 c. menyediakan sarana dan prasarana;  
 d. meningkatkan kapasitas lembaga penyedia layanan;  
@@ -203,14 +208,18 @@ b. sosialisasi peraturan perundang-undangan yang berkaitan  dengan kekerasan ber
 #### Pasal 12
 
 Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 10 meliputi:
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. membantu pemulangan korban;  
-c. memberikan perlindungan sementara di rumah aman (shelter); d. memberikan pemulihan dan pendampingan psikososial; e. memberikan pelayanan bimbingan rohani;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. membantu pemulangan korban;  
+c. memberikan perlindungan sementara di rumah aman (shelter);  
+d. memberikan pemulihan dan pendampingan psikososial;  
+e. memberikan pelayanan bimbingan rohani;  
 f. melakukan penyiapan keluarga dan masyarakat,  pemberdayaan ekonomi, dan pengembalian ke sekolah  dan/atau lembaga pendidikan lainnya.  
 
 #### Pasal 13
 
 Perlindungan Hukum sebagaimana dimaksud dalam Pasal 10 meliputi:
-a. memberikan perlindungan di rumah aman (shelter); b. melakukan pendampingan dalam proses hukum pada tingkat  kepolisian, kejaksaan dan pengadilan negeri;  
+a. memberikan perlindungan di rumah aman (shelter);  
+b. melakukan pendampingan dalam proses hukum pada tingkat  kepolisian, kejaksaan dan pengadilan negeri;  
 c. memberikan perlindungan hukum secara khusus bagi anak  korban kekerasan dapat dilakukan dengan penunjukan  perwalian sesuai dengan peraturan yang berlaku.  
 
 #### Pasal 14

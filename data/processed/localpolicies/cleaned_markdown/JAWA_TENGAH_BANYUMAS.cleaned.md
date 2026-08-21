@@ -17,6 +17,7 @@
 # BUPATI BANYUMAS,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk tindak kekerasan, terutama kekerasan berbasis gender dan anak merapakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan;  
 b. bahwa korban kekerasan berbasis gender dan anak di Daerah terus mengalami peningkatan;  
 c. bahwa korban kekerasan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -87,7 +88,8 @@ b. kepentingan terbaik bagi korban;
 c. keadilan dan kesetaraan gender;  
 d. perlindungan korban;  
 e. kelangsungan hidup ibu;  
-f. kelangsungan hidup, tumbuh, dan berkembang anak; g. penghargaan terhadap pendapat anak;  
+f. kelangsungan hidup, tumbuh, dan berkembang anak;  
+g. penghargaan terhadap pendapat anak;  
 h. keterbukaan;  
 i. keterpaduan;  
 j. tidak menyalahkan korban;  
@@ -98,7 +100,8 @@ m. pengambilan keputusan di tangan korban.
 #### Pasal 3
 
 Tujuan Perlindungan Korban adalah untuk:
-a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;Tb. memberikan perlindungan berupa layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, serta layanan pemulangan dan reintegrasi sosial; c. mengupayakan peningkatan partisipasi masyarakat.  
+a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;Tb. memberikan perlindungan berupa layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, serta layanan pemulangan dan reintegrasi sosial;  
+c. mengupayakan peningkatan partisipasi masyarakat.  
 
 #### Pasal 4
 
@@ -141,7 +144,8 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumahtangganya; dan/ataud. p
 #### Pasal 10
 
 Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e disebabkan karena:
-a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain; b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil;  
+a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil;  
 c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk rnendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 11
@@ -161,11 +165,15 @@ Pemerintah Daerah
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya perlindungan korban kekerasan dalam bentuk: a. mencegah terjadinya segala bentuk kekerasan berbasis gender dan anak;  
 b. memberikan perlindungan dengan menyediakan layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, layanan pemulangan dan reintegrasi sosial, mengupayakan peningkatan partisipasi masyarakat, serta monitoring dan pelaporan;  
-c. mendorong dan meningkatkan partisipasi masyarakat; d. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban kekerasan. (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ay at (1), Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan berbasis gender dan anak;  
+c. mendorong dan meningkatkan partisipasi masyarakat;  
+d. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban kekerasan. (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ay at (1), Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan berbasis gender dan anak;  
 b. membentuk pusat pelayanan terpadu;  
-c. membentuk lembaga pelayanan pengaduan di tingkat kecamatan; Td. memfasilitasi terselenggaranya pusat pelayanan terpadu dan kegiatan lembaga pelayanan pengaduan di tingkat kecamatan; e. menyediakan sarana dan prasarana;  
+c. membentuk lembaga pelayanan pengaduan di tingkat kecamatan; Td. memfasilitasi terselenggaranya pusat pelayanan terpadu dan kegiatan lembaga pelayanan pengaduan di tingkat kecamatan;  
+e. menyediakan sarana dan prasarana;  
 f. meningkatkan kapasitas lembaga penyedia layanan;  
-g. melakukan koordinasi dan kerjasama dalam penyelenggaraan perlindungan terhadap korban kekerasan berbasis gender dan anak; h. mendorong dan meningkatkan partisipasi masyarakat; i. melakukan monitoring dan evaluasi.  
+g. melakukan koordinasi dan kerjasama dalam penyelenggaraan perlindungan terhadap korban kekerasan berbasis gender dan anak;  
+h. mendorong dan meningkatkan partisipasi masyarakat;  
+i. melakukan monitoring dan evaluasi.  
 3. Dalam pelaksanaan kewajiban, tanggungjawab dan kewenangannya, Bupati dapat melimpahkan kepada SKPD terkait.  
 4. SKPD terkait yang menerima pelimpahan dari Bupati sebagaimana dimaksud pada ayat (3) dalam pelaksanaannya menyusun Rencana Aksi Daerah untuk perlindungan korban.  
 
@@ -175,7 +183,8 @@ Masyarakat, Keluarga dan Orang Tua
 
 #### Pasal 13
 
-Dalam Upaya Pemberian perlindungan korban kekerasan, Masyarakat, Keluarga dan Orang Tua mempunyai kewajiban dan tanggungjawab: a. mencegah terjadinya kekerasan terhadap perempuan dan anak; b. melaporkan bila terjadi kekerasan;  
+Dalam Upaya Pemberian perlindungan korban kekerasan, Masyarakat, Keluarga dan Orang Tua mempunyai kewajiban dan tanggungjawab: a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
+b. melaporkan bila terjadi kekerasan;  
 c. melindungi korban; dand. memberikan pertolongan darurat.  
 
 # BAB V
@@ -217,7 +226,9 @@ a. mengupayakan pencegahan;
 b. memberikan pelayanan pengaduan;  
 c. memberikan pelayanan kesehatan;  
 d. memberikan pelayanan rehabilitasi sosial;  
-e. memberikan pelayanan bantuan dan penegakan hukum; f. memberikan pelayanan pemulangan dan reintegrasi sosial; g. melakukan koordinasi dan kerjasama;  
+e. memberikan pelayanan bantuan dan penegakan hukum;  
+f. memberikan pelayanan pemulangan dan reintegrasi sosial;  
+g. melakukan koordinasi dan kerjasama;  
 h. mengupayakan peningkatan partisipasi masyarakat;  
 i. melakukan monitoring dan pelaporan.  
 
@@ -299,8 +310,10 @@ Koordinasi dan Kerjasama
 #### Pasal 23
 
 Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 16, huruf g meliputi:
-a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan lembaga pelayanan pengaduan tingkat kecamatan; b. melakukan koordinasi dan kerjasama dengan pusat pelayanan terpadu anta^abupaten/kota;  
-c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga penyedia layanan bagi korban kekerasan berbasis gender dan anak; d. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
+a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan lembaga pelayanan pengaduan tingkat kecamatan;  
+b. melakukan koordinasi dan kerjasama dengan pusat pelayanan terpadu anta^abupaten/kota;  
+c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga penyedia layanan bagi korban kekerasan berbasis gender dan anak;  
+d. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
 
 ### Paragraf 8
 
@@ -312,7 +325,8 @@ Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 16, huruf h 
 a. menumbuhkan kepedulian masyarakat terhadap kasus-kasus kekerasan berbasis gender dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi dan melaporkan adanya kekerasan berbasis gender dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender dan anak;  
-d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam penanganan kekerasan berbasis gender dan anak; e. menyebarluaskan informasi tentang peraturan perundang-undangan yang berkaitan dengan kekerasan berbasis gender dan anak.  
+d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam penanganan kekerasan berbasis gender dan anak;  
+e. menyebarluaskan informasi tentang peraturan perundang-undangan yang berkaitan dengan kekerasan berbasis gender dan anak.  
 
 ### Paragraf 9
 
@@ -346,14 +360,16 @@ f. unsur organisasi kemasyarakatan.
 
 #### Pasal 29
 
-LPPTK sebagaimana dimaksud dalam Pasal 28, mempunyai tugas: a. menerima pengaduan kasus kekerasan berbasis gender dan anak; b. memberikan konsultasi awal kepada korban kekerasan berbasis gender dan anak;  
+LPPTK sebagaimana dimaksud dalam Pasal 28, mempunyai tugas: a. menerima pengaduan kasus kekerasan berbasis gender dan anak;  
+b. memberikan konsultasi awal kepada korban kekerasan berbasis gender dan anak;  
 c. melakukan intervensi krisis terhadap korban kekerasan berbasis gender dan anak;  
 d. member! rujukan penanganan kasus kekerasan berbasis gender dan anak kepada PPT PKBGA.  
 
 #### Pasal 30
 
 Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 29, LPPTK berkewajiban:
-a. berkoordinasi dan berkonsultasi dengan PPT PKBGA; b. mendokumentasikan dan melaporkan setiap kasus kekerasan berbasis gender dan anak yang ditanganinya kepada PPT PKBGA.  
+a. berkoordinasi dan berkonsultasi dengan PPT PKBGA;  
+b. mendokumentasikan dan melaporkan setiap kasus kekerasan berbasis gender dan anak yang ditanganinya kepada PPT PKBGA.  
 
 #### Pasal 31
 
@@ -365,7 +381,8 @@ Hak Korban Kekerasan
 
 #### Pasal 32
 
-1. Setiap korban kekerasan berbasis gender dan anak berhak: a. memperoleh perlindungan atas kemanan pribadi, keluarga dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan; b. untuk ikut serta dalam proses memilih dan menentukan bentuk perlindungan dan dukungan keamanan;  
+1. Setiap korban kekerasan berbasis gender dan anak berhak: a. memperoleh perlindungan atas kemanan pribadi, keluarga dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
+b. untuk ikut serta dalam proses memilih dan menentukan bentuk perlindungan dan dukungan keamanan;  
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan kasus dan putusan pengadilan;  
 e. mendapatkan layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, serta layanan pemulangan dan reintegrasi sosial.  
@@ -408,7 +425,8 @@ Pendanaan atas kegiatan perlindungan terhadap korban kekerasan berbasis gender d
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. memberikan informasi dan atau melaporkan setiap kekerasan yang diketahuinya;  
 b. memberikan perlindungan bagi korban;  
 c. memberikan pertolongan darurat;T 17d. memberikan advokasi terhadap korban dan atau masyarakat tentang penanganan kekerasan berbasis gender dan anak;  
-e. membantu proses pengajuan permohonan penetapan perlindungan; f. membantu dalam proses pemulangan dan reintegrasi sosial.  
+e. membantu proses pengajuan permohonan penetapan perlindungan;  
+f. membantu dalam proses pemulangan dan reintegrasi sosial.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB IX
@@ -435,7 +453,8 @@ Ditetapkan di Purwokerto jfioj JabatanID.a pada tanggal 1 g MAR 2015 BUPATI BANY
 
 NOREG PERATURAN DAERAH KABUPATEN BANYUMAS, PROVINSI JAWA TENGAH: (2/2015).  
 d. memberikan advokasi terhadap korban dan atau masyarakat tentang penanganan kekerasan berbasis gender dan anak;  
-e. membantu proses pengajuan permohonan penetapan perlindungan; f. membantu dalam proses pemulangan dan reintegrasi sosial. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
+e. membantu proses pengajuan permohonan penetapan perlindungan;  
+f. membantu dalam proses pemulangan dan reintegrasi sosial. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB IX
 

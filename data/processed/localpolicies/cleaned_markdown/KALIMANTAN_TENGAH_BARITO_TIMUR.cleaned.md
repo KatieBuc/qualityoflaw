@@ -13,6 +13,7 @@ PERATuRANDAERAHI(ABUPATENBARIToTIMUR NOMOR s TAHUN 2Ot9
 # BUPATI BARITO TIIYIUR,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekeraslan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya setragai mariusia;  
 b. bahwa perilaku negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanal atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum seharusnya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap marnpu menjalankan kehidupannya dalam pergauian sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyeienggarakan perlindungan perempuan dan anak;  
@@ -184,7 +185,8 @@ Setiap perempuan dan anak yang menjadi korban kekerasan fisik, psikis, eksploita
 
 Perlindungan, pendampingan, dan pelayanan pada korban sebagaimana dimaksud pada ayat (1) meliputi:
 a. untuk d,ihormati harkat dan martabatnya sebagai manusia;  
-b. pengaduan atau permohonan perlindungan dari yang bersangkutan dan/atau pihak lain; c. penanganan secara rahasia atau penempatan korban pada lokasi dan rumah yang aman dan dirahasiakan keberadaannya untuk menghindari intimidasi dan ancamar;  
+b. pengaduan atau permohonan perlindungan dari yang bersangkutan dan/atau pihak lain;  
+c. penanganan secara rahasia atau penempatan korban pada lokasi dan rumah yang aman dan dirahasiakan keberadaannya untuk menghindari intimidasi dan ancamar;  
 
 pelayanan medis/penanganall kesehatan berupa
 d. perawatan dan pemulihan iuka atau kondisi fisik korban oleh tenaga medis dal paramedis; pelayanan medikolegal untuk pembuktiane. dibidang hukum;  
@@ -259,7 +261,8 @@ h. membentuk unit pelaksana teknis daerah perlindungan perempuarl dan anak berda
 #### Pasal 7
 
 1. kewqjiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk perall serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada aYat (1), meliPuti:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anakb. memberikan perlindungan terhadap korban; c. memberikan pertolongal darurat;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada aYat (1), meliPuti:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anakb. memberikan perlindungan terhadap korban;  
+c. memberikan pertolongal darurat;  
 d. memberikan informasi derrtlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang, dan/atau Dinas terkait melalui UPTD PPA; dane. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2l1, dilaksanakan secara bertalggungjawab sesuai ketentuan Peraturan Perundang-undangan.  
 
@@ -323,7 +326,8 @@ Pemerintah Daerah melalui Dinas/UPTD wajib menyusun standar operasional prosedur
 
 Penyelenggaraa.n pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsiP: non diskriminasi;  
 a. cepat, arnarr, dan empati;  
-b. koordinasi antar instansi pemerintah; C.  
+b. koordinasi antar instansi pemerintah;  
+C.  
 
 adanya jaminan kerahasiaan ;  
 d. mudah dijangkau; dane. tidak dipungut biaya.  
@@ -333,7 +337,8 @@ f.
 #### Pasal 15
 
 Bentuk pelayanan terhadap hak perempuan dan anak dari tindak kekerasan meliputi:
-a. pelayanan pengaduan, konsultasi, dan konseling; b. pelayanan pendampingan;  
+a. pelayanan pengaduan, konsultasi, dan konseling;  
+b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayanan rehabilitasi sosial;  
 e. pelayanan hukum dan/atau bantuan hukum; dart f. pelayanan pemulangan dan reintegrasi sosia-l.  
@@ -370,7 +375,8 @@ a. pemerintah;
 b. pemerintah provinsi;  
 c. pemerintah kabupatenl kota lain;  
 d. lembaga non Pemerintah; dane. lembaga internasional yang diakui keberadaannya.  
-3. Kerja sama sebagaimana dimaksud pada ayat {2), meliputi: pertukaran data dan informasi; a.  
+3. Kerja sama sebagaimana dimaksud pada ayat {2), meliputi: pertukaran data dan informasi;  
+a.  
 
 rehabilitasi korib
 
@@ -443,8 +449,11 @@ Pasal22 Masyarakat dapat melakukal pengawasall atas penyelenggaraan perlindungan
 
 Pasa] 23 (1) Seiain oleh pejabat penyidik umum, penyidikan atas tindak pidana kekerasan terhadap perempuan dan anak dalam Peraturan Daerah ini, dapat juga dilakukanoiehPenyidikPegawaiNegeriSipilyang pengangkatannYa sesuai perundang-undangal' dengan Peraturan (21 penyidik Pegawai Negeri sipil sebagaimana dimaksud pada ayat (1), berwenallg:
 a. menerima iaporan atau pengaduan dari seseorang tentang adarrya tindak pidana kekerasan terhadaP Perempuan dan anak;  
-b. melakukan tindakan pertama pada saat itu di tempat kejadian dan melakukan pemeriksaan; c. menginterogasi seorang tersangka dan memeriksa tanda Pengenal diri tersangka;  
-d. melakukan penyitaan bendadaa/ atau surat; e. mengambil sidik jari dan memotret seseorang; f. memanggil orang untuk didengar dan diperiksa sebagai tersangka atau saksi;  
+b. melakukan tindakan pertama pada saat itu di tempat kejadian dan melakukan pemeriksaan;  
+c. menginterogasi seorang tersangka dan memeriksa tanda Pengenal diri tersangka;  
+d. melakukan penyitaan bendadaa/ atau surat;  
+e. mengambil sidik jari dan memotret seseorang;  
+f. memanggil orang untuk didengar dan diperiksa sebagai tersangka atau saksi;  
 g. mendatangkan orang ahli yang diperlukan dalam hubungan dengan pemeriksaan perkara;  
 h. menghentikan penyidikan setelah mendapat petunjuk dari Penyidik Umum bahwa tidak terdapat cukup bukti, atau peristiwa tersebut bukan merupakan tindak pidana dan selanjutnya meialui Penyidik Umum memberitahukan hal tersebut kepada penuntut umum, tersangka atau keluarganya; danl ataui. melakukan tindakan lain yang perlu untuk kelancaran penyidikan tindak pidana kekerasan terhadap perempuan dan anak, yang menurut hukum dapat dipertanggungiawabkan.  
 3. Penyidik sebagaimana dimaksud pada ayat (2), memberitahukan dimulainya penyidikan dan menyamp atkan hasil penyidikannya kepada penuntut umum melalui Penyidik Pejabat Polisi Negara Republik Indonesia, sesuai dengan ketentuan yang diatur dalam Undang-Undang Hukum Acara Pidana' v;  
@@ -482,7 +491,10 @@ Dalam hal proses persidangan terkait kasus kekerasan terhadap anak, keberadaan a
 
 Pasal27 Dalam hal pelaku tindak pidana adalah seorang arrak, berlaku hal-hal sebagai berikut:
 a. proses hukum dilakukan secara manusia dengan memand,ang anak masih memiliki l,arapan kemasa depannya;  
-b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak; c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak; d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan penga\ff asan dan penj agaan ; e. proses persidangan dilaksanakan seca-ra khusus dalam ruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasya-rakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
+b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
+c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  
+d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan penga\ff asan dan penj agaan ;  
+e. proses persidangan dilaksanakan seca-ra khusus dalam ruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasya-rakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
 
 #### Pasal 28
 

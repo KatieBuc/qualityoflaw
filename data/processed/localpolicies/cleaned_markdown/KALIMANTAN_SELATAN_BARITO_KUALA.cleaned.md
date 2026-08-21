@@ -17,12 +17,14 @@
 # BUPATI BARITO KUALA,
 
 Menimbang:  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta untuk meningkatkan kualitas hidup perempuan dan anak merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab pemerintah daerah;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak di Kabupaten Barito Kuala terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II Di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9) sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1952 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor
 
 1820. ;  
@@ -121,7 +123,8 @@ d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.
 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah untuk:
 a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
-c. melindungi, memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
+c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
 
 # BAB III
 
@@ -132,7 +135,8 @@ c. melindungi, memberikan rasa aman bagi perempuan dan anak; d. memberikan pelay
 #### Pasal 4
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -166,7 +170,8 @@ Pasal7 (1) Kewajiban dan tanggung jawab pemerintah daerah sebagaimanadimaksud da
 a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
-d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan terhadap perempuan dan anak dari tindakkekerasan; e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah; danf. membina dan mengawasi penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
+d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan terhadap perempuan dan anak dari tindakkekerasan;  
+e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah; danf. membina dan mengawasi penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), pemerintah daerah menetapkan program dan kegiatan aksi perlindungan terhadap perempuan dan anak dalam 1 (satu) Rencana Aksi Daerah sebagai dasar bagi SKPD dalammelaksanakan perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2),merupakan bagian Rencana Pembangunan Jangka Menengah Daerah (RPJMD).  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), diatur dengan Peraturan Bupati.  
@@ -174,7 +179,8 @@ d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan terhadap pe
 #### Pasal 8
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 6 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dananak; b. memberikan informasi dan/ atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam memberikan bantuan dan/ atau penanganan terhadap korban tindak kekerasan.  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dananak;  
+b. memberikan informasi dan/ atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam memberikan bantuan dan/ atau penanganan terhadap korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud padaayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.  
 
 #### Pasal 9
@@ -511,7 +517,8 @@ e. anak yang bekerja sebagai pekerja rumah tangga;
 f. anak yang bekerja di industri rumah tangga;  
 g. anak yang bekerja sebagai pengemis;  
 h. anak yang bekerja sebagai pencuci kendaraan;  
-i. anak yang melakukan kegiatan sebagai pedagang asongan, pedagang koran, penyemir sepatu, dan pengamen jalanan; j. anak yang bekerja di sektor industri dan jenis kegiatan yang menggunakan bahan kimia yang berbahaya; dan k. anak yang bekerja di sektor hiburan.  
+i. anak yang melakukan kegiatan sebagai pedagang asongan, pedagang koran, penyemir sepatu, dan pengamen jalanan;  
+j. anak yang bekerja di sektor industri dan jenis kegiatan yang menggunakan bahan kimia yang berbahaya; dan k. anak yang bekerja di sektor hiburan.  
 
 #### Pasal 18
 

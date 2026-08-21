@@ -19,12 +19,14 @@
 # BUPATI BELITUNG,
 
 Menimbang:  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia dan  kejahatan kemanusiaan, serta tidak sesuai dengan  Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam rangka pemenuhan hak konstitusional  perempuan dan anak serta untuk meningkatkan kualitas  hidup perempuan dan anak merupakan salah satu urusan  wajib yang menjadi tugas, wewenang, dan tanggung jawab  Pemerintah Daerah;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Belitung cenderung meningkat dan meluas,  sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah Kabupaten Belitung tentang  Perlindungan Hak Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang....  
@@ -100,7 +102,8 @@ c. hak perempuan dan anak korban kekerasan;
 d. kewajiban dan tanggung jawab;  
 e. pencegahan tindak kekerasan;  
 f. perlindungan khusus anak;  
-g. pelayanan dan pemberdayaan korban tindak kekerasan; h. kelembagaan;  
+g. pelayanan dan pemberdayaan korban tindak kekerasan;  
+h. kelembagaan;  
 i. kerjasama dan kemitraan;  
 j. pelaporan;  
 k. pembinaan….  
@@ -157,7 +160,8 @@ g. ancaman tindakan tertentu; dan/atauh. kekerasan lainnya.
 #### Pasal 6
 
 Perempuan dan anak korban tindak kekerasan mendapatkan  hak sebagai berikut:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari  penderitaan yang dialami korban;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari  penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -191,7 +195,10 @@ c. keluarga; dand. orang tua.
 #### Pasal 9
 
 1. Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 8 huruf a, meliputi: a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
-b. menetapkan kebijakan, program, dan kegiatan  perlindungan perempuan dan anak dari tindak kekerasan; c. melakukan kerjasama dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan; d. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan perempuan dan anak dari tindak kekerasan; e. mengalokasikan anggaran penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan sesuai  kemampuan keuangan daerah; danf. membina dan mengawasi penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan.  
+b. menetapkan kebijakan, program, dan kegiatan  perlindungan perempuan dan anak dari tindak kekerasan;  
+c. melakukan kerjasama dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan;  
+d. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan perempuan dan anak dari tindak kekerasan;  
+e. mengalokasikan anggaran penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan sesuai  kemampuan keuangan daerah; danf. membina dan mengawasi penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1), Bupati menetapkan  program dan kegiatan aksi perlindungan perempuan dan anak  dalam satu Rencana Aksi Daerah sebagai dasar bagi OPD dan
 
 ##### UKPD….  
@@ -263,7 +270,8 @@ e. lembaga sosial kemasyarakatan; danf. dunia usaha dan lembaga lainnya.
 1. Perlindungan khusus anak diberikan kepada:a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
-d. anak yang dieksploitasi secara ekonomi dan/atau seksual; e. anak yang menjadi korban penyalahgunaan narkotika,  alkohol, psikotropika, dan zat adiktif lainnya;  
+d. anak yang dieksploitasi secara ekonomi dan/atau seksual;  
+e. anak yang menjadi korban penyalahgunaan narkotika,  alkohol, psikotropika, dan zat adiktif lainnya;  
 f. anak yang menjadi korban pornografi;  
 g. anak dengan HIV/AIDS;  
 h. anak….  
@@ -476,7 +484,9 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan  perlindungan perempuan da
 
 Pembiayaan penyelenggaraan perlindungan hak perempuan dan  anak dari tindak kekerasan bersumber dari:
 a. Anggaran Pendapatan dan Belanja Negara;  
-b. Anggaran Pendapatan dan Belanja Daerah Provinsi; c. Anggaran Pendapatan dan Belanja Daerah (APBD); d. Anggaran Pendapatan dan Belanja Desa; dane. Sumber keuangan lain yang sah dan tidak mengikat sesuai  dengan ketentuan peraturan perundang-undangan.  
+b. Anggaran Pendapatan dan Belanja Daerah Provinsi;  
+c. Anggaran Pendapatan dan Belanja Daerah (APBD);  
+d. Anggaran Pendapatan dan Belanja Desa; dane. Sumber keuangan lain yang sah dan tidak mengikat sesuai  dengan ketentuan peraturan perundang-undangan.  
 
 # BAB XV
 

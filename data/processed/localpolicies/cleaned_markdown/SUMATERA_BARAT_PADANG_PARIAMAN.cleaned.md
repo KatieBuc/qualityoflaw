@@ -15,11 +15,13 @@
 # BUPATI PADANG PARIAMAN,
 
 Menimbang:  
+ 
 a. bahwa untuk menjamin Pemberdayaan Perempuan dan  Perlindungan Anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat Perlindungan dari Kekerasan, diskriminasi dan pelanggaran lainnya perlu adanya suatu kepastian hukum;  
 b. bahwa untuk memberikan kepastian hukum dalam  penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak serta menjalankan urusan wajib pemerintahan Daerah, perlu adanya pengaturan dalam bentuk peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undag-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang–Undang Nomor 12 Tahun 1956 tentang  Pembentukan Daerah Otonom Kabupaten dalam Lingkungan  Daerah Provinsi Sumatera Tengah (Lembaran Negara  Republik Indonesia Tahun 1956 Nomor 25));  

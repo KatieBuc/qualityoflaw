@@ -59,13 +59,17 @@ Pasa11 Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Kabupaten adalah Kabu
 19. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT, adalah suatu unit yang menyelenggarakan pelayanan terpadu untuk korban kekerasan dan terintegrasi dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi dan/ atau korban tindak pidana perdagangan orang.  
 
 Pasal2 Penyelenggaraan Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas:
-a. penghonnatan dan perlindungan hak asasi manusia; b. keadilan dan kesetaraan gender;  
+a. penghonnatan dan perlindungan hak asasi manusia;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Anak;  
-e. hak untuk hidup, kelangsungan hidup, dan perkembangan; f. Pemberdayaan; dang. kepastian hukum.  
+e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
+f. Pemberdayaan; dang. kepastian hukum.  
 
-Pasa13 Perlindungan Perempuan dan Anak bertujuan untuk: a. menjamin terpenuhinya hak-hak Perempuan dan Anak; b. memelihara keutuhan rumah tangga agar terwujud keluarga yang harmonis;  
-c. mencegah kekerasan terhadap Perempuan dan Anak; d. melindungi dan memberikan rasa aman bagi Perempuan dan Anak;  
+Pasa13 Perlindungan Perempuan dan Anak bertujuan untuk: a. menjamin terpenuhinya hak-hak Perempuan dan Anak;  
+b. memelihara keutuhan rumah tangga agar terwujud keluarga yang harmonis;  
+c. mencegah kekerasan terhadap Perempuan dan Anak;  
+d. melindungi dan memberikan rasa aman bagi Perempuan dan Anak;  
 e. memberikan pelayanan kepada Perempuan dan Anak korban tindak kekerasan;  
 f. memberikan perlindungan kepada pelapor dan saksi; dan g. melakukan pemberdayaan kepada Perempuan korban kekerasan.  
 
@@ -76,8 +80,10 @@ f. memberikan perlindungan kepada pelapor dan saksi; dan g. melakukan pemberdaya
 ## Bagian Kesatu
 
 Hak Perempuan Pasal4 Setiap Perempuan berhak:
-a. untuk hidup, mempertahankan hidup dan kehidupannya; b. membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah;  
-c. mengembangkan diri melalui pemenuhan kebutuhan dasarnya; d. mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia;  
+a. untuk hidup, mempertahankan hidup dan kehidupannya;  
+b. membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah;  
+c. mengembangkan diri melalui pemenuhan kebutuhan dasarnya;  
+d. mendapat pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya, demi meningkatkan kualitas hidupnya dan demi kesejahteraan umat manusia;  
 e. memajukan dirinya dalam memperjuangkan haknya secara kolektif untuk membangun masyarakat, bangsa dan negara;  
 f. atas pengakuan, jaminan, perlindungan dan kepastian hukum yang adil serta perlakuan yang sarna dihadapan hukum;  
 g. bekerja serta mendapat imbalan dan perlakuan yang adil dan layak dalam hubungan kerja;  
@@ -110,7 +116,8 @@ c. memperoleh pendidikan; dand. kesejahteraan sosial.
 
 Pasal6 Setiap Anak wajib:
 a. menghormati orang tua, wali dan guru;  
-b. mencintai keluarga, masyarakat dan menyayangi ternan; c. mencintai tanah air, bangsa dan negara;  
+b. mencintai keluarga, masyarakat dan menyayangi ternan;  
+c. mencintai tanah air, bangsa dan negara;  
 d. menunaikan ibadah sesuai dengan agama dan kepercayaannya;  
 e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat, minatnya; danf. berbudi pekerti luh ur.  
 
@@ -161,7 +168,8 @@ e. anak korban penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif l
 f. anak terinfeksi HIVIAIDS;  
 g. anak yang tidak mempunyai orang tua dan diasuh oleh pihak lain atau keluarga yang tidak mampu;  
 h. anak jalanan;  
-i. anak korban bencana alam atau bencana sosial; j. anak penyandang disabilitas fisik dan mental;  
+i. anak korban bencana alam atau bencana sosial;  
+j. anak penyandang disabilitas fisik dan mental;  
 k. anak keluarga buruh migran;  
 l. anak yang hidup di dalam atau di sekitar lokasi prostitusi; danm. anak korban perlakuan salah lainnya.  
 2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa kemudahan untuk mendapatkan akses layanan: a. kesehatan;  
@@ -188,7 +196,8 @@ g. anak yang bekerja di bidang pertambangan; dan h. pekerjaan sektor informal la
 b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak;  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang;  
 d. tidak dipekerjakan pada malam hari;  
-e. waktu kerja paling lama 3 (tiga)jam dalam sehari; f. tidak dipekerjakan pada tempat atau lingkungan yang dapat mengganggu proses tumbuh kembang anak, baik fisik, mental, moral dan intelektual maupun kesehatan Anak;  
+e. waktu kerja paling lama 3 (tiga)jam dalam sehari;  
+f. tidak dipekerjakan pada tempat atau lingkungan yang dapat mengganggu proses tumbuh kembang anak, baik fisik, mental, moral dan intelektual maupun kesehatan Anak;  
 g. memberi kesempatan untuk mendapat pendidikan sesuai dengan bakat dan minatnya;  
 h. mernpekerjakan untuk jenis pekerjaan yang ringan; dan 1. memberikan kesempatan libur satu hari dalam seminggu.  
 
@@ -244,7 +253,9 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber dana lain yang sah dan t
 ## PUSATPELAYANANTERPADU(PPT)
 
 Pasal24 (1) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan dilakukan secara terpadu oleh PPT. (2) PPT sebagaimana dimaksud pada ayat (1) merupakan bagian yang terintegrasi dan merupakan satu kesatuan dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi darr/atau korban tindak pidana perdagangan orang. (3) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:
-a. memberikan layanan cepat dan tanpa biaya kepada korban; b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial dan bantuan hukum; c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penerjemah dan relawan pendamping yang diperlukan bagi korban;  
+a. memberikan layanan cepat dan tanpa biaya kepada korban;  
+b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial dan bantuan hukum;  
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penerjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. melakukan jaringan dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan kerjasama dengan lembaga perlindungan saksi dan korban, rumah perlindungan sosial atau pusat trauma milik pemerintah, masyarakat atau lembaga lainnya untuk pemulihan kesehatan korban;  
 e. memberikan kemudahan, kenyamanan dan keselamatan bagi korban;  
 f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi korban. (4) Ketentuan lebih lanjut mengenai tata cara dan mekanisme penyelenggaraanPPTdiatur dengan Peraturan Bupati.  
@@ -252,7 +263,9 @@ f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi kor
 ## BABIV
 
 HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN Pasal25 Setiap Perempuan dan Anak korban kekerasan berhak: a. atas penanganan pengaduan;  
-b. untuk dihonnati harkat dan martabatnya sebagai manusia; c. mendapat perlindungan dari keluarga, masyarakat, pemerintah daerah danjatau pihak lain baik sementara maupun berdasarkan penetapan perlindungan dari pengadilan; d. atas pemulihan kesehatan dan psikologisdari penderitaan yang dialami korban;  
+b. untuk dihonnati harkat dan martabatnya sebagai manusia;  
+c. mendapat perlindungan dari keluarga, masyarakat, pemerintah daerah danjatau pihak lain baik sementara maupun berdasarkan penetapan perlindungan dari pengadilan;  
+d. atas pemulihan kesehatan dan psikologisdari penderitaan yang dialami korban;  
 e. menentukan sendiri keputusannya;  
 f. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
 g. mendapatkan informasi;  

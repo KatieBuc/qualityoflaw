@@ -15,12 +15,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 # BUPATI PULANG PISAU,
 
 Menimbang:  
+ 
 a. bahwa perlindungan terhadap perempuan dan anak  merupakan bagian integral dari hak asasi manusia yang harus dijamin, dilindungi, dan dihormati oleh negara;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 2 - Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019) sebagaimana telah diubah dengan Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 2019 Nomor 186, Tambahan Lembaran Negara Republik Indonesia Nomor 6401);  
@@ -105,7 +107,8 @@ d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.
 Pengaturan pokok-pokok penyelenggaraan PPA bertujuan:
 a. mencegah tindak kekerasan, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak;  
 b. menghapus segala bentuk kekerasan, eksploitasi, diskriminasi, perlakuan  salah dan/atau perlakuan yang merendahkan derajat dan martabat  perempuan dan anak;  
-c. melindungi, memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
+c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
 
 # BAB II
 
@@ -117,7 +120,8 @@ Perempuan dan anak korban tindak kekerasan, eksploitasi, diskriminasi,  perlakua
 a. Hak atas jaminan ruang partisipasi masyarakat dalam pemerintahan,  termasuk dalam pengambilan keputusan/kebijakan;  
 b. Hak atas dokumen kependudukan dan catatan sipil;  
 c. Hak atas Bantuan Hukum;  
-d. Hak Hak untuk dihormati harkat dan martabat sebagai manusia; e. Hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
+d. Hak Hak untuk dihormati harkat dan martabat sebagai manusia;  
+e. Hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
 f. Hak menentukan sendiri keputusannya;  
 g. Hak mendapatkan informasi;  
 h. Hak atas kerahasiaan;  
@@ -182,11 +186,15 @@ e. menyelenggarakan program penyuluhan dan pelatihan kepada anggota  masyarakat 
 f. memberikan dukungan psikososial dan hukum kepada korban  kekerasan, eksploitasi, diskriminasi, perlakuan salah dan/atau  perlakuan yang merendahkan derajat dan martabat Perempuan dan  anak termasuk memfasilitasi akses korban ke lembaga perlindungan  dan hukum;  
 g. berperan aktif dalam proses pelaporan dan penegakan hukum terhadap  kasus-kasus kekerasan, eksploitasi, diskriminasi, perlakuan salah - 12 - dan/atau perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak dalam komunitas adat;  
 h. memfasilitasi pembentukan lembaga PPA di tingkat adat yang bertugas  melindungi hak-haknya serta memberikan bantuan dan dukungan  kepada korban;  
-i. memadukan nilai-nilai adat yang mendukung kesetaraan dan PPA ke  dalam program penyuluhan dan pendidikan Masyarakat; dan j. membangun kemitraan dengan organisasi non-pemerintah, lembaga  perlindungan, dan lembaga pendidikan guna memperkuat upaya PPA. (2) Kewajiban dan tanggung jawab Badan Usaha dalam penyelenggaraan  perlindungan terhadap perempuan dan anak sebagaimana dimaksud  dalam Pasal 6 huruf e, meliputi:a. berkewajiban mematuhi semua undang-undang, regulasi, dan  peraturan yang berkaitan dengan PPA di tingkat nasional dan daerah; b. menyediakan lingkungan kerja yang aman dan mendukung, bebas dari  pelecehan, diskriminasi, kekerasan, perlakuan salah dan/atau  perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak;  
-c. menyediakan rumah perlindungan pekerja perempuan di tempat kerja; d. membentuk kemitraan dengan pemerintah daerah dalam PPA; e. memberikan pemberdayaan terhadap perempuan dan anak sebagai  tanggung jawab bersama dengan pemerintah daerah;  
+i. memadukan nilai-nilai adat yang mendukung kesetaraan dan PPA ke  dalam program penyuluhan dan pendidikan Masyarakat; dan j. membangun kemitraan dengan organisasi non-pemerintah, lembaga  perlindungan, dan lembaga pendidikan guna memperkuat upaya PPA. (2) Kewajiban dan tanggung jawab Badan Usaha dalam penyelenggaraan  perlindungan terhadap perempuan dan anak sebagaimana dimaksud  dalam Pasal 6 huruf e, meliputi:a. berkewajiban mematuhi semua undang-undang, regulasi, dan  peraturan yang berkaitan dengan PPA di tingkat nasional dan daerah;  
+b. menyediakan lingkungan kerja yang aman dan mendukung, bebas dari  pelecehan, diskriminasi, kekerasan, perlakuan salah dan/atau  perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak;  
+c. menyediakan rumah perlindungan pekerja perempuan di tempat kerja;  
+d. membentuk kemitraan dengan pemerintah daerah dalam PPA;  
+e. memberikan pemberdayaan terhadap perempuan dan anak sebagai  tanggung jawab bersama dengan pemerintah daerah;  
 f. mengadakan program penyuluhan di komunitas sekitar perusahaan  untuk meningkatkan kesadaran tentang PPA;  
 g. membuat kebijakan, program, dan kegiatan PPA;  
-h. mendukung program-program sosial yang meningkatkan kemandirian  ekonomi perempuan dan mendukung pendidikan anak-anak; i. mendukung pendirian pusat perlindungan dan layanan bagi korban  kekerasan perempuan dan anak; danj. mendukung program PPA di Kabupaten Pulang Pisau melalui  instrument Corporate Social Responsibility dan/atau bantuan dalam  bentuk lainnya sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
+h. mendukung program-program sosial yang meningkatkan kemandirian  ekonomi perempuan dan mendukung pendidikan anak-anak;  
+i. mendukung pendirian pusat perlindungan dan layanan bagi korban  kekerasan perempuan dan anak; danj. mendukung program PPA di Kabupaten Pulang Pisau melalui  instrument Corporate Social Responsibility dan/atau bantuan dalam  bentuk lainnya sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
 
 13 -
 
@@ -211,7 +219,8 @@ e. menyediakan fasilitas rehabilitasi; danf. mengadakan pemantauan dan evaluasi 
 
 1. Penyelenggaraan perlindungan terhadap korban dilakukan secara terpadu  dalam wadah UPTD-PPA.  
 2. Ketentuan tentang UPTD-PPA sebagaimana dimaksud pada ayat (1) akan  diatur lebih lanjut dalam Peraturan Bupati.  
-3. Selain membentuk UPTD-PPA, guna menunjang terlaksananya  penyelenggaraan perlindungan kepada perempuan dan anak, Bupati  membentuk:a. gugus tugas tindak kekerasan terhadap perempuan dan anak; b. komite aksi daerah penghapusan bentuk – bentuk pekerjaan terburuk  untuk anak.  
+3. Selain membentuk UPTD-PPA, guna menunjang terlaksananya  penyelenggaraan perlindungan kepada perempuan dan anak, Bupati  membentuk:a. gugus tugas tindak kekerasan terhadap perempuan dan anak;  
+b. komite aksi daerah penghapusan bentuk – bentuk pekerjaan terburuk  untuk anak.  
 
 14 -
 
@@ -258,7 +267,8 @@ e. ditindaklanjuti sesuai dengan hukum yang berlaku; dan f. Upaya pencegahan unt
 
 1. Pemerintah daerah membentuk kemitraan dengan dunia usaha dalam  penyelenggaraan PPA.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
-b. pendidikan dan pelatihan bagi perempuan tindak kekerasan; c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+b. pendidikan dan pelatihan bagi perempuan tindak kekerasan;  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk perjanjian.  
 
 # BAB VII
@@ -295,7 +305,8 @@ Pendampingan dilakukan oleh orang atau lembaga yang mempunyai keahlian  untuk me
 #### Pasal 21
 
 1. Masyarakat berperan serta dalam serta dalam PPA baik secara perorangan  maupun kelompok.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak; b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
 
 #### Pasal 22
 

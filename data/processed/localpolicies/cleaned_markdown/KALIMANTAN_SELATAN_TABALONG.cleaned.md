@@ -14,7 +14,10 @@ Mengingat
 
 # BUPATITABALONG,
 
-1. Pasal 18 ayat (6)Undang-Undang Dasar Negara Republik Menimbanga. bahwa setiap warga negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan; b. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi ; c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan terhadap perempuan dan anak; d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
+1. Pasal 18 ayat (6)Undang-Undang Dasar Negara Republik Menimbanga. bahwa setiap warga negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
+b. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi ;  
+c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan terhadap perempuan dan anak;  
+d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Indonesia Tahun 1945; 2. Undang-Undang Nomor 8 Tahun 1965 tentang Pembentukan Daerah Tingkat II Tanah Laut, Daerah Tingkat II Tapin dan Daerah Tingkat II Tabalong (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 51, Tambahan Lembaran Negara Republik Indonesia Nomor2756); 3. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Negara Indonesia Republik Tahun Indonesia 1979 Nomor Nomor3143); 32, Tambahan Lembaran 4. Undang-Undang Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (Lembaran Negara Republik Indonesia Tahun 1981 Nomor 76, Tambahan Lembaran Negara Republik Indonesia Nomor3209);  
 
@@ -49,13 +52,23 @@ Pasal1 Dalam Peraturan Daerah iniyang dimaksud dengan:
 
 ## BABII ASASDAN TUJUAN
 
-Pasal2 Perlindungan Perempuan dan Anak dilaksanakan berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak-hak korban; b. keadilan; c. non diskriminasi ; d. kepentingan terbaik bagi korban; e. kepastian hukum; dan f. perlindungan hukum.  
+Pasal2 Perlindungan Perempuan dan Anak dilaksanakan berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+b. keadilan;  
+c. non diskriminasi ;  
+d. kepentingan terbaik bagi korban;  
+e. kepastian hukum; dan f. perlindungan hukum.  
 
-Pasa13 Perlindungan Perempuan dan Anak bertujuan: a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak; b. melindungi perempuan dan anak; dan c. memberikan pelayanan kepada Perempuan dan Anak korban kekerasan.  
+Pasa13 Perlindungan Perempuan dan Anak bertujuan: a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
+b. melindungi perempuan dan anak; dan c. memberikan pelayanan kepada Perempuan dan Anak korban kekerasan.  
 
 ## BABIII HAK-HAKPEREMPUANDANANAK
 
-Pasal4 Setiap Perempuan dan Anak berhak: a. untuk dihormati harkat dan martabat sebagai manusia; b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan / atau pihak lain baik semen tara maupun berdasarkan penetapan perintah perlindungan dari pengadilan; c. atas pemulihan kesehatan fisik, psikologi maupun seksual sesuai penderitaan yang dialami korban; d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban; e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang- undangan; f. atas pelayanan bimbingan rohani; dan g. menentukan sendiri keputusannya.  
+Pasal4 Setiap Perempuan dan Anak berhak: a. untuk dihormati harkat dan martabat sebagai manusia;  
+b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan / atau pihak lain baik semen tara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
+c. atas pemulihan kesehatan fisik, psikologi maupun seksual sesuai penderitaan yang dialami korban;  
+d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban;  
+e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang- undangan;  
+f. atas pelayanan bimbingan rohani; dan g. menentukan sendiri keputusannya.  
 
 ## BABIV KEWAJIBANDANTANGGUNGJAWAB
 
@@ -63,27 +76,60 @@ Pasal4 Setiap Perempuan dan Anak berhak: a. untuk dihormati harkat dan martabat 
 
 (I) Pemerintah Daerah berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak.  
 
-2. Kewajibandan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)meliputi: a. melaksanakan kewajiban Perlindungan Perempuan dan Anak berdasarkan peraturan perundang-undangan; b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak; c. melengkapi sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak; .,---", d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak; dan e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak.  
+2. Kewajibandan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)meliputi: a. melaksanakan kewajiban Perlindungan Perempuan dan Anak berdasarkan peraturan perundang-undangan;  
+b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak;  
+c. melengkapi sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak; .,---", d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak; dan e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Pasal6 (1) Masyarakat berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak.  
 
-2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1)diselenggarakan dalam bentuk; a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak; b. memberikan Perlindungan terhadap korban; c. memberikan pertolongan darurat; d. memberikan informasi darr/ atau melaporkan tindak kekerasan terhadap Perempuan dan Anak kepada pihak yang berwenang; dan e. turut serta dalam penanganan korban kekerasan.  
+2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1)diselenggarakan dalam bentuk;  
+a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. memberikan Perlindungan terhadap korban;  
+c. memberikan pertolongan darurat;  
+d. memberikan informasi darr/ atau melaporkan tindak kekerasan terhadap Perempuan dan Anak kepada pihak yang berwenang; dan e. turut serta dalam penanganan korban kekerasan.  
 
 ##### BABV KELEMBAGAAN
 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak di Daerah, Bupati dapat membentuk P2TP2A.  
 2. Pembentukan dan pengembangan P2TP2A disesuaikan dengan perkembangan priotitas kebutuhan, dan kemampuan keuangan Daerah serta kemampuan kelembagaan dan personil yang ada di Daerah.  
 3. P2TP2A yang dibentuk oleh Pemerintah Daerah sekurang-kurangnya memiliki 4 (empat) konselor.  
-4. Konselor sebagaiman dimaksud pada ayat (3)meliputi:a. konselor dalam bidang hukum; b. konselor dalam bidang kesehatan; c. konse1or dalam bidang psikologi; dan d. konselor dalam bidang agama.Pasal 7 Pasal8 (1) Bentuk pelayanan yang dilaksanakan di P2TP2Ame1iputi:a. konsultasi Hukum; b. pendampingan bagi korban; c. konsultasi psikologi; d. rujukan pelayanan medis; e. pelayanan rumah aman dengan rujukan; f. home visit; dan g. penyuluhan.  
-2. Mitra kerja P2TP2Ameliputi:a. Dinas Kesehatan; b. Dinas Pendidikan; c. Dinas Sosial; d. RSUD; e. Puskesmas; f. Dinas Kependudukan dan Pencatatan Sipil; g. Unit PPA(Polresdan Poisek) h. TPPKK; 1. KementerianAgama; J. KUA;dan k. Pengadilan Agama.  
+4. Konselor sebagaiman dimaksud pada ayat (3)meliputi:a. konselor dalam bidang hukum;  
+b. konselor dalam bidang kesehatan;  
+c. konse1or dalam bidang psikologi; dan d. konselor dalam bidang agama.Pasal 7 Pasal8 (1) Bentuk pelayanan yang dilaksanakan di P2TP2Ame1iputi:a. konsultasi Hukum;  
+b. pendampingan bagi korban;  
+c. konsultasi psikologi;  
+d. rujukan pelayanan medis;  
+e. pelayanan rumah aman dengan rujukan;  
+f. home visit; dan g. penyuluhan.  
+2. Mitra kerja P2TP2Ameliputi:a. Dinas Kesehatan;  
+b. Dinas Pendidikan;  
+c. Dinas Sosial;  
+d. RSUD;  
+e. Puskesmas;  
+f. Dinas Kependudukan dan Pencatatan Sipil;  
+g. Unit PPA(Polresdan Poisek) h. TPPKK; 1. KementerianAgama;  
+J. KUA;dan k. Pengadilan Agama.  
 
 Pasal9 (1) Alurpenanganan di P2TP2Ame1iputi:
-a. penerimaan kasus; b. registrasi; c. assesment kasus; d. perencanaan intervensi; e. perjanjian intervensi; f. pelaksanaan intervensi; g. rekam kasus; dan h. terminasi.  
-2. Alur penanganan di P2TP2Asebagaimana dimaksud pada ayat (1)huruf d meliputi; a. pelayanan hukum; b. pelayanan medis; c. pelayanan psikologi; d. pelayanan kerohanian; dan e. pelayanan rumah aman.  
+a. penerimaan kasus;  
+b. registrasi;  
+c. assesment kasus;  
+d. perencanaan intervensi;  
+e. perjanjian intervensi;  
+f. pelaksanaan intervensi;  
+g. rekam kasus; dan h. terminasi.  
+2. Alur penanganan di P2TP2Asebagaimana dimaksud pada ayat (1)huruf d meliputi;  
+a. pelayanan hukum;  
+b. pelayanan medis;  
+c. pelayanan psikologi;  
+d. pelayanan kerohanian; dan e. pelayanan rumah aman.  
 
 #### Pasal 10
 
-Dalam memberikan Perlindungan terhadap Perempuan dan Anak P2TP2A berkewajiban: a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban; b. menyelenggarakan perlindungan dan pemenuhan hak korban atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, pemulangan dan bantuan hukum; c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban; d. memberikan kemudahan, kenyamanan dan keselamatan bagi korban; dan e. menjaga kerahasiaan korban.  
+Dalam memberikan Perlindungan terhadap Perempuan dan Anak P2TP2A berkewajiban: a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
+b. menyelenggarakan perlindungan dan pemenuhan hak korban atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, pemulangan dan bantuan hukum;  
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;  
+d. memberikan kemudahan, kenyamanan dan keselamatan bagi korban; dan e. menjaga kerahasiaan korban.  
 
 ##### BABVI PEMANTAUANDANEVALUASI
 
@@ -121,7 +167,9 @@ Pembinaan sebagaimana dimaksud pada ayat (1) meliputi koordinasi, fasilitasi, bi
 
 ##### BABX PERANSERTAMASYARAKAT
 
-Pasal17 (1) Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak, masyarakat dapat: a. membentuk mitra keluarga ditingkat kelurahan/ desa oleh masyarakat; b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri; c. melakukan pertolongan pertama kepada korban; dan d. melaporkan kepada instansi yang berwenang apabila dilingkungan terjadi kekerasan terhadap Perempuan dan Anak.  
+Pasal17 (1) Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak, masyarakat dapat: a. membentuk mitra keluarga ditingkat kelurahan/ desa oleh masyarakat;  
+b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
+c. melakukan pertolongan pertama kepada korban; dan d. melaporkan kepada instansi yang berwenang apabila dilingkungan terjadi kekerasan terhadap Perempuan dan Anak.  
 
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan,lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta dan media massa.  
 

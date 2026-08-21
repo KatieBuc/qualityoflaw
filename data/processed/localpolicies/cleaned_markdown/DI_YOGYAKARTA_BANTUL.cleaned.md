@@ -11,11 +11,13 @@ PERLINDUNGAN ANAK DAN PEREMPUAN KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI BANTUL,
 
 Menimbang:  
+ 
 a. bahwa setiap anak dan perempuan berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak;  
 b. bahwa tindak kekerasan terhadap anak dan  perempuan terus meningkat, sehingga diperlukan upaya perlindungan yang komprehensif dan maksimal, adanya tindakan nyata, dukungan kelembagaan secara formal, peraturan yang dapat menjamin pelaksanaan dari Pemerintah Daerah dalam meningkatkan partisipasi masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 15 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten Dalam Lingkungan Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 44);  
@@ -98,7 +100,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Asas penyelenggaraan perlindungan Anak dan Perempuan dari tindak  kekerasan adalah:
-a. penghormatan dan pemenuhan terhadap hak-hak korban; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. pemberdayaan yang terbaik bagi korban.  
 
 #### Pasal 3
@@ -117,20 +120,23 @@ c. reintegrasi sosial; dand. pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban tindak kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabatnya sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
+Setiap korban tindak kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan identitasnya;  
 f. hak pelayanan optimal;  
 g. hak atas kompensasi;  
-h. hak penanganan berkelanjutan sampai tahap rehabilitasi sosial; i. hak atas penanganan pengaduan;  
+h. hak penanganan berkelanjutan sampai tahap rehabilitasi sosial;  
+i. hak atas penanganan pengaduan;  
 j. hak untuk mendapatkan kemudahan dalam proses peradilan;  
 k. hak atas pendampingan psikologis dan hukum; danl. hak atas perlindungan dan pelayanan hukum.  
 
 #### Pasal 5
 
 Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud  dalam Pasal 4, juga mendapatkan hak-hak sebagai berikut:
-a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang; b. hak pelayanan dasar dalam bidang pendidikan;  
+a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
+b. hak pelayanan dasar dalam bidang pendidikan;  
 c. hak pelayanan dasar dalam bidang kesehatan;  
 d. hak perlindungan yang sama;  
 e. hak bebas dari berbagai stigma; danf. hak mendapatkan kebebasan.  
@@ -151,7 +157,8 @@ c. keluarga; dand. orangtua.
 1. Untuk melaksanakan ketentuan sebagaimana dimaksud dalam Pasal 6  huruf a, Pemerintah Daerah melaksanakan upaya perlindungan korban,  dalam bentuk:a. merumuskan kebijakan tentang perlindungan Anak dan Perempuan  dari segala bentuk tindak kekerasan dan diskriminasi;  
 b. menyusun perencanaan program dan kegiatan;  
 c. memberikan dukungan sarana dan prasarana;  
-d. mengalokasikan anggaran khusus yang responsif gender; e. membentuk PPT dan/atau Rumah Aman;  
+d. mengalokasikan anggaran khusus yang responsif gender;  
+e. membentuk PPT dan/atau Rumah Aman;  
 f. membentuk dan memfasilitasi FPKK; dang. melakukan monitoring dan evaluasi.  
 2. Dalam hal pelaksanaan kewajiban Pemerintah Daerah sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah menyusun Rencana Aksi  Daerah sebagai dasar bagi SKPD dalam melaksanakan perlindungan  terhadap korban.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan  bagian Rencana Pembangunan Jangka Menengah Daerah (RPJMD).  
@@ -174,7 +181,9 @@ Dalam melaksanakan kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana d
 #### Pasal 11
 
 Kewajiban dan tanggung jawab masyarakat terhadap perlindungan anak dan  Perempuan Korban kekerasan berupa:
-a. mencegah terjadinya kekerasan terhadap anak dan perempuan; b. memberikan pendidikan budaya damai dan kesetaraan gender; c. memberikan informasi dan/ atau melaporkan bila terjadi tindak kekerasan terhadap anak dan perempuan kepada aparat penegak hukum atau pihak  yang berwenang;  
+a. mencegah terjadinya kekerasan terhadap anak dan perempuan;  
+b. memberikan pendidikan budaya damai dan kesetaraan gender;  
+c. memberikan informasi dan/ atau melaporkan bila terjadi tindak kekerasan terhadap anak dan perempuan kepada aparat penegak hukum atau pihak  yang berwenang;  
 d. melindungi korban; dane. memberikan pertolongan darurat.  
 
 #### Pasal 12
@@ -221,7 +230,8 @@ c. melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;  dand
 Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 14 ayat (2)  huruf b memiliki tugas:
 a. melakukan pemeriksaan, pengobatan, dan perawatan lanjutan terhadap  korban;  
 b. melakukan koordinasi pelaksanaan rehabilitasi kesehatan dan mediko legal;  
-c. melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti  pada korban, pembuatan visum et repertum dan visum et psikiatrikum; d. melakukan pemeriksaan penunjang dan laboratorium terhadap barang  bukti;  
+c. melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti  pada korban, pembuatan visum et repertum dan visum et psikiatrikum;  
+d. melakukan pemeriksaan penunjang dan laboratorium terhadap barang  bukti;  
 e. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan f. membuat laporan kasus.  
 
 #### Pasal 17
@@ -233,7 +243,8 @@ b. melakukan konseling; danc. melaksanakan fungsi sosial.
 #### Pasal 18
 
 Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  14 ayat (2) huruf d memiliki tugas:
-a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban; b. membuat laporan perkembangan proses pendampingan pemulangan dan  rehabilitasi sosial; danc. melakukan pemantauan paling lama 3 (tiga) bulan setelah korban  dipulangkan ke keluarganya.  
+a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
+b. membuat laporan perkembangan proses pendampingan pemulangan dan  rehabilitasi sosial; danc. melakukan pemantauan paling lama 3 (tiga) bulan setelah korban  dipulangkan ke keluarganya.  
 
 #### Pasal 19
 
@@ -386,16 +397,20 @@ Perlindungan dan Pemenuhan Hak Anak
 #### Pasal 38
 
 1. Perlindungan bagi anak yang berhadapan dengan hukum dilaksanakan  melalui:a. perlakuan atas anak secara manusiawi sesusi dengan martabat dan  hak-hak anak;  
-b. penyediaan petugas pendamping khusus anak sejak dini; c. penyediaan sarana dan prasarana khusus;  
-d. penjatuhan sanksi yang tepat untuk kepentingan terbaik bagi anak; e. pemantauan dan pencatatan terus menerus terhadap perkembangan  anak yang berhadapan dengan hukum.  f. pemberian jaminan untuk mempertahankan hubungan dengan orang  tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan  untuk menghindari labelisasi.  
-2. Bentuk pemenuhan hak-hak anak korban tindak kekerasan, meliputi:  a. upaya rehabilitasi baik dalam lembaga maupun diluar lembaga; b. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli baik  fisik, mental, maupun sosial; danc. pemberian aksesibilitas untuk mendapatkan informasi mengenai  pengembangan perkara.  
+b. penyediaan petugas pendamping khusus anak sejak dini;  
+c. penyediaan sarana dan prasarana khusus;  
+d. penjatuhan sanksi yang tepat untuk kepentingan terbaik bagi anak;  
+e. pemantauan dan pencatatan terus menerus terhadap perkembangan  anak yang berhadapan dengan hukum.  f. pemberian jaminan untuk mempertahankan hubungan dengan orang  tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan  untuk menghindari labelisasi.  
+2. Bentuk pemenuhan hak-hak anak korban tindak kekerasan, meliputi:  a. upaya rehabilitasi baik dalam lembaga maupun diluar lembaga;  
+b. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli baik  fisik, mental, maupun sosial; danc. pemberian aksesibilitas untuk mendapatkan informasi mengenai  pengembangan perkara.  
 3. PPT dan masyarakat berkewajiban melakukan pemenuhan hak-hak anak  korban tindak kekerasan.  
 
 #### Pasal 39
 
 1. Dalam upaya menjamin pemenuhan hak-hak anak, Pemerintah Daerah  bekerjasama dengan Forum Anak yang telah terbentuk.  
 2. Forum Anak merupakan organisasi yang anggotanya adalah para anak anak yang menjadi pengurus organisasi anak, sanggar atau kelompok  kegiatan anak dan sejenisnya yang pada umumnya berbasis  pengembangan bakat, minat, kemampuan dan pemanfaatan waktu luang.  
-3. Forum anak memiliki tugas:a. melakukan sosialisasi tentang tindak kekerasan kepada teman sebaya; b. terlibat aktif dalam perencanaan kebijakan, program dan kegiatan  terkait perlindungan anak dari tindak kekerasan;  
+3. Forum anak memiliki tugas:a. melakukan sosialisasi tentang tindak kekerasan kepada teman sebaya;  
+b. terlibat aktif dalam perencanaan kebijakan, program dan kegiatan  terkait perlindungan anak dari tindak kekerasan;  
 c. menjadi sumber informasi kejadian tindak kekerasan di lingkungannya;  dand. mengkonsultasikan kebutuhan dan keinginan anak korban kekerasan  kepada mitra dari sektor terkait.  
 
 ## Bagian Keempat
@@ -487,8 +502,10 @@ c. pelayanan; dand. kinerja.
 #### Pasal 46
 
 1. Masyarakat berperan serta dalam penyelenggaraan perlindungan terhadap  Korban tindak kekerasan.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat; b. membentuk unit perlindungan Anak dan Perempuan di dalam  organisasi kemasyarakatan;  
-c. melakukan sosialisasi hak Anak dan Perempuan secara mandiri; d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
+b. membentuk unit perlindungan Anak dan Perempuan di dalam  organisasi kemasyarakatan;  
+c. melakukan sosialisasi hak Anak dan Perempuan secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 
 # BAB XI

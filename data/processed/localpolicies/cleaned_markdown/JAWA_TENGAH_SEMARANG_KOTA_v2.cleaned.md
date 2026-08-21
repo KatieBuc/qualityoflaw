@@ -15,12 +15,14 @@
 # WALI KOTA SEMARANG,
 
 Menimbang:  
+ 
 a. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya untuk diberdayakan agar dapat mengaktualisasikan potensinya secara optimal dan mendapatkan jaminan perlindungan dari tindak kekerasan terhadap perempuan;  
 b. bahwa dalam rangka sarana aktualisasi diri perempuan  dan jaminan perlindungan dalam masyarakat di kota semarang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintah Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, pemerintah daerah mempunyai kewenangan dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945:
 
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Propinsi Djawa Timur, Djawa Tengah, Djawa Barat, dan Daerah Istimewa Jogjakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 45);  
@@ -85,10 +87,12 @@ i. mewujudkan kehidupan sosial yang aman dan bebas  dari segala bentuk Kekerasan
 #### Pasal 4
 
 Ruang lingkup Peraturan Daerah ini meliputi:
-a. kewenangan dan tanggungjawab pemerintah daerah; b. hak perempuan;  
+a. kewenangan dan tanggungjawab pemerintah daerah;  
+b. hak perempuan;  
 c. Pemberdayaan Perempuan;  
 d. Perlindungan Perempuan;  
-e. strategi Pemberdayaan dan Perlindungan Perempuan; f. mekanisme penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan;  
+e. strategi Pemberdayaan dan Perlindungan Perempuan;  
+f. mekanisme penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan;  
 g. kelembagaan;  
 h. peran serta;  
 i. pembinaan dan pengawasan; danj. pendanaan.  
@@ -225,7 +229,8 @@ Bidang Ketenagakerjaan
 #### Pasal 14
 
 Pemberdayaan Perempuan di bidang ketenagakerjaan  dilaksanakan melalui:
-a. pemberian akses untuk masuk ke pasar kerja; b. kebebasan perempuan untuk menjadi anggota serikat  buruh dan memimpin serikat buruh; dan -8-c. akses terhadap perempuan untuk terlibat dalam  pengambilan kebijakan terkait pengupahan, hak-hak  dasar buruh dan aspek-aspek lain yang berkaitan erat  dengan ketenagakerjaan.  
+a. pemberian akses untuk masuk ke pasar kerja;  
+b. kebebasan perempuan untuk menjadi anggota serikat  buruh dan memimpin serikat buruh; dan -8-c. akses terhadap perempuan untuk terlibat dalam  pengambilan kebijakan terkait pengupahan, hak-hak  dasar buruh dan aspek-aspek lain yang berkaitan erat  dengan ketenagakerjaan.  
 
 ## Bagian Kedelapan
 
@@ -244,7 +249,8 @@ Bidang Pelestarian Lingkungan Hidup
 
 Pemberdayaan Perempuan di bidang pelestarian lingkungan  dilaksanakan melalui:
 a. meningkatkan kapasitas perempuan khususnya terkait  dalam peningkatan pengetahuan lingkungan hidup  sehingga dapat berdaya guna tinggi bagi pembangunan ramah lingkungan;  
-b. meningkatkan pendidikan pelestarian lingkungan hidup dan pengelolaan lingkungan hidup dalam rumah tangga; c. meningkatkan pendidikan pengelolaan sampah pada  lingkungan hidup sekitar; dand. meningkatkan akses pada perempuan untuk  berpartisipasi dalam pembangunan lingkungan hidup.  
+b. meningkatkan pendidikan pelestarian lingkungan hidup dan pengelolaan lingkungan hidup dalam rumah tangga;  
+c. meningkatkan pendidikan pengelolaan sampah pada  lingkungan hidup sekitar; dand. meningkatkan akses pada perempuan untuk  berpartisipasi dalam pembangunan lingkungan hidup.  
 
 #### Pasal 17
 
@@ -270,7 +276,8 @@ c. perempuan dengan HIV/AIDS;
 d. perempuan pekerja migran;  
 e. perempuan lanjut usia;  
 f. perempuan adat;  
-g. perempuan dalam situasi bencana dan konflik sosial; h. perempuan kepala keluarga;  
+g. perempuan dalam situasi bencana dan konflik sosial;  
+h. perempuan kepala keluarga;  
 i. perempuan pekerja informal;  
 j. perempuan dalam situasi intoleransi;  
 k. perempuan korban/terpapar NAPZA (narkotika,  psikotropika, dan zat adiktif);  
@@ -322,7 +329,8 @@ Pelayanan terhadap perempuan korban kekerasan dapat  dilakukan melalui:
 a. penerimaan laporan dan/atau penjangkauan korban  kekerasan;  
 b. pemberian informasi tentang hak korban kekerasan;  
 c. fasilitasi pemberian layanan kesehatan;  
-d. fasilitasi pemberian layanan penguatan psikologis; e. fasilitasi pemberian layanan psikososial, rehabilitasi  sosial, pemberdayaan sosial, pemulangan, dan  reintegrasi sosial;  
+d. fasilitasi pemberian layanan penguatan psikologis;  
+e. fasilitasi pemberian layanan psikososial, rehabilitasi  sosial, pemberdayaan sosial, pemulangan, dan  reintegrasi sosial;  
 f. penyediaan layanan hukum;  
 g. identifikasi kebutuhan pemberdayaan ekonomi;  
 h. identifikasi kebutuhan penampungan sementara untuk  korban kekerasan dan keluarga korban kekerasan yang  perlu dipenuhi segera;  
@@ -339,7 +347,8 @@ Penguatan Kelembagaan Perlindungan Perempuan
 1. Penguatan kelembagaan Perlindungan Perempuan dapat  dilakukan melalui peningkatan kapasitas, kerjasama dan terintegrasi dengan:a. instansi pemerintah;  
 b. lembaga pendidikan;  
 c. lembaga keagamaan;  
-d. lembaga penyelenggara pelayanan kesehatan; e. lembaga profesi;  
+d. lembaga penyelenggara pelayanan kesehatan;  
+e. lembaga profesi;  
 f. dunia usaha;  
 g. lembaga layanan;  
 h. pesantren;  
@@ -353,7 +362,8 @@ n. komunitas; dano. keluarga.
 b. penyediaan kebutuhan spesifik bagi perempuan  dalam situasi darurat dan kondisi khusus tingkat Daerah;  
 c. pengembangan strategi komunikasi, informasi, dan  edukasi tentang perlindungan hak perempuan tingkat  Daerah;  
 d. penguatan jejaring antar lembaga penyedia layanan  Perlindungan Perempuan tingkat Daerah;  
-e. fasilitasi upaya pemenuhan standar lembaga penyedia  layanan Perlindungan Perempuan tingkat Daerah; f. pengembangan lembaga penyedia layanan  Perlindungan Perempuan tingkat Daerah.  
+e. fasilitasi upaya pemenuhan standar lembaga penyedia  layanan Perlindungan Perempuan tingkat Daerah;  
+f. pengembangan lembaga penyedia layanan  Perlindungan Perempuan tingkat Daerah.  
 
 # BAB VI
 

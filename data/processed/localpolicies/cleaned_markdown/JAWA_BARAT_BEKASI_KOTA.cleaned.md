@@ -17,11 +17,13 @@
 # WALIKOTA BEKASI,
 
 Menimbang:  
+ 
 a. bahwa guna menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa agar upaya-upaya perlindungan terhadap  perempuan dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari Pemerintah Daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
 1. Undang-Undang Dasar 1945 Amandemen, Pasal 27  ayat (1);  
 
 2. Undang-Undang Nomor 1 Tahun 1974 tentang  Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Tahun 3019);  
@@ -409,7 +411,8 @@ Anak yang berhadapan dengan hukum, anak yang mengalami kehamilan di  luar pernik
 #### Pasal 28
 
 Bagi anak berusia 7 (tujuh) sampai dengan kurang 18 (delapan belas) tahun  yang belum menyelesaikan pendidikan formalnya dapat menempuh  pendidikan melalui satuan pendidikan informal:
-a. Kelompok Belajar Paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah; b. Kelompok Belajar Paket B setara Sekolah Menengah Pertam dan  Madrasah Tsanawiyah;  
+a. Kelompok Belajar Paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah;  
+b. Kelompok Belajar Paket B setara Sekolah Menengah Pertam dan  Madrasah Tsanawiyah;  
 c. Kelompok Belajar Paket C setara Sekolah Menengah Atas dan Madrasah  Aliyah;  
 d. Kelompok Belajar Paket C Kejuruan setara Sekolah Menengah Atas  Kejuruan dan Madrasah Aliyah Kejuruan.  
 

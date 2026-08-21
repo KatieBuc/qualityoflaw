@@ -13,6 +13,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DENGAN RAHMAT TUHAN YANG 
 # WALIKOTA PALEMBANG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan dan jaminan atas hak asasinya, serta berhak  mendapat perlakukan yang adil untuk memperoleh kesempatan  dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa peraturan perundang-undangan yang mengatur  perlindungan perempuan dan anak dalam mengatur upaya upaya perempuan dan anak alami dari tindak kekerasan di  daerah sehingga perlu adanya peraturan yang dapat terjamin  pelaksanaannya;  
 c. bahwa segala bentuk tindak kekerasan terhadap warga negara khususnya perempuan dan anak merupakan salah satu bentuk pelanggaran atas hak-hak asasi manusia sehingga negara, pemerintah, masyarakat, dan keluarga berkewajiban dan bertanggung jawab terhadap perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -139,7 +140,8 @@ Hak Perempuan dan Anak
 #### Pasal 7
 
 Perempuan dan anak dari tindak kekerasan mendapatkan hak-hak  se bagai beriku t:
-a. hak untuk dihormati harkat dan martabatnya sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
+a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan identitasnya;  
@@ -151,7 +153,8 @@ g. hak atas rehabilitasi sosial;
 h. hak atas penanganan pengaduan;  
 i. hak anak atas pendidikan;  
 
-h k t k ndapatkan kemudahan dalam proses peradilan; J. a un u me  dan
+h k t k ndapatkan kemudahan dalam proses peradilan;  
+J. a un u me  dan
 k. hak atas pendampingan.  
 
 ## Bagian Kedua
@@ -164,9 +167,12 @@ Pemerintah Kota
 
 #### Pasal 8
 
-1. Dalam upaya perlindungan terhadap perempuan dan anak dari tindak kekerasan berkewajiban:a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai dengan ketentuan peraturan perundang-undangan; b. menetapkan dan melaksanakan kebijakan program dan kegiatan perlindungan terhadap hak perempuan dan anak; c. memfasilitasi pembentukan organisasi masyarakat peduli perempuan dan anak;  
+1. Dalam upaya perlindungan terhadap perempuan dan anak dari tindak kekerasan berkewajiban:a. menjamin hak perempuan dan anak tanpa diskriminasi sesuai dengan ketentuan peraturan perundang-undangan;  
+b. menetapkan dan melaksanakan kebijakan program dan kegiatan perlindungan terhadap hak perempuan dan anak;  
+c. memfasilitasi pembentukan organisasi masyarakat peduli perempuan dan anak;  
 d. melakukan kerja sama dengan masyarakat dan/atau organisasi kemasyarakatan dan swasta dalam penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
-e. melakukan rehabilitasi dan pemberdayaan terhadap perempuan dan anak yang menjadi korban tindak kekerasan; f. memberikan perlindungan khusus kepada perempuan dan anak korban dari berbagai tindak kekerasan; dang. melakukan tindakan preventif dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak. (2) Tanggung jawab dalam upaya perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh perangkat daerah sesuai dengan tugas dan fungsinya.  
+e. melakukan rehabilitasi dan pemberdayaan terhadap perempuan dan anak yang menjadi korban tindak kekerasan;  
+f. memberikan perlindungan khusus kepada perempuan dan anak korban dari berbagai tindak kekerasan; dang. melakukan tindakan preventif dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak. (2) Tanggung jawab dalam upaya perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh perangkat daerah sesuai dengan tugas dan fungsinya.  
 3. Ketentuan lebih lanjut mengenai kewajiban Pemerintah Kota sebagaimana dimaksud pada ayat ( 1) diatur dengan Peraturan Walikota.  
 
 ### Paragraf 2
@@ -244,7 +250,8 @@ e. memberi rasa aman dan nyaman;
 f. menghargai perbedaan individu;  
 g. tidak menghakimi;  
 h. menghormati pilihan dan keputusan korban;  
-1. peka terhadap latar belakang dan kondisi korban; J. menggunakan bahasa yang sesuai dan dimengerti oleh korban;  
+1. peka terhadap latar belakang dan kondisi korban;  
+J. menggunakan bahasa yang sesuai dan dimengerti oleh korban;  
 k. cepat dan sederhana;  
 1. empati;  
 m. pemen�han hak perempuan dan anak; dann. kepastian hukum.  
@@ -258,9 +265,11 @@ m. pemen�han hak perempuan dan anak; dann. kepastian hukum.
 dan anak korban dari tindak kekerasan Penanganan perempuan  sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf a dilaksanakan oleh:
 a. rumah sakit;  
 b. pusat kesehatan masyarakat;  
-c. Unit Pelaksana Teknis Perlindungan Perempuan dan Anak; d. Rumah aman;  
+c. Unit Pelaksana Teknis Perlindungan Perempuan dan Anak;  
+d. Rumah aman;  
 e. Women Crisis Centre;  
-f. Badan Penasihatan Pembinaan dan Pelestarian Perkawinan; g. Kepolisian;  
+f. Badan Penasihatan Pembinaan dan Pelestarian Perkawinan;  
+g. Kepolisian;  
 h. Kejaksaan;  
 i. Pengadilan;  
 j. Kementerian Hukum dan Hak Asasi Manusia;  
@@ -296,7 +305,8 @@ b. kedudukan UPT PPA berada dibawah dan bertanggung jawab kepada Kepala Dinas ya
 
 ( 1) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf a bertujuan untuk:
 a. membantu korban mengenali permasalahannya dan menemukan cara-cara yang efektif untuk mengatasinya sendiri;  
-b. memberdayakan korban untuk menentukan masa depannya; c. memberikan dukungan moral bagi korban dalam menghadapi proses hukum yang dijalaninya; dand. membuat korban merasa diterima di lingkungan masyarakat. (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsive gender, terdiri atas:a. konselor yang telah memiliki sertifikat;  
+b. memberdayakan korban untuk menentukan masa depannya;  
+c. memberikan dukungan moral bagi korban dalam menghadapi proses hukum yang dijalaninya; dand. membuat korban merasa diterima di lingkungan masyarakat. (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsive gender, terdiri atas:a. konselor yang telah memiliki sertifikat;  
 b. psikolog; danc. psikiater.  
 3. Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, nyaman dan kerahasiaan informasi dari korban. (4) Tahapan pelayanan konseling meliputi:a. konseling awal;  
 b. konseling lanjutan;  
@@ -308,7 +318,8 @@ c. pembahasan kasus; dand. kunjungan ke lokasi.
 
 2. Lokasi rumah aman sebagaimana dimaksud pada ayat (1) harus dirahasiakan.  
 3. Kriteria perempuan dan anak korban dari tindak kekerasan yang memerlukan rumah aman meliputi:a. terancam jiwanya;  
-b. mendapatkan penolakan dari keluarga atau masyarakat; c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan
+b. mendapatkan penolakan dari keluarga atau masyarakat;  
+c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh; dan
 
 d.terlantar jika tidak ditempatkan dalam rumah aman. (4). Penyelenggaraan .....  
 

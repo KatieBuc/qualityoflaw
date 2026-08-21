@@ -11,11 +11,13 @@ PROVINSI SUMATERA SELATAN PERATURAN DAERAH KABUPATEN MUSI RAWAS UTARA NOMOR 9 TA
 # BUPATI MUSI RAWAS UTARA.  
 
 Menimbang:  
+ 
 a. bahwa segala bentuk kekerasan, penyiksaan atau perlakuan yang merendahkan derajat, martabat perempuan dan anak merupakan pelanggaran terhadap hak asasi manusia untuk itu perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan, penyiksaan atau perlakuan yang merendahkan derajat serta martabat perempuan dan anak terus meningkat sehingga wajib dilakukan upaya perlindungan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 16 tahun 2013 tentang Pembentukan Kabupaten Musi Rawas Utara di Provinsi Sumatera Selatan (Lembaran Negara Republik Indonesia Tahun 2013 Nomor 112, Tambahan Lembaran Negara Republik Indonesia Nomor 5429);  

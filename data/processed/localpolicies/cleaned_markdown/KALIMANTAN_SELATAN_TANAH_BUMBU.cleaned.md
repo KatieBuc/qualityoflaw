@@ -13,12 +13,14 @@
 # BUPATI TANAH BUMBU,
 
 Menimbang:  
+ 
 a. bahwa Perempuan dan Anak berhak mendapatkan perlindungan dari penyiksaan, ancaman, tekanan, serta berhak mendapatkan perlakuan dan kesempatan yang sama untuk mendapatkan keadilan dan kesejahteraan hidup sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa Pemberdayaan Perempuan dan melindungi hak-hak Anak menjadi kewajiban Pemerintah Daerah dan Masyarakat di Daerah;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b dan huruf H Pembagian Urusan Pemerintahan Bidang Pemberdayaan Perempuan dan Perlindungan Anak Lampiran Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, Pemerintah Daerah berwenang menyelenggarakan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 4 tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elemination of All Forms of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -310,14 +312,16 @@ c. meningkatkan kapasitas pelayanan Perlindungan Anak yang meliputi pengembangan
 
 #### Pasal 23
 
-1. Sasaran penanganan Anak meliputi:a. Anak di luar asuhan orang tua; b. Anak dalam situasi darurat bencana;  
+1. Sasaran penanganan Anak meliputi:a. Anak di luar asuhan orang tua;  
+b. Anak dalam situasi darurat bencana;  
 c. Anak yang berhadapan dengan hukum;  
 d. Anak korban Kekerasan fisik, mental dan/atau seksual;  
 e. Anak perlakuan salah dan penelantaran;  
 f. Anak korban eksploitasi ekonomi;  
 g. Anak yang menjadi korban tindak pidana perdagangan orang;  
 h. Anak yang menjadi korban perjudian, penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya (Napza); dani. Anak yang berada dalam situasi yang sifat dan keadaan tempat pekerjaan dapat membahayakan kesehatan, keselamatan, dan moral Anak.  
-2. Penanganan sebagaimana dimaksud pada ayat (1) harus dilakukan dengan segera meliputi:a. mengidentifikasi dan menerima pengaduan/laporan; b. tindakan penyelamatan;  
+2. Penanganan sebagaimana dimaksud pada ayat (1) harus dilakukan dengan segera meliputi:a. mengidentifikasi dan menerima pengaduan/laporan;  
+b. tindakan penyelamatan;  
 c. penempatan Anak di rumah perlindungan sementara;  
 d. rehabilitasi meliputi:
 1. layanan pemulihan kesehatan;  
@@ -450,7 +454,8 @@ b. Anak yang berhadapan dengan hukum;
 c. Anak dari komunitas adat terpencil;  
 d. Anak yang tereksploitasi secara ekonomi dan/atau seksual;  
 e. Anak korban penyalahgunaan Napza termasuk ngelem beraroma yang dapat menimbulkan efek halusinasi dan sejenisnya;  
-f. Anak korban penculikan, penjualan, dan perdagangan; g. Anak korban Kekerasan fisik dan/atau psikis;  
+f. Anak korban penculikan, penjualan, dan perdagangan;  
+g. Anak korban Kekerasan fisik dan/atau psikis;  
 h. Anak yang berkebutuhan khusus; dani. Anak korban perlakuan salah dan penelantaran.  
 
 ### Paragraf 1
@@ -476,9 +481,11 @@ Anak Yang Berhadapan Dengan Hukum
 1. Perlindungan Khusus bagi Anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 36 huruf b meliputi Anak yang berkonflik dengan hukum dan Anak korban tindak pidana, merupakan kewajiban dan tanggung jawab Pemerintah Daerah, Kepolisian, Kejaksaan, Pengadilan, Orang Tua, Keluarga dan Masyarakat.  
 2. Penanganan Anak yang berhadapan dengan proses hukum dan pelaksanaan putusan Hakim harus tetap mengedepankan Hak Anak.  
 3. Perlindungan Khusus bagi Anak yang berhadapan dengan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:a. perlakuan atas Anak secara manusiawi sesuai dengan martabat dan Hak Anak;  
-b. penyediaan petugas pendamping khusus Anak sejak dini; c. penyediaan sarana dan prasarana khusus;  
+b. penyediaan petugas pendamping khusus Anak sejak dini;  
+c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi Anak;  
-e. pemantauan dan pencatatan terus menerus terhadap perkembangan Anak yang berhadapan dengan hukum; f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.  
+e. pemantauan dan pencatatan terus menerus terhadap perkembangan Anak yang berhadapan dengan hukum;  
+f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.  
 4. Dalam hal seorang Anak yang berhadapan dengan hukum, aparat penegak hukum tidak melakukan pemeriksaan justicia Anak tanpa sepengetahuan orang tua atau wali, dan dilakukan dengan:a. upaya rehabilitasi melalui lembaga khusus untuk kepentingan terbaik bagi Anak;  
 b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
 c. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, mental maupun sosial; dand. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.  
@@ -667,7 +674,11 @@ b. memperlakukan disabilitas secara diskriminatif;
 c. menempatkan, Perempuan dan Anak penyandang membiarkan, melibatkan, menyuruh melibatkan Anak dalam situasi perlakuan salah dan penelantaran;  
 d. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta melakukan Kekerasan terhadap Perempuan dan Anak;  
 e. melakukan Kekerasan atau ancaman Kekerasan memaksa Perempuan dan Anak melakukan persetubuhan dengannya atau dengan orang lain;  
-f. melakukan Kekerasan atau ancaman kekerasan, memaksa, melakukan tipu muslihat, melakukan serangkaian kebohongan, atau membujuk Perempuan dan Anak untuk melakukan atau membiarkan dilakukan perbuatan cabul; g. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta melakukan penculikan, penjualan dan/atau perdagangan Perempuan dan Anak; h. menghalang-halangi Perempuan dan Anak untuk menikmati budayanya sendiri mengakui dan melaksanakan ajaran agamanya dan/atau menggunakan bahasanya sendiri tanpa mengabaikan akses pembangunan Masyarakat dan budaya; i. menempatkan, membiarkan, melakukan, melakukan atau turut serta melakukan eksploitasi secara menyuruh ekonomi dan/atau seksual terhadap Perempuan dan Anak; j. dengan sengaja menempatkan, membiarkan, melibatkan Perempuan dan Anak dalam penyalahgunaan, serta produksi dan distribusi narkotika dan/atau psikotropika; dan/atauk. dengan sengaja menempatkan, membiarkan, melibatkan, Perempuan dan Anak dalam menyuruh melibatkan penyalahgunaan, serta produksi dan distribusi alkohol dan zat adiktif lainnya.  
+f. melakukan Kekerasan atau ancaman kekerasan, memaksa, melakukan tipu muslihat, melakukan serangkaian kebohongan, atau membujuk Perempuan dan Anak untuk melakukan atau membiarkan dilakukan perbuatan cabul;  
+g. menempatkan, membiarkan, melakukan, menyuruh melakukan atau turut serta melakukan penculikan, penjualan dan/atau perdagangan Perempuan dan Anak;  
+h. menghalang-halangi Perempuan dan Anak untuk menikmati budayanya sendiri mengakui dan melaksanakan ajaran agamanya dan/atau menggunakan bahasanya sendiri tanpa mengabaikan akses pembangunan Masyarakat dan budaya;  
+i. menempatkan, membiarkan, melakukan, melakukan atau turut serta melakukan eksploitasi secara menyuruh ekonomi dan/atau seksual terhadap Perempuan dan Anak;  
+j. dengan sengaja menempatkan, membiarkan, melibatkan Perempuan dan Anak dalam penyalahgunaan, serta produksi dan distribusi narkotika dan/atau psikotropika; dan/atauk. dengan sengaja menempatkan, membiarkan, melibatkan, Perempuan dan Anak dalam menyuruh melibatkan penyalahgunaan, serta produksi dan distribusi alkohol dan zat adiktif lainnya.  
 
 # BAB XV
 
@@ -765,7 +776,8 @@ c. Perlindungan Anak;
 d. rumah aman;  
 e. Pemberdayaan Perempuan dan Perlindungan Anak oleh pemerintah Desa;  
 f. kualitas keluarga;  
-g. kerja sama; h. penghargaan;  
+g. kerja sama;  
+h. penghargaan;  
 i. partisipasi Masyarakat;  
 j. pembiayaan;  
 k. larangan;  

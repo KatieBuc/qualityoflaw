@@ -13,10 +13,12 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI BUTON SELATAN,
 
 Menimbang:  
+ 
 a. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Pemerintahan Daerah, Pemberdayaan Perempuan dan perlindungan Anak merupakan urusan pemerintahan wajib bagi Pemerintah daerah yang tidak berkaitan dengan pelayanan Dasar, maka dalam rangka pemenuhan hak asasi manusia atas tindak kekerasan perempuan dan anak, dipandang perlu dilakukan perlindungan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah di ubah dengan Undang-Undang Nomor 17 Tahun 2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak menjadi Undang-Undang (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -91,7 +93,8 @@ e. keterbukaan; danf. pengayoman.
 
 Tujuan perlindungan perempuan dan anak tindak kekerasan, untuk: a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
-c. melindungi serta memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dane. menguatkan perempuan dan anak korban tindak kekerasan agar lebih  berdaya baik fisik, psikis, sosial dan ekonomi.  
+c. melindungi serta memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dane. menguatkan perempuan dan anak korban tindak kekerasan agar lebih  berdaya baik fisik, psikis, sosial dan ekonomi.  
 
 # BAB IV
 
@@ -114,7 +117,8 @@ f. eksploitasi; dan/ataug. kekerasan lainnya.
 #### Pasal 5
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak pemulihan;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -126,7 +130,8 @@ i. hak atas pendampingan; danj. hak rasa aman.
 #### Pasal 6
 
 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:
-a. hak untuk kelangsungan hidup, tumbuh dan berkembang; b. hak pelayanan dasar kependudukan;  
+a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
+b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
 
@@ -162,7 +167,8 @@ c. memberikan informasi dan/ atau melaporkan tindak kekerasan terhadap  perempua
 #### Pasal 10
 
 Setiap orang yang mendengar, melihat atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib melakukan upaya sesuai dengan batas  kemampuannya untuk:
-a. mencegah dan menghentikan berlangsungnya tindak kekerasan; b. memberikan perlindungan kepada korban;  
+a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
+b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dan/ ataud. membantu proses pengajuan permohonan penetapan perlindungan korban  kekerasan.  
 
 # BAB VII
@@ -240,9 +246,11 @@ Pemulihan
 #### Pasal 18
 
 Pemulihan meliputi:
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. memberikan pelayanan medicolegal;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di rumah aman (shelter); e. memberikan pemulihan dan pendampingan psikososial;  
+d. memberikan perlindungan sementara di rumah aman (shelter);  
+e. memberikan pemulihan dan pendampingan psikososial;  
 f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan lingkungan keluarga, sekolah, kerja dan masyarakat,  serta pemberdayaan ekonomi.  
 
 ## Bagian Keempat
@@ -263,7 +271,8 @@ Peran Serta Masyarakat
 Peran serta masyarakat dilakukan dengan cara:
 a. menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan  pada perempuan dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi dan melaporkan adanya tindak kekerasaan terhadap perempuan  dan anak;  
-c. menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan; d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan tindak kekerasan terhadap perempuandan anak; dane. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan tindak kekerasan terhadap perempuan dan anak.  
+c. menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
+d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan tindak kekerasan terhadap perempuandan anak; dane. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan tindak kekerasan terhadap perempuan dan anak.  
 
 # BAB IX
 
@@ -294,7 +303,8 @@ Kemitraan
 #### Pasal 22
 
 1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan. (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
-b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan; c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan perundang-undangan.  
 
 # BAB X

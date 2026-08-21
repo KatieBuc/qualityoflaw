@@ -15,11 +15,13 @@
 # BUPATI BANDUNG BARAT,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang  berperan dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap pemenuhan  hak-haknya dan perlindungan dari tindak kekerasan dan  diskriminasi;  
 b. bahwa berdasarkan Pasal 7 ayat (2) huruf n Peraturan  Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah, Pemerintahan Daerah  Provinsi dan Pemerintahan Daerah Kabupaten/Kota,  Pemberdayaan Perempuan dan Perlindungan anak merupakan  urusan pemerintahan yang wajib diselenggarakan oleh  Pemerintahan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan  Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan  (Lembaran Negara Republik Indonesia tahun 1974 Nomor 1,  Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  
@@ -162,7 +164,8 @@ Kebijakan Pelaksanaan PUG
 
 #### Pasal 5
 
-1. Pemerintah Daerah menyusun kebijakan, program, dan kegiatan  pembangunan Responsif Gender yang dituangkan dalam:a. Rencana Pembangunan Jangka Menengah Daerah (RPJMD); b. Rencana Strategis SKPD; danc. Rencana Kerja SKPD.  
+1. Pemerintah Daerah menyusun kebijakan, program, dan kegiatan  pembangunan Responsif Gender yang dituangkan dalam:a. Rencana Pembangunan Jangka Menengah Daerah (RPJMD);  
+b. Rencana Strategis SKPD; danc. Rencana Kerja SKPD.  
 2. Penyusunan kebijakan, program, dan kegiatan pembangunan Responsif  Gender sebagaimana dimaksud pada ayat (1) dilakukan melalui Analisis  Gender.  
 
 #### Pasal 6
@@ -223,7 +226,8 @@ Pelaporan, Pemantauan, dan Evaluasi PUG
 2. Laporan pelaksanaan PUG sebagaimana dimaksud pada ayat (1),meliputi: a. pelaksanaan program dan kegiatan;  
 b. instansi yang terlibat dalam pelaksanaan kegiatan;  
 c. sasaran kegiatan;  
-d. penggunaan anggaran yang bersumber dari APBD atau sumber lain; e. permasalahan yang dihadapi; danf. upaya yang telah dilakukan.  
+d. penggunaan anggaran yang bersumber dari APBD atau sumber lain;  
+e. permasalahan yang dihadapi; danf. upaya yang telah dilakukan.  
 3. Tata cara pelaporan pelaksanaan PUG di daerah diatur lebih lanjut dalam  Peraturan Bupati.  
 
 #### Pasal 11
@@ -259,7 +263,8 @@ PKHP diarahkan untuk memperoleh kesempatan dan hak-hak perempuan agar  mampu ber
 Pemerintah Daerah melaksanakan kebijakan, program, dan kegiatan PKHP di berbagai bidang pembangunan, melalui:
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan PKHP antar SKPD;  
 b. kerjasama dengan Pemerintah Daerah lainnya dalam pelaksanaan kebijakan,  program, dan kegiatan PKHP;  
-c. penguatan kapasitas kelembagaan PUG untuk pelaksanaan PKHP; d. fasilitasi pelayanan PKHP;  
+c. penguatan kapasitas kelembagaan PUG untuk pelaksanaan PKHP;  
+d. fasilitasi pelayanan PKHP;  
 e. penyediaan pelayanan PKHP;  
 f. pelaksanaan aksi afirmasi PKHP; dang. penyusunan sistem pendataan PKHP.  
 

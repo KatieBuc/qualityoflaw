@@ -13,6 +13,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 # BUPATI SERAM BAGIAN BARAT,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan;  
 b. bahwa perempuan dan anak sebagai warga negara,  termasuk kelompok rentan yang cenderung mengalami  kekerasan yang merupakan tindakan yang melanggar hak  asasi manusia perlu mendapatkan perlindungan;  
 c. bahwa jumlah kekerasan terhadap perempuan dan anak di  Kabupaten Seram Bagian Barat masih terus meningkat dan  meluas sedangkan perlindungan terhadap perempuan dan  anak belum dilakukan secara optimal;  
@@ -20,6 +21,7 @@ d. bahwa peraturan perundangan yang mengatur mengenai  perlindungan perempuan da
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a,huruf b, huruf c, dan huruf d, perlu  menetapkan peraturan daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 40 Tahun 2003 tentang  Pembentukan Kabupaten Seram Bagian Timur, Kabupaten  Seram Bagian Barat dan Kabupaten Kepulauan Aru di  Provinsi Maluku (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 155, Tambahan Lembaran Negara  Republik Indonesia Nomor 4350);  
@@ -92,7 +94,8 @@ e. penghargaan terhadap pendapat Perempuan dan Anak; dan f. keadilan dan perlind
 b. mencegah segala bentuk Kekerasan terhadap Perempuan dan Anak; danc. pemberdayaan Perempuan dan Anak KorbanKekerasan.  
 39. Ruang lingkup Perlindungan terhadap Perempuan dan Anak meliputi: a. kelembagaan;  
 b. bentuk dan mekanisme penanganan;  
-c. pencegahan tindak kekerasan terhadap perempuan dan anak; d. mekanisme pendampingan;  
+c. pencegahan tindak kekerasan terhadap perempuan dan anak;  
+d. mekanisme pendampingan;  
 e. pelayanan Korban tindak Kekerasan;  
 f. Pemulihan korban tindak kekerasan; dang. pemberdayaan Korban dan keluarganya.  
 
@@ -193,7 +196,8 @@ Pencegahan Tindak Kekerasan
 #### Pasal 12
 
 1. Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan untuk mencegah terjadi tindak  Kekerasan terhadap Perempuan dan Anak (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut:a. peningkatan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
-b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial; c. pembukaan lapangan kerja bagi Perempuan;  
+b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
+c. pembukaan lapangan kerja bagi Perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat untuk  melaksanakan pencegahan dan terhadap Perempuan dan Anak dari  tindak Kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses oleh perempuan dan korban kekerasan termasuk  perempuan miskinf. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau konsen dan fokus terhadap  Perempuan dan Anak korban kekerasan; dang. membuka pos pengaduan berbasis komunitas di tingkat desa/Negeri  untuk Perlindungan terhadap Perempuan dan Anak dari tindak  Kekerasan.  
 
@@ -325,7 +329,8 @@ b. transparan;danc. akuntabel.
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  a. membentuk mitra keluarga di tingkat kelurahan dan desa oleh  masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak di dalam  organisasi kemasyarakatan;  
 c. penyediaan rumah aman atau rumah singgah;  
-d. penyediaan dan pengelolaan panti asuhan anake. mendirikan tempat rehabilitasi perempuan dan anak korban kekerasan; f. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
+d. penyediaan dan pengelolaan panti asuhan anake. mendirikan tempat rehabilitasi perempuan dan anak korban kekerasan;  
+f. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 g. melakukan pertolongan pertama kepada korban; danh. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 

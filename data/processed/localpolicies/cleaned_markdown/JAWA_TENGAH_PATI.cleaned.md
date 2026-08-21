@@ -17,12 +17,14 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
 # BUPATI PATI,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak  harus mendapatkan perlindungan atas ancaman  kekerasan dalam lingkup rumah tangga dan masyarakat dari Pemerintah Daerah;  
 c. bahwa berdasarkan Pasal 59 Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak, Pemerintah dan  lembaga negara lainnya berkewajiban dan bertanggung  jawab untuk memberikan perlindungan khusus kepada  anak dalam situasi darurat, anak yang berhadapan  dengan hukum, anak dari kelompok minoritas dan  terisolasi, anak tereksploitasi secara ekonomi dan/atau  seksual, anak yang diperdagangkan, anak yang menjadi  korban penyalahgunaan narkotika, alkohol, psikotropika,  dan zat adiktif lainnya (napza), anak korban penculikan,  penjualan dan perdagangan, anak korban kekerasan  baik fisik dan/atau mental, anak yang menyandang  cacat, dan anak korban perlakuan salah dan  penelantaran;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b dan huruf c, perlu  menetapkan Peraturan Daerah tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis  Gender dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  pembentukan Daerah-daerah Kabupaten dalam  Lingkungan Propinsi Jawa Tengah;  
@@ -100,7 +102,8 @@ b. kepentingan terbaik bagi korban;
 c. keadilan dan kesetaraan gender;  
 d. perlindungan korban;  
 e. kelangsungan hidup ibu;  
-f. kelangsungan hidup, tumbuh dan berkembang anak; g. penghargaan terhadap pendapat anak;  
+f. kelangsungan hidup, tumbuh dan berkembang anak;  
+g. penghargaan terhadap pendapat anak;  
 h. keterbukaan;  
 i. keterpaduan;  
 j. tidak menyalahkan korban;  
@@ -113,7 +116,8 @@ Tujuan perlindungan korban kekerasan berbasis gender dan  anak adalah:
 a. mencegah segala bentuk kekerasan berbasis gender dan  kekerasan terhadap anak, yang terjadi di lingkup rumah  tangga dan/atau masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
-d. mengupayakan pemulihan dan reintegrasi sosial; e. memberikan rasa aman terhadap korban; dan f. meningkatkan partisipasi masyarakat.  
+d. mengupayakan pemulihan dan reintegrasi sosial;  
+e. memberikan rasa aman terhadap korban; dan f. meningkatkan partisipasi masyarakat.  
 
 # BAB III
 
@@ -136,11 +140,15 @@ f. pemulihan dan reintegrasi sosial; dang. mendapatkan pendampingan hukum, psiko
 #### Pasal 5
 
 1. Dalam menyelenggarakan perlindungan terhadap korban  kekerasan berbasis gender dan anak Pemerintah Daerah  berkewajiban:a. mencegah terjadinya kekerasan;  
-b. memberikan perlindungan bagi korban kekerasan; c. menyediakan layanan pemulihan dan reintegrasi  sosial bagi korban;  
+b. memberikan perlindungan bagi korban kekerasan;  
+c. menyediakan layanan pemulihan dan reintegrasi  sosial bagi korban;  
 d. mendorong dan meningkatkan partisipasi  masyarakat;  
 e. melakukan kerjasama dengan penyedia layanan  dalam upaya pencegahan, perlindungan dan  pemulihan korban kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap  korban yang melibatkan masyarakat.  
-2. Untuk melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1), Pemerintah Daerah mempunyai  kewenangan untuk:a. merumuskan kebijakan dan program tentang  penghapusan kekerasan berbasis gender dan anak; b. memfasilitasi terselenggaranya pelayanan terpadu; c. menyediakan sarana dan prasarana;  
-d. meningkatkan kapasitas lembaga penyedia layanan; e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban  kekerasan berbasis gender dan anak;  
+2. Untuk melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1), Pemerintah Daerah mempunyai  kewenangan untuk:a. merumuskan kebijakan dan program tentang  penghapusan kekerasan berbasis gender dan anak;  
+b. memfasilitasi terselenggaranya pelayanan terpadu;  
+c. menyediakan sarana dan prasarana;  
+d. meningkatkan kapasitas lembaga penyedia layanan;  
+e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban  kekerasan berbasis gender dan anak;  
 f. mendorong partisipasi masyarakat; dang. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban dan  kewenangan sebagaimana dimaksud pada ayat (1) dan  ayat (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami, istri atau orang lain yang secara hukum  bertanggung jawab kepada korban.  
 
@@ -204,7 +212,8 @@ Perlindungan Hukum
 #### Pasal 12
 
 Perlindungan hukum sebagaimana dimaksud dalam Pasal 9 meliputi:
-a. memberi perlindungan di rumah aman (shelter); b. melakukan pendampingan selama proses hukum pada  setiap tahap pemeriksaan; danc. menunjuk perwalian bagi anak korban kekerasan sesuai  dengan ketentuan yang berlaku.  
+a. memberi perlindungan di rumah aman (shelter);  
+b. melakukan pendampingan selama proses hukum pada  setiap tahap pemeriksaan; danc. menunjuk perwalian bagi anak korban kekerasan sesuai  dengan ketentuan yang berlaku.  
 
 ## Bagian Keenam
 

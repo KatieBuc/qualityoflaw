@@ -38,7 +38,8 @@ Menimbang Mengingat
 
 # BUPATI JOMBANG,
 
-: a. bahwa dalam rangka optimalisasi upaya yang mengarah pada penurunan angka tindak kekerasan terhadap perempuan dan anak, dipandang perlu meningkatkan meningkatkan pelayanan perlindungan terhadap perempuan dan anak korban kekerasan; b. bahwa untuk mencapai maksud konsideran Menimbang huruf à, maka dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan dengan menuangkan ketentuannya dalam Peraturan Daerah.  
+: a. bahwa dalam rangka optimalisasi upaya yang mengarah pada penurunan angka tindak kekerasan terhadap perempuan dan anak, dipandang perlu meningkatkan meningkatkan pelayanan perlindungan terhadap perempuan dan anak korban kekerasan;  
+b. bahwa untuk mencapai maksud konsideran Menimbang huruf à, maka dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan dengan menuangkan ketentuannya dalam Peraturan Daerah.  
 
 : 1. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Nomor 3143);  
 
@@ -137,7 +138,8 @@ Setiap korban berhak melaporkan dan mendapatkan pendampingan baik secara psikolo
 
 #### Pasal 6
 
-1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dan anak dalam bentuk:a. melakukan sosialisasi tentang peraturan perundang- undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak korban kekerasan serta nilai-nilai anti kekerasan terhadap perempuan dan anak; b. melakukan monitoring dan evaluasi terhadap pelaksanaan sosialisasi dan pemahaman nilai-nilai anti kekerasan. (2) Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya perlindungan terhadap korban dalam bentuk:a. mengumpulkan data dan informasi tentang korban;  
+1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dan anak dalam bentuk:a. melakukan sosialisasi tentang peraturan perundang- undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak korban kekerasan serta nilai-nilai anti kekerasan terhadap perempuan dan anak;  
+b. melakukan monitoring dan evaluasi terhadap pelaksanaan sosialisasi dan pemahaman nilai-nilai anti kekerasan. (2) Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya perlindungan terhadap korban dalam bentuk:a. mengumpulkan data dan informasi tentang korban;  
 b. mendirikan dan memfasilitasi lembaga pelayanan terpadu serta rumah aman untuk korban;  
 c. mendorong kepedulian masyarakat akan arti pentingnya perlindungan terhadap korban;  
 3. Pelaksanaan kewajiban sebagaimana dimaksud ayat (1) dan ayat (2), secara teknis dilaksanakan secara terpadu oleh Satuan Kerja Perangkat Daerah terkait.  
@@ -159,7 +161,8 @@ Bentuk dan mekanisme Pelayanan (1) Bentuk-bentuk
 #### Pasal 8
 
 pelayanan terhadap korban yang diselenggarakan oleh P2T-P2A meliputi:
-a. Pelayanan medis, berupa perawatan dan pemulihan luka- luka fisik yang bertujuan untuk memulihkan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; b. Pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
+a. Pelayanan medis, berupa perawatan dan pemulihan luka- luka fisik yang bertujuan untuk memulihkan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
+b. Pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
 
 yang
 c. Pelayanan psikososial merupakan pelayanan diberikan oleh pendamping untuk membantu memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman yang melindungi korban dari berbagai ancaman dan intimidasi bagi korban serta memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya maupun menjalani proses hukum;  

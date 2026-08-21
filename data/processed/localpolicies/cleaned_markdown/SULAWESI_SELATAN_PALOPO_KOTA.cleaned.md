@@ -17,6 +17,7 @@
 # WALIKOTA PALOPO,
 
 Menimbang:  
+ 
 a. bahwa melindungi perempuan dan anak dari segala bentuk tindakan diskriminasi dan kekerasan merupakan bagian dari tanggung jawab pemerintah daerah dalam rangka pemajuan, penegakan, dan pemenuhan hak asasi manusia;  
 b. bahwa perlindungan perempuan dan anak menjadi bagian dari urusan wajib bagi setiap pemerintah daerah yang diamanatkan dalam Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah;  
 
@@ -167,7 +168,8 @@ e. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak korban 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf c, diselenggarakan dalam bentuk peran serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mengasuh, memelihara, mendidik, dan melindungi anak;  
 b. menumbuh kembangkan anak sesuai dengan kemampuan, bakat dan minatnya;  
-c. mencegah terjadinya perkawinan pada usia anak-anak; d. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+c. mencegah terjadinya perkawinan pada usia anak-anak;  
+d. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak korban kekerasan kepada penegak hukum atau pihak yang berwenang; danf. turut serta dalam penanganan korban tindak kekerasan.  
 3. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), dapat beralih kepada keluarga, yang dilaksanakan sesuai dengan ketentuan Peraturan Perundang-undangan.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2) dilaksanakan secara bertanggung jawab sesuai dengan Peraturan Perundang-undangan.  

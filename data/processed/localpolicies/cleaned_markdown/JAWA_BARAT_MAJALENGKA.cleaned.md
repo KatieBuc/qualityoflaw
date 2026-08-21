@@ -115,8 +115,10 @@ d. ketertiban 7 _d. ketertiban dan kepastian hukum;
 e. keterbukaan;  
 f. pengayoman; dang. kepentingan terbaik bagi korban.  
 
-Pasal3 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis gender;  
-c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban kekerasan;  
+Pasal3 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis gender;  
+c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
+d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban kekerasan;  
 e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang terjadi di ranah domestik dan/ atau publik; danf. menindak pelaku kekerasan terhadap perempuan dan anak.  
 
 ## BABIII
@@ -155,14 +157,16 @@ PasallO (1) Kekerasan lainnya sebagaimana dimaksud dalam pasal 4 huruf f merupak
 ## HAK-HAKKORBAN
 
 Pasalll Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:
-a. Hak 9a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak pemulihan;  
+a. Hak 9a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan secara tepat, nyaman, dan sesuai kebutuhan;  
 h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan;  
-i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang; b. hak pelayanan dasar kependudukan;  
+i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
 
@@ -195,7 +199,8 @@ f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan perempuan dan
 
 Kewajibandan Tanggung Jawab Swasta dan Masyarakat Pasa115 (1) Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana dimaksud dalam Pasal 13 huruf b dan huruf c, diselenggarakan dalam bentuk peran serta swasta dan masyarakat.  
 
-2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (1),meliputi:a. mencegah teIjadi tindak kekerasan terhadap perempuan dan anak; b. memberikan informasi dan/atau me1aporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan.  
+2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (1),meliputi:a. mencegah teIjadi tindak kekerasan terhadap perempuan dan anak;  
+b. memberikan informasi dan/atau me1aporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan.  
 3. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
 
 ## Bagian Ketiga
@@ -213,9 +218,11 @@ Kewajibandan Tanggung Jawab Ke1uargadan/ atau Orang Tua Pasa116 Kewajibankeluarg
 Kelembagaan Pasal17 (1) Untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak, Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada keluarga, orang tua, dan masyarakat dengan memberikan informasi, bimbingan dan/ atau penyuluhan dan mewujudkan Kabupaten LayakAnak.  
 
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),Pemerintah Daerah melakukan upaya sebagai berikut:a. memberikan materi tentang pencegahan tindak kekerasan terhadap perempuan dan anak dalam pendidikan baik formal, non formal, maupun informal;  
-b. penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial; c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi perempuan;  
+b. penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial;  
+c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
-e. membangun dan menyediakan sistem informasi yang mudah diakses; f. membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan anak.  
+e. membangun dan menyediakan sistem informasi yang mudah diakses;  
+f. membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan anak.  
 
 Pasal18 (1) Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak sebagaimana dimaksud dalam Pasal 17 dilaksanakan oleh Perangkat Daerah yang tugas dan fungsinya di bidang:
 a. sosial;  
@@ -241,7 +248,8 @@ e. mediasi; danf. pendampingan korban.
 3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati.  
 4. Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat membentuk:a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang;  
 b. Gugus Tugas Pencegahan Perkawinan Anak;  
-c. Gugus Tugas Kabupaten LayakAnak atau dengan sebutan lain; d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan terburuk untuk anak;  
+c. Gugus Tugas Kabupaten LayakAnak atau dengan sebutan lain;  
+d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan terburuk untuk anak;  
 e. Forum Anak Remaja Majalengkaif. Perlindungan Anak Terpadu Berbasis Masyarakat (PATBM)GEMPITA. Pasal20 Ketentuan lebih lanjut mengenai pembentukan, tugas, dan fungsi gugus tugas sebagaimana dimaksud pada Pasal 19 ayat (4) ditetapkan dengan Peraturan Bupati.  
 
 ## Bagian Kedua
@@ -318,7 +326,8 @@ Lembaga Masyarakat dalam tergabung dalam Gugus Tugas (4) Gugus Tugas Kabupaten L
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan altematif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan 15d. pendidikan, pemanfaatan waktu luang dan kegiatan sem budaya; e. perlindungan khusus anak.  
+d. pendidikan 15d. pendidikan, pemanfaatan waktu luang dan kegiatan sem budaya;  
+e. perlindungan khusus anak.  
 5. Ketentuan lebih lanjut mengenai Kabupaten Layak Anak diatur dalam Peraturan Bupati.  
 
 ### BABX

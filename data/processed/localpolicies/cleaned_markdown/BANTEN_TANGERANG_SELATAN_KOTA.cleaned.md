@@ -13,12 +13,14 @@
 # WALIKOTA TANGERANG SELATAN,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak secara biologis dan  filosofis merupakan kelompok yang rentan dan mudah menjadi korban kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi yang harus dihapus;  
 c. bahwa perlindungan terhadap perempuan dan anak korban kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah daerah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, b, dan c, dipandang perlu untuk menetapkan Perlindungan Perempuan dan Anak Korban Kekerasan dengan Peraturan Daerah Kota Tangerang Selatan;  
 
 2 - Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (Lembaran Negara Republik Indonesia Tahun 1974 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 3019);  
@@ -177,7 +179,8 @@ d. Pelatihan bagi anggota PPT;
 e. Melakukan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan terhadap perempuan dan anak korban kekerasan.  
 
 12 - (3) Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan  dan anak, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi korban dalam bentuk:
-a. mendirikan dan memfasilitasi penyelenggaraan lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat terkait; b. mendorong kepedulian masyarakat akan pentingnya perlindungan  terhadap korban.  
+a. mendirikan dan memfasilitasi penyelenggaraan lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat terkait;  
+b. mendorong kepedulian masyarakat akan pentingnya perlindungan  terhadap korban.  
 
 #### Pasal 8
 

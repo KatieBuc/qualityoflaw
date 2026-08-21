@@ -13,6 +13,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI TRENGGALEK,
 
 Menimbang:  
+ 
 a. bahwa Negara Kesatuan Republik Indonesia menjamin  kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak perempuan dan hak anak yang merupakan hak asasi manusia;  
 b. bahwa dalam rangka meningkatkan kedudukan, peran, dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara;  
 c. bahwa setiap anak adalah tunas, potensi, dan generasi  penerus perjuangan bangsa, dan diharapkan kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, sehingga perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;  
@@ -22,6 +23,7 @@ d. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan kemanusian y
 e. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Provinsi Jawa Timur (Lembaran Negara Republik Indonesia Tahun 1950 Nomor 41, Tambahan Lembaran Negara Republik Indonesia Nomor 90) sebagaimana telah diubah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 2730);  
@@ -182,7 +184,8 @@ k. untuk bebas dari penyiksaaan atau perlakuan yang  merendahkan derajat martaba
 l. hidup sejahtera lahir batin, bertempat tinggal dan mendapat  lingkungan hidup yang baik dan sehat, serta berhak memperoleh pelayanan kesehatan;  
 m. atas jaminan sosial yang memungkinkan pengembangan  dirinya secara utuh sebagai manusia yang bermartabat;  
 n. atas kebersamaan kedudukannya di dalam hukum dan pemerintahan;  
-o. atas pekerjaan dan penghidupan yang layak bagi kemanusiaan; p. dalam upaya pembelaan negara;  
+o. atas pekerjaan dan penghidupan yang layak bagi kemanusiaan;  
+p. dalam upaya pembelaan negara;  
 q. untuk berkomunikasi dan memperoleh informasi untuk  mengembangkan pribadi dan lingkungan sosialnya, serta  berhak untuk mencari, memperoleh, memiliki, menyimpan,  mengolah, dan menyampaikan informasi dengan menggunakan  segala jenis saluran yang tersedia;  
 r. memeluk agamanya masing-masing dan untuk beribadat  menurut agamnya dan kepercayaannya itu; dans. mendapat pendidikan.  
 
@@ -244,7 +247,8 @@ a. atas kelangsungan hidup, tumbuh, berkembang dan  berpartisipasi secara wajar 
 b. atas suatu nama sebagai identitas diri dan status  kewarganegaraan;  
 c. untuk beribadah menurut agamanya, berpikir, dan  berekspresi sesuai dengan tingkat kecerdasan dan usianya,  dalam bimbingan orang tua;  
 d. untuk mengetahui orang tuanya, dibesarkan, dan diasuh oleh  orang tuanya sendiri;  
-e. memperoleh pelayanan kesehatan dan jaminan sosial sesuai  dengan kebutuhan fisik, mental, spiritual, dan sosial; f. memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya sesuai  dengan minat dan bakatnya;  
+e. memperoleh pelayanan kesehatan dan jaminan sosial sesuai  dengan kebutuhan fisik, mental, spiritual, dan sosial;  
+f. memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya sesuai  dengan minat dan bakatnya;  
 g. menyatakan dan didengar pendapatnya, menerima, mencari,  dan memberikan informasi sesuai dengan tingkat kecerdasan  dan usianya demi pengembangan dirinya sesuai dengan nilai nilai kesusilaan dan kepatutan;  
 h. untuk beristirahat dan memanfaatkan waktu luang, bergaul  dengan anak yang sebaya, bermain, berekreasi, dan berkreasi  sesuai dengan minat, bakat, dan tingkat kecerdasannya demi  pengembangan diri;  
 i. mendapat perlindungan dari perlakuan diskriminasi,  eksploitasi, baik ekonomi maupun seksual, penelantaran,  kekerasan, penganiayaan, ketidakadilan, perlakuan salah  lainnya, selama dalam pengasuhan dari orang tua, wali, atau  pihak lain mana pun yang bertanggung jawab atas  pengasuhan;  
@@ -284,7 +288,8 @@ a. memperoleh pendidikan luar biasa, sedangkan bagi anak yang  memiliki keunggul
 
 Setiap anak wajib untuk:
 a. menghormati orangtua, wali, dan guru;  
-b. mencintai keluarga, masyarakat, dan menyayangi teman; c. mencintai tanah air, bangsa dan negara;  
+b. mencintai keluarga, masyarakat, dan menyayangi teman;  
+c. mencintai tanah air, bangsa dan negara;  
 d. menunaikan ibadah sesuai dengan ajaran agamanya; dan - 19 -e. melaksanakan etika dan akhlak mulia.  
 
 ## Bagian Kedua
@@ -528,9 +533,11 @@ Setiap orang dilarang merekrut atau memperalat anak untuk  kepentingan militer d
 
 30 - (2) Perlindungan khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud pada ayat (1) dilaksanakan  melalui:
 a. perlakuan atas anak secara manusiawi sesuai dengan  martabat dan hak-hak anak;  
-b. penyediaan petugas pendamping khusus anak sejak dini; c. penyediaan sarana dan prasarana khusus;  
+b. penyediaan petugas pendamping khusus anak sejak dini;  
+c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang  terbaik bagi anak;  
-e. pemantauan dan pencatatan terus menerus terhadap  perkembangan anak yang berhadapan dengan hukum; f. pemberian jaminan untuk mempertahankan hubungan  dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media  massa dan untuk menghindari labelisasi.  
+e. pemantauan dan pencatatan terus menerus terhadap  perkembangan anak yang berhadapan dengan hukum;  
+f. pemberian jaminan untuk mempertahankan hubungan  dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media  massa dan untuk menghindari labelisasi.  
 3. Perlindungan khusus bagi anak yang menjadi korban tindak  pidana sebagaimana dimaksud pada ayat (1) dilaksanakan  melalui:a. upaya rehabilitasi, baik dalam lembaga maupun di luar  lembaga;  
 b. upaya perlindungan dari pemberitaan identitas melalui  media massa dan untuk menghindari labelisasi;  
 c. pemberian jaminan keselamatan bagi saksi korban dan  saksi ahli, baik fisik, mental, maupun sosial; dand. pemberian aksesibilitas untuk mendapatkan informasi  mengenai perkembangan perkara.  

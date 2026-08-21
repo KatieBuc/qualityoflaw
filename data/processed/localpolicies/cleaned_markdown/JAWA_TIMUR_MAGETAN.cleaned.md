@@ -13,6 +13,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPuAN DAN ANAK KORBAN KEKERASAN
 # BUPATI MAGETAN,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindalan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan dan anak korban kekerasan di Daerah belum optimal, sehingga perlu penguatan kelembagaan dan adanya pengaturan yang dapat menjamin pelaksanaannya sesuai ketentuaa yang berlaku darr;  
 c. bahwa berdasarkan Undang_Undang Nomor 23 Tahun 2O14 tentang pemerintahan Daerah sebagaimana diubah beberapa kali terakhir dengan Undaag_Undang Nomor 9 Tahun 2015, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh pemerintahan Daerah;  
@@ -173,7 +174,8 @@ Bagran Kesatu Pencegahan
 1. Upaya pencegahan kekerasan terhadap perempuan dan anak dilakukan secara terpadu oleh Pemerintah Daerah dan dikoordinasikan oleh organisasi perangkat daerah yang menyelenggarakan urusan di bidang pemberdayaan perempuan dan perlindu ngan anak.  
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara:a. melakukan pembinaan menuju keutuhan rumah tangga yang harmonis;  
 b. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
-c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan; d. membentuk sistem pencegahan kekerasan;  
+c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
+d. membentuk sistem pencegahan kekerasan;  
 e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat.  
 
 #### Pasal 1O
@@ -199,7 +201,8 @@ f. tidakdikenakan biaya; dang. dijamin kerahasiaannya.
 #### Pasal 12
 
 Bentuk pelayanan terhadap korban meliputi:
-a. pelayanan pengaduan, konsultasi, dan konseling; b. pelayanan pendampingan;  
+a. pelayanan pengaduan, konsultasi, dan konseling;  
+b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayanan rehabilitasi sosial;  
 e. pelayanan hukum;  
@@ -306,7 +309,8 @@ Pasl 22 (1) Masyarakat berperan serta dalam penyelenggaraan perlindungan terhada
 
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:
 
-a.membentuk mitra keluarga di tingkat desa/kelurahan; b.membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
+a.membentuk mitra keluarga di tingkat desa/kelurahan;  
+b.membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 
@@ -479,7 +483,8 @@ Huruf b Pelayanan pendampingan meliputi:
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. mendampingi korban selama proses medicolegal, gaitu pelayanan kedokteran untuk memberikan bantuan professional yang optimal dalam memanfaatkan ilmu kedokteran untuk kepentingan penegakan hukum dan keadilan. Termasuk pelayanan medicolegal antara lain: ui.stm et reperfitm darr uistm et psikiatrikum;  
 c. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
-d. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di kepolisan, kejaksaan dan pengadilan; e. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
+d. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di kepolisan, kejaksaan dan pengadilan;  
+e. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
 f. melakukan koordinasi dengan pendamping yang lain; dan g. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 Huruf c Pelayanan kesehatan meliputi:

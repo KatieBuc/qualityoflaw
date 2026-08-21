@@ -92,7 +92,8 @@ a. Perlindungan dari pihak:
 4. pengadilan;  
 5. advokat; dan
 6. lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah Perlindungan dari pengadilan.  b. Pelayanan kesehatan sesuai dengan kebutuhan medis;  
-c. penanganan secara khusus berkaitan dengan kerahasiaan Korban; d. pendampingan oleh pekerja sosial dan Bantuan Hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang unda-rlgan;  
+c. penanganan secara khusus berkaitan dengan kerahasiaan Korban;  
+d. pendampingan oleh pekerja sosial dan Bantuan Hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang unda-rlgan;  
 e. Pelayanan bimbingan rohani; dartf. Korban memiliki hak menentukan sendiri keputusannya terkait pilihal mana yang akan dilaksanakan.  
 
 # BAB III
@@ -102,7 +103,8 @@ e. Pelayanan bimbingan rohani; dartf. Korban memiliki hak menentukan sendiri kep
 #### Pasal 4
 
 1. Pemerintah Daerah berwenang dan bertanggung jawab atas Perlindungan Perempuan Korban Kekerasan.  
-2. Kewenangan sebagaimana dimaksud pada ayat (1) meliputi: a. kegiatan Pelayanan terhadap Perempuan Korban Kekerasan; b. pemantauan, penguatan terhadap korban Kekerasan; danc. peningkatan kemarnpual aparatur dan para pemangku kepentingan lain.  
+2. Kewenangan sebagaimana dimaksud pada ayat (1) meliputi: a. kegiatan Pelayanan terhadap Perempuan Korban Kekerasan;  
+b. pemantauan, penguatan terhadap korban Kekerasan; danc. peningkatan kemarnpual aparatur dan para pemangku kepentingan lain.  
 
 # BAB IV
 
@@ -156,7 +158,9 @@ h. Keagamaan; da:ri. Keluarga
 #### Pasal 10
 
 Penanganan terhadap perempuan korban kekerasan adalah dengan pemberian pelayanan secara terintegrasi dan terpadu meliputi:
-a. cakupan Perempuan Korban Kekerasan yang mendapatkan penalganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu; b. cakupan Perempuan Korban Kekerasan yang mendapatkan layalan kesehatan oleh tenaga kesehatan terlatih di puskesmas dan di rumah sakit: c. cakupan layanan Rehabilitasi Sosia1 yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:d. cakupan layanan bimbingan rohani yalg diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus Kekerasan Terhadap Perempuan; f. cakupan Perempuan Korban Kekerasan yang mendapatkan layanan Bantuan Hukum;  
+a. cakupan Perempuan Korban Kekerasan yang mendapatkan penalganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;  
+b. cakupan Perempuan Korban Kekerasan yang mendapatkan layalan kesehatan oleh tenaga kesehatan terlatih di puskesmas dan di rumah sakit: c. cakupan layanan Rehabilitasi Sosia1 yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:d. cakupan layanan bimbingan rohani yalg diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus Kekerasan Terhadap Perempuan;  
+f. cakupan Perempuan Korban Kekerasan yang mendapatkan layanan Bantuan Hukum;  
 g. cakupan layanan Pemulangan bagi Perempuan Korban Kekerasan; dan h. cakupan layanan Reintegrasi Sosial bagi Perempuan Korban Kekerasan.  
 7-
 

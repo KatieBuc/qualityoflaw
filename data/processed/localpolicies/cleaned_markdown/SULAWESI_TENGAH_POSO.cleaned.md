@@ -13,11 +13,13 @@ PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN 
 # BUPATI POSO,
 
 Menimbang:  
+ 
 a. bahwa tindakan kekerasan yang terjadi terhadap perempuan dan anak dapat menimbulkan korban yang berdampak pada traumatik yang berkepanjangan;  
 b. bahwa demi melindungi kepentingan perempuan dan anak, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan, Pelayanan dan Pemulihan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Undang–Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822 );  
 
 2. Undang–Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
@@ -134,7 +136,8 @@ c. Pelayanan Psiko – sosial merupakan pelayanan yang diberikan oleh pendamping
 d. Pelayanan Hukum disetiap tingkatan pemeriksaan; dan e. Pelayanan resosialisasi agar korban dapat kembali melaksanakan funsgi sosialnya dalam masyarakat ;  
 2. Mekanisme Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut Prosedur Standar Operasional, yang akan diatur lebih lanjut dengan Peraturan Bupati.  
 3. Dalam hal tertentu PPT dan atau P2TP2A dapat bekerjasama dengan:a. Kepolisian, untuk melaporkan dan memproses pelaku tindak pidana kekerasan terhadap perempuan dan anak ;  
-b. Advokat, untuk membantu korban dalam proses peradilan ; c. Penegak Hukum lainnya, untuk membantu korban pada setiap tingkatan pemeriksaan ;  
+b. Advokat, untuk membantu korban dalam proses peradilan ;  
+c. Penegak Hukum lainnya, untuk membantu korban pada setiap tingkatan pemeriksaan ;  
 d. Komisi anti kekerasan terhadap perempuan ;  
 e. Komisi Perlindungan Anak Indonesia ( KPAI ); dan f. Pihak tertentu yang diinginkan demi kepentingan korban.  
 

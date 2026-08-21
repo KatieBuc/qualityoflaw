@@ -33,12 +33,14 @@ Salinan
 ### DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI INDRAMAYU,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
 
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang–Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Berita Negara Republik Indonesia Tahun 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan Mengubah Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara Republik Indonesia  Tahun 1968 Nomor 31,  Tambahan Lembaran Negara  Republik Indonesia Nomor 2851);  
@@ -112,7 +114,8 @@ Dalam Peraturan Daerah ini yang dimaksud  dengan:
 #### Pasal 2
 
 Penyelenggaraan Pencegahan, Perlindungan dan  Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:
-a. Penghomatan terhadap hak-hak korban; b. Keadilan dan kesejahteraan gender;  
+a. Penghomatan terhadap hak-hak korban;  
+b. Keadilan dan kesejahteraan gender;  
 c. Non diskriminasi; dand. Kepentingan terbaik bagi korban.  
 
 #### Pasal 3
@@ -146,7 +149,9 @@ f. Pendampingan secara psikologis dan hukum; dang. Jaminan atas hak-hak yang ber
 
 1. Pemerintah Daerah berkewajiban  melaksanakan upaya pencegahan terjadinya  kekerasan terhadap perempuan dan anak dalam bentuk:
 
-a.mengumpulkan data dan informasi tentang  perempuan dan anak korban kekerasan; b.melakukan sosialisasi peraturan perundang- undangan yang berkaitan dengan  penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak  sebagai korban kekerasan dan eksploitasi; c.melakukan sosialisasi tentang pemahaman  dan nilai-nilai anti kekerasan terhadap  Perempuan dan Anak melalui KIE  (komunikasi, informasi dan edukasi) baik  melalui masyarakat, sekolah dan perguruan  tinggi;  
+a.mengumpulkan data dan informasi tentang  perempuan dan anak korban kekerasan;  
+b.melakukan sosialisasi peraturan perundang- undangan yang berkaitan dengan  penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak  sebagai korban kekerasan dan eksploitasi;  
+c.melakukan sosialisasi tentang pemahaman  dan nilai-nilai anti kekerasan terhadap  Perempuan dan Anak melalui KIE  (komunikasi, informasi dan edukasi) baik  melalui masyarakat, sekolah dan perguruan  tinggi;  
 
 d.melakukan pemantauan dan evaluasi  terhadap penyelenggaraan pencegahan,  perlindungan dan pemulihan perempuan  dan anak sebagai korban kekerasan dan  eksploitasi.  
 
@@ -248,7 +253,9 @@ Bentuk dan Mekanisme Pemulihan
 #### Pasal 14
 
 Bentuk pemulihan terhadap korban perempuan  dan anak yang dilakukan oleh P2TP2A dapat  dilaksanakan melalui:
-a. kegiatan rehabilitasi dan pendampingan  dilaksanakan maksimal sampai satu bulan; b. P2TP2A wajib menyediakan sumber daya yang  berkompeten seperti psikiater dan psikolog; c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak kekerasan;  
+a. kegiatan rehabilitasi dan pendampingan  dilaksanakan maksimal sampai satu bulan;  
+b. P2TP2A wajib menyediakan sumber daya yang  berkompeten seperti psikiater dan psikolog;  
+c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak kekerasan;  
 
 # BAB VII
 

@@ -11,11 +11,13 @@ PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK  KEKERASAN
 # WALIKOTA BONTANG,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak secara biologis dan filosofis  merupakan kelompok yang rentan terhadap tindak kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa perlindungan terhadap perempuan dan anak  korban tindak kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan terhadap Perempuan dan Anak Korban Tindak Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 47 Tahun 1999 tentang  Pembentukan Kabupaten Nunukan, Kabupaten Malinau, Kabupaten Kutai Barat, Kabupaten Kutai Timur dan Kota Bontang (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 175, Tambahan Lembaran Negara Republik Indonesia Nomor 3839) sebagaimana telah diubah dengan Undang-Undang Nomor 7 Tahun 2000 (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 74 Tambahan Lembaran Negara Republik Indonesia Tahun 3962);  

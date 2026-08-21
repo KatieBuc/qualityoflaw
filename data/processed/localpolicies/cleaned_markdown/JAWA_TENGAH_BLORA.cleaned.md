@@ -15,10 +15,12 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 # BUPATI BLORA,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat, harkat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi sebagai bentuk penghormatan, perlindungan dan penegakan Hak Asasi Manusia, khususnya hak-hak dasar perempuan dan Anak, sehingga perlu diatur mengenai penyelenggaraan perlindungan perempuan dan Anak Korban kekerasan di Kabupaten Blora;  
 b. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang–Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah–Daerah Kabupaten dalam  Lingkungan Propinsi Djawa Tengah (Berita Negara  tanggal 8 Agustus 1950) sebagaimana telah diubah  dengan Undang-Undang Nomor 9 Tahun 1965  tentang Pembentukan Daerah Tingkat II Batang  dengan mengubah Undang-Undang Nomor 13  Tahun 1950 tentang Pembentukan Daerah–Daerah  Kabupaten dalam Lingkungan Propinsi Djawa Tengah (Lembaran Negara Republik Indonesia  Tahun 1965 Nomor 52, Tambahan Lembaran  Negara Republik Indonesia Nomor 2757);  
@@ -100,7 +102,8 @@ b. kepentingan terbaik bagi Korban;
 c. keadilan dan kesetaraan gender;  
 d. perlindungan Korban;  
 e. kelangsungan hidup ibu;  
-f. kelangsungan hidup, tumbuh, dan berkembang Anak; g. penghargaan terhadap pendapat Anak;  
+f. kelangsungan hidup, tumbuh, dan berkembang Anak;  
+g. penghargaan terhadap pendapat Anak;  
 h. keterbukaan;  
 i. keterpaduan;  
 j. tidak menyalahkan Korban;  
@@ -110,7 +113,8 @@ l. kerahasiaan Korban; danm. pengambilan keputusan di tangan Korban.
 #### Pasal 3
 
 Tujuan penyelenggaraan perlindungan Korban adalah:
-a. mencegah Kekerasan Terhadap Perempuan dan Anak; b. memberikan pelayanan kepada perempuan dan Anak Korban Kekerasan; danc. memberdayakan perempuan dan Anak Korban Kekerasan.  
+a. mencegah Kekerasan Terhadap Perempuan dan Anak;  
+b. memberikan pelayanan kepada perempuan dan Anak Korban Kekerasan; danc. memberdayakan perempuan dan Anak Korban Kekerasan.  
 
 # BAB III
 
@@ -133,7 +137,9 @@ c. hak mendapatkan informasi;
 d. hak atas kerahasiaan identitasnya;  
 e. hak atas penanganan pengaduan;  
 f. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami Korban;  
-g. hak untuk mendapatkan kemudahan dalam proses peradilan; h. hak untuk mendapatkan upaya pemulangan dan reintegrasi sosial; i. hak atas rehabilitasi sosial; danj. hak untuk mendapatkan pendampingan pada pemulihan psikologis,  layanan hukum dan layanan kesehatan.  
+g. hak untuk mendapatkan kemudahan dalam proses peradilan;  
+h. hak untuk mendapatkan upaya pemulangan dan reintegrasi sosial;  
+i. hak atas rehabilitasi sosial; danj. hak untuk mendapatkan pendampingan pada pemulihan psikologis,  layanan hukum dan layanan kesehatan.  
 
 # BAB V
 
@@ -145,7 +151,8 @@ g. hak untuk mendapatkan kemudahan dalam proses peradilan; h. hak untuk mendapat
 2. Upaya pencegahan terjadinya Kekerasan sebagaimana dimaksud  pada ayat (1) dapat dilaksanakan dalam bentuk:a. melakukan upaya peningkatan kesadaran tentang nilai-nilai anti  Kekerasan Terhadap Perempuan dan Anak;  
 b. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan penyelenggaraan perlindungan perempuan  dan Anak Korban kekerasan.  
 3. Pemerintah Daerah berkewajiban menyediakan dan menyelenggarakan layanan bagi Korban dalam bentuk:a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan  terpadu untuk Korban;  
-b. memberikan dukungan sarana dan prasaranac. meningkatkan kapasitas lembaga penyedia layanan; d. melakukan koordinasi dan kerjasama dalam pelayanan  terhadap perempuan dan Anak Korban kekerasan;  
+b. memberikan dukungan sarana dan prasaranac. meningkatkan kapasitas lembaga penyedia layanan;  
+d. melakukan koordinasi dan kerjasama dalam pelayanan  terhadap perempuan dan Anak Korban kekerasan;  
 e. melakukan monitoring dan evaluasi;  
 f. mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap Korban; dang. melakukan pemberdayaan terhadap Korban.  
 
@@ -163,12 +170,14 @@ e. eksploitasi; danf. perlakuan salah.
 2. Kekerasan fisik sebagaimana dimaksud pada ayat (1) huruf a  adalah perbuatan yang mengakibatkan rasa sakit, cedera, luka, atau  cacat pada tubuh seseorang, gugurnya kandungan, pingsan  dan/atau menyebabkan kematian.  
 3. Kekerasan psikis sebagaimana dimaksud pada ayat (1) huruf b  adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa  percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak  berdaya dan/atau penderitaan psikis berat pada Korban.  
 4. Kekerasan seksual sebagaimana dimaksud pada ayat (1) huruf c  adalah:a. perbuatan yang berupa pelecehan seksual baik fisik maupun  psikis;  
-b. perbuatan pencabulan dan hubungan seksual kepada Anak; c. pemaksaan hubungan seksual;  
+b. perbuatan pencabulan dan hubungan seksual kepada Anak;  
+c. pemaksaan hubungan seksual;  
 d. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataue. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 5. Penelantaran sebagaimana dimaksud pada ayat (1) huruf d adalah: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan  Korban secara wajar baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus Anak sebagaimana mestinya yang  dilakukan orang tua, wali, pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja yang  layak di dalam atau di luar rumah sehingga Korban berada di  bawah kendali orang tersebut.  
-6. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf e adalah: a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain; b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau mentransplantasi  organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan pelacuran  atau pencabulan.  
+6. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf e adalah: a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
+b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau mentransplantasi  organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan pelacuran  atau pencabulan.  
 7. Perlakuan salah sebagaimana dimaksud pada ayat (1) huruf f adalah: a. segala perbuatan atau tindakan baik yang sengaja maupun  tidak sengaja yang dilakukan oleh orang lain yang membuat  individu sakit atau terganggu perasaannya, atau memperoleh  perasaan yang tidak enak yang membuat seseorang sedih,  kecewa, marah dan takut;  
 b. segala pelanggaran seksual yang dilakukan atau diizinkan  untuk dilakukan terhadap Anak oleh orang dewasa atau orang  lain yang secara sah bertanggung jawabuntuknya, meliputi  menyentuh Anak dengan maksud kepuasan seksual atau  paksaan Anak untuk menyentuh seorang dewasa, hubungan  seksual, memperlihatkan kegiatan seksual kepada Anak,  pornografi atau mengizinkan Anak melakukan hubungan  seksual yang tidak sesuai dengan perkembangannya.  
 
@@ -191,7 +200,8 @@ d. masyarakat yang memiliki kompetensi dalam penyelenggaraan perlindungan Korban
 b. Wakil Ketua;  
 c. Sekretaris; dand. Bidang-bidang (4) Bidang-bidang sebagaimana dimaksud pada ayat (3) sekurang kurangnya terdiri dari:a. bidang pelayanan pengaduan;  
 b. bidang pelayanan kesehatan;  
-c. bidang pelayanan rehabilitasi sosial dan bimbingan rohani; d. bidang pelayanan penegakan hukum dan bantuan hukum; dan/  ataue. bidang pemulangan dan reintegrasi sosial.  
+c. bidang pelayanan rehabilitasi sosial dan bimbingan rohani;  
+d. bidang pelayanan penegakan hukum dan bantuan hukum; dan/  ataue. bidang pemulangan dan reintegrasi sosial.  
 
 #### Pasal 9
 
@@ -251,7 +261,8 @@ Upaya Pencegahan
 1. Upaya pencegahan Kekerasan Terhadap Perempuan dan Anak  dilakukan oleh:a. Pemerintah Daerah yang dikoordinasikan oleh Perangkat Daerah  yang membidangi urusan pemberdayaan dan perlindungan  perempuan dan Anak;  
 b. keluarga dan kerabat terdekat;  
 c. masyarakat; dand. lembaga pendidikan.  
-2. Upaya pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan Kekerasan; b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
+2. Upaya pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan Kekerasan;  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan Kekerasan; dand. melakukan sosialisasi tentang pencegahan Kekerasan Terhadap  Perempuan dan Anak, serta pemenuhan hak-hak Anak.  
 
 ## Bagian Ketiga
@@ -359,7 +370,8 @@ Pelaksanaan kerjasama sebagaimana dimaksud dalam Pasal 24 sesuai  dengan ketentu
 b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap Korban dan/atau masyarakat  tentang penanganan kasus Kekerasan Terhadap Perempuan dan  Anak;  
 d. membantu proses pengajuan permohonan penetapan  perlindungan;  
-e. menyampaikan informasi kepada aparat yang berwenang terkait  dengan kasus Kekerasan Terhadap Perempuan dan Anak; f. menyelenggarakan penguatan kelompok masyarakat dalam  penanganan Kekerasan Terhadap Perempuan dan Anak; dan g. menyebarluaskan informasi ketentuan peraturan perundang undangan yang berkaitan dengan Kekerasan Terhadap  Perempuan dan Anak.  
+e. menyampaikan informasi kepada aparat yang berwenang terkait  dengan kasus Kekerasan Terhadap Perempuan dan Anak;  
+f. menyelenggarakan penguatan kelompok masyarakat dalam  penanganan Kekerasan Terhadap Perempuan dan Anak; dan g. menyebarluaskan informasi ketentuan peraturan perundang undangan yang berkaitan dengan Kekerasan Terhadap  Perempuan dan Anak.  
 
 # BAB XI
 

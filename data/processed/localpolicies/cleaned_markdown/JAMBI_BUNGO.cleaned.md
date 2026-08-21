@@ -38,6 +38,7 @@ Menimbang:
 a. bahwa setiap warga negara termasuk perempuan mempunyai hak yang sama untuk mendapatkan rasa aman dan bebas dari negara untuk melakukan aktifitas dalam berbagai aspek kehidupan sebagaimana dijamin dalam Pancasila dan Undang-Undang Dasar Negarai Republik Indonesia Tahun 1945;  
 b. bahwa masih banyak terjadi kekerasan berbasis gender kepada perempuan dan kekerasan yang memperlakukan perempuan secara tidak proporsional dalam berbagai aspek kehidupan sehingga perlu adanya jaminan terhadap hak-hak perempuan secara konkrit dari pemerintah selaku penyelenggara negara melalui pemerintah daerah yang didukung oleh berbagai pihak;  
 c. bahwa.....2 Mengingat:  
+ 
 2-c. bahwa Pemerintah Kabupaten Bungo selaku penyelenggara pemerintahan daerah belum memiliki produk hukum daerah dalam menjamin hak-hak perempuan pada berbagai aspek kehidupan dalam Kabupaten Bungo sehingga perlu adanya peraturan mengenai perlindungan perempuan perempuan sebagai dasar hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c maka perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

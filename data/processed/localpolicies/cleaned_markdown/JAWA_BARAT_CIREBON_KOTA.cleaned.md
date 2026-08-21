@@ -15,11 +15,13 @@ PELINDUNGAN PEREMPUAN DARI KEKERASAN, EKSPLOITASI DAN  DISKRIMINASI
 # WALI KOTA CIREBON,
 
 Menimbang:  
+ 
 a. bahwa setiap perempuan berhak untuk mendapatkan  rasa aman dan pelindungan dari segala bentuk kekerasan, eksploitasi, penyiksaan, diskriminasi, dan perlakuan salah lainnya yang merendahkan harkat dan martabat manusia serta melanggar hak asasi manusia;  
 b. bahwa untuk memastikan pencegahan dan penanganan  tindak kekerasan terhadap perempuan secara cepat, akurat, menyeluruh, dan terintegrasi, diperlukan pengaturan mengenai pelindungan terhadap perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dari Kekerasan, Eksploitasi dan Diskriminasi;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 23 tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95);  
@@ -95,7 +97,8 @@ Asas
 #### Pasal 2
 
 Pelindungan Perempuan, berasaskan: - 6 -
-a. penghargaan atas harkat dan martabat manusia; b. non-diskriminasi;  
+a. penghargaan atas harkat dan martabat manusia;  
+b. non-diskriminasi;  
 c. kepentingan terbaik bagi korban;  
 d. keadilan;  
 e. kemanfaatan;danf. kepastian hukum.  
@@ -108,7 +111,8 @@ Tujuan
 
 Pelindungan Perempuan bertujuan untuk:
 a. mencegah segala bentuk kekerasan, eksploitasi, dan  diskriminasi terhadap perempuan;  
-b. memberikan pelayanan dan pemulihan bagi perempuan  korban kekerasan, eksploitasi dan diskriminasi; c. mewujudkan kapasitas Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan dari  kekerasan, eksploitasi dan diskriminasi;  
+b. memberikan pelayanan dan pemulihan bagi perempuan  korban kekerasan, eksploitasi dan diskriminasi;  
+c. mewujudkan kapasitas Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan dari  kekerasan, eksploitasi dan diskriminasi;  
 d. meningkatkan partisipasi masyarakat dalam Pelindungan  Perempuan;dane. mewujudkan kehidupan sosial yang aman dan bebas dari  segala bentuk kekerasan, eksploitasi dan diskriminasi  terhadap perempuan.  
 
 ### Paragraf 3
@@ -126,7 +130,8 @@ e. partisipasi masyarakat;
 f. sistem data dan informasi;  
 g. kelembagaan;  
 h. kewajiban Pemerintah Daerah Kota;  
-i. pengendalian, pembinaan dan pengawasan; j. penghargaan;dank. pembiayaan.  
+i. pengendalian, pembinaan dan pengawasan;  
+j. penghargaan;dank. pembiayaan.  
 
 # BAB II
 
@@ -138,9 +143,11 @@ Setiap Perempuan mempunyai hak:
 a. memperoleh informasi yang terkait Pelindungan  Perempuan, prosedur pelayanan korban dan  perkembangan penanganan kasus;  
 b. melapor, memberikan keterangan dan pandangan tanpa  tekanan;  
 c. berpartisipasi dalam penanganan kasus dan dalam upaya - 7 - penghapusan kekerasan terhadap perempuan;  
-d. memperoleh pelindungan atas kerahasiaan; e. memperoleh pelindungan atas keamanan pribadi,  keluarga dan harta bendanya dari ancaman dan  kekerasan;  
+d. memperoleh pelindungan atas kerahasiaan;  
+e. memperoleh pelindungan atas keamanan pribadi,  keluarga dan harta bendanya dari ancaman dan  kekerasan;  
 f. terbebas dari segala bentuk stereotip, stigma dan  diskriminasi lainnya;  
-g. memperoleh pelayanan dan pemulihan yang dibutuhkan; h. memperoleh restitusi;dani. membentuk dan bergabung dalam organisasi.  
+g. memperoleh pelayanan dan pemulihan yang dibutuhkan;  
+h. memperoleh restitusi;dani. membentuk dan bergabung dalam organisasi.  
 
 # BAB III
 
@@ -153,7 +160,9 @@ Pemerintah Daerah Kota dengan lembaga pendidikan,  lembaga keagamaan, lembaga pe
 #### Pasal 7
 
 Pencegahan kekerasan, eksploitasi dan diskriminasi terhadap  perempuan dimaksudkan untuk menciptakan lingkungan  yang aman bagi perempuan dan untuk mengurangi  kerentanan kekerasan, eksploitasi serta diskriminasi kepada  kelompok perempuan rentan, sebagai berikut:
-a. perempuan dalam situasi bencana dan konflik sosial; b. perempuan dengan penyandang disabilitas; c. perempuan dengan HIV/AIDS;  
+a. perempuan dalam situasi bencana dan konflik sosial;  
+b. perempuan dengan penyandang disabilitas;  
+c. perempuan dengan HIV/AIDS;  
 d. perempuan pekerja migran;  
 e. anak perempuan;  
 f. perempuan kepala keluarga;  
@@ -171,13 +180,17 @@ c. agama;
 d. keamanan;  
 e. yustisi;  
 f. pekerjaan umum dan penataan ruang;  
-g. perumahan rakyat dan kawasan pemukiman; h. sosial;  
+g. perumahan rakyat dan kawasan pemukiman;  
+h. sosial;  
 
 8 -
 i. tenaga kerja;  
-j. pemberdaya an perempuan dan pelindungan anak; k. pertahanan;  
+j. pemberdaya an perempuan dan pelindungan anak;  
+k. pertahanan;  
 l. lingkungan hidup;  
-m. administrasi kependudukan dan pencatatan sipil; n. pengendalian penduduk dan keluarga berencana; o. perhubungan;  
+m. administrasi kependudukan dan pencatatan sipil;  
+n. pengendalian penduduk dan keluarga berencana;  
+o. perhubungan;  
 p. komunikasi dan informatika;  
 q. koperasi, usaha kecil dan menengah;  
 r. kepemudaan dan olahraga;  
@@ -216,7 +229,8 @@ Prinsip Pelayanan
 
 #### Pasal 11
 
-1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban dan dilakukan dengan prinsip-prinsip sebagai  berikut:a. penghormatan terhadap hak asasi manusia; b. non diskriminasi;  
+1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban dan dilakukan dengan prinsip-prinsip sebagai  berikut:a. penghormatan terhadap hak asasi manusia;  
+b. non diskriminasi;  
 c. kerahasiaan;  
 d. empati;  
 e. inklusi;  
@@ -270,11 +284,14 @@ Pelayanan Rehabilitasi Kesehatan
 
 #### Pasal 15
 
-1. Pelayanan rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b, disesuaikan dengan  kebutuhan korban berdasarkan pertimbangan medis dan  non medis, terdiri dari:a. pemeriksaan dan perawatan kesehatan fisik dan jiwa; b. pemeriksaan dan pemulihan psikologis;  
+1. Pelayanan rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 12 ayat (1) huruf b, disesuaikan dengan  kebutuhan korban berdasarkan pertimbangan medis dan  non medis, terdiri dari:a. pemeriksaan dan perawatan kesehatan fisik dan jiwa;  
+b. pemeriksaan dan pemulihan psikologis;  
 
 11 -
 c. pelayanan kehamilan, persalinan, dan kesehatan  reproduksi;  
-d. resume medis dan hasil pemeriksaan psikologis; e. visum et repertum dan visum et psikiatrikum; f. tes deoxyribo nucleic acid;dang. bentuk layanan kesehatan lainnya yang dibutuhkan. (2) Pelayanan rehabilitasi kesehatan bagi perempuan korban  dilakukan oleh petugas terlatih di ruang khusus yang  aman dan nyaman.  
+d. resume medis dan hasil pemeriksaan psikologis;  
+e. visum et repertum dan visum et psikiatrikum;  
+f. tes deoxyribo nucleic acid;dang. bentuk layanan kesehatan lainnya yang dibutuhkan. (2) Pelayanan rehabilitasi kesehatan bagi perempuan korban  dilakukan oleh petugas terlatih di ruang khusus yang  aman dan nyaman.  
 3. Pelayanan rehabilitasi kesehatan sebagaimana dimaksud  pada ayat (1), dilakukan melalui mekanisme khusus  pelayanan terpadu berbasis rumah sakit dan menjadi  tanggungjawab Perangkat Daerah yang membidangi.  
 
 #### Pasal 16
@@ -317,8 +334,11 @@ Pelayanan Reintegrasi Sosial
 
 #### Pasal 19
 
-1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam  Pasal 12 ayat (1) huruf e, dilaksanakan dengan kegiatan  sebagai berikut:a. pemulangan dan/atau penjemputan korban; b. pelayanan dokumen kependudukan atau identitas diri; c. keluarga alternatif;  
-d. beasiswa dan sarana penunjang pendidikan; e. pendidikan non formal;  
+1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam  Pasal 12 ayat (1) huruf e, dilaksanakan dengan kegiatan  sebagai berikut:a. pemulangan dan/atau penjemputan korban;  
+b. pelayanan dokumen kependudukan atau identitas diri;  
+c. keluarga alternatif;  
+d. beasiswa dan sarana penunjang pendidikan;  
+e. pendidikan non formal;  
 f. pelatihan keterampilan dan usaha ekonomi;  
 g. bantuan keuangan dan permodalan usaha;  
 h. pendampingan usaha ekonomi;  
@@ -371,7 +391,8 @@ f. pengendalian, pembinaan dan pengawasan;dan g. pembiayaan.
 3. Penguatan partisipasi masyarakat sebagaimana dimaksud  pada ayat (1), dapat dilakukan dengan:a. penguatan kerja sama;danb. penguatan kapasitas kelembagaan pencegahan dan  layanan dari masyarakat, lembaga pendidikan  berasrama, dan dunia usaha.  
 4. Dunia usaha memiliki tanggungjawab dalam pelaksanaan  Pelindungan Perempuan sesuai dengan sasaran Tanggung  Jawab Sosial dan Lingkungan Badan Usaha.  
 
-14 - (5) Bentuk tanggungjawab dunia usaha sebagaimana  dimaksud pada ayat (4), dilakukan sebagai berikut: a. bantuan pembiayaan kepada lembaga layanan; b. pemberdayaan;  
+14 - (5) Bentuk tanggungjawab dunia usaha sebagaimana  dimaksud pada ayat (4), dilakukan sebagai berikut: a. bantuan pembiayaan kepada lembaga layanan;  
+b. pemberdayaan;  
 c. peningkatan kapasitas;  
 d. media publikasi dan informasi;  
 e. penyediaan sarana prasarana;  
@@ -433,9 +454,11 @@ Ketentuan lebih lanjut mengenai pembentukan dan struktur  PPT sebagaimana dimaks
 
 1. Kewajiban Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan, sebagai berikut: a. menyusun kebijakan dan memasukkan program  Pelindungan Perempuan dalam perencanaan dan  penganggaran pembangunan daerah;  
 b. menyediakan pelayanan pengaduan, kesehatan,  rehabilitasi sosial, bantuan dan penegakan hukum serta pemulangan dan reintegrasi sosial bagi  perempuan korban;  
-c. mendirikan layanan shelter dan/atau rumah aman; d. membentuk mekanisme khusus pelayanan terpadu  berbasis rumah sakit;  
+c. mendirikan layanan shelter dan/atau rumah aman;  
+d. membentuk mekanisme khusus pelayanan terpadu  berbasis rumah sakit;  
 e. membentuk PPT;  
-f. membentuk UPT Perlindungan Perempuan dan Anak; g. menyusun standar operasional prosedur dan sistem  rujukan pelayanan;  
+f. membentuk UPT Perlindungan Perempuan dan Anak;  
+g. menyusun standar operasional prosedur dan sistem  rujukan pelayanan;  
 
 16 -
 h. melakukan pencegahan kekerasan, eksploitasi dan  diskriminasi terhadap perempuan;  
@@ -445,7 +468,8 @@ k. mengembangkan pelayanan korban berbasis  komunitas, lembaga pendidikan berasr
 l. melakukan peningkatan kapasitas;  
 m. melakukan koordinasi dan kerja sama;  
 n. melakukan pemberdayaan untuk meningkatkan  partisipasi masyarakat;  
-o. mengembangkan sistem data dan informasi  pelindungan perempuan yang terpadu dan terintegrasi; p. melakukan pengendalian, pembinaan dan pengawasan  terhadap pelaksanaan penyelenggaraan pelindungan  perempuan;danq. memberikan penghargaan kepada masyarakat,  organisasi masyarakat, lembaga pendidikan, lembaga  keagamaan, lembaga pendidikan berasrama, dunia  usaha dan pihak lainnya.  
+o. mengembangkan sistem data dan informasi  pelindungan perempuan yang terpadu dan terintegrasi;  
+p. melakukan pengendalian, pembinaan dan pengawasan  terhadap pelaksanaan penyelenggaraan pelindungan  perempuan;danq. memberikan penghargaan kepada masyarakat,  organisasi masyarakat, lembaga pendidikan, lembaga  keagamaan, lembaga pendidikan berasrama, dunia  usaha dan pihak lainnya.  
 2. Perencanaan dan penganggaran Pelindungan Perempuan  sebagaimana dimaksud pada ayat (1) huruf a, menjadi  tanggung jawab Perangkat Daerah pelaksana fungsi  penunjang Urusan Pemerintahan dan Dinas.  
 
 # BAB X

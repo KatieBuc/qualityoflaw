@@ -15,11 +15,13 @@
 # BUPATI GARUT,
 
 Menimbang:  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan  anak agar dapat berpartisipasi secara optimal sesuai dengan  harkat dan martabat kemanusiaan, serta mendapat perlindungan  dari kekerasan, perlu dilakukan upaya-upaya perlindungan  terhadap perempuan dan anak secara optimal melalui  peningkatan peran serta masyarakat secara luas;  
 b. bahwa maraknya kasus kekerasan terhadap perempuan dan  anak di Kabupaten Garut diperlukan penanganan dan tindakan  nyata dari Pemerintah Daerah untuk menyusun kebijakan dan  program untuk menghapuskan segala bentuk kekerasan  terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 14 Tahun 1950 tentang Pembentukan  Daerah-Daerah Kabupaten Dalam Lingkungan Propinsi Djawa  Barat (Berita Negara Republik Indonesia Tahun 1950 Nomor 8), sebagaimana telah diubah dengan Undang-Undang Nomor 4  Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan  Kabupaten Subang Dengan Mengubah Undang-Undang Nomor 14  Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten  Dalam Lingkungan Propinsi Djawa Barat (Lembaran Negara  Republik Indonesia Tahun 1968 Nomor 31, Tambahan Lembaran  Negara Republik Indonesia Nomor 2851);  
@@ -121,7 +123,9 @@ Maksud pengaturan mengenai perlindungan perempuan dan anak dari tindak  kekerasa
 #### Pasal 4
 
 Tujuan perlindungan perempuan dan anak dari kekerasan adalah: a. mencegah kekerasan terhadap perempuan dan anak;  
-b. menghapus segala bentuk kekerasan terhadap perempuan dan anak; c. melindungi dan memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban kekerasan;  
+b. menghapus segala bentuk kekerasan terhadap perempuan dan anak;  
+c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban kekerasan;  
 e. melakukan rehabilitasi dan reintegrasi terhadap perempuan dan anak korban  kekerasan; danf. melakukan pemberdayaan perempuan dan anak korban kekerasan.  
 
 # BAB III
@@ -133,7 +137,8 @@ e. melakukan rehabilitasi dan reintegrasi terhadap perempuan dan anak korban  ke
 Ruang lingkup perlindungan perempuan dan anak dari kekerasan, sebagai berikut: a. bentuk-bentuk kekerasan terhadap perempuan dan anak;  
 b. hak-hak korban;  
 c. kewajiban dan tanggung jawab;  
-d. penyelenggaraan perlindungan perempuan dan anak dari kekerasan; e. kelembagaan;  
+d. penyelenggaraan perlindungan perempuan dan anak dari kekerasan;  
+e. kelembagaan;  
 f. kerjasama dan kemitraan;  
 g. pemantauan dan evaluasi;  
 h. pelaporan;  
@@ -329,7 +334,8 @@ a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindaka
 #### Pasal 21
 
 Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 19 huruf a angka 2 meliputi:
-a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan; b. pendampingan korban selama proses recovery psikologis;  
+a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
+b. pendampingan korban selama proses recovery psikologis;  
 c. mendampingi korban selama proses medicolegal;  
 d. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan  pengadilan;  
 e. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan  di kepolisian, kejaksaan dan pengadilan;  
@@ -417,7 +423,8 @@ Umum
 
 Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat  membentuk:
 a. P2TP2A di tingkat Daerah;  
-b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan; c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan; dand. Lembaga atau organisasi lain sesuai ketentuan peraturan  perundang-undangan.  
+b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan;  
+c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan; dand. Lembaga atau organisasi lain sesuai ketentuan peraturan  perundang-undangan.  
 
 ## Bagian Kedua
 

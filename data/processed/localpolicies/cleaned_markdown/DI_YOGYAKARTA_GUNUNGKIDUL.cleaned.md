@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI GUNUNGKIDUL,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk tindak kekerasan  terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa perlu adanya pengaturan upaya upaya sebagaimana tersebut dalam huruf b di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang Undang Dasar  Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 15 Tahun 1950 tentang Pembentukan Daerah-Daerah Kabupaten dalam Lingkungan Daerah Istimewa Yogyakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 44);  
@@ -90,7 +92,8 @@ Azas, Tujuan, dan Ruang Lingkup
 #### Pasal 2
 
 Asas perlindungan Korban adalah:
-a. penghormatan dan pemenuhan terhadap hak-hak korban; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi korban; dane. pemberdayaan.  
 
@@ -162,7 +165,8 @@ a. ancaman kekerasan meliputi setiap perbuatan secara  melawan hukum berupa ucap
 #### Pasal 13
 
 1. Struktur organisasi P2TP2A Berjejaring sebagaimana  dimaksud dalam Pasal 12 ayat (2) terdiri dari:a. Ketua Umum;  
-b. Ketua Pelaksana yang membawahi bidang-bidang; c. Sekretaris; dand. Bendahara.  
+b. Ketua Pelaksana yang membawahi bidang-bidang;  
+c. Sekretaris; dand. Bendahara.  
 2. Bidang-bidang sebagaimana dimaksud pada ayat (1) huruf d,  sekurang-kurangnya meliputi:a. bidang layanan pengaduan;  
 b. bidang layanan kesehatan;  
 c. bidang layanan rehabilitasi sosial;  
@@ -186,7 +190,8 @@ d. menghimpun dan memanfaatkan sumber daya secara efektif  dan efisien untuk keg
 #### Pasal 16
 
 Sekretaris sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  c mempunyai tugas:
-a. membantu pelaksanaan tugas dari Ketua Umum; b. membantu menyiapkan kegiatan koordinasi dan tindak lanjut  perlindungan, penanganan korban kekerasan;  
+a. membantu pelaksanaan tugas dari Ketua Umum;  
+b. membantu menyiapkan kegiatan koordinasi dan tindak lanjut  perlindungan, penanganan korban kekerasan;  
 c. membantu menyiapkan rencana program kerja gugus tugas  pusat;  
 d. memberikan pelayanan administrasi dalam kerjasama Gugus  Tugas pusat dengan Kementerian/Lembaga dan Lembaga  masyarakat yang menjadi anggota Gugus Tugas Pusat;  
 e. menyelenggarakan pelayanan kegiatan pengumpulan,  pengolahan, dan penyajian data serta penyusunan laporan  kegiatan sekretariat; danf. membina dan melaksanakan hubungan kerja sama dengan  Kementerian/Lembaga dan Lembaga Masyarakat terkait  dalam penyelenggaraan pencegahan dan penanganan tindak  pidana perdagangan orang.  
@@ -200,7 +205,8 @@ b. melakukan segala sesuatu yang terkait dengan penerimaan  dan pengeluaran keua
 #### Pasal 18
 
 Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf a memiliki tugas:
-a. melakukan wawancara dan observasi keadaan korban; b. membuat rekomendasi layanan lanjutan;  
+a. melakukan wawancara dan observasi keadaan korban;  
+b. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan ke layanan lanjutan dan  pihak terkait; dand. melakukan administrasi proses pengaduan.  
 
 #### Pasal 19
@@ -208,7 +214,8 @@ c. melakukan koordinasi dan rujukan ke layanan lanjutan dan  pihak terkait; dand
 Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf b memiliki tugas:
 a. melakukan pemeriksaan, pengobatan, dan perawatan  lanjutan terhadap korban;  
 b. melakukan koordinasi pelaksanaan rehabilitasi kesehatan  dan mediko-legal;  
-c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum; d. melakukan pemeriksaan penunjang dan laboratorium  terhadap barang bukti;  
+c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum;  
+d. melakukan pemeriksaan penunjang dan laboratorium  terhadap barang bukti;  
 e. melakukan konsultasi kepada dokter ahli atau melakukan  rujukan; danf. membuat laporan kasus.  
 
 #### Pasal 20
@@ -373,7 +380,8 @@ Pelaksanaan Perlindungan dilakukan secara terpadu dan  terintegrasi dalam wadah 
 #### Pasal 35
 
 1. Setiap orang berperan serta melakukan perlindungan  terhadap perempuan dan anak korban kekerasan. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat berupa:a. membentuk lembaga perlindungan perempuan dan anak di  desa yang tugasnya melakukan pencegahan, pelayanan,  dan pengawasan;  
-b. melakukan sosialisasi hak perempuan dan anak; c. melakukan pertolongan kepada korban;  
+b. melakukan sosialisasi hak perempuan dan anak;  
+c. melakukan pertolongan kepada korban;  
 d. melaporkan dan merujuk kepada instansi/lembaga yang  berwenang di Kecamatan apabila di lingkungannya terjadi  kekerasan terhadap korban; dane. Instansi/Lembaga yang berwenang di Kecamatan, apabila  diperlukan dapat merujuk ke Instansi/lembaga lain.  
 
 # BAB IX

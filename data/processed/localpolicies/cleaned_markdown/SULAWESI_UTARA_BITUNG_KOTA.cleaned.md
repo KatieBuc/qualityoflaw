@@ -23,6 +23,7 @@ TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG
 # WALIKOTA BITUNG,
 
 Menimbang:  
+ 
 a. bahwa penjaminan atas penghormatan, perlindungan dan  pemenuhan Hak Asasi Manusia bagi setiap Warga Negara Indonesia yang ada di Daerah merupakan tugas yang harus dilaksanakan oleh Pemerintah Daerah;  
 b. bahwa Kota Bitung sebagai kota industri yang berkembang  dengan pesat sebagai salah satu pusat ekonomi di Provinsi Sulawesi Utara, telah menciptakan banyak lapangan kerja sehingga banyak masyarakat dari berbagai daerah di luar Kota Bitung yang datang bekerja di dalam wilayah Kota Bitung dan berpotensi memunculkan gesekan sosial sehingga dapat berimbas pada rentannya perempuan dan anak untuk menjadi korban dari tindak kekerasan;  
 c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan
@@ -33,6 +34,7 @@ Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam b
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan di Kota Bitung;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia  Tahun 1979 Nomor 32, Tambahan Lembaran Negara  Republik Indonesia Nomor 3143);  
@@ -264,7 +266,8 @@ d. pengawasan secara aktif terhadap kekerasan terhadap  perempuan dan anak dan m
 #### Pasal 21
 
 Keluarga memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:
-a. menjaga keharmonisan hubungan keluarga; b. melakukan pertolongan kepada korban;  
+a. menjaga keharmonisan hubungan keluarga;  
+b. melakukan pertolongan kepada korban;  
 c. melaporkan setiap bentuk kekerasan dalam keluarga kepada aparat yang berwenang; dand. membantu pemerintah dalam upaya melakukan  rehabilitasi dan reunifikasi korban.  
 
 #### Pasal 22
@@ -417,7 +420,8 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 39
 
-Dalam rangka untuk mengembalikan perempuan dan  anak yang menjadi korban tindak kekerasan kepada  keluarganya, Pemerintah Daerah berkewajiban untuk: a. menyediakan biaya transport dan kebutuhan lain dari perempuan dan anak yang menjadi korban tindak  kekerasan untuk pulang kembali kepada keluarganya; b. menyediakan dan membiayai tenaga pendamping  untuk memulangkan perempuan dan anak yang  menjadi korban tindak kekerasan kepada keluarganya; dan
+Dalam rangka untuk mengembalikan perempuan dan  anak yang menjadi korban tindak kekerasan kepada  keluarganya, Pemerintah Daerah berkewajiban untuk: a. menyediakan biaya transport dan kebutuhan lain dari perempuan dan anak yang menjadi korban tindak  kekerasan untuk pulang kembali kepada keluarganya;  
+b. menyediakan dan membiayai tenaga pendamping  untuk memulangkan perempuan dan anak yang  menjadi korban tindak kekerasan kepada keluarganya; dan
 c. berkoordinasi dengan Pemerintah, Pemerintah Daerah  tempat tinggal perempuan dan anak yang menjadi  korban tindak kekerasan dan pihak Kepolisian  Republik Indonesia untuk mengembalikan perempuan  dan anak yang menjadi korban tindak kekerasan pada  keluarganya.  
 
 # BAB VIII

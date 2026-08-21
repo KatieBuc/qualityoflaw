@@ -21,6 +21,7 @@ PROVINSI SUMATERA UTARA r
 # BUPATI BATU BARA,
 
 Menimbang:  
+ 
 a. b.  
 c. d. bahwa setiap warga negara berhak mendapatkan rasa aman dan bebas dari segala bentuk Kekerasan;  
 
@@ -115,7 +116,8 @@ b. melindungi perempuan dan memberikan pelayanan kepada perempuan dan anak korba
 
 #### Pasal 4
 
-Setiap perempuan dan anak korban kekerasan berhak: a. untuk dihormati harkat dan martabatnya sebagai manusia; b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan/ atau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
+Setiap perempuan dan anak korban kekerasan berhak: a. untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan/ atau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;  
 t.: l H .  d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban;  
 e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang-undangan;  
@@ -164,7 +166,8 @@ di' melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk perawatan
 :
 e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
 f. menjaga kerahasiaan korban;  
-g. memberikan pemenuhan bantuan hukum bagi korban; h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT tetap bertanggung jawab atas keseluruhan proses rujukan pelayanan yang diperlukan korban.  
+g. memberikan pemenuhan bantuan hukum bagi korban;  
+h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT tetap bertanggung jawab atas keseluruhan proses rujukan pelayanan yang diperlukan korban.  
 6. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan SPM.  
 
 #### Pasal 8
@@ -181,7 +184,8 @@ g. memberikan pemenuhan bantuan hukum bagi korban; h. dalam hal penyelenggaraan 
 SPM Bidang Layanan Terpadu bagi perempuan dan anak korban kekerasan, meliputi layanan:
 a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
-c. rehabilitasi Sosial bagi perempuan dan anak korban kekerasan; d. penegakan dan bantuan hukum bagi perempuan dan anak korban kekerasan; dane. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
+c. rehabilitasi Sosial bagi perempuan dan anak korban kekerasan;  
+d. penegakan dan bantuan hukum bagi perempuan dan anak korban kekerasan; dane. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
 
 S'
 

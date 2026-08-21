@@ -15,6 +15,7 @@
 # BUPATI NUNUKAN,
 
 Menimbang:  
+ 
 Mengingat:
 a. bahwa hak setiap warga Negara untuk bebas dari  penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dan bebas dari  segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran  hak asasi manusia sehingga perlu dilindungi harga  diri dan martabatnya serta dijamin hak hidupnya  sesuai dengan fitrah dan kodratnya tanpa  diskriminasi;  
@@ -92,7 +93,8 @@ Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas: a. penghormatan d
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Anak;  
-e. hak untuk hidup, kelangsungan hidup, dan perkembangan; f. pemberdayaan; dang. kepastian hukum.  
+e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
+f. pemberdayaan; dang. kepastian hukum.  
 
 #### Pasal 3
 
@@ -100,7 +102,8 @@ Peraturan Daerah ini bertujuan untuk:
 a. menjamin terpenuhinya hak-hak perempuan dan anak;  
 b. memelihara keutuhan rumah tangga agar terwujud keluarga yang  harmonis;  
 c. mencegah kekerasan terhadap perempuan dan anak;  
-d. melindungi dan memberikan rasa aman bagi perempuan dan anak; e. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan;  
+d. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+e. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan;  
 f. memberikan perlindungan kepada pelapor dan saksi; dan g. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
 # BAB III
@@ -244,7 +247,8 @@ Setiap anak mempunyai kewajiban untuk:
 a. menghormati orang tua, wali dan guru;  
 b. mencintai keluarga, masyarakat dan menyayangi teman;  
 c. mencintai tanah air, bangsa dan negara;  
-d. menunaikan ibadah sesuai dengan agama dan kepercayaannya; e. belajar dan mengembangkan diri sesuai dengan kemampuan dan  bakat, minatnya; danf. berbudi pekerti luhur.  
+d. menunaikan ibadah sesuai dengan agama dan kepercayaannya;  
+e. belajar dan mengembangkan diri sesuai dengan kemampuan dan  bakat, minatnya; danf. berbudi pekerti luhur.  
 
 ### Paragraf 2
 
@@ -427,7 +431,8 @@ Pencegahan Kekerasan terhadap Perempuan dan Anak
 
 1. Upaya pencegahan kekerasan terhadap perempuan dan anak  dilakukan secara terpadu oleh Pemerintah Daerah dan dikoordinasikan  oleh SKPD teknis.  
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan cara:a. melakukan pembinaan menuju keutuhan rumah tangga yang  harmonis;  
-b. membentuk jaringan kerja dalam upaya pencegahan kekerasan; c. melakukan koordinasi, integrasi, sinkronisasi pencegahan  kekerasan berdasarkan pola kemitraan;  
+b. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+c. melakukan koordinasi, integrasi, sinkronisasi pencegahan  kekerasan berdasarkan pola kemitraan;  
 d. membentuk sistem pencegahan kekerasan;  
 e. melakukan sosialisasi mengenai peraturan perundang-undangan  yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak perempuan dan  anak bagi masyarakat.  
 
@@ -473,7 +478,8 @@ Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 37 huruf b  meliputi:
 a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;  
 b. mendampingi korban selama proses pemeriksaan di kepolisian,  kejaksaan dan pengadilan;  
 c. memantau kepentingan dan hak-hak korban dalam proses  pemeriksaan di kepolisan, kejaksaan dan pengadilan;  
-d. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa; e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelanjutan hingga tahap  rehabilitasi.  
+d. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa;  
+e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelanjutan hingga tahap  rehabilitasi.  
 
 #### Pasal 40
 
@@ -505,7 +511,8 @@ b. mendampingi korban di tingkat penyidikan, penuntutan, dan  pemeriksaan dalam 
 
 1. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan dilakukan secara terpadu oleh PPT.  
 2. PPT sebagaimana dimaksud pada ayat (1) merupakan bagian yang  terintegrasi dan merupakan satu kesatuan dengan PPT yang  menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban  tindak pidana perdagangan orang.  
-3. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan sebagaimana dimaksud pada ayat (1) meliputi: a. memberikan layanan cepat dan tanpa biaya kepada korban; b. menyelenggarakan perlindungan dan pemenuhan hak korban  atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan,  reintegrasi sosial dan bantuan hukum;  
+3. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan sebagaimana dimaksud pada ayat (1) meliputi: a. memberikan layanan cepat dan tanpa biaya kepada korban;  
+b. menyelenggarakan perlindungan dan pemenuhan hak korban  atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penerjemah dan relawan pendamping yang  diperlukan bagi korban;  
 d. melakukan jaringan dengan rumah sakit pemerintah atau  swasta untuk perawatan dan pemulihan kesehatan korban serta  melakukan kerjasama dengan lembaga perlindungan saksi dan  korban, rumah perlindungan sosial atau pusat trauma milik  pemerintah, masyarakat atau lembaga-lembaga lainnya untuk  pemulihan kesehatan korban;  
 e. memberikan kemudahan, kenyamanan dan keselamatan bagi  korban;  
@@ -614,7 +621,8 @@ a. Anggaran pendapatan dan belanja daerah; dan/ataub. Sumber lain yang sah dan t
 #### Pasal 54
 
 1. Dalam penyelenggaraan Perlindungan terhadap Perempuan dan anak,  masyarakat dapat:a. membentuk mitra keluarga di tingkat Kelurahan/Desa oleh  masyarakat;  
-b. melakukan sosialisasi hak perempuan dan anak secara mandiri; c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
+b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
+c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan oleh perorangan, lembaga kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan,  swasta dan/atau media massa.  
 
 # BAB XI

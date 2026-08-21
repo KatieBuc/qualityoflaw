@@ -13,6 +13,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK TERHADAP TINDAK KEKERASAN  DENGAN RAHMAT TUHAN Y
 # BUPATI GORONTALO,
 
 Menimbang:  
+ 
 a. bahwa Pancasila dan Undang-Undang Dasar Negera  Repuplik Indonesia Tahun 1945 menjamin atas hak setiap warga negara untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta mendapatkan rasa aman dan bebas dari segala bentuk kekerasan:
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi,c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusan pemerintahan konkuren yang diserahkan ke daerah untuk menjadi dasar pelaksanaan | otonomi daerah dan menjadi urusan pemerintahan wajib  | yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah,d. bahwa dalam rangka untuk memberikan penguatan regulasi, arah, dan landasan dalam perlindungan perempuan dan anak korban kekerasan, diperlukan pengaturan atau regulasi terkait dengan Perlindungan Perempuan dan Anak Korban Kekerasan, -D. cd Mengingat bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c, dan huruf d, perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Terhadap Tidank Kekerasan,
 

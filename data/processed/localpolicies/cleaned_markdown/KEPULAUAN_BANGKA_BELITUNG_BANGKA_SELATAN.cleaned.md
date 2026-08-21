@@ -15,11 +15,13 @@ PERATURAN DAERAH KABUPATEN BANGKA SELATAN NOMOR 7 TAHUN 2015
 # BUPATI BANGKA SELATAN,
 
 Menimbang:  
+ 
 a. bahwa jumlah kekerasan terhadap perempuan  dan anak di Bangka Selatan terjadi peningkatan jumlah kejadian. Sementara perlindungan dan pelayan terhadap korban sudah dilakukan namun masih belum optimal;  
 b. bahwa di Kabupaten Bangka Selatan sudah terbentuk Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak (P2TP2A) bagi korban kekerasan tapi dasar pembentukannya masih menggunakan Peraturan Bupati yang didalamnya belum dicantumkan tentang mekanisme atau penyelenggaraan perlindungannya yang dapat memudahkan para korban dan penyelenggara perlindungan melaksanakannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -141,7 +143,8 @@ b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korb
 
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban  Kekerasan dengan melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, kelompok maupun organisasi sosial kemasyarakatan.  
-3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap perempuan dan anak; danc. memberikan bantuan terhadap korban.  
+3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap perempuan dan anak; danc. memberikan bantuan terhadap korban.  
 
 #### Pasal 12
 

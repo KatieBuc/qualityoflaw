@@ -13,6 +13,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # WALIKOTA BLITAR,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan, diskriminasi atau perlakuan yang  merendahkan derajat dan martabat manusia serta berhak  mendapatkan rasa aman dan bebas dari segala bentuk  kekerasan ;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami Kekerasan, maka perlu  mendapat Perlindungan hukum;  
 c. bahwa berdasarkan ketentuan dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah  sebagaimana diubah beberapa kali terakhir dengan  Undang-Undang Nomor 9 Tahun 2015, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintahan yang wajib dilaksanakan oleh Pemerintah  Daerah ;  
@@ -20,6 +21,7 @@ d. bahwa penyelenggaraan Perlindungan Perempuan dan  Anak Korban Kekerasan di Ko
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b, huruf c dan huruf d, maka perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan ;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945 ;  
 
 2. Undang – Undang Nomor 17 Tahun 1950 tentang  Pembentukan Daerah Kota Kecil dalam Lingkungan  Propinsi Jawa Timur, Jawa Tengah dan Jawa Barat (Berita  Negara Republik Indonesia Tahun 1950 Nomor 42)  sebagaimana telah diubah dengan Undang-Undang Nomor  13 Tahun 1954 tentang Pengubahan Undang-Undang  Nomor 16 dan Nomor 17 Tahun 1950 (Republik Indonesia  Dahulu) Tentang Pembentukan Kota-Kota Besar dan Kota Kota Kecil di Jawa (Lembaran Negara Republik Indonesia  Tahun 1954 Nomor 40, Tambahan Lembaran Negara  Republik Indonesia Nomor 551);  
@@ -99,7 +101,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Penyelenggaraan perlindungan perempuan dan anak korban kekerasan,  dilaksanakan berdasarkan asas:
-a. penghormatan dan pemenuhan terhadap hak-hak korban kekerasan; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak-hak korban kekerasan;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan yang terbaik bagi korban;  
 e. pemberdayaan perempuan dan anak korban kekerasan.  
@@ -108,7 +111,8 @@ e. pemberdayaan perempuan dan anak korban kekerasan.
 
 1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, adalah untuk:a. mencegah kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
-c. melindungi dan memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban  kekerasan, pelapor, dan saksi;  
+c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban  kekerasan, pelapor, dan saksi;  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis  dan sejahtera ; danf. Pemberdayaan perempuan dan anak korban kekerasan.  
 2. Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan sebagaimana dimaksud pada ayat (1), meliputi aspek:  a. pencegahan;  
 b. pelayanan dan pendampingan;  
@@ -161,7 +165,8 @@ Setiap korban berhak mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi dan reintegrasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi dan reintegrasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga maupun anggota masyarakat.  
 
 #### Pasal 11
@@ -195,7 +200,8 @@ e. mengupayakan efektivitas dan efisiensi bagi proses pemulihan korban;  danf. m
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 12 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. membentuk mitra keluarga di tingkat kelurahan;  
 b. membentuk unit perlindungan perempuan dan anak di dalam organisasi  kemasyarakatan;  
-c. melakukan sosialisasi hak perempuan dan anak secara mandiri; d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab.  
 
@@ -309,7 +315,8 @@ Pelayanan
 b. Pelayanan medicolegal merupakan bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum ;  
 c. Pelayanan bantuan hukum untuk membantu korban kekerasan dalam  menjalani proses peradilan ;  
 d. Layanan spiritual ;  
-e. Pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban ; f. Pendampingan korban kekerasan yang dilakukan oleh orang atau  lembaga kompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan UPT; dang. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrapilan dan pemberian akses ekonomi agar korban dapat mandiri.  (2) Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai standar pelayanan minimal yang ditetapkan pemerintah dan  dilaksanakan oleh perangkat daerah yang tugas dan fungsinya di bidang:  a. sosial;  
+e. Pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban ;  
+f. Pendampingan korban kekerasan yang dilakukan oleh orang atau  lembaga kompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan UPT; dang. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrapilan dan pemberian akses ekonomi agar korban dapat mandiri.  (2) Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai standar pelayanan minimal yang ditetapkan pemerintah dan  dilaksanakan oleh perangkat daerah yang tugas dan fungsinya di bidang:  a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak; dand. mental dan spiritual.  
 3. Dalam melaksanakan tugas dan fungsi sebagaimana dimaksud pada ayat  (2), pemerintah daerah bekerjasama dengan instansi pemerintah,  pemerintah provinsi, pemerintah kabupaten/kota lain, masyarakat,  keluarga dan orang tua.  

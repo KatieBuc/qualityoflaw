@@ -13,12 +13,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 # BUPATI KARIMUN
 
 Menimbang:  
+ 
 a. bahwa segala bentuk Kekerasan Terhadap Perempuan  dan Anak merupakan pelanggaran hak asasi manusia  sehingga Pemerintah Daerah berkewajiban memberikan  Perlindungan dan pemenuhan hak perempuan dan Anak  dari segala bentuk Kekerasan;  
 b. bahwa penyelenggaraan Perlindungan perempuan dan  Anak di Kabupaten Karimun belum dilaksanakan secara  optimal dan menyeluruh sehingga perlu dilakukan upaya  peningkatan Perlindungan perempuan dan Anak;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum kepada semua pihak yang terlibat dalam  penyelenggaraaan Perlindungan perempuan dan Anak,  diperlukan suatu pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c perlu  menetapkan Peraturan Daerah tentang Penyelenggaraan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang – Undang Nomor 53 Tahun 1999 tentang Pembentukan Kabupaten Pelalawan, Kabupaten Rokan  Hulu, Kabupaten Rokan Hilir, Kabupaten Siak,  Kabupaten Karimun, Kabupaten Natuna, Kabupaten  Kuantan Singingi dan Kota Batam (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 181, Tambahan  Lembaran Negara Republik Indonesia Nomor 3902)  sebagaimana telah diubah beberapa kali terakhir dengan  Undang – Undang Nomor 34 Tahun 2008 tentang  Perubahan Ketiga atas Undang – Undang Nomor 53  Tahun 1999 tentang Pembentukan Kabupaten Pelalawan,  Kabupaten Rokan Hulu, Kabupaten Rokan Hilir,  Kabupaten Siak, Kabupaten Karimun, Kabupaten Natuna,  Kabupaten Kuantan Singingi dan Kota Batam (Lembaran  Negara Republik Indonesia Tahun 2008 Nomor 107,  Tambahan Lembaran Negara Republik Indonesia Nomor  4880);  

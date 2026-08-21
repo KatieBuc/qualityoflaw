@@ -17,9 +17,11 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAKAN KEKERASAN DENGAN RAHMAT TUHAN YANG
 ### BUPATI PESISIR BARAT,
 
 Menimbang:  
+ 
 bahwa untuk melaksanakan ketentuan angka I huruf H angka 2  dan angka 6 kolom 5 lampiran Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang Nomor  11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan Anak  dari Tindakan Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 22 Tahun 2012 tentang  Pembentukan Kabupaten Pesisir Barat Provinsi Lampung (Lembaran Negara Republik Indonesia Tahun 2012 Nomor 231, Tambahan Lembaran Negara Republik Indonesia Nomor 5364);  
@@ -115,8 +117,10 @@ Tujuan
 
 #### Pasal 2
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak; b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
-c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban  kekerasan;  
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
+c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
+d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban  kekerasan;  
 e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang  terjadi di ranah domestik dan/ atau publik; danf. memberikan kepastian pendampingan pada pihak korban pada proses  hukum atas pelaku kekerasan terhadap perempuan dan anak.  
 
 ## Bagian Kedua
@@ -126,7 +130,8 @@ Ruang Lingkup
 #### Pasal 3
 
 Lingkup pengaturan dalam Perlindungan Perempuan dan Anak dari tindakan  kekerasan meliputi:
-a. Bentuk-bentuk kekerasan terhadap perempuan dan anak; b. Hak-hak korban;  
+a. Bentuk-bentuk kekerasan terhadap perempuan dan anak;  
+b. Hak-hak korban;  
 c. Kewajiban dan tanggung jawab;  
 d. Penyelenggaraan pnerlindungan;  
 e. Kerjasama dan kemitraan;  
@@ -211,7 +216,8 @@ https://jdih.pesisirbaratkab.go.id
 #### Pasal 11
 
 Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak pemulihan;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -222,7 +228,8 @@ i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai taha
 
 #### Pasal 12
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 11 juga mendapatkan hak khusus sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang; b. hak pelayanan dasar kependudukan;  
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 11 juga mendapatkan hak khusus sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
 
@@ -268,7 +275,8 @@ Kewajiban dan Tanggung Jawab Swasta dan Masyarakat
 #### Pasal 15
 
 1. Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana dimaksud dalam Pasal 14 huruf b dan huruf c, diselenggarakan dalam bentuk peran serta swasta dan masyarakat.  
-2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak; b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
+2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
 
 ## Bagian Ketiga
 
@@ -296,7 +304,9 @@ https://jdih.pesisirbaratkab.go.id
 
 ## BAGIAN HUKUM SETDA KABUPATEN PESISIR BARAT
 c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi perempuan;  
-d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan; e. membangun dan menyediakan sistem informasi yang mudah diakses; f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak.  
+d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
+e. membangun dan menyediakan sistem informasi yang mudah diakses;  
+f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak.  
 
 #### Pasal 18
 
@@ -325,7 +335,8 @@ https://jdih.pesisirbaratkab.go.id
 
 4. Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah  dapat membentuk:a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan  Orang;  
 b. Gugus Tugas Pencegahan Perkawinan Anak;  
-c. Gugus Tugas Kabupaten Layak Anak atau dengan sebutan lain; d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan buruk untuk  anak;  
+c. Gugus Tugas Kabupaten Layak Anak atau dengan sebutan lain;  
+d. Komite Aksi Daerah penghapusan bentuk-bentuk pekerjaan buruk untuk  anak;  
 e. Forum Anak Daerah Pesisir Barat;  
 f. Perlindungan Anak Terpadu Berbasis Masyarakat (PATBM).  
 
@@ -406,8 +417,10 @@ https://jdih.pesisirbaratkab.go.id
 
 1. Pendampingan meliputi seluruh upaya yang terpadu untuk memulihkan dan menguatkan kondisi korban, yang dilakukan oleh tenaga  kesehatan,pendidikan, kepolisian, kejaksaan, pengadilan, advokat, pekerja  sosial,relawan pendamping dan pembimbing rohani.  
 2. Pendampingan sebagaimana dimaksud ayat (1) sesuai dengan ketentuan peraturan perundang-undangan.  
-3. Tugas pendamping adalah:a. memberikan informasi yang cukup kepada korban tentang hak-haknya; b. memberikan layanan psikososial kepada korban sehingga korban merasa  aman dan nyaman;  
-c. mendampingi korban selama proses pemeriksaan dan pemulihan medis; d. mendampingi korban selama proses medicolegal;  
+3. Tugas pendamping adalah:a. memberikan informasi yang cukup kepada korban tentang hak-haknya;  
+b. memberikan layanan psikososial kepada korban sehingga korban merasa  aman dan nyaman;  
+c. mendampingi korban selama proses pemeriksaan dan pemulihan medis;  
+d. mendampingi korban selama proses medicolegal;  
 e. mendampingi korban selama proses pemeriksaan di  Kepolisian,Kejaksaan dan Pengadilan;  
 f. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan  di Kepolisan, Kejaksaan dan Pengadilan;  
 g. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
@@ -428,7 +441,8 @@ h. melakukan koordinasi dengan pendamping yang lain; dani. memberikan penanganan
 4. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3) bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan: a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan altematif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya; e. perlindungan khusus anak.  
+d. pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  
+e. perlindungan khusus anak.  
 5. Ketentuan lebih lanjut mengenai Kabupaten Layak Anak, kecamatan layak  anak dan desa/kelurahan layak anak diatur dalam Peraturan Bupati.  
 
 # BAB X

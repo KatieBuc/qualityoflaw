@@ -381,7 +381,8 @@ Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal 18 diselenggarakan melal
 #### Pasal 20
 
 Sistem pemberdayaan Perempuan bertujuan untuk: os -17-
-a. meningkatkan kualitas hidup Perempuan, dan Keluarga; b. meningkatkan kapasitas kelembagaan pemberdayaan Perempuan di Daerah, termasuk pengembangan sistem gendernya; danc. memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya.  
+a. meningkatkan kualitas hidup Perempuan, dan Keluarga;  
+b. meningkatkan kapasitas kelembagaan pemberdayaan Perempuan di Daerah, termasuk pengembangan sistem gendernya; danc. memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya.  
 
 #### Pasal 21
 
@@ -396,7 +397,8 @@ d. mendorong program-program yang dapat meningkatkan kemandirian Perempuan di bi
 Dalam rangka mewujudkan tujuan meningkatkan kapasitas kelembagaan pemberdayaan Perempuan di Daerah, termasuk pengembangan sistem gendernya sebagaimana dimaksud dalam Pasal 30 huruf dilakukan melalui upaya:
 a. pembentukan, pengembangan dan penguatan kapasitas lembaga perlindungan Perempuan, termasuk uint-unit pengaduan kekerasan terhadap Perempuan serta layanan bantuan hukum;  
 
-peningkatan kualitas sumber daya manusia pengelola; c. penguatan kapasitas kelembagaan PUG di Daerah; dan d. penguatan dan pengembangan sistem data gender.  
+peningkatan kualitas sumber daya manusia pengelola;  
+c. penguatan kapasitas kelembagaan PUG di Daerah; dan d. penguatan dan pengembangan sistem data gender.  
 
 Paragraf Cara Memberikan Perlindungan Hak Perempuan Dari Berbagai Bentuk Kekerasan dan Perlakuan Diskriminatif
 
@@ -631,7 +633,8 @@ Pemerintah Daerah berkomitmen dalam melakukan pemulihan terhadap Perempuan korba
 Pemberdayaan Perempuan korban kekerasan sebagaimana dimaksud dalam Pasal 47 dapat berupa:
 a. pelatihan keterampilan kerja;  
 b. pengembangan usaha ekonomi produktif baik perorangan maupun kelompok;  
-c. bantuan permodalan dengan mengupayakan kredit lunak; d. mempermudah akses ke dunia perbankan dan non- perbankan; dane. bantuan pemasaran berbagai produk yang dihasilkan Perempuan korban kekerasan.  
+c. bantuan permodalan dengan mengupayakan kredit lunak;  
+d. mempermudah akses ke dunia perbankan dan non- perbankan; dane. bantuan pemasaran berbagai produk yang dihasilkan Perempuan korban kekerasan.  
 
 #### Pasal 49
 
@@ -646,7 +649,8 @@ b. pendampingan dalam menjalankan wirausaha; itc. pembinaan secara berkelanjutan
 
 #### Pasal 51
 
-Bantuan permodalan dengan mengupayakan kredit lunak sebagaimana dimaksud dalam Pasal 58 huruf diselenggarakan dengan cara: a. melakukan pendekatan kepada lembaga-lembaga sumber pembiayaan agar memberikan bantuan kepada Perempuan korban kekerasan; b. membantu penyediaan sarana dan prasarana; dan mengupayakan agar bantuan modal murah yang ada didapatkan oleh Perempuan korban kekerasan.  
+Bantuan permodalan dengan mengupayakan kredit lunak sebagaimana dimaksud dalam Pasal 58 huruf diselenggarakan dengan cara: a. melakukan pendekatan kepada lembaga-lembaga sumber pembiayaan agar memberikan bantuan kepada Perempuan korban kekerasan;  
+b. membantu penyediaan sarana dan prasarana; dan mengupayakan agar bantuan modal murah yang ada didapatkan oleh Perempuan korban kekerasan.  
 
 ## Bagian Keempat
 
@@ -800,7 +804,8 @@ Lokasi rumah aman sebagaimana dimaksud dalam Pasal 71 harus dirahasiakan.
 #### Pasal 74
 
 Kriteria Perempuan korban kekerasan yang berhak dan memerlukan rumah aman meliputi kondisi sebagai berikut ini: a. terancam jiwa;  
-b. mendapatkan penolakan dari keluarga atau masyarakat; c. memerlukan pelayanan intensif namun rumah tinggalnya relatif‘Jjauh; dan/ataud. terlantarjika tidak ditempatkan dalam rumah aman.  
+b. mendapatkan penolakan dari keluarga atau masyarakat;  
+c. memerlukan pelayanan intensif namun rumah tinggalnya relatif‘Jjauh; dan/ataud. terlantarjika tidak ditempatkan dalam rumah aman.  
 
 #### Pasal 75
 
@@ -829,7 +834,8 @@ Bimbingan rohani dilakukan oleh petugas bimbingan rohani sesuai dengan agama dan
 
 Petugas bimbingan rohani sebagaimana dimaksud dalam Pasal 79 terdiri dari:
 a. konsultan Badan Penasehat;  
-b. petugas pembinaan dan Pelestarian Perkawinan; c. petugas Kantor Urusan Agama; dand. pemuka agama yang memiliki kepekaan gender atau kesadaran gender.  
+b. petugas pembinaan dan Pelestarian Perkawinan;  
+c. petugas Kantor Urusan Agama; dand. pemuka agama yang memiliki kepekaan gender atau kesadaran gender.  
 
 Paragraf Penegakan dan Bantuan Hukum
 
@@ -849,7 +855,9 @@ Pelayanan penegakan dan bantuan hukum ditujukan untuk memberikan pendampingan da
 
 Pelayanan bantuan hukum sebagaimana dimaksud dalam Pasal 83 meliputi
 a. bantuan hukum dalam proses pelaporan dan pembuatan berita acara pemeriksaan;  
-b. bantuan hukum dalam proses penuntutan di kejaksaan; c. bantuan hukum dalam proses pemeriksaan di pengadilan; d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
+b. bantuan hukum dalam proses penuntutan di kejaksaan;  
+c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
+d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
 
 #### Pasal 85
 
@@ -1044,7 +1052,9 @@ melakukan penyuluhan terhadap Perempuan yang meliputi:
 #### Pasal 109
 
 Supervisi sebagaimana dimaksud dalam Pasal 106 huruf c, meliputi:
-a. melakukan evaluasi tumbuh kembang Anak balita; b. melakukan evaluasi dan monitoring terhadap program perlindungan Anak dan pengembangan pola asuh; c. melakukan evaluasi dan monitoring terhadap peningkatan kualitas remaja;  
+a. melakukan evaluasi tumbuh kembang Anak balita;  
+b. melakukan evaluasi dan monitoring terhadap program perlindungan Anak dan pengembangan pola asuh;  
+c. melakukan evaluasi dan monitoring terhadap peningkatan kualitas remaja;  
 d. melakukan evaluasi data pasca perkawinan;  
 e. melakukan evaluasi dan monitoring terhadap peningkatan kemampuan dan keterampilan keluarga;  
 f. melakukan evaluasi dan monitoring terhadap peningkatan ekonomi keluarga; dang. melakukan evaluasi dan monitoring terhadap peningkatan kualitas hidup lanjut usia.  
@@ -1079,7 +1089,8 @@ c. pendampingan dalam pelaporan keuangan terkait dengan modal kerja yang didapat
 
 Penyediaan sarana dan prasarana layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk:
 a. pembagian alat dan obat kontrasepsi;  
-b. pencatatan dan pelaporan pelayanan keluarga berencana; c. penyediaan kelengkapan fasilitas sarana dan prasarana pelayanan kesehatan yang memadai; dand. ruangan pojok ASI yang harus tersedia disetiap fasilitas umum.  
+b. pencatatan dan pelaporan pelayanan keluarga berencana;  
+c. penyediaan kelengkapan fasilitas sarana dan prasarana pelayanan kesehatan yang memadai; dand. ruangan pojok ASI yang harus tersedia disetiap fasilitas umum.  
 
 #### Pasal 115
 
@@ -1253,7 +1264,8 @@ Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan
 a. berusia paling rendah 15 (lima belas) tahun;  
 b. mendapat persetujuan tertulis dari orang tua/wali pekerja Anak;  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang;  
-d. tidak mempekerjakan Anak pada malam hari; waktu kerja paling lama (tiga) jam dalam sehari; f. tidak dipekerjakan pada tempat atau lingkungan yang dapat mengganggu proses tumbuh kembang Anak, baik secara fisik, mental, moral dan intelektual maupun kesehatan Anak;  
+d. tidak mempekerjakan Anak pada malam hari; waktu kerja paling lama (tiga) jam dalam sehari;  
+f. tidak dipekerjakan pada tempat atau lingkungan yang dapat mengganggu proses tumbuh kembang Anak, baik secara fisik, mental, moral dan intelektual maupun kesehatan Anak;  
 g. memberi kesempatan untuk mendapat pendidikan sesuai dengan bakat dan minatnya;  
 h. mempekerjakan untuk jenis pekerjaan yang ringan; dan i. memberikan kesempatan libur satu hari dalam seminggu.  
 
@@ -1285,7 +1297,8 @@ Fasilitasi sistem peradilan Anak meliputi peradilan pidana dan perdata.
 Fasilitasi sistem peradilan pidana sebagaimana dimaksud dalam Pasal 146 meliputi
 a. penyediaan pendamping atau relawan Anak pada saat pemeriksaan oleh penyidik;  
 
-memberikan layanan bantuan hukum dam psikolog; c. melibatkan anggota/penyidik kepolisian setempat dalam upaya pencegahan terjadinya tindak pidana yang dilakukan oleh Anak, Anak sebagai korban maupun Anak sebagai saksi;  
+memberikan layanan bantuan hukum dam psikolog;  
+c. melibatkan anggota/penyidik kepolisian setempat dalam upaya pencegahan terjadinya tindak pidana yang dilakukan oleh Anak, Anak sebagai korban maupun Anak sebagai saksi;  
 d. mewujudkan proses keadilan restorative justice bagi Anak yang berhadapan dengan hukum; dane. pelayanan rehabilitasi dan reintegrasi sosial.  
 
 #### Pasal 148
@@ -1332,7 +1345,8 @@ b. hak Anak; danc. pendekatan pengembangan Kota Layak Anak.
 
 Rencana Aksi Daerah Pembangunan Kota Layak Anak diarahkan pada pemenuhan hak Anak yang terbagi dalam (lima) kelompok sasaran meliputi
 a. hak sipil dan kebebasan;  
-b. lingkungan keluarga dan pengasuhan alternatif; c. kesehatan dasar dan kesejahteraan;  
+b. lingkungan keluarga dan pengasuhan alternatif;  
+c. kesehatan dasar dan kesejahteraan;  
 d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dane. perlindungan khusus.  
 
 #### Pasal 157
@@ -1690,7 +1704,8 @@ penyediaan layanan pengaduan masyarakat bagi Anak yang memerlukan perlindungan k
 
 penyediaan layanan pengelolaan kasus bagi Anak yang memerlukan perlindungan khusus di Daerah;  
 
-penyediaan layanan penampungan sementara bagi Anak yang memerlukan perlindungan khusus di Daerah; f. penyediaan layanan mediasi bagi Anak yang memerlukan perlindungan khusus di Daerah;  
+penyediaan layanan penampungan sementara bagi Anak yang memerlukan perlindungan khusus di Daerah;  
+f. penyediaan layanan mediasi bagi Anak yang memerlukan perlindungan khusus di Daerah;  
 75-
 g. penyediaan layanan pendampingan bagi Anak yang memerlukan perlindungan khusus di Daerah; dan h. penyediaan sarana dan prasarana layanan bagi Anak yang memerlukan perlindungan khusus di Daerah.  
 

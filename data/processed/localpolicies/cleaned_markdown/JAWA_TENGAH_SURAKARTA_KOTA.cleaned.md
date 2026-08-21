@@ -13,6 +13,7 @@
 # SALINAN
 
 Menimbang:  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki  hak asasi manusia yang harus dilindungi, dihormati, dipertahankan, dan tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun sehingga perlu mendapatkan jaminan pelindungan dari tindak kekerasan, eksploitasi dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam rangka mewujudkan pemenuhan hak hak konstitusional perempuan yang bebas dari tindak kekerasan, eksploitasi dan diskriminasi, serta untuk meningkatkan kualitas hidup perempuan perlu mendapatkan pelindungan dan pemberdayaan dari Pemerintah Daerah;  
 c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanakan secara maksimal dan disertai masih terjadinya tindak kekerasan, eksploitasi dan diskriminasi terhadap perempuan sehingga diperlukan suatu pengaturan yang komprehensif untuk memberikan arah, landasan, dan kepastian hukum;  
@@ -21,6 +22,7 @@ c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanak
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kota Besar Dalam Lingkungan Provinsi Jawa Timur, Jawa Tengah, Jawa Barat dan Daerah Istimewa Yogyakarta (Berita Negara Republik Indonesia Tahun 1950 Nomor 45);  
@@ -100,7 +102,8 @@ Asas
 
 #### Pasal 2
 
-Penyelenggaraan Pelindungan Perempuan berasaskan: a. penghormatan terhadap hak asasi manusia; b. non diskriminasi;  
+Penyelenggaraan Pelindungan Perempuan berasaskan: a. penghormatan terhadap hak asasi manusia;  
+b. non diskriminasi;  
 c. keadilan gender dan kesetaraan gender; dan d. kemanfaatan.  
 
 10 -
@@ -116,7 +119,8 @@ Maksud, Tujuan dan Ruang Lingkup
 b. memberikan pelayanan dan pemulihan bagi  perempuan korban;  
 c. pemenuhan kebutuhan khusus perempuan; dan  d. meningkatkan kualitas hidup perempuan. (3) Ruang lingkup pengaturan penyelenggaraan  pelindungan perempuan meliputi:a. hak perempuan;  
 b. upaya pelindungan perempuan;  
-c. kewajiban dan tanggungjawab Pemerintah Daerah; d. kelembagaan.  e. koordinasi dan kerjasama;  
+c. kewajiban dan tanggungjawab Pemerintah Daerah;  
+d. kelembagaan.  e. koordinasi dan kerjasama;  
 f. peran serta;  
 g. pemantauan, evaluasi dan pelaporan;  
 h. penghargaan; dani. pembiayaan.  
@@ -134,7 +138,8 @@ Hak Dasar Perempuan
 1. Setiap perempuan berhak:a. untuk hidup;  
 
 11 -
-b. berkeluarga dan melanjutkan keturunan; c. mengembangkan diri;  
+b. berkeluarga dan melanjutkan keturunan;  
+c. mengembangkan diri;  
 d. memperoleh keadilan;  
 e. atas kebebasan pribadi;  
 f. atas rasa aman;  
@@ -171,9 +176,12 @@ Hak Perempuan Korban Kekerasan, Eksploitasi dan  Diskriminasi
 
 1. Setiap Perempuan korban Kekerasan, Eksploitasi dan  Diskriminasi memiliki:a. hak atas penanganan;  
 b. hak Korban atas Pelindungan; danc. hak Korban atas pemulihan.  
-2. Hak atas penanganan sebagaimana dimaksud pada  ayat (1) huruf a meliputi:a. hak atas informasi terhadap seluruh proses dan  hasil Penanganan, Pelindungan, dan Pemulihan; b. hak mendapatkan dokumen hasil penanganan; c. hak atas layanan hukum;  
+2. Hak atas penanganan sebagaimana dimaksud pada  ayat (1) huruf a meliputi:a. hak atas informasi terhadap seluruh proses dan  hasil Penanganan, Pelindungan, dan Pemulihan;  
+b. hak mendapatkan dokumen hasil penanganan;  
+c. hak atas layanan hukum;  
 d. hak atas penguatan psikologis;  
-e. hak atas pelayanan kesehatan meliputi  pemeriksaan, tindakan, dan perawatan medis; f. hak atas layanan dan fasilitas sesuai dengan  kebutuhan khusus korban; dang. hak atas penghapusan konten bermuatan seksual  untuk kasus kekerasan seksual dengan media  elektronik.  
+e. hak atas pelayanan kesehatan meliputi  pemeriksaan, tindakan, dan perawatan medis;  
+f. hak atas layanan dan fasilitas sesuai dengan  kebutuhan khusus korban; dang. hak atas penghapusan konten bermuatan seksual  untuk kasus kekerasan seksual dengan media  elektronik.  
 
 15 - (3) Hak Korban atas Pelindungan sebagaimana dimaksud  pada ayat (1) huruf b meliputi:
 a. penyediaan informasi mengenai hak dan fasilitas  Pelindungan;  
@@ -232,7 +240,8 @@ Pencegahan Kekerasan, Eksploitasi dan Diskriminasi PasaI 8 (1) Pemerintah Daerah
 
 2. Pencegahan kekerasan, eksploitasi dan diskriminasi terhadap perempuan dimaksudkan untuk menciptakan  lingkungan yang aman bagi perempuan dan untuk  mengurangi kerentanan kekerasan, eksploitasi dan  diskriminasi kepada kelompok perempuan rentan.  
 3. Kelompok Perempuan rentan sebagaimana dimaksud  pada ayat (2) meliputi:a. perempuan dalam situasi bencana dan konflik  sosial;  
-b. perempuan dengan penyandang disabilitas; c. perempuan dengan HIV/AIDS;  
+b. perempuan dengan penyandang disabilitas;  
+c. perempuan dengan HIV/AIDS;  
 d. perempuan pekerja migran;  
 e. perempuan kepala keluarga;  
 f. perempuan pekerja rumah tangga;  
@@ -246,14 +255,16 @@ c. membangun dan menyediakan sistem informasi  pencegahan kekerasan, eksploitasi
 
 19 -
 d. memberikan kemudahan akses untuk memperoleh  hak sipil, pendidikan, kesehatan, ketenagakerjaan,  pelatihan dan pendanaan, peningkatan  kesejahteraan dan pelayanan;  
-e. mengembangkan media komunikasi, informasi,  edukasi dan kampanye publik melalui media; f. mengembangkan materi dan kurikulum  pendidikan;  
+e. mengembangkan media komunikasi, informasi,  edukasi dan kampanye publik melalui media;  
+f. mengembangkan materi dan kurikulum  pendidikan;  
 g. mengembangkan sistem transportasi dan ruang  publik yang aman;  
 h. membangun sistem deteksi dini, keamanan dan  layanan pengaduan terpadu di kawasan industri,  perusahaan, lingkungan pemukiman, lingkungan  pendidikan, pesantren dan ruang publik lainnya;  
 i. memberikan layanan konsultasi bagi keluarga,  calon pengantin, pelajar, santri, pemuda,  mahasiswa dan kelompok rentan;  
 j. mendorong perubahan perilaku orang tua dan  masyarakat;  
 k. mengembangkan kebijakan terkait  kabupaten/kota, kelurahan, sekolah, pesantren,  dan perguruan tinggi yang aman dan ramah bagi  perempuan dan terintegrasi dengan kebijakan tata  ruang wilayah;  
 l. membentuk dan mengembangkan kader,  komunitas, dan kelompok dari kalangan muda,  pelajar, santri, mahasiswa, jurnalis, influencer media sosial, tenaga pendidik, dan tokoh agama  untuk pencegahan;  
-m. melakukan edukasi dan advokasi kepada pemilik,  pengelola dan/atau pengguna sosial media; n. mengembangkan sistem pelindungan dan  dukungan khusus bagi kelompok perempuan  rentan;  
+m. melakukan edukasi dan advokasi kepada pemilik,  pengelola dan/atau pengguna sosial media;  
+n. mengembangkan sistem pelindungan dan  dukungan khusus bagi kelompok perempuan  rentan;  
 o. melakukan penyadaran bagi pelaku;  
 
 20 -
@@ -280,7 +291,10 @@ l. pemuda dan olah raga;
 m. politik;  
 n. ketentraman, ketertiban, dan pelindungan  Masyarakat;  
 o. pekerjaan umum dan penataan ruang;  
-p. perumahan rakyat dan kawasan pemukiman; q. pemberdayaan perempuan dan pelindungan anak; r. administrasi kependudukan dan pencatatan sipil; s. pengendalian penduduk dan keluarga berencana; dant. bidang lainnya yang terkait.  
+p. perumahan rakyat dan kawasan pemukiman;  
+q. pemberdayaan perempuan dan pelindungan anak;  
+r. administrasi kependudukan dan pencatatan sipil;  
+s. pengendalian penduduk dan keluarga berencana; dant. bidang lainnya yang terkait.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah  sebagaimana dimaksud pada ayat (1), dilaksanakan  secara terpadu dan berkesinambungan berdasarkan  Rencana Aksi Daerah yang dikoordinasikan oleh  Perangkat Daerah yang menyelenggarakan urusan  pemerintahan di bidang Pelindungan dan  Pemberdayaan Perempuan.  
 
 22 -
@@ -308,16 +322,21 @@ c. rumah tahanan, lembaga pemasyarakatan, dan  balai pemasyarakatan;
 d. kepolisian;  
 e. kejaksaan;  
 f. pengadilan;  
-g. unit pelaksana teknis badan yang  menyelenggarakan pelindungan pekerja migran; h. kantor wilayah provinsi kementerian yang  menyelenggarakan urusan pemerintahan di bidang  agama;  
+g. unit pelaksana teknis badan yang  menyelenggarakan pelindungan pekerja migran;  
+h. kantor wilayah provinsi kementerian yang  menyelenggarakan urusan pemerintahan di bidang  agama;  
 
 23 -
 i. kantor wilayah dan unit pelaksana teknis  Kementerian yang menyelenggarakan urusan  pemerintahan di bidang hukum dan hak asasi  manusia;  
 j. perwakilan Lembaga Perlindungan Saksi dan  Korban di daerah;  
-k. lembaga penyelenggaraan kesejahteraan sosial; l. Iembaga penyedia layanan berbasis masyarakat;  danm. institusi lainnya.  
+k. lembaga penyelenggaraan kesejahteraan sosial;  
+l. Iembaga penyedia layanan berbasis masyarakat;  danm. institusi lainnya.  
 
 #### Pasal 11
 
-1. Bentuk pelayanan terhadap pelindungan perempuan  dan perempuan korban kekerasan meliputi:a. menerima laporan dan penjangkauan Korban; b. memberikan informasi tentang Hak Korban; c. memfasilitasi pemberian layanan kesehatan; d. memfasilitasi pemberian layanan penguatan  psikologis;  
+1. Bentuk pelayanan terhadap pelindungan perempuan  dan perempuan korban kekerasan meliputi:a. menerima laporan dan penjangkauan Korban;  
+b. memberikan informasi tentang Hak Korban;  
+c. memfasilitasi pemberian layanan kesehatan;  
+d. memfasilitasi pemberian layanan penguatan  psikologis;  
 e. memfasilitasi pemberian layanan psikososial,  rehabilitasi sosial, dan reintegrasi sosial;  
 f. menyediakan layanan hukum;  
 g. mengidentifikasikan kebutuhan pemberdayaan ekonomi;  
@@ -364,7 +383,8 @@ c. pelayanan kesehatan reproduksi; dand. pelayanan dan penyediaan ruang laktasi 
 #### Pasal 15
 
 Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf c dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang usaha - 26 - mikro kecil menengah dan instansi terkait lainnya dalam  bentuk:
-a. pemberian keterampilan dan pelatihan kerja; b. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; danc. fasilitasi pengembangan jaringan pemasaran.  
+a. pemberian keterampilan dan pelatihan kerja;  
+b. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; danc. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 16
 
@@ -412,7 +432,8 @@ d. pelibatan perempuan dalam kegiatan seni dan budaya;  dane. penumbuhkembangan 
 
 Penyelenggaraan Pemberdayaan Perempuan di bidang  lingkungan hidup sebagaimana dimaksud dalam Pasal 12  ayat (2) huruf j dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  lingkungan hidup dan instansi terkait lainnya dalam bentuk:
 a. penyadaran dan pembentukan perilaku perempuan  sadar lingkungan hidup;  
-b. peningkatan kapasitas dan kompetensi perempuan  melalui pelatihan dan pendidikan lingkungan hidup; c. pemberian dan pengembangan akses perempuan untuk  berpartisipasi di bidang lingkungan hidup;  
+b. peningkatan kapasitas dan kompetensi perempuan  melalui pelatihan dan pendidikan lingkungan hidup;  
+c. pemberian dan pengembangan akses perempuan untuk  berpartisipasi di bidang lingkungan hidup;  
 d. pelibatan perempuan dalam kegiatan lingkungan  hidup; dane. penumbuhkembangan wadah atau lembaga perempuan  pada bidang lingkungan hidup.  
 
 ## Bagian Kelima
@@ -460,7 +481,10 @@ b. memfasilitasi sarana dan prasarana pelindungan  perempuan; dan - 31 -c. mener
 
 1. Pemerintah Daerah dalam upaya menyediakan dan  menyelenggarakan penanganan layanan pelindungan  bagi perempuan korban kekerasan, eksploitasi dan  tindak kekerasan membentuk UPTD PPA.  
 2. UPTD PPA sebagaimana dimaksud pada ayat (1) berada  dibawah dan bertanggung jawab kepada kepala  Perangkat Daerah yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan  pelindungan anak.  
-3. UPTD PPA sebagaimana dimaksud pada ayat (2)  memiliki tugas:a. menerima laporan atau penjangkauan Korban; b. memberikan informasi tentang hak Korban; c. memfasilitasi pemberian layanan kesehatan; d. memfasilitasi pemberian layanan penguatan  psikologis;  
+3. UPTD PPA sebagaimana dimaksud pada ayat (2)  memiliki tugas:a. menerima laporan atau penjangkauan Korban;  
+b. memberikan informasi tentang hak Korban;  
+c. memfasilitasi pemberian layanan kesehatan;  
+d. memfasilitasi pemberian layanan penguatan  psikologis;  
 e. memfasilitasi pemberian layanan psikososial,  rehabilitasi sosial, pemberdayaarl sosial, dan  reintegrasi sosial;  
 f. menyediakan layanan hukum;  
 g. mengidentifikasi kebutuhan pemberdayaan  ekonomi;  

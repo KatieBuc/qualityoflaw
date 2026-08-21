@@ -17,10 +17,12 @@
 # BUPATI REJANG LEBONG,
 
 Menimbang:  
+ 
 a. bahwa guna menjamin hak-hak perempuan dan anak agar  dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak.  
 b. bahwa agar upaya-upaya pencegahan dan  penanggulangan kekerasan terhadap perempuan dan anak memperoleh hasil yang optimal, serta dilaksanakan secara cepat, terencana, terpadu, menyeluruh dan terorganisasi dengan melibatkan seluruh unsur terkait di daerah, maka perlu adanya pengaturan tentang pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak korban kekerasan.  c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanggulangan Kekerasan Terhadap Perempuan dan Anak.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan  Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Tahun 1956 Nomor 55), Undang-Undang Darurat Nomor 5 Tahun 1956 (Lembaran Negara Tahun 1956 Nomor 56) Dan Undang Undang Darurat Nomor 6 Tahun  1956 (Lembaran Negara Tahun 1956 Nomor 57) tentang  Pembentukan Daerah Tingkat II Termasuk Kotapraja,  Dalam Lingkungan Daerah Tingkat I Sumatera Selatan,  Sebagai Undang-Undang (Lembaran Negara Republik  Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran  Negara Republik Indonesia Nomor 1821);  
@@ -110,7 +112,8 @@ Asas
 Penyelenggaraan pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak, dilaksanakan berdasarkan asas:
 a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
-c. non diskriminasi dalam pemberdayaan perempuan dan anak; d. kepentingan yang terbaik bagi perempuan dan anak; dan e. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang  mengalami tindak kekerasan atau penelantaran.  
+c. non diskriminasi dalam pemberdayaan perempuan dan anak;  
+d. kepentingan yang terbaik bagi perempuan dan anak; dan e. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang  mengalami tindak kekerasan atau penelantaran.  
 
 ## Bagian Kedua
 
@@ -129,7 +132,8 @@ Tujuan
 Tujuan penyelenggaraan pencegahan dan penanggulangan kekerasan  terhadap perempuan dan anak, meliputi:
 a. mencegah tindak kekerasan atau penelantaran terhadap perempuan dan  anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan anak;  
-c. melindungi dan memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi;  
+c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi;  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera;  danf. mengupayakan perolehan ganti rugi/kompensasi atas kerugian yang  diderita korban dari pelaku kekerasan.  
 
 # BAB III
@@ -162,9 +166,11 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi  tapi tidak
 #### Pasal 6
 
 1. Setiap perempuan dan anak yang menjadi korban kekerasan fisik,  eksploitasi atau perdagangan orang berhak mendapatkan perlindungan  dan pelayanan.  
-2. Perlindungan dan pelayanan pada korban sebagaimana dimaksud pada  ayat (1) meliputi:a. pengaduan atau permohonan perlindungan dari yang bersangkutan; b. penanganan secara rahasia atau penempatan korban pada lokasi dan  rumah yang aman dan dirahasiakan keberadaannya untuk  menghindari intimidasi dan ancaman;  
+2. Perlindungan dan pelayanan pada korban sebagaimana dimaksud pada  ayat (1) meliputi:a. pengaduan atau permohonan perlindungan dari yang bersangkutan;  
+b. penanganan secara rahasia atau penempatan korban pada lokasi dan  rumah yang aman dan dirahasiakan keberadaannya untuk  menghindari intimidasi dan ancaman;  
 c. pelayanan medis/penanganan kesehatan berupa perawatan dan  pemulihan luka atau kondisi fisik korban oleh tenaga medis dan  paramedis;  
-d. pelayanan medikolegal untuk pembuktian dibidang hukum; e. perlindungan oleh aparat penegak hukum;  
+d. pelayanan medikolegal untuk pembuktian dibidang hukum;  
+e. perlindungan oleh aparat penegak hukum;  
 f. pemberian informasi seputar hak dan kewajiban hukum pada korban  atau wali korban serta identifikasi kejadian;  
 g. penanganan berkelanjutan sampai tahap rehabilitasi;  
 h. pendampingan secara psikologis untuk memulihkan kondisi traumatis  korban dan mengembalikan kepercayaan diri korban;  
@@ -198,14 +204,17 @@ f. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari
 
 #### Pasal 9
 
-1. kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat; b. membentuk unit perlindungan perempuan dan anak di dalam  organisasi kemasyarakatan;  
-c. melakukan sosialisasi hak perempuan dan anak secara mandiri; d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+1. kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
+b. membentuk unit perlindungan perempuan dan anak di dalam  organisasi kemasyarakatan;  
+c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan Peraturan  Perundang-undangan.  
 
 #### Pasal 10
 
-Kewajiban dan tanggung jawab keluarga dan orangtua terhadap anak  sebagaimana dimaksud dalam Pasal 7 huruf c dan huruf d dalam bentuk: a. mengasuh, memelihara, mendidik dan melindungi anak; b. mencegah terjadinya perkawinan pada usia dini;  
+Kewajiban dan tanggung jawab keluarga dan orangtua terhadap anak  sebagaimana dimaksud dalam Pasal 7 huruf c dan huruf d dalam bentuk: a. mengasuh, memelihara, mendidik dan melindungi anak;  
+b. mencegah terjadinya perkawinan pada usia dini;  
 c. menjamin keberlangsungan pendidikan anak sesuai kemampuan, bakat  dan minat anak; dand. dalam hal orang tua tidak ada atau tidak diketahui keberadaannya atau  karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud  pada ayat (1) dapat beralih kepada keluarga sebagai wali anak, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan  yang berlaku.  
 
 # BAB VI
@@ -270,7 +279,8 @@ Pencegahan dan Penanggulangan Tindak Kekerasan, Eksploitasi dan Penelantaran Per
 1. Bentuk pencegahan sebagaimana dimaksud dalam Pasal 16 dilakukan  melalui:a. kegiatan sosialisasi peraturan perundang-undangan terkait dengan  perlindungan perempuan dan anak kepada masyarakat luas di  daerah;  
 b. kegiatan penyebarluasan eksistensi P2TP2A untuk diketahui semua  orang di daerah melalui penyebaran brosur, leaflet, pamflet atau  papan pengumuman sehingga peristiwa kekerasan, ekspolitasi dan  penelantaran dapat dilaporkan sesegera mungkin dan dapat ditangani  tidak sampai pada kondisi yang sudah mencapai tingkat terparah;  
 c. pelatihan pada para anggota yang mampu menyebarkan norma-norma  larangan dan sanksi ke masyarakat;  
-d. pembukaan jalur pengaduan masyarakat oleh Pemerintah Daerah  atau P2TP2A pada setiap kawasan melalui jejaring masyarakat; e. penguatan jalur koordinasi dengan pemerintahan tingkat Kecamatan,  Kelurahan/Desa;  
+d. pembukaan jalur pengaduan masyarakat oleh Pemerintah Daerah  atau P2TP2A pada setiap kawasan melalui jejaring masyarakat;  
+e. penguatan jalur koordinasi dengan pemerintahan tingkat Kecamatan,  Kelurahan/Desa;  
 f. penanganan segera adanya pengaduan masyarakat pada seluruh  wilayah di daerah dan pengamanan subjek tindak kekerasan,  eksploitasi, perdagangan orang atau penelantaran; dan/ataug. penyuluhan/sosialisasi dalam bentuk penyadaran masyarakat luas  hingga kelompok masyarakat terkecil (keluarga) khususnya para  orang tua untuk melindungi perempuan dan anak.  
 2. Pemerintah Daerah melalui P2TP2A melakukan pendataan wilayah tindak  kekerasan berdasarkan angka tingkat kejadian serta melakukan  penelitian dan pengkajian atas tingkat kerawanan wilayah untuk mencari  solusi pengurangan sampai penghentian adanya tindak kekerasan,  eksploitasi dan penelantaran pada wilayah titik rawan.  
 
@@ -348,7 +358,8 @@ Kemitraan
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha untuk  dukungan penyelenggaraan perlindungan terhadap perempuan dan anak  di wilayah daerah.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
-b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan; c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk perjanjian.  
 
 # BAB IX

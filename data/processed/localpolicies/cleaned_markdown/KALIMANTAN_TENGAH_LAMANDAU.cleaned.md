@@ -15,6 +15,7 @@
 # BUPATI LAMANDAU,
 
 Menimbang:  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak yang dapat menimbulkan korban fisik maupun psikis merupakan pelanggaran hak asasi manusia, diskriminasi  terhadap perempuan dan anak dan kejahatan terhadap  martabat manusia sehingga menghambat terciptanya keadilan  dan kesetaraan gender;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman dan bebas dari segala perbuatan kekerasan yang dijamin peraturan perundang-undangan;  
 c. bahwa pemerintah daerah berkewajiban untuk mengatur dan  mengurus penanganan serta memberikan pelayanan bagi  perempuan dan anak korban tindak kekerasan yang meliputi  dari segi penegakan hukum, perlindungan hukum, pelayanan  kesehatan, dan spiritual;  
@@ -22,6 +23,7 @@ d. bahwa untuk meningkatkan perlindungan bagi perempuan dan anak korban kekerasa
 e. bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, huruf b, huruf c dan huruf d, perlu menetapkan Peraturan Daerah Kabupaten Lamandau tentang Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak.  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia  Tahun 1979 Nomor 32, Tambahan Lembaran Negara  Republik Indonesia Nomor 3143);  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Tentang Penghapusan Segala Bentuk Diskriminasi  Terhadap Perempuan (Convention On The Flimination Of All  Form Of Discrimination Againts Women) (Lembaran Negara  Republik Indonesia Tahun 1984 Nomor 29, Tambahan  Lembaran Negara Republik Indonesia Nomor 3668;  
@@ -82,7 +84,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Pelayanan terpadu pemberdayaan perempuan dan anak dilakukan berdasarkan  Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana diatur dalam Konvensi  perempuan dan anak, yang meliputi:
 a. Penghormatan hak asasi manusia.  b. Keadilan dan kesetaraan gender.  c. Non-diskriminasi;  
 d. Kepentingan yang terbaik bagi perempuan dan atau anak;  
-e. Hak untuk hidup, kelangsungan hidup, dan perkembangan; f. Penghargaan terhadap pendapat perempuan dan anak;  
+e. Hak untuk hidup, kelangsungan hidup, dan perkembangan;  
+f. Penghargaan terhadap pendapat perempuan dan anak;  
 g. Keadilan dan kesetaraan gender; danh. Perlindungan korban.  
 
 #### Pasal 3
@@ -97,7 +100,8 @@ a. Menjamin terpenuhinya hak-hak perempuan dan anak sesuai ketentuan  perundang-
 #### Pasal 4
 
 Hak-hak anak sebagai berikut:
-a. Setiap anak berhak untuk dapat hidup, tumbuh, berkembang dan  berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi; b. Setiap anak berhak atas suatu nama sebagai identitas dan status  kewarganegaraan;  
+a. Setiap anak berhak untuk dapat hidup, tumbuh, berkembang dan  berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi;  
+b. Setiap anak berhak atas suatu nama sebagai identitas dan status  kewarganegaraan;  
 c. Setiap anak berhak untuk beribadah menurut agamanya, berpikir dan  berekspresi sesuai dengan tingkat kecerdasan dan usianya, dalam bimbingan  orang tua;  
 d. Setiap anak berhak untuk mengetahui orang tuanya, dibesarkan, dan diasuh  oleh orang tuanya sendiri;  
 e. Dalam hal karena suatu sebab orang tuanya tidak dapat menjamin tumbuh  kembang anak, atau anak dalam keadaan terlantar maka anak tersebut  berhak diasuh dan diangkat sebagai anak asuh atau anak angkat oleh orang  lain sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;  
@@ -129,8 +133,10 @@ t. Setiap anak yang menjadi korban atau pelaku tindak pidana berhak  mendapatkan
 
 #### Pasal 5
 
-Korban kekerasan dalam rumah tangga berhak mendapatkan: a. Perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan,  bantuan hukum, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan; b. Pelayanan kesehatan sesuai dengan kebutuhan medis;  
-c. Penanganan secara khusus berkaitan dengan kerahasiaan korban; d. Pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan; dane. Pelayanan bimbingan rohani.  
+Korban kekerasan dalam rumah tangga berhak mendapatkan: a. Perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan,  bantuan hukum, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
+b. Pelayanan kesehatan sesuai dengan kebutuhan medis;  
+c. Penanganan secara khusus berkaitan dengan kerahasiaan korban;  
+d. Pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan; dane. Pelayanan bimbingan rohani.  
 
 #### Pasal 6
 
@@ -230,7 +236,8 @@ b. Kekerasan dalam rumah tangga adalah kejahatan terhadap martabat  kemanusiaan;
 #### Pasal 21
 
 Dalam memberikan pelayanan kesehatan kepada korban, tenaga kesehatan  harus:
-a. Memeriksa kesehatan korban sesuai dengan standar profesinya; b. Membuat laporan tertulis hasil pemeriksaan terhadap korban dan visum et  repertum atas permintaan penyidik kepolisian atau surat keterangan medis  yang memiliki kekuatan hukum yang sama sebagai alat bukti.  
+a. Memeriksa kesehatan korban sesuai dengan standar profesinya;  
+b. Membuat laporan tertulis hasil pemeriksaan terhadap korban dan visum et  repertum atas permintaan penyidik kepolisian atau surat keterangan medis  yang memiliki kekuatan hukum yang sama sebagai alat bukti.  
 
 #### Pasal 22
 

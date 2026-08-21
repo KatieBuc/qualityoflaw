@@ -13,12 +13,14 @@ PENYELENGGARAAN PELINDUNGAN DAN PEMBERDAYAAN PEREMPUAN DENGAN RAHMAT TUHAN YANG 
 # BUPATI KEBUMEN,
 
 Menimbang:  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki hak asasi  manusia yang harus dilindungi, dihormati, dipertahankan, dan  tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun  sehingga perlu mendapatkan jaminan pelindungan dari tindak  kekerasan, eksploitasi, dan diskriminasi serta perlu diberdayakan  agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam masyarakat masih terdapat banyak perempuan  yang mengalami kekerasan, diskriminasi, dan ketidakadilan serta  sering menghadapi hambatan besar dalam mengakses layanan  pendidikan, kesehatan, dan pelindungan sosial yang memadai  yang berdampak negatif terhadap kesejahteraan dan  perkembangan diri mereka;  
 c. bahwa dalam rangka pelindungan dan sarana aktualisasi diri  perempuan dalam masyarakat di Kabupaten Kebumen,  diperlukan pengaturan mengenai pelindungan dan  pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pelindungan dan Pemberdayaan  Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten dalam Lingkungan Propinsi Djawa Tengah (Berita Negara Republik Indonesia Tahun 1950 Nomor  42);  
@@ -87,7 +89,8 @@ c. keadilan gender dan kesetaraan gender, dand. kemanfaatan.
 
 1. Penyelenggaraan Pelindungan dan Pemberdayaan Perempuan  dimaksudkan untuk mewujudkan pelindungan terhadap  perempuan dari tindak kekerasan, eksploitasi dan diskriminasi  serta meningkatkan kapasitas dan kesejahteraan Perempuan  dalam berbagai aspek kehidupan.  
 2. Penyelenggaraan pelindungan dan pemberdayaan perempuan  bertujuan untuk:a. mencegah segala bentuk kekerasan, eksploitasi, dan  diskriminasi terhadap perempuan;  
-b. memberikan pelayanan dan pemulihan bagi korban; c. pemenuhan kebutuhan khusus perempuan; dand. meningkatkan kualitas hidup perempuan.  
+b. memberikan pelayanan dan pemulihan bagi korban;  
+c. pemenuhan kebutuhan khusus perempuan; dand. meningkatkan kualitas hidup perempuan.  
 3. Ruang lingkup Peraturan Daerah ini meliputi:a. hak perempuan;  
 b. upaya pelindungan perempuan;  
 c. pemberdayaan perempuan;  
@@ -146,7 +149,9 @@ Hak Perempuan Penyandang Disabilitas
 #### Pasal 5
 
 1. Setiap perempuan, termasuk penyandang disabilitas dan  anggota kelompok sosial inklusi lainnya, berhak memperoleh  pelindungan dan pemberdayaan dalam berbagai aspek  kehidupan untuk memastikan kesetaraan dan keadilan  sosial.  
-2. Hak sebagaimana dimaksud pada ayat (1) meliputi: a. mengakses pendidikan inklusif pada semua satuan,  jalur, jenis, dan jenjang pendidikan tanpa diskriminasi,  dengan dukungan sarana dan prasarana yang inklusif; b. mendapatkan pekerjaan dan penghidupan yang layak  sesuai dengan kapasitas, keterampilan, dan kebutuhan  khususnya, serta lingkungan kerja yang mendukung; c. memperoleh perlakuan yang setara untuk berperan aktif  dalam pembangunan serta menikmati hasil  pembangunan secara adil;  
+2. Hak sebagaimana dimaksud pada ayat (1) meliputi: a. mengakses pendidikan inklusif pada semua satuan,  jalur, jenis, dan jenjang pendidikan tanpa diskriminasi,  dengan dukungan sarana dan prasarana yang inklusif;  
+b. mendapatkan pekerjaan dan penghidupan yang layak  sesuai dengan kapasitas, keterampilan, dan kebutuhan  khususnya, serta lingkungan kerja yang mendukung;  
+c. memperoleh perlakuan yang setara untuk berperan aktif  dalam pembangunan serta menikmati hasil  pembangunan secara adil;  
 d. mendapatkan aksesibilitas dalam berbagai bidang  kehidupan, termasuk infrastruktur, teknologi,  transportasi, layanan publik, dan informasi, guna  meningkatkan kemandirian dan partisipasi sosial;  
 e. memperoleh perlakuan yang sama di hadapan hukum,  termasuk pelindungan hukum yang sensitif terhadap  kebutuhan kelompok rentan;  
 f. mendapatkan layanan rehabilitasi, bantuan sosial, serta  dukungan lainnya untuk meningkatkan kesejahteraan  dan kemandirian sosial; dang. memiliki kesempatan yang sama dalam  menumbuhkembangkan bakat, kemampuan, dan  kehidupan sosialnya tanpa hambatan struktural maupun  budaya.  
@@ -200,7 +205,9 @@ Umum
 
 #### Pasal 8
 
-Penyelenggaraan pelindungan perempuan meliputi upaya: a. pencegahan kekerasan, eksploitasi, dan diskriminasi; b. pelayanan korban kekerasan, eksploitasi dan diskriminasi; c. pemenuhan kebutuhan khusus perempuan; dan
+Penyelenggaraan pelindungan perempuan meliputi upaya: a. pencegahan kekerasan, eksploitasi, dan diskriminasi;  
+b. pelayanan korban kekerasan, eksploitasi dan diskriminasi;  
+c. pemenuhan kebutuhan khusus perempuan; dan
 d. peningkatan kualitas keluarga.  
 
 ## Bagian Kedua
@@ -211,8 +218,10 @@ Pencegahan Kekerasan, Eksploitasi dan Diskriminasi
 
 1. Pemerintah Daerah melakukan upaya pencegahan kekerasan,  eksploitasi dan diskriminasi terhadap perempuan secara  terpadu di Daerah.  
 2. Pencegahan kekerasan, eksploitasi dan diskriminasi terhadap  perempuan dimaksudkan untuk menciptakan lingkungan yang  aman bagi perempuan dan untuk mengurangi kerentanan  kekerasan, eksploitasi dan diskriminasi kepada kelompok  perempuan rentan.  
-3. Kelompok perempuan rentan sebagaimana dimaksud pada ayat  (2) meliputi:a. perempuan dalam situasi bencana dan konflik sosial; b. perempuan dengan penyandang disabilitas;  
-c. perempuan dengan Human Immunodeficiency  Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS); d. perempuan pekerja migran;  
+3. Kelompok perempuan rentan sebagaimana dimaksud pada ayat  (2) meliputi:a. perempuan dalam situasi bencana dan konflik sosial;  
+b. perempuan dengan penyandang disabilitas;  
+c. perempuan dengan Human Immunodeficiency  Virus/Acquired Immune Deficiency Syndrome (HIV/AIDS);  
+d. perempuan pekerja migran;  
 e. anak perempuan;  
 f. perempuan kepala keluarga;  
 g. perempuan pekerja rumah tangga;  
@@ -224,7 +233,8 @@ k. perempuan dalam situasi intoleransi; danl. kelompok perempuan rentan lainnya.
 b. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan pelindungan hak  perempuan.  c. membangun dan menyediakan sistem informasi pencegahan  kekerasan, eksploitasi dan diskriminasi yang lengkap dan  mudah diakses;  
 d. memberikan kemudahan akses untuk memperoleh hak  sipil, pendidikan, kesehatan, ketenagakerjaan, pelatihan  dan pendanaan, peningkatan kesejahteraan dan pelayanan;  
 e. mengembangkan media komunikasi, informasi, edukasi,  dan kampanye publik melalui media;  
-f. mengembangkan materi dan kurikulum pendidikan; g. mengembangkan sistem transportasi dan ruang publik yang  aman;  
+f. mengembangkan materi dan kurikulum pendidikan;  
+g. mengembangkan sistem transportasi dan ruang publik yang  aman;  
 h. membangun sistem deteksi dini, keamanan dan layanan  pengaduan terpadu di kawasan industri, perusahaan,  lingkungan pemukiman, lingkungan pendidikan, pesantren  dan ruang publik lainnya;  
 i. memberikan layanan konsultasi bagi keluarga, calon  pengantin, pelajar, santri, pemuda, mahasiswa dan  kelompok rentan;  
 j. mendorong perubahan perilaku orang tua dan masyarakat;  
@@ -265,9 +275,11 @@ d. kepolisian;
 e. kejaksaan;  
 f. pengadilan;  
 g. unit pelaksana teknis badan yang menyelenggarakan  pelindungan pekerja migran;  
-h. kantor wilayah provinsi kementerian yang  menyelenggarakan urusan pemerintahan di bidang agama; i. kantor wilayah dan unit pelaksana teknis kementerian yang  menyelenggarakan urusan pemerintahan di bidang hukum  dan hak asasi manusia;  
+h. kantor wilayah provinsi kementerian yang  menyelenggarakan urusan pemerintahan di bidang agama;  
+i. kantor wilayah dan unit pelaksana teknis kementerian yang  menyelenggarakan urusan pemerintahan di bidang hukum  dan hak asasi manusia;  
 j. lembaga penyelenggaraan kesejahteraan sosial;  
-k. lembaga penyedia layanan berbasis masyarakat; l. perguruan tinggi;  
+k. lembaga penyedia layanan berbasis masyarakat;  
+l. perguruan tinggi;  
 m. media massa;  
 n. organisasi keagamaan; dano. institusi lainnya.  
 
@@ -317,7 +329,8 @@ Umum
 
 1. Pemberdayaan perempuan dilakukan dalam upaya  meningkatkan kualitas hidup perempuan.  
 2. Dalam rangka meningkatkan kualitas hidup perempuan  sebagaimana dimaksud pada ayat (1), Pemerintah Daerah  bertanggung jawab:a. menghormati dan menjamin hak perempuan tanpa  diskriminasi sesuai dengan harkat dan martabat  kemanusiaan;  
-b. melaksanakan pengarusutamaan gender di Daerah; c. meningkatkan pemberdayaan perempuan dalam peran,  kualitas, dan kemampuan di bidang:
+b. melaksanakan pengarusutamaan gender di Daerah;  
+c. meningkatkan pemberdayaan perempuan dalam peran,  kualitas, dan kemampuan di bidang:
 1. kesehatan;  
 2. pendidikan;  
 3. ekonomi;  
@@ -341,9 +354,11 @@ Peningkatan Pemberdayaan Perempuan di Bidang Kesehatan
 b. pelayanan kesehatan ibu mulai masa sebelum hamil, masa  hamil, persalinan dan masa sesudah melahirkan;  
 c. pelayanan kontrasepsi dan kesehatan seksual;  
 d. pelayanan kesehatan reproduksi;  
-e. pelayanan kesehatan dalam keluarga berencana; f. pelayanan gizi;  
+e. pelayanan kesehatan dalam keluarga berencana;  
+f. pelayanan gizi;  
 g. pelayanan kesehatan gigi dan mulut;  
-h. pelayanan kesehatan penglihatan dan pendengaran; i. pelayanan kesehatan jiwa;  
+h. pelayanan kesehatan penglihatan dan pendengaran;  
+i. pelayanan kesehatan jiwa;  
 j. pelayanan penanggulangan penyakit menular dan  penanggulangan penyakit tidak menular;  
 k. pelayanan kesehatan keluarga;  
 l. pelayanan kesehatan sekolah;  

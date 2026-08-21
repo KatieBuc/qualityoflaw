@@ -13,6 +13,7 @@ PEf,LIITDUNGAN DAN PEMBERDAYAAN PEREMPUAN DEITGAN RAIIMAT TI'IIAN YANG MAIIA ESA
 # BUPATI TAPIN,
 
 Menimbang:  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;  
 b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuarl perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 c. batrwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan hurrrf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
@@ -100,7 +101,8 @@ Bagi,an Kesetu Btdang Soetal Budaya
 1. Setiap perempuan berhak:a. untuk hidup, mempertahankan hidup dan meningkatkan taraf kehidupannya;  
 b. hidup tentram, arlan, damai, bahagia, sejahtera lahir dan batin;  
 c. atas lingkungan hidup yang baik dan sehat;  
-d. hidup berkeluarga dalam ikatan perkawinan yang sah; e. memilih pekerjaan yarrtg disukainya dan berhak pula atas syarat-syarat ketenagakerjaan yang adil;  
+d. hidup berkeluarga dalam ikatan perkawinan yang sah;  
+e. memilih pekerjaan yarrtg disukainya dan berhak pula atas syarat-syarat ketenagakerjaan yang adil;  
 f. mendapatkan upah kerja yang adil sesuai dengal pekedaannya yang sebanding dan sepadan dengan martabat kemanusiaannya.  
 2. Perkawinan yang sah haaya dapat berlangsung atas kehendak bebas dari pihak perempuan dan pihak laki-laki sesuai dengan peratrrran penrndang-undangan.  
 
@@ -181,7 +183,8 @@ Pelaksanaan sebagaimana dimaksud pada ayat (3) berupa: (4) analisis kebijakan, k
 1. Dalam melaksanakan kebijakan, program, dan kegiatart perlindungan perempuan, Pemerintah Daerah dapat melakukan kerjasama dengan Lembaga Internasional.  
 12. Kerjasama sebagaim€rna dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peratrrran perundang-undangan.  
 
-Pasd f6 Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan dengan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatart perlindungan perempuan antar Sahran Kerja Perangkat Daerah; b. kerjasama dengan Kabupaten/Kota dalam satu Provinsi, dan kerjasama aurfiar Kabupaten/Kota di Provinsi lainnya dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan peraturan penrndangundangan;  
+Pasd f6 Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan dengan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatart perlindungan perempuan antar Sahran Kerja Perangkat Daerah;  
+b. kerjasama dengan Kabupaten/Kota dalam satu Provinsi, dan kerjasama aurfiar Kabupaten/Kota di Provinsi lainnya dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan peraturan penrndangundangan;  
 c. penguatan kapasitas kelembagaan pengarusutamaan gender untuk pelaksanaan kebif akan program dan kegiatan perlindung€rn perempuan ;  
 d. fasilitasi pelayanan perlindungan perempuan;  
 e. penyediaan pelayanan perlindungan perempuan;  

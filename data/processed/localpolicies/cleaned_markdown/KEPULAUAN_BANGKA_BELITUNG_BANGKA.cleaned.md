@@ -15,12 +15,14 @@ PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG
 # BUPATI BANGKA,
 
 Menimbang:  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara  optimal untuk berperan serta dalam pembangunan sesuai  dengan kodrat dan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penyiapan generasi yang  berkualitas, perlu mendapat jaminan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi  dalam rangka membangun masyarakat, bangsa dan  negara;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, mengamanatkan pemberdayaan  perempuan merupakan urusan wajib yang diselenggarakan oleh Pemerintah Daerah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan  Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran  Negara Republik Indonesia Tahun 1956 Nomor 55) Undang-Undang Darurat Nomor 5 Tahun 1956 (Lembaran  Negara Republik Indonesia Tahun 1956 Nomor 56) dan  Undang-Undang Darurat Nomor 6 Tahun 1956 (Lembaran  Negara Republik Indonesia Tahun 1956 Nomor 57) tentang  Pembentukan Daerah Tingkat II termasuk Kotaparaja  Dalam Lingkungan Daerah Tingkat I Sumatera Selatan  Sebagai Undang-Undang (Lembaran Negara Republik  Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran  Negara Republik Indonesia Nomor 1821);  
@@ -85,11 +87,13 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 Ruang lingkup Peraturan Daerah ini meliputi:
 a. Hak perempuan;  
-b. kewajiban dan tanggungjawab Pemerintah Daerah Kabupaten; c. pemberdayaan perempuan;  
+b. kewajiban dan tanggungjawab Pemerintah Daerah Kabupaten;  
+c. pemberdayaan perempuan;  
 d. perlindungan perempuan;  
 e. strategi pemberdayaan dan perlindungan perempuan;  
 f. pelaksanaan perlindungan perempuan;  
-g. mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan; h. pembiayaan; dani. pembinaan dan pengawasan.  
+g. mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan;  
+h. pembiayaan; dani. pembinaan dan pengawasan.  
 
 #### Pasal 3
 
@@ -147,13 +151,18 @@ c. politik; dand. hukum.
 
 Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 7 huruf a dilaksanakan melalui:
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif; d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
+d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 9
 
 Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud  dalam Pasal 7 huruf b dilaksanakan melalui:
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
-b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi; c. permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitative yang berkualitas utamanya dibidang kesehatan reproduksi; d. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga; e. mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan; danf. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
+b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi;  
+c. permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitative yang berkualitas utamanya dibidang kesehatan reproduksi;  
+d. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga;  
+e. mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan; danf. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 10
 
@@ -196,7 +205,8 @@ c. perempuan penyandang disabilitas;
 d. perempuan tunawisma;  
 e. perempuan pekerja rumah tangga;  
 f. perempuan kepala keluarga;  
-g. perempuan mantan warga binaan lembaga pemasyarakatan; h. perempuan korban bencana;  
+g. perempuan mantan warga binaan lembaga pemasyarakatan;  
+h. perempuan korban bencana;  
 i. perempuan pekerja seks komersial; danj. perempuan korban kekerasan.  
 
 ## Bagian Kedua
@@ -228,7 +238,8 @@ Perempuan Penyandang Disabilitas
 #### Pasal 16
 
 1. Pelaksanaan perlindungan bagi perempuan penyandang disabilitas  sebagaimana dimaksud dalam Pasal 13 huruf c dalam rangka memberikan  perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi antara  lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat  manusia, dan bebas dari eksploitasi.  
-2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi; b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, olahraga, seni dan budaya serta pemanfaatan teknologi informasi dan  komunikasi;  
+2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, olahraga, seni dan budaya serta pemanfaatan teknologi informasi dan  komunikasi;  
 c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Kelima
@@ -323,12 +334,14 @@ c. rehabilitasi dan reintegrasi sosial; dand. relayanan trauma dan kesehatan.
 #### Pasal 25
 
 Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan  dilakukan melalui tahapan:
-a. perumusan kebijakan perencanaan program dan kegiatan; b. penganggaran program dan kegiatan;  
+a. perumusan kebijakan perencanaan program dan kegiatan;  
+b. penganggaran program dan kegiatan;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  
 
 #### Pasal 26
 
-1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana  dimaksud dalam Pasal 25 huruf a dilaksanakan melalui:a. pemetaan,pengumpulan, pengolahan dan penyajian data; b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
+1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana  dimaksud dalam Pasal 25 huruf a dilaksanakan melalui:a. pemetaan,pengumpulan, pengolahan dan penyajian data;  
+b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
 3. Perumusan kebijakan perencanaan program dan kegiatan penyelenggaraan  pemberdayaan dan perlindungan perempuan dikoordinasikan oleh  Perangkat Daerah yang membidangi perencanaan pembangunan  Kabupaten.  
 4. Penganggaran program dan kegiatan sebagaimana dimaksud dalam Pasal 25 huruf b dilaksanakan melalui kebijakan umum anggaran yang dituangkan dalam Anggaran Pendapatan dan Belanja Daerah.  
 5. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 25  huruf c dilaksanakan melalui:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  anggaran Perangkat Daerah; danb. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan dengan Perangkat Daerah terkait.  
@@ -350,10 +363,12 @@ b. Anggaran Pendapatan dan Belanja Daerah; danc. Sumber lainnya yang sah dan tid
 #### Pasal 28
 
 1. Bupati melakukan pembinaan dan pengawasan penyelenggaraan  pemberdayaan dan perlindungan perempuan.  
-2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai; b. kebijakan pemberdayaan dan perlindungan perempuan;  
+2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai  berikut:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai;  
+b. kebijakan pemberdayaan dan perlindungan perempuan;  
 c. menyediakan buku, leaflet, brosur mengenai pemberdayaan dan  perlindungan perempuan, dan isu-isu terkait lainnya serta  menyebarluaskannya kemasyarakat;  
 d. fasilitasi peningkatan kapasitas lembaga penyelenggara pemberdayaan  dan perlindungan perempuan;  
-e. fasilitasi forum partisipasi perempuan dan organisasi perempuan; f. fasilitasi layanan rehabilitasi dan reintegrasi perempuan korban bencana dan korban kekerasan;  
+e. fasilitasi forum partisipasi perempuan dan organisasi perempuan;  
+f. fasilitasi layanan rehabilitasi dan reintegrasi perempuan korban bencana dan korban kekerasan;  
 g. mengoordinasikan peran serta dunia usaha dan kelembagaan lain,  termasuk bantuan internasional bagi pemberdayaan dan perlindungan  perempuan; danh. memberikan penghargaan kepada masyarakat dan dunia usaha baik  secara individu maupun kelembagaan yang telah melakukan upaya  pemberdayaan dan perlindungan perempuan.  
 3. Bentuk pengawasan sebagaimana dimaksud pada ayat (1) dapat berupa  kegiatan monitoring dan evaluasi atas pemberdayaan dan perlindungan  perempuan.  
 

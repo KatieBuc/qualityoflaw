@@ -118,7 +118,8 @@ c. nondiskriminasi; dand. perlindungan korban.
 
 #### Pasal 3
 
-Perlindungan dan Pemberdayaan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan; b. meningkatkan kualitas hidup perempuan;  
+Perlindungan dan Pemberdayaan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
+b. meningkatkan kualitas hidup perempuan;  
 c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada perempuan dari berbagai tindak kekerasan.  
 
 #### Pasal 4
@@ -156,7 +157,8 @@ d. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan pendapat tanpa Dis
 e. terlibat dalam setiap tahapan proses pembangunan;  
 f. bebas dari perbudakan atau diperhamba dan ancaman;  
 g. memperoleh perlindungan diri pribadi, Keluarga, kehormatan, martabat dan hak miliknya;  
-h. mendapatkan kesejahteraan dan kehidupan yang layak; i. berpartisipasi dalam politik;  
+h. mendapatkan kesejahteraan dan kehidupan yang layak;  
+i. berpartisipasi dalam politik;  
 j. melakukan perbuatan hukum;  
 k. bebas memilih pasangan dalam perkawinannya; danl. mendapatkan perlindungan khusus dalam pelaksanaan pekeijaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi wanita.  
 2. Setiap istri selama dalam ikatan perkawinan mempunyai hak dan tanggung jawab yang sama dengan suaminya atassemua hal yang berkenaan dengan kehidupan perkawinannya, hubungan dengan anak-anaknya, dan kepemilikan serta pengelolaan harta bersama sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -181,7 +183,8 @@ e. perempuan pekeija rumah tangga;
 f. perempuan.  
 7-
 f. perempuan penyangga ekonomi Keluarga;  
-g. perempuan mantan warga binaan lembaga permasyarakatan; h. perempuan korban Bencana; dani. perempuan korban kekerasan.  
+g. perempuan mantan warga binaan lembaga permasyarakatan;  
+h. perempuan korban Bencana; dani. perempuan korban kekerasan.  
 
 ## Bagian Kedua
 
@@ -202,7 +205,9 @@ Perempuan Lanjut Usia
 #### Pasal 8
 
 1. Pelaksanaan perlindungan bagi perempuan Lanjut Usia dalam rangka memperpanjang usia harapan hidup agar dapat melaksanakan fungsi sosialnya dan berperan aktif secara wajar dalam kehidupan sosialnya.  
-2. Perempuan Lanjut Usia sebagaimana dimaksud pada ayat (1) mendapatkan hak Perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi; b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi; c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial, fasilitas umum, dan bangunan; dand. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
+2. Perempuan Lanjut Usia sebagaimana dimaksud pada ayat (1) mendapatkan hak Perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
+c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial, fasilitas umum, dan bangunan; dand. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Keempat.  
 8-
@@ -214,7 +219,8 @@ Perempuan Penyandang Disabilitas
 #### Pasal 9
 
 1. Pelaksanaan perlindungan bagi perempuan Penyandang Disabilitas dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk Diskriminasi antara lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat manusia dan bebas dari eksploitasi.  
-2. Perempuan Penyandang Disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi; b. partisipasi di bidang pendidikan, kesehatan, pekeijaan, politik, olahraga, seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
+2. Perempuan Penyandang Disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+b. partisipasi di bidang pendidikan, kesehatan, pekeijaan, politik, olahraga, seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
 c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Kelima
@@ -323,9 +329,11 @@ Bidang Ekonomi
 #### Pasal 17
 
 Pemberdayaan Perempuan di bidang ekonomi dilaksanakan melalui: a. pemberian keterampilan dan pelatihan keija;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi.  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi.  
 12-
-c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif; d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
+d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 ## Bagian Ketiga
 
@@ -441,19 +449,22 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program, dan kegiatan.
 #### Pasal 27
 
 Mekanisme penyelenggaraan Perlindungan dan Pemberdayaan Perempuan dilakukan melalui tahapan:
-a. perumusan kebijakan perencanaan program dan kegiatan; b. penganggaran program dan kegiatan;  
+a. perumusan kebijakan perencanaan program dan kegiatan;  
+b. penganggaran program dan kegiatan;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi, dan pelaporan.  
 
 #### Pasal 28
 
-1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf a, dilaksanakan terdiri atas: a. pemetaan, pengumpulan, pengolahan dan penyajian data; b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
+1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf a, dilaksanakan terdiri atas: a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
+b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
 3. Perumusan................  
 16- (3) Perumusan kebijakan perencanaan program dan kegiatan penyelenggaraan perlindungan dan Pemberdayaan Perempuan, dikoordinasikan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang perencanaan.  
 
 4. Penganggaran program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf b, dilaksanakan melalui kebijakan umum anggaran yang dituangkan dalam anggaran pendapatan dam belanja Daerah.  
 5. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf c, dilaksanakan terdiri atas:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen anggaran satuan kerja Perangkat Daerah;  
 b. koordinasi dan sinkronisasi pelaksanaan program kegiatan dengan Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang Pemberdayaan Perempuan dan perlindungan anak.  
-6. Pelaksanaan monitoring, evaluasi, dan pelaporan sebagaimana dimaksud dalam Pasal 27 huruf d, dilaksanakan terdiri atas:a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; b. membuat laporan secara berkala; danc. hasil evaluasi sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan tahun berikutnya.  
+6. Pelaksanaan monitoring, evaluasi, dan pelaporan sebagaimana dimaksud dalam Pasal 27 huruf d, dilaksanakan terdiri atas:a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan;  
+b. membuat laporan secara berkala; danc. hasil evaluasi sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan tahun berikutnya.  
 
 # BAB VIII
 

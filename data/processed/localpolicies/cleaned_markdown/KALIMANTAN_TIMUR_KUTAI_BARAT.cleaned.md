@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI KUTAI BARAT,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  dan anak di Kabupaten Kutai Barat merupakan  pelanggaran hak asasi manusia sehingga perlu  dilindungi harga diri dan martabatnya serta dijamin  hak hidupnya sesuai dengan fitrah dan kodratnya  tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Kutai Barat terus meningkat, sehingga  diperlukan upaya perlindungan dalam bentuk  pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 47 Tahun 1999 tentang  Pembentukan Kabupaten Nunukan, Kabupaten  Malinau, Kabupaten Kutai Barat dan Kabupaten Kutai  Timur dan Kota Bontang (Lembaran Negara Republik  Indonesia Nomor 175 Tahun 1999, Tambahan  Lembaran Negara Republik Indonesia Nomor 3896)  sebagaimana telah diubah dengan Undang-Undang  Nomor 07 Tahun 2000 tentang Perubahan Atas  Undang-Undang Nomor 47 Tahun 1999 tentang  Pembentukan Kabupaten Nunukan, Kabupaten  Malinau, Kabupaten Kutai Barat dan Kabupaten Kutai  Timur dan Kota Bontang (Lembaran Negara Republik  Indonesia Nomor 74 Tahun 2000, Tambahan Lembaran  Negara Republik Indonesia Nomor 3962;  
@@ -71,7 +73,8 @@ Perda-Kubar/180/2019 -4-
 #### Pasal 2
 
 Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan  berdasarkan asas:
-a. penghormatan dan pemenuhan terhadap hak Korban kekerasan; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak Korban kekerasan;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan yang terbaik bagi Korban.  
 
 #### Pasal 3
@@ -135,7 +138,8 @@ Pencegahan Tindak Kekerasan
 
 1. Pemerintah Daerah melakukan pencegahan sebagaimana dimaksud  dalam Pasal 6 huruf a dengan cara:a. mensosialisasikan peraturan perundang-undangan;  
 b. memberikan konseling/bimbingan;  
-c. memberikan edukasi bahaya Kekerasan dalam rumah tangga; d. melakukan seminar/lokakarya atau sejenisnya;  
+c. memberikan edukasi bahaya Kekerasan dalam rumah tangga;  
+d. melakukan seminar/lokakarya atau sejenisnya;  
 e. membentuk jaringan kerja dalam upaya pencegahan Kekerasan;  
 f. melakukan koordinasi, integrasi, sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
 

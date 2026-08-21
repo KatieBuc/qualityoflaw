@@ -15,12 +15,14 @@
 # BUPATI PANGANDARAN,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan, peran dan  kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi serta diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa untuk melindungi masyarakat serta mewujudkan  pemerataan dan keadilan, sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan  Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -115,7 +117,8 @@ Hak Perempuan Penyandang Disabilitas
 #### Pasal 3
 
 Setiap Perempuan penyandang disabilitas berhak memperoleh: a. pendidikan pada semua satuan, jalur, jenis dan jenjang  pendidikan;  
-b. pekerjaan dan penghidupan yang layak sesuai dengan jenis  dan derajat kecacatan, pendidikan dan kemampuannya; c. perlakuan yang sama untuk berperan dalam pembangunan  dan menikmati hasilnya;  
+b. pekerjaan dan penghidupan yang layak sesuai dengan jenis  dan derajat kecacatan, pendidikan dan kemampuannya;  
+c. perlakuan yang sama untuk berperan dalam pembangunan  dan menikmati hasilnya;  
 d. aksebilitas dalam rangka kemandiriannya;  
 
 jdih.pangandarankab.go.id 6
@@ -127,7 +130,8 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 4
 
-Setiap perempuan korban kekerasan mempunyai hak: a. untuk dihormati harkat dan martabatnya sebagai manusia; b. rehabilitasi kesehatan;  
+Setiap perempuan korban kekerasan mempunyai hak: a. untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. rehabilitasi kesehatan;  
 c. menentukan sendiri keputusannya;  
 d. mendapatkan informasi;  
 e. atas kerahasiaan;  
@@ -159,7 +163,8 @@ Bidang Ekonomi
 
 Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
 d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 jdih.pangandarankab.go.id 7
@@ -266,7 +271,8 @@ Perempuan Pekerja/Buruh
 jdih.pangandarankab.go.id 10 (2) Perempuan pekerja/buruh sebagimana dimaksud pada ayat  (1) mendapatkan perlindungan atas:
 a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan jaminan Sosial ketenagakerjaan;  
-c. akses informasi dan layanan konsultasi hukum; d. kesempatan memperoleh pengetahuan dan ketrampilan  untuk meningkatkan status.  
+c. akses informasi dan layanan konsultasi hukum;  
+d. kesempatan memperoleh pengetahuan dan ketrampilan  untuk meningkatkan status.  
 
 ## Bagian Kedua
 
@@ -371,7 +377,8 @@ c. kekerasan seksual;
 d. penelantaran rumah tangga;  
 e. perdagangan perempuan; danf. eksploitasi.  
 2. Pelaksana perlindungan bagi perempuan korban kekerasan  dalam rangka memberikan perlindungan hukum dan/atau  pemulihan kesehatan (3) Perlindungan bagi perempuan korban kekerasan  sebagaimana dimaksud pada ayat (2) meliputi:a. bantuan hukum;  
-b. pendampingan pasca terjadinya tindak kekerasan; c. rehabilitasi dan reintegrasi sosial; dand. pelayanan kesehatan.  
+b. pendampingan pasca terjadinya tindak kekerasan;  
+c. rehabilitasi dan reintegrasi sosial; dand. pelayanan kesehatan.  
 
 # BAB V
 
@@ -397,7 +404,8 @@ Kewajiban dan Tanggung Jawab Pemerintah Daerah
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.  
 
-jdih.pangandarankab.go.id 14 (3) Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 25 huruf a meliputi: a. melaksanakan kebijakan Perlindungan Perempuan dari segala bentuk diskriminasi dan tindak kekerasan; b. menetapkan kebijakan, program, dan kegiatan  Pemberdayaan dan Perlindungan Perempuan yang telah  ditetapkan;  
+jdih.pangandarankab.go.id 14 (3) Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 25 huruf a meliputi: a. melaksanakan kebijakan Perlindungan Perempuan dari segala bentuk diskriminasi dan tindak kekerasan;  
+b. menetapkan kebijakan, program, dan kegiatan  Pemberdayaan dan Perlindungan Perempuan yang telah  ditetapkan;  
 c. mengumpulkan data dan informasi tentang Perempuan  Korban Kekerasan dan Diskriminasi serta peraturan  perundang-undangan pendukungnya;  
 d. melakukan pendidikan tentang hal yang berkaitan  dengan Perlindungan Perempuan Korban Kekerasan  dan Diskriminasi;  
 e. melakukan sosialisasi peraturan perundang-undangan  yang berkaitan dengan Perlindungan Perempuan  Korban Kekerasan dan Diskriminasi;  
@@ -416,7 +424,9 @@ jdih.pangandarankab.go.id 15
 #### Pasal 27
 
 1. Bupati mengintegrasikan kebijakan, program dan kegiatan  pemberdayaan dan perlindungan perempuan kedalam  perencanaan pembangunan daerah.  
-2. Pengintegrasian program dan kegiatan sebagaimana  dimaksud pada ayat (1) dituangkan kedalam dokumen  perencanaan dan anggaran yang meliputi:a. rencana pembangunan jangka panjang daerah; b. rencana pembangunan jangka menengah daerah; c. rencana strategis Perangkat Daerah;  
+2. Pengintegrasian program dan kegiatan sebagaimana  dimaksud pada ayat (1) dituangkan kedalam dokumen  perencanaan dan anggaran yang meliputi:a. rencana pembangunan jangka panjang daerah;  
+b. rencana pembangunan jangka menengah daerah;  
+c. rencana strategis Perangkat Daerah;  
 d. rencana kerja pemerintahan daerah; dane. rencana kerja dan anggaran satuan kerja Perangkat  Daerah.  
 3. Perangkat Daerah yang membidangi Perempuan  memfasilitasi pengintegrasian kebijakan, program, dan  kegiatan Perlindungan Perempuan kedalam penyusunan  dokumen perencanaan dan anggaran sebagaimana  dimaksud pada ayat (2).  
 4. Dalam melaksanakan kegiatan sebagaimana dimaksud  pada ayat (3) Perangkat Daerah yang membidangi  Perempuan berkoordinasi dengan Perangkat Daerah yang  memiliki keterkaitan langsung dengan bidang Perempuan.  
@@ -438,9 +448,12 @@ jdih.pangandarankab.go.id 16
 
 #### Pasal 29
 
-1. Bupati dalam melaksanakan kebijakan, program, dan  kegiatan perlindungan perempuan sebagaimana dimaksud  dalam Pasal 28 melakukan upaya:a. koordinasi pelaksanaan antar Perangkat Daerah; b. kerjasama dengan pemerintah pusat, pemerintah  provinsi, dan pemerintah kabupaten/kota lainnya  sesuai dengan ketentuan peraturan perundang undangan;  
+1. Bupati dalam melaksanakan kebijakan, program, dan  kegiatan perlindungan perempuan sebagaimana dimaksud  dalam Pasal 28 melakukan upaya:a. koordinasi pelaksanaan antar Perangkat Daerah;  
+b. kerjasama dengan pemerintah pusat, pemerintah  provinsi, dan pemerintah kabupaten/kota lainnya  sesuai dengan ketentuan peraturan perundang undangan;  
 c. penguatan kapasitas kelembagaan gender;  
-d. fasilitasi pelayanan Perlindungan Perempuan; e. penyediaan pelayanan Perlindungan Perempuan; f. pelaksanaan aksi afirmasi Perlindungan Perempuan;  dang. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan Kekerasan  Terhadap Perempuan.  
+d. fasilitasi pelayanan Perlindungan Perempuan;  
+e. penyediaan pelayanan Perlindungan Perempuan;  
+f. pelaksanaan aksi afirmasi Perlindungan Perempuan;  dang. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan Kekerasan  Terhadap Perempuan.  
 2. Pelaksanaan kebijakan, program, dan kegiatan  sebagaimana dimaksud pada ayat (1) dikoordinasikan oleh  Wakil Bupati.  
 
 ## Bagian Ketiga
@@ -452,7 +465,8 @@ Kewajiban dan Tanggung Jawab Masyarakat, Keluarga, dan  Orang Tua
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana  dimaksud dalam Pasal 25 huruf b diselenggarakan dalam  bentuk partisipasi masyarakat.  
 2. Bentuk partisipasi masyarakat sebagaimana dimaksud  pada ayat (1) meliputi:a. membentuk mitra keluarga di tingkat kelurahan  dan/atau desa;  
 b. membentuk unit perlindungan perempuan di dalam  organisasi kemasyarakatan;  
-c. melakukan sosialisasi hak perempuan secara mandiri; d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instansi yang berwenang jika di lingkungannya terjadi kekerasan terhadap korban; (3) Partisipasi masyarakat sebagaimana dimaksud pada ayat  (1) dilakukan oleh orang perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga  pendidikan, lembaga keagamaan, swasta, dan media  massa.  
+c. melakukan sosialisasi hak perempuan secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instansi yang berwenang jika di lingkungannya terjadi kekerasan terhadap korban; (3) Partisipasi masyarakat sebagaimana dimaksud pada ayat  (1) dilakukan oleh orang perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga  pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 4. Ketentuan mengenai bentuk partisipasi masyarakat  sebagaimana dimaksud pada ayat (2) dilaksanakan secara  bertanggungjawab sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 jdih.pangandarankab.go.id 17
@@ -482,8 +496,12 @@ Pencegahan Kekerasan Perempuan
 #### Pasal 33
 
 Pemerintah Daerah dalam mencegah terjadinya tindak  kekerasan terhadap perempuan:
-a. melakukan penyusunan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan; b. melakukan sosialisasi tehadap hak Perempuan; c. mengupayakan peningkatan pendidikan bagi Perempuan; d. membuka kursus keterampilan bagi Perempuan guna  menunjang kebutuhan ekonomi keluarga;  
-e. menciptakan lapangan kerja bagi Perempuan; f. memberikan penyuluhan yang berkaitan dengan Kekerasan  Terhadap Perempuan;  
+a. melakukan penyusunan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan;  
+b. melakukan sosialisasi tehadap hak Perempuan;  
+c. mengupayakan peningkatan pendidikan bagi Perempuan;  
+d. membuka kursus keterampilan bagi Perempuan guna  menunjang kebutuhan ekonomi keluarga;  
+e. menciptakan lapangan kerja bagi Perempuan;  
+f. memberikan penyuluhan yang berkaitan dengan Kekerasan  Terhadap Perempuan;  
 g. memberdayakan organisasi sosial kemasyarakatan dan  organisasi Perempuan tingkat Daerah, kecamatan, dan desa  untuk meningkatkan pengetahuan dan wawasan  Perempuan;  
 h. membangun pos pengaduan Perlindungan Perempuan; dan i. membentuk jaringan kerja dalam upaya pencegahan  Kekerasan Terhadap Perempuan.  
 
@@ -496,9 +514,11 @@ Pelayanan Perlindungan
 #### Pasal 34
 
 1. Pelayanan perlindungan kepada perempuan dilakukan  dalam bentuk:a. perlindungan atas keamanan pribadi korban dari  ancaman fisik dan mental;  
-b. pelayanan kesehatan sesuai kebutuhan medis; c. pelayanan layanan medis untuk kepentingan pembuktian  di bidang hukum;  
+b. pelayanan kesehatan sesuai kebutuhan medis;  
+c. pelayanan layanan medis untuk kepentingan pembuktian  di bidang hukum;  
 d. menjaga kerahasiaan identitas korban;  
-e. pemberian keterangan pada saat pemeriksaan di sidang  pengadilan tanpa bertatap muka dengan tersangka; f. pelayanan bimbingan rohani; dan/ataug. perlindungan terhadap Perempuan yang berprofesi  sebagai buruh atau pekerja sesuai dengan ketentuan  peraturan perundang-undangan.  
+e. pemberian keterangan pada saat pemeriksaan di sidang  pengadilan tanpa bertatap muka dengan tersangka;  
+f. pelayanan bimbingan rohani; dan/ataug. perlindungan terhadap Perempuan yang berprofesi  sebagai buruh atau pekerja sesuai dengan ketentuan  peraturan perundang-undangan.  
 2. Perlindungan atas keamanan pribadi korban dari ancaman  fisik dan mental sebagaimana dimaksud pada ayat (1) huruf  a dilakukan oleh keluarga, aparat penegak hukum, lembaga  sosial, dan pihak lainnya baik sementara maupun  berdasarkan penetapan perintah Perlindungan dari  pengadilan.  
 
 #### Pasal 35
@@ -575,7 +595,9 @@ jdih.pangandarankab.go.id 21 (3) Ketentuan lebih lanjut mengenai pembentukan, su
 #### Pasal 40
 
 1. Pemerintah Daerah membentuk forum perlindungan  perempuan korban kekerasan di setiap tingkatan  kecamatan.  
-2. Forum perlindungan perempuan korban kekerasan  sebagaimana dimaksud pada ayat (1) bertugas:a. mengkoordinasikan dan mengsinkronkan penanganan  pelayanan perlindungan perempuan korban kekerasan; b. memfasilitasi dan memberikan pelayanan yang lebih  optimal dan menjangkau ke masyarakat tingkat bawah; c. memelihara dan mengembangkan jejaring serta sistem  rujukan; dand. tersusunnya data base mengenai perkembangan  perlindungan perempuan korban kekerasan.  
+2. Forum perlindungan perempuan korban kekerasan  sebagaimana dimaksud pada ayat (1) bertugas:a. mengkoordinasikan dan mengsinkronkan penanganan  pelayanan perlindungan perempuan korban kekerasan;  
+b. memfasilitasi dan memberikan pelayanan yang lebih  optimal dan menjangkau ke masyarakat tingkat bawah;  
+c. memelihara dan mengembangkan jejaring serta sistem  rujukan; dand. tersusunnya data base mengenai perkembangan  perlindungan perempuan korban kekerasan.  
 3. Ketentuan lebih lanjut mengenai pembentukan, susunan  keanggotaan, tugas, dan fungsi forum Perlindungan  Perempuan Korban Kekerasan sebagaimana dimaksud pada  ayat (1) dan ayat (2) ditetapkan dengan Keputusan Bupati.  
 
 # BAB IX

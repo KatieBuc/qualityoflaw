@@ -7,11 +7,13 @@
 # PERLINDUNGAN PEREMPUAN DAN ANAK
 
 TERHADAP TINDAK KEKERASAN DAN DISKRIMINASI DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI MAGELANG, Menimbang:  
+ 
 a. bahwa perlindungan terhadap perempuan dan anakdari tindak kekerasan dan diskriminasi bertujuan untuk mewujudkan hak konstitusional dan hak asasi manusia sesuai dengan nilai-nilai Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa berdasarkan Undang-Undang Nomor 23Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, dan pemulihan terhadap perempuan dan anak korban kekerasan dan diskriminasi;  
 c. bahwa berdasarkan pertimbangan sebagaimanadimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Terhadap Tindak Kekerasan dan Diskriminasi;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar NegaraRepublik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentangPengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi terhadap wanita (Convention on the Elimination of All Forms of -1- Discrimation Agains Women) (Lembaran NegaraRepublik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik IndonesiaNomor 3277);  
@@ -87,7 +89,8 @@ e. pemberdayaan; danf. keterpaduan.
 Tujuan perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi untuk:
 a. mencegah tindak kekerasan dan diskriminasi terhadap perempuandan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan, diskriminasi dan eksploitasi terhadap perempuan dan anak;  
-c. melindungi perempuan dan anak dari tindakan kekerasan dandiskriminasi dalam mendapatkan hak-haknya yang sah secarakonstitusid. melindungi, memberikan rasa aman bagi perempuan dan anak; e. memberikan pelayanan dan perlindungan kepada perempuan dananak korban tindak kekerasan dan diskriminasi, pelapor, dan saksi; danf. memfasilitasi dan melakukan mediasi terhadap sengketa rumahtangga untuk mewujudkan keutuhan rumah tangga yang harmonisdan sejahtera.  
+c. melindungi perempuan dan anak dari tindakan kekerasan dandiskriminasi dalam mendapatkan hak-haknya yang sah secarakonstitusid. melindungi, memberikan rasa aman bagi perempuan dan anak;  
+e. memberikan pelayanan dan perlindungan kepada perempuan dananak korban tindak kekerasan dan diskriminasi, pelapor, dan saksi; danf. memfasilitasi dan melakukan mediasi terhadap sengketa rumahtangga untuk mewujudkan keutuhan rumah tangga yang harmonisdan sejahtera.  
 6-
 
 # BAB III
@@ -99,7 +102,8 @@ c. melindungi perempuan dan anak dari tindakan kekerasan dandiskriminasi dalam m
 1. Untuk mencegah terjadinya tindak kekerasan dan diskriminasi terhadap perempuan dan anak, Pemerintah Daerah melakukanpemberdayaan dan penyadaran kepada keluarga, orangtua, danmasyarakat dengan memberikan informasi, bimbingan dan/ataupenyuluhan.  
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud padaayat (1), Pemerintah Daerah melakukan upaya sebagai berikut: a. peningkatan jumlah dan mutu pendidikan baik formal maupunnon formal dan informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanansosial;  
-c. memfasilitasi pemenuhan lapangan kerja bagi perempuan; d. mendorong partisipasi dan kepedulian masyarakat terhadappencegahan perlindungan perempuan dan anak dari tindakkekerasan dan diskriminasi;  
+c. memfasilitasi pemenuhan lapangan kerja bagi perempuan;  
+d. mendorong partisipasi dan kepedulian masyarakat terhadappencegahan perlindungan perempuan dan anak dari tindakkekerasan dan diskriminasi;  
 e. membangun dan menyediakan sistem informasi yang lengkapdan mudah di akses;  
 f. membangun jejaring dan kerja sama dengan aparatur penegakhukum, aparatur pemerintah, lembaga pendidikan dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dang. membuka sistem pelayanan terpadu bagi perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi di setiap desa.  
 
@@ -109,7 +113,8 @@ f. membangun jejaring dan kerja sama dengan aparatur penegakhukum, aparatur peme
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
-e. pemberdayaan perempuan dan perlindungan anak; f. kesejahteraan rakyat; dang. ketenteraman dan ketertiban.  
+e. pemberdayaan perempuan dan perlindungan anak;  
+f. kesejahteraan rakyat; dang. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimanadimaksud pada ayat (1), dilaksanakan secara terpadu danberkesinambungan berdasarkan Rencana Aksi Daerah.  
 7-
 
@@ -122,7 +127,8 @@ e. pemberdayaan perempuan dan perlindungan anak; f. kesejahteraan rakyat; dang. 
 #### Pasal 6
 
 Perempuan dan anak korban tindak kekerasan dan diskriminasi mendapatkan hak-hak sebagai berikut:
-a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yangdialami korban;  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yangdialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  
@@ -172,12 +178,15 @@ c. Masyarakat; dand. Keluarga.
 
 #### Pasal 10
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimanadimaksud dalam Pasal 10 huruf a, meliputi:a. menetapkan kebijakan, program, dan kegiatan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi; b. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimanadimaksud dalam Pasal 10 huruf a, meliputi:a. menetapkan kebijakan, program, dan kegiatan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi;  
+b. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 c. melakukan kerja sama dalam penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan;  
-d. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan; e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuankeuangan daerah;  
+d. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan;  
+e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuankeuangan daerah;  
 9-
 f. membina dan mengawasi penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan;  
-g. menyediakan pelayanan pemulihan dan reintegrasi sosial; h. mendorong dan meningkatkan partisipasi masyarakat; dan i. menyediakan Sumber Daya Manusia dalam pelaksanaan perlindungan perempuan dan anak korban tindak kekerasan dandiskriminasi.  
+g. menyediakan pelayanan pemulihan dan reintegrasi sosial;  
+h. mendorong dan meningkatkan partisipasi masyarakat; dan i. menyediakan Sumber Daya Manusia dalam pelaksanaan perlindungan perempuan dan anak korban tindak kekerasan dandiskriminasi.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawabsebagaimana dimaksud pada ayat (1), Bupati menetapkan programdan kegiatan aksi perlindungan perempuan dan anak dalamRencana Aksi Daerah sebagai dasar bagi Perangkat Daerah dalam melaksanakan perlindungan perempuan dan anak dari tindakkekerasan.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan bagian Rencana Pembangunan Jangka MenengahDaerah (RPJMD).  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerahsebagaimana dimaksud pada ayat (2) diatur dengan PeraturanBupati.  
@@ -186,7 +195,8 @@ g. menyediakan pelayanan pemulihan dan reintegrasi sosial; h. mendorong dan meni
 
 Kewajiban dan tanggung jawab Pemerintah Desa sebagaimanadimaksud dalam Pasal 10 huruf b, meliputi:
 a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan dan diskriminasi yang ditetapkan olehpemerintah;  
-b. melakukan kerja sama dalam penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi; c. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
+b. melakukan kerja sama dalam penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi;  
+c. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
 d. mengalokasikan anggaran penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi sesuai kemampuan keuangan desa;  
 e. membina dan mengawasi penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi; danf. mendorong dan meningkatkan partisipasi masyarakat.  
 
@@ -199,7 +209,8 @@ e. membina dan mengawasi penyelenggaraan perlindunganperempuan dan anak dari tin
 b. memberikan masukan dalam perumusan kebijakan yang terkait Perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
 c. melaporkan kepada pihak berwenang jika terjadi pelanggarantindak kekerasan dan diskriminasi terhadap perempuan dananak;  
 d. berperan aktif dalam proses rehabilitasi dan reintegrasi sosial bagi perempuan dan anak korban tindak kekerasan dandiskriminasi;  
-e. melakukan pemantauan dan pengawasan terhadap perlindunganperempuan dan anak tindak kekerasan dan diskriminasi; f. menyediakan sarana dan prasarana dalam rangka mendukung perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
+e. melakukan pemantauan dan pengawasan terhadap perlindunganperempuan dan anak tindak kekerasan dan diskriminasi;  
+f. menyediakan sarana dan prasarana dalam rangka mendukung perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
 g. berperan aktif dengan menghilangkan pelabelan negatif terhadapperempuan dan anak korban tindak kekerasan dan diskriminasi; danh. memberikan ruang kepada perempuan dan anak untuk dapat berpartisipasi dan menyampaikan pendapat.  
 
 #### Pasal 13

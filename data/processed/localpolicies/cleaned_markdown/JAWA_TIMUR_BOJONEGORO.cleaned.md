@@ -17,10 +17,12 @@ PEMERINTAH KABUPATEN BOJONEGORO  Salinan
 # BUPATI BOJONEGORO,
 
 Menimbang:  
+ 
 a. bahwa, kekerasan dan diskriminasi dalam bentuk apapun,  khususnya terhadap perempuan dan anak adalah merupakan  pelanggaran terhadap Hak Asasi Manusia, oleh karenanya  kedepan kekerasan dan diskriminasi terhadap perempuan dan  anak yang terjadi di Kabupaten Bojonegoro, harus mendapatkan  pelayanan dan perlindungan secara optimal;  
 b. bahwa, sehubungan dengan pertimbangan tersebut pada huruf a,  dipandang perlu mengatur penyelenggaraan pelayanan terhadap  perempuan dan anak korban kekerasan dengan Peraturan Daerah  Kabupaten Bojonegoro;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 12 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten/Kota di lingkungan Provinsi Jawa Timur  (diumumkan pada tanggal 8 Agustus 1950) ;  
 
 2. Undang-Undang Nomor 6 Tahun 1974 tentang Ketentutan Ketentuan Pokok Kesejahteraan Sosial (Lembaran Negara Tahun  1974 Nomor 53, Tambahan Lembaran Negara Nomor 3039) ;  

@@ -15,12 +15,14 @@
 # BUPATI HALMAHERA TIMUR,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak berhak mendapatkan rasa  aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia; ·
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa berdasarkan Pasal 12 Undang-Undang Nomor  23 Tahun 2014 ten tang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 d. bahwa berdasarkan pertirnbangan sebagairnana  dimaksud pada huruf a, b, dan c perlu membentuk Peraturan Daerah Kabupaten Halmahera Timur tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  

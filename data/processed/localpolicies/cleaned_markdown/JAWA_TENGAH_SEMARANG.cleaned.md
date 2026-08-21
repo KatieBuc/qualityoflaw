@@ -15,6 +15,7 @@
 # BUPATI SEMARANG,
 
 Menimbang:  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan pada intinya bahwa pemberdayaan perempuan merupakan urusan wajib yang harus diselenggarakan oleh pemerintah daerah ;  
@@ -22,6 +23,7 @@ d. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Dae
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan ;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Jawa Tengah ;  
@@ -98,7 +100,8 @@ d. pemberdayaan perempuan;
 e. perlindungan perempuan;  
 f. pelaksanaan perlindungan perempuan;  
 g. strategi pemberdayaan dan perlindungan perempuan;  
-h. mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan; i. pembiayaan;  
+h. mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan;  
+i. pembiayaan;  
 j. pembinaan dan pengawasan;  
 k. ketentuan peralihan; danl. ketentuan penutup.  
 
@@ -251,7 +254,8 @@ Perempuan Penyandang Disabilitas
 #### Pasal 16
 
 1. Pelaksanaan perlindungan bagi perempuan penyandang disabilitas  sebagaimana dimaksud dalam Pasal 13 huruf c dalam rangka memberikan  perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi antara  lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat  manusia, dan bebas dari eksploitasi.  
-2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi; b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, olahraga,  seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
+2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1)  mendapatkan hak perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, olahraga,  seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
 c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan  d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk  peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Kelima
@@ -349,7 +353,8 @@ c. rehabilitasi dan reintegrasi sosial ; dand. pelayanan kesehatan .
 #### Pasal 25
 
 Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan dilakukan melalui tahapan:
-a. perumusan kebijakan perencanaan program dan kegiatan; b. penganggaran program dan kegiatan ;  
+a. perumusan kebijakan perencanaan program dan kegiatan;  
+b. penganggaran program dan kegiatan ;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  
 
 #### Pasal 26

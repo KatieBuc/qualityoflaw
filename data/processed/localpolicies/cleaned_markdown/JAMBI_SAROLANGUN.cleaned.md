@@ -15,11 +15,13 @@ PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN  PEREMPUAN DAN ANAK
 # BUPATI SAROLANGUN,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 b. bahwa seiring meningkatnya perlakuan kekerasan terhadap  perempuan dan anak di Kabupaten Sarolangun, merupakan  perbuatan yang merendahkan harkat dan martabat  kemanusiaan, sehingga diperlukan peran pemerintah  Kabupaten Sarolangun agar perempuan dan anak terlindungi  dari pelanggaran terhadap hak yang dijamin oleh Konstitusi;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun 1999  Nomor 165, Tambahan Lembaran Negara Republik Indonesia  Nomor 3886);  
@@ -94,7 +96,8 @@ h. akuntabilitas; dani. rensponsif gender.
 
 Pengaturan mengenai Pemberdayaan dan Perlindungan Perempuan dan Anak bertujuan untuk:
 a. menjamin terpenuhinya hak-hak setiap perempuan dan anak atas kelangsungan hidup, tumbuh dan berkembang;  
-b. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga; c. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender dan anak; dand. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya.  
+b. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
+c. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender dan anak; dand. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
@@ -160,7 +163,9 @@ c. politik; dand. hukum.
 
 Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a dilaksanakan melalui:
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomiproduktif; d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomiproduktif;  
+d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 10
 
@@ -171,7 +176,8 @@ c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, s
 
 #### Pasal 11
 
-1. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:a. pelibatan perempuan dalam pengambilan keputusan diberbagaitingkatan; b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
+1. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:a. pelibatan perempuan dalam pengambilan keputusan diberbagaitingkatan;  
+b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
 2. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang- undangan yang berlaku.  
 
@@ -218,7 +224,8 @@ Setiap Anak berhak mendapatkan Hak Sipil dan Kebebasan sebagaimana dimaksud dala
 a. akte kelahiran;  
 b. kartu identitas anak.  c. menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasannya;  
 d. mendapatkan informasi yang sehat dan aman;  
-e. kebebasan berkumpul dan berorganisasi yang sesuai bagi mereka; f. penjagaan nama baik dan tidak dieksploitasi ke publik tanpa seizin anak tersebut; dan/ataug. berpartisipasi dalam pembangunan melalui forum anak di tingkat desa/kelurahan, kecamatan bahkan tingkat Kabupaten.  
+e. kebebasan berkumpul dan berorganisasi yang sesuai bagi mereka;  
+f. penjagaan nama baik dan tidak dieksploitasi ke publik tanpa seizin anak tersebut; dan/ataug. berpartisipasi dalam pembangunan melalui forum anak di tingkat desa/kelurahan, kecamatan bahkan tingkat Kabupaten.  
 
 #### Pasal 16
 
@@ -246,7 +253,9 @@ Hak dalam Lingkungan Keluarga dan Pengasuhan Alternatif
 Setiap Anak berhak mendapatkan hak dalam lingkungan keluarga dan pengasuhan alternatif sebagaimana dimaksud dalam Pasal 14 huruf b dalam bentuk:
 a. mendapatkan prioritas untuk dibesarkan oleh orangtuanya sendiri;  
 b. tidak dipisahkan dari orangtuanya, kecuali pemisahan tersebut untuk kepentingan anak;  
-c. mendapatkan pola asuh yang baik, santun dan penuh kasih sayang; d. mendapatkan pola asuh yang seimbang dari kedua orangtuanya; e. mendapatkan dukungan kesejahteraan meskipun orangtuanya tidak mampu;  
+c. mendapatkan pola asuh yang baik, santun dan penuh kasih sayang;  
+d. mendapatkan pola asuh yang seimbang dari kedua orangtuanya;  
+e. mendapatkan dukungan kesejahteraan meskipun orangtuanya tidak mampu;  
 f. mendapatkan pengasuhan alternatif dalam hal kedua orangtuanya meninggal atau menderita penyakit yang tidak memungkinkan untuk mengasuh anak; dang. mendapatkan keharmonisan keluarga.  
 
 #### Pasal 19
@@ -260,7 +269,9 @@ d. memberikan wawasan kebangsaan, kepahlawanan dan bela negara sejak dini kepada
 #### Pasal 20
 
 Pemerintah Daerah menyediakan fasilitas untuk pemenuhan hak anak dalam lingkungan keluarga dan pengasuhan lingkungan alternatif, dengan: a. memberikan atau memfasilitasi pengasuhan alternatif bagi anak yang orang tuanya meninggal maupun yang sakit sehingga tidak memungkinkan mengurus anak;  
-b. memberikan dukungan kesejahteraan kepada semua anak; c. memenuhi hak tumbuh kembang anak dan melindungi anak penyandang masalah kesejahteraan sosial dan anak yang berhadapan dengan hukum; d. melindungi anak-anak dari perlakuan kejam, tidak manusiawi dan merendahkan martabat manusia;  
+b. memberikan dukungan kesejahteraan kepada semua anak;  
+c. memenuhi hak tumbuh kembang anak dan melindungi anak penyandang masalah kesejahteraan sosial dan anak yang berhadapan dengan hukum;  
+d. melindungi anak-anak dari perlakuan kejam, tidak manusiawi dan merendahkan martabat manusia;  
 e. mengadakan pelatihan untuk orang tua tentang pola asuh anak yang baik atau membentuk lembaga konsultasi bagi keluarga;  
 f. berperan aktif membantu keluarga dalam menjalankan kewajibannya;  
 g. mencegah tidak terjadinya perkawinan pada usia anak; dan h. menyediakan Infrastruktur ramah anak, ruang bermain ramah anak dan rute aman selamat sekolah.  
@@ -271,7 +282,8 @@ Hak Kesehatan Dasar dan Kesejahteraan
 
 #### Pasal 21
 
-Setiap Anak berhak mendapatkan hak kesehatan dasar dan kesejahteraan, sebagaimana dimaksud dalam Pasal 14 huruf c, dalam bentuk: a. tidak untuk digugurkan kecuali membahayakan keselamatan ibu; b. gizi yang baik sejak dalam kandungan;  
+Setiap Anak berhak mendapatkan hak kesehatan dasar dan kesejahteraan, sebagaimana dimaksud dalam Pasal 14 huruf c, dalam bentuk: a. tidak untuk digugurkan kecuali membahayakan keselamatan ibu;  
+b. gizi yang baik sejak dalam kandungan;  
 c. air susu ibu sampai usia dua Tahun;  
 d. imunisasi dasar lengkap;  
 e. pemeriksaan kesehatan balita secara berkala;  
@@ -284,7 +296,8 @@ h. akses jaminan sosial; dani. perlindungan dan rehabilitasi dari NAPZA, HIV dan
 Dalam memenuhi hak kesehatan dasar dan kesejahteraan anak, keluarga: a. memenuhi gizi yang baik sejak dalam kandungan;  
 b. memberikan air susu ibu sampai usia dua Tahun;  
 c. memenuhi imunisasi dasar lengkap;  
-d. melaksanakan pemeriksaan kesehatan balita secara berkala; e. membebaskan anak dari asap rokok;  
+d. melaksanakan pemeriksaan kesehatan balita secara berkala;  
+e. membebaskan anak dari asap rokok;  
 f. memenuhi kebutuhan akan air bersih;  
 g. mengupayakan jaminan sosial; danh. mencegah anak dari NAPZA, HIV dan AIDS.  
 
@@ -292,7 +305,8 @@ g. mengupayakan jaminan sosial; danh. mencegah anak dari NAPZA, HIV dan AIDS.
 
 Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak kesehatan  dasar dan kesejahteraan, dengan:
 a. penyediaan puskesmas ramah anak;  
-b. penyediaan ruang menyusui di Kantor Pemerintah maupun swasta; c. penyelenggaraan dan fasilitasi sarana dan prasana Posyandu disetiap banjar dinas/lingkungan;  
+b. penyediaan ruang menyusui di Kantor Pemerintah maupun swasta;  
+c. penyelenggaraan dan fasilitasi sarana dan prasana Posyandu disetiap banjar dinas/lingkungan;  
 d. penyediaan air bersih;  
 e. penataan ruang terbuka hijau serta lingkungan yang bersih, sehat dan nyaman;  
 f. penyediaan ruang publik tanpa asap rokok; dang. fasilitas yang bertujuan menurunkan angka kematian ibu melahirkan dan angka kematian anak serta meningkatkan usia harapan hidup, standar gizi dan standar kesehatan.  
@@ -305,7 +319,9 @@ Hak Pendidikan, Pemanfaatan Waktu Luang dan Kegiatan Budaya
 
 Setiap Anak berhak mendapatkan hak atas pendidikan, pemanfaatan waktu  luang dan kegiatan budaya, sebagaimana dimaksud dalam Pasal 14 huruf d, dalam bentuk:
 a. berpartisipasi pada pendidikan anak usia dini;  
-b. mendapatkan kesempatan yang seluas-luasnya untuk memperolehpendidikan; c. hak mengembangkan bakat, minat dan kemampuan kreativitas; d. berekreasi; dane. memiliki waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga.  
+b. mendapatkan kesempatan yang seluas-luasnya untuk memperolehpendidikan;  
+c. hak mengembangkan bakat, minat dan kemampuan kreativitas;  
+d. berekreasi; dane. memiliki waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga.  
 
 #### Pasal 25
 
@@ -320,9 +336,11 @@ d. memberikan waktu luang untuk beristirahat dan melakukan berbagai kegiatan sen
 Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak Pendidikan, Pemanfaatan Waktu Luang dan Kegiatan Budaya, dengan:
 a. memberikan kesempatan yang seluas-luasnya kepada anak untuk memperoleh  pendidikan dengan menjamin terselenggaranya program wajib belajar 12 (dua belas) tahun untuk semua anak tanpa dipungut biaya;  
 b. memberikan kesempatan dan aksebilitas bagi anak penyandang disabilitas untuk memperoleh pendidikan;  
-c. menyelenggarakan pendidikan inklusi bagi anak penyandang disabilitas; d. mengoptimalkan pendidikan keterampilan;  
+c. menyelenggarakan pendidikan inklusi bagi anak penyandang disabilitas;  
+d. mengoptimalkan pendidikan keterampilan;  
 e. menyediakan taman kota, taman bermain, gedung kesenian dan gelanggang olah raga sebagai wadah untuk mengasah dan mengembangkan bakat, minat  dan kreativitas anak dibidang seni, budaya dan olah raga;  
-f. mewujudkan sekolah ramah anak disetiap jenjang pendidikan; g. memberikan beasiswa bagi siswa keluarga tidak mampu;  
+f. mewujudkan sekolah ramah anak disetiap jenjang pendidikan;  
+g. memberikan beasiswa bagi siswa keluarga tidak mampu;  
 h. memfasilitasi siswa putus sekolah di Sekolah Terbuka atau Pusat Kegiatan Belajar Masyarakat;  
 i. memberikan penghargaan kepada siswa berprestasi dalam bidang akademik, seni budaya dan olah raga;  
 j. mengeluarkan kebijakan untuk penyelenggara pendidikan agar tidak mengeluarkan siswa dari lembaga pendidikan, dengan melakukan pembinaan, kecuali terlibat tindak pidana;  
@@ -398,7 +416,8 @@ d. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya; dan e. perlind
 
 #### Pasal 33
 
-1. Bentuk pembinaan sebagaimana dimaksud dalam Pasal 32 dapat dilaksanakan dengan kegiatan:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai kebijakan pemberdayaan perempuan dan perlindungan anak; b. menyediakan buku, leaflet, brosur mengenai pemberdayaan perempuan  dan perlindungan anak, dan isu-isu terkait lainnya serta menyebarluaskannya ke masyarakat;  
+1. Bentuk pembinaan sebagaimana dimaksud dalam Pasal 32 dapat dilaksanakan dengan kegiatan:a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai kebijakan pemberdayaan perempuan dan perlindungan anak;  
+b. menyediakan buku, leaflet, brosur mengenai pemberdayaan perempuan  dan perlindungan anak, dan isu-isu terkait lainnya serta menyebarluaskannya ke masyarakat;  
 c. fasilitasi peningkatan kapasitas lembaga pemberdayaan perempuan dan perlindungan anak;  
 d. fasilitasi forum partisipasi perempuan dan organisasi perempuan dan anak;  
 e. fasilitasi layanan rehabilitasi dan reintegrasi perempuan dan anak korban diskriminasi, tindak kekerasan dan bencana;  
@@ -517,16 +536,20 @@ d. kekeluargaan;
 e. kenusantaraan;  
 f. bhineka tunggal ika;  
 g. keadilan;  
-h. kesamaan kedudukan dalam hukum dan pemerintahan; i. ketertiban dan kepastian hokum; dan/atauj. keseimbangan, keserasian, dan keselarasan.  
+h. kesamaan kedudukan dalam hukum dan pemerintahan;  
+i. ketertiban dan kepastian hokum; dan/atauj. keseimbangan, keserasian, dan keselarasan.  
 
 Penyelenggaraan urusan pemerintahan bidang Pemberdayaan  Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya  Perlindungan hak perempuan, pemenuhan hak anak dan Perlindungan  Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia  usaha, media serta masyarakat dalam upaya Pemberdayaan Perempuan dan  Perlindungan Anak. Adapun materi pokok yang terkandung didalam batang  tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak meliputi:
 a. pemenuhan hak perempuan;  
 b. pemberdayaan perempuan;  
-c. perlindungan perempuan; d. perlindungan anak;  
+c. perlindungan perempuan;  
+d. perlindungan anak;  
 e. pemenuhan hak anak;  
-f. pusat pelayanan terpadu; g. rumah aman;  
+f. pusat pelayanan terpadu;  
+g. rumah aman;  
 h. kabupaten layak anak;  
-i. pembinaan dan pengawasan; j. peran serta masyarakat;  
+i. pembinaan dan pengawasan;  
+j. peran serta masyarakat;  
 k. penghargaan; danl. pembiayaan.  
 
 ### B. PENJELASAN PASAL DEMI PASAL

@@ -13,12 +13,14 @@ PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 3 TAHUN 2020
 # BUPATI TIMOR TENGAH UTARA,
 
 Menimbang:  
+ 
 a. bahwa setiap orang memiliki harkat dan  martabat yang sama untuk hidup bermasyarakat, berbangsa dan bernegara serta berhak mendapatkan perlindungan hak asasi manusia dan kebebasan dasar manusia tanpa diskriminasi sebagai upaya mewujudkan kesetaraan dan keadilan gender dalam pembangunan nasional maupun daerah;  
 b. bahwa dalam rangka mewujudkan kesetaraan  dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara perlu adanya peningkatan efektifitas dan optimalisasi penyelenggaraan sub urusan pemberdayaan perempuan sebagai bagian yang tidak terpisahkan dari kegiatan fungsional lembaga pemerintah dan non pemerintah guna meningkatkan kedudukan, peran dan kualitas perempuan dalam pembangunan di Kabupaten Timor Tengah Utara;  
 c. bahwa untuk menjamin adanya kepastian  hukum dan untuk mengisi kekosongan hukum demi mewujudkan kesetaraan dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara, perlu adanya pengaturan dalam Peraturan Daerah tentang penyelenggaraan pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
 1 Pasal 18 ayat (6) Undang - Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang–Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122 Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
@@ -145,8 +147,11 @@ c. menugaskan tim teknis untuk melakukan penyusunan RAD PUG  dalam rangka mewuju
 d. menjabarkan dan menindaklanjuti kebijakan dan program  pelaksanaan agar responsif gender yang tersirat dan tersurat  dalam RPJMD;  
 e. mengkoordinasikan pembentukan Focal Point PUG di setiap PD  atau unit kerja;  
 f. mempromosikan PUG ditiap PD;  
-g. melakukan penguatan kapasitas bagi para Focal Point PUG dalam  menyusun anggaran yang responsif gender oleh tim teknis; h. mengawal penyusunan perencanaan dan anggaran responsif  gender di PD masing-masing;  
-i. memasukan indikator gender dalam pedoman penyusunan APBD; j. memastikan anggaran responsif gender menjadi pertimbangan  dalam pembahasan dan penetapan APBD bersama DPRD; k. mengadakan rapat koordinasi setiap 6 (enam) bulan sekali untuk  memastikan pelaksanaan PUG di Daerah;  
+g. melakukan penguatan kapasitas bagi para Focal Point PUG dalam  menyusun anggaran yang responsif gender oleh tim teknis;  
+h. mengawal penyusunan perencanaan dan anggaran responsif  gender di PD masing-masing;  
+i. memasukan indikator gender dalam pedoman penyusunan APBD;  
+j. memastikan anggaran responsif gender menjadi pertimbangan  dalam pembahasan dan penetapan APBD bersama DPRD;  
+k. mengadakan rapat koordinasi setiap 6 (enam) bulan sekali untuk  memastikan pelaksanaan PUG di Daerah;  
 l. membuat dan menyampaikan laporan pelaksanaan PUG kepada  bupati setiap 6 (enam) bulan; danm. mengadakan rapat koordinasi sebelum penyusunan RKPD.  
 
 ### Paragraf 4
@@ -227,7 +232,8 @@ f. penyusunan Renstra PD; dang. penyusunan Renja PD, yang responsif gender.
 
 1. Metode Gender Analisys Pathway sebagaimana dimaksud dalam Pasal 13 ayat (4) digunakan sebagai cara membuat perencanaan di setiap PD.  
 2. Metode sebagaimana dimaksud pada ayat (1) meliputi: a. tahap I analisa kebijakan yang responsif gender;  
-b. tahap II formulasi kebijakan yang responsif gender; c. tahap III rencana aksi yang responsif gender;  
+b. tahap II formulasi kebijakan yang responsif gender;  
+c. tahap III rencana aksi yang responsif gender;  
 d. tahap IV pelaksanaan kegiatan yang sudah disusun; dan e. tahap V monitoring dan evaluasi dari setiap tahap dan  langkah yang diambil.  
 
 ### Paragraf 6
@@ -259,12 +265,14 @@ Pemantauan dan Evaluasi
 #### Pasal 18
 
 Pemantauan pelaksanaan PUG dilakukan melalui:
-a. pemantauan penyusunan dokumen perencanaan pembangunan responsive gender baik di tingkat PD maupun di tingkat daerah; b. pemantauan RAD PUG; danc. verifikasi Laporan pelaksanaan RAD PUG.  
+a. pemantauan penyusunan dokumen perencanaan pembangunan responsive gender baik di tingkat PD maupun di tingkat daerah;  
+b. pemantauan RAD PUG; danc. verifikasi Laporan pelaksanaan RAD PUG.  
 
 #### Pasal 19
 
 Evaluasi pelaksanaan PUG dilakukan melalui:
-a. evaluasi capaian dan tantangan pelaksanaan RAD PUG; b. penyusunan RAD PUG periode berikutnya;  
+a. evaluasi capaian dan tantangan pelaksanaan RAD PUG;  
+b. penyusunan RAD PUG periode berikutnya;  
 c. evaluasi capaian dan tantangan pelaksanaan PUG tiap 6 (enam) bulan; dand. penyusunan rencana pelaksanaan PUG 6 (enam) bulan  berikutnya.  
 
 ### Paragraf 8
@@ -343,7 +351,8 @@ c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, 
 1. PD yang menyelenggarakan urusan pemerintahan di bidang  koperasi, usaha kecil menengah dan perindustrian perdagangan  bertanggungjawab dalam memfasilitasi Pemberdayaan  Perempuan di bidang ekonomi.  
 2. Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi  dilaksanakan melalui:a. pemberian keterampilan dan pelatihan kerja;  
 
-b.fasilitasi pembentukan kelompok usaha ekonomi produktif; c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
+b.fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
 
 d.fasilitasi dan bantuan permodalan; dan
 e. fasilitasi pengembangan jaringan pemasaran.  
@@ -425,7 +434,10 @@ Pencegahan Kekerasan Terhadap Perempuan
 
 #### Pasal 35
 
-1. Dinas bertanggungjawab untuk melaksanakan upaya  pencegahan terjadinya Kekerasan terhadap Perempuan. (2) Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:a. melakukan penyuluhan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan; b. melakukan sosialisasi terhadap hak-hak perempuan; c. mengupayakan peningkatan pendidikan bagi perempuan; d. memberikan penyuluhan untuk segera melaporkan kepada  aparat setempat apabila terjadi Kekerasan terhadap perempuan;  
+1. Dinas bertanggungjawab untuk melaksanakan upaya  pencegahan terjadinya Kekerasan terhadap Perempuan. (2) Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dalam bentuk:a. melakukan penyuluhan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan;  
+b. melakukan sosialisasi terhadap hak-hak perempuan;  
+c. mengupayakan peningkatan pendidikan bagi perempuan;  
+d. memberikan penyuluhan untuk segera melaporkan kepada  aparat setempat apabila terjadi Kekerasan terhadap perempuan;  
 e. memberdayakan organisasi-organisasi sosial  kemasyarakatan dan organisasi - organisasi perempuan untuk meningkatkan pengetahuan, dan wawasan  perempuan; danf. membentuk jaringan kerja dalam rangka upaya mencegah  kekerasan terhadap perempuan.  
 
 ## Bagian Keempat
@@ -457,7 +469,8 @@ Peningkatan Kualitas Keluarga Dalam Mewujudkan Kesetaraan Gender
 #### Pasal 38
 
 1. Dinas bertanggungjawab memfasilitasi kegiatan peningkatan  kualitas keluarga di Daerah.  
-2. Peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:a. memfasilitasi pembentukan lembaga penyedia layanan; b. secara terkoordinasi dengan PD dan/atau lembaga terkait  yang memiliki tugas pokok dan fungsi untuk melaksanakan kegiatan:
+2. Peningkatan kualitas keluarga sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:a. memfasilitasi pembentukan lembaga penyedia layanan;  
+b. secara terkoordinasi dengan PD dan/atau lembaga terkait  yang memiliki tugas pokok dan fungsi untuk melaksanakan kegiatan:
 1. peningkatan kemampuan berwirausaha bagi perempuan; atau
 2. pengembangan pelatihan kerja bagi perempuan.  
 
@@ -471,7 +484,8 @@ Penguatan Dan Pengembangan Lembaga Penyedia Layanan  Peningkatan Kualitas Keluar
 2. Tahapan pembentukan pusat pembelajaran keluarga meliputi: a. menyiapkan regulasi;  
 b. menyiapkan sumberdaya manusia;  
 c. menyiapkan sarana dan prasarana; dand. pembentukan pusat pembelajaran keluarga.  
-3. Pusat pembelajaran keluarga berfungsi:a. sebagai lembaga layanan dalam pencegahan dan konseling; b. sebagai tempat penghubung rujukan sebagai solusi bagi  permasalahan anak dan keluarga;  
+3. Pusat pembelajaran keluarga berfungsi:a. sebagai lembaga layanan dalam pencegahan dan konseling;  
+b. sebagai tempat penghubung rujukan sebagai solusi bagi  permasalahan anak dan keluarga;  
 c. penguatan kemampuan keluarga dalam mengasuh dan  melindungi anak;  
 d. sebagai tempat pembelajaran keluarga melalui pendidikan bagi  orang tua; dane. sebagai layanan satu pintu keluarga holistik integratif  berbasis hak anak.  
 

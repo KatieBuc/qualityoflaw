@@ -15,12 +15,14 @@
 # BUPATI KOTABARU,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang mengenyampingkan dan merendahkan derajatnya sebagai manusia;  
 b. bahwa perilaku dan budaya negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanan atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum semestinya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap mampu menjalankan kehidupannya dalam pergaulan sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9) sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor 1820);  
@@ -411,7 +413,8 @@ Masyarakat dapat melakukan pengawasan atas penyelenggaraan perlindungan perempua
 2. Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1), berwenang:a. menerima laporan atau pengaduan dari seseorang tentang adanya tindak pidana kekerasan terhadap perempuan dan anak;  
 b. melakukan tindakan pertama pada saat itu di tempat kejadian dan melakukan pemeriksaan;  
 c. menginterogasi seorang tersangka dan memeriksa tanda pengenal diri tersangka;  
-d. melakukan penyitaan benda dan/ atau surat; e. mengambil sidik jari dan memotret seseorang;  
+d. melakukan penyitaan benda dan/ atau surat;  
+e. mengambil sidik jari dan memotret seseorang;  
 f. memanggil orang untuk didengar dan diperiksa sebagai tersangka atau saksi;  
 g. mendatangkan orang ahli yang diperlukan dalamhubungan dengan pemeriksaan perkara;  
 
@@ -448,7 +451,10 @@ Dalam hal proses persidangan terkait kasus kekerasan terhadap anak, keberadaan a
 
 Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai berikut:
 a. proses hukum dilakukan secara manusia dengan memandang anak masih memiliki harapan kemasa depannya;  
-b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak; c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak; d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan pengawasan dan penjagaan; e. proses persidangan dilaksanakan secara khusus dalamruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
+b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
+c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  
+d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan pengawasan dan penjagaan;  
+e. proses persidangan dilaksanakan secara khusus dalamruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
 
 #### Pasal 33
 

@@ -15,6 +15,7 @@
 # BUPATI BANGLI,
 
 Menimbang:  
+ 
 bahwa dengan ditetapkannya Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak dan Undang-Undang Nomor 24 Tahun 2004 tentang Penghapusan kekerasan Dalam Rumah Tangga maka dipandang perlu mencegah dan menanggulangi kekerasan terhadap Perempuan dan Anak melalui perlindungan hukum terhadap Perempuan dan Anak korban kekerasan;  
 
 bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, tersebut diatas perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  

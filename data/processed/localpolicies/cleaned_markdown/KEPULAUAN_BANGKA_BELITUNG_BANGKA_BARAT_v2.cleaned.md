@@ -15,10 +15,12 @@
 # BUPATI BANGKA BARAT,
 
 Menimbang:  
+ 
 a. bahwa anak dan perempuan merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat perlindungan dari kekerasan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  

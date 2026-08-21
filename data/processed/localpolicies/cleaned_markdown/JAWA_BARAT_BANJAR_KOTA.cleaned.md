@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # WALI KOTA BANJAR,
 
 Menimbang:  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan  hidup, tumbuh, dan berkembang secara wajar serta berhak atas  perlindungan dari kekerasan dan diskriminasi sebagaimana  diamanatkan dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kota  Banjar dari tahun ke tahun semakin meningkat sehingga  menjadi tanggung jawab Pemerintah Daerah Kota Banjar untuk  menjamin perlindungan, pemenuhan, dan penghormatan hak  perempuan dan anak;  
 c. bahwa Kota Banjar belum memiliki peraturan daerah yang mengatur tentang penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sehingga diperlukan dasar hukum  yang komprehensif dalam rangka pemenuhan perempuan dan Anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b dan huruf c perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan  Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor  109, Tambahan Lembaran Negara Republik Indonesia Nomor  4235) sebagaimana telah diubah beberapa kali, terakhir dengan  Peraturan Pemerintah Pengganti Undang-Undang Nomor 1  Tahun 2016 tentang Perubahan Kedua atas Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran  Negara Republik Indonesia Tahun 2016 Nomor 99, Tambahan  Lembaran Negara Republik Indonesia Nomor 5882);  
@@ -86,7 +88,9 @@ e. memberi rasa aman dan nyaman;
 f. menghargai perbedaan individu;  
 g. tidak menghakimi;  
 h. menghormati pilihan dan keputusan korban;  
-i. peka terhadap latar belakang dan kondisi korban; j. pemakaian bahasa yang sesuai dan dimengerti oleh korban; k. cepat dan sederhana;  
+i. peka terhadap latar belakang dan kondisi korban;  
+j. pemakaian bahasa yang sesuai dan dimengerti oleh korban;  
+k. cepat dan sederhana;  
 l. empati; danm. kepentingan terbaik bagi korban.  
 
 #### Pasal 4
@@ -335,10 +339,12 @@ e. mengumpulkan, menyusun, dan menyajikan laporan data  korban kekerasan; danf. 
 
 #### Pasal 25
 
-1. Masyarakat dapat berperan serta dalam perlindungan  Perlindungan Perempuan dan Anak Korban Kekerasan. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan melalui:a. penyediaan rumah aman dan/atau rumah singgah; b. pendirian dan pengelolaan panti asuhan anak;  
+1. Masyarakat dapat berperan serta dalam perlindungan  Perlindungan Perempuan dan Anak Korban Kekerasan. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan melalui:a. penyediaan rumah aman dan/atau rumah singgah;  
+b. pendirian dan pengelolaan panti asuhan anak;  
 c. pendirian tempat rehabilitasi anak;  
 d. pengawasan secara aktif terhadap kekerasan terhadap  perempuan dan anak dan melaporkan kepada pihak yang  berwenang;  
-e. melakukan pertolongan pertama kepada korban; f. melaporkan terjadinya kekerasan terhadap perempuan dan  anak serta memberikan perlindungan;  
+e. melakukan pertolongan pertama kepada korban;  
+f. melaporkan terjadinya kekerasan terhadap perempuan dan  anak serta memberikan perlindungan;  
 g. membentuk mitra keluarga di tingkat desa oleh  masyarakat; danh. bentuk peran serta masyarakat lainnya yang berkaitan  dengan penyelenggaraan perlindungan perempuan dan  perlindungan anak.  
 
 #### Pasal 26

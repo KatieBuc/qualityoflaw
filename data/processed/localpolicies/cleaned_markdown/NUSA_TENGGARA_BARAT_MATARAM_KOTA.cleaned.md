@@ -11,11 +11,13 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DARI TINDAK KEKERASAN
 # WALIKOTA MATARAM,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan  anak sebagai manusia;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a  dan huruf b, perlu menetapkan Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 4 Tahun 1993 tentang Pembentukan  Kotamadya Daerah Tingkat II Mataram (Lembaran Negara  Republik Indonesia Tahun 1993 Nomor 66, Tambahan Lembaran  Negara Republik Indonesia Nomor 3531);  
@@ -107,7 +109,8 @@ Setiap korban berhak mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dan g. jaminan atas hak-hak yang berkaitan dengan status sebagai  anggota keluarga maupun anggota masyarakat.  
 
 #### Pasal 5

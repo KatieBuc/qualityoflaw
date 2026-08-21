@@ -13,11 +13,13 @@
 # BUPATI PASURUAN,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat penghormatan dan perlindungan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga pemberdayaan perempuan dan pelindungan anak harus dilakukan secara terpadu dan berkesinambungan melalui akselerasi pemenuhan dan perlindungan hak-hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pemerintahan Daerah Kabupaten di Djawa Timur (Berita Negara Tahun 1950 Nomor 32) sebagaimana telah diubah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -107,19 +109,22 @@ h. akuntabilitas; dani. rensponsif gender.
 
 #### Pasal 3
 
-Pemberdayaan Perempuan dan Perlindungan Anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga; b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender  dan anak; dan
+Pemberdayaan Perempuan dan Perlindungan Anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
+b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender  dan anak; dan
 c. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  a dilakukan melalui:
 a. memberikan akses kepada perempuan dan anak terhadap layanan pendidikan, kesehatan dan bidang strategis lainnya;  
-b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan; c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
+b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
+c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:
-a. pembentukan, pengembangan dan penguatan kapasitas lembaga perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak serta layanan bantuan hukum; b. peningkatan kualitas sumber daya manusia pengelola;  
+a. pembentukan, pengembangan dan penguatan kapasitas lembaga perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak serta layanan bantuan hukum;  
+b. peningkatan kualitas sumber daya manusia pengelola;  
 c. penguataan kapasitas kelembagaan PUG dan Anak di daerah; dan d. penguatan dan pengembangan sistem data gender dan anak.  
 
 #### Pasal 6
@@ -136,7 +141,8 @@ b. menyediakan materi-materi Komunikasi, Informasi dan Edukasi (KIE) terkait pen
 
 Upaya preventif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:
 a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  bagi perempuan dan anak;  
-b. mengembangkan gerakan masif dan berkelanjutan yang melibatkan masyarakat dalam aksi pencegahan dan penangangan kekerasan; c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  dand. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
+b. mengembangkan gerakan masif dan berkelanjutan yang melibatkan masyarakat dalam aksi pencegahan dan penangangan kekerasan;  
+c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  dand. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 9
 
@@ -176,8 +182,11 @@ Setiap anak berhak untuk:
 a. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat  dan martabat kemanusiaan, serta mendapat perlindungan dari tindak  kekerasan, eksploitasi, diskriminasi dan penelantaran;  
 b. mendapatkan identitasnya;  
 c. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan;  
-d. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan  tingkat kecerdasan dan usianya dalam bimbingan Orang Tua atau Wali; e. memperoleh pendidikan dan pengajaran dalam rangka pengembangan  pribadinya dan tingkat kecerdasannya sesuai dengan minat dan bakat; f. mendapatkan perlindungan di satuan pendidikan dari kejahatan seksual  dan kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama  peserta didik, dan/atau pihak lain;  
-g. penyandang disabilitas berhak memperoleh pendidikan luar biasa dan anak  yang memiliki keunggulan berhak mendapatkan pendidikan khusus; h. penyandang disabilitas berhak memperoleh rehabilitasi, bantuan sosial, dan  pemeliharaan taraf kesejahteraan sosial; dani. diasuh oleh orang tuanya sendiri, kecuali jika ada alasan dan/atau aturan  hukum yang sah menunjukkan bahwa pemisahan itu adalah demi  kepentingan terbaik bagi anak dan merupakan pertimbangan terakhir.  
+d. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan  tingkat kecerdasan dan usianya dalam bimbingan Orang Tua atau Wali;  
+e. memperoleh pendidikan dan pengajaran dalam rangka pengembangan  pribadinya dan tingkat kecerdasannya sesuai dengan minat dan bakat;  
+f. mendapatkan perlindungan di satuan pendidikan dari kejahatan seksual  dan kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama  peserta didik, dan/atau pihak lain;  
+g. penyandang disabilitas berhak memperoleh pendidikan luar biasa dan anak  yang memiliki keunggulan berhak mendapatkan pendidikan khusus;  
+h. penyandang disabilitas berhak memperoleh rehabilitasi, bantuan sosial, dan  pemeliharaan taraf kesejahteraan sosial; dani. diasuh oleh orang tuanya sendiri, kecuali jika ada alasan dan/atau aturan  hukum yang sah menunjukkan bahwa pemisahan itu adalah demi  kepentingan terbaik bagi anak dan merupakan pertimbangan terakhir.  
 
 # BAB IV
 
@@ -312,7 +321,8 @@ b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.
 #### Pasal 27
 
 1. Masyarakat dan Dunia Usaha dapat berperan serta dalam pemenuhan hak anak termasuk:a. upaya pencegahan;  
-b. pengurangan risiko dan penanganan anak korban kekerasan; c. eksploitasi; dand. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
+b. pengurangan risiko dan penanganan anak korban kekerasan;  
+c. eksploitasi; dand. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
 2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1), diwujudkan dengan dukungan pemenuhan hak anak termasuk: a. memberikan informasi dan atau melaporkan setiap situasi kerentanan  dan kekerasan yang diketahuinya;  
 b. memfasilitasi atau melakukan kegiatan pencegahan dan pengurangan  risiko;  
 c. memberikan layanan perlindungan bagi anak yang menjadi korban;  

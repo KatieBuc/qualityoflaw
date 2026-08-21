@@ -13,12 +13,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 # BUPATI PURWAKARTA,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk Kekerasan;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Republik Indonesia  Tahun 1945;  
 
 2. Undang-Undang Nomor 14 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten dalam Lingkungan  Propinsi Djawa Barat (Berita Negara Tahun 1950), sebagaimana telah diubah dengan Undang-Undang Nomor 4  Tahun 1968 tentang Pembentukan Kabupaten Purwakarta  dan Kabupaten Subang dengan Mengubah Undang-Undang  Nomor 14 Tahun 1950 tentang Pembentukan Daerah-daerah  Kabupaten dalam Lingkungan Propinsi Djawa Barat  (Lembaran Negara Republik Indonesia Tahun 1968 Nomor  31, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -201,7 +203,8 @@ Setiap perempuan dan anak korban kekerasan berhak  mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan prima;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status sebagai  anggota keluarga maupun anggota masyarakat dan hak  restitusi.  
 
 #### Pasal 17
@@ -300,7 +303,8 @@ i. anak korban kekerasan fisik dan/atau psikis;
 j. anak korban kejahatan seksual;  
 k. anak korban jaringan terorisme;  
 l. anak penyandang disabilitas;  
-m. anak korban perlakuan salah dan penelantaran; n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan  terkait dengan kondisi orang tuanya.  
+m. anak korban perlakuan salah dan penelantaran;  
+n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan  terkait dengan kondisi orang tuanya.  
 3. Ketentuan mengenai tata cara perlindungan khusus anak  sebagaimana dimaksud pada ayat (2) diatur lebih lanjut  dengan Peraturan Bupati.  
 
 ## Bagian Keempat
@@ -364,7 +368,8 @@ e. perindustrian;
 f. ketenagakerjaan;  
 g. perdagangan;  
 h. kependudukan dan pencatatan sipil;  
-i. pemberdayaan perempuan dan perlindungan anak; j. ketentraman dan ketertiban umum;  
+i. pemberdayaan perempuan dan perlindungan anak;  
+j. ketentraman dan ketertiban umum;  
 k. rumah sakit umum daerah;  
 l. kesehatan;  
 3. UPTD PPA sebagaimana dimaksud pada ayat (1) ditetapkan  dengan Peraturan Bupati.  

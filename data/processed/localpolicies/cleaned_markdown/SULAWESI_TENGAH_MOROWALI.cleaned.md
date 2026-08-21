@@ -13,8 +13,10 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 # BUPATI MOROWALI,
 
 Menimbang:  
+ 
 a. b.  
 c. d. Mengingat:  
+ 
 1. 2.  
 
 bahwa anak dan perempuan merupakan ciptaan Tuhan Yang Maha Esa yang menjadi unsur penting dari masyarakat, dan kelak anak akan menjadi pela}u dalam semua bidang kehidupan bermasyarakat dan bernegara;  
@@ -99,12 +101,14 @@ b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan pe
 Kekerasan psikis sebagaimana dimaksud mengakibatkan:
 a. Ketakutan;  
 b. hilangrrya rasa percaya diri;  
-c. hilangnya kemampuan untuk bertindak; d. rasa tidak berdaya; dan/ ataue. penderitaan psikis berat pada seseorang.  
+c. hilangnya kemampuan untuk bertindak;  
+d. rasa tidak berdaya; dan/ ataue. penderitaan psikis berat pada seseorang.  
 
 #### Pasal 6
 
 dalam Pasal a huruf b Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c meliputi: a. perbuatan pelecehan seksual;  
-b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau tujuan tertentu; dand. kekerasan seksual melalui media sosial.  
+b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  
+c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau tujuan tertentu; dand. kekerasan seksual melalui media sosial.  
 
 #### Pasal 7
 
@@ -120,7 +124,8 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal men
 #### Pasal 8
 
 Perempuan dan Anak korban tindak Kekerasan mendapatkan hak sebagai berikut:
-a. hak untuk dihormati harkat dan martabatnya sebagai manusia; b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dia.lami korban;  
+a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dia.lami korban;  
 c. hak menentukan sendiri keputusalnya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan identitasnya;  
@@ -145,7 +150,8 @@ i. hak untuk mendapatkan kemudahan da-lam proses peradilan; dan/ atau j. hak ata
 #### Pasal 1 I
 
 Anak sebagai korban tindak selain mendapatkan hak-hak Kekerasan sebagaimala dimaksud dalam Pasal 8, juga mendapatkan hak khusus, sebagai berikut:
-a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang; b. hak pelayanan dasar;  
+a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
+b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dan/ataue. hak mendapatkal kebebasan.  
 
@@ -173,7 +179,8 @@ Masyarakat dan Keluarga
 
 #### Pasal 14
 
-1. Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai berikut:a. mencegah terjadinya Kekerasan terhadap Perempuan dan Anak; b. memberikan informasi dan/ atau melaporkan tindak Kekerasan terhadap Perempuan dan Anak kepada penegak hukum atau pihak yang berwenang;  
+1. Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai berikut:a. mencegah terjadinya Kekerasan terhadap Perempuan dan Anak;  
+b. memberikan informasi dan/ atau melaporkan tindak Kekerasan terhadap Perempuan dan Anak kepada penegak hukum atau pihak yang berwenang;  
 c. turut serta dalam pendampingan penang€rnurn korban tindak Kekerasan;  
 d. melindungi korban; dane. memberikan pertolongan darurat.  
 2. Bentuk peran serta masyarakat dan keluarga dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan pe r.rndalg-undangan.  
@@ -295,7 +302,8 @@ g. tidak dikenakan biaya; danh. dijamin kerahasiannya.
 1. Masyarakat berperan serta dalam oenyelenggaraan perlindungan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (l) berupa: a. membentuk mitra keluarga di tingkat RT/RW atau Kelurahan/Desa oleh masyarakat;  
 b. mcmbentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
-c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri; d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada Perangkat Daerah /lembaga terkdt yang berwenang apabila di lingkungannya te4adi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dirnaksud pada ayat (1) dilakukan oleh perorangan. lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga pembinaan menta-l dan spiritual, swasta, dan media massa.  
+c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada Perangkat Daerah /lembaga terkdt yang berwenang apabila di lingkungannya te4adi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dirnaksud pada ayat (1) dilakukan oleh perorangan. lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga pembinaan menta-l dan spiritual, swasta, dan media massa.  
 
 # BAB VII
 

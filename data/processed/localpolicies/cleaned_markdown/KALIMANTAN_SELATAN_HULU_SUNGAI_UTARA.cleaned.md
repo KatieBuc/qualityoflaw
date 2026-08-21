@@ -15,12 +15,14 @@ PERATURAN DAERAH KABUPATEN HULU SUNGAI UTARA NOMOR 3 TAHUN 2016
 # BUPATI HULU SUNGAI UTARA,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka perlindungan hak-hak perempuan dananak sebagaimana amanat UUD Negara Republik Indonesia Tahun 1945, peningkatan kualitas hidup perempuan dan anak serta menanggulangi segala bentuk tindak kekerasan terhadap perempuan dan anak, perlu adanya kepedulian dari semua pihak baik masyarakat maupun lembaga lembaga pemerintah yang terkait dan aparat penegak hukum;  
 b. bahwa adanya kecenderungan peningkatan korban dan kasus-kasus kekerasan terhadap perempuan dan anak, yang belum tertangani secara maksimal sehingga diperlukan suatu pelayanan terpadu oleh instansi terkait dan lembaga/organisasi kemasyarakatan untuk memberikan perlindungan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam upaya memfasilitasi perempuan dan anak meningkatkan kemampuan keterampilan dan kemandirian serta mendapatkan pelayanan konsultasi dan pemecahan masalah yang dialami perempuan dan anak perlu wadah pusat pelayanan terpadu pemberdayaan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 27 Tahun 1959 tentang PenetapanUndang-Undang Nomor 3 Drt. Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9, Tambahan Lembaran Negara Republik Indonesia Nomor 2756),sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan LembaranNegara Republik Indonesia Nomor 1820);  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak ( Lembaran Negara Republik IndonesiaTahun 1979 Nomor 32, Tambahan Lembaran NegaraRepublik Indonesia Nomor 3143 );  
@@ -129,8 +131,10 @@ d. kepentingan terbaik bagi perempuan dan anak.
 
 #### Pasal 3
 
-1. Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk: a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; b. menghapus segala bentuk kekerasan dan eksploitasi terhadapperempuan dan anak;  
-c. melindungi dan memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak, pelapor, dansaksi;  
+1. Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk: a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+b. menghapus segala bentuk kekerasan dan eksploitasi terhadapperempuan dan anak;  
+c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak, pelapor, dansaksi;  
 
 Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak
 e. memberdayakan perempuan untuk pemenuhan hak-hak perempuandan anak; danf. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tanggauntuk mewujudkan keutuhan rumah tangga yang harmonis dansejahtera.  
@@ -149,7 +153,8 @@ Setiap korban berhak untuk mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dan g. jaminan atas hak-hak yang berkaitan dengan status sebagai anggotakeluarga maupun anggota masyarakat.  
 
 #### Pasal 5

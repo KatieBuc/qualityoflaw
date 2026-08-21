@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI TABANAN,
 
 Menimbang:  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak  merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan kodratnya tanpa diskriminasi;  
 b. bahwa untuk mencegah dan menanggulangi kekerasan  terhadap perempuan dan anak perlu dilakukan perlindungan hukum terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam rangka penyelenggaraan perlindungan  perempuan dan anak korban kekerasan di Kabupaten Tabanan belum memiliki dasar pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 69 Tahun 1958 tentang  Pembentukan Daerah-Daerah Tingkat II dalam Wilayah Daerah-Daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
@@ -108,7 +110,8 @@ b. perlindungan dari pihak kepolisian;
 c. perlindungan dari pihak kejaksaan;  
 d. perlindungan dari pengadilan;  
 e. perlindungan dari advokat,f. perlindungan dari lembaga sosial, atau pihak lainnya baik  sementara maupun berdasarkan penetapan perintah  perlindungan dari pengadilan;  
-g. pelayanan kesehatan sesuai dengan kebutuhan medis; h. penanganan secara khusus berkaitan dengan kerahasiaan  korban;  
+g. pelayanan kesehatan sesuai dengan kebutuhan medis;  
+h. penanganan secara khusus berkaitan dengan kerahasiaan  korban;  
 i. pendampingan oleh pekerja sosial dan bantuan hukum  pada setiap tingkat proses pemeriksaan sesuai dengan  ketentuan peraturan perundang-undangan;  
 j. pelayanan bimbingan rohani; dank. korban memiliki hak menentukan sendiri keputusannya terkait pilihan mana yang akan dilaksanakan.  
 
@@ -120,7 +123,8 @@ j. pelayanan bimbingan rohani; dank. korban memiliki hak menentukan sendiri kepu
 
 1. Pemerintah Daerah berwenang dan bertanggungjawab atas  perlindungan perempuan dan anak korban kekerasan.  
 2. Kewenangan sebagaimana dimaksud pada ayat (1) meliputi: a. kegiatan pelayanan terhadap perempuan dan anak korban  kekerasan;  
-b. pemantauan, penguatan terhadap korban kekerasan; c. peningkatan kemampuan aparatur dan para pemangku  kepentingan lain.  
+b. pemantauan, penguatan terhadap korban kekerasan;  
+c. peningkatan kemampuan aparatur dan para pemangku  kepentingan lain.  
 
 # BAB V
 
@@ -143,7 +147,8 @@ c. menjaga kerahasiaan korban; dand. menjamin keadilan dan kepastian hukum bagi 
 #### Pasal 8
 
 Penyelenggaraan PPT memerlukan:
-a. sarana dan prasarana pendukung yang memadai; b. petugas pelaksana; danc. petugas fungsional.  
+a. sarana dan prasarana pendukung yang memadai;  
+b. petugas pelaksana; danc. petugas fungsional.  
 
 #### Pasal 9
 

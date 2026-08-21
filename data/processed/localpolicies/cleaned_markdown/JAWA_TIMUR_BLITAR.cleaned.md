@@ -163,11 +163,14 @@ Bentuk dan Mekanisme Pelayanan Pencegahan dan Penjagaan
 
 #### Pasal 8
 
-1. Perumusan kebijakan, perencanaan program dan anggaran untuk  pelayanan pencegahan dan penjagaan dilaksanakan dengan mekanisme: a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan; b. koordinasi dan sinkronisasi perencanaan program dengan SKPD  terkait;  
+1. Perumusan kebijakan, perencanaan program dan anggaran untuk  pelayanan pencegahan dan penjagaan dilaksanakan dengan mekanisme: a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan;  
+b. koordinasi dan sinkronisasi perencanaan program dengan SKPD  terkait;  
 c. penyusunan program dan kegiatan yang didukung penganggaran;  dand. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Pelaksanaan Penyelenggaraan pencegahan dan penjagaan perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan  dilaksanakan dengan mekanisme:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  pengganggaran SKPD;  
 b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan  dengan SKPD terkait; danc. monitoring, evaluasi dan pelaporan atas kebijakan, program dan  kegiatan penyelenggaraan perlindungan perempuan dan anak. (3) Mekanisme penyusunan kebijakan, program dan kegiatan dan layanan  diatur lebih lanjut dalam standar pelayanan minimum dan standar  operasional prosedur pada Peraturan Bupati.  
 4. Perumusan kebijakan, program dan kegiatan penyelenggaraan penjagaan  perempuan dan anak rentan menjadi korban kekerasan dikoordinasikan  oleh SKPD yang membidangi Perencanaan Pembangunan Daerah.  
-5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara: a. membentuk jaringan kerja dalam upaya pencegahan kekerasan; b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan antar pemangku kepentingan; c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dand. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.  
+5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara: a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan antar pemangku kepentingan;  
+c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dand. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.  
 
 ## Bagian Kelima
 
@@ -179,7 +182,8 @@ Bentuk dan Mekanisme Pelayanan Penanganan Korban kekerasan
 b. pelayanan medicolegal merupakan bentuk layanan medis, terutama  Visum et Repertum dan Visum et Repertum Psichiatricum, untuk  kepentingan pembuktian di proses peradilan, mulai tingkat Kepolisian,  Kejaksaan dan Pengadilan;  
 c. pelayanan bantuan hukum untuk membantu korban kekerasan dalam  menjalani proses peradilan;  
 d. layanan spiritual untuk penguatan moral sesuai agama dan keyakinan  yang dianut;  
-e. pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban; f. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga berkompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan P2TP2T atau nama lain;  
+e. pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban;  
+f. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga berkompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan P2TP2T atau nama lain;  
 g. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri  secara ekonomi; danh. pelayanan untuk kembali dan atau tetap dilembaga pendidikan bagi  anak korban kekerasan.  
 2. Penyelenggaraan pelayanan penanganan perempuan dan anak korban  kekerasan dilaksanakan dengan: cepat, aman dan nyaman, rasa empati,  non diskriminasi, mudah dijangkau, tidak dikenakan biaya dan dijamin  kerahasiaannya.  
 3. Mekanisme dan tata cara penyelenggaraan pelayanan penanganan secara  teknis bagi perempuan dan anak korban kekerasan sebagaimana  dimaksud pada ayat (1) dan (2) diselenggarakan menurut Standar  Operasional Prosedur (SOP) dan diatur lebih lanjut dengan Peraturan  Bupati.  
@@ -204,7 +208,8 @@ Pemerintah Daerah
 
 Pemerintah Daerah berkewajiban dan bertanggung jawab:  a. membangun sistem penyelenggaraan perlindungan perempuan dan anak,  terutama korban kekerasan, dan keluarganya;  
 b. menyediakan sarana prasarana antara lain rumah aman/shelter, Sumber  Daya Manusia yang meliputi lawyer, dokter dan psycolog-psyciater,  relawan pendamping, tokoh spiritual, ekonom, dan tenaga sosial;  
-c. meningkatkan kapasitas kelembagaan penyelenggara perlindungan,  korban kekerasan terutama bagi perempuan, anak dan keluarganya; d. membangun pusat data dan informasi tentang perlindungan, korban  kekerasan terutama bagi perempuan, anak dan keluarganya;  
+c. meningkatkan kapasitas kelembagaan penyelenggara perlindungan,  korban kekerasan terutama bagi perempuan, anak dan keluarganya;  
+d. membangun pusat data dan informasi tentang perlindungan, korban  kekerasan terutama bagi perempuan, anak dan keluarganya;  
 e. melakukan monitoring dan evaluasi penyelenggaraan perlindungan,  korban kekerasan terutama bagi perempuan, anak dan keluarganya.  
 
 #### Pasal 12
@@ -213,7 +218,8 @@ Dalam melaksanakan kewajiban dan tanggungjawabnya Pemerintah Daerah  berwewenang
 a. membuat kebijakan dan program;  
 b. merumuskan pedoman pelaksanaan;  
 c. menyelenggarakan layanan;  
-d. mengkoordinasikan kebijakan, program, anggaran dan layanan; e. melakukan monitoring, supervisi dan evaluasi terhadap penyelenggaraan  perlindungan pencegahan korban kekerasan terutama bagi perempuan,  anak dan keluarganya.  
+d. mengkoordinasikan kebijakan, program, anggaran dan layanan;  
+e. melakukan monitoring, supervisi dan evaluasi terhadap penyelenggaraan  perlindungan pencegahan korban kekerasan terutama bagi perempuan,  anak dan keluarganya.  
 
 #### Pasal 13
 
@@ -264,7 +270,8 @@ Dunia Usaha dapat berperan dalam melaksanakan kewajiban dan  tanggungjawab terha
 
 1. Pejabat pegawai negeri sipil tertentu di lingkungan Pemerintah Kabupaten  diberi wewenang untuk melaksanakan penyidikan terhadap pelanggaran  ketentuan-ketentuan dalam Peraturan Daerah ini.  
 2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah: a. menerima laporan atau pengaduan dari seseorang atau keluarga dan  orang lain, mengenai adanya tindakan atas pelanggaran Peraturan  Daerah;  
-b. melakukan tindakan pertama dan pemeriksaan di tempat kejadian; c. mendatangkan ahli yang diperlukan dalam hubungannya dengan  pemeriksaan perkara;  
+b. melakukan tindakan pertama dan pemeriksaan di tempat kejadian;  
+c. mendatangkan ahli yang diperlukan dalam hubungannya dengan  pemeriksaan perkara;  
 d. memanggil orang untuk didengar keterangannya dan diperiksa sebagai  saksi atau tersangka;  
 e. melakukan tindakan menurut hukum yang dapat dipertanggung  jawabkan.  
 

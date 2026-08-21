@@ -15,12 +15,14 @@
 # BUPATI KLATEN,
 
 Menimbang:  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan hak  asasi perempuan terhadap pemberdayaan dan perlindungan  perempuan merupakan salah satu nilai yang tertuang dalam  Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa upaya pemberdayaan dan perlindungan perempuan  di Kabupaten Klaten perlu arah pengaturan dan kepastian  hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 13 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Jawa Tengah;  
@@ -69,7 +71,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan dan Perlindungan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan; b. meningkatkan kualitas hidup perempuan;  
+Pemberdayaan dan Perlindungan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
+b. meningkatkan kualitas hidup perempuan;  
 c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai  manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada  perempuan dari berbagai tindak kekerasan.  
 
 # BAB II
@@ -136,7 +139,8 @@ Bidang Ekonomi
 2. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1)  bertujuan untuk meningkatkan kemandirian dan taraf hidup ekonomi  perempuan.  
 3. Kemandirian ekonomi perempuan sebagaimana dimaksud pada ayat (1)  dapat dilaksanakan melalui:a. Pemberian keterampilan dan pelatihan kerja;  
 b. Kemudahan dalam memperoleh pekerjaan;  
-c. Fasilitasi pembentukan kelompok usaha ekonomi produktif; d. kemudahan permodalan usaha;  
+c. Fasilitasi pembentukan kelompok usaha ekonomi produktif;  
+d. kemudahan permodalan usaha;  
 e. fasilitasi pengembangan jaringan pemasaran; danf. Kemudahan akses informasi dan teknologi.  
 4. Ketentuan lebih lanjut mengenai pelaksanaan kemandirian ekonomi  perempuan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 
@@ -170,7 +174,8 @@ Bidang Politik dan Pemerintahan
 Pemerintah Daerah bertanggung jawab dalam melakukan pencegahan tindak  kekerasan terhadap perempuan dengan cara:
 a. Menyosialisasikan peraturan perundang-udangan;  
 b. Memberikan konseling/bimbingan;  
-c. Memberikan edukasi bahaya kekerasan dalam rumah tangga; d. Melakukan seminar/lokakarya atau sejenisnya;  
+c. Memberikan edukasi bahaya kekerasan dalam rumah tangga;  
+d. Melakukan seminar/lokakarya atau sejenisnya;  
 e. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan; dan f. Meningkatkan kesadaran masyarakat dalam berperilaku yang sesuai dengan  norma agama dan norma sosial.  
 
 #### Pasal 11
@@ -181,7 +186,8 @@ e. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan; dan f. Me
 #### Pasal 12
 
 Pelaksanaan perlindungan perempuan sebagaimana dimaksud dalam Pasal 11  ayat (1), dapat dilakukan dengan upaya:
-a. menyediakan dan memfasilitasi pelayanan bagi perempuan korban kekerasan; b. Penguatan dan pengembangan lembaga pelayanan bagi perempuan korban  kekerasan;  
+a. menyediakan dan memfasilitasi pelayanan bagi perempuan korban kekerasan;  
+b. Penguatan dan pengembangan lembaga pelayanan bagi perempuan korban  kekerasan;  
 c. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  perlindungan perempuan antar Perangkat Daerah;  
 d. menyusun sistem pendataan perlindungan perempuan; dan e. melakukan kerjasama daerah sesuai dengan ketentuan peraturan perundang undangan.  
 

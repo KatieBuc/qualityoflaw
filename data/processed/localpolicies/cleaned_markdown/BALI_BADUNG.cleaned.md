@@ -13,12 +13,14 @@
 # BUPATI BADUNG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman dan  bebas dari segala bentuk Kekerasan;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang  cenderung mengalami Kekerasan yang merupakan tindakan yang melanggar hak asasi manusia perlu mendapat Perlindungan hukum;  
 c. bahwa penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan di Kabupaten Badung perlu didukung kelembagaan dan peraturan sehingga dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan  Daerah-daerah Tingkat II dalam Wilayah Daerah-daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
@@ -84,7 +86,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan  berdasarkan asas:
-a. penghormatan dan pemenuhan terhadap hak-hak Korban; b. keadilan dan kesetaraan gender;  
+a. penghormatan dan pemenuhan terhadap hak-hak Korban;  
+b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Korban; dane. kepastian hukum.  
 
@@ -231,7 +234,8 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak 
 #### Pasal 16
 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
-b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri; c. melakukan pertolongan pertama kepada Korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
+b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
+c. melakukan pertolongan pertama kepada Korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan oleh perorangan, lembaga sosial kemasyarakatan,  lembaga swadaya masyarakat, lembaga pendidikan, lembaga  keagamaan, swasta, dan media massa.  
 
 # BAB XII

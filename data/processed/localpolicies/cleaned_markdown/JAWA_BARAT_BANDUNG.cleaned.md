@@ -15,12 +15,14 @@
 # BUPATI BANDUNG,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan,  peran dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa dalam rangka melindungi masyarakat,  mewujudkan pemerataan, dan keadilan sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan perlindungan perempuan;  
 d. berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang–Undang Nomor 14 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten Dalam Lingkungan Propinsi Jawa Barat (Berita Negara Tahun 1950) sebagaimana telah diubah dengan Undang-Undang Nomor 4 Tahun 1968 tentang Pembentukan Kabupaten Purwakarta dan Kabupaten Subang dengan mengubah Undang–Undang Nomor  14 Tahun 1950 tentang Pembentukan Daerah-daerah  Kabupaten Dalam Lingkungan Propinsi Jawa Barat  (Lembaran Negara Republik Indonesia Tahun 1968  Nomor 31, Tambahan Lembaran Negara Republik  Indonesia Nomor 2851);  
@@ -79,7 +81,8 @@ Umum
 
 Setiap Perempuan berhak:
 a. untuk hidup;  
-b. berkeluarga dan melanjutkan keturunan; c. mengembangkan diri;  
+b. berkeluarga dan melanjutkan keturunan;  
+c. mengembangkan diri;  
 d. memperoleh keadilan;  
 e. atas kebebasan pribadi;  
 f. atas rasa aman;  
@@ -170,7 +173,9 @@ h. memfasilitasi layanan kesehatan yang  menyeluruh termasuk didalamnya layanan 
 #### Pasal 8
 
 1. Bupati mengintegrasikan kebijakan, program, dan  kegiatan Perlindungan Perempuan ke dalam  perencanaan pembangunan Daerah.  
-2. Pengintegrasian program dan kegiatan sebagaimana  dimaksud pada ayat (1) dituangkan kedalam dokumen  perencanaan dan anggaran yang meliputi:a. rencana pembangunan jangka panjang daerah; b. rencana pembangunan jangka menengah daerah; c. rencana strategis Perangkat Daerah;  
+2. Pengintegrasian program dan kegiatan sebagaimana  dimaksud pada ayat (1) dituangkan kedalam dokumen  perencanaan dan anggaran yang meliputi:a. rencana pembangunan jangka panjang daerah;  
+b. rencana pembangunan jangka menengah daerah;  
+c. rencana strategis Perangkat Daerah;  
 d. rencana kerja Pemerintahan Daerah; dan  e. rencana kerja dan anggaran Perangkat Daerah. (3) Perangkat Daerah yang menangani bidang Perempuan  memfasilitasi pengintegrasian kebijakan, program, dan  kegiatan Perlindungan Perempuan kedalam  penyusunan dokumen perencanaan dan anggaran  sebagaimana dimaksud pada ayat (2).  
 4. Dalam melaksanakan kegiatan sebagaimana dimaksud  pada ayat (3) Perangkat Daerah yang menangani  bidang Perempuan berkoordinasi dengan Perangkat  Daerah yang memiliki keterkaitan langsung dengan  bidang Perempuan.  
 
@@ -188,8 +193,12 @@ g. fasilitasi; danh. penyediaan pelayanan.
 
 #### Pasal 10
 
-1. Bupati dalam melaksanakan kebijakan, program, dan  kegiatan perlindungan perempuan sebagaimana  dimaksud dalam Pasal 9 melakukan upaya:a. koordinasi pelaksanaan antar Perangkat Daerah; b. kerjasama dengan pemerintah pusat, pemerintah  provinsi, dan pemerintah kabupaten/kota lainnya  sesuai dengan ketentuan peraturan perundang undangan;  
-c. penguatan kapasitas kelembagaan Gender; d. fasilitasi pelayanan Perlindungan Perempuan; e. penyediaan pelayanan Perlindungan Perempuan; f. pelaksanaan aksi afirmasi Perlindungan  Perempuan; dang. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan  Kekerasan Terhadap Perempuan.  
+1. Bupati dalam melaksanakan kebijakan, program, dan  kegiatan perlindungan perempuan sebagaimana  dimaksud dalam Pasal 9 melakukan upaya:a. koordinasi pelaksanaan antar Perangkat Daerah;  
+b. kerjasama dengan pemerintah pusat, pemerintah  provinsi, dan pemerintah kabupaten/kota lainnya  sesuai dengan ketentuan peraturan perundang undangan;  
+c. penguatan kapasitas kelembagaan Gender;  
+d. fasilitasi pelayanan Perlindungan Perempuan;  
+e. penyediaan pelayanan Perlindungan Perempuan;  
+f. pelaksanaan aksi afirmasi Perlindungan  Perempuan; dang. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan  Kekerasan Terhadap Perempuan.  
 2. Pelaksanaan kebijakan, program, dan kegiatan  sebagaimana dimaksud pada ayat (1) dikoordinasikan  oleh Wakil Bupati.  
 
 ## Bagian Ketiga
@@ -222,9 +231,11 @@ Pencegahan Kekerasan Perempuan
 
 Untuk mencegah terjadinya tindak Kekerasan Terhadap  Perempuan, Pemerintah Daerah:
 a. melakukan penyusunan dan sosialisasi mengenai hal  yang berkenaan dengan Kekerasan Terhadap  Perempuan;  
-b. melakukan sosialisasi tehadap hak Perempuan; c. mengupayakan peningkatan pendidikan bagi  Perempuan;  
+b. melakukan sosialisasi tehadap hak Perempuan;  
+c. mengupayakan peningkatan pendidikan bagi  Perempuan;  
 d. membuka kursus keterampilan bagi Perempuan guna  menunjang kebutuhan ekonomi Keluarga;  
-e. menciptakan lapangan kerja bagi Perempuan; f. memberikan penyuluhan yang berkaitan dengan  Kekerasan Terhadap Perempuan;  
+e. menciptakan lapangan kerja bagi Perempuan;  
+f. memberikan penyuluhan yang berkaitan dengan  Kekerasan Terhadap Perempuan;  
 g. memberdayakan organisasi sosial kemasyarakatan  dan organisasi Perempuan tingkat Daerah, kecamatan, kelurahan, dan/atau desa untuk meningkatkan  pengetahuan dan wawasan Perempuan;  
 h. membangun pos pengaduan Perlindungan Perempuan;  dani. membentuk jaringan kerja dalam upaya pencegahan  Kekerasan Terhadap Perempuan.  
 
@@ -235,7 +246,8 @@ Pelayanan Perlindungan
 #### Pasal 14
 
 1. Pelayanan Perlindungan kepada Perempuan dilakukan  dalam bentuk:a. Perlindungan atas keamanan pribadi Korban dari  ancaman fisik dan mental;  
-b. pelayanan kesehatan sesuai kebutuhan korban; c. pelayanan layanan medis untuk kepentingan  pembuktian di bidang hukum;  
+b. pelayanan kesehatan sesuai kebutuhan korban;  
+c. pelayanan layanan medis untuk kepentingan  pembuktian di bidang hukum;  
 d. perahasiaan identitas korban;  
 e. pemberian keterangan pada saat pemeriksaan di  sidang pengadilan tanpa bertatap muka dengan  tersangka;  
 f. pelayanan bimbingan rohani; dan/ataug. Perlindungan terhadap Perempuan yang  berprofesi sebagai buruh atau pekerja sesuai  dengan ketentuan peraturan perundang undangan.  
@@ -245,7 +257,8 @@ f. pelayanan bimbingan rohani; dan/ataug. Perlindungan terhadap Perempuan yang  
 
 1. Dalam memberikan pelayanan Perlindungan sebagaimana dimaksud dalam Pasal 14 ayat (1), Pemerintah Daerah:a. memberikan pelayanan dan penanganan secepat  mungkin kepada pendamping, saksi dan/atau  Korban;  
 b. memberikan kemudahan, kenyamanan,  keselamatan, dan bebas biaya bagi pendamping,  saksi dan/atau Korban;  
-c. menjaga kerahasiaan saksi dan/atau Korban; d. menjamin keadilan dan kepastian hukum bagi  saksi dan/atau Korban;  
+c. menjaga kerahasiaan saksi dan/atau Korban;  
+d. menjamin keadilan dan kepastian hukum bagi  saksi dan/atau Korban;  
 e. penyediaan ruang pelayanan khusus di kantor  Kepolisian Republik Indonesia;  
 f. penyediaan aparat, tenaga kesehatan, pekerja  sosial, dan pembimbing rohani;  
 g. pembuatan dan pengembangan sistem dan tata  cara kerjasama pelaksanaan program pelayanan  yang melibatkan pihak yang mudah diakses oleh  Korban;  
@@ -448,7 +461,8 @@ d. Nondiskriminasi; dane. Kepentingan terbaik bagi perempuan.
 Adapun tujuan dari dibentuknya Peraturan Daerah tentang  Perlindungan Perempuan adalah:
 a. Menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan  berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan;  
 b. Memberikan keadilan dan kesetaraan gender;  
-c. Memberikan perlindungan dan rasa aman bagi perempuan korban  kekerasan dan diskriminasi, serta tindak pidana perdagangan orang; d. Menghapus segala bentuk kekerasan dan diskriminasi terhadap  perempuan;  
+c. Memberikan perlindungan dan rasa aman bagi perempuan korban  kekerasan dan diskriminasi, serta tindak pidana perdagangan orang;  
+d. Menghapus segala bentuk kekerasan dan diskriminasi terhadap  perempuan;  
 e. Memberikan pelayanan kepada perempuan korban kekerasan dan  saksi;  
 f. Melakukan pemulihan terhadap perempuan korban kekerasan. II. PASAL DEMI PASAL
 

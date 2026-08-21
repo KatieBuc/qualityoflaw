@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DENGAN RAHMAT TUHAN YANG 
 # WALI KOTA CIMAHI,
 
 Menimbang:  
+ 
 a. bahwa perempuan dan anak berhak  mendapatkan rasa aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan, sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa kekerasan terhadap perempuan dan anak terus meningkat sehingga perlu dilakukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar  Negara Repulik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention On The Elimination of All Forms of Discrimination Against Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor
@@ -166,7 +168,8 @@ Setiap Korban memiliki hak mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga maupun anggota masyarakat.  
 
 #### Pasal 9

@@ -17,12 +17,14 @@ DENGAN NAMA ALLAH YANG MAHA PENGASIH LAGI MAHA PENYAYANG ATAS RAHMAT ALLAH YANG 
 BUPATI BIREUEN,
 
 Menimbang:  
+ 
 
 a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
 b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -120,7 +122,8 @@ b. hak-hak perempuan;
 c. perlindungan perempuan;  
 d. kewajiban dan tanggungjawab Pemerintah Kabupaten;  
 e. dukungan pemerintah gampong;  
-f. strategi dan mekanisme penyelenggaraan perlindungan perempuan; g. peran serta masyarakat; dan
+f. strategi dan mekanisme penyelenggaraan perlindungan perempuan;  
+g. peran serta masyarakat; dan
 h. penghargaan.  
 
 # BAB IV
@@ -152,11 +155,13 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 6
 
-Setiap perempuan penyandang disabilitas, berhak memperoleh: a. pendidikan pada semua satuan, jalur, jenis, danjenjang pendidikan; b. pekerjaan dan penghidupan yang layak sesuai dengan jenis dan derajat kecacatan, pendidikan, dan kemampuannya;  
+Setiap perempuan penyandang disabilitas, berhak memperoleh: a. pendidikan pada semua satuan, jalur, jenis, danjenjang pendidikan;  
+b. pekerjaan dan penghidupan yang layak sesuai dengan jenis dan derajat kecacatan, pendidikan, dan kemampuannya;  
 
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
 d. aksesibilitas dalam rangka kemandiriannya;  
-e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial; f. hak yang sama untuk menumbuhkembangkan bakat, kemampuan, dan kehidupan sosialnya; dan
+e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial;  
+f. hak yang sama untuk menumbuhkembangkan bakat, kemampuan, dan kehidupan sosialnya; dan
 g. hak-hak lainnya sebagaimana diatur dalam peraturan perundang undangan.  
 
 ## Bagian Ketiga
@@ -167,7 +172,9 @@ Hak Perempuan Korban Kekerasan
 
 Setiap perempuan korban kekerasan berhak memperoleh:
 
-a. penghormatan atas harkat dan martabat sebagai manusia; b. pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban; c. menentukan sendiri keputusannya dalam penanganan kasus kekerasan yang dialaminya;  
+a. penghormatan atas harkat dan martabat sebagai manusia;  
+b. pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
+c. menentukan sendiri keputusannya dalam penanganan kasus kekerasan yang dialaminya;  
 d. mendapatkan informasi;  
 e. mendapatkanjaminan kerahasiaan;  
 f. rehabilitasi sosial;  
@@ -271,7 +278,8 @@ Perempuan Penyandang Disabilitas
 
 1. Pelaksanaan perlindungan bagi perempuan penyandang disabilitas sebagaimana dimaksud dalam Pasal 9 huruf e, dalam rangka memberikan perlindungan dan pencegahan, terhadap bentuk-bentuk diskriminasi antara lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat manusia, dan bebas dari eksploitasi.  
 2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:
-a.jaminan keberlangsungan dan pengembangan diri pribadi; b.aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan c. upaya penanganan dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
+a.jaminan keberlangsungan dan pengembangan diri pribadi;  
+b.aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan c. upaya penanganan dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ### Paragraf 6
 
@@ -324,7 +332,8 @@ Perempuan korban konflik
 
 Pelaksanaan perlindungan bagi perempuan korban konflik sebagaimana dimaksud dalam Pasal 9 huruf i, melalui:
 a. memberikan rasa aman;  
-b. pemenuhan kebutuhan dasar perempuan korban konflik; c. menghilangkan trauma; dan
+b. pemenuhan kebutuhan dasar perempuan korban konflik;  
+c. menghilangkan trauma; dan
 d. memberikan layanan yang dibutuhkan bagi korban.  
 
 ### Paragraf 10

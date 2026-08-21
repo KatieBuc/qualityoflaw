@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DENGAN RAHMAT TUHAN YANG MAHA 
 # BUPATI TOLITOLI,
 
 Menimbang:  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan terhadap hak asasi manusia  sehingga menjadi kewajiban negara untuk melindungi dari  segala bentuk kekerasan dan diskriminasi;  
 b. bahwa untuk memenuhi hak perempuan dan anak serta  bagian dari upaya pemerintah daerah untuk melindungi  perempuan dan anak dari eksploitasi, penelantaran dan  diskriminasi;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum dalam perlindungan perempuan dan anak  diperlukan pengaturan di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara republik  Indonesia tahun 1945;  
 
 2. Undang-Undang Nomor 29 Tahun 1959 tentang  PembentukanDaerah-Daerah Tingkat II di Sulawesi  (Lembaran Negara Republik Indonesia Tahun 1959 Nomor  74,Tambahan Lembaran Negara Republik Indonesia Nomor  1822);  
@@ -292,9 +294,11 @@ Perlindungan Khusus Anak
 
 #### Pasal 20
 
-1. Perlindungan khusus Anak sebagaimana dimaksud dalam Pasal 2 ayat (3)  huruf b diberikan kepada:a. Anak Korban Kekerasan fisik, psikis, seksual dan penelantaran; b. Anak yang berhadapan dengan hukum;  
+1. Perlindungan khusus Anak sebagaimana dimaksud dalam Pasal 2 ayat (3)  huruf b diberikan kepada:a. Anak Korban Kekerasan fisik, psikis, seksual dan penelantaran;  
+b. Anak yang berhadapan dengan hukum;  
 c. Anak dari Kelompok Minoritas dan Terisolasi;  
-d. Anak yang dieksploitasi secara ekonomi dan/atau seksual; e. Anak yang menjadi Korban Pornografi;  
+d. Anak yang dieksploitasi secara ekonomi dan/atau seksual;  
+e. Anak yang menjadi Korban Pornografi;  
 f. Anak Korban Kejahatan Seksual;  
 g. Anak yang menjadi Korban Penyalahgunaan Narkotika, Alkohol,  Psikotropika dan Zat Adiktif Lainnya;  
 h. Anak dengan HIV/AIDS;  
@@ -390,8 +394,11 @@ f. mendorong dan meningkatkan partisipasi masyarakat; dan g. menunjuk orang tua 
 #### Pasal 27
 
 1. Setiap orang dapat berpartisipasi dalam memberikan perlindungan  terhadap Perempuan dan Anak dari tindak Kekerasan.  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan  cara:a. mencegah dan menghentikan berlangsungnya tindak Kekerasan; b. memberikan perlindungan kepada Korban;  
-c. melakukan pertolongan pertama kepada Korban tindak Kekerasan; d. kelaporkan tindak Kekerasan terhadap Perempuan dan/atau Anak; e. mensosialisasikan hak Perempuan dan Anak secara mandiri;  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan  cara:a. mencegah dan menghentikan berlangsungnya tindak Kekerasan;  
+b. memberikan perlindungan kepada Korban;  
+c. melakukan pertolongan pertama kepada Korban tindak Kekerasan;  
+d. kelaporkan tindak Kekerasan terhadap Perempuan dan/atau Anak;  
+e. mensosialisasikan hak Perempuan dan Anak secara mandiri;  
 f. melalukan penguatan lembaga sosial masyarakat dalam penanganan tindak Kekerasan terhadap Perempuan dan Anak; dan/atau g. menyebarluaskan informasi tentang peraturan perundang-undangan  yang berkaitan dengan tindak Kekerasan terhadap Perempuan dan  Anak.  
 
 #### Pasal 28

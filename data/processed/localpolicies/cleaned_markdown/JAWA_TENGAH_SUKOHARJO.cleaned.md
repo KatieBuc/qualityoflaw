@@ -15,12 +15,14 @@
 # BUPATI SUKOHARJO,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah dan/atau  masyarakat agar terhindar dan terbebas dari kekerasan dan/atau  ancaman kekerasan dalam lingkup rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004  tentang Penghapusan Kekerasan Dalam Rumah Tangga,  Pemerintah Daerah bersama masyarakat berkewajiban melakukan  upaya pencegahan, perlindungan, pemulihan terhadap korban  kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a,  huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang  Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis  Gender Dan Anak;  
 
 Mengingat:  
+ 
 1. Undang-Undang Nomor 13 Tahun 1950 tentang Pembentukan  Daerah-daerah Kabupaten dalam Lingkungan Propinsi Jawa  Tengah;  
 
 2. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak  (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32,  Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
@@ -140,7 +142,8 @@ h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan  statusnya sebagai 
 
 #### Pasal 5
 
-1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan  berbasis gender dan anak Pemerintah Daerah berkewajiban:a. melaksanakan segala upaya mencegah terjadinya kekerasan; b. memberikan perlindungan bagi korban kekerasan;  
+1. Dalam menyelenggarakan perlindungan terhadap korban kekerasan  berbasis gender dan anak Pemerintah Daerah berkewajiban:a. melaksanakan segala upaya mencegah terjadinya kekerasan;  
+b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial bagi  korban;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
 e. melakukan kerjasama dengan penyedia layanan dalam upaya  pencegahan, perlindungan dan pemulihan korban kekerasan;  danf. mengawasi penyelenggaraan pelayanan terhadap korban yang  melibatkan masyarakat.  
@@ -213,9 +216,12 @@ Upaya Pemulihan dan Reintegrasi Sosial
 #### Pasal 11
 
 Upaya Pemulihan dan Reintegrasi Sosial sebagaimana dimaksud dalam  Pasal 8 huruf b, meliputi:
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. memberikan pelayanan medicolegal;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di rumah aman (shelter) ; e. memberikan pemulihan dan pendampingan psikososial; f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan keluarga dan masyarakat, pemberdayaan  ekonomi, dan pengembalian ke sekolah dan/atau lembaga  pendidikan lainnya.  
+d. memberikan perlindungan sementara di rumah aman (shelter) ;  
+e. memberikan pemulihan dan pendampingan psikososial;  
+f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan keluarga dan masyarakat, pemberdayaan  ekonomi, dan pengembalian ke sekolah dan/atau lembaga  pendidikan lainnya.  
 
 ## Bagian Keenam
 

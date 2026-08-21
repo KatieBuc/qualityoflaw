@@ -15,12 +15,14 @@
 # BUPATI BUOL,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwa untuk menjamin pemberdayaan perempuan dan perlindungan anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran lainnya, pemberdayaan perempuan dan perlindungan anak harus dilakukan secara terpadu, berkesinambungan melalui percepatan pemenuhan dan perlindungan hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa sesuai ketentuan Pasal 12 ayat (2) huruf b Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan salah satu urusan pemerintahan wajib yang menjadi kewenangan Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan anak;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 51 Tahun 1999 tentang Pembentukan Kabupaten Buol, Kabupaten Morowali, dan Kabupaten Banggai Kepulauan (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 179, Tambahan Lembaran Negara Republik Indonesia Nomor 3900) sebagaimana telah diubah dengan Undang-Undang Nomor 11 Tahun 2000 tentang Perubahan atas Undang-Undang Nomor 51 Tahun 1999 tentang Pembentukan Kabupaten Buol, Kabupaten Morowali, dari Kabupaten Banggai Kepulauan (Lembaran Negara Republik Indonesia Tahun 2000 Nomor 78, Tambahan Lembaran Negara Republik Indonesia Nomor 3966);  
@@ -221,7 +223,8 @@ c. penguatan kelembagaan pengarusutamaan gender; dand. penguatan peran serta mas
 2. Focal point pengarusutamaan gender sebagaimana dimaksud pada ayat (1), mempunyai tugas:a. mempromosikan pengarusutamaan gender pada unit kerja;  
 b. memfasilitasi penyusunan rencana kerja dan penganggaran PD yang responsif gender;  
 c. melaksanakan pelatihan, sosialisasi, advokasi pengarusutamaan gender kepada seluruh pejabat dan staf di lingkungan PD;  
-d. melaporkan pelaksanaan pengarusutamaan gender kepada pimpinan PD; e. mendorong pelaksanaan analisis gender terhadap kebijakan, program, dan kegiatan pada unit kerja; danf. memfasilitasi penyusunan data gender pada masing-masing PD.  
+d. melaporkan pelaksanaan pengarusutamaan gender kepada pimpinan PD;  
+e. mendorong pelaksanaan analisis gender terhadap kebijakan, program, dan kegiatan pada unit kerja; danf. memfasilitasi penyusunan data gender pada masing-masing PD.  
 3. Focal point pengarusutamaan gender sebagaimana dimaksud pada ayat (1), dipilih dan ditetapkan oleh PD.  
 
 ## Bagian Keempat
@@ -764,7 +767,8 @@ a. melakukan pencegahan kekerasan terhadap anak dengan mengoptimalkan peran lemb
 b. melakukan sosialisasi, seminar dan penyuluhan mengenai perlindungan dan hak anak;  
 c. mengembangkan model sekolah ramah anak;  
 d. menyediakan fasilitas umum yang ramah dan aman untuk anak;  
-e. menyusun database dan informasi tentang tindak kekerasan terhadap anak; f. melakukan pemetaan lokasi dan wilayah yang rawan terjadinya kekerasan terhadap anak;  
+e. menyusun database dan informasi tentang tindak kekerasan terhadap anak;  
+f. melakukan pemetaan lokasi dan wilayah yang rawan terjadinya kekerasan terhadap anak;  
 g. melakukan koordinasi dan kerjasama dalam pencegahan terjadinya pelanggaran terhadap hak anak;  
 h. penguatan fungsi lembaga atau organisasi yang bergerak dibidang perlindungan anak; dani. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap anak dengan membentuk pendamping perlindungan perempuan dan anak.  
 
@@ -876,7 +880,8 @@ Untuk menjamin terlaksananya pemberdayaan perempuan dan perlindungan anak sesuai
 Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak dilaksanakan berdasarkan asas:
 a. non diskriminasi:b. kepentingan yang terbaik bagi perempuan dan anak;  
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
-d. penghargaan terhadap pendapat anak; e. Kepastian hukum;  
+d. penghargaan terhadap pendapat anak;  
+e. Kepastian hukum;  
 f. kearifan lokal; dan keadilan dan kesetaraan gender.  
 
 Penyusunan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak ini bertujuan untuk:

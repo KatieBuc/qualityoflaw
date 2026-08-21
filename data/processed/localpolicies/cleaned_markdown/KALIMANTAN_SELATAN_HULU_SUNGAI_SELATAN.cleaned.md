@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 # BUPATI HULU SUNGAI SELATAN,
 
 Menimbang:  
+ 
 a. bahwa setiap warga Negara berhak untuk bebas dari tindak  kekerasan atau perlakuan yang merendahkan derajat martabat  manusia serta berhak mendapatkan rasa aman terlebih lagi bagi  perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten  Hulu Sungai Selatan terus meningkat dan meluas yang  menyebabkan rasa tidak aman dalam menjalankan kehidupan,  sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak sebagaimana telah diubah  beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun  2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas  Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak Menjadi UndangUndang dan ketentuan Undang-Undang  Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga, Pemerintah Daerah berkewajiban dan  bertanggungjawab terhadap peneyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan  Undang-Undang Darurat Nomor 3 Tahun 1953 tentang  Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara  Republik Indonesia tahun 1953 Nomor 9) sebagai Undang-Undang  (Lembaga Negara Republik Indonesia Tahun 1959 Nomor 72,  Tambahan Lembaran Negara Republik Indonesia Nomor 1820);  
@@ -115,7 +117,8 @@ d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapo
 #### Pasal 4
 
 Ruang lingkup pengaturan perlindungan perempuan dan anak dari tindak  kekerasan meliputi:
-a. penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan; b. kewajiban dan tanggung jawab;  
+a. penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
+b. kewajiban dan tanggung jawab;  
 c. bentuk kekerasan;  
 d. hak perempuan dan anak dari tindak kekerasan;  
 e. kelembagaan;  
@@ -143,7 +146,8 @@ Umum
 #### Pasal 6
 
 Pemerintah Daerah dalam penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak Kekerasan sebagaimana dimaksud dalam Pasal 5 melakukan:
-a. pencegahan tindak kekerasan terhadap perempuan dan anak; b. perlindungan hukum;  
+a. pencegahan tindak kekerasan terhadap perempuan dan anak;  
+b. perlindungan hukum;  
 c. Pemulihan;  
 d. koordinasi; dane. mendorong partisipasi Masyarakat.  
 
@@ -168,7 +172,8 @@ f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pe
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
-e. administrasi kependudukan dan pencatatan sipil:f. pemberdayaan perempuan, perlindungan perempuan dan anak; g. koperasi dan Usaha Mikro Kecil Menengah; danh. ketenteraman, ketertiban umum, dan perlindungan masyarakat (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan  berdasarkan RPJPD dan RPJMD.  
+e. administrasi kependudukan dan pencatatan sipil:f. pemberdayaan perempuan, perlindungan perempuan dan anak;  
+g. koperasi dan Usaha Mikro Kecil Menengah; danh. ketenteraman, ketertiban umum, dan perlindungan masyarakat (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan  berdasarkan RPJPD dan RPJMD.  
 
 ## Bagian Ketiga
 
@@ -188,9 +193,11 @@ Pemulihan
 #### Pasal 10
 
 Pemerintah Daerah melakukan pemulihan sebagaimana dimaksud dalam pasal 6  huruf c, meliputi:
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. memberikan pelayanan medikolegal;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. memberikan pelayanan medikolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di Rumah Aman (safe house); e. memberikan pemulihan dan pendampingan psikososial;  
+d. memberikan perlindungan sementara di Rumah Aman (safe house);  
+e. memberikan pemulihan dan pendampingan psikososial;  
 f. memberikan pelayanan bimbingan rohani; dan/ataug. melakukan penyiapan lingkungan keluarga, sekolah, kerja dan masyarakat,  serta pemberdayaan ekonomi.  
 
 ## Bagian Kelima
@@ -261,7 +268,8 @@ c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan
 #### Pasal 16
 
 Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib untuk:
-a. mencegah dan menghentikan berlangsungnya tindak kekerasan; b. memberikan perlindungan kepada korban;  
+a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
+b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dan/ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
 
 # BAB IV
@@ -284,7 +292,8 @@ f. eksploitasi; dan/ataug. kekerasan lainnya.
 
 #### Pasal 18
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia; b. hak pemulihan;  
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
 e. hak atas kerahasiaan;  

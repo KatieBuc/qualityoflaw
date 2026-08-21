@@ -15,10 +15,12 @@
 # WALIKOTA BANDAR LAMPUNG,
 
 Menimbang:  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan, setiap warga Negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia, berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan serta untuk meningkatkan kualitas hidup perempuan yang merupakan salah satu tanggung jawab Pemerintah Daerah;  
 b. bahwa dalam upaya pemenuhan hak perempuan perlu dilakukan upaya oleh k eluarga, masyarakat, dan Pemerintah Daerah, sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 55, Undang- undang Darurat Nomor 5 Tahun 1956 (Lembaran Negara Republik Indonesia Nomor 1956 Nomor 57) tentang Pembentukan Daerah Tingkat II Termasuk Kotapraja Dalam Lingkungan Daerah Tingkat I Sumatera Selatan Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
@@ -129,7 +131,8 @@ b. membentuk dan mengembangkan strategi dan kebijakanperlindungan; danc. membent
 Peningkatan kualitas hidup perempuan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a dapat dilakukan melalui:
 a. memberikan akses kepada perempuan terhadap layanan pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dalam berbagai kegiatan pembangunan;  
-c. memberikan pengetahuan, ketrampilan dan nilai karakter, budi pekerti dan ketahanan keluarga; d. mendorong program yang dapat meningkatkan kemandirian perempuan dalam berbagai bidang, baik hukum, politik, sosial, ekonomi, ketenagakerjaan, budaya serta bidang strategis lainnya.  
+c. memberikan pengetahuan, ketrampilan dan nilai karakter, budi pekerti dan ketahanan keluarga;  
+d. mendorong program yang dapat meningkatkan kemandirian perempuan dalam berbagai bidang, baik hukum, politik, sosial, ekonomi, ketenagakerjaan, budaya serta bidang strategis lainnya.  
 
 #### Pasal 7
 
@@ -200,7 +203,8 @@ Bentuk Layanan
 
 1. Penanganan pengaduan merupakan serangkaian tindakan yang dilakukan oleh penyelenggara layanan terpadu untuk menindaklanjuti laporan adanya tindak kekerasan terhadap perempuan yang diajukan korban, keluarga atau masyarakat.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. melakukan wawancara dan observasi keadaan korban;  
-b. membuat rekomendasi layanan lanjutan; c. melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;  
+b. membuat rekomendasi layanan lanjutan;  
+c. melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;  
 d. melakukan administrasi proses pengaduan.  
 
 #### Pasal 12

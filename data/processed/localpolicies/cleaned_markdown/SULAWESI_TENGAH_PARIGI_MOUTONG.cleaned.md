@@ -137,7 +137,8 @@ c. memberikan pertolongan darurat; dand. membantu proses pengaduan dan pengajuan
 
 Pencegahan Tindak Kekerasan Pasa16 (1) Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap perempuan dengan cara:
 a. menyosialisasikan peraturan perundang-undangan;  
-b. melakukan pemberdayaan dan penyadaran kepada keluarga, orang tua dan masyarakat dengan memberikan informasi, bimbingan dan/ atau penyuluhan; c. melakukan upaya peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
+b. melakukan pemberdayaan dan penyadaran kepada keluarga, orang tua dan masyarakat dengan memberikan informasi, bimbingan dan/ atau penyuluhan;  
+c. melakukan upaya peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
 d. melakukan upaya membangun partisipasi dan kepedulian masyarakat untuk melaksanakan pencegahan dan perlindungan terhadap perempuan dan anak dari kekerasan secara terpadu berbasis masyarakat;  
 e. membangun jejaring dan kerja sarna dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi, lembaga /organisasi keagamaan dan berbagai lembaga swadaya masyarakat dalam upaya mencegahan Kekerasan terhadap perempuan dan anak;  
 f. membentuk sistem pencegahan Kekerasan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan;  
@@ -235,7 +236,8 @@ b. penanganan anak korban tindak kekerasan; danc. rehabilitasi anak korban tinda
 ### Paragraf 2
 
 Peneegahan Kekerasan Terhadap Anak Pasa115 (1) Pencegahan tindak kekerasan terhadap anak sebagaimana climaksud dalam Pasal 14 huruf a dilaksanakan dengan cara:
-a. membentukjaringan kerja dalam upaya pencegahan kekerasan terhadap anak; b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
+a. membentukjaringan kerja dalam upaya pencegahan kekerasan terhadap anak;  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
 2. Pencegahan kekerasan terhadap anak sebagaimana climaksud pada ayat (1) dilakukan secara terpadu dan dikoordinasikan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang pemberdayaan perempuan dan pelindungan anak.  
 
 Pasa116 (1) Pencegahan tindak kekerasan terhadap anak selain dilaksanakan oleh Perangkat Daerah sebagaimana climaksud dalam Pasal 14 ayat (2), juga melibatkan pihak: a. orang tua, keluarga dan I atau kerabat terdekat;  
@@ -320,7 +322,8 @@ e. lembaga swadaya rnasyarakat;
 f. pihak swasta;  
 g. masyarakat; dany atauh. keluarga.  
 
-Paaa123 (1) Dalam hal tertentu Pemerintah Daerah dapat melakukan kerjasama dengan; a. Pemerintah Daerah lainnya;  
+Paaa123 (1) Dalam hal tertentu Pemerintah Daerah dapat melakukan kerjasama dengan;  
+a. Pemerintah Daerah lainnya;  
 b. kepolisian;  
 c. advokat;  
 d. tenaga kesehatan;  
@@ -346,7 +349,9 @@ h. rehabilitasi sosial;
 Kewajiban dan Tanggung Jawab Pasa124 Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap (1) perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama Pemerintah Daerah dan Masyarakat.  
 
 Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada (2) ayat (1). meliputi: . a. menetapkan, melaksanakan kebijakan, program, dan melakukan keIJasam~ kegiatan dalam penyelenggaraan perlindungan perempuan dan anak dan tindak kekerasan;  
-b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak dari tindak kekerasan serta memberikan dukungan sarana dan prasarana; c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan Daerah; d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
+b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak dari tindak kekerasan serta memberikan dukungan sarana dan prasarana;  
+c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan Daerah;  
+d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. menyediakan pelayanan perlindungan perempuan dan anak korban tindak kekerasan;  
 f. mendorong dan meningkatkan partisipasi masyarakat; dang. menunjuk orang tua dan/ atau pengasuh keluarga pengganti sebagai langkah perlindungan untuk anak yang menjadi korban tindak kekerasan.  
 
@@ -356,8 +361,11 @@ f. mendorong dan meningkatkan partisipasi masyarakat; dang. menunjuk orang tua d
 
 Pasa125 (1) Setiap orang dapat berpartisipasi dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara: a. mencegah dan menghentikan berlangsungnya tindak kekerasan; b. memberikan perlindungan kepada korban;  
-c. melakukan pertolongan -pertama kepada korban tindak kekerasan; d. melaporkan tindak kekerasan terhadap perempuan dan Iatau anak; e. mensosialisasikan hak perempuan dan anak secara mandiri;  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara: a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
+b. memberikan perlindungan kepada korban;  
+c. melakukan pertolongan -pertama kepada korban tindak kekerasan;  
+d. melaporkan tindak kekerasan terhadap perempuan dan Iatau anak;  
+e. mensosialisasikan hak perempuan dan anak secara mandiri;  
 f. melakukan penguatan lembaga sosial masyarakat dalam penanganan tindak kekerasan terhadap perempuan dan anak; dan/ ataug. menyebarluaskan informasi tentang peraturan perundang-undangan yang berkaitan dengan tindak kekerasan terhadap perempuan dan anak.  
 
 Pasa126 (1) Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam perlindungan terhadap perempuan dan anak dari tindak kekerasan.  

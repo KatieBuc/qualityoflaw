@@ -13,12 +13,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DAN  PERDAGANGAN ORANG
 # BUPATI BANYUWANGI,
 
 Menimbang:  
+ 
 a. bahwa kekerasan pada perempuan dan anak serta  perdagangan orang merupakan tindakan merendahkan martabat dan derajad kemanusiaan sehingga kepada mereka perlu diberikan pelayanan dan perlindungan yang memadai;  
 b. bahwa tingkat perdagangan orang, kekerasan terha dap perempuan dan anak masih tinggi maka kewajiban pemerintah daerah untuk mengatur dan melayani kepentingan masyarakat dalam hal ini perempuan dan anak korban kekerasan dan perdagangan orang;  
 c. bahwa agar penanganan perdagangan orang, kekeras an terhadap perempuan dan anak yang dilaksanakan berdaya guna dan berhasil guna, perlu pengaturan perlindungan terhadap perempuan dan anak korban kekerasan dan perdagangan orang;  
 d. bahwa berdasarkan pertimbangan sebagaimana di maksud pada huruf a, b dan c maka perlu membentuk peraturan daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang.  
 
 Mengingat:  
+ 
 1. Undang-undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-daerah Kabupaten di Lingkungan Provinsi Jawa Timur (Berita Negara Republik Indonesia Tahun 1950 Nomor 4), sebagaimana telah diubah dengan Undang-Undang Nomor 2 tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor
 
 2730. ;  

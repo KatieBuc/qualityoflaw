@@ -15,12 +15,14 @@
 # WALIKOTA MALANG,
 
 Menimbang:  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia  sehingga perlu dilindungi harga diri dan martabatnya  serta dijamin hak hidupnya sesuai dengan fitrah dan  kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak terus  meningkat, sehingga diperlukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 16 Tahun 1950 tentang  Pembentukan Daerah-daerah Kota Besar dalam lingkungan Propinsi Djawa-Timur, Djawa-Tengah, Djawa-Barat dan Dalam Daerah Istimewa Jogjakarta sebagaimana telah diubah terakhir dengan Undang- Undang Nomor 2 Tahun 1965 (Lembaran Negara  Republik Indonesia Tahun 1965 Nomor 19, Tambahan  Lembaran Negara Republik Indonesia Nomor 2730);  
@@ -156,13 +158,15 @@ Setiap korban berhak mendapatkan:
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
-d. penanganan berkelanjutan sampai tahap rehabilitasi; e. penanganan secara rahasia;  
+d. penanganan berkelanjutan sampai tahap rehabilitasi;  
+e. penanganan secara rahasia;  
 f. pendampingan secara psikologis dan hukum; dan g. jaminan atas hak-hak yang berkaitan dengan status  sebagai anggota keluarga maupun anggota masyarakat.  
 
 #### Pasal 11
 
 Anak korban kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 10, juga mendapatkan  hak khusus, sebagai berikut:
-a. hak atas penghormatan dan penggunaan sepenuhnya  untuk kelangsungan hidup, tumbuh dan berkembang; b. hak pelayanan dasar;  
+a. hak atas penghormatan dan penggunaan sepenuhnya  untuk kelangsungan hidup, tumbuh dan berkembang;  
+b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
 
@@ -190,7 +194,8 @@ e. mengupayakan efektivitas dan efisiensi bagi proses  pemulihan korban; danf. m
 #### Pasal 14
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana  dimaksud dalam Pasal 12 huruf b, diselenggarakan dalam  bentuk peran serta masyarakat.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud  pada ayat (1), meliputi:a. membentuk mitra keluarga di tingkat kelurahan; b. membentuk unit perlindungan perempuan dan anak di  dalam organisasi kemasyarakatan;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud  pada ayat (1), meliputi:a. membentuk mitra keluarga di tingkat kelurahan;  
+b. membentuk unit perlindungan perempuan dan anak di  dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak  secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instansi yang berwenang apabila  di lingkungannya terjadi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) dilakukan oleh perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga  pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud  pada ayat (2), dilaksanakan secara bertanggungjawab  sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -239,7 +244,9 @@ a. Kegiatan sosialisasi peraturan perundang-undangan  kepada masyarakat yang ber
 
 Bentuk pelayanan terhadap korban yang diselenggarakan oleh  PPT meliputi:
 a. Pelayanan medis, berupa perawatan dan pemulihan luka luka fisik yang bertujuan untuk memulihkan kondisi fisik  korban yang dilakukan oleh tenaga medis dan paramedik;  
-b. Pelayanan medicolegal merupakan bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum; c. Pelayanan psikososial merupakan pelayanan yang  diberikan dalam rangka memulihkan kondisi traumatis  korban, termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai ancaman dan intimidasi  bagi korban dan memberikan dukungan secara sosial  sehingga korban mempunyai rasa percaya diri, kekuatan  dan kemandirian, dalam menyelesaikan masalahnya; d. Pelayanan hukum untuk membantu korban dalam  menjalani proses hukum, dan;  
+b. Pelayanan medicolegal merupakan bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum;  
+c. Pelayanan psikososial merupakan pelayanan yang  diberikan dalam rangka memulihkan kondisi traumatis  korban, termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai ancaman dan intimidasi  bagi korban dan memberikan dukungan secara sosial  sehingga korban mempunyai rasa percaya diri, kekuatan  dan kemandirian, dalam menyelesaikan masalahnya;  
+d. Pelayanan hukum untuk membantu korban dalam  menjalani proses hukum, dan;  
 e. Pelayanan kemandirian ekonomi berupa pelatihan  ketrampilan dan memberikan akses ekonomi agar korban  dapat mandiri.  
 
 #### Pasal 20
@@ -256,7 +263,8 @@ Pencegahan oleh Perangkat Daerah
 1. Untuk mencegah terjadinya kekerasan terhadap  perempuan dan anak, pemerintah melakukan  pemberdayaan dan penyadaran kepada keluarga, orangtua  dan masyarakat dengan memberikan informasi,  bimbingan dan/ atau penyuluhan.  
 2. Selain pemberdayaan dan penyadaran sebagaimana  dimaksud pada ayat (1), pemerintah melakukan upaya  sebagai berikut:a. peningkatan jumlah dan mutu pendidikan baik formal  maupun non formal dan informal;  
 b. pembukaan aksebilitas untuk memperoleh pendidikan,  pelatihan, pendanaan, peningkatan pendapatan dan  pelayanan sosial;  
-c. pembukaan lapangan kerja bagi perempuan; d. membangun partisipasi dan kepedulian masyarakat  untuk melaksanakan pencegahan dan perlindungan  terhadap perempuan dan anak dari kekerasan;  
+c. pembukaan lapangan kerja bagi perempuan;  
+d. membangun partisipasi dan kepedulian masyarakat  untuk melaksanakan pencegahan dan perlindungan  terhadap perempuan dan anak dari kekerasan;  
 e. membangun dan menyediakan system informasi yang  lengkap dan mudah diakses;  
 f. membangun jejaring dan kerjasama dengan aparatur  penegak hukum, aparatur pemerintah, perguruan  tinggi dan berbagai lembaga swadaya masyarakat yang  bergerak dan/atau peduli terhadap perempuan dan  anak; dang. membuka pos pengaduan untuk perlindungan  terhadap perempuan dan anak dari kekerasan.  
 
@@ -266,7 +274,8 @@ f. membangun jejaring dan kerjasama dengan aparatur  penegak hukum, aparatur pem
 b. kesehatan;  
 c. pendidikan;  
 d. ketenagakerjaan;  
-e. pemberdayaan perempuan dan perlindungan anak; f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+e. pemberdayaan perempuan dan perlindungan anak;  
+f. mental dan spiritual; dang. ketentraman dan ketertiban.  
 2. Pencegahan kekerasan oleh perangkat daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara  terpadu dan berkesinambungan berdasarkan Rencana  Aksi Daerah.  
 
 ## Bagian Keempat
@@ -299,7 +308,8 @@ Pelayanan
 b. pelayanan kesehatan;  
 c. bantuan hukum;  
 d. pemulangan;  
-e. rehabilitasi, reintegrasi sosial, dan medikolegal; f. pelayanan identifikasi; dang. pelayanan psikologis.  
+e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
+f. pelayanan identifikasi; dang. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1),  dilaksanakan sesuai standar pelayanan minimal yang  ditetapkan pemerintah dan dilaksanakan oleh perangkat  daerah yang tugas dan fungsinya di bidang:a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak;  dand. mental dan spiritual.  

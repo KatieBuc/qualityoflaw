@@ -27,12 +27,14 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 ### BUPATI OGAN KOMERING ULU,
 
 Menimbang:  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk  diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah  dan/atau masyarakat agar terhindar dan terbebas dari  kekerasan dan/atau ancaman kekerasan dalam lingkup rumah  tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak dan Undang-Undang Nomor 23  Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah  Tangga, Pemerintah Daerah bersama masyarakat berkewajiban  melakukan upaya pencegahan, perlindungan, pemulihan  terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf b dan huruf c, perlu menetapkan Peraturan Daerah  Kabupaten Ogan Komering Ulu tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan  Anak.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
 
 2. Undang-Undang Nomor 28 Tahun 1959 tentang Pembentukan  Daerah Tingkat II dan Kotapraja di Sumatera Selatan  (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73,  Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
@@ -116,7 +118,8 @@ l. kerahasiaan korban; danm. pengambilan keputusan di tangan korban.
 #### Pasal 3
 
 Tujuan perlindungan korban kekerasan berbasis gender dan anak adalah:
-a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap  anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat; b. memberikan perlindungan;  
+a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap  anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
+b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
 d. mengupayakan pemulihan dan reintegrasi sosial; dane. meningkatkan partisipasi masyarakat.  
 
@@ -151,7 +154,8 @@ b. membentuk pelayanan terpadu dan KPK2BGA;
 c. memfasilitasi terselenggaranya pelayanan terpadu dan kegiatan  KPK2BGA;  
 d. menyediakan sarana dan prasarana;  
 e. meningkatkan kapasitas lembaga penyedia layanan;  
-f. melakukan koordinasi dan kerjasama dalam penyelenggaraan  perlindungan terhadap korban kekerasan berbasis gender dan anak; g. mendorong partisipasi masyarakat;  
+f. melakukan koordinasi dan kerjasama dalam penyelenggaraan  perlindungan terhadap korban kekerasan berbasis gender dan anak;  
+g. mendorong partisipasi masyarakat;  
 h. melakukan monitoring dan evaluasi.  
 3. Pemerintah daerah dalam melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang  tua, wali, suami, istri atau orang lain yang secara hukum bertanggung jawab  kepada korban.  
 
@@ -198,9 +202,11 @@ Upaya Pemulihan dan Reintegrasi Sosial
 #### Pasal 10
 
 Upaya Pemulihan dan Reintegrasi Sosial sebagaimana dimaksud dalam Pasal 8,  meliputi ;  
-a. memberikan pemulihan fisik di lembaga pelayanan kesehatan; b. memberikan pelayanan medicolegal;  
+a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
+b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
-d. memberikan perlindungan sementara di rumah aman (shelter); e. memberikan pemulihan dan pendampingan psikososial;  
+d. memberikan perlindungan sementara di rumah aman (shelter);  
+e. memberikan pemulihan dan pendampingan psikososial;  
 f. memberikan pelayanan bimbingan rohani;  
 g. melakukan penyiapan keluarga dan masyarakat, pemberdayaan ekonomi,  dan pengembalian ke sekolah dan atau lembaga pendidikan lainnya.  
 
@@ -233,7 +239,8 @@ Upaya Peningkatan Partisipasi Masyarakat
 
 Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8  dilakukan dengan cara:
 a. gender dan anak;  
-b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya kekerasan berbasis gender dan anak; c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
+b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya kekerasan berbasis gender dan anak;  
+c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
 d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; dane. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
 
 Paragarf 6 Monitoring dan Pelaporan

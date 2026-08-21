@@ -85,15 +85,19 @@ b. keadilan gender dan kesetaraan gender;
 c. kearifan lokal; dand. kepastian hukum.  
 2. Penyelenggaraan Perlindungan Anak berdasarkan asas: a. non diskriminasi;  
 b. kepentingan yang terbaik bagi Anak;  
-c. hak untuk hidup, kelangsungan hidup, dan perkembangan; d. penghargaan terhadap pendapat Anak; dane. kepastian hukum.  
+c. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
+d. penghargaan terhadap pendapat Anak; dane. kepastian hukum.  
 
 Pasal3 Pengaturan Perlindungan Perempuan dan Anak bertujuan:
 a. sebagai pedoman bagi Pemerintah Kabupaten dalam perencanaan, kebijakan dan strategi Perlindungan Perempuan dan Anak;  
 b. melindungi Perempuan dan Anak dari tindakan, keputusan dan kebijakan yang melanggar hak Perempuan dan Anak;  
-c. mencegah teIjadinya pelanggaran Hak Perempuan dan Anak; d. meningkatkan pemberdayaan terhadap Perempuan dan Anak; e. meningkatkan peran dan nilai kearifan lokal dalam Perlindungan Perempuan dan Anak; danf. meningkatkan peran Perangkat Daerah dan non Pemerintah di Kabupaten dalam upaya Perlindungan Perempuan dan Anak.  
+c. mencegah teIjadinya pelanggaran Hak Perempuan dan Anak;  
+d. meningkatkan pemberdayaan terhadap Perempuan dan Anak;  
+e. meningkatkan peran dan nilai kearifan lokal dalam Perlindungan Perempuan dan Anak; danf. meningkatkan peran Perangkat Daerah dan non Pemerintah di Kabupaten dalam upaya Perlindungan Perempuan dan Anak.  
 
 Pasal4 Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi: a. pencegahan;  
-b. penyelenggaraan Perlindungan Hak Perempuan dan Anak; c. penanganan;  
+b. penyelenggaraan Perlindungan Hak Perempuan dan Anak;  
+c. penanganan;  
 d. pemberdayaan; dane. pembinaan dan pengawasan.  
 
 ### BABII
@@ -104,8 +108,10 @@ d. pemberdayaan; dane. pembinaan dan pengawasan.
 
 Hak Perempuan PasalS Setiap Perempuan berhak:
 a. memperoleh perlindungan dari tindakan diskriminasi;  
-b. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual; c. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, dan penelantaran;  
-d. memperoleh pekeIjaan yang layak sesuai kemampuannya; e. memperoleh cuti keIja dengan menerima upah/ gaji sesuai dengan peraturan perundang-undangan;  
+b. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;  
+c. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, dan penelantaran;  
+d. memperoleh pekeIjaan yang layak sesuai kemampuannya;  
+e. memperoleh cuti keIja dengan menerima upah/ gaji sesuai dengan peraturan perundang-undangan;  
 f. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan jalur pendidikan;  
 g. mendapatkan perlindungan khusus dalam pelaksanaan peketjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi Perempuan; danh. pemilikan dan pengelolaan harta bersama dalam perkawinan sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
@@ -113,7 +119,9 @@ g. mendapatkan perlindungan khusus dalam pelaksanaan peketjaan atau profesinya t
 
 HakAnak Pasal6 (1)Setiap Anak berhak:
 a. untuk dapat hidup, tumbuh, berkembang, dan berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi;  
-b. mendapatkan nama sebagai identitas diri dan status kewarganegaraan; c. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan Orang Tua atau Wali; d. memperoleh pendidikan dan pengajaran dalam rangka pengembangan pribadi dan tingkat kecerdasannya sesuai dengan minat dan bakat serta mendapatkan perlindungan di satuan pendidikan dari kejahatan seksual dan Kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama peserta didik, dan/atau pihak lain;  
+b. mendapatkan nama sebagai identitas diri dan status kewarganegaraan;  
+c. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan Orang Tua atau Wali;  
+d. memperoleh pendidikan dan pengajaran dalam rangka pengembangan pribadi dan tingkat kecerdasannya sesuai dengan minat dan bakat serta mendapatkan perlindungan di satuan pendidikan dari kejahatan seksual dan Kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama peserta didik, dan/atau pihak lain;  
 e. memperoleh perlindungan dari sasaran penganiayaan, penyiksaan, atau penjatuhan hukuman yang tidak manusiawi;  
 f. memperoleh kebebasan sesuai dengan hukum dan penangkapan, penahanan, atau tindak pidana penjara Anak hanya dilakukan apabila sesuai dengan hukum yang berlaku dan hanya dapat dilakukan sebagai upaya terakhir;  
 g. diasuh oleh Orang Tuanya sendiri, kecuali jika ada alasan dan/atau aturan hukum yang sah menunjukkan bahwa pemisahan itu adalah demi kepentingan terbaik bagi Anak dan merupakan pertimbangan terakhir;  
@@ -203,7 +211,8 @@ b. memberikan kesempatan yang sarna pada perempuan untuk mengembangkan diri di b
 3. ekonomi; dan
 4. politik dan budaya.  c. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
 
-Paragraf2 Tanggung Jawab Terhadap Periindungan Hak Anak PasalI2 (1) Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab: a. mengasuh, memelihara, mendidik, dan melindungi Anak; b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
+Paragraf2 Tanggung Jawab Terhadap Periindungan Hak Anak PasalI2 (1) Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab: a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
+b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  
 d. membimbing Anak berperilaku sesuai dengan agama, etika dan moral serta adat istiadat; dane. mencegah teIjadinya perkawinan pada usia Anak.  
 2. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih pada keluarga.  
@@ -217,10 +226,12 @@ d. membimbing Anak berperilaku sesuai dengan agama, etika dan moral serta adat i
 Pemerintah Kabupaten Pasal13 (1) Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:
 a. penyelenggaraan sosialisasi mengenai pencegahan kekerasan terhadap Perempuan dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan;  
 b. penyediaan pedoman tentang penanganan tindak kekerasan terhadap Perempuan;  
-c. melibatkan peran serta masyarakat dalam pemulihan dan reintegrasi; d. pengembangan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap Perempuan;  
+c. melibatkan peran serta masyarakat dalam pemulihan dan reintegrasi;  
+d. pengembangan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap Perempuan;  
 e. pengembangan program pemberdayaan keluarga;  
 f. penguatan fungsi organisasi kemasyarakatan yang bergerak di bidang pemberdayaan Perempuan; dang. penyediaan fasilitas umum yang nyaman dan aman untuk Perempuan.  
-2. Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran hak Anak meliputi:a. pencegahan tindak kekerasan terhadap Anak dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan; b. pengembangan sekolah ramah Anak;  
+2. Upaya yang dilakukan Pemerintah Kabupaten dalam rangka mencegah teIjadinya pelanggaran hak Anak meliputi:a. pencegahan tindak kekerasan terhadap Anak dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasyarakatan;  
+b. pengembangan sekolah ramah Anak;  
 c. mendorong peningkatan partisipasi anak melalui pembentukan Forum Anak;  
 d. penyediaan pedoman tentang penanganan tindak kekerasan terhadap Anak;  
 e. melibatkan peran serta masyarakat dalam layanan pemulihan dan reintegrasi Anak korban kekerasan;  
@@ -230,7 +241,8 @@ g. penguatan fungsi organisasi kemasyarakatan yang bergerak di bidang perlindung
 ## Bagian Kedua
 
 Masyarakat Pasal14 (1) Upaya yang dilakukan masyarakat dalam rangka mencegah teIjadinya pelanggaran terhadap hak Perempuan meliputi:
-a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak Perempuan; b. penguatan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danc. pencegahan pernikahan di bawah tanganjpernikahan sirl. (2) Upaya yang dilakukan dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang menimbulkan pelanggaran terhadap hak Anak;  
+a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak Perempuan;  
+b. penguatan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danc. pencegahan pernikahan di bawah tanganjpernikahan sirl. (2) Upaya yang dilakukan dalam rangka mencegah teIjadinya pelanggaran terhadap hak Anak meliputi:a. pengawasan berbagai kondisi yang teIjadi di lingkungannya yang menimbulkan pelanggaran terhadap hak Anak;  
 b. penguatan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danc. pencegahan teIjadinya perkawinan pada usia Anak.  
 
 ## Bagian Ketiga
@@ -327,8 +339,10 @@ Paragraf3 KetenagakeIjaan Pasal31 Pengusaha dilarang untuk mempekeIjakan Anak.
 Pasal32 (1) Ketentuan sebagaimana dimaksud dalam Pasal 31 dapat dikecualikan bagi Anak yang berumur antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun, untuk melakukan pekeIjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial.  
 
 2. Pengusaha yang mempekeIjakan Anak pada pekeIjaan ringan sebagaimana dimaksud pada ayat (1) harns memenuhi persyaratan meliputi: a. izin tertulis dari orang tua atau wali;  
-b. perjanjian kerja antara pengusaha dengan orang tua atau wall; c. waktu kerja maksimum 3 (tiga)jam;  
-d. dilakukan pada siang hari dan tidak mengganggu waktu sekoIah; e. keselamatan dan kesehatan kerja;  
+b. perjanjian kerja antara pengusaha dengan orang tua atau wall;  
+c. waktu kerja maksimum 3 (tiga)jam;  
+d. dilakukan pada siang hari dan tidak mengganggu waktu sekoIah;  
+e. keselamatan dan kesehatan kerja;  
 f. adanya hubungan kerja yangjeIas; dang. menerima upah sesuai dengan ketentuan peraturan perundang - undangan.  
 3. Ketentuan sebagaimana dimaksud pada ayat (2) huruf a, huruf b, huruf f, dan huruf g dikecualikan bagi Anak yang bekerja pada usaha keluarganya.  
 
@@ -340,7 +354,8 @@ Pasal34 (1) Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian
 
 I\ Pasal35 (1) Setiap orang dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.  
 
-2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1)meliputi: a. segaia pekerjaan dalam bentuk perbudakan atau sejenisnya; b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk . 1. pelacuran;  
+2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1)meliputi: a. segaia pekerjaan dalam bentuk perbudakan atau sejenisnya;  
+b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk . 1. pelacuran;  
 2. produksi pomografi;  
 3. pomo aksi;  
 4. perjudian;  
@@ -399,7 +414,8 @@ c. P2TP2A;
 d. Unit Pelayanan Perempuan dan Anak (UPPA);  
 e. Rumah Perlindungan Trauma Center (RPTC);  
 f. Rumah Perlindungan Sosial Anak (RPSA);  
-g. Women Crisis Centre (WCC)h. Badan Penasehat Pembinaan dan Pelestarian Perkawinan (BP4); i. Kepolisian;  
+g. Women Crisis Centre (WCC)h. Badan Penasehat Pembinaan dan Pelestarian Perkawinan (BP4);  
+i. Kepolisian;  
 j. Kejaksaan;  
 k. Pengadilan;  
 
@@ -448,7 +464,8 @@ Pelayanan Rehabilitasi Sosial Bagi Perempuan dan Anak Korban Kekerasan Pasal45 (
 2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi: a. pelayanan konseling;  
 b. penyediaan rumah aman;  
 c. bimbingan rohani.  
-3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. Perangkat Daerah yang mempunyai tugas dan berfungsi di bidang sosial; b. DPPPA;  
+3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. Perangkat Daerah yang mempunyai tugas dan berfungsi di bidang sosial;  
+b. DPPPA;  
 c. P2TP2A;  
 d. Women Crisis Centre (WeC);  
 e. organisasi kemasyarakatan bidang sosial; dan/ atauf. instansi keagamaan.  
@@ -491,8 +508,10 @@ Pelayanan Penegakan dan Bantuan Hukum I, Pasal49 (1) Pelayanan penegakan dan ban
 
 Pasal50 (1)Pelayanan penegakan dan bantuan hukum sebagaimana dimaksud dalam pasal 49 ditujukan untuk memberikan pendampingan dan perlindungan terhadap Perempuan dan Anak korban kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hak hukum.  
 
-2. Jenis pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) meliputi:a. bantu an hukum dalam proses pelaporan dan pembuatan BAP; b. bantuan hukum dalam proses penuntutan di kejaksaan;  
-c. bantuan hukum dalam proses pemeriksaan di pengadilan; d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
+2. Jenis pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) meliputi:a. bantu an hukum dalam proses pelaporan dan pembuatan BAP;  
+b. bantuan hukum dalam proses penuntutan di kejaksaan;  
+c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
+d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
 3. Pemerintah Kabupaten memberikan bantuan hukum kepada Anak dan Perempuan korban kekerasan secara bebas biaya.  
 4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Kabupaten dapat bekeIjasama dengan:a. Lembaga Bantuan Hukum (LBH);  
 b. Women Crisis Center (WCC);  

@@ -11,6 +11,7 @@ PEI{YELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 # DENGAN RAHMAT TUHAN.YANG MAHA ESA BUPATI MUSI RAWAS,
 
 Menimbang:  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 
@@ -141,7 +142,8 @@ c. non diskriminasi; dand. kepentingan terbaik bagi korban
 penyelenggaraan perlindungan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar Negara Republik Indonesia Tahun lg45 serta. prinsrp-prinsip dasar Konvensi Hak-Hak Anak meliputi:
 a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. melakukan pendidikan tentang nilai anti kekerasan terhadap perempuan dan anak;  
-c. sosialisasi perahrran perundang-undangan yang berkaitan dengart penyelenggaraalr perlindungan perempuan dan anak korban kekerasan; d. menyediakan fasilitas yang diperlukan unhrk pemulihan korban, meliputi:
+c. sosialisasi perahrran perundang-undangan yang berkaitan dengart penyelenggaraalr perlindungan perempuan dan anak korban kekerasan;  
+d. menyediakan fasilitas yang diperlukan unhrk pemulihan korban, meliputi:
 1. tenaga yang atrli dan profesional;  
 2. pusat PelaYanan, rumah aman; dan
 3. sarana dan prasarana lain yang diperlukan untuk pemulihan korban. e. pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
@@ -149,7 +151,8 @@ c. sosialisasi perahrran perundang-undangan yang berkaitan dengart penyelenggara
 #### Pasal 7
 
 Unhrk penyelenggaraan pelayanan terhadap korban, Instansi Pemerintah dan pemerintah Daerah sesuai dengan fungsi dan hrgas masing-masing dapat melakukan uPaya:
-a. penyediaan ruang pelayanan khusus di kantor kepolisian; b. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
+a. penyediaan ruang pelayanan khusus di kantor kepolisian;  
+b. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
 c. pembuatal dan pengembangan sistem dan mekanisme kerja sama program pelayanan yang melibatkan pihak yang mudah diakses oleh korban; dand. memberikal perlindungan bagi pendamping, saksi, keluarga, dan teman korban.  
 
 #### Pasal 8
@@ -169,8 +172,10 @@ Tujuan dibentuknya Peraturan Daerah ini adalah untuk memberikan perlindungan dan
 
 #### Pasal 5
 
-Setiap perempuan dan anak Korban kekerasan berhah mendapatkan a. perlindungan dari pihak keluarga, kepolisian, kejaksa.an, pengadilan, advokat, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan; b. pelayanan kesehatan sesuai dengan kebutuhan medis;  
-c. penanganan secara khusus berkaitan dengan keratrasiaan korban; d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peratrrran perundang-undangan; dane. pelayanan bimbingan rohani
+Setiap perempuan dan anak Korban kekerasan berhah mendapatkan a. perlindungan dari pihak keluarga, kepolisian, kejaksa.an, pengadilan, advokat, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
+b. pelayanan kesehatan sesuai dengan kebutuhan medis;  
+c. penanganan secara khusus berkaitan dengan keratrasiaan korban;  
+d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peratrrran perundang-undangan; dane. pelayanan bimbingan rohani
 
 # BAB III
 
@@ -366,11 +371,13 @@ Setiap orang dilarang merekmt atau memperal,at anak unttrk kepentingart militer 
 
 1. Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 3O meliputi anak yang berkonflik dengan hukum dan anak korban tindak pidana, merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.  
 2. Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. perlahran atas anak secara manusiawi sesuai dengan martabat dan hak-hak anak;  
-b. penyediaan petugas pendamping khusus anak sejak dini; c. penyediaan sarana dan prasarana khusus;  
+b. penyediaan petugas pendamping khusus anak sejak dini;  
+c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi anak;  
 e. pemantauan dan pencatatan terus menerus terhadap perkembangan anak yang berhadapan dengan hukum;  
 f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media rrassa dan untrrk menghindarilabelisasi.  
-3. perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. upala rehabilitasi, baik dalam lembaga maupun di luar lembaga; b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
+3. perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. upala rehabilitasi, baik dalam lembaga maupun di luar lembaga;  
+b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
 c. pemberian jaminan keselamatan bagr saksi korban dan saksi ahli, baik frsik, mental, nraupun sosial; dand. pemberian aksesibilitas unttrk mendapatkan informasi mengenai perkembangan Perkara.  
 
 #### Pasal 36
@@ -443,7 +450,9 @@ p. habilitasi dan rehabilitasi;
 q. konsesi;  
 r. pendataan;  
 
-$. h.idup secara rnandiri dan dilibatkatr dalam masyarakat; t. berekspresi, berkomunikasi, dan memperoleh informasi; u. berpindah tempat dan kewarganegaraan; dan
+$. h.idup secara rnandiri dan dilibatkatr dalam masyarakat;  
+t. berekspresi, berkomunikasi, dan memperoleh informasi;  
+u. berpindah tempat dan kewarganegaraan; dan
 v. bebas dari tindakan Diskriminasi, penelantaran, penylksaan, dan eksploitasi.  
 
 #### Pasal 44
@@ -457,8 +466,10 @@ d. unhrk mendapatkan Pelindungan lebih dari tindak kekerasan, termasuk kekerasan
 #### Pasal 45
 
 Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), anak penyandang disabilitas memiliki hak:
-a. mendapatkan Pelindungan khusus dari Diskriminasi, penelantaran, pelecehan, eksploitasi, serta kekerasan dan kejahatan seksual; b. mendapatkan perawatan dan pengasuhan keluarga atau keluarga pengganti unttrk tumbuh kembang secara optimal;  
-c. dilindungi kepentingannya dalam pengambilan kepuhrsan; d. perlakuan anak secara manusiawi sesuai dengan martabat dan hak anak;  
+a. mendapatkan Pelindungan khusus dari Diskriminasi, penelantaran, pelecehan, eksploitasi, serta kekerasan dan kejahatan seksual;  
+b. mendapatkan perawatan dan pengasuhan keluarga atau keluarga pengganti unttrk tumbuh kembang secara optimal;  
+c. dilindungi kepentingannya dalam pengambilan kepuhrsan;  
+d. perlakuan anak secara manusiawi sesuai dengan martabat dan hak anak;  
 e. Pemenuhan kebuhrhan khusus;  
 f. perlakuan yang sama dengan anak lain untrrk mencapai integrasi sosial dan pengembangan individu; dartg. mendapatkan pendampingan sosial.  
 
@@ -472,7 +483,8 @@ Hak hidup unhrk Penyandang Disabilitas meliputi hak:
 a. atas Penghormatan integritas;  
 b. tidak dirampas nyawanya;  
 c. mendapatkan perawatan dan pengasuhan yang menjamin kelangsungan hidupnya;  
-d. bebas dari penelantaran, pemasungzrn, penguamgan, dan pengucilan; e. bebas dari alcaman dan berbagai bentuk eksploitasi; dan f. bebas dari penyiksaan, perlakuan dan penghukuman lain yang kejam, tidak manusianri, dan merendahkan martabat manusia.  
+d. bebas dari penelantaran, pemasungzrn, penguamgan, dan pengucilan;  
+e. bebas dari alcaman dan berbagai bentuk eksploitasi; dan f. bebas dari penyiksaan, perlakuan dan penghukuman lain yang kejam, tidak manusianri, dan merendahkan martabat manusia.  
 
 ## Bagian Ketiga
 
@@ -499,7 +511,8 @@ Bagan Kelima Hak Keadilan dan Perlindungan Hukum
 Hak keadilan dan perlindungan hukum untuk Penyandang Disabilitas meliputi hak:
 a. atas perlalman yang sama di hadapan huktrm;  
 b. diakui sebagai subjek hukum;  
-c. memiliki dan mewarisi harta bergerak atau tidak bergerak; d. mengendalikan masalah keuangan atau menunjuk orang untuk mewakili kepentingannya dalam urusan keuangan;  
+c. memiliki dan mewarisi harta bergerak atau tidak bergerak;  
+d. mengendalikan masalah keuangan atau menunjuk orang untuk mewakili kepentingannya dalam urusan keuangan;  
 e. memperoleh akses terhadap pelayanan jasa perbankan dan nonperbankan;  
 f. memperoleh penyediaan Aksesibilitas dalam pelayanan peradilan; 24g. atas Pelindungan dari segala tekanan, kekerasan, penganiayaan, diskriminasi, dan/atau perampasan atau pengambilalihan hak milik;  
 
@@ -508,7 +521,8 @@ h. keperdataan di dalam dan di luar pengadilan; dan dilindungi hak kekayaan inte
 
 #### Pasal 5O
 
-Hak pendidikan unttrk Penyandang Disabilitas meliputi hak: a. mendapatkan pendidikan yang bermuhr pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan secara inklusif dan khusus; b. mempunyai Kesamaan Kesempatan untuk menjadi pendidik atau tenaga kependidikan pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan;  
+Hak pendidikan unttrk Penyandang Disabilitas meliputi hak: a. mendapatkan pendidikan yang bermuhr pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan secara inklusif dan khusus;  
+b. mempunyai Kesamaan Kesempatan untuk menjadi pendidik atau tenaga kependidikan pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan;  
 c. mempunyai Kesamaan Kesempatan sebagai penyelenggara pendidikan yang bermutu pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan; dand. mendapatkan Akomodasi yang Layak sebagai peserta didik.  
 
 # BAB VII
@@ -710,21 +724,27 @@ o. pelindungan dari bencana;
 p. habilitasi dan rehabilitasi;  
 q. konsesi;  
 r. pendataan;  
-s. hidup secara mandiri dan dilibatkan dalam masyarakat; t. berekspresi, berkomunikasi, dan memperoleh informasi; u. berpindah tempat dan kewarganegaraan; danv. bebas dari tindakan Diskriminasi, penelantaran, penyiksaan, dart eksploitasi.  
+s. hidup secara mandiri dan dilibatkan dalam masyarakat;  
+t. berekspresi, berkomunikasi, dan memperoleh informasi;  
+u. berpindah tempat dan kewarganegaraan; danv. bebas dari tindakan Diskriminasi, penelantaran, penyiksaan, dart eksploitasi.  
 
 tentang persyaratan yuridis formal dan yuridis material yang hartrs dipenuhi apabila kita mau membentuk peraturan perundang undangan, termasuk Perda, mulai dari penyusunan Naskatr Akademik (NA), hingga Rancangal Peraturan Daerah KabupatenlKota. Dengan adanya UU ini,maka semua pihak wajib menjadikan dasar dalam pembentukan maupun pada saat konsultasi publik, agff mematuhi ketentuan Undang-Undang ini, sehingga kita semua dapat focus ke format maupun substansi Raperda yang dibahas.  
 
 Perlindungan terhadap anak, bukan saja yang menjadi korban kekerasan, tetapi juga yang sedang mengalami proses peradilan, sebagaimana diatur dalam Undang-Undang Nomor 11 Tahun 2OL2 tentang Sistem Peradilan Anak, sebagai penyempurnaan UU Nomor 3 Tahun L997 tentang Pengadilan Anak, yang pada Pasal 3 menetapkan bahwa: Setiap Anak dalam proses peradilan pidana berhak:
 a. diperl,akukan secara manusiawi deng_an memperhatikan kebuhrhan sesuai dengan umurnya;  
 b. dipisahkan dari orang dewasa;  
-c. memperoleh banhran hukum dan banttran lain secara efektif; d. melakukan kegiatan rekreasional;  
+c. memperoleh banhran hukum dan banttran lain secara efektif;  
+d. melakukan kegiatan rekreasional;  
 e. bebas dari penyrksaan,penghukuman atau perlakuan lain yang kejam, tidak manusiawi, serta merendahkan derajat dan martabatnya;  
-f. tidak dijatuhi pidana mati atau pidana seumur hidup; g. tidak ditangkap, ditahan, atau drpenjara, kecuali sebagai upaya terakhir dan dalam waktu yang paling singkat;  
-h. memperoleh keadilan dimuka pengadilan Anak yang objektif, tidak memihak, dan dalam sidang yang tertutup untuk umum; i. tidakdipublikasikan identitasnya;  
+f. tidak dijatuhi pidana mati atau pidana seumur hidup;  
+g. tidak ditangkap, ditahan, atau drpenjara, kecuali sebagai upaya terakhir dan dalam waktu yang paling singkat;  
+h. memperoleh keadilan dimuka pengadilan Anak yang objektif, tidak memihak, dan dalam sidang yang tertutup untuk umum;  
+i. tidakdipublikasikan identitasnya;  
 j. memperoleh pendampingan orangtua/Wali dan orang yang dipercaya oleh Anak;  
 k. memperoleh advokasi sosial;  
 1. memperoleh kehidupan pribadi;  
-m. memperoleh aksesibilitas, terutama bagr anak cacat; n. memperoleh pendidikan;  
+m. memperoleh aksesibilitas, terutama bagr anak cacat;  
+n. memperoleh pendidikan;  
 
 Dari ketentrran penrndang-undangan tersebut diatas, kita dapat memahami betapa besar perhatian Pemerintah h.rsat untuk melindungi warga negaranya yang berada pada posisi tidat< menyenangkan, yaitu saat menjadi korban kekerasan, narnun pada kenyataannya proses hukrm masih sedikit yang dilakukan bag korban kekerasan yang dewasa ini makin banyak dan kompleks permasatahannya. Selain itu, ternyata vonis hakim Pengadilan Negeri, masih banyak yang jauh dari tuntutan keadilan masyarakat, termasuk keluarga dan korban kekerasan.  
 

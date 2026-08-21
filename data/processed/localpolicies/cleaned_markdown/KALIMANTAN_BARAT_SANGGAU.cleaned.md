@@ -7,6 +7,7 @@
 # TENTANG
 
 PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI SANGGAU, Menimbang:  
+ 
 Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
 
 # YOHANES
@@ -22,6 +23,7 @@ Sanggau,
 # YAKOBUS, SH,  MH
 
 NIP. 19700223 Mengingat:  
+ 
 Disetujui oleh:
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dari segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan merupakan pelanggaran hak asasi  manusia, sehingga perlu dilindungi harga diri dan  martabatnya serta dijamin hak hidupnya sesuai  dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -141,7 +143,8 @@ Pemberdayaan
 
 #### Pasal 8
 
-Bentuk pemberdayaan bagi perempuan Korban Kekerasan meliputi: a. membentuk komunitas perempuan Korban Kekerasan; b. pelatihan kerja;  
+Bentuk pemberdayaan bagi perempuan Korban Kekerasan meliputi: a. membentuk komunitas perempuan Korban Kekerasan;  
+b. pelatihan kerja;  
 c. usaha ekonomi produktif dan kelompok usaha bersama; dan d. bantuan permodalan.  
 
 #### Pasal 9
@@ -192,7 +195,8 @@ b. perbuatan yang mengakibatkan ketergantungan ekonomi.
 
 #### Pasal 17
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 12 huruf e meliputi: a. tindakan yang mengeksploitasi ekonomi atau seksual perempuan dengan maksud untuk menguntungkan diri sendiri atau orang lain; b. tindakan dengan atau tanpa persetujuan Korban yang meliputi tetapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa,  perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan  fisik, seksual, organ reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan baik materil maupun immaterial; dan/atau
+Eksploitasi sebagaimana dimaksud dalam Pasal 12 huruf e meliputi: a. tindakan yang mengeksploitasi ekonomi atau seksual perempuan dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+b. tindakan dengan atau tanpa persetujuan Korban yang meliputi tetapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa,  perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan  fisik, seksual, organ reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan baik materil maupun immaterial; dan/atau
 c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain  dari Korban untuk mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 18
@@ -229,7 +233,8 @@ Pemerintah Daerah
 
 1. Pemerintah Daerah bertanggung jawab melaksanakan upaya  Perlindungan Perempuan dari tindak Kekerasan dalam bentuk: a. membentuk PPT;  
 b. perumusan kebijakan;  
-c. menyusun perencanaan dan melaksanakan program dan kegiatan; d. memberikan dukungan sarana dan prasarana; dane. mengawasi penyelenggaraan pelayanan terhadap Korban dengan  standar pelayanan minimal.  
+c. menyusun perencanaan dan melaksanakan program dan kegiatan;  
+d. memberikan dukungan sarana dan prasarana; dane. mengawasi penyelenggaraan pelayanan terhadap Korban dengan  standar pelayanan minimal.  
 2. Dalam melaksanakan tanggung jawab sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah menyusun Rencana Aksi Daerah  Perlindungan Perempuan.  
 3. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Bupati.  
 
@@ -243,7 +248,8 @@ Masyarakat dan Keluarga
 
 #### Pasal 22
 
-Masyarakat dan Keluarga mempunyai kewajiban dan tanggung jawab: a. mencegah terjadinya Kekerasan Terhadap Perempuan; b. melaporkan bila terjadi Kekerasan;  
+Masyarakat dan Keluarga mempunyai kewajiban dan tanggung jawab: a. mencegah terjadinya Kekerasan Terhadap Perempuan;  
+b. melaporkan bila terjadi Kekerasan;  
 c. melindungi Korban; dand. memberikan pertolongan darurat.  
 
 ## Bagian Ketiga

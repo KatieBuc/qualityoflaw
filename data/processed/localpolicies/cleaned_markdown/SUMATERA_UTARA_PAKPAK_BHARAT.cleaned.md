@@ -15,11 +15,13 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 # BUPATI PAKPAK BHARAT,
 
 Menimbang:  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia, dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional  perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang, dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 7 Tahun 1984 tentang  Pengesahan Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi terhadap Wanita (Convention on the Elimination of all Form of Discrimination Againts Women) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -109,7 +111,8 @@ e. kepastian Hukum.
 
 1. Tujuan penyelenggaraan perlindungan perempuan dan anak korban kekerasan untuk:a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
-c. melindungi, memberikan rasa aman bagi perempuan dan anak; d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor dan saksi;  
+c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
+d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor dan saksi;  
 e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis  dan sejahtera.  
 2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:  a. kekerasan fisik;  
 b. kekerasan psikis;  
@@ -126,7 +129,8 @@ e. pembatasan ruang gerak.
 Setiap perempuan dan anak korban kekerasan berhak untuk mendapatkan:  a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. perlindungan dari pihak keluarga, masyarakat, Pemerintah Daerah  dan/atau pihak lain baik sementara maupun berdasarkan penetapan  perintah perlindungan dari pengadilan;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
-d. penanganan secara khusus berkaitan dengan kerahasiaan korban; e. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan;  
+d. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
+e. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan;  
 f. pelayanan bimbingan rohani;  
 g. menentukan sendiri keputusannya.  
 
@@ -178,7 +182,8 @@ Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal 5 huruf c 
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), pemerintah daerah melakukan upaya sebagai berikut:a. peningkatan jumlah mutu pendidikan baik formal maupun non formal  dan informal;  
 b. pembukaan aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. pembukaan lapangan kerja bagi perempuan;  
-d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
+d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
+e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
 f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak; dang. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan.  
 
 #### Pasal 10
@@ -207,9 +212,12 @@ c. rehabilitasi sosial;
 d. bantuan hukum;  
 e. pemulangan;  
 f. reintegrasi sosial.  
-5. Dalam memberikan perlindungan terhadap perempuan dan anak korban  kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban; b. menyelenggarakan perlindungan dan pemenuhan hak korban atas  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial  dan bantuan hukum;  
-c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan relawan pendamping yang diperlukan bagi korban; d. melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk  perawatan dan pemulihan kesehatan korban serta melakukan kerjasama  dengan lembaga perlindungan saksi dan korban, rumah perlindungan  sosial atau pusat trauma milik pemerintah, masyarakat atau lembaga lembaga lainnya untuk pemulihan kesehatan korban;  
-e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban; f. menjaga kerahasiaan korban;  
+5. Dalam memberikan perlindungan terhadap perempuan dan anak korban  kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
+b. menyelenggarakan perlindungan dan pemenuhan hak korban atas  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial  dan bantuan hukum;  
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan relawan pendamping yang diperlukan bagi korban;  
+d. melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk  perawatan dan pemulihan kesehatan korban serta melakukan kerjasama  dengan lembaga perlindungan saksi dan korban, rumah perlindungan  sosial atau pusat trauma milik pemerintah, masyarakat atau lembaga lembaga lainnya untuk pemulihan kesehatan korban;  
+e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
+f. menjaga kerahasiaan korban;  
 g. memberikan pemenuhan bantuan hukum bagi korban;  
 h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PPT tetap bertanggungjawab atas keseluruhan proses  rujukan pelayanan yang diperlukan korban.  
 6. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (3)  dilaksanakan sesuai dengan SPM.  
@@ -222,7 +230,9 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PP
 
 SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan,  meliputi layanan:
 a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
-b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan; c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan; d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan;  
+b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
+c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
+d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan;  
 e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
 jdih.pakpakbharatkab.go.id - 9 -
@@ -288,7 +298,8 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah dan tidak 
 #### Pasal 19
 
 Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban  kekerasan, masyarakat dapat:
-a. membentuk mitra keluarga di tingkat desa oleh masyarakat; b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
+a. membentuk mitra keluarga di tingkat desa oleh masyarakat;  
+b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 c. melakukan pertolongan pertama kepada korban;  
 d. peran serta kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  e. peran serta masyarakat dilakukan oleh perorangan, lembaga sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan,  lembaga keagamaan, swasta, dan media massa.  
 
