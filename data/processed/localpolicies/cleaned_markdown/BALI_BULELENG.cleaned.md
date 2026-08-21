@@ -53,7 +53,7 @@ Mengingat:
 15. PeraturanMenteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu bagi  Perempuan dan Anak Korban Kekerasan;  
 16. PeraturanMenteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar  Pelayanan Minimal Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan;  
 17. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan  Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
-18. PeraturanMenteri NegaraPemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan;  
+18. PeraturanMenteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan;  
 19. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 6 Tahun 2015 tentang Sistem  Pemberdayaan Perempuan dan Perlindungan Anak;  
 20. Peraturan Daerah Provinsi Bali Nomor 6 Tahun 2014 tentang Perlindungan Anak (Lembaran Daerah Provinsi Bali  Tahun 2014 Nomor 6, Tambahan Lembaran Daerah Provinsi Bali Nomor 6 Tahun 2014);  
 
