@@ -54,8 +54,8 @@ PEMBERDAYAAN PEREMPUAN.
 
 #### Pasal 1
 
-Dalam Qanun ini yang dimaksud dengan: 1. Kota adalah Kota Subulussalam.  
-
+Dalam Qanun ini yang dimaksud dengan:  
+1. Kota adalah Kota Subulussalam.  
 2. Pemerintah Kota adalah Walikota sebagai unsur penyelenggaran Pemerintah Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom.  
 3. Walikota adalah Walikota Subulussalam.  
 4. Perangkat Daerah adalah unsur pembantu kepala daerah dan DPRK dalam penyelenggaan Urusan Pemerintahan yang menjadi kewenangan Daerah.  
