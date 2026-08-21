@@ -14,12 +14,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman dan  bebas dari segala bentuk Kekerasan;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang  cenderung mengalami Kekerasan yang merupakan tindakan yang melanggar hak asasi manusia perlu mendapat Perlindungan hukum;  
 c. bahwa penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan di Kabupaten Badung perlu didukung kelembagaan dan peraturan sehingga dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -103,7 +105,8 @@ b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korb
 
 #### Pasal 4
 
-Setiap Perempuan dan Anak Korban Kekerasan berhak: a. untuk dihormati harkat dan martabat sebagai manusia;  
+Setiap Perempuan dan Anak Korban Kekerasan berhak:  
+a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. untuk mendapatkan Perlindungan dari keluarga, masyarakat,  Pemerintah Daerah dan/atau pihak lain baik sementara maupun  berdasarkan penetapan perintah Perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami Korban Kekerasan;  
 d. atas penanganan secara khusus berkaitan dengan kerahasiaan  Korban;  

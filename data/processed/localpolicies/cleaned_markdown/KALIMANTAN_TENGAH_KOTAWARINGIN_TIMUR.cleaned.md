@@ -20,12 +20,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga Negara berhak atas rasa aman dan bebas dari segala bentuk tindak kekerasan terhadap perempuan dan anak yang merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan  dan anak di daerah terus meningkat, sehingga diperlukan upaya perlindungan;  
 c. bahwa peraturan perundang-undangan yang mengatur mengenai perlindungan perempuan dan anak korban kekerasan belum mengatur upaya-upaya perlindungan di daerah sehingga diperlukan dukungan kelembagaan dan peraturan yang dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b dan huruf c tersebut diatas, perlu diatur dan ditetapkan dengan Peraturan Daerah Kabupaten Kotawaringin Timur tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
 1. Undang-Undang Nomor 27 Tahun 1959 tentang  Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9, Tambahan Lembaran Negara Republik Indonesia Nomor 352) Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran negara Republik Indonesia 1820);  
 
@@ -95,7 +97,8 @@ Pasal Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan Korban adalah: a. K e m a n u s i a a n ;  
+Asas penyelenggaraan perlindungan Korban adalah:  
+a. K e m a n u s i a a n ;  
 b. Penghormatan dan pemenuhan terhadap hak-hak korban;  
 c. Keadilan dan kesetaraan gender;  
 d. Non diskriminasi;  
@@ -296,7 +299,8 @@ a. Mendampingi dan membela setiap proses pelayanan hukum; danb. Membuat laporan 
 #### Pasal 27
 
 1. P2TP2A yang dibentuk oleh Pemerintah Daerah sekurang kurangnya memiliki tiga konselor.  
-2. Konselor sebagaimana dimaksud pada ayat (1) meliputi: a. Konselor dalam bidang hukum;  
+2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Konselor dalam bidang hukum;  
 b. Konselor dalam bidang kesehatan; danc. Konselor dalam bidang psikologi.  
 
 # BAB VIII
@@ -397,7 +401,8 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 39
 
-Bentuk pemberdayaan perempuan korban kekerasan meliputi: a. Pelatihan kerja;  
+Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
+a. Pelatihan kerja;  
 b. Usaha ekonomis produktif dan kelompok usaha bersama; danc. Bantuan permodalan.  
 
 #### Pasal 40
@@ -433,7 +438,8 @@ Kooordinasi Perlindungan Korban
 #### Pasal 44
 
 1. Dalam upaya menyediakan dan menyelenggarakan penanganan layanan bagi korban, Pemerintah Daerah membentuk FPKK.  
-2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk: a. Mengoordinasikan dan mensingkronisasikan penanganan pelayanan P2TP2A;  
+2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
+a. Mengoordinasikan dan mensingkronisasikan penanganan pelayanan P2TP2A;  
 b. Memelihara dan mengembangkan jejaring serta sistem rujukan; danc. Mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
 3. Kepungurusan dan keanggotaan FPKK sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3)  dikelompokkan dalam peran sebagai berikut:a. P eran kesehatan;  

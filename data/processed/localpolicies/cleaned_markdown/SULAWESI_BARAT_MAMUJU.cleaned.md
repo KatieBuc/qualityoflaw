@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan  hak asasi perempuan terhadap pemberdayaan dan  perlindungan perempuan merupakan salah satu nilai yang  tertuang dalam Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah sebagaimana dalam Lampiran  disebutkan bahwa pembagian urusan pemerintah dalam  bidang pemberdayaan perempuan dengan salah satu sub  urusan adalah perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -148,7 +150,8 @@ Bidang Politik
 b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
 2. Pemberdayaan perempuan di bidang politik sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan yang berlaku.  
-3. Pemerintah Daerah memberikan jaminan kepada  perempuan untuk memilih dan/atau dipilih dalam: a. pemilihan umum;  
+3. Pemerintah Daerah memberikan jaminan kepada  perempuan untuk memilih dan/atau dipilih dalam:  
+a. pemilihan umum;  
 b. pemilihan kepala daerah;  
 c. pemilihan kepala desa; dan/ataud. pemilihan jabatan politik lainnya.  
 
@@ -452,7 +455,8 @@ Peningkatan Kualitas Keluarga Dalam Mewujudkan  Kesetaraan Gender
 
 #### Pasal 32
 
-Pemerintah Daerah melakukan upaya peningkatan kualitas  keluarga dalam mewujudkan kesetaraan gender dengan cara: a. pembinaan;  
+Pemerintah Daerah melakukan upaya peningkatan kualitas  keluarga dalam mewujudkan kesetaraan gender dengan cara:  
+a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
 d. fasilitas penyelenggaraan pembangunan keluarga; dan e. peningkatan kualitas kesehatan ibu hamil dan menyusui.  
@@ -499,7 +503,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Peningkatan Kualitas Keluar
 
 #### Pasal 38
 
-1. Pemerintah Daerah melakukan upaya penguatan dan  pengembangan lembaga penyedia layanan meliputi: a. pembinaan;  
+1. Pemerintah Daerah melakukan upaya penguatan dan  pengembangan lembaga penyedia layanan meliputi:  
+a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
 d. fasilitasi penyelenggaraan pembangunan keluarga; dan e. meningkatkan kualitas kesehatan ibu hamil dan  menyusui.  

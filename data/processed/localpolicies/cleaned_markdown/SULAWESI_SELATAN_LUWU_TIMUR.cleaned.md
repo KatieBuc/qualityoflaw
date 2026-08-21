@@ -18,11 +18,13 @@
 
 Menimbang:  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup perempuan berhak mendapatatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga, memberi penegasan perlunya perlindungan dan pemberian rasa aman kepada perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -133,7 +135,8 @@ PencegahanKekerasan
 
 #### Pasal 7
 
-1. Dalam perlindungan perempuan dilakukan pencegahan kekerasan. (2) Pencegahan sebagaimana ayat (1) dilaksanakan dengan cara: a. mensosialisasikan peraturan perundang-undangan;  
+1. Dalam perlindungan perempuan dilakukan pencegahan kekerasan. (2) Pencegahan sebagaimana ayat (1) dilaksanakan dengan cara:  
+a. mensosialisasikan peraturan perundang-undangan;  
 b. memberikan edukasi bahaya kekerasan terhadap perempuan;  
 c. melakukan seminar/lokakarya atau sejenisnya;  
 d. menjalin kerja sama dengan instansi pemerintah atau lembaga non pemerintah dalam upaya pencegahan kekerasan; dane. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan  terjadinya kekerasan.  
@@ -193,7 +196,8 @@ Pelayanan Pendampingan
 2. Pendampingan dilakukan oleh tenaga ahli yang mempunyai keahlian  melakukan konseling, terapi dan/atau advokasi untuk penguatan dan  pemulihan perempuan korban kekerasan.  
 3. Tenaga ahli yang melakukan pendampingan sebagaimana dimaksud pada  ayat (2) bekerjasama dengan UPTD PPA.  
 4. Tenaga ahli sebagaimana dimaksud pada ayat (2) wajib disediakan oleh  Perangkat Daerah yang membidangi perempuan.  
-5. Tenaga ahli sebagaimana dimaksud pada ayat (2) terdiri dari: a. tenaga kesehatan;  
+5. Tenaga ahli sebagaimana dimaksud pada ayat (2) terdiri dari:  
+a. tenaga kesehatan;  
 b. advokat;  
 c. pekerja sosial;  
 d. pembimbing rohani; dane. psikolog atau psikiater.  
@@ -266,11 +270,13 @@ b. monitoring/bimbingan lanjut; danc. melakukan pemantaun paling kurang 3 (tiga)
 
 #### Pasal 21
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan dari tindak  kekerasan Pemerintah Daerah dapat bekerja sama dengan: a. Kementerian;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan dari tindak  kekerasan Pemerintah Daerah dapat bekerja sama dengan:  
+a. Kementerian;  
 b. Pemerintah Daerah Provinsi;  
 c. Pemerintah Daerah Kabupaten/kota;  
 d. Perguruan tinggi; dane. Lembaga non pemerintah.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: a. pertukaran data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegritasi sosial; dand. penyediaan barang bukti dan saksi.  
 
@@ -383,7 +389,8 @@ Diundangkan di Malili pada tanggal 12 April 2021
 
 ##### LEMBARAN DAERAH KABUPATEN LUWU TIMUR TAHUN 2021 NOMOR 4
 
-NOREG PERATURAN DAERAH KABUPATEN LUWU TIMUR PROVINSI  SULAWESI SELATAN NOMOR: B.HK.05.026.21
+NOREG PERATURAN DAERAH KABUPATEN LUWU TIMUR PROVINSI  SULAWESI SELATAN NOMOR:  
+B.HK.05.026.21
 
 ##### PENJELASAN
 

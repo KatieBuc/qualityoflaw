@@ -94,7 +94,8 @@ Pasal5 Dalam hal lerjadi kekerasan, setiap korban berhak mendapatkan pendampinga
 
 ## KEWAJIBAN DAN TANGGUNG JAWAB
 
-Pasal6 (1) Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan, dalam bentuk: a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan sarta peraturan perundang-undangan;  
+Pasal6 (1) Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan, dalam bentuk:  
+a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan sarta peraturan perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaran perlindungan perempuaan dan anak korban kekerasan;  
 d. melakukan pemanlauaan dan evaluasi lerhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  

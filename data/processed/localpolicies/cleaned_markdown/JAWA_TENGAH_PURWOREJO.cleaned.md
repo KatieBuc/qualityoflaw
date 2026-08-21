@@ -14,12 +14,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa tujuan negara adalah melindungi seluruh  tumpah darah Bangsa Indonesia dengan memberikan  jaminan atas rasa aman, kesetaraan, dan kesejahteraan;  
 b. bahwa perempuan dan anak masih dalam posisi rentan  dari berbagai bentuk tindakan kekerasan, eksploitasi,  diskriminasi, perlakuan salah dan penelantaran sehingga  perlu ada upaya strategis dari Pemerintah Daerah bersama  pihak-pihak terkait untuk memberikan perlindungan yang  sistematis dan komprehensif;  
 c. bahwa untuk memberikan landasan hukum dan pedoman  dalam penyelengaraan perlindungan perempuan dan anak di Daerah, perlu adanya pengaturan yang terintegrasi dan  komprehensif untuk mewujudkan Kabupaten Purworejo  ramah perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -98,7 +100,8 @@ g. terciptanya sistem sosial yang mendorong penghormatan  kepada perempuan dan p
 
 #### Pasal 5
 
-Ruang lingkup dalam peraturan daerah ini meliputi: a. hak perempuan dan anak;  
+Ruang lingkup dalam peraturan daerah ini meliputi:  
+a. hak perempuan dan anak;  
 b. hak-hak korban;  
 c. tugas dan tanggung jawab;  
 d. upaya pelindungan perempuan dan anak;  
@@ -206,7 +209,8 @@ Tugas dan Tanggungjawab Pemerintah Daerah
 
 #### Pasal 11
 
-1. Tugas dan tanggungjawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 10, meliputi: a. membuat kebijakan untuk mendorong upaya Pencegahan berbagai bentuk ancaman terhadap  perempuan dan anak serta memberikan pelindungan  yang komprehensif;  
+1. Tugas dan tanggungjawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 10, meliputi:  
+a. membuat kebijakan untuk mendorong upaya Pencegahan berbagai bentuk ancaman terhadap  perempuan dan anak serta memberikan pelindungan  yang komprehensif;  
 b. melaksanakan kebijakan dengan berorientasi pada  korban;  
 c. melakukan pengumpulan data dan verifikasi data  berkaitan informasi perempuan dan anak;  
 d. melakukan berbagai bentuk kerjasama untuk  meningkatkan upaya pelindungan perempuan dan  anak;  
@@ -235,7 +239,8 @@ Tugas dan Tanggungjawab Dunia Usaha
 
 #### Pasal 13
 
-1. Dunia Usaha wajib melakukan tugas dan tanggung jawab  sebagaimana dimaksud dalam Pasal 10 meliputi: a. membuat peraturan perusahaan yang ramah terhadap  pekerja perempuan;  
+1. Dunia Usaha wajib melakukan tugas dan tanggung jawab  sebagaimana dimaksud dalam Pasal 10 meliputi:  
+a. membuat peraturan perusahaan yang ramah terhadap  pekerja perempuan;  
 b. membuat kebijakan yang mencegah dan melindungi  pekerja perempuan dari tindakan Diskriminasi,  Kekerasan, dan/atau Eksploitasi dalam lingkungan  kerja;  
 c. memberikan penyuluhan atau sosialisasi di  lingkungan pekerjaan untuk Pencegahan, pelindungan  dan pelaporan terkait tindakan atau ancaman  Diskriminasi, Kekerasan, dan/atau Eksploitasi  terhadap perempuan;  
 d. menolak pekerja anak dibawah umur sesuai peraturan  perundang-undangan;  
@@ -461,7 +466,8 @@ Pelindungan
 
 #### Pasal 29
 
-1. Pemerintah Daerah memberikan pelindungan secara aktif  dan komprehensif terhadap anak dari berbagai tindakan: a. ancaman;  
+1. Pemerintah Daerah memberikan pelindungan secara aktif  dan komprehensif terhadap anak dari berbagai tindakan:  
+a. ancaman;  
 b. Kekerasan;  
 c. Eksploitasi;  
 d. penelantaran;  
@@ -475,7 +481,8 @@ e. Perlakuan Salah Terhadap Anak; danf. Ketidakadilan.
 
 #### Pasal 30
 
-Bentuk perlindungan yang diberikan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 29 antara lain: a. pengurangan risiko kerentanan;  
+Bentuk perlindungan yang diberikan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 29 antara lain:  
+a. pengurangan risiko kerentanan;  
 b. membentuk pengaman sosial; dan/atauc. penyediaan sarana dan prasarana pendukung  pelindungan anak.  
 
 ### Paragraf 1
@@ -487,13 +494,15 @@ Pengurangan Risiko Kerentanan
 1. Pemerintah Daerah melalui Perangkat Daerah Teknis atau  Perangkat Daerah terkait mengurangi resiko kerentanan  dengan manajemen risiko kerentanan yang komprehensif  dan tepat sasaran.  
 2. Upaya pengurangan risiko kerentanan sebagaimana  dimaksud pada ayat (1) antara lain:a. fasilitasi penyelenggaraan pengurangan risiko kerentanan;  
 b. fasilitasi penyelenggaraan keadilan sesuai dengan  peraturan perundang-undangan; danc. fasilitasi penguatan kapasitas masyarakat.  
-3. Fasilitas penyelenggaraan pengurangan risiko kerentanan  sebagaimana dimaksud pada ayat (2) huruf a, antara lain: a. identifikasi dan deteksi sejak dini potensi di masyarakat, lembaga atau Dunia Usaha terkait  tindakan Kekerasan, Eksploitasi, Perlakuan Salah  Terhadap Anak, dan penelantaran terhadap anak;  
+3. Fasilitas penyelenggaraan pengurangan risiko kerentanan  sebagaimana dimaksud pada ayat (2) huruf a, antara lain:  
+a. identifikasi dan deteksi sejak dini potensi di masyarakat, lembaga atau Dunia Usaha terkait  tindakan Kekerasan, Eksploitasi, Perlakuan Salah  Terhadap Anak, dan penelantaran terhadap anak;  
 b. melakukan tindakan segera untuk mitigasi risiko  kerentanan terhadap anak berdasarkan hasil  identifikasi dan deteksi sejak dini;  
 c. memberikan pembinaan dan pendampingan terhadap  orang tua atau wali yang teridentifikasi mengalami  kesulitan dan/atau hambatan dalam mengasuh,  merawat, dan menjaga anak; dand. memberikan pembinaan dan pendampingan terhadap  keluarga yang teridentifikasi mengalami kesulitan  dan/atau hambatan dalam membangun hubungan  yang sehat dan demokratis.  
 4. Fasilitas penyelenggaraan keadilan sesuai dengan  peraturan perundang-undangan sebagaimana  dimaksud pada ayat (2) huruf b, meliputi:a. penggunaan pendekatan diversi atau mediasi dalam  penyelesaian masalah anak yang diduga berhadapan  dengan hukum sesuai dengan ketentuan peraturan  perundang-undangan;  
 b. pemutusan nilai restitusi yang harus dibayarkan oleh  pelaku kepada korban sesuai dengan ketentuan  peraturan perundang-undangan;  
 c. penghukuman terhadap pelaku Kekerasan,  Eksploitasi, Perlakuan Salah Terhadap Anak,  dan/atau penelantaran sesuai dengan ketentuan  peraturan perundang-undangan dan keadilan yang  hidup dalam masyarakat;  
-5. Fasilitasi penguatan kapasitas masyarakat sebagaimana dimaksud pada ayat (2) huruf c dilakukan antara lain: a. melakukan penyuluhan dan pelatihan paralegal kepada masyarakat untuk mampu melakukan  advokasi awal kepada korban;  
+5. Fasilitasi penguatan kapasitas masyarakat sebagaimana dimaksud pada ayat (2) huruf c dilakukan antara lain:  
+a. melakukan penyuluhan dan pelatihan paralegal kepada masyarakat untuk mampu melakukan  advokasi awal kepada korban;  
 b. membentuk dan membina forum anak sebagai ruang  penghargaan aspirasi anak dan sistem pendukung;  dan/atau;  
 c. memberikan dukungan finansial terhadap upaya  advokasi oleh Pemberi Bantuan Hukum berkaitan  penanganan anak sebagai korban.  
 
@@ -515,7 +524,8 @@ Penyediaan Sarana dan Prasarana
 #### Pasal 33
 
 1. Pemerintah Daerah menyediakan sarana dan prasarana  pendukung untuk memaksimalkan rasa aman, nyaman,  dan tenang terhadap Anak Korban.  
-2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1), meliputi: a. penyediaan rumah aman sementara;  
+2. Penyediaan sarana dan prasarana pendukung  sebagaimana dimaksud pada ayat (1), meliputi:  
+a. penyediaan rumah aman sementara;  
 b. penyediaan pendidikan, kesempatan bermain dan  asupan makan yang baik, serta kebutuhan hidup  sehari-hari selama proses Pendampingan penanganan  di rumah aman sementara;  
 c. penyediaan Pendamping di bidang kesehatan dan  konseling jika dibutuhkan;  
 d. penyediaan Pendamping di bidang mental spiritual  keagamaan; dane. memberikan jaminan sosial bagi keluarga yang rentan.  
@@ -621,7 +631,8 @@ Bentuk dan Cakupan Pelayanan
 
 #### Pasal 41
 
-1. Bentuk dan cakupan Pusat Pelayanan Terpadu untuk  mewujudkan pelindungan perempuan dan anak meliputi: a. Pelayanan aduan atau laporan dan perindungan;  
+1. Bentuk dan cakupan Pusat Pelayanan Terpadu untuk  mewujudkan pelindungan perempuan dan anak meliputi:  
+a. Pelayanan aduan atau laporan dan perindungan;  
 b. Pelayanan kesehatan dan rehabilitasi;  
 c. Pelayanan hukum;  
 d. Pelayanan pendidikan dan pemberdayaan;  
@@ -646,7 +657,8 @@ c. melakukan pengamanan sosial terhadap pelaku;
 d. menyelenggarakan mediasi untuk menyelesaikan  perselisihan;  
 e. memberikan sanksi kepada aparatur desa yang  melakukan tindakan Diskriminasi, Kekerasan,  dan/atau Eksploitasi terhadap perempuan; danf. memberikan sanksi kepada aparatur desa yang  melakukan tindakan Kekerasan, Eksploitasi, Perlakuan  Salah Terhadap Anak, dan/atau penelantara.  
 2. Pemerintah Daerah memberikan pembinaan terhadap  Pemerintah Desa/Kelurahan dalam meningkatkan  kapasitas untuk menyelenggarakan pelindungan  perempuan dan anak.  
-3. Pembinaan sebagaimana dimaksud pada ayat (2) berupa: a. Pendampingan;  
+3. Pembinaan sebagaimana dimaksud pada ayat (2) berupa:  
+a. Pendampingan;  
 b. pendidikan dan pelatihan; danc. monitoring berkala.  
 
 # BAB X
@@ -697,10 +709,12 @@ Kerja Sama
 #### Pasal 47
 
 1. Pemerintah Daerah dapat bekerjasama dengan berbagai  pihak baik lembaga pemerintahan maupun lembaga non  pemerintahan untuk mewujudkan pelindungan  perempuan dan anak.  
-2. Kerjasama dengan lembaga pemerintahan  sebagaimana dimaksudkan pada ayat (1) meliputi: a. pemerintah pusat;  
+2. Kerjasama dengan lembaga pemerintahan  sebagaimana dimaksudkan pada ayat (1) meliputi:  
+a. pemerintah pusat;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lain; dan/atau d. lembaga pemerintah lainnya.  
-3. Kerjasama dengan lembaga non pemerintahan  sebagaimana dimaksud pada ayat (1) diantaranya: a. lembaga swadaya masyarakat;  
+3. Kerjasama dengan lembaga non pemerintahan  sebagaimana dimaksud pada ayat (1) diantaranya:  
+a. lembaga swadaya masyarakat;  
 b. Dunia Usaha;  
 c. masyarakat;  
 d. lembaga pendidikan; dan/ataue. media.  

@@ -12,11 +12,13 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan bentuk kejahatan kemanusiaan yang merupakan pelanggaran terhadap hak asasi manusia;  
 b. bahwa jumlah kasus dan korban kekerasan terhadap perempuan dan anak di Kota Ternate masih cukup tinggi, sedangkan pelayanan dan perlindungan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1.Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -105,7 +107,8 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan perlindungan dan p
 
 #### Pasal 6
 
-1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan dalam bentuk: a. mengumpulkan data dan informasi tentang korban kekerasan terhadap perempuan dan anak;  
+1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk melaksanakan upaya pencegahan terjadinya kekerasan dalam bentuk:  
+a. mengumpulkan data dan informasi tentang korban kekerasan terhadap perempuan dan anak;  
 b. melaksanakan pendidikan dan pembimbingan tentang anti kekerasan dan perlindungan pada perempuan dan anak korban kekerasan;  
 c. melaksanakan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan;  
 d. melakukan pemantauan dan evaluasi penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan.  

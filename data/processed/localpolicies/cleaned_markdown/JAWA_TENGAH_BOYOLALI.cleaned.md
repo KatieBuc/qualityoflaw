@@ -112,13 +112,15 @@ Asas, Tujuan, dan Ruang Lingkup
 
 #### Pasal 2
 
-Perlindungan dan Pemberdayaan Perempuan, dilaksanakan berdasarkan asas: a. penghormatan Hak Asasi Manusia;  
+Perlindungan dan Pemberdayaan Perempuan, dilaksanakan berdasarkan asas:  
+a. penghormatan Hak Asasi Manusia;  
 b. keadiian dan Kesetaraan Gender;  
 c. nondiskriminasi; dand. perlindungan korban.  
 
 #### Pasal 3
 
-Perlindungan dan Pemberdayaan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
+Perlindungan dan Pemberdayaan Perempuan bertujuan untuk:  
+a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
 c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada perempuan dari berbagai tindak kekerasan.  
 
@@ -147,7 +149,8 @@ l.
 
 #### Pasal 5
 
-1. Setiap p>erempuan berhak untuk: a. hidup dan mempertahankan kehidupannya;  
+1. Setiap p>erempuan berhak untuk:  
+a. hidup dan mempertahankan kehidupannya;  
 
 hidup serta meningkatkan taraf b. memenuhi.  
 6-
@@ -314,7 +317,8 @@ Umum
 
 #### Pasal 16
 
-Pemberdayaan Perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi di bidang: a. ekonomi;  
+Pemberdayaan Perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi di bidang:  
+a. ekonomi;  
 b. sosial budaya;  
 c. poUtik dan pemerintahan;  
 d. hukum;  
@@ -328,7 +332,8 @@ Bidang Ekonomi
 
 #### Pasal 17
 
-Pemberdayaan Perempuan di bidang ekonomi dilaksanakan melalui: a. pemberian keterampilan dan pelatihan keija;  
+Pemberdayaan Perempuan di bidang ekonomi dilaksanakan melalui:  
+a. pemberian keterampilan dan pelatihan keija;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi.  
 12-
@@ -392,7 +397,8 @@ Bidang Kesehatan
 #### Pasal 22
 
 1. Perempuan mempunyai hak untuk mendapatkan pelayanan kesehatan guna menjalani kehidupan reproduksi dan kehidupan seksual yang sehat, aman, serta bebas dari paksaan dan/atau kekerasan.  
-2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi: a. pelayanan kesehatan masa sebelum hamil, hamil, persalinan, dan sesudah melahirkan;  
+2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pelayanan kesehatan masa sebelum hamil, hamil, persalinan, dan sesudah melahirkan;  
 b. pengaturan....................  
 14-
 b. pengaturan kehamilan, pelayanan kontrasepsi, dan kesehatan seksual; danc. pelayanan kesehatan reproduksi.  
@@ -455,7 +461,8 @@ c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi, dan pelaporan.
 
 #### Pasal 28
 
-1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf a, dilaksanakan terdiri atas: a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
+1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf a, dilaksanakan terdiri atas:  
+a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
 b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
 3. Perumusan................  
 16- (3) Perumusan kebijakan perencanaan program dan kegiatan penyelenggaraan perlindungan dan Pemberdayaan Perempuan, dikoordinasikan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang perencanaan.  
@@ -555,7 +562,8 @@ Pendanaan, pelaksanaan kebijakan, dan program kegiatan f>erlindungan dan Pemberd
 
 #### Pasal 38
 
-Pembinaan sebagaimana dimaksud dalam Pasal 37 ayat (2) meliputi: a. memberikan sosialisasi kepada Masyarakat dan dunia usaha mengenai kebijakan perlindungan dan Pemberdayaan Perempuan;  
+Pembinaan sebagaimana dimaksud dalam Pasal 37 ayat (2) meliputi:  
+a. memberikan sosialisasi kepada Masyarakat dan dunia usaha mengenai kebijakan perlindungan dan Pemberdayaan Perempuan;  
 b. menyediakan buku, leaflet, brosur mengenai perlindungan dan Pemberdayaan Perempuan, dan isu-isu terkait lainnya serta menyebarluaskannya kepada Masyarakat;  
 c. fasilitasi..................  
 20-

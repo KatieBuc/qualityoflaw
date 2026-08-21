@@ -14,6 +14,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap perempuan dan anak berhak untuk mendapatkan perlindungan atas hak asasinya, bebas dari penyiksaan, ancaman, tekanan, serta mendapat kemudahan, perlakuan, kesempatan dan manfaat yang sarna guna mencapai keadilan dan kesejahteraan hidup;  
 b. bahwa peningkatan kualitas hidup perempuan dan anak merupakan urusan wajib yang menjadi tanggungjawab Pemerintah Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan Dari Tindak Kekerasan; Mengingat 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lernbaran: Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -60,7 +61,8 @@ Pasal1 Dalam Peraturan Derah ini, yang dimaksud dengan:
 
 # BAB II ASAS DAN TUJUAN
 
-Pasa12 (1)Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas: a. penghormatan hak asasi manusia;  
+Pasa12 (1)Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:  
+a. penghormatan hak asasi manusia;  
 b. nondiskriminasi; dan c. perlindungan korban.  
 
 2. Perlindungan perempuan dan anak dari tindak kekerasan bertujuan melindungi, menghormati, menjamin hak asasi perempuan dan anak, dan mengupayakan kepentingan yang terbaik bagi perempuan dan anak.  
@@ -77,14 +79,16 @@ e. pengusiran paksa;
 f. perampasan kemerdekaan;  
 g. penelantaran; danh. eksploitasiy perdagangan orang.  
 3. Perlindungan perempuan dan anak dari tindak kekerasan merupakan tanggungjawab bersama Pemerintah Daerah, masyarakat, keluarga, dan orang tua.  
-4. Perlindungan perempuan dari tindak kekerasan sebagaimana dimaksud pada ayat (2)meliputi: a. pencegahan tindak kekerasan pada perempuan dan anak;  
+4. Perlindungan perempuan dari tindak kekerasan sebagaimana dimaksud pada ayat (2)meliputi:  
+a. pencegahan tindak kekerasan pada perempuan dan anak;  
 b. pelayanan bagi perempuan dan anak korban tindak kekerasan; danc. pemberdayaan perempuan dan anak korban tindak kekerasan.  
 
 # BAB IV PENCEGAHAN
 
 Pasal4 (1)Pemerintah Daerah, Masyarakat, Keluarga, dan Orang Tua berkewajiban untuk mencegah terjadinya tindak kekerasan terhadap perempuan dan anak untuk menghindari dampak situasi dan peristiwa.  
 
-2. Pencegahan sebagaimana dimaksud pada ayat (1) juga dilakukan terhadap: a. tindakan penelantaran; dan b. indikasi atau kegiatan yang mengandung potensi terjadinya perdagangan orang.  
+2. Pencegahan sebagaimana dimaksud pada ayat (1) juga dilakukan terhadap:  
+a. tindakan penelantaran; dan b. indikasi atau kegiatan yang mengandung potensi terjadinya perdagangan orang.  
 3. Upaya pencegahan dilakukan dengan memperhatikan kondisi, situasi, permasalahan dan bentuk penanganan yang sesuai dan terarah.  
 
 Pasal5 (1)Pemerintah Daerah sesuai dengan kewenangan melakukan upaya pencegahan dini.  
@@ -151,13 +155,15 @@ b. sekretaris; dan c. bendahara.
 c. bidang pendampingan;  
 d. bidang pendidikan dan pelatihan.  
 
-Pasa115 (1)Pusat Perlindungan dan Pemberdayaan Perempuan dan Anak dalam melaksankaan fungsinya membangun jaringan kerja dengan: a. Kepolisian;  
+Pasa115 (1)Pusat Perlindungan dan Pemberdayaan Perempuan dan Anak dalam melaksankaan fungsinya membangun jaringan kerja dengan:  
+a. Kepolisian;  
 b. Kejaksaan;  
 c. Pengadilan;  
 d. Lembaga Perlindungan Saksi dan Korban;  
 e. Rumah Sakit/Puskesmas;  
 f. Lembaga lain yang memiliki kesamaan tujuan.  
-2. Selain membangun jaringan kerja sebagaimana dimaksud pada ayat (1) dapat melakukan kerjasama dengan: a. Pemerintah;  
+2. Selain membangun jaringan kerja sebagaimana dimaksud pada ayat (1) dapat melakukan kerjasama dengan:  
+a. Pemerintah;  
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota lain; dan d. Lembaga Non Pemerintah.  e. Lembaga internasional yang diakui keberadaannya.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk kesepakatan bersama.  
@@ -260,7 +266,8 @@ d. tindakan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan.
 
 Hurufh Yangdimaksud dengan "eksploitasi" meliputi:
 a. tindakan yang mengeksploitasi ekonomi atau seksual anak dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
-b. tindakan dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/ atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil. c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan. Yang dimaksud dengan "perdagangan orang" adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaanseseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi. Ayat (3) Cukup jelas Ayat (4) Cukup jelas Pasal4Ayat (1) Yang dimaksud dampak situasi adalah keadaan yang tidak terkendali, dan peristiwa adalah munculnya korban dari suatu keadaan yang tidak terkendali. Dalam kondisi demikian diperlukan adanya penengah, pencegah atau melerai dan memisahkan para pihak agar tidak terjadi hal yang tidak diinginkan. Ayat (2) Cukupjelas Ayat (3) Yang dimaksud dengan memperhatikan kondisi, situasi permasalah dan bentuk penanganan adalah tidak secara ambigu atau serampangan sehingga menciptakan kondisi yang terbalik dari keinginan untuk memperbaiki situasi menjadi lebih dalam pada konflik dan dapat mendatangkan nilai negatif diwaktu kemudian. Ayat (4) Cukup jelas Pasa15Ayat (1) Cukup jelas Ayat (2) Cukup jelas Pasa16Ayat (1) Cukup jelas Ayat (2) Huruf a Yangdimaksud pengaduan adalah pernyataan dari saksi atau korban yang harus ditanggapi oleh Pejabat berwenang. Hurufb Yang dimaksud rehabilitasi kesehatan adalah pemberian pelayanan medis/penanganan kesehatan berupa perawatan dan pemulihan luka atau kondisi fisik korban dan kesehatan reproduksi oleh tenaga medis dan paramedis termasuk pelayanan medikolegal untuk pembuktian dibidang hukum. Huruf c Yang dimaksud rehabilitasi sosial adalah pemulihan hak sosial dan ekonomi bagi perempuan atau anak yang mengalami tindak kekerasan atau penelantaran. Hurufd Yangdimaksud reintegrasi sosial adalah upaya jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga maupun anggota masyarakat dan pemberian pelayanan kemandirian ekonomi berupa pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri. Huruf e Yangdimaksud bantuan hukum dan pendampingan adalah: a. penanganan secara rahasia atau penempatan korban pada lokasi dan rumah yang aman dan dirahasiakan keberadaannya untuk menghindari intimidasi dan ancaman;  
+b. tindakan dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/ atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil. c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan. Yang dimaksud dengan "perdagangan orang" adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaanseseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi. Ayat (3) Cukup jelas Ayat (4) Cukup jelas Pasal4Ayat (1) Yang dimaksud dampak situasi adalah keadaan yang tidak terkendali, dan peristiwa adalah munculnya korban dari suatu keadaan yang tidak terkendali. Dalam kondisi demikian diperlukan adanya penengah, pencegah atau melerai dan memisahkan para pihak agar tidak terjadi hal yang tidak diinginkan. Ayat (2) Cukupjelas Ayat (3) Yang dimaksud dengan memperhatikan kondisi, situasi permasalah dan bentuk penanganan adalah tidak secara ambigu atau serampangan sehingga menciptakan kondisi yang terbalik dari keinginan untuk memperbaiki situasi menjadi lebih dalam pada konflik dan dapat mendatangkan nilai negatif diwaktu kemudian. Ayat (4) Cukup jelas Pasa15Ayat (1) Cukup jelas Ayat (2) Cukup jelas Pasa16Ayat (1) Cukup jelas Ayat (2) Huruf a Yangdimaksud pengaduan adalah pernyataan dari saksi atau korban yang harus ditanggapi oleh Pejabat berwenang. Hurufb Yang dimaksud rehabilitasi kesehatan adalah pemberian pelayanan medis/penanganan kesehatan berupa perawatan dan pemulihan luka atau kondisi fisik korban dan kesehatan reproduksi oleh tenaga medis dan paramedis termasuk pelayanan medikolegal untuk pembuktian dibidang hukum. Huruf c Yang dimaksud rehabilitasi sosial adalah pemulihan hak sosial dan ekonomi bagi perempuan atau anak yang mengalami tindak kekerasan atau penelantaran. Hurufd Yangdimaksud reintegrasi sosial adalah upaya jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga maupun anggota masyarakat dan pemberian pelayanan kemandirian ekonomi berupa pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri. Huruf e Yangdimaksud bantuan hukum dan pendampingan adalah:  
+a. penanganan secara rahasia atau penempatan korban pada lokasi dan rumah yang aman dan dirahasiakan keberadaannya untuk menghindari intimidasi dan ancaman;  
 b. perlindungan oleh aparat penegak hukum;  
 c. pemberian informasi seputar hak dan kewajiban hukum pada korban atau wali korban serta identifikasi kejadian;  
 d. pendampingan untuk proses hukum dan perolehan hak ganti rugi atau kompensasi; dan e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  

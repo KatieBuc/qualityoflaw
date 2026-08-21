@@ -14,12 +14,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk Kekerasan;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Republik Indonesia  Tahun 1945;  
 
@@ -159,7 +161,8 @@ Bentuk Kekerasan
 
 #### Pasal 10
 
-Kekerasan terhadap perempuan dan anak dapat berupa: a. kekerasan fisik;  
+Kekerasan terhadap perempuan dan anak dapat berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksuald. penelantaran; dane. eksploitasi.  
 
@@ -241,7 +244,8 @@ Ruang Lingkup
 
 #### Pasal 21
 
-Perlindungan perempuan dan anak korban kekerasan meliputi: a. pencegahan;  
+Perlindungan perempuan dan anak korban kekerasan meliputi:  
+a. pencegahan;  
 b. pelayanan;  
 c. pemberdayaan; dand. rehabilitasi sosial
 
@@ -389,7 +393,8 @@ e. tenaga kesehatan;
 f. Kejaksaan Negerig. Pengadilan Negerih. PK Bapas (Pembimbing Kemasyarakatan Balai  Pemasyarakatan)i. pekerja sosialj. relawan pendamping;  
 k. pembimbing rohani;  
 l. lembaga swadaya masyarakat yang bergerak di bidang  perlindungan perempuan dan anak; danm. masyarakat.  
-2. Kerjasama sebagaimana dimaksud pada ayat (1) berupa: a. sosialisasi;  
+2. Kerjasama sebagaimana dimaksud pada ayat (1) berupa:  
+a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. pelayanan kesehatan;  
 d. pendampingan korbane. konseling;  

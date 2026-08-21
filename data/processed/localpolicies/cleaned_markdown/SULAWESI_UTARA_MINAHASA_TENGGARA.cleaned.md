@@ -8,12 +8,14 @@ PERATURAN DAERAH KABUPATEN MINAHASA TENGGARA NOMOR 8 TAHUN 2016
 
 Menimbang:  
  
+ 
 a. bahwa Negara menjamin setiap orang termasuk perempuan dan anak berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia dan berhak mendapatkan rasa aman serta bebas dari segala bentuk kekerasan dan diskriminasi sebagaimana dijamin oleh Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa segala bentuk tindak kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di Daerah terus meningkat, sehingga diperlukan upaya perlindungan terhadap perempuan dan anak korban kekerasan melalui dukungan kelembagaan dan Peraturan Daerah yang menjamin perlindungan terhadap perempuan dan anak korban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -119,7 +121,8 @@ a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum berupa ucap
 
 #### Pasal 12
 
-Setiap Korban mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+Setiap Korban mendapatkan hak-hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  

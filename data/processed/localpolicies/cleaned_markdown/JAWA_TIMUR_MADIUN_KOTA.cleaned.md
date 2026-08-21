@@ -20,12 +20,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN  KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa bentuk kekerasan terhadap perempuan dan  anak merupakan salah satu bentuk pelanggaran atas hak asasi manusia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa tindakan kekerasan terhadap perempuan dan  anak akan berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan sehingga perlu diberikan rasa aman dan perlindungan;  
 c. bahwa pada saat ini belum ada Peraturan Daerah yang  menjamin perlindungan terhadap perempuan dan anak korban kekerasan di Kota Madiun;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -142,7 +144,8 @@ b. melakukan perlindungan secara represif berupa  pemberian ganti rugi dan kurat
 
 #### Pasal 5
 
-Penyelenggaraan pelayanan bagi perempuan dan anak  korban kekerasan merupakan tanggung jawab bersama: a. Pemerintah Daerah;  
+Penyelenggaraan pelayanan bagi perempuan dan anak  korban kekerasan merupakan tanggung jawab bersama:  
+a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dan/ataud. orangtua.  
 
@@ -175,7 +178,8 @@ Keluarga dan/atau orangtua sebagaimana dimaksud dalam  Pasal 6 ayat (3) mempunya
 
 #### Pasal 9
 
-Setiap perempuan dan anak korban kekerasan berhak: a. mendapat perlindungan dari keluarga, kepolisian,  kejaksaan, pengadilan, advokat, lembaga sosial, masyarakat, Pemerintah Daerah dan/atau pihak  lainnya baik sementara maupun berdasarkan  penetapan perlindungan dari pengadilan;  
+Setiap perempuan dan anak korban kekerasan berhak:  
+a. mendapat perlindungan dari keluarga, kepolisian,  kejaksaan, pengadilan, advokat, lembaga sosial, masyarakat, Pemerintah Daerah dan/atau pihak  lainnya baik sementara maupun berdasarkan  penetapan perlindungan dari pengadilan;  
 b. pelayanan kesehatan dan psikologis sesuai kebutuhan  medis;  
 c. penanganan secara khusus berkaitan dengan  kerahasiaan korban;  
 d. pendampingan oleh pekerja sosial dan bantuan hukum  pada setiap tingkat proses pemeriksaan sesuai dengan  ketentuan peraturan perundang-undangan;  
@@ -365,7 +369,8 @@ f. swasta; dan/ataug. media massa.
 
 #### Pasal 27
 
-Pendanaan penyelenggaraan perlindungan terhadap  Perempuan dan anak korban kekerasan, bersumber dari: a. Anggaran Pendapatan dan Belanja Daerah; dan/atau b. sumber lain yang sah dan tidak mengikat sesuai  dengan ketentuan peraturan perundang-undangan.  
+Pendanaan penyelenggaraan perlindungan terhadap  Perempuan dan anak korban kekerasan, bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah; dan/atau b. sumber lain yang sah dan tidak mengikat sesuai  dengan ketentuan peraturan perundang-undangan.  
 
 # BAB XIV
 
@@ -567,7 +572,8 @@ huruf d Penegakan dan bantuan hukum bagi perempuan dan anak  korban kekerasan de
 
 Penegakan hukum merupakan tindakan aparat yang di beri  kewenangan oleh Negara untuk melakukan tugas dan fungsi  sebagai penegakan peraturan perundang-undangan yang  berlaku. Bantuan hukum adalah hukum segala sesuatu  yang berkaitan dengan aspek yang terkait dengan bidang  hukum yang diberikan kepada seseorang dalam proses  peradilan pidana maupun perdata.  
 
-Penegakan hukum bagi perempuan dan anak korban  kekerasan juga dapat diukur melalui indikator penunjang: a. cakupan penyelesaian penanganan kasus kekerasan terhadap perempuan dan anak ditingkat kepolisian;  
+Penegakan hukum bagi perempuan dan anak korban  kekerasan juga dapat diukur melalui indikator penunjang:  
+a. cakupan penyelesaian penanganan kasus kekerasan terhadap perempuan dan anak ditingkat kepolisian;  
 b. cakupan ketersediaan unit pelayanan perempuan dan  anak ( UPPA ) di Polda dan Polres/ta;  
 c. cakupan ketersediaan sarana dan prasarana di UPPA;  
 d. cakupan ketersediaan Polisi yang terlatih dalam  memberikan layanan yang sensitive gender;  

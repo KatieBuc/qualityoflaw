@@ -131,7 +131,8 @@ L4. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami-istri
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas: a. penghormatan hak asasi manusia;  
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas:  
+a. penghormatan hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. perlindungan terhadap hak korban;  
 d. tidak diskriminatif; dane. kepentingan terbaik bagi korban.  

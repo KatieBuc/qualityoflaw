@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan hak  asasi perempuan terhadap pemberdayaan dan perlindungan  perempuan merupakan salah satu nilai yang tertuang dalam  Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa upaya pemberdayaan dan perlindungan perempuan  di Kabupaten Klaten perlu arah pengaturan dan kepastian  hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -71,7 +73,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan dan Perlindungan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
+Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:  
+a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
 c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai  manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada  perempuan dari berbagai tindak kekerasan.  
 
@@ -107,7 +110,8 @@ Bidang Kesehatan
 #### Pasal 5
 
 1. Perempuan mempunyai hak untuk mendapatkan pelayanan kesehatan  dalam menjalani kehidupan reproduksi dan kehidupan seksual yang sehat,  aman, serta bebas dari paksaan dan/atau kekerasan.  
-2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi: a. pelayanan kesehatan reproduksi remaja;  
+2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pelayanan kesehatan reproduksi remaja;  
 b. pelayanan kesehatan reproduksi usia subur;  
 c. pelayanan kesehatan masa sebelum hamil, hamil, persalinan dan sesudah  persalinan; dand. pengaturan kehamilan, pelayanan kontrasepsi dan pelayanan kesehatan  seksual;  
 3. Perempuan mempunyai hak untuk mendapat pelayanan kesehatan sesuai  siklus kehidupan perempuan.  
@@ -121,7 +125,8 @@ Bidang Ketenagakerjaan
 
 1. Perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk  memperoleh pekerjaan.  
 2. Pemberi kerja yang menggunakan tenaga kerja perempuan, wajib  memberikan perlindungan yang mencakup kesejahteraan, keselamatan dan  kesehatan.  
-3. Perlindungan sebagaimana dimaksud pada ayat (2) adalah: a. perlindungan kesehatan/asuransi;  
+3. Perlindungan sebagaimana dimaksud pada ayat (2) adalah:  
+a. perlindungan kesehatan/asuransi;  
 b. pelayanan kesehatan ditempat kerja;  
 c. kesempatan dan fasilitas memerah ASI atau memberikan ASI ditempat  kerja pada waktu yang ditentukan;  
 d. mendapatkan cuti melahirkan selama 3 (tiga) bulan setelah melahirkan;  dane. mendapatkan makanan seimbang bagi perempuan hamil.  
@@ -193,7 +198,8 @@ d. menyusun sistem pendataan perlindungan perempuan; dan e. melakukan kerjasama 
 
 #### Pasal 13
 
-1. Untuk mengefektifkan dan menjamin pelaksanaan perlindungan  sebagaimana dimaksud dalam Pasal 11 ayat (1), Pemerintah Daerah  membentuk lembaga perlindungan perempuan dan anak sebagai berikut: a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A)  di tingkat Daerah;  
+1. Untuk mengefektifkan dan menjamin pelaksanaan perlindungan  sebagaimana dimaksud dalam Pasal 11 ayat (1), Pemerintah Daerah  membentuk lembaga perlindungan perempuan dan anak sebagai berikut:  
+a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A)  di tingkat Daerah;  
 b. Pusat Pelayanan Terpadu (PPT) Tingkat Kecamatan; danc. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan.  
 2. Lembaga perlindungan perempuan dan anak sebagaimana dimaksud pada  ayat (1) beranggotakan wakil dari Pemerintah Daerah, penegak hukum,  organisasi masyarakat, lembaga swadaya masyarakat, organisasi profesi dan  peneliti/akademisi.  
 3. Ketentuan lebih lanjut mengenai pembentukan, tugas dan fungsi lembaga  perlindungan perempuan dan anak diatur dalam Peraturan Bupati.  

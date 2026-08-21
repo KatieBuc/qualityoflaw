@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia  sehingga perlu dilindungi harga diri dan martabatnya  serta dijamin hak hidupnya sesuai dengan fitrah dan  kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak terus  meningkat, sehingga diperlukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -176,13 +178,15 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 12
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan  perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama: a. pemerintah daerah;  
+Kewajiban dan tanggung jawab dalam penyelenggaraan  perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama:  
+a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orangtua.  
 
 #### Pasal 13
 
-1. Pemerintah Daerah melaksanakan upaya perlindungan  perempuan dan anak korban kekerasan melalui: a. melaksanakan kebijakan perlindungan terhadap perempuan dan anak korban kekerasan yang  diterapkan oleh pemerintah;  
+1. Pemerintah Daerah melaksanakan upaya perlindungan  perempuan dan anak korban kekerasan melalui:  
+a. melaksanakan kebijakan perlindungan terhadap perempuan dan anak korban kekerasan yang  diterapkan oleh pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan  perlindungan terhadap perempuan dan anak korban  kekerasan;  
 c. pembentukan PPT;  
 d. menjamin terlaksananya kemudahan pelayanan  kepada korban;  

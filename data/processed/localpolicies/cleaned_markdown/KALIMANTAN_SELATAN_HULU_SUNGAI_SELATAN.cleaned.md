@@ -14,12 +14,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga Negara berhak untuk bebas dari tindak  kekerasan atau perlakuan yang merendahkan derajat martabat  manusia serta berhak mendapatkan rasa aman terlebih lagi bagi  perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten  Hulu Sungai Selatan terus meningkat dan meluas yang  menyebabkan rasa tidak aman dalam menjalankan kehidupan,  sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak sebagaimana telah diubah  beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun  2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas  Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak Menjadi UndangUndang dan ketentuan Undang-Undang  Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga, Pemerintah Daerah berkewajiban dan  bertanggungjawab terhadap peneyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -292,7 +294,8 @@ f. eksploitasi; dan/ataug. kekerasan lainnya.
 
 #### Pasal 18
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -373,7 +376,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang terc
 #### Pasal 25
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan.  
-2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
 d. pemantauan;  
@@ -396,9 +400,12 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 #### Pasal 28
 
 1. Pemerintah Daerah memberikan penghargaan kepada setiap orang atau badan  yang berperan serta dalam upaya perlindungan perempuan dan anak dari  tindak kekerasan di Daerah.  
-2. Penghargaan sebagaimana dimaksud pada ayat (1) diberikan berupa: a. sertifikat/plakat; danb. insentif Daerah.  
-3. Insentif sebagaimana dimaksud pada ayat (2) huruf b dapat berupa: a. fiskal; danb. non fiskal.  
-4. Insentif fiskal sebagaimana dimaksud pada ayat (3) huruf a dapat berupa: a. pengurangan atau pembebasan pajak daerah; dan/ataub. pengurangan retribusi daerah.  
+2. Penghargaan sebagaimana dimaksud pada ayat (1) diberikan berupa:  
+a. sertifikat/plakat; danb. insentif Daerah.  
+3. Insentif sebagaimana dimaksud pada ayat (2) huruf b dapat berupa:  
+a. fiskal; danb. non fiskal.  
+4. Insentif fiskal sebagaimana dimaksud pada ayat (3) huruf a dapat berupa:  
+a. pengurangan atau pembebasan pajak daerah; dan/ataub. pengurangan retribusi daerah.  
 5. Insentif non fiskal sebagaimana dimaksud pada ayat (3) huruf b dapat berupa  kemudahan perizinan daerah sesuai dengan ketentuan peraturan perundang undangan.  
 6. Tata cara dan bentuk pemberian insentif sebagaimana dimaksud pada ayat (2)  berpedoman pada ketentuan peraturan perundang-undangan.  
 

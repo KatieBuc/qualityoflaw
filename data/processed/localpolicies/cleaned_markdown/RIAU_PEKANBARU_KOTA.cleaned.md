@@ -404,7 +404,8 @@ Paragraf Cara Memberikan Perlindungan Hak Perempuan Dari Berbagai Bentuk Kekeras
 
 #### Pasal 23
 
-Dalam rangka menyelenggarakan tujuan memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya sebagaimana dimaksud dalam Pasal 20 huruf dilakukan melalui: a. upaya promotif;  
+Dalam rangka menyelenggarakan tujuan memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya sebagaimana dimaksud dalam Pasal 20 huruf dilakukan melalui:  
+a. upaya promotif;  
 b. upaya preventif;  
 c. upaya kuratif; dand. wupaya rehabilitatif, sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -466,7 +467,8 @@ Sistem pemberdayaan Perempuan dan Anak diwujudkan salah satunya melalui pembentu
 
 #### Pasal 32
 
-1. UPT PPA sebagaimana dimaksud dalam Pasal 30, berfungsi sebagai: a. pusatinformasi bagi Perempuan dan Anak;  
+1. UPT PPA sebagaimana dimaksud dalam Pasal 30, berfungsi sebagai:  
+a. pusatinformasi bagi Perempuan dan Anak;  
 b. pusat pelayanan bagi Perempuan dan Anak korban kekerasan; danc. pusat pemberdayaan bagi Perempuan dan Anak.  
 2. Untuk melaksanakan fungsi sebagaimana dimaksud pada ayat (1), UPT PPA wajib memiliki SOP dalam rangka melaksanakan tugas teknis operasional tertentu, dengan indikator dokumen SOP yang sudah ditandatangani oleh Kepala Dinas.  
 3. Ketentuan lebih lanjut mengenai UPT PPA diatur dalam Peraturan Wali Kota.  
@@ -548,7 +550,8 @@ Untuk maksud peningkatan kualitas hidup Perempuan di Daerah, Pemerintah Daerah m
 
 #### Pasal 41
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah sebagaimana dimaksud dalam Pasal 50 dilaksanakan oleh Pemerintah Daerah dengan melakukan hal-hal sebagai berikut: a. menjalin kerjasama antara Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan Perempuan dan Anak dengan berbagai jejaring kemitraan baik yang berasal dari masyarakat, LSM, yayasan, perguruan tinggi, dan lembaga-lembaga lainnya yang bergerak dalam bidang penyediaan layanan pemberdayaan Perempuan di Daerah;  
+Penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah sebagaimana dimaksud dalam Pasal 50 dilaksanakan oleh Pemerintah Daerah dengan melakukan hal-hal sebagai berikut:  
+a. menjalin kerjasama antara Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan Perempuan dan Anak dengan berbagai jejaring kemitraan baik yang berasal dari masyarakat, LSM, yayasan, perguruan tinggi, dan lembaga-lembaga lainnya yang bergerak dalam bidang penyediaan layanan pemberdayaan Perempuan di Daerah;  
 b. mengupayakan kecukupan anggaran melalui peyediaan yang proporsional dalam APBD dan sumber lainnya yang tidak mengikat berdasarkan peraturan perundang-undangan; danc. melakukan pendekatan dan merangkul berbagai kalangan struktural dan non struktural dengan latar belakang sebagai berikut:
 1. kalangan profesi;  
 2. akademisi; dan
@@ -649,7 +652,8 @@ b. pendampingan dalam menjalankan wirausaha; itc. pembinaan secara berkelanjutan
 
 #### Pasal 51
 
-Bantuan permodalan dengan mengupayakan kredit lunak sebagaimana dimaksud dalam Pasal 58 huruf diselenggarakan dengan cara: a. melakukan pendekatan kepada lembaga-lembaga sumber pembiayaan agar memberikan bantuan kepada Perempuan korban kekerasan;  
+Bantuan permodalan dengan mengupayakan kredit lunak sebagaimana dimaksud dalam Pasal 58 huruf diselenggarakan dengan cara:  
+a. melakukan pendekatan kepada lembaga-lembaga sumber pembiayaan agar memberikan bantuan kepada Perempuan korban kekerasan;  
 b. membantu penyediaan sarana dan prasarana; dan mengupayakan agar bantuan modal murah yang ada didapatkan oleh Perempuan korban kekerasan.  
 
 ## Bagian Keempat
@@ -733,13 +737,15 @@ c. kuratif; dand. rehabilitatif.
 
 #### Pasal 61
 
-Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 60 dilakukan dengan standar dan ketentuan sebagai berikut: a. secara komprehensif;  
+Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 60 dilakukan dengan standar dan ketentuan sebagai berikut:  
+a. secara komprehensif;  
 b. dapat diakses 24 (dua puluh empat) jam di RSUD dan rumah sakit swasta lainnya;  
 c. berkualitas; dand. dilakukan sesuai dengan standar pelayanan kesehatan.  
 
 #### Pasal 62
 
-Perempuan korban kekerasan memiliki hak terhadap pelayanan kesehatan secara bebas biaya, meliputi: a. pelayanan medis;  
+Perempuan korban kekerasan memiliki hak terhadap pelayanan kesehatan secara bebas biaya, meliputi:  
+a. pelayanan medis;  
 b. pelayanan medikolegal; danc. visum.  
 
 #### Pasal 63
@@ -754,7 +760,8 @@ Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 54 huruf ditujukan untuk me
 
 #### Pasal 65
 
-Rehabilitasi sosial sebagaimana dimaksud pada Pasal 54 huruf diberikan dalam bentuk pelayanan sebagai berikut: a. konseling;  
+Rehabilitasi sosial sebagaimana dimaksud pada Pasal 54 huruf diberikan dalam bentuk pelayanan sebagai berikut:  
+a. konseling;  
 b. penyediaan rumah aman; danc. bimbingan rohani.  
 
 #### Pasal 66
@@ -803,7 +810,8 @@ Lokasi rumah aman sebagaimana dimaksud dalam Pasal 71 harus dirahasiakan.
 
 #### Pasal 74
 
-Kriteria Perempuan korban kekerasan yang berhak dan memerlukan rumah aman meliputi kondisi sebagai berikut ini: a. terancam jiwa;  
+Kriteria Perempuan korban kekerasan yang berhak dan memerlukan rumah aman meliputi kondisi sebagai berikut ini:  
+a. terancam jiwa;  
 b. mendapatkan penolakan dari keluarga atau masyarakat;  
 c. memerlukan pelayanan intensif namun rumah tinggalnya relatif‘Jjauh; dan/ataud. terlantarjika tidak ditempatkan dalam rumah aman.  
 
@@ -865,7 +873,8 @@ Pemerintah Daerah memberikan bantuan hukum kepada Perempuan korban tindak kekera
 
 #### Pasal 86
 
-Dalam pemberian bantuan hukum sebagaimana dimaksud pada Pasal 85 Pemerintah Daerah dapat bekerjasama dan menjalin kemitraan dengan pihak-pihak berikut ini: a. lembaga bantuan hukum;  
+Dalam pemberian bantuan hukum sebagaimana dimaksud pada Pasal 85 Pemerintah Daerah dapat bekerjasama dan menjalin kemitraan dengan pihak-pihak berikut ini:  
+a. lembaga bantuan hukum;  
 b. women crisis center;  
 c. advokat dan/atau pendamping hukum lainnya.  
 
@@ -885,7 +894,8 @@ Reintegrasi sosial sebagaimana dimaksud dalam Pasal 54 huruf dilakukan dalam ran
 
 #### Pasal 90
 
-Maksud dan tujuan dilakukan reintegrasi sosial adalah agar: a. Perempuan korban kekerasan dapat meneruskan kembali kehidupan sosialnya; dan
+Maksud dan tujuan dilakukan reintegrasi sosial adalah agar:  
+a. Perempuan korban kekerasan dapat meneruskan kembali kehidupan sosialnya; dan
 b. Perempuan korban tindak kekerasan dapat kembali memiliki kehidupan yang layak seperti semula sebelum terjadinya tindak kekerasan terhadap dirinya.  
 
 #### Pasal 91
@@ -990,7 +1000,8 @@ Penyelenggaraan peningkatan kualitas keluarga dilakukan secara berkesinambungan.
 
 #### Pasal 104
 
-Penyelenggaraan peningkatan kualitas keluarga berkesinambungan sebagaimana dimaksud dalam Pasal 103 diselenggarakan dengan menempuh berbagai cara berikut: a. melakukan upaya peningkatan kualitas keluarga untuk mewujudkan kesetaraan gender dan hak Anak;  
+Penyelenggaraan peningkatan kualitas keluarga berkesinambungan sebagaimana dimaksud dalam Pasal 103 diselenggarakan dengan menempuh berbagai cara berikut:  
+a. melakukan upaya peningkatan kualitas keluarga untuk mewujudkan kesetaraan gender dan hak Anak;  
 
 menyediakan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan hak Anak; dan menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga.  
 
@@ -1071,7 +1082,8 @@ b. pendampingan pelaksanaan layanan peningkatan kualitas keluarga di daerah; dan
 
 #### Pasal 111
 
-Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk: a. jalinan komunikasi;  
+Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk:  
+a. jalinan komunikasi;  
 b. pemberian informasi; danc. pemberian edukasi.  
 
 #### Pasal 112
@@ -1715,7 +1727,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan bagi Anak yang Memberikan Pe
 
 #### Pasal 186
 
-Penguatan dan pengembangan lembaga penyedia layanan bagi Anak yang memerlukan perlindungan khusus sebagaimana dimaksud dalam Pasal 166 huruf dilakukan melalui: a. peningkatan kapasitas sumber daya lembaga penyedia layanan perlindungan dan penanganan bagi Anak yang memerlukan perlindungan khusus di Daerah;  
+Penguatan dan pengembangan lembaga penyedia layanan bagi Anak yang memerlukan perlindungan khusus sebagaimana dimaksud dalam Pasal 166 huruf dilakukan melalui:  
+a. peningkatan kapasitas sumber daya lembaga penyedia layanan perlindungan dan penanganan bagi Anak yang memerlukan perlindungan khusus di Daerah;  
 b. penyediaan kebutuhan spesifik bagi Anak dalam situasi dan kondisi khusus di Daerah;  
 c. penyediaan komunikasi, informasi, dan edukasi perlindungan Anak yang memerlukan perlindungan khusus di Daerah;  
 d. penguatan jejaring antar lembaga penyedia layanan perlindungan bagi Anak yang memerlukan perlindungan khusus di Daerah; dane. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan perlindungan Anak yang memerlukan perlindungan khusus di Daerah.  

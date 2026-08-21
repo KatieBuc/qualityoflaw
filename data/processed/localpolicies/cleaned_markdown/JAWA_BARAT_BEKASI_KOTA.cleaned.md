@@ -18,11 +18,13 @@
 
 Menimbang:  
  
+ 
 a. bahwa guna menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa agar upaya-upaya perlindungan terhadap  perempuan dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari Pemerintah Daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
 1. Undang-Undang Dasar 1945 Amandemen, Pasal 27  ayat (1);  
 

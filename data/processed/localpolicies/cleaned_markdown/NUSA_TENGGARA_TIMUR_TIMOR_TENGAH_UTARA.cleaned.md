@@ -14,12 +14,14 @@ PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 3 TAHUN 2020
 
 Menimbang:  
  
+ 
 a. bahwa setiap orang memiliki harkat dan  martabat yang sama untuk hidup bermasyarakat, berbangsa dan bernegara serta berhak mendapatkan perlindungan hak asasi manusia dan kebebasan dasar manusia tanpa diskriminasi sebagai upaya mewujudkan kesetaraan dan keadilan gender dalam pembangunan nasional maupun daerah;  
 b. bahwa dalam rangka mewujudkan kesetaraan  dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara perlu adanya peningkatan efektifitas dan optimalisasi penyelenggaraan sub urusan pemberdayaan perempuan sebagai bagian yang tidak terpisahkan dari kegiatan fungsional lembaga pemerintah dan non pemerintah guna meningkatkan kedudukan, peran dan kualitas perempuan dalam pembangunan di Kabupaten Timor Tengah Utara;  
 c. bahwa untuk menjamin adanya kepastian  hukum dan untuk mengisi kekosongan hukum demi mewujudkan kesetaraan dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara, perlu adanya pengaturan dalam Peraturan Daerah tentang penyelenggaraan pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
 1 Pasal 18 ayat (6) Undang - Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -231,7 +233,8 @@ f. penyusunan Renstra PD; dang. penyusunan Renja PD, yang responsif gender.
 #### Pasal 15
 
 1. Metode Gender Analisys Pathway sebagaimana dimaksud dalam Pasal 13 ayat (4) digunakan sebagai cara membuat perencanaan di setiap PD.  
-2. Metode sebagaimana dimaksud pada ayat (1) meliputi: a. tahap I analisa kebijakan yang responsif gender;  
+2. Metode sebagaimana dimaksud pada ayat (1) meliputi:  
+a. tahap I analisa kebijakan yang responsif gender;  
 b. tahap II formulasi kebijakan yang responsif gender;  
 c. tahap III rencana aksi yang responsif gender;  
 d. tahap IV pelaksanaan kegiatan yang sudah disusun; dan e. tahap V monitoring dan evaluasi dari setiap tahap dan  langkah yang diambil.  
@@ -294,7 +297,8 @@ Pengawasan
 #### Pasal 21
 
 1. Bupati bertanggungjawab melakukan pengawasan terhadap  pelaksanaan PUG.  
-2. Pengawasan sebagaimana dimaksud pada ayat (1) dalam bentuk: a. perencanaan dan pengganggaran responsif Gender yang dilakukan oleh tim anggaran pemerintah daerah;  
+2. Pengawasan sebagaimana dimaksud pada ayat (1) dalam bentuk:  
+a. perencanaan dan pengganggaran responsif Gender yang dilakukan oleh tim anggaran pemerintah daerah;  
 b. pelaksanaan koordinasi antara Pokja PUG dan Focal Point  gender; danc. perkembangan pencapaian RAD PUG setiap tahun. (3) Tanggung jawab sebagaimana dimaksud pada ayat (1) secara  teknis operasional dapat dilaksanakan oleh Ketua Pokja PUG  dan Kepala Sekretariat Pokja PUG.  
 4. Pelaksanaan tanggung jawab sebagaimana dimaksud pada ayat  (3) dilaporkan kepada Bupati.  
 
@@ -332,7 +336,8 @@ Pelaksanaan Pemberdayaan Perempuan pada organisasi  kemasyarakatan dilaksanakan 
 #### Pasal 25
 
 1. PD yang menyelenggarakan urusan pemerintahan di bidang  kesatuan bangsa dan politik bertanggungjawab dalam  memfasilitasi pemberdayaan perempuan di bidang politik.  
-2. Pemberdayaan sebagaimana dimaksud pada ayat (1) meliputi: a. melaksanakan pendidikan dan pelatihan bagi perempuan  dalam rangka peningkatan kompetensi khususnya dibidang  politik; danb. mendorong adanya keterwakilan perempuan dalam setiap  kepengurusan organisasi kemasyarakatan.  
+2. Pemberdayaan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. melaksanakan pendidikan dan pelatihan bagi perempuan  dalam rangka peningkatan kompetensi khususnya dibidang  politik; danb. mendorong adanya keterwakilan perempuan dalam setiap  kepengurusan organisasi kemasyarakatan.  
 
 #### Pasal 26
 
@@ -342,7 +347,8 @@ Pelaksanaan Pemberdayaan Perempuan pada organisasi  kemasyarakatan dilaksanakan 
 #### Pasal 27
 
 1. PD yang menyelenggarakan urusan pemerintahan di bidang  sosial bertanggungjawab dalam memfasilitasi Pemberdayaan  Perempuan di bidang sosial budaya.  
-2. Pemberdayaan Perempuan di bidang sosial budaya melalui: a. peningkatan pengetahuan, sikap dan keterampilan untuk  mendorong pemenuhan pendidikan secara berjenjang sesuai  dengan potensi untuk meningkatkan status sosial;  
+2. Pemberdayaan Perempuan di bidang sosial budaya melalui:  
+a. peningkatan pengetahuan, sikap dan keterampilan untuk  mendorong pemenuhan pendidikan secara berjenjang sesuai  dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk  mengatasipermasalahan kesehatan melalui upaya promotif,  preventif, kuratif, dan rehabilitatif yang berkualitas  utamanya di bidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, sehat dan sejahtera  termasuk akses layanan konsultasi dan pencatatan  perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengetahuan, teknologi, seni dan  budaya untuk kemajuan perempuan.  
 
@@ -407,7 +413,8 @@ c. setiap Pokja melakukan identifikasi tujuan, target dan indikator;
 d. menetapkan program dan kegiatan prioritas terkait  pencapaian masing- masing target; dane. menetapkan alokasi anggaran setiap program kegiatan. (2) RAD paling sedikit memuat:a. pendahuluan;  
 b. arah kebijakan dan strategi pencapaian;  
 c. pemantauan dan evaluasi;  
-d. penutup;dane. lampiran yang berisi matriks pelaksanaan RAD. (3) Penyusunan RAD dilaksanakan dengan memperhatikan: a. RPJMN;  
+d. penutup;dane. lampiran yang berisi matriks pelaksanaan RAD. (3) Penyusunan RAD dilaksanakan dengan memperhatikan:  
+a. RPJMN;  
 b. RPJMD; danc. dokumen terkait lainnya.  
 4. Ketentuan mengenai pelaksanaan RAD diatur lebih lanjut dengan Peraturan Bupati.  
 
@@ -481,7 +488,8 @@ Penguatan Dan Pengembangan Lembaga Penyedia Layanan  Peningkatan Kualitas Keluar
 #### Pasal 39
 
 1. Fasilitasi pembentukan lembaga penyedia layanan sebagaimana  dimaksud dalam Pasal 36 ayat (2) huruf a dilaksanakan dengan  cara membentuk pusat pembelajaran keluarga.  
-2. Tahapan pembentukan pusat pembelajaran keluarga meliputi: a. menyiapkan regulasi;  
+2. Tahapan pembentukan pusat pembelajaran keluarga meliputi:  
+a. menyiapkan regulasi;  
 b. menyiapkan sumberdaya manusia;  
 c. menyiapkan sarana dan prasarana; dand. pembentukan pusat pembelajaran keluarga.  
 3. Pusat pembelajaran keluarga berfungsi:a. sebagai lembaga layanan dalam pencegahan dan konseling;  

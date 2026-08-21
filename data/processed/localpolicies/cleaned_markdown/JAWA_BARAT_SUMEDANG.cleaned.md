@@ -14,10 +14,12 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap orang berhak untuk bebas dari perlakuan yang bersifat diskriminatif serta memperoleh kesempatan dan manfaat yang sama dalam berbagai bidang pembangunan di Kabupaten Sumedang: anak merupakan salah satu implementasi kebijakan penyelenggaraan urusan pemerintahan konkuren yang menjadi kewenangan pemerintahan daerah, yang menjadi kesatuan dimensi integral mulai dari perencanaan, penganggaran, pelaksanaan, pemantauan, evaluasi, pengawasan dan pelaporan atas kebijakan, program, serta kegiatan pembangunan daerah;  
 c. bahwa untuk mewujudkan kepastian hukum dan memberikan jaminan perlindungan hukum serta sinergitas dan keterpaduan dalam pelaksanaan kebijakan, program, dan kegiatan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten Sumedang, perlu diatur dan ditetapkan dengan Peraturan Daerah:d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Pelindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 

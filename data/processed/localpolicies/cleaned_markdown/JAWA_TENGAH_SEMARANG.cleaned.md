@@ -16,6 +16,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan pada intinya bahwa pemberdayaan perempuan merupakan urusan wajib yang harus diselenggarakan oleh pemerintah daerah ;  
@@ -23,6 +24,7 @@ d. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Dae
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan ;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 

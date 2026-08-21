@@ -109,7 +109,8 @@ e. non diskriminasi; danf. pemberdayaan.
 Pasal Peraturan Daerah ini dimaksudkan sebagai:
 a. pemenuhan hak anak dan perempuan dalam rangka perlindungan dan pencegahan kekerasan bagi anak dan perempuan di Daerah; danb. pedoman bagi Pemerintah Daerah dan masyarakat untuk melakukan perlindungan, pelayanan, rehabilitasi medik, rehabilitasi sosial dan pemberdayaan bagi perempuan dan anak korban tindak kekerasan.  
 
-Pasal Tujuan perlindungan perempuan dan anak dalam Peraturan Daerah ini adalah: a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+Pasal Tujuan perlindungan perempuan dan anak dalam Peraturan Daerah ini adalah:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 
 menghapus segala bentuk kekerasan dan_ eksploitasi terhadap perempuan dan anak;  
 
@@ -147,12 +148,14 @@ eksploitasi; dan/atau kekerasan lainnya.
 
 Pasal Kekerasan fisik sebagaimana dimaksud dalam Pasal huruf merupakan perbuatan yang mengakibatkan rasa sakit disertai cidera, luka atau cacat pada tubuh, gugurnya kandungan, pingsan dan/atau menyebabkan kematian perempuan dan/atau anak.  
 
-Pasal Kekerasan psikis sebagaimana dimaksud dalam Pasal huruf merupakan perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan psikis pada perempuan dan/atau anak. Pasal Kekerasan seksual sebagaimana dimaksud dalam Pasal huruf meliputi: a. perbuatan yang berupa pelecehan seksual;  
+Pasal Kekerasan psikis sebagaimana dimaksud dalam Pasal huruf merupakan perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan psikis pada perempuan dan/atau anak. Pasal Kekerasan seksual sebagaimana dimaksud dalam Pasal huruf meliputi:  
+a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan/atau tujuan tertentu.  
 
 #### Pasal 10
 
-Penelantaran sebagaimana dimaksud dalam Pasal huruf meliputi: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
+Penelantaran sebagaimana dimaksud dalam Pasal huruf meliputi:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan mengabaikan perempuan dan anak dengan sengaja dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada perempuan tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak didalam atau diluar rumah sehingga korban berada dibawah kendali orang tersebut.  
 
@@ -214,7 +217,8 @@ menyampaikan dan didengar pendapatnya; dan m. beristirahat dan memanfaatkan wakt
 
 #### Pasal 15
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban; hak menentukan sendiri keputusannya;  
 
 hak mendapatkan informasi;  
@@ -256,7 +260,8 @@ c. Masyarakat; dand. Dunia usaha/swasta.
 
 #### Pasal 18
 
-Kewajiban dan tanggung jawab Pemerintah Daerah (1) sebagaimana dimaksud dalam Pasal 17 huruf a, meliputi: a. menyusun dan melaksanakan program dan kegiatan terkait perlindungan perempuan dan anak;  
+Kewajiban dan tanggung jawab Pemerintah Daerah (1) sebagaimana dimaksud dalam Pasal 17 huruf a, meliputi:  
+a. menyusun dan melaksanakan program dan kegiatan terkait perlindungan perempuan dan anak;  
 b. melaksanakan perlindungan perempuan dan anak;  
 c. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar pelayanan minimal sesuai ketentuan peraturan perundang-undangan; dan d. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah.  
 
@@ -280,7 +285,8 @@ b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan 
 
 #### Pasal 21
 
-Kewajiban dan tanggung jawab dunia usaha/swasta sebagaimana dimaksud dalam Pasal 17 huruf meliputi: a. melindungi hak-hak perempuan;  
+Kewajiban dan tanggung jawab dunia usaha/swasta sebagaimana dimaksud dalam Pasal 17 huruf meliputi:  
+a. melindungi hak-hak perempuan;  
 b. ikut berpartisipasi mengalokasikan menyediakan anggaran untuk perlindungan dan pemberdayaan perempuan dan anak; dan/atauc. memberikan ruang gerak yang lebih luas terhadap perempuan sesuai kompetensi.  
 
 ## Bagian Kedua
@@ -361,11 +367,13 @@ Ketentuan lebih lanjut tentang pelaksanaan pelayanan (3) sebagaimana dimaksud pa
 
 #### Pasal 27
 
-Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi: a. identifikasi atau pencatatan awal korban; dan b. persetujuan dilakukan tindakan.  
+Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi:  
+a. identifikasi atau pencatatan awal korban; dan b. persetujuan dilakukan tindakan.  
 
 #### Pasal 28
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi: a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi:  
+a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
 c. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di kepolisan, kejaksaan dan pengadilan;  
 d. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
@@ -381,7 +389,8 @@ c. rujukan ke pelayanan kesehatan sesuai kebutuhan.
 #### Pasal 30
 
 1. Pelayanan bantuan hukum sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka untuk membantu korban dalam menjalani proses peradilan.  
-2. Pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) dilakukan dengan cara: a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan;  
+2. Pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:  
+a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan;  
 b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap menjelaskan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 31
@@ -443,19 +452,22 @@ b. praktek kerja lapangan; danc. pemagangan.
 
 #### Pasal 36
 
-Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud dalam Pasal 34 huruf meliputi: a. pelatihan keterampilan wirausaha;  
+Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud dalam Pasal 34 huruf meliputi:  
+a. pelatihan keterampilan wirausaha;  
 b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaan usaha.  
 
 #### Pasal 37
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 34 huruf meliputi: a. bantuan sarana dan prasarana kerja; dan
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 34 huruf meliputi:  
+a. bantuan sarana dan prasarana kerja; dan
 b. fasilitasi bantuan modal kerja.  
 
 # BAB IV KELEMBAGAAN
 
 #### Pasal 38
 
-Dalam rangka penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan dan anak Pemerintah Daerah membentuk: a. UPT PPA;  
+Dalam rangka penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan dan anak Pemerintah Daerah membentuk:  
+a. UPT PPA;  
 b. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang; danc. Satuan Tugas Perlindungan Perempuan dan Anak.  
 
 #### Pasal 39

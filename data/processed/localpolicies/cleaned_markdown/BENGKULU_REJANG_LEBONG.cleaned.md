@@ -18,10 +18,12 @@
 
 Menimbang:  
  
+ 
 a. bahwa guna menjamin hak-hak perempuan dan anak agar  dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak.  
 b. bahwa agar upaya-upaya pencegahan dan  penanggulangan kekerasan terhadap perempuan dan anak memperoleh hasil yang optimal, serta dilaksanakan secara cepat, terencana, terpadu, menyeluruh dan terorganisasi dengan melibatkan seluruh unsur terkait di daerah, maka perlu adanya pengaturan tentang pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak korban kekerasan.  c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanggulangan Kekerasan Terhadap Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -188,7 +190,8 @@ e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab dalam melakukan pencegahan dan  penanggulangan berupa perlindungan dan pelayanan terhadap perempuan  dan anak dari tindak kekerasan merupakan tanggung jawab bersama oleh: a. pemerintah daerah;  
+Kewajiban dan tanggung jawab dalam melakukan pencegahan dan  penanggulangan berupa perlindungan dan pelayanan terhadap perempuan  dan anak dari tindak kekerasan merupakan tanggung jawab bersama oleh:  
+a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
 
@@ -213,7 +216,8 @@ d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi
 
 #### Pasal 10
 
-Kewajiban dan tanggung jawab keluarga dan orangtua terhadap anak  sebagaimana dimaksud dalam Pasal 7 huruf c dan huruf d dalam bentuk: a. mengasuh, memelihara, mendidik dan melindungi anak;  
+Kewajiban dan tanggung jawab keluarga dan orangtua terhadap anak  sebagaimana dimaksud dalam Pasal 7 huruf c dan huruf d dalam bentuk:  
+a. mengasuh, memelihara, mendidik dan melindungi anak;  
 b. mencegah terjadinya perkawinan pada usia dini;  
 c. menjamin keberlangsungan pendidikan anak sesuai kemampuan, bakat  dan minat anak; dand. dalam hal orang tua tidak ada atau tidak diketahui keberadaannya atau  karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud  pada ayat (1) dapat beralih kepada keluarga sebagai wali anak, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan  yang berlaku.  
 
@@ -341,11 +345,13 @@ Kerjasama
 
 #### Pasal 24
 
-1. Kerjasama dilakukan untuk penguatan peran P2TP2A dalam mencapai  tujuan dari perlindungan perempuan dan anak di wilayah daerah. (2) Kerjasama sebagaimana dimaksud pada ayat (1) dilakukan dengan: a. pemerintah;  
+1. Kerjasama dilakukan untuk penguatan peran P2TP2A dalam mencapai  tujuan dari perlindungan perempuan dan anak di wilayah daerah. (2) Kerjasama sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
+a. pemerintah;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/ kota lain;  
 d. lembaga non pemerintah; dane. lembaga internasional yang diakui keberadaannya.  
-3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi: a. pertukaran data dan informasi;  
+3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan  ketentuan peraturan perundang-undangan.  
 4. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk kesepakatan bersama.  
@@ -357,7 +363,8 @@ Kemitraan
 #### Pasal 25
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha untuk  dukungan penyelenggaraan perlindungan terhadap perempuan dan anak  di wilayah daerah.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk perjanjian.  
@@ -379,7 +386,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang terc
 #### Pasal 27
 
 1. Bupati melakukan pembinaan dan pengawasan terhadap  penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dane. evaluasi.  
@@ -399,7 +407,8 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  terhadap per
 #### Pasal 29
 
 1. P2TP2A menyampaikan laporan tentang pelaksanaan penyelenggaraan  pencegahan dan perlindungan perempuan dan anak korban tindak  kekerasan kepada Bupati melalui SKPD yang membidangi program  pemberdayaan perempuan dan anak.  
-2. Pelaporan sebagaimana dimaksud pada ayat (1) meliputi: a. administrasi;  
+2. Pelaporan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dand. kinerja.  
 3. Penyampaian laporan dimaksud pada ayat (2) dilakukan secara tertulis  dan dilaksanakan paling sedikit 1 (satu) kali dalam 3 (tiga) bulan.  
@@ -438,7 +447,8 @@ h. menghentikan penyidikan setelah mendapat petunjuk dari Penyidik  Umum bahwa t
 #### Pasal 32
 
 1. Penanganan kasus hukum pada proses penyidikan oleh aparat penegak  hukum harus ditangani oleh penyidik khusus yang telah ditetapkan  sesuai kompetensinya oleh institusi penegakan hukum untuk bidang  perlindungan perempuan dan anak.  
-2. Penyidik khusus sebagaimana dimaksud pada ayat (1) adalah: a. pada kasus penyidikan untuk perempuan atau anak perempuan  korban kekerasan harus ditangani penyidik wanita;  
+2. Penyidik khusus sebagaimana dimaksud pada ayat (1) adalah:  
+a. pada kasus penyidikan untuk perempuan atau anak perempuan  korban kekerasan harus ditangani penyidik wanita;  
 b. proses pelaksanaan sebagaimana dimaksud pada huruf a wajib dalam  ruang tertutup yang hanya dihadiri oleh orang tua korban atau  walinya beserta tim advokasi dan psikologi dari P2TP2A yang memiliki jenis kelamin sama;  
 c. pada kasus penyidikan untuk anak laki-laki korban kekerasan dapat  dilakukan oleh penyidik laki-laki atau wanita, diutamakan sama jenis  kelamin dan dilaksanakan sebagaimana dimaksud pada huruf b; dan d. Proses sidang tidak terbuka untuk umum.  
 

@@ -52,18 +52,21 @@ Pasal1 Dalam Peraturan Daerah iniyang dimaksud dengan:
 
 ## BABII ASASDAN TUJUAN
 
-Pasal2 Perlindungan Perempuan dan Anak dilaksanakan berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+Pasal2 Perlindungan Perempuan dan Anak dilaksanakan berdasarkan asas:  
+a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan;  
 c. non diskriminasi ;  
 d. kepentingan terbaik bagi korban;  
 e. kepastian hukum; dan f. perlindungan hukum.  
 
-Pasa13 Perlindungan Perempuan dan Anak bertujuan: a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
+Pasa13 Perlindungan Perempuan dan Anak bertujuan:  
+a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
 b. melindungi perempuan dan anak; dan c. memberikan pelayanan kepada Perempuan dan Anak korban kekerasan.  
 
 ## BABIII HAK-HAKPEREMPUANDANANAK
 
-Pasal4 Setiap Perempuan dan Anak berhak: a. untuk dihormati harkat dan martabat sebagai manusia;  
+Pasal4 Setiap Perempuan dan Anak berhak:  
+a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan / atau pihak lain baik semen tara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologi maupun seksual sesuai penderitaan yang dialami korban;  
 d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban;  
@@ -76,7 +79,8 @@ f. atas pelayanan bimbingan rohani; dan g. menentukan sendiri keputusannya.
 
 (I) Pemerintah Daerah berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak.  
 
-2. Kewajibandan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)meliputi: a. melaksanakan kewajiban Perlindungan Perempuan dan Anak berdasarkan peraturan perundang-undangan;  
+2. Kewajibandan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)meliputi:  
+a. melaksanakan kewajiban Perlindungan Perempuan dan Anak berdasarkan peraturan perundang-undangan;  
 b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak;  
 c. melengkapi sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak; .,---", d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak; dan e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak.  
 
@@ -126,7 +130,8 @@ d. pelayanan kerohanian; dan e. pelayanan rumah aman.
 
 #### Pasal 10
 
-Dalam memberikan Perlindungan terhadap Perempuan dan Anak P2TP2A berkewajiban: a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
+Dalam memberikan Perlindungan terhadap Perempuan dan Anak P2TP2A berkewajiban:  
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
 b. menyelenggarakan perlindungan dan pemenuhan hak korban atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, pemulangan dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. memberikan kemudahan, kenyamanan dan keselamatan bagi korban; dan e. menjaga kerahasiaan korban.  
@@ -167,7 +172,8 @@ Pembinaan sebagaimana dimaksud pada ayat (1) meliputi koordinasi, fasilitasi, bi
 
 ##### BABX PERANSERTAMASYARAKAT
 
-Pasal17 (1) Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak, masyarakat dapat: a. membentuk mitra keluarga ditingkat kelurahan/ desa oleh masyarakat;  
+Pasal17 (1) Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak, masyarakat dapat:  
+a. membentuk mitra keluarga ditingkat kelurahan/ desa oleh masyarakat;  
 b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 c. melakukan pertolongan pertama kepada korban; dan d. melaporkan kepada instansi yang berwenang apabila dilingkungan terjadi kekerasan terhadap Perempuan dan Anak.  
 

@@ -18,12 +18,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait dan/atau masyarakat, agar masyarakat terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak, sebagaimana telah diubah dengan Undang-Undang Nomor 35 tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, maka Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -168,10 +170,12 @@ Kewajiban dan tanggung jawab keluarga dan/atau orangtua sebagaimana dimaksud dal
 
 #### Pasal 10
 
-1. Pemerintah Daerah bertugas melaksanakan upaya pencegahan terjadinya kekerasan berbasis gender dan anak, dalam bentuk: a. mengumpulkan data dan informasi tentang tindak kekerasan berbasis gender dan anak, dan peraturan perundang-undangan;  
+1. Pemerintah Daerah bertugas melaksanakan upaya pencegahan terjadinya kekerasan berbasis gender dan anak, dalam bentuk:  
+a. mengumpulkan data dan informasi tentang tindak kekerasan berbasis gender dan anak, dan peraturan perundang-undangan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak;  
 c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap gender dan anak; dand. melakukan pemantauan dan evaluasi terhadap penyelengaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
-2. Pemerintah Daerah dalam mengantisipasi terjadinya tindak kekerasan berbasis gender dan anak, berwenang menyediakan dan menyelengarakan layanan bagi korban dalam bentuk: a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk korban tindak kekerasan dengan melibatkan lembaga dan unsur masyarakat;  
+2. Pemerintah Daerah dalam mengantisipasi terjadinya tindak kekerasan berbasis gender dan anak, berwenang menyediakan dan menyelengarakan layanan bagi korban dalam bentuk:  
+a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk korban tindak kekerasan dengan melibatkan lembaga dan unsur masyarakat;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  d. secara aktif melakukan upaya penanganan terhadap korban kekerasan berbasis gender dan anak.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami, istri, atau orang lain yang secara hukum bertanggung jawab kepada korban.  
 
@@ -231,7 +235,8 @@ Pelayanan dan Pendampingan
 
 #### Pasal 16
 
-Bentuk pelayanan dan pendampingan terhadap korban tindak kekerasan berbasis gender dan anak yang diselenggarakan oleh Lembaga Perlindungan Perempuan Anak dan Remaja, meliputi: a. medis;  
+Bentuk pelayanan dan pendampingan terhadap korban tindak kekerasan berbasis gender dan anak yang diselenggarakan oleh Lembaga Perlindungan Perempuan Anak dan Remaja, meliputi:  
+a. medis;  
 b. medicolegal;  
 c. psikososial;  
 d. hukum;  
@@ -243,7 +248,8 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 
 #### Pasal 17
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban tindak kekerasan berbasis gender dan anak, dilakukan dengan prinsip: a. cepat, aman, dan empati;  
+Penyelenggaraan pelayanan dan pendampingan terhadap korban tindak kekerasan berbasis gender dan anak, dilakukan dengan prinsip:  
+a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
 
@@ -297,7 +303,8 @@ e. mengupayakan fasilitasi penyediaan modal bagi korban tindak kekerasan; danf. 
 #### Pasal 22
 
 1. Pemberdayaan korban tindak kekerasan sebagaimana dimaksud dalam Pasal 21, dilakukan dengan memberikan pelatihan untuk peningkatan kemampuan, keterampilan, dan kemandirian.  
-2. Pelatihan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pelatihan di tempat kerja;  
+2. Pelatihan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+a. pelatihan di tempat kerja;  
 b. pelatihan sebelum penempatan; danc. pelatihan siap kerja.  
 
 #### Pasal 23
@@ -314,10 +321,12 @@ Kerjasama
 
 #### Pasal 24
 
-1. Dalam rangka mencapai tujuan penyelenggaraan perlindungan tindak kekerasan berbasis gender dan anak sebagaimana dimaksud dalam Pasal 3, Pemerintah Daerah bekerjasama dengan: a. Pemerintah;  
+1. Dalam rangka mencapai tujuan penyelenggaraan perlindungan tindak kekerasan berbasis gender dan anak sebagaimana dimaksud dalam Pasal 3, Pemerintah Daerah bekerjasama dengan:  
+a. Pemerintah;  
 b. Pemerintah Provinsi;  
 c. Pemerintah kabupaten/kota lain; dand. masyarakat.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi: a. pertukaran data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai dengan hukum yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2) dilaksanakan sesuai peraturan perundang-undangan.  
@@ -329,7 +338,8 @@ Kemitraan
 #### Pasal 25
 
 1. Pemerintah Daerah membentuk kemitraan dengan pemangku kepentingan dalam penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi korban tindak kekerasan berbasis gender dan anak;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi korban tindak kekerasan berbasis gender dan anak;  
 b. pendidikan dan pelatihan bagi korban tindak kekerasan;  
 c. bantuan pendidikan bagi korban tindak kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk perjanjian.  
@@ -341,7 +351,8 @@ c. bantuan pendidikan bagi korban tindak kekerasan yang tercabut dari pendidikan
 #### Pasal 26
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. standar pelayanan minimal (SPM);  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. standar pelayanan minimal (SPM);  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dane. evaluasi.  

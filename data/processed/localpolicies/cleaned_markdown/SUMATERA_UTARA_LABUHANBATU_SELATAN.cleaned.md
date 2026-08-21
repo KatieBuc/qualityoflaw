@@ -16,11 +16,13 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Labuhanbatu Selatan terus meningkat yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 b. bahwa dalam rangka mengoptimalkan penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan di Kabupaten Labuhanbatu Selatan perlu memberikan arah, landasan, dan kepastian hukum kepada semua pihak yang terlibat dalam penyelenggaraan perlindungan perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -129,7 +131,8 @@ h. pelaporan; dani. sumber dana.
 
 #### Pasal 6
 
-Bentuk Kekerasan terhadap Perempuan dan Anak dapat berupa: a. kekerasan fisik;  
+Bentuk Kekerasan terhadap Perempuan dan Anak dapat berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran; dane. eksploitasi.  
@@ -144,20 +147,23 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 6 huruf b disebabkan oleh perb
 
 #### Pasal 9
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 6 huruf c disebabkan oleh: a. perbuatan yang berupa pelecehan seksual;  
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 6 huruf c disebabkan oleh:  
+a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan  atau tujuan tertentu.  
 
 #### Pasal 10
 
-Penelantaran sebagaimana dimaksud dalam Pasal 6 huruf d disebabkan oleh: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan Anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
+Penelantaran sebagaimana dimaksud dalam Pasal 6 huruf d disebabkan oleh:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan Anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus Anak sebagaimana mestinya yang dilakukan oleh orang tua, wali  atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup Rumah Tangganya,  padahal menurut hukum yang berlaku baginya atau karena persetujuan atau  perjanjian ia wajib memberikan penghidupan, perawatan, atau pemeliharaan  kepada orang tersebut; dan/atau
 d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar  rumah sehingga Korban berada di bawah kendali orang tersebut.  
 
 #### Pasal 11
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 6 huruf e disebabkan oleh: a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
+Eksploitasi sebagaimana dimaksud dalam Pasal 6 huruf e disebabkan oleh:  
+a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan Korban yang meliputi tapi tidak  terbatas pada pelacuran, kerja atau Pelayanan paksa, perbudakan atau praktek  serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ  dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari  Korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada  semua kegiatan pelacuran atau pencabulan.  
 
 # BAB III
@@ -185,7 +191,8 @@ Umum
 
 #### Pasal 13
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan Perempuan dan Anak dari tindak Kekerasan merupakan tanggung jawab bersama: a. Pemerintah Daerah;  
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan Perempuan dan Anak dari tindak Kekerasan merupakan tanggung jawab bersama:  
+a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua atau wali.  
 
@@ -209,7 +216,8 @@ b. menetapkan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak d
 #### Pasal 16
 
 1. Kewajiban dan tanggung jawab Masyarakat sebagaimana dimaksud dalam Pasal  13 huruf b, diselenggarakan dalam bentuk peran serta Masyarakat.  
-2. Bentuk peran serta Masyarakat sebagaimana dimaksud pada ayat (1), meliputi: a. membentuk mitra Keluarga di tingkat Kelurahan/Desa;  
+2. Bentuk peran serta Masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
+a. membentuk mitra Keluarga di tingkat Kelurahan/Desa;  
 b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi  keMasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 d. melakukan pertolongan pertama kepada Korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi Kekerasan terhadap Korban.  
@@ -337,7 +345,8 @@ Pengelolaan Data dan Informasi
 #### Pasal 27
 
 1. Pemerintah Daerah melalui perangkat Daerah yang membidangi Perempuan dan  Anak wajib menyusun data dan informasi mengenai perlindungan Perempuan dan Anak terhadap tindak Kekerasan.  
-2. Data dan informasi sebagaimana dimaksud pada ayat (1) meliputi: a. Perempuan dan Anak yang menjadi Korban tindak Kekerasan;  
+2. Data dan informasi sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Perempuan dan Anak yang menjadi Korban tindak Kekerasan;  
 b. pemenuhan hak Perempuan dan Anak;  
 c. Perempuan dan Anak berisiko atau rentan; dand. Perempuan dan Anak yang memerlukan perlindungan khusus.  
 3. Dalam pengelolaan data dan informasi Perempuan dan Anak sebagaimana  dimaksud pada ayat (2), wajib:a. menyusun sistem data dan informasi;  
@@ -348,7 +357,8 @@ c. melakukan kajian terhadap perkembangan permasalahan Perempuan dan  Anak terha
 #### Pasal 28
 
 1. Data dan informasi sebagaimana dimaksud dalam Pasal 27 menjadi bahan  penyusunan kebijakan, program, anggaran, monitoring dan evaluasi  penyelenggaraan perlindungan Perempuan dan Anak terhadap tindak  Kekerasan.  
-2. Perumusan kebijakan, program, anggaran, monitoring dan evaluasi  sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mekanisme: a. membuat pemetaan, rencana jangka panjang, menengah dan pendek;  
+2. Perumusan kebijakan, program, anggaran, monitoring dan evaluasi  sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mekanisme:  
+a. membuat pemetaan, rencana jangka panjang, menengah dan pendek;  
 b. membuat kesepakatan periodisasi rapat kerja bulanan dan tahunan;  
 c. membuat kesepakatan pengumpulan, pemetaan dan penyajian data antar  organisasi perangkat Daerah;  
 d. menuangkan kesepakatan dalam program dan anggaran; dan e. melakukan penjadwalan monitoring, evaluasi dan pelaporan.  
@@ -441,7 +451,8 @@ Perubahan Perilaku Sosial Yang Berpihak Pada Anak
 
 #### Pasal 38
 
-Wujud perubahan perilaku yang dapat dilakukan untuk melaksanakan  Perlindungan Anak sebagaimana dimaksud dalam Pasal 37 ayat (2) meliputi: a. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan  minatnya;  
+Wujud perubahan perilaku yang dapat dilakukan untuk melaksanakan  Perlindungan Anak sebagaimana dimaksud dalam Pasal 37 ayat (2) meliputi:  
+a. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan  minatnya;  
 b. mencegah terjadinya perkawinan pada usia anak-anak;  
 c. mengasuh, memelihara, mendidik dan melindungi Anak;  
 d. mencegah tawuran antar pelajar;  
@@ -456,12 +467,14 @@ Kebijakan Pembangunan Kabupaten Layak Anak
 #### Pasal 39
 
 1. Pembangunan Kabupaten Layak Anak bertujuan untuk membangun inisiatif  Pemerintah Daerah yang mengarah pada upaya transformasi konsep hak Anak ke dalam kebijakan, program dan kegiatan untuk menjamin terpenuhinya hak Anak.  
-2. Kebijakan Pembangunan Kabupaten Layak Anak sebagaimana dimaksud pada  ayat (1) dilaksanakan berdasarkan prinsip-prinsip yang meliputi: a. tata kelola pemerintahan yang baik;  
+2. Kebijakan Pembangunan Kabupaten Layak Anak sebagaimana dimaksud pada  ayat (1) dilaksanakan berdasarkan prinsip-prinsip yang meliputi:  
+a. tata kelola pemerintahan yang baik;  
 b. non diskriminasi;  
 c. budaya dan kearifan lokal;  
 d. kepentingan terbaik bagi Anak; dane. penghargaan terhadap pandangan Anak;  
 f. inklusif; dang. multi kultural.  
-3. Kebijakan Pembangunan Kabupaten Layak Anak diarahkan pada penguatan  kelembagaan pemenuhan hak Anak dan perlindungan khusus, meliputi: a. hak sipil dan kebebasan;  
+3. Kebijakan Pembangunan Kabupaten Layak Anak diarahkan pada penguatan  kelembagaan pemenuhan hak Anak dan perlindungan khusus, meliputi:  
+a. hak sipil dan kebebasan;  
 b. hak lingkungan Keluarga dan pengasuhan alternatif;  
 c. hak kesehatan dasar dan kesejahteraan Anak;  
 d. hak pendidikan, pemanfaatan waktu luang dan kegiatan budaya; dan e. hak perlindungan khusus.  
@@ -495,7 +508,8 @@ Kerja Sama
 
 #### Pasal 41
 
-1. Dalam hal tertentu Pemerintah Daerah dapat melakukan kerja sama dengan: a. pemerintah daerah lainnya;  
+1. Dalam hal tertentu Pemerintah Daerah dapat melakukan kerja sama dengan:  
+a. pemerintah daerah lainnya;  
 b. kepolisian;  
 c. advokat;  
 d. tenaga kesehatan;  
@@ -504,7 +518,8 @@ f. relawan Pendamping;
 g. pembimbing rohani;  
 h. penegak hukum lainnya, untuk membantu Korban dalam proses di sidang  pengadilan.  i. komisi nasional anti Kekerasan terhadap Perempuan;  
 j. komisi perlindungan Anak Indonesia atau Lembaga Perlindungan Anak; dan/atauk. pihak tertentu yang diinginkan demi kepentingan Korban.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. Pelayanan kesehatan;  
 d. pendampingan Korban;  
@@ -519,7 +534,8 @@ g. bimbingan rohani; dan/atauh. pemulangan dan reintegrasi sosial.
 #### Pasal 42
 
 1. Setiap orang dapat berpatisipasi dalam memberikan perlindungan Perempuan dan Anak dari tindak Kekerasan.  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara: a. melaporkan tindak Kekerasan terhadap Perempuan dan/atau Anak;  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara:  
+a. melaporkan tindak Kekerasan terhadap Perempuan dan/atau Anak;  
 b. melakukan pertolongan pertama kepada Korban;  
 c. mensosialisasikan hak Perempuan dan Anak secara mandiri;dan/atau d. membentuk lembaga sosial Masyarakat yang mandiri.  
 
@@ -527,7 +543,8 @@ c. mensosialisasikan hak Perempuan dan Anak secara mandiri;dan/atau d. membentuk
 
 1. Lembaga sosial Masyarakat sebagaimana dimaksud dalam Pasal 42 ayat (2)  huruf d, melaksanakan perlindungan Perempuan dan Anak terhadap tindak  Kekerasan harus berkoordinasi dengan P2TP2A.  
 2. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam perlindungan  Perempuan dan Anak terhadap tindak Kekerasan.  
-3. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai bahaya  tindak Kekerasan terhadap Perempuan dan Anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+3. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai bahaya  tindak Kekerasan terhadap Perempuan dan Anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 # BAB VIII
 
@@ -541,7 +558,8 @@ c. mensosialisasikan hak Perempuan dan Anak secara mandiri;dan/atau d. membentuk
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dane. evaluasi.  
-4. Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan dengan prinsip: a. profesional;  
+4. Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan dengan prinsip:  
+a. profesional;  
 b. transparan; danc. akuntabel.  
 
 #### Pasal 45

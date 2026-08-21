@@ -18,6 +18,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa melindungi perempuan dan anak dari segala bentuk tindakan diskriminasi dan kekerasan merupakan bagian dari tanggung jawab pemerintah daerah dalam rangka pemajuan, penegakan, dan pemenuhan hak asasi manusia;  
 b. bahwa perlindungan perempuan dan anak menjadi bagian dari urusan wajib bagi setiap pemerintah daerah yang diamanatkan dalam Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah;  
 
@@ -155,7 +156,8 @@ d. keluarga; dane. orang tua.
 
 #### Pasal 6
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi: a. menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan perempuan dan anak korban kekerasan;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi:  
+a. menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan perempuan dan anak korban kekerasan;  
 b. melakukan kerjasama dalam penyelenggaraan perlindungan perempuan dan anak dari korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak dari korban kekerasan;  
 d. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak korban kekerasan;  

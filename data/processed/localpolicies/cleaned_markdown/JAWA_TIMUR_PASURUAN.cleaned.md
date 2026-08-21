@@ -14,11 +14,13 @@
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan anak merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat penghormatan dan perlindungan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga pemberdayaan perempuan dan pelindungan anak harus dilakukan secara terpadu dan berkesinambungan melalui akselerasi pemenuhan dan perlindungan hak-hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -109,7 +111,8 @@ h. akuntabilitas; dani. rensponsif gender.
 
 #### Pasal 3
 
-Pemberdayaan Perempuan dan Perlindungan Anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
+Pemberdayaan Perempuan dan Perlindungan Anak bertujuan untuk:  
+a. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
 b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender  dan anak; dan
 c. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
 
@@ -323,7 +326,8 @@ b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.
 1. Masyarakat dan Dunia Usaha dapat berperan serta dalam pemenuhan hak anak termasuk:a. upaya pencegahan;  
 b. pengurangan risiko dan penanganan anak korban kekerasan;  
 c. eksploitasi; dand. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
-2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1), diwujudkan dengan dukungan pemenuhan hak anak termasuk: a. memberikan informasi dan atau melaporkan setiap situasi kerentanan  dan kekerasan yang diketahuinya;  
+2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1), diwujudkan dengan dukungan pemenuhan hak anak termasuk:  
+a. memberikan informasi dan atau melaporkan setiap situasi kerentanan  dan kekerasan yang diketahuinya;  
 b. memfasilitasi atau melakukan kegiatan pencegahan dan pengurangan  risiko;  
 c. memberikan layanan perlindungan bagi anak yang menjadi korban;  
 d. membantu advokasi terhadap korban dan/atau masyarakat tentang  penanganan kasus kekerasan, eksploitasi, perlakuan salah dan  penelantaran anak;  
@@ -358,7 +362,8 @@ Pelaporan penyelenggaraan sistem pemberdayaan perempuan dan perlindungan  anak d
 #### Pasal 31
 
 1. Setiap orang yang tidak mejalankan kewajiban sebagaimana dimaksud  dalam Pasal ( 14 ) dikenakan sanksi administratif.  
-2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa: a. Teguran lisan;  
+2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:  
+a. Teguran lisan;  
 b. Teguran tertulis;  
 c. Penghentian sementara kegiatan;  
 d. Penghentian tetap kegiatan;  

@@ -83,7 +83,8 @@ Definisi, Pengertian dan Peristilahan Pasal2 (1) Penyelenggaraan Perlindungan Pe
 a. kepentingan terbaik bagi Perempuan;  
 b. keadilan gender dan kesetaraan gender;  
 c. kearifan lokal; dand. kepastian hukum.  
-2. Penyelenggaraan Perlindungan Anak berdasarkan asas: a. non diskriminasi;  
+2. Penyelenggaraan Perlindungan Anak berdasarkan asas:  
+a. non diskriminasi;  
 b. kepentingan yang terbaik bagi Anak;  
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
 d. penghargaan terhadap pendapat Anak; dane. kepastian hukum.  
@@ -95,7 +96,8 @@ c. mencegah teIjadinya pelanggaran Hak Perempuan dan Anak;
 d. meningkatkan pemberdayaan terhadap Perempuan dan Anak;  
 e. meningkatkan peran dan nilai kearifan lokal dalam Perlindungan Perempuan dan Anak; danf. meningkatkan peran Perangkat Daerah dan non Pemerintah di Kabupaten dalam upaya Perlindungan Perempuan dan Anak.  
 
-Pasal4 Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi: a. pencegahan;  
+Pasal4 Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi:  
+a. pencegahan;  
 b. penyelenggaraan Perlindungan Hak Perempuan dan Anak;  
 c. penanganan;  
 d. pemberdayaan; dane. pembinaan dan pengawasan.  
@@ -204,14 +206,16 @@ Orang Tua dan/ atau Keluarga
 
 ### Paragraf 1
 
-Tanggung Jawab Terhadap Perlindungan Hak Perempuan Pasalil Tanggungjawab keluarga dalam upaya perlindungan perempuan meliputi: a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
+Tanggung Jawab Terhadap Perlindungan Hak Perempuan Pasalil Tanggungjawab keluarga dalam upaya perlindungan perempuan meliputi:  
+a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
 b. memberikan kesempatan yang sarna pada perempuan untuk mengembangkan diri di bidang:
 1. pendidikan;  
 2.:social;  
 3. ekonomi; dan
 4. politik dan budaya.  c. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
 
-Paragraf2 Tanggung Jawab Terhadap Periindungan Hak Anak PasalI2 (1) Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab: a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
+Paragraf2 Tanggung Jawab Terhadap Periindungan Hak Anak PasalI2 (1) Orang tua dalam upaya perlindungan terhadap Anak bertanggungjawab:  
+a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  
 d. membimbing Anak berperilaku sesuai dengan agama, etika dan moral serta adat istiadat; dane. mencegah teIjadinya perkawinan pada usia Anak.  
@@ -338,7 +342,8 @@ Paragraf3 KetenagakeIjaan Pasal31 Pengusaha dilarang untuk mempekeIjakan Anak.
 
 Pasal32 (1) Ketentuan sebagaimana dimaksud dalam Pasal 31 dapat dikecualikan bagi Anak yang berumur antara 13 (tiga belas) tahun sampai dengan 15 (lima belas) tahun, untuk melakukan pekeIjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan fisik, mental, dan sosial.  
 
-2. Pengusaha yang mempekeIjakan Anak pada pekeIjaan ringan sebagaimana dimaksud pada ayat (1) harns memenuhi persyaratan meliputi: a. izin tertulis dari orang tua atau wali;  
+2. Pengusaha yang mempekeIjakan Anak pada pekeIjaan ringan sebagaimana dimaksud pada ayat (1) harns memenuhi persyaratan meliputi:  
+a. izin tertulis dari orang tua atau wali;  
 b. perjanjian kerja antara pengusaha dengan orang tua atau wall;  
 c. waktu kerja maksimum 3 (tiga)jam;  
 d. dilakukan pada siang hari dan tidak mengganggu waktu sekoIah;  
@@ -354,7 +359,8 @@ Pasal34 (1) Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian
 
 I\ Pasal35 (1) Setiap orang dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.  
 
-2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1)meliputi: a. segaia pekerjaan dalam bentuk perbudakan atau sejenisnya;  
+2. Pekerjaan yang terburuk sebagaimana dimaksud pada ayat (1)meliputi:  
+a. segaia pekerjaan dalam bentuk perbudakan atau sejenisnya;  
 b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk . 1. pelacuran;  
 2. produksi pomografi;  
 3. pomo aksi;  
@@ -385,7 +391,8 @@ Pasal38 (1) Pemerintah Kabupaten menyediakan rumah singgah untuk membina Anak ja
 
 ## Bagian Kesatu
 
-Penanganan Perempuan dan Anak Korban Kekerasan Pasal40 Pelaksanaan penanganan Perempuan dan Anak korban kekerasan meliputi: a. penanganan pengaduan korban kekerasan;  
+Penanganan Perempuan dan Anak Korban Kekerasan Pasal40 Pelaksanaan penanganan Perempuan dan Anak korban kekerasan meliputi:  
+a. penanganan pengaduan korban kekerasan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
 d. penegakan dan bantuan hukum; dane. pemulangan dan reintegrasi sosial.  
@@ -432,7 +439,8 @@ c. Masyarakat; dan Iatau
 
 d.organisasi kemasyarakatan di bidang perlindungan Perempuan dan Anak.  
 
-2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan: a. secara langsung;  
+2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan:  
+a. secara langsung;  
 b. melalui telepon; danc. melalui surat.  
 3. Seiain penanganan pengaduan yang disampaikan oieh pelapor, petugas pada lembaga pelayanan sebagaimana dimaksud dalam Pasal 42 berwenang melakukan penanganan korban kekerasan Perempuan dan Anak yang diperoleh melalui informasi lainnya.  
 4. Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan pengaduan sebagaimana dimaksud pada ayat (1)dan ayat (2)diatur dengan Peraturan Bupati
@@ -461,7 +469,8 @@ b. pelayanan medikolegal; danc. konseling psikososial.
 
 Pelayanan Rehabilitasi Sosial Bagi Perempuan dan Anak Korban Kekerasan Pasal45 (1) Pelayanan rehabilitasi sosial bagi Perempuan dan Anak korban kekerasan ditujukan untuk memulihkan dan mengembangkan kemampuan korban yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
 
-2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi: a. pelayanan konseling;  
+2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pelayanan konseling;  
 b. penyediaan rumah aman;  
 c. bimbingan rohani.  
 3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:a. Perangkat Daerah yang mempunyai tugas dan berfungsi di bidang sosial;  
@@ -565,7 +574,8 @@ Pasal56 (1)Dalam setiap penyusunan kebijakan yang terkait dengan Anak, Pemerinta
 
 Pasal57 (1) Pemerintah Kabupaten melakukan pembinaan kepada Pemerintah Kecamatan dalam pengembangan Kabupaten Layak Anak.  
 
-2. Pembinaan sebagaimana dimaksud pada ayat (1)meliputi: a. koordinasi;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1)meliputi:  
+a. koordinasi;  
 b. fasilitasi;  
 c. bimbingan;  
 d. supervisi;  

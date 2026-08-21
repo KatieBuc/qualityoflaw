@@ -12,12 +12,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. bahwa pemenuhan hak-hak konstitusional dan  perlindungan hak asasi manusia perempuan dan anak  terhadap tindak kekerasan merupakan salah satu nilai  yang tertuang dalam Pancasila dan Undang-Undang Dasar  1945;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kota  Semarang terus meningkat dan meluas yang  menyebabkan warga masyarakat tidak aman dalam  menjalankan kehidupan, sehingga diperlukan upaya  perlindungan secara terpadu;  
 c. bahwa untuk memberikan arah dan kepastian hukum  kepada semua yang terlibat dalam upaya memberikan  perlindungan hukum, maka diperlukan pengaturan  tentang perlindungan perempuan dan anak dari tindak  kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c maka perlu  membentuk Peraturan Daerah Kota Semarang tentang  Perlindungan Perempuan dan Anak Dari Tindak  Kekerasan.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -318,7 +320,8 @@ Kemitraan
 #### Pasal 22
 
 1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan;  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan Perundang-undangan.  
@@ -330,7 +333,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang terc
 #### Pasal 23
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.  
-2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
 d. pemantauan;  

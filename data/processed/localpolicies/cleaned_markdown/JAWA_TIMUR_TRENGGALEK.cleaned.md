@@ -14,6 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa Negara Kesatuan Republik Indonesia menjamin  kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak perempuan dan hak anak yang merupakan hak asasi manusia;  
 b. bahwa dalam rangka meningkatkan kedudukan, peran, dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara;  
 c. bahwa setiap anak adalah tunas, potensi, dan generasi  penerus perjuangan bangsa, dan diharapkan kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, sehingga perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;  
@@ -23,6 +24,7 @@ d. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan kemanusian y
 e. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -147,12 +149,14 @@ c. hak untuk hidup, kelangsungan hidup, dan perkem bangan; dand. penghargaan ter
 
 #### Pasal 3
 
-Tujuan penyelenggaraan perlindungan perempuan adalah: a. menjamin terpenuhinya hak-hak perempuan;  
+Tujuan penyelenggaraan perlindungan perempuan adalah:  
+a. menjamin terpenuhinya hak-hak perempuan;  
 b. melindungi perempuan dan mencegah segala bentuk kekerasan dan diskriminasi terhadap perempuan; danc. memelihara keutuhan rumah tangga yang harmonis dan  sejahtera.  
 
 #### Pasal 4
 
-Tujuan penyelenggaraan perlindungan anak adalah: a. menjamin terpenuhinya hak-hak anak agar dapat hidup,  tumbuh berkembang, dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan;  
+Tujuan penyelenggaraan perlindungan anak adalah:  
+a. menjamin terpenuhinya hak-hak anak agar dapat hidup,  tumbuh berkembang, dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan;  
 b. melindungi anak dan mencegah segala bentuk kekerasan dan  diskriminasi terhadap anak; danc. mewujudkan anak yang berkualitas, berakhlak mulia, dan  sejahtera.  
 
 12 -
@@ -264,7 +268,8 @@ j. untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau atu
 
 #### Pasal 12
 
-1. Setiap anak yang dirampas kebebasannya berhak untuk: a. mendapatkan perlakuan secara manusiawi dan  penempatannya dipisahkan dari orang dewasa;  
+1. Setiap anak yang dirampas kebebasannya berhak untuk:  
+a. mendapatkan perlakuan secara manusiawi dan  penempatannya dipisahkan dari orang dewasa;  
 b. memperoleh bantuan hukum atau bantuan lainnya  secara efektif dalam setiap tahapan upaya hukum yang  berlaku; danc. membela diri dan memperoleh keadilan di depan  pengadilan anak yang objektif dan tidak memihak dalam  sidang tertutup untuk umum.  
 2. Setiap anak yang menjadi korban atau pelaku kekerasan  seksual atau yang berhadapan dengan hukum berhak  dirahasiakan.  
 
@@ -364,7 +369,8 @@ Kewajiban dan Tanggung Jawab Keluarga dan Orang Tua
 
 #### Pasal 25
 
-1. Orang tua berkewajiban dan bertanggung jawab untuk: a. mengasuh, memelihara, mendidik, dan melindungi  anak;  
+1. Orang tua berkewajiban dan bertanggung jawab untuk:  
+a. mengasuh, memelihara, mendidik, dan melindungi  anak;  
 b. menumbuhkembangkan anak sesuai dengan  kemampuan, bakat, dan minatnya; danc. mencegah terjadinya perkawinan pada usia anak-anak. (2) Dalam hal orang tua tidak ada, atau tidak diketahui  keberadaannya, atau karena suatu sebab, tidak dapat  melaksanakan kewajiban dan tanggung jawabnya, maka  kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih kepada keluarga, yang dilaksanakan  sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
 ## Bagian Ketiga
@@ -551,7 +557,8 @@ c. pemberian jaminan keselamatan bagi saksi korban dan  saksi ahli, baik fisik, 
 #### Pasal 51
 
 1. Perlindungan khusus bagi anak yang dieksploitasi secara  ekonomi dan/atau seksual sebagaimana dimaksud dalam  Pasal 44 merupakan kewajiban dan tanggung jawab  Pemerintah Daerah dan masyarakat.  
-2. Perlindungan khusus bagi anak yang dieksploitasi  sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. penyebarluasan dan/atau sosialisasi ketentuan  Peraturan Perundang-undangan yang berkaitan dengan  perlindungan anak yang dieksploitasi secara ekonomi  dan/atau seksual;  
+2. Perlindungan khusus bagi anak yang dieksploitasi  sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. penyebarluasan dan/atau sosialisasi ketentuan  Peraturan Perundang-undangan yang berkaitan dengan  perlindungan anak yang dieksploitasi secara ekonomi  dan/atau seksual;  
 b. pemantauan, pelaporan, dan pemberian sanksi; dan c. pelibatan berbagai instansi Pemerintah Daerah,  perusahaan, serikat pekerja, Lembaga Sosial  Kemasyarakatan, dan masyarakat dalam penghapusan  eksploitasi terhadap anak secara ekonomi dan/atau  seksual.  
 3. Setiap orang dilarang menempatkan, membiarkan,  melakukan, menyuruh melakukan, atau turut serta  melakukan eksploitasi terhadap anak sebagaimana dimaksud  pada ayat (1).  
 

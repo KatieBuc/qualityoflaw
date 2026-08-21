@@ -16,10 +16,12 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat, harkat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi sebagai bentuk penghormatan, perlindungan dan penegakan Hak Asasi Manusia, khususnya hak-hak dasar perempuan dan Anak, sehingga perlu diatur mengenai penyelenggaraan perlindungan perempuan dan Anak Korban kekerasan di Kabupaten Blora;  
 b. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang–Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -162,7 +164,8 @@ f. mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap Korban
 
 #### Pasal 7
 
-1. Bentuk Kekerasan Terhadap Perempuan dan Anak berupa: a. kekerasan fisik;  
+1. Bentuk Kekerasan Terhadap Perempuan dan Anak berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
@@ -173,12 +176,15 @@ e. eksploitasi; danf. perlakuan salah.
 b. perbuatan pencabulan dan hubungan seksual kepada Anak;  
 c. pemaksaan hubungan seksual;  
 d. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataue. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
-5. Penelantaran sebagaimana dimaksud pada ayat (1) huruf d adalah: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan  Korban secara wajar baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya;  
+5. Penelantaran sebagaimana dimaksud pada ayat (1) huruf d adalah:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan  Korban secara wajar baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus Anak sebagaimana mestinya yang  dilakukan orang tua, wali, pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja yang  layak di dalam atau di luar rumah sehingga Korban berada di  bawah kendali orang tersebut.  
-6. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf e adalah: a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
+6. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf e adalah:  
+a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau mentransplantasi  organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan pelacuran  atau pencabulan.  
-7. Perlakuan salah sebagaimana dimaksud pada ayat (1) huruf f adalah: a. segala perbuatan atau tindakan baik yang sengaja maupun  tidak sengaja yang dilakukan oleh orang lain yang membuat  individu sakit atau terganggu perasaannya, atau memperoleh  perasaan yang tidak enak yang membuat seseorang sedih,  kecewa, marah dan takut;  
+7. Perlakuan salah sebagaimana dimaksud pada ayat (1) huruf f adalah:  
+a. segala perbuatan atau tindakan baik yang sengaja maupun  tidak sengaja yang dilakukan oleh orang lain yang membuat  individu sakit atau terganggu perasaannya, atau memperoleh  perasaan yang tidak enak yang membuat seseorang sedih,  kecewa, marah dan takut;  
 b. segala pelanggaran seksual yang dilakukan atau diizinkan  untuk dilakukan terhadap Anak oleh orang dewasa atau orang  lain yang secara sah bertanggung jawabuntuknya, meliputi  menyentuh Anak dengan maksud kepuasan seksual atau  paksaan Anak untuk menyentuh seorang dewasa, hubungan  seksual, memperlihatkan kegiatan seksual kepada Anak,  pornografi atau mengizinkan Anak melakukan hubungan  seksual yang tidak sesuai dengan perkembangannya.  
 
 # BAB VII
@@ -249,7 +255,8 @@ Umum
 
 #### Pasal 14
 
-Penyelenggaraan perlindungan Korban Kekerasan dilakukan melalui: a. upaya pencegahan;  
+Penyelenggaraan perlindungan Korban Kekerasan dilakukan melalui:  
+a. upaya pencegahan;  
 b. pelayanan; danc. pemberdayaan.  
 
 ## Bagian Kedua
@@ -315,12 +322,14 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 19
 
-Bentuk pemberdayaan bagi perempuan Korban kekerasan meliputi: a. pelatihan kerja;  
+Bentuk pemberdayaan bagi perempuan Korban kekerasan meliputi:  
+a. pelatihan kerja;  
 b. usaha ekonomi produktif dan kelompok usaha bersama; dan c. bantuan permodalan.  
 
 #### Pasal 20
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 19 huruf a meliputi: a. pelatihan sebelum penempatan; dan
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 19 huruf a meliputi:  
+a. pelatihan sebelum penempatan; dan
 b. praktek kerja lapangan.  
 
 #### Pasal 21
@@ -366,7 +375,8 @@ Pelaksanaan kerjasama sebagaimana dimaksud dalam Pasal 24 sesuai  dengan ketentu
 #### Pasal 26
 
 1. Masyarakat ikut berpartisipasi dalam penyelenggaraan perlindungan  terhadap Korban.  
-2. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. memberikan perlindungan bagi Korban;  
+2. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. memberikan perlindungan bagi Korban;  
 b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap Korban dan/atau masyarakat  tentang penanganan kasus Kekerasan Terhadap Perempuan dan  Anak;  
 d. membantu proses pengajuan permohonan penetapan  perlindungan;  

@@ -14,6 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPuAN DAN ANAK KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindalan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan dan anak korban kekerasan di Daerah belum optimal, sehingga perlu penguatan kelembagaan dan adanya pengaturan yang dapat menjamin pelaksanaannya sesuai ketentuaa yang berlaku darr;  
 c. bahwa berdasarkan Undang_Undang Nomor 23 Tahun 2O14 tentang pemerintahan Daerah sebagaimana diubah beberapa kali terakhir dengan Undaag_Undang Nomor 9 Tahun 2015, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh pemerintahan Daerah;  
@@ -156,7 +157,8 @@ Rencana Aksi Daerah Perlindungan Terhadap Perempuan (5) dan Anak Korban Kekerasa
 
 #### Pasal 7
 
-Tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b diselenggarakan dalam bentuk: a. mencegah te{adinya tindak kekerasan terhadap perempuan dan anak; dan
+Tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b diselenggarakan dalam bentuk:  
+a. mencegah te{adinya tindak kekerasan terhadap perempuan dan anak; dan
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang.  
 
 #### Pasal 8
@@ -180,7 +182,8 @@ e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan de
 
 #### Pasal 1O
 
-Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal 9 ayat (l) dilakukan oleh: a. keluarga dan/atau kerabat terdekat;  
+Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal 9 ayat (l) dilakukan oleh:  
+a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat;  
 c. lembaga pendidikan; dan/ataud. lembaga swadaya masyarakat.  
 
@@ -230,7 +233,8 @@ b. praktek ke{a lapangan; danc. pemagangan.
 
 #### Pasal 15
 
-Usaha ekonomi produktif dan/atau kelompok usaha bersama sebagaimana dimaksud dalam Pasal 23 huruf b meliputi: a. pelatihan keterampilan wirausaha;  
+Usaha ekonomi produktif dan/atau kelompok usaha bersama sebagaimana dimaksud dalam Pasal 23 huruf b meliputi:  
+a. pelatihan keterampilan wirausaha;  
 b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaan usaha.  
 
 #### Pasal 16
@@ -295,7 +299,8 @@ e. hak atas kerahasiaan identitasnya;
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan;  
 h. hak untuk mendapatkan kemudahan dalam proses peradilan; dan/ataui. hak atas pendampingan.  
-2. Anak yang menjadi korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud pada ayat (1)juga mendapatkan hak-hak khusus, sebagai berikut: a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
+2. Anak yang menjadi korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud pada ayat (1)juga mendapatkan hak-hak khusus, sebagai berikut:  
+a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak mendapat bimbingan rohani;  
 d. hak perlindungan yang sama;  
@@ -476,7 +481,8 @@ Huruf b Upaya pencegahan dalam masyarakat meliputi: menumbuhkan kepedulian lingk
 
 Huruf c lembaga pendidikan dapat turut serta mengupayakan pemberian hukuman yang bersifat mendidik, mengupayakan menghapus ketentuan yang tidak berpihak pada korban kekerasan.  
 
-Huruf d Cukup jelas Cukup jelas Huruf a Pelayanan pengaduan, konsultasi, dan konseling meliputi: a. identifikasi atau pencatatan awal korban; dan
+Huruf d Cukup jelas Cukup jelas Huruf a Pelayanan pengaduan, konsultasi, dan konseling meliputi:  
+a. identifikasi atau pencatatan awal korban; dan
 b. persetujuan dilakukan tindakan (informed consent ) yaitu persetujuan tindakan kedokteran yang diberikan oleh korban atau keluarga terdekatnya setelah mendapatkan penjelasan secara lengkap mengenai tindakan kedokteran yang akan dilakukan terhadap korban tersebut.  
 
 Huruf b Pelayanan pendampingan meliputi:

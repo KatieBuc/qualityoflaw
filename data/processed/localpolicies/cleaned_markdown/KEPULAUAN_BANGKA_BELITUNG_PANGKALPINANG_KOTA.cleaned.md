@@ -14,11 +14,13 @@ PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 Menimbang:  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap  pemenuhan hak-haknya dan Perlindungan dari tindak  kekerasan dan diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi diri perempuan dalam masyarakat di Kota Pangkalpinang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b, perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -76,7 +78,8 @@ b. memberikan keadilan dan kesetaraan gender;
 c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasi, serta  tindak pidana perdagangan orang;  
 d. menghapus segala bentuk kekerasan dan diskriminasi terhadap perempuan;  
 e. memberikan pelayanan kepada perempuan Korban kekerasan, dan saksi; danf. melakukan pemulihan terhadap perempuan Korban  kekerasan meningkatkan peran serta perempuan baik  secara individual maupun kelompok sebagai potensi  dan sumber daya dalam penyelenggaraan hidup sosial  kemasyarakatan.  
-3. Ruang lingkup Peraturan Daerah ini, meliputi: a. hak perempuan;  
+3. Ruang lingkup Peraturan Daerah ini, meliputi:  
+a. hak perempuan;  
 b. kewajiban dan tanggung jawab pemerintah daerah;  
 c. pemberdayaan perempuan;  
 d. perlindungan perempuan;  
@@ -128,7 +131,8 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 5
 
-Setiap perempuan korban kekerasan mempunyai: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Setiap perempuan korban kekerasan mempunyai:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami Korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -195,7 +199,8 @@ c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi 
 
 #### Pasal 12
 
-Penyelenggaraan pemberdayaan perempuan dibidang hukum  sebagaimana dimaksud dalam Pasal 8 huruf d meliputi: a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan  edukasi; dan
+Penyelenggaraan pemberdayaan perempuan dibidang hukum  sebagaimana dimaksud dalam Pasal 8 huruf d meliputi:  
+a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan  edukasi; dan
 b. fasilitasi akses dan layanan konsultasi hukum.  
 
 #### Pasal 13
@@ -230,7 +235,8 @@ Umum
 
 #### Pasal 17
 
-Walikota dalam melaksanakan kebijakan, program dan  kegiatan perlindungan perempuan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan antar perangkat daerah;  
+Walikota dalam melaksanakan kebijakan, program dan  kegiatan perlindungan perempuan melakukan upaya:  
+a. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan antar perangkat daerah;  
 b. kerjasama dengan kabupaten/kota dalam satu provinsi  dan kerjasama antar kabupaten/kota di provinsi lainnya  dalam pelaksanaan kebijakan program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan  peraturan perundang-undangan;  
 c. penguatan kapasitas kelembagaan pengarusutamaan  gender untuk pelaksanaan kebijakan program dan  kegiatan perlindungan perempuan;  
 d. fasilitasi pelayanan perlindungan perempuan;  
@@ -239,7 +245,8 @@ f. pelaksanaan aksi afirmasi perlindungan perempuan; dan g. penyusunan sistem pe
 
 #### Pasal 18
 
-Pelaksanaan perlindungan perempuan diberikan kepada: a. perempuan pekerja/buruh;  
+Pelaksanaan perlindungan perempuan diberikan kepada:  
+a. perempuan pekerja/buruh;  
 b. perempuan lanjut usia;  
 c. perempuan penyandang disabilitas;  
 d. perempuan tuna wisma;  
@@ -305,7 +312,8 @@ Perempuan Pekerja Rumah Tangga
 #### Pasal 24
 
 1. Pelaksanaan perlindungan bagi perempuan pekerja  rumah tangga dalam rangka memberikan perlindungan  dan pencegahan terhadap bentuk diskriminasi,  perlakuan kejam, tidak manusiawi, merendahkan  martabat manusia dan eksploitasi dalam hubungan  kerja.  
-2. Perempuan pekerja rumah tangga sebagaimana  dimaksud pada ayat (1) mendapat perlindungan atas: a. pengakuan hak, upah dan kondisi kerja yang layak;  
+2. Perempuan pekerja rumah tangga sebagaimana  dimaksud pada ayat (1) mendapat perlindungan atas:  
+a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan sosial ketenagakerjaan;  
 c. akses informasi dan layanan konsultasi hukum; dan  d. kesempatan memperoleh pengetahuan dan  keterampilan untuk meningkatkan status ekonomi.  
 
@@ -358,7 +366,8 @@ Kewajiban dan Upaya Pemerintah Daerah
 
 #### Pasal 29
 
-1. Pemerintah Kota berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk: a. mengumpulkan data dan informasi tentang korban kekerasan serta peraturan perundang-undangan;  
+1. Pemerintah Kota berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk:  
+a. mengumpulkan data dan informasi tentang korban kekerasan serta peraturan perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan;  
 c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan akan korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan korban kekerasan;  dane. menyusun laporan terhadap penyelenggaraan perlindungan perempuan korban kekerasan.  
@@ -371,7 +380,8 @@ Bentuk Kekerasan dan Perlindungan
 
 #### Pasal 30
 
-1. Bentuk kekerasan terhadap perempuan meliputi: a. kekerasan fisik;  
+1. Bentuk kekerasan terhadap perempuan meliputi:  
+a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi; dand. kekerasan psikis.  
 2. Bentuk kekerasan fisik sebagaimana dimaksud pada  ayat (1) huruf a berupa setiap perbuatan yang  mengakibatkan rasa sakit, cidera, luka atau cacat pada  tubuh seseorang, pingsan dan atau menyebabkan  kematian.  

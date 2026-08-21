@@ -115,7 +115,8 @@ d. ketertiban 7 _d. ketertiban dan kepastian hukum;
 e. keterbukaan;  
 f. pengayoman; dang. kepentingan terbaik bagi korban.  
 
-Pasal3 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+Pasal3 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah:  
+a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis gender;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
 d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban kekerasan;  
@@ -136,15 +137,18 @@ Pasal6 Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b merupakan per
 
 #### Pasal 7
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi: a. perbuatan yang berupa pelecehan seksual;  
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi:  
+a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar; dan/ ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan/ atau tujuan tertentu.  
 
-Pasal8 8 Pasal8 Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi: a. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan kepada perempuan tersebut.  
+Pasal8 8 Pasal8 Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi:  
+a. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan kepada perempuan tersebut.  
 b. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan mengabaikan dengan sengaja untuk merawat atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya.  
 
-Pasal9 Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi: a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+Pasal9 Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi:  
+a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasikan organ dan/ atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil;  
 
 PasallO (1) Kekerasan lainnya sebagaimana dimaksud dalam pasal 4 huruf f merupakan ancaman kekerasan dan pemaksaan.  
@@ -165,7 +169,8 @@ e. hak atas kerahasiaan;
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan secara tepat, nyaman, dan sesuai kebutuhan;  
 h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan;  
-i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut:  
+a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
@@ -282,7 +287,8 @@ c. Pemerintah KabupatenjKota lain;
 d. Lembaga Non Pemerintah;  
 e. Masyarakat;  
 f. Perguruan Tinggi;dang. Media Massa.  
-2. KeIja sarna sebagaimana dimaksud pada ayat (1)meliputi: a. pertukaran data dan informasi;  
+2. KeIja sarna sebagaimana dimaksud pada ayat (1)meliputi:  
+a. pertukaran data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
 d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum yang berlaku.  
@@ -292,7 +298,8 @@ d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum 
 
 Kemitraan Pasal25 (1) Pemerintah Daerah membentuk kemitraan dengan duma usaha dalarn perlindungan perempuan dan anak dari tindak kekerasan sesuai dengan ketentuan peraturan perundang-undangan.  
 
-2. Kemitraan sebagaimana dimaksud pada ayat (1)dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan dan anak korban tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1)dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan dan anak korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan dan anak korban tindak kekerasan;  
 
 ### BABVIII 14

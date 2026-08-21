@@ -12,12 +12,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga penyelenggaraan  perlindungan perempuan dan anak harus dilakukan secara  terpadu dan berkesinambungan melalui pemenuhan dan  perlindungan hak-hak perempuan dan anak dalam kehidupan  pribadinya, keluarga, bermasyarakat, berbangsa dan  bernegara;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak di  Kota probolinggo belum dilaksanakan secara menyeluruh  sehingga pemenuhan dan perlindungan hak perempuan dan  anak belum dilaksanakan secara optimal;  
 c. bahwa dalam Undang-Undang tentang Pemerintahan Daerah menyatakan bahwa pemberdayaan perempuan dan  perlindungan anak merupakan salah satu urusan  pemerintahan wajib yang tidak berkaitan dengan pelayanan  dasar dan menjadi kewenangan Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -139,7 +141,8 @@ h. pekerja; dani. kelompok rentan lainnya.
 
 #### Pasal 7
 
-Setiap Perempuan korban kekerasan berhak untuk mendapatkan: a. perlindungan dan pendampingan;  
+Setiap Perempuan korban kekerasan berhak untuk mendapatkan:  
+a. perlindungan dan pendampingan;  
 b. bantuan hukum;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
 d. pelayanan spiritual;  
@@ -198,7 +201,8 @@ Pencatatan kelahiran
 #### Pasal 13
 
 1. Pemerintah Daerah wajib menyelenggarakan Pemenuhan Hak Anak dibidang  pencatatan kelahiran dengan menerbitkan akta kelahiran tanpa dipungut  biaya sesuai dengan ketentuan peraturan perundang-undangan.  
-2. Identitas diri setiap anak harus diberikan sejak kelahirannya. (3) Identitas sebagaimana dimaksud pada ayat (1) dituangkan dalam: a. kartu keluarga;  
+2. Identitas diri setiap anak harus diberikan sejak kelahirannya. (3) Identitas sebagaimana dimaksud pada ayat (1) dituangkan dalam:  
+a. kartu keluarga;  
 b. akta kelahiran; danc. Kartu Identitas Anak.  
 
 ## Bagian Ketiga
@@ -302,13 +306,15 @@ c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  d
 
 #### Pasal 25
 
-Penelantaran sebagaimana dimaksud dalam Pasal 21 huruf d disebabkan karena: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua,  wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
+Penelantaran sebagaimana dimaksud dalam Pasal 21 huruf d disebabkan karena:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua,  wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali,  atau pihak lain yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan menelantarkan orang dalam lingkup rumah tangganya, padahal  menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian  ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar  rumah sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 26
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 21 huruf e disebabkan karena: a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
+Eksploitasi sebagaimana dimaksud dalam Pasal 21 huruf e disebabkan karena:  
+a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban antara lain pelacuran,  kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan  hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan materiil atau immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari  korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada  semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 27
@@ -341,7 +347,8 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 31
 
-Bentuk penanganan terhadap perempuan dan anak korban kekerasan meliputi: a. pelayanan pengaduan, konsultasi, dan konseling;  
+Bentuk penanganan terhadap perempuan dan anak korban kekerasan meliputi:  
+a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan rehabilitasi medis;  
 d. pelayanan rehabilitasi sosial;  
@@ -355,7 +362,8 @@ b. identifikasi Kasus; danc. persetujuan dilakukan tindakan.
 
 #### Pasal 33
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 31 huruf b meliputi: a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 31 huruf b meliputi:  
+a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan  pengadilan;  
 c. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di  kepolisan, kejaksaan dan pengadilan;  
 d. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa;  
@@ -375,7 +383,8 @@ b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi  fi
 
 #### Pasal 36
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 31 huruf e adalah untuk  membantu korban dalam menjalani proses peradilan dengan cara: a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak  korban dan proses peradilan;  
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 31 huruf e adalah untuk  membantu korban dalam menjalani proses peradilan dengan cara:  
+a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak  korban dan proses peradilan;  
 b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping,  dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 37

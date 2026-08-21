@@ -16,10 +16,12 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa sampai saat ini jumlah kekerasan terhadap perempuan dan anak  masih tinggi, sementara pelayanan dan perlindungan belum dilakukan  secara optimal;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap  Perempuan dan Anak Korban Kekerasan yang ditetapkan dengan  Peraturan Daerah Kabupaten Madiun.  
 
 Mengingat:  
+ 
  
 1. Undang-undang Nomor 12 Tahun 1950 tentang Pembentukan Daerah daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Lembaran  Negara Tahun 1950 Nomor 19, Tambahan Lembaran Negara Nomor 9);  
 
@@ -118,7 +120,8 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan pendampingan baik 
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan  anak;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan  perempuan dan anak korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban  menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk: a. mendirikan dan memfasilitasi terselenggarakannya lembaga layanan terpadu untuk  korban dengan melibatkan unsur masyarakat;  
+2. Untuk mengantisipasi terjadinya tindak kekerasan Pemerintah Daerah berkewajiban  menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggarakannya lembaga layanan terpadu untuk  korban dengan melibatkan unsur masyarakat;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban.  
 
 5 - (3) Pemerintah Daerah dalam melaksanakan kewajiban sebagaimana dimaksud pada ayat  (1) dan (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami, atau orang  lain yang secara hukum bertanggung jawab terhadap korban.  
@@ -284,7 +287,8 @@ Yang dimaksud dengan penanganan berkelanjutan adalah penanganan yang  tidak hany
 
 #### Pasal 12
 
-Ayat (1): Cukup jelas Ayat (2): a.Yang dimaksud dengan pejabat yang ditunjuk untuk melaksanakan  perlindungan adalah Kepala Badan/Dinas/Instansi di Pemerintah  Kabupaten Madiun sesuai dengan tugas dan fungsinya yang tergabung  dalam wadah PPT.  
+Ayat (1): Cukup jelas Ayat (2):  
+a.Yang dimaksud dengan pejabat yang ditunjuk untuk melaksanakan  perlindungan adalah Kepala Badan/Dinas/Instansi di Pemerintah  Kabupaten Madiun sesuai dengan tugas dan fungsinya yang tergabung  dalam wadah PPT.  
 b. Kewajiban dan tanggungjawabnya adalah: - Memberikan pelayanan medis - Memberikan pelayanan mediocolegal - Memberikan pelayanan psikososial - Memberikan pelayanan hukum
 
 #### Pasal: 13 Cukup jelas

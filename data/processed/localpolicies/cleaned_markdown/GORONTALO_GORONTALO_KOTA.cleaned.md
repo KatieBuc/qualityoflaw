@@ -18,6 +18,7 @@ KORBAN KEKERi\SAN
 
 Menimbang:  
  
+ 
 a. bahwa Pancasila dan Undang-Undang Dasar Negera  Republik Indonesia Tahun 1945 menjamin atas hak setiap  warga negara untu k bebas dar i penyiksaan atau  perlakukan yang merendgihkan derajat martabat manusia  serta mendapatkan rasa aman dan bebas dar i segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi  manusia sehingga perlu dilindung i harga dir i dan  martabatnya serta dijamin hak hidupny a siesuai dengan  fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusa n ptjmerintahan konkuren yang  diserahkan ke daerah untu k menjadi dasar pelaksanaan  otonomi daerah dan menjadi urusa n pemerintahan wajib  yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah;  
@@ -27,6 +28,7 @@ d. bahwa dalam rangka untu k memberikan penguatan  regulasi, arah, dan kmdasan d
 e. bahwa berdasarkan pertiimbangan sebagaimana dimaksud  dalam huru f a, huru f b, huru f e huru f d perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang;-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 

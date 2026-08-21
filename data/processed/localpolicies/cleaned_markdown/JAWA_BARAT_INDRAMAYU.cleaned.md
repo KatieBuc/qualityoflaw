@@ -34,12 +34,14 @@ Salinan
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
 
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang  Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -284,7 +286,8 @@ d. meningkatkan mutu kesehatan bagi perempuan  dan anak yang mengalami tindak ke
 
 1. Masyarakat dapat berperan serta dalam upaya  pencegahan, perlindungan dan pemulihan  terhadap korban tindak kekerasan perempuan  dan anak.  
 2. Peran serta masyarakat sebagaimana dimaksud  pada ayat (1) dapat dilakukan oleh perorangan  atau organisasi.  
-3. Peran serta masyarakat sebagaimana dimaksud  pada ayat (2) dapat dilakukan dalam bentuk: a. mencegah terjadinya tindak kekerasan  terhadap perempuan dan anak;  
+3. Peran serta masyarakat sebagaimana dimaksud  pada ayat (2) dapat dilakukan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan  terhadap perempuan dan anak;  
 b. menyampaikan laporan kepada yang  berwajib apabila terjadi tindak kekerasan  terhadap perempuan dan anak;  
 
 c.memberikan bantuan terhadap korban  tindak kekerasan terhadap perempuan dan  anak.  

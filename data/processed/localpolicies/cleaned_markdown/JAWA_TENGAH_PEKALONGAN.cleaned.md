@@ -14,10 +14,12 @@ KORBAN TINDAK KEKERASAN BERBASIS GENDER DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA 
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat, harkat  dan martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan dan diskriminasi  sebagai bentuk penghormatan, perlindungan dan penegakan  Hak Asasi Manusia, khususnya hak-hak dasar perempuan  dan anak, sehingga perlu diatur mengenai penyelenggaraan  perlindungan terhadap korban tindak kekerasan berbasis  gender dan anak di Kabupaten Pekalongan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah  Kabupaten Pekalongan tentang Penyelenggaran Perlindungan  Terhadap Korban Tindak Kekerasan Berbasis Gender dan  Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang–Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -130,7 +132,8 @@ Tujuan penyelenggaraan perlindungan terhadap korban tindak  kekerasan berbasis g
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab  untuk melaksanakan upaya pencegahan terjadinya kekerasan  dalam bentuk:a. menyediakan data dan informasi tentang gender dan anak  korban kekerasan sesuai peraturan perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan  berbasis gender dan kekerasan terhadap anak; dan c. melakukan sosialisasi peraturan perundang-undangan  yang berkaitan dengan penyelenggaraan perlindungan  kekerasan berbasis gender dan anak korban kekerasan.  
 
-jdih.pekalongankab.go.id (2) Untuk mengantisipasi terjadinya tindak kekerasan,  Pemerintah Daerah berkewajiban menyediakan dan  meyelenggarakan layanan bagi korban dalam bentuk: a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk korban dengan melibatkan unsur  SKPD, Instansi, Lembaga, Organisasi Masyarakat,  Masyarakat;  
+jdih.pekalongankab.go.id (2) Untuk mengantisipasi terjadinya tindak kekerasan,  Pemerintah Daerah berkewajiban menyediakan dan  meyelenggarakan layanan bagi korban dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk korban dengan melibatkan unsur  SKPD, Instansi, Lembaga, Organisasi Masyarakat,  Masyarakat;  
 b. menyediakan sarana dan prasarana;  
 c. meningkatkan kapasitas lembaga penyedia layanan;  
 d. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban kekerasan  berbasis gender dan anak;  

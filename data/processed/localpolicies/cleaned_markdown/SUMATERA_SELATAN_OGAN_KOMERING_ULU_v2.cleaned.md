@@ -14,12 +14,14 @@ PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 Menimbang:  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan hidup, tumbuh, dan berkembang secara wajar serta berhak atas perlindungan dari kekerasan dan diskriminasi sebagaimana diamanatkan dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa perlakuan diskriminatif dan kekerasan terhadap perempuan dan anak, akan berdampak terhadap kualitas sumber daya manusia di masa mendatang;  
 c. bahwa dalam rangka mewujudkan visi misi pembangunan di bidang pemberdayaan perempuandan perlindungan anak, perhormatan, perlindungan, pemenuhan, penegakan, dan pemajuan hak perempuan dananak, dipandang perlu menetapkan kebijakan yang dapat menjamin terselenggaranya pemberdayaan perempuan dan perlindungan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -251,7 +253,8 @@ Umum
 
 #### Pasal 17
 
-Perlindungan Perempuan dilakukan dengan cara: a. pencegahan kekerasan terhadap perempuan;  
+Perlindungan Perempuan dilakukan dengan cara:  
+a. pencegahan kekerasan terhadap perempuan;  
 b. penyediaan layanan dan penanganan rujukan lanjutan; danc. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.  
 13-
 
@@ -395,7 +398,8 @@ d. rute aman ke/dari sekolah; dane. fasilitas kegiatan kreatif dan rekreatif ram
 
 #### Pasal 30
 
-( 1 ) Orang tua berkewajiban dan bertanggung jawab untuk: a. mengasuh, merawat, mendidik, dan melindungi anak;  
+( 1 ) Orang tua berkewajiban dan bertanggung jawab untuk:  
+a. mengasuh, merawat, mendidik, dan melindungi anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya; danc. mencegah terjadinya perkawinan pada usia anak.  
 2. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih kepada keluarga, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -1123,7 +1127,8 @@ Peningkatan kualitas keluarga dilaksanakan dalam rangka mewujudkan kesetaraan ge
 
 #### Pasal 122
 
-Peningkatan kualitas keluarga dilakukan melalui: a. pencegahan perkawinan usia anak;  
+Peningkatan kualitas keluarga dilakukan melalui:  
+a. pencegahan perkawinan usia anak;  
 b. pemenuhan hak anak atas ASI eksklusif;  
 c. mendekatkan ibu pada pelayanan kesehatan;  
 d. meningkatkan ketahanan keluarga.  

@@ -28,12 +28,14 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 Menimbang:  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk  diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah  dan/atau masyarakat agar terhindar dan terbebas dari  kekerasan dan/atau ancaman kekerasan dalam lingkup rumah  tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak dan Undang-Undang Nomor 23  Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah  Tangga, Pemerintah Daerah bersama masyarakat berkewajiban  melakukan upaya pencegahan, perlindungan, pemulihan  terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf b dan huruf c, perlu menetapkan Peraturan Daerah  Kabupaten Ogan Komering Ulu tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan  Anak.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945.  
 
@@ -169,7 +171,8 @@ Kelembagaan
 
 #### Pasal 6
 
-Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis  gender dan anak korban kekerasan, Pemerintah Daerah dibantu oleh: a. Pelayanan Terpadu; dan
+Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis  gender dan anak korban kekerasan, Pemerintah Daerah dibantu oleh:  
+a. Pelayanan Terpadu; dan
 b. KPK2BGA.  
 
 ## Bagian Kedua

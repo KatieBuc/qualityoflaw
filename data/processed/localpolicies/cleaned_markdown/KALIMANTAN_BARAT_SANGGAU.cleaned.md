@@ -8,6 +8,7 @@
 
 PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI SANGGAU, Menimbang:  
  
+ 
 Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
 
 # YOHANES
@@ -23,6 +24,7 @@ Sanggau,
 # YAKOBUS, SH,  MH
 
 NIP. 19700223 Mengingat:  
+ 
  
 Disetujui oleh:
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dari segala  bentuk kekerasan;  
@@ -92,7 +94,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup Perlindungan Perempuan dari tindak Kekerasan meliputi: a. pencegahan;  
+Ruang lingkup Perlindungan Perempuan dari tindak Kekerasan meliputi:  
+a. pencegahan;  
 b. Pelayanan/Penanganan; danc. pemberdayaan.  
 
 ## Bagian Kesatu
@@ -122,7 +125,8 @@ Pelayanan/Penanganan
 
 #### Pasal 6
 
-Bentuk Pelayanan/Penanganan terhadap Korban meliputi: a. Penanganan Pengaduan;  
+Bentuk Pelayanan/Penanganan terhadap Korban meliputi:  
+a. Penanganan Pengaduan;  
 b. pelayanan rehabilitasi kesehatan/medis;  
 c. pelayanan Rehabilitasi Sosial;  
 d. pelayanan Penegakan dan Bantuan Hukum; dane. pelayanan Pemulangan dan Reintegrasi Sosial.  
@@ -143,13 +147,15 @@ Pemberdayaan
 
 #### Pasal 8
 
-Bentuk pemberdayaan bagi perempuan Korban Kekerasan meliputi: a. membentuk komunitas perempuan Korban Kekerasan;  
+Bentuk pemberdayaan bagi perempuan Korban Kekerasan meliputi:  
+a. membentuk komunitas perempuan Korban Kekerasan;  
 b. pelatihan kerja;  
 c. usaha ekonomi produktif dan kelompok usaha bersama; dan d. bantuan permodalan.  
 
 #### Pasal 9
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 8 huruf b meliputi: a. pelatihan keterampilan;  
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 8 huruf b meliputi:  
+a. pelatihan keterampilan;  
 b. praktek kerja lapangan; danc. pemagangan.  
 
 #### Pasal 10
@@ -185,23 +191,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 12 huruf b meliputi  perbuatan
 
 #### Pasal 15
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 12 huruf c meliputi: a. perbuatan yang berupa pelecehan seksual;  
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 12 huruf c meliputi:  
+a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/atauc. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 
 #### Pasal 16
 
-Penelantaran sebagaimana dimaksud dalam Pasal 12 huruf d meliputi: a. perbuatan yang menelantarkan perempuan dalam lingkup rumah  tangganya; dan/atau
+Penelantaran sebagaimana dimaksud dalam Pasal 12 huruf d meliputi:  
+a. perbuatan yang menelantarkan perempuan dalam lingkup rumah  tangganya; dan/atau
 b. perbuatan yang mengakibatkan ketergantungan ekonomi.  
 
 #### Pasal 17
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 12 huruf e meliputi: a. tindakan yang mengeksploitasi ekonomi atau seksual perempuan dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+Eksploitasi sebagaimana dimaksud dalam Pasal 12 huruf e meliputi:  
+a. tindakan yang mengeksploitasi ekonomi atau seksual perempuan dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. tindakan dengan atau tanpa persetujuan Korban yang meliputi tetapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa,  perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan  fisik, seksual, organ reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan baik materil maupun immaterial; dan/atau
 c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain  dari Korban untuk mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 18
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 12 huruf f meliputi: a. setiap perbuatan secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa  menggunakan sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; dan/atau
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 12 huruf f meliputi:  
+a. setiap perbuatan secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa  menggunakan sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; dan/atau
 b. suatu keadaan dimana seseorang/Korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan sesuatu berlawanan  dengan kehendak sendiri.  
 
 # BAB IV
@@ -231,7 +241,8 @@ Pemerintah Daerah
 
 #### Pasal 20
 
-1. Pemerintah Daerah bertanggung jawab melaksanakan upaya  Perlindungan Perempuan dari tindak Kekerasan dalam bentuk: a. membentuk PPT;  
+1. Pemerintah Daerah bertanggung jawab melaksanakan upaya  Perlindungan Perempuan dari tindak Kekerasan dalam bentuk:  
+a. membentuk PPT;  
 b. perumusan kebijakan;  
 c. menyusun perencanaan dan melaksanakan program dan kegiatan;  
 d. memberikan dukungan sarana dan prasarana; dane. mengawasi penyelenggaraan pelayanan terhadap Korban dengan  standar pelayanan minimal.  
@@ -248,7 +259,8 @@ Masyarakat dan Keluarga
 
 #### Pasal 22
 
-Masyarakat dan Keluarga mempunyai kewajiban dan tanggung jawab: a. mencegah terjadinya Kekerasan Terhadap Perempuan;  
+Masyarakat dan Keluarga mempunyai kewajiban dan tanggung jawab:  
+a. mencegah terjadinya Kekerasan Terhadap Perempuan;  
 b. melaporkan bila terjadi Kekerasan;  
 c. melindungi Korban; dand. memberikan pertolongan darurat.  
 
@@ -259,7 +271,8 @@ Koordinasi Perlindungan Korban
 #### Pasal 23
 
 1. Upaya menyediakan dan menyelenggarakan Pelayanan/Penanganan bagi Korban dilakukan secara berjejaring.  
-2. Jejaring sebagaimana dimaksud pada ayat (1) bertujuan untuk: a. mengkoordinasikan dan mensinkronisasikan penanganan  pelayanan PPT;  
+2. Jejaring sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
+a. mengkoordinasikan dan mensinkronisasikan penanganan  pelayanan PPT;  
 b. mengembangkan jejaring serta sistem rujukan; danc. mengumpulkan, menyusun dan menyajikan laporan Kekerasan. (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas  dan fungsinya sesuai dengan bentuk pelayanan sebagaimana  dimaksud dalam Pasal 6.  
 
 # BAB VI
@@ -295,7 +308,8 @@ Pendanaan atas kegiatan Perlindungan Perempuan yang dilakukan oleh  Pemerintah D
 #### Pasal 27
 
 1. Masyarakat berperan serta dalam penyelenggaraan Perlindungan  Perempuan.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. membentuk mitra keluarga ditingkat kelurahan/desa oleh  masyarakat;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. membentuk mitra keluarga ditingkat kelurahan/desa oleh  masyarakat;  
 b. membentuk unit perlindungan perempuan dalam organisasi  kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan indikasi  Kekerasan Terhadap Perempuan di masyarakat;  

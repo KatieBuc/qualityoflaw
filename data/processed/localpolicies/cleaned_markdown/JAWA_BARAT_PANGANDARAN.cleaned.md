@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan, peran dan  kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi serta diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa untuk melindungi masyarakat serta mewujudkan  pemerataan dan keadilan, sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -116,7 +118,8 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 3
 
-Setiap Perempuan penyandang disabilitas berhak memperoleh: a. pendidikan pada semua satuan, jalur, jenis dan jenjang  pendidikan;  
+Setiap Perempuan penyandang disabilitas berhak memperoleh:  
+a. pendidikan pada semua satuan, jalur, jenis dan jenjang  pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan jenis  dan derajat kecacatan, pendidikan dan kemampuannya;  
 c. perlakuan yang sama untuk berperan dalam pembangunan  dan menikmati hasilnya;  
 d. aksebilitas dalam rangka kemandiriannya;  
@@ -130,7 +133,8 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 4
 
-Setiap perempuan korban kekerasan mempunyai hak: a. untuk dihormati harkat dan martabatnya sebagai manusia;  
+Setiap perempuan korban kekerasan mempunyai hak:  
+a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. rehabilitasi kesehatan;  
 c. menentukan sendiri keputusannya;  
 d. mendapatkan informasi;  
@@ -199,7 +203,8 @@ Bidang Hukum
 
 #### Pasal 9
 
-1. Pemberdayaan perempuan di bidang hukum meliputi: a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum. (2) Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang-undangan.  
+1. Pemberdayaan perempuan di bidang hukum meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum. (2) Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang-undangan.  
 
 ## Bagian Kelima
 
@@ -207,7 +212,8 @@ Bidang Pendidikan
 
 #### Pasal 10
 
-Pemberdayaan perempuan di bidang pendidikan melalui: a. penyelenggaraan pendidikan formal dan nonformal bagi  perempuan di Daerah.  
+Pemberdayaan perempuan di bidang pendidikan melalui:  
+a. penyelenggaraan pendidikan formal dan nonformal bagi  perempuan di Daerah.  
 b. pendidikan nonformal yang bertujuan meningkatkan  kemampuan perempuan.  c. pendidikan nonformal sebagaimana dimaksud pada huruf b,  meliputi pendidikan pemberdayaan perempuan, pendidikan  ketrampilan dan pelatihan kerja.  d. pendidikan formal dan nonformal sebagaimana dimaksud  pada huruf a, diatur dengan Peraturan Daerah tersendiri.  
 
 ## Bagian Keenam
@@ -371,7 +377,8 @@ Perempuan Korban kekerasan
 
 #### Pasal 24
 
-1. Bentuk kekerasan terhadap Perempuan meliputi: a. kekerasan fisik;  
+1. Bentuk kekerasan terhadap Perempuan meliputi:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran rumah tangga;  
@@ -404,13 +411,15 @@ Kewajiban dan Tanggung Jawab Pemerintah Daerah
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.  
 
-jdih.pangandarankab.go.id 14 (3) Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 25 huruf a meliputi: a. melaksanakan kebijakan Perlindungan Perempuan dari segala bentuk diskriminasi dan tindak kekerasan;  
+jdih.pangandarankab.go.id 14 (3) Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 25 huruf a meliputi:  
+a. melaksanakan kebijakan Perlindungan Perempuan dari segala bentuk diskriminasi dan tindak kekerasan;  
 b. menetapkan kebijakan, program, dan kegiatan  Pemberdayaan dan Perlindungan Perempuan yang telah  ditetapkan;  
 c. mengumpulkan data dan informasi tentang Perempuan  Korban Kekerasan dan Diskriminasi serta peraturan  perundang-undangan pendukungnya;  
 d. melakukan pendidikan tentang hal yang berkaitan  dengan Perlindungan Perempuan Korban Kekerasan  dan Diskriminasi;  
 e. melakukan sosialisasi peraturan perundang-undangan  yang berkaitan dengan Perlindungan Perempuan  Korban Kekerasan dan Diskriminasi;  
 f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan Korban  Kekerasan dan Diskriminasi.  
-4. Untuk mengantisipasi terjadinya tindak Kekerasan,  Pemerintah Daerah wajib menyediakan dan  menyelenggarakan pelayanan bagi Korban dalam bentuk: a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk Korban dengan melibatkan  unsur masyarakat;  
+4. Untuk mengantisipasi terjadinya tindak Kekerasan,  Pemerintah Daerah wajib menyediakan dan  menyelenggarakan pelayanan bagi Korban dalam bentuk:  
+a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk Korban dengan melibatkan  unsur masyarakat;  
 b. memfasilitasi pendampingan bantuan hukum dan pelayanan hukum sesuai kebutuhan Korban;  
 c. menyediakan rumah aman atau tempat tinggal  alternatif beserta mekanisme penanganan, pelayanan,  psikososial dan spiritual;  
 d. melakukan penanganan berkelanjutan sampai pada  tahap rehabilitasi dan reintegrasi sosial;  
@@ -523,7 +532,8 @@ f. pelayanan bimbingan rohani; dan/ataug. perlindungan terhadap Perempuan yang b
 
 #### Pasal 35
 
-1. Dalam memberikan pelayanan perlindungan sebagaimana  dimaksud dalam Pasal 34 ayat (1) Pemerintah Daerah: a. memberikan pelayanan dan penanganan secepat  mungkin kepada saksi dan/atau korban;  
+1. Dalam memberikan pelayanan perlindungan sebagaimana  dimaksud dalam Pasal 34 ayat (1) Pemerintah Daerah:  
+a. memberikan pelayanan dan penanganan secepat  mungkin kepada saksi dan/atau korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan,  dan bebas biaya bagi saksi dan/atau korban;  
 c. menjaga kerahasiaan saksi dan/atau korban;  
 d. menjamin keadilan dan kepastian hukum bagi saksi  dan/atau Korban;  
@@ -557,12 +567,14 @@ Pemulihan
 
 #### Pasal 38
 
-1. Untuk kepentingan pemulihan, korban berhak memperoleh: a. pelayanan kesehatan;  
+1. Untuk kepentingan pemulihan, korban berhak memperoleh:  
+a. pelayanan kesehatan;  
 b. pendampingan korban;  
 c. konseling;  
 d. bimbingan rohani; dane. resosialisasi.  
 
-jdih.pangandarankab.go.id 20 (2) Untuk kepentingan pemulihan sebagaimana dimaksud  pada ayat (1) Pemerintah Daerah wajib menyediakan: a. tenaga yang ahli dan profesional;  
+jdih.pangandarankab.go.id 20 (2) Untuk kepentingan pemulihan sebagaimana dimaksud  pada ayat (1) Pemerintah Daerah wajib menyediakan:  
+a. tenaga yang ahli dan profesional;  
 b. pusat pelayanan dan rumah aman; danc. sarana dan prasarana lain yang diperlukan untuk  pemulihan korban.  
 3. Tenaga yang ahli dan profesional sebagaimana dimaksud  pada ayat (2) huruf b terdiri atas:a. tenaga kesehatan;  
 b. pekerja sosial;  
@@ -584,7 +596,8 @@ f. penarikan fasilitas; dang. denda administratif.
 #### Pasal 39
 
 1. P2TP2A dalam penyelenggaraan pelayanan perlindungan  perempuan.  
-2. Pelayanan perlindungan perempuan oleh P2TP2A  sebagaimana dimaksud pada ayat (1) melibatkan unsur: a. kesehatan;  
+2. Pelayanan perlindungan perempuan oleh P2TP2A  sebagaimana dimaksud pada ayat (1) melibatkan unsur:  
+a. kesehatan;  
 b. psikologi;  
 c. hukum;  
 d. rohaniwan;  

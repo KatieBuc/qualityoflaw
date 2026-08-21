@@ -87,8 +87,10 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-( 1 ) Penyelenggaraan perlindungan perempuan berdasarkan asas: a. Kepentingan terbaik bagi perempuan
-b. Keadilan gender dan kesetaraan genderc. Kearifan lokald. KePastian Hukum (2) Penyelengggaraan perlindungan anak berdasarkan azas: a. Non Diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kelangsungan hidup dan perkembangan' d. Penghargaan terhadap pendapat anake. KePastian Hukum
+( 1 ) Penyelenggaraan perlindungan perempuan berdasarkan asas:  
+a. Kepentingan terbaik bagi perempuan
+b. Keadilan gender dan kesetaraan genderc. Kearifan lokald. KePastian Hukum (2) Penyelengggaraan perlindungan anak berdasarkan azas:  
+a. Non Diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kelangsungan hidup dan perkembangan' d. Penghargaan terhadap pendapat anake. KePastian Hukum
 
 #### Pasal 3
 
@@ -97,7 +99,8 @@ a. sebagai pedoman bag, Pemerintah Daerah dalam perencanaan, kebijakan dan strat
 
 #### Pasal 4
 
-Ruang lingkup pengaturan perlindungan perempuan dan anak meliputi: a. Pencegahan;  
+Ruang lingkup pengaturan perlindungan perempuan dan anak meliputi:  
+a. Pencegahan;  
 b. Penyelenggaraan perlindungan perempuan dan anak;  
 c. Penanganan;  
 d. Pemberdayaan, dane. Pembinaan dan pengawasan;  
@@ -197,7 +200,8 @@ Tanggung jawab terhadap perlindungan Perempuan.
 
 #### Pasal 11
 
-Keluarga dalam upaya perlindungan hak perempuan bertanggung jawab: a. Melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
+Keluarga dalam upaya perlindungan hak perempuan bertanggung jawab:  
+a. Melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
 b. Mernberikan kesempatan yang sama pada perempuan mengembangkan diri dibidang pendidikan, sosial, ekonomi, politik dan budaya, dan c. Mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
 
 ### Paragraf 2
@@ -294,7 +298,8 @@ pelayanan publik wajib menyediakan fasilitas khusus Paragral 4 Bidang Ketenagake
 
 #### Pasal 20
 
-1. Setiap orang diiarang mempekerjakan dan melibatkan perempuan pada pekerjaan-pekerjaan Yang buruk' (2) Pekerjaan yang buruk sebagaimana dimaksud pada ayat (1) meliputi: a. Segala peke{aal dalam bentuk perbudakan atau sejenisnya'b. Segala pekerjaan yang memanfaa*&an, menyediakan aturu menawarkan perempuan untuk pelacuran, produksi pornografi, pertunjukan porno atau perjudiaan.  
+1. Setiap orang diiarang mempekerjakan dan melibatkan perempuan pada pekerjaan-pekerjaan Yang buruk' (2) Pekerjaan yang buruk sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Segala peke{aal dalam bentuk perbudakan atau sejenisnya'b. Segala pekerjaan yang memanfaa*&an, menyediakan aturu menawarkan perempuan untuk pelacuran, produksi pornografi, pertunjukan porno atau perjudiaan.  
 
 c" Segala pekedaan yang memanfaatkan, menyediakan, atau melibatkan perempuan untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya dan/atau
 d. Semua pekerjaan yang membahayakan kesehatan, keselamatan dan moral perempuan, (3) Pengusaha yang mempekerjakan perempuan wajib menjaga kesusilaan, keselamatan dan keamanan selama ditempat kerja;  
@@ -392,7 +397,8 @@ Bidang Ketenagakerjaan
 #### Pasal 33
 
 1. Ketentuan sebagaimana dimaksud dalam Pasal 32 ayat (1) dapat dikecualikanbagiana}yangberumurantara13(tigabelas)tahun sampai 15 (lima belas) tahun, untuk melakukan pekerjaan ringan sepanjang tidak mengganggu perkembangan dan kesehatan lisik' mental dan sosial.  
-2. Pengusaha Yar,.g mempekerjakan anak pada pekerjaan ringan sebagaimala dimaksud pada ayat (1) harus memenuhi persyaratan: a. lzin tertulis dari orang tua atau wali;  
+2. Pengusaha Yar,.g mempekerjakan anak pada pekerjaan ringan sebagaimala dimaksud pada ayat (1) harus memenuhi persyaratan:  
+a. lzin tertulis dari orang tua atau wali;  
 b. Perjanjian kerja antara pengusaha dengan orang tua atau wali' c. Waktu kerja maksimal 3 (tiga )jamd. Dilakukan pada siang hari dan tidak mengganggu waktu sekolah. e. Keselamatan dan kesehatan keq'a.  f. Adanya hubungan kerja yang jelas.  g. Menerima upah sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
 3. Ketentuan sebagaimana dimaksud pada ayat (2) huruf a, huruf b, huruf f dan huruf g dikecualikan bagi anak yang bekerja pada usaha keluarganya.  
 
@@ -407,7 +413,8 @@ Anak dapat melakukan pekerjaan di tempat kerja yang merupakan bagian dari kuriku
 #### Pasal 36
 
 1. Setiap orang dilarang mempekerjakan dan melibatkan anak pada pekerjaan-pekedaan yang buruk.  
-2. Pekerjaan yang buruk sebagaimana dimaksud pada ayat (1) meliputi: a. Segala pekerjaan dalam bentuk perbudakan atau sejenisnya. b. Segala pekerjaan yang memanfaatkan, menyediakan atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno ata11 perjudiaan.  c. Segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya dan/ataud. Semua pekedaan yang membahayakan kesehatan, keselamatan dan moral anak.  
+2. Pekerjaan yang buruk sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Segala pekerjaan dalam bentuk perbudakan atau sejenisnya. b. Segala pekerjaan yang memanfaatkan, menyediakan atau menawarkan anak untuk pelacuran, produksi pornografi, pertunjukan porno ata11 perjudiaan.  c. Segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya dan/ataud. Semua pekedaan yang membahayakan kesehatan, keselamatan dan moral anak.  
 
 ### Paragraf 4
 
@@ -458,7 +465,8 @@ a. Secara langsung.  b. Melalui teiePon; danc. Melalui surat.
 
 #### Pasal 42
 
-Pelaksanaan penanganan perempuan dan anak korban kekerasan meliputi: a. Penanganan pengaduan korban kekerasan.  
+Pelaksanaan penanganan perempuan dan anak korban kekerasan meliputi:  
+a. Penanganan pengaduan korban kekerasan.  
 b. I)elayanan kesehatanc. Rehabilitasi sosiald. Penegakan dalr bantuan hukum, dane. Pemuiangan dan reintegrasi sosial.  
 
 #### Pasal 43
@@ -630,7 +638,8 @@ b. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan per
 
 #### Pasal 63
 
-1. Setiap orang atau badan yang melanggar Pasal 20, Pasal 21, Pasal 32, Pasal 33 dan Pasal 36 dikenakan sanksi administratif berupa: a. Denda paling banyak Rp. 5O.OOO.OOO,- (lima puluh juta rupiah);  
+1. Setiap orang atau badan yang melanggar Pasal 20, Pasal 21, Pasal 32, Pasal 33 dan Pasal 36 dikenakan sanksi administratif berupa:  
+a. Denda paling banyak Rp. 5O.OOO.OOO,- (lima puluh juta rupiah);  
 b. Pencabutan izin usaha.  
 
 (21Tata cara tentang pemberlakuan sanksi administratif sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Walikota.  

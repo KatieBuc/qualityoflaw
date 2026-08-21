@@ -14,8 +14,10 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. b.  
 c. d. Mengingat:  
+ 
  
 1. 2.  
 
@@ -93,7 +95,8 @@ c. kekerasan s,eksual; dan/ ataud. penelantaran rumah tangga.
 
 #### Pasal 4
 
-Kekerasan fisik sebagaimana dimaksud dalam Pasal 3 huruf a mengakibatkan: a. korban mendapat rasa sakit atau luka berat;  
+Kekerasan fisik sebagaimana dimaksud dalam Pasal 3 huruf a mengakibatkan:  
+a. korban mendapat rasa sakit atau luka berat;  
 b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan pekerjaan jabatan atau mata pencaharian atau kegiatan sehari-hari.  
 
 #### Pasal 5
@@ -106,7 +109,8 @@ d. rasa tidak berdaya; dan/ ataue. penderitaan psikis berat pada seseorang.
 
 #### Pasal 6
 
-dalam Pasal a huruf b Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c meliputi: a. perbuatan pelecehan seksual;  
+dalam Pasal a huruf b Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c meliputi:  
+a. perbuatan pelecehan seksual;  
 b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  
 c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau tujuan tertentu; dand. kekerasan seksual melalui media sosial.  
 
@@ -200,7 +204,8 @@ e. memberikal pendidikan kritis tentang hak-hak Perempuan dan Anak sebagai korba
 
 #### Pasal 16
 
-1. Pencegahan terjadi tindak Kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Dinas PMDP3A dan Perangkat Daerah yang menyelenggarakan lrrusan bidang: a. pendidikan;  
+1. Pencegahan terjadi tindak Kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 15, dilaksanakan oleh Dinas PMDP3A dan Perangkat Daerah yang menyelenggarakan lrrusan bidang:  
+a. pendidikan;  
 b. ketenagakedaan;  
 c. kesehatan;  
 d. sosial;  
@@ -243,7 +248,8 @@ b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fis
 
 #### Pasal 20
 
-Bantuan hukum sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf c untuk membantu korban dalam menjalani proses peradilan dengan cara: a. memberikan konsultasi hukum yang mencakup informasi mengenai hak korban dan proses peradilan;  
+Bantuan hukum sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf c untuk membantu korban dalam menjalani proses peradilan dengan cara:  
+a. memberikan konsultasi hukum yang mencakup informasi mengenai hak korban dan proses peradilan;  
 b. mendampingi korban di tingkat pelaporan, penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan Kekerasal yang dialaminya; danc. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 2 1
@@ -300,7 +306,8 @@ g. tidak dikenakan biaya; danh. dijamin kerahasiannya.
 #### Pasal 27
 
 1. Masyarakat berperan serta dalam oenyelenggaraan perlindungan terhadap korban.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (l) berupa: a. membentuk mitra keluarga di tingkat RT/RW atau Kelurahan/Desa oleh masyarakat;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (l) berupa:  
+a. membentuk mitra keluarga di tingkat RT/RW atau Kelurahan/Desa oleh masyarakat;  
 b. mcmbentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada Perangkat Daerah /lembaga terkdt yang berwenang apabila di lingkungannya te4adi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dirnaksud pada ayat (1) dilakukan oleh perorangan. lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga pembinaan menta-l dan spiritual, swasta, dan media massa.  
@@ -311,7 +318,8 @@ d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada Perangka
 
 #### Pasal 28
 
-Bentuk pemberdayaan Perempuan korban Kekerasan meliputi: a. pelatihan kerja;  
+Bentuk pemberdayaan Perempuan korban Kekerasan meliputi:  
+a. pelatihan kerja;  
 b. usaha ekonomis produktif dan keluarga usaha bersama; dan c. baltuan permodalan.  
 
 # BAB VIII
@@ -322,7 +330,8 @@ b. usaha ekonomis produktif dan keluarga usaha bersama; dan c. baltuan permodala
 
 1. Datam rangka mencapai tujuan perlindungan hak Perempuan dari tindak Kekerasan Pemerintah Daerah bekerja sama dengan:a. Pemerintah Daerah lain; danb. kmbaga non pemerintah.  
 
-(21 Ker;,a sama sebagaimana dimaksud pada ayat (1) meliputi: a. perhrkaran data dan informasi;  
+(21 Ker;,a sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. perhrkaran data dan informasi;  
 b. rehabilitasi korban lindak Kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi yang ditindaklanjuti sesuai dengan hukum yang berlaku.  
 

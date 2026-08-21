@@ -16,6 +16,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN TINDAK KEKERASAN
 
 Menimbang:  
  
+ 
  Mengingat bahwa perempuan dan anak adalah aset yang sangat  berharga untuk menjamin kelangsungan eksistensi bangsa,  maka perlu adanya perlindungan dari segala bentuk  kekerasan dan ketidakadilan;  
 
 . bahwa perlindungan dilakukan untuk menjamin hak-hak  konstitusional dan pemenuhan hak-hak perempuan dan  anak yang bebas dari kekerasan dan perlakuan yang  merendahkan derajat martabat perempuan dan anak;  

@@ -14,6 +14,7 @@
 
 Menimbang:  
  
+ 
 Mengingat:
 
 # BUPATI LUWU,
@@ -171,7 +172,8 @@ Yang menjadi sasaran pencegahan sebagaimana yang dimaksud Pasal 4 huruf a adalah
 
 #### Pasal 9
 
-1. Pencegahan sebagaimana yang dimaksud Pasal 4 huruf a, meliputi: a. mengumpulkan data dan informasi tentang perempuan korban kekerasan serta peraturan perundang-undangan;  
+1. Pencegahan sebagaimana yang dimaksud Pasal 4 huruf a, meliputi:  
+a. mengumpulkan data dan informasi tentang perempuan korban kekerasan serta peraturan perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai terhadap perempuan;  
 
 anti kekerasan

@@ -32,12 +32,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak terus  meningkat, sehingga diperlukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -122,7 +124,8 @@ d. memberikan jaminan perlindungan, rasa aman, dan kepastian hukum  kepada perem
 e. mengupayakan pemulihan korban dan rehabilitasi;  
 f. memberdayakan korban dan reintegrasi;  
 g. melakukan koordinasi dan evaluasi penanganan kekerasan terhadap  perempuan dan anak.  
-2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa: a. kekerasan fisik;  
+2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran ekonomi;dane. pembatasan akses publik.  
@@ -145,7 +148,8 @@ i. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami ko
 
 #### Pasal 5
 
-Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana  dimaksud dalam Pasal 4, juga mendapatkan hak khusus, sebagai berikut: a. hak memperoleh penghormatan dan pelayanan untuk kelangsungan  hidup, tumbuh dan berkembang;  
+Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana  dimaksud dalam Pasal 4, juga mendapatkan hak khusus, sebagai berikut:  
+a. hak memperoleh penghormatan dan pelayanan untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak atas pelayanan dasar;  
 c. hak bebas dari stigma negatif;dand. hak mendapatkan kebebasan menentukan pilihan memutuskan  pengurusan dirinya pasca perceraian orang tua.  
 
@@ -192,7 +196,8 @@ d. melakukan pertolongan pertama kepada korban;dane. melaporkan kepada instansi 
 #### Pasal 10
 
 1. Untuk mencegah terjadi tindak kekerasan perempuan dan anak,  Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga, orang tua, dan masyarakat dengan memberikan informasi,  penyuluhan dan/atau bimbingan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut: a. meningkatkan jumlah dan mutu pendidikan baik formal, non formal  dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah melakukan upaya sebagai berikut:  
+a. meningkatkan jumlah dan mutu pendidikan baik formal, non formal  dan informal;  
 b. meningkatkan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan, dan pelayanan sosial;  
 c. membuka lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -265,7 +270,8 @@ Kerjasama
 
 #### Pasal 17
 
-1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak dari  tindak kekerasan, Pemerintah Daerah bekerjasama dengan: a. pemerintah;  
+1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak dari  tindak kekerasan, Pemerintah Daerah bekerjasama dengan:  
+a. pemerintah;  
 b. pemerintah provinsi;  
 c. Pemerintah Daerah lainnya;dand. lembaga non pemerintahan.  
 2. Kerjasama sebagaimana dimaksud ayat (1) meliputi:a. pertukaran data dan informasi;  
@@ -279,7 +285,8 @@ Kemitraan
 
 #### Pasal 18
 
-1. Pemerintah Daerah membentuk kemitraan dengan badan usaha dalam  perlindungan perempuan dan anak dari korban kekerasan. (2) Kemitraan sebagaimana diatur pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
+1. Pemerintah Daerah membentuk kemitraan dengan badan usaha dalam  perlindungan perempuan dan anak dari korban kekerasan. (2) Kemitraan sebagaimana diatur pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang  putus dari pendidikannya;  
 d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban kekerasan;  
@@ -292,7 +299,8 @@ e. fasilitas usaha dan akses permodalan.
 
 #### Pasal 19
 
-1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak dari kekerasan. (2) Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaraan perlindungan perempuan dan anak dari kekerasan. (2) Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis;  
 c. pendidikan dan pelatihan;  
 d. penyediaan fasilitas;  

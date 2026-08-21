@@ -16,11 +16,13 @@ PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN  PEREMPUAN DAN ANAK
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 b. bahwa seiring meningkatnya perlakuan kekerasan terhadap  perempuan dan anak di Kabupaten Sarolangun, merupakan  perbuatan yang merendahkan harkat dan martabat  kemanusiaan, sehingga diperlukan peran pemerintah  Kabupaten Sarolangun agar perempuan dan anak terlindungi  dari pelanggaran terhadap hak yang dijamin oleh Konstitusi;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -155,7 +157,8 @@ Pemberdayaan Perempuan
 
 #### Pasal 8
 
-Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang: a. ekonomi;  
+Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang:  
+a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum.  
 
@@ -268,7 +271,8 @@ d. memberikan wawasan kebangsaan, kepahlawanan dan bela negara sejak dini kepada
 
 #### Pasal 20
 
-Pemerintah Daerah menyediakan fasilitas untuk pemenuhan hak anak dalam lingkungan keluarga dan pengasuhan lingkungan alternatif, dengan: a. memberikan atau memfasilitasi pengasuhan alternatif bagi anak yang orang tuanya meninggal maupun yang sakit sehingga tidak memungkinkan mengurus anak;  
+Pemerintah Daerah menyediakan fasilitas untuk pemenuhan hak anak dalam lingkungan keluarga dan pengasuhan lingkungan alternatif, dengan:  
+a. memberikan atau memfasilitasi pengasuhan alternatif bagi anak yang orang tuanya meninggal maupun yang sakit sehingga tidak memungkinkan mengurus anak;  
 b. memberikan dukungan kesejahteraan kepada semua anak;  
 c. memenuhi hak tumbuh kembang anak dan melindungi anak penyandang masalah kesejahteraan sosial dan anak yang berhadapan dengan hukum;  
 d. melindungi anak-anak dari perlakuan kejam, tidak manusiawi dan merendahkan martabat manusia;  
@@ -282,7 +286,8 @@ Hak Kesehatan Dasar dan Kesejahteraan
 
 #### Pasal 21
 
-Setiap Anak berhak mendapatkan hak kesehatan dasar dan kesejahteraan, sebagaimana dimaksud dalam Pasal 14 huruf c, dalam bentuk: a. tidak untuk digugurkan kecuali membahayakan keselamatan ibu;  
+Setiap Anak berhak mendapatkan hak kesehatan dasar dan kesejahteraan, sebagaimana dimaksud dalam Pasal 14 huruf c, dalam bentuk:  
+a. tidak untuk digugurkan kecuali membahayakan keselamatan ibu;  
 b. gizi yang baik sejak dalam kandungan;  
 c. air susu ibu sampai usia dua Tahun;  
 d. imunisasi dasar lengkap;  
@@ -293,7 +298,8 @@ h. akses jaminan sosial; dani. perlindungan dan rehabilitasi dari NAPZA, HIV dan
 
 #### Pasal 22
 
-Dalam memenuhi hak kesehatan dasar dan kesejahteraan anak, keluarga: a. memenuhi gizi yang baik sejak dalam kandungan;  
+Dalam memenuhi hak kesehatan dasar dan kesejahteraan anak, keluarga:  
+a. memenuhi gizi yang baik sejak dalam kandungan;  
 b. memberikan air susu ibu sampai usia dua Tahun;  
 c. memenuhi imunisasi dasar lengkap;  
 d. melaksanakan pemeriksaan kesehatan balita secara berkala;  
@@ -399,7 +405,8 @@ b. memberikan akses layanan publik dan jaminan sosial bagi anak penyandang disab
 
 1. Dalam rangka implementasi pemenuhan hak layak anak dan berbagai  peraturan perundang-undangan serta kebijakan terkait pemenuhan hak anak  dan perlindungan khusus anak, Pemerintah Daerah, Swasta dan Lembaga  Masyarakat melakukan upaya mewujudkan Kabupaten Layak Anak.  
 2. Untuk mewujudkan Kabupaten Layak Anak sebagaimana dimaksud pada  ayat (1) Pemerintah Daerah, Swasta, dan Lembaga Masyarakat  memperhatikan hak anak yang berkaitan dengan hak hidup, tumbuh  kembang, perlindungan, dan partisipasi.  
-3. Pemerintah Daerah, Swasta, dan Lembaga Masyarakat dalam mewujudkan  Kabupaten Layak Anak tergabung dalam gugus tugas Kabupaten Layak Anak. (4) Gugus tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggungjawab pada pemenuhan hak anak yang berkaitan dengan: a. hak sipil dan kebebasan;  
+3. Pemerintah Daerah, Swasta, dan Lembaga Masyarakat dalam mewujudkan  Kabupaten Layak Anak tergabung dalam gugus tugas Kabupaten Layak Anak. (4) Gugus tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggungjawab pada pemenuhan hak anak yang berkaitan dengan:  
+a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
 d. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya; dan e. perlindungan khusus anak.  

@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya untuk diberdayakan agar dapat mengaktualisasikan potensinya secara optimal dan mendapatkan jaminan perlindungan dari tindak kekerasan terhadap perempuan;  
 b. bahwa dalam rangka sarana aktualisasi diri perempuan  dan jaminan perlindungan dalam masyarakat di kota semarang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintah Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, pemerintah daerah mempunyai kewenangan dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945:
 
@@ -170,7 +172,8 @@ Bidang Pendidikan
 
 #### Pasal 9
 
-Pemberdayaan Perempuan di Bidang Pendidikan melalui: a. peningkatan kesadaran terhadap rata-rata lama sekolah,  tingkat partsipasi sekolah, dan pendidikan yang  ditamatkan.  
+Pemberdayaan Perempuan di Bidang Pendidikan melalui:  
+a. peningkatan kesadaran terhadap rata-rata lama sekolah,  tingkat partsipasi sekolah, dan pendidikan yang  ditamatkan.  
 b. penyelenggaraan pendidikan formal, nonformal, dan  informal bagi perempuan di Daerah.  
 
 ## Bagian Ketiga
@@ -266,7 +269,8 @@ Umum
 
 #### Pasal 18
 
-1. Penyelenggaraan Perlindungan Perempuan melalui: a. pencegahan kekerasan terhadap perempuan;  
+1. Penyelenggaraan Perlindungan Perempuan melalui:  
+a. pencegahan kekerasan terhadap perempuan;  
 b. pelayanan terhadap perempuan korban kekerasan; danc. penguatan kelembagaan Perlindungan Perempuan.  
 9- (2) Penyelenggaraan Perlindungan Perempuan sebagaimana  dimaksud dalam Pasal 18 dapat diberikan kepada  kelompok perempuan rentan.  
 
@@ -358,7 +362,8 @@ k. media;
 l. tokoh agama;  
 m. tokoh masyarakat;  
 n. komunitas; dano. keluarga.  
-2. Penguatan dan pengembangan lembaga penyedia layanan  Perlindungan Perempuan dilaksanakan melalui: a. peningkatan kapasitas sumber daya manusia lembaga  penyedia layanan Perlindungan Perempuan korban  kekerasan tingkat Daerah;  
+2. Penguatan dan pengembangan lembaga penyedia layanan  Perlindungan Perempuan dilaksanakan melalui:  
+a. peningkatan kapasitas sumber daya manusia lembaga  penyedia layanan Perlindungan Perempuan korban  kekerasan tingkat Daerah;  
 b. penyediaan kebutuhan spesifik bagi perempuan  dalam situasi darurat dan kondisi khusus tingkat Daerah;  
 c. pengembangan strategi komunikasi, informasi, dan  edukasi tentang perlindungan hak perempuan tingkat  Daerah;  
 d. penguatan jejaring antar lembaga penyedia layanan  Perlindungan Perempuan tingkat Daerah;  

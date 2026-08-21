@@ -16,11 +16,13 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia ;  
 b. bahwa penyelenggaraan pencegahan dan perlindungan  perempuan dan anak sebagai korban kekerasan di Kabupaten Sorong selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang – Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -93,7 +95,8 @@ e. non diskriminasi; danf. kepentingan terbaik bagi korban.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari korban tindak kekerasan untuk: a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
+Tujuan perlindungan perempuan dan anak dari korban tindak kekerasan untuk:  
+a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan diskriminasi terhadap perempuan  dan anak ;  
 c. memberikan rasa aman bagi perempuan dan anak dari korban kekerasan,  pelapor, dan saksi;  
 d. memberikan pelayanan kepada perempuan dan anak dari korban tindak  kekerasan;  
@@ -119,7 +122,8 @@ h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradila
 
 #### Pasal 5
 
-Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam pasal 4, juga mendapatkan hak-hak khusus sebagai berikut: a. hak atas kelangsungan hidup,tumbuh dan berkembang;  
+Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam pasal 4, juga mendapatkan hak-hak khusus sebagai berikut:  
+a. hak atas kelangsungan hidup,tumbuh dan berkembang;  
 b. hak atas kebutuhan pelayanan dasar;  
 c. hak perlindungan yang sama; dand. hak mendapatkan kebebasan;  
 
@@ -129,7 +133,8 @@ c. hak perlindungan yang sama; dand. hak mendapatkan kebebasan;
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama: a. pemerintahan daerah;  
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
+a. pemerintahan daerah;  
 b. masyarakat;  
 c. keluarga;dand. orang tua.  
 
@@ -143,7 +148,8 @@ c. Melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan pen
 
 #### Pasal 8
 
-1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam pasal  6 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) ,meliputi: a. mencegah terjadinya terjadi tindak kekerasan terhadap perempuan dan anak;  
+1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam pasal  6 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1) ,meliputi:  
+a. mencegah terjadinya terjadi tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan, dalam bentuk pembuatan tata tertib di wilayah masing-masing  mulai tingkat Rukun Tetangga;  
 c. memberikan informasi dan / atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepadapenegak hukum atau pihak yang berwenang ;  
 d. Turut serta dalam penanganan korban tindak kekerasan; dan e. Pendampingan korban sampai unit layanan.  

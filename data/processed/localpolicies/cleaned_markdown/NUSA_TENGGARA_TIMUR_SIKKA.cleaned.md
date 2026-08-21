@@ -12,12 +12,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa Kabupaten Sikka sebagai bagian integral dari  masyarakat dalam Negara Kesatuan Republik Indonesia yang menghormati, menghargai dan menjunjung tinggi nilai-nilai harkat dan martabat yang merupakan prinsip dan tujuan Hak Asasi Manusia dari segala bentuk tindakan diskriminasi dan kekerasan terhadap perempuan dan anak;  
 b. bahwa jumlah tindakan kekerasan terhadap perempuan  dan anak di Kabupaten Sikka yang masih tinggi dapat menimbulkan korban yang berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan;  
 c. bahwa demi melindungi kepentingan perempuan dan  anak korban kekerasan, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak, korban tindak kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b dan huruf c, perlu membentuk Peraturan Daerah Tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -138,7 +140,8 @@ Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal  5 huruf c
 
 #### Pasal 9
 
-1. Pemerintah Daerah dalam upaya untuk mecegah terjadi tindak  kekerasan terhadap perempuan dan anak melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua dan masyarakat dengan  memberikan informasi, bimbingan dan/atau penyuluhan. (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Darerah melakukan upaya sebagai berikut: a. meningkatkan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
+1. Pemerintah Daerah dalam upaya untuk mecegah terjadi tindak  kekerasan terhadap perempuan dan anak melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua dan masyarakat dengan  memberikan informasi, bimbingan dan/atau penyuluhan. (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1), Pemerintah Darerah melakukan upaya sebagai berikut:  
+a. meningkatkan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
 b. membuka aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. membuka lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindakan  kekerasan;  
@@ -231,7 +234,8 @@ Kerjasama
 
 1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak  korban kekerasan sebagaimana dimaksud dalam Pasal 4, Pemerintah  Daerah dapat bekerjasama dengan:a. Pemerintah;  
 b. Pemerintah provinsic. Kabupaten/Kota lain; dand. Lembaga non pemerintah.  
-2. Kerjasama sebagaimana dimaksud pada ayat (1) meliputi: a. pertukaran data dan informasi;  
+2. Kerjasama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi sesuai dengan hukum yang  berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2),  dituangkan dalam bentuk Kesepakatan Bersama.  
@@ -243,7 +247,8 @@ Kemitraan
 #### Pasal 19
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalam  perlindungan perempuan dan anak korban kekerasan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) ,  dituangkan dalam bentuk Perjanjian.  

@@ -10,6 +10,7 @@ PFNYELENGGARAAT.SHE:|il??T.?iXP€REiTPUANDANA
 
 b}UPATI KARANGANYAR, Menimbang:  
  
+ 
 a. b.  
 c. bahwa setiap warga masyarakat berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan sesuai dengan falsafah Pancasila dan Undang-Undang Dasar Negara Republik lndonesia Tahun 1945;  
 
@@ -140,14 +141,16 @@ c. Koordinator Divisi:
 5. Divisi Medis dan Psikososial;  
 6. Divisi Pelayanan dan Rumah Arnan;  
 7. Divisi Rehabilitasi.  
-2. KP2A sebagaimana rJimaksud ayat (1) mempunyaitugas: a. merumuskan berbagai upaya perlindungan terhadap korban kekerasan secara komperhensif;  
+2. KP2A sebagaimana rJimaksud ayat (1) mempunyaitugas:  
+a. merumuskan berbagai upaya perlindungan terhadap korban kekerasan secara komperhensif;  
 b. melakukan penyadaran terhadap perempuan dan anak khususnya korban kekerasan akarr pentingnya pemenuhan hak asasi sebagai manusia, berbasis kelembagaan dan rnasyarakat;  
 c. menyediakan informasi dan mengembangkan jejaring kerjasama yang diperlukan dalam mengupayakan perlindungan korban kekerasan;  
 d. membantu pemberdayaan korban kekerasan dalam kapasitasnya sebagai anggota keluarga maupun sebagai anggota masyarakat;  
 e. mennfasilitasi tersedianya sarana dan infrastruktur pendukung guna cptimalisasi perlindungan terhadap korban kekerasan;  
 f. melaksanakan perlindungan perempuan dan anak korban kekerasan. g. menggalang sumber dana demi kepentingan pelaksanaan perlindungan korban kekerasan.  h. melaksanakan kegiatan perlindungan kepada korban kekerasan. i. memberikan pelayanan dan perlindungan kepada korban kekerasan. (3) KP2A sehagaimana ciimaksud ayat (1) melaporkan pelaksanaan tugasnya kepada Bupati.  
 4. Masing-masing divisi sebagaimana dimaksud ayat (1) dapat dibantu oleh anggota sesuai dengan kef.rutuhan.  
-5. Keanggotaan KP2A sebagaimana dimaksud ayat (1) terdiri dari unsur: a. Perangkat Daerah;  
+5. Keanggotaan KP2A sebagaimana dimaksud ayat (1) terdiri dari unsur:  
+a. Perangkat Daerah;  
 
 ' [. Organisasi Profesi;  
 c. Tokoh Masyarakat;  

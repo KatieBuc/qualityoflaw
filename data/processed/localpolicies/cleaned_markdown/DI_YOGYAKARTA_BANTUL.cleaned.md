@@ -12,11 +12,13 @@ PERLINDUNGAN ANAK DAN PEREMPUAN KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa setiap anak dan perempuan berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak;  
 b. bahwa tindak kekerasan terhadap anak dan  perempuan terus meningkat, sehingga diperlukan upaya perlindungan yang komprehensif dan maksimal, adanya tindakan nyata, dukungan kelembagaan secara formal, peraturan yang dapat menjamin pelaksanaan dari Pemerintah Daerah dalam meningkatkan partisipasi masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -120,7 +122,8 @@ c. reintegrasi sosial; dand. pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban tindak kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
+Setiap korban tindak kekerasan mendapatkan hak-hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -166,12 +169,14 @@ f. membentuk dan memfasilitasi FPKK; dang. melakukan monitoring dan evaluasi.
 
 #### Pasal 8
 
-Pemerintah Daerah menyelenggarakan layanan bagi korban dalam bentuk: a. memfasilitasi pembentukan PPT;  
+Pemerintah Daerah menyelenggarakan layanan bagi korban dalam bentuk:  
+a. memfasilitasi pembentukan PPT;  
 b. memfasilitasi sarana dan prasarana PPT sesuai kemampuan; dan c. memfasilitasi FPKK sebagai wadah jejaring penanganan korban.  
 
 #### Pasal 9
 
-Pemerintah Daerah berkewajiban dan bertanggungjawab untuk: a. mengawasi penyelenggaraan pelayanan terhadap korban sesuai standar  pelayanan minimal; dan
+Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:  
+a. mengawasi penyelenggaraan pelayanan terhadap korban sesuai standar  pelayanan minimal; dan
 b. menyediakan dana untuk perlindungan korban melalui APBD.  
 
 #### Pasal 10
@@ -312,7 +317,8 @@ Pelayanan
 
 #### Pasal 28
 
-Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan: a. tidak dipungut biaya;  
+Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan:  
+a. tidak dipungut biaya;  
 b. cepat;  
 c. aman dan nyaman;  
 d. empati;  
@@ -347,7 +353,8 @@ f. melakukan koordinasi dengan pendamping yang lain; dan g. memberikan penangana
 
 #### Pasal 32
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 29 huruf c meliputi: a. pertolongan pertama kepada korban;  
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 29 huruf c meliputi:  
+a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan c. rujukan ke layanan kesehatan.  
 
 #### Pasal 33
@@ -357,13 +364,15 @@ a. memberikan bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korba
 
 #### Pasal 34
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 29 huruf e untuk  membantu korban dalam menjalani proses peradilan dengan cara: a. memberikan konsultasi hukum yang mencakup informasi mengenai hak hak korban dan proses peradilan;  
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 29 huruf e untuk  membantu korban dalam menjalani proses peradilan dengan cara:  
+a. memberikan konsultasi hukum yang mencakup informasi mengenai hak hak korban dan proses peradilan;  
 b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
 
 #### Pasal 35
 
 1. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 29 huruf f bertujuan untuk mengembalikan korban kepada  keluarga dan lingkungan sosialnya.  
-2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan: a. Pemerintah Daerah lain; danb. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
+2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
+a. Pemerintah Daerah lain; danb. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
 
 #### Pasal 36
 
@@ -380,7 +389,8 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 37
 
-Bentuk pemberdayaan perempuan korban kekerasan meliputi: a. pelatihan kerja, meliputi:
+Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
+a. pelatihan kerja, meliputi:
 
 1. pelatihan keterampilan;  
 2. praktik kerja lapangan; dan
@@ -420,7 +430,8 @@ Koordinasi Pelayanan dan Perlindungan Korban
 #### Pasal 40
 
 1. Dalam upaya menyediakan dan menyelenggarakan penanganan pelayanan dan perlindungan bagi korban, PPT membentuk FPKK.  
-2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk: a. mengkoordinasikan dan mensinkronisasikan penanganan pelayanan  PPT;  
+2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
+a. mengkoordinasikan dan mensinkronisasikan penanganan pelayanan  PPT;  
 b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan c. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
 3. Kepengurusan dan keanggotaan FPKK sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Ketua PTT.  
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3) dikelompokkan  dalam peran sebagai berikut:a. peran kesehatan;  
@@ -442,7 +453,8 @@ Kerja sama
 1. Dalam rangka mencapai tujuan perlindungan anak dan perempuan dari  tindak kekerasan sebagaimana dimaksud dalam Pasal 3, Pemerintah  Daerah bekerjasama dengan:a. Pemerintah;  
 b. Pemerintah Provinsi;  
 c. Kabupaten/Kota lain; dand. lembaga non Pemerintah.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: a. pertukaran data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai dengan  hukum yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk Kesepakatan Bersama.  
@@ -454,7 +466,8 @@ Kemitraan
 #### Pasal 42
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalam  perlindungan anak dan perempuan dari tindak kekerasan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. sistem informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. sistem informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
 b. pendidikan dan pelatihan bagi anak dan perempuan korban tindak  kekerasan;  
 c. bantuan pendidikan bagi anak dan perempuan korban tindak  kekerasan yang rawan putus sekolah; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk kesepakatan bersama.  

@@ -16,12 +16,14 @@ PERLINDUNGAN, PEMBERDAYAAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 Menimbang:  
  
+ 
 a. bahwa anak merupakan amanah dan karunia Tuhan Yang Maha  Esa yang dalam dirinya melekat harkat dan martabat sebagai  manusia seutuhnya, serta merupakan generasi penerus cita-cita  perjuangan bangsa, sehingga perlu mendapat perlindungan dan  kesempatan seluas-luasnya untuk kelangsungan hidup, tumbuh  dan berkembang secara wajar;  
 b. bahwa sehubungan dengan masih banyaknya perempuan dan  anak yang perlu mendapat perlindungan dari berbagai bentuk  tindak kekerasan, perlakuan salah, eksploitasi, dan  penelantaran, maka dipandang perlu adanya upaya strategis  dari Pemerintah Daerah dan pihak-pihak lain yang berkewajiban  untuk memberikan perlindungan terhadap perempuan anak  dimaksud;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia, dan  kejahatan kemanusiaan, oleh karenanya dalam rangka  pemenuhan hak-hak konstitusional perempuan dan anak sebagaimana dimaksud pada huruf b, maka Pemerintah Daerah dapat menyelenggarakan fungsi koordinasi secara terpadu  terhadap pelaksanaan tugas, wewenang, dan tanggung jawabnya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b, dan huruf c, maka perlu menetapkan  Peraturan Daerah tentang Perlindungan, Pemberdayaan  Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -103,7 +105,8 @@ k. Holistik.
 
 #### Pasal 3
 
-Tujuan perlindungan, pemberdayaan perempuan dan anak, untuk: a. Pemenuhan hak-hak anak;  
+Tujuan perlindungan, pemberdayaan perempuan dan anak, untuk:  
+a. Pemenuhan hak-hak anak;  
 b. Mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 c. Menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan anak:d. Melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 e. Memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan;  
@@ -285,7 +288,8 @@ Kemitraan
 #### Pasal 20
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalam  perlindungan perempuan dan anak dari tindak kekerasan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. Pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. Pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
 b. Pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. Bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. Menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk perjanjian.  

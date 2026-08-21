@@ -74,7 +74,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah Kota yang selanjutnya
 
 ## Bagian Kesatu
 
-Asas Pasal2 Asas Pemberdayaan dan Pelindungan Perempuan adalah: a. pengayoman;  
+Asas Pasal2 Asas Pemberdayaan dan Pelindungan Perempuan adalah:  
+a. pengayoman;  
 b. non-diskriminasi;  
 c. kekeluargaan;  
 d. inklusivitas;  
@@ -250,7 +251,8 @@ Bentuk Tindak Kekerasan Terhadap Perempuan
 
 #### Pasal 16
 
-1. Bentuk Kekerasan terhadap Perempuan meliputi: a. kekerasan fisik;  
+1. Bentuk Kekerasan terhadap Perempuan meliputi:  
+a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi; dand. kekerasan psikis.  
 2. Bentuk kekerasan fisik sebagaimana dimaksud pada ayat (1) huruf a, diantaranya berupa setiap perbuatan yang mengakibatkan rasa sakit, cidera, luka atau cacat pada tubuh seseorang, pingsan dan/ atau menyebabkan kematian.  
@@ -300,7 +302,8 @@ Pasa120 (1) Pelindungan Sosial sebagaimana dimaksud dalam Pasal 19 ayat (2) huru
 
 2. Pelindungan medis sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf b berupa perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan tenaga medis dan paramedis pada fasilitas pelayanan kesehatan terdekat dari korban sesuai dengan kebutuhan korban.  
 3. Pelindungan hukum sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf c berupa Pelayanan dan Pendampingan untuk membantu korban dalam menjalani proses hukum dan peradilan dengan menyediakan bantuan hukum, konsultasi hukum dan Pendampingan hukum kepada korban.  
-16- (4) Pelindungan ekonomi sebagimana dimaksud dalam Pasal 19 ayat (2) huruf d berupa layanan untuk keterampilan dan untuk memberikan akses ekonomi sesuai dengan identifikasi kebutuhan pemberdayaan ekonomi dari korban dengan memperhatikan: a. usia;  
+16- (4) Pelindungan ekonomi sebagimana dimaksud dalam Pasal 19 ayat (2) huruf d berupa layanan untuk keterampilan dan untuk memberikan akses ekonomi sesuai dengan identifikasi kebutuhan pemberdayaan ekonomi dari korban dengan memperhatikan:  
+a. usia;  
 b. tingkat pendidikan;  
 c. keahlian;  
 d. minat dan bakat;  
@@ -377,7 +380,8 @@ Pasal28 (1) Masyarakat dapat berpartisipasi dalam perencanaan dan pelaksanaan ke
 
 ### PEMBIAYAAN
 
-Pasal29 Pembiayaan atas pelaksanaan kegiatan Pemberdayaan dan Pelindungan Perempuan, dapat bersumber dari: a. Anggaran Pendapatan dan Belanja Daerah; dan b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.  
+Pasal29 Pembiayaan atas pelaksanaan kegiatan Pemberdayaan dan Pelindungan Perempuan, dapat bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah; dan b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.  
 20-
 
 ### BABIX

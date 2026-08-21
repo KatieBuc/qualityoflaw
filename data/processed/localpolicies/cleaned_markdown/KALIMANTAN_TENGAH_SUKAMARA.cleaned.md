@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap perempuan dan anak memiliki hak yang sama untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa untuk menjamin pemberdayaan perempuan dan  perlindungan anak sesuai dengan bakat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran lainnya, pemberdayaan perempuan dan perlindungan anak harus dilakukan secara terpadu, berkesinambungan melalui percepatan pemenuhan dan perlindungan hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa sesuai ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan salah satu urusan pemerintahan wajib yang menjadi kewenangan pemerintah daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia 1945;  
 
@@ -112,7 +114,8 @@ Setiap perempuan dan anak memiliki hak dasar sebagai manusia yang  wajib dilindu
 
 #### Pasal 4
 
-Hak perempuan sebagaimana dimaksud dalam Pasal 2, meliputi: a. hidup tenteram, aman, damai, bahagia, sejahtera lahir dan batin;  
+Hak perempuan sebagaimana dimaksud dalam Pasal 2, meliputi:  
+a. hidup tenteram, aman, damai, bahagia, sejahtera lahir dan batin;  
 b. menikmati lingkungan hidup yang baik dan sehat;  
 c. hidup berkeluarga dalam ikatan perkawinan yang sah berdasarkan  ketentuan perundang-undangan;  
 d. memperoleh pekerjaan sesuai kemampuan, syarat serta upah yang  layak dan adil;  
@@ -123,7 +126,8 @@ h. memperoleh pelayanan untuk meningkatkan pendapatannya; dan i. memperoleh hak 
 
 #### Pasal 5
 
-Hak anak sebagaimana dimaksud dalam Pasal 2, meliputi: a. memperoleh pendidikan dan pengajaran sesuai tingkat umur,  kondisi fisik dan mental, kecerdasan serta minat dan bakatnya;  
+Hak anak sebagaimana dimaksud dalam Pasal 2, meliputi:  
+a. memperoleh pendidikan dan pengajaran sesuai tingkat umur,  kondisi fisik dan mental, kecerdasan serta minat dan bakatnya;  
 b. hidup, tumbuh berkembang dan berpartisipasi secara wajar sesuai  harkat dan martabat kemanusiaan serta mendapat perlindungan  dari tindak kekerasan, eksploitasi, diskriminasi dan penelantaran  kekejaman, kekerasan dan penganiayaan, ketidakadilan dan  perlakuan salah;  
 c. dipenuhi kebutuhan oleh keluarga;  
 d. mendapatkan bimbingan agama;  
@@ -217,7 +221,8 @@ k. menyusun rencana aksi daerah pengarusutamaan gender; dan  l. mendorong dilaks
 #### Pasal 13
 
 1. Tim Teknis sebagaimana dimaksud dalam Pasal 12 huruf j  beranggotakan aparatur yang memahami analisis anggaran  responsif gender.  
-2. Rencana aksi Daerah Pengarusutamaan Gender Daerah  sebagaimana dimaksud dalam Pasal 12 huruf k memuat: a. pengarusutamaan gender dalam peraturan perundang undangan;  
+2. Rencana aksi Daerah Pengarusutamaan Gender Daerah  sebagaimana dimaksud dalam Pasal 12 huruf k memuat:  
+a. pengarusutamaan gender dalam peraturan perundang undangan;  
 b. pengarusutamaan gender dalam siklus pembangunan;  
 c. penguatan kelembagaan pengarusutamaan gender; dan d. penguatan peran serta masyarakat.  
 
@@ -489,27 +494,31 @@ b. menyediakan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak
 
 #### Pasal 38
 
-Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga  sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf a, meliputi: a. pembinaan;  
+Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga  sebagaimana dimaksud dalam Pasal 37 ayat (1) huruf a, meliputi:  
+a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
 d. fasilitasi penyelenggaraan pembangunan keluarga; dan e. meningkatkan kualitas kesehatan ibu hamil dan menyusui.  
 
 #### Pasal 39
 
-Pembinaan sebagaimana dimaksud dalam pasal 38 huruf a, meliputi: a. peningkatan kualitas anak dengan pemberian akses informasi,  pendidikan, penyuluhan dan pelayanan tentang perawatan,  pengasuhan dan perkembangan pola asuh;  
+Pembinaan sebagaimana dimaksud dalam pasal 38 huruf a, meliputi:  
+a. peningkatan kualitas anak dengan pemberian akses informasi,  pendidikan, penyuluhan dan pelayanan tentang perawatan,  pengasuhan dan perkembangan pola asuh;  
 b. peningkatan kualitas remaja dengan pemberian akses informasi,  pendidikan, konseling dan pelayanan tentang kehidupan  berkeluarga melalui kegiatan generasi berencana, pusat informasi dan konseling remaja dan bina keluarga remaja;  
 c. peningkatan kualitas hidup lanjut usia melalui program pembinaan  lansia, bina keluarga lansia, pembinaan dan bimbingan lansia; dan d. peningkatan ekonomi keluarga.  
 
 #### Pasal 40
 
-Bimbingan sebagaimana dimaksud dalam pasal 38 huruf b, meliputi: a. memberikan perlindungan dan bantuan untuk mengembangkan  diri melalui peningkatan kemampuan dan ketrampilan keluarga;  
+Bimbingan sebagaimana dimaksud dalam pasal 38 huruf b, meliputi:  
+a. memberikan perlindungan dan bantuan untuk mengembangkan  diri melalui peningkatan kemampuan dan ketrampilan keluarga;  
 b. melakukan penyuluhan peningkatam kualitas hidup perempuan;  
 c. melakukan penyuluhan peningkatan kesetaraan gender dalam  kehidupan keluarga dan masyarakat;  
 d. melakukan peningkatan akses dan peluang terhadap penerimaan  informasi dan sumber daya ekonomi melalui usaha peningkatan  pendapatan keluarga sejahtera dan peningkatan produktifitas  ekonomi perempuan; dane. melakukan upaya pemberdayaan perempuan kepala keluarga.  
 
 #### Pasal 41
 
-Supervisi sebagaimana dimaksud dalam Pasal 38 huruf c, meliputi: a. melakukan evaluasi dan monitoring terhadap program  perlindungan anak dan pengembangan pola asuh;  
+Supervisi sebagaimana dimaksud dalam Pasal 38 huruf c, meliputi:  
+a. melakukan evaluasi dan monitoring terhadap program  perlindungan anak dan pengembangan pola asuh;  
 b. melakukan evaluasi dan monitoring terhadap peningkatan  kualitas remaja;  
 c. melakukan evaluasi dan monitoring terhadap peningkatan  kualitas hidup lanjut usia;  
 d. melakukan evaluasi dan monitoring terhadap peningkatan  ekonomi keluarga; dane. melakukan evaluasi dan monitoring terhadap peningkatan  kemampuan dan ketrampilan keluarga.  
@@ -618,7 +627,8 @@ Kesehatan dan Sosial
 #### Pasal 55
 
 1. Upaya promotif pelayanan kesehatan dasar sebagaimana  dimaksud dalam Pasal 54 ayat (2) huruf a ditujukan untuk  meningkatkan derajat kesehatan secara lebih optimal.  
-2. Upaya promotif sebagaimana dimaksud pada ayat (1) dilakukan  dengan memberikan sosialisasi atau penyuluhan kepada  masyarakat mengenai pola hidup sehat yang meliputi: a. pentingnya ASI ekslusif bagi bayi;  
+2. Upaya promotif sebagaimana dimaksud pada ayat (1) dilakukan  dengan memberikan sosialisasi atau penyuluhan kepada  masyarakat mengenai pola hidup sehat yang meliputi:  
+a. pentingnya ASI ekslusif bagi bayi;  
 b. pentingnya imunisasi bagi balita;  
 c. pola hidup bersih;  
 d. pentingnya makanan bergizi; dane. bahaya narkoba dan merokok.  
@@ -627,7 +637,8 @@ d. pentingnya makanan bergizi; dane. bahaya narkoba dan merokok.
 #### Pasal 56
 
 1. Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 54 ayat (2) huruf a, ditujukan untuk  mencegah terjadinya penyakit atau permasalahannya kesehatan.  
-2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan: a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi  sampai usia 6 (enam) bulan;  
+2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
+a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi  sampai usia 6 (enam) bulan;  
 b. pemberian imunisasi dan vitamin gratis pada bayi dan balita;  
 c. pemberian makanan bergizi kepada balita dari keluarga  kurang mampu;  
 d. mengoptimalkan peran posyandu untuk pelayanan  kiesehatan bagi ibu dan balita;  
@@ -682,7 +693,8 @@ Dalam hal anak dipekerjakan bersama dengan tenaga kerja dewasa,  maka tempat ker
 #### Pasal 63
 
 1. Setiap orang/badan dilarang mempekerjakan dan melibatkan  anak pada pekerjaan yang terburuk.  
-2. Pekerjaan yang terburuk yang dimaksud pada ayat (1) meliputi: a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya;  
+2. Pekerjaan yang terburuk yang dimaksud pada ayat (1) meliputi:  
+a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya;  
 b. segala pekerjaan yang memanfaatkan, menyediakan atau menawarkan anak untuk pelacuran, produksi pornografi,  pertunjukkan porno, atau perjudian;  
 c. segala pekerjaan yang memanfaatkan, menyediakan atau  melibatkan anak untuk produksi dan perdagangan minuman  keras, narkotika, psikotropika, dan zat adiktif lainnya;  dan/ataud. semua pekerjaan yang membahayakan kesehatan,  keselamatan atau moral anak.  
 
@@ -718,7 +730,8 @@ Kabupaten Layak Anak
 #### Pasal 66
 
 1. Dalam rangka pemenuhan hak anak secara terpadu dan  sistematis dan berkelanjutan Pemerintah Daerah menetapkan  Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak.  
-2. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak  sebagaimana dimaksud pada ayat (1), memuat tentang: a. konsep Kabupaten Layak Anak menyangkut dengan tujuan,  strategi dan peranan para pihak terkait;  
+2. Rencana Aksi Daerah Pembangunan Kabupaten Layak Anak  sebagaimana dimaksud pada ayat (1), memuat tentang:  
+a. konsep Kabupaten Layak Anak menyangkut dengan tujuan,  strategi dan peranan para pihak terkait;  
 b. hak anak;  
 c. pendekatan pengembangan Kabupaten Layak Anak.  
 

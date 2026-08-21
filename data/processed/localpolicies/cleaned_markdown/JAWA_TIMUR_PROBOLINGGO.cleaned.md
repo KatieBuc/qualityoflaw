@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang-Undang Dasar Negera Republik Indonesia Tahun 1945, karenanya perempuan dan anak wajib dilindungi dari segala bentuk kekerasan dan diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah  cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -86,14 +88,16 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak berdasarkan asas: a. penghormatan dan pemenuhan terhadap hak anak dan perempuan;  
+Penyelenggaraan perlindungan perempuan dan anak berdasarkan asas:  
+a. penghormatan dan pemenuhan terhadap hak anak dan perempuan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi perempuan dan anak korban kekerasan; dan e. kepastian hukum.  
 
 #### Pasal 3
 
-Penyelenggaraan perlindungan perempuan dan anak bertujuan untuk: a. menjamin terpenuhinya hak-hak perempuan dan anak agar dapat berpartisipasi  secara optimal dalam masyarakat sesuai harkat dan martabat kemanusiaan;  
+Penyelenggaraan perlindungan perempuan dan anak bertujuan untuk:  
+a. menjamin terpenuhinya hak-hak perempuan dan anak agar dapat berpartisipasi  secara optimal dalam masyarakat sesuai harkat dan martabat kemanusiaan;  
 b. memberikan perlindungan dan memberikan rasa aman kepada perempuan dan  anak dari segala bentuk kekerasan dan diskriminasi;  
 c. mencegah dan menghapus segala bentuk kekerasan dan ekspolitasi terhadap  perempuan dan anak termasuk perdagangan orang;  
 d. memberikan pelayanan kepada perempuan dan anak korban kekerasan, pelapor,  dan saksi; dane. memberdayakan perempuan dan anak korban kekerasan.  
@@ -266,7 +270,8 @@ c. konseling;
 d. bimbingan rohani;  
 e. pelayanan sosial;  
 f. pelayanan bantuan dan pendampingan hukum; dan/ataug. pemulangan dan reintegrasi.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan: a. cepat dan tepat;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan:  
+a. cepat dan tepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
 d. nondiskriminasi;  
@@ -278,10 +283,12 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 1. Pemberdayaan sebagaimana dimaksud dalam Pasal 21 huruf c diselenggarakan  melalui:a. pelatihan kerja;  
 b. usaha ekonomis produktif dan kelompok usaha bersama; dan c. bantuan permodalan.  
-2. Pelatihan kerja sabagaimana dimaksud pada ayat (1) huruf a meliputi: a. pelatihan keterampilan;  
+2. Pelatihan kerja sabagaimana dimaksud pada ayat (1) huruf a meliputi:  
+a. pelatihan keterampilan;  
 b. praktek kerja lapangan; danc. pemagangan.  
 3. Usaha ekonomis produktif dan kelompok usaha bersama sabagaimana  dimaksud pada ayat (1) huruf b meliputi:a. pelatihan keterampilan wirausaha; danb. pendampingan pelaku usaha.  
-4. Bantuan permodalan sabagaimana dimaksud pada ayat (1) huruf c meliputi: a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.  
+4. Bantuan permodalan sabagaimana dimaksud pada ayat (1) huruf c meliputi:  
+a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.  
 5. Pemberdayaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PPT.  
 
 ## Bagian Ketiga
@@ -394,7 +401,8 @@ i. Lembaga Konsultasi Kesejahteraan Keluarga (LK3).
 #### Pasal 32
 
 1. Masyarakat dapat berperan serta dalam penyelenggaraan perlindungan  perempuan dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. membentuk mitra keluarga ditingkat kelurahan/desa;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. membentuk mitra keluarga ditingkat kelurahan/desa;  
 b. membentuk lembaga swadaya masyarakat yang bidang kerjanya di bidang  perlindungan perempuan dan anak;  
 c. melakukan sosialisasi hak perempuan secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan indikasi kekerasan terhadap  perempuan dan anak di masyarakat;  
@@ -408,7 +416,8 @@ Dalam menyelenggarakan perlindungan perempuan dan anak, perorangan, lembaga  swa
 #### Pasal 34
 
 1. Pemerintah Daerah mendorong dunia usaha untuk berperan serta dalam  perlindungan terhadap perempuan dan anak.  
-2. Peran serta sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai hak-hak  perempuan dan anak;  
+2. Peran serta sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai hak-hak  perempuan dan anak;  
 b. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak  kekerasan terhadap perempuan dan anak;  
 c. memberikan bantuan dalam penyelenggaraan perlindungan perempuan dan  anak sebagai bentuk tanggung jawab sosial perusahaan.  
 
@@ -424,7 +433,8 @@ c. memberikan bantuan dalam penyelenggaraan perlindungan perempuan dan  anak seb
 
 #### Pasal 36
 
-1. Pengawasan sebagaimana dimaksud dalam Pasal 35 dilakukan terhadap: a. pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak; danb. pemenuhan pedoman dan standar pelayanan minimal dalam pelaksanaan  pencegahan, pelayanan dan pemberdayaan perempuan dan anak korban  kekerasan.  
+1. Pengawasan sebagaimana dimaksud dalam Pasal 35 dilakukan terhadap:  
+a. pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak; danb. pemenuhan pedoman dan standar pelayanan minimal dalam pelaksanaan  pencegahan, pelayanan dan pemberdayaan perempuan dan anak korban  kekerasan.  
 2. Pengawasan dilakukan setiap berakhirnya tahun anggaran dan hasilnya  digunakan sebagai bahan masukan bagi penyusunan kebijakan, program,  kegiatan perlindungan perempuan dan anak untuk tahun berikutnya.  
 
 #### Pasal 37
@@ -449,7 +459,8 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 39
 
-Dana untuk penyelenggaraan perlindungan perempuan dan anak bersumber dari: a. Anggaran Pendapatan dan Belanja Daerah;  
+Dana untuk penyelenggaraan perlindungan perempuan dan anak bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah;  
 b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 40
@@ -487,7 +498,8 @@ Penyelenggara PPT atau rumah aman dilarang memungut biaya dalam memberikan  pela
 
 1. Tenaga Kesehatan yang menolak atau tidak mau memberikan pelayanan  pemeriksaan kesehatan sebagaimana dimaksud dalam Pasal 28 dikenakan  sanksi administrasi berupa:a. peringatan tertulis;  
 b. pembekuan izin praktek/izin kerja;  
-c. pembatasan praktek bagi Tenaga Kesehatan yang praktek mandiri; (2) Pekerja sosial, relawan pendamping, dan/atau pembimbing rohani yang  menolak atau tidak mau memberikan pelayanan konseling sebagaimana  dimaksud dalam Pasal 29 dikenakan sanksi administrasi berupa: a. teguran; ataub. peringatan tertulis.  
+c. pembatasan praktek bagi Tenaga Kesehatan yang praktek mandiri; (2) Pekerja sosial, relawan pendamping, dan/atau pembimbing rohani yang  menolak atau tidak mau memberikan pelayanan konseling sebagaimana  dimaksud dalam Pasal 29 dikenakan sanksi administrasi berupa:  
+a. teguran; ataub. peringatan tertulis.  
 3. Ketentuan mengenai mekanisme penjatuhan sanksi sebagaimana dimaksud  pada ayat (1) dan ayat (2) diatur lebih lanjut dengan Peraturan Bupati.  
 
 # BAB XIV

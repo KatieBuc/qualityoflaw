@@ -14,11 +14,13 @@ PENYELENGGARAAN PERLINDUNGAN, PELAYANAN DAN PEMULIHAN PEREMPUAN DAN ANAK KORBAN 
 
 Menimbang:  
  
+ 
 a. bahwa tindakan kekerasan yang terjadi terhadap perempuan dan anak dapat menimbulkan korban yang berdampak pada traumatik yang berkepanjangan;  
 b. bahwa demi melindungi kepentingan perempuan dan anak, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan, Pelayanan dan Pemulihan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Undang–Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor 1822 );  
 
@@ -120,7 +122,8 @@ c. Memberikan pelayanan pemulihan kepada korban kekerasan; dan d. Menyelenggarak
 
 1. Pelayanan dilakukan untuk pemulihan bagi korban.  
 2. Pelayanan bagi korban diselenggarakan oleh Instansi Pemerintah Daerah serta Lembaga Sosial sesuai dengan tugas dan fungsinya masing – masing, termasuk menyediakan fasilitas yang diperlukan untuk pemulihan korban.  
-3. Fasilitas sebagaimana dimaksud pada ayat (2) meliputi: a. Pusat Pelayanan Terpadu Perempuan dan Anak disingkat P2TPA;  
+3. Fasilitas sebagaimana dimaksud pada ayat (2) meliputi:  
+a. Pusat Pelayanan Terpadu Perempuan dan Anak disingkat P2TPA;  
 b. Tenaga Ahli dan Profesional ;  
 c. Pusat Pelayanan Terpadu ( PPT ) dan atau Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak ( P2TP2A );  
 d. Rumah Aman ; dane. Sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  

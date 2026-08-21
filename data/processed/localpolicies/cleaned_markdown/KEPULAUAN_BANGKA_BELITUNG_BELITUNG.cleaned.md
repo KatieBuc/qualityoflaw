@@ -20,12 +20,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia dan  kejahatan kemanusiaan, serta tidak sesuai dengan  Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam rangka pemenuhan hak konstitusional  perempuan dan anak serta untuk meningkatkan kualitas  hidup perempuan dan anak merupakan salah satu urusan  wajib yang menjadi tugas, wewenang, dan tanggung jawab  Pemerintah Daerah;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Belitung cenderung meningkat dan meluas,  sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah Kabupaten Belitung tentang  Perlindungan Hak Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -145,7 +147,8 @@ D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 6
 
 #### Pasal 5
 
-Bentuk kekerasan terhadap perempuan dan anak antara lain: a. kekerasan fisik;  
+Bentuk kekerasan terhadap perempuan dan anak antara lain:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
@@ -194,7 +197,8 @@ c. keluarga; dand. orang tua.
 
 #### Pasal 9
 
-1. Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 8 huruf a, meliputi: a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
+1. Kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 8 huruf a, meliputi:  
+a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan  perlindungan perempuan dan anak dari tindak kekerasan;  
 c. melakukan kerjasama dalam penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -310,7 +314,8 @@ Bentuk Pelayanan
 
 #### Pasal 17
 
-1. Bentuk pelayanan yang diberikan kepada perempuan dan  anak korban tindak kekerasan adalah sebagai berikut: a. pelayanan pengaduan;  
+1. Bentuk pelayanan yang diberikan kepada perempuan dan  anak korban tindak kekerasan adalah sebagai berikut:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. bantuan….  
 
@@ -425,7 +430,8 @@ Kerja Sama
 1. Dalam rangka mencapai tujuan perlindungan perempuan dan  anak dari tindak kekerasan sebagaimana dimaksud dalam  Pasal 3, Pemerintah Daerah bekerjasama dengan:a. Pemerintah;  
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota lain; dand. Lembaga non pemerintah.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi: a. penyediaan data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi:  
+a. penyediaan data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi;  
 3. Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat (2)  dilaksanakan sesuai dengan ketentuan Peraturan perundang undangan.  
@@ -459,7 +465,8 @@ b. pelayanan; danc. kinerja.
 #### Pasal 31
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaan dan  pengawasan penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dane. evaluasi.  

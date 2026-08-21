@@ -16,11 +16,13 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi  perempuan dan anak sesuai Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pemerintah Daerah Wajib bertanggung jawab dalam penyelenggaraan perlindungan perempuan dan anak terhadap tindak kekerasan;  
 b. bahwa untuk memenuhi indikator- indikator Pelaksanaan Kabupaten Layak Anak, berkenaan dengan layanan Perlindungan, pencegahan kekerasan terhadap perempuan dan anak, maka diperlukan peraturan yang mengatur berbagai peran lembaga perangkat daerah dan lembaga lainnya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -158,7 +160,8 @@ e. Kepentingan terbaik bagi perempuan dan anak korban kekerasan yang  terjadi di
 
 #### Pasal 3
 
-Ruang Lingkup dalam Peraturan Daerah ini sebagai berikut: a. Bentuk-Bentuk Kekerasan terhadap Perempuan dan anak b. Hak-Hak Korban Tindak Kekerasan Terhadap Perempuan Dan Anak c. Kewajiban Dan Tanggung Jawab
+Ruang Lingkup dalam Peraturan Daerah ini sebagai berikut:  
+a. Bentuk-Bentuk Kekerasan terhadap Perempuan dan anak b. Hak-Hak Korban Tindak Kekerasan Terhadap Perempuan Dan Anak c. Kewajiban Dan Tanggung Jawab
 d. Perlindungan Perempuan dan Anake. Kerja Sama, Kemitraan dan Pemberdayaanf. Pembinaan dan Pengawasang. Kabupaten Layak Anak (KLA) dan Anugerah Parahita Ekapraya (APE)
 
 # BAB IV
@@ -167,7 +170,8 @@ d. Perlindungan Perempuan dan Anake. Kerja Sama, Kemitraan dan Pemberdayaanf. Pe
 
 #### Pasal 4
 
-Bentuk kekerasan terhadap perempuan dan anak, antara lain: a. Kekerasan fisik;  
+Bentuk kekerasan terhadap perempuan dan anak, antara lain:  
+a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
 d. Penelantaran;  
@@ -194,18 +198,21 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b merupakan  perbuatan
 
 #### Pasal 7
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi: a. Perbuatan yang berupa pelecehan seksual;  
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi:  
+a. Perbuatan yang berupa pelecehan seksual;  
 b. Pemaksaan hubungan seksual;  
 c. Pemaksaan hubungan seksual dengan tidak wajar; dan/ atau d. Pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/ atau tujuan tertentu.  
 
 #### Pasal 8
 
-Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi: a. Perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau karena  persetujuan atau perjanjian wajib memberikan kehidupan, perawatan  kepada perempuan tersebut.  
+Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi:  
+a. Perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau karena  persetujuan atau perjanjian wajib memberikan kehidupan, perawatan  kepada perempuan tersebut.  
 b. Perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab atas  pengasuhannya.  c. Perbuatan mengabaikan dengan sengaja untuk merawat atau mengurus  anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas pengasuhannya.  
 
 #### Pasal 9
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi: a. Perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
+Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi:  
+a. Perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
 b. Perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual,  organ reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan  tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materil maupun immaterial.  
 
 #### Pasal 10
@@ -233,7 +240,8 @@ i. Hak atas pendampingan; danj. Mendapatkan penanganan berkelanjutan sampai taha
 
 #### Pasal 12
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 11, juga mendapatkan hak khusus, sebagai berikut: a. Hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 11, juga mendapatkan hak khusus, sebagai berikut:  
+a. Hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
 b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
 d. Hak bebas dari berbagai stigma; dane. Hak mendapatkan kebebasan.  
@@ -372,7 +380,8 @@ j. TIM KTP/A di Rumah sakit, Puskesmas, sekolah-sekolah, Pondok Pondok Pesantren
 
 #### Pasal 22
 
-1. Bentuk pelayanan Pemerintah Daerah terhadap korban yang dilaksanakan  oleh UPTD PPA dan lainnya sebagaimana dimaksud Pasal 21 meliputi: a. Pelayanan medis;  
+1. Bentuk pelayanan Pemerintah Daerah terhadap korban yang dilaksanakan  oleh UPTD PPA dan lainnya sebagaimana dimaksud Pasal 21 meliputi:  
+a. Pelayanan medis;  
 b. Pelayanan medicolegial (visum);  
 c. Pelayanan psikososial;  
 d. Pelayanan hukum;  
@@ -411,7 +420,8 @@ e. Masyarakat;
 f. Perguruan Tinggi;  
 g. Dunia Usaha;  
 h. Media Massa;  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: a. Pertukaran data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Pertukaran data dan informasi;  
 b. Pemulihan korban tindak kekerasan;  
 c. Pemulangan dan reintegrasi sosial;  
 d. Penyediaan barang bukti dan saksi; dane. Ditindaklanjuti sesuai dengan hukum yang berlaku.  
@@ -461,7 +471,8 @@ d. penguatan jejaring antar Lembaga Penyedia Layanan Pemberdayaan  Perempuan tin
 
 1. Untuk mewujudkan Kabupaten Layak Anak (KLA) dan Anugerah Parahita  Ekapraya (APE) Pemerintah Daerah, Swasta dan Lembaga Masyarakat  memperhatikan hak anak dan perempuan yang berkaitan dengan hak  hidup, tumbuh kembang, perlindungan dan partisipasi.  
 2. Pemerintah Daerah, Swasta dan Lembaga Masyarakat dalam mewujudkan  Kabupaten Layak Anak tergabung dalam Gugus Tugas Kabupaten Layak  Anak dan Pokja PUG.  
-3. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan: a. Hak sipil dan kebebasan;  
+3. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3)  bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan:  
+a. Hak sipil dan kebebasan;  
 b. Lingkungan keluarga dan pengasuhan alternatif;  
 c. Kesehatan dasar dan kesejahteraan;  
 d. Pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  

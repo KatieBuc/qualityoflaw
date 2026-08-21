@@ -16,10 +16,12 @@
 
 Menimbang:  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan, setiap warga Negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia, berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan serta untuk meningkatkan kualitas hidup perempuan yang merupakan salah satu tanggung jawab Pemerintah Daerah;  
 b. bahwa dalam upaya pemenuhan hak perempuan perlu dilakukan upaya oleh k eluarga, masyarakat, dan Pemerintah Daerah, sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -82,7 +84,8 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-1. Perlindungan perempuan berdasarkan asas: a. penghormatan dan perlindungan Hak Asasi Manusia;  
+1. Perlindungan perempuan berdasarkan asas:  
+a. penghormatan dan perlindungan Hak Asasi Manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi perempuan;  
@@ -97,7 +100,8 @@ g. kepastian hukum; danh. partisipasi.
 
 #### Pasal 3
 
-Ruang Lingkup Perlindungan Perempuan meliputi: a. Pencegahan;  
+Ruang Lingkup Perlindungan Perempuan meliputi:  
+a. Pencegahan;  
 b. Pelayanan; danc. Pemberdayaan.  
 
 ## Bagian Kesatu

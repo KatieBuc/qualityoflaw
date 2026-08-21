@@ -12,11 +12,13 @@ PERLINDUNGAN TERHADAP PEREMPUAN DAN ANAK KORBAN TINDAK  KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan anak secara biologis dan filosofis  merupakan kelompok yang rentan terhadap tindak kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa perlindungan terhadap perempuan dan anak  korban tindak kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan terhadap Perempuan dan Anak Korban Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 

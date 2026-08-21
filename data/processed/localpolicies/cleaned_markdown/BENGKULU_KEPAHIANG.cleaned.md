@@ -18,6 +18,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak atas kelangsungan  hidup, tumbuh, dan berkembang, mendapatkan perlindungan diri pribadi, kehormatan dan martabat sebagai manusia seutuhnya dalam kehidupan keluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi;  
 c. bahwa segala bentuk tindakan kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -26,6 +27,7 @@ e. bahwa peraturan perundang-undangan mengenai  perlindungan perempuan dan anak 
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b , huruf c, huruf d dan huruf e perlu menetapkan Peraturan Daerah Kepahiang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -374,7 +376,8 @@ d. memberikan pengaman bagi pelaku yang tertangkap tangan; dan e. memberikan per
 
 #### Pasal 39
 
-1. Struktur organisasi P2TP2A yang dibentuk oleh Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 19 ayat (1) terdiri dari: a. ketua umum atau sebutan lain yang setingkat;  
+1. Struktur organisasi P2TP2A yang dibentuk oleh Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 19 ayat (1) terdiri dari:  
+a. ketua umum atau sebutan lain yang setingkat;  
 b. sekretaris;  
 c. bendahara; dand. ketua pelaksana yang membawahi bidang-bidang.  
 2. Bidang-Bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang kurangnya meliputi:a. bidang layanan pengaduan;  
@@ -470,7 +473,8 @@ c. pendidikan dan pelatihan;dand. pemantauan dan evaluasi.
 #### Pasal 50
 
 1. Masyarakat berperan serta dalam penyelenggaraan perlindungan terhadap korban.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. membentuk mitra keluarga di tingkat Kelurahan/Desa;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. membentuk mitra keluarga di tingkat Kelurahan/Desa;  
 b. membentuk unit perlindungan perempuan dan anak didalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila dilingkungannya  terjadi kekerasan terhadap korban.  

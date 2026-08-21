@@ -16,6 +16,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwapemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapat perlindungan khusus agar tidak mengalami kekerasan dan dapat menjalani hidup layak sesuai prinsip kemanusiaan kesetaraan dan keadilan;  
@@ -128,23 +129,27 @@ Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf c  Pemer
 
 #### Pasal 8
 
-Upaya promotif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut: a. memperkuat mekanisme koordinasi dan jejaring kerja unit layanan dalam upaya  penanganan kasus-ksus kekerasan;  
+Upaya promotif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut:  
+a. memperkuat mekanisme koordinasi dan jejaring kerja unit layanan dalam upaya  penanganan kasus-ksus kekerasan;  
 b. menyediakan materi-materi Komunikasi, Informasi dan Edukasi terkait pencegahan dan penanganan kekerasan; danc. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  pencegahan dan penanganan kekerasan.  
 
 #### Pasal 9
 
-Upaya preventif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut: a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  perempuan dan anak;  
+Upaya preventif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut:  
+a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  perempuan dan anak;  
 b. mengadakan gerakan masif dan berkelanjutan yang melibatkan masyarakat  dalam aksi pencegahan dan penanganan kekerasan;  
 c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga; dan d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan  dan perlindungan anak.  
 
 #### Pasal 10
 
-Upaya kuratif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut: a. mengoptimalkan unit layanan teknis terkait pengaduan kekerasan terhadap  perempuan dan anak;  
+Upaya kuratif sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut:  
+a. mengoptimalkan unit layanan teknis terkait pengaduan kekerasan terhadap  perempuan dan anak;  
 b. menyediakan sarana dan prasarana yang memadai untuk penanganan  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum; danc. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat dan akurat oleh aparat penegak hukum.  
 
 #### Pasal 11
 
-Upaya rehabilitasi sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut: a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/pendamping  spiritual, pengacara, dan tenaga medis;  
+Upaya rehabilitasi sebagaimana dimaksud dalam Pasal 7 adalah sebagai berikut:  
+a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/pendamping  spiritual, pengacara, dan tenaga medis;  
 b. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
 
 # BAB III
@@ -267,7 +272,8 @@ Guna meningkatkan kedudukan, peran, dan kualitas perempuan, serta upaya mewujudk
 
 #### Pasal 23
 
-Pemberdayaan Perempuan diarahkan untuk memperoleh kesempatan dan hak-hak  sebagai manusia agar mampu berperan dan berpartisipasi di bidang: a. ekonomi;  
+Pemberdayaan Perempuan diarahkan untuk memperoleh kesempatan dan hak-hak  sebagai manusia agar mampu berperan dan berpartisipasi di bidang:  
+a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum.  
 
@@ -316,7 +322,8 @@ Kewajiban dan Upaya Pemerintah Daerah
 
 #### Pasal 29
 
-1. Pemerintah Daerah berkewajiban dan bertanggung jawabuntuk melaksanakan  upaya pencegahan terjadinyaKekerasan terhadap Perempuan dalam bentuk: a. mengumpulkan data dan informasi tentang Korban kekerasan serta  Peraturan Perundang-undangan;  
+1. Pemerintah Daerah berkewajiban dan bertanggung jawabuntuk melaksanakan  upaya pencegahan terjadinyaKekerasan terhadap Perempuan dalam bentuk:  
+a. mengumpulkan data dan informasi tentang Korban kekerasan serta  Peraturan Perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti Kekerasan terhadap  Perempuan;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan penyelenggaraan Perlindungan akan Korban kekerasan;  
 d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan  Perlindungan Korban kekerasan; dane. menyusun laporan terhadap penyelenggaraan Perlindungan perempuan  Korban kekerasan.  
@@ -348,7 +355,8 @@ Penyelenggaraan pelayanan terhadap Korban dilakukan dengan tidak dipungut  biaya
 #### Pasal 33
 
 1. P2TP2A dapat berkonsultasi dan berkoordinasi dengan Kementerian yang  menyelenggarakan urusan pemberdayaan perempuan dan perlindungan anak  dengan terlebih dahulu berkoordinasi dengan Perangkat Daerah atau unit-unit  lainnya yang menangani pemberdayaan perempuan dan perlindungan anak di  tingkat Propinsi.  
-2. Koordinasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk: a. rapat koordinasi dengan jejaring kerja;  
+2. Koordinasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:  
+a. rapat koordinasi dengan jejaring kerja;  
 b. konsultasi;  
 c. penyampaian data dan informasi; dan/ataud. tindak lanjut penanganan kasus.  
 
@@ -374,7 +382,8 @@ c. kekerasan ekonomi; dand. kekerasan psikis.
 
 #### Pasal 36
 
-1. Bentuk Perlindungan Kekerasan terhadap Perempuan meliputi: a. Perlindungan medis;  
+1. Bentuk Perlindungan Kekerasan terhadap Perempuan meliputi:  
+a. Perlindungan medis;  
 b. Perlindungan hukum;  
 c. Perlindungan medico legal (kedokteran forensik);  
 d. Perlindungan ekonomi; dane. Perlindungan psikis.  

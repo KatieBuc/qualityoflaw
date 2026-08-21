@@ -92,7 +92,8 @@ Pasa! 1 Dalam Peraturan Daerah ini yang dimaksud dengan: ; 1. Daerah adalah Daer
 
 ## BABD
 
-BAK PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAlf Pasal2 Perempuan dan anak korban tindak kekerasan mendapatkan hak, meliputi: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+BAK PEREMPUAN DAN ANAK KORBAN TINDAK KEKERASAlf Pasal2 Perempuan dan anak korban tindak kekerasan mendapatkan hak, meliputi:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -179,14 +180,16 @@ c. pusat pelayanan dan Rumah Arnan; dan /utaud. sarana dan prasarana lain yang d
 
 Pasa19 (1) Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf a dilaksanakan untuk menerima laporan adanya tindak kekerasan.  
 
-2. Laporan sebagaimana dimaksud pada ayat (1) dapat berasal dari: a. korban;  
+2. Laporan sebagaimana dimaksud pada ayat (1) dapat berasal dari:  
+a. korban;  
 b. rujukan; atauc. penjangkauan.  
 
 #### Pasal 10
 
 1. Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 8 ayat - (1) huruf b, dilaksanakan dengan menggunakan sarana kesehatan milik Pemerintah Daerah atau rumah sakit rujukan lainnya dengan cara memberikan pelayanan pengobatan dan pemulihan kesehatan korban.  
 2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dilakukan oleh tenaga kesehatan kepada korban sesuai standar profesi, stan dar prosedur operasional dan kebutuhan medis korban.  
-3. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1),melalui upaya: a. anamnesis kepada korban;  
+3. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1),melalui upaya:  
+a. anamnesis kepada korban;  
 b. pemeriksaan kepada korban;  
 c. memberikan pertolongan pertama;  
 d. pemulihan kesehatan baik fisik maupun psikis, melakukan upaya pencegahan penyakit dan gangguan kesehatan lainnya;  
@@ -230,7 +233,8 @@ Perlindungan Anak Korban Tindak Kekerasan
 
 ### Paragraf 1
 
-Tahapan Perlindungan Anak Korban Tindak Kekerasan Pasa114 Tahapan pelindungan terhadap anak korban tindak kekerasan, meliputi: a. pencegahan tindak kekerasan terhadap anak;  
+Tahapan Perlindungan Anak Korban Tindak Kekerasan Pasa114 Tahapan pelindungan terhadap anak korban tindak kekerasan, meliputi:  
+a. pencegahan tindak kekerasan terhadap anak;  
 b. penanganan anak korban tindak kekerasan; danc. rehabilitasi anak korban tindak kekerasan.  
 
 ### Paragraf 2
@@ -240,7 +244,8 @@ a. membentukjaringan kerja dalam upaya pencegahan kekerasan terhadap anak;
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
 2. Pencegahan kekerasan terhadap anak sebagaimana climaksud pada ayat (1) dilakukan secara terpadu dan dikoordinasikan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang pemberdayaan perempuan dan pelindungan anak.  
 
-Pasa116 (1) Pencegahan tindak kekerasan terhadap anak selain dilaksanakan oleh Perangkat Daerah sebagaimana climaksud dalam Pasal 14 ayat (2), juga melibatkan pihak: a. orang tua, keluarga dan I atau kerabat terdekat;  
+Pasa116 (1) Pencegahan tindak kekerasan terhadap anak selain dilaksanakan oleh Perangkat Daerah sebagaimana climaksud dalam Pasal 14 ayat (2), juga melibatkan pihak:  
+a. orang tua, keluarga dan I atau kerabat terdekat;  
 b. masyarakat;  
 c. instansi vertikal;  
 d. aparatur penegak hukurn;  
@@ -301,7 +306,8 @@ Paaal 20 (1) Dalarn rangka pelayanan korban tindak kekerasan, Pemerintah Daerah 
 
 1. P2TP2A sebagaimaria dimaksud c1alamPasal 20 bertugas:a. memberikan pelayanan;  
 b. memberikan perlindungan terhadap korban tindak kekerasan, pelapor dan saksi; danc. melakukan pemberdayaan terhadap korban tindak kekerasan.  
-2. Pelayanan sebagaimana dirnaksud pada ayat (1)huruf a meliputi: a. menerima pengaduarr/Iaporan Kekerasan terhadap perempuan danj atau anak, konsultasi, dan konseling;  
+2. Pelayanan sebagaimana dirnaksud pada ayat (1)huruf a meliputi:  
+a. menerima pengaduarr/Iaporan Kekerasan terhadap perempuan danj atau anak, konsultasi, dan konseling;  
 b. menerima dan mengirimkan rujukan kasus dari Pemerintah Daerah KabupatenjKota lain atau lembaga yang dibentuk oleh Pemerintah Daerah KabupatenjKota lain;  
 c. memberikan bantuan pendampingan hukum;  
 d. kesehatan;  
@@ -314,7 +320,8 @@ KERJASAMA, KEWAJIBAN DAN TANGGUlfG JAWAB
 
 ## Bagian Keaatu
 
-Kerjaaama Pasa122 Dalam melakukan penanganan anak korban tindak kekerasan sebagaimana dimaksud dalam Pasal 18, Pemerintah Daerah dapat melakukan kerjasama dengan: a. instansi vertikal;  
+Kerjaaama Pasa122 Dalam melakukan penanganan anak korban tindak kekerasan sebagaimana dimaksud dalam Pasal 18, Pemerintah Daerah dapat melakukan kerjasama dengan:  
+a. instansi vertikal;  
 b. pernerintah provinsi;  
 c. pernerintah kabupaten Zkota lainnya;  
 d. pernerintah desa Zkelurahan;  
@@ -361,7 +368,8 @@ f. mendorong dan meningkatkan partisipasi masyarakat; dang. menunjuk orang tua d
 
 Pasa125 (1) Setiap orang dapat berpartisipasi dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara: a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara:  
+a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. memberikan perlindungan kepada korban;  
 c. melakukan pertolongan -pertama kepada korban tindak kekerasan;  
 d. melaporkan tindak kekerasan terhadap perempuan dan Iatau anak;  
@@ -370,7 +378,8 @@ f. melakukan penguatan lembaga sosial masyarakat dalam penanganan tindak kekeras
 
 Pasa126 (1) Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 ### BABVID
 
@@ -459,7 +468,8 @@ Huruf dYang dimaksud dengan "kekerasan sosial" adalah sebagai perbuatan seseoran
 
 HurufeYang dimaksud dengan "kekerasan psikis" adalah pe:~uat~ yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan atau penderitaan psikis berat pada seseorang.  
 
-Huruff Yang dimaksud dengan "Pene1antaran Rumah Tangga" adalah: a. tindakan yang mengaki batkan tidak terpenuhinya;  
+Huruff Yang dimaksud dengan "Pene1antaran Rumah Tangga" adalah:  
+a. tindakan yang mengaki batkan tidak terpenuhinya;  
 b. kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial;  
 c. tindakan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya;  
 d. tindakan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut;  

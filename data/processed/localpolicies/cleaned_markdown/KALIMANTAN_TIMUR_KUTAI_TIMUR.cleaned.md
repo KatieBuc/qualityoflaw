@@ -365,7 +365,8 @@ Pasal24 Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM bidang la
 
 ## PERANSERTAMASYARAKAT
 
-Pasal25 (1) Dalam menyelenggarakan Perlindungan Perempuan, masyarakat dapat: a. membentuk mitra keluarga di tingkat kelurahan / desa;  
+Pasal25 (1) Dalam menyelenggarakan Perlindungan Perempuan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan / desa;  
 b. membentuk unit perlindungan perempuan di dalam orgamsasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan secara mandiri;  
 d. melakukan pertolongan pertama kepada Perempuan Korban Kekerasan;  
@@ -376,7 +377,8 @@ e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi kek
 ## PROVINSI KALIMANTAN TIMUR
 18-
 h. bentuk dan peran masyarakat dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.  
-2. Peran serta masyarakat sebagairnana dimaksud pada ayat (1)meliputi: a. Perorangan;  
+2. Peran serta masyarakat sebagairnana dimaksud pada ayat (1)meliputi:  
+a. Perorangan;  
 b. lembaga sosial kemasyarakatan;  
 c. lembaga swadaya Masyarakat;  
 d. lembaga pendidikan;  
@@ -387,7 +389,8 @@ f. swasta; dang. media massa.
 
 ## PENDANAAN
 
-Pasal26 Pendanaan dalam penyelenggaraan perlindungan perempuan bersumber dari: a. anggaran pendapatan dan belanja Daerah; dan
+Pasal26 Pendanaan dalam penyelenggaraan perlindungan perempuan bersumber dari:  
+a. anggaran pendapatan dan belanja Daerah; dan
 b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundangan- undangan.  
 
 ## BABXI

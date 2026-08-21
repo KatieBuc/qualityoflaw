@@ -75,7 +75,8 @@ a. perlindungan perempuan:b. perlindungan Anak, Cc. pemenuhan hak Anak,d. pening
 
 ## Bagian Kesatu
 
-Umum Pasal (1) Dalam rangka meningkatkan kualitas hidup perempuan dan anak, Pemerintah Kota bertanggung jawab a. menghormati dan menjamin hak perempuan dan anak tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan: b.meningkatkan Pemberdayaan Perempuan dan perlindungan anak dalam peran, kualitas dan kemampuan dibidang: 1. politik:
+Umum Pasal (1) Dalam rangka meningkatkan kualitas hidup perempuan dan anak, Pemerintah Kota bertanggung jawab a. menghormati dan menjamin hak perempuan dan anak tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan:  
+b.meningkatkan Pemberdayaan Perempuan dan perlindungan anak dalam peran, kualitas dan kemampuan dibidang: 1. politik:
 
 2. hukum:
 3. sosial:
@@ -105,7 +106,8 @@ a. mempromosikan dan memfasilitasi Pemberdayaan Perempuan dan Perlindungan Anak 
 #### Pasal 10
 
 1. Tim Teknis sebagaimana dimaksud dalam Pasal huruf beranggotakan aparatur yang memahami analisis anggaran responsif gender serta Pemberdayaan Perempuan dan Perlindungan Anak.  
-2. Rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Daerah sebagaimana dimaksud dalam Pasal huruf memuat: a. pemberdayaan perempuan dan perlindungan anak dalam peraturan perundang-undangan di Kota,b. pemberdayaan perempuan dan perlindungan anak dalam siklus pembangunan di Kota,c. penguatan kelembagaan pemberdayaan perempuan dan perlindungan anak di Kota, dand. penguatan peran serta masyarakat di Kota.  
+2. Rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Daerah sebagaimana dimaksud dalam Pasal huruf memuat:  
+a. pemberdayaan perempuan dan perlindungan anak dalam peraturan perundang-undangan di Kota,b. pemberdayaan perempuan dan perlindungan anak dalam siklus pembangunan di Kota,c. penguatan kelembagaan pemberdayaan perempuan dan perlindungan anak di Kota, dand. penguatan peran serta masyarakat di Kota.  
 
 #### Pasal 11
 
@@ -186,19 +188,22 @@ Umum
 
 Perlindungan perempuan dan anak korban tindak Kekerasan (1) dilaksanakan melalui layanan terpadu.  
 
-Pemberian layanan terpadu terhadap perempuan dan anak korban tindak (2) Kekerasan sebagiamana dimaksud pada ayat (1) menggunakan prinsip: a. responsif gender,
+Pemberian layanan terpadu terhadap perempuan dan anak korban tindak (2) Kekerasan sebagiamana dimaksud pada ayat (1) menggunakan prinsip:  
+a. responsif gender,
 
 b.non diskriminasi: hubungan setara dan menghormati:
 d. .menjaga kerahasiaan, memberi rasa aman dan nyaman, €.  
 
 menghargai perbedaan individu, tidak menghakimi: .menghormati pilihan dan keputusan korban:
-h. peka terhadap latarbelakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban: J. cepat dan sederhana,k. empati, dan I. pemenuhan hak perempuan dan anak.  
+h. peka terhadap latarbelakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban:  
+J. cepat dan sederhana,k. empati, dan I. pemenuhan hak perempuan dan anak.  
 
 (121
 
 #### Pasal 19
 
-Bentuk layanan terpadu terhadap perempuan dan anak korban tindak Kekerasan meliputi: a. penanganan pengaduan, rehabilitasi kesehatan,
+Bentuk layanan terpadu terhadap perempuan dan anak korban tindak Kekerasan meliputi:  
+a. penanganan pengaduan, rehabilitasi kesehatan,
 b. rehabilitasi sosial, pendampingan korban, penegakan dan bantuan hukum, dan d.  e. pemulangan dan reintegrasi sosial.  
 
 ## Bagian Kedua
@@ -251,7 +256,8 @@ Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 19 huruf (1) ditujukan untu
 
 Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi (2) pelayanan: motivasi dan diagnosis psikososial,
 a. perawatan dan pengasuhan,b. pelatihan vokasional dan pembinaan kewirausahaan, bimbingan mental spiritual:d. e. bimbingan fisik: bimbingan sosial dan konseling psikososial, pelayanan aksesibilitas, bantuan dan asistensi sosial: bimbingan resosialisasi, bimbingan lanjut, dan/atauk. rujukan.  
-3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh: a. PD yang mempunyai tugas dan fungsi dibidang sosial, (14
+3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:  
+a. PD yang mempunyai tugas dan fungsi dibidang sosial, (14
 
 b.PD yang membidangi Pemberdayaan Perempuan dan anak, dan dapatbekerjasama dengan pusat pelayanan terpadu, women crisis centre atau organisasi kemasyarakatan bidang sosial yang telah ada, atau c. kementerian agama.  
 
@@ -384,7 +390,8 @@ b. bimbingan, supervisi, fasilitasi penyelenggaraan pembangunan keluarga, dand. 
 
 #### Pasal 36
 
-Pembinaan sebagaimana dimaksud dalam Pasal 35 huruf a, meliputi: a. tumbuh kembang Anak balita, Perlindungan terhadap kesehatan reproduksi remaja:
+Pembinaan sebagaimana dimaksud dalam Pasal 35 huruf a, meliputi:  
+a. tumbuh kembang Anak balita, Perlindungan terhadap kesehatan reproduksi remaja:
 b. Pendewasaan usia perkawinan,d. Pengaturan kelahiran, dan Pengelolaan penduduk.  
 118.  
 
@@ -395,7 +402,8 @@ a. melakukan penyuluhan peningkatan kualitas hidup perempuan dan anak, dan b. me
 
 #### Pasal 38
 
-Supervisi sebagaimana dimaksud dalam Pasal 35 huruf meliputi: a. melakukan evaluasi data tumbuh kembang anak balita, dan b. melakukan evaluasi data pasca perkawinan.  
+Supervisi sebagaimana dimaksud dalam Pasal 35 huruf meliputi:  
+a. melakukan evaluasi data tumbuh kembang anak balita, dan b. melakukan evaluasi data pasca perkawinan.  
 
 #### Pasal 39
 
@@ -477,7 +485,8 @@ Pemerintah Kota menjamin terselenggaranya program wajib belajar (sembilan) tahun
 #### Pasal 50
 
 1. Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf ditujukan untuk mencegah terjadinya penyakit atau permasalahan kesehatan.  
-2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan: a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia (enam) bulan,b. pemberian imunisasi dan vitamin gratis pada bavi dan balita, Cc. pemberian makanan bergizi kepada balita dari keluarga kurang mampu, d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagiibu dan balita,e. melakukan pemeriksaan kesehatan secara berkala, danf. menyediakan sarana sanitasi dan air bersih disetiap sekolah.  
+2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
+a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia (enam) bulan,b. pemberian imunisasi dan vitamin gratis pada bavi dan balita, Cc. pemberian makanan bergizi kepada balita dari keluarga kurang mampu, d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagiibu dan balita,e. melakukan pemeriksaan kesehatan secara berkala, danf. menyediakan sarana sanitasi dan air bersih disetiap sekolah.  
 
 #### Pasal 51
 
@@ -506,7 +515,9 @@ Pemerintah Daerah melakukan pengawasan berkala pada setiap orang/badan yang memp
 #### Pasal 55
 
 Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan:
-a. berusia paling rendah 15 (lima belas) tahun, b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak: c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang: d. tidak mempekerjakan Anak pada malam hari: dane. waktu kerja paling lama (tiga) jam dalam sehari.  
+a. berusia paling rendah 15 (lima belas) tahun, b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak:  
+c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang:  
+d. tidak mempekerjakan Anak pada malam hari: dane. waktu kerja paling lama (tiga) jam dalam sehari.  
 
 #### Pasal 56
 
@@ -515,7 +526,8 @@ Dalam hal Anak dipekerjakan bersama dengan tenaga kerja dewasa, maka tempat kerj
 #### Pasal 57
 
 1. Setiap orang/badan dilarang mempekerjakan dan melibatkan Anak pada pekerjaan yang terburuk.  
-2. Pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya: b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk pelacuran, produksi pornografi, pertunjukan porno, atau perjudian, Cc. segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan Anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya, dan/ataud. semua pekerjaan yang membahayakan kesehatan, keselamatan, atau moral Anak.  
+2. Pekerjaan yang terburuk yang dimaksud dalam ayat (1) meliputi a. segala pekerjaan dalam bentuk perbudakan atau sejenisnya:  
+b. segala pekerjaan yang memanfaatkan, menyediakan, atau menawarkan Anak untuk pelacuran, produksi pornografi, pertunjukan porno, atau perjudian, Cc. segala pekerjaan yang memanfaatkan, menyediakan, atau melibatkan Anak untuk produksi dan perdagangan minuman keras, narkotika, psikotropika, dan zat adiktif lainnya, dan/ataud. semua pekerjaan yang membahayakan kesehatan, keselamatan, atau moral Anak.  
 
 (231
 
@@ -576,7 +588,8 @@ Dalam menjalankan tugasnya, Gugus Tugas KLA dapat berkoordinasi dan bekerjasama 
 
 #### Pasal 64
 
-Pemerintah Kota, dalam rangka memberikan perlidungan terhadap Anak: a. melaksanakan dan mendukung kebijakan nasional dalam penyelenggaraan Perlindungan Anak di Kota,
+Pemerintah Kota, dalam rangka memberikan perlidungan terhadap Anak:  
+a. melaksanakan dan mendukung kebijakan nasional dalam penyelenggaraan Perlindungan Anak di Kota,
 
 ##### (2SI
 b. menjamin Anak untuk mempergunakan haknya dalam menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasan Anak: Cc. melakukan pencegahan Kekerasan terhadap Anak dengan mengoptimalkan peran lembaga adat,d. melakukan sosialisasi, seminar dan penyuluhan mengenai Perlindungan dan hak Anak,e. mengembangkan model sekolah ramah Anak, menyediakan fasilitas umum yang ramah dan aman untuk Anak, dan g. mendorong kepedulian masyarakat akan pentingnya Perlindungan terhadap Anak.  
@@ -608,7 +621,8 @@ b.memberikan informasi dan/atau melaporkan terjadinya pelanggaran hak perempuan 
 b.meningkatkan kepedulian terhadap pelanggaran hak perempuan, c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga, dan
 d. melakukan pengawasan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak yang diselenggarakan oleh Pemerintah Kota (261 dengan mekanisme penyampaian aspirasi kepada Walikota atau Dewan Perwakilan Rakyat Daerah. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak Anak, (2) masyarakat
 
-a.mengawasi berbagai kondisi yang terjadi dilingkungannya yang menimbulkan pelanggaran terhadap hak Anak: b. meningkatkan kepedulian terhadap pelanggaran hak Anak: dan C.menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga, danmencegah terjadinya perkawinan pada usia dini.  
+a.mengawasi berbagai kondisi yang terjadi dilingkungannya yang menimbulkan pelanggaran terhadap hak Anak:  
+b. meningkatkan kepedulian terhadap pelanggaran hak Anak: dan C.menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga, danmencegah terjadinya perkawinan pada usia dini.  
 
 ## Bagian Kedua
 

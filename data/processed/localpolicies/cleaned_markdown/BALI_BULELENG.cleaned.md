@@ -32,12 +32,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -116,7 +118,8 @@ d. kepentingan terbaik bagi korban tindak kekerasan; dan e. kepastian hukum.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak dari Tindak Kekerasan bertujuan: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan bertujuan:  
+a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. melindungi Perempuan dan memberikan pelayanan kepada perempuan  dan anak korban tindak kekerasan; dan
 c. pemberdayaan perempuan dan anak korban tindak kekerasan.  
 
@@ -166,7 +169,8 @@ jdih.bulelengkab.go.id
 
 #### Pasal 7
 
-Perlindungan anak korban tindak kekerasan dilaksanakan dengan cara: a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan,  Penanganan korban dan sistem data dan informasi anak;  
+Perlindungan anak korban tindak kekerasan dilaksanakan dengan cara:  
+a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan,  Penanganan korban dan sistem data dan informasi anak;  
 b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi sosial anak  terlantar, baik di dalam lembaga maupun di luar lembaga;  
 c. menyediakan tempat penampungan, pemeliharaan dan perawatan anak  terlantar; dand. menyelenggarakan perlindungan khusus kepada anak.  
 
@@ -278,9 +282,11 @@ Kelembagaan Perlindungan Perempuan dan Anak
 #### Pasal 15
 
 1. Pemerintah Daerah dalam rangka pelayanan korban tindak kekerasan perempuan dan anak,membentuk P2TP2A;  
-2. P2TP2A sebagaimana dimaksud pada ayat (1) berfungsi sebagai: a. pusat informasi bagi perempuan dan anak;  
+2. P2TP2A sebagaimana dimaksud pada ayat (1) berfungsi sebagai:  
+a. pusat informasi bagi perempuan dan anak;  
 b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan c. pusat pemberdayaan bagi perempuan dan anak.  
-3. P2TP2A sebagaimana dimaksud pada ayat (1) berkewajiban: a. memberikan layanan secepat mungkin dan tanpa biaya kepada saksi  dan/atau korban;  
+3. P2TP2A sebagaimana dimaksud pada ayat (1) berkewajiban:  
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada saksi  dan/atau korban;  
 
 jdih.bulelengkab.go.id
 b. menyelenggarakan perlindungan dan pemenuhan hak saksi dan/atau  korban atas rehabilitasi kesehatan,rehabilitasi sosial pemulangan,  reintregrasi sosial dan bantuan hukum;  
@@ -288,7 +294,8 @@ c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta  untuk perawatan dan pemulihan kesehatan korban serta melakukan  kerjasama dengan lembaga perlindungan saksi dan korban, rumah  perlindungan sosial atau pusat trauma milik pemerintah masyarakat  atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban.  e. memberikan kemudahan, kenyamanan, dan keselamatan bagi saksi  dan/atau korban;  
 f. menjaga kerahasiaan saksi dan/atau korban;  
 g. memberikan pemenuhan bantuan hukum bagi saksi dan/atau  korban; danh. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, bertanggung jawab atas keseluruhan proses rujukan  pelayanan yang diperlukan korban.  
-4. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai tugas: a. memberikan layanan terpadu kepada korban kekerasan; dan b. memberikan perlindungan terhadap korban tindak kekerasan,  pelapor dan saksi.  
+4. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai tugas:  
+a. memberikan layanan terpadu kepada korban kekerasan; dan b. memberikan perlindungan terhadap korban tindak kekerasan,  pelapor dan saksi.  
 5. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (4) huruf a  dilaksanakan sesuai dengan Standar Operasional Prosedur yang  ditetapkan Pemerintah Daerah.  
 6. Pengangkatan pengurus P2TP2A sebagaimana dimaksud pada ayat (1)  ditetapkan dengan Keputusan Bupati.  
 
@@ -309,7 +316,8 @@ f. relawan pendamping;
 g. pembimbing rohani;  
 h. penegak hukum lainnya, untuk membantu korban dalam proses di  sidang pengadilan;  
 i. komisi nasional anti kekerasan terhadap perempuan;  
-j. komisi perlindungan anak Indonesia atau lembaga perlindungan  anak;dan/atauk. pihak tertentu yang diinginkan demi kepentingan korban. (2) Kerjasama sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi;  
+j. komisi perlindungan anak Indonesia atau lembaga perlindungan  anak;dan/atauk. pihak tertentu yang diinginkan demi kepentingan korban. (2) Kerjasama sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. pelayanan kesehatan;  
 d. pendampingan korban;  
@@ -327,7 +335,8 @@ Koordinasi
 b. pemerintah provinsi;  
 c. instansi vertikal;  
 d. lembaga pendidikan;dane. lembaga kemasyarakatan.  
-2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi: a. urusan keagamaan;  
+2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi:  
+a. urusan keagamaan;  
 b. urusan kesehatan;  
 c. urusan pendidikan;  
 d. urusan sosial;  
@@ -352,7 +361,8 @@ Dalam hal lembaga sosial masyarakat melaksanakan perlindungan terhadap  perempua
 
 #### Pasal 20
 
-1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam  perlindungan terhadap perempuan dan anak dari tindak kekerasan. (2) Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak kekerasan terhadap perempuan dan anak; dan b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam  perlindungan terhadap perempuan dan anak dari tindak kekerasan. (2) Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak kekerasan terhadap perempuan dan anak; dan b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 # BAB VII
 

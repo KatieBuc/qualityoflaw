@@ -18,12 +18,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta untuk meningkatkan kualitas hidup perempuan dan anak merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab pemerintah daerah;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak di Kabupaten Barito Kuala terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Undang-Undang Nomor 27 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II Di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9) sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1952 Nomor 72, Tambahan Lembaran Negara Republik Indonesia Nomor
 
@@ -194,7 +196,8 @@ Kewajiban keluarga dan/ atau orangtua sebagaimana dimaksud dalamPasal 6 huruf c 
 #### Pasal 10
 
 1. Untuk mencegah terjadi tindak kekerasan terhadap perempuan dan anak, pemerintah daerah melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua, dan masyarakat dengan memberikan informasi, bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah daerah melakukan upaya sebagai berikut: a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah daerah melakukan upaya sebagai berikut:  
+a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -222,7 +225,8 @@ b. pelayanan kesehatan dan pelayanan psikologis;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial; danf. pelayanan pendampingan.  
-2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai standar pelayanan minimal yang ditetapkan pemerintah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang: a. sosial;  
+2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai standar pelayanan minimal yang ditetapkan pemerintah dan dilaksanakan oleh SKPD yang tugas dan fungsinya di bidang:  
+a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak;  
 d. mental dan spiritual;  
@@ -253,7 +257,8 @@ Ketentuan lebih lanjut mengenai pelayanan pengaduan dan pelayanan sosial sebagai
 
 #### Pasal 17
 
-Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 16, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Bupati membentuk: a. gugus tugas tindak pidana perdagangan orang;  
+Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 16, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Bupati membentuk:  
+a. gugus tugas tindak pidana perdagangan orang;  
 b. komite aksi daerah penghapusan bentuk-bentuk pekerjaan terburuk untuk anak.  
 
 #### Pasal 18
@@ -279,7 +284,8 @@ Kerja sama
 
 1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud dalam Pasal 3, Pemerintah Daerah bekerjasama dengan:a. pemerintah;  
 b. provinsi lain;  
-c. kabupaten/Kota; dand. lembaga non pemerintah (2) Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: a. pertukaran data dan informasi;  
+c. kabupaten/Kota; dand. lembaga non pemerintah (2) Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. penyediaan barang bukti dan saksi;  
 d. pemulangan dan reintegrasi sosial;  
@@ -293,7 +299,8 @@ Kemitraan
 #### Pasal 21
 
 1. Pemerintah daerah membentuk kemitraan dengan dunia usaha dalamperlindungan perempuan dan anak dari tindak kekerasan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk perjanjian.  
@@ -305,7 +312,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang terca
 #### Pasal 22
 
 1. Pemerintah Daerah berkewajiban melakukan 'pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 d. pemantauan; dane. evaluasi.  

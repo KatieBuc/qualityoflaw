@@ -14,12 +14,14 @@ PENYELENGGARAAN PELINDUNGAN DAN PEMBERDAYAAN PEREMPUAN DENGAN RAHMAT TUHAN YANG 
 
 Menimbang:  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki hak asasi  manusia yang harus dilindungi, dihormati, dipertahankan, dan  tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun  sehingga perlu mendapatkan jaminan pelindungan dari tindak  kekerasan, eksploitasi, dan diskriminasi serta perlu diberdayakan  agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam masyarakat masih terdapat banyak perempuan  yang mengalami kekerasan, diskriminasi, dan ketidakadilan serta  sering menghadapi hambatan besar dalam mengakses layanan  pendidikan, kesehatan, dan pelindungan sosial yang memadai  yang berdampak negatif terhadap kesejahteraan dan  perkembangan diri mereka;  
 c. bahwa dalam rangka pelindungan dan sarana aktualisasi diri  perempuan dalam masyarakat di Kabupaten Kebumen,  diperlukan pengaturan mengenai pelindungan dan  pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pelindungan dan Pemberdayaan  Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -149,7 +151,8 @@ Hak Perempuan Penyandang Disabilitas
 #### Pasal 5
 
 1. Setiap perempuan, termasuk penyandang disabilitas dan  anggota kelompok sosial inklusi lainnya, berhak memperoleh  pelindungan dan pemberdayaan dalam berbagai aspek  kehidupan untuk memastikan kesetaraan dan keadilan  sosial.  
-2. Hak sebagaimana dimaksud pada ayat (1) meliputi: a. mengakses pendidikan inklusif pada semua satuan,  jalur, jenis, dan jenjang pendidikan tanpa diskriminasi,  dengan dukungan sarana dan prasarana yang inklusif;  
+2. Hak sebagaimana dimaksud pada ayat (1) meliputi:  
+a. mengakses pendidikan inklusif pada semua satuan,  jalur, jenis, dan jenjang pendidikan tanpa diskriminasi,  dengan dukungan sarana dan prasarana yang inklusif;  
 b. mendapatkan pekerjaan dan penghidupan yang layak  sesuai dengan kapasitas, keterampilan, dan kebutuhan  khususnya, serta lingkungan kerja yang mendukung;  
 c. memperoleh perlakuan yang setara untuk berperan aktif  dalam pembangunan serta menikmati hasil  pembangunan secara adil;  
 d. mendapatkan aksesibilitas dalam berbagai bidang  kehidupan, termasuk infrastruktur, teknologi,  transportasi, layanan publik, dan informasi, guna  meningkatkan kemandirian dan partisipasi sosial;  
@@ -189,7 +192,8 @@ b. Kekerasan psikis;
 c. Kekerasan seksual; dand. Kekerasan ekonomi.  
 2. Bentuk eksploitasi sebagaimana dimaksud dalam Pasal 6 ayat  (1) meliputi:a. memanfaatkan tenaga kerja perempuan dengan  memberikan upah yang tidak layak, memaksakan jam kerja  yang berlebihan, atau tidak memberikan kondisi kerja yang  aman dan sehat;  
 b. memanfaatkan perempuan untuk tujuan seksual, dengan  paksaan, penipuan atau tekanan, termasuk perdagangan  manusia untuk tujuan prostitusi atau produksi pornografi;  danc. memanfaatkan perempuan secara tidak adil dalam  transaksi ekonomi, seperti memberikan pinjaman dengan  bunga yang sangat tinggi atau memanipulasi pasar untuk  keuntungan pribadi.  
-3. Bentuk diskriminasi dimaksud dalam Pasal 6 ayat (1) meliputi: a. perampasan nyawa orang;  
+3. Bentuk diskriminasi dimaksud dalam Pasal 6 ayat (1) meliputi:  
+a. perampasan nyawa orang;  
 b. penganiayaan;  
 c. pemerkosaan;  
 d. perbuatan cabul;  
@@ -205,7 +209,8 @@ Umum
 
 #### Pasal 8
 
-Penyelenggaraan pelindungan perempuan meliputi upaya: a. pencegahan kekerasan, eksploitasi, dan diskriminasi;  
+Penyelenggaraan pelindungan perempuan meliputi upaya:  
+a. pencegahan kekerasan, eksploitasi, dan diskriminasi;  
 b. pelayanan korban kekerasan, eksploitasi dan diskriminasi;  
 c. pemenuhan kebutuhan khusus perempuan; dan
 d. peningkatan kualitas keluarga.  
@@ -257,7 +262,8 @@ Pelayanan Korban Kekerasan, Eksploitasi, dan Diskriminasi
 
 #### Pasal 11
 
-1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban dilakukan dengan prinsip sebagai berikut: a. penghormatan terhadap hak asasi manusia;  
+1. Pelayanan dilaksanakan untuk memenuhi hak perempuan  korban dilakukan dengan prinsip sebagai berikut:  
+a. penghormatan terhadap hak asasi manusia;  
 b. non diskriminasi;  
 c. kerahasiaan;  
 d. empati;  
@@ -268,7 +274,8 @@ h. kejujuran;
 i. profesional;  
 j. keterpaduan; dank. keberlanjutan.  
 2. Penyelenggaraan pelayanan terhadap korban dilakukan secara  terpadu oleh UPTD PPA.  
-3. Dalam penyelenggaraan pelayanan sebagaimana dimaksud  pada ayat (1), UPTD PPA dapat bekerjasama dengan: a. pusat kesehatan masyarakat, rumah sakit, dan fasilitas  pelayanan kesehatan lainnya;  
+3. Dalam penyelenggaraan pelayanan sebagaimana dimaksud  pada ayat (1), UPTD PPA dapat bekerjasama dengan:  
+a. pusat kesehatan masyarakat, rumah sakit, dan fasilitas  pelayanan kesehatan lainnya;  
 b. unit pelaksana teknis yang membidangi urusan di bidang  sosial;  
 c. rumah tahanan, lembaga pemasyarakatan, dan balai  pemasyarakatan;  
 d. kepolisian;  
@@ -313,7 +320,8 @@ Peningkatan Kualitas Keluarga
 
 #### Pasal 14
 
-1. Pelaksanaan peningkatan kualitas keluarga bertujuan untuk: a. mengintegrasikan kebijakan, program, dan kegiatan  pembangunan yang sasarannya ditujukan untuk  peningkatan kualitas keluarga;  
+1. Pelaksanaan peningkatan kualitas keluarga bertujuan untuk:  
+a. mengintegrasikan kebijakan, program, dan kegiatan  pembangunan yang sasarannya ditujukan untuk  peningkatan kualitas keluarga;  
 b. penguatan dan pengembangan lembaga penyedia layanan  peningkatan kualitas keluarga; danc. penyediaan layanan peningkatan kualitas keluarga yang  terstandarisasi.  
 2. Ketentuan mengenai peningkatan kualitas keluarga,  dilaksanakan sesuai dengan ketentuan peraturan perundang undangan.  
 
@@ -551,7 +559,8 @@ Kerja Sama
 
 1. Setiap orang dan/atau badan hukum dapat berperan serta  dalam penyelenggaraan pelindungan dan pemberdayaan  perempuan di Daerah.  
 2. Peran serta sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan, lembaga swadaya masyarakat, lembaga  pendidikan, lembaga penegak hukum, lembaga layanan,  lembaga keagamaan, pesantren, organisasi profesi, organisasi  bantuan hukum, organisasi kepemudaan, lembaga pengawas  penyiaran, media, komunitas, lembaga profesi, dunia usaha  serta stakeholder lainnya yang terkait.  
-3. Peran serta sebagaimana dimaksud pada ayat (1) dapat berupa: a. memberikan informasi atau melaporkan kepada instansi  yang berwenang apabila mengetahui adanya tindakan  kekerasan, eksploitasi dan diskriminasi terhadap  perempuan;  
+3. Peran serta sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. memberikan informasi atau melaporkan kepada instansi  yang berwenang apabila mengetahui adanya tindakan  kekerasan, eksploitasi dan diskriminasi terhadap  perempuan;  
 b. melakukan tindakan pencegahan kekerasan terhadap  perempuan; danc. melakukan pelatihan keterampilan.  
 
 # BAB IX

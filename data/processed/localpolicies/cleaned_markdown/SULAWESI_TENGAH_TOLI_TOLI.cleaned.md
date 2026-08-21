@@ -14,12 +14,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DENGAN RAHMAT TUHAN YANG MAHA 
 
 Menimbang:  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan terhadap hak asasi manusia  sehingga menjadi kewajiban negara untuk melindungi dari  segala bentuk kekerasan dan diskriminasi;  
 b. bahwa untuk memenuhi hak perempuan dan anak serta  bagian dari upaya pemerintah daerah untuk melindungi  perempuan dan anak dari eksploitasi, penelantaran dan  diskriminasi;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum dalam perlindungan perempuan dan anak  diperlukan pengaturan di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara republik  Indonesia tahun 1945;  
 
@@ -88,7 +90,8 @@ b. pelayanan terpadu bagi Korban tindak Kekerasan; danc. pemberdayaan terhadap K
 
 #### Pasal 3
 
-Perempuan dan Anak Korban tindak Kekerasan mendapatkan hak, meliputi: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Perempuan dan Anak Korban tindak Kekerasan mendapatkan hak, meliputi:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -101,7 +104,8 @@ j. hak rasa aman; dank. hak restitusi.
 
 #### Pasal 4
 
-Anak Korban tindak Kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 3, juga mendapatkan hak khusus, meliputi: a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
+Anak Korban tindak Kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 3, juga mendapatkan hak khusus, meliputi:  
+a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
@@ -127,7 +131,8 @@ g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.
 
 #### Pasal 6
 
-Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan  sebagaimana dimaksud dalam Pasal 5 melakukan upaya untuk: a. mencegah berlangsungnya tindak pidana;  
+Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan  sebagaimana dimaksud dalam Pasal 5 melakukan upaya untuk:  
+a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dand. membantu proses pengaduan dan pengajuan permohonan penetapan  perlindungan.  
 
@@ -183,7 +188,8 @@ c. pusat pelayanan dan Rumah Aman; dan/ataud. sarana dan prasarana lain yang dip
 #### Pasal 10
 
 1. Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 9 ayat (1)  huruf a dilaksanakan untuk menerima laporan adanya tindak Kekerasan.  
-2. Laporan sebagaimana dimaksud pada ayat (1) dapat berasal dari: a. korban ;  
+2. Laporan sebagaimana dimaksud pada ayat (1) dapat berasal dari:  
+a. korban ;  
 b. rujukan; atauc. penjangkauan.  
 
 #### Pasal 11
@@ -212,7 +218,8 @@ d. memberikan perlindungan hukum secara khusus bagi Anak Korban  tindak Kekerasa
 
 #### Pasal 13
 
-1. Pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf i dilaksanakan dengan prinsip sebagai berikut: a. sukarela;  
+1. Pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 9 ayat (1) huruf i dilaksanakan dengan prinsip sebagai berikut:  
+a. sukarela;  
 b. aman dan bermartabat;  
 c. penghormatan hak.  
 2. Dalam hal pemerintah daerah belum dapat melaksanakan Pemulangan  dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dapat  meminta bantuan kepada pihak terkait.  
@@ -322,9 +329,11 @@ m. Anak Korban Penculikan, Penjualan dan/atau Perdagangan; dan n. Anak yang menj
 
 #### Pasal 22
 
-1. P2TP2A sebagaimana dimaksud dalam Pasal 21 bertugas: a. memberikan pelayanan;  
+1. P2TP2A sebagaimana dimaksud dalam Pasal 21 bertugas:  
+a. memberikan pelayanan;  
 b. memberikan perlindungan terhadap Korban tindak Kekerasan, pelapor  dan saksi; danc. melakukan pemberdayaan terhadap Korban tindak Kekerasan.  
-2. Pelayanan sebagaimana dimaksud pada ayat (1) huruf a meliputi: a. menerima pengaduan/laporan Kekerasan terhadap Perempuan  dan/atau Anak , konsultasi, dan konseling;  
+2. Pelayanan sebagaimana dimaksud pada ayat (1) huruf a meliputi:  
+a. menerima pengaduan/laporan Kekerasan terhadap Perempuan  dan/atau Anak , konsultasi, dan konseling;  
 b. menerima dan mengirimkan rujukan kasus dari Pemerintah Daerah  Kabupaten/Kota atau lembaga yang dibentuk oleh Pemerintah Daerah  Kabupaten/Kota;  
 c. memberikan bantuan Pendampingan hukum;  
 d. kesehatan;  
@@ -361,7 +370,8 @@ h. pembimbing rohani;
 i. Penegak hukum lainnya, untuk membantu Korban dalam proses di  sidang pengadilan;  
 j. Komisi Nasional Anti Kekerasan terhadap Perempuan;  
 k. Komisi Perlindungan Anak Indonesia atau Lembaga Perlindungan  Anak; dan/ataul. pihak tertentu yang diinginkan demi kepentingan Korban.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) dapat berupa: a. perukaran data dan informasib. sosialisasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. perukaran data dan informasib. sosialisasi;  
 c. pemberian bantuan hukum;  
 d. pelayanan kesehatan;  
 e. pelayanan kejiwaan/psikolog;  
@@ -404,7 +414,8 @@ f. melalukan penguatan lembaga sosial masyarakat dalam penanganan tindak Kekeras
 #### Pasal 28
 
 1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam  perlindungan terhadap Perempuan dan Anak dari tindak Kekerasan.  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa: a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak Kekerasan terhadap Perempuan dan Anak; dan b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:  
+a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak Kekerasan terhadap Perempuan dan Anak; dan b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 # BAB VIII
 

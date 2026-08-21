@@ -14,9 +14,11 @@
 
 # BUPATI LAMPUNG UTARA,
 
-Memmbang: a. bahwa perempuan dan anak berhak mendapatkan rasa aman dan bebas dan segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia oleh karena itu perlu mendapatkan perlindungan hukum yang optimal;  
+Memmbang:  
+a. bahwa perempuan dan anak berhak mendapatkan rasa aman dan bebas dan segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia oleh karena itu perlu mendapatkan perlindungan hukum yang optimal;  
 b. bahwa berdasarkan Pasal 9 ayat (3) dan ayat (4), serta Pasal 12 ayat (2) huruf b Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan bahwa pemberdayaan perempuan dan perlindungan anak merupakan urusan pemerintahan wajib yang tidak berkaitan dengan pelayanan dasar pemerintah dan menjadi tanggung jawab pemerintah Kabupaten Lampung Utara;  
 c. bahwa berdasarkan pertimbangan huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak dari Tindak Kekerasan Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Tndnnpcio TobTin 1O/1K. Indonesia Tahun 1945; 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 55) dan , Undang-Undang Darurat Nomor 6 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 57) tentang Pembentukan Daerah Tingkat II termasuk Kotapraja Dalam Lingkungan Daerah Tingkat I Sumatera Selatan sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
@@ -89,7 +91,8 @@ e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewu
 #### Pasal 4
 
 1. Ruang Lingkup Peraturan Daerah ini terdiri dari a. perlindungan perempuan; dan b. perlindungan anak.  
-2. Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4 huruf a meliputi: a. pencegahan tindak kekerasan;  
+2. Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4 huruf a meliputi:  
+a. pencegahan tindak kekerasan;  
 b. pelayanan terpadu bagi korban tindak kekerasan; dan c. pemberdayaan terhadap korban Tindak kekerasan. (3) Perlindungan anak sebagaimana dimaksud dalam Pasal 4 huruf b meliputi:a. perlindungan anak yang menjadi korban tindak kekerasan; dan b. perlindungan khusus anak.  
 
 # BAB IV
@@ -128,7 +131,8 @@ Pencegahan Tindak Kekerasan
 
 #### Pasal 7
 
-1. Pemermtah Daerah melakukan pencegahan sebagaimana dimaksud dalam pasal 6 huruf a dengan cara: a. mensosialisasikan peraturan perundang-undangan- b. memberikan konseling/bimbingan;  
+1. Pemermtah Daerah melakukan pencegahan sebagaimana dimaksud dalam pasal 6 huruf a dengan cara:  
+a. mensosialisasikan peraturan perundang-undangan- b. memberikan konseling/bimbingan;  
 c. memberikan edukasi bahaya kekerasan dalam rumah tangga;  
 d. melakukan seminar/lokakarya atau sejenisnya;  
 e. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
@@ -163,13 +167,15 @@ Pelayanan Terpadu Bagi Korban Tindak Kekerasan
 
 #### Pasal 10
 
-1. Pemerintah Daerah melaksanakan pelayanan terpadu bagi korban tindak kekerasan sebagaimana dimaksud dalam Pasal 5 huruf b melalui kegiatan: a. pelayanan pengaduan;  
+1. Pemerintah Daerah melaksanakan pelayanan terpadu bagi korban tindak kekerasan sebagaimana dimaksud dalam Pasal 5 huruf b melalui kegiatan:  
+a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 
 C. konseling;  
 d. bimbingan rohani;  
 e. pelayanan rehabilitasi sosial;  
-f. pelayanan bantuan dan pendampingan hukum; dan/atau g. pemulangan dan reintegrasi. (2) Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung dengan fasilitas berupa: a. ruang pelayanan khusus;  
+f. pelayanan bantuan dan pendampingan hukum; dan/atau g. pemulangan dan reintegrasi. (2) Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung dengan fasilitas berupa:  
+a. ruang pelayanan khusus;  
 b. tenaga ahli dan professional;  
 
 C. pusat pelayanan dan rumah aman; dan/atau d.sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  
@@ -184,7 +190,8 @@ Pemberdayaan Terhadap Korban Tindak Kekerasan
 
 #### Pasal 11
 
-1. Pemberdayaan terhadap korban tindak kekerasan sebagaimana dimaksud pada pasal 5 huruf c yang dilakukan oleh Pemerintah Daerah dalam bentuk: a. pelatihan keija;  
+1. Pemberdayaan terhadap korban tindak kekerasan sebagaimana dimaksud pada pasal 5 huruf c yang dilakukan oleh Pemerintah Daerah dalam bentuk:  
+a. pelatihan keija;  
 b. usaha ekonomis produktif dan kelompok usaha bersama- dan ’ c. bantuan permodalan.  
 2. Pemberdayaan sebagaimana dimaksud pada ayat 1 Perangka‘ SeSU?i de"gan tu8as
 
@@ -198,7 +205,8 @@ Perlindungan Anak Korban Tindak Kekerasan
 
 #### Pasal 12
 
-1. Perlindungan anak yang menjadi korban tindak kekerasan sebagaimana dimaksud pada pasal 5 huruf a menjadi tanggungjawab Pemerintah Daerah. (2) Perlindungan anak korban tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara: a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan, Penanganan korban dan sistem data dan informasi anak;  
+1. Perlindungan anak yang menjadi korban tindak kekerasan sebagaimana dimaksud pada pasal 5 huruf a menjadi tanggungjawab Pemerintah Daerah. (2) Perlindungan anak korban tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan dengan cara:  
+a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan, Penanganan korban dan sistem data dan informasi anak;  
 b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi sosial anak terlantar, baik di dalam lembaga maupun di luar lembaga;  
 c. menyediakan tempat penampungan, peme’iharaan dan perawatan anak terlantar; dan d. menyelenggarakan perlindungan khusus kepada anak.  
 
@@ -316,11 +324,13 @@ Koordinasi
 
 #### Pasal 22
 
-1. Bupati melakukan koordinasi perlindungan perempuan dan anak dari tindak kekerasan dengan: a. pemerintah;  
+1. Bupati melakukan koordinasi perlindungan perempuan dan anak dari tindak kekerasan dengan:  
+a. pemerintah;  
 b. pemerintah daerah Kabupaten/lain;  
 c. instansi vertikal;  
 d. lembaga pendidikan; dane. lembaga kemasyarakatan.  
-2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi: a. urusan keagamaan;  
+2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi:  
+a. urusan keagamaan;  
 b. urusan kesehatan;  
 b. urusan pendidikan;  
 c. urusan sosial;  
@@ -333,7 +343,8 @@ e. urusan tenaga kerja; dan £ urusan lainnya.
 
 #### Pasal 23
 
-(I) Setiap orang dapat berpatisipasi dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan; (2) Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara: a. melaporkan tindak kekerasan terhadap perempuan dan/atau anak;  
+(I) Setiap orang dapat berpatisipasi dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan; (2) Partisipasi sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan cara:  
+a. melaporkan tindak kekerasan terhadap perempuan dan/atau anak;  
 b. melakukan pertolongan pertama kepada korban Tindak Kekerasan;  
 C. mensosialisasikan hak perempuan dan anak secara mandiri; dan/atau d. membentuk lembaga sosial masyarakat yang mandiri.  
 

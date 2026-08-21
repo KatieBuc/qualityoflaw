@@ -14,11 +14,13 @@ PELINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a. bahwa untuk memulihkan harga diri dan martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -93,9 +95,11 @@ l. empati; danm. kepentingan terbaik bagi korban.
 
 #### Pasal 4
 
-1. Tujuan pelindungan perempuan korban kekerasan diarahkan untuk: a. menciptakan kondisi yang mendukung pengembangan potensi perempuan korban kekerasan;  
+1. Tujuan pelindungan perempuan korban kekerasan diarahkan untuk:  
+a. menciptakan kondisi yang mendukung pengembangan potensi perempuan korban kekerasan;  
 b. memperkuat potensi yang telah dimiliki oleh perempuan korban kekerasan; danc. meningkatkan keterampilan kerja perempuan korban kekerasan.  
-2. Tujuan pelindungan anak korban kekerasan diarahkan untuk: a. memberikan rehabilitasi sosial bagi anak korban kekerasan;  
+2. Tujuan pelindungan anak korban kekerasan diarahkan untuk:  
+a. memberikan rehabilitasi sosial bagi anak korban kekerasan;  
 b. menyatukan kembali anak korban kekerasan dengan keluarga dan/atau lingkungan; danc. meningkatkan keberdayaan anak korban kekerasan.  
 
 # BAB II
@@ -150,7 +154,8 @@ e. mudah dijangkau; danf. dijamin kerahasiaannya.
 
 #### Pasal 9
 
-1. Bentuk pelayanan pelindungan perempuan korban kekerasan antara lain: a. pelayanan bantuan hukum;  
+1. Bentuk pelayanan pelindungan perempuan korban kekerasan antara lain:  
+a. pelayanan bantuan hukum;  
 b. pelayanan kesehatan;  
 c. pelayanan rehabilitasi sosial;  
 d. pelayanan pemulangan dan reintegrasi sosial;  
@@ -181,7 +186,8 @@ Tahapan
 
 #### Pasal 11
 
-Tahapan pelindungan terhadap anak korban kekerasan meliputi: a. pencegahan kekerasan terhadap anak;  
+Tahapan pelindungan terhadap anak korban kekerasan meliputi:  
+a. pencegahan kekerasan terhadap anak;  
 b. penanganan anak korban kekerasan; danc. rehabilitasi anak korban kekerasan.  
 
 ## Bagian Kedua
@@ -200,7 +206,8 @@ b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarka
 
 #### Pasal 13
 
-Upaya pencegahan kekerasan terhadap anak selain dilaksanakan oleh perangkat daerah sebagaimana dimaksud dalam Pasal 12 dengan melibatkan: a. orang tua dan/atau keluarga;  
+Upaya pencegahan kekerasan terhadap anak selain dilaksanakan oleh perangkat daerah sebagaimana dimaksud dalam Pasal 12 dengan melibatkan:  
+a. orang tua dan/atau keluarga;  
 b. masyarakat;  
 c. lembaga pendidikan;  
 d. lembaga kesejahteraan sosial anak; dan/ataue. lembaga lainnya yang bergerak dibidang peduli pelindungan anak.  
@@ -212,7 +219,8 @@ Penanganan Anak Korban Kekerasan
 #### Pasal 14
 
 1. Penanganan anak korban kekerasan sebagaimana dimaksud dalamPasal 11 huruf b dilaksanakan sesuai ketentuan peraturan perundang- undangan.  
-2. Dalam melakukan penanganan anak korban kekerasan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah dapat bekerjasama dengan: a. instansi vertikal;  
+2. Dalam melakukan penanganan anak korban kekerasan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah dapat bekerjasama dengan:  
+a. instansi vertikal;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lainnya;  
 d. pemerintah desa;  
@@ -266,7 +274,8 @@ d. hak bebas dari berbagai stigma; dan/ataue. hak mendapatkan kebebasan.
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dan anak, dalam bentuk:a. mengumpulkan data dan menyelenggarakan sistem informasi pelindungan perempuan dan anak korban kekerasan;  
 b. melakukan pendidikan tentang nilai anti kekerasan terhadap perempuan dan anak; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan pemberdayaan perempuan dan pelindungan anak korban kekerasan.  
-2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk menyediakan dan menyelenggarakan layanan bagi Korban dalam bentuk: a. mendirikan dan menyelenggarakan lembaga pelayanan teknis untuk Korban dengan melibatkan unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya pelindungan terhadap Korban kekerasan.  
+2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk menyediakan dan menyelenggarakan layanan bagi Korban dalam bentuk:  
+a. mendirikan dan menyelenggarakan lembaga pelayanan teknis untuk Korban dengan melibatkan unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya pelindungan terhadap Korban kekerasan.  
 
 # BAB VI
 

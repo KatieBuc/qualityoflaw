@@ -14,6 +14,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan  prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwa pemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk  berperan serta dalam pembangunan sesuai dengan  kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapatkan perlindungan khusus agar tidak mengalami  kekerasan dan dapat menjalani hidup layak sesuai prinsip  kemanusiaan kesetaraan dan keadilan;  
@@ -98,7 +99,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas-asas dalam Pemberdayaan perempuan dan perlindungan anak ini adalah: a. Non diskriminasi;  
+Asas-asas dalam Pemberdayaan perempuan dan perlindungan anak ini adalah:  
+a. Non diskriminasi;  
 b. Kepentingan terbaik bagi anak;  
 c. Hakuntukhidup, kelangsungan hidup dan perkembangan;  
 d. Penghargaan terhadap pendapat anak;  
@@ -110,7 +112,8 @@ g. Kepastian hukum
 
 #### Pasal 3
 
-Sistem Pemberdayaan perempuan dan perlindungan anak bertujuan untuk: a. meningkatkan kualitas hidup perempuan, anak, dan kualitas keluarga;  
+Sistem Pemberdayaan perempuan dan perlindungan anak bertujuan untuk:  
+a. meningkatkan kualitas hidup perempuan, anak, dan kualitas keluarga;  
 b. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistim data gender  dan anak;dan
 c. memberikan perlindungan hak perempuan dan pemenuhan hak anak  termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan  dan perlakuan diskriminatif lainnya.  
 
@@ -137,26 +140,30 @@ Dalam rangka menyelenggarakan tujuan sebagaimana dimaksud dalam Pasal 3  huruf c
 
 #### Pasal 7
 
-Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut: a. memperkuat mekanisme koordinasi dan jejaring antar unit layanan dalam  upaya penanganan kasus-kasus kekerasan;  
+Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
+a. memperkuat mekanisme koordinasi dan jejaring antar unit layanan dalam  upaya penanganan kasus-kasus kekerasan;  
 b. menyediakan materi-materi Komunikasi, Informasi, dan Edukasi (KIE) terkait  pencegahan dan penanganan kekerasan;  
 c. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  pencegahan dan penanganan kekerasan.  
 
 #### Pasal 8
 
-Upaya preventif sebagaimana dimaksud dalam Pasal 6adalah sebagai berikut: a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya bagi  perempuan dan anak;  
+Upaya preventif sebagaimana dimaksud dalam Pasal 6adalah sebagai berikut:  
+a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya bagi  perempuan dan anak;  
 b. mengadakan gerakan masif dan berkelanjutan yang melibatkan masyarakat  dalam aksi pencegahan dan penanganan kekerasan;  
 c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  
 d. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan  perempuan dan perlindungan anak.  
 
 #### Pasal 9
 
-Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut: a. mengoptimalkan layanan teknis terkait pengaduan kekerasan terhadap  perempuan dan anak;  
+Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
+a. mengoptimalkan layanan teknis terkait pengaduan kekerasan terhadap  perempuan dan anak;  
 b. menyediakan sarana dan prasarana yang memadai untuk penanganan  rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan  bantuan hukum;  
 c. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat, dan akurat oleh aparat penegak hukum.  
 
 #### Pasal 10
 
-Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut: a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/ pendamping  spiritual, pengacara, tenaga medis;  
+Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
+a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan yang  meliputi antara lain tenaga psikolog, psikiater, rohaniawan/ pendamping  spiritual, pengacara, tenaga medis;  
 b. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
 
 9 -

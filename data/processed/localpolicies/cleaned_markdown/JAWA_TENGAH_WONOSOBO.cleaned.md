@@ -12,12 +12,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa masalah sosial perempuan dan anak di Kabupaten  Wonosobo terus meningkat dan semakin kompleks,  sehingga diperlukan upaya penanggulangan secara  menyeluruh, terpadu dan berkelanjutan yang  diselenggarakan oleh Pemerintah Daerah, masyarakat dan  dunia usaha;  
 b. bahwa penyelenggaraan perlindungan sosial bagi  perempuan dan anak masih terdapat kesenjangan dalam  penanganannya sehingga perlu mendapat prioritas sesuai  dengan yang dibutuhkan;  
 c. bahwa urusan sosial merupakan urusan wajib yang  menjadi tugas dan tanggung jawab Pemerintah Daerah,  sehingga diperlukan pengaturan mengenai perlindungan  sosial bagi perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf c maka perlu membentuk  Peraturan Daerah Kabupaten Wonosobo tentang  Perlindungan Sosial Bagi Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indobesia Tahun 1945;  
 
@@ -128,7 +130,8 @@ h. perempuan dan anak korban perdagangan orangi. anak berkebutuhan khususj. anak
 
 #### Pasal 4
 
-Perlindungan sosial bagi perempuan dan anak dalam bentuk: a. bantuan Sosial;  
+Perlindungan sosial bagi perempuan dan anak dalam bentuk:  
+a. bantuan Sosial;  
 b. advokasi Sosial; dan/atauc. bantuan hukum.  
 
 # BAB III
@@ -374,7 +377,8 @@ Pembinaan
 
 #### Pasal 30
 
-Pemerintah Daerah melakukan pembinaan perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak, meliputi: a. Koordinasi;  
+Pemerintah Daerah melakukan pembinaan perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak, meliputi:  
+a. Koordinasi;  
 b. Penetapan pedoman dan standar;  
 c. Pemberian penyuluhan, bimbingan, supervisi, dan konsultasi;  
 d. Penelitian, pemantauan, dan evaluasi.  
@@ -427,7 +431,8 @@ Pengawasan
 
 1. Setiap organisasi sosial yang telah mendapatkan izin dalam  penyelenggaraan perlindungan sosial dan penyelenggaraan kesejahteraan  sosial bagi perempuan dan anak, yang dengan sengaja tidak memberikan  pelayanan sosial sebagaimana dimaksud dalam Pasal 28 ayat (5), dapat  dikenakan sanksi administrasi.  
 2. Setiap organisasi sosial yang menyelenggarakan perlindungan sosial dan  penyelenggaraan kesejahteraan sosial bagi perempuan dan anak tanpa izin  sebagaimana dimaksud dalam Pasal 28 ayat (6), dapat dikenakan sanksi  administrasi.  
-3. Sanksi administrasi sebagaimana dimaksud pada ayat (1), dapat berupa: a. teguran lisan;  
+3. Sanksi administrasi sebagaimana dimaksud pada ayat (1), dapat berupa:  
+a. teguran lisan;  
 b. teguran tertulis;  
 c. pencabutan izin.  
 

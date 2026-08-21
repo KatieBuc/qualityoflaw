@@ -30,6 +30,7 @@ PEMBERDAYAAN PEREMPUAN DAN PERLINDUNGAN ANAK PEMBERDAYAAN PEREMPUAN DAN PERLINDU
 
 Menimbang:  
  
+ 
 a. bahwa bahwa untuk menjamin pemberdayaan perempuan dan untuk menjamin pemberdayaan perempuan dan perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi, dan pelanggaran lainnya;  
 
 kekerasan, diskriminasi, dan pelanggaran lainnya;  
@@ -44,6 +45,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana bahwa berdasarkan pertimbangan seb
 Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang
 
@@ -308,7 +310,8 @@ Orang Tua dan Keluarga
 
 #### Pasal 18
 
-Keluarga dalam upaya perlindungan terhadap hak perempuan berperan: a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga  yang merendahkan martabat perempuan;  
+Keluarga dalam upaya perlindungan terhadap hak perempuan berperan:  
+a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga  yang merendahkan martabat perempuan;  
 b. memberikan kesempatan yang sama pada perempuan mengembangkan  diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; dan c. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah  tangga.  
 
 #### Pasal 19
@@ -384,7 +387,8 @@ c. rehabilitasi sosial;
 d. bimbingan rohani;  
 e. pendampingan;  
 f. penegakan dan bantuan hukum; dang. pemulangan dan reintegrasi sosial.  
-4. Dalam melaksanakan fungsinya UPTD PPA berkewajiban: a. memberikan pelayanan dan penanganan secepat mungkin kepada  perempuan dan anak yang mengalami permasalahan;  
+4. Dalam melaksanakan fungsinya UPTD PPA berkewajiban:  
+a. memberikan pelayanan dan penanganan secepat mungkin kepada  perempuan dan anak yang mengalami permasalahan;  
 b. memberikan kemudahan, kenyamanan, keselamatan dan bebas biaya  kepada perempuan dan anak yang mengalami permasalahan;  
 c. menjaga kerahasiaan perempuan dan anak yang mengalami  permasalahan;  
 d. menjamin keadilan dan kepastian hukum bagi perempuan dan anak  yang mengalami permasalahan.  
@@ -466,7 +470,8 @@ c. pembahasan kasus; dand. kunjungan ke lokasi.
 1. Pemerintah Daerah dapat menyediakan rumah aman terhadap  perempuan dan anak yang mengalami permasalahan pidana dan/atau  perdata.  
 2. Pelayanan penyediaan rumah aman bertujuan untuk melindungi  perempuan dan anak sebagai korban atas permasalahan pidana dan/atau perdata dari intimidasi pelaku atau pihak lain.  
 3. Lokasi rumah aman sebagaimana dimaksud pada ayat (1) harus  dirahasiakan.  
-4. Kriteria perempuan dan anak sebagai korban atas permasalahan pidana  dan/atau perdata yang memerlukan rumah aman meliputi: a. terancam jiwanya;  
+4. Kriteria perempuan dan anak sebagai korban atas permasalahan pidana  dan/atau perdata yang memerlukan rumah aman meliputi:  
+a. terancam jiwanya;  
 b. mendapatkan penolakan dari keluarga atau masyarakat;  
 c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh;  dan/ataud. terlantar jika tidak ditempatkan dalam rumah aman.  
 
@@ -521,25 +526,29 @@ b. menyediakan layanan bagi keluarga dalam mewujudkan kesetaraan  gender dan hak
 
 #### Pasal 37
 
-Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga  sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf a meliputi: a. pembinaan;  
+Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga  sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf a meliputi:  
+a. pembinaan;  
 b. bimbingan; danc. supervisi.  
 
 #### Pasal 38
 
-Pembinaan sebagaimana dimaksud dalam Pasal 37 huruf a, meliputi: a. tumbuh kembang Anak balita;  
+Pembinaan sebagaimana dimaksud dalam Pasal 37 huruf a, meliputi:  
+a. tumbuh kembang Anak balita;  
 b. perlindungan terhadap kesehatan reproduksi remaja;  
 c. pendewasaan usia perkawinan;  
 d. pengaturan kelahiran; dane. meningkatkan kualitas kesehatan ibu hamil dan menyusui.  
 
 #### Pasal 39
 
-Bimbingan sebagaimana dimaksud Pasal 37 huruf b meliputi: a. melakukan penyuluhan peningkatan kualitas hidup perempuan;  
+Bimbingan sebagaimana dimaksud Pasal 37 huruf b meliputi:  
+a. melakukan penyuluhan peningkatan kualitas hidup perempuan;  
 b. melakukan penyuluhan pranikah.  
 c. fasilitasi penyelenggaraan pembangunan keluarga;  
 
 #### Pasal 40
 
-Supervisi sebagaimana dimaksud dalam Pasal 37 huruf c meliputi: a. melakukan evaluasi data tumbuh kembang anak balita;  
+Supervisi sebagaimana dimaksud dalam Pasal 37 huruf c meliputi:  
+a. melakukan evaluasi data tumbuh kembang anak balita;  
 b. melakukan evaluasi data pasca perkawinan.  
 
 #### Pasal 41
@@ -557,8 +566,10 @@ Komunikasi, informasi dan edukasi sebagaimana dimaksud dalam Pasal 41 huruf a me
 
 1. Instansi dan pihak swasta yang menyelenggarakan pelayanan publik  wajib menyediakan ruangan laktasi.  
 2. Ruangan laktasi sebagaimana dimaksud pada ayat (1) merupakan  ruangan yang layak dan memadai.  
-3. Pimpinan Instansi yang tidak menyediakan ruangan laktasi sebagaimana  dimaksud pada ayat (1) dikenakan sanksi administratif berupa: a. teguran tertulis; dan/ataub. sanksi kepegawaian berdasarkan ketentuan Peraturan Perundang Undangan.  
-4. Pihak swasta yang tidak menyediakan ruangan laktasi sebagaimana  dimaksud pada ayat (2) dikenai sanksi administratif berupa: a. peringatan tertulis;  
+3. Pimpinan Instansi yang tidak menyediakan ruangan laktasi sebagaimana  dimaksud pada ayat (1) dikenakan sanksi administratif berupa:  
+a. teguran tertulis; dan/ataub. sanksi kepegawaian berdasarkan ketentuan Peraturan Perundang Undangan.  
+4. Pihak swasta yang tidak menyediakan ruangan laktasi sebagaimana  dimaksud pada ayat (2) dikenai sanksi administratif berupa:  
+a. peringatan tertulis;  
 b. pembatasan kegiatan usaha;  
 c. pembekuan kegiatan usaha;  
 d. denda administratif; dan/ataue. pencabutan izin.  
@@ -677,7 +688,8 @@ d. pentingnya makanan bergizi; dane. bahaya narkoba dan merokok.
 #### Pasal 56
 
 1. Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam  Pasal 54 ayat (2) huruf a ditujukan untuk mencegah terjadinya penyakit  atau permasalahan kesehatan.  
-2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan: a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai  usia 6 (enam) bulan;  
+2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
+a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai  usia 6 (enam) bulan;  
 b. pemberian imunisasi dan vitamin gratis pada bayi dan balita;  
 c. pemberian makanan bergizi kepada balita dari keluarga kurang  mampu;  
 d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagi ibu  dan balita;  

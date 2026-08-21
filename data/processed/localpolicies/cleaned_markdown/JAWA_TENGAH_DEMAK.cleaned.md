@@ -14,6 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 Menimbang:  
  
+ 
 a. b.  
 c. d. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
@@ -24,6 +25,7 @@ bahwa berdasarkan Undang-undang Nomor 23 tahun  2002 tentang Perlindungan Anak d
 bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Perlindungan Terhadap  Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
 1 Pasal 18 ayat (6) Undang – Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -97,7 +99,8 @@ a. Non diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kela
 
 #### Pasal 3
 
-Tujuan perlindungan korban kekerasan berbasis gender dan anak meliputi: a. memberikan rasa aman bagi korban;  
+Tujuan perlindungan korban kekerasan berbasis gender dan anak meliputi:  
+a. memberikan rasa aman bagi korban;  
 b. mendapatkan penanganan hukum; danc. mengupayakan pemulihan dan reintegrasi sosial.  
 
 # BAB II
@@ -106,7 +109,8 @@ b. mendapatkan penanganan hukum; danc. mengupayakan pemulihan dan reintegrasi so
 
 #### Pasal 4
 
-1. Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak: a. memperoleh perlindungan atas keamanan pribadi, keluarga dan harta  bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan  yang akan, sedang, atau telah diberikan;  
+1. Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak:  
+a. memperoleh perlindungan atas keamanan pribadi, keluarga dan harta  bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan  yang akan, sedang, atau telah diberikan;  
 b. untuk ikut serta dalam proses memilih dan menentukan bentuk  perlindungan dan dukungan keamanan;  
 c. mendapatkan informasi mengenai perkembangan kasus dan putusan  pengadilan;  
 d. mendapatkan pelayanan terpadu yang cepat, tepat, nyaman, dan sesuai  kebutuhan;  
@@ -203,7 +207,8 @@ Perlindungan Hukum
 
 #### Pasal 12
 
-Perlindungan hukum sebagaimana dimaksud dalam Pasal 8 huruf c meliputi: a. melakukan pendampingan dalam proses hukum;  
+Perlindungan hukum sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:  
+a. melakukan pendampingan dalam proses hukum;  
 b. memberikan perlindungan hukum secara khusus bagi anak korban kekerasan  dapat dilakukan dengan penunjukan perwalian sesuai dengan peraturan yang  berlaku.  
 
 ## Bagian Ketujuh

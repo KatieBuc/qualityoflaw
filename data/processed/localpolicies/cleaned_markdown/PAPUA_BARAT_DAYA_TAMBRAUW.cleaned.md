@@ -16,6 +16,7 @@
 
 Menimbang:  
  
+ 
 bahwa tindakan dan perlakuan kekerasan terhadap perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 
 bahwa penyelenggaraan pencegahan dan perlindungan terhadap perempuan dan anak sebagai korban tindak kekerasan di Kabupaten Tambrauw selama ini belum dilakukan optimal;  

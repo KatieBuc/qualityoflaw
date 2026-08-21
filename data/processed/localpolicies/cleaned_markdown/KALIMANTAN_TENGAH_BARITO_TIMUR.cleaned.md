@@ -14,6 +14,7 @@ PERATuRANDAERAHI(ABUPATENBARIToTIMUR NOMOR s TAHUN 2Ot9
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekeraslan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya setragai mariusia;  
 b. bahwa perilaku negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanal atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum seharusnya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap marnpu menjalankan kehidupannya dalam pergauian sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyeienggarakan perlindungan perempuan dan anak;  
@@ -243,7 +244,8 @@ keluarga; dafl orang tua.
 
 #### Pasal 6
 
-Kewqjiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi: a. melaksanakan kewajiban perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
+Kewqjiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi:  
+a. melaksanakan kewajiban perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 
 menetapkan kebijakan, program dan kegiatan
 b. perlindungan perempuan dan anak dari tindak kekerasan;  

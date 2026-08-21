@@ -16,6 +16,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak yang dapat menimbulkan korban fisik maupun psikis merupakan pelanggaran hak asasi manusia, diskriminasi  terhadap perempuan dan anak dan kejahatan terhadap  martabat manusia sehingga menghambat terciptanya keadilan  dan kesetaraan gender;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman dan bebas dari segala perbuatan kekerasan yang dijamin peraturan perundang-undangan;  
 c. bahwa pemerintah daerah berkewajiban untuk mengatur dan  mengurus penanganan serta memberikan pelayanan bagi  perempuan dan anak korban tindak kekerasan yang meliputi  dari segi penegakan hukum, perlindungan hukum, pelayanan  kesehatan, dan spiritual;  
@@ -23,6 +24,7 @@ d. bahwa untuk meningkatkan perlindungan bagi perempuan dan anak korban kekerasa
 e. bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, huruf b, huruf c dan huruf d, perlu menetapkan Peraturan Daerah Kabupaten Lamandau tentang Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak.  
 
 Mengingat:  
+ 
  
 1. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia  Tahun 1979 Nomor 32, Tambahan Lembaran Negara  Republik Indonesia Nomor 3143);  
 
@@ -133,7 +135,8 @@ t. Setiap anak yang menjadi korban atau pelaku tindak pidana berhak  mendapatkan
 
 #### Pasal 5
 
-Korban kekerasan dalam rumah tangga berhak mendapatkan: a. Perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan,  bantuan hukum, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
+Korban kekerasan dalam rumah tangga berhak mendapatkan:  
+a. Perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan,  bantuan hukum, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 b. Pelayanan kesehatan sesuai dengan kebutuhan medis;  
 c. Penanganan secara khusus berkaitan dengan kerahasiaan korban;  
 d. Pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan; dane. Pelayanan bimbingan rohani.  
@@ -259,7 +262,8 @@ Dalam memberikan pelayanan, pembimbing rohani harus memberikan  penjelasan menge
 
 #### Pasal 25
 
-Dalam hal memberikan perlindungan dan pelayanan, advokat wajib: a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak  korban dan proses peradilan;  
+Dalam hal memberikan perlindungan dan pelayanan, advokat wajib:  
+a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak  korban dan proses peradilan;  
 b. Mendampingi korban ditingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan dalam rumah tangga yang dialaminya; danc. Melakukan koordinasi dengan sesama penegak hukum, relawan pendamping,  dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 26
@@ -334,7 +338,8 @@ b. Mengubah atau membatalkan suatu kondisi khusus dari perintah  perlindungan.
 
 #### Pasal 38
 
-Untuk kepentingan pemulihan, korban dapat memperoleh pelayanan dari: a. Tenaga kesehatan;  
+Untuk kepentingan pemulihan, korban dapat memperoleh pelayanan dari:  
+a. Tenaga kesehatan;  
 b. Pekerja sosial;  
 c. Relawan pendamping; dand. Pembimbing rohani.  
 
@@ -353,7 +358,8 @@ Pekerja sosial, relawan pendamping, dan/atau pembimbing rohani wajib  memberikan
 #### Pasal 41
 
 1. Dalam rangka pelayanan perlindungan kepada perempuan dan anak dari  korban kekerasan, Pemerintah Daerah membetuk P2TP2A.  
-2. Keanggotaan P2TP2A sebagaimana dimaksud (1), terdiri dari: a. unsur pemerintah daerah;  
+2. Keanggotaan P2TP2A sebagaimana dimaksud (1), terdiri dari:  
+a. unsur pemerintah daerah;  
 b. unsur masyarakat; danc. unsur akademisi.  
 3. Keanggotaan P2TP2A sebagaimana dimaksud pada ayat (2), ditetapkan  dengan Keputusan Bupati.  
 
@@ -364,7 +370,8 @@ b. unsur masyarakat; danc. unsur akademisi.
 
 #### Pasal 43
 
-Program-program yang dapat dilakukan oleh Pusat Pelayanan Terpadu  Pemberdayaan Perempuan dan Anak (P2TP2A) antara lain adalah: a. Pemberdayaan perempuan.  
+Program-program yang dapat dilakukan oleh Pusat Pelayanan Terpadu  Pemberdayaan Perempuan dan Anak (P2TP2A) antara lain adalah:  
+a. Pemberdayaan perempuan.  
 b. Perlindungan perempuan dan anak dari tindak kekerasan dan perdagangan  orang.  c. Kemunikasi, informasi dan edukasi.  d. Peningkatan partisipasi anggota masyarakat.  e. Peningkatan kapasitas pengelola.  
 
 #### Pasal 44

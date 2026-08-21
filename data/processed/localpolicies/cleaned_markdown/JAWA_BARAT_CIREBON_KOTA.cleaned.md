@@ -16,11 +16,13 @@ PELINDUNGAN PEREMPUAN DARI KEKERASAN, EKSPLOITASI DAN  DISKRIMINASI
 
 Menimbang:  
  
+ 
 a. bahwa setiap perempuan berhak untuk mendapatkan  rasa aman dan pelindungan dari segala bentuk kekerasan, eksploitasi, penyiksaan, diskriminasi, dan perlakuan salah lainnya yang merendahkan harkat dan martabat manusia serta melanggar hak asasi manusia;  
 b. bahwa untuk memastikan pencegahan dan penanganan  tindak kekerasan terhadap perempuan secara cepat, akurat, menyeluruh, dan terintegrasi, diperlukan pengaturan mengenai pelindungan terhadap perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dari Kekerasan, Eksploitasi dan Diskriminasi;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -253,7 +255,8 @@ Umum
 
 #### Pasal 12
 
-1. Bentuk pelayanan pelindungan perempuan korban  kekerasan, eksploitasi dan diskriminasi, meliputi layanan: a. pengaduan;  
+1. Bentuk pelayanan pelindungan perempuan korban  kekerasan, eksploitasi dan diskriminasi, meliputi layanan:  
+a. pengaduan;  
 b. rehabilitasi kesehatan;  
 c. kesehatan reproduksi;  
 d. rehabilitasi sosial;  
@@ -391,7 +394,8 @@ f. pengendalian, pembinaan dan pengawasan;dan g. pembiayaan.
 3. Penguatan partisipasi masyarakat sebagaimana dimaksud  pada ayat (1), dapat dilakukan dengan:a. penguatan kerja sama;danb. penguatan kapasitas kelembagaan pencegahan dan  layanan dari masyarakat, lembaga pendidikan  berasrama, dan dunia usaha.  
 4. Dunia usaha memiliki tanggungjawab dalam pelaksanaan  Pelindungan Perempuan sesuai dengan sasaran Tanggung  Jawab Sosial dan Lingkungan Badan Usaha.  
 
-14 - (5) Bentuk tanggungjawab dunia usaha sebagaimana  dimaksud pada ayat (4), dilakukan sebagai berikut: a. bantuan pembiayaan kepada lembaga layanan;  
+14 - (5) Bentuk tanggungjawab dunia usaha sebagaimana  dimaksud pada ayat (4), dilakukan sebagai berikut:  
+a. bantuan pembiayaan kepada lembaga layanan;  
 b. pemberdayaan;  
 c. peningkatan kapasitas;  
 d. media publikasi dan informasi;  
@@ -452,7 +456,8 @@ Ketentuan lebih lanjut mengenai pembentukan dan struktur  PPT sebagaimana dimaks
 
 #### Pasal 30
 
-1. Kewajiban Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan, sebagai berikut: a. menyusun kebijakan dan memasukkan program  Pelindungan Perempuan dalam perencanaan dan  penganggaran pembangunan daerah;  
+1. Kewajiban Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan, sebagai berikut:  
+a. menyusun kebijakan dan memasukkan program  Pelindungan Perempuan dalam perencanaan dan  penganggaran pembangunan daerah;  
 b. menyediakan pelayanan pengaduan, kesehatan,  rehabilitasi sosial, bantuan dan penegakan hukum serta pemulangan dan reintegrasi sosial bagi  perempuan korban;  
 c. mendirikan layanan shelter dan/atau rumah aman;  
 d. membentuk mekanisme khusus pelayanan terpadu  berbasis rumah sakit;  

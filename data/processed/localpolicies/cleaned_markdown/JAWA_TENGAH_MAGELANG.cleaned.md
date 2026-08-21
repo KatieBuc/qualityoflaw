@@ -8,11 +8,13 @@
 
 TERHADAP TINDAK KEKERASAN DAN DISKRIMINASI DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI MAGELANG, Menimbang:  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anakdari tindak kekerasan dan diskriminasi bertujuan untuk mewujudkan hak konstitusional dan hak asasi manusia sesuai dengan nilai-nilai Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa berdasarkan Undang-Undang Nomor 23Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, dan pemulihan terhadap perempuan dan anak korban kekerasan dan diskriminasi;  
 c. bahwa berdasarkan pertimbangan sebagaimanadimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Terhadap Tindak Kekerasan dan Diskriminasi;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar NegaraRepublik Indonesia Tahun 1945;  
 
@@ -100,7 +102,8 @@ e. memberikan pelayanan dan perlindungan kepada perempuan dananak korban tindak 
 #### Pasal 4
 
 1. Untuk mencegah terjadinya tindak kekerasan dan diskriminasi terhadap perempuan dan anak, Pemerintah Daerah melakukanpemberdayaan dan penyadaran kepada keluarga, orangtua, danmasyarakat dengan memberikan informasi, bimbingan dan/ataupenyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud padaayat (1), Pemerintah Daerah melakukan upaya sebagai berikut: a. peningkatan jumlah dan mutu pendidikan baik formal maupunnon formal dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud padaayat (1), Pemerintah Daerah melakukan upaya sebagai berikut:  
+a. peningkatan jumlah dan mutu pendidikan baik formal maupunnon formal dan informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanansosial;  
 c. memfasilitasi pemenuhan lapangan kerja bagi perempuan;  
 d. mendorong partisipasi dan kepedulian masyarakat terhadappencegahan perlindungan perempuan dan anak dari tindakkekerasan dan diskriminasi;  
@@ -224,7 +227,8 @@ Kewajiban keluarga sebagaimana dimaksud dalam Pasal 10 huruf dmemiliki tanggung 
 #### Pasal 14
 
 1. Dalam rangka pelayanan terhadap perempuan dan anak korbantindak kekerasan dan diskriminasi sebagaimana dimaksud dalamPasal 7, Pemerintah Daerah membentuk Kelembagaan dengannama Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan -11- Anak (P2TP2A) atau lembaga sejenisnya yang memiliki fungsi danperan yang sama sebagai pusat pelayanan dalam perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi.  
-2. P2TP2A sebagaimana dimaksud pada ayat (1), berfungsi sebagai: a. pusat informasi bagi perempuan dan anak;  
+2. P2TP2A sebagaimana dimaksud pada ayat (1), berfungsi sebagai:  
+a. pusat informasi bagi perempuan dan anak;  
 b. pusat pelayanan bagi perempuan dan anak korban kekerasan; danc. pusat pemberdayaan bagi perempuan dan anak.  
 3. P2TP2A sebagaimana dimaksud pada ayat (1) berkedudukan di Daerah dan Kecamatan.  
 4. Dalam rangka pelayanan perlindungan perempuan dan anak dari tindak kekerasan di tingkat desa dibentuk Pusat PelayananTerpadu.  
@@ -271,7 +275,8 @@ Kemitraan
 #### Pasal 19
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usahadalam perlindungan perempuan dan anak dari tindak kekerasandan diskriminasi.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuankorban tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuankorban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindakkekerasan;  
 13-
 c. bantuan pendidikan bagi perempuan dan anak korban tindakkekerasan yang tercabut dari pendidikannya;  
@@ -285,7 +290,8 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak keke
 #### Pasal 20
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaanpenyelenggaraan perlindungan perempuan dan anak dari tindakkekerasan dan diskriminasi.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. pemantauan; dand. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) dilakukan dalamrangka mewujudkan tujuan perlindungan perempuan dan anakdari tindak kekerasan sesuai standar pelayanan minimal yangdilaksanakan Perangkat Daerah yang menyelenggarakan urusanpemerintahan di bidang pemberdayaan perempuan danperlindungan anak.  

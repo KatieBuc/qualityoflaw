@@ -14,6 +14,7 @@ PELAYANAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a.  
 b. c. bahwa kekerasan dan diskriminasi dalam bentuk apapun,  terhadap perempuan dan anak adalah merupakan  pelanggaran terhadap Hak Asasi Manusia, oleh karena itu  kekerasan dan diskriminasi terhadap perempuan dan  anak yang terjadi di Kabupaten Manggarai Barat, harus  mendapatkan pelayanan dan perlindungan secara  optimal;  
 
@@ -22,6 +23,7 @@ bahwa penyediaan layanan bagi perempuan korban  kekerasan dan perlindungan anak 
 bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu membentuk  Peraturan Daerah tentang Pelayanan dan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 www.jdih.manggaraibaratkab.go.id Mengingat:  
+ 
  
 1. 2.  
 
@@ -106,7 +108,8 @@ www.jdih.manggaraibaratkab.go.id
 b. Melakukan pendidikan tentang nilai - nilai anti kekerasan  terhadap perempuan dan anak;  
 c. Melakukan sosialisasi Peraturan Perundang-undangan yang  berkaitan dengan penyelenggaraan perlindungan perempuan dan  anak korban kekerasan;  
 d. Melakukan pemantauan dan evaluasi terhadap penyelenggaraan  pelayanan dan perlindungan perempuan dan anak korban  kekerasan;  
-2. Untuk mengantisipasi terjadinya tindak kekerasan, Pemerintah Daerah menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk: a. Mendirikan dan memfasilitasi terselenggaranya lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat;  
+2. Untuk mengantisipasi terjadinya tindak kekerasan, Pemerintah Daerah menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
+a. Mendirikan dan memfasilitasi terselenggaranya lembaga layanan  terpadu untuk korban dengan melibatkan unsur masyarakat;  
 b. Mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap korban.  
 3. Pemerintah Daerah dalam menyediakan dan menyelenggarakan layanan  sebagaimana dimaksud pada ayat (1) dan ayat (2) harus memperhatikan  hak dan kewajiban orang tua, wali, suami atau orang lain yang secara  hukum bertanggung jawab terhadap korban.  
 

@@ -14,12 +14,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa Perempuan dan Anak berhak mendapatkan perlindungan dari penyiksaan, ancaman, tekanan, serta berhak mendapatkan perlakuan dan kesempatan yang sama untuk mendapatkan keadilan dan kesejahteraan hidup sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa Pemberdayaan Perempuan dan melindungi hak-hak Anak menjadi kewajiban Pemerintah Daerah dan Masyarakat di Daerah;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b dan huruf H Pembagian Urusan Pemerintahan Bidang Pemberdayaan Perempuan dan Perlindungan Anak Lampiran Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, Pemerintah Daerah berwenang menyelenggarakan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Undang-Undang Nomor 4 tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Republik Indonesia Nomor 3143);  
 
@@ -411,7 +413,8 @@ c. pemberian pelayanan program tumbuh kembang Anak dan pola asuh Anak;
 d. penyediaan tempat penitipan Anak;  
 e. penyediaan tempat bermain; danf. penyediaan ruangan khusus menyusui pada tempat tertentu.  
 2. Perlindungan Anak Balita dapat dilaksanakan melalui model PSTPA dan kelompok bermain.  
-3. PSTPA dan/atau kelompok bermain sebagaimana dimaksud pada ayat (2) harus memenuhi persyaratan sebagai berikut: a. telah terdaftar dan mendapat rekomendasi dari SKPD terkait di lingkungan Pemerintah Daerah;  
+3. PSTPA dan/atau kelompok bermain sebagaimana dimaksud pada ayat (2) harus memenuhi persyaratan sebagai berikut:  
+a. telah terdaftar dan mendapat rekomendasi dari SKPD terkait di lingkungan Pemerintah Daerah;  
 b. memiliki sumber daya manusia dan sumber dana yang memadai untuk mengelola PSTPA dan/atau kelompok bermain; danc. memiliki sarana dan prasarana sesuai dengan pedoman pelayanan di PSTPA dan/atau kelompok bermain.  
 4. Perlindungan Anak Balita dapat dilaksanakan jika dalam kondisi khusus atau urgen.  
 
@@ -889,7 +892,8 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Huruf a Angka 1 Angka 2 Angka 3 Cukup jelas.  
 
-memeras Yang dimaksud dengan perlakuan salah meliputi: a. Perlakuan eksploitasi, misalnya tindakan atau perbuatan memperalat, memanfaatkan, atau Anak untuk memperoleh keuntungan pribadi, keluarga, atau golongan. b. Perlakuan penelantaran, misalnya tindakan atau perbuatan mengabaikan dengan sengaja kewajiban untuk memelihara, merawat, atau mengurus Anak sebagaimana mestinya.  
+memeras Yang dimaksud dengan perlakuan salah meliputi:  
+a. Perlakuan eksploitasi, misalnya tindakan atau perbuatan memperalat, memanfaatkan, atau Anak untuk memperoleh keuntungan pribadi, keluarga, atau golongan. b. Perlakuan penelantaran, misalnya tindakan atau perbuatan mengabaikan dengan sengaja kewajiban untuk memelihara, merawat, atau mengurus Anak sebagaimana mestinya.  
 
 Cukup jelas.  
 

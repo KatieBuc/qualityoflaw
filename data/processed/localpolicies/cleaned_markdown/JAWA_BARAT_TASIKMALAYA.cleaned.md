@@ -18,12 +18,14 @@ Revisi Hasil Pembahasan 22 mei 2019
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama dan  setara untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan dan anak merupakan kelompok  masyarakat yang rentan terhadap tindakan ketidakadilan dan ketidaksetaraan serta tindak kekerasan yang dapat mencederai hak dan martabatnya sebagai manusia;  
 c. bahwa maraknya kasus kekerasan terhadap perempuan dan anak di Kabupaten Tasikmalaya diperlukan penanganan dan tindakan nyata dari Pemerintah Daerah untuk menghapuskan segala bentuk kekerasan terhadap perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -106,7 +108,8 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.
 
 #### Pasal 3
 
-Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang: a. ekonomi;  
+Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang:  
+a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum.  
 
@@ -390,7 +393,8 @@ Perlindungan Anak Korban Kekerasan baik Fisik dan/atau Mental dan Anak yang Meny
 
 1. Perlindungan Khusus bagi anak korban kekerasan baik fisik dan/atau  mental dan anak difabel yang menyandang cacat sebagaimana dimaksud  dalam 17 huruf f dilakukan melalui upaya:a. penyebarluasan dan sosialisasi ketentuan peraturan perundang undangan yang melindungi anak menjadi korban kekerasan;  
 b. memperoleh perlakuan yang sama dengan anak lainnya untuk  mencapai integrasi sosial sepenuh mungkin dan pengembangan  individu; danc. pemenuhan kebutuhan-kebutuhan khusus.  
-2. Penyelenggaraan perlindungan khusus bagi anak yang menjadi korban  kekerasan baik fisik dan/atau mental dan anak yang menyandang Cacat  sebagaimana dimaksud dalam ayat (1) dilakukan dalam bentuk: a. Layanan Pencegahan, yang meliputi:
+2. Penyelenggaraan perlindungan khusus bagi anak yang menjadi korban  kekerasan baik fisik dan/atau mental dan anak yang menyandang Cacat  sebagaimana dimaksud dalam ayat (1) dilakukan dalam bentuk:  
+a. Layanan Pencegahan, yang meliputi:
 1. membuat kebijakan pemenuhan kebutuhan khusus bagi anak yang  menyandang cacat dan anak yang mengalami gangguan psikososial; 2. memberikan jaminan pendidikan bagi anak korban kekerasan baik  fisik dan/atau mental dan anak yang menyandang cacat;  
 3. memberikan jaminan perlindungan dari segala bentuk kekerasan,  eksploitasi,penelantaran dan perlakuan yang salah bagi anak yang  menyandang cacat;  
 4. memberikan sosialisasi dan peningkatan kesadaran orang tua  dan/atau masyarakat, pers, pendidik, oleh pemerintah dan aparat  penegak hukum tentang dampak buruk kekerasan;  
@@ -440,7 +444,8 @@ d. layanan psikososial; dane. tempat perlindungan sementara.  c. Layanan Penanga
 
 #### Pasal 25
 
-Bentuk kekerasan terhadap perempuan dan anak, antara lain: a. kekerasan fisik;  
+Bentuk kekerasan terhadap perempuan dan anak, antara lain:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
@@ -457,9 +462,11 @@ e. eksploitasi; dan/atauf. kekerasan lainnya.
 4. pelecehan tertulis atau gambar; dan
 5. pelecehan psikologis/emosional.  b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan/atau tujuan tertentu.  
-4. Penelantaran sebagaimana dimaksud dalam Pasal 25 huruf d, meliputi: a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
+4. Penelantaran sebagaimana dimaksud dalam Pasal 25 huruf d, meliputi:  
+a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas  pengasuhannya; dan/atauc. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada perempuan tersebut.  
-5. Eksploitasi sebagaimana dimaksud dalam Pasal 25 huruf e, meliputi: a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+5. Eksploitasi sebagaimana dimaksud dalam Pasal 25 huruf e, meliputi:  
+a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan  fisik, seksual, organ reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untuk mendapatkan keuntungan baik materil maupun immateril; danc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, tetapi tidak terbatas pada  kegiatan pelacuran atau pencabulan.  
 6. Kekerasan lainnya sebagaimana dimaksud dalam Pasal 25 huruf f merupakan ancaman kekerasan dan pemaksaan.  
 7. Ancaman kekerasan sebagaimana dimaksud pada ayat (6) meliputi setiap  perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang  menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang.  
@@ -471,7 +478,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak 
 
 #### Pasal 27
 
-Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -573,13 +581,15 @@ Pencegahan
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan kekerasan;  
 d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak; dane. memberikan pengetahuan tentang pencegahan dan mekanisme  penanggulangan kekerasan pada perempuan dan anak.  
-2. Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan secara terpadu oleh Perangkat Daerah Kabupaten dan instansi terkait yang mempunyai tugas pokok dan fungsinya dalam penyelenggaraan urusan: a. pemberdayaan perempuan dan perlindungan anak;  
+2. Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan secara terpadu oleh Perangkat Daerah Kabupaten dan instansi terkait yang mempunyai tugas pokok dan fungsinya dalam penyelenggaraan urusan:  
+a. pemberdayaan perempuan dan perlindungan anak;  
 b. pendidikan;  
 c. kesehatan;  
 d. sosial;  
 e. ketenagakerjaan;  
 f. pemuda dan olah raga; dang. mental dan spritual.  
-3. Selain dilaksanakan oleh Perangkat Daerah Kabupaten dan instansi terkait  sebagaimana dimaksud pada ayat (2), pencegahan juga dilaksanakan oleh: a. keluarga dan/atau kerabat terdekat;  
+3. Selain dilaksanakan oleh Perangkat Daerah Kabupaten dan instansi terkait  sebagaimana dimaksud pada ayat (2), pencegahan juga dilaksanakan oleh:  
+a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat, LSM, organisasi masyarakat, organisasi sosial dan organisasi keagamaan; danc. dunia usaha.  
 
 ## Bagian Ketiga
@@ -588,12 +598,14 @@ Pelayanan
 
 #### Pasal 36
 
-Pelayanan sebagaimana dimaksud dalam Pasal 34 huruf b, memperhatikan: a. prinsip pelayanan; dan
+Pelayanan sebagaimana dimaksud dalam Pasal 34 huruf b, memperhatikan:  
+a. prinsip pelayanan; dan
 b. bentuk pelayanan terhadap korban.  
 
 #### Pasal 37
 
-Prinsip pelayanan sebagaimana dimaksud dalam Pasal 36 huruf a, terdiri atas: a. cepat;  
+Prinsip pelayanan sebagaimana dimaksud dalam Pasal 36 huruf a, terdiri atas:  
+a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
 d. non diskriminasi;  
@@ -644,7 +656,9 @@ b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam s
 #### Pasal 43
 
 1. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam  Pasal 38 huruf a angka 5 dilakukan untuk mengembalikan korban kepada  keluarga dan lingkungan sosialnya.  
-2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan: a. Pemerintah Kabupaten/Kota dalam satu wilayah Provinsi atau luar Provinsi; dan/ataub. instansi dan lembaga terkait baik Pemerintah maupun non Pemerintah. (3) Bentuk pelayanan sebagaimana dimaksud dalam Pasal 38, dilaksanakan sesuai standar pelayanan minimal yang ditetapkan Pemerintah/Pemerintah  Daerah dan dilaksanakan oleh Perangkat Daerah Kabupaten yang  mempunyai tugas dan fungsi dalam penyelenggaraan urusan: a. pemberdayaan perempuan dan perlindungan anak;  
+2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
+a. Pemerintah Kabupaten/Kota dalam satu wilayah Provinsi atau luar Provinsi; dan/ataub. instansi dan lembaga terkait baik Pemerintah maupun non Pemerintah. (3) Bentuk pelayanan sebagaimana dimaksud dalam Pasal 38, dilaksanakan sesuai standar pelayanan minimal yang ditetapkan Pemerintah/Pemerintah  Daerah dan dilaksanakan oleh Perangkat Daerah Kabupaten yang  mempunyai tugas dan fungsi dalam penyelenggaraan urusan:  
+a. pemberdayaan perempuan dan perlindungan anak;  
 b. sosial;  
 c. ketenagakerjaan;  
 d. kesehatan;  
@@ -707,7 +721,8 @@ c. ahli hukum;
 d. psikolog;  
 e. psikiater;  
 f. tokoh agama; dang. unsur masyarakat.  
-3. Tugas pokok dari P2TP2A sebagaimana dimaksud pada ayat (1) adalah: a. memberikan perlindungan terhadap perempuan dan anak; dan  b. meningkatkan kualitas hidup perempuan dan anak.  
+3. Tugas pokok dari P2TP2A sebagaimana dimaksud pada ayat (1) adalah:  
+a. memberikan perlindungan terhadap perempuan dan anak; dan  b. meningkatkan kualitas hidup perempuan dan anak.  
 4. Ketentuan lebih lanjut mengenai pembentukan P2TP2A ditetapkan dengan Keputusan Bupati.  
 
 ## Bagian Keempat
@@ -825,7 +840,8 @@ c. Keluarga Ramah Anak;
 d. Sekolah Ramah Anak; dane. Lingkungan Ramah Anak;  
 f. Pesantren Ramah Anak.  
 4. Pemerintah Daerah di dalam menyelenggarakan Kabupaten Layak Anak sebagimana dimaksud pada ayat (1) wajib memperhatikan Indikator  Kabupaten Layak Anak yang meliputi:a. kelembagaan; danb. klaster hak anak.  
-5. Penguatan kelembagaan sebagaimana dimaksud ayat (4) huruf a meliputi: a. adanya peraturan perundang-undangan dan kebijakan untuk pemenuhan  hak anak;  
+5. Penguatan kelembagaan sebagaimana dimaksud ayat (4) huruf a meliputi:  
+a. adanya peraturan perundang-undangan dan kebijakan untuk pemenuhan  hak anak;  
 b. persentase anggaran untuk pemenuhan hak anak, termasuk anggaran  untuk penguatan kelembagaan;  
 c. jumlah peraturan perundang-undangan, kebijakan, program dan kegiatan  yang mendapatkan masukan dari Forum Anak dan kelompok anak  lainnya;  
 d. tersedia Sumber Daya Manusia (SDM) terlatih Konferensi Hak-hak Anak  (KHA) dan mampu menerapkan hak anak ke dalam kebijakan, program,  dan kegiatan;  
@@ -851,7 +867,8 @@ a. Hak sipil dan kebebasan yang meliputi:
 6. anak yang terpaksa dipisahkan dari lingkungan keluarga;  
 7. pengangkatan/adopsi anak;  
 8. tinjauan penempatan secara berkala; dan
-9. kekerasan dan penelantaran.  c. Hak anak dalam kesehatan dasar dan kesejahteraan yang meliputi: a. anak penyandang disabilitas mendapatkan akses pelayanan kesehatan  dan kesejahteraannya;  
+9. kekerasan dan penelantaran.  c. Hak anak dalam kesehatan dasar dan kesejahteraan yang meliputi:  
+a. anak penyandang disabilitas mendapatkan akses pelayanan kesehatan  dan kesejahteraannya;  
 b. kesehatan dan layanan kesehatan;  
 c. jaminan sosial layanan dan fasilitasi kesehatan; dand. standar hidup;  
 d. Hak anak dalam pendidikan, pemanfaatan waktu luang dan kegiatan budaya  yang meliputi:
@@ -907,7 +924,8 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 63
 
-Pendanaan pemberdayaan perempuan dan perlindungan anak bersumber dari: a. anggaran pendapatan dan belanja daerah;  
+Pendanaan pemberdayaan perempuan dan perlindungan anak bersumber dari:  
+a. anggaran pendapatan dan belanja daerah;  
 b. anggaran pendapatan dan belanja desa; danc. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 # BAB XIII

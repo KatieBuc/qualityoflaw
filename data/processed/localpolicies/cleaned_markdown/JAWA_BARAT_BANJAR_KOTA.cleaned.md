@@ -14,12 +14,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan  hidup, tumbuh, dan berkembang secara wajar serta berhak atas  perlindungan dari kekerasan dan diskriminasi sebagaimana  diamanatkan dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kota  Banjar dari tahun ke tahun semakin meningkat sehingga  menjadi tanggung jawab Pemerintah Daerah Kota Banjar untuk  menjamin perlindungan, pemenuhan, dan penghormatan hak  perempuan dan anak;  
 c. bahwa Kota Banjar belum memiliki peraturan daerah yang mengatur tentang penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sehingga diperlukan dasar hukum  yang komprehensif dalam rangka pemenuhan perempuan dan Anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b dan huruf c perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -112,7 +114,8 @@ Tahapan
 
 #### Pasal 5
 
-Tahapan perlindungan perempuan korban kekerasan meliputi: a. pencegahan kekerasan terhadap perempuan;  
+Tahapan perlindungan perempuan korban kekerasan meliputi:  
+a. pencegahan kekerasan terhadap perempuan;  
 b. pelayanan perlindungan perempuan korban kekerasan; dan c. pemberdayaan perempuan korban kekerasan.  
 
 ## Bagian Kedua
@@ -134,7 +137,8 @@ e. lembaga sosial; danf. lembaga pendidikan.
 
 #### Pasal 7
 
-Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud dalam Pasal 6 dilaksanakan antara lain dengan: a. membentuk jaringan kerja dalam upaya pencegahan kekerasan  terhadap perempuan;  
+Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud dalam Pasal 6 dilaksanakan antara lain dengan:  
+a. membentuk jaringan kerja dalam upaya pencegahan kekerasan  terhadap perempuan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  kekerasan berdasarkan pola kemitraan dengan masyarakat,  swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan terkait  perlindungan perempuan.  
 
 ### Paragraf 2
@@ -181,7 +185,8 @@ Tahapan
 
 #### Pasal 11
 
-Tahapan perlindungan terhadap anak korban kekerasan meliputi: a. pencegahan kekerasan terhadap anak;  
+Tahapan perlindungan terhadap anak korban kekerasan meliputi:  
+a. pencegahan kekerasan terhadap anak;  
 b. penanganan anak korban kekerasan; danc. rehabilitasi anak korban kekerasan.  
 
 ## Bagian Kedua
@@ -200,7 +205,8 @@ b. melakukan koordinasi, integrasi, sinkronisasi Pencegahan  Kekerasan berdasark
 
 #### Pasal 13
 
-Upaya pencegahan Kekerasan terhadap Anak sebagaimana  dimaksud dalam Pasal 12 dilakukan dengan melibatkan: a. orang tua dan/atau keluarga;  
+Upaya pencegahan Kekerasan terhadap Anak sebagaimana  dimaksud dalam Pasal 12 dilakukan dengan melibatkan:  
+a. orang tua dan/atau keluarga;  
 b. masyarakat;  
 c. lembaga pendidikan;  
 d. lembaga kesejahteraan sosial anak; dan/ataue. lembaga lainnya yang bergerak dibidang peduli perlindungan  anak.  
@@ -226,7 +232,8 @@ Rehabilitasi Anak Korban Kekerasan
 
 #### Pasal 15
 
-1. Pelayanan Rehabilitasi Anak Korban Kekerasan sebagaimana  dimaksud dalam Pasal 11 huruf c dilakukan dalam bentuk: a. layanan bantuan hukum;  
+1. Pelayanan Rehabilitasi Anak Korban Kekerasan sebagaimana  dimaksud dalam Pasal 11 huruf c dilakukan dalam bentuk:  
+a. layanan bantuan hukum;  
 b. layanan rehabilitasi kesehatan;  
 c. layanan rehabilitasi sosial; dan/ataud. layanan pemulangan dan reintegrasi sosial.  
 2. Dalam pelayanan Rehabilitasi Anak Korban Kekerasan  sebagaimana dimaksud pada ayat (1), Pemerintah Daerah Kota dapat bekerjasama dengan:a. instansi vertikal;  
@@ -320,7 +327,8 @@ e. pelayanan reintegrasi sosial; danf. pelayanan kemandirian ekonomi.
 #### Pasal 23
 
 1. Dalam rangka melindungi dan menjamin hak perempuan dan  anak dari tindak kekerasan dibentuk FPKK.  
-2. FPKK sebagaimana dimaksud pada ayat (1) terdiri dari: a. FPKK Daerah Kota;  
+2. FPKK sebagaimana dimaksud pada ayat (1) terdiri dari:  
+a. FPKK Daerah Kota;  
 b. FPKK Kecamatan; danc. FPKK Desa.  
 3. Ketentuan mengenai tata cara pembentukan, struktur  organisasi, dan unsur FPKK sebagaimana dimaksud pada ayat  (2) diatur dengan Peraturan Wali Kota.  
 

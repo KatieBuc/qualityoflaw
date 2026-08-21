@@ -16,12 +16,14 @@ PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG
 
 Menimbang:  
  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara  optimal untuk berperan serta dalam pembangunan sesuai  dengan kodrat dan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penyiapan generasi yang  berkualitas, perlu mendapat jaminan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi  dalam rangka membangun masyarakat, bangsa dan  negara;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, mengamanatkan pemberdayaan  perempuan merupakan urusan wajib yang diselenggarakan oleh Pemerintah Daerah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -97,7 +99,8 @@ h. pembiayaan; dani. pembinaan dan pengawasan.
 
 #### Pasal 3
 
-Pemberdayaan dan Perlindungan Perempuan dilaksanakan berdasarkan asas: a. penghormatan terhadap hak asasi manusia;  
+Pemberdayaan dan Perlindungan Perempuan dilaksanakan berdasarkan asas:  
+a. penghormatan terhadap hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan terbaik perempuan.  
 
@@ -143,7 +146,8 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.
 
 #### Pasal 7
 
-Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak- hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang: a. ekonomi;  
+Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak- hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang:  
+a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum.  
 
@@ -353,7 +357,8 @@ b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan denga
 
 #### Pasal 27
 
-Segala biaya Pelaksanaan kebijakan perencanaan program dan kegiatan terkait Pemberdayaan dan Perlindungan Perempuan bersumber dari: a. Anggaran Pendapatan dan Belanja Negara;  
+Segala biaya Pelaksanaan kebijakan perencanaan program dan kegiatan terkait Pemberdayaan dan Perlindungan Perempuan bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; danc. Sumber lainnya yang sah dan tidak mengikat sesuai peraturan perundang undangan yang berlaku.  
 
 # BAB X

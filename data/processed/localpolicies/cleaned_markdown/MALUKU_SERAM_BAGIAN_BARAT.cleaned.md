@@ -14,6 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan;  
 b. bahwa perempuan dan anak sebagai warga negara,  termasuk kelompok rentan yang cenderung mengalami  kekerasan yang merupakan tindakan yang melanggar hak  asasi manusia perlu mendapatkan perlindungan;  
 c. bahwa jumlah kekerasan terhadap perempuan dan anak di  Kabupaten Seram Bagian Barat masih terus meningkat dan  meluas sedangkan perlindungan terhadap perempuan dan  anak belum dilakukan secara optimal;  
@@ -21,6 +22,7 @@ d. bahwa peraturan perundangan yang mengatur mengenai  perlindungan perempuan da
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a,huruf b, huruf c, dan huruf d, perlu  menetapkan peraturan daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan.  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -90,9 +92,11 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: (1) Daerah adalah Kabupaten Ser
 b. non diskriminasi;  
 c. keadilan dan kesetaraan gender;  
 d. kepentingan yang terbaik bagi Anak;  
-e. penghargaan terhadap pendapat Perempuan dan Anak; dan f. keadilan dan perlindungan bagi perempuan dan anak Korban  Kekerasan.  g. Hak anak untuk hidup, kelangsungan hidup, dan perkembangan. (38) Penyelenggaraan Perlindungan Perempuan dan Anak bertujuan: a. memberikan Pelayanan dan Perlindungan terhadap Perempuan dan  anak korban kekerasan atas kekerasan yang berbasis gender dan  kepentingan terbaik bagi anak yang terjadi dalam rumah maupun  masyarakat (publik) ;  
+e. penghargaan terhadap pendapat Perempuan dan Anak; dan f. keadilan dan perlindungan bagi perempuan dan anak Korban  Kekerasan.  g. Hak anak untuk hidup, kelangsungan hidup, dan perkembangan. (38) Penyelenggaraan Perlindungan Perempuan dan Anak bertujuan:  
+a. memberikan Pelayanan dan Perlindungan terhadap Perempuan dan  anak korban kekerasan atas kekerasan yang berbasis gender dan  kepentingan terbaik bagi anak yang terjadi dalam rumah maupun  masyarakat (publik) ;  
 b. mencegah segala bentuk Kekerasan terhadap Perempuan dan Anak; danc. pemberdayaan Perempuan dan Anak KorbanKekerasan.  
-39. Ruang lingkup Perlindungan terhadap Perempuan dan Anak meliputi: a. kelembagaan;  
+39. Ruang lingkup Perlindungan terhadap Perempuan dan Anak meliputi:  
+a. kelembagaan;  
 b. bentuk dan mekanisme penanganan;  
 c. pencegahan tindak kekerasan terhadap perempuan dan anak;  
 d. mekanisme pendampingan;  
@@ -167,7 +171,8 @@ Bentuk dan Mekanisme Pencegahan
 
 #### Pasal 8
 
-Bentuk pencegahan terjadinya tindak Kekerasan terhadap Perempuan dan  Anak yang dilakukan oleh P2TP2A. dapat dilaksnakan melalui: a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan Perlindungan hak Perempuan dan Anak; dan b. pelatihan anggota P2TP2A. dan OPD, institusi vertikal dan lembaga layanan  lainnya terkait tentang pelaksanaan tugasnya dalam melakukan  pencegahan tindak Kekerasan terhadap Perempuan dan Anak. c. Penyelenggaraan mekanisme koordinasi antar institusi yang memiliki tugas  pokok serta fungsi yang terkait dengan pencegahan dan penanganan  kekerasan terhadap perempuan dan anak
+Bentuk pencegahan terjadinya tindak Kekerasan terhadap Perempuan dan  Anak yang dilakukan oleh P2TP2A. dapat dilaksnakan melalui:  
+a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan Perlindungan hak Perempuan dan Anak; dan b. pelatihan anggota P2TP2A. dan OPD, institusi vertikal dan lembaga layanan  lainnya terkait tentang pelaksanaan tugasnya dalam melakukan  pencegahan tindak Kekerasan terhadap Perempuan dan Anak. c. Penyelenggaraan mekanisme koordinasi antar institusi yang memiliki tugas  pokok serta fungsi yang terkait dengan pencegahan dan penanganan  kekerasan terhadap perempuan dan anak
 d. Penyelenggaraan mekanisme rujukan dalam penanganan dan pemulihan  korban kekerasan terhadap perempuan dan anak
 
 #### Pasal 9
@@ -258,7 +263,8 @@ e. mengupayakan penyediaan modal bagi Perempuan Korban tindak  Kekerasan; danf. 
 #### Pasal 18
 
 1. Pemberdayaan Perempuan Korban tindak Kekerasan sebagaimana  dimaksud dalam Pasal 17, dilakukan dengan memberikan pelatihan untuk  peningkatan kemampuan, keterampilan dan kemandirian.  
-2. Pelatihan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pelatihan di tempat kerja;  
+2. Pelatihan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+a. pelatihan di tempat kerja;  
 b. pelatihan sebelum penempatan;danc. pelatihan siap kerja.  
 
 # BAB V

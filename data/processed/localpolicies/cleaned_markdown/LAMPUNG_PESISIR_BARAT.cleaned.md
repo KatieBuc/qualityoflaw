@@ -18,9 +18,11 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAKAN KEKERASAN DENGAN RAHMAT TUHAN YANG
 
 Menimbang:  
  
+ 
 bahwa untuk melaksanakan ketentuan angka I huruf H angka 2  dan angka 6 kolom 5 lampiran Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang Nomor  11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan Anak  dari Tindakan Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -117,7 +119,8 @@ Tujuan
 
 #### Pasal 2
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah:  
+a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
 d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban  kekerasan;  
@@ -151,7 +154,8 @@ https://jdih.pesisirbaratkab.go.id
 
 #### Pasal 4
 
-Bentuk kekerasan terhadap perempuan dan anak antara lain: a. kekerasan fisik;  
+Bentuk kekerasan terhadap perempuan dan anak antara lain:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
@@ -167,7 +171,8 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b merupakan perbuatan 
 
 #### Pasal 7
 
-1. Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi: a. pelecehan seksual nonfisik;  
+1. Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi:  
+a. pelecehan seksual nonfisik;  
 b. pelecehan seksual fisik;  
 c. pemaksaan kontrasepsi;  
 d. pemaksaan sterilisasi;  
@@ -190,13 +195,15 @@ i. tindak pidana pencucian uang yang tindak pidana asalnya merupakan  Tindak Pid
 
 #### Pasal 8
 
-Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi: a. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup  rumahtangganya, padahal menurut hukum yang berlaku baginya atau  karenapersetujuan atau perjanjian wajib memberikan kehidupan perawatankepada perempuan tersebut.  
+Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d meliputi:  
+a. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup  rumahtangganya, padahal menurut hukum yang berlaku baginya atau  karenapersetujuan atau perjanjian wajib memberikan kehidupan perawatankepada perempuan tersebut.  
 b. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anaksecara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain maupun yang bertanggung jawab  ataspengasuhannya;  
 c. perbuatan mengabaikan dengan sengaja untuk merawat atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, ataupihak  lain manapun yang bertanggung jawab atas pengasuhannya.  
 
 #### Pasal 9
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi: a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
+Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e meliputi:  
+a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi  tapitidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik,  seksual,organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasikan organ dan/ atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil;  
 
 https://jdih.pesisirbaratkab.go.id
@@ -228,7 +235,8 @@ i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai taha
 
 #### Pasal 12
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 11 juga mendapatkan hak khusus sebagai berikut: a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 11 juga mendapatkan hak khusus sebagai berikut:  
+a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
@@ -243,7 +251,8 @@ https://jdih.pesisirbaratkab.go.id
 
 #### Pasal 13
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan  terhadap perempuan dan anak merupakan tanggungjawab bersama: a. Pemerintah Daerah;  
+Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan  terhadap perempuan dan anak merupakan tanggungjawab bersama:  
+a. Pemerintah Daerah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
 c. Masyarakat;  
 d. Keluarga dan/ atau Orang Tua.  
@@ -389,7 +398,8 @@ c. Pemerintah Kabupaten Kota lain;
 d. Lembaga Non Pemerintah;  
 e. Masyarakat;  
 f. Perguruan Tinggi; dang. Media Massa.  
-2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: a. pertukaran data dan informasi;  
+2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pertukaran data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
 d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum yang berlaku.  
@@ -402,7 +412,8 @@ Kemitraan
 #### Pasal 25
 
 1. Pemerintah Daerah membentuk kemitraan dengan duma usaha dalam  perlindungan perempuan dan anak dari tindak kekerasan sesuai dengan  ketentuan peraturan perundang-undangan.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan dan anak korban tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan dan anak korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan dan anak korban tindak kekerasan.  c. Pembangunan sarana dan prasarana terkait perlindungan perempuan  dan anak dari tindakan kekerasan.  
 
 https://jdih.pesisirbaratkab.go.id
@@ -438,7 +449,8 @@ h. melakukan koordinasi dengan pendamping yang lain; dani. memberikan penanganan
 
 ## BAGIAN HUKUM SETDA KABUPATEN PESISIR BARAT
 
-4. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3) bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan: a. hak sipil dan kebebasan;  
+4. Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3) bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan:  
+a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan altematif;  
 c. kesehatan dasar dan kesejahteraan;  
 d. pendidikan, pemanfaatan waktu luang dan kegiatan seni budaya;  

@@ -14,6 +14,7 @@ PEf,LIITDUNGAN DAN PEMBERDAYAAN PEREMPUAN DEITGAN RAIIMAT TI'IIAN YANG MAIIA ESA
 
 Menimbang:  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;  
 b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuarl perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 c. batrwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan hurrrf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
@@ -81,13 +82,15 @@ ll.Disabilitas adalah kelainan fisik, mentel dan intelektual, atau sensorik seca
 
 #### Pasal 2
 
-Perlindungan dan Pemberdayaan Perempuan berasaskan pada: a. penghormatan terhadap Hak Asasi Manusia;  
+Perlindungan dan Pemberdayaan Perempuan berasaskan pada:  
+a. penghormatan terhadap Hak Asasi Manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. perlindungan.  
 
 #### Pasal 3
 
-T\rjuan Perlindungan dan Pemberdayaan Perempuan adalatr untuk: a. mencegah dan menangani risiko dari kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai dengan kebutuhan dasar minimal;  
+T\rjuan Perlindungan dan Pemberdayaan Perempuan adalatr untuk:  
+a. mencegah dan menangani risiko dari kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai dengan kebutuhan dasar minimal;  
 b. rn-emberdayakan perempuan baik secara individual maupun kelompok, dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannya secara mandiri; danc. meningkatkan peran serta perempuan baik secara individual maupun kelompok sebagai potensi dan sumber daya dalam penyelenggaraan hidup sosial kemasyarakatan.  
 
 # BAB III
@@ -183,7 +186,8 @@ Pelaksanaan sebagaimana dimaksud pada ayat (3) berupa: (4) analisis kebijakan, k
 1. Dalam melaksanakan kebijakan, program, dan kegiatart perlindungan perempuan, Pemerintah Daerah dapat melakukan kerjasama dengan Lembaga Internasional.  
 12. Kerjasama sebagaim€rna dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peratrrran perundang-undangan.  
 
-Pasd f6 Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan dengan melakukan upaya: a. koordinasi pelaksanaan kebijakan, program, dan kegiatart perlindungan perempuan antar Sahran Kerja Perangkat Daerah;  
+Pasd f6 Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan perempuan dengan melakukan upaya:  
+a. koordinasi pelaksanaan kebijakan, program, dan kegiatart perlindungan perempuan antar Sahran Kerja Perangkat Daerah;  
 b. kerjasama dengan Kabupaten/Kota dalam satu Provinsi, dan kerjasama aurfiar Kabupaten/Kota di Provinsi lainnya dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan peraturan penrndangundangan;  
 c. penguatan kapasitas kelembagaan pengarusutamaan gender untuk pelaksanaan kebif akan program dan kegiatan perlindung€rn perempuan ;  
 d. fasilitasi pelayanan perlindungan perempuan;  

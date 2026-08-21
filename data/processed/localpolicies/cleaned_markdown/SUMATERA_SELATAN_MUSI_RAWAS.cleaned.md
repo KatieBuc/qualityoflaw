@@ -12,6 +12,7 @@ PEI{YELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 Menimbang:  
  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 
@@ -220,7 +221,8 @@ Bagran Ketiga PrinsiP PelaYanan
 
 #### Pasal 12
 
-penyelen ggaraern terhadap perempuan dan anak korban dilakukan dengan: a. cepat;  
+penyelen ggaraern terhadap perempuan dan anak korban dilakukan dengan:  
+a. cepat;  
 b. €unan;  
 c. empati;  
 d. non diskriminasi;  
@@ -289,7 +291,8 @@ Negara, pemerintah, keluarga, dan orang tua wajib memberilran kesempatan yang se
 
 #### Pasal 21.  
 
-Pendidikan sebagaimana dimaksud dalam Pasal 20 diarahkan pada: a. pengembangan sikap dan kemampuan kepribadian anak, bakat, kemampuan mental dan Iisik sampai mencapai potensi mereka yang optimal;  
+Pendidikan sebagaimana dimaksud dalam Pasal 20 diarahkan pada:  
+a. pengembangan sikap dan kemampuan kepribadian anak, bakat, kemampuan mental dan Iisik sampai mencapai potensi mereka yang optimal;  
 b. pengembangan penghormatan atas hak asasi manusia dan kebebasan asasi;  
 c. pengembangan rasa hormat terhadap orlang tua, identitas budaya, bahasa dan nilai-nilainya sendiri, nilai-nilai nasional di mana anak bertempat tingga! dari mana anak berasal, dan peradaban peradaban yang berbeda-beda dari peradaban sendiri;  
 d. persiapan anak untgk kehidupan )xang bertanggung jawab; dan e. pengembangan rasa hormat dan cinta terhadap lingkungan hidup.  
@@ -370,13 +373,15 @@ Setiap orang dilarang merekmt atau memperal,at anak unttrk kepentingart militer 
 #### Pasal 35
 
 1. Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud dalam Pasal 3O meliputi anak yang berkonflik dengan hukum dan anak korban tindak pidana, merupakan kewajiban dan tanggung jawab pemerintah dan masyarakat.  
-2. Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. perlahran atas anak secara manusiawi sesuai dengan martabat dan hak-hak anak;  
+2. Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:  
+a. perlahran atas anak secara manusiawi sesuai dengan martabat dan hak-hak anak;  
 b. penyediaan petugas pendamping khusus anak sejak dini;  
 c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi anak;  
 e. pemantauan dan pencatatan terus menerus terhadap perkembangan anak yang berhadapan dengan hukum;  
 f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media rrassa dan untrrk menghindarilabelisasi.  
-3. perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. upala rehabilitasi, baik dalam lembaga maupun di luar lembaga;  
+3. perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:  
+a. upala rehabilitasi, baik dalam lembaga maupun di luar lembaga;  
 b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
 c. pemberian jaminan keselamatan bagr saksi korban dan saksi ahli, baik frsik, mental, nraupun sosial; dand. pemberian aksesibilitas unttrk mendapatkan informasi mengenai perkembangan Perkara.  
 
@@ -521,7 +526,8 @@ h. keperdataan di dalam dan di luar pengadilan; dan dilindungi hak kekayaan inte
 
 #### Pasal 5O
 
-Hak pendidikan unttrk Penyandang Disabilitas meliputi hak: a. mendapatkan pendidikan yang bermuhr pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan secara inklusif dan khusus;  
+Hak pendidikan unttrk Penyandang Disabilitas meliputi hak:  
+a. mendapatkan pendidikan yang bermuhr pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan secara inklusif dan khusus;  
 b. mempunyai Kesamaan Kesempatan untuk menjadi pendidik atau tenaga kependidikan pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan;  
 c. mempunyai Kesamaan Kesempatan sebagai penyelenggara pendidikan yang bermutu pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan; dand. mendapatkan Akomodasi yang Layak sebagai peserta didik.  
 

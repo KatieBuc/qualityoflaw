@@ -24,6 +24,7 @@ TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG
 
 Menimbang:  
  
+ 
 a. bahwa penjaminan atas penghormatan, perlindungan dan  pemenuhan Hak Asasi Manusia bagi setiap Warga Negara Indonesia yang ada di Daerah merupakan tugas yang harus dilaksanakan oleh Pemerintah Daerah;  
 b. bahwa Kota Bitung sebagai kota industri yang berkembang  dengan pesat sebagai salah satu pusat ekonomi di Provinsi Sulawesi Utara, telah menciptakan banyak lapangan kerja sehingga banyak masyarakat dari berbagai daerah di luar Kota Bitung yang datang bekerja di dalam wilayah Kota Bitung dan berpotensi memunculkan gesekan sosial sehingga dapat berimbas pada rentannya perempuan dan anak untuk menjadi korban dari tindak kekerasan;  
 c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan
@@ -34,6 +35,7 @@ Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam b
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan di Kota Bitung;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -100,7 +102,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup peraturan daerah ini, meliputi: a. tindak kekerasan;  
+Ruang lingkup peraturan daerah ini, meliputi:  
+a. tindak kekerasan;  
 b. penyelenggaraan perlindungan;  
 c. penyelenggaraan pencegahan terjadinya tindak  kekerasan terhadap perempuan dan anak;  
 d. penyelenggaraan pelayanan, pendampingan dan  pemulihan terhadap perempuan dan anak yang  menjadi korban tindak kekerasan;  
@@ -420,7 +423,8 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 39
 
-Dalam rangka untuk mengembalikan perempuan dan  anak yang menjadi korban tindak kekerasan kepada  keluarganya, Pemerintah Daerah berkewajiban untuk: a. menyediakan biaya transport dan kebutuhan lain dari perempuan dan anak yang menjadi korban tindak  kekerasan untuk pulang kembali kepada keluarganya;  
+Dalam rangka untuk mengembalikan perempuan dan  anak yang menjadi korban tindak kekerasan kepada  keluarganya, Pemerintah Daerah berkewajiban untuk:  
+a. menyediakan biaya transport dan kebutuhan lain dari perempuan dan anak yang menjadi korban tindak  kekerasan untuk pulang kembali kepada keluarganya;  
 b. menyediakan dan membiayai tenaga pendamping  untuk memulangkan perempuan dan anak yang  menjadi korban tindak kekerasan kepada keluarganya; dan
 c. berkoordinasi dengan Pemerintah, Pemerintah Daerah  tempat tinggal perempuan dan anak yang menjadi  korban tindak kekerasan dan pihak Kepolisian  Republik Indonesia untuk mengembalikan perempuan  dan anak yang menjadi korban tindak kekerasan pada  keluarganya.  
 
@@ -430,7 +434,8 @@ c. berkoordinasi dengan Pemerintah, Pemerintah Daerah  tempat tinggal perempuan 
 
 #### Pasal 40
 
-1. Pemberdayaan perempuan yang menjadi korban  tindak kekerasan sebagaimana dimaksud dalam Pasal  16 ayat (1) huruf d dilaksanakan dengan cara: a. pelatihan kerja; dan/ataub. memfasilitasi pembentukan usaha ekonomis  produktif dan kelompok usaha bersama.  
+1. Pemberdayaan perempuan yang menjadi korban  tindak kekerasan sebagaimana dimaksud dalam Pasal  16 ayat (1) huruf d dilaksanakan dengan cara:  
+a. pelatihan kerja; dan/ataub. memfasilitasi pembentukan usaha ekonomis  produktif dan kelompok usaha bersama.  
 2. Pelatihan kerja sebagaimana dimaksud pada ayat (1)  huruf a berkoordinasi dengan Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  ketenagakerjaan.  
 3. Pelatihan kerja terhadap perempuan yang menjadi  korban tindak kekerasan dapat dilaksanakan pada  lembaga pelatihan kerja yang diselenggarakan oleh  Pemerintah Daerah maupun yang diselenggarakan  oleh pihak swasta.  
 4. Pembentukan usaha ekonomis produktif dan  kelompok usaha bersama sebagaimana dimaksud  pada ayat (1) huruf b dilaksanakan dengan  berkoordinasi dengan Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  usaha kecil dan menengah.  
@@ -466,7 +471,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud  dalam Pasal 42 ayat (1), dilakuka
 
 #### Pasal 44
 
-Biaya yang diperlukan untuk pelaksanaan tugas  penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan dapat bersumber dari: a. Anggaran Pendapatan dan Belanja Daerah; dan  b. sumber lain yang sah sesuai dengan ketentuan  peraturan perundang-undangan.  
+Biaya yang diperlukan untuk pelaksanaan tugas  penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan dapat bersumber dari:  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  b. sumber lain yang sah sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 45
 

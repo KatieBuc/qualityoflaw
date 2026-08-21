@@ -14,10 +14,12 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Pemerintahan Daerah, Pemberdayaan Perempuan dan perlindungan Anak merupakan urusan pemerintahan wajib bagi Pemerintah daerah yang tidak berkaitan dengan pelayanan Dasar, maka dalam rangka pemenuhan hak asasi manusia atas tindak kekerasan perempuan dan anak, dipandang perlu dilakukan perlindungan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -91,7 +93,8 @@ e. keterbukaan; danf. pengayoman.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak tindak kekerasan, untuk: a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
+Tujuan perlindungan perempuan dan anak tindak kekerasan, untuk:  
+a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi serta memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dane. menguatkan perempuan dan anak korban tindak kekerasan agar lebih  berdaya baik fisik, psikis, sosial dan ekonomi.  
@@ -291,7 +294,8 @@ c. Pemerintah Kabupaten/Kota lain;
 d. Perguruan Tinggi;  
 e. Lembaga Sosial dan Keagamaan;  
 f. Lembaga Swadaya Masyarakat; dan/ ataug. Media.  
-3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi: a. pertukaran data dan informasi;  
+3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi:  
+a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi.  
 4. Kerjasama sebagaimana dimaksud pada ayat (2), dilaksanakan sesuai  ketentuan Perundang-undangan.  
@@ -302,7 +306,8 @@ Kemitraan
 
 #### Pasal 22
 
-1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan. (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
+1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha  dalam perlindungan perempuan dan anak dari tindak kekerasan. (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan perundang-undangan.  
@@ -313,7 +318,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang terc
 
 #### Pasal 23
 
-1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan. (2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan;  
+1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan. (2) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
 d. pemantauan;  

@@ -16,12 +16,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anak  merupakan bagian integral dari hak asasi manusia yang harus dijamin, dilindungi, dan dihormati oleh negara;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 2 - Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -236,7 +238,8 @@ b. komite aksi daerah penghapusan bentuk – bentuk pekerjaan terburuk  untuk an
 
 #### Pasal 15
 
-Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip: a. tidak dipungut biaya;  
+Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip:  
+a. tidak dipungut biaya;  
 b. cepat;  
 c. aman;  
 d. empati;  
@@ -249,7 +252,8 @@ f. mudah dijangkau; dang. kerahasiaan.
 
 #### Pasal 16
 
-1. Dalam rangka mencapai tujuan penyelenggaraan PPA sebagaimana  dimaksud dalam Pasal 3, Pemerintah Daerah bekerjasama dengan: a. pemerintah Provinsi;  
+1. Dalam rangka mencapai tujuan penyelenggaraan PPA sebagaimana  dimaksud dalam Pasal 3, Pemerintah Daerah bekerjasama dengan:  
+a. pemerintah Provinsi;  
 b. pemerintah Kabupaten/Kota Lain;  
 c. Polri;  
 
@@ -266,7 +270,8 @@ e. ditindaklanjuti sesuai dengan hukum yang berlaku; dan f. Upaya pencegahan unt
 #### Pasal 17
 
 1. Pemerintah daerah membentuk kemitraan dengan dunia usaha dalam  penyelenggaraan PPA.  
-2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui: a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
+2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
+a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk perjanjian.  
@@ -278,7 +283,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang terc
 #### Pasal 18
 
 1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan PPA dari  segala bentuk tindak kekerasan, diskriminasi, perlindungan khusus dan  masalah lainnya.  
-2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi: a. pedoman dan standar pemenuhan kebutuhan;  
+2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
+a. pedoman dan standar pemenuhan kebutuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 
@@ -339,7 +345,8 @@ Pendanaan penyelenggaraan PPA bersumber dari:
 #### Pasal 25
 
 1. UPTD-PPA wajib melaporkan secara tertulis pelaksanaan Penyelenggaraan  PPA kepada Bupati.  
-2. Laporan sebagaimana dimaksud pada ayat (1) tersebut meliputi: a. administrasi;  
+2. Laporan sebagaimana dimaksud pada ayat (1) tersebut meliputi:  
+a. administrasi;  
 b. keuangan;  
 c. pelayanan; dand. kinerja.  
 3. Penyampaian laporan sebagaimana dimaksud pada ayat (1) dan ayat (2)  dilaksanakan paling sedikit 3 (tiga) bulan sekali.  

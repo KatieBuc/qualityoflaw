@@ -14,6 +14,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan, diskriminasi atau perlakuan yang  merendahkan derajat dan martabat manusia serta berhak  mendapatkan rasa aman dan bebas dari segala bentuk  kekerasan ;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami Kekerasan, maka perlu  mendapat Perlindungan hukum;  
 c. bahwa berdasarkan ketentuan dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah  sebagaimana diubah beberapa kali terakhir dengan  Undang-Undang Nomor 9 Tahun 2015, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintahan yang wajib dilaksanakan oleh Pemerintah  Daerah ;  
@@ -21,6 +22,7 @@ d. bahwa penyelenggaraan Perlindungan Perempuan dan  Anak Korban Kekerasan di Ko
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b, huruf c dan huruf d, maka perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan ;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945 ;  
 
@@ -241,7 +243,8 @@ Mekanisme Koordinasi
 #### Pasal 18
 
 1. Pelaksanaan fungsi P2TP2A sebagaimana dimaksud dalam Pasal 17,  dilakukan melalui koordinasi dengan Perangkat Daerah atau unit-unit  lainnya yang menangani pemberdayaan perempuan dan perlindungan anak.  
-2. Koordinasi sebagaimana dimaksud pada ayat (1) dilakukan dalam bentuk: a. Rapat koordinasi dengan jejaring kerja;  
+2. Koordinasi sebagaimana dimaksud pada ayat (1) dilakukan dalam bentuk:  
+a. Rapat koordinasi dengan jejaring kerja;  
 
 b.Konsultasi;  
 c. Penyampaian data dan informasi; dan/atau

@@ -18,6 +18,7 @@
 
 Menimbang:  
  
+ 
 a. bahwa segala bentuk tindak kekerasan, terutama kekerasan berbasis gender dan anak merapakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan;  
 b. bahwa korban kekerasan berbasis gender dan anak di Daerah terus mengalami peningkatan;  
 c. bahwa korban kekerasan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -163,7 +164,8 @@ Pemerintah Daerah
 
 #### Pasal 12
 
-1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya perlindungan korban kekerasan dalam bentuk: a. mencegah terjadinya segala bentuk kekerasan berbasis gender dan anak;  
+1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk melaksanakan upaya perlindungan korban kekerasan dalam bentuk:  
+a. mencegah terjadinya segala bentuk kekerasan berbasis gender dan anak;  
 b. memberikan perlindungan dengan menyediakan layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, layanan pemulangan dan reintegrasi sosial, mengupayakan peningkatan partisipasi masyarakat, serta monitoring dan pelaporan;  
 c. mendorong dan meningkatkan partisipasi masyarakat;  
 d. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan, perlindungan dan pemulihan korban kekerasan. (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ay at (1), Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan berbasis gender dan anak;  
@@ -183,7 +185,8 @@ Masyarakat, Keluarga dan Orang Tua
 
 #### Pasal 13
 
-Dalam Upaya Pemberian perlindungan korban kekerasan, Masyarakat, Keluarga dan Orang Tua mempunyai kewajiban dan tanggungjawab: a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
+Dalam Upaya Pemberian perlindungan korban kekerasan, Masyarakat, Keluarga dan Orang Tua mempunyai kewajiban dan tanggungjawab:  
+a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. melaporkan bila terjadi kekerasan;  
 c. melindungi korban; dand. memberikan pertolongan darurat.  
 
@@ -197,7 +200,8 @@ Kelembagaan
 
 #### Pasal 14
 
-Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis gender dan anak, Pemerintah Daerah dibantu oleh: a. PPT PKBGA; dan
+Dalam menyelenggarakan perlindungan terhadap korban kekerasan berbasis gender dan anak, Pemerintah Daerah dibantu oleh:  
+a. PPT PKBGA; dan
 b. LPPTK.T 10
 
 ## Bagian Kedua
@@ -360,7 +364,8 @@ f. unsur organisasi kemasyarakatan.
 
 #### Pasal 29
 
-LPPTK sebagaimana dimaksud dalam Pasal 28, mempunyai tugas: a. menerima pengaduan kasus kekerasan berbasis gender dan anak;  
+LPPTK sebagaimana dimaksud dalam Pasal 28, mempunyai tugas:  
+a. menerima pengaduan kasus kekerasan berbasis gender dan anak;  
 b. memberikan konsultasi awal kepada korban kekerasan berbasis gender dan anak;  
 c. melakukan intervensi krisis terhadap korban kekerasan berbasis gender dan anak;  
 d. member! rujukan penanganan kasus kekerasan berbasis gender dan anak kepada PPT PKBGA.  
@@ -381,7 +386,8 @@ Hak Korban Kekerasan
 
 #### Pasal 32
 
-1. Setiap korban kekerasan berbasis gender dan anak berhak: a. memperoleh perlindungan atas kemanan pribadi, keluarga dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
+1. Setiap korban kekerasan berbasis gender dan anak berhak:  
+a. memperoleh perlindungan atas kemanan pribadi, keluarga dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
 b. untuk ikut serta dalam proses memilih dan menentukan bentuk perlindungan dan dukungan keamanan;  
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan kasus dan putusan pengadilan;  
@@ -422,7 +428,8 @@ Pendanaan atas kegiatan perlindungan terhadap korban kekerasan berbasis gender d
 #### Pasal 36
 
 1. Masyarakat dapat berperan serta dalam membantu upaya pencegahan dan penanganan korban kekerasan berbasis gender dan anak.  
-2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa: a. memberikan informasi dan atau melaporkan setiap kekerasan yang diketahuinya;  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  
+a. memberikan informasi dan atau melaporkan setiap kekerasan yang diketahuinya;  
 b. memberikan perlindungan bagi korban;  
 c. memberikan pertolongan darurat;T 17d. memberikan advokasi terhadap korban dan atau masyarakat tentang penanganan kekerasan berbasis gender dan anak;  
 e. membantu proses pengajuan permohonan penetapan perlindungan;  

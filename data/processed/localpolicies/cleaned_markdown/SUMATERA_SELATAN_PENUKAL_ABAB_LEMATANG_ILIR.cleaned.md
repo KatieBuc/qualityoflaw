@@ -66,7 +66,8 @@ d. kepentingan terbaik bagi Anak;
 e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
 f. Pemberdayaan; dang. kepastian hukum.  
 
-Pasa13 Perlindungan Perempuan dan Anak bertujuan untuk: a. menjamin terpenuhinya hak-hak Perempuan dan Anak;  
+Pasa13 Perlindungan Perempuan dan Anak bertujuan untuk:  
+a. menjamin terpenuhinya hak-hak Perempuan dan Anak;  
 b. memelihara keutuhan rumah tangga agar terwujud keluarga yang harmonis;  
 c. mencegah kekerasan terhadap Perempuan dan Anak;  
 d. melindungi dan memberikan rasa aman bagi Perempuan dan Anak;  
@@ -172,7 +173,8 @@ i. anak korban bencana alam atau bencana sosial;
 j. anak penyandang disabilitas fisik dan mental;  
 k. anak keluarga buruh migran;  
 l. anak yang hidup di dalam atau di sekitar lokasi prostitusi; danm. anak korban perlakuan salah lainnya.  
-2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa kemudahan untuk mendapatkan akses layanan: a. kesehatan;  
+2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa kemudahan untuk mendapatkan akses layanan:  
+a. kesehatan;  
 b. pendidikan;  
 c. bantuan hukum;  
 d. pendampingan;  
@@ -207,7 +209,8 @@ b. bantuan layanan psikologi, medis dan hukum dan reintegrasi sosial ekonomi;
 c. pemberdayakan keluarga mela1ui pemberian pelatihan, stimulan modal usaha dan pendampingan;  
 d. beasiswa untuk melanjutkan pendidikan formal ke jenjang yang lebih tinggi;dane. pendidikan nonformal dan pelatihan ketrampilan bagi yang tidak menempuh pendidikan formal.  
 
-8agian Ketiga 8entuk Kekerasan Pasa118 Bentuk kekerasan terhadap Perempuan dan Anak meliputi: a. kekerasan fisik;  
+8agian Ketiga 8entuk Kekerasan Pasa118 Bentuk kekerasan terhadap Perempuan dan Anak meliputi:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksua1;  
 d. penelantaran;  
@@ -262,7 +265,8 @@ f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi kor
 
 ## BABIV
 
-HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN Pasal25 Setiap Perempuan dan Anak korban kekerasan berhak: a. atas penanganan pengaduan;  
+HAK PEREMPUAN DAN ANAK KORBAN KEKERASAN Pasal25 Setiap Perempuan dan Anak korban kekerasan berhak:  
+a. atas penanganan pengaduan;  
 b. untuk dihonnati harkat dan martabatnya sebagai manusia;  
 c. mendapat perlindungan dari keluarga, masyarakat, pemerintah daerah danjatau pihak lain baik sementara maupun berdasarkan penetapan perlindungan dari pengadilan;  
 d. atas pemulihan kesehatan dan psikologisdari penderitaan yang dialami korban;  

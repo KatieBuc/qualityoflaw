@@ -16,6 +16,7 @@
 
 Menimbang:  
  
+ 
 Mengingat:
 a. bahwa hak setiap warga Negara untuk bebas dari  penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dan bebas dari  segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran  hak asasi manusia sehingga perlu dilindungi harga  diri dan martabatnya serta dijamin hak hidupnya  sesuai dengan fitrah dan kodratnya tanpa  diskriminasi;  
@@ -89,7 +90,8 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas: a. penghormatan dan perlindungan Hak Asasi Manusia;  
+Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas:  
+a. penghormatan dan perlindungan Hak Asasi Manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Anak;  
@@ -495,13 +497,15 @@ b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan  kondisi fi
 
 #### Pasal 42
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 37 huruf e adalah  untuk membantu korban dalam menjalani proses peradilan dengan cara: a. memberikan konsultasi hukum yang mencakup informasi mengenai  hak-hak korban dan proses peradilan;  
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 37 huruf e adalah  untuk membantu korban dalam menjalani proses peradilan dengan cara:  
+a. memberikan konsultasi hukum yang mencakup informasi mengenai  hak-hak korban dan proses peradilan;  
 b. mendampingi korban di tingkat penyidikan, penuntutan, dan  pemeriksaan dalam sidang pengadilan dan membantu korban untuk  secara lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
 
 #### Pasal 43
 
 1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam Pasal 37 huruf f bertujuan untuk mengembalikan korban kepada keluarga dan  lingkungan sosialnya.  
-2. Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1)  dilakukan oleh Pemerintah Daerah dengan berkoordinasi kepada: a. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah; danb. lembaga kemasyarakatan desa dan/atau tokoh masyarakat  setempat.  
+2. Pelayanan reintegrasi sosial sebagaimana dimaksud pada ayat (1)  dilakukan oleh Pemerintah Daerah dengan berkoordinasi kepada:  
+a. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah; danb. lembaga kemasyarakatan desa dan/atau tokoh masyarakat  setempat.  
 
 # BAB IV
 
@@ -511,7 +515,8 @@ b. mendampingi korban di tingkat penyidikan, penuntutan, dan  pemeriksaan dalam 
 
 1. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan dilakukan secara terpadu oleh PPT.  
 2. PPT sebagaimana dimaksud pada ayat (1) merupakan bagian yang  terintegrasi dan merupakan satu kesatuan dengan PPT yang  menyelenggarakan pelayanan terpadu untuk saksi dan/atau korban  tindak pidana perdagangan orang.  
-3. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan sebagaimana dimaksud pada ayat (1) meliputi: a. memberikan layanan cepat dan tanpa biaya kepada korban;  
+3. Penyelenggaraan pelayanan terhadap Perempuan dan anak korban  kekerasan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. memberikan layanan cepat dan tanpa biaya kepada korban;  
 b. menyelenggarakan perlindungan dan pemenuhan hak korban  atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penerjemah dan relawan pendamping yang  diperlukan bagi korban;  
 d. melakukan jaringan dengan rumah sakit pemerintah atau  swasta untuk perawatan dan pemulihan kesehatan korban serta  melakukan kerjasama dengan lembaga perlindungan saksi dan  korban, rumah perlindungan sosial atau pusat trauma milik  pemerintah, masyarakat atau lembaga-lembaga lainnya untuk  pemulihan kesehatan korban;  

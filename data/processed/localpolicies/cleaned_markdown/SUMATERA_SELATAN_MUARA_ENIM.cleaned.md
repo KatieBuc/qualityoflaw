@@ -559,7 +559,8 @@ Pasal45 (1) Upaya kuratif pelayanan kesehatan dasar sebagaimana dimaksud dalam P
 
 #### Pasal 47
 
-( 1) Penyelenggaraan kesejahteraan sosial ditujukan kepada: a. perseorangan;  
+( 1) Penyelenggaraan kesejahteraan sosial ditujukan kepada:  
+a. perseorangan;  
 b. keluarga;  
 c. kelompok; dan/ ataud. masyarakat.  
 2. Penyelenggaraan kesejahteraan sosial sebagaimana dimaksud pada ayat (1) diprioritaskan kepada mereka yang memiliki kehidupan yang tidak layak secara kemanusiaan dan memiliki kriteria masalah sosial: (27)a. kemiskinan;  
@@ -688,7 +689,8 @@ Upaya pelayanan yang dilakukan oleh Pemerintah Kabupaten  terhadap anak korban t
 
 #### Pasal 60
 
-( 1) Perlindungan khusus anak diberikan kepada: a. anak dalam situasi darurat;  
+( 1) Perlindungan khusus anak diberikan kepada:  
+a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
 d. anak yang dieksploitasi secara ekonomi dan/ atau seksual;  

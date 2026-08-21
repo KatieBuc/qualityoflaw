@@ -14,12 +14,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang:  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  dan anak di Kabupaten Kutai Barat merupakan  pelanggaran hak asasi manusia sehingga perlu  dilindungi harga diri dan martabatnya serta dijamin  hak hidupnya sesuai dengan fitrah dan kodratnya  tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Kutai Barat terus meningkat, sehingga  diperlukan upaya perlindungan dalam bentuk  pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
@@ -79,7 +81,8 @@ c. non diskriminasi; dand. kepentingan yang terbaik bagi Korban.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan untuk: a. memberikan rehabilitasi sosial anak;  
+Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan untuk:  
+a. memberikan rehabilitasi sosial anak;  
 b. menyatukan kembali anak korban kekerasan dengan keluarga  dan/atau lingkungan.  c. melindungi Perempuan dan memberikan Pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dand. pemberdayaan Perempuan dan Anak Korban Tindak Kekerasan.  
 
 # BAB II

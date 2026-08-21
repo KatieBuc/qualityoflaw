@@ -14,12 +14,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa perempuan sebagai salah satu kelompok  masyarakat yang keberadaannya menjadi potensi dan aset pembangunan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak  kekerasan dan diskriminasi;  
 c. bahwa dalam rangka mengefektifkan sistem yang  komprehensif dan integratif dalam memberdayakan dan  melindungi perempuan di Kabupaten Karawang diperlukan pengaturan mengenai pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b,dan huruf c perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -90,7 +92,8 @@ Hak perempuan dalam bidang pendidikan adalah untuk  mendapatkan kesempatan mengi
 
 #### Pasal 6
 
-Hak perempuan dalam perkawinan dan keluarga adalah untuk: a. Memilih suaminya secara bebas;  
+Hak perempuan dalam perkawinan dan keluarga adalah untuk:  
+a. Memilih suaminya secara bebas;  
 b. Perkawinan didasarkan atas persetujuan kedua belah pihak;  danc. Memiliki hak dan tanggung jawab yang sama baik sebagai orang  tua terhadap anaknya maupun pasangan suami-istri.  
 
 #### Pasal 7

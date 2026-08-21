@@ -203,7 +203,8 @@ Kewajiban keluarga dan/atau orangtua sebagaimana dimaksud dalam Pasal 6 huruf c 
 #### Pasal 10
 
 1. Untuk mencegah terjadi tindak kekerasan terhadap perempuan dan anak, Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada keluarga, orangtua, dan masyarakat dengan memberikan informasi, bimbingan dan/atau penyuluhan.  
-2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah Daerah melakukan upaya sebagai berikut:: a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
+2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1), Pemerintah Daerah melakukan upaya sebagai berikut::  
+a. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
 b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan.  e. membangun dan menyediakan sistem informasi yang lengkap dan mudah di akses;  

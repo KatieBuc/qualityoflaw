@@ -22,6 +22,7 @@ b. bahwa perempuan Indonesia mempunyai peran penting dalam kegiatan kemasyarakat
 d. bahwa dalam kehidupan masyarakat seringkali perempuan dan anak di Kabupaten Donggala mendapatkan kekerasan atau perlakuan yang kurang menyenangkan sehingga dipandang penting untuk melindunginya;  
 e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c. dan huruf d dibentuk Peraturan Daerah Mengingat:  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
@@ -114,18 +115,21 @@ Pengawasan adalah kegiatan mengamati, mendengar, memeriksa, mengkaji, menilai pe
 
 #### Pasal 2
 
-Penlrelenggaraan p€rlindungan perempuan dan anak dilaksanakan berdasarkan asas: a. penghormatan terhadap hak-hak perempuan dan anak;  
+Penlrelenggaraan p€rlindungan perempuan dan anak dilaksanakan berdasarkan asas:  
+a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. non diskriminasi:c. keadilan.  
 
 #### Pasal 3
 
 Tujuan perlindungan perempuan dan anak untuk:
-a. memberikan dan meningkatkan rasa aman bagi perempuan dan anal(: b. membantu menc€gah tindak kekerasan terhadap perempuan dan anak;  
+a. memberikan dan meningkatkan rasa aman bagi perempuan dan anal(:  
+b. membantu menc€gah tindak kekerasan terhadap perempuan dan anak;  
 c. membantu mencegah kegiatan eksploitasi terhadap perempuan dan anal( d. memberikan pelayanan k€pada perempuan dan anak dalam menghadapi oermasalahan.  e. membantu meningkatkan kualitas hidup anak
 
 #### Pasal 4
 
-Ruang lingkup pengaturan perlindungan bagi perempuan dan anak meliputi: a. Hak-hak Perempuan dan anal(;  
+Ruang lingkup pengaturan perlindungan bagi perempuan dan anak meliputi:  
+a. Hak-hak Perempuan dan anal(;  
 b. Tugas dan wewenangc. Penanganan tindak kekerasan;  
 e. Pembiayaan;  
 f. Pengawasan;  
@@ -141,14 +145,17 @@ Hak-Hak Anak
 
 #### Pasal 5
 
-Oalam penyelenggaraan perlindungan anak di daerah, anak befiak atas: a. untut Oipat hidup, tumbuh dan berkembang dan berpartisipasi secara wajar sesuai dengan harkat dan madabat kemanusiaan ssrta mendapat p€mbinaan dan perlindungan dari kekerasan, kelalaian dan diskriminasi;  
+Oalam penyelenggaraan perlindungan anak di daerah, anak befiak atas:  
+a. untut Oipat hidup, tumbuh dan berkembang dan berpartisipasi secara wajar sesuai dengan harkat dan madabat kemanusiaan ssrta mendapat p€mbinaan dan perlindungan dari kekerasan, kelalaian dan diskriminasi;  
 b. atas suatu akta kelahiran yang sah diperoleh dan/atau diusahakan oleh orang tuanya sesuai dengan ketentuan peraturan perundang-undangan yang berlaku;  
 c. untuk beribadah menurut agamany€, berpikir dan berekspresi sesuai dengan tingkat kecerdasan dan usianya dalam bimbingan orang tua;  
 d. unluk mengetahui, dibesarkan dan diasuh oleh orang tuanya sendiri;  
 e. dalam hal karena suatu sebab orang tua lidak dapat menlamin tumbuh kembang anak atau anak dalam keadaan terlantar maka anak berhak unfut diasuh atau diangkat sebagai anak asuh atau anak angkat oreh orang rain sesuai ketentuan peraturan perundang-undangan;  
 f. unluk memperoleh pelayanan kesehatan dan jaminan sosial sesuai dengan kebutuhan fisik, mentalspritual dan sosial;  
-g. memperoleh pendidikan dan pengajaran sesuai kemampuan, minat dan bakatnya: h. menyatakan pendapat dan didengar pendapatnya;  
-a. beristirahat dan memanfaalkan waktu untuk mengembangKan dari dan Kemampuannya: j. mendapat pedindungan dari keluarga, masyarakat dan pemerintah Daerah terhadap perlakuan diskriminasi dan eksploitasi baik secara ekonomt maupun sosial, penelantaran, kekejaman, kekerasan, p€nganiayaan, ketidak aditan dan perlakuan salah lainnya;  
+g. memperoleh pendidikan dan pengajaran sesuai kemampuan, minat dan bakatnya:  
+h. menyatakan pendapat dan didengar pendapatnya;  
+a. beristirahat dan memanfaalkan waktu untuk mengembangKan dari dan Kemampuannya:  
+j. mendapat pedindungan dari keluarga, masyarakat dan pemerintah Daerah terhadap perlakuan diskriminasi dan eksploitasi baik secara ekonomt maupun sosial, penelantaran, kekejaman, kekerasan, p€nganiayaan, ketidak aditan dan perlakuan salah lainnya;  
 k. untuk mendapatkan kembali pendidikan formal atau non formal bagi anak putus sekolah:l. mendapatkan ASI (AirSusu tbu) ekstusif sebagai prioritas;  
 
 m.untuk mendapatkan pembinaan
@@ -160,7 +167,8 @@ Hak-Hak perempuan
 
 #### Pasal 6
 
-Dalam penyerenggaraan perrindungan perempuan di daerah, perempuan berhak atas: a. kebutuhan dasar;  
+Dalam penyerenggaraan perrindungan perempuan di daerah, perempuan berhak atas:  
+a. kebutuhan dasar;  
 o. rasa nyaman;  
 d. rasa aman: p€layanan k€sshatan maksimal dalam menghadapi tindak kekarasan;  
 e. layanan pendampingan, bantuan hukum dan bimbingan rohani dalam menghadapi tindak kekerasan; dang. kerahasiaan atas masatah yang dihadapi. a7
@@ -177,7 +185,8 @@ Tugas pemerintah datam penyelenggaraan perlindungan Anak
 
 #### Pasal 7
 
-Tugas Pemerintah Daerah dalam penyelenggaraan perlindungan Anak meliputi: a. penyusunan rencana strategis perlindungan Anak jangka panjang, menengah, dan pendek sebagai bagian yang terintegrasi dengan Dokumen perencanaan Pembangunan;  
+Tugas Pemerintah Daerah dalam penyelenggaraan perlindungan Anak meliputi:  
+a. penyusunan rencana strategis perlindungan Anak jangka panjang, menengah, dan pendek sebagai bagian yang terintegrasi dengan Dokumen perencanaan Pembangunan;  
 b. pelaksanaan dan pengawasan penyelenggaran perlindungan Anak.  
 
 : pasar g ' Pemerintah daerah memberikan pembinaan dan bimbingan bagi anak untuk memeruk agama sesuai dengan agama dan keyakinan orang tuanya.  
@@ -321,7 +330,8 @@ aAB V I
 
 (2) Pengawasan masya.akat meliputi kegiatan:
 a. mengamatiatau melihat kondisi pemenuhan hak-hak perempuan dan anak; dan b. memberikan informasi setiap kondisi yang cenderung mengarah pada tindak kekerasan terhadap perempuan dan anak kepada aparat kepolisian dan/atau oemerintah daerah.  
-3. Pemberian banluan sebagaimana dimaksud pada ayat (1) huruf b berupa: a. pengamanan alau Penampungan sementara bagi korban;  
+3. Pemberian banluan sebagaimana dimaksud pada ayat (1) huruf b berupa:  
+a. pengamanan alau Penampungan sementara bagi korban;  
 
 . b. dukungan dana untuk memenuhi kebutuhan bagi korban sesuai kemampuan masrarakat;  
 c. Bantuan dana dan/ atau fasililas kepada pemerinlah daerah dalam menuniang penyelenggaraan pedindungan perempuan dan anak.  

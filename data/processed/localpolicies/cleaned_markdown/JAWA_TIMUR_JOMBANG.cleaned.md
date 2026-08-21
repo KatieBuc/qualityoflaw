@@ -38,7 +38,8 @@ Menimbang Mengingat
 
 # BUPATI JOMBANG,
 
-: a. bahwa dalam rangka optimalisasi upaya yang mengarah pada penurunan angka tindak kekerasan terhadap perempuan dan anak, dipandang perlu meningkatkan meningkatkan pelayanan perlindungan terhadap perempuan dan anak korban kekerasan;  
+:  
+a. bahwa dalam rangka optimalisasi upaya yang mengarah pada penurunan angka tindak kekerasan terhadap perempuan dan anak, dipandang perlu meningkatkan meningkatkan pelayanan perlindungan terhadap perempuan dan anak korban kekerasan;  
 b. bahwa untuk mencapai maksud konsideran Menimbang huruf à, maka dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan dengan menuangkan ketentuannya dalam Peraturan Daerah.  
 
 : 1. Undang-Undang Nomor 4 Tahun 1979 tentang Kesejahteraan Anak (Lembaran Negara Republik Indonesia Tahun 1979 Nomor 32, Tambahan Lembaran Negara Nomor 3143);  

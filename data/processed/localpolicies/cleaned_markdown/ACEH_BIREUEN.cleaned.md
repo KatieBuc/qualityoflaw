@@ -18,12 +18,14 @@ BUPATI BIREUEN,
 
 Menimbang:  
  
+ 
 
 a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
 b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
@@ -155,7 +157,8 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 6
 
-Setiap perempuan penyandang disabilitas, berhak memperoleh: a. pendidikan pada semua satuan, jalur, jenis, danjenjang pendidikan;  
+Setiap perempuan penyandang disabilitas, berhak memperoleh:  
+a. pendidikan pada semua satuan, jalur, jenis, danjenjang pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan jenis dan derajat kecacatan, pendidikan, dan kemampuannya;  
 
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
@@ -243,7 +246,8 @@ Perempuan Kepala Keluarga
 a. tindakan diskriminasi dan upaya pelemahan fungsi perempuan sebagai penyangga ekonomi keluarga;  
 b. penguatan kemampuan dan pengakuan sebagai kepala keluarga di lingkungannya; dan
 c. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
-4. Pelaksanaan perlindungan perempuan sebagai kepala keluarga yang ditinggal mati suaminya sebagaimana dimaksud pada ayat (1) meliputi: a. perempuan sebagai kepala keluarga memperoleh 1/8 (satu per delapan) dari total sisa harta suaminya apabila dia mempunyai anak; dan b. perempuan sebagai kepala keluarga memperoleh 1/4 (satu per empat) dari total sisa harta suaminya apabila dia tidak mempunyai anak.  
+4. Pelaksanaan perlindungan perempuan sebagai kepala keluarga yang ditinggal mati suaminya sebagaimana dimaksud pada ayat (1) meliputi:  
+a. perempuan sebagai kepala keluarga memperoleh 1/8 (satu per delapan) dari total sisa harta suaminya apabila dia mempunyai anak; dan b. perempuan sebagai kepala keluarga memperoleh 1/4 (satu per empat) dari total sisa harta suaminya apabila dia tidak mempunyai anak.  
 5. Pelaksanaan perlindungan perempuan sebagai kepala keluarga akibat perceraian sebagaimana dimaksud pada ayat (1) dalam masa iddah, mantan suami bertanggungjawab untuk memberikan tempat tinggal dan nafkah.  
 
 ### Paragraf 3
@@ -512,10 +516,12 @@ Untuk menjamin pelayanan yang terbaik bagi perempuan korban kekerasan, masyaraka
 
 1. Pemerintah Kabupaten mendorong dunia usaha berpartisipasi dalam perlindungan terhadap perempuan dari tindak kekerasan.  
 2. Partisipasi tersebut dilakukan baik untuk internal maupun eksternal.  
-3. Partisipasi internal sebagaimana dimaksud pada ayat (2) dapat berupa: a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan;  
+3. Partisipasi internal sebagaimana dimaksud pada ayat (2) dapat berupa:  
+a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan;  
 b. membangun sistem internal perempuan untuk menangani persoalan kekerasan terhadap perempuan; dan
 c. menyediakan bantuan sosial sebagai bentuk tanggung jawab sosial perusahaan.  
-4. Partisipasi eksternal sebagaimana dimaksud pada ayat (2) dapat berupa: a. memberikan kesempatan khusus bagi perempuan korban kekerasan untuk bekerja di perusahaan;  
+4. Partisipasi eksternal sebagaimana dimaksud pada ayat (2) dapat berupa:  
+a. memberikan kesempatan khusus bagi perempuan korban kekerasan untuk bekerja di perusahaan;  
 b. membuat pendidikan dan pelatihan khusus bagi perempuan korban kekerasan;  
 c. bantuan pendidikan bagi perempuan korban kekerasan yang tercabut dari pendidikan; dan
 d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban kekerasan.  

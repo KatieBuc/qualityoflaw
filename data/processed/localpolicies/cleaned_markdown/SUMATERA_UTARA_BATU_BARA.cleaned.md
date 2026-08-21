@@ -22,6 +22,7 @@ PROVINSI SUMATERA UTARA r
 
 Menimbang:  
  
+ 
 a. b.  
 c. d. bahwa setiap warga negara berhak mendapatkan rasa aman dan bebas dari segala bentuk Kekerasan;  
 
@@ -105,7 +106,8 @@ d. kepentingan terbaik bagi korban; dane. kepastian hukum.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan: a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
+Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
+a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. melindungi perempuan dan memberikan pelayanan kepada perempuan dan anak korban kekerasan; danc. pemberdayaan perempuan dan anak korban kekerasan.  
 
 # BAB III
@@ -116,7 +118,8 @@ b. melindungi perempuan dan memberikan pelayanan kepada perempuan dan anak korba
 
 #### Pasal 4
 
-Setiap perempuan dan anak korban kekerasan berhak: a. untuk dihormati harkat dan martabatnya sebagai manusia;  
+Setiap perempuan dan anak korban kekerasan berhak:  
+a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan/ atau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;  
 t.: l H .  d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban;  

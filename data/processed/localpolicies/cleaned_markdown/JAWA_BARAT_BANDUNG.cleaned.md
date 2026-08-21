@@ -16,12 +16,14 @@
 
 Menimbang:  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan,  peran dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa dalam rangka melindungi masyarakat,  mewujudkan pemerataan, dan keadilan sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan perlindungan perempuan;  
 d. berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  
 
@@ -107,7 +109,8 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 4
 
-Setiap Perempuan Korban Kekerasan mempunyai hak: a. untuk dihormati harkat dan martabatnya sebagai  manusia;  
+Setiap Perempuan Korban Kekerasan mempunyai hak:  
+a. untuk dihormati harkat dan martabatnya sebagai  manusia;  
 b. atas Rehabilitasi Kesehatan;  
 c. menentukan sendiri keputusannya;  
 d. mendapatkan informasi;  
@@ -125,7 +128,8 @@ k. atas pemulihan kesehatan dan psikologis; dan l. atas perlindungan dari pihak 
 
 #### Pasal 5
 
-Bentuk Kekerasan Terhadap Perempuan meliputi: a. Kekerasan fisik;  
+Bentuk Kekerasan Terhadap Perempuan meliputi:  
+a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
 d. Penelantaran Rumah Tangga;  
@@ -282,7 +286,8 @@ Pemulihan
 b. pendampingan Korban;  
 c. konseling;  
 d. bimbingan rohani; dane. resosialisasi; danf. pemberdayaan ekonomi .  
-2. Untuk kepentingan pemulihan sebagaimana dimaksud  pada ayat (1) Pemerintah Daerah wajib menyediakan: a. ruang pelayanan khusus di kantor Kepolisian  Republik Indonesia;  
+2. Untuk kepentingan pemulihan sebagaimana dimaksud  pada ayat (1) Pemerintah Daerah wajib menyediakan:  
+a. ruang pelayanan khusus di kantor Kepolisian  Republik Indonesia;  
 b. tenaga yang ahli dan profesional;  
 c. pusat pelayanan dan rumah aman; dand. sarana dan prasarana lain yang diperlukan untuk  pemulihan Korban.  
 3. Tenaga yang ahli dan profesional sebagaimana  dimaksud pada ayat (2) huruf b terdiri atas:a. tenaga kesehatan;  
@@ -496,7 +501,8 @@ Huruf a Yang dimaksud dengan kekerasan fisik adalah disebabkan  karena perbuatan
 
 Huruf b Yang dimaksud dengan kekerasan psikis adalah disebabkan  karena perbuatan yang mengakibatkan ketakutan, hilangnya  rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa  tidak berdaya dan/atau penderitaan psikis berat pada  seseorang.  
 
-Huruf c Yang dimaksud dengan kekerasan seksual sebagaimana  dimaksud dalam Pasal 15 huruf c disebabkan karena: a. perbuatan yang berupa pelecehan seksual;  
+Huruf c Yang dimaksud dengan kekerasan seksual sebagaimana  dimaksud dalam Pasal 15 huruf c disebabkan karena:  
+a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau  tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
 

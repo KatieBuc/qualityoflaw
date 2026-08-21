@@ -163,12 +163,14 @@ Bentuk dan Mekanisme Pelayanan Pencegahan dan Penjagaan
 
 #### Pasal 8
 
-1. Perumusan kebijakan, perencanaan program dan anggaran untuk  pelayanan pencegahan dan penjagaan dilaksanakan dengan mekanisme: a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan;  
+1. Perumusan kebijakan, perencanaan program dan anggaran untuk  pelayanan pencegahan dan penjagaan dilaksanakan dengan mekanisme:  
+a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan;  
 b. koordinasi dan sinkronisasi perencanaan program dengan SKPD  terkait;  
 c. penyusunan program dan kegiatan yang didukung penganggaran;  dand. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Pelaksanaan Penyelenggaraan pencegahan dan penjagaan perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan  dilaksanakan dengan mekanisme:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  pengganggaran SKPD;  
 b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan  dengan SKPD terkait; danc. monitoring, evaluasi dan pelaporan atas kebijakan, program dan  kegiatan penyelenggaraan perlindungan perempuan dan anak. (3) Mekanisme penyusunan kebijakan, program dan kegiatan dan layanan  diatur lebih lanjut dalam standar pelayanan minimum dan standar  operasional prosedur pada Peraturan Bupati.  
 4. Perumusan kebijakan, program dan kegiatan penyelenggaraan penjagaan  perempuan dan anak rentan menjadi korban kekerasan dikoordinasikan  oleh SKPD yang membidangi Perencanaan Pembangunan Daerah.  
-5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara: a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
+5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara:  
+a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan antar pemangku kepentingan;  
 c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dand. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.  
 
@@ -269,7 +271,8 @@ Dunia Usaha dapat berperan dalam melaksanakan kewajiban dan  tanggungjawab terha
 #### Pasal 18
 
 1. Pejabat pegawai negeri sipil tertentu di lingkungan Pemerintah Kabupaten  diberi wewenang untuk melaksanakan penyidikan terhadap pelanggaran  ketentuan-ketentuan dalam Peraturan Daerah ini.  
-2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah: a. menerima laporan atau pengaduan dari seseorang atau keluarga dan  orang lain, mengenai adanya tindakan atas pelanggaran Peraturan  Daerah;  
+2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah:  
+a. menerima laporan atau pengaduan dari seseorang atau keluarga dan  orang lain, mengenai adanya tindakan atas pelanggaran Peraturan  Daerah;  
 b. melakukan tindakan pertama dan pemeriksaan di tempat kejadian;  
 c. mendatangkan ahli yang diperlukan dalam hubungannya dengan  pemeriksaan perkara;  
 d. memanggil orang untuk didengar keterangannya dan diperiksa sebagai  saksi atau tersangka;  

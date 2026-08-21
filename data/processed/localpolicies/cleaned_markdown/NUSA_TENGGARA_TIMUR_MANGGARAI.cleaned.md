@@ -65,7 +65,8 @@ Asas
 
 #### Pasal 2
 
-Asas-asas dalam penyelenggaraan perlindungan perempuan dan anak adalah: a. kesetaraan dan keadilan gender;  
+Asas-asas dalam penyelenggaraan perlindungan perempuan dan anak adalah:  
+a. kesetaraan dan keadilan gender;  
 b. non diskriminatif;  
 c. pemberdayaan;  
 d. kepentingan terbaik korban;  
@@ -94,7 +95,8 @@ c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; dand. memu
 
 #### Pasal 4
 
-Bentuk-bentuk kekerasan sebagaimana dimaksud dalam Pasal 3 berupa: a. kekerasan fisik;  
+Bentuk-bentuk kekerasan sebagaimana dimaksud dalam Pasal 3 berupa:  
+a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  

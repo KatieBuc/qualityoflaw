@@ -30,6 +30,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, d
 
 } Mengingat:  
  
+ 
 1.  
 
 2. 3.  

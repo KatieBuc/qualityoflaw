@@ -16,11 +16,13 @@
 
 Menimbang:  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan  anak agar dapat berpartisipasi secara optimal sesuai dengan  harkat dan martabat kemanusiaan, serta mendapat perlindungan  dari kekerasan, perlu dilakukan upaya-upaya perlindungan  terhadap perempuan dan anak secara optimal melalui  peningkatan peran serta masyarakat secara luas;  
 b. bahwa maraknya kasus kekerasan terhadap perempuan dan  anak di Kabupaten Garut diperlukan penanganan dan tindakan  nyata dari Pemerintah Daerah untuk menyusun kebijakan dan  program untuk menghapuskan segala bentuk kekerasan  terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -111,7 +113,8 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari kekerasan berdasarkan asas: a. kemanusiaan;  
+Perlindungan perempuan dan anak dari kekerasan berdasarkan asas:  
+a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
 d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.  
@@ -122,7 +125,8 @@ Maksud pengaturan mengenai perlindungan perempuan dan anak dari tindak  kekerasa
 
 #### Pasal 4
 
-Tujuan perlindungan perempuan dan anak dari kekerasan adalah: a. mencegah kekerasan terhadap perempuan dan anak;  
+Tujuan perlindungan perempuan dan anak dari kekerasan adalah:  
+a. mencegah kekerasan terhadap perempuan dan anak;  
 b. menghapus segala bentuk kekerasan terhadap perempuan dan anak;  
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak korban kekerasan;  
@@ -134,7 +138,8 @@ e. melakukan rehabilitasi dan reintegrasi terhadap perempuan dan anak korban  ke
 
 #### Pasal 5
 
-Ruang lingkup perlindungan perempuan dan anak dari kekerasan, sebagai berikut: a. bentuk-bentuk kekerasan terhadap perempuan dan anak;  
+Ruang lingkup perlindungan perempuan dan anak dari kekerasan, sebagai berikut:  
+a. bentuk-bentuk kekerasan terhadap perempuan dan anak;  
 b. hak-hak korban;  
 c. kewajiban dan tanggung jawab;  
 d. penyelenggaraan perlindungan perempuan dan anak dari kekerasan;  
@@ -161,7 +166,8 @@ e. eksploitasi; dan/atauf. kekerasan lainnya.
 
 1. Kekerasan fisik sebagaimana dimaksud dalam Pasal 6 huruf a merupakan perbuatan yang mengakibatkan rasa sakit disertai cidera, luka atau cacat pada  tubuh, gugurnya kandungan, pingsan dan/atau menyebabkan kematian perempuan dan/atau anak.  
 2. Kekerasan psikis sebagaimana dimaksud dalam Pasal 6 huruf b merupakan perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri,  hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau  penderitaan psikis pada perempuan dan/atau anak.  
-3. Kekerasan seksual sebagaimana dimaksud dalam Pasal 6 huruf c, meliputi: a. perbuatan yang berupa pelecehan seksual, terdiri dari:
+3. Kekerasan seksual sebagaimana dimaksud dalam Pasal 6 huruf c, meliputi:  
+a. perbuatan yang berupa pelecehan seksual, terdiri dari:
 1. pelecehan fisik;  
 2. pelecehan lisan;  
 3. pelecehan isyarat;  
@@ -182,7 +188,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak
 
 #### Pasal 8
 
-Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut: a. hak untuk dihormati harkat dan martabat sebagai manusia;  
+Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut:  
+a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami  korban;  
 c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -248,7 +255,8 @@ Masyarakat
 #### Pasal 13
 
 1. Masyarakat sebagaimana dimaksud dalam Pasal 10 huruf c berkewajiban dan  bertanggung jawab terhadap perlindungan perempuan dan anak melalui kegiatan  peran serta masyarakat dalam perlindungan perempuan dan anak.  
-2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi: a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
+2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam penanganan korban tindak kekerasan.  
 
 ## Bagian Kelima
@@ -300,12 +308,14 @@ Pelayanan
 
 #### Pasal 17
 
-Pelayanan sebagaimana dimaksud dalam Pasal 15 huruf b, memperhatikan: a. prinsip pelayanan; dan
+Pelayanan sebagaimana dimaksud dalam Pasal 15 huruf b, memperhatikan:  
+a. prinsip pelayanan; dan
 b. bentuk pelayanan terhadap korban.  
 
 #### Pasal 18
 
-Prinsip pelayanan sebagaimana dimaksud dalam Pasal 17 huruf a, terdiri atas: a. cepat;  
+Prinsip pelayanan sebagaimana dimaksud dalam Pasal 17 huruf a, terdiri atas:  
+a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
 d. non diskriminasi;  
@@ -392,7 +402,8 @@ Pemberdayaan
 
 #### Pasal 27
 
-Pemberdayaan perempuan sebagaimana dimaksud dalam Pasal 15 huruf d, meliputi: a. meningkatkan ketahanan hidup;  
+Pemberdayaan perempuan sebagaimana dimaksud dalam Pasal 15 huruf d, meliputi:  
+a. meningkatkan ketahanan hidup;  
 b. meningkatkan usaha ekonomi; danc. meningkatkan partisipasi perempuan sebagai pembangun, penengah dan  perunding perdamaian.  
 
 #### Pasal 28
@@ -439,7 +450,8 @@ c. ahli hukum;
 d. psikolog;  
 e. psikiater;  
 f. tokoh agama; dang. unsur masyarakat.  
-3. Tugas pokok dari P2TP2A sebagaimana dimaksud pada ayat (1) adalah: a. memberikan perlindungan terhadap perempuan dan anak; dan b. meningkatkan kualitas hidup perempuan dan anak.  
+3. Tugas pokok dari P2TP2A sebagaimana dimaksud pada ayat (1) adalah:  
+a. memberikan perlindungan terhadap perempuan dan anak; dan b. meningkatkan kualitas hidup perempuan dan anak.  
 4. Ketentuan lebih lanjut mengenai pembentukan P2TP2A ditetapkan dengan  Keputusan Bupati.  
 
 ## Bagian Ketiga

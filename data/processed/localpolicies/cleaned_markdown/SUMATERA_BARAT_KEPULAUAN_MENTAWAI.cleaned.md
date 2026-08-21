@@ -108,10 +108,13 @@ Forum Partisipasi Publik untuk Kesejahteraan Perempuan dan Anak yang selanjutnya
 28. forum yang dibentuk untuk meningkatkan partisipasi masyarakat dalam mensejahterakan perempuan dan Anak. Kabupaten Layak Anak yang selanjutnya disebut KLA
 29. adalah kabupaten yang mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan kemampuan dan sumber daya pemerintah, masyarakat, dunia usaha yang terencana, berkelanjutan dalam kebijakan, program, kegiatan untuk menjamin terpenuhinya hak anak.  
 
-Pasal Pengaturan Pemberdayaan Perempuan dan Perlindungan Anak berasaskan: a. penghormatan hak asasi manusia,
-b. non diskriminasi: C. keadilan dan Kesetaraan Gender:d. kepentingan terbaik bagi perempuan dan anak, e. perlindungan korban, danf. kebersamaan.  
+Pasal Pengaturan Pemberdayaan Perempuan dan Perlindungan Anak berasaskan:  
+a. penghormatan hak asasi manusia,
+b. non diskriminasi:  
+C. keadilan dan Kesetaraan Gender:d. kepentingan terbaik bagi perempuan dan anak, e. perlindungan korban, danf. kebersamaan.  
 
-Pasal Tujuan Pemberdayaan Perempuan dan Perlindungan Anak adalah: a. meningkatkan kualitas hidup perempuan, anak, dan kualitas Keluarga,
+Pasal Tujuan Pemberdayaan Perempuan dan Perlindungan Anak adalah:  
+a. meningkatkan kualitas hidup perempuan, anak, dan kualitas Keluarga,
 b. meningkatkan kapasitas kelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah, termasuk pengembangan sistim data Gender dan Anak, danc. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk Perlindungan Khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya. Pasal Ruang lingkup Peraturan Daerah ini mencakup:a. Pemberdayaan Perempuan:b. penyelenggaraan Perlindungan Anak, Cc. pelayanan perlindungan perempuan korban kekerasan dan Perlindungan Khusus Anak, peningkatan kualitas Keluarga, penguatan dan peningkatan kelembagaan, kerja sama, peran serta masyarakat, pembinaan dan pengawasan, sanksi, dan penutup.  
 
 # BAB II
@@ -123,7 +126,9 @@ Pasal (1) Pemberdayaan Perempuan dilaksanakan melalui pelaksanaan hak dan kewaji
 Pasal Pemberdayaan Perempuan diarahkan untuk memperoleh kesempatan dan hak-hak sebagai manusia agar mampu berperan dan berpartisipasi di bidang:
 a. ekonomi,b. sosial budaya, Cc. politik, dand. hukum.  
 
-Pasal Pemberdayaan Perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal huruf dilaksanakan melalui: a. pemberian keterampilan dan pelatihan kerja, b. fasilitasi pembentukan kelompok usaha ekonomi produktif: c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif, d. fasilitasi dan bantuan permodalan, dan
+Pasal Pemberdayaan Perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal huruf dilaksanakan melalui:  
+a. pemberian keterampilan dan pelatihan kerja, b. fasilitasi pembentukan kelompok usaha ekonomi produktif:  
+c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif, d. fasilitasi dan bantuan permodalan, dan
 e. fasilitasi pengembangan jaringan pemasaran.  
 
 Pasal Pemberdayaan Perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal huruf dilaksanakan melalui:
@@ -183,7 +188,8 @@ Paragraf Kewajiban dan Tanggung Jawab Organisasi Kemasyarakatan dalam Pemenuhan 
 
 #### Pasal 16
 
-(l) Setiap organisasi kemasyarakatan dalam pemenuhan hak perempuan mempunyai kewajiban dan tanggung jawab: a. mengakomodir keterwakilan perempuan dalam kepengurusan, b. memiliki program di bidang Pemberdayaan Perempuan, dan C. ikut serta mencegah terjadinya pelanggaran terhadap pemenuhan hak perempuan.  
+(l) Setiap organisasi kemasyarakatan dalam pemenuhan hak perempuan mempunyai kewajiban dan tanggung jawab:  
+a. mengakomodir keterwakilan perempuan dalam kepengurusan, b. memiliki program di bidang Pemberdayaan Perempuan, dan C. ikut serta mencegah terjadinya pelanggaran terhadap pemenuhan hak perempuan.  
 
 2. Setiap organisasi kemasyarakatan yang tidak memenuhi kewajibannya sebagaimana dimaksud pada ayat (1) huruf tidak diberikan layanan pengurusan surat keterangan terdaftar dari Pemerintah Daerah.  
 
@@ -191,7 +197,9 @@ Paragraf Kewajiban dan Tanggung Jawab Pelaku Usaha dalam Pemenuhan Hak Perempuan
 
 #### Pasal 17
 
-1. Setiap pelaku usaha dalam pemenuhan hak perempuan secara umum mempunyai kewajiban dan tanggung jawab: a. melindungi pekerja perempuan dari ancaman kekerasan, Diskriminasi, pelecehan, dan intimidasi, b. menyediakan lowongan pekerjaan bagi perempuan: c. memberikan kesempatan kepada perempuan untuk dipekerjakan sesuai jenis pekerjaan yang dapat dikerjakan oleh perempuan,d. mengikutsertakan seluruh karyawan sebagai peserta jaminan kesehatan nasional dan jaminan ketenagakerjaan sesuai ketentuan peraturan perundang-undangan,e. mematuhi segala aturan yang berlaku dalam pemenuhan hak perempuan, danf. menyediakan ruang laktasi.  
+1. Setiap pelaku usaha dalam pemenuhan hak perempuan secara umum mempunyai kewajiban dan tanggung jawab:  
+a. melindungi pekerja perempuan dari ancaman kekerasan, Diskriminasi, pelecehan, dan intimidasi, b. menyediakan lowongan pekerjaan bagi perempuan:  
+c. memberikan kesempatan kepada perempuan untuk dipekerjakan sesuai jenis pekerjaan yang dapat dikerjakan oleh perempuan,d. mengikutsertakan seluruh karyawan sebagai peserta jaminan kesehatan nasional dan jaminan ketenagakerjaan sesuai ketentuan peraturan perundang-undangan,e. mematuhi segala aturan yang berlaku dalam pemenuhan hak perempuan, danf. menyediakan ruang laktasi.  
 2. Selain kewajiban dan tanggung jawab pelaku usaha secara umum sebagaimana dimaksud pada ayat (1), khusus:a. setiap pemilik/pengelola usaha di bidang industri dan perdagangan mempunyai kewajiban dan tanggung jawab:
 1. tidak menugaskan karyawan perempuan yang sedang hamil atau menyusui untuk bekerja pada malam hari: 2) menyediakan ruang laktasi: dan
 3. menetapkan tempat/ruangan kerja tertentu sebagai kawasan tanpa rokok.  b. setiap pengelola/pemilik usaha di bidang perhotelan, penginapan, homestay, pesanggrahan, resort, pondok wisata, dan tempat menginap sejenis lainnya dilarang: 1) mengizinkan perempuan menginap satu kamar dengan laki-laki, kecuali memiliki hubungan suami istri atau anak kandung,
@@ -257,7 +265,9 @@ Penyelenggaraan Kabupaten Layak Anak
 
 #### Pasal 27
 
-Upaya pemenuhan hak Anak diselenggarakan melalui KLA (1) berdasarkan asas Pancasila dan berlandaskan Undang- Undang Dasar Negara Republik Indonesia Tahun 1945. (2) Upaya KLA sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip: a. non-diskriminasi: b. kepentingan terbaik bagi Anak,
+Upaya pemenuhan hak Anak diselenggarakan melalui KLA (1) berdasarkan asas Pancasila dan berlandaskan Undang- Undang Dasar Negara Republik Indonesia Tahun 1945. (2) Upaya KLA sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:  
+a. non-diskriminasi:  
+b. kepentingan terbaik bagi Anak,
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan Anak, d. penghargaan terhadap pandangan Anak, dan e. tata pemerintahan yang baik.  
 3. Penyelenggaraan KLA sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai ketentuan perundang-undangan.  
 
@@ -283,7 +293,8 @@ e.
 
 Setiap Anak berhak mendapatkan Perlindungan Khusus.  
 
-1. Anak yang memerlukan Perlindungan Khusus (2) sebagaimana dimaksud pada ayat (1) meliputi: a. Anak dalam situasi darurat:b. Anak yang berhadapan dengan hukum,c. Anak dari kelompok minoritas dan terisolasi,d. Anak yang dieksploitasi secara ekonomi dan/atau seksual,e. Anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya, Anak yang menjadi korban pornografi,g. Anak dengan human immunodeficiency virus (HIV)/h. 1.  
+1. Anak yang memerlukan Perlindungan Khusus (2) sebagaimana dimaksud pada ayat (1) meliputi:  
+a. Anak dalam situasi darurat:b. Anak yang berhadapan dengan hukum,c. Anak dari kelompok minoritas dan terisolasi,d. Anak yang dieksploitasi secara ekonomi dan/atau seksual,e. Anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya, Anak yang menjadi korban pornografi,g. Anak dengan human immunodeficiency virus (HIV)/h. 1.  
 
 acguired immuno deficiency syndrome (AIDSJ: Anak korban penculikan, penjualan, dan/atau perdagangan, Anak korban kekerasan fisik dan/atau psikis, Anak korban kejahatan seksual, Anak korban jaringan terorisme, Anak Penyandang Disabilitas, Anak korban perlakuan salah dan penelantaran, Anak dengan perilaku sosial menyimpang, dan Anak yang menjadi korban stigmatisasi dari pelabelan
 m. n. terkait dengan kondisi orang tuanya.  
@@ -329,7 +340,8 @@ Paragraf Kewajiban dan Tanggung Jawab Pelaku Usaha dalam Pemenuhan Hak dan Perli
 #### Pasal 36
 
 Setiap pelaku usaha dalam pemenuhan hak dan (1) Perlindungan Anak secara umum mempunyai kewajiban dan tanggung jawab:
-a. tidak mempekerjakan anak sebagai pegawai/karyawan, b. mematuhi segala aturan yang berlaku dalam pemenuhan hak dan Perlindungan Anak. Selain kewajiban dan tanggung jawab pelaku usaha secara (2) umum sebagaimana dimaksud pada ayat (1), khusus: a. setiap pemilik/pengelola usaha di bidang industri dan perdagangan mempunyai kewajiban dan tanggung jawab:
+a. tidak mempekerjakan anak sebagai pegawai/karyawan, b. mematuhi segala aturan yang berlaku dalam pemenuhan hak dan Perlindungan Anak. Selain kewajiban dan tanggung jawab pelaku usaha secara (2) umum sebagaimana dimaksud pada ayat (1), khusus:  
+a. setiap pemilik/pengelola usaha di bidang industri dan perdagangan mempunyai kewajiban dan tanggung jawab:
 1. tidak menugaskan karyawan perempuan yang sedang hamil atau menyusui untuk bekerja pada malam hari, dan
 2. menyediakan ruangan khusus bagiibu menyusui. b. setiap pengelola/pemilik usaha di bidang perhotelan, penginapan, homestay, pesanggrahan, resort, pondok wisata, kos, dan tempat menginap sejenis lainnya dilarang mengizinkan Anak menginap tanpa didampingi Orang tua atau wali, kecuali atas izin orang tua atau wali, Cc. setiap pemilik pengelola pusat perbelanjaan, minimarket, dan tempat belanja sejenis lainnya dilarang untuk:
 1. melayani Anak untuk berbelanja rokok, minuman beralkohol, dan alat kontrasepsi,
@@ -378,7 +390,9 @@ Forum Anak Daerah mempunyai fungsi sebagai wadah partisipasi Anak dalam menampun
 
 #### Pasal 43
 
-1. Forum Anak mempunyai peran: a. sebagai pelopor dan pelapor: danb. partisipasi Anak dalam perencanaan pembangunan. (2) Pelaksanaan peran sebagai pelopor dan pelapor melalui Partisipasi Anak dalam perencanaan pembangunan sebagaimana dimaksud pada ayat (1) berupa isu terkait pemenuhan Hak Anak dan Perlindungan Khusus Anak. (3) Forum Anak memiliki alat kelengkapan yang terdiri atas: a. pembina, b. pendamping, c. fasilitator:d. pengurus, dane. anggota.  
+1. Forum Anak mempunyai peran:  
+a. sebagai pelopor dan pelapor: danb. partisipasi Anak dalam perencanaan pembangunan. (2) Pelaksanaan peran sebagai pelopor dan pelapor melalui Partisipasi Anak dalam perencanaan pembangunan sebagaimana dimaksud pada ayat (1) berupa isu terkait pemenuhan Hak Anak dan Perlindungan Khusus Anak. (3) Forum Anak memiliki alat kelengkapan yang terdiri atas:  
+a. pembina, b. pendamping, c. fasilitator:d. pengurus, dane. anggota.  
 
 #### Pasal 44
 
@@ -421,7 +435,8 @@ pengaduan masyarakat, penjangkauan korban, pengelolaan kasus, penampungan sement
 
 #### Pasal 49
 
-UPTD PPA dalam memberikan pelayanan perlindungan terhadap perempuan korban kekerasan dan bagi Anak yang memerlukan Perlindungan Khusus berkoordinasi dengan: a. rumah sakit, pusat kesehatan masyarakat serta fasilitas layanan kesehatan lainnya,
+UPTD PPA dalam memberikan pelayanan perlindungan terhadap perempuan korban kekerasan dan bagi Anak yang memerlukan Perlindungan Khusus berkoordinasi dengan:  
+a. rumah sakit, pusat kesehatan masyarakat serta fasilitas layanan kesehatan lainnya,
 b. balai pemasyarakatan,c. kepolisian sektor, d. kepolisian resor:e. kepolisian daerah,f. kejaksaan negeri,g. kejaksaan tinggi, h.  
 
 pengadilan negeri dan pengadilan tinggi, balai pelayanan penempatan dan perlindungan tenaga
@@ -457,7 +472,8 @@ Bupati melakukan pemantauan, evaluasi, dan pelaporan peningkatan kualitas Keluar
 
 #### Pasal 55
 
-Ruang lingkup Peningkatan Kualitas Keluarga meliputi: a. perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan peningkatan Kualitas Keluarga yang responsif Gender dan Hak Anak dalam kebijakan, program, dan kegiatan yang sasarannya ditujukan untuk Keluarga,
+Ruang lingkup Peningkatan Kualitas Keluarga meliputi:  
+a. perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan peningkatan Kualitas Keluarga yang responsif Gender dan Hak Anak dalam kebijakan, program, dan kegiatan yang sasarannya ditujukan untuk Keluarga,
 b. penguatan dan pengembangan kelembagaan penyedia layanan peningkatan kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak: dan Cc. standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak.  
 
 #### Pasal 56
@@ -471,7 +487,8 @@ a. perumusan kebijakan teknis peningkatan kualitas Keluarga,b. koordinasi pening
 
 Dalam peningkatan kualitas Keluarga sebagaimana dimaksud dalam Pasal 56, Pemerintah Daerah (1) menyediakan layanan bagi Keluarga guna mewujudkan Kesetaraan Gender dan Hak Anak dengan wilayah kerja pada lintas Desa.  
 
-Penyediaan layanan peningkatan kualitas Keluarga (2) sebagaimana dimaksud pada ayat (1) dilaksanakan melalui: a. sosialisasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, b. advokasi pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, Cc. koordinasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, d. implementasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, e. pendampingan pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah:
+Penyediaan layanan peningkatan kualitas Keluarga (2) sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:  
+a. sosialisasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, b. advokasi pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, Cc. koordinasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, d. implementasi pedoman standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, e. pendampingan pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah:
 f. “sertifikasi sumber daya manusia di lembaga penyedia layanan peningkatan kualitas Keluarga berbasis pada pedoman sertifikasi kompetensi sumber daya manusia lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah:g. penguatan dan pengembangan lembaga penyedia layanan peningkatan kualitas Keluarga yang terstandardisasi di Daerah, h. melakukan bimbingan teknis dan supervisi pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah,i. pendampingan dan pembinaan pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah,j. pemantauan dan evaluasi pelaksanaan standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah, dank. pengembangan/replikasi standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga di Daerah. (3) Penyediaan layanan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Dinas. Pasal 58 (1) Penyediaan layanan bagi Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak sebagaimana dimaksud dalam Pasal 57 diberikan melalui:a. b. Cc.  d. e.  
 
 pemberian pelatihan kewirausahaan dalam rangka meningkatkan ekonomi, pemberian penyuluhan hukum untuk meningkatkan kesadaran hukum: pemberian kesempatan berpartisipasi pada kegiatan pembangunan, pemberian pendampingan bagi perempuan, Anak dan Keluarga, dan/atau peningkatan peran Keluarga dalam mengupayakan pernikahan Anak sesuai dengan usia yang ditetapkan dalam ketentuan peraturan perundang-undangan.  
@@ -489,7 +506,8 @@ penguatan kelembagaan peningkatan kualitas Keluarga dalam mewujudkan Kesetaraan 
 
 musyawarah, penyampaian aspirasi, pengawasan, kunjungan kerja, sosialisasi dan advokasi, seminar dan lokakarya, rapat dengar pendapat umum atau diskusi, dan/atau j. kajianisu perempuan dan Anak.  
 
-3. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mekanisme sebagai berikut: a. sosialisasi pedoman pelaksanaan kebijakan peningkatan kualitas Keluarga kepada lembaga masyarakat,b. pembentukan dan pengembangan forum koordinasi peningkatan kualitas Keluarga bersama dengan pemerintah atau masyarakat lainnya, c. berperan serta dalam implementasi peningkatan kualitas Keluarga, dan/ataud. pemantauan dan evaluasi.  
+3. Partisipasi masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan dengan mekanisme sebagai berikut:  
+a. sosialisasi pedoman pelaksanaan kebijakan peningkatan kualitas Keluarga kepada lembaga masyarakat,b. pembentukan dan pengembangan forum koordinasi peningkatan kualitas Keluarga bersama dengan pemerintah atau masyarakat lainnya, c. berperan serta dalam implementasi peningkatan kualitas Keluarga, dan/ataud. pemantauan dan evaluasi.  
 
 #### Pasal 60
 
@@ -511,7 +529,8 @@ Peningkatan kualitas Keluarga serta pemantauan, evaluasi dan pelaporan peningkat
 
 #### Pasal 63
 
-Penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud dalam Pasal 61 meliputi: a. penguatan manajemen, b. penyediaan data dan informasi, C. pengembangan kemitraan,
+Penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud dalam Pasal 61 meliputi:  
+a. penguatan manajemen, b. penyediaan data dan informasi, C. pengembangan kemitraan,
 d. dukungan keahlian, program, dan pendampingan, e. penguatan kepemimpinan dan kaderisasi:f. pemberian penghargaan, dan/ataug. fasilitasi penelitian dan pengembangan.  
 
 #### Pasal 64
@@ -526,7 +545,8 @@ Ketentuan lebih lanjut mengenai penguatan dan pengembangan lembaga penyedia laya
 
 1. Pemerintah Daerah menyelenggarakan data Gender dan Anak dalam rangka Pemberdayaan Perempuan dan Perlindungan Anak.  
 2. Dalam melakukan penyelenggaraan sistem data Gender dan Anak sebagaimana dimaksud pada ayat (1), Daerah dapat membentuk atau mengembangkan forum/kelompok kerja data terpilah.  
-3. Forum/kelompok kerja data terpilah sebagaimana dimaksud pada ayat (2), memiliki tugas antara lain: a. mengoordinasikan unit-unit pengelola data, unit penelitian, unit perencanaan, dan unit pelaporan di internal maupun eksternal dalam penyelenggaraan sistem data Gender dan Anak,b. mendorong unit pelaksana/satuan kerja untuk mengumpulkan dan memanfaatkan data terpilah dan analisis gender dan anak di dalam menyusun perencanaan, pelaksanaan, evaluasi dan pelaporan kegiatan pembangunan responsif Gender dan peduli Anak, Cc. mendorong unit pengelola data, unit penelitian, dan unit pelaporan mendokumentasikan dan mendiseminasikan data terpilah ke dalam publikasi dan sistim database yang diperbaharui secara rutin, d. melakukan pemantauan dan evaluasi penyelenggaraan sistim data gender dan anak paling sedikit (satu) kali dalam (satu) tahun, dan e. melaporkan hasil pelaksanaan penyelenggaraan sistim data Gender dan Anak kepada Bupati.  
+3. Forum/kelompok kerja data terpilah sebagaimana dimaksud pada ayat (2), memiliki tugas antara lain:  
+a. mengoordinasikan unit-unit pengelola data, unit penelitian, unit perencanaan, dan unit pelaporan di internal maupun eksternal dalam penyelenggaraan sistem data Gender dan Anak,b. mendorong unit pelaksana/satuan kerja untuk mengumpulkan dan memanfaatkan data terpilah dan analisis gender dan anak di dalam menyusun perencanaan, pelaksanaan, evaluasi dan pelaporan kegiatan pembangunan responsif Gender dan peduli Anak, Cc. mendorong unit pengelola data, unit penelitian, dan unit pelaporan mendokumentasikan dan mendiseminasikan data terpilah ke dalam publikasi dan sistim database yang diperbaharui secara rutin, d. melakukan pemantauan dan evaluasi penyelenggaraan sistim data gender dan anak paling sedikit (satu) kali dalam (satu) tahun, dan e. melaporkan hasil pelaksanaan penyelenggaraan sistim data Gender dan Anak kepada Bupati.  
 
 #### Pasal 66
 
@@ -601,7 +621,8 @@ Kepala Dinas mengoordinasikan Forum Puspa tingkat Daerah. (5)
 
 Forum Puspa tingkat Daerah sebagaimana dimaksud (1) dalam Pasal 73 mempunyai tugas mengoordinasikan dan menyinergikan partisipasi masyarakat dalam penyelenggaraan bidang Pemberdayaan Perempuan dan Perlindungan Anak di tingkat Daerah.  
 
-Dalam melaksanakan tugas mengoordinasikan (2) sebagaimana dimaksud pada ayat (1), Forum Puspa tingkat Daerah melakukan: a. komunikasi,
+Dalam melaksanakan tugas mengoordinasikan (2) sebagaimana dimaksud pada ayat (1), Forum Puspa tingkat Daerah melakukan:  
+a. komunikasi,
 b. perencanaan waktu dan jadwal kegiatan,c. fleksibilitas dalam perubahan, dand. pengendalian. Dalam melaksanakan tugas menyinergikan sebagaimana dimaksud pada ayat (1), Forum Puspa tingkat Daerah melakukan: (3)a. penyamaan visi, misi, dan tujuan,b. pemahaman kelebihan dan bakat rekan satu tim, C. persamaan konsep dan cara berpikir,d. perencanaan yang baik,e. pembagian kerja dan peran yang jelas, dan f. upaya membangun komunikasi yang jujur dan saling terbuka.  
 
 Dalam melaksanakan tugas sebagaimana dimaksud pada (4) ayat (1), Forum Puspa tingkat Daerah menyelenggarakan fungsi:

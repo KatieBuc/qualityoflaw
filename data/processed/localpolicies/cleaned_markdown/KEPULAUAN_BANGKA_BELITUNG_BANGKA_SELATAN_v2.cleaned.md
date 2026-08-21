@@ -14,11 +14,13 @@ PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 
 Menimbang:  
  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang sama  dalam berpartisipasi di berbagai bidang kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi  yang berkualitas sehingga perlu mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
@@ -115,7 +117,8 @@ c. nondiskriminasi; dand. perlindungan korban.
 
 #### Pasal 4
 
-Pemberdayaan dan Perlindungan Perempuan bertujuan untuk: a. meningkatkan partisipasi perempuan dalam proses  pembangunan;  
+Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:  
+a. meningkatkan partisipasi perempuan dalam proses  pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
 c. memberikan jaminan kepada perempuan dalam pemenuhan  hak sebagai manusia;dand. memberikan rasa aman dengan meningkatkan perlindungan  kepada perempuan dari berbagai tindak kekerasan.  
 
@@ -213,7 +216,8 @@ Bidang Hukum
 
 #### Pasal 11
 
-1. Pemberdayaan perempuan di bidang hukum meliputi: a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
+1. Pemberdayaan perempuan di bidang hukum meliputi:  
+a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan perempuan di bidang hukum sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan yang berlaku.  
 
 www.jdih.bangkaselatankab.go.id
@@ -224,7 +228,8 @@ Bidang Pendidikan
 
 #### Pasal 12
 
-Pemberdayaan perempuan di bidang pendidikan melalui: a. penyelenggaraan pendidikan formal dan nonformal bagi  perempuan di Kabupaten Bangka Selatan.  
+Pemberdayaan perempuan di bidang pendidikan melalui:  
+a. penyelenggaraan pendidikan formal dan nonformal bagi  perempuan di Kabupaten Bangka Selatan.  
 b. Pendidikan nonformal yang bertujuan meningkatkan  kemampuan perempuan.  c. Pendidikan nonformal sebagaimana dimaksud pada huruf b,  meliputi pendidikan pemberdayaan perempuan, pendidikan  ketrampilan dan pelatihan kerja.  d. Pendidikan formal dan nonformal sebagaimana dimaksud  pada huruf a, diatur dengan Peraturan Daerah tersendiri.  
 
 ## Bagian Keenam
@@ -267,7 +272,8 @@ Umum
 
 #### Pasal 16
 
-Pelaksanaan perlindungan perempuan diberikan kepada: a. perempuan pekerja / buruh;  
+Pelaksanaan perlindungan perempuan diberikan kepada:  
+a. perempuan pekerja / buruh;  
 b. perempuan lanjut usia;  
 c. perempuan penyandang disabilitas;  
 d. perempuan tuna wisma;  
@@ -295,7 +301,8 @@ Perempuan Lanjut Usia
 #### Pasal 18
 
 1. Pelaksanaan perlindungan bagi perempuan lanjut usia dalam  rangka memperpanjang usia harapan hidup agar dapat  melaksanakan fungsi sosialnya dan berperan aktif secara  wajar dalam kehidupan sosialnya.  
-2. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1)  mendapatkan hak Perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi: b. partisipasi dibidang pendidikan, kesehatan, pekerjaan,  politik, seni dan budaya serta pemanfaatan teknologi  informasi dan komunikasi:c. aksebilitas informasi, bantuan hukum, mobilitas, layanan  sosial; dand. upaya intervensi dini termasuk pengobatan dan  rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
+2. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1)  mendapatkan hak Perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi:  
+b. partisipasi dibidang pendidikan, kesehatan, pekerjaan,  politik, seni dan budaya serta pemanfaatan teknologi  informasi dan komunikasi:c. aksebilitas informasi, bantuan hukum, mobilitas, layanan  sosial; dand. upaya intervensi dini termasuk pengobatan dan  rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Ketiga
 
@@ -304,7 +311,8 @@ Perempuan Penyandang Disabilitas
 #### Pasal 19
 
 1. Pelaksanaan Perlindungan bagi perempuan penyandang  disabilitas dalam rangka memberikan perlindungan dan  pencegahan terhadap bentuk-bentuk diskriminasi antara lain  bebas dari perlakuan kejam, tidak manusiawi, merendahkan  martabat manusia dan bebas dari eksploitasi;  
-2. Perempuan penyandang disabilitas sebagaimana dimaksud  pada ayat (1) mendapatkan hak perlindungan atas: a. jaminan keberlangsungan dan pengembangan diri pribadi;  
+2. Perempuan penyandang disabilitas sebagaimana dimaksud  pada ayat (1) mendapatkan hak perlindungan atas:  
+a. jaminan keberlangsungan dan pengembangan diri pribadi;  
 
 www.jdih.bangkaselatankab.go.id
 b. partisipasi di bidang pendidikan, kesehatan, pekerjaan,  politik, olahraga, seni dan budaya serta pemanfaatan  teknologi informasi dan komunikasi;  
@@ -342,7 +350,8 @@ Perempuan Penyangga Ekonomi Keluarga
 #### Pasal 22
 
 1. Pelaksanaaan perlindungan bagi perempuan penyangga  ekonomi keluarga dalam rangka memberikan perlindungan  dan pencegahan terhadap bentuk-bentuk diskriminasi, stigma  negatif dan pemberdayaan ekonomi bagi perempuan  penyangga ekonomi keluarga.  
-2. Perempuan penyangga ekonomi keluarga sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas: a. tindakan diskriminasi dan upaya pelemahan fungsi  perempuan sebagai penyangga ekonomi keluarga;  
+2. Perempuan penyangga ekonomi keluarga sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:  
+a. tindakan diskriminasi dan upaya pelemahan fungsi  perempuan sebagai penyangga ekonomi keluarga;  
 b. penguatan kemampuan dan pengakuan sebagai  penyangga ekonomi keluarga di lingkungannya; dan  c. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
 
 ## Bagian ketujuh
@@ -420,7 +429,8 @@ b. koordinasi dan sinkronisasi penyusunan perencanaan  program dan kegiatan deng
 
 www.jdih.bangkaselatankab.go.id
 b. koordinasi dan sinkronisasi pelaksanaan program kegiatan  dengan OPD terkait.  
-6. Pelaksanaan monitoring, evaluasi dan pelaporan sebagimana  dimaksud dalam Pasal 28 huruf d, dilaksanakan melalui: a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah  dilaksanakan;  
+6. Pelaksanaan monitoring, evaluasi dan pelaporan sebagimana  dimaksud dalam Pasal 28 huruf d, dilaksanakan melalui:  
+a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah  dilaksanakan;  
 b. membuat laporan secara berkala; danc. hasil evaluasi sebagai bahan masukan bagi penyusunan  kebijakan, program dan kegiatan tahun berikutnya.  
 
 # BAB X
