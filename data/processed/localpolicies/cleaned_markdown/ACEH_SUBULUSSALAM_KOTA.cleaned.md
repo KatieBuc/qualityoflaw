@@ -245,10 +245,10 @@ Kewajiban Pemerintah Terhadap Perempuan
 
 #### Pasal 21
 
-• (1) Pemerintah kota menyediakan lapangan pekerjaan yang memadai berdasarkan tingkat pendidikan dan keterampilan yang dimiliki perempuan, perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam.  
-
+1. Pemerintah kota menyediakan lapangan pekerjaan yang memadai berdasarkan tingkat pendidikan dan keterampilan yang dimiliki perempuan, perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam.  
 2. Pemerintah kota melakukan koordinasi dengan instansi/lembaga/badan usaha dan penyedia lapangan kerja guna memastikan keberpihakan pada perempuan dalam kesempatan kerja.  
-3. Informasi lapangan kerja dan seleksi pencari kerja dilakukan secara akuntabel, adil, transparan dan inklusi. (4) Pemerintah Kota dapat melakukan tindakan khusus sementara dengan mengutamakan perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam.  
+3. Informasi lapangan kerja dan seleksi pencari kerja dilakukan secara akuntabel, adil, transparan dan inklusi.  
+4. Pemerintah Kota dapat melakukan tindakan khusus sementara dengan mengutamakan perempuan disabilitas, perempuan dengan HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam.  
 5. Perempuan sebagaimana yang dimaksud dalam ayat (4) dalam mendapatkan pekerjaan sesuai pengetahuan atau keterampilannya dengan mengembangkan mekanisme kebijakan kepada perusahaan swasta dan pemerintah serta BUMN.  
 
 # BAB V
@@ -368,18 +368,16 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan qanun ini dengan pen
 
 Ditetapkan di Subulussalam Pada tanggal 20 November 2023M 6 Jumadil Awal 1445H
 
-##### WALIKOTA SUBULUSSALAM
+WALIKOTA SUBULUSSALAM
 
-иб
 
-##### AFFAN ALFIAN
+AFFAN ALFIAN
 
-Diundangkan di Subulussalam Pada tanggal 21 November 2023M 7 Jumadil Awal 1445 H Plt. SEKRETARIS DAERAH
+Diundangkan di Subulussalam Pada tanggal 21 November 2023M 7 Jumadil Awal 1445 H  
+Plt. SEKRETARIS DAERAH
 
-##### KOTA SUBULUSSALAM,
+KOTA SUBULUSSALAM
 
-Yawneer
-
-##### SAIRUN
+SAIRUN
 
 LEMBARAN DAERAH KOTA SUBULUSSALAM TAHUN 2023 NOMOR 20. NOREG QANUN KOTA SUBULUSSALAM PROVINSI ACEH:
