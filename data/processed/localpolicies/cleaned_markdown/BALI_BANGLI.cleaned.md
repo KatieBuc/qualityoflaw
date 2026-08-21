@@ -1,18 +1,20 @@
-# BUPATI BANGLI
+# PERLINDUNGAN PEREMPUAN DAN ANAK KOrBAN KEKERASAN  
 
-# PROVINSI BALI
+BUPATI BANGLI  
 
-# PERATURAN DAERAH KABUPATEN BANGLI
+PROVINSI BALI  
 
-# NOMOR 18 TAHUN 2016
+# PERATURAN DAERAH KABUPATEN BANGLI  
 
-# TENTANG
+NOMOR 18 TAHUN 2016
 
-# PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+TENTANG
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA
+PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-# BUPATI BANGLI,
+DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+BUPATI BANGLI,
 
 Menimbang:  
  
@@ -22,61 +24,42 @@ Menimbang:
  
  
  
-bahwa dengan ditetapkannya Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak dan Undang-Undang Nomor 24 Tahun 2004 tentang Penghapusan kekerasan Dalam Rumah Tangga maka dipandang perlu mencegah dan menanggulangi kekerasan terhadap Perempuan dan Anak melalui perlindungan hukum terhadap Perempuan dan Anak korban kekerasan;  
+a. bahwa dengan ditetapkannya Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 Tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak dan Undang-Undang Nomor 24 Tahun 2004 tentang Penghapusan kekerasan Dalam Rumah Tangga maka dipandang perlu mencegah dan menanggulangi kekerasan terhadap Perempuan dan Anak melalui perlindungan hukum terhadap Perempuan dan Anak korban kekerasan;  
+b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, tersebut diatas perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;    
 
-bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, tersebut diatas perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
+Mengingat:  
 
-Mengingat:
-
-#### Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
-
-Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
-
-Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
-
-Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
-
-Undang-Undang Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);  
-
-Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);  
-
-Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);  
-
-Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan Hukum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 5246);  
-
-Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);  
-
-Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerja sama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2008 tentang Pelaksanan Perlindungan Perempuan;  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Anak;  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan;  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 02 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan;  
-
-Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan;  
-
-Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036);  
-
-Peraturan Daerah Provinsi Bali Nomor 3 Tahun 2003 tentang Perubahan Atas Peraturan Daerah Provinsi Bali Nomor 3 Tahun 2001 tentang Desa Pakraman (Lembaran Daerah Provinsi Bali Tahun 2003 Nomor 11, Tambahan Lembaran Daerah Provinsi Bali Nomor 3);  
-
-Peraturan Daerah Kabupaten Bangli Nomor 11 Tahun 2016 tentang Urusan Pemerintahan (Lembaran Daerah Kabupaten Bangli Tahun 2016 Nomor 11, Tambahan Lembaran Daerah Kabupaten Bangli Nomor 9);  
+1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;
+2. Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan Daerah-Daerah Tingkat II Dalam Wilayah Daerah-daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);
+3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);
+4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);
+5. Undang-Undang Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 95, Tambahan Lembaran Negara Republik Indonesia Nomor 4419);
+6. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 4720);
+7. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234);
+8. Undang-Undang Nomor 16 Tahun 2011 tentang Bantuan Hukum (Lembaran Negara Republik Indonesia Tahun 2011 Nomor 104, Tambahan Lembaran Negara Republik Indonesia Nomor 5246);
+9. Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 244, Tambahan Lembaran Negara Republik Indonesia Nomor 5587) sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2015 Nomor 58, Tambahan Lembaran Negara Republik Indonesia Nomor 5679);
+10. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan dan Kerja sama Pemulihan Korban Kekerasan dalam Rumah Tangga (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15, Tambahan Lembaran Negara Republik Indonesia Nomor 4604);
+11. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 2 Tahun 2008 tentang Pelaksanaan Perlindungan Perempuan;
+12. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman Pelaksanaan Perlindungan Anak;
+13. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan;
+14. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 5 Tahun 2010 tentang Panduan Pembentukan dan Pengembangan Pusat Pelayanan Terpadu;
+15. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 02 Tahun 2011 tentang Pedoman Penanganan Anak Korban Kekerasan;
+16. Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 19 Tahun 2011 tentang Pedoman Pemberdayaan Perempuan Korban Kekerasan;
+17. Peraturan Menteri Dalam Negeri Nomor 80 Tahun 2015 tentang Pembentukan Produk Hukum Daerah (Berita Negara Republik Indonesia Tahun 2015 Nomor 2036);
+18. Peraturan Daerah Provinsi Bali Nomor 3 Tahun 2003 tentang Perubahan Atas Peraturan Daerah Provinsi Bali Nomor 3 Tahun 2001 tentang Desa Pakraman (Lembaran Daerah Provinsi Bali Tahun 2003 Nomor 11, Tambahan Lembaran Daerah Provinsi Bali Nomor 3);
+19. Peraturan Daerah Kabupaten Bangli Nomor 11 Tahun 2016 tentang Urusan Pemerintahan (Lembaran Daerah Kabupaten Bangli Tahun 2016 Nomor 11, Tambahan Lembaran Daerah Kabupaten Bangli Nomor 9);  
 
 Dengan Persetujuan Bersama
 
-##### DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGLI
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BANGLI
 
-##### BUPATI BANGLI
+BUPATI BANGLI
 
-##### MEMUTUSKAN:
+MEMUTUSKAN:  
 
-##### MENETAPKAN
+MENETAPKAN:  
 
-: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
+PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
 # BAB I
 
@@ -84,83 +67,63 @@ Dengan Persetujuan Bersama
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan: Daerah adalah Kabupaten Bangli.  
-
-Pemerintah Daerah adalah Pemerintah Kabupaten Bangli.  
-
-Bupati adalah Bupati Bangli.  
-
-Dewan Perwakilan Rakyat Daerah yang selanjutnya disebut DPRD adalah Dewan Perwakilan Rakyat Daerah Kabupaten Bangli.  
-
-Perlindungan adalah segala upaya yang ditunjukkan untuk memberikan rasa aman kepada korban yang dilakukan oleh pihak keluarga, advokat, lembaga sosial, kopolisian, kejaksaan, pengadilan, atau pihak lainnya baik sementara maupun berdasarkan penetapan pengadilan.  
-
-Perempuan adalah manusia dewasa berjenis kelamin Perempuan dan orang yang oleh hukum diakui sebagai Perempuan.  
-
-Anak adalah seseorang yang belum berusia 18 tahun, termasuk Anak yang ada dalam kandungan.  
-
-Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk penelantaran, ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di depan umum atau dalam kehidupan pribadi.  
-
-Kekerasan terhadap Anak adalah setiap perbuatan terhadap Anak yang berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental, seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang mengancam integritas tubuh dan merendahkan martabat Anak yang dilakukan oleh pihak-pihak yang seharusnya bertanggung jawab atas Anak tersebut atau mereka yang memiliki kuasa atas Anak tersebut.  
-
-Kekerasan terhadap Perempuan adalah setiap tindakan berdasarkan perbedaan jenis kelamin yang berakibat atau mungkin berakibat kesengsaraan atau penderitaan Perempuan secara fisik, seksual atau psikologis, termasuk ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di ranah publik atau dalam kehidupan pribadi.  
-
-Korban adalah Perempuan dan Anak yang mengalami kesengsaraan dan/atau penderitaan sebagai akibat dari kekerasan dan/atau ancaman kekerasan.  
-
-Rehabilitasi sosial adalah pelayanan yang ditujukan untuk memulihkan dan mengembangkan kemampuan seseorang yang mengalami disfungsi sosial agar dapat melaksAnakan fungsi sosialnya secara wajar.  
-
-Pemulangan adalah upaya mengembalikan korban Kekerasan dari wilayah Daerah ke Daerah asal.  
-
-Reintegrasi sosial adalah upaya penyatuan kembali korban dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban Bantuan Hukum adalah jasa hukum yang diberikan oleh pendamping, aparat penegak hukum yang meliputi pemberian konsultasi hukum, menjalankan kuasa, mewakili, mendampingi, membela dan melakukan tindakan hukum lain untuk korban kekerasan.  
-
-Pusat Pelayanan Terpadu yang selanjutnya disebut PPT adalah suatu unit kerja fungsional yang menyelenggarakan pelayanan terpadu untuk korban tindak kekerasan.  
-
-Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) adalah Unit pelayanan terpadu yang dibentuk oleh pemerintah Kabupaten untuk memberikan pelayanan kepada Perempuan dan Anak korban kekerasan secara komprehensif meliputi pelayanan layanan pengaduan, rehabilitasi kesehatan; rehabilitasi sosial; pemulangan; reintegrasi sosial, dan bantuan hukum.  
-
-Standar Pelayanan Minimal yang selanjutnya disebut SPM adalah tolok ukur kinerja pelayanan unit pelayanan terpadu dalam memberikan pelayanan penanganan laporan/pengaduan, pelayanan kesehatan, rehabilitasi sosial, penegakan dan bantuan hukum, serta pemulangan dan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
-
-Desa Pakraman adalah kesatuan masyarakat hukum adat di Propinsi Bali yang mempunyai satu kesatuan tradisi dan tata krama pergaulan hidup masyarakat umat Hindu secara turun temurun dalam ikatan Kahyangan Tiga atau Kahyangan Desa yang mempunyai wilayah tertentu dan harta kekayaan sendiri serta berhak mengurus rumah tangganya sendiri;  
-
-Rumah Perlindungan Sosial adalah tempat tinggal sementara, yang diberikan untuk memberikan perlindungan terhadap korban sesuai dengan standar yang telah ditentukan.  
+Dalam Peraturan Daerah ini yang dimaksud dengan: 
+1. Daerah adalah Kabupaten Bangli.
+2. Pemerintah Daerah adalah Pemerintah Kabupaten Bangli.
+3. Bupati adalah Bupati Bangli.
+4. Dewan Perwakilan Rakyat Daerah yang selanjutnya disebut DPRD adalah Dewan Perwakilan Rakyat Daerah Kabupaten Bangli.
+5. Perlindungan adalah segala upaya yang ditunjukkan untuk memberikan rasa aman kepada korban yang dilakukan oleh pihak keluarga, advokat, lembaga sosial, kopolisian, kejaksaan, pengadilan, atau pihak lainnya baik sementara maupun berdasarkan penetapan pengadilan.
+6. Perempuan adalah manusia dewasa berjenis kelamin Perempuan dan orang yang oleh hukum diakui sebagai Perempuan.
+7. Anak adalah seseorang yang belum berusia 18 tahun, termasuk Anak yang ada dalam kandungan.
+8. Kekerasan adalah setiap perbuatan yang berakibat atau yang mengakibatkan kesengsaraan dan penderitaan baik fisik, seksual, psikologis termasuk penelantaran, ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di depan umum atau dalam kehidupan pribadi.
+9. Kekerasan terhadap Anak adalah setiap perbuatan terhadap Anak yang berakibat timbulnya kesengsaraan atau penderitaan secara fisik, mental, seksual, psikologis, termasuk penelantaran dan perlakuan buruk yang mengancam integritas tubuh dan merendahkan martabat Anak yang dilakukan oleh pihak-pihak yang seharusnya bertanggung jawab atas Anak tersebut atau mereka yang memiliki kuasa atas Anak tersebut.
+10. Kekerasan terhadap Perempuan adalah setiap tindakan berdasarkan perbedaan jenis kelamin yang berakibat atau mungkin berakibat kesengsaraan atau penderitaan Perempuan secara fisik, seksual atau psikologis, termasuk ancaman tindakan tertentu, pemaksaan atau perampasan kemerdekaan secara sewenang-wenang, baik yang terjadi di ranah publik atau dalam kehidupan pribadi.
+11. Korban adalah Perempuan dan Anak yang mengalami kesengsaraan dan/atau penderitaan sebagai akibat dari kekerasan dan/atau ancaman kekerasan.
+12. Rehabilitasi sosial adalah pelayanan yang ditujukan untuk memulihkan dan mengembangkan kemampuan seseorang yang mengalami disfungsi sosial agar dapat melaksAnakan fungsi sosialnya secara wajar.
+13. Pemulangan adalah upaya mengembalikan korban Kekerasan dari wilayah Daerah ke Daerah asal.
+14. Reintegrasi sosial adalah upaya penyatuan kembali korban dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.
+15. Bantuan Hukum adalah jasa hukum yang diberikan oleh pendamping, aparat penegak hukum yang meliputi pemberian konsultasi hukum, menjalankan kuasa, mewakili, mendampingi, membela dan melakukan tindakan hukum lain untuk korban kekerasan.
+16. Pusat Pelayanan Terpadu yang selanjutnya disebut PPT adalah suatu unit kerja fungsional yang menyelenggarakan pelayanan terpadu untuk korban tindak kekerasan.
+17. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) adalah Unit pelayanan terpadu yang dibentuk oleh pemerintah Kabupaten untuk memberikan pelayanan kepada Perempuan dan Anak korban kekerasan secara komprehensif meliputi pelayanan layanan pengaduan, rehabilitasi kesehatan; rehabilitasi sosial; pemulangan; reintegrasi sosial, dan bantuan hukum.
+18. Standar Pelayanan Minimal yang selanjutnya disebut SPM adalah tolok ukur kinerja pelayanan unit pelayanan terpadu dalam memberikan pelayanan penanganan laporan/pengaduan, pelayanan kesehatan, rehabilitasi sosial, penegakan dan bantuan hukum, serta pemulangan dan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.
+19. Desa Pakraman adalah kesatuan masyarakat hukum adat di Propinsi Bali yang mempunyai satu kesatuan tradisi dan tata krama pergaulan hidup masyarakat umat Hindu secara turun temurun dalam ikatan Kahyangan Tiga atau Kahyangan Desa yang mempunyai wilayah tertentu dan harta kekayaan sendiri serta berhak mengurus rumah tangganya sendiri;
+20. Rumah Perlindungan Sosial adalah tempat tinggal sementara, yang diberikan untuk memberikan perlindungan terhadap korban sesuai dengan standar yang telah ditentukan.  
 
 # BAB II
 
-## ASAS, TUJUAN DAN RUANG LINGKUP PENGATURAN
+## ASAS,TUJUAN DAN RUANG LINGKUP PENGATURAN
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksAnakan berdasarkan asas: penghormatan dan pemenuhan terhadap hak-hak korban;  
+Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksAnakan berdasarkan asas:  
 
-keadilan dan kesetaraan gender;  
-
-non diskriminasi;  
-
-kepentingan terbaik bagi Korban; dan kepastian hukum.  
+a. penghormatan dan pemenuhan terhadap hak-hak korban;  
+b. keadilan dan kesetaraan gender;  
+c. non diskriminasi;  
+d. kepentingan terbaik bagi Korban; dan 
+e. kepastian hukum.  
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan: mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
-
-melindungi Perempuan dan Anak serta memberikan pelayanaan kepada Perempuan dan Anak Korban Kekerasan; dan pemberdayaan Anak Korban Kekerasan.  
+Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
+a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
+b. melindungi Perempuan dan Anak serta memberikan pelayanaan kepada Perempuan dan Anak Korban Kekerasan; dan 
+c. pemberdayaan Anak Korban Kekerasan.  
 
 #### Pasal 4
 
-Ruang lingkup Pengaturan Perlindungan Perempuan dan Anak Korban Kekerasan meliputi: hak korban;  
+Ruang lingkup Pengaturan Perlindungan Perempuan dan Anak Korban Kekerasan meliputi:  
 
-kewajiban dan tanggungjawab;  
-
-kelembagaan;  
-
-standar pelayanan minimal;  
-
-rumah perlindungan sosial;  
-
-pemantauan dan evaluasi;  
-
-pelaporan;  
-
-pembinaan dan pengawasan;  
-
-peran serta masyarakat; dan pendanaan.  
+a. hak korban;  
+b. kewajiban dan tanggungjawab;  
+c. kelembagaan;  
+d. standar pelayanan minimal;  
+e. rumah perlindungan sosial;  
+f. pemantauan dan evaluasi;  
+g. pelaporan;  
+h. pembinaan dan pengawasan;  
+i. peran serta masyarakat; dan  
+j. pendanaan.  
 
 # BAB III
 
