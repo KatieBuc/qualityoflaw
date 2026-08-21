@@ -89,7 +89,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. bentuk kekerasan;  
 b. hak korban;  
 c. kewajiban dan tanggung jawab;  
@@ -103,7 +103,7 @@ f. pelaporan; dang. pendanaan;
 
 #### Pasal 3
 
-Bentuk kekerasan terhadap perempuan dan anak berupa:
+Bentuk kekerasan terhadap perempuan dan anak berupa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -120,7 +120,7 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 3 huruf b disebabkan karena pe
 
 #### Pasal 6
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  
@@ -130,7 +130,7 @@ d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan atau 
 
 #### Pasal 7
 
-Penelantaran sebagaimana dimaksud dalam Pasal 3 huruf d disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 3 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain maupun yang bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 
@@ -139,7 +139,7 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal men
 
 #### Pasal 8
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 3 huruf e disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 3 huruf e disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktek serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
@@ -149,7 +149,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak 
 
 #### Pasal 10
 
-Setiap korban berhak untuk mendapatkan:
+Setiap korban berhak untuk mendapatkan:  
 a. perlindungan dari individu, kelompok dan lembaga baik pemerintah maupun non pemerintah.  b. akses dan keterangan tentang keberadaan tempat pengaduan, PPT, dan segala hal-hal yang berhubungan dengan pemenuhan hak-haknya dan terlibat dalam proses pengambilan keputusan yang berkaitan dengan pendampingan dan perkembangan perkara.  c. pelayanan yang mencakup medis, medicolegal ektensial, psikososial dan hukum.  
 9-
 d. penanganan yang tidak berhenti sampai penyembuhan fisik dan psikis, tapi sampai korban dapat menjalani kehidupan kembali dalam masyarakat termasuk dalam pemulihan nama baiknya.  f. penanganan secara rahasia yang meliputi jaminan kepastian bagi korban untuk tidak disebarluaskan mengenai identitas dirinya, perawatan medis dan penanganan hukum.  
@@ -163,7 +163,7 @@ g. pendampingan bantuan hukum yang diberikan oleh orang dan/atau lembaga bantuan
 
 #### Pasal 10
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga dan orang tua.  
@@ -236,7 +236,7 @@ Standar Pelayanan Minimal
 
 #### Pasal 16
 
-Standar Pelayanan Minimal Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:
+Standar Pelayanan Minimal Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:  
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap Perempuan dan Anak;  
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban Kekerasan;  
@@ -246,7 +246,7 @@ f. pelayanan psikologis bagi Perempuan dan Anak Korban Kekerasan;
 
 #### Pasal 17
 
-Standar Pelayanan Minimal sebagaimana dimaksud dalam Pasal 16 memiliki indikator kinerja meliputi:
+Standar Pelayanan Minimal sebagaimana dimaksud dalam Pasal 16 memiliki indikator kinerja meliputi:  
 a. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan terpadu;  
 
 13-
@@ -265,7 +265,7 @@ Bentuk dan Mekanisme Pencegahan
 
 #### Pasal 18
 
-Pusat Pelayanan TerpaduBentuk pencegahan terjadinya kekerasan terhadap perempuan dan anak yang dilakukan oleh Pusat Pelayanan Terpadu, dapat dilaksanakan melalui:
+Pusat Pelayanan TerpaduBentuk pencegahan terjadinya kekerasan terhadap perempuan dan anak yang dilakukan oleh Pusat Pelayanan Terpadu, dapat dilaksanakan melalui:  
 a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; danb. pelatihan anggota Pusat Pelayanan Terpadu terkait tentang pelaksanaan tugasnya dalam melakukan pencegahan kekerasan terhadap anak dan perempuan.  
 
 #### Pasal 19
@@ -313,7 +313,7 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 
 #### Pasal 23
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -357,7 +357,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 27
 
-Dana untuk penyelenggaraan perlindungan perempuan dan anak korban kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan perempuan dan anak korban kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 28

@@ -12,13 +12,15 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 # BUPATI BULUKUMBA,
 
-Menimbang:
+Menimbang:  
+ 
 a. bahwa sebagai warga Negara Kesatuan Republik Indonesia  perempuan dan anak berhak mendapatkan perlindungan,  rasa aman dan bebas dari segala bentuk kekerasan atau  perlakuan yang tidak manusiawi yang bertentangan dengan  nilai Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam perkembangannya masih banyak perempuan  dan anak yang perlu mendapatkan perlindungan dari  berbagai bentuk tindak kekerasan, perlakuan salah, eksploitasi, dan diskriminasi sehingga diperlukan upaya  strategis untuk memberikan perlindungan terhadap  perempuan dan anak;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah dalam melaksanakan urusan  pemerintahan konkuren Pemerintah Kabupaten mempunyai  kewenangan dalam penyelenggaraan urusan pemerintahan  bidang perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -88,7 +90,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak diselenggarakan  berdasarkan asas:
+Penyelenggaraan Perlindungan Perempuan dan Anak diselenggarakan  berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
@@ -150,7 +152,7 @@ c. pengelolaan kasus;
 d. penampungan sementara;  
 e. mediasi; danf. pendampingan korban.  
 
-6 - (3) Dalam melaksanakan fungsi layanan sebagaimana dimaksud pada ayat (2)  UPT PPA memerlukan dukungan:
+6 - (3) Dalam melaksanakan fungsi layanan sebagaimana dimaksud pada ayat (2)  UPT PPA memerlukan dukungan:  
 a. infrastruktur sarana dan prasarana;  
 b. jumlah tenaga pengelola yang cukup;  
 c. sumber daya manusia yang kompeten;  
@@ -165,7 +167,7 @@ d. anggaran; dane. fasilitas rumah aman.
 
 #### Pasal 8
 
-Pendamping mempunyai tugas:
+Pendamping mempunyai tugas:  
 a. memberikan informasi yang cukup kepada korban tentang haknya;  
 b. memberikan layanan psikososial kepada korban sehingga korban merasa  aman dan nyaman;  
 c. mendampingi korban selama proses pemeriksaan dan pemulihan medis;  
@@ -233,7 +235,7 @@ e. mendorong terwujudnya perencanaan dan penganggaran yang  mendukung Perlindung
 
 #### Pasal 13
 
-Penyelenggaraan layanan pada lembaga layanan perlindungan Perempuan dan  anak dilakukan dengan prinsip:
+Penyelenggaraan layanan pada lembaga layanan perlindungan Perempuan dan  anak dilakukan dengan prinsip:  
 a. tidak dipungut biaya;  
 b. cepat;  
 c. aman;  
@@ -310,7 +312,7 @@ Pemerintah Desa
 
 #### Pasal 18
 
-Kewajiban dan tanggung jawab Pemerintah Desa sebagaimana dimaksud  dalam Pasal 15 huruf b meliputi:
+Kewajiban dan tanggung jawab Pemerintah Desa sebagaimana dimaksud  dalam Pasal 15 huruf b meliputi:  
 a. menetapkan kebijakan perlindungan perempuan dan anak di tingkat desa;  
 b. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak  kekerasan;  
 c. melakukan kerja sama kepada semua pihak dalam penyelenggaraan  perlindungan perempuan dan anak;  
@@ -350,7 +352,7 @@ Keluarga, Orang Tua atau Wali
 
 #### Pasal 21
 
-Kewajiban dan tanggung jawab keluarga, orang tua atau wali sebagaimana  dimaksud dalam Pasal 15 huruf e meliputi:
+Kewajiban dan tanggung jawab keluarga, orang tua atau wali sebagaimana  dimaksud dalam Pasal 15 huruf e meliputi:  
 a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan  minatnya;  
 c. mencegah terjadinya perkawinan pada usia Anak; dand. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada  Anak - 11 -
@@ -408,7 +410,7 @@ d. berpartisipasi dalam perlindungan perempuan dan anak melalui  kelembagaan lay
 
 #### Pasal 26
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Anggaran Pendapatan dan Belanja Desa; danc. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
 

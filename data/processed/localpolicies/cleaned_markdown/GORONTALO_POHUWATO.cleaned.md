@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk memulihkan harga diri dan Mengingat martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 
@@ -104,7 +105,7 @@ f. Pengayoman.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:  
 a. Mencegah tindak kekerasan terhadap perempuan dan anak termasuk perdagangan orang;  
 b. Menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. Melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -116,7 +117,7 @@ d. Memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan, pelapor
 
 #### Pasal 4
 
-Bentuk kekerasan antara lain:
+Bentuk kekerasan antara lain:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
@@ -130,7 +131,7 @@ f. Eksploitasi; dan/ataug. Kekerasan lainnya.
 
 #### Pasal 5
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:  
 a. Hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. Hak pemulihan;  
 c. Hak menentukan sendiri keputusannya;  
@@ -143,7 +144,7 @@ i. Hak atas pendampingan; danj. Hak rasa aman.
 
 #### Pasal 6
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:  
 a. Hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
@@ -156,7 +157,7 @@ Hak bebas dari berbagai stigma;dan Hakmendapatkan kebebasan.
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat.  
 
@@ -183,7 +184,7 @@ g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai langkah perli
 
 #### Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
 
-Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:
+Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak kekerasan;  
 c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dand. turut serta dalam penanganan korban tindak kekerasan.  
@@ -191,7 +192,7 @@ c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan 
 
 #### Pasal 10
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas kemampuannya untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas kemampuannya untuk:  
 a. Mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. Memberikan perlindungan kepada korban;  
 c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohonan penetapan perlindungan Kk
@@ -209,7 +210,7 @@ c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohon
 
 #### Pasal 12
 
-Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Bupati membentuk:
+Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Bupati membentuk:  
 a. Gugus tugas tindak perdagangan orang;  
 b. Komite aksi daerah penghapusan bentukpekerjaan terburuk untuk anak.  
 
@@ -275,7 +276,7 @@ Pemulihan
 
 #### Pasal 18
 
-Pemulihan meliputi:
+Pemulihan meliputi:  
 a. Memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. Memberikan pelayanan medicolegal;  
 c. Membantu pemulangan korban;  
@@ -290,7 +291,7 @@ Koordinasi
 
 #### Pasal 19
 
-Koordinasi meliputi:
+Koordinasi meliputi:  
 a. Melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan lembaga pelayanan terpadu;  
 b. Melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan pelayanan terpadu antar daerah
 
@@ -300,7 +301,7 @@ Peran Serta Masyarakat
 
 #### Pasal 20
 
-Peran Serta Masyarakat dilakukan dengan cara:
+Peran Serta Masyarakat dilakukan dengan cara:  
 a. Menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan pada perempuan dan anak;  
 b. Mendorong masyarakat untuk berpartisipasi aktif dalam memberikaninformasi dan melaporkan adanya tindak kekerasaan terhadap perempuan dan anak;  
 c. Menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
@@ -367,7 +368,7 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan pengawasan s
 
 #### Pasal 26
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan dapat bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negarab. Anggaran Pendapatan dan Belanja Daerah;  
 c. Sumbanganmasyarakat yang tidak mengikat;  
 d. Bantuan luar negeri yang tidak mengikat; dan/ataue. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  

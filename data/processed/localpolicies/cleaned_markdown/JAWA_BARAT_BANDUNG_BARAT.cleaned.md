@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang  berperan dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap pemenuhan  hak-haknya dan perlindungan dari tindak kekerasan dan  diskriminasi;  
 b. bahwa berdasarkan Pasal 7 ayat (2) huruf n Peraturan  Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah, Pemerintahan Daerah  Provinsi dan Pemerintahan Daerah Kabupaten/Kota,  Pemberdayaan Perempuan dan Perlindungan anak merupakan  urusan pemerintahan yang wajib diselenggarakan oleh  Pemerintahan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan  Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -139,7 +141,7 @@ Penyusunan Peraturan Daerah ini mempunyai maksud memberikan acuan bagi  Pemerint
 
 #### Pasal 3
 
-Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak mempunyai  tujuan:
+Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak mempunyai  tujuan:  
 a. menjamin terlaksananya kebijakan, program, dan kegiatan Pemberdayaan  Perempuan dan Perlindungan Anak secara sistemis, komprehensif,  bekesinambungan, dan terpadu;  
 b. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan,  program dan kegiatan Pemberdayaan Perempuan dan Perlindungan Anak;  
 c. meningkatkan efektivitas pelaksanaan kebijakan, program dan kegiatan  Pemberdayaan Perempuan dan Perlindungan Anak di Daerah secara  sistematis, komprehensif, berkesinambungan dan terpadu;  
@@ -151,7 +153,7 @@ Ruang Lingkup
 
 #### Pasal 4
 
-Ruang lingkup Peraturan Daerah ini, meliputi:
+Ruang lingkup Peraturan Daerah ini, meliputi:  
 a. Pengarusutamaan Gender;  
 b. Peningkatan Kualitas Hidup Perempuan;  
 c. Perlindungan Perempuandan Anak;  
@@ -249,7 +251,7 @@ Pembinaan PUG
 
 #### Pasal 12
 
-Bupati melakukan pembinaan terhadap pelaksanaan PUG yang meliputi:
+Bupati melakukan pembinaan terhadap pelaksanaan PUG yang meliputi:  
 a. penetapan panduan teknis pelaksanaan PUG skala Kabupaten, Kecamatan,  dan Desa;  
 b. penguatan kapasitas kelembagaan melalui pelatihan, konsultasi, advokasi,  dan koordinasi;  
 c. pemantauan dan evaluasi pelaksanaan PUG di Daerah;  
@@ -265,7 +267,7 @@ PKHP diarahkan untuk memperoleh kesempatan dan hak-hak perempuan agar  mampu ber
 
 #### Pasal 14
 
-Pemerintah Daerah melaksanakan kebijakan, program, dan kegiatan PKHP di berbagai bidang pembangunan, melalui:
+Pemerintah Daerah melaksanakan kebijakan, program, dan kegiatan PKHP di berbagai bidang pembangunan, melalui:  
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan PKHP antar SKPD;  
 b. kerjasama dengan Pemerintah Daerah lainnya dalam pelaksanaan kebijakan,  program, dan kegiatan PKHP;  
 c. penguatan kapasitas kelembagaan PUG untuk pelaksanaan PKHP;  
@@ -275,7 +277,7 @@ f. pelaksanaan aksi afirmasi PKHP; dang. penyusunan sistem pendataan PKHP.
 
 #### Pasal 15
 
-Kebijakan, program, dan kegiatan PKHP dititikberatkan, pada:
+Kebijakan, program, dan kegiatan PKHP dititikberatkan, pada:  
 a. pelaksanaan aksi afirmasi, terutama di bidang pendidikan, kesehatan, hukum,  ketenagakerjaan, sosial, politik, lingkungan hidup, dan ekonomi;  
 b. penghapusan kesenjangan gender yang mengakibatkan terjadinya kemiskinan  dan pemiskinan perempuan, serta menjamin penghormatan, perlindungan,  dan pemenuhan hak-hak dasar perempuan;  
 c. peningkatan upaya perlindungan perempuan dari berbagai tindak kekerasan,  eksploitasi dan diskriminasi, termasuk upaya pencegahan dan  penanggulangannya;  
@@ -286,7 +288,7 @@ h. pembangunan pusat pelayanan terpadu berbasis rumah sakit, dan berbasis  masya
 
 #### Pasal 16
 
-Pemerintah Daerah melaksanakan fasilitasi pembentukan dan pengembangan  model-model pembangunan PKHP, yang meliputi:
+Pemerintah Daerah melaksanakan fasilitasi pembentukan dan pengembangan  model-model pembangunan PKHP, yang meliputi:  
 a. BKB;  
 b. GSI;  
 c. Desa PRIMA; dand. P2WKSS.  
@@ -307,7 +309,7 @@ Kewajiban dan Tanggung Jawab
 
 #### Pasal 18
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
@@ -411,7 +413,7 @@ Gugus Tugas dan Komite Aksi Daerah
 
 #### Pasal 28
 
-Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 26, guna  menunjang terlaksananya perlindungan perempuan dan anak, Bupati membentuk:
+Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 26, guna  menunjang terlaksananya perlindungan perempuan dan anak, Bupati membentuk:  
 a. Gugus Tugas Pencegahan dan Penanganan Korban Kekerasan Terhadap  Perempuan, Korban Kekerasan Terhadap Anak, dan Perdagangan Orang;  
 b. Komite Aksi Daerah Penghapusan Bentuk-Bentuk Pekerjaan Terburuk Bagi  Anak.  
 
@@ -469,7 +471,7 @@ Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 33, dilaksanakan  dala
 
 #### Pasal 35
 
-Pembiayaan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak,  bersumber dari:
+Pembiayaan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak,  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang undangan.  
 
 # BAB VIII
@@ -478,7 +480,7 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak 
 
 #### Pasal 36
 
-Setiap orang yang melakukan pelanggaran di bidangperlindungan perempuan dan  anak dikenakan sanksi sesuai ketentuan:
+Setiap orang yang melakukan pelanggaran di bidangperlindungan perempuan dan  anak dikenakan sanksi sesuai ketentuan:  
 a. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak,  sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak;  
 b. Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan  dalam Rumah Tangga;  
 c. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan Tindak Pidana  Perdagangan Orang.  

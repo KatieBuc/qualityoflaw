@@ -24,6 +24,7 @@ Mengingat:
  
  
  
+ 
   1.	Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi                (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor  1822 );  
@@ -785,7 +786,7 @@ P2TP2A berada di bawah koordinasi OPD atau unit-unit lainnya yang menangani pemb
 
 P2TP2A sebagaimana dimaksud pada ayat (1) tidak memiliki kewenangan merumuskan kebijakan pemberdayaan perempuan dan perlindungan anak.  
 
-P2TP2A adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:
+P2TP2A adalah salah satu bentuk unit pelayanan terpadu, yang berfungsi sebagai:  
 a. pusat informasi bagi perempuan dan anak;  
 b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan pusat pemberdayaan bagi perempuan dan anak.  
 

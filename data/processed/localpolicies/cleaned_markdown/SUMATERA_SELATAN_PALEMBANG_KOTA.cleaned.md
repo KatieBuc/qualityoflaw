@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan dan jaminan atas hak asasinya, serta berhak  mendapat perlakukan yang adil untuk memperoleh kesempatan  dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa peraturan perundang-undangan yang mengatur  perlindungan perempuan dan anak dalam mengatur upaya upaya perempuan dan anak alami dari tindak kekerasan di  daerah sehingga perlu adanya peraturan yang dapat terjamin  pelaksanaannya;  
 c. bahwa segala bentuk tindak kekerasan terhadap warga negara khususnya perempuan dan anak merupakan salah satu bentuk pelanggaran atas hak-hak asasi manusia sehingga negara, pemerintah, masyarakat, dan keluarga berkewajiban dan bertanggung jawab terhadap perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -87,7 +88,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan  dilaksanakan berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan  dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban·b. keadilan dan kesetaraan gender;  
 c. kearifan lokal;  
 d. non diskriminasi;  
@@ -96,12 +97,12 @@ f. partisipasi aktif; dang. memulihkan keadaan.
 
 #### Pasal 3
 
-Pengaturan perlindungan perempuan dan anak dari tindak  kekerasan bertujuan:
+Pengaturan perlindungan perempuan dan anak dari tindak  kekerasan bertujuan:  
 a. mencegah kekerasan terhadap perempuan dan anakb. melindungi, memberikan rasa aman bagi perempuad dan anak·c. memberikan pelayanan kepada perempuan dan anak korban  tindak kekerasan; dand. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
 #### Pasal 4
 
-�uang lingkup pengaturan perlindungan perempuan dan anak dari  tindak kekerasan meliputi:
+�uang lingkup pengaturan perlindungan perempuan dan anak dari  tindak kekerasan meliputi:  
 a. bentuk tindak kekerasan·'b. hak dan kewajiban;  
 
 dungan perempuan dan anak;  
@@ -117,7 +118,7 @@ c. perlin_d. pemb1naan dan pengawasan; dane. pendanaan.
 
 #### Pasal 5
 
-Bentuk-bentuk tindak kekerasan antara lain:
+Bentuk-bentuk tindak kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -141,7 +142,7 @@ Hak Perempuan dan Anak
 
 #### Pasal 7
 
-Perempuan dan anak dari tindak kekerasan mendapatkan hak-hak  se bagai beriku t:
+Perempuan dan anak dari tindak kekerasan mendapatkan hak-hak  se bagai beriku t:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -198,7 +199,7 @@ Keluarga
 
 #### Pasal 10
 
-Keluarga dalam upaya perlindungan terhadap hak perempuan dan  anak bertanggung jawab:
+Keluarga dalam upaya perlindungan terhadap hak perempuan dan  anak bertanggung jawab:  
 a. melindungi perempuan dan anak dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan dan anak;  
 b. memberikan kesempatan yang sama pada perempuan dan anak mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan dan anak dalam rumah tangga.  
 
@@ -212,7 +213,7 @@ Pencegahan
 
 #### Pasal 11
 
-( 1) Dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak, Pemerintah Kota:
+( 1) Dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak, Pemerintah Kota:  
 a. menyelenggarakan sosialisasi mengenai pencegahan  kekerasan terhadap perempuan dan anak dengan  mengoptimalkan peran kesatuan masyarakat, tokoh  masyarakat, tokoh agama, organisasi kemasyarakatan dan  media massa;  
 b. menyediakan pedoman tentang penanganan tindak  kekerasan terhadap perempuan dan anak;  
 c. mengembangkan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap perempuan dan anak;  
@@ -240,7 +241,7 @@ Penanganan
 
 #### Pasal 14
 
-( 1) Pelaksanaan penanganan perempuan dan anak korban dari tindak kekerasan meliputi:
+( 1) Pelaksanaan penanganan perempuan dan anak korban dari tindak kekerasan meliputi:  
 a. penanganan pengaduan korban kekerasan;  
 b. pelayanan kesehatan; danc. penegakan dan bantuan hukum.  
 2. Pelaksanaan penanganan perempuan dan anak korban dari tindak kekerasan sebagaimana dimaksud pada ayat ( 1) dilaksanakan melalui pelayanan terpadu.  
@@ -264,7 +265,7 @@ m. pemen�han hak perempuan dan anak; dann. kepastian hukum.
 
 #### Pasal 15
 
-dan anak korban dari tindak kekerasan Penanganan perempuan  sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf a dilaksanakan oleh:
+dan anak korban dari tindak kekerasan Penanganan perempuan  sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf a dilaksanakan oleh:  
 a. rumah sakit;  
 b. pusat kesehatan masyarakat;  
 c. Unit Pelaksana Teknis Perlindungan Perempuan dan Anak;  
@@ -296,7 +297,7 @@ b. pelayanan mediko-legal; danc. konseling psikososial.
 4. Pelayanan mediko-legal sebagaimana dimaksud pada ayat (2) huruf b, merupakan bentuk layanan medis untuk kepentingan pembuktian dibidang hukum.  
 5. Pelayanan .....  
 
-12 - (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi:
+12 - (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pelayanan konseling;  
 b. penyediaan rumah aman;  
 c. bimbingan rohani; dand. pemulihan ekonomi.  
@@ -305,7 +306,7 @@ b. kedudukan UPT PPA berada dibawah dan bertanggung jawab kepada Kepala Dinas ya
 
 #### Pasal 21
 
-( 1) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf a bertujuan untuk:
+( 1) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf a bertujuan untuk:  
 a. membantu korban mengenali permasalahannya dan menemukan cara-cara yang efektif untuk mengatasinya sendiri;  
 b. memberdayakan korban untuk menentukan masa depannya;  
 c. memberikan dukungan moral bagi korban dalam menghadapi proses hukum yang dijalaninya; dand. membuat korban merasa diterima di lingkungan masyarakat. (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsive gender, terdiri atas:a. konselor yang telah memiliki sertifikat;  

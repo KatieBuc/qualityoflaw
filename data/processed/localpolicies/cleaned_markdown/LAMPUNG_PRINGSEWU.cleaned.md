@@ -121,7 +121,7 @@ Ruang lingkup perlindungan terhadap perempuan dan  anak korban kekerasan meliput
 
 #### Pasal 6
 
-Bentuk-bentuk kekerasan antara lain:
+Bentuk-bentuk kekerasan antara lain:  
 a. keker asan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -140,7 +140,7 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 6  huruf b disebabkan oleh per
 
 #### Pasal 9
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 6  huruf c disebabkan oleh:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 6  huruf c disebabkan oleh:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar  a tau tidak disukai; dan/ atau;  
@@ -148,7 +148,7 @@ d. pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan atau
 
 #### Pasal 10
 
-Perielantaran sebagaimana dimaksud dalam Pasal 6  huruf d disebabkan oleh:
+Perielantaran sebagaimana dimaksud dalam Pasal 6  huruf d disebabkan oleh:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental,  spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain manapun yang  bertanggungjawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau men gurus  sebagaimana mestinya yang dilakukan oleh  tua, wali, atau pihak lain manapun  bertanggungjawab atas pengasuhannya;  
 
@@ -164,7 +164,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban  yang meliputi tapi tidak
 
 #### Pasal 12
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 6  huruf f disebabkan oleh:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 6  huruf f disebabkan oleh:  
 a. ancaman kekerasan meliputi: setiap perbuatan  secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan  a tau tan pa menggunakan sarana yang  menimbulkan rasa takut a tau mengekang  kebebasan hakiki seseorang; clanb. pemaksaan, meliputi: suatu keadaan dimana  seseorang/korban disUiph melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
 
 ##### BABV
@@ -173,7 +173,7 @@ a. ancaman kekerasan meliputi: setiap perbuatan  secara melawan hukum berupa uca
 
 #### Pasal 13
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -182,7 +182,7 @@ f. pendampingan secara psikologis dan hukum; dan  g. jaminan atas hak-hak yang b
 
 #### Pasal 14
 
-Selain hak-hak sebagaimana dimaksud dalam Pasal 13,  anak korban kekerasan juga mendapatkan hak-hak  khusus meliputi:
+Selain hak-hak sebagaimana dimaksud dalam Pasal 13,  anak korban kekerasan juga mendapatkan hak-hak  khusus meliputi:  
 a. hak penghormatan atas kelangsungan hidup,  tumbuh dan berkembang;  
 b. hak pelayanan dasar; 1c. hak perlindungan yang sama;  
 d. hak be bas dari berbagai stigma; dan/ a tau  e. hak mendapatkan kebebasan;  

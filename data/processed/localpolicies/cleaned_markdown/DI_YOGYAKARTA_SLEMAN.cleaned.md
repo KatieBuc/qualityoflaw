@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk memulihkan harga diri dan martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -76,12 +78,12 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pelindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas:
+Pelindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas:  
 a. penghormatan dan pengakuan atas hak; danb. martabat kemanusiaan yang sama.  
 
 #### Pasal 3
 
-Pelindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan prinsip:
+Pelindungan perempuan dan anak korban kekerasan dilaksanakan berdasarkan prinsip:  
 a. responsif gender;  
 b. non diskriminasi;  
 c. hubungan setara dan menghormati;  
@@ -114,7 +116,7 @@ Tahapan
 
 #### Pasal 5
 
-Tahapan pelindungan perempuan korban kekerasan meliputi:
+Tahapan pelindungan perempuan korban kekerasan meliputi:  
 a. pencegahan kekerasan terhadap perempuan;  
 b. pelayanan pelindungan perempuan korban kekerasan; dan c. pemberdayaan perempuan korban kekerasan.  
 
@@ -137,7 +139,7 @@ e. lembaga sosial; danf. lembaga pendidikan.
 
 #### Pasal 7
 
-Pencegahan kekerasan terhadap perempuan sebagaimana dimaksud dalamPasal 6 dilaksanakan antara lain dengan:
+Pencegahan kekerasan terhadap perempuan sebagaimana dimaksud dalamPasal 6 dilaksanakan antara lain dengan:  
 a. membentuk jaringan kerja dalam upaya pencegahan kekerasan terhadap perempuan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan terkait pelindungan perempuan.  
 
@@ -338,7 +340,7 @@ b. FPKK Kecamatan; danc. FPKK Desa.
 
 #### Pasal 24
 
-Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 23 ayat (2) terdiri dari:
+Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 23 ayat (2) terdiri dari:  
 a. mengoordinasikan dan menyinkronkan pencegahan, pelayanan, dan pemberdayaan terhadap korban kekerasan perempuan dan anak;  
 b. memelihara dan mengembangkan FPKK dalam pencegahan, pelayanan, dan pemberdayaan korban kekerasan secara berjejaring serta sistemrujukan;  
 c. melakukan pendidikan tentang nilai-nilai non diskriminasi terhadap perempuan dan anak;  
@@ -582,7 +584,7 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Cukup jelas.  
 
-Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara lain:
+Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara lain:  
 a. pelaksanaan konseling dalam bidang hukum dengan melibatkan kepolisian, kejaksaan, pengadilan negeri, pengadilan agama, lembaga advokasi hukum dan lembaga swadaya masyarakat;  
 b. pelaksanaan konseling dalam bidang kesehatan dengan melibatkan dinas kesehatan, rumah sakit umum daerah, dan layanan kesehatan lainnya;  
 c. pelaksanaan konseling dalam bidang rohani dengan melibatkan kementerian agama dan tokoh agama; dand. pelaksanaan konseling dalam bidang psikologi dengan melibatkan pendamping psikologi dan/atau psikolog.  

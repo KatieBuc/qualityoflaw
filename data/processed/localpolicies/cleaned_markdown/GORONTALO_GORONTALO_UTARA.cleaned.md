@@ -18,8 +18,10 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi perempuan  dan anak sesuai amanat Undang - Undang Dasar Negara  Republik Indonesia Tahun 1945 , Pemerintah Kabupaten  Gorontalo Utara ikut bertanggung jawab dalam  penyelenggaraan perlindungn perempuan dan anak  terhadap tindak kekerasan.  
 b. bahwa Kabupaten Gorontalo Utara yang memiliki Falsafah  Adat Bersendi Syara, Syara Bersendi Kitabullah,  menjunjung tinggi Nilai - nilai Agama dan Adat Istiadat  serta keluhuran Budi, Pemerintah Kabupaten Gorontalo  Utara secara moril bertanggung jawab penuh untuk  perlindungan perempuan dan anak tindak kekerasan.  c. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat,  harga diri dan martabat kemanusiaan serta berhak  mendapatkan rasa aman dan bebas dari segla bentuk  kekerasand. bahwa meningkatnya perlakuan kekerasan terhadap  peremuan dan anak di Kabupaten Gorontalo Utara  merupakan perbuatan yang merendahkan harkat  kemanusiaan, sehingga diperlakukan peran pemerintah  Kabupaten Gorontalo Utara agar perempuan dan anak  terlindungi dari tindak kekerasane. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalah huruf a, huruf b, dan huruf c, perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Terhadap Tindak Kekerasan Mengingat:  
+ 
  
  
  
@@ -87,7 +89,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakan berdasarkan asas:
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak KorbanTindak  Kekerasan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -95,7 +97,7 @@ d. bagi Korban tindak kekerasan; dane. kepastian hukum.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak dari Tindak Kekerasan  bertujuan:
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan  bertujuan:  
 a. mencegah segala bentuk Kekerasan terhadap Perempuan dan  Anak;  
 b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Tindak Kekerasan; dan  c. pemberdayaan Perempuan dan Anak Korban Tindak Kekerasan.  
 
@@ -105,19 +107,19 @@ b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korb
 
 #### Pasal 4
 
-Ruang Lingkup Peraturan Daerah ini terdiri dari:
+Ruang Lingkup Peraturan Daerah ini terdiri dari:  
 a. perlindungan perempuan; danb. perlindungan anak.  
 
 #### Pasal 5
 
-Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4  huruf a meliputi:
+Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4  huruf a meliputi:  
 a. pencegahan tindak kekerasan;  
 b. pelayanan terpadu bagi korban Tindak kekerasan;  
 c. pemberdayaan terhadap korban Tindak kekerasan.  
 
 #### Pasal 6
 
-Perlindungan anak sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi:
+Perlindungan anak sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi:  
 a. perlindungan anak yang menjadi korban tindak kekerasan; dan  b. perlindungan khusus anak.  
 
 # BAB IV
@@ -130,7 +132,7 @@ Umum
 
 #### Pasal 7
 
-Pemerintah Daerah bertanggung] awab dalam upaya melindungi  perempuan dari perbuatan tindak kekerasan yang terjadi di depan  Umum atau kehidupan pribadi dalam bentuk:
+Pemerintah Daerah bertanggung] awab dalam upaya melindungi  perempuan dari perbuatan tindak kekerasan yang terjadi di depan  Umum atau kehidupan pribadi dalam bentuk:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi;  
@@ -141,7 +143,7 @@ g. pemaksaan atau perampasan kemerdekaan;danh. ancaman tindakan tertentu.
 
 #### Pasal 8
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya  kekerasan sebagaimana dimaksud dalam Pasal 7 wajib melakukan  upaya-upaya untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya  kekerasan sebagaimana dimaksud dalam Pasal 7 wajib melakukan  upaya-upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepadakorbantindak kekerasan;  
 c. memberikan pertolongan darurat;dan /ataud. membantu proses pengajuan permohonan penetapan perlindungan
@@ -230,7 +232,7 @@ Perlindungan Khusu s Ana k
 
 #### Pasal 16
 
-(l)Perlindungan khusu s ana k sebagaimana dimaksud dalam Pasa l 6  huru f b diberikan kepada:
+(l)Perlindungan khusu s ana k sebagaimana dimaksud dalam Pasa l 6  huru f b diberikan kepada:  
 a. Ana k dalam situas i darurat;  
 b. Ana k yang berhadapan dengan hukum ;  
 c. Anak dari kelompok minoritas dan terisolasi;  
@@ -392,7 +394,7 @@ Dalam hal lembaga sosial masyarakat melaksanakan perlindungan  terhadap perempua
 
 #### Pasal 30
 
-Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak dari  tindak kekerasan, dapat bersumber dari:
+Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak dari  tindak kekerasan, dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;dan/ataub. sumber lain yang sah dan tidak mengikat sesuai dengan  ketentuan peraturan perundang undangan.  
 
 # BAB X I

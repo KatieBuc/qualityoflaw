@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup perempuan berhak mendapatatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga, memberi penegasan perlunya perlindungan dan pemberian rasa aman kepada perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -95,7 +97,7 @@ Maksud peraturan daerah ini yakni memberikan perlindungan perempuan  dan memberi
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan untuk:
+Peraturan Daerah ini bertujuan untuk:  
 a. mencegah segala bentuk kekerasan terhadap perempuan;  
 b. melindungi perempuan terhadap kekerasan;  
 c. menjamin terpenuhinya hak perempuan korban kekerasan;  
@@ -107,7 +109,7 @@ d. memberikan pelayanan kepada perempuan korban kekerasan; dan e. mewujudkan per
 
 #### Pasal 4
 
-Perempuan korban kekerasan berhak:
+Perempuan korban kekerasan berhak:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. mendapatkan informasi perlindungan perempuan;  
 c. memperoleh rehabilitasi dan reintegrasi sosial;  
@@ -159,7 +161,7 @@ f. tidak diskriminasi; dang. dijamin kerahasiannya.
 
 #### Pasal 9
 
-Jenis pelayanan terhadap korban kekerasan meliputi:
+Jenis pelayanan terhadap korban kekerasan meliputi:  
 a. pelayanan pengaduan dan konsultasi;  
 b. pelayanan pendampingan;  
 c. pelayanan bantuan hukum;  
@@ -184,7 +186,7 @@ Pelayanan Pengaduan dan Konsultasi
 
 #### Pasal 12
 
-Pelayanan pengaduan dan konsultasi sebagaimana dimaksud dalam Pasal 9  huruf a, meliputi:
+Pelayanan pengaduan dan konsultasi sebagaimana dimaksud dalam Pasal 9  huruf a, meliputi:  
 a. melakukan proses administrasi pelayanan pelapor;  
 b. melakukan wawancara kepada pelapor; danc. persetujuan dilakukan tindakan.  
 
@@ -364,7 +366,7 @@ Masyarakat dapat melakukan pengawasan perlindungan perempuan dengan  menyampaika
 
 #### Pasal 32
 
-Pembiayaan perlindungan perempuan bersumber dari:
+Pembiayaan perlindungan perempuan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 # BAB XI

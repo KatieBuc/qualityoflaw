@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi  perempuan dan anak sesuai Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pemerintah Daerah Wajib bertanggung jawab dalam penyelenggaraan perlindungan perempuan dan anak terhadap tindak kekerasan;  
 b. bahwa untuk memenuhi indikator- indikator Pelaksanaan Kabupaten Layak Anak, berkenaan dengan layanan Perlindungan, pencegahan kekerasan terhadap perempuan dan anak, maka diperlukan peraturan yang mengatur berbagai peran lembaga perangkat daerah dan lembaga lainnya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -149,7 +151,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Maksud dan Tujuan perlindungan perempuan dan anak dari tindak kekerasan  adalah:
+Maksud dan Tujuan perlindungan perempuan dan anak dari tindak kekerasan  adalah:  
 a. Mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. Memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
 c. Memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
@@ -229,7 +231,7 @@ b. Perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak
 
 #### Pasal 11
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:  
 a. Hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. Hak pemulihan;  
 c. Hak menentukan sendiri keputusannya;  
@@ -254,7 +256,7 @@ d. Hak bebas dari berbagai stigma; dane. Hak mendapatkan kebebasan.
 
 #### Pasal 13
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan  Pemberdayaan terhadap perempuan, dan anak, antara lain:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan  Pemberdayaan terhadap perempuan, dan anak, antara lain:  
 a. Pemerintah Daerah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
 c. Masyarakat;  
@@ -446,7 +448,7 @@ Pemberdayaan
 
 #### Pasal 27
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan, dilaksanakan melalui:
+Penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan, dilaksanakan melalui:  
 a. peningkatan kapasitas Lembaga Penyedia Layanan Pemberdayaan  Perempuan;  
 b. peningkatan kapasitas sumber daya manusia pengelola Lembaga Penyedia  Layanan Pemberdayaan Perempuan;  
 c. pendampingan pelaksanaan layanan Pemberdayaan Perempuan;  
@@ -489,7 +491,7 @@ f. Serta Kelembagaan;
 
 #### Pasal 30
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. Sumber lain yang sah dan tidak mengikat.  
 
 #### Pasal 31

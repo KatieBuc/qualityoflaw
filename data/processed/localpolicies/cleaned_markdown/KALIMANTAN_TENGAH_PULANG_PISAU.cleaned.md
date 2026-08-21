@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anak  merupakan bagian integral dari hak asasi manusia yang harus dijamin, dilindungi, dan dihormati oleh negara;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 2 - Mengingat:  
+ 
  
  
  
@@ -98,7 +100,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan PPA diselenggarakan berdasarkan asas:
+Penyelenggaraan PPA diselenggarakan berdasarkan asas:  
 a. kemanusiaan;  
 
 8 -
@@ -108,7 +110,7 @@ d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.
 
 #### Pasal 3
 
-Pengaturan pokok-pokok penyelenggaraan PPA bertujuan:
+Pengaturan pokok-pokok penyelenggaraan PPA bertujuan:  
 a. mencegah tindak kekerasan, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak;  
 b. menghapus segala bentuk kekerasan, eksploitasi, diskriminasi, perlakuan  salah dan/atau perlakuan yang merendahkan derajat dan martabat  perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -120,7 +122,7 @@ d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pela
 
 #### Pasal 4
 
-Perempuan dan anak korban tindak kekerasan, eksploitasi, diskriminasi,  perlakuan salah dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan mendapatkan hak–hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan, eksploitasi, diskriminasi,  perlakuan salah dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan mendapatkan hak–hak sebagai berikut:  
 a. Hak atas jaminan ruang partisipasi masyarakat dalam pemerintahan,  termasuk dalam pengambilan keputusan/kebijakan;  
 b. Hak atas dokumen kependudukan dan catatan sipil;  
 c. Hak atas Bantuan Hukum;  
@@ -138,7 +140,7 @@ l. Hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradila
 
 #### Pasal 5
 
-Anak korban tindak kekerasan, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat kemanusiaan,  selain mendapatkan hak – hak sebagaimana dimaksud dalam Pasal 4, juga  mendapatkan hak – hak khusus, sebagi berikut:
+Anak korban tindak kekerasan, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat kemanusiaan,  selain mendapatkan hak – hak sebagaimana dimaksud dalam Pasal 4, juga  mendapatkan hak – hak khusus, sebagi berikut:  
 a. Hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. Hak pelayanan dasar;  
 c. Hak perlindungan yang sama;  
@@ -153,7 +155,7 @@ g. Hak atas pemberdayaan Perempuan; danh. Hak atas pencegahan kekerasan.
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggungjawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggungjawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga;  
@@ -161,7 +163,7 @@ d. orang tua; dane. lembaga non pemerintah termasuk Kelembagaan Adat dan Badan U
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab pemerintah daerah sebagaimana dimaksud  Pasal 6 huruf a, meliputi:
+Kewajiban dan tanggung jawab pemerintah daerah sebagaimana dimaksud  Pasal 6 huruf a, meliputi:  
 a. melaksanakan kebijakan perlindungan terhadap perempuan dan anak dari  tindakan kekerasan dalam berbagai bentuk, eksploitasi, diskriminasi,  perlakuan salah dan/atau perlakuan yang merendahkan derajat dan  martabat kemanusiaan yang ditetapkan oleh pemerintah;  
 
 10 -
@@ -208,7 +210,7 @@ i. mendukung pendirian pusat perlindungan dan layanan bagi korban  kekerasan per
 
 #### Pasal 11
 
-Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:
+Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:  
 a. mengumpulkan data dan informasi tentang Perempuan dan Anak Korban  tindakan kekerasan dalam berbagai bentuk, eksploitasi, diskriminasi,  perlakuan salah dan/atau perlakuan yang merendahkan derajat dan  martabat kemanusiaan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan PPA;  
 c. mengadakan pendidikan tentang nilai-nilai anti kekerasan dalam berbagai  bentuk, eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan  yang merendahkan derajat dan martabat kemanusiaan terhadap  perempuan dan anak terhadap anak dan perempuan;  

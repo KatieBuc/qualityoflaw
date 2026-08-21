@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang-Undang Dasar Negera Republik Indonesia Tahun 1945, karenanya perempuan dan anak wajib dilindungi dari segala bentuk kekerasan dan diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah  cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -114,7 +116,7 @@ Pemerintah Daerah berkewajiban menyelenggarakan perlindungan perempuan  dan anak
 
 #### Pasal 5
 
-Dalam penyelenggaraan perlindungan perempuan dan anak, Pemerintah  Daerah wajib:
+Dalam penyelenggaraan perlindungan perempuan dan anak, Pemerintah  Daerah wajib:  
 a. menetapkan kebijakan dasar penyelenggaraan perlindungan perempuan dan  anak dalam Rencana Aksi Daerah;  
 b. melaksanakan kebijakan perlindungan perempuan dan anak yang ditetapkan  oleh pemerintah dan pemerintah provinsi;  
 c. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan hak hak perempuan dan anak antara organisasi perangkat daerah;  
@@ -167,7 +169,7 @@ Bentuk Kekerasan
 
 #### Pasal 10
 
-Kekerasan terhadap perempuan dan anak dapat berupa:
+Kekerasan terhadap perempuan dan anak dapat berupa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -183,7 +185,7 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 10 huruf b disebabkan  karena 
 
 #### Pasal 13
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf c  disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf c  disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan  atau tujuan tertentu.  
@@ -215,7 +217,7 @@ f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang ber
 
 #### Pasal 17
 
-Selain mendapatkan hak sebagaimaana dimaksud dalam Pasal 16, anak korban  kekerasan juga mendapatkan hak khusus berupa:
+Selain mendapatkan hak sebagaimaana dimaksud dalam Pasal 16, anak korban  kekerasan juga mendapatkan hak khusus berupa:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -247,7 +249,7 @@ Ruang Lingkup
 
 #### Pasal 21
 
-Perlindungan perempuan dan anak korban kekerasan meliputi:
+Perlindungan perempuan dan anak korban kekerasan meliputi:  
 a. pencegahan;  
 b. pelayanan; danc. pemberdayaan.  
 
@@ -331,7 +333,7 @@ Pemulihan Korban, Saksi, dan Pelaku
 
 #### Pasal 27
 
-Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan  pelakukekerasan dapat memperoleh pelayanan dari:
+Untuk kepentingan pemulihan, perempuan dan anak korban, saksi dan  pelakukekerasan dapat memperoleh pelayanan dari:  
 a. Lembaga sosial (kelompok atau institusi yang mempunyai ruang lingkup pada  perempuan dan anak) dan atau;  
 b. Pekerja sosial (Individu yang mempunyai kopetensi melakukan pemulihan atau  rehabilitasi) yaitu:
 1. Perawat
@@ -476,7 +478,7 @@ b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.
 
 #### Pasal 41
 
-Setiap orang dilarang:
+Setiap orang dilarang:  
 a. memperlakukan perempuan dan anak secara diskriminatif yang mengakibatkan  perempuan dan anak mengalami kerugian, baik materiil maupun moril sehingga  menghambat fungsi sosialnya;  
 b. memperlakukan perempuan dan anak penyandang disabilitas secara  diskriminatif;  
 c. menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak dalam  situasi perlakuan salah dan penelantaran;  

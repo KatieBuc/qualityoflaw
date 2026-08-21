@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak yang dapat menimbulkan korban fisik maupun psikis merupakan pelanggaran hak asasi manusia, diskriminasi  terhadap perempuan dan anak dan kejahatan terhadap  martabat manusia sehingga menghambat terciptanya keadilan  dan kesetaraan gender;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman dan bebas dari segala perbuatan kekerasan yang dijamin peraturan perundang-undangan;  
 c. bahwa pemerintah daerah berkewajiban untuk mengatur dan  mengurus penanganan serta memberikan pelayanan bagi  perempuan dan anak korban tindak kekerasan yang meliputi  dari segi penegakan hukum, perlindungan hukum, pelayanan  kesehatan, dan spiritual;  
@@ -25,6 +26,7 @@ d. bahwa untuk meningkatkan perlindungan bagi perempuan dan anak korban kekerasa
 e. bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, huruf b, huruf c dan huruf d, perlu menetapkan Peraturan Daerah Kabupaten Lamandau tentang Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -85,7 +87,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pelayanan terpadu pemberdayaan perempuan dan anak dilakukan berdasarkan  Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana diatur dalam Konvensi  perempuan dan anak, yang meliputi:
+Pelayanan terpadu pemberdayaan perempuan dan anak dilakukan berdasarkan  Pancasila, Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana diatur dalam Konvensi  perempuan dan anak, yang meliputi:  
 a. Penghormatan hak asasi manusia.  b. Keadilan dan kesetaraan gender.  c. Non-diskriminasi;  
 d. Kepentingan yang terbaik bagi perempuan dan atau anak;  
 e. Hak untuk hidup, kelangsungan hidup, dan perkembangan;  
@@ -94,7 +96,7 @@ g. Keadilan dan kesetaraan gender; danh. Perlindungan korban.
 
 #### Pasal 3
 
-Tujuan penyelenggaraan pelayanan terpadu pemberdayaan perempuan dan  anak adalah:
+Tujuan penyelenggaraan pelayanan terpadu pemberdayaan perempuan dan  anak adalah:  
 a. Menjamin terpenuhinya hak-hak perempuan dan anak sesuai ketentuan  perundang-undangan yang berlaku.  b. Mencegah dan melindungi perempunan dan anak terhadap kekerasan. c. Mendorong masyarakat untuk melaksanakan kewajibannya dalam  pencegahan dan perlindungan terhadap perempuan dan anak sesuai ketentuan perundang-undangan yang berlaku.  d. Memulihkan korban akibat tindak kekerasan yang dialami. e. Menindak pelaku kekerasan dalam rumah tangga.  f. Menyediakan data terpilah menurut jenis kelamin dan informasi tentang isu  pemberdayaan dan perlindungan perempuan dan anak bagi masyarakat yang  membutuhkannya.  g. Mendorong penyediaan sarana, prasarana dan berbagai jenis layanan  diberbagai bidang kehidupan bagi perempuan dan anak seperti pusat data  dan informasi, konseling, terapi psikologis dan medis, pendampingan,  pendidikan dan pelatihan, pusat rujukan, pelatihan keterampilan dan  sebagainya sebagai upaya untuk meningkatkan kualitas hidup perempuan,  kesejahteraan dan perlindungan anak yang dikelola oleh masyarakat secara  mandiri.  
 
 # BAB III
@@ -103,7 +105,7 @@ a. Menjamin terpenuhinya hak-hak perempuan dan anak sesuai ketentuan  perundang-
 
 #### Pasal 4
 
-Hak-hak anak sebagai berikut:
+Hak-hak anak sebagai berikut:  
 a. Setiap anak berhak untuk dapat hidup, tumbuh, berkembang dan  berpartisipasi secara wajar sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi;  
 b. Setiap anak berhak atas suatu nama sebagai identitas dan status  kewarganegaraan;  
 c. Setiap anak berhak untuk beribadah menurut agamanya, berpikir dan  berekspresi sesuai dengan tingkat kecerdasan dan usianya, dalam bimbingan  orang tua;  
@@ -145,7 +147,7 @@ d. Pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat  prose
 
 #### Pasal 6
 
-Setiap anak berkewajiban:
+Setiap anak berkewajiban:  
 a. Menghormati orang tua, wali, dan guru;  
 b. Mencintai keluarga, masyarakat, dan menyayangi teman;  
 c. Mencintai tanah air, bangsa dan negara;  
@@ -153,7 +155,7 @@ d. Menunaikan ibadah sesuai dengan ajaran agamanya; dane. Melaksanakan etika dan
 
 #### Pasal 7
 
-Setiap orang dilarang melakukan kekerasan dalam rumah tangga terhadap orang  dalam lingkup rumah tangganya, dengan cara:
+Setiap orang dilarang melakukan kekerasan dalam rumah tangga terhadap orang  dalam lingkup rumah tangganya, dengan cara:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual; dand. Penelantaran rumah tangga.  
@@ -234,26 +236,26 @@ Kepolisian wajib segera melakukan penyelidikan setelah mengetahui atau  menerima
 
 #### Pasal 20
 
-Kepolisian segera menyampaikan kepada korban tentang:
+Kepolisian segera menyampaikan kepada korban tentang:  
 a. Identitas petugas untuk pengenalan kepada korban;  
 b. Kekerasan dalam rumah tangga adalah kejahatan terhadap martabat  kemanusiaan; danc. Kewajiban kepolisian untuk melindungi korban.  
 
 #### Pasal 21
 
-Dalam memberikan pelayanan kesehatan kepada korban, tenaga kesehatan  harus:
+Dalam memberikan pelayanan kesehatan kepada korban, tenaga kesehatan  harus:  
 a. Memeriksa kesehatan korban sesuai dengan standar profesinya;  
 b. Membuat laporan tertulis hasil pemeriksaan terhadap korban dan visum et  repertum atas permintaan penyidik kepolisian atau surat keterangan medis  yang memiliki kekuatan hukum yang sama sebagai alat bukti.  
 
 #### Pasal 22
 
-Dalam memberikan pelayanan, pekerja sosial harus:
+Dalam memberikan pelayanan, pekerja sosial harus:  
 a. Melakukan konseling untuk menguatkan dan memberikan rasa aman bagi  korban;  
 b. Memberikan informasi mengenai hak-hak korban untuk mendapatkan  perlindungan dari kepolisian dan penetapan perintah perlindungan dari  pengadilan;  
 c. Mengantarkan korban ke rumah aman atau tempat tinggal alternatif; dand. Melakukan koordinasi yang terpadu dalam memberikan layanan kepada  korban dengan pihak kepolisian, dinas sosial, lembaga sosial yang  dibutuhkan korban.  
 
 #### Pasal 23
 
-Dalam memberikan pelayanan, relawan pendamping dapat:
+Dalam memberikan pelayanan, relawan pendamping dapat:  
 a. Menginformasikan kepada korban akan haknya untuk mendapatkan seorang atau beberapa orang pendamping;  
 b. Mendampingi korban ditingkat penyidikan, penuntutan atau tingkat  pemeriksaan pengadilan dengan membimbing korban untuk secara objektif  dan lengkap memaparkan kekerasan dalam rumah tangga yang dialaminya;  
 c. Mendengarkan secara empati segala penuturan korban sehingga korban  merasa aman didampingi oleh pendamping; dand. Memberikan dengan aktif penguatan secara psikologis dan fisik kepada  korban.  
@@ -280,7 +282,7 @@ Ketua pengadilan dalam tenggang waktu 7 (tujuh) hari sejak diterimanya  permohon
 
 #### Pasal 28
 
-Permohonan untuk memperoleh surat perintah perlindungan dapat diajukan oleh:
+Permohonan untuk memperoleh surat perintah perlindungan dapat diajukan oleh:  
 a. Korban atau keluarga korban;  
 b. Teman korban;  
 c. Kepolisian;  
@@ -293,7 +295,7 @@ Pasl 29 (1) Permohonan perintah perlindungan disampaikan dalam bentuk lisan atau
 
 #### Pasal 30
 
-Atas permohonan korban atau kuasanya, pengadilan dapat mempertimbangkan  untuk:
+Atas permohonan korban atau kuasanya, pengadilan dapat mempertimbangkan  untuk:  
 a. Menetapkan suatu kondisi khusus;  
 b. Mengubah atau membatalkan suatu kondisi khusus dari perintah  perlindungan.  
 
@@ -378,7 +380,7 @@ b. Perlindungan perempuan dan anak dari tindak kekerasan dan perdagangan  orang.
 
 #### Pasal 44
 
-Indikator keberhasilan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak (P2TP2A) adalah sebagai berikut:
+Indikator keberhasilan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak (P2TP2A) adalah sebagai berikut:  
 a. Terbentuk dan berfungsinya Pusat Pelayanan Terpadu Pemberdayaan  Perempuan dan Anak (P2TP2A) yang memberikan pelayanan pemberdayaan  perempuan, perlindungan perempuan dan anak dibidang hukum, politik,  pendidikan, kesehatan, ekonomi, tindakan kekerasan dan oerdagangan orang.  b. Meningkatnya jumlah perempuan dan anak yang memanfaatkan Pusat  Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A). c. Meningkatnya jumlah perempuan dan anak untuk mendapatkan pelatihan. d. Berjalannya mekanisme dialog dan komunikasi antara pemerintah,  masyarakat dan dunia usaha.  e. Adanya kerjasama antara Pusat Pelayanan Terpadu Pemberdayaan  Perempuan dan Anak (P2TP2A) dengan pemerintah dan dunia usaha.  
 
 # BAB VII
@@ -396,7 +398,7 @@ a. Terbentuk dan berfungsinya Pusat Pelayanan Terpadu Pemberdayaan  Perempuan da
 
 #### Pasal 46
 
-Pembiayaan penyelenggaraan Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak bersumber dari:
+Pembiayaan penyelenggaraan Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak bersumber dari:  
 a. Anggaran pendapatan dan belanja daerah Kabupaten Lamandau. b. Sumber lain yang sah dan tidak mengikat.  
 
 # BAB IX

@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan ciptaan Tuhan  Yang Maha Esa yang menjadi unsur penting dari masyarakat dan Bangsa Indonesia;  
 b. bahwa dalam kehidupan masyarakat seringkali perempuan  dan anak mendapatkan kekerasan atau perlakuan yang kurang menyenangkan;  
 c. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -101,7 +103,7 @@ f. pembinaan dan pengawasan; dang. peran serta masyarakat.
 
 #### Pasal 4
 
-Bentuk-bentuk kekerasan terhadap Perempuan dan Anak berupa:
+Bentuk-bentuk kekerasan terhadap Perempuan dan Anak berupa:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
@@ -119,13 +121,13 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  disebabkan karena p
 
 #### Pasal 7
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  berupa:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  berupa:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual; dan/atauc. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
 
-Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d  disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 4 huruf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan Anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain yang bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus Anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali atau pihak lain yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja
@@ -136,7 +138,7 @@ yang layak di dalam atau di luar rumah sehingga Korban  berada di bawah kendali 
 
 #### Pasal 9
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e  disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e  disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan Korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  Pelayanan paksa, perbudakan atau praktek serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan  baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari Korban untuk mendapatkan keuntungan yang  tidak terbatas pada semua kegiatan pelacuran atau  pencabulan.  
 
@@ -314,7 +316,7 @@ c. mengantarkan Korban ke Rumah Aman atau tempat  tinggal alternatif; dand. mela
 
 #### Pasal 30
 
-Rohaniawan sebagaimana dimaksud dalam Pasal 24 ayat (1)  huruf d bertugas:
+Rohaniawan sebagaimana dimaksud dalam Pasal 24 ayat (1)  huruf d bertugas:  
 a. memberi bimbingan rohani atau penguatan iman dan taqwa  kepada Korban; danb. memberikan penjelasan mengenai hak dan kewajiban Korban.  
 
 # BAB VII

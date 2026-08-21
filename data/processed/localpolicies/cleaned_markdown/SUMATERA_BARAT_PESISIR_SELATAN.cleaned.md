@@ -32,6 +32,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa bahwa untuk menjamin pemberdayaan perempuan dan untuk menjamin pemberdayaan perempuan dan perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi, dan pelanggaran lainnya;  
 
 kekerasan, diskriminasi, dan pelanggaran lainnya;  
@@ -46,6 +47,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana bahwa berdasarkan pertimbangan seb
 Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -119,7 +121,7 @@ Dalam Peraturan daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan Perempuan dan Perlindungan Anak dilaksanakan  berdasarkan asas:
+Pemberdayaan Perempuan dan Perlindungan Anak dilaksanakan  berdasarkan asas:  
 a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. kesetaraan dan keadilan gender;  
 c. non-diskriminasi;  
@@ -129,7 +131,7 @@ f. penegakan dan kepastian hukum; dang. Penghargaan terhadap pendapat anak.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan:
+Peraturan Daerah ini bertujuan:  
 a. menjamin terpenuhinya hak perempuan dan anak di daerah;  
 b. mencegah terjadinya tindakan, keputusan dan kebijakan yang melanggar  hak perempuan dan anak;  
 c. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
@@ -138,7 +140,7 @@ e. memberikan pelayanan kepada korban kekerasan; danf. menyelenggarakan pemuliha
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan  Anak meliputi:
+Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan  Anak meliputi:  
 a. peningkatan kualitas hidup perempuan;  
 b. perlindungan perempuan dan anak;  
 c. peningkatan kualitas keluarga;  
@@ -192,7 +194,7 @@ Pembentukan Pokja Pengarusutamaan Gender di Daerah
 
 #### Pasal 9
 
-Pokja Pengarusutamaan Gender Daerah sebagaimana dimaksud dalam Pasal  5 ayat (1) huruf c mempunyai tugas:
+Pokja Pengarusutamaan Gender Daerah sebagaimana dimaksud dalam Pasal  5 ayat (1) huruf c mempunyai tugas:  
 a. mempromosikan dan memfasilitasi Pengarusutamaan Gender kepada  masing-masing OPD;  
 b. melaksanakan sosialisasi dan advokasi Pengarusutamaan Gender kepada  Camat, dan Wali Nagari;  
 c. menyusun program kerja setiap tahun;  
@@ -226,7 +228,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan  Bidang Politik
 
 #### Pasal 12
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang politik sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka 1  meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang politik sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka 1  meliputi:  
 a. melaksanakan sosialisasi untuk meningkatkan partisipasi politik  perempuan dalam pemilihan umum;  
 b. melaksanakan program yang mendorong tingkat keterlibatan perempuan  dalam proses politik dan jabatan publik;  
 c. melakukan fasilitasi pengembangan diri perempuan dalam berorganisasi,  berserikat dan berkumpul;  
@@ -238,7 +240,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan  Bidang Hukum
 
 #### Pasal 13
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka  2 meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka  2 meliputi:  
 a. melakukan sosialisasi untuk meningkatkan pengetahuan dan kesadaran  hukum perempuan;  
 b. melakukan pemetaan dan mereview kebijakan bias gender;  
 c. melibatkan organisasi perempuan dalam proses penyusunan dan  pembahasan produk hukum Daerah yang berkaitan dengan peran serta  perempuan;  
@@ -249,7 +251,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan  Bidang Sosial
 
 #### Pasal 14
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang sosial sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka 3  meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang sosial sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka 3  meliputi:  
 a. peningkatan pengetahuan dan keterampilan untuk mendorong  pemenuhan pendidikan sesuai dengan potensi yang dimiliki;  
 b. peningkatan dan pemenuhan kualitas kesehatan terhadap perempuan;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga  mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan;  
@@ -265,7 +267,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan  Bidang Ekonomi
 
 #### Pasal 15
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang ekonomi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka  4 meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang ekonomi sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d angka  4 meliputi:  
 a. melaksanakan program, kegiatan, pelatihan untuk peningkatan  keterampilan dan keahlian perempuan dalam rangka mewujudkan  peningkatan kesejahteraan perempuan;  
 b. fasilitasi penguatan modal usaha bagi perempuan yang memiliki ekonomi  lemah;  
 c. pemasaran produk hasil usaha perempuan yang memiliki ekonomi lemah;  
@@ -355,7 +357,7 @@ Masyarakat
 
 #### Pasal 21
 
-Dalam rangka mencegah terjadinya tindak kekerasan terhadap perempuan dan Anak, masyarakat:
+Dalam rangka mencegah terjadinya tindak kekerasan terhadap perempuan dan Anak, masyarakat:  
 a. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat  menimbulkan pelanggaran terhadap hak perempuan dan anak;  
 b. meningkatkan kepedulian terhadap pelanggaran hak perempuan dan  anak;  
 c. menguatkan peran organisasi kemasyarakatan, keagamaan dan  lingkungan keluarga; dand. mencegah pernikahan di bawah tangan dan perkawinan pada usia anak.  
@@ -366,7 +368,7 @@ Orang Tua dan Keluarga
 
 #### Pasal 22
 
-Dalam rangka mencegah terjadinya tindak kekerasan terhadap perempuan dan anak, orang tua dan keluarga:
+Dalam rangka mencegah terjadinya tindak kekerasan terhadap perempuan dan anak, orang tua dan keluarga:  
 a. melindungi perempuan dan anak dari berbagai pelanggaran hak dalam  rumah tangga;  
 b. mendorong terbentuknya keluarga yang harmonis, edukatif dan  demokratis;  
 c. memberikan tauladan yang baik kepada anak sesuai ajaran agama dan  adat;  
@@ -410,7 +412,7 @@ Pelayanan Pengaduan
 
 #### Pasal 25
 
-Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 23 ayat (3) huruf  a dapat dikoordinasikan oleh UPTD PPA dengan instansi terkait yang terdiri  dari:
+Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 23 ayat (3) huruf  a dapat dikoordinasikan oleh UPTD PPA dengan instansi terkait yang terdiri  dari:  
 a. rumah sakit;  
 b. pusat kesehatan masyarakat;  
 c. pusat pelayanan terpadu pemberdayaan perempuan dan anak d. rumah perlindungan trauma center;  
@@ -555,7 +557,7 @@ b. melakukan evaluasi data pasca perkawinan.
 
 #### Pasal 41
 
-Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf b meliputi:
+Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal 36 ayat (1) huruf b meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. pencatatan dan pelaporan pelayanan keluarga berencana;  
 c. fasilitas sarana dan prasarana pelayanan kesehatan yang memadai;dan d. ruangan laktasi disetiap fasilitas umum.  
@@ -602,7 +604,7 @@ Pelaksanaan sistem data gender dan anak
 
 #### Pasal 46
 
-Pokja data terpilah daerah sebagaimana dimaksud pada pasal 44 mempunyai  tugas:
+Pokja data terpilah daerah sebagaimana dimaksud pada pasal 44 mempunyai  tugas:  
 a. menyusun rencana kerja kelompok kerja data terpilah gender dan anak  dengan menggunakan indikator dan target terukur untuk periode  tertentu yang akan digunakan untuk monitoring dan evaluasi kegiatan  kelompok kerja data terpilah gender dan anak;  
 b. meningkatkan kerjasama lintas sektor dalam rangka penguatan data  yang dihasilkan terkait dengan pengadaan dan pemanfaatan data;  
 c. melaksanakan koordinasi dan sinkronisasi dengan instansi terkait  dalam rangka penyusunan data gender dan anak untuk tingkat  kabupaten; dand. menghimpun, mengolah, menyusun dan meningkatkan kualitas data  serta mempresentasikan data di organisasi perangkat daerah dan  selanjutnya dijadikan data sekunder pada data Gender dan Anak secara  berkesinambungan.  

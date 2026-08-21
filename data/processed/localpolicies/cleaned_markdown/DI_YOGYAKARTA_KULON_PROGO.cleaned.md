@@ -2,6 +2,7 @@ Mengingat:
  
  
  
+ 
 1. 2. 3. 4. (5. (2
 
 # KABUPATEN KULON PROGO
@@ -21,6 +22,7 @@ Mengingat:
 # BUPATI KULON PROGO,
 
 Menimbang:  
+ 
  
  
  
@@ -191,7 +193,7 @@ pelayanan rehabilitasi sosial;
 
 pelayanan hukum; dan pelayanan reintegrasi sosial.  
 
-Pemerintah Selain dilakukan oleh:
+Pemerintah Selain dilakukan oleh:  
 a. masyarakat;  
 b.  c. d. Penyelenggaraan cepat;  
 a.  b. rasa empati;  

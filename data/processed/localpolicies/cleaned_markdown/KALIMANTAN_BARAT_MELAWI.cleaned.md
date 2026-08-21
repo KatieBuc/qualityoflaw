@@ -109,7 +109,7 @@ d. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan.
 
 #### Pasal 4
 
-Ruang Lingkup Penyelenggaraan Perlindungan Perempuan korban kekerasan  meliputi:
+Ruang Lingkup Penyelenggaraan Perlindungan Perempuan korban kekerasan  meliputi:  
 a. pencegahan;  
 b. pelayanan/penanganan;  
 c. pemberdayaan;  
@@ -149,7 +149,7 @@ Paragrafl Bentuk Layanan
 
 #### Pasal 8
 
-Bentuk pelayanan/penanganan terhadap korban meliputi:
+Bentuk pelayanan/penanganan terhadap korban meliputi:  
 a. penanganan pengaduan;  
 b. pelayanan rehabilitasi kesehatan/medis;  
 c. pelayanan rehabilitasi sosial;  
@@ -161,7 +161,7 @@ Prinsip Layanan
 
 #### Pasal 9
 
-Penyelenggaraan Pelayanan/penanganan terhadap korban dilaksanakan  dengan:
+Penyelenggaraan Pelayanan/penanganan terhadap korban dilaksanakan  dengan:  
 a. cepat dan tepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -187,12 +187,12 @@ b. praktek kerja lapangan; danc. pemagangan.
 
 #### Pasal 12
 
-Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 10 huruf c meliputi:
+Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 10 huruf c meliputi:  
 a. pelatihan keterampilan wirausaha; danb. pendampingan pelaksanaan usaha.  
 
 #### Pasal 13
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 10 huruf d  meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 10 huruf d  meliputi:  
 a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha
 
 # BAB IV
@@ -201,7 +201,7 @@ a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha
 
 #### Pasal 14
 
-Kekerasan terhadap perempuan terdiri dari:
+Kekerasan terhadap perempuan terdiri dari:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -243,7 +243,7 @@ b. suatu keadaan dimana seseorang/korban disuruh melakukan sesuatu  sedemikian r
 
 #### Pasal 21
 
-Setiap perempuan korban kekerasan berhak:
+Setiap perempuan korban kekerasan berhak:  
 a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. untuk mendapatkan pemulihan kesehatan fisik, psikol + ks al:: "» 31KologIs maupun  se sue sesuai penderitaan yang dialami korban kekerasan;  
 c. mendapatkan...  

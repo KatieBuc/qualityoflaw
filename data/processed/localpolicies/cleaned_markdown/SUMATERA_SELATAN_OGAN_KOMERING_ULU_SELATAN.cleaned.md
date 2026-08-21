@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemerintah memiliki kewajiban memberi  perlindungan, pemajuan, penegakan dan pemenuhan Hak Asasi Manusia setiap warga negara termasuk Hak Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok  rentan yang cenderung mengalami kekerasan dan diskriminasi sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa pemenuhan hak-hak konstitusional Perempuan  dan Anak serta peningkatan kualitas hidup Perempuan dan Anak, merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -129,7 +131,7 @@ e. meningkatkan peran dan nilai kearifan lokal dalam  Perlindungan Perempuan dan
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Perlindungan Perempuan dan  Anak meliputi:
+Ruang lingkup pengaturan Perlindungan Perempuan dan  Anak meliputi:  
 a. pencegahan;  
 b. penyelenggaraan Perlindungan Hak Perempuan dan  Anak;  
 c. penanganan;  
@@ -145,7 +147,7 @@ Hak Perempuan
 
 #### Pasal 5
 
-Setiap Perempuan berhak:
+Setiap Perempuan berhak:  
 a. memperoleh perlindungan dari tindakan diskriminasi;  
 b. memperoleh perlindungan dari eksploitasi ekonomi dan  eksploitasi seksual;  
 c. memperoleh perlindungan dari kekerasan fisik,  psikologis, seksual, dan penelantaran;  
@@ -274,7 +276,7 @@ Tanggung Jawab Terhadap Perlindungan Hak Perempuan
 
 #### Pasal 11
 
-Tanggung jawab keluarga dalam upaya perlindungan  perempuan meliputi:
+Tanggung jawab keluarga dalam upaya perlindungan  perempuan meliputi:  
 a. melindungi perempuan dari konflik dan kekerasan  dalam rumah tangga yang merendahkan martabat  perempuan;  
 b. memberikan kesempatan yang sama pada perempuan  untuk mengembangkan diri di bidang:
 1. pendidikan;  
@@ -359,7 +361,7 @@ Umum
 
 #### Pasal 16
 
-Pemerintah Kabupaten menyelenggarakan Perlindungan  Perempuan dengan melibatkan:
+Pemerintah Kabupaten menyelenggarakan Perlindungan  Perempuan dengan melibatkan:  
 a. keluarga;  
 b. tokoh masyarakat;  
 c. pemuka agama;  
@@ -451,7 +453,7 @@ Anak yang berada di lingkungan lembaga pendidikan formal  dan non formal wajib d
 
 #### Pasal 25
 
-Setiap Anak berusia 7 (tujuh) sampai dengan 18 (delapan  belas) tahun yang belum menyelesaikan pendidikan,  melewati 3 (tiga) tahun melewati batas usia pendidikan  formal dapat menempuh pendidikan melalui satuan  pendidikan non formal:
+Setiap Anak berusia 7 (tujuh) sampai dengan 18 (delapan  belas) tahun yang belum menyelesaikan pendidikan,  melewati 3 (tiga) tahun melewati batas usia pendidikan  formal dapat menempuh pendidikan melalui satuan  pendidikan non formal:  
 a. Program kesetaraan paket A setara Sekolah Dasar dan  Madrasah Ibtidaiyah;  
 b. Program kesetaraan paket B setara Sekolah Menengah  Pertama dan Madtasah Tsanawiyah; danc. Program kesetaraan paket C setara Sekolah Menengah  Atas, Madrasah Aliyah dan Sekolah Menengah  Kejuruan.  
 
@@ -559,7 +561,7 @@ Penanganan Perempuan dan Anak Korban Kekerasan
 
 #### Pasal 40
 
-Pelaksanaan penanganan Perempuan dan Anak korban  kekerasan meliputi:
+Pelaksanaan penanganan Perempuan dan Anak korban  kekerasan meliputi:  
 a. penanganan pengaduan korban kekerasan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
@@ -796,7 +798,7 @@ d. pelatihan kepada petugas rehabilitasi sosial dan  petugas bimbingan rohani da
 
 #### Pasal 61
 
-Pembiayaan yang diperlukan untuk pelaksanaan kegiatan  Kabupaten Layak Anak dibebankan pada:
+Pembiayaan yang diperlukan untuk pelaksanaan kegiatan  Kabupaten Layak Anak dibebankan pada:  
 a. Anggaran Pendapatan dan Belanja Daerah Kabupaten;  
 b. Anggaran Pendapatan dan Belanja Negara; dan  c. sumber lain yang sah dan tidak mengikat.  
 

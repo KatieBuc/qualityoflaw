@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang mengenyampingkan dan merendahkan derajatnya sebagai manusia;  
 b. bahwa perilaku dan budaya negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanan atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum semestinya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap mampu menjalankan kehidupannya dalam pergaulan sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -176,14 +178,14 @@ e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.
 
 #### Pasal 5
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi:
+Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 5 huruf a, meliputi:  
 a. melaksanakan kewajiban perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program dan kegiatan perlindungan perempuan dan anak dari tindak kekerasan;  
 
@@ -318,7 +320,7 @@ Pemerintah Daerah atau P2TP2A wajib membentuk standar operasional untuk Pendampi
 
 #### Pasal 20
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:  
 a. non diskriminasi;  
 b. cepat, aman, dan empati;  
 c. koordinasi antar instansi pemerintah;  
@@ -454,7 +456,7 @@ Dalam hal proses persidangan terkait kasus kekerasan terhadap anak, keberadaan a
 
 #### Pasal 32
 
-Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai berikut:
+Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai berikut:  
 a. proses hukum dilakukan secara manusia dengan memandang anak masih memiliki harapan kemasa depannya;  
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  
@@ -541,13 +543,13 @@ Ayat (2) Huruf a Cukup jelas Huruf b Cukup jelas Huruf c Cukup jelas Huruf d Cuk
 
 #### Pasal 3
 
-Ayat (1) Yang dimaksud dengan “kekerasan fisik” adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan atau menyebabkan kematian Yang dimaksud dengan “kekerasan psikis” adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan atau penderitaan psikis berat pada seseorang Yang dimaksud dengan “kekerasan seksual” adalah setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan atau tujuan tertentu Yang dimaksud dengan “eksploitasi” meliputi:
+Ayat (1) Yang dimaksud dengan “kekerasan fisik” adalah setiap perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan atau menyebabkan kematian Yang dimaksud dengan “kekerasan psikis” adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan atau penderitaan psikis berat pada seseorang Yang dimaksud dengan “kekerasan seksual” adalah setiap perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan atau tujuan tertentu Yang dimaksud dengan “eksploitasi” meliputi:  
 a. tindakan yang mengeksploitasi ekonomi atau seksual anak dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. tindakan dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil.  c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 Yang dimaksud dengan “perdagangan orang” adalah tindakan perekrutan, pengangkutan, penampungan, pengiriman, pemindahan, atau penerimaan seseorang dengan ancaman kekerasan, penggunaan kekerasan, penculikan, penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi rentan, penjeratan utang atau memberi bayaran atau manfaat, sehingga memperoleh persetujuan dari orang yang memegang kendali atas orang lain tersebut, baik yang dilakukan di dalamnegara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang tereksploitasi.  
 
-4 - Yang dimaksud dengan “penelantaran Rumah Tangga” adalah:
+4 - Yang dimaksud dengan “penelantaran Rumah Tangga” adalah:  
 a. tindakan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial;  
 b. tindakan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya;  
 c. tindakan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut;  

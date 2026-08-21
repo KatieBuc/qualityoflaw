@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 bahwa setiap orang berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak asasi manusia;  
 
 bahwa korban kekerasan berbasis gender dan anak mengalami peningkatan sehingga korban harus mendapatkan perlindungan dari kekerasan dan/atau ancaman kekerasan di dalam maupun di luar rumah tangga;  
@@ -434,7 +435,7 @@ Pelaksanaan kerjasama sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan
 
 #### Pasal 24
 
-Penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak merupakan kewajiban dan tanggung jawab bersama:
+Penyelenggaraan perlindungan korban kekerasan berbasis gender dan anak merupakan kewajiban dan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orangtua.  
@@ -479,7 +480,7 @@ Masyarakat, Keluarga, dan Orangtua
 
 #### Pasal 26
 
-Masyarakat, keluarga, dan orangtua mempunyai kewajiban dan tanggung jawab:
+Masyarakat, keluarga, dan orangtua mempunyai kewajiban dan tanggung jawab:  
 a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. melaporkan bila terjadi kekerasan;  
 c. melindungi korban; dand. memberikan pertolongan darurat.  

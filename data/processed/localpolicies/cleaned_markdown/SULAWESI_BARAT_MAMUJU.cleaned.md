@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan  hak asasi perempuan terhadap pemberdayaan dan  perlindungan perempuan merupakan salah satu nilai yang  tertuang dalam Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah sebagaimana dalam Lampiran  disebutkan bahwa pembagian urusan pemerintah dalam  bidang pemberdayaan perempuan dengan salah satu sub  urusan adalah perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -137,7 +139,7 @@ Pemberdayaan Perempuan
 
 #### Pasal 9
 
-Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal  5 ayat (1) huruf c diarahkan untuk memperoleh kesempatan  dan hak sebagai manusia agar mampu berperan dan  berpartisipasi dalam bidang:
+Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal  5 ayat (1) huruf c diarahkan untuk memperoleh kesempatan  dan hak sebagai manusia agar mampu berperan dan  berpartisipasi dalam bidang:  
 a. politik;  
 b. hukum;  
 c. sosial budaya; dand. ekonomi.  
@@ -188,7 +190,7 @@ Bidang Ekonomi
 
 #### Pasal 13
 
-Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:
+Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. kemudahan dalam memperoleh pekerjaan;  
 c. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
@@ -218,7 +220,7 @@ Pencegahan Kekerasan terhadap Perempuan
 
 #### Pasal 15
 
-Pencegahan kekerasan terhadap perempuan menjadi tanggung  jawab:
+Pencegahan kekerasan terhadap perempuan menjadi tanggung  jawab:  
 a. Pemerintah Daerah;  
 b. lembaga pendidikan;  
 c. lembaga keagamaan;  
@@ -306,7 +308,7 @@ f. melakukan monitoring dan evaluasi pelayanan korban;  dang. memberikan penguat
 
 #### Pasal 21
 
-P2TP2A sebagaimana dimaksud dalam Pasal 20 terdiri dari  unsur sebagai berikut:
+P2TP2A sebagaimana dimaksud dalam Pasal 20 terdiri dari  unsur sebagai berikut:  
 a. perangkat daerah yang terkait;  
 b. rumah sakit pemerintah dan/atau swasta;  
 c. kepolisian;  
@@ -465,7 +467,7 @@ d. fasilitas penyelenggaraan pembangunan keluarga; dan e. peningkatan kualitas k
 
 #### Pasal 33
 
-Pembinaan sebagaimana dimaksud dalam Pasal 32 huruf a meliputi:
+Pembinaan sebagaimana dimaksud dalam Pasal 32 huruf a meliputi:  
 a. pemberian akses informasi;  
 b. pendidikan; danc. konseling.  
 
@@ -473,7 +475,7 @@ tentang kehidupan berkeluarga program bina keluarga.
 
 #### Pasal 34
 
-Bimbingan sebagaimana dimaksud dalam Pasal 32 huruf b  meliputi:
+Bimbingan sebagaimana dimaksud dalam Pasal 32 huruf b  meliputi:  
 a. memberikan perlindungan dan bantuan untuk  mengembangkan diri melalui peningkatan kemampuan dan  keterampilan keluarga;  
 b. melakukan penyuluhan peningkatan kualitas hidup  perempuan;  
 c. melakukan penyuluhan peningkatan kesetaraan gender  dalam kehidupan keluarga masyarakat;  
@@ -485,7 +487,7 @@ Supervisi sebagaimana dimaksud dalam Pasal 32 huruf c yaitu  melakukan evaluasi 
 
 #### Pasal 36
 
-Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender meliputi:
+Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. alat dan obat kontrasepsi; danc. pencatatan dan pelaporan pelayanan keluarga berencana  keluarga berencana difasilitas sarana dan prasarana  pelayanan kesehatan yang memadai ruang pojok ASI di  setiap fasilitas umum.  
 
@@ -552,7 +554,7 @@ i. monitoring dan evaluasi; danj. pelaporan.
 
 #### Pasal 42
 
-Pendanaan pelaksanaan kebijakan program dan kegiatan  Pemberdayaan dan Perlindungan Perempuan di Daerah  bersumber dari:
+Pendanaan pelaksanaan kebijakan program dan kegiatan  Pemberdayaan dan Perlindungan Perempuan di Daerah  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; dan c. sumber dana lain yang sah dan tidak mengikat.  
 

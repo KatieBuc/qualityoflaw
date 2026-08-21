@@ -24,6 +24,7 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. bahwa setiap warga negara berhak mendapatkan rasa aman dan bebas dari segala bentuk Kekerasan;  
 
@@ -99,7 +100,7 @@ ASAS DAN TUJUAN i
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan asas:
+Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak Korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -167,7 +168,7 @@ c. melakukan keijasama dengan lembaga tertentu dalam penyediaan penteijemah dan 
 
 di' melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan Korban serta melakukan kerjasama dengan lembaga Perlindungan saksi dan Korban, rumah Perlindungan sosial atau pusat trauma milik pemerintah, masyarakat, atau lembaga lembaga lainnya untuk pemulihan kesehatan korban;  
 
-:
+:  
 e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
 f. menjaga kerahasiaan korban;  
 g. memberikan pemenuhan bantuan hukum bagi korban;  
@@ -185,7 +186,7 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT
 
 #### Pasal 9
 
-SPM Bidang Layanan Terpadu bagi perempuan dan anak korban kekerasan, meliputi layanan:
+SPM Bidang Layanan Terpadu bagi perempuan dan anak korban kekerasan, meliputi layanan:  
 a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
 c. rehabilitasi Sosial bagi perempuan dan anak korban kekerasan;  
@@ -195,7 +196,7 @@ S'
 
 #### Pasal 10
 
-SPM sebagaimana dimaksud dalam Pasal 9 memiliki indikacor kineija meliputi:
+SPM sebagaimana dimaksud dalam Pasal 9 memiliki indikacor kineija meliputi:  
 a. cakupan perempuan dan anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih didalam unit pelayanan terpadu;  
 b. cakupan perempuan dan anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di Rumah Sakit;  
 c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi perempuan dan anak korban kekerasan di dalam unit pelayanan terpadu;  
@@ -236,7 +237,7 @@ g. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan; danh. ca
 
 #### Pasal 14
 
-Pendanaan untuk penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan, bersumber dari:
+Pendanaan untuk penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
 
 I

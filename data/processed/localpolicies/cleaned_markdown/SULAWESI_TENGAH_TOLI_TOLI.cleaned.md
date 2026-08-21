@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan terhadap hak asasi manusia  sehingga menjadi kewajiban negara untuk melindungi dari  segala bentuk kekerasan dan diskriminasi;  
 b. bahwa untuk memenuhi hak perempuan dan anak serta  bagian dari upaya pemerintah daerah untuk melindungi  perempuan dan anak dari eksploitasi, penelantaran dan  diskriminasi;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum dalam perlindungan perempuan dan anak  diperlukan pengaturan di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -122,7 +124,7 @@ Umum
 
 #### Pasal 5
 
-Pemerintah Daerah bertanggungjawab terhadap upaya melindungi perempuan dari perbuatan tindak Kekerasan yang terjadi di depan umum atau kehidupan  pribadi dalam bentuk:
+Pemerintah Daerah bertanggungjawab terhadap upaya melindungi perempuan dari perbuatan tindak Kekerasan yang terjadi di depan umum atau kehidupan  pribadi dalam bentuk:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi;  
@@ -212,7 +214,7 @@ f. merujuk ke fasilitas pelayanan kesehatan yang lebih memadai bila  diperlukan 
 
 #### Pasal 12
 
-Pelayanan bantuan dan perlindungan hukum sebagaimana dimaksud dalam  Pasal 9 ayat (1) huruf g meliputi:
+Pelayanan bantuan dan perlindungan hukum sebagaimana dimaksud dalam  Pasal 9 ayat (1) huruf g meliputi:  
 a. memberi perlindungan di Rumah Aman;  
 b. memberikan informasi hukum kepada Korban ;  
 c. melakukan Pendampingan untuk Korban sebagai saksi mulai dari proses  penyidikan hingga putusan;  
@@ -267,7 +269,7 @@ b. melakukan koordinasi, integrasi, sinkronisasi pencegahan Kekerasan  berdasark
 
 #### Pasal 17
 
-Pencegahan tindak Kekerasan terhadap Anak selain dilaksanakan oleh  perangkat daerah sebagaimana dimaksud dalam Pasal 16 ayat (2), juga  melibatkan:
+Pencegahan tindak Kekerasan terhadap Anak selain dilaksanakan oleh  perangkat daerah sebagaimana dimaksud dalam Pasal 16 ayat (2), juga  melibatkan:  
 a. orang tua dan/atau keluarga;  
 b. masyarakat;  
 c. lembaga pendidikan;  
@@ -352,7 +354,7 @@ Kerja sama
 
 #### Pasal 23
 
-Dalam melakukan penanganan Anak Korban tindak Kekerasan sebagaimana  dimaksud dalam Pasal 18, Pemerintah Daerah dapat melakukan kerja sama  dengan:
+Dalam melakukan penanganan Anak Korban tindak Kekerasan sebagaimana  dimaksud dalam Pasal 18, Pemerintah Daerah dapat melakukan kerja sama  dengan:  
 a. instansi vertikal;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lainnya;  
@@ -444,7 +446,7 @@ a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak K
 
 #### Pasal 31
 
-Pendanaan atas Perlindungan Perempuan dan Anak dari tindak Kekerasan,  dapat bersumber dari:
+Pendanaan atas Perlindungan Perempuan dan Anak dari tindak Kekerasan,  dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/ataub. sumber lain yang sah tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 32

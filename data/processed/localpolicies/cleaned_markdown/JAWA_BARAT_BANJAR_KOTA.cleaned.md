@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan  hidup, tumbuh, dan berkembang secara wajar serta berhak atas  perlindungan dari kekerasan dan diskriminasi sebagaimana  diamanatkan dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kota  Banjar dari tahun ke tahun semakin meningkat sehingga  menjadi tanggung jawab Pemerintah Daerah Kota Banjar untuk  menjamin perlindungan, pemenuhan, dan penghormatan hak  perempuan dan anak;  
 c. bahwa Kota Banjar belum memiliki peraturan daerah yang mengatur tentang penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sehingga diperlukan dasar hukum  yang komprehensif dalam rangka pemenuhan perempuan dan Anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b dan huruf c perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -78,12 +80,12 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:
+Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:  
 a. penghormatan dan pengakuan atas hak; danb. martabat kemanusiaan yang sama.  
 
 #### Pasal 3
 
-Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan prinsip:
+Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan prinsip:  
 a. responsif gender;  
 b. non diskriminasi;  
 c. hubungan setara dan menghormati;  
@@ -336,7 +338,7 @@ b. FPKK Kecamatan; danc. FPKK Desa.
 
 #### Pasal 24
 
-Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 23  terdiri atas:
+Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 23  terdiri atas:  
 a. mengkoordinasikan dan menyinkronkan pencegahan,  pelayanan, dan pemberdayaan terhadap perempuan dan anak  korban kekerasan;  
 b. memelihara dan mengembangkan FPKK dalam pencegahan,  pelayanan, dan pemberdayaan korban secara berjejaring serta  sistem rujukan;  
 c. melakukan pendidikan tentang nilai non diskriminasi terhadap  perempuan dan anak;  
@@ -576,7 +578,7 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Cukup jelas.  
 
-Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara lain:
+Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara lain:  
 a. pelaksanaan konseling dalam bidang hukum dengan  melibatkan kepolisian, kejaksaan, pengadilan  negeri,pengadilan agama, lembaga advokasi hukum dan  lembaga swadaya masyarakat;  
 b. pelaksanaan konseling dalam bidang kesehatan dengan  melibatkan dinas kesehatan, rumah sakit umum daerah, dan layanan kesehatan lainnya;  
 c. pelaksanaan konseling dalam bidang rohani dengan  melibatkan kementerian agama dan tokoh agama; dand. pelaksanaan konseling dalam bidang psikologi dengan  melibatkan pendamping psikologi dan/atau psikolog.  

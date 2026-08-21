@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak  mendapatkan rasa aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan, sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa kekerasan terhadap perempuan dan anak terus meningkat sehingga perlu dilakukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -102,7 +104,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak dari tindak kekerasan dilaksanakan  berdasarkan asas:
+Perlindungan Perempuan dan Anak dari tindak kekerasan dilaksanakan  berdasarkan asas:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi perempuan dan anak;  
 c. keadilan dan kesetaraan gender;  
@@ -124,7 +126,7 @@ b. pengurangan resiko; danc. penanganan
 
 #### Pasal 4
 
-Ruang Lingkup Peraturan Daerah ini terdiri dari:
+Ruang Lingkup Peraturan Daerah ini terdiri dari:  
 a. perlindungan perempuan; danb. perlindungan anak.  
 
 #### Pasal 5
@@ -139,7 +141,7 @@ c. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan da
 
 #### Pasal 6
 
-Bentuk kekerasan meliputi:
+Bentuk kekerasan meliputi:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi;  
@@ -168,7 +170,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak
 
 #### Pasal 8
 
-Setiap Korban memiliki hak mendapatkan:
+Setiap Korban memiliki hak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -189,7 +191,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 10
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap perempuan dan anak korban kekerasan merupakan tanggung  jawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap perempuan dan anak korban kekerasan merupakan tanggung  jawab bersama:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dand. orangtua.  
@@ -263,7 +265,7 @@ b. pelatihan anggota P2TP2A terkait tentang pelaksanaan tugasnya  dalam melakuka
 
 #### Pasal 17
 
-Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:
+Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik  yang bertujuan untuk memulihkan kondisi fisik korban yang  dilakukan oleh tenaga medis dan paramedik;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan dalam  rangka memulihkan kondisi traumatis korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai ancaman dan  intimidasi bagi korban dan memberikan dukungan secara sosial  sehingga korban mempunyai rasa percaya diri, kekuatan dan  kemandirian, dalam menyelesaikan masalahnya;  
@@ -313,7 +315,7 @@ Prinsip-Prinsip Pelayanan dan Pendampingan
 
 #### Pasal 22
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -371,7 +373,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 27
 
-Dana untuk penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/atau  b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 28

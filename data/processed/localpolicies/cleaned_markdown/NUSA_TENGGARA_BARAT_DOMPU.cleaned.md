@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
  Mengingat bahwa perempuan dan anak adalah aset yang sangat  berharga untuk menjamin kelangsungan eksistensi bangsa,  maka perlu adanya perlindungan dari segala bentuk  kekerasan dan ketidakadilan;  
 
 . bahwa perlindungan dilakukan untuk menjamin hak-hak  konstitusional dan pemenuhan hak-hak perempuan dan  anak yang bebas dari kekerasan dan perlakuan yang  merendahkan derajat martabat perempuan dan anak;  
@@ -163,7 +164,7 @@ Media Massa.
 
 #### Pasal 2
 
-Penyelenggaraan Pelindungan Perempuan dan Anak Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:
+Penyelenggaraan Pelindungan Perempuan dan Anak Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:  
 a. o0 g  ™0 ® kemanusiaan;  
 
 keadilan dan kesetaraan gender;  non diskriminasi;  
@@ -174,7 +175,7 @@ pengayoman; dan kepentingan terbaik bagi korban.
 
 #### Pasal 3
 
-Tujuan penyelenggaraan Pelindungan Perempuan dan Anak  Korban Tindak Kekerasan untuk:
+Tujuan penyelenggaraan Pelindungan Perempuan dan Anak  Korban Tindak Kekerasan untuk:  
 a. mencegah segala bentuk kekerasan terhadap perempuan  dan anak;  
 
 memberikan pelindungan dan pelayanan terhadap  perempuan dan anak korban kekerasan yang berbasis  gender;  
@@ -250,7 +251,7 @@ i. tindak pidana pencucian uang yang tindak pidana  asalnya merupakan TPKS; danj
 
 #### Pasal 9
 
-Penelantaran dalam rumah tangga sebagaimana dimaksud  dalam Pasal 5 huruf d, meliputi:
+Penelantaran dalam rumah tangga sebagaimana dimaksud  dalam Pasal 5 huruf d, meliputi:  
 a. perbuatan mengabaikan perempuan dengan sengaja  dalam lingkup rumah tangganya, padahal menurut  hukum yang berlaku baginya atau karena persetujuan  atau perjanjian ia wajib memberikan kehidupan,  perawatan kepada perempuan tersebut;  
 b. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain maupun yang bertanggung jawab atas  pengasuhannya;  
 c. perbuatan mengabaikan dengan sengaja untuk merawat  atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya; dand. pengabaian dengan sengaja anak yang masih  membutuhkan pengasuhan oleh ibu kandungnya untuk  menjadi Pekerja Migran Indonesia di luar negeri.  
@@ -274,7 +275,7 @@ Pemaksaan sebagaimana dimaksud ayat (1) meliputi suatu @) keadaan dimana seseora
 
 #### Pasal 12
 
-Perempuan dan Anak Korban Tindak Kekerasan mendapat hak  sebagai berikut:
+Perempuan dan Anak Korban Tindak Kekerasan mendapat hak  sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai  manusia;  
 
 hak pemulihan;  
@@ -295,7 +296,7 @@ hak atas pendampingan; dan mendapatkan penanganan berkelanjutan sampai tahap  re
 
 #### Pasal 13
 
-Anak Korban Tindak Kekerasan selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 12 juga mendapatkan hak  khusus sebagai berikut:
+Anak Korban Tindak Kekerasan selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 12 juga mendapatkan hak  khusus sebagai berikut:  
 a. aoao  o hak untuk kelangsungan hidup, tumbuh, dan  berkembang;  
 
 hak pelayanan dasar kependudukan;  
@@ -325,7 +326,7 @@ Penyelenggaraan dan/atau pengelolaan rumah aman  @) sebagaimana dimaksud pada ay
 
 #### Pasal 16
 
-Penyelenggaraan Pelindungan Perempuan dan Anak Korban  Tindak Kekerasan merupakan kewajiban dan tanggung jawab  bersama:
+Penyelenggaraan Pelindungan Perempuan dan Anak Korban  Tindak Kekerasan merupakan kewajiban dan tanggung jawab  bersama:  
 a. Pemerintah Daerah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
 c. Masyarakat; dand. Keluarga dan/atau Orang tua.  
@@ -353,7 +354,7 @@ Bupati dalam melaksanakan kewajiban dan tanggung jawab  sebagaimana dimaksud dal
 
 Kewajiban dan tanggung jawab Swasta dan Lembaga  (1) Masyarakat serta Masyarakat sebagaimana dimaksud  dalam Pasal 16 huruf b, huruf c, diselenggarakan dalam  bentuk peran serta masyarakat.  
 
-Bentuk peran serta masyarakat sebagaimana dimaksud  @) pada ayat (1), meliputi:
+Bentuk peran serta masyarakat sebagaimana dimaksud  @) pada ayat (1), meliputi:  
 a. mencegah terjadinya kekerasan terhadap perempuan  dan anak;  
 b. memberikan pertolongan darurat kepada korban;  
 c. memberikan informasi dan/atau melaporkan tindak  kekerasan terhadap perempuan dan anak kepada  penegak hukum atau pihak yang berwenang;  
@@ -375,7 +376,7 @@ Kelembagaan
 
 #### Pasal 21
 
-Pemerintah Daerah melakukan pemberdayaan dan  (1) penyadaran kepada keluarga, orang tua, dan masyarakat.  Pemberdayaan dan penyadaran sebagaimana dimaksud  (2) pada ayat (1) dilakukan dengan cara:
+Pemerintah Daerah melakukan pemberdayaan dan  (1) penyadaran kepada keluarga, orang tua, dan masyarakat.  Pemberdayaan dan penyadaran sebagaimana dimaksud  (2) pada ayat (1) dilakukan dengan cara:  
 a. memberikan materi tentang pencegahan tindak  kekerasan terhadap perempuan dan anak dalam  pendidikan baik formal maupun informal;  
 
 penyediaan aksesibilitas untuk memperoleh  pendidikan, pelatihan, pendanaan, peningkatan  pendapatan dan pelayanan sosial;  
@@ -390,7 +391,7 @@ membangun jejaring dan kerja sama dengan aparatur  penegak hukum, aparatur pemer
 
 #### Pasal 22
 
-Dalam rangka melaksanakan pelayanan dan pelindungan  (1) kepada perempuan dan anak dari tindak kekerasan,  Pemerintah Daerah membentuk UPTD PPA UPTD PPA sebagaimana dimaksud pada ayat (1), berfungsi  (2) melaksanakan layanan:
+Dalam rangka melaksanakan pelayanan dan pelindungan  (1) kepada perempuan dan anak dari tindak kekerasan,  Pemerintah Daerah membentuk UPTD PPA UPTD PPA sebagaimana dimaksud pada ayat (1), berfungsi  (2) melaksanakan layanan:  
 a. pengaduan masyarakat;  
 b. penjangkauan korban;  
 
@@ -414,7 +415,7 @@ Pemerintah Daerah dapat membentuk KPAD dalam  pengawasan penyelenggraan pelindun
 
 Pemerintah Daerah dapat membentuk Satgas PPA dalam  (1) upaya mengkoordinasikan penyelenggaraan layanan bagi  Perempuan dan Anak korban tindak kekerasan.  
 
-Satgas PPA sebagaimana dimaksud pada ayat (1) bertujuan  (2) untuk:
+Satgas PPA sebagaimana dimaksud pada ayat (1) bertujuan  (2) untuk:  
 a. mengkoordinasikan dan mensinkronisasikan  pelayanan pelindungan perempuan dan anak yang  dilakukan oleh pemerintah Daerah, Perangkat  Daerah/Lembaga dan masyarakat;  
 b. meningkatkan kerjasama serta sistem rujukan; dan  mengumpulkan, menyusun dan menyajikan laporan  kekerasan.  
 
@@ -432,7 +433,7 @@ Pencegahan
 
 #### Pasal 27
 
-Upaya pencegahan kekerasan terhadap Perempuan dan  (1) Anak dilakukan secara terpadu oleh Perangkat Daerah  yang tugas dan fungsinya di bidang:
+Upaya pencegahan kekerasan terhadap Perempuan dan  (1) Anak dilakukan secara terpadu oleh Perangkat Daerah  yang tugas dan fungsinya di bidang:  
 a. PPPA;  
 b. sosial;  
 c. kesehatan;  
@@ -476,12 +477,12 @@ pemulangan dan reintegrasi sosial,  rehabilitasi, dan pelayanan pendampingan.
 
 #### Pasal 29
 
-Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 28  ayat (1) huruf a, meliputi:
+Pelayanan pengaduan sebagaimana dimaksud dalam Pasal 28  ayat (1) huruf a, meliputi:  
 a. identifikasi atau pencatatan awal korban; dan  b. persetujuan dilakukan tindakan (informed consent).  
 
 #### Pasal 30
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 28  ayat (1) huruf b, meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 28  ayat (1) huruf b, meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan  untuk pemulihan kondisi fisik korban yang dilakukan  oleh tenaga medis dan paramedik; danc. rujukan ke layanan kesehatan.  d. medicolegal;  
 
@@ -509,7 +510,7 @@ Pelayanan pemulangan dan reintegrasi sosial sebagaimana  (3) dimaksud pada ayat 
 
 Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam  1)
 
-#### Pasal 28 ayat (1) huruf f, meliputi:
+#### Pasal 28 ayat (1) huruf f, meliputi:  
 a. motivasi dan diagnosis psikososial;  
 
 F®mmo oo g bantuan dan asistensi sosial;  
@@ -539,7 +540,7 @@ fasilitasi pembentukan kelompok usaha bersama;  modal usaha berupa alat penunjan
 
 #### Pasal 35
 
-Pelayanan Pendampingan sebagaimana dimaksud dalam Pasal  28 ayat (1) huruf g, meliputi:
+Pelayanan Pendampingan sebagaimana dimaksud dalam Pasal  28 ayat (1) huruf g, meliputi:  
 a. 1) mendampingi korban selama proses pemeriksaan dan  pemulihan kesehatan;  
 
 mendampingi korban selama proses medicolegal;  mendampingi korban selama proses mediasi dan/atau  pemeriksaan di Kepolisian, Kejaksaan, dan Pengadilan;  memantau kepentingan dan hak-hak korban dalam proses  pemeriksaan di Kepolisian, Kejaksaan dan Pengadilan;  menjaga privasi dan kerahasiaan korba dari semua pihak  yang tidak berkepentingan, termasuk pemberitaan oleh  media massa;  
@@ -548,7 +549,7 @@ melakukan koordinasi dengan pendamping yang lain; dan  memberikan penanganan yan
 
 #### Pasal 36
 
-Penyelenggaraan pelayanan terhadap Korban sebagaimana  dimaksud dalam Pasal 28 dilaksanakan setiap hari  (termasuk hari libur), secara:
+Penyelenggaraan pelayanan terhadap Korban sebagaimana  dimaksud dalam Pasal 28 dilaksanakan setiap hari  (termasuk hari libur), secara:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -575,7 +576,7 @@ Pendampingan sebagaimana dimaksud pada ayat (2),  dilakukan oleh pendamping UPTD
 
 Pemerintah Daerah dan lembaga lainnya berkewajiban dan  bertanggung jawab untuk memberikan Perlindungan  Khusus kepada Anak.  
 
-Pelindungan Khusus kepada Anak sebagaimana dimaksud  pada ayat (1), diberikan kepada:
+Pelindungan Khusus kepada Anak sebagaimana dimaksud  pada ayat (1), diberikan kepada:  
 a. Anak dalam Situasi Darurat;  
 b. Anak yang Berhadapan dengan Hukum;  
 c. Anak dari Kelompok Minoritas dan Terisolasi;  
@@ -639,7 +640,7 @@ pemberian layanan pemenuhan hak identitas anak  dan dokumen penting yang hilang 
 
 #### Pasal 40
 
-Pelindungan Khusus bagi anak yang Berhadapan dengan  (1) Hukum sebagaimana dimaksud dalam Pasal 38 Ayat (2)  huruf b, dilakukan melalui:
+Pelindungan Khusus bagi anak yang Berhadapan dengan  (1) Hukum sebagaimana dimaksud dalam Pasal 38 Ayat (2)  huruf b, dilakukan melalui:  
 a. perlakuan secara manusiawi dengan memperhatikan  kebutuhan sesuai dengan umurnya, pemisahan dari orang dewasa;  
 
 pemberian bantuan hukum dan bantuan lain secara  efektif;  
@@ -715,7 +716,7 @@ d. rehabilitasi sosial (3) Penanganan Anak Korban Kekerasan Fisik dan/atau Psiki
 
 #### Pasal 48
 
-Pelindungan Khusus bagi Anak Korban Kejahatan Seksual sebagaimana dimaksud dalam Pasal 38 ayat (2) huruf j, dilakukan melalui:
+Pelindungan Khusus bagi Anak Korban Kejahatan Seksual sebagaimana dimaksud dalam Pasal 38 ayat (2) huruf j, dilakukan melalui:  
 a. edukasi tentang kesehatan reproduksi, nilai agama, dan nilai kesusilaan;  
 b. rehabilitasi sosial;  
 
@@ -773,7 +774,7 @@ Kerja sama
 
 #### Pasal 55
 
-Dalam rangka mencapai tujuan pelindungan perempuan  (1) dan anak korban tindak kekerasan, Pemerintah Daerah  dapat melakukan kerja sama dengan:
+Dalam rangka mencapai tujuan pelindungan perempuan  (1) dan anak korban tindak kekerasan, Pemerintah Daerah  dapat melakukan kerja sama dengan:  
 a. pemerintah pusat;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lain;  
@@ -815,7 +816,7 @@ Pemerintah Daerah dapat menjalin kemitraan dengan  (1) Dunia Usaha dalam pelindu
 
 #### Pasal 58
 
-Pembiayaan penyelenggaraan pelindungan perempuan dan  anak bersumber dari:
+Pembiayaan penyelenggaraan pelindungan perempuan dan  anak bersumber dari:  
 a. anggaran Pendapatan dan Belanja Daerah (APBD); dan  b. sumber lain yang sah dan tidak mengikat.  
 
 # BAB XI

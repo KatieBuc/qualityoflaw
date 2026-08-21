@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga Negara berhak untuk bebas dari tindak  kekerasan atau perlakuan yang merendahkan derajat martabat  manusia serta berhak mendapatkan rasa aman terlebih lagi bagi  perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten  Hulu Sungai Selatan terus meningkat dan meluas yang  menyebabkan rasa tidak aman dalam menjalankan kehidupan,  sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak sebagaimana telah diubah  beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun  2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas  Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak Menjadi UndangUndang dan ketentuan Undang-Undang  Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga, Pemerintah Daerah berkewajiban dan  bertanggungjawab terhadap peneyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -101,7 +103,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -110,7 +112,7 @@ e. keterbukaan; danf. pengayoman.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:  
 a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -120,7 +122,7 @@ d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapo
 
 #### Pasal 4
 
-Ruang lingkup pengaturan perlindungan perempuan dan anak dari tindak  kekerasan meliputi:
+Ruang lingkup pengaturan perlindungan perempuan dan anak dari tindak  kekerasan meliputi:  
 a. penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
 b. kewajiban dan tanggung jawab;  
 c. bentuk kekerasan;  
@@ -149,7 +151,7 @@ Umum
 
 #### Pasal 6
 
-Pemerintah Daerah dalam penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak Kekerasan sebagaimana dimaksud dalam Pasal 5 melakukan:
+Pemerintah Daerah dalam penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak Kekerasan sebagaimana dimaksud dalam Pasal 5 melakukan:  
 a. pencegahan tindak kekerasan terhadap perempuan dan anak;  
 b. perlindungan hukum;  
 c. Pemulihan;  
@@ -185,7 +187,7 @@ Perlindungan Hukum
 
 #### Pasal 9
 
-Pemerintah Daerah melakukan perlindungan hukum sebagaimana dimaksud  dalam Pasal 6 huruf b, meliputi:
+Pemerintah Daerah melakukan perlindungan hukum sebagaimana dimaksud  dalam Pasal 6 huruf b, meliputi:  
 a. memberi perlindungan di Rumah Aman;  
 b. memberikan informasi hukum kepada korban;  
 c. melakukan pendampingan untuk korban sebagai saksi mulai dari proses  penyidikan hingga putusan; dan - 8 -d. memberikan perlindungan hukum secara khusus bagi anak korban tindak  kekerasan dapat dilakukan dengan penunjukkan perwalian sesuai dengan  ketentuan peraturan perundang-undangan.  
@@ -196,7 +198,7 @@ Pemulihan
 
 #### Pasal 10
 
-Pemerintah Daerah melakukan pemulihan sebagaimana dimaksud dalam pasal 6  huruf c, meliputi:
+Pemerintah Daerah melakukan pemulihan sebagaimana dimaksud dalam pasal 6  huruf c, meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medikolegal;  
 c. membantu pemulangan korban;  
@@ -210,7 +212,7 @@ Koordinasi
 
 #### Pasal 11
 
-Pemerintah Daerah melakukan koordinasi sebagaimana dimaksud dalam Pasal 6  huruf d, meliputi:
+Pemerintah Daerah melakukan koordinasi sebagaimana dimaksud dalam Pasal 6  huruf d, meliputi:  
 a. melakukan koordinasi dan kerja sama penanganan kasus kekerasan dengan  lembaga pelayanan terpadu; dan/ataub. melakukan koordinasi dan kerja sama penanganan kasus kekerasan dengan  pelayanan terpadu antar Daerah.  
 
 ## Bagian Keenam
@@ -219,7 +221,7 @@ Peran Serta Masyarakat
 
 #### Pasal 12
 
-Pemerintah Daerah mendorong peran serta masyarakat sebagaimana dimaksud  dalam Pasal 6 huruf e, dengan cara:
+Pemerintah Daerah mendorong peran serta masyarakat sebagaimana dimaksud  dalam Pasal 6 huruf e, dengan cara:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan pada  perempuan dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi  dan melaporkan adanya tindak kekerasan terhadap perempuan dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
@@ -236,7 +238,7 @@ e. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaita
 
 #### Pasal 13
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah; danb. Masyarakat.  
 
 ## Bagian Kedua
@@ -271,7 +273,7 @@ c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan
 
 #### Pasal 16
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib untuk:  
 a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dan/ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
@@ -282,7 +284,7 @@ c. memberikan pertolongan darurat; dan/ataud. membantu proses pengajuan permohon
 
 #### Pasal 17
 
-Bentuk kekerasan terhadap perempuan dan anak meliputi:
+Bentuk kekerasan terhadap perempuan dan anak meliputi:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -309,7 +311,7 @@ i. hak atas pendampingan; dan - 11 -j. hak rasa aman dan perlindungan.
 
 #### Pasal 19
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam pasal 18, juga mendapatkan hak khusus sebagai berikut:
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam pasal 18, juga mendapatkan hak khusus sebagai berikut:  
 a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak Perlindungan yang sama;  

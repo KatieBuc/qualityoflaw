@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 Mengingat:
 
 # BUPATI LUWU,
@@ -96,13 +97,13 @@ atau
 
 #### Pasal 2
 
-Perlindungan Perempuan dilaksanakan berdasarkan asas:
+Perlindungan Perempuan dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender, c. nondiskriminasi; dand. perlindungan korban.  
 
 #### Pasal 3
 
-Penyelenggaraan Perlindungan Perempuan bertujuan untuk:
+Penyelenggaraan Perlindungan Perempuan bertujuan untuk:  
 a. meningkatkan peran serta perempuan baik secara individual maupun secara kelompok sebagai potensi dan sumber daya dalam penyelenggaraan hidup sosial kemasyarakatan;  
 b. mencegah segala bentuk Diskriminasi;  
 c. memberdayakan perempuan baik individual maupun kelompok dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannnya secara mandiri;  
@@ -115,7 +116,7 @@ e. menurunnya kesenjangan kesempatan antara perempuan dan laki-laki dalam pencap
 
 #### Pasal 4
 
-Penyelenggaraan perlindungan perempuan dari tindak kekerasan meliputi:
+Penyelenggaraan perlindungan perempuan dari tindak kekerasan meliputi:  
 a. pencegahan;  
 b. penanganan;  
 c. pemberdayaan.  
@@ -132,7 +133,7 @@ c. pemberdayaan.
 
 #### Pasal 6
 
-Hak Asasi Manusia dan kebebasan dasar manusia, terdiri dari:
+Hak Asasi Manusia dan kebebasan dasar manusia, terdiri dari:  
 a. Hak untuk hidup;  
 b. Hak berkeluarga dan melanjutkan keturunan;  
 c. Hak mengembangkan diri;  

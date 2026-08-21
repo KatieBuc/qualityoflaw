@@ -91,7 +91,7 @@ Dalarn peraturan ini, yang dimaksud dengan:
 18. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah tolak ukur kinerja pelayanan UPTD PPA dalam memberikan pelayanan layanan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial, dan bantuan hukum bagi Perempuan Korban Kekerasan dan anak.  
 19. Rumah Aman adalah tempat tinggal sementara, yang diberikan untuk memberikan perlindungan terhadap Perempuan Korban Kekerasan sesuai dengan standar yang telah ditentukan.  
 
-Pasal2 Peraturan Daerah ini dilaksanakan berdasarkan asas:
+Pasal2 Peraturan Daerah ini dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. Non ...  
@@ -103,14 +103,14 @@ c. Non ...
 6-
 c. non diskriminasi; dand. kepentingan terbaik perempuan.  
 
-Pasal3 Peraturan Daerah ini bertujuan untuk:
+Pasal3 Peraturan Daerah ini bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan;  
 b. mencegah segala bentuk Kekerasan terhadap Perempuan;  
 c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasisi;  
 d. menjamin terlaksananya kebijakan, program, dan kegiatan perlindungan perempuan oleh daerah secara sistemis, komprehensif, berkesinambungan, dan terpad u;  
 e. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan, program dan kegiatan perlindungan perempuan; danf. mendorong kelembagaan yang menangani tugas dan fungsi pemberdayaan perempuan di Pemerintah Daerah maupun lembaga masyarakat di daerah untuk meningkatkan kinerja dalam upaya perlindungan perempuan.  
 
-Pasa14 Ruang lingkup Peraturan Daerah ini meliputi:
+Pasa14 Ruang lingkup Peraturan Daerah ini meliputi:  
 a. hak-hak perempuan korban kekerasan;  
 b. kewenangan Pemerintah Daerah;  
 c. perencanaan;  
@@ -131,7 +131,7 @@ h. peran serta masyarakat; dani. pendanaan.
 
 ## HAK-HAK PEREMPUAN KORBAN KEKERASAN
 
-Pasal5 Setiap perempuan korban kekerasan mempunyai hak:
+Pasal5 Setiap perempuan korban kekerasan mempunyai hak:  
 a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan Iatau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami Perempuan Korban Kekerasan;  
@@ -151,7 +151,7 @@ f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.
 
 ## KEWENANGAN PEMERINTAH DAERAH
 
-Pasal6 (1) Pemerintah Daerah berwenang dalam Perlindungan Perempuan. (2) Kewenangan sebagaimana dimaksud pada ayat (1)meliputi:
+Pasal6 (1) Pemerintah Daerah berwenang dalam Perlindungan Perempuan. (2) Kewenangan sebagaimana dimaksud pada ayat (1)meliputi:  
 a. pencegahan kekerasan terhadap perempuan yang melibatkan para pihak lingkup Daerah;  
 h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi tingkat Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.  
 
@@ -163,7 +163,7 @@ h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi
 
 Bupati berkewajiban mengintegrasikan kebijakan, program, dan kegiatan perlindungan perempuan ke dalam perencanaan pembangunan Daerah.  
 
-Pasal8 (1) Pengintegrasian kebijakan, program, dan kegiatan perlindungan perempuan di Daerah dituangkan ke dalam dokumen perencanaan dan anggaran yang meliputi:
+Pasal8 (1) Pengintegrasian kebijakan, program, dan kegiatan perlindungan perempuan di Daerah dituangkan ke dalam dokumen perencanaan dan anggaran yang meliputi:  
 a. Rencana Pembangunan Jangka Panjang Daerah;  
 h. Rencana Pembangunan Jangka Menengah Daerah;  
 c. Rencana ...  
@@ -203,7 +203,7 @@ Pencegahan
 
 #### Pasal 10
 
-Pencegahan tindak kekerasan terhadap perempuan sebagaimana dimaksud pada pasal 6 ayat (2) huruf a, Pemerintah Daerah melakukan upaya-upaya sebagai berikut:
+Pencegahan tindak kekerasan terhadap perempuan sebagaimana dimaksud pada pasal 6 ayat (2) huruf a, Pemerintah Daerah melakukan upaya-upaya sebagai berikut:  
 a. melakukan penyuluhan dan sosialisasi mengenai hal-hal yang berkenaan dengan kekerasan terhadap perempuan;  
 b. melakukan sosialisasi terhadap hak-hak perempuan;  
 c. mengupayakan peningkatan pendidikan bagi perempuan;  
@@ -243,7 +243,7 @@ b. PPT berbasis rumah sakit;
 c. PPT kecamatan; dand. PPT Desa/Icelurahan.  
 3. Ketentuan lebih lanjut mengenai tata cara pembentukan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
-Pasal13 ( 1) Pelayanan PPT melipu ti:
+Pasal13 ( 1) Pelayanan PPT melipu ti:  
 a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;  
 b. memberikan ...  
 
@@ -255,7 +255,7 @@ b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan
 c. menjaga kerahasiaan Perempuan Karban Kekerasan; dand. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
 2. Ketentuan lebih lanjut mengenai tata cara Pelayanan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
-Pasal14 Penyelenggaraan PPT memerlukan:
+Pasal14 Penyelenggaraan PPT memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
 b. petugas pelaksana; danc. petugas fungsional.  
 
@@ -286,7 +286,7 @@ c. rehabilitasi sosial bagi perempuan Korban kekerasan;
 d. penegakan dan Bantuan Hukum bagi perempuan Korban kekerasan;  
 e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; danf. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
 
-Pasal17 (1) SPM sebagaimana dimaksud dalam Pasal 16 memiliki erempuan kinerja meliputi:
+Pasal17 (1) SPM sebagaimana dimaksud dalam Pasal 16 memiliki erempuan kinerja meliputi:  
 a. cakupan erempuan korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;  
 b. cakupan ...  
 
@@ -348,7 +348,7 @@ Pasal22 (1) Bupati bertanggungjawab untuk membuat laporan pelaksanaan SPMbidang 
 
 ## PEMBINAAN DAN PENGAWASAN
 
-Pasal23 (1) Bupati melakukan pembinaan terhadap pengembangan PPT. (2) Pembinaan sebagaimana dimaksud pada ayat (1)meliputi:
+Pasal23 (1) Bupati melakukan pembinaan terhadap pengembangan PPT. (2) Pembinaan sebagaimana dimaksud pada ayat (1)meliputi:  
 a. pemberian ...  
 
 ## BUPATIKUTAITIMUR

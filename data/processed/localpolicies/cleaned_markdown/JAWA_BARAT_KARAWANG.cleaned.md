@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai salah satu kelompok  masyarakat yang keberadaannya menjadi potensi dan aset pembangunan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak  kekerasan dan diskriminasi;  
 c. bahwa dalam rangka mengefektifkan sistem yang  komprehensif dan integratif dalam memberdayakan dan  melindungi perempuan di Kabupaten Karawang diperlukan pengaturan mengenai pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b,dan huruf c perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -65,7 +67,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Setiap perempuan berhak:
+Setiap perempuan berhak:  
 a. untuk hidup dan meningkatkan taraf hidupnya;  
 b. atas rasa aman;  
 c. atas lingkungan hidup yang baik dan sehat;  
@@ -77,14 +79,14 @@ h. atas kebebasan pribadi; dani. atas kesehatan.
 
 #### Pasal 3
 
-Hak Perempuan dalam Ketenagakerjaan meliputi:
+Hak Perempuan dalam Ketenagakerjaan meliputi:  
 a. Memiliki kesempatan kerja yang sama dengan laki-laki;  
 b. Kesempatan yang sama dari proses seleksi, fasilitas kerja,  tunjangan hingga hak untuk menerima upah yang setara;  
 c. Mendapatkan masa cuti yang dibayar termasuk saat cuti  melahirkan; dand. Perempuan tidak bisa diberhentikan oleh pihak pemberi tenaga  kerja dengan alasan kehmilan maupun status pernikahan.  
 
 #### Pasal 4
 
-Hak perempuan dalam bidang Kesehatan meliputi:
+Hak perempuan dalam bidang Kesehatan meliputi:  
 a. Kesempatan bebas dari kematian pada saat melahirkan;  
 b. Diperolehnya pelayanan kesehatan khususnya pelayanan KB,  kehamilan, persalinan dan pasca-persalinan.  
 
@@ -201,7 +203,7 @@ b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.
 
 #### Pasal 17
 
-Pendanaan penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan bersumber dari:
+Pendanaan penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan bersumber dari:  
 a. Anggaran pendapatan dan belanja daerah; danb. Sumber lain yang sah dan tidak mengikat, sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB VII

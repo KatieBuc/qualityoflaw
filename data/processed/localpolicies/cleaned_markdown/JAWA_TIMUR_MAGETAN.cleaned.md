@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindalan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan dan anak korban kekerasan di Daerah belum optimal, sehingga perlu penguatan kelembagaan dan adanya pengaturan yang dapat menjamin pelaksanaannya sesuai ketentuaa yang berlaku darr;  
 c. bahwa berdasarkan Undang_Undang Nomor 23 Tahun 2O14 tentang pemerintahan Daerah sebagaimana diubah beberapa kali terakhir dengan Undaag_Undang Nomor 9 Tahun 2015, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh pemerintahan Daerah;  
@@ -98,7 +99,7 @@ Perlindungan adalah segala tindakan pencegahan, pelayanan dan pemberdayaan untuk
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan berasaskan:
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan berasaskan:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -106,7 +107,7 @@ d. kepentingan terbaik bagi korban; dane. pemberdayaan.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan untuk:
+Peraturan Daerah ini bertujuan untuk:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 c. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan;  
@@ -118,7 +119,7 @@ d. memberikan perlindungan kepada pelapor dan saksi; dan e. melakukan pemberdaya
 
 #### Pasal 4
 
-Bentuk kekerasan meliputi:
+Bentuk kekerasan meliputi:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -145,7 +146,7 @@ d.orangtua.
 2. Pencegahan te4'adinya kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:a. mengumpulkan data dan informasi tentang perempu€rn dan anak serta peraturan perundang undangan yang terkait;  
 b. melakukan pendidikan nilai-nilai anti kekerasan; dan c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan pencegahan dan perlindungan korban kekerasan.  
 
-Perlindungan korban kekerasan sebagaimana dimaksud (3) pada ayat (1) dalam bentuk:
+Perlindungan korban kekerasan sebagaimana dimaksud (3) pada ayat (1) dalam bentuk:  
 a. mendirikan dan memfasilitasi terselenggaralannya lembaga layanan terpadu untuk korban dengan melibatlan unsur masyarakat;  
 b. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
 c. menyediakan tempat tinggal baik rumah arnan maupun tempat tinggal alternatif beserta mekanisme penanganan, pelayanan, psikososial dan spiritual;  
@@ -194,7 +195,7 @@ Pelayanan
 
 #### Pasal 11
 
-Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan:
+Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -204,7 +205,7 @@ f. tidakdikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 12
 
-Bentuk pelayanan terhadap korban meliputi:
+Bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
@@ -222,13 +223,13 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 13
 
-Bentuk pemberdayaan perempuan korban kekerasan meliputi:
+Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
 a. pelatihan keda;  
 b. usaha ekonomi produktif dan/atau kelompok usaha bersama; danc. bantuan permodalan.  
 
 #### Pasal 14
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 13 huruf a meliputi:
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 13 huruf a meliputi:  
 a. pelatihan keterampilan;  
 b. praktek ke{a lapangan; danc. pemagangan.  
 
@@ -240,7 +241,7 @@ b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaa
 
 #### Pasal 16
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 13 huruf c meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 13 huruf c meliputi:  
 a. bantuan sarana dan prasarana keda; danb. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
@@ -283,7 +284,7 @@ Mekanisme Koordinasi
 
 Pelaksanaan fungsi P2Tp2A sebagaimana dimalsud dalam Pasat 19, dilakukan melalui koordinasi dengan satuan keq'a perangkat daerah atau unit-unit lainnya yang menangani pemberdayaan perempuan dan perlindungan anak.  
 
-Koordinasi sebagaimana dimaksud pada ayat (l) dilakukan dalam bentuk:
+Koordinasi sebagaimana dimaksud pada ayat (l) dilakukan dalam bentuk:  
 a. rapat koordinasi dengan jejaring keqia;  
 b. konsultasi;  
 c. penyampaian data dan informasi; dan/atau d. tindak Lanjut penanganan kasus.  
@@ -411,21 +412,21 @@ Bentuk kekerasan fisik antara lain menampar, memukul, meludahi, menarik rambut/m
 
 Huruf b Kekerasan psikis dimaksud disebabkan karena perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidal berdaya dan/atau penderitaan psikis berat pada seseorang.  
 
-Bentuk kekerasan psikis antara lain dapat berupa penganiayaan secara emosional seperti penghinaan, komentar komentar yang menyakitkan atau merendahkan harga diri, mengisolir istri dari dunia luar, mengancam atau, menakut nakuti sebagai sarana memaksakan kehendak Huruf c Kekerasan seksual dimaksud disebabkan karena:
+Bentuk kekerasan psikis antara lain dapat berupa penganiayaan secara emosional seperti penghinaan, komentar komentar yang menyakitkan atau merendahkan harga diri, mengisolir istri dari dunia luar, mengancam atau, menakut nakuti sebagai sarana memaksakan kehendak Huruf c Kekerasan seksual dimaksud disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang liain untuk tujuan komersial dan/atau tujuan tertentu.  
 
-Huruf d Penelantaran dimaksud disebabkan karena:
+Huruf d Penelantaran dimaksud disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau pe{.anjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut; dan/ataud. perbuatan yang mengalibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada di bawah kendali orang tersebut.  
 
-Huruf e Eksploitasi dimalsud disebabkan karena:
+Huruf e Eksploitasi dimalsud disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban antara lain pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memalfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan materiil atau immateriil;dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
-Huruf f Kekerasan lainnya dimaksud disebabkan karena:
+Huruf f Kekerasan lainnya dimaksud disebabkan karena:  
 a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang; dan/ataub. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 #### Pasal 5
@@ -486,7 +487,7 @@ Huruf d Cukup jelas Cukup jelas Huruf a Pelayanan pengaduan, konsultasi, dan kon
 a. identifikasi atau pencatatan awal korban; dan
 b. persetujuan dilakukan tindakan (informed consent ) yaitu persetujuan tindakan kedokteran yang diberikan oleh korban atau keluarga terdekatnya setelah mendapatkan penjelasan secara lengkap mengenai tindakan kedokteran yang akan dilakukan terhadap korban tersebut.  
 
-Huruf b Pelayanan pendampingan meliputi:
+Huruf b Pelayanan pendampingan meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. mendampingi korban selama proses medicolegal, gaitu pelayanan kedokteran untuk memberikan bantuan professional yang optimal dalam memanfaatkan ilmu kedokteran untuk kepentingan penegakan hukum dan keadilan. Termasuk pelayanan medicolegal antara lain: ui.stm et reperfitm darr uistm et psikiatrikum;  
 c. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
@@ -494,7 +495,7 @@ d. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di kepolisan
 e. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
 f. melakukan koordinasi dengan pendamping yang lain; dan g. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
-Huruf c Pelayanan kesehatan meliputi:
+Huruf c Pelayanan kesehatan meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka frsik yang bertujuan untuk pemulihan kondisi {isik korban yang dilakukan oleh tenaga medis dan paramedis; danc. rujukan ke layanan kesehatan.  
 
@@ -502,16 +503,16 @@ Huruf d Pelayanan rehabilitasi sosial merupakan pelayanan yang diberikan oleh pe
 
 Bentuk pelayanan rehabilitasi sosial melalui penyediaan rumah aman dan dukungan secara sosial.  
 
-Dukungan secara sosial dilakukan melalui:
+Dukungan secara sosial dilakukan melalui:  
 a. bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
 
-Rumah Arnan (Shelter/ adalah tempat tinggal sementara yang digunalan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan. Huruf e Pelayanan hukum untuk membantu korban dalam menjalani proses peradilan dengan cara:
+Rumah Arnan (Shelter/ adalah tempat tinggal sementara yang digunalan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan. Huruf e Pelayanan hukum untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korbaa dan proses peradilan;  
 b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan peke{a sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 Huruf f Pelayanan reintegrasi sosial bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya.  
 
-Pelayanan reintegrasi sosial dilakukan oleh Pemerintah Daerah berkoordinasi dengan:
+Pelayanan reintegrasi sosial dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
 a. Pemerintah Kabupaten / Kota dalam satu wilayah Daerah Provinsi Jawa Timur;  
 b. instansi dan lembaga terkait baik pemerintah maupun non pemerintah; danc. Iembrga kemasyarakatan desa dan/atau tokoh masyarakat setempat.  
 

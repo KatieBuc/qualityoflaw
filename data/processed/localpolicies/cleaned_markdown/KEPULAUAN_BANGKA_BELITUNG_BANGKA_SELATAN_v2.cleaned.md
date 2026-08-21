@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang sama  dalam berpartisipasi di berbagai bidang kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi  yang berkualitas sehingga perlu mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -93,7 +95,7 @@ www.jdih.bangkaselatankab.go.id
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. Asas dan tujuan;  
 b. Hak perempuan;  
 c. Kewajiban dan Tanggung Jawab Pemerintah Daerah;  
@@ -112,7 +114,7 @@ www.jdih.bangkaselatankab.go.id
 
 #### Pasal 3
 
-Pemberdayaan dan Perlindungan Perempuan, dilaksanakan  berdasarkan asas:
+Pemberdayaan dan Perlindungan Perempuan, dilaksanakan  berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi; dand. perlindungan korban.  
@@ -161,7 +163,7 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.
 
 #### Pasal 7
 
-Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak-hak sebagai manusia agar mampu  berperan dan berpartisipasi di bidang:
+Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak-hak sebagai manusia agar mampu  berperan dan berpartisipasi di bidang:  
 a. ekonomi;  
 b. sosial budaya;  
 c. politik dan pemerintahan;  
@@ -180,7 +182,7 @@ Bidang Ekonomi
 
 #### Pasal 8
 
-Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:
+Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
@@ -416,7 +418,7 @@ MEKANISME PENYELENGGARAAN PEMBERDAYAAN DAN  PERLINDUNGAN PEREMPUAN
 
 #### Pasal 28
 
-Mekanisme penyelenggaraan pemberdayaan dan perlindungan  perempuan dilakukan melalui tahapan:
+Mekanisme penyelenggaraan pemberdayaan dan perlindungan  perempuan dilakukan melalui tahapan:  
 a. perumusan kebijakan perencanaan program dan kegiatan;  
 b. penganggaran program dan kegiatanc. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  
 

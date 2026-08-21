@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang  sama dalam berpartisipasi diberbagai bidang dalam  kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan  generasi yang berkualitas sehingga perlu mendapatkan  jaminan perlindungan dari tindak kekerasan dan  diskriminasi serta perlu diberdayakan agar dapat  mengaktualisasikan potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan  Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -79,14 +81,14 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan dan Perlindungan Perempuan, dilaksanakan  berdasarkan asas:
+Pemberdayaan dan Perlindungan Perempuan, dilaksanakan  berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi; dand. perlindungan korban.  
 
 #### Pasal 3
 
-Penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan dilaksanakan bertujuan untuk:
+Penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan dilaksanakan bertujuan untuk:  
 a. meningkatkan peran serta perempuan baik secara  individual maupun secara kelompok sebagai potensi dan  sumber daya dalam penyelenggaraan hidup sosial  kemasyarakatan;  
 b. mencegah segala bentuk diskriminasi;  
 c. memberdayakan perempuan baik secara individual  maupun kelompok dan masyarakat yang mengalami  masalah gender agar mampu memenuhi kebutuhannnya  secara mandiri;  
@@ -99,7 +101,7 @@ e. menurunnya kesenjangan kesempatan antara perempuan  dan laki-laki dalam penca
 
 #### Pasal 4
 
-Hak Asasi Manusia dan kebebasan dasar manusia, terdiri  dari:
+Hak Asasi Manusia dan kebebasan dasar manusia, terdiri  dari:  
 a. Hak untuk hidup;  
 b. Hak berkeluarga dan melanjutkan keturunan;  
 c. Hak mengembangkan diri;  
@@ -178,7 +180,7 @@ Perempuan korban tindak kekerasan berhak untuk  mendapatkan perlindungan, inform
 
 #### Pasal 12
 
-Pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan, dapat dilakukan dengan upaya:
+Pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan, dapat dilakukan dengan upaya:  
 a. melakukan kerjasama dengan dunia usaha, lembaga  nonpemerintah, perusahaan swasta, Yayasan, dan lembaga  di dalam negeri lainnya serta lembaga internasional, sesuai  dengan ketentuan peraturan perundang-undangan;  
 b. melakukan kerjasama daerah, sesuai dengan ketentuan  peraturan perundang-undangan yang berlaku;  
 c. menyediakan dan memfasilitasi pelayanan perlindungan  perempuan;  

@@ -20,10 +20,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa guna menjamin hak-hak perempuan dan anak agar  dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak.  
 b. bahwa agar upaya-upaya pencegahan dan  penanggulangan kekerasan terhadap perempuan dan anak memperoleh hasil yang optimal, serta dilaksanakan secara cepat, terencana, terpadu, menyeluruh dan terorganisasi dengan melibatkan seluruh unsur terkait di daerah, maka perlu adanya pengaturan tentang pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak korban kekerasan.  c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanggulangan Kekerasan Terhadap Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -113,7 +115,7 @@ Asas
 
 #### Pasal 2
 
-Penyelenggaraan pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak, dilaksanakan berdasarkan asas:
+Penyelenggaraan pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak, dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi dalam pemberdayaan perempuan dan anak;  
@@ -133,7 +135,7 @@ Tujuan
 
 #### Pasal 4
 
-Tujuan penyelenggaraan pencegahan dan penanggulangan kekerasan  terhadap perempuan dan anak, meliputi:
+Tujuan penyelenggaraan pencegahan dan penanggulangan kekerasan  terhadap perempuan dan anak, meliputi:  
 a. mencegah tindak kekerasan atau penelantaran terhadap perempuan dan  anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan  dan anak;  
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
@@ -240,7 +242,7 @@ Organisasi
 
 #### Pasal 12
 
-P2TP2A membangun jaringan fungsional dengan:
+P2TP2A membangun jaringan fungsional dengan:  
 a. kepolisian;  
 b. kejaksaan;  
 c. pengadilan;  
@@ -300,7 +302,7 @@ Bentuk pelayanan yang diberikan kepada perempuan dan anak korban tindak  kekeras
 
 #### Pasal 19
 
-Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  sebagaimana dimaksud dalam Pasal 18, meliputi:
+Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  sebagaimana dimaksud dalam Pasal 18, meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan tentang luka-luka  fisik yang bertujuan untuk pemulihan kondisi fisik korban yang  dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medico legal merupakan bentuk pelayanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psiko sosial merupakan pelajaran yang diberikan oleh  pendamping dalam rangka pemulihan traumatis kondisi korban,  termasuk penyediaan ruang dan rumah korban untuk melindungi korban  dari ancaman dan intimidasi bagi korban;  
@@ -313,7 +315,7 @@ Pemerintah Daerah atau P2TP2A wajib menyusun standar operasional untuk  pelayana
 
 #### Pasal 21
 
-Penyelenggaraan pelayanan pendampingan terhadap korban, dilakukan  dengan prinsip:
+Penyelenggaraan pelayanan pendampingan terhadap korban, dilakukan  dengan prinsip:  
 a. non diskriminasi;  
 b. cepat, aman, dan empati;  
 c. koordinasi antar instansi pemerintah;  
@@ -460,7 +462,7 @@ Dalam hal proses persidangan terkait kasus kekerasan terhadap anak,  keberadaan 
 
 #### Pasal 34
 
-Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai  berikut:
+Dalam hal pelaku tindak pidana adalah seorang anak, berlaku hal-hal sebagai  berikut:  
 a. proses hukum dilakukan secara manusia dengan memandang anak  masih memiliki harapan kemasa depannya;  
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus  untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim  advokasi dan orang tua/wali anak;  

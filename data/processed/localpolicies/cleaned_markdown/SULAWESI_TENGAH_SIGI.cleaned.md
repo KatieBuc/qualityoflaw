@@ -34,12 +34,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak terus  meningkat, sehingga diperlukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -111,7 +113,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:  
 a. kemanusiaan, meliputi penghormatan hak perempuan dan anak, perlindungan dan rasa aman bagi korban, pelayanan terbaik, murah  dan cepat, kepekaan dan empati, menjaga kerahasiaan korban;  
 b. keadilan, meliputi kesetaraan, kepastian hukum, praduga tak bersalah,  persamaan hak dihadapan hukum, kepentingan terbaik bagi korban, tidak  menyalahkan korban;  
 c. transparansi, akuntabilitas, dan partisipatif;  
@@ -138,7 +140,7 @@ d. penelantaran ekonomi;dane. pembatasan akses publik.
 
 #### Pasal 4
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak  sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak  sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas penanganan pengaduan dan pelayanan yang cepat, dan murah. c. hak menentukan sendiri keputusannya;  
 d. hak mendapatkan informasi;  
@@ -161,7 +163,7 @@ c. hak bebas dari stigma negatif;dand. hak mendapatkan kebebasan menentukan pili
 
 #### Pasal 6
 
-Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggungjawab  bersama:
+Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggungjawab  bersama:  
 a. Pemerintah Daerah;  
 b. masyarakat.  
 
@@ -208,7 +210,7 @@ f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pem
 
 #### Pasal 11
 
-Tindakan pencegahan tindak kekerasan perempuan dan anak yang  dilaksanakan oleh masyarakat dapat berupa:
+Tindakan pencegahan tindak kekerasan perempuan dan anak yang  dilaksanakan oleh masyarakat dapat berupa:  
 a. berpartisipasi aktif dalam program dan kegiatan yang diprakarsai oleh  Pemerintah, Pemerintah Daerah, maupun pihak lainnya sepanjang tidak  bertentangan dengan asas perlindungan terhadap perempuan dan anak  yang ditetapkan dalam Peraturan Daerah ini;  
 b. kegiatan yang diprakarsai masyarakat sepanjang tidak bertentangan  dengan asas perlindungan terhadap perempuan dan anak yang  ditetapkan dalam Peraturan Daerah ini.  
 
@@ -323,7 +325,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  perempuan da
 
 #### Pasal 22
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari  korban kekerasan bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari  korban kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD);  
 b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
@@ -440,10 +442,10 @@ Huruf i Yang dimaksud dengan hak korban atas rehabilitasi, meliputi: akses  pada
 
 Huruf a Cukup jelas Huruf b Hak dasar yang dimaksud termasuk hak untuk pendidikan dan  akses kepada orang tua selama proses penanganan berlangsung Huruf c Yang dimaksud stigma negatif, adalah pelabelan (penjulukan,  penyimbolan) negatif publik atau masyarakat atas diri korban yang  dapat berakibat keterasingan korban di dalam komunitasnya sendiri,  termasuk tekanan mental lainnya.  
 
-Huruf d Yang dimaksud dengan kebebasan menentukan pilihan pasca  perceraian orang tua adalah akibat hukum dari putusnya  perkawinan karena perceraian. Berdasarkan ketentuan dalam Pasal  41 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (“UU  Perkawinan”) disebutkan bahwa akibat dari putusnya suatu  perkawinan karena perceraian adalah:
+Huruf d Yang dimaksud dengan kebebasan menentukan pilihan pasca  perceraian orang tua adalah akibat hukum dari putusnya  perkawinan karena perceraian. Berdasarkan ketentuan dalam Pasal  41 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan (“UU  Perkawinan”) disebutkan bahwa akibat dari putusnya suatu  perkawinan karena perceraian adalah:  
 a. Baik ibu atau bapak tetap berkewajiban memelihara dan  mendidik anak-anaknya, semata-mata berdasarkan kepentingan  anak, bilamana ada perselisihan mengenai penguasaan anak anak, Pengadilan memberi keputusannya.  b. Bapak yang bertanggungjawab atas semua biaya pemeliharaan  dan pendidikan yang diperlukan anak itu, bilamana bapak dalam  kenyataannya tidak dapat memberi kewajiban tersebut  pengadilan dapat menentukan bahwa ibu ikut memikul biaya  tersebut.  c. Pengadilan dapat mewajibkan kepada bekas suami untuk  memberikan biaya penghidupan dan/atau menentukan sesuatu  kewajiban bagi bekas isteri.  
 
-Satu-satunya aturan yang dengan jelas dan tegas memberikan  pedoman bagi hakim dalam memutus pemberian hak asuh atas  anak tersebut terdapat dalam Pasal 105 Kompilasi Hukum Islam  (KHI) yang menyatakan: “Dalam hal terjadi perceraian:
+Satu-satunya aturan yang dengan jelas dan tegas memberikan  pedoman bagi hakim dalam memutus pemberian hak asuh atas  anak tersebut terdapat dalam Pasal 105 Kompilasi Hukum Islam  (KHI) yang menyatakan: “Dalam hal terjadi perceraian:  
 a. pemeliharaan anak yang belum mumayyiz atau belum  berumur 12 tahun adalah hak ibunya.  b. pemeliharaan anak yang sudah mumayyiz diserahkan kepada anak untuk memilih di antara ayah atau ibunya sebagai  pemegang hak pemeliharaan.  c. biaya pemeliharaan ditanggung oleh ayahnya.”
 
 #### Pasal 6

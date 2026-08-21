@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa tujuan negara adalah melindungi seluruh  tumpah darah Bangsa Indonesia dengan memberikan  jaminan atas rasa aman, kesetaraan, dan kesejahteraan;  
 b. bahwa perempuan dan anak masih dalam posisi rentan  dari berbagai bentuk tindakan kekerasan, eksploitasi,  diskriminasi, perlakuan salah dan penelantaran sehingga  perlu ada upaya strategis dari Pemerintah Daerah bersama  pihak-pihak terkait untuk memberikan perlindungan yang  sistematis dan komprehensif;  
 c. bahwa untuk memberikan landasan hukum dan pedoman  dalam penyelengaraan perlindungan perempuan dan anak di Daerah, perlu adanya pengaturan yang terintegrasi dan  komprehensif untuk mewujudkan Kabupaten Purworejo  ramah perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -76,7 +78,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan pelindungan perempuan dan anak  berasaskan:
+Penyelenggaraan pelindungan perempuan dan anak  berasaskan:  
 a. kemanusiaan;  
 b. penghormatan dan pemenuhan hak perempuan dan anak;  
 c. non diskriminasi dan non eksploitasi;  
@@ -91,7 +93,7 @@ Penyelenggaraan pelindungan perempuan dan anak  dimaksudkan untuk memberikan das
 
 #### Pasal 4
 
-Penyelenggaraan pelindungan perempuan dan anak  bertujuan untuk:
+Penyelenggaraan pelindungan perempuan dan anak  bertujuan untuk:  
 a. mencegah segala bentuk Diskriminasi, Kekerasan,  dan/atau Eksploitasi terhadap perempuan;  
 b. mencegah segala bentuk Diskriminasi, Kekerasan,  Eksploitasi, Perlakuan Salah Terhadap Anak, dan/atau  penelantaran;  
 c. mendorong terjadinya pengurangan resiko berbagai  bentuk Diskriminasi, Kekerasan, Eksploitasi, perlakuan  salah, dan/atau penelantaran terhadap perempuan dan  anak;  
@@ -263,7 +265,7 @@ Tanggungjawab Orang Tua/Wali
 
 #### Pasal 14
 
-Tugas dan tanggungjawab orang tua/wali sebagaimana dimaksud dalam Pasal 10 meliputi:
+Tugas dan tanggungjawab orang tua/wali sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. mengasuh dan mendidik anak sesuai dengan  kecerdasannya berdasarkan nilai-nilai agama dan  Pancasila;  
 b. memberikan asupan makanan yang baik dan bergizi  sesuai dengan umurnya;  
 c. menumbuhkembangkan anak sesuai kemampuan, bakat  dan minatnya;  
@@ -325,7 +327,7 @@ c. Kekerasan; dand. Eksploitasi.
 
 #### Pasal 18
 
-Pemerintah Daerah memberikan pelindungan terhadap perempuan dengan cara:
+Pemerintah Daerah memberikan pelindungan terhadap perempuan dengan cara:  
 a. membentuk pengaman sosial;  
 b. membangun layanan rujukan lanjutan yang ramah  perempuan; danc. menyediakan sarana dan prasarana pendukung pelindungan perempuan.  
 
@@ -880,7 +882,7 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Huruf a Cukup jelas.  
 
-Huruf b Hak memperoleh identitas diri diantaranya:
+Huruf b Hak memperoleh identitas diri diantaranya:  
 a. hak atas nama;  
 b. hak atas status kewarganegaraan;  
 c. hak atas akta kelahiran; dand. hak atas kartu identitas anak.  
@@ -893,7 +895,7 @@ Huruf e Cukup jelas.
 
 Huruf f Cukup jelas.  
 
-Huruf g Yangdimaksud pengaruh destruktif diantaranya  meliputi:
+Huruf g Yangdimaksud pengaruh destruktif diantaranya  meliputi:  
 a. pengaruh dari pornografi;  
 b. pengaruh dari narkoba dan obat-obatan terlarang;  
 c. pengaruh dari tontonan kekerasan dan perilaku  menyimpang; dand. pengaruh dari lingkungan yang buruk.  

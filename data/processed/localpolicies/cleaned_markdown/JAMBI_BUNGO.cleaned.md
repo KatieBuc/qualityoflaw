@@ -41,6 +41,7 @@ c. bahwa.....2 Mengingat:
  
  
  
+ 
 2-c. bahwa Pemerintah Kabupaten Bungo selaku penyelenggara pemerintahan daerah belum memiliki produk hukum daerah dalam menjamin hak-hak perempuan pada berbagai aspek kehidupan dalam Kabupaten Bungo sehingga perlu adanya peraturan mengenai perlindungan perempuan perempuan sebagai dasar hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c maka perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
@@ -129,7 +130,7 @@ e. penghormatan hak asasi manusia; danf. kepentingan terbaik bagi perempuan.
 
 #### Pasal 3
 
-Tujuan Perlindungan Perempuan oleh Pemerintah Daerah meliputi:
+Tujuan Perlindungan Perempuan oleh Pemerintah Daerah meliputi:  
 a. Mencegah segala bentuk kekerasan terhadap perempuanb. Memberikan perlindungan dan pelayanan terhadap perempuan korban kekerasan yang berbasis gender; dan c. Memberikan pelayanan terhadap pemulihan kondisi fisik, psikis dan ekonomi Perempuan korban kekerasan.  
 
 # BAB III
@@ -142,7 +143,7 @@ Umum
 
 #### Pasal 4
 
-Setiap Perempuan mempunyai hak:
+Setiap Perempuan mempunyai hak:  
 a. Hak untuk hidup;  
 b. Hak untuk berkeluarga dan memiliki keturunan;  
 
@@ -176,7 +177,7 @@ h. Hak korban dan keluarganya untuk mendapatkani. kemudahan dalam proses peradil
 
 #### Pasal 6
 
-Kekerasan sebagaimana dimaksud dalam Pasal 2 ayat (1) dalam bentuk:
+Kekerasan sebagaimana dimaksud dalam Pasal 2 ayat (1) dalam bentuk:  
 a. Kekerasan fisik,b. Kekerasan psikis;  
 c. Kekerasan seksual;  
 d. Eksploitasi; dan/ataue. Penelantaran.  
@@ -286,7 +287,7 @@ Pengaduan, konsultasi,
 
 #### Pasal 14
 
-konseling sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf a meliputi:
+konseling sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf a meliputi:  
 a. Identifikasi atau pencatatan awal korban; danb. Persetujuan dilakukan tindakan.  
 
 #### Pasal 15
@@ -306,7 +307,7 @@ g. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.
 
 #### Pasal 16
 
-Kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c meliputi:
+Kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c meliputi:  
 a. Pertolongan pertama kepada korban;  
 b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. Rujukan ke fasilitas layanan kesehatan.  
 
@@ -314,13 +315,13 @@ b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondis
 
 1. Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 13.  
 
-ayat (2) huruf d meliputi:
+ayat (2) huruf d meliputi:  
 a. pemberian.....18 - 18 -a. pemberian bimbingan rohani kepada korban; danb. pemulihan kejiwaan korban.  
 2. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban dan memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya.  
 
 #### Pasal 18
 
-Hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:
+Hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan;  
 b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. Melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 1. Pemulangan
@@ -338,20 +339,20 @@ Pemberdayaan
 
 #### Pasal 20
 
-Perlindungan Perempuan melalui pemberdayaan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf c meliputi:
+Perlindungan Perempuan melalui pemberdayaan sebagaimana dimaksud dalam Pasal 11 ayat (1) huruf c meliputi:  
 a. Pelatihan kerja;  
 b. Usaha ekonomis produktif dan kelompok usaha bersama;  
 c. Bantuan permodalan.  
 
 #### Pasal 21
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 20 huruf a meliputi:
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 20 huruf a meliputi:  
 a. Pelatihan keterampilan;  
 b. Praktek kerja lapangan; danc. Pemagangan.  
 
 #### Pasal 22
 
-Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud dalam Pasal 20 huruf b meliputi:
+Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud dalam Pasal 20 huruf b meliputi:  
 a. Pelatihan keterampilan wirausaha;  
 b. Fasilitasi pembentukan kelompok usaha bersama; danc. Pendampingan pelaksanaan usaha.  
 
@@ -361,7 +362,7 @@ b. Fasilitasi pembentukan kelompok usaha bersama; danc. Pendampingan pelaksanaan
 
 #### Pasal 23
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 20 huruf e meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 20 huruf e meliputi:  
 a. Bantuan sarana dan prasarana kerja; danb. Fasilitasi bantuan modal kerja.  
 
 ## Bagian Kelima
@@ -460,7 +461,7 @@ g. Kepolisian Republik Indonesia; danh. UPTD PPA.
 
 #### Pasal 31
 
-Pendanaan Perlindungan Perempuan bersumber dari:
+Pendanaan Perlindungan Perempuan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Provinsi;  
 c. Anggaran Pendapatan dan Belanja Daerah;  

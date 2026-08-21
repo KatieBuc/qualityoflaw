@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Pancasila dan Undang-Undang Dasar Negera  Republik Indonesia Tahun 1945 menjamin atas hak setiap  warga negara untu k bebas dar i penyiksaan atau  perlakukan yang merendgihkan derajat martabat manusia  serta mendapatkan rasa aman dan bebas dar i segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi  manusia sehingga perlu dilindung i harga dir i dan  martabatnya serta dijamin hak hidupny a siesuai dengan  fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusa n ptjmerintahan konkuren yang  diserahkan ke daerah untu k menjadi dasar pelaksanaan  otonomi daerah dan menjadi urusa n pemerintahan wajib  yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah;  
@@ -29,6 +30,7 @@ d. bahwa dalam rangka untu k memberikan penguatan  regulasi, arah, dan kmdasan d
 e. bahwa berdasarkan pertiimbangan sebagaimana dimaksud  dalam huru f a, huru f b, huru f e huru f d perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -87,7 +89,7 @@ Dalam Peraturan Daerah in i yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Korban berasaskan:
+Perlindungan Korban berasaskan:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -95,7 +97,7 @@ d. kepentingan terbaik bagi korban; dane. pemberdayaan.
 
 #### Pasal 3
 
-Perlindungan Korban bertujuan untuk:
+Perlindungan Korban bertujuan untuk:  
 a. mencegah kekerasan terhadap perempuan dan anak;  
 b. memberikan pelayanan kepada Korban; danc. melakukan pemberdayaan kepada peremjDuan korban kekerasan.  
 
@@ -109,7 +111,7 @@ Ruang lingkup perlindungan terhadap Korban meliputi upaya pencegahan,  pelayanan
 
 #### Pasal 5
 
-Bentuk kekerasan antara lain:
+Bentuk kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -126,27 +128,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5 huru f b disebabkan  karena 
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huru f c  disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huru f c  disebabkan karena:  
 a. perbua tan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud. pemaksaan hubungan seksual dengan orang lain untu k tujuan komersial  dan atau tujuan tertentu
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalara Pasal 5 huru f d disebabkan  karena:
+Penelantaran sebagaimana dimaksud dalara Pasal 5 huru f d disebabkan  karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupu n sosial y£ing dilakukan  oleh oiang tua, wali, atau pihak lain ma.napun yang bertanggung jawab  atas p€;ngasuhannya;  
 b. perbu£itan mengabaikan dengan sengaja untu k memelihiara, merawat,  atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang  tua, w^ali, atau pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 0. perbu£itan yang menelantarkan orang dalam lingkup ruma h tan^anya ,  padahal menurut huku m yang berlaku baginya atau karena persetujuan  atau peijanjian ia wajib memberikan kehidupan, perawatan, atau  pemeliharaan kepada orang tersebut;dan/ataud. perbu£itan yang mengakibatkan keterg£intungan ekonomi dengan eara  membatasi dan/atau melarang untu k bekeija yang layak di dalam atau  d i luai' ruma h sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam. Pasal 5 huru f e disebabkan  karena:
+Eksploitasi sebagaimana dimaksud dalam. Pasal 5 huru f e disebabkan  karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dxmgan maksud  untu k menguntungkan dir i sendir i atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi  tapi lidak terbatas pada pelacuran, kerja atau pelayanan paksa,  perbudakan atau prakti k serupa, penindasan, pemerasan, pemanfaatan  fisik, seksual, organ reproduksi, atau secara melawan huku m  memindahkan atau mentransplantasi organ dan/atau j£iringan tubu h  atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain  untu k mendapatkan keuntungan baik materiil maupu n  immateriil;dan/atauc. segala bentuk pemanfaatan organ tubu h seksual atau organ tubu h lain  dar i korban untu k mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelaeuran atau pencabulan.  
 
 #### Pasal 11
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huru f f disebabkan  karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huru f f disebabkan  karena:  
 a. ancaman kekerasan yang meliputi seidap perbuatan secara melawan  huku m berupa ucapan, tulisan, gambjir, simbol, atau gerakan tubuh ,  baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa  taku t atau mengekang kebebasan hakik i seseorang;danb. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuru h  melakukan sesuatu sedemikian rup a sehingga orang il u melakukan  sesuatu yang berlawanan dengan kehendiak sendiri.  
 
 # BAB 111
@@ -155,7 +157,7 @@ a. ancaman kekerasan yang meliputi seidap perbuatan secara melawan  huku m berup
 
 #### Pasal 12
 
-Setiap Korban mendapatkan hak:
+Setiap Korban mendapatkan hak:  
 a. untu k dihormati harka t dan martabatnyei sebagai manusia;  
 b. pemulihan kesehatan dan psikologis dar i penderitaan yang dialami  korban;  
 c. menentukan sendir i keputusannya;  
@@ -169,7 +171,7 @@ i . mendapatkan kemudahan dalam proses peradilan; dan/atau  j . pendampingan.
 
 #### Pasal 13
 
-Anak korban kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 12, jug a mendapatkan hak khusus , yang terdir i atas:
+Anak korban kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 12, jug a mendapatkan hak khusus , yang terdir i atas:  
 a. penghormatan atas kelangsungan hidup, tumbu h dan berkembang;  
 b. pelayeman dasar;  
 e. perlindungan yang sama;  
@@ -197,7 +199,7 @@ b. memfasilitasi sarana dan prasarana P2TP2A sesuai kemampuan; dan  c. memfasili
 
 #### Pasal 15
 
-Pemerintah Daerah wajib dan bertanggungjawab untuk:
+Pemerintah Daerah wajib dan bertanggungjawab untuk:  
 a. menga wasi penyelenggaraan pelayanan terhadap korban, dengan standar  pelayanan minimal;danb. menyediakan dana untu k perlindungan korban melalui APBD dan/atau  sumber keuangan daerah lainnya yang sah.  
 
 ## Bagian Kedua
@@ -206,7 +208,7 @@ Masyarakat dan Keluarga
 
 #### Pasal 16
 
-Masyarakat dan keluarga mempunya i kewxijiban dan tanggung jawab yang  meliputi:
+Masyarakat dan keluarga mempunya i kewxijiban dan tanggung jawab yang  meliputi:  
 a. menceigah terjadinya kekerasan terhadaf) perempuan dan anak;  
 1 1 -
 b. melaporkan bila terjadi kekerasan;  
@@ -268,7 +270,7 @@ d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan de
 
 #### Pasal 22
 
-Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam  Pasal 21 ayat (1) dilakukan oleh:
+Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam  Pasal 21 ayat (1) dilakukan oleh:  
 a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat;  
 c. lembag£i pendidikan; dand. Lembaga Swadaya Masyarakat.  
@@ -295,7 +297,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 25
 
-Bentuk pelayanan terhadap korban meliputi:
+Bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
@@ -304,12 +306,12 @@ e. pelayanan hukum ; danf. pelayanan pemulangan dan reintegrasi sosial.
 
 #### Pasal 26
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Passil 25 huru f a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Passil 25 huru f a meliputi:  
 a. identifikasi atau pencatatan awal korban;danb. persetujuan dilakukan tindakan.  
 
 #### Pasal 27
 
-Pelayanan pendampingan sebagaimana dimxiksud dalam Pasal 25 huru f b  meliputi:
+Pelayanan pendampingan sebagaimana dimxiksud dalam Pasal 25 huru f b  meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;  
 b. mendampingi korban selama proses medic;olegal;  
 c. mendampingi korban selama proses pemeriksaan d i Kepolisian,  Kejaksa.an dan pengadilan;  
@@ -321,7 +323,7 @@ f. melakukan koordinasi dengan pendamping yang lain; dan  g. memberikan penangan
 
 #### Pasal 28
 
-Pelayanan kesehatan sebagaimana dimaksiud dalam Pasal 25 huru f e  meliputi:
+Pelayanan kesehatan sebagaimana dimaksiud dalam Pasal 25 huru f e  meliputi:  
 a. pertoloiigan pertama kepada korban;  
 b. perawatan dan pemulihan luka-luk a fisik yang bertujuan untu k  pemulilian kondis i fisik korban yang dilakukan oleh tenaga medis dan  paramedis; dane. rujuka n ke layanan kesehatan.  
 
@@ -363,13 +365,13 @@ b. praktek kerja lapangan;danc. pemag;angan.
 
 #### Pasal 34
 
-Usaha ekonomis produktif dan/atau kelomf)ok usaha bersam£i sebagaimana  dimaksud dalam Pasal 32 huru f b meliputi:
+Usaha ekonomis produktif dan/atau kelomf)ok usaha bersam£i sebagaimana  dimaksud dalam Pasal 32 huru f b meliputi:  
 a. pelatilian keterampilan wirausaha;  
 b. fasilitasi pembentukan kelompok usaha bersama; danc. pendampingan pelaksanaan usaha.  
 
 #### Pasal 35
 
-Bantuan permodalan sebagaimana dimak:sud dalam Pasal 32 huru f c  meliputi:
+Bantuan permodalan sebagaimana dimak:sud dalam Pasal 32 huru f c  meliputi:  
 a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja.  
 
 17 -
@@ -399,7 +401,7 @@ b. FPKK Keeamatan; dane. FPKK Kelurahan.
 
 #### Pasal 38
 
-Tugas dem fungsi FPKK sebagaimana dimaksud dalam Pasal 37 ayat (1)  yaitu:
+Tugas dem fungsi FPKK sebagaimana dimaksud dalam Pasal 37 ayat (1)  yaitu:  
 a. mengoordinasikan dan menjdnkronkan pencegatian, pelayanan,  dan pemberdayaan terhadap korban kekerasan perempuan dan anak;  
 
 18-

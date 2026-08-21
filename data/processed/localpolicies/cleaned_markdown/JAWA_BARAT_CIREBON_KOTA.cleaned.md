@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan berhak untuk mendapatkan  rasa aman dan pelindungan dari segala bentuk kekerasan, eksploitasi, penyiksaan, diskriminasi, dan perlakuan salah lainnya yang merendahkan harkat dan martabat manusia serta melanggar hak asasi manusia;  
 b. bahwa untuk memastikan pencegahan dan penanganan  tindak kekerasan terhadap perempuan secara cepat, akurat, menyeluruh, dan terintegrasi, diperlukan pengaturan mengenai pelindungan terhadap perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dari Kekerasan, Eksploitasi dan Diskriminasi;  
 
 Mengingat:  
+ 
  
  
  
@@ -113,7 +115,7 @@ Tujuan
 
 #### Pasal 3
 
-Pelindungan Perempuan bertujuan untuk:
+Pelindungan Perempuan bertujuan untuk:  
 a. mencegah segala bentuk kekerasan, eksploitasi, dan  diskriminasi terhadap perempuan;  
 b. memberikan pelayanan dan pemulihan bagi perempuan  korban kekerasan, eksploitasi dan diskriminasi;  
 c. mewujudkan kapasitas Pemerintah Daerah Kota dalam  penyelenggaraan Pelindungan Perempuan dari  kekerasan, eksploitasi dan diskriminasi;  
@@ -125,7 +127,7 @@ Ruang Lingkup
 
 #### Pasal 4
 
-Ruang lingkup pengaturan penyelenggaraan Pelindungan  Perempuan meliputi:
+Ruang lingkup pengaturan penyelenggaraan Pelindungan  Perempuan meliputi:  
 a. hak perempuan;  
 b. pencegahan kekerasan, eksploitasi dan diskriminasi  terhadap perempuan;  
 c. pelayanan;  
@@ -143,7 +145,7 @@ j. penghargaan;dank. pembiayaan.
 
 #### Pasal 5
 
-Setiap Perempuan mempunyai hak:
+Setiap Perempuan mempunyai hak:  
 a. memperoleh informasi yang terkait Pelindungan  Perempuan, prosedur pelayanan korban dan  perkembangan penanganan kasus;  
 b. melapor, memberikan keterangan dan pandangan tanpa  tekanan;  
 c. berpartisipasi dalam penanganan kasus dan dalam upaya - 7 - penghapusan kekerasan terhadap perempuan;  
@@ -163,7 +165,7 @@ Pemerintah Daerah Kota dengan lembaga pendidikan,  lembaga keagamaan, lembaga pe
 
 #### Pasal 7
 
-Pencegahan kekerasan, eksploitasi dan diskriminasi terhadap  perempuan dimaksudkan untuk menciptakan lingkungan  yang aman bagi perempuan dan untuk mengurangi  kerentanan kekerasan, eksploitasi serta diskriminasi kepada  kelompok perempuan rentan, sebagai berikut:
+Pencegahan kekerasan, eksploitasi dan diskriminasi terhadap  perempuan dimaksudkan untuk menciptakan lingkungan  yang aman bagi perempuan dan untuk mengurangi  kerentanan kekerasan, eksploitasi serta diskriminasi kepada  kelompok perempuan rentan, sebagai berikut:  
 a. perempuan dalam situasi bencana dan konflik sosial;  
 b. perempuan dengan penyandang disabilitas;  
 c. perempuan dengan HIV/AIDS;  
@@ -519,7 +521,7 @@ i. monitoring dan evaluasi;danj. pelaporan.
 
 #### Pasal 34
 
-Pembiayaan penyelenggaraan Pelindungan Perempuan  bersumber dari:
+Pembiayaan penyelenggaraan Pelindungan Perempuan  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;dan b. sumber lain yang sah dan tidak mengikat sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB XIII

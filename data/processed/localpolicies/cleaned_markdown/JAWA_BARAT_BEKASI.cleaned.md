@@ -32,6 +32,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, d
  
  
  
+ 
 1.  
 
 2. 3.  
@@ -164,7 +165,7 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 3
 
-Setiap Perempuan penyandang disabilitas berhak:
+Setiap Perempuan penyandang disabilitas berhak:  
 a. atas kesehatan reproduksi;  
 b. menerima atau menolak penggunaan alat kontrasepsi;  
 c. mendapatkan Pelindungan lebih dari perlakuan Diskriminasi berlapis;  
@@ -180,7 +181,7 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 4
 
-Setiap Perempuan korban kekerasan berhak untuk:
+Setiap Perempuan korban kekerasan berhak untuk:  
 a. mendapatkan perlindungan;  
 b. mendapatkan menentukan sendiri keputusannya;  
 c. mendapatkan informasi;  
@@ -219,7 +220,7 @@ melahirkan; dan menyusui (4) Pelayanan kesehatan sebagaimana dimaksud pada ayat 
 
 #### Pasal 8
 
-Bentuk-bentuk kekerasan antara lain:
+Bentuk-bentuk kekerasan antara lain:  
 a. Kekerasan Fisik;  
 b. Kekerasan Psikis;  
 c. Kekerasan Seksual; dand. Kekerasan Dalam Rumah Tangga;  
@@ -242,7 +243,7 @@ d. pemaksaan hubungan seksual dengan orang lain dan/atau eksploitasi perempuan u
 
 #### Pasal 12
 
-Kekerasan Dalam Rumah Tangga sebagaimana dimaksud dalam Pasal 8 huruf d disebabkan karena:
+Kekerasan Dalam Rumah Tangga sebagaimana dimaksud dalam Pasal 8 huruf d disebabkan karena:  
 a. perbuatan yang menelantarkan perempuan dalam lingkup rumah tangga oleh seseorang yang wajib memberikan kehidupan, perawatan atau pemeliharaan kepada perempuan tersebut;  
 b. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada di bawah kendali seseorang; danc. perbuatan yang dilakukan oleh anggota keluarga yang mengakibatkan rasa sakit, lebam, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian.  
 
@@ -287,7 +288,7 @@ Penyelenggaraan pelayanan terhadap korban dilakukan secara terpadu oleh UPTD PPA
 
 #### Pasal 16
 
-Bentuk pelayanan terhadap perlindungan perempuan dan perempuan korban kekerasan meliputi:
+Bentuk pelayanan terhadap perlindungan perempuan dan perempuan korban kekerasan meliputi:  
 a. pelayanan pengaduan, konsultasi dan konseling;  
 b. pelayanan pendampingan;  
 
@@ -299,7 +300,7 @@ e. pelayanan hukum dan/atau bantuan hukum; danf. pelayanan pemulangan dan reinte
 
 #### Pasal 17
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam Pasal 16 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam Pasal 16 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban;  
 b. rekomendasi tindak lanjut; danc. persetujuan tindak lanjut.  
 
@@ -315,7 +316,7 @@ f. melakukan koordinasi dengan pendamping yang lain; dang. memberikan rehabilita
 
 #### Pasal 19
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 16 huruf c dilaksanakan oleh Perangkat Daerah yang membidangi urusan kesehatan dalam bentuk:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 16 huruf c dilaksanakan oleh Perangkat Daerah yang membidangi urusan kesehatan dalam bentuk:  
 a. pertolongan medis kepada korban;  
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 c. pelaksanaan visum guna keperluan penyidikan;  
@@ -328,7 +329,7 @@ d. pemberian pelayanan sesuai dengan SOP kepada perempuan korban kekerasan; dane
 
 #### Pasal 21
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 16 huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 16 huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak korban dan proses peradilan;  
 b. mendampingi korban ditingkat penyidikan, penuntutan dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan aparat penegak hukum, relawan pendamping dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
@@ -371,7 +372,7 @@ c. Pelayanan kesehatan reproduksi; dand. Pelayanan dan penyediaan ruang laktasi 
 
 #### Pasal 26
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf c dilaksanakan oleh Perangkat Daerah yang membidangi usaha mikro kecil menengah dan instansi terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf c dilaksanakan oleh Perangkat Daerah yang membidangi usaha mikro kecil menengah dan instansi terkait lainnya dalam bentuk:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan dan penguatan kelompok usaha ekonomi produktif;  
 
@@ -381,13 +382,13 @@ C. fasilitasi pengembangan jaringan pemasaran.
 
 #### Pasal 27
 
-Pemberdayaan di Perempuan bidang hukum sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d dilaksanakan oleh Perangkat Daerah dan lembaga terkait lainnya dalam bentuk:
+Pemberdayaan di Perempuan bidang hukum sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d dilaksanakan oleh Perangkat Daerah dan lembaga terkait lainnya dalam bentuk:  
 a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi dan edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 28
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang Perempuan di bidang ketenagakerjaan sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf e dilaksanakan oleh Perangkat Daerah yang membidangi tenaga kerja dan instansi terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang Perempuan di bidang ketenagakerjaan sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf e dilaksanakan oleh Perangkat Daerah yang membidangi tenaga kerja dan instansi terkait lainnya dalam bentuk:  
 a. b. perempuan memiliki kesempatan yang sama tanpa diskriminasi untuk memperoleh pekerjaan; dan pemberi kerja yang menggunakan tenaga kerja perempuan, wajib memberikan perlindungan yang mencakup kesejahteraan, keselamatan dan kesehatan.  
 
 #### Pasal 29
@@ -415,7 +416,7 @@ e. menetapkan kebijakan, program dan kegiatan perlindungan perempuan yang telah 
 
 #### Pasal 31
 
-Pemerintah Daerah bertanggung jawab:
+Pemerintah Daerah bertanggung jawab:  
 a. melaksanakan kegiatan guna menjamin terselenggaranya pemenuhan hak perempuan;  
 b. menyediakan sarana dan prasarana perlindungan perempuan;  
 c. menerapkan standard pelayanan minimal dalam pelayanan perlindungan perempuan dan standar operasional prosedur pemulangan dan reintegrasi sosial yang berlaku;  
@@ -435,7 +436,7 @@ atas pengawasan penyelenggaraan
 1. Pemerintah Daerah dalam upaya menyediakan dan menyelenggarakan penanganan layanan perlindungan bagi perempuan korban kekerasan, membentuk UPTD PPA.  
 2. UPTD PPA sebagaimana dimaksud pada ayat (1) berada dibawah dan daerah perangkat bertanggung jawab kepada kepala menyelenggarakan urusanpemerintahan perempuan dan perlindungan anak.  
 
-yang bidang pemberdayaan (3) UPTD PPA sebagaimana dimaksud pada ayat (2) memiliki tugas:
+yang bidang pemberdayaan (3) UPTD PPA sebagaimana dimaksud pada ayat (2) memiliki tugas:  
 a. mengkoordinasikan dan mengsinkronisasikan penanganan pelayanan perlindungan perempuan bekerjasama dengan pihak terkait;  
 b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan c. mengkoordinasikan, penyusunan dan penyajian laporan mengenai perlindungan perempuan.  
 4. UPTD PPA sebagaimana dimaksud pada ayat (1) dikelompokkan dalam peran sebagai berikut:a. kesehatan;  

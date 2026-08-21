@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan pada perempuan dan anak serta  perdagangan orang merupakan tindakan merendahkan martabat dan derajad kemanusiaan sehingga kepada mereka perlu diberikan pelayanan dan perlindungan yang memadai;  
 b. bahwa tingkat perdagangan orang, kekerasan terha dap perempuan dan anak masih tinggi maka kewajiban pemerintah daerah untuk mengatur dan melayani kepentingan masyarakat dalam hal ini perempuan dan anak korban kekerasan dan perdagangan orang;  
 c. bahwa agar penanganan perdagangan orang, kekeras an terhadap perempuan dan anak yang dilaksanakan berdaya guna dan berhasil guna, perlu pengaturan perlindungan terhadap perempuan dan anak korban kekerasan dan perdagangan orang;  
 d. bahwa berdasarkan pertimbangan sebagaimana di maksud pada huruf a, b dan c maka perlu membentuk peraturan daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang.  
 
 Mengingat:  
+ 
  
  
  
@@ -122,7 +124,7 @@ Asas
 
 #### Pasal 2
 
-Asas-asas dalam perlindungan perempuan dan anak korban kekerasan dan  perdagangan orang ini adalah:
+Asas-asas dalam perlindungan perempuan dan anak korban kekerasan dan  perdagangan orang ini adalah:  
 a. Kepastian Hukum;  
 b. Keadilan dan Kesetaraan gender;  
 c. Nondiskriminasi;  
@@ -135,7 +137,7 @@ Tujuan
 
 #### Pasal 3
 
-Tujuan Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan  Orang adalah:
+Tujuan Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan  Orang adalah:  
 a. Melindungi perempuan dan anak korban kekerasan dan perdagangan orang;  
 b. Menindak pelaku kekerasan dan perdagangan orang terhadap perempuan dan  anak;  
 c. Memberikan rasa aman terhadap perempuan dan anak korban kekerasan dan  perdagangan orang;  
@@ -151,7 +153,7 @@ Hak-Hak Korban
 
 #### Pasal 4
 
-Setiap korban berhak:
+Setiap korban berhak:  
 a. mendapatkan perlindungan dari individu, kelompok atau pemerintah daerah  maupun lembaga swasta;  
 b. mendapatkan informasi tentang keberadaan tempat pengaduan, KPPA,  pendamping, tenaga sosial dan rohaniawan, psikolog dan psikiater, dari  individu, kelompok, atau pemerintah, pemerintah daerah dan lembaga swasta  nasional maupun internasional;  
 c. mendapatkan pelayanan secara terpadu sesuai aturan perundangan yang  berlaku;  
@@ -166,7 +168,7 @@ k. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi dan  reintegra
 
 #### Pasal 5
 
-Restitusi atau pembayaran ganti kerugian sebagaimana dimaksud dalam pasal 4  huruf e meliputi:
+Restitusi atau pembayaran ganti kerugian sebagaimana dimaksud dalam pasal 4  huruf e meliputi:  
 a. kehilangan kekayaan atau penghasilan;  
 b. penderitaan;  
 c. biaya untuk perawatan medis dan/atau psikologis;  
@@ -178,7 +180,7 @@ Kewajiban Lembaga Pendamping
 
 #### Pasal 6
 
-Lembaga Pendamping berkewajiban:
+Lembaga Pendamping berkewajiban:  
 a. mendorong korban untuk memberikan keterangan kepada pihak berwajib dan  bersedia menjadi saksi;  
 b. memfasilitasi korban untuk terlibat dalam upaya pencegahan bertambahnya  korban bersama masyarakat .  
 
@@ -192,7 +194,7 @@ Kewajiban dan Tanggung Jawab Pemerintah daerah
 
 #### Pasal 7
 
-Pemerintah daerah berkewajiban dan bertanggung jawab untuk:
+Pemerintah daerah berkewajiban dan bertanggung jawab untuk:  
 a. melaksanakan segala upaya pencegahan terjadinya tindak pidana perdagangan  orang, dan kekerasan terhadap perempuan dan anak;  
 b. menyediakan dan menyelenggarakan layanan terpadu bagi korban;  
 c. menjamin penyelenggaraan perlindungan untuk korban dengan memperhatikan  hak dan kewajiban orangtua, wali, suami atau orang lain yang secara hukum  bertanggung jawab terhadap korban;  
@@ -205,7 +207,7 @@ Kewajiban dan Peran Serta Masyarakat
 
 #### Pasal 8
 
-Masyarakat berperan serta untuk melakukan:
+Masyarakat berperan serta untuk melakukan:  
 a. upaya pencegahan terjadinya tindak pidana perdagangan orang dan kekerasan;  
 b. pengawasan dan pelaporan terjadinya tindak pidana perdagangan orang dan  kekerasan kepada pihak yang berwenang;  
 c. usulan mengenai perumusan dan kebijakan tentang perlindungan;  
@@ -241,7 +243,7 @@ Prinsip-Prinsip Pelayanan
 
 #### Pasal 11
 
-Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip-prinsip  antara lain:
+Penyelenggaraan pelayanan terhadap korban dilakukan dengan prinsip-prinsip  antara lain:  
 a. Tidak dipungut biaya;  
 b. Cepat;  
 c. Aman;  
@@ -256,7 +258,7 @@ Bentuk Dan Mekanisme Pelayanan
 
 #### Pasal 12
 
-Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:
+Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang  bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga  medis dan paramedis;  
 b. pelayanan medicological merupakan satu bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan oleh pendamping  dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai bentuk ancaman dan  intimidasi bagi korban dan memberikan dukungan secara sosial sehingga  korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam  menyelesaikan masalahnya;  
@@ -331,7 +333,7 @@ Bupati mengintegrasikan kebijakan, program, dan kegiatan perlindungan  perempuan
 
 #### Pasal 21
 
-Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempuan dan anak korban kekerasan dan perdagangan orang, melakukan  upaya:
+Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempuan dan anak korban kekerasan dan perdagangan orang, melakukan  upaya:  
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan antar SKPD;  
 b. kerjasama dengan kabupaten dan kota lain dalam satu provinsi, dan dengan  kabupaten dan kota di provinsi lain, dalam pelaksanaan kebijakan, program dan  kegiatan sesuai dengan ketentuan peraturan perundang undangan;  
 c. fasilitasi dan penyediaan pelayanan;  

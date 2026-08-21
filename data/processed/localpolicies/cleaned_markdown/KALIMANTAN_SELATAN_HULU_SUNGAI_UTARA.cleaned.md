@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka perlindungan hak-hak perempuan dananak sebagaimana amanat UUD Negara Republik Indonesia Tahun 1945, peningkatan kualitas hidup perempuan dan anak serta menanggulangi segala bentuk tindak kekerasan terhadap perempuan dan anak, perlu adanya kepedulian dari semua pihak baik masyarakat maupun lembaga lembaga pemerintah yang terkait dan aparat penegak hukum;  
 b. bahwa adanya kecenderungan peningkatan korban dan kasus-kasus kekerasan terhadap perempuan dan anak, yang belum tertangani secara maksimal sehingga diperlukan suatu pelayanan terpadu oleh instansi terkait dan lembaga/organisasi kemasyarakatan untuk memberikan perlindungan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam upaya memfasilitasi perempuan dan anak meningkatkan kemampuan keterampilan dan kemandirian serta mendapatkan pelayanan konsultasi dan pemecahan masalah yang dialami perempuan dan anak perlu wadah pusat pelayanan terpadu pemberdayaan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -155,7 +157,7 @@ d. pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban berhak untuk mendapatkan:
+Setiap korban berhak untuk mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -165,7 +167,7 @@ f. pendampingan secara psikologis dan hukum; dan g. jaminan atas hak-hak yang be
 
 #### Pasal 5
 
-Anak selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, jugamendapatkan hak-hak khusus, sebagai berikut:
+Anak selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, jugamendapatkan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsunganhidup, tumbuh, berkembang dan berpartisipasi;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -243,7 +245,7 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 12
 
-Bentuk pencegahan terjadinya tindak kekerasan terhadap perempuan dan anakyang dilakukan oleh P2TP2A dan PIK Keluarga, dapat dilaksanakan melalui:
+Bentuk pencegahan terjadinya tindak kekerasan terhadap perempuan dan anakyang dilakukan oleh P2TP2A dan PIK Keluarga, dapat dilaksanakan melalui:  
 a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; danb. pelatihan anggota P2TP2A dan PIK Keluarga terkait tentang pelaksanaantugasnya dalam melakukan pencegahan tindak kekerasan terhadapperempuan dan anak.  
 
 #### Pasal 13
@@ -253,7 +255,7 @@ a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berk
 
 #### Pasal 14
 
-Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2Ameliputi:
+Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2Ameliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenagamedis dan paramedis;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untukkepentingan pembuktian dibidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan olehpendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban dan memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan dankemandirian dalam menyelesaikan masalahnya;  
@@ -308,7 +310,7 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 
 #### Pasal 19
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukandengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukandengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -387,7 +389,7 @@ Kemitraan
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalampenyelenggaraan perlindungan terhadap perempuan dan anak dari tindakkekerasan.  
 
-Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:
+Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korbantindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
 c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasanyang terputus dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuankorban tindak kekerasan.  
@@ -445,7 +447,7 @@ c. pelayanan.
 
 #### Pasal 31
 
-Dana untuk penyelenggaraan perlindungan terhadap perempuan dan anak, bersumber dari:
+Dana untuk penyelenggaraan perlindungan terhadap perempuan dan anak, bersumber dari:  
 a. anggaran pendapatan dan belanja negara;  
 b. anggaran pendapatan dan belanja daerah provinsi;  
 c. anggaran pendapatan dan belanja daerah kabupaten;  
@@ -573,7 +575,7 @@ Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak
 
 Ayat (1) Cukup jelas.  
 
-Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:
+Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:  
 a. pencegahan primer, semua orang, keluarga, masyarakat dannegara dalam upaya meningkatkan kemampuan pengetahuan, pemahaman dan menjaga agar kekerasan terhadap perempuandan anak tidak terjadi, meliputi sosialisasi kebijakan, pelayananyang memadai, kebijakan tempat bekerja yang mendukung, serta pelatihan life skill bagi perempuan dan anak. Yang dimaksud dengan pelatihan life skill meliputi penyelesaiankonflik tanpa kekerasan, ketrampilan menangani stress, manajemen sumber daya, membuat keputusan efektif, komunikasi interpersonal secara efektif, tuntunanperkembangan psikososial perempuan dan anak.  b. pencegahan sekunder, ditujukan bagi kelompok masyarakat dengan risiko tinggi dalam upaya meningkatkan ketrampilan, termasuk pelatihan dan layanan korban untuk menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi padagenerasi berikut. Kegiatan yang dilakukan di sini di antaranyadengan melalukan kunjungan rumah bagi orang tua yang barumempunyai anak untuk melakukan self assessment apakahmereka berisiko melakukan kekerasan pada anak di kemudianhari.  c. pencegahan tersier, dimaksudkan untuk meningkatkankemampuan pengasuhan yang menjaga agar kekerasanterhadap perempuan dan anak tidak terulang lagi, di sini yang dilakukan adalah pelayanan terpadu untuk perempuan dananak yang menjadi korban kekerasan, melalui konseling, pelatihan tatalaksana stres.  
 
 Huruf b Yang dimaksud dengan aspek “pelayanan dan pendampingan” adalah kegiatan dan tindakan segera yang dilakukan oleh tenagaprofesional dan pendamping sesuai dengan profesi masing-masing berupa konseling, terapi dan advokasi guna penguatan danpemulihan korban kekerasan.  

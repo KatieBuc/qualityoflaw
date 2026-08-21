@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki  hak asasi manusia yang harus dilindungi, dihormati, dipertahankan, dan tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun sehingga perlu mendapatkan jaminan pelindungan dari tindak kekerasan, eksploitasi dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam rangka mewujudkan pemenuhan hak hak konstitusional perempuan yang bebas dari tindak kekerasan, eksploitasi dan diskriminasi, serta untuk meningkatkan kualitas hidup perempuan perlu mendapatkan pelindungan dan pemberdayaan dari Pemerintah Daerah;  
 c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanakan secara maksimal dan disertai masih terjadinya tindak kekerasan, eksploitasi dan diskriminasi terhadap perempuan sehingga diperlukan suatu pengaturan yang komprehensif untuk memberikan arah, landasan, dan kepastian hukum;  
@@ -24,6 +25,7 @@ c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanak
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -188,7 +190,7 @@ d. hak atas penguatan psikologis;
 e. hak atas pelayanan kesehatan meliputi  pemeriksaan, tindakan, dan perawatan medis;  
 f. hak atas layanan dan fasilitas sesuai dengan  kebutuhan khusus korban; dang. hak atas penghapusan konten bermuatan seksual  untuk kasus kekerasan seksual dengan media  elektronik.  
 
-15 - (3) Hak Korban atas Pelindungan sebagaimana dimaksud  pada ayat (1) huruf b meliputi:
+15 - (3) Hak Korban atas Pelindungan sebagaimana dimaksud  pada ayat (1) huruf b meliputi:  
 a. penyediaan informasi mengenai hak dan fasilitas  Pelindungan;  
 b. penyediaan akses terhadap informasi  penyelenggaraan Pelindungan;  
 c. pelindungan dari ancaman atau kekerasan pelaku  dan pihak lain serta berulangnya kekerasan;  
@@ -208,7 +210,7 @@ c. kekerasan seksual;
 d. kekerasan ekonomi;  
 e. eksploitasi; danf. KBGO.  
 
-16 - (2) Kekerasan Ekonomi sebagaimana dimaksud pada ayat  (1) huruf d meliputi:
+16 - (2) Kekerasan Ekonomi sebagaimana dimaksud pada ayat  (1) huruf d meliputi:  
 a. mengambil alih kendali penuh atas pendapatan  korban, termasuk gaji, tabungan, atau bantuan  keuangan lain yang diterima korban:b. membatasi atau melarang korban untuk memiliki  atau menggunakan uang, sehingga korban  bergantung sepenuhnya pada pelaku untuk  kebutuhan finansial:c. melarang atau menghalangi korban untuk bekerja  atau melanjutkan pendidikan dengan tujuan  membatasi kemandirian finansial korban:d. menggunakan aset atau harta korban untuk  keuntungan pribadi atau merusak aset tersebut  sebagai bentuk hukuman; dane. membuat semua keputusan finansial tanpa  melibatkan korban, sehingga korban tidak  memiliki kendali atas keuangan rumah tangga.  
 3. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf  e paling sedikit:a. memanfaatkan tenaga kerja perempuan dengan  memberikan upah yang tidak layak, memaksakan  jam kerja yang berlebihan, atau tidak memberikan  kondisi kerja yang aman dan sehat;  
 b. memanfaatkan perempuan untuk tujuan seksual,  dengan paksaan, penipuan, atau tekanan.  Termasuk perdagangan manusia untuk tujuan  prostitusi atau produksi pornografi; danc. memanfaatkan perempuan secara tidak adil dalam  transaksi ekonomi, seperti memberikan pinjaman  dengan bunga yang sangat tinggi atau  memanipulasi pasar untuk keuntungan pribadi.  
@@ -231,7 +233,7 @@ Umum
 
 #### Pasal 7
 
-Penyelenggaraan Pelindungan Perempuan meliputi upaya:
+Penyelenggaraan Pelindungan Perempuan meliputi upaya:  
 a. pencegahan dan pelindungan perempuan dari tindak  kekerasan, eksploitasi, dan diskriminasi secara cepat,  terpadu, dan terintegrasi;  
 b. pelayanan korban kekerasan, eksploitasi dan  diskriminasi;  
 c. pemberdayaan perempuan;  
@@ -387,18 +389,18 @@ c. pelayanan kesehatan reproduksi; dand. pelayanan dan penyediaan ruang laktasi 
 
 #### Pasal 15
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf c dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang usaha - 26 - mikro kecil menengah dan instansi terkait lainnya dalam  bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf c dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang usaha - 26 - mikro kecil menengah dan instansi terkait lainnya dalam  bentuk:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; danc. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 16
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  hukum sebagaimana dirnaksud dalam Pasal 13 ayat (2)  huruf d dilaksanakan oleh Perangkat Daerah dan lembaga  terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  hukum sebagaimana dirnaksud dalam Pasal 13 ayat (2)  huruf d dilaksanakan oleh Perangkat Daerah dan lembaga  terkait lainnya dalam bentuk:  
 a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
 
 #### Pasal 17
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  ketenagakerjaan sebagaimana dimaksud dalam Pasal 12  ayat (2) huruf e dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang tenaga  kerja dan instansi terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  ketenagakerjaan sebagaimana dimaksud dalam Pasal 12  ayat (2) huruf e dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang tenaga  kerja dan instansi terkait lainnya dalam bentuk:  
 a. perempuan memiliki kesempatan yang sama tanpa  diskriminasi untuk memperoleh pekerjaan; dan b. pemberi kerja yang menggunakan tenaga kerja  perempuan, memberikan akses dan pelatihan  ketrampilan.  
 
 27 -
@@ -417,7 +419,7 @@ d. pemberian akses bagi perempuan untuk  menduduki jabatan publik; dane. partisi
 
 #### Pasal 19
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang sosial  sebagaimana dimaksud dalam Pasal 12 ayat (2) huruf h  dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang sosial  dan instansi terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang sosial  sebagaimana dimaksud dalam Pasal 12 ayat (2) huruf h  dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang sosial  dan instansi terkait lainnya dalam bentuk:  
 a. upaya penyadaran dan peningkatan kapasitas diri di  bidang sosial;  
 b. pemberian dan pengembangan akses bagi perempuan  untuk berpartisipasi pada bidang sosial;  
 c. peningkatan kompetensi perempuan melalui pelatihan  dan pendidikan sosial bagi perempuan;  
@@ -425,7 +427,7 @@ d. pelibatan perempuan dalam kegiatan sosial; dane. penumbuhkembangan wadah atau
 
 #### Pasal 20
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang seni  dan budaya sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf i dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  pariwisata dan kebudayaan dan instansi terkait lainnya  dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang seni  dan budaya sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf i dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  pariwisata dan kebudayaan dan instansi terkait lainnya  dalam bentuk:  
 a. upaya penyadaran dan peningkatan kapasitas diri di  bidang seni dan budaya;  
 b. pemberian dan pengembangan akses bagi perempuan  untuk berpartisipasi pada bidang seni dan budaya;  
 c. peningkatan kompetensi perempuan melalui pelatihan  dan pendidikan literasi seni dan budaya bagi perempuan;  
@@ -435,7 +437,7 @@ d. pelibatan perempuan dalam kegiatan seni dan budaya;  dane. penumbuhkembangan 
 
 #### Pasal 21
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  lingkungan hidup sebagaimana dimaksud dalam Pasal 12  ayat (2) huruf j dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  lingkungan hidup dan instansi terkait lainnya dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  lingkungan hidup sebagaimana dimaksud dalam Pasal 12  ayat (2) huruf j dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  lingkungan hidup dan instansi terkait lainnya dalam bentuk:  
 a. penyadaran dan pembentukan perilaku perempuan  sadar lingkungan hidup;  
 b. peningkatan kapasitas dan kompetensi perempuan  melalui pelatihan dan pendidikan lingkungan hidup;  
 c. pemberian dan pengembangan akses perempuan untuk  berpartisipasi di bidang lingkungan hidup;  
@@ -468,13 +470,13 @@ Ketentuan mengenai upaya Pelindungan Perempuan melalui  peningkatan kualitas Kel
 
 #### Pasal 24
 
-Dalam upaya pelindungan terhadap perempuan korban  kekerasan, Pemerintah Daerah wajib:
+Dalam upaya pelindungan terhadap perempuan korban  kekerasan, Pemerintah Daerah wajib:  
 a. menjamin terselenggaranya pemenuhan hak  perempuan dan pemberian jaminan rasa aman dari  tindakan kekerasan, eksploitasi dan diskriminasi  terhadap perempuan di daerah;  
 b. menetapkan kebijakan, program, kegiatan pelindungan  perempuan dan jaminan penanganan korban untuk  menghapus segala bentuk tindak kekerasan,  eksploitasi dan diskriminasi terhadap perempuan di  daerah; danc. memberikan pembinaan dan pengawasan dalam upaya  pelindungan perempuan yang dilakukan oleh Perangkat  Daerah yang menangani urusan pemerintahan di  bidang Perlindungan dan Pemberdayaan Perempuan.  
 
 #### Pasal 25
 
-Pemerintah Daerah bertanggung jawab:
+Pemerintah Daerah bertanggung jawab:  
 a. melaksanakan kebijakan, program, kegiatan  pelindungan perempuan guna menjamin  terselenggaranya pemenuhan hak perempuan;  
 b. memfasilitasi sarana dan prasarana pelindungan  perempuan; dan - 31 -c. menerapkan standard pelayanan pelindungan  perempuan dan SOP.  
 
@@ -615,7 +617,7 @@ Ketentuan lebih lanjut mengenai pemantauan, evaluasi, dan  pelaporan kebijakan, 
 
 #### Pasal 36
 
-Pembiayaan penyelenggaraan Pelindungan Perempuan di  Daerah bersumber dari:
+Pembiayaan penyelenggaraan Pelindungan Perempuan di  Daerah bersumber dari:  
 a. anggaran pendapatan dan belanja Daerah; dan  b. sumber lain yang sah dan tidak mengikat sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 38 -

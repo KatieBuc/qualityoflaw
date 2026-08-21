@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan,  peran dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa dalam rangka melindungi masyarakat,  mewujudkan pemerataan, dan keadilan sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan perlindungan perempuan;  
 d. berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -83,7 +85,7 @@ Umum
 
 #### Pasal 2
 
-Setiap Perempuan berhak:
+Setiap Perempuan berhak:  
 a. untuk hidup;  
 b. berkeluarga dan melanjutkan keturunan;  
 c. mengembangkan diri;  
@@ -98,7 +100,7 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 3
 
-Setiap Perempuan penyandang disabilitas berhak  memperoleh:
+Setiap Perempuan penyandang disabilitas berhak  memperoleh:  
 a. pendidikan pada semua satuan, jalur, jenis, dan  jenjang pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan  jenis dan derajat kecacatan, pendidikan, dan  kemampuannya;  
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
@@ -148,7 +150,7 @@ Umum
 
 #### Pasal 6
 
-Perlindungan Perempuan di Daerah merupakan kewajiban  dan tanggung jawab bersama antara:
+Perlindungan Perempuan di Daerah merupakan kewajiban  dan tanggung jawab bersama antara:  
 a. Pemerintah Daerah;  
 b. Masyarakat;  
 c. Keluarga; dand. Orang Tua.  
@@ -235,7 +237,7 @@ Pencegahan Kekerasan Perempuan
 
 #### Pasal 13
 
-Untuk mencegah terjadinya tindak Kekerasan Terhadap  Perempuan, Pemerintah Daerah:
+Untuk mencegah terjadinya tindak Kekerasan Terhadap  Perempuan, Pemerintah Daerah:  
 a. melakukan penyusunan dan sosialisasi mengenai hal  yang berkenaan dengan Kekerasan Terhadap  Perempuan;  
 b. melakukan sosialisasi tehadap hak Perempuan;  
 c. mengupayakan peningkatan pendidikan bagi  Perempuan;  
@@ -397,7 +399,7 @@ Ketentuan lebih lanjut mengenai pengawasan, evaluasi,  dan pembinaan kebijakan, 
 
 #### Pasal 27
 
-Pembiayaan untuk pelaksanaan Perlindungan Perempuan  bersumber dari:
+Pembiayaan untuk pelaksanaan Perlindungan Perempuan  bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; dan b. sumber dana lain yang sah dan tidak mengikat
 
 #### Pasal 28
@@ -459,13 +461,13 @@ DICKY ANUGRAH, SH, M.Si Pembina Tk. I
 
 Kedudukan, peran dan kualitas perempuan pada perkembangan  saat ini telah mengalami perubahan dalam upaya mewujudkan  kesetaraan dan keadilan gender, baik dalam kehidupan berkeluarga,  bermasyarakat, berbangsa dan bernegara. Perlindungan terhadap hak  asasi manusia pun menjadi sorotan terutama terkait segala bentuk  kekerasan terhadap perempuan merupakan pelanggaran terhadap hak  asasi manusia sehingga perempuan perlu dilindungi harga diri dan  martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan  kodratnya tanpa diskriminasi.  
 
-Dalam rangka melindungi masyarakat, mewujudkan pemerataan,  dan keadilan sebagai kewajiban pemerintah daerah guna memberikan  perlindungan dan kesejahteraan terhadap perempuan, Pemerintah  Kabupaten Bandung menetapkan Peraturan Daerah tentang  Perlindungan Perempuan. Penyelenggaraan perlindungan perempuan  dilaksanakan berdasarkan asas Pancasila dan berlandaskan Undang Undang Dasar Negara Republik Indonesia Tahun 1945, yang meliputi:
+Dalam rangka melindungi masyarakat, mewujudkan pemerataan,  dan keadilan sebagai kewajiban pemerintah daerah guna memberikan  perlindungan dan kesejahteraan terhadap perempuan, Pemerintah  Kabupaten Bandung menetapkan Peraturan Daerah tentang  Perlindungan Perempuan. Penyelenggaraan perlindungan perempuan  dilaksanakan berdasarkan asas Pancasila dan berlandaskan Undang Undang Dasar Negara Republik Indonesia Tahun 1945, yang meliputi:  
 a. Perlindungan;  
 b. Penghormatan hak asasi manusia;  
 c. Keadilan dan kesetaraan gender;  
 d. Nondiskriminasi; dane. Kepentingan terbaik bagi perempuan.  
 
-Adapun tujuan dari dibentuknya Peraturan Daerah tentang  Perlindungan Perempuan adalah:
+Adapun tujuan dari dibentuknya Peraturan Daerah tentang  Perlindungan Perempuan adalah:  
 a. Menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan  berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan;  
 b. Memberikan keadilan dan kesetaraan gender;  
 c. Memberikan perlindungan dan rasa aman bagi perempuan korban  kekerasan dan diskriminasi, serta tindak pidana perdagangan orang;  
@@ -508,11 +510,11 @@ a. perbuatan yang berupa pelecehan seksual;
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau  tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
 
-Huruf d Yang dimaksud dengan penelantaran rumah tangga adalah disebabkan karena:
+Huruf d Yang dimaksud dengan penelantaran rumah tangga adalah disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan perempuan sebagai istri secara wajar, baik fisik,  mental,spiritual maupun sosial yang dilakukan oleh suami,  orang tua, wali, atau pihak lain;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus perempuan sebagai isteri  sebagaimana mestinya yang dilakukan oleh suami, orang  tua, wali atau pihak lainc. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian ia wajib  memberikan penghidupan, perawatan, atau pemeliharaan  kepada orang tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja  Huruf e Yang dimaksud dengan Perdagangan orang adalah tindakan  perekrutan, pengangkutan, penampungan, pengiriman,  pemindahan atau penerimaan seseorang dengan ancaman  kekerasan, penggunaan kekerasan, penculikan, penyekapan,  pemalsuan, penipuan, penyalahgunaan kekuasaan atau posisi  rentan, penjeratan utang atau memberi bayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang  kendali atas orang lain tersebut, baik yang dilakukan di dalam  negara maupun antar negara, untuk tujuan eksploitasi atau  mengakibatkan orang tereksploitasi.  
 
-Huruf f Yang dimaksud dengan Eksploitasi sebagaimana dimaksud  dalam Pasal 15 huruf f disebabkan karena:
+Huruf f Yang dimaksud dengan Eksploitasi sebagaimana dimaksud  dalam Pasal 15 huruf f disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri atau  orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktek serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum memindahkan  atau mentransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh  pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan  pelacuran atau pencabulan.  
 

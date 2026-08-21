@@ -69,7 +69,7 @@ c. nondiskriminasi; dand. kepentingan terbaik bagi korban.
 
 #### Pasal 3
 
-Perlindungan perempuan dari tindak kekerasan bertujuan:
+Perlindungan perempuan dari tindak kekerasan bertujuan:  
 a. mencegah kekerasan terhadap perempuan;  
 
 •  •
@@ -154,7 +154,7 @@ b. praktek kerja lapangan; danc. pemagangan.
 
 #### Pasal 11
 
-Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 9 huruf c meliputi:
+Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 9 huruf c meliputi:  
 a. pelatihan ketrampilan wirausaha; danb. pendampingan pelaksanaan usaha.  
 
 •  •
@@ -170,7 +170,7 @@ a. pelatihan ketrampilan wirausaha; danb. pendampingan pelaksanaan usaha.
 
 #### Pasal 13
 
-Kekerasan terhadap perempuan terdiri atas:
+Kekerasan terhadap perempuan terdiri atas:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -213,7 +213,7 @@ b. suatu keadaan di mana seseorang/korban disuruh melakukan sesuatu  sedemikian 
 
 #### Pasal 20
 
-Setiap perempuan korban kekerasan berhak:
+Setiap perempuan korban kekerasan berhak:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. mendapatkan pemulihan kesehatan fisik dan psikologis dari penderitaan  yang dialami;  
 c. menentukan sendiri keputusannya;  

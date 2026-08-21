@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan memiliki peran strategis dalam pembangunan sehingga peningkatan kualitas hidup Mengingat perempuan perlu mendapatkan pengakuan sesuai kearifan lokal dan tuntunan Syariat Islam;  
 b. bahwa berdasarkan mandat Qanun Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan Pasal 4 dan 5 yang mengatur tentang ruang lingkup pemberdayaan dan perlindungan perempuan yang menjadi kewenangan Pemerintah Kabupaten Kota;  
 c. bahwa dalam kenyataannya, kualitas hidup perempuan masih rendah dan rentan mendapatkan ancaman kekerasan, penganiayaan, penyiksaan, kekerasan dalam rumah tangga, perdagangan perempuan, eksploitasi dan diskriminasi terhadap perempuan perlu segera dihentikan dengan memberikan perlindungan sesuai dengan harkat dan martabat kemanusiaan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, perlu membentuk Qanun Kota Subulussalam tentang Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
  
 
@@ -134,7 +136,7 @@ b. Pemberdayaan
 
 #### Pasal 8
 
-Hak perempuan sebagaimana yang dimaksud dalam pasal 7 ayat (1) meliputi:
+Hak perempuan sebagaimana yang dimaksud dalam pasal 7 ayat (1) meliputi:  
 a. Perempuan memperoleh hak dan kewajiban yang sama atas kehidupan dalam perkawinan dan keluarga, baik sebagai orang tua terhadap anaknya, maupun pasangan suami-istri dan tidak boleh ada pemaksaan dalam perkawinan.  
 b. Perempuan memperoleh hak atas pendidikan dan pengajaran pada semua jenis, jenjang, dan jalur pendidikan, tanpa hambatan dan tekanan apapun dalam rangka meningkatkan keterampilan dan kualitas hidupnya.  
 c. Perempuan memperoleh hak atas pekerjaan dan jabatan pada semua kelembagaan baik lembaga pemerintahan maupun non pemerintahan dan pada semua tingkatan demi peningkatan pendapatan dan kesejahteraan keluarga.  
@@ -184,13 +186,13 @@ Tanggungjawab Pemerintah Kota (1) Pemerintah
 
 #### Pasal 12
 
-Kota berkewajiban untuk memberikan dukungan bagi pengembangan lembaga layanan untuk perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam, baik yang diadakan oleh pemerintah maupun swasta. (2) Pemerintah Kota berkewajiban untuk:
+Kota berkewajiban untuk memberikan dukungan bagi pengembangan lembaga layanan untuk perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam, baik yang diadakan oleh pemerintah maupun swasta. (2) Pemerintah Kota berkewajiban untuk:  
 a. Pembentukan Pusat Krisis Terpadu (PKT) dan/atau Pusat Pelayanan Terpadu (PPT) di Rumah Sakit Umum Daerah, Rumah Sakit Kepolisian, Rumah Sakit Swasta untuk pemberian layanan bagi perempuan disabilitas, 咋 perempuan HIV/Aids, perempuan korban kekerasan dan perempuan korban konflik dan bencana alam;  
 b. Pembentukan Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak atau UPTD PPA sebagai Unit Pelaksana Teknis di bawah Dinas Pemberdayaan Perempuan Perlindungan Anak dan Keluarga Berenacana Kota; danc. Mendirikan Rumah Perlindungan dan Trauma Center (RPTC) sebagai fasilitas untuk memberikan perlindungan dan membantu perempuan disabilitas, perempuan HIV/Aids, perempuan korban kekerasan, perempuan korban konflik dan bencana alam dalam pemulihan psikososial dan traumatis.  
 
 #### Pasal 13
 
-Pemerintah Kota berkewajiban untuk menyusun panduan dalam pelaksanaan perlindungan bagi perempuan, perempuan disabilitas, perempuan HIV/Aids, perempuan korban kekerasan, perempuan korban konflik dan bencana alam secara tidak terbatas pada:
+Pemerintah Kota berkewajiban untuk menyusun panduan dalam pelaksanaan perlindungan bagi perempuan, perempuan disabilitas, perempuan HIV/Aids, perempuan korban kekerasan, perempuan korban konflik dan bencana alam secara tidak terbatas pada:  
 a. Penyusunan pedoman pelayanan di Rumah Sakit dan unit- unit pelayanan lainnya;  
 b. Penyusunan pedoman rujukan baik pemerintah dan swasta;  
 c. Penyusunan pedoman pencegahan dan penanganan di tingkat pelayanan dasar; dand. Penyusunan Pedoman Pengembangan Puskesmas Mampu Tatatlaksana kasus kekerasan terhadap perempuan

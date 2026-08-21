@@ -30,12 +30,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk  diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah  dan/atau masyarakat agar terhindar dan terbebas dari  kekerasan dan/atau ancaman kekerasan dalam lingkup rumah  tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak dan Undang-Undang Nomor 23  Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah  Tangga, Pemerintah Daerah bersama masyarakat berkewajiban  melakukan upaya pencegahan, perlindungan, pemulihan  terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf b dan huruf c, perlu menetapkan Peraturan Daerah  Kabupaten Ogan Komering Ulu tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan  Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -105,7 +107,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan korban kekerasan berbasis gender dan anak berasaskan Pancasila  dan berlandaskan Undang-Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:
+Perlindungan korban kekerasan berbasis gender dan anak berasaskan Pancasila  dan berlandaskan Undang-Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi korban;  
 c. keadilan dan kesetaraan gender;  
@@ -121,7 +123,7 @@ l. kerahasiaan korban; danm. pengambilan keputusan di tangan korban.
 
 #### Pasal 3
 
-Tujuan perlindungan korban kekerasan berbasis gender dan anak adalah:
+Tujuan perlindungan korban kekerasan berbasis gender dan anak adalah:  
 a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap  anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
@@ -196,7 +198,7 @@ Upaya Pencegahan
 
 #### Pasal 9
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 8 meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 8 meliputi:  
 a. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan  berbasis gender dan anak;  
 b. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
 
@@ -221,7 +223,7 @@ Perlindungan Hukum
 
 #### Pasal 11
 
-Perlindungan hukum sebagaimana dimaksud dalam Pasal 8 meliputi:
+Perlindungan hukum sebagaimana dimaksud dalam Pasal 8 meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
 b. melakukan pendampingan dalam proses hukum pada tingkat peradilan  tinggi; danc. memberikan perlindungan hukum secara khusus bagi anak korban  kekerasan dapat dilakukan dengan penunjukan perwalian sesuai dengan  peraturan yang berlaku.  
 
@@ -231,7 +233,7 @@ Koordinasi dan Kerjasama
 
 #### Pasal 12
 
-Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 8, meliputi:
+Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 8, meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  pelayanan terpadu kabupaten/kota;  
 b. melakukan koordinasi dan kerjasama dengan lembaga-lembaga pengada  layanan bagi korban kekerasan berbasis gender dan anak;  
 c. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
@@ -242,7 +244,7 @@ Upaya Peningkatan Partisipasi Masyarakat
 
 #### Pasal 13
 
-Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8  dilakukan dengan cara:
+Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8  dilakukan dengan cara:  
 a. gender dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya kekerasan berbasis gender dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
@@ -269,14 +271,14 @@ Penyelenggaraan pelayanan terpadu pelaksanaannya dikoordinasikan oleh  Satuan Ke
 
 #### Pasal 17
 
-Tugas KPK2BGA sebagaimana dimaksud dalam Pasal 16 adalah:
+Tugas KPK2BGA sebagaimana dimaksud dalam Pasal 16 adalah:  
 a. melakukan mediasi perselisihan antar lembaga penyedia layanan terpadu  kekerasan berbasis gender dan anak;  
 b. melakukan advokasi kebijakan dan program perlindungan korban kekerasan  berbasis gender dan anak;  
 c. melakukan pengawasan terhadap proses penanganan kasus yang sedang  berjalan; dand. melakukan pemantauan dan pengawasan terhadap penyelenggaran pelayanan  terpadu korban kekerasan berbasis gender dan anak.  
 
 #### Pasal 18
 
-Untuk menyelenggarakan tugas sebagaimana dimaksud dalam Pasal 17 KPK2BGA mempunyai fungsi:
+Untuk menyelenggarakan tugas sebagaimana dimaksud dalam Pasal 17 KPK2BGA mempunyai fungsi:  
 a. menyiapkan bahan perumusan kebijakan dan program perlindungan  terhadap korban kekerasan berbasis gender dan anak;  
 b. pengkoordinasian perselisihan antar lembaga penyedia layanan terpadu  terhadap korban kekerasan berbasis gender dan anak;  
 c. pengembangan sistem perlindungan korban kekerasan berbasis gender dan  anak; dand. pemantauan, pengawasan dan pelaporan perlindungan terhadap korban  kekerasan berbasis gender dan anak.  

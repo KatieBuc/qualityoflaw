@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a.  
 b. c. d. bahwa Kabupaten Seluma sebagai bagian integral dari  masyarakat dalam Negara Kesatuan Republik Indonesia  yang menghormati, menghargai dan menjunjung tinggi  nilai-nilai harkat dan martabat yang merupakan prinsip  dan tujuan Hak Asasi Manusia dari segala bentuk  tindakan diskriminasi dan kekerasan terhadap  perempuan dan anak;  
 
@@ -24,6 +25,7 @@ bahwa tindakan kekerasan terhadap perempuan  dan anak yang dapat menimbulkan kor
 bahwa demi melindungi kepentingan perempuan dan  anak korban kekerasan, maka dipandang perlu ada  kepastian hukum yang menjamin perlindungan  terhadap perempuan dan anak, korban tindak  kekerasan;  
 
 bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b dan huruf c, perlu Mengingat:  
+ 
  
  
  
@@ -97,7 +99,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak korban  kekerasan dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan terhadap perempuan dan anak korban  kekerasan dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. non-diskriminasi;  
@@ -109,7 +111,7 @@ Pengaturan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan ber
 
 #### Pasal 4
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak  kekerasan bertujuan untuk:
+Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak  kekerasan bertujuan untuk:  
 a. mencegah segala bentuk tindakan kekerasan termasuk perdagangan  orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi, memberi rasa aman bagi korban tindak kekerasan;  
@@ -121,7 +123,7 @@ d. memberikan pelayanan kepada korban kekerasan; dane. menyelenggarakan pemuliha
 
 #### Pasal 5
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak korban kekerasan merupakan tanggung jawab  bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak korban kekerasan merupakan tanggung jawab  bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat;  
 c. Keluarga; dand. Orangtua.  
@@ -220,7 +222,7 @@ Ketentuan lebih lanjut mengenai pelayanan pengaduan dan pelayanan  sosial sebaga
 
 #### Pasal 16
 
-Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai  berikut:
+Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai  berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -233,7 +235,7 @@ i. hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradila
 
 #### Pasal 17
 
-Anak yang menjadi korban tindak kekerasan, selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 16, juga mendapatkan hak-hak  khusus, sebagai berikut:
+Anak yang menjadi korban tindak kekerasan, selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 16, juga mendapatkan hak-hak  khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -290,7 +292,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  perempuan da
 
 #### Pasal 22
 
-Pengalokasian anggaran untuk penyelenggaraan perlindungan perempuan dan  anak korban kekerasan bersumber dari:
+Pengalokasian anggaran untuk penyelenggaraan perlindungan perempuan dan  anak korban kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Sumber pendapatan lain yang sah sesuai dengan Peraturan Perundang undangan; danc. Sumber pendapatan lain yang sifatnya tidak mengikat.  
 

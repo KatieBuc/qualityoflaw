@@ -114,7 +114,7 @@ f. Dinas Kependudukan dan Pencatatan Sipil;
 g. Unit PPA(Polresdan Poisek) h. TPPKK; 1. KementerianAgama;  
 J. KUA;dan k. Pengadilan Agama.  
 
-Pasal9 (1) Alurpenanganan di P2TP2Ame1iputi:
+Pasal9 (1) Alurpenanganan di P2TP2Ame1iputi:  
 a. penerimaan kasus;  
 b. registrasi;  
 c. assesment kasus;  

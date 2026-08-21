@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekeraslan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya setragai mariusia;  
 b. bahwa perilaku negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanal atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum seharusnya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap marnpu menjalankan kehidupannya dalam pergauian sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyeienggarakan perlindungan perempuan dan anak;  
@@ -153,7 +154,7 @@ Pelayanan Medikolegal adalah bentuk pelayanan kesehatan yang dilakukan oleh tena
 
 ## ASAS DAN TUJIIAN
 
-Pasa] 2 (1) Penyelenggaraan perlindungan perempuan dan anak, dilaksanakan berdasarkan asas:
+Pasa] 2 (1) Penyelenggaraan perlindungan perempuan dan anak, dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi dalam pemberdayaan perempuan dan afiak;  
@@ -185,7 +186,7 @@ i r. .l: i ',: .'il" IIiiilj$* - (1) (2\
 
 Setiap perempuan dan anak yang menjadi korban kekerasan fisik, psikis, eksploitasi atau perdagangan orarlg berhak mendapatkan perlindungan dan pelayanan.  
 
-Perlindungan, pendampingan, dan pelayanan pada korban sebagaimana dimaksud pada ayat (1) meliputi:
+Perlindungan, pendampingan, dan pelayanan pada korban sebagaimana dimaksud pada ayat (1) meliputi:  
 a. untuk d,ihormati harkat dan martabatnya sebagai manusia;  
 b. pengaduan atau permohonan perlindungan dari yang bersangkutan dan/atau pihak lain;  
 c. penanganan secara rahasia atau penempatan korban pada lokasi dan rumah yang aman dan dirahasiakan keberadaannya untuk menghindari intimidasi dan ancamar;  
@@ -230,7 +231,7 @@ d. hak mendapatkan kebebasan; dane. hak mendapatkan ganti kerugian dari pelaku' 
 
 #### Pasal 5
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. b.  
 
 C. d. e.  
@@ -339,7 +340,7 @@ f.
 
 #### Pasal 15
 
-Bentuk pelayanan terhadap hak perempuan dan anak dari tindak kekerasan meliputi:
+Bentuk pelayanan terhadap hak perempuan dan anak dari tindak kekerasan meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
@@ -354,7 +355,7 @@ Peoberdayaar Korban Tindak Kekerasan
 
 1. Pemerintah Daerah melalui Dinas/UPTD berkewajiban melakukan pemberdayaan di bidang ekonomi terhadap korban tindak kekerasan, eksploitasi penelantaran.  
 
-(2) Bentuk pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), meliputi:
+(2) Bentuk pemberdayaan korban tindak kekerasan sebagaimana dimaksud pada ayat (1), meliputi:  
 a. mengusahakan kebutuhan yang diperlukan bagi pelatihan kewirausahaan terhadap korban tindak kekerasan, guna meningkatkan pengetahua-n, sikap, dan keteramPilan berusaha;  
 b. memfasilitasi terlaksananya betbagat pelatihan kerja dan Pelatihan keteramPilan;  
 c. melakukan pendampingan dalam mengembangkan usaha ekonomi produktif;  
@@ -450,7 +451,7 @@ Pasal22 Masyarakat dapat melakukal pengawasall atas penyelenggaraan perlindungan
 
 ## PETNTIDII{AN
 
-Pasa] 23 (1) Seiain oleh pejabat penyidik umum, penyidikan atas tindak pidana kekerasan terhadap perempuan dan anak dalam Peraturan Daerah ini, dapat juga dilakukanoiehPenyidikPegawaiNegeriSipilyang pengangkatannYa sesuai perundang-undangal' dengan Peraturan (21 penyidik Pegawai Negeri sipil sebagaimana dimaksud pada ayat (1), berwenallg:
+Pasa] 23 (1) Seiain oleh pejabat penyidik umum, penyidikan atas tindak pidana kekerasan terhadap perempuan dan anak dalam Peraturan Daerah ini, dapat juga dilakukanoiehPenyidikPegawaiNegeriSipilyang pengangkatannYa sesuai perundang-undangal' dengan Peraturan (21 penyidik Pegawai Negeri sipil sebagaimana dimaksud pada ayat (1), berwenallg:  
 a. menerima iaporan atau pengaduan dari seseorang tentang adarrya tindak pidana kekerasan terhadaP Perempuan dan anak;  
 b. melakukan tindakan pertama pada saat itu di tempat kejadian dan melakukan pemeriksaan;  
 c. menginterogasi seorang tersangka dan memeriksa tanda Pengenal diri tersangka;  
@@ -480,7 +481,7 @@ Pasal24 (1) Setiap orang yang dengan sengaja tidak memberikan perlindungan terha
 
 Penanganan kasus hukum pada proses penyidikan (1) oleh aparat penegak hukum harus ditangani oleh penyidik khusus yang telah ditetapkan sesuai kompetensinya oleh institusi penegakan hukum untuk bidang perlindungan perempuax dan anak.  
 
-Penyidik khusus sebagaimana dimaksud pada ayat (2) (1) adalah:
+Penyidik khusus sebagaimana dimaksud pada ayat (2) (1) adalah:  
 a. pada kasus penyidikan untuk perempuan atau anak perempuan korban kekerasan harus ditangani penyidik wanita;  
 b. proses pelaksanaan sebagair:rrana dimaksud pada huruf a wajib dalam ruang tertutup yang hanya dihadiri oleh orang tua korban atau walinya beserta tim advokasi dan psikologi dari P3A yang memiliki jenis kelamin sama;  
 
@@ -492,7 +493,7 @@ C. korban kekerasan dapat dilakukan oleh penyidik laki-laki atau wanita, diutama
 
 Dalam hal proses persidangan terkait kasus kekerasan terhadap anak, keberadaan anak tidak mesti harus dihadirkan pada persidangan, kecuali keadaan yang sangat memaksa dengan tetap memisahkan pertemuan antara anak dengan pelaku dalam proses sidang yang berbeda waktunya.  
 
-Pasal27 Dalam hal pelaku tindak pidana adalah seorang arrak, berlaku hal-hal sebagai berikut:
+Pasal27 Dalam hal pelaku tindak pidana adalah seorang arrak, berlaku hal-hal sebagai berikut:  
 a. proses hukum dilakukan secara manusia dengan memand,ang anak masih memiliki l,arapan kemasa depannya;  
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  

@@ -16,6 +16,7 @@ Menimbang Mengingat:
  
  
  
+ 
 a. bahwa dengan ditetapkannya Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014  tentang Perubahan atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak dan Undang-Undang  Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga maka dipandang perlu mencegah dan  menanggulangi kekerasan terhadap Perempuan dan Anak  melalui perlindungan hukum terhadap Perempuan dan Anak  korban kekerasan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempuan dan Anak korban kekerasan;  
 
@@ -91,7 +92,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan  asas:
+Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan  asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 
 5 -
@@ -104,13 +105,13 @@ g. penghargaan terhadap pendapat korban; danh. kepastian hukum.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak korban kekerasan bertujuan:
+Perlindungan Perempuan dan Anak korban kekerasan bertujuan:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. melindungi perempuan dan anak serta memberikan pelayanan kepada  perempuan dan Anak korban kekerasan; danc. pemberdayaan perempuan dan Anak korban kekerasan.  
 
 #### Pasal 4
 
-Ruang lingkup Pengaturan Perlindungan Perempuan dan Anak Korban Kekerasan  meliputi:
+Ruang lingkup Pengaturan Perlindungan Perempuan dan Anak Korban Kekerasan  meliputi:  
 a. hak korban;  
 b. kewenangan, kewajiban dan tanggung jawab;  
 c. kelembagaan;  
@@ -126,7 +127,7 @@ h. peran serta masyarakat; dani. pendanaan.
 
 #### Pasal 5
 
-Setiap Perempuan dan Anak korban kekerasan berhak:
+Setiap Perempuan dan Anak korban kekerasan berhak:  
 a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah  dan pihak lain baik sementara maupun berdasarkan penetapan perintah  Perlindungan dari Pengadilan;  
 c. mendapatkan pemulihan pelayanan kesehatan fisik, psikologis maupun  seksual sesuai penderitaan yang dialami oleh korban kekerasan;  
@@ -136,7 +137,7 @@ f. mendapatkan pelayanan bimbingan rohani.
 
 #### Pasal 6
 
-Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus sebagai berikut:
+Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus sebagai berikut:  
 a. penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; danc. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
 

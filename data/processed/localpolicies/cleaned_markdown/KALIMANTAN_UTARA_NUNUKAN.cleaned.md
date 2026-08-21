@@ -18,7 +18,9 @@ Menimbang:
  
  
  
-Mengingat:
+ 
+Mengingat:  
+ 
 a. bahwa hak setiap warga Negara untuk bebas dari  penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dan bebas dari  segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran  hak asasi manusia sehingga perlu dilindungi harga  diri dan martabatnya serta dijamin hak hidupnya  sesuai dengan fitrah dan kodratnya tanpa  diskriminasi;  
 c. bahwa peraturan perundang-undangan yang  mengatur mengenai perlindungan perempuan dan  anak korban kekerasan belum mengatur upaya upaya perlindungan di Daerah sehingga diperlukan  dukungan kelembagaan dan peraturan yang dapat  menjamin pelaksanaannya;  
@@ -101,7 +103,7 @@ f. pemberdayaan; dang. kepastian hukum.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan untuk:
+Peraturan Daerah ini bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak perempuan dan anak;  
 b. memelihara keutuhan rumah tangga agar terwujud keluarga yang  harmonis;  
 c. mencegah kekerasan terhadap perempuan dan anak;  
@@ -239,14 +241,14 @@ Hak dan Kewajiban Anak
 
 #### Pasal 13
 
-Setiap anak berhak mendapatkan:
+Setiap anak berhak mendapatkan:  
 a. pencatatan kelahiran;  
 b. kesehatan;  
 c. pendidikan; dand. kesejahteraan sosial.  
 
 #### Pasal 14
 
-Setiap anak mempunyai kewajiban untuk:
+Setiap anak mempunyai kewajiban untuk:  
 a. menghormati orang tua, wali dan guru;  
 b. mencintai keluarga, masyarakat dan menyayangi teman;  
 c. mencintai tanah air, bangsa dan negara;  
@@ -386,7 +388,7 @@ Bentuk Kekerasan
 
 #### Pasal 27
 
-Bentuk-bentuk kekerasan meliputi:
+Bentuk-bentuk kekerasan meliputi:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -403,27 +405,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 27 huruf b  disebabkan karena 
 
 #### Pasal 30
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 27 huruf c  disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 27 huruf c  disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 
 #### Pasal 31
 
-Penelantaran sebagaimana dimaksud dalam Pasal 27 huruf d disebabkan  karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 27 huruf d disebabkan  karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang  dilakukan oleh orang tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat,  atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang  tua, wali, atau pihak lain yang bertanggung jawab atas  pengasuhannya;  
 c. perbuatan menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hukum yang berlaku baginya atau karena  persetujuan atau perjanjian ia wajib memberikan kehidupan,  perawatan, atau pemeliharaan kepada orang tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau  di luar rumah sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 32
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 27 huruf e disebabkan  karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 27 huruf e disebabkan  karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud  untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban antara lain  pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik  serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan  tenaga atau kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan materiil atau immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain  dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 33
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 27 huruf f  disebabkan karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 27 huruf f  disebabkan karena:  
 a. ancaman kekerasan meliputi: setiap perbuatan secara melawan  hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh,  baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa  takut atau mengekang kebebasan hakiki seseorang; danb. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban  disuruh melakukan sesuatu sedemikian rupa sehingga orang itu  melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 ## Bagian Keempat
@@ -441,7 +443,7 @@ e. melakukan sosialisasi mengenai peraturan perundang-undangan  yang berkaitan d
 
 #### Pasal 35
 
-Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud  dalam Pasal 34 ayat (1) dilakukan oleh:
+Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud  dalam Pasal 34 ayat (1) dilakukan oleh:  
 a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat;  
 c. lembaga pendidikan; dand. Lembaga Swadaya Masyarakat.  
@@ -452,7 +454,7 @@ Penanganan terhadap Perempuan dan Anak Korban Kekerasan
 
 #### Pasal 36
 
-Penyelenggaraan Penanganan terhadap perempuan dan anak korban kekerasan dilaksanakan dengan:
+Penyelenggaraan Penanganan terhadap perempuan dan anak korban kekerasan dilaksanakan dengan:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -462,7 +464,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 37
 
-Bentuk penanganan terhadap perempuan dan anak korban kekerasan  meliputi:
+Bentuk penanganan terhadap perempuan dan anak korban kekerasan  meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan rehabilitasi medis;  
@@ -471,13 +473,13 @@ e. pelayanan hukum; danf. pelayanan reintegrasi sosial.
 
 #### Pasal 38
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 37 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 37 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban;  
 b. identifikasi Kasus; danc. persetujuan dilakukan tindakan.  
 
 #### Pasal 39
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 37 huruf b  meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 37 huruf b  meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;  
 b. mendampingi korban selama proses pemeriksaan di kepolisian,  kejaksaan dan pengadilan;  
 c. memantau kepentingan dan hak-hak korban dalam proses  pemeriksaan di kepolisan, kejaksaan dan pengadilan;  
@@ -486,7 +488,7 @@ e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelan
 
 #### Pasal 40
 
-Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 37 huruf c meliputi:
+Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 37 huruf c meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  danc. rujukan ke layanan kesehatan.  
 
@@ -531,7 +533,7 @@ f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi kor
 
 #### Pasal 45
 
-Setiap Perempuan dan Anak korban kekerasan mendapat hak-hak sebagai  berikut:
+Setiap Perempuan dan Anak korban kekerasan mendapat hak-hak sebagai  berikut:  
 a. hak atas penanganan pengaduan;  
 b. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 c. hak untuk mendapat perlindungan dari keluarga, masyarakat,  pemerintah daerah dan/atau pihak lain baik sementara maupun  berdasarkan penetapan perlindungan dari pengadilan;  
@@ -545,7 +547,7 @@ j. hak atas pendampingan oleh pekerja sosial dan bantuan hukum pada  setiap ting
 
 #### Pasal 46
 
-Perempuan dan anak korban kekerasan selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 45, juga mendapatkan hak-hak  khusus, sebagai berikut:
+Perempuan dan anak korban kekerasan selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 45, juga mendapatkan hak-hak  khusus, sebagai berikut:  
 a. hak atas kelangsungan hidup;  
 b. hak atas tumbuh dan berkembang;  
 c. hak untuk mendapatkan perlindungan yang sama; dan d. hak untuk berpartisipasi dalam kehidupan bermasyarakat.  
@@ -608,7 +610,7 @@ c memblokir secara lokal situs yang mengandung unsur  pornografi dan pornoaksi; 
 
 #### Pasal 52
 
-Pendanaan untuk penyelenggaraan Perlindungan terhadap Perempuan  dan anak, bersumber dari:
+Pendanaan untuk penyelenggaraan Perlindungan terhadap Perempuan  dan anak, bersumber dari:  
 a. Anggaran pendapatan dan belanja daerah; dan/ataub. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peratuaran perundang-undangan.  
 
 # BAB IX

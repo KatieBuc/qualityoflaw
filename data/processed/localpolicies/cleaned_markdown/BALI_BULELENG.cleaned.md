@@ -34,12 +34,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,7 @@ jdih.bulelengkab.go.id
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakanberdasarkan asas:
+Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakanberdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak korban tindak kekerasan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -131,7 +133,7 @@ c. pemberdayaan perempuan dan anak korban tindak kekerasan.
 
 #### Pasal 4
 
-Setiap Perempuan dan Anak Korban Kekerasan berhak:
+Setiap Perempuan dan Anak Korban Kekerasan berhak:  
 a. untuk dihormati harkat dan martabat sebagai manusia;  
 
 jdih.bulelengkab.go.id
@@ -151,7 +153,7 @@ Umum
 
 #### Pasal 5
 
-Pemerintah Daerah bertanggungjawab dalam upaya melindungi perempuan  dan anak dari perbuatan tindak kekerasan dalam bentuk:
+Pemerintah Daerah bertanggungjawab dalam upaya melindungi perempuan  dan anak dari perbuatan tindak kekerasan dalam bentuk:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi;  
@@ -162,7 +164,7 @@ g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.
 
 #### Pasal 6
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 5berkewajiban melakukan upaya-upaya  untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 5berkewajiban melakukan upaya-upaya  untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban tindak kekerasan;  
 c. memberikan pertolongan darurat;dan /ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
@@ -372,7 +374,7 @@ a. sosialisasi kepada pegawai di lingkungan perusahaan mengenai  bahaya tindak k
 
 #### Pasal 21
 
-SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan,  meliputi layanan:
+SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan,  meliputi layanan:  
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap Perempuan  dan Anak;  
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan;  
@@ -382,7 +384,7 @@ jdih.bulelengkab.go.id
 
 #### Pasal 22
 
-SPM sebagaimana dimaksud dalam Pasal 21 memiliki indikator kinerja  meliputi:
+SPM sebagaimana dimaksud dalam Pasal 21 memiliki indikator kinerja  meliputi:  
 a. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan  terpadu;  
 b. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
 c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi Sosial terlatih bagi Perempuan dan Anak Korban Kekerasan  di dalam unit pelayanan terpadu;  
@@ -423,7 +425,7 @@ jdih.bulelengkab.go.id
 
 #### Pasal 26
 
-Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak dari tindak  kekerasan, dapat bersumber dari:
+Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak dari tindak  kekerasan, dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;dan/ataub. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  Peraturan Perundang undangan.  
 
 jdih.bulelengkab.go.id
@@ -500,7 +502,7 @@ Huruf c Yang dimaksud dengan “kekerasan ekonomi” adalah suatu tindakan yang 
 
 Huruf d Yang dimaksud dengan “kekerasan sosial” adalah sebagai perbuatan seseorang atau sekelompok orang yang menyebabkan cedera atau hilangnya nyawa seseorang atau dapat menyebabkan kerusakan fisik atau barang orang lain Huruf e Yang dimaksud dengan “kekerasan psikis” yaitu perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan atau penderitaan psikis berat pada seseorang.  
 
-Huruf f Yang dimaksud dengan “Penelantaran Rumah Tangga” yaitu:
+Huruf f Yang dimaksud dengan “Penelantaran Rumah Tangga” yaitu:  
 a. tindakan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial;  
 b. tindakan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya;  
 

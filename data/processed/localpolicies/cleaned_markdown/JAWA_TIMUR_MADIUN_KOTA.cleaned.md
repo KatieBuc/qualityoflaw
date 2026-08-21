@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa bentuk kekerasan terhadap perempuan dan  anak merupakan salah satu bentuk pelanggaran atas hak asasi manusia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa tindakan kekerasan terhadap perempuan dan  anak akan berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan sehingga perlu diberikan rasa aman dan perlindungan;  
 c. bahwa pada saat ini belum ada Peraturan Daerah yang  menjamin perlindungan terhadap perempuan dan anak korban kekerasan di Kota Madiun;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -105,7 +107,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
@@ -157,7 +159,7 @@ c. keluarga; dan/ataud. orangtua.
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
 c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan perempuan dan anak korban  kekerasan; dand. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
 
-9 - (2) Untuk mengantisipasi terjadinya kekerasan, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi perempuan dan anak  korban kekerasan dengan cara:
+9 - (2) Untuk mengantisipasi terjadinya kekerasan, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi perempuan dan anak  korban kekerasan dengan cara:  
 a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
 b. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap perempuan dan  anak korban kekerasan;  
 c. melakukan penanganan berkelanjutan sampai  pada tahap rehabilitasi dan reintegrasi sosial.  
@@ -250,7 +252,7 @@ Pengelola PPT menyelenggarakan layanan sesuai dengan  prinsip layanan sebagaiman
 
 #### Pasal 16
 
-SPM Bidang Layanan Terpadu bagi perempuan dan anak  korban kekerasan, meliputi:
+SPM Bidang Layanan Terpadu bagi perempuan dan anak  korban kekerasan, meliputi:  
 a. penanganan pengaduan/laporan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
@@ -279,7 +281,7 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 18
 
-Langkah pelaksanaan pemberdayaan perempuan korban kekerasan meliputi:
+Langkah pelaksanaan pemberdayaan perempuan korban kekerasan meliputi:  
 a. pelatihan kerja;  
 
 14 -
@@ -287,7 +289,7 @@ b. usaha ekonomi produktif dan/atau kelompok usaha  bersama; danc. bantuan permo
 
 #### Pasal 19
 
-Langkah pelaksanaan pemberdayaan perempuan korban  kekerasan sebagaimana dimaksud dalam Pasal 18 dilaksanakan dengan cara:
+Langkah pelaksanaan pemberdayaan perempuan korban  kekerasan sebagaimana dimaksud dalam Pasal 18 dilaksanakan dengan cara:  
 a. mengusahakan kebutuhan yang diperlukan bagi  pelatihan kewirausahaan bagi perempuan korban  kekerasan, guna meningkatkan pengetahuan, sikap dan  keterampilan berusaha;  
 b. memfasilitasi terlaksananya berbagai pelatihan kerja  dan pelatihan keterampilan;  
 c. melakukan pendampingan dalam mengembangkan  usaha ekonomi produktif;  
@@ -304,7 +306,7 @@ Langkah Pelaksanaan Pemberdayaan anak korban  kekerasaan meliputi upaya untuk me
 
 #### Pasal 21
 
-Langkah pelaksanaan pemberdayaan anak korban  kekerasan sebagaimana dimaksud dalam Pasal 20 dilaksanakan dengan cara:
+Langkah pelaksanaan pemberdayaan anak korban  kekerasan sebagaimana dimaksud dalam Pasal 20 dilaksanakan dengan cara:  
 a. pelatihan keterampilan sesuai minat anak; dan b. pemenuhan pendidikan baik formal maupun nonformal.  
 
 15 -
@@ -493,7 +495,7 @@ ayat (1) Cukup jelas ayat (2) huruf a Yang dimaksud dengan “Kekerasan fisik“
 
 huruf b Yang dimaksud “Kekerasan Psikis” adalah perbuatan  yang mengakibatkan ketakutan, hilangnya rasa  percaya diri, hilangnya kemampuan bertindak, rasa  tidak berdaya, dan/atau penderitaan psikis berat pada  seseorang.  
 
-4 - huruf c Yang dimaksud “Kekerasan Seksual“ meliputi tapi  tidak terbatas pada:
+4 - huruf c Yang dimaksud “Kekerasan Seksual“ meliputi tapi  tidak terbatas pada:  
 a. pemaksaan hubungan seksual yang dilakukan  terhadap orang yang menetap dalam lingkup rumah tangga tersebut dan/atau pemaksaan hubungan seksual terhadap salah seorang dalam lingkup rumah tangganya dengan orang lain, untuk tujuan komersial dan/atau tujuan tertentu;  
 b. dengan kekerasan atau ancaman kekerasan  memaksa perempuan yang bukan istrinya bersetubuh dengan dia;  
 c. dengan kekerasan atau ancaman kekerasan  memaksa seseorang untuk melakukan atau membiarkan dilakukan perbuatan cabul;  

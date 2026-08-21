@@ -177,7 +177,7 @@ Umum
 
 #### Pasal 6
 
-Pelaksanaan Perlindungan Perempuan diberikan kepada:
+Pelaksanaan Perlindungan Perempuan diberikan kepada:  
 a. perempuan Pekeija/Buruh;  
 b. perempuan Lanjut Usia;  
 c. perempuan Penyandang Disabilitas;  
@@ -246,7 +246,7 @@ Perempuan Pekeija Rumah Tangga
 
 1. Pelaksanaan perlindungan bagi perempuan pekeija rumah tangga dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk Diskriminasi, perlakuan kejam, tidak manusiawi, merendahkan martabat manusia, dan eksploitasi dalam hubungan keija.  
 2. Perempuan................  
-9- (2) Perempuan pekeija rumah tangga sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:
+9- (2) Perempuan pekeija rumah tangga sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:  
 a. pengakuan hak, upah, dan kondisi keija yang layak;  
 b. jaminan kesehatan dan sosial ketenagakerjaan;  
 c. akses informasi dan layanan konsultasi hukum; dand. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
@@ -454,7 +454,7 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program, dan kegiatan.
 
 #### Pasal 27
 
-Mekanisme penyelenggaraan Perlindungan dan Pemberdayaan Perempuan dilakukan melalui tahapan:
+Mekanisme penyelenggaraan Perlindungan dan Pemberdayaan Perempuan dilakukan melalui tahapan:  
 a. perumusan kebijakan perencanaan program dan kegiatan;  
 b. penganggaran program dan kegiatan;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi, dan pelaporan.  
@@ -540,7 +540,7 @@ Keijasama
 
 1. Masyarakat dapat berperan serta dalam penyelenggaraan perlindungan dan Pemberdayaan Perempuan.  
 2. Peran.............  
-19- (2) Peran serta Masyarakat sebagaimana dimaksud pada ayat (1) dapat diwujudkan dengan:
+19- (2) Peran serta Masyarakat sebagaimana dimaksud pada ayat (1) dapat diwujudkan dengan:  
 a. tindakan memberikan informasi dan/atau melaporkan Kekerasan Terhadap Perempuan kepada penegak hukum atau pihak yang berwajib, atau turut serta menangani tindak Kekerasan Terhadap Perempuan; dan/ataub. penyediaan media komunikasi, informasi, dan edukasi tentang pemberdayaan dan pencegahan Kekerasan Terhadap Perempuan di dalam Keluarga, Masyarakat, lembaga pendidikan, dan ruang publik.  
 
 # BAB XII

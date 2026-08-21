@@ -12,11 +12,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, dan huruf b, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan anak korban kekerasan di Kabupaten Muna.  
 
 Mengingat:  
+ 
  
  
  
@@ -108,7 +110,7 @@ e. pembatasan ruang gerak.
 
 #### Pasal 4
 
-Setiap perempuan dan anak korban kekerasan berhak untuk mendapatkan:
+Setiap perempuan dan anak korban kekerasan berhak untuk mendapatkan:  
 a. untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. perlindungan dari pihak keluarga, masyarakat, pemerintah daerah dan/atau pihak lain baik sementara maupun berdasarkan penetapan pemerintah, perlindungan dari pengadilan;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
@@ -121,7 +123,7 @@ g. menentukan sendiri keputusannya;
 
 #### Pasal 5
 
-Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggungjawab bersama:
+Kewajiban dan tanggungjawab dalam memberikan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggungjawab bersama:  
 a. pemerintah daerah dan pemerintah desa;  
 b. masyarakat;  
 c. keluarga;  
@@ -447,7 +449,7 @@ e. pelaporan.
 
 #### Pasal 29
 
-Biaya penyelenggaraan perlindungan perempuan dan anak korban kekerasan bersumber dari:
+Biaya penyelenggaraan perlindungan perempuan dan anak korban kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Anggaran Pendapatan dan Belanja Desa; danc. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 

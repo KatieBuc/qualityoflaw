@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa guna menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa agar upaya-upaya perlindungan terhadap  perempuan dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari Pemerintah Daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -272,7 +274,7 @@ Kewajiban dan Tanggung Jawab Anak
 
 #### Pasal 13
 
-Setiap anak berkewajiban untuk:
+Setiap anak berkewajiban untuk:  
 a. menghormati orang tua, wali dan guru;  
 b. mencintai keluarga, masyrakat dan menyayangi teman;  
 c. mencintai tanah air, bangsa dan negara;  
@@ -334,7 +336,7 @@ Ekonomi Mikro
 
 #### Pasal 18
 
-Perlindungan Ekonomi Mikro Perempuan meliputi:
+Perlindungan Ekonomi Mikro Perempuan meliputi:  
 a. mendapatkan kesempatan melakukan kegiatan usaha di lingkungan  rumah tangga;  
 b. mendapatkan fasilitas pemberdayaan ekonomi khususnya bagi  perempuan kepala keluarga.  
 
@@ -414,7 +416,7 @@ Anak yang berhadapan dengan hukum, anak yang mengalami kehamilan di  luar pernik
 
 #### Pasal 28
 
-Bagi anak berusia 7 (tujuh) sampai dengan kurang 18 (delapan belas) tahun  yang belum menyelesaikan pendidikan formalnya dapat menempuh  pendidikan melalui satuan pendidikan informal:
+Bagi anak berusia 7 (tujuh) sampai dengan kurang 18 (delapan belas) tahun  yang belum menyelesaikan pendidikan formalnya dapat menempuh  pendidikan melalui satuan pendidikan informal:  
 a. Kelompok Belajar Paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah;  
 b. Kelompok Belajar Paket B setara Sekolah Menengah Pertam dan  Madrasah Tsanawiyah;  
 c. Kelompok Belajar Paket C setara Sekolah Menengah Atas dan Madrasah  Aliyah;  
@@ -577,7 +579,7 @@ e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mew
 
 #### Pasal 40
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan, perdagangan dan eksploitasi  merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan, perdagangan dan eksploitasi  merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
@@ -757,7 +759,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  perempuan da
 
 #### Pasal 58
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 59

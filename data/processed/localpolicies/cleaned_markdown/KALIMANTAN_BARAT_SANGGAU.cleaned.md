@@ -10,6 +10,7 @@ PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA B
  
  
  
+ 
 Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
 
 # YOHANES
@@ -28,7 +29,8 @@ NIP. 19700223 Mengingat:
  
  
  
-Disetujui oleh:
+ 
+Disetujui oleh:  
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dari segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan merupakan pelanggaran hak asasi  manusia, sehingga perlu dilindungi harga diri dan  martabatnya serta dijamin hak hidupnya sesuai  dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan di  Kabupaten Sanggau menunjukan kecenderungan  meningkat sehingga harus dilakukan upaya  pencegahan dan optimalisasi penanggulangan  tindak kekerasan terhadap perempuan, sehingga  diperlukan Peraturan Daerah yang menjamin  perlindungan hukum terhadap perempuan;  
@@ -135,7 +137,7 @@ d. pelayanan Penegakan dan Bantuan Hukum; dane. pelayanan Pemulangan dan Reinteg
 
 #### Pasal 7
 
-Penyelenggaraan Pelayanan/Penanganan terhadap Korban dilaksanakan  dengan prinsip:
+Penyelenggaraan Pelayanan/Penanganan terhadap Korban dilaksanakan  dengan prinsip:  
 a. cepat dan tepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -162,12 +164,12 @@ b. praktek kerja lapangan; danc. pemagangan.
 
 #### Pasal 10
 
-Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 8 huruf c meliputi:
+Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 8 huruf c meliputi:  
 a. pelatihan keterampilan wirausaha; danb. Pendampingan pelaksanaan usaha.  
 
 #### Pasal 11
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 8 huruf d  meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 8 huruf d  meliputi:  
 a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.  
 
 # BAB III
@@ -176,7 +178,7 @@ a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.
 
 #### Pasal 12
 
-Kekerasan Terhadap Perempuan terdiri atas:
+Kekerasan Terhadap Perempuan terdiri atas:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -222,7 +224,7 @@ b. suatu keadaan dimana seseorang/Korban disuruh melakukan sesuatu  sedemikian r
 
 #### Pasal 19
 
-Setiap perempuan Korban Kekerasan berhak:
+Setiap perempuan Korban Kekerasan berhak:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. mendapatkan pemulihan kesehatan fisik dan psikologis dari  penderitaan yang dialami;  
 c. menentukan sendiri keputusannya;  

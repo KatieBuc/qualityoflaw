@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia ;  
 b. bahwa penyelenggaraan pencegahan dan perlindungan  perempuan dan anak sebagai korban kekerasan di Kabupaten Sorong selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -88,7 +90,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan dan Perlindungan Perempuan dan Anak dari korban tindakkekerasan dilaksanakan berdasarkan asas:
+Penyelenggaraan dan Perlindungan Perempuan dan Anak dari korban tindakkekerasan dilaksanakan berdasarkan asas:  
 a. kemanusiaan ;  
 b. penghormatan terhadap hak-hak korban;  
 c. keadilan dan kesetaraan gender;  
@@ -112,7 +114,7 @@ e. memfasilitasi dan melakukan mediasi terhadap kasus kekerasan dalam rumah  tan
 
 #### Pasal 4
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai  berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai  berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pelayanan kesehatan dan psikologis dari penderitaan yang dialami  korban;  
 c. hak atas pendampingan hukum;  

@@ -22,6 +22,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan kelompok rentan  yang cenderung mengalami tindak penyiksaan dan kekerasan sehingga harus mendapatkan perlindungan;  
 b. bahwa untuk memberikan arah, landasan dan kepastian  hukum kepada semua pihak dalam penyelenggaraan perlindungan perempuan dan anak di Kabupaten Buton,  perlu dilakukan pengaturan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
@@ -114,7 +115,7 @@ Anak,  Dinas  Anak - 4 ­
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak korban kekerasan  diselenggarakan berdasarkan asas:
+Perlindungan perempuan dan anak korban kekerasan  diselenggarakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
@@ -122,7 +123,7 @@ d. kepentingan terbaik bagi korban; dane. pemberdayaan.
 
 #### Pasal 3
 
-Perlindungan perempuan dan anak korban kekerasan bertujuan  untuk:
+Perlindungan perempuan dan anak korban kekerasan bertujuan  untuk:  
 a. mencegah segala bentuk kekerasan terhadap perempuan  dan anak;  
 b. memberikan pelayanan kepada korban; danc. melakukan pemberdayaan kepada perempuan korban  kekerasan.  
 
@@ -134,7 +135,7 @@ Pasal4 Ruang lingkup pengaturan penyelenggaraan perlindungan  terhadap perempuan
 
 #### Pasal 5
 
-Bentuk-bentuk kekerasan terhadap perempuan dan anak antara  lain:
+Bentuk-bentuk kekerasan terhadap perempuan dan anak antara  lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -153,14 +154,14 @@ Kekerasan psikis sebaga.imana dimaksud dalam Pasal 5 huruf b  disebabkan karena 
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf  c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf  c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan/atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d  disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggungjawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian ia wajib  memberikan kehidupan, perawatan, atau pemeliharaan  kepada orang tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada dibawah kendali orang tersebut.  
@@ -169,13 +170,13 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal me
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e  disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e  disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri atau  orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum memmdahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh  pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan  pelacuran atau pencabulan.  
 
 #### Pasal 1l
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruff  disebabkan karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruff  disebabkan karena:  
 a. ancaman kekerasan, meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang  berlawanan dengan kehendak sendiri.  
 
 # BAB IV
@@ -184,7 +185,7 @@ a. ancaman kekerasan, meliputi setiap perbuatan secara  melawan hukum berupa uca
 
 #### Pasal 12
 
-Setiap korban berhak:
+Setiap korban berhak:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. mendapatkan pemulihan kesehatan dan psikologis;  
 c. menentukan sendiri keputusannya;  
@@ -202,7 +203,7 @@ pendampingan pada setiap tingkat proses  sesuai dengan ketentuan perundang
 
 #### Pasal 13
 
-( 1) Anak sebagai korban kekerasan selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 12, juga mendapatkan  hak khusus sebagai berikut:
+( 1) Anak sebagai korban kekerasan selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 12, juga mendapatkan  hak khusus sebagai berikut:  
 a. hak penghormatan atas kelangsungan hidup, tumbuh  dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -257,7 +258,7 @@ d. melakukan sosialisasi tentang peraturan perundang  undangan yang berkaitan de
 
 #### Pasal 18
 
-( 1) Pencegahan terjadinya kekerasan terhadap perempuan clan  anak sebagaimana dimaksud dalam Pasal I 7 dilaksanakan  oleh Perangkat Dae rah dan UPTD yang tu gas pokok dan  fungsinya di bidang:
+( 1) Pencegahan terjadinya kekerasan terhadap perempuan clan  anak sebagaimana dimaksud dalam Pasal I 7 dilaksanakan  oleh Perangkat Dae rah dan UPTD yang tu gas pokok dan  fungsinya di bidang:  
 a. pendidikan;  
 
 11­
@@ -300,7 +301,7 @@ e. koordinasi dan rujukan ke layanan lanjutan dan pihak  terkait; danf. pengadmi
 
 #### Pasal 22
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal  20 ayat (1) hurufb, meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal  20 ayat (1) hurufb, meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan  pemulihan kesehatan;  
 b. mendampingi korban selama proses medico-legal;  
 c. mendampingi korban selama proses mediasi, pemeriksaan di  Kepolisian, Kejaksaan dan Pengadilan;  
@@ -321,10 +322,10 @@ g. konsultasi dokter ahli atau melakukan rujukan; dan  h. pelaporan kasus.
 
 #### Pasal 24
 
-(I) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 20 huruf d merupakan pelayanan yang diberikan  pendamping dalam rangka:
+(I) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 20 huruf d merupakan pelayanan yang diberikan  pendamping dalam rangka:  
 a. memulihkan kondisi traumatis korban, termasuk  penyediaan rumah aman untuk melindungi korban dari  berbagai ancaman dan intimidasi; danb. memberikan dukungan secara sosial sehingga korban  mempunyai rasa percaya diri, kekuatan dan kemandiriam  dalam menyelesaikan masalah.  
 
-13­ (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan dengan cara:
+13­ (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan dengan cara:  
 a. bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
 
 #### Pasal 25
@@ -368,7 +369,7 @@ b. usaha ekonomi produktif dan kelompok usaha bersama; dan  c. bantuan permodala
 
 #### Pasal 29
 
-Pelatihan kerja sebagaimana dimakasud dalam Pasal 28 huruf a,  meliputi:
+Pelatihan kerja sebagaimana dimakasud dalam Pasal 28 huruf a,  meliputi:  
 a. pelatihan ketrampilan;  
 b. praktek kerja lapangan; danc. pemagangan.  
 
@@ -379,7 +380,7 @@ b. fasilitasi pembentukan kelompok usaha bersama; dan  c. pendarnpingan pelaksan
 
 #### Pasal 31
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 28  huruf c, meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 28  huruf c, meliputi:  
 a. bantuan sarana dan prasarana; danb. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
@@ -394,7 +395,7 @@ Pemenuhan Hak Anak
 
 1. Pemenuhan hak anak dilaksanakan secara terpadu dan  sistematis dari seluruh sektor secara berkelanjutan melalui  kebijakan pengembangan KLA.  
 
-15­ {2) Kebijakan pengembangan KLA sebagaimana dimaksud pada  ayat (1) memuat ten tang:
+15­ {2) Kebijakan pengembangan KLA sebagaimana dimaksud pada  ayat (1) memuat ten tang:  
 a. konsep KLA;  
 b. hak anak; danc. pendekatan pengembangan KLA.  
 3. Kebijakan pengembangan KLA sebagaimana dimaksud pada  ayat (1) diarahkan pada pemenuhan hak anak, meliputi:  a. hak sipil dan kebebasan;  
@@ -480,7 +481,7 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 
 #### Pasal 39
 
-Biaya pelaksanaan penyelenggaraan perlindungan anak dan  perempuan korban kekerasan, serta pelaksanaan kebijakan  pengembangan KLA dibebankan pada:
+Biaya pelaksanaan penyelenggaraan perlindungan anak dan  perempuan korban kekerasan, serta pelaksanaan kebijakan  pengembangan KLA dibebankan pada:  
 a. anggaran pendapatan dan belanja daerah; dan/atau  b. sumber lain yang sah dan tidak mengikat sesuai ketentuan  peraturan perundang undangan.  
 
 ##### BABX

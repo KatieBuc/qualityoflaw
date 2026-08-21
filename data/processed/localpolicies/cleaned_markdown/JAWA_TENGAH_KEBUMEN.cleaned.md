@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki hak asasi  manusia yang harus dilindungi, dihormati, dipertahankan, dan  tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun  sehingga perlu mendapatkan jaminan pelindungan dari tindak  kekerasan, eksploitasi, dan diskriminasi serta perlu diberdayakan  agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam masyarakat masih terdapat banyak perempuan  yang mengalami kekerasan, diskriminasi, dan ketidakadilan serta  sering menghadapi hambatan besar dalam mengakses layanan  pendidikan, kesehatan, dan pelindungan sosial yang memadai  yang berdampak negatif terhadap kesejahteraan dan  perkembangan diri mereka;  
 c. bahwa dalam rangka pelindungan dan sarana aktualisasi diri  perempuan dalam masyarakat di Kabupaten Kebumen,  diperlukan pengaturan mengenai pelindungan dan  pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pelindungan dan Pemberdayaan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -84,7 +86,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Pelindungan dan Pemberdayaan Perempuan berasaskan:
+Penyelenggaraan Pelindungan dan Pemberdayaan Perempuan berasaskan:  
 a. penghormatan terhadap hak asasi manusia;  
 b. non diskriminasi;  
 c. keadilan gender dan kesetaraan gender, dand. kemanfaatan.  
@@ -399,7 +401,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Ekonomi
 
 #### Pasal 18
 
-Penyelenggaraan pemberdayaan perempuan di bidang ekonomi  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 3  dilaksanakan oleh Perangkat Daerah yang menyelenggarakan  urusan pemerintah di bidang usaha mikro kecil menengah dan  instansi terkait dalam bentuk:
+Penyelenggaraan pemberdayaan perempuan di bidang ekonomi  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 3  dilaksanakan oleh Perangkat Daerah yang menyelenggarakan  urusan pemerintah di bidang usaha mikro kecil menengah dan  instansi terkait dalam bentuk:  
 a. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; danb. fasilitasi pengembangan jaringan pemasaran.  
 
 ## Bagian Kelima
@@ -408,7 +410,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Hukum
 
 #### Pasal 19
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang hukum  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 4  dilaksanakan oleh unit kerja yang membidangi hukum dalam  bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang hukum  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 4  dilaksanakan oleh unit kerja yang membidangi hukum dalam  bentuk:  
 a. peningkatan kesadaran dan pengetahuan di bidang hukum  melalui layanan komunikasi, informasi, dan edukasi; dan  b. fasilitasi akses dan layanan konsultasi hukum.  
 
 ## Bagian Keenam
@@ -417,7 +419,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Ketenagakerjaan
 
 #### Pasal 20
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  ketenagakerjaan sebagaimana dimaksud dalam Pasal 15  ayat (2) huruf c angka 5 dilaksanakan oleh Perangkat Daerah  yang menyelenggarakan urusan pemerintahan di bidang  tenaga kerja dan instansi terkait dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  ketenagakerjaan sebagaimana dimaksud dalam Pasal 15  ayat (2) huruf c angka 5 dilaksanakan oleh Perangkat Daerah  yang menyelenggarakan urusan pemerintahan di bidang  tenaga kerja dan instansi terkait dalam bentuk:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. perempuan memiliki kesempatan yang sama tanpa  diskriminasi untuk memperoleh pekerjaan; danc. pemberi kerja yang menggunakan tenaga kerja perempuan,  memberikan akses dan pelatihan keterampilan.  
 
@@ -439,7 +441,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Sosial
 
 #### Pasal 22
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang sosial  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 8  dilaksanakan oleh Perangkat Daerah yang menyelenggarakan  urusan pemerintahan di bidang sosial dan instansi terkait dalam  bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang sosial  sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c angka 8  dilaksanakan oleh Perangkat Daerah yang menyelenggarakan  urusan pemerintahan di bidang sosial dan instansi terkait dalam  bentuk:  
 a. upaya penyadaran dan peningkatan kapasitas diri di bidang  sosial;  
 b. pemberian dan pengembangan akses bagi perempuan untuk  berpartisipasi pada bidang sosial;  
 c. peningkatan kompetensi perempuan melalui pelatihan dan  pendidikan sosial bagi perempuan;  
@@ -451,7 +453,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Kebudayaan
 
 #### Pasal 23
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  kebudayaan sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf  c angka 9 dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang kebudayaan  dan instansi terkait dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  kebudayaan sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf  c angka 9 dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang kebudayaan  dan instansi terkait dalam bentuk:  
 a. upaya penyadaran dan peningkatan kapasitas diri di bidang  kebudayaan;  
 b. pemberian dan pengembangan akses bagi perempuan untuk  berpartisipasi pada bidang kebudayaan;  
 c. peningkatan kompetensi perempuan melalui pelatihan dan  pendidikan literasi kebudayaan bagi perempuan;  
@@ -463,7 +465,7 @@ Peningkatan Pemberdayaan Perempuan di Bidang Lingkungan Hidup
 
 #### Pasal 24
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang lingkungan  hidup sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c  angka 10 dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang lingkungan  hidup dan instansi terkait dalam bentuk:
+Penyelenggaraan Pemberdayaan Perempuan di bidang lingkungan  hidup sebagaimana dimaksud dalam Pasal 15 ayat (2) huruf c  angka 10 dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang lingkungan  hidup dan instansi terkait dalam bentuk:  
 a. penyadaran dan pembentukan perilaku perempuan sadar  lingkungan hidup;  
 b. peningkatan kapasitas dan kompetensi perempuan melalui  pelatihan dan pendidikan lingkungan hidup;  
 c. pemberian dan pengembangan akses perempuan untuk  berpartisipasi di bidang lingkungan hidup;  
@@ -475,13 +477,13 @@ d. pelibatan perempuan dalam kegiatan lingkungan hidup; dan  e. menumbuhkembangk
 
 #### Pasal 25
 
-Kewajiban Pemerintah Daerah dalam penyelenggaraan pelindungan  dan pemberdayaan perempuan sebagai berikut:
+Kewajiban Pemerintah Daerah dalam penyelenggaraan pelindungan  dan pemberdayaan perempuan sebagai berikut:  
 a. menjamin terselenggaranya pemenuhan hak perempuan dan  pemberian jaminan rasa aman dari tindakan kekerasan,  eksploitasi dan diskriminasi terhadap perempuan di Daerah;  
 b. menetapkan kebijakan, program, kegiatan penyelenggaraan  pelindungan dan pemberdayaan perempuan serta jaminan  penanganan korban untuk menghapus segala bentuk tindak  kekerasan, eksploitasi, dan diskriminasi terhadap perempuan  di Daerah; danc. memberikan pembinaan dan pengawasan dalam upaya  penyelenggaraan pelindungan dan pemberdayaan perempuan  yang dilakukan oleh Perangkat Daerah yang menyelenggarakan  urusan pemerintahan di bidang pemberdayaan perempuan.  
 
 #### Pasal 26
 
-Pemerintah Daerah bertanggung jawab:
+Pemerintah Daerah bertanggung jawab:  
 a. melaksanakan kebijakan, program, kegiatan penyelenggaraan  pelindungan dan pemberdayaan perempuan guna  terselenggaranya pemenuhan hak perempuan;  
 b. memfasilitasi sarana dan prasarana penyelenggaraan  pelindungan dan pemberdayaan perempuan; danc. menerapkan standar pelayanan penyelenggaraan pelindungan  dan pemberdayaan perempuan sesuai dengan ketentuan  peraturan perundang-undangan.  
 
@@ -495,7 +497,7 @@ Umum
 
 #### Pasal 27
 
-Dalam rangka penyelenggaraan pelindungan dan pemberdayaan  perempuan, Pemerintah Daerah membentuk:
+Dalam rangka penyelenggaraan pelindungan dan pemberdayaan  perempuan, Pemerintah Daerah membentuk:  
 a. UPTD PPA;  
 b. Forum Perlindungan Perempuan dan Anak;  
 c. Kelompok Perlindungan Perempuan dan Anak  Desa/Kelurahan; dand. Lembaga pelindungan dan pemberdayaan perempuan lainnya  sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -612,7 +614,7 @@ Pelaporan
 
 #### Pasal 38
 
-Pendanaan penyelenggaraan pelindungan dan pemberdayaan  perempuan di Daerah bersumber dari:
+Pendanaan penyelenggaraan pelindungan dan pemberdayaan  perempuan di Daerah bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/atau b. sumber lain yang sah dan tidak mengikat sesuai dengan  ketentuan peraturan perundang–undangan.  
 
 # BAB XII

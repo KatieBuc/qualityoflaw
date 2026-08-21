@@ -16,10 +16,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat, harkat  dan martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan dan diskriminasi  sebagai bentuk penghormatan, perlindungan dan penegakan  Hak Asasi Manusia, khususnya hak-hak dasar perempuan  dan anak, sehingga perlu diatur mengenai penyelenggaraan  perlindungan terhadap korban tindak kekerasan berbasis  gender dan anak di Kabupaten Pekalongan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah  Kabupaten Pekalongan tentang Penyelenggaran Perlindungan  Terhadap Korban Tindak Kekerasan Berbasis Gender dan  Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -106,7 +108,7 @@ jdih.pekalongankab.go.id
 
 #### Pasal 2
 
-Perlindungan korban kekerasan berbasis gender dan anak  berasaskan Pancasila dan berlandaskan Undang-Undang Dasar  1945, serta prinsip-prinsip dasar yang meliputi:
+Perlindungan korban kekerasan berbasis gender dan anak  berasaskan Pancasila dan berlandaskan Undang-Undang Dasar  1945, serta prinsip-prinsip dasar yang meliputi:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi korban;  
 c. keadilan dan kesetaraan gender;  
@@ -168,27 +170,27 @@ Kekerasan Psikis sebagaimana dimaksud dalam Pasal 5 ayat (1)  huruf b disebabkan
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 ayat (1)  huruf c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 ayat (1)  huruf c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual baik fisik maupun  psikis;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf  d disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf  d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan  anak secara wajar,baik fisik,mental,spiritual maupun sosial  yang dilakukan oleh orang tua.wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan orang tua, wali, pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja yang  layak di dalam atau di luar rumah sehingga korban berada di bawah kendali orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana di maksud dalam Pasal 5 ayat (2) huruf e  disebabkan karena:
+Eksploitasi sebagaimana di maksud dalam Pasal 5 ayat (2) huruf e  disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ jdih.pekalongankab.go.id reproduksi, atau secara melawan hukum memindahkan atau  menstransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh pihak  lain untuk mendapatkan keuntungan baik materiil maupun  inmaterial; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan atau  pencabulan.  
 
 #### Pasal 11
 
-Perlakuan salah sebagaimana dimaksud dalam Pasal 5 ayat (2)  huruf f disebabkan karena:
+Perlakuan salah sebagaimana dimaksud dalam Pasal 5 ayat (2)  huruf f disebabkan karena:  
 a. segala perbuatan atau tindakan baik yang sengaja maupun  tidak sengaja yang dilakukan oleh orang lain yang membuat  individu sakit atau terganggu perasaannya, atau memperoleh  perasaan yang tidak enak yang membuat seseorang sedih,  kecewa, jengkel, marah dan takut.  b. segala pelanggaran seksual yang dilakukan atau diizinkan  untuk dilakukan terhadap orang muda oleh orang dewasa  atau orang lain yang secara sah bertanggungjawab untuknya,  meliputi menyentuh anak dengan maksud kepuasan seksual  atau paksaan anak untuk menyentuh seorang dewasa,  hubungan seksual, memperlihatkan kegiatan seksual kepada  anak, pornografi atau mengizinkan anak melakukan  hubungan seksual yang tidak sesuai dengan  perkembangannya.  
 
 # BAB V
@@ -197,7 +199,7 @@ a. segala perbuatan atau tindakan baik yang sengaja maupun  tidak sengaja yang d
 
 #### Pasal 12
 
-Setiap korban kekerasan berbasis gender dan anak mendapatkan  hak-hak sebagai berikut:
+Setiap korban kekerasan berbasis gender dan anak mendapatkan  hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak menentukan sendiri keputusannya;  
 c. hak mendapatkan informasi;  
@@ -242,13 +244,13 @@ d. bidang layanan rehabilitasi sosial; dane. bidang pemulangan dan reintegrasi s
 
 #### Pasal 16
 
-Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  15 ayat (2) huruf a memiliki tugas:
+Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  15 ayat (2) huruf a memiliki tugas:  
 a. melakukan wawancara dan observasi keadaan korban;  10 jdih.pekalongankab.go.idb. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan ke layanan dan pihak  tertentu dan pihak terkait sesuai kebutuhan korban; dan d. melakukan administrasi proses pengaduan.  
 
 #### Pasal 17
 
-Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  15 ayat (2) huruf b memiliki tugas:
+Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  15 ayat (2) huruf b memiliki tugas:  
 a. melakukan pemeriksaan, pengobatan, dan perawatan  lanjutan terhadap korbanb. melakukan koordinasi pelaksanan rehabilitasi kesehatan dan  mediokolegal;  
 c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum;  
 d. melakukan pemeriksaan penunjang dan laboratorium  terhadap barang bukti;  
@@ -256,19 +258,19 @@ e. melakukan konsultasi kepada dokter ahli atau melakuklan  rujukan; danf. membu
 
 #### Pasal 18
 
-Bidang layanan bantuan hukum sebagaimana dimaksud dalam  Pasal 15 ayat (2) huruf c memiliki tugas:
+Bidang layanan bantuan hukum sebagaimana dimaksud dalam  Pasal 15 ayat (2) huruf c memiliki tugas:  
 a. memberikan bantuan hukum kepada korban kekerasan baik  litigasi maupun non litigasi.  b. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 19
 
-Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 15 ayat (2) huruf d memiliki tugas:
+Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 15 ayat (2) huruf d memiliki tugas:  
 a. memberikan pendampingan psikologis dan konseling sosial  oleh psikolog, konselor dan pekerja sosial;  
 b. melakukan bimbingan rohani oleh pembimbing rohani;  
 c. melakukan pendampingan selama proses penanganan kasus; dand. penyelenggaraan rehabilitasi sosial dilakukan pada  “shelter/rumah aman”.  
 
 #### Pasal 20
 
-Bidang pemulangan dan reintegrasi sosial sebagaimana  dimaksud dalam Pasal 15 ayat (2) huruf e memiliki tugas:
+Bidang pemulangan dan reintegrasi sosial sebagaimana  dimaksud dalam Pasal 15 ayat (2) huruf e memiliki tugas:  
 a. mengkoordinasikan dan memfasilitasi proses pemulangan  korban dan/atau fasilitasi rujukan pemulangan pada PPT  Provinsi;  
 
 jdih.pekalongankab.go.id
@@ -286,7 +288,7 @@ c. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi
 
 #### Pasal 22
 
-Pemberdayaan Gender dan Anak Korban Kekerasan dilaksanakan dalam bentuk:
+Pemberdayaan Gender dan Anak Korban Kekerasan dilaksanakan dalam bentuk:  
 a. Pemberdayaan pada korban kekerasan berbasis gender  meliputi pelatihan kerja, usaha ekonomi produktif dan  kelompok usaha bersama dengan bantuan permodalan.  b. Pemberdayaan pada anak korban kekerasan yang tidak  bersekolah adalah memastikan anak korban kekerasan  mendapatkan hak untuk melanjutkan pendidikan, dan/atau  mendapatkan pelatihan kerja dengan bantuan permodalan.  
 
 # BAB VIII

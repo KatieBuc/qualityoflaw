@@ -16,10 +16,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa sampai saat ini masih sering terjadi kasus kekerasan terhadap perempuan dan anak, sementara pelayanan dan perlindungan belum dilakukan secara optimal ;  
 b. bahwa sehubungan dengan pertimbangan tersebut pada huruf a, dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan di Kabupaten Lumajang yang ditetapkan dengan Peraturan Daerah.  
 
 Mengingat:  
+ 
  
  
  
@@ -88,7 +90,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:
+Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:  
 a. Penghormatan terhadap hak-hak korban ;  
 b. Keadilan dan kesetaraan gender ;  
 c. Non – diskriminasi ;  

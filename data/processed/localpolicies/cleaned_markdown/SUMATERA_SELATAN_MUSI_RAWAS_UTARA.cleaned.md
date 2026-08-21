@@ -14,11 +14,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, penyiksaan atau perlakuan yang merendahkan derajat, martabat perempuan dan anak merupakan pelanggaran terhadap hak asasi manusia untuk itu perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan, penyiksaan atau perlakuan yang merendahkan derajat serta martabat perempuan dan anak terus meningkat sehingga wajib dilakukan upaya perlindungan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -67,7 +69,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pelaksanaan Perlindungan Perempuan dan Anak berdasarkan asas:
+Pelaksanaan Perlindungan Perempuan dan Anak berdasarkan asas:  
 a. penghormatan dan pengakuan atas hak dan martabat kemanusiaan yang sama;  
 b. non diskriminasi;  
 c. kesetaraan dan keadilan gender:d. perlindungan hak asasi Perempuan dan Anak;  
@@ -76,7 +78,7 @@ f. kepentingan terbaik bagi korban kekerasan; dang. kepastian hukum.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan:
+Peraturan Daerah ini bertujuan:  
 a. menjadi pedoman dalam perencanaan dan pelaksanaan kebijakan Perlindungan Perempuan dan Anak;  
 b. mencegah terjadinya pelanggaran terhadap hak Perempuan dan Anak;  
 c. mewujudkan upaya Perlindungan Perempuan dan Anak yang terpadu, komprehensif dan berkelanjutan;  
@@ -84,7 +86,7 @@ d. mencegah adanya keputusan dan kebijakan yang melanggar serta tidak mendukung 
 
 #### Pasal 4
 
-Ruang lingkup Peraturan Daerah ini sebagai berikut:
+Ruang lingkup Peraturan Daerah ini sebagai berikut:  
 a. hak Perempuan dan Anak;  
 b. kewajiban dan tanggung jawab;  
 c. penyelenggaraan Perlindungan Perempuan dan Anak;  
@@ -118,7 +120,7 @@ n. berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingku
 
 #### Pasal 6
 
-Pemberdayaan Perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:
+Pemberdayaan Perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -126,7 +128,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 7
 
-Pemberdayaan Perempuan dibidang sosial budaya sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:
+Pemberdayaan Perempuan dibidang sosial budaya sebagaimana dimaksud dalam Pasal 5 ayat (2) dapat diselenggarakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya dibidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan Perempuan.  
@@ -165,7 +167,7 @@ Setiap Anak berhak untuk beribadah menurut agamanya, berpikir, dan berekspresi s
 
 #### Pasal 14
 
-Setiap Anak yang dalam pengasuhan Orang Tua, Wali, atau pihak lain yang bertanggung jawab atas pengasuhan sebagaimana dimaksud dalam Pasal 13 berhak mendapat Perlindungan dari perlakuan:
+Setiap Anak yang dalam pengasuhan Orang Tua, Wali, atau pihak lain yang bertanggung jawab atas pengasuhan sebagaimana dimaksud dalam Pasal 13 berhak mendapat Perlindungan dari perlakuan:  
 a. diskriminasi;  
 b. eksploitasi, baik ekonomi maupun seksual;  
 c. penelantaran;  
@@ -198,7 +200,7 @@ Setiap Anak berhak untuk beristirahat dan memanfaatkan waktu luang, bergaul deng
 
 #### Pasal 20
 
-Setiap Anak berhak untuk memperoleh Perlindungan dari:
+Setiap Anak berhak untuk memperoleh Perlindungan dari:  
 a. penyalahgunaan dalam kegiatan politik;  
 b. pelibatan dalam sengketa bersenjata;  
 c. pelibatan dalam kerusuhan sosial;  
@@ -212,7 +214,7 @@ e. pelibatan dalam peperangan; danf. kejahatan seksual.
 
 #### Pasal 22
 
-Setiap Anak yang menjadi pelaku atau korban tindak pidana berhak untuk:
+Setiap Anak yang menjadi pelaku atau korban tindak pidana berhak untuk:  
 a. mendapatkan perlakuan secara manusiawi dan penempatannya dipisahkan dari orang dewasa;  
 b. memperoleh bantuan hukum atau bantuan lainnya secara efektif dalam setiap tahapan upaya hukum yang berlaku; danc. membela diri dan memperoleh keadilan di depan pengadilan Anak yang objektif dan tidak memihak dalam sidang tertutup untuk umum.  
 
@@ -222,7 +224,7 @@ Setiap Anak yang menjadi korban atau pelaku kekerasan dan diskriminasi seksual a
 
 #### Pasal 24
 
-Setiap Anak Penyandang Disabilitas selain mendapatkan hak sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 23, berhak memperoleh:
+Setiap Anak Penyandang Disabilitas selain mendapatkan hak sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 23, berhak memperoleh:  
 a. pendidikan luar biasa;  
 b. rehabilitasi;  
 c. bantuan sosial; dand. pemeliharaan taraf kesejahteraan sosial.  
@@ -258,7 +260,7 @@ g. membentuk pusat pelayanan terpadu; danh. mewujudkan Kabupaten Layak Anak.
 
 #### Pasal 27
 
-Orang Tua dan Keluarga wajib dan bertanggung jawab:
+Orang Tua dan Keluarga wajib dan bertanggung jawab:  
 a. mengasuh, memelihara, dan mendidik Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan minatnya;  
 c. mencegah terjadinya perkawinan pada usia Anak;  
@@ -290,7 +292,7 @@ Umum
 
 #### Pasal 30
 
-Penyelenggaraan Perlindungan Perempuan dan Anak dilaksanakan melalui upaya:
+Penyelenggaraan Perlindungan Perempuan dan Anak dilaksanakan melalui upaya:  
 a. pencegahan;  
 b. pengurangan resiko kerentanan;  
 c. penanganan;dand. rehabilitasi.  
@@ -301,7 +303,7 @@ Perlindungan Perempuan dan Anak Korban Kekerasan
 
 #### Pasal 31
 
-Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan melalui:
+Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan melalui:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan rehabilitasi medis;  
@@ -310,13 +312,13 @@ e. pelayanan hukum; danf. pelayanan reintegrasi sosial.
 
 #### Pasal 32
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam Pasal 31 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam Pasal 31 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban;  
 b. identifikasi kasus; danc. persetujuan dilakukan tindakan.  
 
 #### Pasal 33
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 31 huruf b meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 31 huruf b meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
 c. memantau kepentingan dan hak korban dalam proses pemeriksaan di kepolisian, kejaksaan dan pengadilan;  
@@ -325,7 +327,7 @@ e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelan
 
 #### Pasal 34
 
-Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 31 huruf c meliputi:
+Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 31 huruf c meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. rujukan ke layanan kesehatan.  
 
@@ -337,7 +339,7 @@ b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fis
 
 #### Pasal 36
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 31 huruf e adalah untuk membantu korban dalam menjalani proses peradilan dengan cara:
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 31 huruf e adalah untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang meliputi informasi mengenai hak korban dan proses peradilan;  
 b. mendampingi korban ditingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
@@ -376,7 +378,7 @@ b. hak anak; danc. pendekatan pengembangan Kabupaten Layak Anak.
 
 #### Pasal 41
 
-Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak bersumber dari:
+Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak bersumber dari:  
 a. APBD; dan/atau (4) sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
 # BAB VII

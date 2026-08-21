@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan,  terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait, dan/atau masyarakat agar terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang  Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan  sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender Dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -102,7 +104,7 @@ Dlam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan korban kekerasan berbasis gender dan  anak berasaskan Pancasila dan berlandaskan Undang Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:
+Perlindungan korban kekerasan berbasis gender dan  anak berasaskan Pancasila dan berlandaskan Undang Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi korban;  
 c. keadilan dan kesetaraan gender;  
@@ -115,7 +117,7 @@ i. memberdayakan; danj. kerahasiaan korban.
 
 #### Pasal 3
 
-Tujuan Peraturan Daerah ini adalah:
+Tujuan Peraturan Daerah ini adalah:  
 a. mencegah segala bentuk kekerasan berbasis gender  dalam rumah, dan kekerasan terhadap anak yang  terjadi di rumah tangga dan/atau masyarakat;  
 b. memberikan pelayanan dan perlindungan;  
 c. memberikan pendampingan hukum;  
@@ -192,7 +194,7 @@ Upaya Pencegahan
 
 #### Pasal 9
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 7  ayat (3) huruf a meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 7  ayat (3) huruf a meliputi:  
 a. menyelenggarakan komunikasi, informasi, dan  edukasi tentang kekerasan berbasis gender dan  anak; danb. sosialisasi peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan  anak.  
 
 ## Bagian Ketiga
@@ -201,7 +203,7 @@ Upaya Pemulihan dan Reintegrasi Sosial
 
 #### Pasal 10
 
-Upaya Pemulihan dan Reintegrasi Sosial sebagaimana  dimaksud dalam Pasal 7 ayat (3) huruf b meliputi:
+Upaya Pemulihan dan Reintegrasi Sosial sebagaimana  dimaksud dalam Pasal 7 ayat (3) huruf b meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan  kesehatan;  
 b. pelayanan medicolegal;  
 c. membantu pemulangan korban;  
@@ -215,7 +217,7 @@ Perlindungan Hukum
 
 #### Pasal 11
 
-Perlindungan hukum sebagaimana dimaksud dalam  Pasal 7 ayat (3) huruf c meliputi:
+Perlindungan hukum sebagaimana dimaksud dalam  Pasal 7 ayat (3) huruf c meliputi:  
 a. melakukan pendampingan selama proses hukum  pada setiap tahapan pemeriksaan; danb. memberikan perlindungan hukum secara khusus  bagi anak korban kekerasan dapat dilakukan  dengan penunjukan perwalian sesuai dengan  peraturan yang berlaku.  
 
 ## Bagian Kelima
@@ -224,7 +226,7 @@ Koordinasi dan Kerjasama
 
 #### Pasal 12
 
-Koordinasi dan kerjasama sebagaimana dimaksud  dalam Pasal 7 ayat (3) huruf d meliputi:
+Koordinasi dan kerjasama sebagaimana dimaksud  dalam Pasal 7 ayat (3) huruf d meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan  kasus kekerasan dengan pelayanan terpadu  kabupaten/kota;  
 b. melakukan koordinasi dan kerjasama dengan  lembaga-lembaga penyedia layanan bagi korban  kekerasan berbasis gender dan anak; danc. melakukan koordinasi dan konsultasi dengan  Pemerintah Daerah.  
 
@@ -410,7 +412,7 @@ Cukup jelas
 
 Huruf a Cukup jelas Huruf b Yang dimaksud dengan “Pelayanan  Medicolega” adalah bentuk layanan medis  untuk kepentingan pembuktian di bidang  hukum.  
 
-Jenis pelayanan Medicolegal, yaitu:
+Jenis pelayanan Medicolegal, yaitu:  
 a. pemeriksaan visum et repertum; danb. pemeriksaan kesehatan untuk kepentingan hokum.  
 
 Huruf c Cukup jelas Huruf d Cukup jelas Huruf e Yang dimaksud dengan “pelayanan  psikososial” adalah pelayanan yang  deberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban,  termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai  ancaman dan intimidasi bagi korban dan  memberikan dukungan secara social  sehingga korban mempunyai rasa  percaya diri kekuatan, dan kemandirian  dalam menyelesaikan masalahnya.  

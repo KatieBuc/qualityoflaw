@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindakan kekerasan yang terjadi terhadap perempuan dan anak dapat menimbulkan korban yang berdampak pada traumatik yang berkepanjangan;  
 b. bahwa demi melindungi kepentingan perempuan dan anak, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan, Pelayanan dan Pemulihan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -87,7 +89,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Azas pengaturan perlindungan terhadap perempuan dan anak korban kekerasan ini adalah:
+Azas pengaturan perlindungan terhadap perempuan dan anak korban kekerasan ini adalah:  
 a. Penghormatan terhadap hak – hak korban;  
 b. Kesetaraan dan keadilan gender;  
 c. Non diskriminasi;  
@@ -96,7 +98,7 @@ d. Kepentingan yang terbaik bagi korban; dan
 
 #### Pasal 3
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan bertujuan:
+Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan bertujuan:  
 a. Mencegah segala bentuk kekerasan ;  
 b. Melindungi korban kekerasan ;  
 c. Memberikan pelayanan pemulihan kepada korban kekerasan; dan d. Menyelenggarakan pemulihan secara menyeluruh kepada korban ;  
@@ -157,7 +159,7 @@ e. Komisi Perlindungan Anak Indonesia ( KPAI ); dan f. Pihak tertentu yang diing
 
 #### Pasal 8
 
-Pemulihan yang dimaksudkan meliputi:
+Pemulihan yang dimaksudkan meliputi:  
 a. Pemulihan kesehatan ;  
 b. Pendidikan bagi anak korban kekerasan dapat berupa pendidikan formal, informal dan non formal ; danc. Kemandirian ekonomi berupa pelatihan keterampilan, memberikan akses dan penguatan ekonomi agar korban dapat mandiri
 
@@ -191,7 +193,7 @@ Setiap korban berhak mendapatkan jaminan atas hak – haknya sebagai Warga Negar
 
 #### Pasal 11
 
-Segala biaya untuk penyelenggaraan perlindungan, pelayanan dan pemulihan yang dilakukan oleh Pemerintah Daerah terhadap korban kekerasan dibebankan kepada:
+Segala biaya untuk penyelenggaraan perlindungan, pelayanan dan pemulihan yang dilakukan oleh Pemerintah Daerah terhadap korban kekerasan dibebankan kepada:  
 a. Anggaran Pendapatan dan Belanja Daerahb. Sumber pendapatan lain yang sah sesuai dengan Peraturan Perundang – undangan ; danc. Sumber pendapatan lain yang tidak mengikat.  
 
 # BAB VII

@@ -86,7 +86,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Bentuk kekerasan yaitu:
+Bentuk kekerasan yaitu:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -95,7 +95,7 @@ e. eksploitasi; danf. kekerasan lainnya.
 
 #### Pasal 3
 
-Kekerasan fisik sebagaimana dimaksud dalam Pasal 2 huruf a merupakan segala  bentuk perbuatan yang mengakibatkan:
+Kekerasan fisik sebagaimana dimaksud dalam Pasal 2 huruf a merupakan segala  bentuk perbuatan yang mengakibatkan:  
 a. korban jatuh sakit atau luka berat;  
 b. matinya korban; dan/atauc. menimbulkan penyakit atau halangan untuk menjalankan pekerjaan jabatan  atau mata pencaharian atau kegiatan sehari-hari.  
 
@@ -110,7 +110,7 @@ b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ atauc
 
 #### Pasal 6
 
-Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal 2 huruf d  disebabkan karena:
+Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal 2 huruf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali,  atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan Perempuan dan/atau Anak dalam lingkup  rumah tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan kehidupan,  perawatan, atau pemeliharaan kepada Perempuan dan/atau Anak tersebut;  dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar  rumah sehingga korban berada di bawah kendali orang tersebut.  
@@ -123,7 +123,7 @@ c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari  kor
 
 #### Pasal 8
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 2 huruf f meliputi:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 2 huruf f meliputi:  
 a. setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar  simbol, atau gerakan tubuh, balk dengan atau tanpa menggunakan sarana  yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang;  dan/ataub. suatu keadaan di mana seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan sesuatu berlawanan dengan  kehendak sendiri.  
 
 # BAB III
@@ -132,7 +132,7 @@ a. setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar  simbol,
 
 #### Pasal 9
 
-Hak Perempuan dan Anak dan i tindak kekerasan meliputi:
+Hak Perempuan dan Anak dan i tindak kekerasan meliputi:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dan i penderitaan yang dialami  sebagai korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -186,7 +186,7 @@ Kewajiban dan Tanggung Jawab Masyarakat, Keluarga dan Anak
 
 #### Pasal 15
 
-Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai  berikut:
+Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai  berikut:  
 a. mencegah terjadinya kekerasan terhadap Perempuan dan Anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  Perempuan dan Anak kepada penegak hukum atau pihak yang berwenang;  
 c. turut serta dalam penanganan korban tindak kekerasan;  
@@ -285,7 +285,7 @@ c. bantuan permodalan; dand. kegiatan lainnya yang mendukung Pemberdayaan Peremp
 
 #### Pasal 25
 
-Bentuk Pemberdayaan terhadap anak dan i tindak kekerasan meliputi  pemenuhan hak anak atas:
+Bentuk Pemberdayaan terhadap anak dan i tindak kekerasan meliputi  pemenuhan hak anak atas:  
 a. pendidikan;  
 b. kesehatan; danc. rehabilitasi, pemulangan dan reintegrasi sosial.  
 
@@ -324,7 +324,7 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 
 #### Pasal 29
 
-Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak dan i tindak  kekerasan bersumber dan:
+Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak dan i tindak  kekerasan bersumber dan:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB XII

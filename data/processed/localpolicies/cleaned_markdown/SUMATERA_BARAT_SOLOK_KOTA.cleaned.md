@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang termasuk perempuan dan anak berhak untuk mendapatkan perlindungan dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminatif guna memberikan keamanan dan kenyamanan;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak dari tindakan kekerasan, diskriminatif, eksploitasi, dan pelanggaran hak asasi manusia di Kota Solok belum optimal sehingga diperlukan peran Pemerintah Daerah dan masyarakat;  
 c. bahwa untuk mengisi kekosongan hukum terkait  penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan, diskriminasi, eksploitasi dan pelanggaran hak asasi manusia, perlu dibentuk peraturan daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -87,7 +89,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. hak perempuan dan anak;  
 b. perlindungan perempuan;  
 c. pemenuhan hak anakd. perlindungan khusus anak;  
@@ -106,7 +108,7 @@ Hak Perempuan
 
 #### Pasal 3
 
-Setiap perempuan ber hak:
+Setiap perempuan ber hak:  
 a. memperoleh perlindungan dari tindakan diskriminatif;  
 b. memperoleh perlindungan dari ekploitasi ekonomi dan seksual;  
 c. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, dan  penelantaran;  
@@ -122,7 +124,7 @@ Hak Anak
 
 #### Pasal 4
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. bermain, berkreasi, berpartisipasi, tumbuh dan berkembang;  
 b. bebas berkumpul, berserikat, hidup dengan orang tua, berhubungan  dengan orang tua bila terpisahkan dan kelangsungan hidup;  
 c. mendapatkan nama, identitas, kewarganegaraan, pendidikan, informasi  layak anak;  
@@ -153,7 +155,7 @@ Perlindungan
 
 #### Pasal 6
 
-Pemerintah Daerah dalam upaya perlindungan terhadap perempuan  bertanggung jawab:
+Pemerintah Daerah dalam upaya perlindungan terhadap perempuan  bertanggung jawab:  
 a. memberikan perlindungan dari tindakan diskriminasi sesuai peraturan  perundangan-undangan;  
 b. memberikan perlindungan dari eksploitasi ekonomi dan eksploitasi  sosial;  
 c. memberikan perlindungan dari kekerasan fisik, psikologis, seksual dan  penelantaran;  
@@ -171,7 +173,7 @@ Pencegahan
 
 #### Pasal 7
 
-Pemerintah Daerah dalam rangka melakukan pencegahan terjadinya  kekerasan terhadap perempuan bertanggung jawab:
+Pemerintah Daerah dalam rangka melakukan pencegahan terjadinya  kekerasan terhadap perempuan bertanggung jawab:  
 a. menyelenggarakan sosialisasi mengenai pencegahan kekerasan terhadap  perempuan kepada perangkat daerah, tokoh masyarakat, dan organisasi  kemasyarakatan;  
 b. mengoptimalkan peran lembaga adat, budaya, agama dan organisasi  kemasyarakatan dalam pencegahan terjadinya tindakan kekerasan;  
 c. menyediakan pedoman tentang penanganan tindak kekerasan terhadap  perempuan;  
@@ -198,7 +200,7 @@ Pencegahan
 
 #### Pasal 9
 
-Masyarakat dalam rangka melakukan pencegahan terjadinya kekerasan  terhadap perempuan bertanggung jawab untuk:
+Masyarakat dalam rangka melakukan pencegahan terjadinya kekerasan  terhadap perempuan bertanggung jawab untuk:  
 a. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat  menimbulkan terjadinya Kekerasan terhadap perempuan;  
 b. menguatkan peran organisasi kemasyarakatan, keagamaan dan  lingkungan keluarga; danc. mencegah terjadinya pernikahan di bawah tangan.  
 
@@ -221,7 +223,7 @@ Pencegahan
 
 #### Pasal 11
 
-Orang tua dan/atau keluarga dalam mencegah terjadinya pelanggaran hak  perempuan bertanggungjawab:
+Orang tua dan/atau keluarga dalam mencegah terjadinya pelanggaran hak  perempuan bertanggungjawab:  
 a. melindungi perempuan dari berbagai pelanggaran hak dalam rumah  tangga; danb. mendorong terbentuknya keluarga yang harmonis, edukatif dan  demokratis.  
 
 # BAB IV
@@ -273,7 +275,7 @@ Kesehatan
 
 #### Pasal 18
 
-Kebijakan perlindungan dan pemenuhan hak anak bidang kesehatan adalah  sebagai berikut:
+Kebijakan perlindungan dan pemenuhan hak anak bidang kesehatan adalah  sebagai berikut:  
 a. memberikan pelayanan kesehatan gratis bagi anak dari keluarga miskin;  
 b. menyelenggarakan upaya kesehatan paripurna bagi anak;  
 c. menjamin agar bayi menerima air susu ibu eksklusif dari ibunya;  
@@ -485,7 +487,7 @@ Umum
 
 #### Pasal 42
 
-Pelaksanaan penanganan perempuan dan anak korban Kekerasan meliputi  layanan:
+Pelaksanaan penanganan perempuan dan anak korban Kekerasan meliputi  layanan:  
 a. penanganan pengaduan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
@@ -533,7 +535,7 @@ Pelayanan rehabilitasi sosial bagi perempuan dan anak korban kekerasan  sebagaim
 
 #### Pasal 46
 
-Pelayanan rehabilitasi sosial sebagaimana dimaksud Pasal 45 adalah  sebagai berikut:
+Pelayanan rehabilitasi sosial sebagaimana dimaksud Pasal 45 adalah  sebagai berikut:  
 a. pelayanan konseling;  
 b. penyediaan rumah aman; danc. bimbingan rohani.  
 
@@ -557,14 +559,14 @@ b. perangkat daerah yang membidangi pemberdayaan perempuan, dan  dapat bekerjasa
 
 #### Pasal 49
 
-Kriteria perempuan dan anak korban kekerasan yang memerlukan rumah  aman meliputi:
+Kriteria perempuan dan anak korban kekerasan yang memerlukan rumah  aman meliputi:  
 a. terancam jiwanya;  
 b. mendapat penolakan dari keluarga atau masyarakat;  
 c. memerlukan pelayanan intensif namun rumah tinggalnya relatif jauh;  dan/ataud. terlantar jika tidak ditempatkan di dalam rumah aman.  
 
 #### Pasal 50
 
-Penyelenggaraan pelayanan rumah aman dilakukan oleh petugas  rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender  yang terdiri atas:
+Penyelenggaraan pelayanan rumah aman dilakukan oleh petugas  rehabilitasi sosial yang memiliki kepekaan gender atau kesadaran gender  yang terdiri atas:  
 a. pekerja sosial atau relawan;  
 b. petugas keamanan; dan/atauc. tokoh masyarakat.  
 
@@ -655,7 +657,7 @@ k. berkontribusi dalam pemenuhan hak anak melalui tanggung  jawab sosial perusah
 
 #### Pasal 59
 
-Pembiayaan pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan dan pelindungan anak bersumber dari:
+Pembiayaan pelaksanaan kebijakan, program dan kegiatan perlindungan  perempuan dan pelindungan anak bersumber dari:  
 a. Anggaran Pendapatan Dan Belanja Daerah;danb. sumber pendapatan lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB X

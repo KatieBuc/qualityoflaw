@@ -14,6 +14,7 @@ Menimbang:
  
  
  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 
@@ -134,14 +135,14 @@ ll.Kekerasan seksual adalah perbuatan yang berupa pelecehan seksual, pemaksaan h
 
 #### Pasal 2
 
-penyelenggaxaan perlindungan terhadap Perempuan korban kekerasart dilaksanakan berdasarkan asas:
+penyelenggaxaan perlindungan terhadap Perempuan korban kekerasart dilaksanakan berdasarkan asas:  
 a. penghormatant hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan terbaik bagi korban
 
 #### Pasal 3
 
-penyelenggaraan perlindungan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar Negara Republik Indonesia Tahun lg45 serta. prinsrp-prinsip dasar Konvensi Hak-Hak Anak meliputi:
+penyelenggaraan perlindungan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar Negara Republik Indonesia Tahun lg45 serta. prinsrp-prinsip dasar Konvensi Hak-Hak Anak meliputi:  
 a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. melakukan pendidikan tentang nilai anti kekerasan terhadap perempuan dan anak;  
 c. sosialisasi perahrran perundang-undangan yang berkaitan dengart penyelenggaraalr perlindungan perempuan dan anak korban kekerasan;  
@@ -152,7 +153,7 @@ d. menyediakan fasilitas yang diperlukan unhrk pemulihan korban, meliputi:
 
 #### Pasal 7
 
-Unhrk penyelenggaraan pelayanan terhadap korban, Instansi Pemerintah dan pemerintah Daerah sesuai dengan fungsi dan hrgas masing-masing dapat melakukan uPaya:
+Unhrk penyelenggaraan pelayanan terhadap korban, Instansi Pemerintah dan pemerintah Daerah sesuai dengan fungsi dan hrgas masing-masing dapat melakukan uPaya:  
 a. penyediaan ruang pelayanan khusus di kantor kepolisian;  
 b. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
 c. pembuatal dan pengembangan sistem dan mekanisme kerja sama program pelayanan yang melibatkan pihak yang mudah diakses oleh korban; dand. memberikal perlindungan bagi pendamping, saksi, keluarga, dan teman korban.  
@@ -189,7 +190,7 @@ pemerintah l(abupaten dan masyarakat Kabupaten wajib dan bertanggung jawab melak
 
 #### Pasal 9
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan dalam nrmah tangga wajib melalnrkan upaya-upaya sesuai dengan batas kemampuannya untrrk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan dalam nrmah tangga wajib melalnrkan upaya-upaya sesuai dengan batas kemampuannya untrrk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dand. membantu proses pengajuan permohonan penetapan perlindungan'
@@ -326,7 +327,7 @@ Sosial
 
 #### Pasal 27
 
-(l) pemerintah dalam menyelenggarakan pemeliharaan dan perawatan wajib mengupayakan dan membantu an:ak, a$ar anak dapat:
+(l) pemerintah dalam menyelenggarakan pemeliharaan dan perawatan wajib mengupayakan dan membantu an:ak, a$ar anak dapat:  
 a. berpartisipasi;  
 b. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan agamanya;  
 c. bebas menerirna informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan anak;  
@@ -353,7 +354,7 @@ Perlindungan Khusus
 
 Pemerintah dan lembaga negara lainnya berkewajiban dan bertanggung jawab untuk memberikan perlindungan khusus kepada anak ddam situasi darurat, anak yang berhadapan dengan hulnrm, anak dari kelompok minoritas dan terisolasi, anak tereksploitasi secara ekonomi dan/atau seksr:al, anak yang diperdagangkan, anak yang menjadi korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif Lainnya (napzal, anak korban penculikan, penjualan dan perdagangan, anak korban kekerasan baik fisik dan /atau mental, anak yang menyandang cacat, dan anak korban perlakrran sdah dan penelantaran.  
 
-Pasa1 31 Anak dalam situasi danrrat sebagaimana dirnaksud dafam Pasal 3O terdiri ata-s:
+Pasa1 31 Anak dalam situasi danrrat sebagaimana dirnaksud dafam Pasal 3O terdiri ata-s:  
 a. anak yang menjadi pengungsi;  
 b. anak korban kenrsuhan;  
 c. anak korban bencana alam; dand. anak dalam situasi konflik bersenjata.  
@@ -364,7 +365,7 @@ perlindungan khusus bagi anak yang menjadi pengungsi sebagaimana dimaksud dalam 
 
 #### Pasal 33
 
-perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak dalam situasi konflik bersenjata sebagaimana dimaksud dalam Pasal 3O huruf b, huruf c, dan huruf d, dilaksanakan melalui:
+perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak dalam situasi konflik bersenjata sebagaimana dimaksud dalam Pasal 3O huruf b, huruf c, dan huruf d, dilaksanakan melalui:  
 a. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan,kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; danb. pemenuhan kebutuhan khusus bagi anak yang menyandang Disabilitas dan anak yang mengalami gangguan psikososial.  
 
 #### Pasal 34
@@ -416,7 +417,7 @@ Setiap orang dilarang menempatkan, membiarkan, melakukan, (21 menyuruh melakukan
 
 #### Pasal 41
 
-Perlindungan khusus bagl anak yang men5randang cacat sebagaimana (1) dimaksud dalam Pasal 30 dilakukan melalui upaya:
+Perlindungan khusus bagl anak yang men5randang cacat sebagaimana (1) dimaksud dalam Pasal 30 dilakukan melalui upaya:  
 a. per}akuan anak secara manusiawi sesuai dengan martabat dan hak anak;  
 b. pemenuhan kebuhrhan-kebutuhan khusus; danc. memperoleh perlakuan yang sama dengan anak lainnya untuk Elencapai integrasi sosial sepenuh mungkin dan pengembangan individu.  
 
@@ -436,7 +437,7 @@ Umum
 
 #### Pasal 43
 
-Penyandang Disabilitas memiliki hak:
+Penyandang Disabilitas memiliki hak:  
 a. hidup;  
 b. bebas dari stigma;  
 c. privasi;  
@@ -463,7 +464,7 @@ v. bebas dari tindakan Diskriminasi, penelantaran, penylksaan, dan eksploitasi.
 
 #### Pasal 44
 
-Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), per€mpuan dengan disabilitas memiliki hak:
+Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), per€mpuan dengan disabilitas memiliki hak:  
 a. atas kesehatan reproduksi;  
 b. menerima atau rnenolak penggunaan alat kontrasepsi;  
 c. mendapatkan Pelindungan lebih dari perlakuan Diskriminasi berlapis;  
@@ -471,7 +472,7 @@ d. unhrk mendapatkan Pelindungan lebih dari tindak kekerasan, termasuk kekerasan
 
 #### Pasal 45
 
-Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), anak penyandang disabilitas memiliki hak:
+Selain hak Penyandang Disabilitas sebagaimana dimaksud pada ayat (1), anak penyandang disabilitas memiliki hak:  
 a. mendapatkan Pelindungan khusus dari Diskriminasi, penelantaran, pelecehan, eksploitasi, serta kekerasan dan kejahatan seksual;  
 b. mendapatkan perawatan dan pengasuhan keluarga atau keluarga pengganti unttrk tumbuh kembang secara optimal;  
 c. dilindungi kepentingannya dalam pengambilan kepuhrsan;  
@@ -485,7 +486,7 @@ Hak Hidup
 
 #### Pasal 46
 
-Hak hidup unhrk Penyandang Disabilitas meliputi hak:
+Hak hidup unhrk Penyandang Disabilitas meliputi hak:  
 a. atas Penghormatan integritas;  
 b. tidak dirampas nyawanya;  
 c. mendapatkan perawatan dan pengasuhan yang menjamin kelangsungan hidupnya;  
@@ -504,7 +505,7 @@ Bagran Keempat Hak Privasi
 
 #### Pasal 48
 
-Hak privasi untuk Penyandang Disabilitas meliputi hak:
+Hak privasi untuk Penyandang Disabilitas meliputi hak:  
 a. diakui sebagai manusia pribadi yang dapat menuntut dan memperoleh perlakuan serta Pelindungan yalrry sarna sesuai dengan martabat manusia di depan umum;  
 b. membentuk sebuah keluarga dan melanjutkan ketunrnan melalui perkawinan yang satr;  
 c. Penghormatan rumah dan keluarga;  
@@ -514,7 +515,7 @@ Bagan Kelima Hak Keadilan dan Perlindungan Hukum
 
 #### Pasal 49
 
-Hak keadilan dan perlindungan hukum untuk Penyandang Disabilitas meliputi hak:
+Hak keadilan dan perlindungan hukum untuk Penyandang Disabilitas meliputi hak:  
 a. atas perlalman yang sama di hadapan huktrm;  
 b. diakui sebagai subjek hukum;  
 c. memiliki dan mewarisi harta bergerak atau tidak bergerak;  
@@ -554,7 +555,7 @@ Perempuan yang telah dewasa dan atau telah menikah berhak unhrk melakukan perbua
 
 #### Pasal 54
 
-Dalam pemeriksaan perkara Perempuan Berhadapan dengan Hukum, hakim tidak boleh:
+Dalam pemeriksaan perkara Perempuan Berhadapan dengan Hukum, hakim tidak boleh:  
 a. menunjukan sikap atau mengeluarkan pernyataan yang merendahkan, menyalahkan dan/atau mengintimidasi Perempuan Berhadapan dengan Hukum.  b. membenarkan terjadinya Diskriminasi Terhadap Perempuan dengan menggunakan kebudayaan, aturan adat dan praktik trdisional lainya rraupun menggtrnakan penafsiran ahli yang bias Gender;  
 c. mempertanyakan dan/atau mempertimbangkan mengenai pengalaman atau latar belakang seksualitas korban sebagai dasar untuk membebaskan pelaku atau meringankan huktrman pelalar; dand. mengeluarkan pernyataan atau pandangan yang mengandung stereotif Gender.  
 
@@ -615,7 +616,7 @@ Resosialisasi korban dilaksanakan oleh instansi sosial dan lembaga sosial agar k
 
 ## KETENTUAN PIDANA
 
-Pasal6l Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga:
+Pasal6l Setiap orang yang dengan sengaja tidak memberikan perlindungan terhadap perempuan dan anak sehingga:  
 a. menyebabkan terjadinya kekerasan;  
 b. membiarkan terjadinya kekerasan; dan/atauc. tidak melaporkan dan tidak memberikan perlindungan terhadap korban, dikenakan sanksi sesuai dengan ketentuan peraturan perundang undangan.  
 
@@ -695,7 +696,7 @@ Permasalahannya, adalah meskipun Undang-Undang sudah menetapkan ancaman atau san
 
 Kekerasan terhadap perempuan dan anak juga banyak terjadi dalam lingkup rrmah tangga, meskipun sudah 13 tahun kita memiliki undang-undang, yaihr Undang-undang Nomor 23 Tahun 2OO4 tentang Penghapusan Kekerasan Dalam Ruamh Tangga (KDRT), namun dewasa ini KDRT makin meningt<at jumlatrnya. Unhrk pencegahan dan penanganan KDRT di Kabupaten Musi Rawas pada Dinas Pemberdayaan Perempuan dan perlindungan Anak Kabupaten Musi Rawas telah dibentuk Pusat Pelayanan Terpadu perlindungan Perempuan dan Anak (P2fP2,ful Kabupaten Musi Rawas, berdasarkan Keputusan Bupati Musi Rawas Nomor 7O3l KPTS/ KPP/2O15 yaitu tentang Pembenhrkan Rrsat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A| Kabupaten Musi Rawas. Rrsat Pelayanan Terpadu Pemberdayaan Perempuan darr Anak lP2TIP2ful menjadi tempa,t pelaporan, Penanganan, rehabilitasi dan reintegrasi korban kekerasan. Apabila ada KDRT atau kekerasan lainnya yang menimpa perempuan dan anak-anak, harus dilaporkan ke P?UP]A tersebut, namun keberadaan P2ftPZA belum banyak diketahui oleh masyarakat.  
 
-Undang-Undang Nomor 23 Tahun 2OO4 tentang Penghapusan KDRT, pada hakekatnya adalah untuk mewujudkan rumahtangga yang sakinah, mawadah, dan warokhmah, hal ini dapat kita baca dari tujuan penghapusan kekerasan dalam rumah tangga yaitu: (a) mencegah segala bentuk kekerasan dalam rumatr tangga (XDRT); (b) melindungi korban KDRT, (c) menindak pelaku KDRT dan (d) memelihara keuhrhan rumah tangga yang harmonis dan sejahtera. Agar kita lebih memahami larangan KDRT, maka akan diuraikan singkat hal-hal penting dari Undang-Undang Nomor 23 Tahun 2OO4 tentang KDRT sebagai berikut: Jenis-jenis KDRT, meliputi:
+Undang-Undang Nomor 23 Tahun 2OO4 tentang Penghapusan KDRT, pada hakekatnya adalah untuk mewujudkan rumahtangga yang sakinah, mawadah, dan warokhmah, hal ini dapat kita baca dari tujuan penghapusan kekerasan dalam rumah tangga yaitu: (a) mencegah segala bentuk kekerasan dalam rumatr tangga (XDRT); (b) melindungi korban KDRT, (c) menindak pelaku KDRT dan (d) memelihara keuhrhan rumah tangga yang harmonis dan sejahtera. Agar kita lebih memahami larangan KDRT, maka akan diuraikan singkat hal-hal penting dari Undang-Undang Nomor 23 Tahun 2OO4 tentang KDRT sebagai berikut: Jenis-jenis KDRT, meliputi:  
 a. kekerasan fisik,adalatr perbuatan yang mengakibatkan (l)rasa sakit, (2)jatuh sakit, atau (3) luka berat;  
 b. kekerasan psikis, adalah perbuatan yang mengakibatkan (1) ketakutan, (21 hilangnya rasa percaya diri, (3) hilangnya kemampuan untuk bertindak, (4) rasa tidak berdaya, (5) dan/atau penderitaan psikis berat pada seseorang;  
 c. kekerasan seksual meliputi: (l) pemaksaan hubungan seksual yang dilakukan terhadap orang termasuk anak, yang menetap dalam lingkup rr.mah tangga, (2) pemaksaan hubungan seksual terhadap salah seorang dalam ling!rup nrmah tangganya dengan orang lain termasuk anak, untuk tujuan komersial dan/atau hrjuan tertentu;  
@@ -712,7 +713,7 @@ Kew4jiban membenttrk Perda tentang Perlindungan Perempuan dan Anak Korban Kekera
 Perda Perlindungan Perempuan dan Anak Korban Kekerasan hi, dibentuk sesuai dengan ketentuan Undang-Undang Nomor 12 Tahun 2Ol1 tentang Pembentukan Peraturan Perundang-undangan. Materi Undang-undang ini memberikan petunjuk secara lengkap
 o. memperoleh pelayanan kesehatan; danp. memperoleh hak lain sesuai dengan ketentuan peraturan perundang-undangan.  
 
-Perda Perlindungan Perempuan dan Anak Korban Kekerasan bukan hanya untuk perempuan dan anak korban kekerasan dalam kondisi normal, tetapi jtrga untuk perempuan dan anak penyandang disabilitas sebagaimana diatur dengan Undang-Undang Nomor 8 Tahun 2016 tentang Penyandang Disabilitas, yang pada Pasal 5 menetapkan bahwa: Penyandang Disabilitas memiliki hak:
+Perda Perlindungan Perempuan dan Anak Korban Kekerasan bukan hanya untuk perempuan dan anak korban kekerasan dalam kondisi normal, tetapi jtrga untuk perempuan dan anak penyandang disabilitas sebagaimana diatur dengan Undang-Undang Nomor 8 Tahun 2016 tentang Penyandang Disabilitas, yang pada Pasal 5 menetapkan bahwa: Penyandang Disabilitas memiliki hak:  
 a. hidup;  
 b. bebas dari stigma;  
 c. privasi;  
@@ -737,7 +738,7 @@ u. berpindah tempat dan kewarganegaraan; danv. bebas dari tindakan Diskriminasi,
 
 tentang persyaratan yuridis formal dan yuridis material yang hartrs dipenuhi apabila kita mau membentuk peraturan perundang undangan, termasuk Perda, mulai dari penyusunan Naskatr Akademik (NA), hingga Rancangal Peraturan Daerah KabupatenlKota. Dengan adanya UU ini,maka semua pihak wajib menjadikan dasar dalam pembentukan maupun pada saat konsultasi publik, agff mematuhi ketentuan Undang-Undang ini, sehingga kita semua dapat focus ke format maupun substansi Raperda yang dibahas.  
 
-Perlindungan terhadap anak, bukan saja yang menjadi korban kekerasan, tetapi juga yang sedang mengalami proses peradilan, sebagaimana diatur dalam Undang-Undang Nomor 11 Tahun 2OL2 tentang Sistem Peradilan Anak, sebagai penyempurnaan UU Nomor 3 Tahun L997 tentang Pengadilan Anak, yang pada Pasal 3 menetapkan bahwa: Setiap Anak dalam proses peradilan pidana berhak:
+Perlindungan terhadap anak, bukan saja yang menjadi korban kekerasan, tetapi juga yang sedang mengalami proses peradilan, sebagaimana diatur dalam Undang-Undang Nomor 11 Tahun 2OL2 tentang Sistem Peradilan Anak, sebagai penyempurnaan UU Nomor 3 Tahun L997 tentang Pengadilan Anak, yang pada Pasal 3 menetapkan bahwa: Setiap Anak dalam proses peradilan pidana berhak:  
 a. diperl,akukan secara manusiawi deng_an memperhatikan kebuhrhan sesuai dengan umurnya;  
 b. dipisahkan dari orang dewasa;  
 c. memperoleh banhran hukum dan banttran lain secara efektif;  

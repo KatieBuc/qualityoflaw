@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses pembangunan nasional, penerusan dan penciptaan generasi yang berkualitas sehingga perlu mendapatkan jaminan perlindungan dari tindak kekerasan dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa guna menjamin pemenuhan hak-hak  konstitusional perempuan untuk dapat mengembangkan potensinya secara optimal sehingga dapat berpartisipasi di berbagai bidang dalam kehidupan sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan lainnya, perlu dilakukan upaya-upaya pemberdayaan dan perlindungan terhadap perempuan;  
@@ -27,6 +28,7 @@ d. bahwa Peraturan Daerah Kota Bekasi Nomor 12 Tahun 2012  yang mengatur Perlind
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -127,7 +129,7 @@ Umum
 
 #### Pasal 3
 
-Hak asasi dan kebebasan dasar manusia, terdiri dari:
+Hak asasi dan kebebasan dasar manusia, terdiri dari:  
 a. hak untuk hidup;  
 b. hak berkeluarga dan melanjutkan keturunan;  
 c. hak mengembangkan diri;  
@@ -182,7 +184,7 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 6
 
-Setiap perempuan korban kekerasan (fisik, psikis, seksual, KDRT dan tindak  pidana perdagangan orang), berhak untuk memperoleh:
+Setiap perempuan korban kekerasan (fisik, psikis, seksual, KDRT dan tindak  pidana perdagangan orang), berhak untuk memperoleh:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. pemulihan kesehatan, pendidikan serta layanan psikososial dari  penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya untuk melakukan tindakan hukum  terhadap pelaku kekerasan atau memaafkan pelaku berdasarkan  pertimbangan kemanusiaan;  
@@ -247,7 +249,7 @@ Pelaksanaan Kebijakan, Program dan Kegiatan
 
 #### Pasal 10
 
-Pelaksanaan kebijakan, program dan kegiatan pemberdayaan dan  perlindungan perempuan, dapat dilakukan dengan upaya:
+Pelaksanaan kebijakan, program dan kegiatan pemberdayaan dan  perlindungan perempuan, dapat dilakukan dengan upaya:  
 a. melakukan kerja sama dengan dunia usaha, lembaga nonpemerintah,  perusahaan swasta, yayasan, dunia pendidikan dan lembaga di dalam  negeri lainnya serta lembaga internasional, sesuai dengan ketentuan  peraturan perundang-undangan;  
 b. melakukan kerja sama daerah, sesuai dengan ketentuan peraturan  perundang-undangan;  
 c. menyediakan dan memfasilitasi pelayanan pemberdayaan dan  perlindungan perempuan;  
@@ -469,7 +471,7 @@ e. pelayanan hukum dan/atau bantuan hukum; danf. pelayanan pemulangan dan reinte
 
 #### Pasal 26
 
-Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 25 huruf a meliputi:
+Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 25 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (Informed consent).  
 
 #### Pasal 27
@@ -559,7 +561,7 @@ c. kerja sama; dan/ataud. pengaduan/laporan.
 
 #### Pasal 37
 
-Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan bersumber dari:
+Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah Kota Bekasi; dan  b. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
 
 # BAB X

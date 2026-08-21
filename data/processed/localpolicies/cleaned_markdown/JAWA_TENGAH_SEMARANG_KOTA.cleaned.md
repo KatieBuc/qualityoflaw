@@ -14,12 +14,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak-hak konstitusional dan  perlindungan hak asasi manusia perempuan dan anak  terhadap tindak kekerasan merupakan salah satu nilai  yang tertuang dalam Pancasila dan Undang-Undang Dasar  1945;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kota  Semarang terus meningkat dan meluas yang  menyebabkan warga masyarakat tidak aman dalam  menjalankan kehidupan, sehingga diperlukan upaya  perlindungan secara terpadu;  
 c. bahwa untuk memberikan arah dan kepastian hukum  kepada semua yang terlibat dalam upaya memberikan  perlindungan hukum, maka diperlukan pengaturan  tentang perlindungan perempuan dan anak dari tindak  kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c maka perlu  membentuk Peraturan Daerah Kota Semarang tentang  Perlindungan Perempuan dan Anak Dari Tindak  Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -90,7 +92,7 @@ Dalam Peraturan Daerah ini yang dimaksuddengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:  
 a. Kemanusiaan;  
 b. Keadilan dan kesetaraan gender;  
 c. Non diskriminasi;  
@@ -100,7 +102,7 @@ f. Pengayoman.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:  
 a. Mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. Menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. Melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -112,7 +114,7 @@ d. Memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapo
 
 #### Pasal 4
 
-Bentuk kekerasan antara lain:
+Bentuk kekerasan antara lain:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual;  
@@ -128,7 +130,7 @@ f. Eksploitasi; dan/ataug. Kekerasan lainnya.
 
 #### Pasal 5
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:  
 a. Hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. Hak pemulihan;  
 c. Hak menentukan sendiri keputusannya;  
@@ -141,7 +143,7 @@ i. Hak atas pendampingan; danj. Hak rasa aman.
 
 #### Pasal 6
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:  
 a. Hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. Hak pelayanan dasar kependudukan;  
 c. Hak perlindungan yang sama;  
@@ -153,7 +155,7 @@ d. Hak bebas dari berbagai stigma;dane. Hak mendapatkan kebebasan.
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab  bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab  bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat.  
 
@@ -180,7 +182,7 @@ c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan
 
 #### Pasal 10
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas  kemampuannya untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajibmelakukan upaya sesuai dengan batas  kemampuannya untuk:  
 a. Mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. Memberikan perlindungan kepada korban;  
 c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohonan penetapan perlindungan.  
@@ -198,7 +200,7 @@ c. Memberikan pertolongan darurat; dan/ataud. Membantu proses pengajuan permohon
 
 #### Pasal 12
 
-Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari  tindak kekerasan, Walikota membentuk:
+Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari  tindak kekerasan, Walikota membentuk:  
 a. Gugus tugas tindak perdagangan orang;  
 b. Komite aksi daerah penghapusan bentuk pekerjaan terburuk untuk anak.  
 
@@ -249,7 +251,7 @@ Perlindungan Hukum
 
 #### Pasal 17
 
-Perlindungan hukum meliputi:
+Perlindungan hukum meliputi:  
 a. Memberi perlindungan dirumah aman (shelter);  
 b. Memberikan informasi hukum kepada korban;  
 c. Melakukan pendampingan untuk korban sebagai saksi mulai dari proses  penyidikan hingga putusan;  
@@ -261,7 +263,7 @@ Pemulihan
 
 #### Pasal 18
 
-Pemulihan meliputi:
+Pemulihan meliputi:  
 a. Memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. Memberikan pelayanan medicolegal;  
 c. Membantu pemulangan korban;  
@@ -276,7 +278,7 @@ Koordinasi
 
 #### Pasal 19
 
-Koordinasi meliputi:
+Koordinasi meliputi:  
 a. Melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  lembaga pelayanan terpadu;  
 b. Melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  pelayanan terpadu antar daerah.  
 
@@ -286,7 +288,7 @@ Peran Serta Masyarakat
 
 #### Pasal 20
 
-Peran Serta Masyarakat dilakukan dengan cara:
+Peran Serta Masyarakat dilakukan dengan cara:  
 a. Menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan  pada perempuan dan anak;  
 b. Mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya tindak kekerasaan terhadap perempuan  dan anak;  
 c. Menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
@@ -356,7 +358,7 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 
 #### Pasal 26
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan dapat bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negarab. Anggaran Pendapatan dan Belanja Daerah;  
 c. Sumbangan masyarakat yang tidak mengikat;  
 d. Bantuan luar negeri yang tidak mengikat; dan/ataue. Sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  

@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama dan  setara untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan dan anak merupakan kelompok  masyarakat yang rentan terhadap tindakan ketidakadilan dan ketidaksetaraan serta tindak kekerasan yang dapat mencederai hak dan martabatnya sebagai manusia;  
 c. bahwa maraknya kasus kekerasan terhadap perempuan dan anak di Kabupaten Tasikmalaya diperlukan penanganan dan tindakan nyata dari Pemerintah Daerah untuk menghapuskan segala bentuk kekerasan terhadap perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -117,7 +119,7 @@ c. politik; dand. hukum.
 
 #### Pasal 4
 
-Penyelenggaraan pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 3 huruf a dilaksanakan melalui:
+Penyelenggaraan pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 3 huruf a dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan, penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
 c. fasilitasi dan bantuan permodalan;  
@@ -125,14 +127,14 @@ d. fasilitasi pengembangan jaringan pemasaran; dane. Pemberdayaan Ekonomi Peremp
 
 #### Pasal 5
 
-Pemberdayaan perempuan dibidang sosial budaya sebagaimana dimaksud dalam  Pasal 3 huruf b dilaksanakan melalui:
+Pemberdayaan perempuan dibidang sosial budaya sebagaimana dimaksud dalam  Pasal 3 huruf b dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong  pemenuhan hak atas pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial perempuan;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi  permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitatif yang terjangkau dan berkualitas utamanya dibidang kesehatan  reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 6
 
-Penyelenggaraan pemberdayaan perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 3 huruf c meliputi:
+Penyelenggaraan pemberdayaan perempuan dibidang politik sebagaimana  dimaksud dalam Pasal 3 huruf c meliputi:  
 a. pendidikan politik untuk perempuan;  
 b. pelibatan perempuan dalam pengambilan keputusan diberbagai level pemerintahan;  
 c. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
@@ -140,7 +142,7 @@ d. partisipasi dalam pemilihan umum; dane. pengembangan diri melalui organisasi 
 
 #### Pasal 7
 
-Penyelenggaraan pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 3 huruf d meliputi:
+Penyelenggaraan pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 3 huruf d meliputi:  
 a. peningkatan pengetahuan dan kesadaran dibidang hukum melalui  layanan komunikasi, informasi dan edukasi; danb. fasilitasi akses dan layanan konsultasi serta bantuan hukum cuma-cuma.  
 
 # BAB III
@@ -170,7 +172,7 @@ Perlindungan Anak secara Umum
 
 #### Pasal 10
 
-Perlindungan Anak meliputi bidang:
+Perlindungan Anak meliputi bidang:  
 a. Perlindungan Anak di bidang Agama dan Kepercayaan;  
 b. Perlindungan Anak di bidang Sipil dan Kebebasan;  
 c. Perlindungan Anak di bidang Kesehatan;  
@@ -194,7 +196,7 @@ Perlindungan Anak di Bidang Sipil dan Kebebasan
 
 #### Pasal 12
 
-Perlindungan anak dibidang Sipil sebagaimana dimaksud dalam Pasal 10 pada  huruf b meliputi:
+Perlindungan anak dibidang Sipil sebagaimana dimaksud dalam Pasal 10 pada  huruf b meliputi:  
 a. penjaminan bahwa setiap anak berhak untuk mendapatkan nama dan  identitas diri sejak kelahirannya yang berupa akta kelahiran;  
 b. pembuatan akta kelahiran menjadi tanggungjawab Pemerintah;  
 c. pembuatan akta kelahiran tidak dikenai biaya dan ditanggung oleh  Pemerintah Daerah; dand. ketentuan pembuatan akte kelahiran diatur lebih lanjut dalam Peraturan  Bupati.  
@@ -214,7 +216,7 @@ Perlindungan Anak di Bidang Kesehatan
 
 #### Pasal 14
 
-Perlindungan anak di bidang Kesehatan sebagaimana dimaksud dalam Pasal 10  huruf c, meliputi:
+Perlindungan anak di bidang Kesehatan sebagaimana dimaksud dalam Pasal 10  huruf c, meliputi:  
 a. menyediakan fasilitas dan menyelenggarakan upaya kesehatan yang  komprehensif bagi anak, agar setiap anak memperoleh derajat kesehatan  yang optimal sejak dalam kandungan yang dilakukan oleh Pemerintah  Daerah;  
 b. menyelenggarakan upaya kesehatan yang komprehensif dan gratis bagi  semua anak termasuk juga dari keluarga miskin;  
 c. memberikan jaminan kesehatan bagi anak korban kekerasan,eksploitasi,  penelantaran dan perlakuan salah;  
@@ -226,7 +228,7 @@ Perlindungan Anak di Bidang Pendidikan
 
 #### Pasal 15
 
-Penyelenggaraan perlindungan anak di bidang pendidikan sebagaimana  dimaksud dalam Pasal 10 huruf d, meliputi:
+Penyelenggaraan perlindungan anak di bidang pendidikan sebagaimana  dimaksud dalam Pasal 10 huruf d, meliputi:  
 a. memberikan kesempatan seluas-luasnya kepada anak untuk memperoleh  pendidikan yang dilakukan oleh Pemerintah Daerah, keluarga dan orang tua;  
 b. setiap penyelenggara pendidikan dilarang mengeluarkan anak dari Lembaga  Pendidikan tanpa adanya jaminan terhadap keberlangsungan pendidikan  anak;  
 c. penyelenggaraan program wajib belajar 12 (dua belas) tahun, diatur dalam  Peraturan Daerah tersendiri;  
@@ -238,7 +240,7 @@ Perlindungan Anak di Bidang Sosial
 
 #### Pasal 16
 
-Penyelenggaraan perlindungan anak di bidang sosial sebagaimana dimaksud  dalam Pasal 10 huruf e dilakukan dalam bentuk:
+Penyelenggaraan perlindungan anak di bidang sosial sebagaimana dimaksud  dalam Pasal 10 huruf e dilakukan dalam bentuk:  
 a. Layanan pencegahan, meliputi:
 1. Membuat kebijakan tentang perlindungan anak dari segala bentuk  kekerasan, eksploitasi, penelantaran dan perlakuan salah di semua  kehidupan anak;  
 2. Membuat kebijakan tentang jaminan kesejahteraan sosial bagi anak  yang mengalami kekerasan, eksploitasi, penelantaran dan perlakuan  salah; dan
@@ -263,7 +265,7 @@ Perlindungan Anak di Bidang Perlindungan Khusus
 
 #### Pasal 17
 
-Perlindungan Anak di bidang Perlindungan khusus sebagaimana dimaksud  dalam Pasal 10 huruf f, meliputi:
+Perlindungan Anak di bidang Perlindungan khusus sebagaimana dimaksud  dalam Pasal 10 huruf f, meliputi:  
 a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum (ABH);  
 c. anak tereksploitasi secara ekonomi dan atau seksual;  
@@ -494,7 +496,7 @@ j. hak untuk mendapatkan visum et repertum secara cuma-cuma; dan k. hak korban d
 
 #### Pasal 28
 
-Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 27 diberikan hak-hak khusus, sebagai berikut:
+Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 27 diberikan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -511,7 +513,7 @@ Umum
 
 #### Pasal 29
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggungjawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggungjawab bersama:  
 a. Pemerintah Daerah;  
 b. pemerintah desa;  
 c. Masyarakat; dand. orangtua, Wali dan/atau Keluarga.  
@@ -569,7 +571,7 @@ Umum
 
 #### Pasal 34
 
-Pemerintah Daerah melaksanakan kegiatan penyelenggaraan perlindungan  perempuan dan perlindungan anak, yang meliputi:
+Pemerintah Daerah melaksanakan kegiatan penyelenggaraan perlindungan  perempuan dan perlindungan anak, yang meliputi:  
 a. pencegahan;  
 b. pelayanan; danc. rehabilitasi sosial.  
 
@@ -616,7 +618,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 38
 
-Bentuk pelayanan terhadap korban sebagaimana dimaksud dalam Pasal 36  huruf b, terdiri atas:
+Bentuk pelayanan terhadap korban sebagaimana dimaksud dalam Pasal 36  huruf b, terdiri atas:  
 a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi: 1. pelayanan pengaduan, konsultasi dan konseling;  
 2. pelayanan pendampingan;  
 3. pelayanan kesehatan;  
@@ -630,12 +632,12 @@ a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi: 1. p
 
 #### Pasal 39
 
-Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam Pasal 38 huruf a angka 1, meliputi:
+Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam Pasal 38 huruf a angka 1, meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (informed consent).  
 
 #### Pasal 40
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 38 huruf a angka 2 meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 38 huruf a angka 2 meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. pendampingan korban selama proses recovery psikologis;  
 c. mendampingi korban selama proses medicolegal;  
@@ -646,7 +648,7 @@ g. melakukan koordinasi dengan pendamping yang lain; danh. memberikan penanganan
 
 #### Pasal 41
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 38 huruf a angka 3  meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 38 huruf a angka 3  meliputi:  
 a. pertolongan pertama kepada korban oleh petugas yang berkompeten;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan c. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
 
@@ -694,7 +696,7 @@ Umum
 
 #### Pasal 45
 
-Untuk membantu pemberdayaan perempuan dan perlindungan anak, Pemerintah Daerah dapat membentuk:
+Untuk membantu pemberdayaan perempuan dan perlindungan anak, Pemerintah Daerah dapat membentuk:  
 a. Unit Pelaksana Teknis Daerah Pemberdayaan Perempuan dan Perlindungan  Anak;  
 b. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak di tingkat  Daerah;  
 c. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan;  
@@ -852,7 +854,7 @@ f. keterlibatan lembaga masyarakat dalam pemenuhan hak anak; dan g. keterlibatan
 
 #### Pasal 57
 
-Klaster hak anak sebagaimana dimaksud dalam Pasal 56 ayat (4) huruf b yang meliputi:
+Klaster hak anak sebagaimana dimaksud dalam Pasal 56 ayat (4) huruf b yang meliputi:  
 a. Hak sipil dan kebebasan yang meliputi:
 1. hak anak atas identitas;  
 2. hak perlindungan identitas;  

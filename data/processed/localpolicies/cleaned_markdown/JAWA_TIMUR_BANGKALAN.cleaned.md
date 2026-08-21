@@ -75,7 +75,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 ## ASAS DAN TUJUAN
 
-Pasal2 Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:
+Pasal2 Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:  
 a. penghormatan terhadap hak-hak korban.  b. keadilan dan kesetaraan gender.  c. non-diskriminasi.  d. kepentingan terbaik bagi korban.  
 
 Pasal3 Tujuan penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis kesetaraan gender dan kepentingan lerbaik bagi anak yang terjadi di rumah tangga danlatau publik.  
@@ -116,7 +116,7 @@ Kelembagaan Pasal7 (1) Penyelenggaraan perlindungan terhadap korban dilakukan se
 
 ## Bagian Kedua
 
-Bentuk dan Mekanisme Pelayanan Pasal8 (1) Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT meliputi:
+Bentuk dan Mekanisme Pelayanan Pasal8 (1) Bentuk-bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan unluk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal, merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial, merupakan pelayanan yang dibeTikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari ancaman dan intimidasi bagi korban dan membeTikandukungan secara sosial sehingga korban mempunyai rasa percaya diTi, kekuatan, dan kemandiTiandalam menyelesaikan masalahnya;  

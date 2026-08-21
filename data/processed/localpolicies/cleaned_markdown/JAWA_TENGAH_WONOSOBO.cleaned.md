@@ -14,12 +14,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa masalah sosial perempuan dan anak di Kabupaten  Wonosobo terus meningkat dan semakin kompleks,  sehingga diperlukan upaya penanggulangan secara  menyeluruh, terpadu dan berkelanjutan yang  diselenggarakan oleh Pemerintah Daerah, masyarakat dan  dunia usaha;  
 b. bahwa penyelenggaraan perlindungan sosial bagi  perempuan dan anak masih terdapat kesenjangan dalam  penanganannya sehingga perlu mendapat prioritas sesuai  dengan yang dibutuhkan;  
 c. bahwa urusan sosial merupakan urusan wajib yang  menjadi tugas dan tanggung jawab Pemerintah Daerah,  sehingga diperlukan pengaturan mengenai perlindungan  sosial bagi perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf c maka perlu membentuk  Peraturan Daerah Kabupaten Wonosobo tentang  Perlindungan Sosial Bagi Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -120,7 +122,7 @@ Ruang lingkup perlindungan sosial meliputi: perempuan dan anak  penyandang masal
 
 #### Pasal 3
 
-Perempuan dan anak penyandang masalah sosial sebagaimana dimaksud  dalam Pasal 2, meliputi:
+Perempuan dan anak penyandang masalah sosial sebagaimana dimaksud  dalam Pasal 2, meliputi:  
 a. Anak terlantar;  
 b. Anak yang menjadi korban tindak kekerasan berbasis gender dan/atau  diperlakukan salah;  
 c. Anak nakal;  
@@ -142,7 +144,7 @@ b. advokasi Sosial; dan/atauc. bantuan hukum.
 
 #### Pasal 5
 
-Perlindungan sosial bagi perempuan dan anak berazaskan:
+Perlindungan sosial bagi perempuan dan anak berazaskan:  
 a. kemanusiaan;  
 b. Keadilan dan kesetaraan gender;  
 c. pengayoman;  
@@ -153,12 +155,12 @@ g. profesional; danh. kemitraan.
 
 #### Pasal 6
 
-Perlindungan sosial bagi perempuan dan anak berfungsi:
+Perlindungan sosial bagi perempuan dan anak berfungsi:  
 a. mencegah timbul, tumbuh dan berkembangnya permasalahan kesejahteraan sosial.  b. memulihkan fungsi-fungsi sosial dalam mencapai kemandirian. c. meningkatkan ketahanan sosial masyarakat dalam mencegah dan  menangani permasalahan kesejahteraan sosial.  d. mengembangkan potensi sosial.  e. memberdayakan sumber daya sosial.  f. mencegah dari kerawanan sosial.  
 
 #### Pasal 7
 
-Perlindungan sosial bagi perempuan dan anak bertujuan:
+Perlindungan sosial bagi perempuan dan anak bertujuan:  
 a. menghapus segala bentuk kekerasan terhadap perempuan dan anak b. melindungi, memberikan rasa aman bagi perempuan dan anak c. ingkatkan taraf kesejahteraan, kualitas, dan kelangsungan hidup. d. memulihkan fungsi sosial dalam rangka mencapai kemandirian. e. meningkatkan ketahanan sosial masyarakat dalam mencegah dan  menangani masalah kesejahteraan sosial.  f. meningkatkan kesadaran, kemampuan, kepedulian dan tanggung jawab  sosial dunia usaha dalam penyelenggaraan kesejahteraan sosial secara  melembaga dan berkelanjutan.  g. meningkatkan kesadaran, kemampuan, kepedulian dan tanggungjawab  sosial dunia usaha dan masyarakat.  
 
 # BAB IV
@@ -182,7 +184,7 @@ d. usaha perlindungan dan penunjang.
 
 #### Pasal 9
 
-Usaha Pencegahan sebagaimana dimaksud dalam Pasal 8 ayat (3) huruf a,  dapat dilakukan antara lain melalui usaha:
+Usaha Pencegahan sebagaimana dimaksud dalam Pasal 8 ayat (3) huruf a,  dapat dilakukan antara lain melalui usaha:  
 a. penyuluhan dan bimbingan sosial;  
 b. bantuan Sosial;  
 c. peningkatan derajat kesehatan dan pendidikan;  
@@ -217,7 +219,7 @@ i. Pengawasan.
 
 #### Pasal 12
 
-Usaha perlindungan dan penunjang sebagaimana dimaksud dalam Pasal 8 ayat (3) huruf d, dapat dilakukan melalui usaha penyediaan fasilitas yang  meliputi:
+Usaha perlindungan dan penunjang sebagaimana dimaksud dalam Pasal 8 ayat (3) huruf d, dapat dilakukan melalui usaha penyediaan fasilitas yang  meliputi:  
 a. Panti Sosial Asuhan Anak yang dapat menerima rujukan dari panti swasta  dan dilengkapi sarana workshop;  
 b. Balai Karya Wanita;  
 c. Penyediaan fasilitas/aksesbilitas penyandang cacat pada bangunan dan  sarana umum.  
@@ -334,7 +336,7 @@ h. Lembaga kesejahteraan sosial; dang. Lembaga kesejahteraan sosial asing.
 
 #### Pasal 25
 
-Organisasi profesi sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf f  meliputi:
+Organisasi profesi sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf f  meliputi:  
 a. ikatan pekerja sosial profesional;  
 b. lembaga pendidikan pekerjaan sosial; danc. lembaga kesejahteraan sosial.  
 
@@ -457,7 +459,7 @@ Penyidikan dapat dilaksanakan oleh Penyidik Pegawai Negeri Sipil (PPNS) di  ling
 
 #### Pasal 41
 
-Dalam melaksanakan tugas penyidikan, Penyidik Pegawai Negeri Sipil  berwenang:
+Dalam melaksanakan tugas penyidikan, Penyidik Pegawai Negeri Sipil  berwenang:  
 a. menerima, mencari, mengumpulkan dan meneliti keterangan atau laporan  berkenaan dengan tindak pidana;  
 b. meneliti, mencari dan mengumpulkan keterangan mengenai orang pribadi  atau badan tentang kebenaran perbuatan yang dilakukan sehubungan  dengan tindak pidana;  
 c. meminta keterangan dan barang bukti dari orang pribadi atau badan  sehubungan dengan tindak pidana;  

@@ -20,9 +20,11 @@ Menimbang:
  
  
  
+ 
 bahwa untuk melaksanakan ketentuan angka I huruf H angka 2  dan angka 6 kolom 5 lampiran Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang Nomor  11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan Anak  dari Tindakan Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -134,7 +136,7 @@ Ruang Lingkup
 
 #### Pasal 3
 
-Lingkup pengaturan dalam Perlindungan Perempuan dan Anak dari tindakan  kekerasan meliputi:
+Lingkup pengaturan dalam Perlindungan Perempuan dan Anak dari tindakan  kekerasan meliputi:  
 a. Bentuk-bentuk kekerasan terhadap perempuan dan anak;  
 b. Hak-hak korban;  
 c. Kewajiban dan tanggung jawab;  
@@ -224,7 +226,7 @@ https://jdih.pesisirbaratkab.go.id
 
 #### Pasal 11
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
@@ -361,7 +363,7 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 21
 
-Bentuk pelayanan terhadap korban yang diselenggarakan oleh UPTD PPA meliputi:
+Bentuk pelayanan terhadap korban yang diselenggarakan oleh UPTD PPA meliputi:  
 a. pelayanan medis;  
 b. pelayanan medicolegal (visum);  
 c. pelayanan psikososial;  
@@ -465,7 +467,7 @@ e. perlindungan khusus anak.
 
 #### Pasal 28
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak  bersumberdari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak  bersumberdari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. sumber lain yang sah dan tidak mengikat.  
 
 #### Pasal 29

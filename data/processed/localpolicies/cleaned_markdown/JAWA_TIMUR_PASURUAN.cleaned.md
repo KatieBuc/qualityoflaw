@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat penghormatan dan perlindungan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga pemberdayaan perempuan dan pelindungan anak harus dilakukan secara terpadu dan berkesinambungan melalui akselerasi pemenuhan dan perlindungan hak-hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -101,7 +103,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan Perempuan dan Pelindungan Anak dilaksanakan berdasarkan  asas:
+Pemberdayaan Perempuan dan Pelindungan Anak dilaksanakan berdasarkan  asas:  
 a. penghormatan hak asasi manusia;  
 b. kesetaraan gender;  
 c. non diskriminasi;  
@@ -120,14 +122,14 @@ c. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlind
 
 #### Pasal 4
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  a dilakukan melalui:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  a dilakukan melalui:  
 a. memberikan akses kepada perempuan dan anak terhadap layanan pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
 c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:  
 a. pembentukan, pengembangan dan penguatan kapasitas lembaga perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak serta layanan bantuan hukum;  
 b. peningkatan kualitas sumber daya manusia pengelola;  
 c. penguataan kapasitas kelembagaan PUG dan Anak di daerah; dan d. penguatan dan pengembangan sistem data gender dan anak.  
@@ -138,26 +140,26 @@ Dalam rangka menyelenggarakan tujuan sebagaimana dimaksud dalam Pasal 3  huruf c
 
 #### Pasal 7
 
-Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:
+Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. memperkuat mekanisme koordinasi dan jejaring kerja antar unit layanan  dalam upaya penanganan kasus-kasus kekerasan;  
 b. menyediakan materi-materi Komunikasi, Informasi dan Edukasi (KIE) terkait pencegahan dan penanganan kekerasan; danc. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  pencegahan dan penanganan kekerasan.  
 
 #### Pasal 8
 
-Upaya preventif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:
+Upaya preventif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. mengadakan penyuluhan kesadaran hukum bagi masyarakat khususnya  bagi perempuan dan anak;  
 b. mengembangkan gerakan masif dan berkelanjutan yang melibatkan masyarakat dalam aksi pencegahan dan penangangan kekerasan;  
 c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  dand. melibatkan peran dan partisipasi masyarakat dalam pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 9
 
-Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:
+Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. mengoptimalkan unit layanan teknis terkait pengaduan kekerasan terhadap perempuan dan anak;  
 b. menyediakan sarana dan prasarana yang memadai untuk penanganan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, bantuan hukum,  pemulangan, reintegrasi sosial; danc. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat dan akurat oleh aparat penegak hukum.  
 
 #### Pasal 10
 
-Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:
+Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan,  yang meliputi antara lain tenaga psikolog, psikiater, rohaniwan/pendamping  spiritual, pengacara, tenaga medis; danb. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
 
 # BAB III
@@ -170,7 +172,7 @@ Setiap perempuan dan anak mempunyai hak dasar sebagai manusia yang wajib  dilind
 
 #### Pasal 12
 
-Setiap perempuan berhak untuk:
+Setiap perempuan berhak untuk:  
 a. hidup, mempertahankan hidup dan meningkatkan taraf kehidupannya;  
 b. hidup tentram, aman, damai, bahagia, sejahtera lahir dan batin;  
 c. menikmati lingkungan hidup yang baik dan sehat;  
@@ -183,7 +185,7 @@ i. memperoleh pelayanan untuk meningkatkan pendapatannya; dan  j. memperoleh hak
 
 #### Pasal 13
 
-Setiap anak berhak untuk:
+Setiap anak berhak untuk:  
 a. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat  dan martabat kemanusiaan, serta mendapat perlindungan dari tindak  kekerasan, eksploitasi, diskriminasi dan penelantaran;  
 b. mendapatkan identitasnya;  
 c. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan;  
@@ -199,7 +201,7 @@ h. penyandang disabilitas berhak memperoleh rehabilitasi, bantuan sosial, dan  p
 
 #### Pasal 14
 
-Setiap orang wajib:
+Setiap orang wajib:  
 a. memenuhi hak-hak perempuan sebagaimana dimaksud dalam Pasal 12; dan b. memenuhi hak-hak anak sebagaimana dimaksud dalam Pasal 13.  
 
 # BAB V
@@ -212,7 +214,7 @@ Umum
 
 #### Pasal 15
 
-Dalam rangka pemberdayaan perempuan dan pelindungan anak di Daerah  dibentuk:
+Dalam rangka pemberdayaan perempuan dan pelindungan anak di Daerah  dibentuk:  
 a. Pusat Pelayanan Terpadu, dapat berbentuk:
 
 ##### 1. PPTPPA;  
@@ -308,7 +310,7 @@ d. kemampuan meningkatkan partisipasi anak dalam keluarga; dan e. konseling bagi
 
 #### Pasal 25
 
-Pendanaan pelaksanaan kebijakan, program dan kegiatan pemberdayaan perempuan dan pelindungan anak di Daerah bersumber dari:
+Pendanaan pelaksanaan kebijakan, program dan kegiatan pemberdayaan perempuan dan pelindungan anak di Daerah bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat.  
 
 # BAB IX

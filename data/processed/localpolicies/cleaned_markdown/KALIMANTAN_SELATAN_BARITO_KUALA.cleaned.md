@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta untuk meningkatkan kualitas hidup perempuan dan anak merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab pemerintah daerah;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak di Kabupaten Barito Kuala terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -116,7 +118,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
@@ -124,7 +126,7 @@ d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah untuk:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah untuk:  
 a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -138,7 +140,7 @@ d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelap
 
 #### Pasal 4
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -163,14 +165,14 @@ d. hak bebas dari berbagai stigma;dane. hak mendapatkan kebebasan.
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggungjawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggungjawab bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat;  
 c. Keluarga;  
 d. Orangtua;  
 e. Lembaga terkait baik langsung maupun tidak langsung.  
 
-Pasal7 (1) Kewajiban dan tanggung jawab pemerintah daerah sebagaimanadimaksud dalam Pasal 6 huruf a, meliputi:
+Pasal7 (1) Kewajiban dan tanggung jawab pemerintah daerah sebagaimanadimaksud dalam Pasal 6 huruf a, meliputi:  
 a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan yang ditetapkan oleh pemerintah;  
 b. menetapkan kebijakan, program, dan kegiatan perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
@@ -336,7 +338,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan perempuan dan
 
 #### Pasal 25
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD); dan b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 26
@@ -518,7 +520,7 @@ Cukup jelas
 
 #### Pasal 17
 
-Huruf a Cukup jelas Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara lain:
+Huruf a Cukup jelas Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara lain:  
 a. anak yang dilacurkan;  
 b. anak yang bekerja di sektor konstruksi;  
 c. anak yang bekerja sebagai pemulung;  

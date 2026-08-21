@@ -14,11 +14,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap anak dan perempuan berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak;  
 b. bahwa tindak kekerasan terhadap anak dan  perempuan terus meningkat, sehingga diperlukan upaya perlindungan yang komprehensif dan maksimal, adanya tindakan nyata, dukungan kelembagaan secara formal, peraturan yang dapat menjamin pelaksanaan dari Pemerintah Daerah dalam meningkatkan partisipasi masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -103,7 +105,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan Anak dan Perempuan dari tindak  kekerasan adalah:
+Asas penyelenggaraan perlindungan Anak dan Perempuan dari tindak  kekerasan adalah:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. pemberdayaan yang terbaik bagi korban.  
@@ -139,7 +141,7 @@ k. hak atas pendampingan psikologis dan hukum; danl. hak atas perlindungan dan p
 
 #### Pasal 5
 
-Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud  dalam Pasal 4, juga mendapatkan hak-hak sebagai berikut:
+Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud  dalam Pasal 4, juga mendapatkan hak-hak sebagai berikut:  
 a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar dalam bidang pendidikan;  
 c. hak pelayanan dasar dalam bidang kesehatan;  
@@ -152,7 +154,7 @@ e. hak bebas dari berbagai stigma; danf. hak mendapatkan kebebasan.
 
 #### Pasal 6
 
-Kewajiban dan tanggungjawab dalam penyelenggaraan perlindungan terhadap  anak dan perempuan korban kekerasan adalah:
+Kewajiban dan tanggungjawab dalam penyelenggaraan perlindungan terhadap  anak dan perempuan korban kekerasan adalah:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dand. orangtua.  
@@ -187,7 +189,7 @@ Dalam melaksanakan kewajiban dan tanggung jawab Pemerintah Daerah  sebagaimana d
 
 #### Pasal 11
 
-Kewajiban dan tanggung jawab masyarakat terhadap perlindungan anak dan  Perempuan Korban kekerasan berupa:
+Kewajiban dan tanggung jawab masyarakat terhadap perlindungan anak dan  Perempuan Korban kekerasan berupa:  
 a. mencegah terjadinya kekerasan terhadap anak dan perempuan;  
 b. memberikan pendidikan budaya damai dan kesetaraan gender;  
 c. memberikan informasi dan/ atau melaporkan bila terjadi tindak kekerasan terhadap anak dan perempuan kepada aparat penegak hukum atau pihak  yang berwenang;  
@@ -227,14 +229,14 @@ f. bidang kerohanian; dang. bidang psikologi
 
 #### Pasal 15
 
-Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal 14 ayat (2)  huruf a memiliki tugas:
+Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal 14 ayat (2)  huruf a memiliki tugas:  
 a. melakukan wawancara dan observasi keadaan korban;  
 b. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan ke layanan lanjutan dan pihak terkait;  dand. melakukan administrasi proses pengaduan.  
 
 #### Pasal 16
 
-Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 14 ayat (2)  huruf b memiliki tugas:
+Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 14 ayat (2)  huruf b memiliki tugas:  
 a. melakukan pemeriksaan, pengobatan, dan perawatan lanjutan terhadap  korban;  
 b. melakukan koordinasi pelaksanaan rehabilitasi kesehatan dan mediko legal;  
 c. melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti  pada korban, pembuatan visum et repertum dan visum et psikiatrikum;  
@@ -243,30 +245,30 @@ e. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan f. membua
 
 #### Pasal 17
 
-Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 14  ayat (2) huruf c memiliki tugas:
+Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 14  ayat (2) huruf c memiliki tugas:  
 a. melakukan pendampingan selama proses penanganan kasus;  
 b. melakukan konseling; danc. melaksanakan fungsi sosial.  
 
 #### Pasal 18
 
-Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  14 ayat (2) huruf d memiliki tugas:
+Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  14 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
 b. membuat laporan perkembangan proses pendampingan pemulangan dan  rehabilitasi sosial; danc. melakukan pemantauan paling lama 3 (tiga) bulan setelah korban  dipulangkan ke keluarganya.  
 
 #### Pasal 19
 
-Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 14 ayat  (2) huruf e memiliki tugas:
+Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 14 ayat  (2) huruf e memiliki tugas:  
 a. mendampingi dan membela setiap proses hukum; danb. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 20
 
-Bidang kerohanian sebagaimana dimaksud dalam Pasal 14 ayat (2) huruf f memiliki tugas:
+Bidang kerohanian sebagaimana dimaksud dalam Pasal 14 ayat (2) huruf f memiliki tugas:  
 a. melakukan bimbingan rohani kepada korban;  
 b. melakukan koordinasi dengan pihak terkait; danc. membuat laporan dan rekomendasi layanan lanjutan;  
 
 #### Pasal 21
 
-Bidang psikologi sebagaimana yang dimaksud dalam pasal 14 ayat (2) huruf g  memiliki tugas:
+Bidang psikologi sebagaimana yang dimaksud dalam pasal 14 ayat (2) huruf g  memiliki tugas:  
 a. melakukan bimbingan psikologi kepada korban;  
 b. membuat rekomendasi layanan lanjutan; danc. melakukan koordinasi dan rujukan ke layanan lanjutan
 
@@ -304,7 +306,7 @@ d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan de
 
 #### Pasal 26
 
-Upaya pencegahan juga dilakukan oleh:
+Upaya pencegahan juga dilakukan oleh:  
 a. masyarakat;  
 b. keluarga; danc. orangtua.  
 
@@ -330,7 +332,7 @@ g. mudah dijangkau; danh. dijamin kerahasiaannya.
 
 #### Pasal 29
 
-Bentuk pelayanan terhadap korban meliputi:
+Bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
@@ -340,12 +342,12 @@ f. pelayanan pemulangan dan reintegrasi sosial; dang. pelayanan psikologi.
 
 #### Pasal 30
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 29 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 29 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan.  
 
 #### Pasal 31
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 29 huruf b  meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 29 huruf b  meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;  
 b. mendampingi korban selama proses medicolegal;  
 c. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan  dan pengadilan;  
@@ -361,7 +363,7 @@ b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondi
 
 #### Pasal 33
 
-Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 29 huruf d  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman  untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial sehingga korban mempunyai rasa  percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya,  dengan cara:
+Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 29 huruf d  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman  untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial sehingga korban mempunyai rasa  percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya,  dengan cara:  
 a. memberikan bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
 
 #### Pasal 34
@@ -378,7 +380,7 @@ a. Pemerintah Daerah lain; danb. instansi dan lembaga terkait baik pemerintah ma
 
 #### Pasal 36
 
-Pelayanan psikologi sebagaimana dimaksud dalam Pasal 29 huruf g bertujuan untuk:
+Pelayanan psikologi sebagaimana dimaksud dalam Pasal 29 huruf g bertujuan untuk:  
 a. memberikan pendampingan dan pelayanan psikologis; dan b. memberikan pemulihan psikologi korban dari trauma.  
 
 ## Bagian Ketiga
@@ -599,7 +601,7 @@ Huruf d Yang dimaksud dengan ”pemberdayaan yang terbaik bagi  korban” adalah
 
 #### Pasal 3
 
-Ayat (1) Cukup jelas Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:
+Ayat (1) Cukup jelas Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:  
 a. Pencegahan primer, semua orang, keluarga, masyarakat dan negara dalam upaya meningkatkan kemampuan pengetahuan, pemahaman dan menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi, meliputi sosialisasi kebijakan, pelayanan yang memadai, kebijakan tempat bekerja yang mendukung, serta pelatihan keterampilan hidup bagi perempuan dan anak. Yang dimaksud dengan pelatihan keterampilan hidup meliputi penyelesaian konflik tanpa kekerasan, keterampilan menangani stress, manajemen sumber daya, membuat keputusan efektif, komunikasi interpersonal secara efektif, tuntunan perkembangan psikososial perempuan dan anak.  b. Pencegahan sekunder, ditujukan bagi kelompok  masyarakat dengan risiko tinggi dalam upaya meningkatkan keterampilan, termasuk pelatihan dan layanan korban untuk menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi pada generasi berikut. Kegiatan yang dilakukan di sini di antaranya dengan melalukan kunjungan rumah bagi orang tua yang baru mempunyai anak untuk melakukan self assessment apakah mereka berisiko melakukan kekerasan pada anak di kemudian hari.  c. Pencegahan tersier, dimaksudkan untuk  meningkatkan kemampuan pengasuhan yang menjaga agar kekerasan terhadap perempuan dan anak tidak terulang lagi, di sini yang dilakukan adalah pelayanan terpadu untuk perempuan dan anak yang menjadi korban kekerasan, melalui konseling, pelatihan tatalaksana stres.  
 
 Huruf b Yang dimaksud dengan aspek “pelayanan dan  pendampingan” adalah kegiatan dan tindakan segera  yang dilakukan oleh tenaga profesional dan  pendamping sesuai dengan profesi masing-masing  berupa konseling, terapi dan advokasi guna  penguatan dan pemulihan korban kekerasan.  

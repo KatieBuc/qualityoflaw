@@ -14,12 +14,14 @@ Menimbang:
  
  
  
+ 
 a bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga penyelenggaraan  perlindungan perempuan dan anak harus dilakukan secara  terpadu dan berkesinambungan melalui pemenuhan dan  perlindungan hak-hak perempuan dan anak dalam kehidupan  pribadinya, keluarga, bermasyarakat, berbangsa dan  bernegara;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak di  Kota probolinggo belum dilaksanakan secara menyeluruh  sehingga pemenuhan dan perlindungan hak perempuan dan  anak belum dilaksanakan secara optimal;  
 c. bahwa dalam Undang-Undang tentang Pemerintahan Daerah menyatakan bahwa pemberdayaan perempuan dan  perlindungan anak merupakan salah satu urusan  pemerintahan wajib yang tidak berkaitan dengan pelayanan  dasar dan menjadi kewenangan Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -116,7 +118,7 @@ a. pencegahan kekerasan terhadap perempuanb. penyediaan layanan bagi perempuan k
 
 #### Pasal 5
 
-Pemerintah daerah berkewajiban melaksanakan kebijakan, program dan kegiatan  perlindungan perempuan, yang dapat dilakukan dengan upaya:
+Pemerintah daerah berkewajiban melaksanakan kebijakan, program dan kegiatan  perlindungan perempuan, yang dapat dilakukan dengan upaya:  
 a. menyediakan dan memfasilitasi pelayanan perlindungan perempuan;  
 b. menyusun sistem pendataan perlindungan perempuan;  
 c. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  perlindungan perempuan antar Perangkat Daerah; dand. melakukan kerjasama dengan dunia usaha, lembaga nonpemerintah, perusahaan  swasta, Yayasan, dan lembaga di dalam negeri lainnya serta lembaga  internasional, sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -191,7 +193,7 @@ e. membentuk sistem pencegahan kekerasan; danf. memberikan pendidikan kritis men
 
 #### Pasal 12
 
-Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal  11 ayat (2) dilakukan oleh:
+Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal  11 ayat (2) dilakukan oleh:  
 a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat;  
 c. lembaga pendidikan; dan/ataud. Lembaga Swadaya Masyarakat.  
@@ -284,7 +286,7 @@ h. mempekerjakan untuk jenis pekerjaan yang ringan; dani. memberikan kesempatan 
 
 #### Pasal 21
 
-Pemerintah Daerah wajib melaksanakan pencegahan kekerasan terhadap anak  yang meliputi:
+Pemerintah Daerah wajib melaksanakan pencegahan kekerasan terhadap anak  yang meliputi:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -301,7 +303,7 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 21 huruf b disebabkan  karena 
 
 #### Pasal 24
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 21 huruf c disebabkan  karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 21 huruf c disebabkan  karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/atau  d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/atau tujuan tertentu.  
@@ -321,7 +323,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban antara lain pelacuran,  k
 
 #### Pasal 27
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 21 huruf f disebabkan  karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 21 huruf f disebabkan  karena:  
 a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum berupa  ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa  menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan  hakiki seseorang; dan/ataub. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh  melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu  yang berlawanan dengan kehendak sendiri.  
 
 #### Pasal 28
@@ -339,7 +341,7 @@ Penanganan
 
 #### Pasal 30
 
-Penyelenggaraan Penanganan terhadap anak korban kekerasan dilaksanakan  dengan:
+Penyelenggaraan Penanganan terhadap anak korban kekerasan dilaksanakan  dengan:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -358,7 +360,7 @@ e. pelayanan hukum; danf. pelayanan reintegrasi sosial.
 
 #### Pasal 32
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam  Pasal 31 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud dalam  Pasal 31 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban;  
 b. identifikasi Kasus; danc. persetujuan dilakukan tindakan.  
 
@@ -373,7 +375,7 @@ e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelan
 
 #### Pasal 34
 
-Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 31 huruf c  meliputi:
+Pelayanan rehabilitasi medis sebagaimana dimaksud dalam Pasal 31 huruf c  meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi  fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan  c. rujukan ke layanan kesehatan.  
 
@@ -400,7 +402,7 @@ b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam 
 
 #### Pasal 38
 
-Dalam rangka upaya Perlindungan perempuan dan anak di Kota Probolinggo perlu  dibentuk:
+Dalam rangka upaya Perlindungan perempuan dan anak di Kota Probolinggo perlu  dibentuk:  
 a. Pusat Pembelajaran Keluarga;  
 b. Pusat Pelayanan Perlindungan Perempuan dan Anak
 
@@ -410,7 +412,7 @@ Pusat Pembelajaran Bagi Keluarga
 
 #### Pasal 39
 
-Dalam rangka upaya pencegahan masalah psikososial keluarga, pemulihan dan menciptakan keluarga yang harmonis serta pencegahan terjadinya perkawinan  anak Pemerintah Daerah perlu membentuk Pusat Pembelajaran bagi keluarga yang  berfungsi sebagai:
+Dalam rangka upaya pencegahan masalah psikososial keluarga, pemulihan dan menciptakan keluarga yang harmonis serta pencegahan terjadinya perkawinan  anak Pemerintah Daerah perlu membentuk Pusat Pembelajaran bagi keluarga yang  berfungsi sebagai:  
 a. memberikan bimbingan konseling kepada keluarga dalam rangka  meningkatkan ketahanan dankehidupan keluarga;  
 b. penyedia layanan konsultasi keluarga dan sosialisasi pencegahan perkawinan  anak; danc. memberikan informasi dan solusi permasalahan keluarga.  
 
@@ -473,7 +475,7 @@ c. memblokir secara lokal situs yang mengandung unsur pornografi dan  pornoaksi;
 
 #### Pasal 46
 
-Penanggung jawab usaha dan/atau kegiatan yang melanggar ketentuan  sebagaimana dimaksud dalam Pasal 43, Pasal 44, Pasal 45 dikenakan sanksi  adminisratif berupa:
+Penanggung jawab usaha dan/atau kegiatan yang melanggar ketentuan  sebagaimana dimaksud dalam Pasal 43, Pasal 44, Pasal 45 dikenakan sanksi  adminisratif berupa:  
 a. teguran tertulis;  
 b. paksaan pemerintah;  
 c. pembekuan izin; dand. pencabutan izin.  
@@ -542,7 +544,7 @@ c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi
 
 #### Pasal 55
 
-Pendanaan untuk penyelenggaraan Perlindungan terhadap Perempuan dan anak,  bersumber dari:
+Pendanaan untuk penyelenggaraan Perlindungan terhadap Perempuan dan anak,  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/ataub. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peratuaran  perundang-undangan.  
 
 # BAB XII

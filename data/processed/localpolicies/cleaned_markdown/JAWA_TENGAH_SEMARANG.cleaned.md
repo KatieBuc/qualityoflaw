@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah disebutkan pada intinya bahwa pemberdayaan perempuan merupakan urusan wajib yang harus diselenggarakan oleh pemerintah daerah ;  
@@ -25,6 +26,7 @@ d. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Dae
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan ;  
 
 Mengingat:  
+ 
  
  
  
@@ -115,14 +117,14 @@ k. ketentuan peralihan; danl. ketentuan penutup.
 
 #### Pasal 3
 
-Pemberdayaan dan Perlindungan Perempuan dilaksanakan berdasarkan azas asas:
+Pemberdayaan dan Perlindungan Perempuan dilaksanakan berdasarkan azas asas:  
 a. penghormatan terhadap hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan terbaik perempuan.  
 
 #### Pasal 4
 
-Tujuan Peraturan Daerah ini adalah:
+Tujuan Peraturan Daerah ini adalah:  
 a. memberdayakan perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar mampu hidup lebih mandiri; dan  b. mencegah dan menangani resiko kekerasan dan kerentanan perempuan agar  kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan dan  keadilan.  
 
 # BAB IV
@@ -162,14 +164,14 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.
 
 #### Pasal 7
 
-Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi di bidang:
+Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi di bidang:  
 a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum.  
 
 #### Pasal 8
 
-Pemberdayaan perempuan di bidang ekonomi sebagaimana dimaksud dalam  Pasal 7 huruf a dilaksanakan melalui:
+Pemberdayaan perempuan di bidang ekonomi sebagaimana dimaksud dalam  Pasal 7 huruf a dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -177,7 +179,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 9
 
-Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud  dalam Pasal 7 huruf b dilaksanakan melalui:
+Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud  dalam Pasal 7 huruf b dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong  pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk  meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi  permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga  mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
@@ -218,7 +220,7 @@ Umum
 
 #### Pasal 13
 
-Pelaksanaan perlindungan perempuan diberikan kepada:
+Pelaksanaan perlindungan perempuan diberikan kepada:  
 a. perempuan pekerja / buruh;  
 b. perempuan lanjut usia;  
 c. perempuan penyandang disabilitas;  
@@ -356,7 +358,7 @@ c. rehabilitasi dan reintegrasi sosial ; dand. pelayanan kesehatan .
 
 #### Pasal 25
 
-Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan dilakukan melalui tahapan:
+Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan dilakukan melalui tahapan:  
 a. perumusan kebijakan perencanaan program dan kegiatan;  
 b. penganggaran program dan kegiatan ;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  

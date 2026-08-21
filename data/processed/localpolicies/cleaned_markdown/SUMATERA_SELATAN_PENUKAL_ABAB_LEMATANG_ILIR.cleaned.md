@@ -58,7 +58,7 @@ Pasa11 Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Kabupaten adalah Kabu
 18. Reintegrasi sosial adalah upaya penyatuan kembali korban dengan pihak keluarga, keluarga pengganti atau masyarakat yang dapat memberi perlindungan dan pemenuhan kebutuhan bagi korban.  
 19. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT, adalah suatu unit yang menyelenggarakan pelayanan terpadu untuk korban kekerasan dan terintegrasi dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi dan/ atau korban tindak pidana perdagangan orang.  
 
-Pasal2 Penyelenggaraan Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas:
+Pasal2 Penyelenggaraan Pelindungan Perempuan dan Anak, dilaksanakan berdasarkan asas:  
 a. penghonnatan dan perlindungan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -80,7 +80,7 @@ f. memberikan perlindungan kepada pelapor dan saksi; dan g. melakukan pemberdaya
 
 ## Bagian Kesatu
 
-Hak Perempuan Pasal4 Setiap Perempuan berhak:
+Hak Perempuan Pasal4 Setiap Perempuan berhak:  
 a. untuk hidup, mempertahankan hidup dan kehidupannya;  
 b. membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah;  
 c. mengembangkan diri melalui pemenuhan kebutuhan dasarnya;  
@@ -110,12 +110,12 @@ Pemenuhan Hak Anak
 
 ### Paragraf 1
 
-Hak dan KewajibanAnak PasalS Setiap Anak berhak:
+Hak dan KewajibanAnak PasalS Setiap Anak berhak:  
 a. atas pencatatan kelahiran;  
 b. mendapatkan kesehatan;  
 c. memperoleh pendidikan; dand. kesejahteraan sosial.  
 
-Pasal6 Setiap Anak wajib:
+Pasal6 Setiap Anak wajib:  
 a. menghormati orang tua, wali dan guru;  
 b. mencintai keluarga, masyarakat dan menyayangi ternan;  
 c. mencintai tanah air, bangsa dan negara;  
@@ -147,20 +147,20 @@ Pasa111 Setiap penyelenggara satuan pendidikan dilarang mengeluarkan Anak dari l
 
 Pasa112 Setiap penyelenggara satuan pendidikan wajib berkoordinasi dengan instansi terkait perlindungan Anak apabila mendapati Anak putus sekolah karena menjadi korban tindak kekerasan.  
 
-Pasal13 Anak penyandang disabilitas dan Anak berkebutuhan khusus diberikan kesempatan yang sarna untuk memperoleh layanan pendidikan:
+Pasal13 Anak penyandang disabilitas dan Anak berkebutuhan khusus diberikan kesempatan yang sarna untuk memperoleh layanan pendidikan:  
 a. formal;  
 b. nonformal;  
 c. informal;  
 d. pendidikan luar biasa; dane. inklusi.  
 
-Pasal14 Pendidikan Anak Usia Dini usia 0 (nol) sampai dengan 3 (tiga) tahun dan 4 (empat) sampai dengan 6 (enam) tahun dapat diselenggarakan oleh:
+Pasal14 Pendidikan Anak Usia Dini usia 0 (nol) sampai dengan 3 (tiga) tahun dan 4 (empat) sampai dengan 6 (enam) tahun dapat diselenggarakan oleh:  
 a. lembaga Posyandu;  
 b. taman Posyandu;  
 c. Pos Pendidikan Anak Usia Dini;dand. lembaga satuan Pendidikan Anak Usia Dini sejenis.  
 
 ### Paragraf 5
 
-Kesejahteraan Sosial Pasal15 (1) Penyelenggaraan Perlindungan dan Pemberdayaan Anak dibidang kesejahteraan sosial sebagaimana dimaksud dalam Pasal 5 huruf d meliputi:
+Kesejahteraan Sosial Pasal15 (1) Penyelenggaraan Perlindungan dan Pemberdayaan Anak dibidang kesejahteraan sosial sebagaimana dimaksud dalam Pasal 5 huruf d meliputi:  
 a. anak yang berhadapan dengan hukum;  
 b. anak korban kekerasan yang tereksploitasi secara ekonomi dan seksual;  
 c. anak terlantar;  
@@ -203,7 +203,7 @@ f. tidak dipekerjakan pada tempat atau lingkungan yang dapat mengganggu proses t
 g. memberi kesempatan untuk mendapat pendidikan sesuai dengan bakat dan minatnya;  
 h. mernpekerjakan untuk jenis pekerjaan yang ringan; dan 1. memberikan kesempatan libur satu hari dalam seminggu.  
 
-Pasa117 Pemenuhan hak pekerja Anak pada sektor informal sebagaimana dimaksud dalam Pasal 16 ayat (1)meliputi:
+Pasa117 Pemenuhan hak pekerja Anak pada sektor informal sebagaimana dimaksud dalam Pasal 16 ayat (1)meliputi:  
 a. penyuluhan kepada para pemangku kepentingan tentang hak hak Anak;  
 b. bantuan layanan psikologi, medis dan hukum dan reintegrasi sosial ekonomi;  
 c. pemberdayakan keluarga mela1ui pemberian pelatihan, stimulan modal usaha dan pendampingan;  
@@ -224,14 +224,14 @@ c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarka
 d. membentuk sistem pencegahan kekerasan;  
 e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan Perempuan dan Anak korban kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak Perempuan dan Anak bagi masyarakat.  
 
-Pasal20 Upaya pencegahan kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 19 ayat (1) selain Pemerintah Kabupaten dilaksanakan juga oleh:
+Pasal20 Upaya pencegahan kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 19 ayat (1) selain Pemerintah Kabupaten dilaksanakan juga oleh:  
 a. keluarga danIatau kerabat terdekat;  
 b. masyarakat;  
 c. lembaga pendidikan; dand. lembaga Swadaya Masyarakat.  
 
 ## Bagian Kelima
 
-Penanganan terhadap Perempuan dan Anak Korban Kekerasan Pasal21 Penyelenggaraan Penanganan terhadap Perempuan dan Anak korban kekerasan dilaksanakan dengan:
+Penanganan terhadap Perempuan dan Anak Korban Kekerasan Pasal21 Penyelenggaraan Penanganan terhadap Perempuan dan Anak korban kekerasan dilaksanakan dengan:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -239,7 +239,7 @@ d. non diskriminasi;
 e. mudah dijangkau;  
 f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
 
-Pasal22 Bentuk penanganan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 21 meliputi pelayanan:
+Pasal22 Bentuk penanganan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 21 meliputi pelayanan:  
 a. pengaduan, konsultasi, dan konseling;  
 b. pendampingan;  
 c. rehabilitasi medis;  
@@ -248,14 +248,14 @@ e. hukum; danf. reintegrasi sosial.
 
 ## Bagian Keenam
 
-Pernbiayaan Pasal23 Pembiayaan yang diperlukan bagi pelaksanaan Perlindungan Perempuan dan Anak dibebankan pada:
+Pernbiayaan Pasal23 Pembiayaan yang diperlukan bagi pelaksanaan Perlindungan Perempuan dan Anak dibebankan pada:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber dana lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-undangan yang berlaku.  
 
 # BAB III
 
 ## PUSATPELAYANANTERPADU(PPT)
 
-Pasal24 (1) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan dilakukan secara terpadu oleh PPT. (2) PPT sebagaimana dimaksud pada ayat (1) merupakan bagian yang terintegrasi dan merupakan satu kesatuan dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi darr/atau korban tindak pidana perdagangan orang. (3) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:
+Pasal24 (1) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan dilakukan secara terpadu oleh PPT. (2) PPT sebagaimana dimaksud pada ayat (1) merupakan bagian yang terintegrasi dan merupakan satu kesatuan dengan PPT yang menyelenggarakan pelayanan terpadu untuk saksi darr/atau korban tindak pidana perdagangan orang. (3) Penyelenggaraan pelayanan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. memberikan layanan cepat dan tanpa biaya kepada korban;  
 b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penerjemah dan relawan pendamping yang diperlukan bagi korban;  
@@ -279,7 +279,7 @@ h. atas kerahasiaan identitasnya;
 J. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaaan sesuai dengan ketentuan Peraturan Perundang-undangan; dan
 k. atas pelayanan bimbingan rohani.  
 
-Pasal26 Perempuan dan anak korban kekerasan selain berhak sebagaimana dimaksud dalam Pasal 25, juga mendapatkan hak khusus sebagai berikut:
+Pasal26 Perempuan dan anak korban kekerasan selain berhak sebagaimana dimaksud dalam Pasal 25, juga mendapatkan hak khusus sebagai berikut:  
 a. hak atas kelangsungan hidup;  
 b. tumbuh dan berkembang;  
 c. mendapatkan perlindungan yang sarna; dand. berpartisipasi dalam kehidupan bennasyarakat.  
@@ -314,7 +314,7 @@ d. monitoring;dane. evaluasi Pelaksanaan Perlindungan Perempuan dan Anak.
 
 ## PERAN SERTA MASYARAKAT
 
-Pasal30 (1) Peran serta masyarakat dalam penyelenggaraan Perlindungan terhadap Perempuan dan anak sebagai berikut:
+Pasal30 (1) Peran serta masyarakat dalam penyelenggaraan Perlindungan terhadap Perempuan dan anak sebagai berikut:  
 a. membentuk mitra keluarga di tingkat Keluraharr/Desa oleh masyarakat;  
 b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 c. melakukan pertolongan pertama kepada korban; dan d. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh:a. perorangan;  

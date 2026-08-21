@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 
 a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
 b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -140,7 +142,7 @@ Umum
 
 #### Pasal 5
 
-1. Setiap perempuan berhak untuk:
+1. Setiap perempuan berhak untuk:  
 a. hidup dan mempertahankan hidupnya, serta meningkatkan taraf kesejahteraan dalam kehidupannya;  
 b. melaksanakan ajaran agama sesuai dengan syariat islam;  
 c. memperoleh keadilan, rasa aman, dan kebebasan menyampaikan pendapat tanpa diskriminasi;  
@@ -244,7 +246,7 @@ Perempuan Kepala Keluarga
 
 1. Perempuan kepala keluarga sebagaimana dimaksud dalam Pasal 9 huruf b, merupakan janda yang ditinggalkan mati suaminya dan akibat perceraian wajib mendapat perlindungan.  
 2. Pelaksanaan perlindungan bagi perempuan kepala keluarga sebagaimana dimaksud pada ayat (1) dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi, stigma negatif dan pemberdayaan ekonomi bagi perempuan kepala keluarga.  
-3. Perempuan sebagai kepala keluarga sebagaimana dimaksud pada ayat (2) mendapatkan hak perlindungan atas:
+3. Perempuan sebagai kepala keluarga sebagaimana dimaksud pada ayat (2) mendapatkan hak perlindungan atas:  
 a. tindakan diskriminasi dan upaya pelemahan fungsi perempuan sebagai penyangga ekonomi keluarga;  
 b. penguatan kemampuan dan pengakuan sebagai kepala keluarga di lingkungannya; dan
 c. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
@@ -259,7 +261,7 @@ Perempuan Pekerja RumahTangga
 #### Pasal 13
 
 1. Pelaksanaan perlindungan bagi perempuan pekerja rumah tangga sebagaimana dimaksud dalam Pasal 9 huruf c, dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk-bentuk diskriminasi, perlakuan kejam, tidak manusiawi, merendahkan martabat manusia, dan eksploitasi dalam hubungan kerja.  
-2. Perempuan pekerja rumah tangga sebagaimana dimaksud pada ayat (1) wajib mendapat perlindungan dari majikan berupa:
+2. Perempuan pekerja rumah tangga sebagaimana dimaksud pada ayat (1) wajib mendapat perlindungan dari majikan berupa:  
 a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b.jaminan kesehatan dan sosial; dan
 c.jaminan tidak melakukan diskriminasi, perlakuan tidak manusiawi, merendahkan martabat manusia, dan eksploitasi.  
@@ -271,7 +273,7 @@ Perempuan Pekerja/Buruh
 #### Pasal 14
 
 1. Pelaksanaan perlindungan bagi perempuan pekerja/buruh sebagaimana dimaksud dalam Pasal 9 huruf d, untuk memberikan perlindungan dari tindakan eksploitasi ekonomi dan perlakuan kejam, tidak manusiawi dan mengusahakan penghargaan yang layak atas pekerjaan.  
-2. Perempuan pekerja/buruh sebagaimana dimaksud pada ayat (1) wajib mendapat perlindungan dari pemberi kerja berupa:
+2. Perempuan pekerja/buruh sebagaimana dimaksud pada ayat (1) wajib mendapat perlindungan dari pemberi kerja berupa:  
 a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b.jaminan kesehatan dan sosial; dan
 c. jaminan tidak melakukan diskriminasi, perlakuan tidak manusiawi, merendahkan martabat manusia, dan eksploitasi.  
@@ -283,7 +285,7 @@ Perempuan Penyandang Disabilitas
 #### Pasal 15
 
 1. Pelaksanaan perlindungan bagi perempuan penyandang disabilitas sebagaimana dimaksud dalam Pasal 9 huruf e, dalam rangka memberikan perlindungan dan pencegahan, terhadap bentuk-bentuk diskriminasi antara lain bebas dari perlakuan kejam, tidak manusiawi, merendahkan martabat manusia, dan bebas dari eksploitasi.  
-2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:
+2. Perempuan penyandang disabilitas sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:  
 a.jaminan keberlangsungan dan pengembangan diri pribadi;  
 b.aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial; dan c. upaya penanganan dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
@@ -294,7 +296,7 @@ Perempuan Tuna Wisma
 #### Pasal 16
 
 1. Pelaksanaan perlindungan bagi perempuan tuna wisma sebagaimana dimaksud dalam Pasal 9 huruf f, dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk-bentuk kekerasan yang disebabkan oleh tidak adanya tempat berlindung atau tempat tinggal tetap.  
-2. Perempuan tuna wisma sebagaimana dimaksud pada ayat (1) mendapat hak perlindungan atas:
+2. Perempuan tuna wisma sebagaimana dimaksud pada ayat (1) mendapat hak perlindungan atas:  
 a. tempat tinggal yang layak;  
 b. jaminan kesehatan dan sosial;  
 c. pencatatan administrasi kependudukan;  
@@ -308,7 +310,7 @@ Perempuan Mantan Warga Binaan Lembaga Pemasyarakatan
 #### Pasal 17
 
 1. Pelaksanaan perlindungan bagi perempuan mantan warga binaan Lembaga Pemasyarakatan sebagaimana dimaksud dalam Pasal 9 huruf g, dalam rangka memberikan perlindungan dari hambatan untuk menyesuaikan diri dalam kehidupan masyarakat, sehingga dapat melaksanakan kehidupan secara normal.  
-2. Perempuan mantan warga binaan Lembaga Pemasyarakatan sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:
+2. Perempuan mantan warga binaan Lembaga Pemasyarakatan sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:  
 a. rehabilitasi dan reintegrasi sosial; dan
 b. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
 
@@ -319,7 +321,7 @@ Perempuan Korban Kekerasan
 #### Pasal 18
 
 1. Pelaksanaan perlindungan bagi perempuan korban kekerasan sebagaimana dimaksud dalam Pasal 9 huruf h, dalam rangka memberikan perlindungan hukum dan/atau pemulihan kesehatan.  
-2. Perlindungan bagi perempuan korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:
+2. Perlindungan bagi perempuan korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. bantuan hukum;  
 b. pendampingan pasca terjadinya tindak kekerasan;  
 c. rehabilitasi dan reintegrasi sosial; dan
@@ -336,7 +338,7 @@ Perempuan korban konflik
 
 #### Pasal 20
 
-Pelaksanaan perlindungan bagi perempuan korban konflik sebagaimana dimaksud dalam Pasal 9 huruf i, melalui:
+Pelaksanaan perlindungan bagi perempuan korban konflik sebagaimana dimaksud dalam Pasal 9 huruf i, melalui:  
 a. memberikan rasa aman;  
 b. pemenuhan kebutuhan dasar perempuan korban konflik;  
 c. menghilangkan trauma; dan
@@ -351,7 +353,7 @@ Perempuan Lanjut Usia
 1. Pelaksanaan perlindungan bagi perempuan lanjut usia sebagaimana dimaksud dalam Pasal 9 huruf j, dalam rangka melaksanakan fungsi sosialnya dan berperan aktif secara wajar dalam kehidupan sosialnya.  
 2. Perlindungan perempuan lanjut usia sebagaimana dimaksud pada ayat (1) lebih diutamakan perlindungan dari anak dan ahli warisnya.  
 3. Apabila perempuan lanjut usia tidak mendapat pelayanan dari anak dan ahli warisnya dan/atau tidak memiliki anak dan ahli waris lainnya sebagaimana dimaksud pada ayat (2), maka perlindungan perempuan lanjut usia menjadi tanggungjawab Pemerintah Kabupaten.  
-4. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:
+4. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:  
 a. layanan kesehatan dasar untuk memelihara dan meningkatkan derajat kesehatan termasuk layanan gerontologik/geriatric,
 b. penggunaan fasilitas dan aksesibilitas sarana dan prasarana umum; dan c. layanan administrasi pemerintahan.  
 
@@ -368,7 +370,7 @@ Umum
 #### Pasal 22
 
 1. Pemerintah Kabupaten berkewajiban dan bertanggung jawab terhadap perlindungan perempuan.  
-2. Upaya perlindungan perempuan sebagaimana dimaksud pada ayat (1) meliputi:
+2. Upaya perlindungan perempuan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. penetapan kebijakan, program, dan kegiatan;  
 b.penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan; dan
@@ -394,16 +396,16 @@ h. penyusunan sistern pendataan perlindungan perempuan.
 
 #### Pasal 25
 
-1. Pemerintah Kabupaten berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk:
+1. Pemerintah Kabupaten berkewajiban dan bertanggung jawab untuk melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dalam bentuk:  
 a. mengumpulkan data dan informasi tentang korban kekerasan serta peraturan perundang-undangan;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan akan korban kekerasan;  
 d. menumbuhkan dukungan tokoh agama dan tokoh adat untuk membangun kesadaran masyarakat akan pentingnya perlindungan terhadap perempuan;  
 e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan korban kekerasan; dan
 f. menyusun laporan terhadap penyelenggaraan perlindungan perempuan korban kekerasan.  
-2. Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan, Pemerintah Kabupaten berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:
+2. Untuk mengantisipasi terjadinya tindak kekerasan terhadap perempuan, Pemerintah Kabupaten berkewajiban menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:  
 a. membentuk lembaga dan memfasilitasi terselenggaranya layanan terpadu untuk korban dengan melibatkan unsur masyarakat; dan b. mendorong kepedulian masyarakat akan pentinganya perlindungan terhadap korban.  
-3. Untuk mencegah terjadinya tindak kekerasan terhadap perempuan, Pemerintah Kabupaten melakukan upaya sebagai berikut:
+3. Untuk mencegah terjadinya tindak kekerasan terhadap perempuan, Pemerintah Kabupaten melakukan upaya sebagai berikut:  
 a. melakukan sosialisasi mengenai regulasi dan kebijakan yang berkenaan dengan kekerasan terhadap perempuan bagi perangkat gampong, tokoh adat dan tokoh agama;  
 b. memberikan penyuluhan untuk segera melaporkan kepada aparat setempat apabila terjadi kekerasan terhadap perempuan;  
 c. membentuk jaringan kerja dalam upaya pencegahan kekerasan; dan d. upaya lainnya yang dinilai strategis untuk mencegah terjadinya kekerasan terhadap perempuan.  
@@ -430,7 +432,7 @@ Lembaga Perlindungan Perempuan
 
 #### Pasal 28
 
-1. Pemerintah Gampong mendukung upaya perlindungan perempuan dengan melakukan:
+1. Pemerintah Gampong mendukung upaya perlindungan perempuan dengan melakukan:  
 a. menerbitkan peraturan tingkat gampong tentang perlindungan perempuan;  
 b. mensosialisasikan peraturan terkait pemberdayaan dan perlindungan perempuan kepada masyarakat;  
 c. mendorong terwujudnya lingkungan gampong yang ramah terhadap perempuan;  
@@ -480,16 +482,16 @@ d. monitoring, evaluasi dan pelaporan.
 
 #### Pasal 32
 
-1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf a, dilaksanakan melalui:
+1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf a, dilaksanakan melalui:  
 a. pemetaan, pengumpulan, pengolahan dan penyajian data secara terpilah;  
 b.koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan SKPK terkait; dan
 c. penetapan program dan kegiatan dalam dokumen perencanaan.  
 2. Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan dan standar operasional prosedur.  
 3. Penganggaran program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf b, dilaksanakan melalui kebijakan umum anggaran yang dituangkan dalam APBK.  
-4. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf c, dilaksanakan melalui:
+4. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 31 huruf c, dilaksanakan melalui:  
 a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen anggaran SKPK; dan
 b.koordinasi dan sinkronisasi pelaksanaan program dan kegiatan dengan SKPK terkait.  
-5. Pelaksanaan monitoring, evaluasi dan pelaporan sebagaimana dimaksud dalam Pasal 31 huruf d, dilaksanakan melalui:
+5. Pelaksanaan monitoring, evaluasi dan pelaporan sebagaimana dimaksud dalam Pasal 31 huruf d, dilaksanakan melalui:  
 a. monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan; dan
 b. membuat laporan secara berkala setiap tahunnya yang disampaikan kepada Bupati.  
 
@@ -501,7 +503,7 @@ b. membuat laporan secara berkala setiap tahunnya yang disampaikan kepada Bupati
 
 1. Masyarakat dapat berperan serta dalam perlindungan perempuan.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan dan/atau organisasi.  
-3. Peran serta sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat dilakukan dengan cara:
+3. Peran serta sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat dilakukan dengan cara:  
 a. memberikan masukan dan saran kepada Pemerintah Kabupaten terkait kebijakan, program dan kegiatan perlindungan perempuan;  
 b. memantau kebijakan Pemerintah Kabupaten terhadap kebijakan yang terkait dengan perlindungan perempuan;  
 c. menginisiasi atau mengusulkan kebijakan baru yang perlu ditetapkan oleh Pemerintah Kabupaten dalam upaya mengoptimalkan perlindungan perempuan;  
@@ -545,7 +547,7 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban kekerasan.
 
 #### Pasal 37
 
-Segala biaya pelaksanaan kebijakan perencanaan program dan kegiatan terkait perlindungan perempuan bersumber dari:
+Segala biaya pelaksanaan kebijakan perencanaan program dan kegiatan terkait perlindungan perempuan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Kabupaten; dan
 b. Sumber lainnya yang sah dan tidak mengikat.  
 
@@ -556,7 +558,7 @@ b. Sumber lainnya yang sah dan tidak mengikat.
 #### Pasal 38
 
 1. Bupati melalui Perangkat Daerah yang membidangi urusan pemberdayaan perempuan melakukan pembinaan dan pengawasan atas perlindungan perempuan.  
-2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai berikut:
+2. Bentuk pembinaan sebagaimana dimaksud pada ayat (1) adalah sebagai berikut:  
 a. memberikan sosialisasi kepada masyarakat dan dunia usaha mengenai kebijakan perlindungan perempuan;  
 b. menyediakan buku, leaflet, brosur mengenai perlindungan perempuan, dan isu-isu terkait lainnya serta menyebarluaskannya ke masyarakat;  
 c. fasilitasi peningkatan kapasitas lembaga penyelenggara perlindungan perempuan;  

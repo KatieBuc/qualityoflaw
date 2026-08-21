@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya  pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan, sehingga tercapainya pemenuhan, pemajuan, penegakan dan perlindungan hak asasi manusia secara universal dan hakiki;  
 c. bahwa sehubungan dengan maksud pada huruf b dan  dalam upaya memberikan landasan hukum untuk pelaksanaannya di Kabupaten Sintang, maka perlu diatur perlindungan perempuan dan anak konban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah Kabupaten Sintang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -118,7 +120,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Sint
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:
+Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:  
 a. Penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. Keadilan dan kesetaraan gender;  
 c. Non diskriminasi;  
@@ -141,7 +143,7 @@ Penyelenggaraan pelayanan terhadap korban dilakukan dengan  prinsip-prinsip anta
 
 #### Pasal 5
 
-Setiap korban berhak:
+Setiap korban berhak:  
 a. mendapatkan perlindungan dari masyarakat dan pemerintah  maupun lembaga non pemerintah di tingkat lokal, nasional  maupun internasional;  
 b. mendapatkan informasi tentang keberadaan tempat  pengaduan.  c. mendapatkan pelayanan secara terpadu sesuai dengan  prinsip-prinsip pelayanan;  
 d. melakukan tuntutan dan/atau gugatan hukum melalui badan  peradilan dan/atau peradilan di luar pengadilan;  
@@ -152,7 +154,7 @@ h. mendapatkan jaminan atas hak-haknya yang berkaitan  dengan statusnya sebagai 
 
 #### Pasal 6
 
-Setiap korban berkewajiban:
+Setiap korban berkewajiban:  
 a. tidak melakukan pembalasan terhadap pelaku kekerasan;  
 b. menjadi saksi bila tidak membahayakan diri sendiri dan bila  ada jaminan keamanan terhadap diri korban;  
 c. memberi kesempatan pada pelaku untuk memberi ganti rugi  kepada korban selain hukuman yang ditetapkan oleh  Pengadilan;  
@@ -196,7 +198,7 @@ Kewajiban dan Tanggung Jawab Masyarakat
 
 #### Pasal 9
 
-Kewajiban dan tanggung jawab masyarakat sebagai berikut:
+Kewajiban dan tanggung jawab masyarakat sebagai berikut:  
 a. melakukan upaya memberikan dukungan terhadap  pengembangan program pencegahan terjadinya kekerasan;  
 b. melakukan penyusunan usulan mengenai perumusan dan  kebijakan tentang perlindungan;  
 c. melakukan...  c. melakukan upaya perlindungan dan dukungan moril atau  materiil kepada korban;  
@@ -232,7 +234,7 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 12
 
-Bentuk-bentuk pelayanan terhadap korban meliputi:
+Bentuk-bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka  fisik yang bertujuan untuk pemulihan kondisi fisik korban  yang dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal, adalah satu bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum;  
 c. pelayanan...  c. pelayanan psikososial, merupakan pelayanan yang diberikan  oleh pendamping dalam rangka memulihkan kondisi  traumatis korban, termasuk penyediaan rumah aman untuk  melindungi korban dari berbagai ancaman dan intimidasi bagi  korban dan memberikan dukungan secara sosial sehingga  korban mempunyai rasa percaya diri, kekuatan, dan  kemandirian dalam menyelesaikan masalahnya;  

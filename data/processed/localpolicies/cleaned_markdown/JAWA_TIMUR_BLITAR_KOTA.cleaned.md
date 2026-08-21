@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan, diskriminasi atau perlakuan yang  merendahkan derajat dan martabat manusia serta berhak  mendapatkan rasa aman dan bebas dari segala bentuk  kekerasan ;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami Kekerasan, maka perlu  mendapat Perlindungan hukum;  
 c. bahwa berdasarkan ketentuan dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah  sebagaimana diubah beberapa kali terakhir dengan  Undang-Undang Nomor 9 Tahun 2015, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintahan yang wajib dilaksanakan oleh Pemerintah  Daerah ;  
@@ -23,6 +24,7 @@ d. bahwa penyelenggaraan Perlindungan Perempuan dan  Anak Korban Kekerasan di Ko
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b, huruf c dan huruf d, maka perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan ;  
 
 Mengingat:  
+ 
  
  
  
@@ -104,7 +106,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan,  dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan,  dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban kekerasan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -128,7 +130,7 @@ c. reintegrasi dan rehabilitasi ; dand. pemberdayaan.
 
 #### Pasal 4
 
-Bentuk-bentuk kekerasan terhadap perempuan dan anak dapat berupa:
+Bentuk-bentuk kekerasan terhadap perempuan dan anak dapat berupa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -165,7 +167,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak
 
 #### Pasal 10
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -255,7 +257,7 @@ d.Tindak lanjut penanganan kasus.
 
 #### Pasal 19
 
-Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:
+Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:  
 a. Pelayanan medis ;  
 b. Pelayanan medicolegal ;  
 c. Pelayanan psikososial ;  
@@ -305,7 +307,7 @@ Prinsip-Prinsip Pelayanan dan Pendampingan
 
 #### Pasal 24
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan  dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan  dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -378,7 +380,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 31
 
-Dana untuk penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/ataub. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 32

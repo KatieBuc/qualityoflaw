@@ -18,10 +18,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa anak dan perempuan merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat perlindungan dari kekerasan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -98,7 +100,7 @@ Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan memberikan  perlindun
 
 #### Pasal 4
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  

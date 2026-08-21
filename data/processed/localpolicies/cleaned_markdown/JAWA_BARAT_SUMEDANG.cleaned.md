@@ -16,10 +16,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang berhak untuk bebas dari perlakuan yang bersifat diskriminatif serta memperoleh kesempatan dan manfaat yang sama dalam berbagai bidang pembangunan di Kabupaten Sumedang: anak merupakan salah satu implementasi kebijakan penyelenggaraan urusan pemerintahan konkuren yang menjadi kewenangan pemerintahan daerah, yang menjadi kesatuan dimensi integral mulai dari perencanaan, penganggaran, pelaksanaan, pemantauan, evaluasi, pengawasan dan pelaporan atas kebijakan, program, serta kegiatan pembangunan daerah;  
 c. bahwa untuk mewujudkan kepastian hukum dan memberikan jaminan perlindungan hukum serta sinergitas dan keterpaduan dalam pelaksanaan kebijakan, program, dan kegiatan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten Sumedang, perlu diatur dan ditetapkan dengan Peraturan Daerah:d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Pelindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -114,7 +116,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah Kabupaten adalah Daer
 
 #### Pasal 2
 
-Penyelenggaraan Pemberdayaan Perempuan dan Pelindungan Anak dilaksanakan berdasarkan asas:
+Penyelenggaraan Pemberdayaan Perempuan dan Pelindungan Anak dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak asasi manusia;  
 b. keadilan:c. kesetaraan subtantif;  
 d. Partisipatif:e. nondiskriminasi;  
@@ -129,7 +131,7 @@ Peraturan Daerah ini dimaksudkan sebagai acuan atau pedoman dalam pemerintahan, 
 
 #### Pasal 4
 
-Peraturan Daerah ini bertujuan untuk:
+Peraturan Daerah ini bertujuan untuk:  
 a. mewujudkan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten yang efektif, efisien, optimal, transparan, dan akuntabel, serta tertib administrasi;  
 b. mewujudkan pembangunan yang Responsif Gender dengan mengintegrasikan Perspektif Gender ke dalam perencanaan, penganggaran, pelaksanaan, pemantauan, evaluasi, pengawasan, dan pelaporan atas kebijakan, program, kegiatan dan sub kegiatan pembangunan di Daerah Kabupaten;  
 c. mewujudkan Kesetaraan Gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
@@ -141,7 +143,7 @@ f. meningkatkan sinergisitas Pemerintah Daerah Kabupaten dan masyarakat dalam pe
 
 #### Pasal 5
 
-Ruang lingkup Peraturan Daerah ini mengatur mengenai:
+Ruang lingkup Peraturan Daerah ini mengatur mengenai:  
 a. Kualitas Hidup Perempuan;  
 b. Pelindungan Perempuan;  
 c. Pelindungan Anak;  
@@ -170,7 +172,7 @@ l. pendanaan; danm. sanksi.
 
 #### Pasal 7
 
-Penyelenggaraan Kualitas Hidup Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 6 ayat (1), terdiri atas:
+Penyelenggaraan Kualitas Hidup Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 6 ayat (1), terdiri atas:  
 a. penyelenggaraan PUG di Daerah Kabupaten;  
 b. Pelembagaan PUG di lingkungan Perangkat Daerah Kabupaten;  
 c. Pemberdayaan Perempuan di bidang politik, hukum, sosial, dan ekonomi pada Ormas di Daerah Kabupaten;  
@@ -240,7 +242,7 @@ Pemberdayaan Perempuan di Bidang Politik, Hukum, Sosial, dan Ekonomi pada Ormas 
 
 #### Pasal 13
 
-Pemberdayaan Perempuan di bidang politik, hukum, sosial, dan ekonomi pada Ormas di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 7 huruf c, dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang politik, hukum, sosial, dan ekonomi pada Ormas di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 7 huruf c, dilaksanakan melalui:  
 a. peningkatan kualitas dan kuantitas perempuan di bidang politik, hukum, sosial, dan ekonomi pada Ormas; danb. pelibatan perempuan dalam pengambilan keputusan di bidang politik, hukum, sosial, dan ekonomi pada Ormas.  
 
 #### Pasal 14
@@ -275,7 +277,7 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Da
 
 #### Pasal 17
 
-Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 7 huruf d, dilaksanakan melalui:
+Penguatan dan Pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 7 huruf d, dilaksanakan melalui:  
 a. peningkatan kapasitas Lembaga Penyedia Layanan Pemberdayaan Perempuan;  
 b. peningkatan …b. peningkatan kapasitas sumber daya manusia pengelola Lembaga Penyedia Layanan Pemberdayaan Perempuan;  
 c. pendampingan pelaksanaan layanan Pemberdayaan Perempuan;  
@@ -388,7 +390,7 @@ Ketentuan lebih lanjut mengenai perlindungan perempuan dalam Konflik sebagaimana
 
 #### Pasal 27
 
-Pelindungan perempuan sebagai Saksi dan/atau Korban dilakukan terhadap setiap Perempuan di Daerah Kabupaten meliputi:
+Pelindungan perempuan sebagai Saksi dan/atau Korban dilakukan terhadap setiap Perempuan di Daerah Kabupaten meliputi:  
 a. perempuan sebagai saksi dan korban;  
 b. perempuan sebagai korban KDRT; danc. perempuan pasca perceraian.  
 
@@ -441,7 +443,7 @@ d. membangun mekanisme pelaksanaan pemantauan, evaluasi, dan pelaporan layanan P
 
 #### Pasal 32
 
-Bupati mengoordinasikan Pelindungan Perempuan dari KBG dalam bencana di Daerah Kabupaten, sebagaimana dimaksud dalam Pasal 31 ayat (1), dilakukan dengan cara:
+Bupati mengoordinasikan Pelindungan Perempuan dari KBG dalam bencana di Daerah Kabupaten, sebagaimana dimaksud dalam Pasal 31 ayat (1), dilakukan dengan cara:  
 a. menyediakan informasi dan Data Terpilah berdasarkan jenis kelamin, usia, dan jenis kerentanan KBG;  
 b. membangun komitmen pemangku kepentingan terhadap pencegahan, penanganan, dan Pelindungan Perempuan dari KBG dalam bencana;  
 c. menyediakan fasilitas ruang ramah perempuan, serta sarana dan prasarana yang Responsif Gender pada kondisi tanggap darurat dan rehabilitasi yang mengakomodasi sumber daya lokal;  
@@ -483,7 +485,7 @@ c. mendapatkan pelindungan lebih dari perlakuan Diskriminasi berlapis; dand. unt
 
 #### Pasal 35
 
-Pemerintah Daerah Kabupaten dalam penyelenggaraan perlindungan perempuan penyandang disabilitas sebagaimana dimaksud dalam Pasal 34, wajib:
+Pemerintah Daerah Kabupaten dalam penyelenggaraan perlindungan perempuan penyandang disabilitas sebagaimana dimaksud dalam Pasal 34, wajib:  
 a. menyediakan unit layanan informasi dan tindak cepat untuk perempuan penyandang disabilitas yang menjadi korban Kekerasan;  
 b. memberikan Perlindungan Khusus terhadap perempuan penyandang disabilitas; danc. menyediakan rumah aman yang mudah diakses untuk perempuan penyandang disabilitas.  
 
@@ -497,7 +499,7 @@ Ketentuan lebih lanjut mengenai perlindungan perempuan penyandang disabilitas se
 
 #### Pasal 37
 
-Penyelenggaraan Pelindungan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 21 ayat (1), terdiri atas:
+Penyelenggaraan Pelindungan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 21 ayat (1), terdiri atas:  
 a. pencegahan KTP yang melibatkan para pihak di Daerah Kabupaten;  
 b. penyediaan layanan bagi perempuan korban Kekerasan yang memerlukan koordinasi di Daerah Kabupaten; danc. penguatan dan pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan di Daerah Kabupaten.  
 
@@ -507,7 +509,7 @@ Pencegahan Kekerasan Terhadap Perempuan Yang Melibatkan Para Pihak di Daerah Kab
 
 #### Pasal 38
 
-Pencegahan KTP yang melibatkan para pihak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf a, dilaksanakan melalui:
+Pencegahan KTP yang melibatkan para pihak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf a, dilaksanakan melalui:  
 a. pelaksanaan kebijakan, program, dan kegiatan;  
 b. pemberian edukasi; danc. peningkatan Partisipasi Masyarakat, Dunia Usaha, dan media massa.  
 
@@ -545,7 +547,7 @@ Penyediaan Layanan Bagi Perempuan Korban Kekerasan Yang Memerlukan Koordinasi di
 
 #### Pasal 42
 
-Penyediaan layanan bagi perempuan korban Kekerasan yang memerlukan koordinasi di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf b, dilaksanakan melalui:
+Penyediaan layanan bagi perempuan korban Kekerasan yang memerlukan koordinasi di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf b, dilaksanakan melalui:  
 a. penerimaan laporan dan/atau penjangkauan Korban Kekerasan;  
 b. pemberian informasi tentang hak Korban Kekerasan;  
 c. fasilitasi pemberian layanan kesehatan;  
@@ -593,7 +595,7 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan di Da
 
 #### Pasal 46
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf c dilaksanakan melalui:
+Penguatan dan pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 37 huruf c dilaksanakan melalui:  
 a. peningkatan kapasitas sumber daya manusia Lembaga Penyedia Layanan Perlindungan Perempuan korban Kekerasan di Daerah Kabupaten;  
 b. penyediaan kebutuhan spesifik bagi perempuan dalam situasi darurat dan kondisi khusus di Daerah Kabupaten;  
 c. pengembangan strategi komunikasi, informasi, dan edukasi tentang perlindungan hak perempuan di Daerah Kabupaten;  
@@ -667,12 +669,12 @@ r. hak untuk mendapatkan bantuan hukum dan bantuan lainnya dalam hal anak menjad
 
 #### Pasal 53
 
-Pemenuhan Hak Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 52, terdiri atas:
+Pemenuhan Hak Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 52, terdiri atas:  
 a. pelembagaan Pemenuhan Hak Anak pada lembaga pemerintah, nonpemerintah, dan Dunia Usaha di Daerah Kabupaten; danb. penguatan dan pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak di Daerah Kabupaten.  
 
 #### Pasal 54
 
-Pelembagaan Pemenuhan Hak Anak pada lembaga pemerintah, nonpemerintah, dan Dunia Usaha di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 53 huruf a dilaksanakan melalui:
+Pelembagaan Pemenuhan Hak Anak pada lembaga pemerintah, nonpemerintah, dan Dunia Usaha di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 53 huruf a dilaksanakan melalui:  
 a. pelaksanaan kebijakan, program, dan kegiatan Pemenuhan Hak Anak dalam upaya pencegahan pelanggaran hak Anak pada lembaga pemerintah, nonpemerintah, media, dan Dunia Usaha di Daerah Kabupaten;  
 b. peningkatan partisipasi dan peran Forum Anak atau sejenisnya di Daerah Kabupaten;  
 c. penguatan kelembagaan dan sumber daya lembaga pemerintah, nonpemerintah, media, dan Dunia Usaha di Daerah Kabupaten;  
@@ -706,7 +708,7 @@ e. jumlah kecamatan dengan predikat kecamatan layak Anak pada klaster Pemenuhan 
 
 #### Pasal 57
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 53 huruf b dilaksanakan melalui:
+Penguatan dan pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 53 huruf b dilaksanakan melalui:  
 a. peningkatan kapasitas sumber daya Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak di Daerah Kabupaten;  
 b. pendampingan pelaksanaan layanan peningkatan kualitas hidup Anak di Daerah Kabupaten;  
 c. pengembangan materi dan pelaksanaan komunikasi, informasi, dan edukasi Pemenuhan Hak Anak bagi Lembaga Penyedia Layanan Peningkatan Kualitas Hidup Anak di Daerah Kabupaten;  
@@ -762,7 +764,7 @@ c. pemberian bantuan sosial bagi Anak yang berasal dari Keluarga tidak mampu; da
 
 #### Pasal 63
 
-Selain berkewajiban dan bertanggung jawab dalam melaksanakan Pelindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61 dan Pasal 62, Pemerintah Daerah Kabupaten berkewajiban untuk menyelenggarakan:
+Selain berkewajiban dan bertanggung jawab dalam melaksanakan Pelindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61 dan Pasal 62, Pemerintah Daerah Kabupaten berkewajiban untuk menyelenggarakan:  
 a. perlindungan Anak dalam Konflik;  
 b. perlindungan Anak sebagai Saksi dan/atau Korban;  
 c. Pelindungan Anak dari tindak KGB dalam bencana; dand. perlindungan Anak penyandang disabilitas.  
@@ -785,7 +787,7 @@ Ketentuan mengenai hak perempuan Penyandang Disabilitas sebagaimana dimaksud dal
 
 #### Pasal 68
 
-Selain mendapatkan hak sebagai penyandang disabilitas sebagaimana dimaksud dalam Pasal 34 ayat (2) dan Pasal 67, Anak penyandang disabilitas memiliki hak:
+Selain mendapatkan hak sebagai penyandang disabilitas sebagaimana dimaksud dalam Pasal 34 ayat (2) dan Pasal 67, Anak penyandang disabilitas memiliki hak:  
 a. mendapatkan Pelindungan khusus dari Diskriminasi, penelantaran, pelecehan, Eksploitasi, serta kekerasan dan kejahatan seksual;  
 b. mendapatkan perawatan dan pengasuhan Keluarga atau Keluarga pengganti untuk tumbuh kembang secara optimal;  
 c. dilindungi kepentingannya dalam pengambilan keputusan;  
@@ -795,7 +797,7 @@ f. perlakuan yang sama dengan Anak lain untuk mencapai integrasi sosial dan peng
 
 #### Pasal 69
 
-Pemerintah Daerah Kabupaten dalam melaksanakan penyelenggaraan Perlindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61, menyediakan:
+Pemerintah Daerah Kabupaten dalam melaksanakan penyelenggaraan Perlindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61, menyediakan:  
 a. pekerja sosial dan tenaga kesejahteraan sosial;  
 b. tenaga kesehatan yang kompeten dan terlatih;  
 c. petugas …c. petugas pembimbing rohani/ibadah;  
@@ -805,13 +807,13 @@ d. pendidik dan tenaga kependidikan; dan/atau e. tenaga bantuan hukum.
 
 #### Pasal 70
 
-Penyelenggaraan Perlindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61, terdiri atas:
+Penyelenggaraan Perlindungan Khusus Anak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 61, terdiri atas:  
 a. pencegahan KTA yang melibatkan para pihak di Daerah Kabupaten;  
 b. penyediaan layanan bagi AMPK yang memerlukan koordinasi di Daerah Kabupaten; danc. penguatan dan pengembangan Lembaga Penyedia Layanan bagi AMPK di Daerah Kabupaten.  
 
 #### Pasal 71
 
-Pencegahan KTA yang melibatkan para pihak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf a dilaksanakan melalui:
+Pencegahan KTA yang melibatkan para pihak di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf a dilaksanakan melalui:  
 a. pelaksanaan kebijakan, program, dan kegiatan pencegahan KTA yang melibatkan para pihak di Daerah Kabupaten;  
 b. pemberian edukasi kegiatan pencegahan KTA yang melibatkan para pihak di Daerah Kabupaten;  
 c. peningkatan peran serta Masyarakat, Dunia Usaha, media, dan Anak dalam pencegahan KTA di Daerah Kabupaten; dand. penguatan kerja sama untuk mewujudkan KLA, kecamatan layak Anak, dan Desa/kelurahan layak Anak.  
@@ -832,7 +834,7 @@ c. jumlah Ormas, komunitas, Dunia Usaha, media, dan Forum Anak yang berpartisipa
 
 #### Pasal 74
 
-Penyediaan layanan bagi AMPK yang memerlukan koordinasi di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf b dilaksanakan melalui:
+Penyediaan layanan bagi AMPK yang memerlukan koordinasi di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf b dilaksanakan melalui:  
 a. penerimaan laporan atau penjangkauan AMPK;  
 b. pemberian informasi tentang hak AMPK;  
 c. memfasilitasi pemberian layanan kesehatan;  
@@ -863,7 +865,7 @@ h. memfasilitasi kebutuhan Korban penyandang disabilitas; dani. bekerja sama ata
 
 #### Pasal 77
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan bagi AMPK di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf c dilaksanakan melalui:
+Penguatan dan pengembangan Lembaga Penyedia Layanan bagi AMPK di Daerah Kabupaten sebagaimana dimaksud dalam Pasal 70 huruf c dilaksanakan melalui:  
 a. peningkatan kapasitas sumber daya lembaga penyedia layanan penanganan bagi AMPK di Daerah Kabupaten;  
 b. penyediaan bantuan kebutuhan khusus bagi AMPK di Daerah Kabupaten;  
 c. penyediaan komunikasi, informasi, dan edukasi perlindungan AMPK di Daerah Kabupaten;  
@@ -907,7 +909,7 @@ Ketentuan lebih lanjut mengenai penyelenggaraan Perlindungan Khusus Anak di Daer
 
 ## Bagian Kedua Peningkatan Kualitas Keluarga Dalam Mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten
 
-#### Pasal 83 Peningkatan Kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak di Daerah Kabupaten, dilaksanakan melalui:
+#### Pasal 83 Peningkatan Kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak di Daerah Kabupaten, dilaksanakan melalui:  
 a. pelaksanaan kebijakan, program, dan kegiatan; dan b. pengembangan materi dan pelaksanaan komunikasi, informasi, dan edukasi Kesetaraan Gender dan Hak Anak bagi Keluarga.  
 1. Peningkatan Kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten, dilaksanakan sesuai dengan standar dan prosedur.  
 2. Standar peningkatan Kualitas Keluarga sebagaimana dimaksud pada ayat (1) meliputi:a. kelembagaan;  
@@ -934,7 +936,7 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarg
 
 #### Pasal 87
 
-Penguatan dan pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten, dilaksanakan melalui:
+Penguatan dan pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten, dilaksanakan melalui:  
 a. peningkatan kapasitas sumber daya manusia Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga di Daerah Kabupaten;  
 b. penguatan jejaring Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga di Daerah Kabupaten;  
 c. fasilitasi pelaksanaan standardisasi Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga di Daerah Kabupaten; dand. pengembangan Lembaga Penyedia Layanan Peningkatan Kualitas Keluarga di Daerah Kabupaten.  
@@ -963,7 +965,7 @@ Penyediaan Layanan Bagi Keluarga Dalam Mewujudkan Kesetaraan Gender dan Hak Anak
 
 #### Pasal 91
 
-Penyediaan layanan bagi Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten, dilaksanakan melalui:
+Penyediaan layanan bagi Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten, dilaksanakan melalui:  
 a. pelaksanaan penyediaan layanan komprehensif bagi Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten;  
 b. pendampingan ...  b. pendampingan pelaksanaan layanan peningkatan Kualitas Keluarga di Daerah Kabupaten termasuk upaya pencegahan pernikahan usia Anak; danc. penyediaan sarana dan prasarana layanan bagi Keluarga dalam mewujudkan Kesetaraan Gender dan Hak Anak di Daerah Kabupaten.  
 
@@ -1066,7 +1068,7 @@ b. piala; dan/atauc. program pembinaan.
 
 #### Pasal 103
 
-Pendanaan dalam pelaksanaan penyelenggaraan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten, bersumber dari:
+Pendanaan dalam pelaksanaan penyelenggaraan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten, bersumber dari:  
 a. anggaran pendapatan dan belanja Daerah kabupaten; dan/ataub. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan perundang-undangan
 
 # BAB XIV SANKSI

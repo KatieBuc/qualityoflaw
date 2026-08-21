@@ -14,11 +14,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak secara biologis dan filosofis  merupakan kelompok yang rentan terhadap tindak kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa perlindungan terhadap perempuan dan anak  korban tindak kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan terhadap Perempuan dan Anak Korban Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -70,7 +72,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak  korban tindak kekerasan dilakukan berasaskan:
+Penyelenggaraan perlindungan terhadap perempuan dan anak  korban tindak kekerasan dilakukan berasaskan:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
@@ -91,14 +93,14 @@ Bentuk Tindak Kekerasan
 
 #### Pasal 4
 
-Bentuk tindak kekerasan terhadap perempuan dan anak berupa:
+Bentuk tindak kekerasan terhadap perempuan dan anak berupa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual; ataud. penelantaran rumah tangga.  
 
 #### Pasal 5
 
-Kekerasan fisik sebagaimana dimaksud dalam Pasal 4 huruf a  meliputi perbuatan yang mengakibatkan:
+Kekerasan fisik sebagaimana dimaksud dalam Pasal 4 huruf a  meliputi perbuatan yang mengakibatkan:  
 a. rasa sakit menurut ahli medis;  
 b. cedera;  
 c. luka atau cacat pada tubuh seseorang;  
@@ -107,14 +109,14 @@ e. pingsan; dan/atauf. menyebabkan kematian.
 
 #### Pasal 6
 
-Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi perbuatan yang antara lain mengakibatkan:
+Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi perbuatan yang antara lain mengakibatkan:  
 a. ketakutan;  
 b. hilangnya rasa percaya diri;  
 c. hilangnya kemampuan untuk bertindak; dan/atau   d. rasa tidak berdaya.  
 
 #### Pasal 7
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi perbuatan yang berupa:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c meliputi perbuatan yang berupa:  
 a. pelecehan seksual; dan/ataub. pemaksaan hubungan seksual, dengan secara tidak wajar  atau tidak disukai oleh salah satu pihak, untuk tujuan  komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
@@ -143,7 +145,7 @@ d. kekerasan di media massa; dane. perdagangan orang.
 
 #### Pasal 10
 
-Perempuan dan anak korban kekerasan mendapatkan hak  sebagai berikut:
+Perempuan dan anak korban kekerasan mendapatkan hak  sebagai berikut:  
 a. dihormati harkat dan martabatnya sebagai manusia;  
 b. pemulihan kesehatan dan psikologis dari penderitaan yang  dialami;  
 c. menentukan sendiri keputusannya;  
@@ -156,7 +158,7 @@ i. mendapatkan kemudahan dalam proses peradilan; dan   j. pendampingan secara ps
 
 #### Pasal 11
 
-Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 10, juga mendapatkan hak  khusus sebagai berikut:
+Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 10, juga mendapatkan hak  khusus sebagai berikut:  
 a. penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. pelayanan dasar terutama pendidikan wajib belajar 12  tahun;  
 c. perlindungan yang sama;  
@@ -168,7 +170,7 @@ d. bebas dari berbagai stigma; dane. mendapatkan kebebasan.
 
 #### Pasal 12
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan  terhadap perempuan dan anak dari korban tindak kekerasan  merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan  terhadap perempuan dan anak dari korban tindak kekerasan  merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat; danc. Keluarga dan/atau orang tua.  
 
@@ -349,7 +351,7 @@ b. anak sebagai korban; danc. anak sebagai saksi tindak pidana.
 
 #### Pasal 34
 
-Perlakuan terhadap anak sebagai pelaku tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf a, sebagai berikut:
+Perlakuan terhadap anak sebagai pelaku tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf a, sebagai berikut:  
 a. penyidik melakukan upaya penanganan perkara anak yang  berhadapan hukum dengan pendekatan keadilan restoratif  untuk kepentingan terbaik bagi anak wajib melibatkan Balai  Pemasyarakatan, orang tua dan/atau keluarga korban dan  pelaku tindak pidana serta tokoh masyarakat setempat;  
 b. balai pemasyarakatan wajib membuat laporan penelitian  pemasyarakatan;  
 c. dalam hal anak ditahan, maka penempatannya dipisahkan  dengan tahanan orang dewasa atau dititipkan di Rumah  Tahanan khusus anak;  
@@ -361,14 +363,14 @@ h. pembimbingan, pembinaan dan perawatan di Balai  Pemasyarakatan, Rumah Tahanan
 
 #### Pasal 35
 
-Perlakuan terhadap anak sebagai korban tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf b, sebagai berikut:
+Perlakuan terhadap anak sebagai korban tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf b, sebagai berikut:  
 a. segera setelah menerima laporan dari korban tindak pidana, penyidik melakukan interview awal;  
 b. dalam melakukan wawancara, penyidik memperhatikan  situasi dan kondisi korban;  
 c. apabila korban memerlukan perawatan lebih lanjut, setelah  wawancara awal maka korban dapat dirawat atau  ditempatkan pada ruang khusus (sementara) untuk  pelayanan lain yang diperlukan seperti perawatan medik,  psikologi atau pemeriksaan dalam rangka proses  penyelidikan dan penyidikan; dand. setelah korban sembuh dan seluruh pelayanan termasuk  proses hukumnya selesai, korban dapat dipulangkan atau  dititipkan pada rumah perlindungan sosial anak, rumah  aman, pusat trauma, untuk rehabilitasi sosial dan mental.  
 
 #### Pasal 36
 
-Perlakuan terhadap anak sebagai saksi tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf c, sebagai berikut:
+Perlakuan terhadap anak sebagai saksi tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf c, sebagai berikut:  
 a. dalam hal anak melapor sebagai saksi, maka polisi segera  menghubungi orang tuanya atau wali anak tersebut, kecuali  orang tuanya atau wali anak dimaksud terlibat atau diduga  sebagai pelaku;  
 b. membuat catatan identitas dari pihak yang merujuk, data  mengenai anak, kronologi kejadian;  
 c. meminta orang tua atau wali yang dipercayai anak, untuk  mendampingi anak pada saat anak memberikan keterangan;  

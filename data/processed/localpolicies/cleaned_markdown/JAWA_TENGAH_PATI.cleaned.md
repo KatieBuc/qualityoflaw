@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak  harus mendapatkan perlindungan atas ancaman  kekerasan dalam lingkup rumah tangga dan masyarakat dari Pemerintah Daerah;  
 c. bahwa berdasarkan Pasal 59 Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak, Pemerintah dan  lembaga negara lainnya berkewajiban dan bertanggung  jawab untuk memberikan perlindungan khusus kepada  anak dalam situasi darurat, anak yang berhadapan  dengan hukum, anak dari kelompok minoritas dan  terisolasi, anak tereksploitasi secara ekonomi dan/atau  seksual, anak yang diperdagangkan, anak yang menjadi  korban penyalahgunaan narkotika, alkohol, psikotropika,  dan zat adiktif lainnya (napza), anak korban penculikan,  penjualan dan perdagangan, anak korban kekerasan  baik fisik dan/atau mental, anak yang menyandang  cacat, dan anak korban perlakuan salah dan  penelantaran;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b dan huruf c, perlu  menetapkan Peraturan Daerah tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis  Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -117,7 +119,7 @@ l. kerahasiaan korban; danm. pengambilan keputusan ditangan korban.
 
 #### Pasal 3
 
-Tujuan perlindungan korban kekerasan berbasis gender dan  anak adalah:
+Tujuan perlindungan korban kekerasan berbasis gender dan  anak adalah:  
 a. mencegah segala bentuk kekerasan berbasis gender dan  kekerasan terhadap anak, yang terjadi di lingkup rumah  tangga dan/atau masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
@@ -193,7 +195,7 @@ Upaya Pencegahan
 
 #### Pasal 10
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 9 meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 9 meliputi:  
 a. menyelenggarakan komunikasi, informasi, edukasi dan  meningkatkan Capacity building tentang kekerasan  berbasis gender dan anak; danb. sosialisasi peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
 
 ## Bagian Keempat
@@ -216,7 +218,7 @@ Perlindungan Hukum
 
 #### Pasal 12
 
-Perlindungan hukum sebagaimana dimaksud dalam Pasal 9 meliputi:
+Perlindungan hukum sebagaimana dimaksud dalam Pasal 9 meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
 b. melakukan pendampingan selama proses hukum pada  setiap tahap pemeriksaan; danc. menunjuk perwalian bagi anak korban kekerasan sesuai  dengan ketentuan yang berlaku.  
 
@@ -226,7 +228,7 @@ Koordinasi dan Kerjasama
 
 #### Pasal 13
 
-Koordinasi dan kerjasama sebagaimana dimaksud dalam  Pasal 9 meliputi:
+Koordinasi dan kerjasama sebagaimana dimaksud dalam  Pasal 9 meliputi:  
 a. melakukan koordinasi dan kerjasama dengan pelayanan  terpadu antar kabupaten/kota;  
 b. melakukan koordinasi dan kerjasama dengan lembaga lembaga penyedia layanan bagi korban kekerasan  berbasis gender dan anak; danc. melakukan koordinasi dan konsultasi dengan  Pemerintah Provinsi Jawa Tengah.  
 
@@ -236,7 +238,7 @@ Upaya Peningkatan Partisipasi Mayarakat
 
 #### Pasal 14
 
-Upaya Peningkatan Partisipasi Mayarakat sebagaimana  dimaksud dalam pasal 9 dilakukan melalui:
+Upaya Peningkatan Partisipasi Mayarakat sebagaimana  dimaksud dalam pasal 9 dilakukan melalui:  
 a. memberikan pertolongan darurat;  
 b. memberikan advokasi terhadap korban dan/atau  masyarakat tentang penanganan kasus kekerasan  berbasis gender dan anak;  
 c. membantu proses pengajuan permohonan penetapan  perlindungan;dand. menyampaikan informasi kepada aparat yang berwenang  terkait dengan kasus kekerasan berbasis gender dan  anak.  

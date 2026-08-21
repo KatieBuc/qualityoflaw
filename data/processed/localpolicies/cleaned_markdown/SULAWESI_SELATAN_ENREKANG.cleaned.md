@@ -12,12 +12,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, perlu dilakukan upaya-upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten Enrekang terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan dalam Pasal 12 Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -84,7 +86,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak berdasarkan asas:
+Penyelenggaraan Perlindungan Perempuan dan Anak berdasarkan asas:  
 a. nondiskriminasi;  
 b. kepentingan yang terbaik bagi perempuan dan anak;  
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
@@ -95,7 +97,7 @@ g. keadilan dan kesetaraan gender; danh. keberlanjutan.
 
 #### Pasal 3
 
-Penyelenggaraan Perlindungan Perempuan dan Anak bertujuan untuk:
+Penyelenggaraan Perlindungan Perempuan dan Anak bertujuan untuk:  
 a. memberikan pedoman kepada pemerintah daerah dalam perencanaan, kebijakan dan strategi perlindungan perempuan dan anak;  
 b. memperkuat lingkungan protektif bagi perempuan dan anak dari segala bentuk kekerasan, eksploitasi, perlakuan salah, dan penelantaran;  
 c. mencegah terjadinya pelanggaran hak perempuan dan anak;  
@@ -103,7 +105,7 @@ d. meningkatkan pemberdayaan terhadap perempuan dan anak; dane. meningkatkan per
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi:
+Ruang lingkup pengaturan Perlindungan Perempuan dan Anak meliputi:  
 a. pencegahan;  
 b. penyelenggaraan perlindungan perempuan dan anak;  
 c. pelayanan perempuan dan anak korban kekerasan;  
@@ -116,7 +118,7 @@ e. kerjasama dan kemitraan; dane. pembinaan dan pengawasan.
 
 #### Pasal 5
 
-Setiap perempuan berhak:
+Setiap perempuan berhak:  
 a. memperoleh perlindungan dari tindakan diskriminasi;  
 b. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;  
 c. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, penelantaran dan Trafficking;  
@@ -128,7 +130,7 @@ f. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan jalur pendid
 
 #### Pasal 6
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. untuk hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan;  
 b. memperoleh perlindungan dari tindakan diskriminasi;  
 c. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;  
@@ -174,7 +176,7 @@ Masyarakat
 
 #### Pasal 9
 
-Kewajiban dan tanggung jawab masyarakat dalam upaya perlindungan terhadap perempuan dan anak:
+Kewajiban dan tanggung jawab masyarakat dalam upaya perlindungan terhadap perempuan dan anak:  
 a. berpartisipasi dalam pencegahan dan memberikan dukungan terhadap pengembangan program pencegahan terjadinya pelanggaran terhadap hak perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan terjadinya pelanggaran hak perempuan dan anak kepada pihak yang berwenang; danc. mengawasi proses penegakan hukum terhadap kasus pelanggaran hak perempuan dan anak.  
 
@@ -192,7 +194,7 @@ Orang tua/Wali dan/atau Keluarga
 
 #### Pasal 11
 
-Keluarga dalam upaya perlindungan hak perempuan berkewajiban dan bertanggung jawab:
+Keluarga dalam upaya perlindungan hak perempuan berkewajiban dan bertanggung jawab:  
 a. melindungi perempuan dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan;  
 b. memberikan kesempatan yang sama kepada perempuan mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan dalam rumah tangga.  
 
@@ -202,7 +204,7 @@ b. memberikan kesempatan yang sama kepada perempuan mengembangkan diri di bidang
 
 #### Pasal 12
 
-Pemerintah Daerah melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:
+Pemerintah Daerah melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:  
 a. menyelenggarakan sosialisasi mengenai pencegahan kekerasan terhadap perempuan dan anak;  
 b. menyediakan pedoman tentang penanganan tindakan kekerasan terhadap perempuan dan anak;  
 c. mengembangkan sekolah ramah anak;  
@@ -218,7 +220,7 @@ Masyarakat
 
 #### Pasal 13
 
-Masyarakat melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:
+Masyarakat melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:  
 a. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan dan anak;  
 b. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga;  
 c. mencegah perkawinan di bawah tangan dan nikah siri;  
@@ -228,7 +230,7 @@ d. mencegah terjadinya perkawinan pada usia Anak; dane. menguatkan peran serta m
 
 #### Pasal 14
 
-Orang tua/wali, dan/atau keluarga melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:
+Orang tua/wali, dan/atau keluarga melakukan pencegahan terhadap pelanggaran hak perempuan dan anak dengan cara:  
 a. melindungi perempuan dan anak dari berbagai tindak pelanggaran hak perempuan dan anak dalam rumah tangga.  b. mengawasi perempuan dan anak dalam beraktivitas di dalam ataupun di luar rumah; danc. memberikan peluang bagi perempuan dan anak berdialog menyampaikan pendapat secara demokratis.  
 
 # BAB VI PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK
@@ -273,7 +275,7 @@ Ekonomi Mikro
 
 #### Pasal 19
 
-Perlindungan Ekonomi Mikro Perempuan meliputi:
+Perlindungan Ekonomi Mikro Perempuan meliputi:  
 a. mendapatkan kesempatan melakukan kegiatan usaha di lingkungan rumah tangga; danb. mendapatkan fasilitas pemberdayaan ekonomi khususnya bagi perempuan kepala keluarga.  
 
 ### Paragraf 6
@@ -325,7 +327,7 @@ Anak yang berhadapan dengan hukum, anak yang mengalami kehamilan di luar pernika
 
 #### Pasal 26
 
-Bagi anak berusia 7 (tujuh) sampai dengan kurang dari 15 (lima belas) tahun yang belum menyelesaikan pendidikan formalnya dapat menempuh pendidikan melalui satuan pendidikan informal:
+Bagi anak berusia 7 (tujuh) sampai dengan kurang dari 15 (lima belas) tahun yang belum menyelesaikan pendidikan formalnya dapat menempuh pendidikan melalui satuan pendidikan informal:  
 a. kelompok belajar paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah; ataub. kelompok belajar paket B setara Sekolah Menengah Pertama dan Madrasah Tsanawiyah;  
 
 #### Pasal 27
@@ -393,7 +395,7 @@ Umum
 
 #### Pasal 36
 
-Bentuk pelayanan yang diberikan kepada perempuan dan anak korban kekerasan sebagai berikut:
+Bentuk pelayanan yang diberikan kepada perempuan dan anak korban kekerasan sebagai berikut:  
 a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
@@ -419,7 +421,7 @@ b. melalui telepon/ short message service; atauc. melalui surat/ elektroni mail.
 
 #### Pasal 39
 
-Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dilaksanakan oleh:
+Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dilaksanakan oleh:  
 a. Rumah Sakit;  
 b. Pusat Kesehatan Masyarakat;  
 
@@ -657,7 +659,7 @@ h. melakukan pengawasan terhadap penyelenggaraan perlindungan perempuan dan anak
 
 #### Pasal 60
 
-Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak bersumber dari:
+Pembiayaan penyelenggaraan Perlindungan Perempuan dan Anak bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 61

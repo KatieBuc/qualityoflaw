@@ -70,7 +70,7 @@ a. kepentingan terbaik bagi perempuan dan Anak,b. keadilan gender dan kesetaraan
 
 yang membidangi pemberdayaan perempuan dan perlindungan anak dalam rangka memberi bantuan pendampingan korban perempuan dan anak mulai dari penyelidikan di kepolisian, kejaksaaan sampai persidangan dipengadilan.  
 
-Pasal Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan Anak meliputi:
+Pasal Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan Anak meliputi:  
 a. perlindungan perempuan:b. perlindungan Anak, Cc. pemenuhan hak Anak,d. peningkatan kualitas hidup perempuan dan anak:e. peran serta masyarakat, danf. pembinaan, pengawasan, pendampingan.  g. sistem data gender dan anak, data terpilah perempuan dan anak: BAB II PENINGKATAN KUALITAS HIDUP PEREMPUAN DAN ANAK
 
 ## Bagian Kesatu
@@ -100,7 +100,7 @@ Pembentukan Pokja Pemberdayaan Perempuan dan Perlindungan Anak di Kota Pasal (1)
 3. Walikota menetapkan Kepala PD yang membidangi tugas Pemberdayaan Perempuan sebagai Ketua Pokja dan Kepala Sekretariat Pokja Pemberdayaan Perempuan dan Perlindungan Anak Daerah.  
 4. Pembentukan pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota ditetapkan dengan Keputusan Walikota.  
 
-Pasal Pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota sebagaimana dimaksud dalam Pasal mempunyai tugas:
+Pasal Pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota sebagaimana dimaksud dalam Pasal mempunyai tugas:  
 a. mempromosikan dan memfasilitasi Pemberdayaan Perempuan dan Perlindungan Anak kepada masing-masing PD,b. melaksanakan sosialisasi dan advokasi Pemberdayaan Perempuan dan Perlindungan Anak kepada camat, Lurah dan Kepala Desa, C. menyusun program kerja setiap tahun,d. mendorong terwujudnya perencanaan dan penganggaran yang Responsif atas Pemberdayaan Perempuan dan Perlindungan Anak,e. menyusun rencana kerja pokja Pemberdayaan Perempuan dan Perlindungan Anak setiap tahun,f. bertanggung jawab kepada Walikota melalui Wakil Walikota, merumuskan rekomendasi kebijakan kepada Walikota,g. menyusun profil Pemberdayaan Perempuan dan Perlindungan Anakh. Daerah,i. melakukan pemantauan pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak di masing-masing instansi,j. menetapkan tim teknis untuk melakukan analisis terhadap anggaran Daerah, k. menyusun rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Kota, dan I. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD.  
 
 #### Pasal 10
@@ -122,7 +122,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Politik
 
 #### Pasal 12
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang politik sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang politik sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:  
 a. melaksanakan sosialisasi untuk meningkatkan partisipasi politik perempuan dalam pemilihan umum:b. melaksanakan program yang mendorong tingkat keterlibatan perempuan dalam proses politik dan jabatan publik,c. melakukan fasilitasi pengembangan diri perempuan dalam berorganisasi, berserikat dan berkumpul, dand. melibatkan perempuan dalam pengambilan keputusan yang menyangkut kepentingan perempuan.  
 
 ## Bagian Kelima
@@ -131,7 +131,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Hukum
 
 #### Pasal 13
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang hukum sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang hukum sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:  
 a. melakukan sosialisasi untuk meningkatkan pengetahuan dan kesadaran hukum perempuan, b. melakukan pemetaan dan mereview kebijakan bias gender, dan c. melibatkan organisasi perempuan dalam proses penyusunan dan pembahasan produk hukum Daerah yang berkaitan dengan peran serta perempuan.  
 
 ## Bagian Keenam
@@ -149,7 +149,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Ekonomi
 
 #### Pasal 15
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang ekonomi sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang ekonomi sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:  
 a. melaksanakan program, kegiatan, pelatihan untuk peningkatan keterampilandan keahlian perempuan dalam rangka mewujudkan peningkatan kesejahteraan perempuan, fasilitasi penguatan modal usaha bagi perempuan yang memiliki ekonomib. lemah, pemasaran produk hasil usaha perempuan yang memiliki ekonomi lemah, pelatihan pengembangan kemampuan perempuan melalui pemberdayaan ekonomi keluarga prasejahtera, dan pelatihan kewirausahaan kepada perempuan secara komprehensif. €.  
 
 # BAB III
@@ -191,10 +191,10 @@ Perlindungan perempuan dan anak korban tindak Kekerasan (1) dilaksanakan melalui
 Pemberian layanan terpadu terhadap perempuan dan anak korban tindak (2) Kekerasan sebagiamana dimaksud pada ayat (1) menggunakan prinsip:  
 a. responsif gender,
 
-b.non diskriminasi: hubungan setara dan menghormati:
+b.non diskriminasi: hubungan setara dan menghormati:  
 d. .menjaga kerahasiaan, memberi rasa aman dan nyaman, €.  
 
-menghargai perbedaan individu, tidak menghakimi: .menghormati pilihan dan keputusan korban:
+menghargai perbedaan individu, tidak menghakimi: .menghormati pilihan dan keputusan korban:  
 h. peka terhadap latarbelakang dan kondisi korban dan pemakaian bahasa yang sesuai dan dimengerti oleh korban:  
 J. cepat dan sederhana,k. empati, dan I. pemenuhan hak perempuan dan anak.  
 
@@ -223,7 +223,7 @@ k.
 Pengaduan tindak Kekerasan terhadap perempuan dan anak dapat (4) dilakukan oleh pelapor yang terdiri atas
 a. korban,b. keluarga,c. masyarakat, dan/ataud. organisasi kemasyarakatan di bidang Perlindungan perempuan dan anak.  
 
-Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan (2) pengaduan:
+Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan (2) pengaduan:  
 a. secara langsung,b. melalui telepon, dan/atauc. melalui surat.  
 
 Selain penanganan pengaduan yang disampaikan oleh pelapor, dinas yang (3) membidangi Perlindungan Perempuan dan anak, petugas pada lembaga pelayanan sebagaimana dimaksud dalam Pasal 20, juga berwenang melakukan Pendampingan penanganan korban tindak Kekerasan terhadap perempuan dan anak yang diperoleh melalui informasi lainnya.  
@@ -263,18 +263,18 @@ b.PD yang membidangi Pemberdayaan Perempuan dan anak, dan dapatbekerjasama denga
 
 #### Pasal 24
 
-Pelayanan konseling sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf (1) bertujuan:
+Pelayanan konseling sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf (1) bertujuan:  
 a. membantu perempuan dan anak korban tindak kekerasan mengenali permasalahannya dan menemukan cara-cara yang efektif untuk mengatasinya sendiri,
 
-b.memberdayakan perempuan dan anak korban tindak Kekerasan untuk menentukan masa depannya:
+b.memberdayakan perempuan dan anak korban tindak Kekerasan untuk menentukan masa depannya:  
 c. memberikan dukungan moral terhadap perempuan dan anak korban tindak Kekerasan dalam menghadapi proses yang dijalaninya, dan d.membuat perempuan dan anak korban tindak Kekerasan merasa diterima di lingkungan masyarakat.  
 
-Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang (2) responsif gender, terdiri atas:
+Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang (2) responsif gender, terdiri atas:  
 a. konselor,b. psikolog, danc. psikiater.  
 
 Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, (3) nyaman dan kerahasiaan informasi dari perempuan dan anak korban tindak Kekerasan.  
 
-(1 Tahapan pelayanan konseling meliputi:
+(1 Tahapan pelayanan konseling meliputi:  
 a. konseling awal,b. konseling lanjutan,c. pembahasan kasus, dand. kunjungan ke lokasi.  
 
 #### Pasal 25
@@ -391,13 +391,13 @@ b. bimbingan, supervisi, fasilitasi penyelenggaraan pembangunan keluarga, dand. 
 #### Pasal 36
 
 Pembinaan sebagaimana dimaksud dalam Pasal 35 huruf a, meliputi:  
-a. tumbuh kembang Anak balita, Perlindungan terhadap kesehatan reproduksi remaja:
+a. tumbuh kembang Anak balita, Perlindungan terhadap kesehatan reproduksi remaja:  
 b. Pendewasaan usia perkawinan,d. Pengaturan kelahiran, dan Pengelolaan penduduk.  
 118.  
 
 #### Pasal 37
 
-Bimbingan sebagaimana dimaksud Pasal 35 huruf meliputi:
+Bimbingan sebagaimana dimaksud Pasal 35 huruf meliputi:  
 a. melakukan penyuluhan peningkatan kualitas hidup perempuan dan anak, dan b. melakukan penyuluhan pranikah.  
 
 #### Pasal 38
@@ -514,7 +514,7 @@ Pemerintah Daerah melakukan pengawasan berkala pada setiap orang/badan yang memp
 
 #### Pasal 55
 
-Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan:
+Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan:  
 a. berusia paling rendah 15 (lima belas) tahun, b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak:  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang:  
 d. tidak mempekerjakan Anak pada malam hari: dane. waktu kerja paling lama (tiga) jam dalam sehari.  

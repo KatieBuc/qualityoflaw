@@ -48,7 +48,7 @@ Menetapkan PERATURAN DAERAH TEI{TANG PERUNDUNGAN PEREMPUAN KORBAN KEKERASAN.
 
 #### Pasal 1
 
-Dalam Peraturan Daerah ini yang dimaksud dengan:
+Dalam Peraturan Daerah ini yang dimaksud dengan:  
 l. Daerah adalah Kabupaten Penajam Paser Utara.  
 2. Pemerintah Daerah adalah Bupati sebagai unsur penyelenggara pemerintahan Daerah yang memimpin pelaksanaan urusan pemerintahan yang menjadi kewenangan daerah otonom Kabupaten Penajam Paser Utara.  
 3. Bupati adalah Bupati Penajam Paser Utara.  
@@ -85,7 +85,7 @@ d. peningkatan kapasitas Perempuan korban kekerasan dalam pemberdayaan perempuan
 
 #### Pasal 3
 
-Korban berhak mendapatkan:
+Korban berhak mendapatkan:  
 a. Perlindungan dari pihak:
 1. Keluarga;  
 2. kepolisian;  
@@ -126,7 +126,7 @@ c. menjaga kerahasiaan Korban; dand. menjamin keadilan dan kepastian hukum bagi 
 
 #### Pasal 7
 
-Penyelenggaraan UPTD PPA memerlukan:
+Penyelenggaraan UPTD PPA memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
 b. petugas pelaksana; danc. petugas fungsional.  
 
@@ -159,7 +159,7 @@ h. Keagamaan; da:ri. Keluarga
 
 #### Pasal 10
 
-Penanganan terhadap perempuan korban kekerasan adalah dengan pemberian pelayanan secara terintegrasi dan terpadu meliputi:
+Penanganan terhadap perempuan korban kekerasan adalah dengan pemberian pelayanan secara terintegrasi dan terpadu meliputi:  
 a. cakupan Perempuan Korban Kekerasan yang mendapatkan penalganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;  
 b. cakupan Perempuan Korban Kekerasan yang mendapatkan layalan kesehatan oleh tenaga kesehatan terlatih di puskesmas dan di rumah sakit:  
 c. cakupan layanan Rehabilitasi Sosia1 yang diberikan oleh petugas Rehabilitasi Sosial terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:d. cakupan layanan bimbingan rohani yalg diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan Korban Kekerasan di dalam unit Pelayanan terpadu:e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus Kekerasan Terhadap Perempuan;  
@@ -245,7 +245,7 @@ d. melakukan pertolongan pertama kepada Korban; dane. melaporkan kepada instansi
 
 #### Pasal 19
 
-Pendanaandalampenyelenggaraan Perlindunganterhadap Perempuan Korban Kekerasan, bersumber dari:
+Pendanaandalampenyelenggaraan Perlindunganterhadap Perempuan Korban Kekerasan, bersumber dari:  
 a. anggaran pendapatan dan belanja Daeralr; dalb. sumber lain yang sah dan tidak mengikat sesuai dengal ketentuan peraturan perundangan-undangan.  
 
 # BAB XJI

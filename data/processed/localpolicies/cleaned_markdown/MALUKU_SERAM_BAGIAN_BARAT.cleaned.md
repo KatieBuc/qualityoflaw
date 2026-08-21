@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan;  
 b. bahwa perempuan dan anak sebagai warga negara,  termasuk kelompok rentan yang cenderung mengalami  kekerasan yang merupakan tindakan yang melanggar hak  asasi manusia perlu mendapatkan perlindungan;  
 c. bahwa jumlah kekerasan terhadap perempuan dan anak di  Kabupaten Seram Bagian Barat masih terus meningkat dan  meluas sedangkan perlindungan terhadap perempuan dan  anak belum dilakukan secara optimal;  
@@ -23,6 +24,7 @@ d. bahwa peraturan perundangan yang mengatur mengenai  perlindungan perempuan da
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a,huruf b, huruf c, dan huruf d, perlu  menetapkan peraturan daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -111,7 +113,7 @@ f. Pemulihan korban tindak kekerasan; dang. pemberdayaan Korban dan keluarganya.
 
 #### Pasal 2
 
-Setiap Perempuan dan Anak berhak:
+Setiap Perempuan dan Anak berhak:  
 a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. untuk mendapatkan Perlindungan dari keluarga, masyarakat, Pemerintah  Daerah dan/atau pihak lain baik sementara maupun berdasarkan  penetapan perintah Perlindungan dari pengadilan;  
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami Korban Kekerasan;  
@@ -125,7 +127,7 @@ f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.
 
 #### Pasal 3
 
-Kewajiban dan tanggungjawab dalam memberikan Perlindungan terhadap  Perempuan dan Anak merupakan tanggung jawab:
+Kewajiban dan tanggungjawab dalam memberikan Perlindungan terhadap  Perempuan dan Anak merupakan tanggung jawab:  
 a. pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dan atau orang tua
@@ -142,7 +144,7 @@ e. mengalokasikan anggaran Penyelenggaraan Perlindungan Perempuan  dan Anak dari
 
 #### Pasal 5
 
-Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 3 huruf b, meliputi:
+Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 3 huruf b, meliputi:  
 a. mencegah terjadinya tindak Kekerasan terhadap Perempuan dan Anak;  
 b. memberikan Perlindungan terhadap Korban;  
 c. memberikan pertolongan darurat;  
@@ -150,7 +152,7 @@ d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap  Perempuan
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab keluarga dan/atau orangtua sebagaimana  dimaksud dalam Pasal 3 huruf c meliputi:
+Kewajiban dan tanggung jawab keluarga dan/atau orangtua sebagaimana  dimaksud dalam Pasal 3 huruf c meliputi:  
 a. mencegah segala bentuk Kekerasan dan melindungi Perempuan dan Anak  sebagai anggota keluarga.  b. Memberikan dukungan bagi perempuan dan anak korban kekerasan yang  adalah bagian dari anggota keluarganya
 
 # BAB IV
@@ -185,7 +187,7 @@ d. Penyelenggaraan mekanisme rujukan dalam penanganan dan pemulihan  korban keke
 
 #### Pasal 10
 
-Standar pelayanan terhadap Korban yang diselenggarakan oleh P2TP2A. bekerjasama dengan institusi terkait, meliputi:
+Standar pelayanan terhadap Korban yang diselenggarakan oleh P2TP2A. bekerjasama dengan institusi terkait, meliputi:  
 a. pelayanan medis;  
 b. pelayanan medicolegal;  
 c. pelayanan psikososial;  
@@ -360,7 +362,7 @@ c. pelayanan;dand. kinerja.
 
 #### Pasal 25
 
-Dana Penyelenggaraan PerlindunganPerempuan dan AnakKorbanKekerasan,  bersumber dari:
+Dana Penyelenggaraan PerlindunganPerempuan dan AnakKorbanKekerasan,  bersumber dari:  
 a. anggaran pendapatan dan belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan perundang-undangan.  
 
 #### Pasal 26

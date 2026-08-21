@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jamina n terhadap pemenuhan hak-haknya dan Perlindungan dar i tindak kekerasan dan Diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi  dir i perempuan dalam masyarakat di Kabupaten Karanganyar, perlu adanya suatu Peraturan Daerah yang mengatur tentang Perlindungan dan Pemberdayaan Perempuan;  
 c. bahwa Peraturan Daerah Kabupaten Karanganyar Nomor  20 Tahun 2009 tentang Penyelenggaraan Perlindungan Perempuan dan Anak dipandang sudah tidak sesuai lagi dengan perkembangan huku m dan kebutuhan masyarakat, sehingga perlu dibentuk peraturan daerah yang baru;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huru f a, huru f b dan huru f c, perlu membentuk Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -141,7 +143,7 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 4
 
-Setiap perempuan penyandang disabilitas, berhak  memperoleh:
+Setiap perempuan penyandang disabilitas, berhak  memperoleh:  
 a. pendidikan pada semua satuan, jalur , jenis, dan jenjang  pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan  jenis dan derajat kecacatan, pendidikan, dan  ke mampuanny a;  
 c. perlakuan yang sama untu k berperan dalam  pembangunan dan menikmati hasilnya;  
@@ -171,7 +173,7 @@ Kewajiban Perempuan
 
 #### Pasal 6
 
-Setiap perempuan berkewajiban untuk:
+Setiap perempuan berkewajiban untuk:  
 a. menjunjung tinggi harka t dan martabatnya sebagai  perempuan;  
 b. melaksanakan tugas dan tanggung jawabnya sebagai istri,  ibu, anak dan warga masyarakat dengan baik dan  bertanggung jawab; danc. menaati peraturan perundang-undangan yang berlaku.  
 
@@ -250,14 +252,14 @@ Guna meningkatkan kedudukan, peran, dan kualitas  perempuan, serta upaya mewujud
 
 #### Pasal 15
 
-Pemberdayaan Perempuan diarahkan untu k memperoleh  kesempatan dan hak-hak sebagai manusi a agar mampu  berperan dan berpartisipasi di bidang:
+Pemberdayaan Perempuan diarahkan untu k memperoleh  kesempatan dan hak-hak sebagai manusi a agar mampu  berperan dan berpartisipasi di bidang:  
 a. ekonomi;  
 b. sosial budaya;  
 c. politik; dand. hukum .  
 
 #### Pasal 16
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 15 huru f a  dilaksanakan melalui:
+Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 15 huru f a  dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi  produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok  usaha ekonomi produktif;  
@@ -265,7 +267,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 17
 
-Pemberdayaan perempuan di bidang sosial budaya  sebagaimana dimaksud dalam Pasal 15 huru f b dilaksanakan  melalui:
+Pemberdayaan perempuan di bidang sosial budaya  sebagaimana dimaksud dalam Pasal 15 huru f b dilaksanakan  melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan  untu k mendorongpemenuhan pendidikan secara  berjenjang sesuai dengan potensi untu k meningkatkan  status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan  untu k mengatasipermasalahan kesehatan melalui  upaya promotif, preventif, kuratif, dan rehabilitatif  yang berkualitas utamanya di bidang kesehatan  reproduksi;  
 c. peningkatan kesadaran dan pengetahuan  tentang perencanaan keluarga mandiri, sehat dan  sejahtera termasuk akses layanan konsultasi dan  pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilm u pengetahuan, teknologi, seni dan  budaya untu k kemajuan perempuan.  
@@ -377,7 +379,7 @@ e. Perlindungan psikis.
 
 #### Pasal 29
 
-Untu k memberikan Perlindungan sebagaimana dimaksud  dalam Pasal 28, Pemerintah Daerah dapat melakukan  upaya:
+Untu k memberikan Perlindungan sebagaimana dimaksud  dalam Pasal 28, Pemerintah Daerah dapat melakukan  upaya:  
 a. memberikan pelayanan dan penanganan secepat  mungki n kepada saksi dan/atau Korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan  bebas biaya bagi saksi dan/atau Korban;  
 c. menjaga kerahasiaan saksi dan/atau Korban;  

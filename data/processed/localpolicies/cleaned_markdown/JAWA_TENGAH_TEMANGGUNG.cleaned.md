@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwapemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan sesuai dengan kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapat perlindungan khusus agar tidak mengalami kekerasan dan dapat menjalani hidup layak sesuai prinsip kemanusiaan kesetaraan dan keadilan;  
@@ -95,13 +96,13 @@ c. keadilan gender; dand. kepastian hukum.
 
 #### Pasal 3
 
-Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:
+Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:  
 a. menjamin terpenuhinya hak perempuan agar dapat hidup dan berpartisipasi  secara optimal sesuai dengan harkat dan martabat kemanusiaan;  
 b. memberikan Keadilan dan Kesetaraan Gender, meningkatkan kualitas hidup  perempuan melalui peningkatan kapasitas kelembagaan Pemberdayaan dan  Perlindungan Perempuan di daerah, termasuk pengembangan sistem data  gender dan anak; danc. memberikan perlindungan hak perempuan dari berbagai bentuk kekerasan dan  perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
-Ruang lingkup Peraturan Daerah ini, meliputi:
+Ruang lingkup Peraturan Daerah ini, meliputi:  
 a. hak dan kewajiban perempuan;  
 b. kewajiban dan tanggung jawab Pemerintah Daerah;  
 c. perlindungan perempuan;  
@@ -112,14 +113,14 @@ g. pemantauan evaluasi dan pelaporan; danh. pendanaan.
 
 #### Pasal 5
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf a  dilakukan melalui upaya:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf a  dilakukan melalui upaya:  
 a. memberikan akses kepada perempuan terhadap layanan pendidikan, kesehatan,  dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dalam proses pembangunan;  
 c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 6
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf b dilakukan melalui upaya:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf b dilakukan melalui upaya:  
 a. pembentukan,pengembangan, dan penguatan kapasitas lembaga perlindungan  perempuan dan anak termasuk unit-unit layanan pengaduan kekerasan  terhadap perempuan dan anak, serta layanan bantuan hukum;  
 b. peningkatan kualitas sumber daya manusia pengelola;  
 c. penguatan kapasitas lembaga PUG dan anak;dand. penguatan dan pengembangan system data gender dan anak.  
@@ -180,7 +181,7 @@ Hak Perempuan Korban Kekerasan
 
 #### Pasal 13
 
-Setiap perempuan korban kekerasan mempunyai:
+Setiap perempuan korban kekerasan mempunyai:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami  korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -197,7 +198,7 @@ Kewajiban Perempuan
 
 #### Pasal 14
 
-Setiap perempuan berkewajiban untuk:
+Setiap perempuan berkewajiban untuk:  
 a. menjunjung tinggi harkat dan martabatnya sebagai perempuan;  
 b. melaksanakan tugas dan tanggung jawabnya sebagai istri, ibu, anak dan warga  masyarakat dengan baik dan bertanggung jawab; danc. menaati ketentuan peraturan perundang-undangan.  
 
@@ -222,7 +223,7 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program dan kegiatan.
 
 #### Pasal 17
 
-Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempuan dengan melakukan upaya:
+Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempuan dengan melakukan upaya:  
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan;  
 b. perlindungan perempuan antar Perangkat Daerah;  
 c. kerjasama dengan Kabupaten/Kota dalam satu Provinsi, dan kerjasama antar  Kabupaten/Kota di Provinsi lainnya dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan perempuan sesuai dengan ketentuan peraturan  perundang- undangan;  
@@ -280,7 +281,7 @@ c. politik; dand. hukum.
 
 #### Pasal 24
 
-Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi sebagaimana  dimaksud dalam Pasal 23 huruf a, dilaksanakan melalui:
+Penyelenggaraan Pemberdayaan Perempuan di bidang ekonomi sebagaimana  dimaksud dalam Pasal 23 huruf a, dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -288,7 +289,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 25
 
-Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam  Pasal 23 huruf b, dilaksanakan melalui:
+Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam  Pasal 23 huruf b, dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk  meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitative yang berkualitas utamanya di bidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga  mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan  perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu  pengetahuan, teknologi, seni danbudaya untuk kemajuan perempuan.  
@@ -396,7 +397,7 @@ d. Perlindungan ekonomi; dane. Perlindungan psikis.
 
 #### Pasal 37
 
-Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 35,  Pemerintah Daerah dapat melakukan upaya:
+Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 35,  Pemerintah Daerah dapat melakukan upaya:  
 a. memberikan pelayanan dan penanganan secepat mungkin kepada saksi  dan/atau Korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi  saksi dan/atau Korban;  
 c. menjaga kerahasiaan saksi dan/atau Korban;  

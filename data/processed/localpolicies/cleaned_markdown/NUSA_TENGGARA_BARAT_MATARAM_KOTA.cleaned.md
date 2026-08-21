@@ -14,11 +14,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan  anak sebagai manusia;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a  dan huruf b, perlu menetapkan Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -89,7 +91,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan, dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan yang terbaik bagi korban.  
@@ -109,7 +111,7 @@ c. reunifikasi; dand. pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -119,7 +121,7 @@ f. pendampingan secara psikologis dan hukum; dan g. jaminan atas hak-hak yang be
 
 #### Pasal 5
 
-Anak korban tindak kekerasan, selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak  khusus, sebagai berikut:
+Anak korban tindak kekerasan, selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak  khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -131,7 +133,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan  perlindungan terhadap perempuan dan anak dari tindak kekerasan  merupakan tanggungjawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan  perlindungan terhadap perempuan dan anak dari tindak kekerasan  merupakan tanggungjawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orangtua.  
@@ -200,7 +202,7 @@ Bentuk dan Mekanisme Pencegahan
 
 #### Pasal 13
 
-Bentuk pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak yang dilakukan oleh PPT, dapat dilaksanakan  melalui:
+Bentuk pencegahan terjadinya tindak kekerasan terhadap  perempuan dan anak yang dilakukan oleh PPT, dapat dilaksanakan  melalui:  
 a. kegiatan sosialisasi peraturan perundang-undangan kepada  masyarakat yang berkaitan dengan perlindungan hak-hak  perempuan dan anak; danb. pelatihan anggota PPT terkait tentang pelaksanaan tugasnya  dalam melakukan pencegahan tindak kekerasan terhadap  perempuan dan anak.  
 
 #### Pasal 14
@@ -210,7 +212,7 @@ a. kegiatan sosialisasi peraturan perundang-undangan kepada  masyarakat yang ber
 
 #### Pasal 15
 
-Bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT, meliputi:
+Bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT, meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka  fisik yang bertujuan untuk pemulihan kondisi fisik korban yang  dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan  dalam rangka memulihkan kondisi traumatis korban, termasuk  penyediaan rumah aman untuk melindungi korban dari berbagai  ancaman dan intimidasi bagi korban dan memberikan dukungan  secara sosial sehingga korban mempunyai rasa percaya diri,  kekuatan dan kemandirian, dalam menyelesaikan masalahnya;  
@@ -260,7 +262,7 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 
 #### Pasal 20
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -390,7 +392,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 32
 
-Dana untuk penyelenggaraan perlindungan terhadap perempuan  dan anak dari tindak kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan terhadap perempuan  dan anak dari tindak kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 33
@@ -499,7 +501,7 @@ Huruf d Yang dimaksud dengan ”Kepentingan yang terbaik bagi korban”  adalah 
 
 Ayat (1) Cukup jelas.  
 
-Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya  strategi perlindungan melalui:
+Ayat (2) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya  strategi perlindungan melalui:  
 a. Pencegahan primer, semua orang, keluarga, masyarakat dan  negara dalam upaya meningkatkan kemampuan pengetahuan, pemahaman dan menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi, meliputi sosialisasi kebijakan, pelayanan yang memadai, kebijakan tempat bekerja yang mendukung, serta pelatihan life skill bagi perempuan dan anak. Yang dimaksud dengan pelatihan life skill meliputi penyelesaian konflik tanpa kekerasan, ketrampilan menangani stress, manajemen sumber daya, membuat keputusan efektif, komunikasi interpersonal secara efektif, tuntunan perkembangan psikososial perempuan dan anak.  b. Pencegahan sekunder, ditujukan bagi kelompok masyarakat  dengan risiko tinggi dalam upaya meningkatkan ketrampilan, termasuk pelatihan dan layanan korban untuk menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi pada generasi berikut. Kegiatan yang dilakukan di sini di antaranya dengan melalukan kunjungan rumah bagi orang tua yang baru mempunyai anak untuk melakukan self assessment apakah mereka berisiko melakukan kekerasan pada anak di kemudian hari.  c. Pencegahan tersier, dimaksudkan untuk meningkatkan  kemampuan pengasuhan yang menjaga agar kekerasan terhadap perempuan dan anak tidak terulang lagi, di sini yang dilakukan adalah pelayanan terpadu untuk perempuan dan anak yang menjadi korban kekerasan, melalui konseling, pelatihan tatalaksana stres.  
 
 Huruf b Yang dimaksud dengan aspek “pelayanan dan pendampingan”  adalah kegiatan dan tindakan segera yang dilakukan oleh  tenaga profesional dan pendamping sesuai dengan profesi  masing-masing berupa konseling, terapi dan advokasi guna  penguatan dan pemulihan korban kekerasan.  

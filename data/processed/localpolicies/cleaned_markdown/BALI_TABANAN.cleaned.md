@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak  merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan kodratnya tanpa diskriminasi;  
 b. bahwa untuk mencegah dan menanggulangi kekerasan  terhadap perempuan dan anak perlu dilakukan perlindungan hukum terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam rangka penyelenggaraan perlindungan  perempuan dan anak korban kekerasan di Kabupaten Tabanan belum memiliki dasar pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -92,13 +94,13 @@ pemulangan; reintegrasi sosial, dan bantuan hukum. 21. Standar Pelayanan Minimal
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan perempuan dan anak  korban kekerasan adalah:
+Asas penyelenggaraan perlindungan perempuan dan anak  korban kekerasan adalah:  
 a. keadilan dan kesetaraan gender;  
 b. nondiskriminasi; danc. kepastian hukum.  
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak korban kekerasan  adalah:
+Tujuan perlindungan perempuan dan anak korban kekerasan  adalah:  
 a. melindungi perempuan dan anak korban kekerasan;  
 b. memberikan pelayanan kepada perempuan dan anak  korban tindak kekerasan;danc. pemberdayaan Perempuan dan anak korban kekerasan.  
 
@@ -108,7 +110,7 @@ b. memberikan pelayanan kepada perempuan dan anak  korban tindak kekerasan;danc.
 
 #### Pasal 4
 
-Hak korban meliputi:
+Hak korban meliputi:  
 a. perlindungan dari pihak keluarga;  
 b. perlindungan dari pihak kepolisian;  
 c. perlindungan dari pihak kejaksaan;  
@@ -151,7 +153,7 @@ c. menjaga kerahasiaan korban; dand. menjamin keadilan dan kepastian hukum bagi 
 
 #### Pasal 8
 
-Penyelenggaraan PPT memerlukan:
+Penyelenggaraan PPT memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
 b. petugas pelaksana; danc. petugas fungsional.  
 
@@ -259,7 +261,7 @@ d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instans
 
 #### Pasal 20
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak  Korban kekerasan, bersumber dari:
+Penyelenggaraan perlindungan terhadap perempuan dan anak  Korban kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah.  
 
 # BAB XIII

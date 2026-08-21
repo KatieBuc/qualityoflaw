@@ -10,11 +10,13 @@ TERHADAP TINDAK KEKERASAN DAN DISKRIMINASI DENGAN RAHMAT TUHAN YANG MAHA ESA BUP
  
  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anakdari tindak kekerasan dan diskriminasi bertujuan untuk mewujudkan hak konstitusional dan hak asasi manusia sesuai dengan nilai-nilai Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa berdasarkan Undang-Undang Nomor 23Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, dan pemulihan terhadap perempuan dan anak korban kekerasan dan diskriminasi;  
 c. bahwa berdasarkan pertimbangan sebagaimanadimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Terhadap Tindak Kekerasan dan Diskriminasi;  
 
 Mengingat:  
+ 
  
  
  
@@ -81,7 +83,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan: 1. Daerah adalah Kabupaten Mage
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi diselenggarakan berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi diselenggarakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
@@ -90,7 +92,7 @@ e. pemberdayaan; danf. keterpaduan.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi untuk:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi untuk:  
 a. mencegah tindak kekerasan dan diskriminasi terhadap perempuandan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan, diskriminasi dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi perempuan dan anak dari tindakan kekerasan dandiskriminasi dalam mendapatkan hak-haknya yang sah secarakonstitusid. melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -131,7 +133,7 @@ f. kesejahteraan rakyat; dang. ketenteraman dan ketertiban.
 
 #### Pasal 6
 
-Perempuan dan anak korban tindak kekerasan dan diskriminasi mendapatkan hak-hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan dan diskriminasi mendapatkan hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yangdialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -176,7 +178,7 @@ d. pemberdayaan perempuan dan perlindungan anak; dan e. mental dan spiritual.
 
 #### Pasal 9
 
-Kewajiban dan tanggung jawab dalam memberikan perlindunganterhadap perempuan dan anak dari tindak kekerasan dan diskriminasi merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindunganterhadap perempuan dan anak dari tindak kekerasan dan diskriminasi merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
 c. Masyarakat; dand. Keluarga.  
@@ -198,7 +200,7 @@ h. mendorong dan meningkatkan partisipasi masyarakat; dan i. menyediakan Sumber 
 
 #### Pasal 11
 
-Kewajiban dan tanggung jawab Pemerintah Desa sebagaimanadimaksud dalam Pasal 10 huruf b, meliputi:
+Kewajiban dan tanggung jawab Pemerintah Desa sebagaimanadimaksud dalam Pasal 10 huruf b, meliputi:  
 a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan dan diskriminasi yang ditetapkan olehpemerintah;  
 b. melakukan kerja sama dalam penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi;  
 c. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
@@ -238,7 +240,7 @@ b. pusat pelayanan bagi perempuan dan anak korban kekerasan; danc. pusat pemberd
 
 #### Pasal 15
 
-Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 15, guna menunjang terlaksananya penyelenggaraan perlindungan kepadaperempuan dan anak dari tindak kekerasan dan diskriminasi, Bupati membentuk:
+Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 15, guna menunjang terlaksananya penyelenggaraan perlindungan kepadaperempuan dan anak dari tindak kekerasan dan diskriminasi, Bupati membentuk:  
 a. gugus tugas tindak pidana perdagangan orang; dan b. komite aksi daerah penghapusan bentuk-bentuk pekerjaanterburuk bagi anak.  
 
 #### Pasal 16
@@ -314,7 +316,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraanperlindungan perempuan dan 
 
 #### Pasal 23
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan dan diskriminasi bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan dan diskriminasi bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah;  
 c. Anggaran Pendapatan dan Belanja Desa; dan/atau d. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuanperaturan perundang-undangan.  
@@ -480,7 +482,7 @@ Cukup jelas.
 #### Pasal 10
 
 Ayat (1) Huruf a Cukup jelas.  
-22- Huruf b Yang dimaksud dengan “menetapkan kebijakan, program dan kegiatan perlindungan” meliputi:
+22- Huruf b Yang dimaksud dengan “menetapkan kebijakan, program dan kegiatan perlindungan” meliputi:  
 a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. memberikan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
 b. melakukan sosialisasi peraturan perundang- undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak korban kekerasanc. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  

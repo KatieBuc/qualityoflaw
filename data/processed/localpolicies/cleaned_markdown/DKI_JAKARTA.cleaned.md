@@ -119,7 +119,7 @@ Perlindungan
 
 #### Pasal 2
 
-dan anak dari tindak kekerasan perempuan diselenggarakan berdasarkan asas:
+dan anak dari tindak kekerasan perempuan diselenggarakan berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
@@ -127,7 +127,7 @@ d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.
 
 #### Pasal 3
 
-Tujuan perlindungan.perempuan dan anak dari tindak kekerasan, untuk:
+Tujuan perlindungan.perempuan dan anak dari tindak kekerasan, untuk:  
 a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
@@ -141,7 +141,7 @@ d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelap
 
 #### Pasal 4
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -156,7 +156,7 @@ i. j. hak atas pendampingan.
 
 #### Pasal 5
 
-Anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak khusus, sebagai berikut:
+Anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -168,7 +168,7 @@ d. hak bebas dari berbagai stigma;dane. hak mendapatkan kebebasan;
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Masyarakat;  
 c. Keluarga; dand. Orangtua.  
@@ -263,7 +263,7 @@ Ketentuan lebih lanjut mengenai Pelayanan pengaduan dan pelayanan. sosial sebaga
 
 #### Pasal 17
 
-Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 16, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Gubernur membentuk:
+Selain membentuk P2TP2A sebagaimana dimaksud dalam Pasal 16, guna menunjang terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari tindak kekerasan, Gubernur membentuk:  
 a. gugus tugas tindak perdagangan orang;  
 b. komite aksi daerah penghapusan bentuk-bentuk pekerjaan terburuk untuk anak.  
 
@@ -332,7 +332,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan perempuan dan
 
 #### Pasal 25
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 26
@@ -492,7 +492,7 @@ Cukup jelas
 
 #### Pasal 18
 
-Huruf a Cukup jelas Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara lain:
+Huruf a Cukup jelas Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara lain:  
 a. anak yang dilacurkan;  
 b. anak yang bekerja di sektor konstruksi;  
 c. anak yang bekerja sebagai pemulung;  

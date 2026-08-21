@@ -12,6 +12,7 @@ b}UPATI KARANGANYAR, Menimbang:
  
  
  
+ 
 a. b.  
 c. bahwa setiap warga masyarakat berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan sesuai dengan falsafah Pancasila dan Undang-Undang Dasar Negara Republik lndonesia Tahun 1945;  
 
@@ -84,7 +85,7 @@ l5.Penduduk adalah Wlll dan/atau orang asing yang masuk secara sah serta bertemp
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:
+Asas penyelenggaraan perlindungan perempuan dan anak korban kekerasan ini adalah:  
 a. Penghormatan terhadap hak-hak korbart;  
 b. Keadilan dan kesetaraan gender;  
 c. Non diskrirninasi;  
@@ -206,7 +207,7 @@ d. Kekerasan psikis.
 
 3. Perlindungan terhadap korban kekerasan selain dilakukan terhadap penduduk Kabupaten Karanganyar sebagaimana dimaksud pada ayat (2'1, juga terhadap bukan penduduk Kabupaten Karanganyar yang dilakukan di Wilayah Kabupaten Karanganyar.  
 
-Pasal12 (1) Bentuk perlindungan terhadap korban kekerasan meliputi:
+Pasal12 (1) Bentuk perlindungan terhadap korban kekerasan meliputi:  
 a. perlindungan medis;  
 b. perlindungan hukum;  
 c. perlindungan medico legal (kedoktefan forensik);  

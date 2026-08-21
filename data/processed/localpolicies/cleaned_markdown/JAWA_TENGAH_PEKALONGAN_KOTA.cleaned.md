@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis gender dan anak adalah pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus mendapatkan perlindungan, baik dari Pemerintah Daerah, instansi terkait dan/atau masyarakat, agar masyarakat terhindar dan terbebas dari kekerasan dan/atau ancaman kekerasan dalam rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak, sebagaimana telah diubah dengan Undang-Undang Nomor 35 tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, maka Pemerintah Daerah, instansi terkait, dan/atau masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -92,7 +94,7 @@ Azas
 
 #### Pasal 2
 
-Perlindungan korban kekerasan berbasis gender dan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar 1945, serta prinsip prinsip dasar yang meliputi:
+Perlindungan korban kekerasan berbasis gender dan anak berasaskan Pancasila dan berlandaskan Undang-Undang Dasar 1945, serta prinsip prinsip dasar yang meliputi:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi korban;  
 c. keadilan dan kesetaraan gender;  
@@ -119,7 +121,7 @@ c. reunifikasi; dand. pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak mendapatkan:
+Setiap korban kekerasan berbasis gender dan anak korban kekerasan berhak mendapatkan:  
 a. perlindungan atas keamanan pribadi, keluarga, dan harta bendanya, serta bebas dari ancaman yang berkenaan dengan keterangan yang akan, sedang, atau telah diberikan;  
 b. ikut serta dalam proses memilih dan menentukan bentuk perlindungan dan dukungan keamanan;  
 c. informasi mengenai perkembangan kasus dan putusan pengadilan;  
@@ -129,7 +131,7 @@ f. pendampingan hukum, psikologis, bimbingan rohani, ekonomi, sosial dan penterj
 
 #### Pasal 5
 
-Anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak khusus, sebagai berikut:
+Anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, juga mendapatkan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -141,7 +143,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasanf. hak sepenuh
 
 #### Pasal 6
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap korban kekerasan berbasis gender dan anak di Daerah merupakan tanggungjawab bersama antara:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap korban kekerasan berbasis gender dan anak di Daerah merupakan tanggungjawab bersama antara:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga dan/atau orangtua.  
@@ -199,7 +201,7 @@ Bentuk dan Mekanisme Pencegahan
 
 #### Pasal 12
 
-Bentuk pencegahan terjadinya tindak kekerasan berbasis gender dan anak yang dilakukan oleh Lembaga Perlindungan Perempuan Anak dan Remaja, dapat dilaksanakan melalui:
+Bentuk pencegahan terjadinya tindak kekerasan berbasis gender dan anak yang dilakukan oleh Lembaga Perlindungan Perempuan Anak dan Remaja, dapat dilaksanakan melalui:  
 a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat; danb. pelatihan anggota Lembaga Perlindungan Perempuan Anak dan Remaja terkait tentang pelaksanaan tugasnya dalam melakukan pencegahan tindak kekerasan berbasis gender dan anak.  
 
 #### Pasal 13
@@ -400,7 +402,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 30
 
-Dana untuk penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak, bersumber dari:
+Dana untuk penyelenggaraan perlindungan terhadap tindak kekerasan berbasis gender dan anak, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB XII
@@ -523,14 +525,14 @@ Cukup jelas
 
 #### Pasal 16
 
-Selain terhadap korban tindak kekerasan berbasis gender dan anak, bentuk pelayanan dan pendampingan yang diselenggarakan oleh LP-PAR diberikan juga kepada Anak yang Berkonflik dengan Hukum. Dalam kepustakaan hukum, ABH disebutkan bahwa Anak yang berhadapan dengan hukum adalah anak yang telah mencapai usia 12 (dua belas) tahun tetapi belum mencapai usia 18 (delapan belas) tahun dan belum menikah:
+Selain terhadap korban tindak kekerasan berbasis gender dan anak, bentuk pelayanan dan pendampingan yang diselenggarakan oleh LP-PAR diberikan juga kepada Anak yang Berkonflik dengan Hukum. Dalam kepustakaan hukum, ABH disebutkan bahwa Anak yang berhadapan dengan hukum adalah anak yang telah mencapai usia 12 (dua belas) tahun tetapi belum mencapai usia 18 (delapan belas) tahun dan belum menikah:  
 a. Yang diduga, disangka, didakwa, atau dijatuhi pidana karena melakukan tindak pidana;  
 b. Yang menjadi korban tindak pidana atau yang melihat dan/atau mendengar sendiri terjadinya suatu tindak pidana.  
 
-Anak yang berhadapan dengan hukum dapat juga dikatakan sebagai anak yang terpaksa berkontak dengan sistem pengadilan pidana karena:
+Anak yang berhadapan dengan hukum dapat juga dikatakan sebagai anak yang terpaksa berkontak dengan sistem pengadilan pidana karena:  
 a. Disangka, didakwa, atau dinyatakan terbukti bersalah melanggar hukumb. Telah menjadi korban akibat perbuatan pelanggaran hukum tang dilakukan orang/kelompok orang/lembaga/negara terhadapnya; atauc. Telah melihat, mendengar, merasakan, atau mengetahui suatu peristiwa pelanggaran hukum.  
 
-Ada dua kategori perilaku anak yang membuat ia harus berhadapan dengan hukum:
+Ada dua kategori perilaku anak yang membuat ia harus berhadapan dengan hukum:  
 a. Status Offence Yaitu perilaku kenakalan anak yang apabila dilakukan orang dewasa tidak dianggap kejahatan misal: membolos sekolah, kabur dari rumah ,dllb. Juvunile Delequency Yaitu perilaku kenakalan anak yang apabila dilakukan orang dewasa dianggap kejahatan atau kriminal misal; perampokan, memperkosa, pelecehan seksual, dll Oleh karena itu jika dilihat ruang lingkupnya maka anak yang berhadapan dengan hukum dapat dibagi menjadi:a. Pelaku atau tersangka tindak pidana;  
 b. Korban tindak pidana;  
 c. Saksi suatu tindak pidana Sebagai seorang anak, mekanisme hukum dan rasa keadilan masyarakat harus ditempatkan dalam kerangka yang mendorong secara konstruktif ke arah perkembangan fisik dan psikisnya.  

@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 b. bahwa untuk mewujudkan pemberian perlindungan terhadap korban kekerasan yang berbasis gender dan anak serta untuk memberikan kepastian hukum khususnya dalam penyelenggaraan perlindungan anak di Kabupaten Wonogiri, maka perlu diatur dalam Peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan berbasis Gender dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -136,7 +138,7 @@ b. orang-orang yang mempunyai hubungan keluarga dengan  orang sebagaimana dimaks
 
 #### Pasal 5
 
-Setiap orang dilarang melakukan kekerasan dalam rumah tangga  terhadap orang dalam lingkup rumah tangganya, dengan cara:
+Setiap orang dilarang melakukan kekerasan dalam rumah tangga  terhadap orang dalam lingkup rumah tangganya, dengan cara:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan ekonomid. kekerasan seksual; ataue. penelantaran rumah tangga.  
@@ -206,13 +208,13 @@ Tugas PPT adalah mengupayakan pencegahan, pemulihan dan  reintegrasi sosial, mem
 
 #### Pasal 11
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 10 meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. menyelenggarakan komunikasi, informasi, dan edukasi tentang  kekerasan berbasis gender dan anak;  
 b. sosialisasi peraturan perundang-undangan yang berkaitan  dengan kekerasan berbasis gender dan anak;  
 
 #### Pasal 12
 
-Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 10 meliputi:
+Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 10 meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. membantu pemulangan korban;  
 c. memberikan perlindungan sementara di rumah aman (shelter);  
@@ -222,14 +224,14 @@ f. melakukan penyiapan keluarga dan masyarakat,  pemberdayaan ekonomi, dan penge
 
 #### Pasal 13
 
-Perlindungan Hukum sebagaimana dimaksud dalam Pasal 10 meliputi:
+Perlindungan Hukum sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. memberikan perlindungan di rumah aman (shelter);  
 b. melakukan pendampingan dalam proses hukum pada tingkat  kepolisian, kejaksaan dan pengadilan negeri;  
 c. memberikan perlindungan hukum secara khusus bagi anak  korban kekerasan dapat dilakukan dengan penunjukan  perwalian sesuai dengan peraturan yang berlaku.  
 
 #### Pasal 14
 
-Koordinasi dan Kerjasama sebagaimana dimaksud dalam Pasal 10 meliputi:
+Koordinasi dan Kerjasama sebagaimana dimaksud dalam Pasal 10 meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan kasus  kekerasan dengan pelayanan terpadu;  
 b. melakukan koordinasi dan kerjasama dengan pelayanan  terpadu antar kabupaten/kota;  
 c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga  penyedia layanan bagi korban kekerasan berbasis gender dan  anak;  
@@ -237,7 +239,7 @@ d. melakukan koordinasi dan konsultasi dengan Pemerintah  Daerah.
 
 #### Pasal 15
 
-Peningkatan Partisipasi Masyarakat sebagaimana dimaksud dalam  Pasal 10 meliputi:
+Peningkatan Partisipasi Masyarakat sebagaimana dimaksud dalam  Pasal 10 meliputi:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus-kasus  kekerasan berbasis gender dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam  memberikan informasi dan melaporkan adanya kekerasan  berbasis gender dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kekerasan  berbasis gender dan anak;  

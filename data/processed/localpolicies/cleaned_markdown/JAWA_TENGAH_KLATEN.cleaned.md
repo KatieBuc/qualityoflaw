@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan hak  asasi perempuan terhadap pemberdayaan dan perlindungan  perempuan merupakan salah satu nilai yang tertuang dalam  Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa upaya pemberdayaan dan perlindungan perempuan  di Kabupaten Klaten perlu arah pengaturan dan kepastian  hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -178,7 +180,7 @@ Bidang Politik dan Pemerintahan
 
 #### Pasal 10
 
-Pemerintah Daerah bertanggung jawab dalam melakukan pencegahan tindak  kekerasan terhadap perempuan dengan cara:
+Pemerintah Daerah bertanggung jawab dalam melakukan pencegahan tindak  kekerasan terhadap perempuan dengan cara:  
 a. Menyosialisasikan peraturan perundang-udangan;  
 b. Memberikan konseling/bimbingan;  
 c. Memberikan edukasi bahaya kekerasan dalam rumah tangga;  
@@ -192,7 +194,7 @@ e. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan; dan f. Me
 
 #### Pasal 12
 
-Pelaksanaan perlindungan perempuan sebagaimana dimaksud dalam Pasal 11  ayat (1), dapat dilakukan dengan upaya:
+Pelaksanaan perlindungan perempuan sebagaimana dimaksud dalam Pasal 11  ayat (1), dapat dilakukan dengan upaya:  
 a. menyediakan dan memfasilitasi pelayanan bagi perempuan korban kekerasan;  
 b. Penguatan dan pengembangan lembaga pelayanan bagi perempuan korban  kekerasan;  
 c. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  perlindungan perempuan antar Perangkat Daerah;  
@@ -221,7 +223,7 @@ b. Pusat Pelayanan Terpadu (PPT) Tingkat Kecamatan; danc. Gugus Tugas Perlindung
 
 #### Pasal 15
 
-Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan di Daerah bersumber dari:
+Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan di Daerah bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; danc. Sumber dana lain yang sah dan tidak mengikat.  
 
@@ -340,7 +342,7 @@ Cukup jelas.
 
 #### Pasal 8
 
-Ayat (1) Yang dimaksud dengan perempuan penyandang masalah sosial adalah  yang memenui kriteria:
+Ayat (1) Yang dimaksud dengan perempuan penyandang masalah sosial adalah  yang memenui kriteria:  
 a. Kemiskinanb. Ketelantaranc. Kecacatand. Keterpencilane. Ketunaan sosial dan penyimpangan perilakuf. Korban bencana dan/ataug. Korban tindak kekerasan, eksploitasi dan diskriminasi Ayat (2) Cukup Jelas Ayat (3) Cukup Jelas Ayat (4) Cukup Jelas
 
 #### Pasal 9

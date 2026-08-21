@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan  prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwa pemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk  berperan serta dalam pembangunan sesuai dengan  kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapatkan perlindungan khusus agar tidak mengalami  kekerasan dan dapat menjalani hidup layak sesuai prinsip  kemanusiaan kesetaraan dan keadilan;  
@@ -120,14 +121,14 @@ c. memberikan perlindungan hak perempuan dan pemenuhan hak anak  termasuk perlin
 
 #### Pasal 4
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3  huruf a dilakukan melalui upaya:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3  huruf a dilakukan melalui upaya:  
 a. memberikan akses kepada perempuan dan anak terhadap layanan  pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
 c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 
-Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:
+Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  b dilakukan melalui upaya:  
 a. pembentukan, pengembangan, dan penguatan kapasitas lembaga  perlindungan perempuan dan anak termasuk unit-unit layanan pengaduan  kekerasan terhadap perempuan dan anak, serta layanan bantuan hukum;  
 b. peningkatan kualitas sumber daya manusia pengelola;  
 c. penguatan kapasitas kelembagaan Pengarusutamaan Gender (PUG) dan anak;  
@@ -197,13 +198,13 @@ P2TP2A berada di bawah koordinasi DKBP3A atau unit-unit lainnya yang  menangani 
 
 #### Pasal 15
 
-P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi  sebagai:
+P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi  sebagai:  
 a. pusat informasi bagi perempuan dan anak;  
 b. pusat pelayanan bagi perempuan dan anak kornban kekerasan; dan c. pusat pemberdayaan bagi perempuan dan anak.  
 
 #### Pasal 16
 
-Struktur kelembagaan P2TP2A:
+Struktur kelembagaan P2TP2A:  
 a. dibentuk berdasarkan keputusan Bupati/Camat;  
 
 10 -
@@ -227,7 +228,7 @@ P2TP2A dapat berkonsultasi dan berkoordinasi dengan Kementerian yang  menyelengg
 
 #### Pasal 20
 
-Koordinasi dapat dilakukan dalam bentuk:
+Koordinasi dapat dilakukan dalam bentuk:  
 a. rapat koordinasi dengan jejaring kerja;  
 b. konsultasi;  
 c. penyampaian data dan informasi; dan/ataud. tindak lanjut penanganan kasus.  
@@ -256,7 +257,7 @@ Pelaporan pemberdayaan perempuan dan perlindungan anak dilakukan 1 (satu)  kali 
 
 #### Pasal 23
 
-Pendanaan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak bersumber dari:
+Pendanaan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD);  
 b. sumber lain yang sah dan tidak mengikat berdasarkan ketentuan peraturan  perundang-undangan.  
 

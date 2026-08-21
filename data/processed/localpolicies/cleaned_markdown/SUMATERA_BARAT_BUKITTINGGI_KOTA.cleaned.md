@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapatkan perlindungan dari kekerasan, diskriminasi dan pelanggaran perlu dilakukan upaya-upaya perlindungan;  
 b. bahwa agar upaya perlindungan terhadap perempuan  dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah serta peran serta masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -124,7 +126,7 @@ Penyelenggaraan Perlindungan Perempuan dan Anak  berasaskan: (1) Pancasila dan U
 
 #### Pasal 3
 
-Tujuan dari Peraturan Daerah ini adalah:
+Tujuan dari Peraturan Daerah ini adalah:  
 a. Melindungi perempuan dan anak dari tindakan keputusan  dan kebijakan yang melanggar hak-hak azazi manusia. b. Memberi tanggungjawab yang jelas bagi pemerintah, masyarakat, keluarga, ninik mamak dan orang tua  terhadap hak anak dan perempuan.  c. Memberi batas-batas yang jelas terhadap peranan mamak  kepada kemenakan dan orang tua terhadap anak. d. Melindungi perempuan dan anak dari tindak kekerasan,  penelantaran, pengeksploitasi, dan perdagangan orang  serta hak-hak perempuan bila terjadi perceraian. e. Memberi kontribusi terhadap terwujudnya kesetaraan dan  keadilan gender dalam berbagai kegiatan serta  meningkatkan kesejahteraan perempuan dan anak di  Daerah.  f. Menata struktur dan lembaga pemerintah dan lembaga  adat dalam upaya perlindungan terhadap perempuan dan  anak.  g. Sebagai pedoman dalam mengambil kebijakan bagi  Pemerintah Daerah dan pranata-pranata sosial dalam hal  yang berhubungan dengan perlindungan perempuan dan  anak di Daerah.  h. Melindungi perempuan dan anak yang berdomisili di  Daerah dari tindakan-tindakan yang melanggar hak azazi  mereka.  i. Memberi pedoman terhadap peran Pemerintah Daerah,  masyarakat, orang tua dan pihak-pihak lain yang  bersinggungan dengan kepentingan perempuan dan anak.  
 
 # BAB III
@@ -137,7 +139,7 @@ Hak dan Kewajiban Perempuan
 
 #### Pasal 4
 
-Setiap perempuan berhak:
+Setiap perempuan berhak:  
 a. Memperoleh perlindungan dari diskriminasi, eksploitasi  (ekonomi dan sosial), penelantaran, kekejaman,  kekerasan, penganiayaan (fisik, psikis, dan seksual)  ketidak adilan dan perlakuan salah lainnya.  b. Memperoleh kesempatan dan hak-haknya yang sama  dengan laki-laki sebagai manusia, agar mampu berperan  dan berpartisipasi dalam kegiatan politik, ekonomi, sosial  dan budaya, pertahanan keamanan dan kesamaan dalam  menikmati hasil pembangunan.  c. Untuk perempuan pekerja:
 1. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan sebelum saatnya melahirkan anak dan 1,5 (satu  setengah) bulan sesudah melahirkan menurut  perhitungan dokter kandungan atau bidan, dengan  tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
 2. memperoleh cuti/istirahat selama 1,5 (satu setengah)  bulan apabila mengalami keguguran kandungan  dengan tetap mendapat upah atau gaji sesuai dengan  peraturan perundang-undangan yang berlaku;  
@@ -145,7 +147,7 @@ a. Memperoleh perlindungan dari diskriminasi, eksploitasi  (ekonomi dan sosial),
 
 #### Pasal 5
 
-Setiap perempuan berkewajiban untuk:
+Setiap perempuan berkewajiban untuk:  
 a. Saling menghormati, saling mencintai dan tolong  menolong dengan semua anggota keluarga dan  kerabatnya.  b. Mengurus rumah tangga terutama sebagai ibu rumah  tangga yang baik sesuai dengan adat istiadat setempat  dan kemampuannya.  c. Menghormati suami dan patuh kepada suami sejauh tidak  bertentangan dengan nilai-nilai agama dan adat.  d. Merawat dan mendidik anak sesuai dengan nilai agama  dan norma adat.  e. Menambah pengetahuan, keterampilan yang bermanfaat  bagi keluarga, dan masyarakat.  f. Mematuhi nilai agama dan norma adat.  
 
 ## Bagian Kedua
@@ -154,7 +156,7 @@ Hak dan Kewajiban Anak
 
 #### Pasal 6
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. Untuk hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai harkat dan martabat manusia, serta  mendapat perlindungan dari tindak kekerasan,  eksploitasi, diskriminasi dan penelantaran.  b. Berhak atas suatu nama sebagai identitas diri dan status  kewarganegaraan.  c. Untuk beribadah menurut agamanya, berpikir dan  berekspresi sesuai dengan tingkat kecerdasan dan  usianya, dalam bimbingan orang tua.  d. Untuk mengetahui orang tua, diasuh dan dibesarkan oleh  orang tuanya sendiri.  e. Dalam hal karena suatu sebab orang tuanya tidak dapat  menjamin tumbuh kembang anak, atau anak dalam  keadaan terlantar maka anak tersebut berhak diasuh atau  diangkat sebagai anak asuh atau anak angkat oleh orang  lain sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  f. Memperoleh pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental, spiritual, dan  sosial.  g. Memperoleh pendidikan dan pengajaran dalam rangka  pengembangan pribadinya dan tingkat kecerdasannya  sesuai dengan minat dan bakatnya.  h. Mendapatkan perlindungan di satuan pendidikan dari  kejahatan seksual dan kekerasan yang dilakukan oleh  pendidik, tenaga kependidikan, sesama peserta didik,  dan/atau pihak lain.  i. Mendapatkan pendidikan luar biasa dan khusus bagi  anak penyandang disabilitas dan anak yang memiliki  keunggulan.  j. Menyatakan dan didengar pendapatnya, menerima,  mencari, dan memberikan informasi sesuai dengan  tingkat kecerdasan dan usianya demi pengembangan  dirinya sesuai dengan nilai-nilai kesusilaan dan  kepatutan.  k. Untuk beristirahat dan memanfaatkan waktu luang,  bergaul dengan anak yang sebaya, bermain, berekreasi,  dan berkreasi sesuai dengan minat, bakat, dan tingkat  kecerdasannya demi pengembangan diri.  l. Memperoleh rehabilitasi, bantuan sosial dan pemulihan  taraf kesejahteraan sosial bagi anak penyandang  disanilitas.  m. Berhak mendapat perlindungan dari perlakuan selama  dalam pengasuhan orang tua, wali, atau pihak lain  manapun yang bertanggungjawab atas pengasuhan, dari  perlakuan diskriminasi, eksploitasi, baik ekonomi  maupun seksual, penelantaran, kekejaman, kekerasan,  dan penganiayaan, ketidakadilan dan perlakuan salah  lainnya.  n. Untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau aturan hukum yang sah menunjukan  bahwa pemisahan itu adalah demi kepentingan terbaik  bagi anak dan merupakan pertimbangan terakhir.  o. Dalam hal terjadi pemisahan antara anak dengan orang tuanya, anak tetap berhak:
 1. bertemu langsung dan berhubungan pribadi secara  tetap dengan kedua orang tuanya;  
 2. mendapatkan pengasuhan, pemeliharaan, pendidikan  dan perlindungan untuk proses tumbuh kembang dari  kedua orang tuanya sesuai dengan kemampuan, bakat  dan minatnya;  
@@ -165,7 +167,7 @@ a. Untuk hidup, tumbuh, berkembang dan berpartisipasi  secara wajar sesuai harka
 
 #### Pasal 7
 
-Setiap anak berkewajiban untuk:
+Setiap anak berkewajiban untuk:  
 a. Menghormati orang tua, wali dan guru.  b. Mencintai keluarga, masyarakat dan menyayangi teman. c. Mencintai Tanah Air, Bangsa, dan Negara.  d. Menunaikan ibadah sesuai dengan ajaran agama masing masing.  e. Melaksanakan etika dan akhlak yang mulia.  f. Mentaati segala ketentuan yang dianggap dapat merusak  diri dan masa depannya.  
 
 # BAB IV
@@ -178,7 +180,7 @@ Pemerintah Daerah bertanggung jawab atas pelaksanaan  perlindungan perempuan dan
 
 #### Pasal 9
 
-Perlindungan terhadap perempuan meliputi:
+Perlindungan terhadap perempuan meliputi:  
 a. Melakukan sosialisasi, edukasi dan kampanye anti  kekerasan terhadap perempuan dengan melibatkan  seluruh Satuan Kerja Perangkat Daerah, mitra kerja dan masyarakat secara aktif.  b. Memastikan program pengarusutamaan gender di setiap  Satuan Kerja Perangkat Daerah, untuk menjamin  kesetaraan antara laki-laki dan perempuan, yang  tergambar pada Rencana Anggaran Satuan Kerja  Perangkat Daerah.  c. Melakukan pendeteksian secara dini terhadap kasus  kekerasan terhadap perempuan.  d. Menyediakan sarana pelayanan bagi korban kekerasan  terhadap perempuan, baik pelayanan terhadap korban  fisik maupun pelayanan korban secara psikologis, melalui  penyempurnaan sarana dan fasilitas khusus di Rumah  sakit dan pada P2TP2A.  e. Mewajibkan semua Rumah Sakit untuk bersedia menerima perempuan korban kekerasan untuk di visum  dan menjalani perawatan kesehatan.  f. Memberikan hak-hak perempuan sesuai dengan harkat  dan martabatnya sebagai perempuan.  g. Melindungi tenaga kerja perempuan dari tindakan  diskriminasi, eksploitasi dan kekerasan.  h. Mewajibkan penyediaan sarana prasarana khusus  perempuan sesuai kriteria, di setiap gedung pemerintah,  kantor swasta dan fasilitas umum lainnya.  i. Mewajibkan penyediaan sarana ruang laktasi bagi gedung  pemerintah yang memberikan pelayanan umum dan  tempat-tempat fasilitas umum lainnya seperti mall,  supermarket, tempat praktek dokter dan sejenisnya.  
 
 #### Pasal 10

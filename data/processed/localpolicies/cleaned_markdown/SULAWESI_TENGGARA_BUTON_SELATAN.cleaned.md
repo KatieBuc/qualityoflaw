@@ -16,10 +16,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Pemerintahan Daerah, Pemberdayaan Perempuan dan perlindungan Anak merupakan urusan pemerintahan wajib bagi Pemerintah daerah yang tidak berkaitan dengan pelayanan Dasar, maka dalam rangka pemenuhan hak asasi manusia atas tindak kekerasan perempuan dan anak, dipandang perlu dilakukan perlindungan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -86,7 +88,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan  berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -107,7 +109,7 @@ d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapo
 
 #### Pasal 4
 
-Bentuk kekerasan antara lain:
+Bentuk kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -121,7 +123,7 @@ f. eksploitasi; dan/ataug. kekerasan lainnya.
 
 #### Pasal 5
 
-Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai  berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
@@ -134,7 +136,7 @@ i. hak atas pendampingan; danj. hak rasa aman.
 
 #### Pasal 6
 
-Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:
+Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 5, juga mendapatkan hak khusus, sebagai berikut:  
 a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
@@ -146,7 +148,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab  bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab  bersama:  
 a. Pemerintah Daerah; danb. Masyarakat.  
 
 #### Pasal 8
@@ -171,7 +173,7 @@ c. memberikan informasi dan/ atau melaporkan tindak kekerasan terhadap  perempua
 
 #### Pasal 10
 
-Setiap orang yang mendengar, melihat atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib melakukan upaya sesuai dengan batas  kemampuannya untuk:
+Setiap orang yang mendengar, melihat atau mengetahui terjadinya kekerasan  terhadap perempuan dan anak wajib melakukan upaya sesuai dengan batas  kemampuannya untuk:  
 a. mencegah dan menghentikan berlangsungnya tindak kekerasan;  
 b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dan/ ataud. membantu proses pengajuan permohonan penetapan perlindungan korban  kekerasan.  
@@ -189,7 +191,7 @@ c. memberikan pertolongan darurat; dan/ ataud. membantu proses pengajuan permoho
 
 #### Pasal 12
 
-Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari  tindak kekerasan, Bupati membentuk:
+Selain membentuk PPT sebagaimana dimaksud dalam Pasal 11, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan dan anak dari  tindak kekerasan, Bupati membentuk:  
 a. gugus tugas tindak perdagangan orang; danb. komite aksi daerah penghapusan bentuk pekerjaan terburuk untuk anak.  
 
 #### Pasal 13
@@ -239,7 +241,7 @@ Perlindungan Hukum
 
 #### Pasal 17
 
-Perlindungan hukum meliputi:
+Perlindungan hukum meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
 b. memberikan informasi hukum kepada korban;  
 c. melakukan pendampingan untuk korban sebagai saksi mulai dari proses  penyidikan hingga putusan; dand. memberikan perlindungan hukum secara khusus bagi anak korban tindak kekerasan dengan cara menunjuk perwalian sesuai dengan peraturan  perundang-undangan yang berlaku.  
@@ -250,7 +252,7 @@ Pemulihan
 
 #### Pasal 18
 
-Pemulihan meliputi:
+Pemulihan meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
@@ -264,7 +266,7 @@ Koordinasi
 
 #### Pasal 19
 
-Koordinasi meliputi:
+Koordinasi meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  lembaga pelayanan terpadu; danb. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  pelayanan terpadu antar daerah.  
 
 ## Bagian Kelima
@@ -273,7 +275,7 @@ Peran Serta Masyarakat
 
 #### Pasal 20
 
-Peran serta masyarakat dilakukan dengan cara:
+Peran serta masyarakat dilakukan dengan cara:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus tindak kekerasan  pada perempuan dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi dan melaporkan adanya tindak kekerasaan terhadap perempuan  dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kasus tindak kekerasan;  
@@ -341,7 +343,7 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 
 #### Pasal 26
 
-Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan, dapat bersumber dari:
+Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan, dapat bersumber dari:  
 a. anggaran pendapatan dan belanja negarab. anggaran pendapatan dan belanja daerah;  
 c. sumbangan masyarakat yang tidak mengikat;  
 d. bantuan luar negeri yang tidak mengikat; dan/ ataue. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  

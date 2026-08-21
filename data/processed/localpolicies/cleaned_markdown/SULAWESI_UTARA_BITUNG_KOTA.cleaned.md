@@ -26,6 +26,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa penjaminan atas penghormatan, perlindungan dan  pemenuhan Hak Asasi Manusia bagi setiap Warga Negara Indonesia yang ada di Daerah merupakan tugas yang harus dilaksanakan oleh Pemerintah Daerah;  
 b. bahwa Kota Bitung sebagai kota industri yang berkembang  dengan pesat sebagai salah satu pusat ekonomi di Provinsi Sulawesi Utara, telah menciptakan banyak lapangan kerja sehingga banyak masyarakat dari berbagai daerah di luar Kota Bitung yang datang bekerja di dalam wilayah Kota Bitung dan berpotensi memunculkan gesekan sosial sehingga dapat berimbas pada rentannya perempuan dan anak untuk menjadi korban dari tindak kekerasan;  
 c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan
@@ -36,6 +37,7 @@ Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam b
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan di Kota Bitung;  
 
 Mengingat:  
+ 
  
  
  
@@ -116,7 +118,7 @@ h. pembinaan dan pengawasan; dani. pembiayaan.
 
 #### Pasal 3
 
-Penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan, dilaksanakan berdasarkan  asas sebagai berikut:
+Penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan, dilaksanakan berdasarkan  asas sebagai berikut:  
 a. penghormatan terhadap Hak Asasi Manusia yang  dimiliki perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
 c. non-diskriminasi; dand. kepentingan yang terbaik bagi perempuan dan anak.  
@@ -149,21 +151,21 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5  ayat (2) huruf b disebabkan
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5  ayat (2) huruf c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5  ayat (2) huruf c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar  atau tidak disukai; dand. pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan/atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 ayat  (2) huruf d disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 ayat  (2) huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental,  spiritual maupun sosial yang dilakukan oleh orang  tua, wali atau pihak lain maupun yang bertanggung  jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk  memelihara, merawat atau mengurus anak  sebagaimana mestinya yang dilakukan oleh orang tua,  wali atau pihak lain manapun yang bertanggung jawab  atas pengasuhannya;  
 c. perbuatan yang menelantarkan istri dalam lingkup  rumah tangganya, padahal menurut hukum yang  berlaku bagi mereka atau karena persetujuan atau  perjanjian, ia wajib memberikan penghidupan,  perawatan atau pemeliharaan kepada istrinya  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan  ekonomi, dengan cara membatasi dan/atau melarang  istri untuk bekerja yang layak didalam atau di luar  rumah sehingga istri berada dibawah kendali  suaminya.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 ayat (2)  huruf e disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 ayat (2)  huruf e disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri  atau orang lain;  
 b. perbuatan yang tanpa persetujuan perempuan dan  anak yang menjadi korban eksploitasi, meliputi tetapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan,  pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum  memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau  kemampuan seseorang oleh pihak lain untuk  mendapatkan keuntungan, baik yang bersifat  fisik/kebendaan (materiil) maupun yang tidak bersifat  fisik/kebendaan; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau  organ tubuh lain dari perempuan dan anak yang  menjadi korban eksploitasi untuk mendapatkan  keuntungan, termasuk tetapi tidak terbatas pada  semua kegiatan pelacuran atau pencabulan.  
 
@@ -229,7 +231,7 @@ PENYELENGGARAAN PENCEGAHAN TERJADINYA TINDAK KEKERASAN  TERHADAP PEREMPUAN DAN A
 
 #### Pasal 17
 
-Penyelenggaraan pencegahan terjadinya tindak kekerasan  terhadap perempuan dan anak dilaksanakan oleh:
+Penyelenggaraan pencegahan terjadinya tindak kekerasan  terhadap perempuan dan anak dilaksanakan oleh:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
@@ -262,7 +264,7 @@ f. mental dan spiritual; dang. ketentraman dan ketertiban.
 
 #### Pasal 20
 
-Bentuk peran serta masyarakat dalam pencegahan  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:
+Bentuk peran serta masyarakat dalam pencegahan  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:  
 a. penyediaan rumah aman dan/atau rumah singgah;  
 b. pendirian dan pengelolaan panti asuhan anak;  
 c. pendirian tempat rehabilitasi anak;  
@@ -270,14 +272,14 @@ d. pengawasan secara aktif terhadap kekerasan terhadap  perempuan dan anak dan m
 
 #### Pasal 21
 
-Keluarga memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:
+Keluarga memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:  
 a. menjaga keharmonisan hubungan keluarga;  
 b. melakukan pertolongan kepada korban;  
 c. melaporkan setiap bentuk kekerasan dalam keluarga kepada aparat yang berwenang; dand. membantu pemerintah dalam upaya melakukan  rehabilitasi dan reunifikasi korban.  
 
 #### Pasal 22
 
-Orang tua memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:
+Orang tua memiliki tanggung jawab untuk mencegah  terjadinya tindak kekerasan terhadap perempuan dan  anak, meliputi:  
 a. menumbuhkan rasa cinta, kasih sayang dan saling  menghormati dalam keluarga;  
 b. melakukan pertolongan kepada korban; dan c. melaporkan setiap bentuk kekerasan dalam keluarga.  
 
@@ -313,7 +315,7 @@ f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak yang berkait
 
 #### Pasal 26
 
-Anak yang menjadi korban tindak kekerasan, selain  mendapatkan hak sebagaimana dimaksud dalam Pasal 25, mendapatkan hak khusus sebagai berikut:
+Anak yang menjadi korban tindak kekerasan, selain  mendapatkan hak sebagaimana dimaksud dalam Pasal 25, mendapatkan hak khusus sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya  untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -352,7 +354,7 @@ Penyelenggaraan pelayanan penanganan, pendampingan  dan pemulihan terhadap perem
 
 #### Pasal 31
 
-PPT terdiri dari unsur:
+PPT terdiri dari unsur:  
 a. perangkat daerah yang menyelenggarakan urusan  pemerintahan dalam bidang kesehatan;  
 b. perangkat daerah yang menyelenggarakan urusan  pemerintahan dalam bidang pendidikan;  
 c. perangkat daerah yang menyelenggarakan urusan  pemerintahan dalam bidang sosial;  
@@ -386,7 +388,7 @@ Mekanisme Pelayanan Penanganan, Pendampingan dan Pemulihan
 
 #### Pasal 34
 
-Bentuk pelayanan PPT terhadap perempuan dan anak yang  menjadi korban tindak kekerasan, meliputi:
+Bentuk pelayanan PPT terhadap perempuan dan anak yang  menjadi korban tindak kekerasan, meliputi:  
 a. pelayanan medis, berupa perawatan dan pemulihan  luka-luka fisik yang bertujuan untuk memulihkan kondisi fisik perempuan dan anak yang menjadi korban tindak kekerasan yang dilakukan oleh tenaga medis dan paramedik;  
 b. pelayanan medis untuk kepentingan pembuktian di  bidang hukum;  
 c. pelayanan psikososial;  
@@ -406,7 +408,7 @@ Pendampingan dilaksanakan oleh orang dan/atau lembaga  yang bekerjasama dengan P
 
 #### Pasal 37
 
-Penyelenggaraan pelayanan dan pendampingan terhadap  perempuan dan anak yang menjadi korban tindak  kekerasan, dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap  perempuan dan anak yang menjadi korban tindak  kekerasan, dilakukan dengan prinsip:  
 a. cepat, aman dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -444,7 +446,7 @@ a. pelatihan kerja; dan/ataub. memfasilitasi pembentukan usaha ekonomis  produkt
 
 #### Pasal 41
 
-Rehabilitasi anak yang menjadi korban tindak kekerasan  sebagaimana dimaksud dalam Pasal 17 huruf d dilaksanakan dalam bentuk:
+Rehabilitasi anak yang menjadi korban tindak kekerasan  sebagaimana dimaksud dalam Pasal 17 huruf d dilaksanakan dalam bentuk:  
 a. layanan bantuan hukum;  
 b. layanan rehabilitasi kesehatan;  
 c. layanan rehabilitasi sosial; dan/ataud. layanan pemulangan dan reintegrasi sosial.  
@@ -547,7 +549,7 @@ Cukup jelas.
 
 #### Pasal 4
 
-Maksud dan tujuan penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan, adalah untuk:
+Maksud dan tujuan penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan, adalah untuk:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan  anak;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak dari tindak kekerasan; dand. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis  dan sejahtera.  

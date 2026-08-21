@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan  anak agar dapat berpartisipasi secara optimal sesuai dengan  harkat dan martabat kemanusiaan, serta mendapat perlindungan  dari kekerasan, perlu dilakukan upaya-upaya perlindungan  terhadap perempuan dan anak secara optimal melalui  peningkatan peran serta masyarakat secara luas;  
 b. bahwa maraknya kasus kekerasan terhadap perempuan dan  anak di Kabupaten Garut diperlukan penanganan dan tindakan  nyata dari Pemerintah Daerah untuk menyusun kebijakan dan  program untuk menghapuskan segala bentuk kekerasan  terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -157,7 +159,7 @@ i. pendanaan; danj. Sanksi.
 
 #### Pasal 6
 
-Bentuk kekerasan terhadap perempuan dan anak, antara lain:
+Bentuk kekerasan terhadap perempuan dan anak, antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -204,7 +206,7 @@ j. hak untuk mendapatkan visum et repertum secara cuma-cuma; dank. hak korban da
 
 #### Pasal 9
 
-Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 8 juga mendapatkan hak-hak khusus, sebagai berikut:
+Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 8 juga mendapatkan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -221,7 +223,7 @@ Umum
 
 #### Pasal 10
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak dari kekerasan merupakan tanggungjawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak dari kekerasan merupakan tanggungjawab bersama:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
 c. Masyarakat; dand. Orangtua, Wali dan/atau Keluarga.  
@@ -280,7 +282,7 @@ Umum
 
 #### Pasal 15
 
-Pemerintah Daerah melaksanakan kegiatan penyelenggaraan perlindungan  perempuan dan anak dari kekerasan, yang meliputi:
+Pemerintah Daerah melaksanakan kegiatan penyelenggaraan perlindungan  perempuan dan anak dari kekerasan, yang meliputi:  
 a. pencegahan;  
 b. pelayanan;  
 c. rehabilitasi sosial; dand. pemberdayaan.  
@@ -326,7 +328,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 19
 
-Bentuk pelayanan terhadap korban sebagaimana dimaksud dalam Pasal 17  huruf b, terdiri atas:
+Bentuk pelayanan terhadap korban sebagaimana dimaksud dalam Pasal 17  huruf b, terdiri atas:  
 a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi: 1. pelayanan pengaduan, konsultasi dan konseling;  
 2. pelayanan pendampingan;  
 3. pelayanan kesehatan;  
@@ -340,12 +342,12 @@ a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi: 1. p
 
 #### Pasal 20
 
-Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 18 huruf a angka 1, meliputi:
+Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 18 huruf a angka 1, meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (informed consent).  
 
 #### Pasal 21
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 19 huruf a angka 2 meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 19 huruf a angka 2 meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan;  
 b. pendampingan korban selama proses recovery psikologis;  
 c. mendampingi korban selama proses medicolegal;  
@@ -356,7 +358,7 @@ g. melakukan koordinasi dengan pendamping yang lain; danh. memberikan penanganan
 
 #### Pasal 22
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 19 huruf a angka 3  meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 19 huruf a angka 3  meliputi:  
 a. pertolongan pertama kepada korban oleh petugas yang berkompeten;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
 
@@ -414,14 +416,14 @@ Meningkatkan ketahanan hidup sebagaimana dimaksud dalam Pasal 27 huruf a  dilaku
 
 #### Pasal 29
 
-Meningkatkan usaha ekonomi sebagaimana dimaksud dalam Pasal 27 huruf b dengan  memberikan:
+Meningkatkan usaha ekonomi sebagaimana dimaksud dalam Pasal 27 huruf b dengan  memberikan:  
 a. pelatihan keterampilan kerja;  
 b. pelatihan usaha ekonomi produktif;  
 c. pendampingan dalam pengembangan usaha ekonomi produktif; dand. kemudahan akses informasi dan promosi pemasaran hasil produk usaha  ekonomi produktif.  
 
 #### Pasal 30
 
-Meningkatkan partisipasi perempuan sebagai pembangun, penengah dan perunding  perdamaian sebagaimana dimaksud dalam Pasal 27 huruf c dilakukan dengan  melibatkan perempuan:
+Meningkatkan partisipasi perempuan sebagai pembangun, penengah dan perunding  perdamaian sebagaimana dimaksud dalam Pasal 27 huruf c dilakukan dengan  melibatkan perempuan:  
 a. dalam pelatihan sebagai pembangun, penengah dan perunding perdamaian; danb. sebagai inisiator, penengah dan perunding dalam proses membangun  perdamaian.  
 
 # BAB VIII
@@ -434,7 +436,7 @@ Umum
 
 #### Pasal 31
 
-Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat  membentuk:
+Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat  membentuk:  
 a. P2TP2A di tingkat Daerah;  
 b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan;  
 c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan; dand. Lembaga atau organisasi lain sesuai ketentuan peraturan  perundang-undangan.  
@@ -549,7 +551,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 40
 
-Pendanaan perlindungan perempuan dan anak bersumber dari:
+Pendanaan perlindungan perempuan dan anak bersumber dari:  
 a. APBD;  
 b. APBDes; danc. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 

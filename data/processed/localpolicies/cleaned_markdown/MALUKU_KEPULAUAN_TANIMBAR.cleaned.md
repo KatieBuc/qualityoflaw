@@ -22,11 +22,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak berhak  memperoleh perlindungan atas setiap tindakan kekerasan yang  dilakukan terhadapnya yang dapat menimbulkan korban fisik  maupun psikhis, sebagai bagian dari pengakuan dan penegakan  Hak Asasi Manusia;  
 b. bahwa jumlah tindakan kekerasan terhadap perempuandan anak di  Kabupaten Maluku Tenggara Barat cukup tinggi, sedangkan  perlindungan dan pelayanan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuandan Anak Korban  Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -107,7 +109,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan dilaksanakan  berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan dilaksanakan  berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. perlindungan terhadap hak korban;  
@@ -124,7 +126,7 @@ Tujuan penyelenggaraan perlindungan perempuan dan anakkorban kekerasan ini  adal
 
 #### Pasal 4
 
-Setiap korban kekerasan berhak untuk mendapatkan:
+Setiap korban kekerasan berhak untuk mendapatkan:  
 a. perlindungan dan pendampingan;  
 b. bantuan hukum;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
@@ -154,7 +156,7 @@ Rumah aman sebagaimana dimaksud dalam pasal 5 ayat (1) memberikan tempat  (1) da
 
 #### Pasal 7
 
-Penyelenggaraan perlindungan perempuan dan anak merupakan Kewajiban dan  tanggungjawabbersama:
+Penyelenggaraan perlindungan perempuan dan anak merupakan Kewajiban dan  tanggungjawabbersama:  
 a. Pemerintah Daerah;  
 b. Perorangan;  
 c. Keluarga;  
@@ -162,7 +164,7 @@ d. Orang Tua/Wali;
 e. Masyarakat;  
 f. Organisasi Sosial; dan ataug. Organisasi Kemasyarakatan lainnya sesuai ketentuan peraturan perundang undangan yang berlaku.  
 
-Pasal8 Kewajiban dan tanggung jawab pemerintah daerahsebagaimana dimaksud dalam  pasal 7huruf a melipu ti:
+Pasal8 Kewajiban dan tanggung jawab pemerintah daerahsebagaimana dimaksud dalam  pasal 7huruf a melipu ti:  
 a. menetapkan dan melaksanakan kebijakan, Program dan kegiatan perlindungan  perempuan dan anak korban kekerasan;  
 b. melakukan kerjasama dalam penyelenggaraan perlindungan perempuan dan  anak dari korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan dan anak dari korban kekerasan;  
@@ -201,7 +203,7 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 12
 
-Bentuk-bentuk pelayanan terhadap korban yang diselenggarankan oleh P2TP2A  meliputi:
+Bentuk-bentuk pelayanan terhadap korban yang diselenggarankan oleh P2TP2A  meliputi:  
 a. pelayanan medis berupa perawatan dan pemulihan kondisi fisik yang  dilakukan oleh tenaga medis dan paramedis;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan  pembuktian di bidang hukum;  
 c. pertolongan psikososial pertama pada korban dilakukan untuk identifikasi  terjadinya kekerasan dan traumatis yang dialami korban;  
@@ -278,7 +280,7 @@ Pasal19 (1) Pembiayaan penyelenggara perlindungan perempuan dan anak korban  kek
 
 #### Pasal 20
 
-( 1) Setiap orang dilarang:
+( 1) Setiap orang dilarang:  
 a. memper!akukan anak dan perempuan secara diskriminatif yang  mengakibatkan anak dan perempun mengalami kerugian, baik materiil  maupun moriil sehingga menghambat fungsi sosialnya; ataub. memperlakukan anak dan perempuan penyandang disabilitas secara  diskrimininatif.  
 2. Setiap orang dilarang menempatkan, membiarkan, melibatkan, menyuruh  melibatkan anak dan perempuan dalam situasi dan perlakuan salah dan  penelantaran;  
 3. Setiap orang dilarang menempatkan, membiarkan, melakukan, menyuruh  melakukan, atau turut serta melakukan kekerasan terhadap anak dan  perempuan;  
@@ -393,7 +395,7 @@ Cukupjelas
 
 #### Pasal 8
 
-Ayat (1) Hurufa Yang dimaksud dengan menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan meliputi:
+Ayat (1) Hurufa Yang dimaksud dengan menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan meliputi:  
 a. Mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. Memberikan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
 c. Melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak korban kekerasan;  

@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak  berhak memperoleh perlindungan atas setiap tindakan kekerasan yang dilakukan terhadapnya yang  menimbulkan korban fisik maupun psykis, sebagai  bagian dari pengakuan dan penegakan hak asasi  manusia;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh pancasila sebagai falsafah negara, Undang-Undang  dasar Negara Republik Indonesia sebagai dasar hukum tertinggi dalam negara maupun berbagai peraturan  perundangan lainya;  
 c. bahwa perlindungan terhadap perempuan dan anak  korban kekerasan merupakan salah sat aspek dari tugas  dan tanggung jawab pemerintah daerah dalam  memberikan perlindungan dan pelayanan kepada  masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu ditetapkan dengan Peraturan Daerah Kota Tual tentang  Penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -92,7 +94,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 1
 
-Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilakukan berdasarkan pancasila, Undang-Undang Dasar Negara Republik  Indonesia tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana  diatur dalam konvensi perempuan dan anak yang meliputi:
+Penyelenggaraan perlindungan perempuan dan anak korban kekerasan  dilakukan berdasarkan pancasila, Undang-Undang Dasar Negara Republik  Indonesia tahun 1945, serta prinsip-prinsip dan hak dasar sebagaimana  diatur dalam konvensi perempuan dan anak yang meliputi:  
 a. Penghormatan hak azasi manusia;  
 b. Non-diskriminasi;  
 c. Kepentingan yang terbaik bagi perempuan dan atau anak;  
@@ -106,13 +108,13 @@ Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan adalah 
 
 #### Pasal 3
 
-Adapun kegiatan pencegahan terjadinya kekerasan sebagaimana dimaksud  pada pasal 3 meliputi:
+Adapun kegiatan pencegahan terjadinya kekerasan sebagaimana dimaksud  pada pasal 3 meliputi:  
 a. Sosialisasi;  
 b. Diseminasi; danc. Pelatihan;  
 
 #### Pasal 4
 
-Adapun kegiatan perlindungan dan pelayanan terhadap korban sebagaimana  dimaksud dalam Pasal 3 meliputi:
+Adapun kegiatan perlindungan dan pelayanan terhadap korban sebagaimana  dimaksud dalam Pasal 3 meliputi:  
 a. Pengaduan;  
 b. Pelayanan Kesehatan;  
 c. Pelayanan Rehabilitasi social;  
@@ -124,7 +126,7 @@ d. Layanan Bantuan Hukum; dane. Layanan Pemulangan dan Reintegrasi Sosial.
 
 #### Pasal 5
 
-Korban berhak mendapatkan:
+Korban berhak mendapatkan:  
 a. untuk dihormati harkat dan martabat sebagai manusia;  
 b. mendapatkan perlindungan dari keluarga, masyarakat maupun  pemerintah daerah;  
 c. mendapatkan informasi;  
@@ -152,7 +154,7 @@ b. mendorong kepedulian masyarakat akan pentingnya perlindungan  terhadap korban
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 6 ayat (1) meliputi:
+Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 6 ayat (1) meliputi:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan terhadap korban;  
 c. memberikan pertolngan darurat;  
@@ -160,7 +162,7 @@ d. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan
 
 #### Pasal 8
 
-Kewajiban orang tua dan/atau keluarga sebagaimana dimaksud dalam  Pasal 6 ayat (1) meliputi:
+Kewajiban orang tua dan/atau keluarga sebagaimana dimaksud dalam  Pasal 6 ayat (1) meliputi:  
 a. mencegah segala bentuk kekerasan dan melindungi perempuan dan anak  sebagai anggota keluarga;  
 b. memberikan dukungan bagi perempuan dan anak korban kekerasan  yang adalah bagian dari anggota keluarga;  
 

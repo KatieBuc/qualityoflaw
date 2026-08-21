@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya untuk diberdayakan agar dapat mengaktualisasikan potensinya secara optimal dan mendapatkan jaminan perlindungan dari tindak kekerasan terhadap perempuan;  
 b. bahwa dalam rangka sarana aktualisasi diri perempuan  dan jaminan perlindungan dalam masyarakat di kota semarang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintah Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, pemerintah daerah mempunyai kewenangan dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -66,7 +68,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan dan Perlindungan Perempuan dilaksanakan  berdasarkan asas:
+Pemberdayaan dan Perlindungan Perempuan dilaksanakan  berdasarkan asas:  
 a. penghormatan terhadap hak asasi manusia;  
 b. non diskriminasi;  
 c. kesetaraan gender dan keadilan gender;  
@@ -77,7 +79,7 @@ g. akuntabilitas; danh. inklusi.
 
 #### Pasal 3
 
-Pemberdayaan dan Perlindungan Perempuan bertujuan  untuk:
+Pemberdayaan dan Perlindungan Perempuan bertujuan  untuk:  
 a. meningkatkan kualitas hidup perempuan;  
 b. meningkatkan partisipasi perempuan dalam proses  pembangunan;  
 c. mendorong kepemimpinan perempuan dan posisi tawar  perempuan dalam pengambilan keputusan dalam  berbagai proses pembangunan, baik perencanaan,  pelaksanaan serta monitoring dan evaluasi;  
@@ -90,7 +92,7 @@ i. mewujudkan kehidupan sosial yang aman dan bebas  dari segala bentuk Kekerasan
 
 #### Pasal 4
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. kewenangan dan tanggungjawab pemerintah daerah;  
 b. hak perempuan;  
 c. Pemberdayaan Perempuan;  
@@ -126,7 +128,7 @@ h. standardisasi; dani. pengelolaan informasi pembangunan di Daerah. (3) Kewenan
 
 #### Pasal 6
 
-Setiap Perempuan berhak untuk:
+Setiap Perempuan berhak untuk:  
 a. hidup dan mempertahankan hidup serta meningkatkan  taraf kehidupannya;  
 b. memenuhi kebutuhan dasarnya untuk tumbuh dan  berkembang secara layak, berkeluarga dan melanjutkan  keturunan;  
 c. mengembangkan pribadinya, untuk memperoleh  pendidikan, dan meningkatkan kualitas hidupnya agar  menjadi manusia yang beriman, bertaqwa, bertanggung jawab, berakhlak mulia, bahagia, dan sejahtera sesuai  dengan hak asasi manusia;  
@@ -148,7 +150,7 @@ Umum
 
 #### Pasal 7
 
-Pemberdayaan Perempuan diarahkan berperan dan  berpartisipasi di bidang:
+Pemberdayaan Perempuan diarahkan berperan dan  berpartisipasi di bidang:  
 a. kesehatan;  
 b. pendidikan;  
 c. ekonomi;  
@@ -184,7 +186,7 @@ Bidang Ekonomi
 
 #### Pasal 10
 
-Pemberdayaan Perempuan di Bidang Ekonomi dilaksanakan  melalui:
+Pemberdayaan Perempuan di Bidang Ekonomi dilaksanakan  melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. memfasilitasi pembentukan, penguatan, dan  pengembangan kelompok usaha ekonomi produktif dan  ekonomi kreatif;  
 c. memfasilitasi permodalan; dand. memfasilitasi pengembangan jaringan pemasaran.  
@@ -195,7 +197,7 @@ Bidang Sosial Budaya
 
 #### Pasal 11
 
-Pemberdayaan Perempuan di bidang sosial budaya  dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang sosial budaya  dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan  untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan  status sosial;  
 b. peningkatan kesadaran terhadap berbagai masalah  sosial masyarakat melalui layanan komunikasi,  informasi dan edukasi;  
 c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, sehat dan sejahtera  termasuk akses layanan konsultasi dan pencatatan  perkawinan; dand. memfasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengetahuan, teknologi, seni dan  budaya untuk kemajuan perempuan.  
@@ -207,7 +209,7 @@ Bidang Politik dan Pemerintahan
 
 #### Pasal 12
 
-Pemberdayaan Perempuan di bidang politik dan  pemerintahan dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang politik dan  pemerintahan dilaksanakan melalui:  
 a. pelibatan perempuan dalam pengambilan keputusan di  berbagai tingkatan;  
 b. pelibatan perempuan dalam perencanaan pembangunan  di berbagai tingkatan;  
 c. mendorong peningkatan keterlibatan perempuan dalam  organisasi dan pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
@@ -233,7 +235,7 @@ Bidang Ketenagakerjaan
 
 #### Pasal 14
 
-Pemberdayaan Perempuan di bidang ketenagakerjaan  dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang ketenagakerjaan  dilaksanakan melalui:  
 a. pemberian akses untuk masuk ke pasar kerja;  
 b. kebebasan perempuan untuk menjadi anggota serikat  buruh dan memimpin serikat buruh; dan -8-c. akses terhadap perempuan untuk terlibat dalam  pengambilan kebijakan terkait pengupahan, hak-hak  dasar buruh dan aspek-aspek lain yang berkaitan erat  dengan ketenagakerjaan.  
 
@@ -243,7 +245,7 @@ Bidang Jaminan Sosial
 
 #### Pasal 15
 
-Pemberdayaan Perempuan di bidang jaminan sosial  dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang jaminan sosial  dilaksanakan melalui:  
 a. memfasilitasi pembinaan rehabilitasi sosial bagi  perempuan penyandang masalah kesejahteraan sosial; danb. mendorong peningkatan keterlibatan perempuan dalam  mengatasi masalah sosial.  
 
 ## Bagian Kesembilan
@@ -252,7 +254,7 @@ Bidang Pelestarian Lingkungan Hidup
 
 #### Pasal 16
 
-Pemberdayaan Perempuan di bidang pelestarian lingkungan  dilaksanakan melalui:
+Pemberdayaan Perempuan di bidang pelestarian lingkungan  dilaksanakan melalui:  
 a. meningkatkan kapasitas perempuan khususnya terkait  dalam peningkatan pengetahuan lingkungan hidup  sehingga dapat berdaya guna tinggi bagi pembangunan ramah lingkungan;  
 b. meningkatkan pendidikan pelestarian lingkungan hidup dan pengelolaan lingkungan hidup dalam rumah tangga;  
 c. meningkatkan pendidikan pengelolaan sampah pada  lingkungan hidup sekitar; dand. meningkatkan akses pada perempuan untuk  berpartisipasi dalam pembangunan lingkungan hidup.  
@@ -318,7 +320,7 @@ Pelayanan Terhadap Perempuan Korban Kekerasan
 
 #### Pasal 20
 
-Perempuan korban kekerasan mendapatkan hak sebagai  berikut:
+Perempuan korban kekerasan mendapatkan hak sebagai  berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai  manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
@@ -331,7 +333,7 @@ i. hak atas pendampingan; danj. hak rasa aman.
 
 #### Pasal 21
 
-Pelayanan terhadap perempuan korban kekerasan dapat  dilakukan melalui:
+Pelayanan terhadap perempuan korban kekerasan dapat  dilakukan melalui:  
 a. penerimaan laporan dan/atau penjangkauan korban  kekerasan;  
 b. pemberian informasi tentang hak korban kekerasan;  
 c. fasilitasi pemberian layanan kesehatan;  
@@ -432,7 +434,7 @@ Monitoring, Evaluasi dan Pelaporan
 
 #### Pasal 28
 
-Pelaksanaan monitoring, evaluasi dan pelaporan  sebagimana dimaksud dalam Pasal 24 huruf d,  dilaksanakan melalui:
+Pelaksanaan monitoring, evaluasi dan pelaporan  sebagimana dimaksud dalam Pasal 24 huruf d,  dilaksanakan melalui:  
 a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah  dilaksanakan;  
 b. Laporan disampaikan paling sedikit 1 (satu) kali dalam  1 (satu) tahun atau sewaktu-waktu apabila diperlukan;  danc. hasil evaluasi sebagai bahan masukan bagi penyusunan  kebijakan, program dan kegiatan tahun berikutnya.  
 
@@ -487,7 +489,7 @@ f. memberikan penghargaan kepada masyarakat dan  dunia usaha baik secara individ
 
 #### Pasal 32
 
-Pendanaan pelaksanaan Pemberdayaan dan Perlindungan  Perempuan bersumber dari:
+Pendanaan pelaksanaan Pemberdayaan dan Perlindungan  Perempuan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan  b. sumber lain yang sah dan tidak mengikat, sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB XII
@@ -609,7 +611,7 @@ Huruf g Cukup jelas.
 
 Huruf i Cukup jelas.  
 
-Huruf j Yang dimaksud dengan "melakukan perbuatan hukum"  adalah cakap menurut hukum untuk melakukan perbuatan  hukum. Perbuatan hukum adalah setiap perbuatan subjek  hukum (manusia atau badan hukum) yang akibatnya diatur  oleh hukum, karena akibat itu bisa dianggap sebagai kehendak dari yang melakukan hukum. Perbuatan hukum,  terdiri dari:
+Huruf j Yang dimaksud dengan "melakukan perbuatan hukum"  adalah cakap menurut hukum untuk melakukan perbuatan  hukum. Perbuatan hukum adalah setiap perbuatan subjek  hukum (manusia atau badan hukum) yang akibatnya diatur  oleh hukum, karena akibat itu bisa dianggap sebagai kehendak dari yang melakukan hukum. Perbuatan hukum,  terdiri dari:  
 a. Perbuatan hukum sepihak, adalah perbuatan hukum  yang dilakukan oleh satu pihak saja dan menimbulkan  hak dan kewajiban oleh satu pihak pula. Misalnya:  Pembuatan surat wasiat, dan Pemberian hibah sesuatu  benda.  b. Perbuatan hukum dua pihak, adalah perbuatan hukum  yang dilakukan oleh dua pihak dan menimbulkan hak hak dan kewajiban-kewajiban bagi kedua pihak (timbal balik). Misal: persetujuan jual-beli, perjanjian sewa menyewa dan lain-lain.  
 
 Huruf k Cukup jelas.  
@@ -664,7 +666,7 @@ Cukup jelas.
 #### Pasal 14
 
 Huruf a Cukup jelas.  
-21- Huruf b Yang dimaksud hak-hak dasar buruh meliputi:
+21- Huruf b Yang dimaksud hak-hak dasar buruh meliputi:  
 a. hak dasar untuk memperoleh upah yang layak.  b. hak untuk mendapatkan kesempatan dan perlakuan  yang sama dari perusahaan tanpa diskriminasi.  c. hak untuk mendapatkan pelatihan kerja untuk  meningkatkan dan mengembangkan kompetensi kerja.  d. hak untuk melaksanakan kerja sesuai waktu yang  ditentukan.  e. hak atas penempatan tenaga kerja.  f. hak mendapatkan perlindungan atas kesehatan dan  keselamatan kerja.  g. hak mendapatkan kesejahteraan melalui jaminan sosial  tenaga kerja.  h. hak ikut serta dalam serikat pekerja atau buruh.  i. hak mendapatkan cuti: sekurang-kurangnya 12 hari  kerja setelah karyawan bekerja selama satu tahun secara  terus menerus.  j. hak istirahat: pekerja setelah bekerja empat jam terus  menerus, mendapat kesempatan istirahat selama  minimal setengah jam.  k. hak cuti melahirkan, keguguran dan cuti haid khusus  buruh/pekerja perempuan: Pekerja/buruh perempuan berhak memperoleh istirahat  selama 1,5 (satu setengah) bulan sebelum saatnya  melahirkan anak dan 1,5 (satu setengah) bulan sesudah  melahirkan menurut perhitungan dokter kandungan  atau bidan.  
 
 Pekerja/buruh perempuan yang mengalami keguguran  kandungan berhak memperoleh istirahat 1,5 (satu  setengah) bulan atau sesuai dengan surat keterangan  dokter kandungan atau bidan.  
@@ -674,7 +676,7 @@ l. hak melaksanakan ibadah.  m. hak melakukan mogok kerja.  n. hak mendapatkan p
 
 #### Pasal 15
 
-Huruf a Kriteria masalah sosial adalah memiliki kehidupan yang  tidak layak secara kemanusiaan yang meliputi:
+Huruf a Kriteria masalah sosial adalah memiliki kehidupan yang  tidak layak secara kemanusiaan yang meliputi:  
 a. kemiskinan;  
 b. ketelantaran;  
 c. disabilitas;  

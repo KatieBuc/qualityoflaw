@@ -16,8 +16,10 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. Mengingat:  
+ 
  
  
  
@@ -73,7 +75,7 @@ ll.Forum Koordinasi Perlindungan Korban Kekerasan yang selanjutnya disingkat FKP
 
 #### Pasal 2
 
-Ruang lingkup pengaturan perlindungan Perempuan dan Anak dari tindak kekerasan meliputi:
+Ruang lingkup pengaturan perlindungan Perempuan dan Anak dari tindak kekerasan meliputi:  
 a. bentuk kekerasan;  
 b. hak Perempuan dan Anak dari tindak kekerasan;  
 c. kew'ajiban dan ',.anggung jaw-ab;  
@@ -90,7 +92,7 @@ i. pendanaan; danj. ketentuan pidana.
 
 #### Pasal 3
 
-Bentuk Kekerasan antara lain:
+Bentuk Kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan s,eksual; dan/ ataud. penelantaran rumah tangga.  
@@ -103,7 +105,7 @@ b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan pe
 
 #### Pasal 5
 
-Kekerasan psikis sebagaimana dimaksud mengakibatkan:
+Kekerasan psikis sebagaimana dimaksud mengakibatkan:  
 a. Ketakutan;  
 b. hilangrrya rasa percaya diri;  
 c. hilangnya kemampuan untuk bertindak;  
@@ -118,7 +120,7 @@ c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau 
 
 #### Pasal 7
 
-Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal 3 huruf d disebabkan karena:
+Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal 3 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan Anak secara wajar, baik fisik, mental, spiritual maupun sosia-l yang dilalrukan oleh orang tua, wali, atau pihak lain yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau menglrrlts furak sebagaimana meslinya yang dilakukan oleh orang tua, wali, atau pihak lain yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum wajib baginya memberikan kehidupan, peraq/atan, atau pemeliharaan kepada orang tersebu t; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada di bawah kendali orang tersebut.  
@@ -129,7 +131,7 @@ c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal men
 
 #### Pasal 8
 
-Perempuan dan Anak korban tindak Kekerasan mendapatkan hak sebagai berikut:
+Perempuan dan Anak korban tindak Kekerasan mendapatkan hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang dia.lami korban;  
 c. hak menentukan sendiri keputusalnya;  
@@ -155,7 +157,7 @@ i. hak untuk mendapatkan kemudahan da-lam proses peradilan; dan/ atau j. hak ata
 
 #### Pasal 1 I
 
-Anak sebagai korban tindak selain mendapatkan hak-hak Kekerasan sebagaimala dimaksud dalam Pasal 8, juga mendapatkan hak khusus, sebagai berikut:
+Anak sebagai korban tindak selain mendapatkan hak-hak Kekerasan sebagaimala dimaksud dalam Pasal 8, juga mendapatkan hak khusus, sebagai berikut:  
 a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -237,12 +239,12 @@ f. mental dan spiritual; dang. ketenteraman dan ketertiban.
 
 #### Pasal 18
 
-Pelayanan pengaduan sebagaimana dimaksud da.lam Pasal 17 ayat (l) huruf a meliputi:
+Pelayanan pengaduan sebagaimana dimaksud da.lam Pasal 17 ayat (l) huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan.  
 
 #### Pasal 19
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf b meliputi:  
 a. pertolongan p€rtama kepada korban;  
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedik; dan c. rujukan ke lay'anan Kesehatan y'ang lebih memadai bila diperlukan dapat merujuk ke pihat lain dengan pendekatan multidisiplin meliputi: 1. pelayanan kesehatan;  
 2. medikolegal;  
@@ -357,7 +359,7 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 
 #### Pasal 31
 
-Biaya kegiatan yang terkait dengan penyelenggaraan perlindungan Perempuan dan Anak dibebarikari pada:
+Biaya kegiatan yang terkait dengan penyelenggaraan perlindungan Perempuan dan Anak dibebarikari pada:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. penerimaan lain yang sah sesuai dengan peraturan perundang-undangan yang berlaku.  
 
 # BAB xI

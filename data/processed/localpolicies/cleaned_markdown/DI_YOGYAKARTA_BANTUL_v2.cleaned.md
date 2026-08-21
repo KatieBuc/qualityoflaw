@@ -28,10 +28,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa berdasarkan klarifikasi dari Gubernur Daerah  Istimewa Yogyakarta, beberapa ketentuan dalam Peraturan  Daerah Kabupaten Bantul Nomor 15 Tahun 2013 tentang  Perlindungan Anak dan Perempuan Korban Kekerasan perlu  disempurnakan dengan perubahan Peraturan Daerah;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perubahan Atas Peraturan Daerah Kabupaten Bantul Nomor  15 Tahun 2013 tentang Perlindungan Anak dan Perempuan  Korban Kekerasan;  
 
 2 2015 Mengingat:  
+ 
  
  
  
@@ -135,7 +137,7 @@ Beberapa ketentuan dalam Peraturan Daerah Kabupaten Bantul Nomor 15  Tahun 2013 
 
 #### Pasal 2
 
-Asas penyelenggaraan perlindungan anak dan perempuan dari tindak  kekerasan adalah:
+Asas penyelenggaraan perlindungan anak dan perempuan dari tindak  kekerasan adalah:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -164,7 +166,7 @@ c. reintegrasi sosial; dand. pemberdayaan.
 
 #### Pasal 6
 
-Penyelenggaraan perlindungan terhadap anak dan perempuan korban  kekerasan menjadi kewajiban:
+Penyelenggaraan perlindungan terhadap anak dan perempuan korban  kekerasan menjadi kewajiban:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
 c. masyarakat;  
@@ -205,7 +207,7 @@ Ketentuan lebih lanjut mengenai pengembangan, mekanisme dan  hubungan kerja berj
 
 #### Pasal 26
 
-Upaya pencegahan juga dilakukan oleh:
+Upaya pencegahan juga dilakukan oleh:  
 a. masyarakat;  
 b. keluarga; danc. lembaga pendidikan.  
 
@@ -236,7 +238,7 @@ d. peran sosial; dane. peran ekonomi.
 
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap  pelaksanaan Standar Pelayanan Minimal PPT.  
 
-12 2015 (2) Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:
+12 2015 (2) Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:  
 a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
@@ -360,7 +362,7 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Cukup jelas.  
 
-Ayat (3) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:
+Ayat (3) Huruf a Yang dimaksud dengan aspek “pencegahan” adalah upaya strategi perlindungan melalui:  
 a. Pencegahan primer, semua orang, keluarga, masyarakat dan negara dalam upaya meningkatkan kemampuan pengetahuan, pemahaman dan menjaga agar kekerasan terhadap perempuan dan anak tidak terjadi, meliputi sosialisasi kebijakan, pelayanan yang memadai, kebijakan tempat bekerja yang mendukung, serta pelatihan keterampilan hidup bagi perempuan dan anak. Yang dimaksud dengan pelatihan keterampilan hidup meliputi penyelesaian konflik tanpa kekerasan, keterampilan menangani stress, manajemen sumber daya, membuat keputusan efektif, komunikasi interpersonal secara efektif, tuntunan perkembangan psikososial perempuan dan anak.  
 
 4 2015

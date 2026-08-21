@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk menjamin Pemberdayaan Perempuan dan  Perlindungan Anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat Perlindungan dari Kekerasan, diskriminasi dan pelanggaran lainnya perlu adanya suatu kepastian hukum;  
 b. bahwa untuk memberikan kepastian hukum dalam  penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak serta menjalankan urusan wajib pemerintahan Daerah, perlu adanya pengaturan dalam bentuk peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -83,7 +85,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak berdasarkan  asas:
+Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak berdasarkan  asas:  
 a. kepentingan terbaik bagi perempuan dan Anak;  
 b. keadilan gender dan kesetaraan gender;  
 c. kearifan lokal;  
@@ -93,14 +95,14 @@ g. penghargaan terhadap pendapat Anak; danh. penegakan dan kepastian hukum.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan:
+Peraturan Daerah ini bertujuan:  
 a. menjamin terpenuhinya hak perempuan dan Anak di Daerah  b. sebagai pedoman bagi Daerah dalam perencanaan, kebijakan dan strategi  Pemberdayaan Perempuan dan Perlindungan Anak;  
 c. melindungi dan mencegah perempuan dan Anak dari tindakan, keputusan dan  kebijakan yang melanggar hak perempuan dan Anak;  
 d. meningkatkan peran dan nilai kearifan lokal serta peranan adat dalam  Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan Anak  meliputi:
+Ruang lingkup pengaturan Pemberdayaan Perempuan dan Perlindungan Anak  meliputi:  
 a. peningkatan kualitas hidup perempuan;  
 b. Perlindungan perempuan;  
 c. sistem data gender dan Anak;  
@@ -153,7 +155,7 @@ Pembentukan Pokja Pengarusutamaan Gender di Daerah
 
 #### Pasal 9
 
-Pokja Pengarusutamaan Gender Daerah sebagaimana dimaksud dalam Pasal 14  mempunyai tugas:
+Pokja Pengarusutamaan Gender Daerah sebagaimana dimaksud dalam Pasal 14  mempunyai tugas:  
 a. mempromosikan dan memfasilitasi Pengarusutamaan Gender kepada masing masing SKPD;  
 b. melaksanakan sosialisasi dan advokasi Pengarusutamaan Gender kepada  camat, dan wali nagari;  
 c. menyusun program kerja setiap tahun;  
@@ -254,7 +256,7 @@ Pencegahan Tindak Kekerasan terhadap Perempuan
 
 #### Pasal 17
 
-Dalam rangka mencegah terjadinya tindak Kekerasan terhadap perempuan,  Pemerintah Daerah:
+Dalam rangka mencegah terjadinya tindak Kekerasan terhadap perempuan,  Pemerintah Daerah:  
 a. menyelenggarakan sosialisasi mengenai pencegahan Kekerasan terhadap  perempuan dengan mengoptimalkan peran lembaga adat, budaya, agama dan  organisasi kemasyarakatan;  
 b. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak  korban Kekerasan;  
 c. menyediakan fasilitas umum yang nyaman dan aman untuk perempuan;  
@@ -296,7 +298,7 @@ Penanganan Pengaduan
 
 #### Pasal 20
 
-Layanan terpadu penanganan pengaduan sebagaimana dimaksud dalam Pasal 19  huruf a dilaksanakan oleh:
+Layanan terpadu penanganan pengaduan sebagaimana dimaksud dalam Pasal 19  huruf a dilaksanakan oleh:  
 a. rumah sakit;  
 b. puskesmas;  
 c. unit pelayanan perempuan dan anak;  
@@ -438,7 +440,7 @@ b. menyediakan layanan bagi keluarga dalam mewujudkan kesetaraan gender  dan hak
 
 #### Pasal 35
 
-Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga sebagaimana  dimaksud dalam Pasal 34 ayat (1) huruf a meliputi:
+Pemerintah Daerah melakukan upaya peningkatan kualitas keluarga sebagaimana  dimaksud dalam Pasal 34 ayat (1) huruf a meliputi:  
 a. pembinaan;  
 b. bimbingan;  
 c. supervisi;  
@@ -454,7 +456,7 @@ d. Pengaturan kelahiran; dane. Pengelolaan penduduk.
 
 #### Pasal 37
 
-Bimbingan sebagaimana dimaksud Pasal 35 huruf b meliputi:
+Bimbingan sebagaimana dimaksud Pasal 35 huruf b meliputi:  
 a. melakukan penyuluhan peningkatan kualitas hidup perempuan;  
 b. melakukan penyuluhan pranikah;  
 
@@ -465,7 +467,7 @@ b. Melakukan evaluasi data pasca perkawinan;
 
 #### Pasal 39
 
-Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1)  huruf b meliputi:
+Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1)  huruf b meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. alat dan obat kontrasepsi;  
 c. pencatatan dan pelaporan pelayanan keluarga berencana;  
@@ -599,7 +601,7 @@ Pemerintah Daerah melakukan pengawasan berkala pada setiap orang/badan  yang mem
 
 #### Pasal 55
 
-Setiap orang/badan yang mempekerjakan Anak harus memperhatikan  persyaratan:
+Setiap orang/badan yang mempekerjakan Anak harus memperhatikan  persyaratan:  
 a. berusia paling rendah 15 (lima belas) tahun;  
 b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak;  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali  pekerja Anak dan mendapat pengesahan dari instansi yang berwenang;  
@@ -762,7 +764,7 @@ d. pemantuan; dane. evaluasi.
 
 #### Pasal 72
 
-Pembiayaan penyelenggaraan program dan kegiatan Pemberdayaan Perempuan  dan Perlindungan Anak bersumber dari:
+Pembiayaan penyelenggaraan program dan kegiatan Pemberdayaan Perempuan  dan Perlindungan Anak bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 # BAB XI

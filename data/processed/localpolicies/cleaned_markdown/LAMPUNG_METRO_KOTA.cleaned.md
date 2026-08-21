@@ -10,12 +10,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam diri setiap manusia melekat hak asasi manusia yang wajib dihormati, dijunjung tinggi dan dilindungi oleh negara, hukum Pemerintah Daerah dan setiap orang demi kehormatan serta perlindungan terhadap harkat dan martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung menjadi korban kekerasan, dan kejahatan kemanusiaan yang merupakan pelanggaran hak asasi manusia, sehingga perlu mendapatkan perlindungan dengan peraturan yang dapat memberikan pencegahan dan perlindungan terhadap korban kekerasan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c diatas, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -87,7 +89,7 @@ Menetapkan:  PERATURAN DAERAH TENTANG PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN
 
 #### Pasal 2
 
-Perlindungan terhadap perempuan dan anak korban kekerasan diselenggarakan berdasarkan asas:
+Perlindungan terhadap perempuan dan anak korban kekerasan diselenggarakan berdasarkan asas:  
 a. penghormatan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. perlindungan korban;  
@@ -96,7 +98,7 @@ e. non diskriminasi.
 
 #### Pasal 3
 
-Perlindungan terhadap perempuan dan anak korban kekerasan bertujuan:
+Perlindungan terhadap perempuan dan anak korban kekerasan bertujuan:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
 b. melindungi dan memberi rasa aman bagi perempuan dan anak;  
 c. memberikan pendampingan hukum;  
@@ -130,7 +132,7 @@ h. mendapatkan pendampingan psikologis, bimbingan rohani, ekonomi, sosial dan pe
 
 #### Pasal 6
 
-Selain hak sebagaimana dimaksud dalam Pasal 5, setiap korban harus:
+Selain hak sebagaimana dimaksud dalam Pasal 5, setiap korban harus:  
 a. memberikan keterangan yang benar kepada pihak yang berkepentingan;  
 b. menjadi saksi bila tidak membahayakan diri sendiri dan bila ada jaminan keamanan terhadap diri korban.  
 
@@ -182,7 +184,7 @@ Ketentuan lebih lanjut mengenai tata cara, persyaratan, dan pembentukan P2TP2A d
 
 #### Pasal 12
 
-P2TP2A sebagaimana dimaksud dalam Pasal 8, bertugas:
+P2TP2A sebagaimana dimaksud dalam Pasal 8, bertugas:  
 a. mengupayakan pencegahan;  
 b. mengupayakan pemulihan dan reintegrasi sosial;  
 c. memberikan perlindungan hukum;  
@@ -202,7 +204,7 @@ d. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan terh
 
 #### Pasal 14
 
-Selain upaya pencegahan yang dilakukan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 13, upaya pencegahan juga harus dilakukan oleh:
+Selain upaya pencegahan yang dilakukan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 13, upaya pencegahan juga harus dilakukan oleh:  
 a. keluarga dan kerabat terdekat;  
 b. masyarakat dan dunia usaha;  
 c. lembaga pendidikan.  
@@ -211,7 +213,7 @@ c. lembaga pendidikan.
 
 #### Pasal 15
 
-Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 12 huruf b, meliputi:
+Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 12 huruf b, meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
@@ -226,7 +228,7 @@ Perlindungan Hukum
 
 #### Pasal 16
 
-Perlindungan hukum sebagaimana dimaksud dalam Pasal 12 huruf c, meliputi:
+Perlindungan hukum sebagaimana dimaksud dalam Pasal 12 huruf c, meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
 b. melakukan pendampingan dalam proses hukum;  
 c. memberikan perlindungan hukum secara khusus bagi anak korban kekerasan dapat dilakukan dengan penunjukan perwalian sesuai dengan ketentuan peraturan perundang-undangan.  
@@ -237,7 +239,7 @@ Koordinasi
 
 #### Pasal 17
 
-Koordinasi sebagaimana dimaksud dalam Pasal 12 huruf d, meliputi:
+Koordinasi sebagaimana dimaksud dalam Pasal 12 huruf d, meliputi:  
 a. melakukan koordinasi penanganan kasus kekerasan dengan pelayanan terpadu provinsi;  
 b. melakukan koordinasi dengan pelayanan terpadu daerah lain;  
 c. melakukan koordinasi dengan lembaga penyedia layanan bagi perempuan dan anak korban kekerasan;  
@@ -249,7 +251,7 @@ Upaya Peningkatan Partisipasi Masyarakat
 
 #### Pasal 18
 
-Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 12 huruf e dilakukan dengan cara:
+Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 12 huruf e dilakukan dengan cara:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus kekerasan terhadap perempuan dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi dan melaporkan adanya kekerasan terhadap perempuan dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan terhadap perempuan dan anak korban kekerasan;  
@@ -311,7 +313,7 @@ f. membantu dalam proses pemulangan dan reintegrasi sosial.
 
 #### Pasal 25
 
-Pembiayaan kegiatan yang terkait dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dapat bersumber dari:
+Pembiayaan kegiatan yang terkait dengan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah Provinsi;  
 c. Anggaran Pendapatan dan Belanja Daerah; dan/ataud. sumber lain yang sah dan tidak mengikat.  

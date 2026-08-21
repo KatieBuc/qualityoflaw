@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia, dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional  perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang, dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -104,7 +106,7 @@ jdih.pakpakbharatkab.go.id - 5 -
 
 #### Pasal 2
 
-Perlindungan perempuan dan anak korban kekerasan diselenggarakan  berdasarkan asas:
+Perlindungan perempuan dan anak korban kekerasan diselenggarakan  berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. tidak diskriminatif;  
@@ -232,7 +234,7 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PP
 
 #### Pasal 12
 
-SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan,  meliputi layanan:
+SPM bidang layanan terpadu bagi perempuan dan anak korban kekerasan,  meliputi layanan:  
 a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
 c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
@@ -243,7 +245,7 @@ jdih.pakpakbharatkab.go.id - 9 -
 
 #### Pasal 13
 
-SPM sebagaimana dimaksud dalam Pasal 12 memiliki indikator kinerja  meliputi:
+SPM sebagaimana dimaksud dalam Pasal 12 memiliki indikator kinerja  meliputi:  
 a. cakupan perempuan dan anak korban kekerasan yang mendapatkan  penanganan pengaduan, layanan kesehatan, layanan rehabilitasi sosial,  layanan bimbingan rohani dilakukan oleh petugas terlatih didalam unit  pelayanan terpadu;  
 b. cakupan penegakan hukum dari tingkat penyidikan sampai dengan  putusan pengadilan atas kasus-kasus kekerasan terhadap perempuan dan  anak;  
 c. cakupan perempuan dan anak korban kekerasan yang mendapatkan  layanan bantuan hukum;  
@@ -283,7 +285,7 @@ jdih.pakpakbharatkab.go.id - 10 -
 
 #### Pasal 17
 
-Pendanaan untuk penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan, bersumber dari:
+Pendanaan untuk penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
 
 # BAB XI
@@ -301,7 +303,7 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah dan tidak 
 
 #### Pasal 19
 
-Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban  kekerasan, masyarakat dapat:
+Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban  kekerasan, masyarakat dapat:  
 a. membentuk mitra keluarga di tingkat desa oleh masyarakat;  
 b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 c. melakukan pertolongan pertama kepada korban;  

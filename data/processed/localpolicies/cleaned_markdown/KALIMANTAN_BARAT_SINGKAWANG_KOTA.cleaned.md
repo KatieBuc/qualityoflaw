@@ -120,7 +120,7 @@ JDIH Kota Singkawang
 
 #### Pasal 2
 
-( 1) Setiap anak berhak:
+( 1) Setiap anak berhak:  
 a. untuk hidup, tumbuh, berkembang, dan berpartisipasi secara wajar  sesuru harkat, dan martabat kemanusiaan, serta mendapat  perlindungan dari tindak kejahatan, kekerasan, eksploitasi, dan  penelantaran;  
 b. atas suatu nama sebagai identitas diri dan status kewarganegaraan;  
 c. untuk beribadah menurut agamanya dalam bimbingan orang tua dan  melaksanakan ajaran agamanya;  
@@ -164,7 +164,7 @@ i. hak lain yang diatur dalam ketentuan Peraturan Perundang undangan.
 
 #### Pasal 3
 
-Anak korban kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 2 aya t (1), dan aya t (3) juga mendapatkan hak khusus seba gai  berikut:
+Anak korban kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 2 aya t (1), dan aya t (3) juga mendapatkan hak khusus seba gai  berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh, dan berkernbang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -237,7 +237,7 @@ Kewajiban dan tanggung jawab keluarga sebagaimana dimaksud dalam Pasal  7, secar
 
 #### Pasal 11
 
-( 1) Kewajiban dan tanggung jawab orang tua sebagaimana dimaksud dalam  Pasal 7, meliputi:
+( 1) Kewajiban dan tanggung jawab orang tua sebagaimana dimaksud dalam  Pasal 7, meliputi:  
 a. mengasuh, memelihara, mendidik, memberi rasa aman dan tidak  melakukan perlakuan salah serta kekerasan kepada anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat,  dan minatnya;  
 c. melaporkan setiap kelahiran anak kepada instansi yang berwenang  melakukan pencatatan kelahiran;  
@@ -473,7 +473,7 @@ JDIH Kota Singkawang
 
 #### Pasal 36
 
-( 1) Pemerintah Daerah wajib mengembangkan model sekolah ramah anak.  (2) Sekolah ramah anak sebagaimana dimaksud pada ayat (1) merupakan  upaya bersama dari warga sekolah untuk:
+( 1) Pemerintah Daerah wajib mengembangkan model sekolah ramah anak.  (2) Sekolah ramah anak sebagaimana dimaksud pada ayat (1) merupakan  upaya bersama dari warga sekolah untuk:  
 a. menciptakan lingkungan yang aman dan nyaman bagi anak di  sekolah;  
 b. mengembangkan partisipasi anak sesuru dengan usia dan  kematangannya;dan c . memberikan kesempatan bagi anak yang berasal dari keluarga miskin  dan/atau penyandang disabilitas untuk mendapat perlakuan yang  sama dan adil untuk memperoleh layanan dan bimbingan di sekolah.  
 
@@ -533,7 +533,7 @@ n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigma
 
 #### Pasal 42
 
-Perlindungan khusus bagi anak dilakukan melalui upaya:
+Perlindungan khusus bagi anak dilakukan melalui upaya:  
 a. penanganan cepat, termasuk pengobatan dan/atau rehabilitasi secara  fisik, psikis dan sosial serta pencegahan penyakit dan gangguan kesehatan  lainnya;  
 
 b . pendampingan psikososial pada saat pengobatan sampai pemulihan;  
@@ -542,7 +542,7 @@ d. pemberian perlindungan dan pendampingan pada setiap proses peradilan.
 
 #### Pasal 43
 
-Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 41 huruf a  terdiri atas:
+Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal 41 huruf a  terdiri atas:  
 a. anak yang menjadi pengungsi;  
 b. anak korban kerusuhan;  
 
@@ -557,12 +557,12 @@ JDIH Kota Singkawang
 
 #### Pasal 45
 
-Perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak  dalam situasi konflik bersentaja sebagaimana dimaksud dalam Pasal 43 huruf  b sampai dengan huruf d dilaksanakan melalui:
+Perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak  dalam situasi konflik bersentaja sebagaimana dimaksud dalam Pasal 43 huruf  b sampai dengan huruf d dilaksanakan melalui:  
 a. pemenuhan kebutuhan dasar yang terdiri at.as pangan, sandang,  pemukiman, pendidikan, kesehatan, belajar, dan berekreasi, jaminan  keamanan, dan persamaan perlakukan; sertab. pemenuhan kebutuhan khusus bagi anak penyandang disabilitas dan  anak yang mengalami gangguan psikososial.  
 
 #### Pasal 46
 
-Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana  dimaksud dalam Pasal 41 huruf b dilaksanakan melalui:
+Perlindungan khusus bagi anak yang berhadapan dengan hukum sebagaimana  dimaksud dalam Pasal 41 huruf b dilaksanakan melalui:  
 a. perlakuan terhadap anak secara mansiawi dengan memperhatikan  kebutuhan sesuai umurnya;  
 b. pemisahan dari orang dewasa;  
 c. pemberian bantuan hukum dan bantuan lain secara efektif;  
@@ -661,7 +661,7 @@ Perlindungan Perempuan
 
 1. Untuk pencegahan terjadi tindak kekerasan terhadap perempuan,  Pemerintah Daerah melakukan pemberdayaan dan penyadaran kepada  keluarga dan masyarakat dengan memberikan informasi, bimbingan  dan/atau penyuluhan.  
 
-JDIH Kota Singkawang (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1) Pemerintah Daerah melakukan upaya sebagai berikut:
+JDIH Kota Singkawang (2) Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat  (1) Pemerintah Daerah melakukan upaya sebagai berikut:  
 a. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
 b. pembukaan lapangan kerja bagi perempuan;  
 c. membangun partisipasi dan kepedulian masyarakat untuk  melaksanakan pencegahan dan perlindungan perempuan dari tindak  kekerasan;  
@@ -716,7 +716,7 @@ Penanganan
 
 #### Pasal 66
 
-( 1) Sasaran penanganan melipu ti:
+( 1) Sasaran penanganan melipu ti:  
 a. anak diluar asuhan orang tua;  
 b. anak dalam situasi darurat bencana;  
 c. anak yang berhadapan dengan hukum;  
@@ -752,7 +752,7 @@ b. menindaklanjuti informasi atau pengaduan/laporan yang diterima  mengenai masa
 
 #### Pasal 69
 
-{ 1) Penempatan anak atau perempuan korban tindak kekerasan pada rumah  perlindungan sementara sebagaimana dimaksud dalam Pasal 66 ayat (2)  huruf c dilakukan apabila berdasarkan hasil identifikasi:
+{ 1) Penempatan anak atau perempuan korban tindak kekerasan pada rumah  perlindungan sementara sebagaimana dimaksud dalam Pasal 66 ayat (2)  huruf c dilakukan apabila berdasarkan hasil identifikasi:  
 a. ada ancaman terhadap keselamatan;  
 b. anak tidak memiliki keluarga/pengasuh atau wali; dan/atau  c. anak tidak dapat dipersatukan dengan keluarga/pengasuh/wali  clan/ atau masyarakat.  
 2. Penempatan sebagaimana dimaksud pada ayat (1) dilakukan dalam waktu  tertentu selama anak atau korban mendapatkan layanan pemulihan  dan/atau hingga keluarga/pengasuh/wali dinilai memiliki kesiapan untuk  mengasuh dan melindungi anak.  
@@ -880,7 +880,7 @@ b. komisi perlindungan anak daerah atau lembaga lainnya yang sejenis  untuk mend
 2. P2TP2A kedudukannya berada di bawah koordinasi OPD yang menangani  pemberdayaan perempuan dan perlindungan anak.  
 3. P2TP2A sebagaimana dimaksud pada ayat (1) tidak memiliki kewenangan  merumuskan kebijakan pemberdayaan perempuan dan perlindungan  anak.  
 
-JDIH Kota Singkawang (4) P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi  sebagai:
+JDIH Kota Singkawang (4) P2TP2A adalah salah satu bentuk unit pelayanan terpadu yang berfungsi  sebagai:  
 a. pusat informasi bagi anak dan perempuan;  
 b. pusat pelayanan bagi anak dan perempuan korban kekerasan; dan  c. pusat pemberdayaan bagi anak dan perempuan.  
 
@@ -1046,7 +1046,7 @@ JDIH Kota Singkawang
 
 #### Pasal 98
 
-Setiap orang dilarang:
+Setiap orang dilarang:  
 a. menerima pengunjung anak dan mempekerjakan anak pada usaha  diskotik, klub malam, bar, karaoke, pub/rumah musik:, panti pijat dan  mandi uap/sauna, dan/atau tempat pekerjaan terburuk bagi anak  lainnya.  b. memproduksi, menjual dan/atau mempromosikan rokok di lingkungan  sekolah.  c. menjual dan/atau mempromosikan rokok, peralatanjudi, alat kontrasepsi  dan barang barang yang dapat merusak moral pada anak.  d. memperdengarkan dan mempertontonkan porno aksi dalam kegiatan  masyarakat yang dapat diakses oleh anak.  e. menerima pengunjung anak pada saat jam sekolah ataupun membiarkan  pengunjung anak di atas jam sembilan malam untuk mengakses internet  pada warung internet.  f. menolak pengaduan dan/atau memungut biaya dalam memberikan  pelayanan terhadap korban pada Lembaga Pelayanan Perlindungan.  g. memperlakukan anak secara diskriminatif yang mengakibatkan anak  mengalami kerugian baik materiil maupun moril sehingga menghambat  fungsi sosialnya;  
 
 h . memperlakukan anak penyandang disabilitas secara diskriminatif;  
@@ -1146,7 +1146,7 @@ sesuai dengan aslinya JDIH Kota Singkawang
 
 Penye1enggaraan perlindungan terhadap anak dan perempuan  dilaksanakan berdasarkan pada prinsip kemanusiaan, keterpaduan dan  keadilan. Sehingga setiap orang harus mendapatkan haknya atas  perlindungan terhadap rasa aman serta terbebas dari penyiksaan atau  perlakuan yang merendahkan derajat martabat manusia yang  bertentangan dengan apa yang dicita-citakan dalam Pembukaan  Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 yaitu  tercipta.nya. kemanusia.a.n yang adil dan beradab.  
 
-Dalam Pasal 2 Undang-Unda.ng Nomor 23 Tahun 2002 tenta.ng  Perlindungan Anak bahwa penyelenggaraan Perlindungan Anak  berasaskan Pancasila dan berla.ndaskan Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945 serta prinsip-prinsip dasar Konvensi  Hak-Hak Anak meliputi:
+Dalam Pasal 2 Undang-Unda.ng Nomor 23 Tahun 2002 tenta.ng  Perlindungan Anak bahwa penyelenggaraan Perlindungan Anak  berasaskan Pancasila dan berla.ndaskan Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945 serta prinsip-prinsip dasar Konvensi  Hak-Hak Anak meliputi:  
 a. non diskriminasi;  
 b. kepen tingan yang terbaik bagi anak;  
 c. hak untuk hidup, kelangsunga.n hidup, dan perkemba.ngan; dan  d . pengha.rgaan terhadap pendapat a.nak.  

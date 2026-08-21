@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia dan  kejahatan kemanusiaan, serta tidak sesuai dengan  Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam rangka pemenuhan hak konstitusional  perempuan dan anak serta untuk meningkatkan kualitas  hidup perempuan dan anak merupakan salah satu urusan  wajib yang menjadi tugas, wewenang, dan tanggung jawab  Pemerintah Daerah;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Belitung cenderung meningkat dan meluas,  sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah Kabupaten Belitung tentang  Perlindungan Hak Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -99,7 +101,7 @@ D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 4
 
 #### Pasal 2
 
-Ruang lingkup perlindungan perempuan dan anak dari tindak  kekerasan, sebagai berikut:
+Ruang lingkup perlindungan perempuan dan anak dari tindak  kekerasan, sebagai berikut:  
 a. azas dan tujuan;  
 b. bentuk kekerasan;  
 c. hak perempuan dan anak korban kekerasan;  
@@ -121,7 +123,7 @@ k. pembinaan dan pengawasan; danl. pembiayaan.
 
 #### Pasal 3
 
-Perlindungan perempuan dan anak dari tindak kekerasan dan  diskriminasi diselenggarakan berdasarkan asas:
+Perlindungan perempuan dan anak dari tindak kekerasan dan  diskriminasi diselenggarakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
@@ -130,7 +132,7 @@ e. pemberdayaan; danf. keterpaduan.
 
 #### Pasal 4
 
-Tujuan perlindungan perempuan dan anak dari tindak kekerasan  dan diskriminasi adalah:
+Tujuan perlindungan perempuan dan anak dari tindak kekerasan  dan diskriminasi adalah:  
 a. mencegah tindak kekerasan dan diskriminasi terhadap  perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan, diskriminasi, dan  eksploitasi terhadap perempuan dan anak;  
 c. melindungi perempuan dan anak dari tindakan kekerasan dan  diskriminasi dalam mendapatkan hak-haknya yang sah secara  konstitusi;  
@@ -164,7 +166,7 @@ g. ancaman tindakan tertentu; dan/atauh. kekerasan lainnya.
 
 #### Pasal 6
 
-Perempuan dan anak korban tindak kekerasan mendapatkan  hak sebagai berikut:
+Perempuan dan anak korban tindak kekerasan mendapatkan  hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari  penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -177,7 +179,7 @@ i. hak korban dan keluarganya untuk mendapatkan kemudahan  dalam proses peradila
 
 #### Pasal 7
 
-Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 6, juga mendapatkan hak  khusus sebagai berikut:
+Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam Pasal 6, juga mendapatkan hak  khusus sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh, dan berkembang;  
 b. hak….  
 
@@ -192,7 +194,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 8
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan  terhadap perempuan dan anak dari tindak kekerasan merupakan  tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan  terhadap perempuan dan anak dari tindak kekerasan merupakan  tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga; dand. orang tua.  
@@ -251,7 +253,7 @@ f. membangun jejaring dan kerjasama dengan aparatur  penegak hukum, aparatur pem
 
 1. Pencegahan terjadinya tindak kekerasan terhadap perempuan  dan anak sebagaimana dimaksud dalam Pasal 13, dilaksanakan….  
 
-D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 10 dilaksanakan oleh OPD dan UKPD yang tugas dan fungsinya  di bidang:
+D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 10 dilaksanakan oleh OPD dan UKPD yang tugas dan fungsinya  di bidang:  
 a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
@@ -302,7 +304,7 @@ Prinsip Pelayanan
 
 #### Pasal 16
 
-Penyelenggaraan pelayanan terhadap korban dilaksanakan  dengan prinsip:
+Penyelenggaraan pelayanan terhadap korban dilaksanakan  dengan prinsip:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -377,7 +379,7 @@ D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 14
 
 #### Pasal 23
 
-Selain membentuk PPT dalam Perlindungan Perempuan dan  Anak sebagaimana dimaksud dalam Pasal 22, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan  dan anak dari tindak kekerasan, dibentuk:
+Selain membentuk PPT dalam Perlindungan Perempuan dan  Anak sebagaimana dimaksud dalam Pasal 22, guna menunjang  terlaksananya penyelenggaraan perlindungan kepada perempuan  dan anak dari tindak kekerasan, dibentuk:  
 a. Gugus tugas tindak pidana perdagangan orang;  
 b. Komite aksi daerah penghapusan bentuk-bentuk pekerjaan  terburuk untuk anak;  
 c. Gugus tugas perlindungan perempuan dan anak tingkat  kecamatan;  
@@ -491,7 +493,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan  perlindungan perempuan da
 
 #### Pasal 34
 
-Pembiayaan penyelenggaraan perlindungan hak perempuan dan  anak dari tindak kekerasan bersumber dari:
+Pembiayaan penyelenggaraan perlindungan hak perempuan dan  anak dari tindak kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah Provinsi;  
 c. Anggaran Pendapatan dan Belanja Daerah (APBD);  
@@ -789,7 +791,7 @@ Huruf a Cukup jelas.
 
 Huruf….  
 
-D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 30 Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara  lain:
+D:\PERDA PDF\2-PERDA PERLINDUNGAN HAK PEREMPUAN DAN ANAK.doc 30 Huruf b Yang dimaksud dengan pekerjaan terburuk bagi anak, antara  lain:  
 a. anak yang dilacurkanb. anak yang bekerja di sektor konstruksic. anak yang bekerja sebagai pemulungd. anak yang melakukan kegiatan di jalane. anak yang bekerja sebagai pekerja rumah tanggaf. anak yang bekerja di industri rumah tanggag. anak yang bekerja sebagai pengemish. anak yang bekerja sebagai pencuci kendaraani. anak yang melakukan kegiatan sebagai pedagang asongan,  pedagang koran, penyemir sepatu dan pengamen jalanan j. anak yang bekerja di sektor industri dan jenis kegiatan  yang menggunakan bahan kimia yang berbahayak. anak yang bekerja di jermall. anak yang bekerja di sektor hiburan.  
 
 Huruf c Cukup Jelas Huruf d Cukup Jelas Huruf e Cukup Jelas

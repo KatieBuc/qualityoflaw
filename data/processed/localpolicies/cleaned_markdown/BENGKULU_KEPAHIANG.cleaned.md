@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak atas kelangsungan  hidup, tumbuh, dan berkembang, mendapatkan perlindungan diri pribadi, kehormatan dan martabat sebagai manusia seutuhnya dalam kehidupan keluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi;  
 c. bahwa segala bentuk tindakan kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -28,6 +29,7 @@ e. bahwa peraturan perundang-undangan mengenai  perlindungan perempuan dan anak 
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b , huruf c, huruf d dan huruf e perlu menetapkan Peraturan Daerah Kepahiang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -96,7 +98,7 @@ Dalam Peraturan Daerahini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas perlindungan anak dan perempuan yang menjadi korban kekerasan  adalah:
+Asas perlindungan anak dan perempuan yang menjadi korban kekerasan  adalah:  
 a. penghormatan dan pemenuhan hak korban sebagai hak asasi manusia;  
 b. keadilan dan kesetaraan;  
 c. non diskriminasi;  
@@ -104,7 +106,7 @@ d. penanganan berbasiskan hak; dane. kepentingan terbaik bagi korban.
 
 #### Pasal 3
 
-Tujuan perlindungan terhadap perempuan dan anak adalah:
+Tujuan perlindungan terhadap perempuan dan anak adalah:  
 a. mencegah tindak kekerasan terhadap perempuan dan anak;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi, dan memberikan rasa aman bagi perempuan dan anak;  
@@ -121,7 +123,7 @@ Ruang lingkup perlindungan perempuan dan anak meliputi upaya pencegahan, pelayan
 
 #### Pasal 5
 
-Setiap perempuan dan anak korban kekerasan mempunyai hak sebagai  berikut:
+Setiap perempuan dan anak korban kekerasan mempunyai hak sebagai  berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -134,7 +136,7 @@ j. hak atas pemulihan sosial;
 
 #### Pasal 6
 
-Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus, sebagai  berikut:
+Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus, sebagai  berikut:  
 a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
@@ -146,7 +148,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 7
 
-Bentuk-bentuk kekerasan antara lain:
+Bentuk-bentuk kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -163,27 +165,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 7 huruf (b) disebabkan  karena
 
 #### Pasal 10
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 7 huruf (c) disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 7 huruf (c) disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar; dan/atau d. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan atau tujuan tertentu.  
 
 #### Pasal 11
 
-Penelantaran sebagaimana dimaksud dalam Pasal 7 huruf d disebabkan  karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 7 huruf d disebabkan  karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan  oleh orang tua, wali, atau pihak lain manapun yang bertanggungjawab  atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggungjawab atas  pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hukum yang berlaku baginya atau karena persetujuan  atau perjanjian ia wajib memberikan kehidupan, perawatan, atau  pemeliharaan kepada orang tersebut; dand. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di  luar rumah sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 12
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 7 huruf (e) disebabkan  karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 7 huruf (e) disebabkan  karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud  untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan,pemanfaatan fisik, seksual,  organ reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain  dari korban untuk mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelacuran atau pencabulan
 
 #### Pasal 13
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 7 huruf (f) disebabkan karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 7 huruf (f) disebabkan karena:  
 a. ancaman kekerasan meliputi setiap perbuatan secara melawan hukum  berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang menimbulkan rasa takut atau  mengekang kebebasan hakiki seseorang;danb. pemaksaan,meliputi suatu keadaan dimana seseorang/korban disuruh  atau dipaksa melakukan sesuatu sedemikian rupa sehingga orang itu  melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 # BAB III
@@ -209,7 +211,7 @@ Pelayanan
 
 #### Pasal 16
 
-Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan prinsip:
+Penyelenggaraan pelayanan terhadap korban dilaksanakan dengan prinsip:  
 a. cepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
@@ -219,7 +221,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 17
 
-Bentuk pelayanan terhadap korban meliputi:
+Bentuk pelayanan terhadap korban meliputi:  
 a. pelayanan pengaduan, konsultasi, dan konseling;  
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
@@ -228,12 +230,12 @@ e. pelayanan hukum; danf. pelayanan pemulangan dan penyatuan kembali dalam masya
 
 #### Pasal 18
 
-Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 17 huruf a meliputi:
+Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 17 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (inf ormed consent).  
 
 #### Pasal 19
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 17 huruf b  meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 17 huruf b  meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;  
 b. mendampingi korban selama proses medicolegal;  
 c. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan dan pengadilan;  
@@ -243,18 +245,18 @@ f. melakukan koordinasi dengan pendamping yang lain;dan g. memberikan penanganan
 
 #### Pasal 20
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 17 huruf c  meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 17 huruf c  meliputi:  
 a. pertolongan pertama kepada korban;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan  paramedis;danc. rujukan ke layanan kesehatan.  
 
 #### Pasal 21
 
-Pelayanan pemulihan sosial sebagaimana dimaksud dalam Pasal 17 huruf d  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman  untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial sehingga korban mempunyai rasa  percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya,  dengan cara:
+Pelayanan pemulihan sosial sebagaimana dimaksud dalam Pasal 17 huruf d  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman  untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial sehingga korban mempunyai rasa  percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya,  dengan cara:  
 a. memberikan bimbingan kerohanian kepada korban;dan  b. pemulihan kejiwaan korban.  
 
 #### Pasal 22
 
-Pelayanan hukum sebagaimana dimaksud dalam Pasal 17 huruf e untuk  membantu korban dalam menjalani proses peradilan dengan cara:
+Pelayanan hukum sebagaimana dimaksud dalam Pasal 17 huruf e untuk  membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak hak korban dan proses peradilan;  
 b. mendampingi korban ditingkat penyidikan, penuntutan, dan pemeriksaan  dalam siding pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya;  
 c. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
@@ -274,25 +276,25 @@ Pemberdayaan PerempuanKorban Kekerasan
 
 #### Pasal 24
 
-Bentuk pemberdayaan perempuan korban kekerasan meliputi:
+Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
 a. pelatihan kerja;  
 b. usaha ekonomi produktif dan kelompok usaha bersama; dan  c. bantuan permodalan.  
 
 #### Pasal 25
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 24 huruf a meliputi:
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 24 huruf a meliputi:  
 a. pelatihan keterampilan;  
 b. praktek kerja lapangan; danc. pemagangan.  
 
 #### Pasal 26
 
-Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 24 huruf b meliputi:
+Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 24 huruf b meliputi:  
 a. pelatihan keterampilan wirausaha;  
 b. fasilitasi pembentukan kelompok usaha bersama;danc. pendampingan pelaksanaan usaha.  
 
 #### Pasal 27
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 24 huruf c  meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 24 huruf c  meliputi:  
 a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja
 
 # BAB IV
@@ -301,7 +303,7 @@ a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja
 
 #### Pasal 28
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap perempuan dan anak dari tindak kekerasan merupakan  tanggungjawab bersama yaitu:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap perempuan dan anak dari tindak kekerasan merupakan  tanggungjawab bersama yaitu:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa dan Lembaga Adat Kutei Desa/Kelurahan c. masyarakat;  
 d. keluarga;  
@@ -327,7 +329,7 @@ h. melakukan kerjasama penanganan tindak kekerasan terhadap  perempuan dan anak 
 
 #### Pasal 30
 
-Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:
+Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:  
 a. mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar  pelayanan minimal; danb. menyediakan dana untuk perlindungan korban melalui APBD dan/atau  sumber keuangan daerah lainnya yang sah.  
 
 ## Bagian Kedua
@@ -336,7 +338,7 @@ Pemerintah Desa dan Lembaga Adat Kutei Desa/Kelurahan
 
 #### Pasal 31
 
-Pemerintahan Desa dalam perlindungan perempuan dan anak terhadap  tindak kekerasan mempunyai peran:
+Pemerintahan Desa dalam perlindungan perempuan dan anak terhadap  tindak kekerasan mempunyai peran:  
 a. turut secara aktif mencegah terjadinya kekerasan fisik, kekerasan  psikis, kekerasan seksual, penelantaran, eksploitasi, dan/atau kekerasan  lainnya terhadap perempuan dan anak;  
 b. melindungi korban;  
 c. mengamankan pelaku yang tertangkap tangan dan barang bukti  sebelum diserahkan pada yang berwajib;  
@@ -344,7 +346,7 @@ d. berdasarkan pada permintaan korban Pemerintah Desa menyerahkan  pelaku pada K
 
 #### Pasal 32
 
-Kutei Desa dan/atau Kutei Kelurahan mempunyai kewajiban dan tanggung  jawab dalam hal sebagai berikut:
+Kutei Desa dan/atau Kutei Kelurahan mempunyai kewajiban dan tanggung  jawab dalam hal sebagai berikut:  
 a. turut secara aktif mencegah terjadinya kekerasan fisik, kekerasan  psikis, kekerasan seksual, penelantaran, eksploitasi, dan/atau kekerasan  lainnya terhadap perempuan dan anak berdasarkan ketentuan hukum adat;  
 b. melakukan penyelesaian tindak kekerasan terhadap perempuan dan  anak jika terjadi pelanggaran norma hukum adat;  
 c. ikut serta melakukan pengawasan penyelenggaraan perlindungan perempuan dan anak yang dilakukan oleh pemerintah maupun lembaga lainnya.  
@@ -355,7 +357,7 @@ Masyarakat dan Keluarga
 
 #### Pasal 33
 
-Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab dalam  hal sebagai berikut:
+Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab dalam  hal sebagai berikut:  
 a. mencegah terjadinya kekerasan fisik, kekerasan psikis, kekerasan  seksual, penelantaran, eksploitasi, dan/atau kekerasan lainnya terhadap perempuan dan anak;  
 b. melaporkan bila terjadi kekerasan;  
 c. melindungi korban;  
@@ -390,14 +392,14 @@ d. bidang pemulangan dan penyatuan kembali dalam masyarakat;dan  e. bidang layan
 
 #### Pasal 40
 
-Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a memiliki tugas:
+Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf a memiliki tugas:  
 a. melakukan wawancara dan observasi keadaan korban;  
 b. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan kelayanan lanjutan dengan pihak terkait;dand. melakukan administrasi proses pengaduan.  
 
 #### Pasal 41
 
-Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf b memiliki tugas:
+Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf b memiliki tugas:  
 a. melakukan pemeriksaan, pengobatan, dan perawatan lanjutan terhadap  korban;  
 b. melakukan koordinasi pelaksanaan pemulihan kesehatan dan  medicolegal;  
 c. melakukan pemeriksaan medicolegal meliputi pengumpulan barang bukti  pada korban dan pembuatan visum et repertum;  
@@ -406,19 +408,19 @@ e. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan  f. membu
 
 #### Pasal 42
 
-Bidang layanan pemulihan sosial sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf c memiliki tugas:
+Bidang layanan pemulihan sosial sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf c memiliki tugas:  
 a. melakukan pendampingan selama proses penanganan kasus;  
 b. melakukan konseling; danc. memfasilitasi untuk mendapatkan surat keterangan psikis korban.  
 
 #### Pasal 43
 
-Bidang pemulangan dan penyatuan kembali dalam masyarakat sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf d memiliki tugas:
+Bidang pemulangan dan penyatuan kembali dalam masyarakat sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
 b. membuat laporan perkembangan proses pendampingan pemulangan dan  pemulihan sosial; danc. melakukan pemantauan sekurang-kurangnya tiga bulan setelah korban  dipulangkan kekeluarganya.  
 
 #### Pasal 44
 
-Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 39  ayat(2) huruf e memiliki tugas:
+Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 39  ayat(2) huruf e memiliki tugas:  
 a. mendampingidan membela setiap proses pelayanan hukum;dan  b. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 45

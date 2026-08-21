@@ -94,7 +94,7 @@ a. Non Diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kela
 
 #### Pasal 3
 
-Pengatur:rn perlindungan perem.puan dan anak berlujuan:
+Pengatur:rn perlindungan perem.puan dan anak berlujuan:  
 a. sebagai pedoman bag, Pemerintah Daerah dalam perencanaan, kebijakan dan strategi perlindungan perempuan dan anak.  b. melindungi perempuan dan anak dari tindakan, keputusan dan kebijakan yang melanggar hak perempuan dan anak.  c. mencegah tedadinya pelanggaran hak perempuan dan anak. d. meningkatkan pemberdayaan terhadap perempuan.  e. meningkatkan peran dan nilai kearifan lokal serta peraran adat dalam perlindungan perempuan dan anak, danf. meningkatkan peran iembaga pemerintah dan non pemerintah dalam upaya perlindungan perempuan dan anak.  
 
 #### Pasal 4
@@ -115,7 +115,7 @@ Hak peremPuan
 
 #### Pasal 5
 
-Setiap peremPuan berhak:
+Setiap peremPuan berhak:  
 a. Memperoleh perlindungan dari tindakan diskriminasi;  
 b. Memperoieh Perlindungan seksual;  
 
@@ -131,7 +131,7 @@ Hak anak
 
 #### Pasal 6
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. Untuk hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan ;  
 b. Memperoieh perlindungan dari tindakan diskriminasi;  
 c. Memperoleh perlindungan dari ekspioitasi ekonomi dan eksploitasi seksuai;  
@@ -151,7 +151,7 @@ TANGGUNG JAWAB PEMERINTAH DAERAH, MASYARAKAT, ORANG TUA DAN ATAU/ KELUARGA
 
 ## Bagian kesatu
 
-Pemerintah Daerah Pasa-l 7 (1) Pemerintah Daerah dalam upaya perlindungan terhadap perempuan t bertanggung jawab:
+Pemerintah Daerah Pasa-l 7 (1) Pemerintah Daerah dalam upaya perlindungan terhadap perempuan t bertanggung jawab:  
 a. Menjamin hak perempuan tanpa disriminasi sesuai peraturan perundang-undangan;  
 b. Menetapkan dan melaksanakan kebijakan, program dan kegiatan perlindungan terhadap hak perempuan;  
 c. Melakukan kerjasama dengan masyarakat dan/atau organisasi kemasyarakatan dalam penyelenggaraan perlindungan perempuan sesuai peraturan perundang-undangan;  
@@ -210,7 +210,7 @@ Tanggung jawab terhadap Perlindungan anak
 
 #### Pasal 12
 
-(i) Orang tua dalam upaya perlindungan terhadap hak anak bertanggung jawab:
+(i) Orang tua dalam upaya perlindungan terhadap hak anak bertanggung jawab:  
 a. Mengasuh, memelihara, mendidik dan melindungi anak;  
 b. Menumbuhkembangkan anak sesuai dengan kemampuan, bakat dan minatnya;  
 c. Memberikan pendidikan formal dan non formal;  
@@ -352,7 +352,7 @@ Pemerintah Daerah dan masyarakat menyelenggarakan Pendidikan Anak Usia Dini (PAU
 
 #### Pasal 27
 
-Bagi anak yang berusia 7 (tujuh) sampai dengan 18 (delapan belas) tahun yang belum menyelesaikan pendidikan formal/putus sekolah dapat menempuh pendidikan melalui satuan pendidikan non formal yaitu:
+Bagi anak yang berusia 7 (tujuh) sampai dengan 18 (delapan belas) tahun yang belum menyelesaikan pendidikan formal/putus sekolah dapat menempuh pendidikan melalui satuan pendidikan non formal yaitu:  
 a. Kelompok Belajar Paket A setara Sekolah Dasar dan Madrasah Ibtidaiyah.  b. Kelompok Belajar Paket B setara Sekolah Menengah Pertama dan Madrasah Tsanawiiyah.  c. Kelompok Belajar Paket C setara Sekolah Menengah Atas dan Madrasah A1iyah dan Sekolah Menengah Kejuruan.  
 
 #### Pasal 28
@@ -369,7 +369,7 @@ Setiap penyeienggara pendidikan formal dilarang mengeluarkan anak tanpa adanya j
 
 #### Pasal 31
 
-Anak yang memeriukan perlindungan khusus dilindungi haknya guna memperoleh pendidikan yaitu:
+Anak yang memeriukan perlindungan khusus dilindungi haknya guna memperoleh pendidikan yaitu:  
 a. Anak dalam situasi darurat;  
 b. Anak yang berhadapan dengan hukum;  
 c. Anak dari kelompok minoritas dan terisolasi;  
@@ -478,7 +478,7 @@ a. Responsif genderb. Non diskriminasi.  c. Hubungan setara dan menghormati.  d.
 
 #### Pasal 44
 
-Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dilaksanakan oleh:
+Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dilaksanakan oleh:  
 a. Rumah sakit.  b. Puskesmas.  c. Pusat Pelayanar Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A) d. Unit Pelayanan Perempuan dan Anak ( UPPA )e. Rumah Perlindungan Trauma Center (RPTC)f. Rumah Perlindungan Sosial Anak ( RPSA )g. Wopen Crisis Centre (WCC )h. Badan,Penasehatan Pembinaan dan Peiestarian Perkawinan (BP4 ) i. Kepolisianj. Kejaksaank. Lembaga Bantuan Hukum (LBH )danl. Lembaga Perlindungan Anak.  
 
 ## Bagian kedua

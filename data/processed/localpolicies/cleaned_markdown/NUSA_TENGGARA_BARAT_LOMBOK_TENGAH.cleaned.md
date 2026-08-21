@@ -90,7 +90,7 @@ profesi: peningkatan peran dan fungsi perempuan dalam organisasi  politik, . pel
 
 #### Pasal 8
 
-Upaya peningkatan kompetensi perempuan sebagaimana  dimaksud dalam Pasal 5 huruf c, antara lain dilakukan  melalui:
+Upaya peningkatan kompetensi perempuan sebagaimana  dimaksud dalam Pasal 5 huruf c, antara lain dilakukan  melalui:  
 a. pelatihan keterampilan, danb. pendidikan dan literasi bagi perempuan.  
 
 # BAB III
@@ -99,12 +99,12 @@ a. pelatihan keterampilan, danb. pendidikan dan literasi bagi perempuan.
 
 #### Pasal 9
 
-Penyelenggaraan Pelindungan Perempuan sebagaimana  dimaksud pada ayat (1) meliputi:
+Penyelenggaraan Pelindungan Perempuan sebagaimana  dimaksud pada ayat (1) meliputi:  
 a. upaya peningkatan kualitas keluarga,b. upaya pemenuhan kebutuhan khusus perempuan,  Cc. upaya pencegahan dan Pelindungan Perempuan korban  Kekerasan, Eksploitasi, dan Diskriminasi secara cepat,  terpadu, dan terintegrasi, dand. upaya Pelindungan Perempuan dalam situasi bencana.  
 
 #### Pasal 10
 
-Upaya peningkatan kualitas keluarga sebagaimana dimaksud  dalam Pasal 9 huruf a, dilaksanakan melalui:
+Upaya peningkatan kualitas keluarga sebagaimana dimaksud  dalam Pasal 9 huruf a, dilaksanakan melalui:  
 a. peningkatan kualitas anak melalui pemberian akses  informasi, pendidikan, penyuluhan, dan pelayanan  mengenai perawatan, pengasuhan, Pelindungan, serta  perkembangan anak,b. peningkatan kualitas remaja melalui pemberian akses  informasi, pendidikan, konseling, dan pelayanan mengenai  kehidupan berkeluarga, Cc. peningkatan keberfungsian, peran, dan tugas keluarga,  d. pemberdayaan keluarga rentan melalui Pelindungan dan  bantuan dan/atau fasilitasi untuk mengembangkan diri  agar setara dengan keluarga lain,e. peningkatan kualitas lingkungan keluarga,f. peningkatan akses dan peluang terhadap penerimaan  informasi dan sumber daya ekonomi keluarga: dan  g. pengembangan cara inovatif melalui bantuan dan/atau  fasilitasi yang lebih efektif bagi keluarga prasejahtera, dan  pengembangan program dan kegiatan dalam upaya  mengurangi angka kemiskinan bagi keluarga prasejahtera  dan perempuan yang berperan sebagai kepala keluarga.  
 
 #### Pasal 11
@@ -113,12 +113,12 @@ Upaya pemenuhan kebutuhan khusus perempuan sebagaimana  dimaksud dalam Pasal 9 h
 
 #### Pasal 12
 
-Upaya pencegahan dan Pelindungan Perempuan korban  Kekerasan, Eksploitasi, dan Diskriminasi sebagaimana  dimaksud dalam Pasal 9 huruf c, meliputi:
+Upaya pencegahan dan Pelindungan Perempuan korban  Kekerasan, Eksploitasi, dan Diskriminasi sebagaimana  dimaksud dalam Pasal 9 huruf c, meliputi:  
 a. pencegahan perempuan menjadi korban Kekerasan,  Eksploitasi, dan Diskriminasi:b. penanganan perempuan korban Kekerasan, Eksploitasi, dan  Diskriminasi, danc. Pemberdayaan Perempuan korban Kekerasan, Eksploitasi,  dan Diskriminasi.  
 
 #### Pasal 13
 
-Upaya Pelindungan Perempuan dalam situasi bencana  sebagaimana dimaksud dalam Pasal 9 huruf d, dilaksanakan  melalui:
+Upaya Pelindungan Perempuan dalam situasi bencana  sebagaimana dimaksud dalam Pasal 9 huruf d, dilaksanakan  melalui:  
 a. layanan kesehatan, danb. penyediaan fasilitas ramah perempuan di tempat evakuasi  bencana.  
 
 # BAB IV
@@ -127,12 +127,12 @@ a. layanan kesehatan, danb. penyediaan fasilitas ramah perempuan di tempat evaku
 
 #### Pasal 14
 
-Pemenuhan Hak Anak sebagaimana dimaksud dalam Pasal 4  huruf c, meliputi:
+Pemenuhan Hak Anak sebagaimana dimaksud dalam Pasal 4  huruf c, meliputi:  
 a. pemenuhan hak sipil dan kebebasan:b. pembinaan lingkungan keluarga dan pengasuhan alternatif,  Cc. pemenuhan hak kesehatan dasar dan kesejahteraan, dan  d. pemenuhan hak pendidikan, waktu luang, budaya, dan  rekreasi.  
 
 #### Pasal 15
 
-Pemenuhan hak sipil dan kebebasan sebagaimana dimaksud  dalam Pasal 14 huruf a, dilaksanakan melalui:
+Pemenuhan hak sipil dan kebebasan sebagaimana dimaksud  dalam Pasal 14 huruf a, dilaksanakan melalui:  
 a. fasilitasi administrasi kependudukan dan pencatatan sipil  anak,b. penyediaan informasi layak Anak, dan Cc. peningkatan partisipasi anak dalam pembangunan.  
 
 #### Pasal 16
@@ -142,7 +142,7 @@ c. fasilitasi kartu identitas anak.
 
 #### Pasal 17
 
-Penyediaan informasi layak Anak sebagaimana dimaksud (1) dalam Pasal 15 huruf b, meliputi upaya:
+Penyediaan informasi layak Anak sebagaimana dimaksud (1) dalam Pasal 15 huruf b, meliputi upaya:  
 a. pemberian akses informasi yang luas kepada Anak,  b. penyediaan informasi yang layak bagi Anak, Cc. dorongan produksi dan penyebarluasan buku-buku  Anak: dand. pengembangan Pelindungan Anak dari informasi yang  tidak layak.  
 
 Dalam rangka pemberian akses informasi yang luas kepada (2) Anak sebagaimana dimaksud pada ayat (1) huruf a,  dibangun dan dikembangkan fasilitas informasi analog dan  fasilitas informasi digital.  
@@ -153,12 +153,12 @@ Peningkatan partisipasi Anak dalam pembangunan  sebagaimana dimaksud dalam Pasal
 
 Pelembagaan partisipasi Anak sebagaimana dimaksud pada  ayat (1), berbentuk Forum Anak Daerah untuk mewadahi  partisipasi Anak dalam pembangunan.  
 
-Forum Anak Daerah sebagaimana dimaksud pada ayat (2),  mempunyai fungsi:
+Forum Anak Daerah sebagaimana dimaksud pada ayat (2),  mempunyai fungsi:  
 a. memantau pemenuhan hak dan pelaksanaan kewajiban  Anak,b. sosialisasi hak dan kewajiban anak di lingkungan teman  sebaya, Cc. menyuarakan aspirasi Anak,d. melibatkan diri dalam forum musyawarah perencanaan  pembangunan daerah,e. melibatkan diri dalam proses pengambilan keputusan,  danf. mendorong anak-anak aktif ' mengembangkan  potensinya.  
 
 #### Pasal 19
 
-Pembinaan lingkungan keluarga dan pengasuhan alternatif (1) sebagaimana dimaksud dalam Pasal 14 huruf b,  dilaksanakan melalui:
+Pembinaan lingkungan keluarga dan pengasuhan alternatif (1) sebagaimana dimaksud dalam Pasal 14 huruf b,  dilaksanakan melalui:  
 a. pembinaan terhadap keluarga atau keluarga pengganti,  danb. pengembangan anak usia dini holistik dan integratif,  dan Cc. pembinaan pencegahan perkawinan Anak.  
 
 Pembinaan terhadap keluarga atau keluarga pengganti  sebagaimana dimaksud pada ayat (1) huruf a, meliputi:  a. pembinaan pemenuhan Hak Anak yang diperlukan  selama dalam pengasuhannya, dan
@@ -185,7 +185,7 @@ Anak, mencakup:
 
 #### Pasal 21
 
-Pemenuhan hak pendidikan, waktu luang, budaya, dan rekreasi  sebagaimana dimaksud dalam Pasal 14 huruf d, dilaksanakan  melalui:
+Pemenuhan hak pendidikan, waktu luang, budaya, dan rekreasi  sebagaimana dimaksud dalam Pasal 14 huruf d, dilaksanakan  melalui:  
 a. penyediaan sarana dan prasarana pendidikan,  b. penyediaan sumber daya manusia pendidikan,  Cc. penyelenggaraan sekolah ramah Anak,d. pelaksanaan dukungan program wajib belajar 12 (dua belas)  tahun,e. pembinaan pendidikan anak usia dini,f. fasilitasi akses pendidikan bagi anak yang sudah menikah,  g. fasilitasi akses pendidikan bagi anak yang berhadapan  dengan hukum,h. penyediaan sarana dan prasarana tempat bermain anak,  i. penyediaan sarana dan prasarana kreatif dan rekreatif, dan  j. penyediaan sarana dan prasarana olahraga bagi Anak  penyandang disabilitas.  
 
 # BAB V
@@ -209,7 +209,7 @@ Anak korban kejahatan seksual,  Anak korban jaringan terorisme, . Anak penyandan
 
 #### Pasal 23
 
-Penyelenggaraan Pelindungan Khusus Anak sebagaimana  dimaksud dalam Pasal 22 ayat (1), meliputi:
+Penyelenggaraan Pelindungan Khusus Anak sebagaimana  dimaksud dalam Pasal 22 ayat (1), meliputi:  
 a. Pencegahan, danb. Penanganan.  
 
 ## Bagian Kedua
@@ -218,7 +218,7 @@ Pencegahan
 
 #### Pasal 24
 
-Pencegahan sebagaimana dimaksud dalam Pasal 23 huruf a,  meliputi:
+Pencegahan sebagaimana dimaksud dalam Pasal 23 huruf a,  meliputi:  
 a. optimalisasi kapasitas sumberdaya anak, penciptaan lingkungan yang mendukung Pelindungan anak,  DO penguatan koordinasi pemangku kepentingan.  
 
 peningkatan aksesibilitas dan perluasan layanan,  penguatan regulasi dan kelembagaan, dan
@@ -233,10 +233,10 @@ b. menyediakan mekanisme partisipasi formal bagi anak  dan remaja untuk terlibat
 
 #### Pasal 26
 
-Penciptaan lingkungan yang mendukung Pelindungan anak  sebagaimana dimaksud dalam Pasal 24 huruf b, dilakukan  melalui:
+Penciptaan lingkungan yang mendukung Pelindungan anak  sebagaimana dimaksud dalam Pasal 24 huruf b, dilakukan  melalui:  
 a. perubahan nilai, norma, dan cara pandang terhadap  Pelindungan anak,b. penguatan peran orang tua, sekolah, keluarga, dan  komunitas dalam Pelindungan anak, danc. revitalisasi budaya yang berisiko mendorong terjadinya  kekerasan dan perkawinan anak.  
 
-Perubahan nilai, norma, dan cara pandang terhadap  Pelindungan anak sebagaimana dimaksud pada ayat (1)  huruf a dilakukan melalui strategi intervensi kebijakan  pemerintah daerah terhadap:
+Perubahan nilai, norma, dan cara pandang terhadap  Pelindungan anak sebagaimana dimaksud pada ayat (1)  huruf a dilakukan melalui strategi intervensi kebijakan  pemerintah daerah terhadap:  
 a. penguatan pemahaman dan peran orang tua, keluarga,  organisasi sosial/kemasyarakatan, sekolah, pesantren  dan pemangku kepentingan yang lainnya dalam upaya  Pelindungan anak,b. transformasi layanan konseling dan pendampingan  untuk orang tua dan anak secara profesional,  Cc. peningkatan keterampilan pengasuhan yang berkualitas  khususnya bagi remaja, dand. mendorong praktik budaya yang mendukung  terwujudnya Pelindungan anak dan mencegah  perkawinan anak.  
 
 Penguatan peran orang tua, sekolah, keluarga, komunitas  dan pemangku kepentingan lainnya dalam Pelindungan  anak sebagaimana dimaksud pada ayat (1) huruf b  dilakukan melalui strategi intervensi kebijakan pemerintah  daerah terhadap: (1)  (2) (3)  (4)
@@ -244,13 +244,13 @@ a. sosialisasi dan edukasi tentang pentingnya Pelindungan  anak,b. pemberdayaan 
 
 #### Pasal 27
 
-Peningkatan aksesibilitas dan perluasan layanan  sebagaimana dimaksud dalam Pasal 24 huruf c dilakukan  melalui:
+Peningkatan aksesibilitas dan perluasan layanan  sebagaimana dimaksud dalam Pasal 24 huruf c dilakukan  melalui:  
 a. penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif sebelum terjadi  kekerasan pada anak, danb. penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif setelah terjadi  kekerasan pada anak.  
 
-Peningkatan aksesibilitas dan perluasan layanan melalui  penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif sebelum terjadi  kekerasan pada anak sebagaimana dimaksud pada ayat (1)  huruf a, dilakukan dengan intervensi kebijakan  pemerintah daerah terhadap:
+Peningkatan aksesibilitas dan perluasan layanan melalui  penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif sebelum terjadi  kekerasan pada anak sebagaimana dimaksud pada ayat (1)  huruf a, dilakukan dengan intervensi kebijakan  pemerintah daerah terhadap:  
 a. penyediaan layanan informasi yang ramah anak,  b. mengembangkan layanan Posyandu Remaja mulai  tingkat dusun/lingkungan, dan Cc. optimalisasi layanan untuk mengurangi kerentanan  pada anak.  
 
-Peningkatan aksesibilitas dan perluasan layanan melalui  penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif setelah terjadi  kekerasan pada anak sebagaimana dimaksud pada ayat (1)  huruf b, dilakukan dengan intervensi kebijakan  pemerintah daerah terhadap:
+Peningkatan aksesibilitas dan perluasan layanan melalui  penyediaan akses dan layanan yang ramah anak dan  remaja, responsif gender dan inklusif setelah terjadi  kekerasan pada anak sebagaimana dimaksud pada ayat (1)  huruf b, dilakukan dengan intervensi kebijakan  pemerintah daerah terhadap:  
 a. Pengembangan sistem rujukan layanan yang  komprehensif bagi anak rentan, danb. Pendampingan bagi anak yang membutuhkan  Pelindungan khusus untuk mendapatkan hak-haknya  sebagai anak.  
 
 Peningkatan aksesibilitas dan perluasan layanan dapat  dilakukan dengan memperkuat lembaga layanan yang ada  yaitu: | puskemas, posyandu, Posyandu Remaja dan Posyandu Keluarga,  UPTD PPA, Pusat Pembelajaran Keluarga (PUSPAGA):, Lembaga Konsultasi Kesejahteraan Keluarga (LK3):  Lembaga Penyelenggara Pelindungan Anak, ba Lembaga Kesejahteraan Sosial Anak (LKSA).  Pusat Pelayanan Keluarga Sejahtera (PPKS), dan
@@ -262,7 +262,7 @@ b. mendorong pembentukan peraturan desa dan  peraturan kepala desa tentang Pelin
 
 #### Pasal 29
 
-Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud dalam Pasal 24 huruf e dilakukan  melalui strategi yang difokuskan pada:
+Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud dalam Pasal 24 huruf e dilakukan  melalui strategi yang difokuskan pada:  
 a. peningkatan kerja sama lintas sektor, bidang, dan  daerah,b. penguatan sistem data dan informasi, dan C. pengawasan, pemantauan, dan evaluasi.  
 
 Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud pada ayat (1) dilakukan dengan  intervensi kebijakan pemerintah daerah terhadap:  a. penguatan forum koordinasi perencanaan dan  pelaksanaan kebijakan Pelindungan anak,
@@ -322,12 +322,12 @@ Partisipasi Masyarakat
 
 #### Pasal 35
 
-Partisipasi masyarakat dalam pemberdayaan dan Pelindungan  Perempuan dapat dilakukan melalui:
+Partisipasi masyarakat dalam pemberdayaan dan Pelindungan  Perempuan dapat dilakukan melalui:  
 a. pemberian pelatihan keterampilan,b. pencegahan perempuan menjadi korban Kekerasan,  Eksploitasi, dan Diskriminasi, danc. bantuan kepada perempuan korban Kekerasan, Eksploitasi,  dan Diskriminasi.  
 
 #### Pasal 36
 
-Partisipasi masyarakat dalam penyelenggaraan Pelindungan  anak dilakukan melalui kegiatan:
+Partisipasi masyarakat dalam penyelenggaraan Pelindungan  anak dilakukan melalui kegiatan:  
 a. pemberian saran dan pertimbangan dalam penyelenggaraan  Pelindungan Anak,b. diseminasi informasi dalam rangka Pelindungan Anak,  Cc. penyediaan dana, jasa, serta sarana dan prasarana dalam  rangka Pelindungan Anak,d. pemberian edukasi dalam upaya peningkatan akhlak Anak,  e. pencegahan terjadinya perkawinan anak, Kekerasan,  eksploitasi, diskriminasi dan penelantaran Anak,  f. pelaporan, pertolongan darurat dan Pelindungan bagi Anak  yang mengalami perkawinan anak, Kekerasan, eksploitasi,  diskriminasi dan penelantaran,g. advokasi penanganan perkawinan anak, Kekerasan,  eksploitasi, diskriminasi dan penelantaran terhadap Anak,  h. fasilitasi proses pemulangan dan/atau reintegrasi sosial,  dani. kegiatan lainnya yang mendukung upaya Pelindungan,  pemeliharaan, dan kesejahteraan Anak.  
 
 ## Bagian Kedua
@@ -336,7 +336,7 @@ Partisipasi Dunia Usaha
 
 #### Pasal 37
 
-Partisipasi dunia usaha dalam pemberdayaan dan Pelindungan  Perempuan dapat dilakukan melalui:
+Partisipasi dunia usaha dalam pemberdayaan dan Pelindungan  Perempuan dapat dilakukan melalui:  
 a. penyediaan sarana dan prasarana untuk pemberdayaan dan  Pelindungan Perempuan,b. fasilitasi edukasi dan pelatihan, dan Cc. pemberian penghargaan.  
 
 #### Pasal 38
@@ -358,7 +358,7 @@ b. pemberian fasilitasi pelindungan perempuan dan anak.  Pemberian penghargaan s
 
 #### Pasal 40
 
-Pembiayaan pelaksanaan penyelenggaraan Pelindungan Anak  bersumber dari:
+Pembiayaan pelaksanaan penyelenggaraan Pelindungan Anak  bersumber dari:  
 a. b. (1) Anggaran Pendapatan dan Belanja Daerah, dan  sumber lain yang sah sesuai ketentuan peraturan  perundang-undangan.  
 
 # BAB XI

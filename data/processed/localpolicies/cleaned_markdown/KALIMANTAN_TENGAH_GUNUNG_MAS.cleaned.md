@@ -83,14 +83,14 @@ d. pemberdayaan; dane. partisipasi.
 
 #### Pasal 4
 
-Tujuan Perlindungan Perempuan dan Anak meliputi:
+Tujuan Perlindungan Perempuan dan Anak meliputi:  
 a. menjamin terpenuhinya hak;  
 b. memberikan keadilan dan kesetaraan hak;  
 c. memberikan perlindungan dan rasa aman; dand. melakukan pemberdayaan.  
 
 #### Pasal 5
 
-Ruang lingkup Perlindungan Perempuan dan Anak meliputi:
+Ruang lingkup Perlindungan Perempuan dan Anak meliputi:  
 a. Perlindungan Perempuan;  
 b. Perlindungan Anak;  
 c. koordinasi dan kerja sama;  
@@ -112,7 +112,7 @@ Umum
 
 #### Pasal 6
 
-Perlindungan Perempuan meliputi:
+Perlindungan Perempuan meliputi:  
 a. pelayanan;  
 b. pemberdayaan;  
 c. pencegahan; dand. pemantauan.  
@@ -149,7 +149,7 @@ Umum
 
 #### Pasal 11
 
-Perlindungan Anak meliputi:
+Perlindungan Anak meliputi:  
 a. pelayanan;  
 b. pemenuhan hak Anak;  
 
@@ -162,7 +162,7 @@ Pelayanan
 
 #### Pasal 12
 
-( 1) Bentuk pelayanan Perlindungan Anak sebagaimana dimaksud  dalam Pasal 11 huruf a meliputi:
+( 1) Bentuk pelayanan Perlindungan Anak sebagaimana dimaksud  dalam Pasal 11 huruf a meliputi:  
 a. bantuan hukum;  
 b. pelayanan rehabilitasi sosial; danc. pelayanan reintegrasi sosial.  
 2. Ketentuan lebih lanjut mengenai pelayanan Perlindungan Anak  sebagaimana dimaksud pada ayat ( 1) diatur dalam Peraturan  Bupati.  
@@ -173,7 +173,7 @@ Pemenuhan Hak Anak
 
 #### Pasal 13
 
-( 1) Pemenuhan hak Anak sebagaimana dimaksud dalam Pasal 11 huruf  b meliputi:
+( 1) Pemenuhan hak Anak sebagaimana dimaksud dalam Pasal 11 huruf  b meliputi:  
 a. jaminan atas hak sipil dan kebebasan;  
 b. jaminan lingkungan keluarga dan pengasuhan alternatif;  
 c. jaminan kesehatan dasar dan kesejehteraan;  
@@ -342,7 +342,7 @@ b . kesehatan;
 c. rohani; dan d . psikologi.  
 3. Pelaksanaan konseling dilakukan oleh konselor dan dapat  dilaksanakan dengan melibatkan pihak terkait.  
 
-Pasa125 Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:
+Pasa125 Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:  
 a. pelayanan medis;  
 b. pelayanan medicolegal;  
 c. pelayanan psikososial;  
@@ -378,11 +378,11 @@ Kewajiban dan Tanggung Jawab Orang Tua dan/atau Keluarga
 
 #### Pasal 28
 
-Orang tua wajib dan bertanggung jawab untuk:
+Orang tua wajib dan bertanggung jawab untuk:  
 a. mengasuh, merawat, mendidik, mengurus dan  keluarga;  
 b. menumbuhkembangkan anggota keluarga  kemampuan, bakat, dan minatnya; dan  c. Pencegahan perkawinan pada usia Anak.  
 
-Pasal29 melindungi anggota  sesua1 dengan Peningkatan peran serta keluarga dalam Perlindungan Perempuan dan  Anak dilakukan melalui:
+Pasal29 melindungi anggota  sesua1 dengan Peningkatan peran serta keluarga dalam Perlindungan Perempuan dan  Anak dilakukan melalui:  
 a. Pencegahan perkawinan pada usia Anak;  
 b. mendekatkan Perempuan pada pelayanan kesehatan; danc. meningkatkan ketahanan keluarga.  
 
@@ -414,7 +414,7 @@ j. pelatihan keterampilan kerja; dank. memberikan pertolongan pertama pada saat 
 1. Bupati berkewajiban melakukan pembinaan dan pengawasan  terhadap Perlindungan Perernpuan dan anak.  
 2. Pelaks anaan pernbinaa n dan pengawasan sebagaimana dimaksud  pada ayat (1) dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bi dang pem berdayaan  Perempu an dan Perlindungan Anak.  
 
-17 - (3) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1 )  meliputi:
+17 - (3) Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1 )  meliputi:  
 a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan;  
@@ -451,7 +451,7 @@ BABlX
 
 ## PENDANAAN
 
-Pasa l 34 Pendanaan pelaksan aan Perlindungan Perempuan dan Anak bersumber  dari:
+Pasa l 34 Pendanaan pelaksan aan Perlindungan Perempuan dan Anak bersumber  dari:  
 a. anggaran pendapatan dan belanja daerah ; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 # BAB XI

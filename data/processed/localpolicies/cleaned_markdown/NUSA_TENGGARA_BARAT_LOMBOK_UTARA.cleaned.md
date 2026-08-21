@@ -14,7 +14,8 @@
 
 # BUPATI LOMBOK UTARA,
 
-Menimbang:
+Menimbang:  
+ 
 a. bahwa untuk mewujudkan hak konstitusional setiap warga Negara sesuai dengan prinsip persamaan kedudukan dihadapan hukum, maka Pemerintah Daerah perlu berupaya untuk menjamin Perlindungan hak asasi manusia bagi Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami Kekerasan, sehingga perlu mendapatkan Perlindungan yang optimal;  
 c. bahwa Perlindungan sebagaimana dimaksud huruf b, termasuk dalam urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Daerah dan pencegahannya harus melibatkan semua pihak;  
@@ -233,7 +234,7 @@ Setiap Perempuan dan Anak mempunyai hak dasar sebagai manusia yang wajib dilindu
 
 #### Pasal 10
 
-Setiap Perempuan mempunyai hak untuk:
+Setiap Perempuan mempunyai hak untuk:  
 a. hidup, mempertahankan hidup dan meningkatkan taraf kehidupannya;  
 b. hidup tenteram, aman, damai, bahagia, sejahtera lahir dan batin;  
 c. menikmati lingkungan hidup yang baik dan sehat;  
@@ -246,7 +247,7 @@ i. memperoleh pelayanan untuk meningkatkan pendapatannya; danj. memperoleh hak-h
 
 #### Pasal 11
 
-Setiap Anak mempunyai hak untuk:
+Setiap Anak mempunyai hak untuk:  
 a. memperoleh pendidikan dan pengajaran sesuai dengan tingkat umur, kondisi fisik dan mental, kecerdasan serta minat dan bakatnya;  
 b. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan, serta mendapat Perlindungan dari tindak Kekerasan, eksploitasi, diskriminasi dan penelantaran;  
 c. dipenuhi kebutuhannya oleh keluarga;  
@@ -263,7 +264,7 @@ Penyelenggaraan Perlindungan Perempuan dan Anak
 
 #### Pasal 13
 
-Penyelenggaraan Perlindungan Perempuan dan Anak meliputi:
+Penyelenggaraan Perlindungan Perempuan dan Anak meliputi:  
 a. pencegahan dan Perlindungan;  
 b. Penanganan, pemulihan korban Kekerasan;  
 c. Rehabilitasi, Reintegrasi dan pemberdayaan;  
@@ -385,7 +386,7 @@ Umum
 
 #### Pasal 22
 
-Pemerintah Daerah bertanggungjawab dalam upaya melindungi Perempuan dan Anak dari perbuatan tindak Kekerasan yang terjadi  dalam bentuk:
+Pemerintah Daerah bertanggungjawab dalam upaya melindungi Perempuan dan Anak dari perbuatan tindak Kekerasan yang terjadi  dalam bentuk:  
 a. Kekerasan fisik;  
 b. Kekerasan seksual;  
 c. Kekerasan ekonomi;  
@@ -396,7 +397,7 @@ g. pemaksaan atau perampasan kemerdekaan;danh. ancaman tindakan tertentu.
 
 #### Pasal 23
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya Kekerasan sebagaimana dimaksud dalam Pasal 22 wajib melakukan upaya-upaya untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya Kekerasan sebagaimana dimaksud dalam Pasal 22 wajib melakukan upaya-upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan Perlindungan kepada korban tindak Kekerasan;  
 c. memberikan pertolongan darurat; dan /ataud. membantu proses pengajuan permohonan penetapan Perlindungan.  
@@ -461,7 +462,7 @@ b. Lembaga Perlindungan Anak (LPA); danc. Lembaga lain sesuai kebutuhan dan/atau
 
 P2TP2A sebagaimana dimaksud dalam Pasal 28 huruf a berfungsi sebagai Lembaga koordinatif  antar  Pemerintah Daerah, aparat penegak hukum, Lembaga layanan, Lembaga pendidikan, Lembaga Bantuan Hukum, Individu, Swasta dan/atau LSM, yang memiliki kapasitas dalam Perlindungan Perempuan dan Anak.  
 
-Tugas dari P2TP2A sebagaimana dimaksud pada ayat (1) meliputi:
+Tugas dari P2TP2A sebagaimana dimaksud pada ayat (1) meliputi:  
 a. memberikan Pelayanan, meliputi: menyiapkan dan mengembangkan informasi  yang terkait dengan Perempuan dan Anak serta  mengkoordinasikan ke seluruh Kabupaten dan pelaporan ke Provinsi/ Provinsi Nusa Tenggara Barat;  
 
 mengembangkan   pusat database  yang diperoleh dari Daerah tentang kondisi Kekerasan terhadap Perempuan dan Anak;  
@@ -519,7 +520,7 @@ Partisipasi Anak
 
 #### Pasal 33
 
-Sumber pembiayaan Forum Anak/Dewan Anak dapat berasal dari:
+Sumber pembiayaan Forum Anak/Dewan Anak dapat berasal dari:  
 a. sumbangan dari Masyarakat/Badan Usaha yang bersifat tidak mengikat;  
 b. bantuan dari Pemerintah Daerah; dan/atauc. sumber-sumber pembiayaan lainnya sesuai dengan peraturan perundangan-undangan.  
 

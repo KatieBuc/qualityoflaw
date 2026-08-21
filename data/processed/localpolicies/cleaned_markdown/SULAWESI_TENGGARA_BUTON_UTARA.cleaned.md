@@ -86,7 +86,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Bu
 
 #### Pasal 2
 
-Bentuk kekerasan terhadap Perempuan dan Anak berupa:
+Bentuk kekerasan terhadap Perempuan dan Anak berupa:  
 a. Kekerasan Fisik;  
 b. Kekerasan Psikis;  
 c. Kekerasan Seksual;  
@@ -103,14 +103,14 @@ Kekerasan Psikis sebagaimana dimaksud dalam Pasal 2 huruf b disebabkan  karena p
 
 #### Pasal 5
 
-Kekerasan Seksual sebagaimana d.imaksud dalam Pasal 2 huruf c disebabkan  karena:
+Kekerasan Seksual sebagaimana d.imaksud dalam Pasal 2 huruf c disebabkan  karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hu bungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial  dan/atau tujuan tertentu.  
 
 #### Pasal 6
 
-Penelantaran sebagaimana d.imaksud dalam Pasal 2 huruf d disebabkan  karena:
+Penelantaran sebagaimana d.imaksud dalam Pasal 2 huruf d disebabkan  karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh  orang tua, wali, atau pihak lain maupun yang bertanggung jawab atas  pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali  atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hukum yang berlaku baginya atau karena persetujuan  atau perjanjian wajib memberikan penghidupan, perawatan, atau  pemeliharaan kepada orang tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di  luar rumah sehingga korban berada di bawah kendali orang tersebut.  
@@ -218,7 +218,7 @@ e. rehabilitasi, reintegrasi sosial, dan medikolegal bagi Perempuan dan Anak  Ko
 
 #### Pasal 16
 
-SPM sebagaimana dimaksud dalam Pasal 15 merniliki indikator kinerja  meliputi:
+SPM sebagaimana dimaksud dalam Pasal 15 merniliki indikator kinerja  meliputi:  
 a. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan  terpadu;  
 b. ca.kupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di  Rumah Sakit;  
 c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi Sosial terlatih bagi Perempuan dan Anak Korban Kekerasan di  dalam unit pelayanan terpadu;  
@@ -236,7 +236,7 @@ Bentuk dan Mekanisrne Pencegahan
 
 #### Pasal 17
 
-Bentuk pencegahan terjadinya kekerasan terhadap perempuan dan anak yang  dilakukan oleh PPT, dapat dilaksanakan melalui:
+Bentuk pencegahan terjadinya kekerasan terhadap perempuan dan anak yang  dilakukan oleh PPT, dapat dilaksanakan melalui:  
 a. Kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat  yang berkaitan dengan perlind ungan hak Perempuan dan Anak; dan  b. Pelatihan anggota PPT terkait tentang pelaksanaan tugasnya dalarn  melakukan pencegahan kekerasan terhadap Perempuan dan Anak.  
 
 #### Pasal 18
@@ -251,7 +251,7 @@ Bentuk dan Mekanisme Pelayanan
 
 #### Pasal 19
 
-(I) Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  kekerasan, sebagai berikut:
+(I) Bentuk pelayanan yang diberikan kepada perempuan dan anak korban  kekerasan, sebagai berikut:  
 a. pelayanan pengaduan;  
 14-
 b. pelayanan kesehatan;  
@@ -287,7 +287,7 @@ Prinsip Pelayanan dan Pendampingan
 
 #### Pasal 22
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan  dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan  dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -326,7 +326,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 26
 
-Pendanaan untuk penyelenggaraan perlindungan Perempuan dan Anak  korban kekerasan, bersumber dari:
+Pendanaan untuk penyelenggaraan perlindungan Perempuan dan Anak  korban kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/ a taub. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 27

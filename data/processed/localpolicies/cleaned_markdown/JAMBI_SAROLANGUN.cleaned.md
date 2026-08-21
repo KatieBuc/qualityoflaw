@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 b. bahwa seiring meningkatnya perlakuan kekerasan terhadap  perempuan dan anak di Kabupaten Sarolangun, merupakan  perbuatan yang merendahkan harkat dan martabat  kemanusiaan, sehingga diperlukan peran pemerintah  Kabupaten Sarolangun agar perempuan dan anak terlindungi  dari pelanggaran terhadap hak yang dijamin oleh Konstitusi;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -86,7 +88,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Pemberdayaan dan Perlindungan Perempuan dan Anak diselenggarakan berdasarkan asas:
+Pemberdayaan dan Perlindungan Perempuan dan Anak diselenggarakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. kesetaraan gender;  
 c. non diskriminasi;  
@@ -98,14 +100,14 @@ h. akuntabilitas; dani. rensponsif gender.
 
 #### Pasal 3
 
-Pengaturan mengenai Pemberdayaan dan Perlindungan Perempuan dan Anak bertujuan untuk:
+Pengaturan mengenai Pemberdayaan dan Perlindungan Perempuan dan Anak bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak setiap perempuan dan anak atas kelangsungan hidup, tumbuh dan berkembang;  
 b. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
 c. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender dan anak; dand. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Pemberdayaan dan Perlindungan Perempuan dan Anak meliputi:
+Ruang lingkup pengaturan Pemberdayaan dan Perlindungan Perempuan dan Anak meliputi:  
 a. pemenuhan hak perempuan;  
 b. pemberdayaan perempuan;  
 c. perlindungan perempuan;  
@@ -166,7 +168,7 @@ c. politik; dand. hukum.
 
 #### Pasal 9
 
-Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a dilaksanakan melalui:
+Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomiproduktif;  
@@ -174,7 +176,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 10
 
-Pemberdayaan perempuan dibidang sosial budaya sebagaimana dimaksud dalam Pasal 8 huruf b dilaksanakan melalui:
+Pemberdayaan perempuan dibidang sosial budaya sebagaimana dimaksud dalam Pasal 8 huruf b dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
@@ -213,7 +215,7 @@ Umum
 
 #### Pasal 14
 
-Setiap Anak mempunyai hak dasar yang meliputi:
+Setiap Anak mempunyai hak dasar yang meliputi:  
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
@@ -225,7 +227,7 @@ Hak Sipil dan Kebebasan
 
 #### Pasal 15
 
-Setiap Anak berhak mendapatkan Hak Sipil dan Kebebasan sebagaimana dimaksud dalam Pasal 14 huruf a dalam bentuk:
+Setiap Anak berhak mendapatkan Hak Sipil dan Kebebasan sebagaimana dimaksud dalam Pasal 14 huruf a dalam bentuk:  
 a. akte kelahiran;  
 b. kartu identitas anak.  c. menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasannya;  
 d. mendapatkan informasi yang sehat dan aman;  
@@ -234,7 +236,7 @@ f. penjagaan nama baik dan tidak dieksploitasi ke publik tanpa seizin anak terse
 
 #### Pasal 16
 
-Dalam memenuhi Hak Sipil dan Kebebasan Anak, Keluarga:
+Dalam memenuhi Hak Sipil dan Kebebasan Anak, Keluarga:  
 a. mengurus akte kelahiran anak setelah anak dilahirkan;  
 b. mengupayakan kartu identitas anak;  
 c. memberikan ruang untuk berkumpul dan berorganisasi serta mendengarkan anak untuk mengeluarkan pendapatnya;  
@@ -242,7 +244,7 @@ d. mengawasi anak dalam mengakses berbagai informasi serta menyediakan informasi
 
 #### Pasal 17
 
-Pemerintah menyediakan fasilitas untuk pemenuhan Hak Sipil dan Kebebasan Anak, dengan:
+Pemerintah menyediakan fasilitas untuk pemenuhan Hak Sipil dan Kebebasan Anak, dengan:  
 a. menyelenggarakan pelayanan yang cepat dan mudah dalam pembuatan akte kelahiran;  
 b. melibatkan anak melalui forum anak di tingkat desa/kelurahan, kecamatan dan kota dalam musyawarah rencana pembangunan atau forum-forum lainnya yang sejenis;  
 c. menyediakan call center anak sebagai sarana komunikasi interaktif atau pengaduan yang berkaitan dengan kepentingan anak;  
@@ -255,7 +257,7 @@ Hak dalam Lingkungan Keluarga dan Pengasuhan Alternatif
 
 #### Pasal 18
 
-Setiap Anak berhak mendapatkan hak dalam lingkungan keluarga dan pengasuhan alternatif sebagaimana dimaksud dalam Pasal 14 huruf b dalam bentuk:
+Setiap Anak berhak mendapatkan hak dalam lingkungan keluarga dan pengasuhan alternatif sebagaimana dimaksud dalam Pasal 14 huruf b dalam bentuk:  
 a. mendapatkan prioritas untuk dibesarkan oleh orangtuanya sendiri;  
 b. tidak dipisahkan dari orangtuanya, kecuali pemisahan tersebut untuk kepentingan anak;  
 c. mendapatkan pola asuh yang baik, santun dan penuh kasih sayang;  
@@ -265,7 +267,7 @@ f. mendapatkan pengasuhan alternatif dalam hal kedua orangtuanya meninggal atau 
 
 #### Pasal 19
 
-Dalam memenuhi hak dalam lingkungan keluarga dan pengasuhan alternatif, Keluarga:
+Dalam memenuhi hak dalam lingkungan keluarga dan pengasuhan alternatif, Keluarga:  
 a. memberikan pola asuh, kasih sayang, perhatian, perlindungan, fasilitas, menjaga keharmonisan keluarga, dengan selalu mempertimbangkan yang terbaik bagi anak, sesuai kondisi dan kemampuan orang tua;  
 b. mencegah terjadinya pernikahan pada usia anak serta menjaga anak untuk tidak terjebak dalam pergaulan bebas, budaya permisivisme, danterhindar dari NAPZA, HIV dan AIDS serta terlindung dari pornografi;  
 c. memberikan pendidikan keagamaan dan menanamkan nilai luhur sejak dini kepada anak;  
@@ -311,7 +313,7 @@ g. mengupayakan jaminan sosial; danh. mencegah anak dari NAPZA, HIV dan AIDS.
 
 #### Pasal 23
 
-Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak kesehatan  dasar dan kesejahteraan, dengan:
+Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak kesehatan  dasar dan kesejahteraan, dengan:  
 a. penyediaan puskesmas ramah anak;  
 b. penyediaan ruang menyusui di Kantor Pemerintah maupun swasta;  
 c. penyelenggaraan dan fasilitasi sarana dan prasana Posyandu disetiap banjar dinas/lingkungan;  
@@ -325,7 +327,7 @@ Hak Pendidikan, Pemanfaatan Waktu Luang dan Kegiatan Budaya
 
 #### Pasal 24
 
-Setiap Anak berhak mendapatkan hak atas pendidikan, pemanfaatan waktu  luang dan kegiatan budaya, sebagaimana dimaksud dalam Pasal 14 huruf d, dalam bentuk:
+Setiap Anak berhak mendapatkan hak atas pendidikan, pemanfaatan waktu  luang dan kegiatan budaya, sebagaimana dimaksud dalam Pasal 14 huruf d, dalam bentuk:  
 a. berpartisipasi pada pendidikan anak usia dini;  
 b. mendapatkan kesempatan yang seluas-luasnya untuk memperolehpendidikan;  
 c. hak mengembangkan bakat, minat dan kemampuan kreativitas;  
@@ -333,7 +335,7 @@ d. berekreasi; dane. memiliki waktu luang untuk beristirahat dan melakukan berba
 
 #### Pasal 25
 
-Dalam memenuhi hak pendidikan, pemanfaatan waktu luang dan kegiatan budaya, keluarga:
+Dalam memenuhi hak pendidikan, pemanfaatan waktu luang dan kegiatan budaya, keluarga:  
 a. menjamin kelangsungan pendidikan anak sejak usia dini;  
 b. memberikan kesempatan yang seluas-luasnya kepada anak untuk memperoleh pendidikan dan membangun komunikasi terkait kegiatan belajar mengajar di sekolah dengan pihak sekolah;  
 c. mengarahkan dan memberikan kesempatan anak untuk mengembangkan minat, bakat dan kreativitas;  
@@ -341,7 +343,7 @@ d. memberikan waktu luang untuk beristirahat dan melakukan berbagai kegiatan sen
 
 #### Pasal 26
 
-Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak Pendidikan, Pemanfaatan Waktu Luang dan Kegiatan Budaya, dengan:
+Pemerintah Daerah menyediakan fasilitas untuk memenuhi hak Pendidikan, Pemanfaatan Waktu Luang dan Kegiatan Budaya, dengan:  
 a. memberikan kesempatan yang seluas-luasnya kepada anak untuk memperoleh  pendidikan dengan menjamin terselenggaranya program wajib belajar 12 (dua belas) tahun untuk semua anak tanpa dipungut biaya;  
 b. memberikan kesempatan dan aksebilitas bagi anak penyandang disabilitas untuk memperoleh pendidikan;  
 c. menyelenggarakan pendidikan inklusi bagi anak penyandang disabilitas;  
@@ -384,7 +386,7 @@ Setiap keluarga menjalankan fungsi dan tanggungjawabnya dalam hal pemenuhan hak 
 
 #### Pasal 29
 
-Pemerintah Daerah mengupayakan pemenuhan Hak Perlindungan Khusus terhadap anak dengan:
+Pemerintah Daerah mengupayakan pemenuhan Hak Perlindungan Khusus terhadap anak dengan:  
 a. menyusun program untuk mencegah agar anak tidak terlibat dalam situasi dan kondisi sebagaimana dimaksud dalam Pasal 27 ayat (3);  
 b. memberikan akses layanan publik dan jaminan sosial bagi anak penyandang disabilitas; danc. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam,  Rumah Singgah,panti rehabilitasi dan panti asuhan.  
 
@@ -529,7 +531,7 @@ Untuk menjamin pemenuhan hak perempuan dan anak pemerintah  daerah berkewajiban 
 
 Penyelenggaraan pemberdayaan dan perlindungan perempuan dan  anak merupakan upaya mewujudkan perempuan yang berkemampuan serta  upaya melindungi perempuan dan anak dari segala tindakan kekerasan guna  mencapai tujuan kesejahteraan. Pemberdayaan dan perlindungan  perempuan dan anak yang terlaksana selama ini belum optimal dan  komprehensif dalam menjangkau permasalahan-permasalahan yang  dihadapi perempuan dan anak. Disamping itu, kepedulian masyarakat  terhadap upaya pemberdayaan dan perlindungan perempuan dan anak  masih sangat kurang. Untuk mencapai tujuan tersebut serta melaksanakan  kewenangan pemerintah daerah yang telah dijabarkan di dalam Undang Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah pada sub urusan pemberdayaan dan perlindungan perempuan dan anak, maka  diperlukan suatu regulasi yang dapat menjadi payung hukum bagi  pemerintah daerah dalam penyelenggaraan urusan pemerintahan bidang  pemberdayaan perempuan dan perlindungan anak di daerah.  
 
-Dalam menyusun kebijakan terkait dengan pemberdayaan  perempuan dan perlindungan anak ini, perlu diperhatikan asas  pembentukan peraturan perundang-undangan yang baik sebagaimana telah  diatur didalam Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan meliputi:
+Dalam menyusun kebijakan terkait dengan pemberdayaan  perempuan dan perlindungan anak ini, perlu diperhatikan asas  pembentukan peraturan perundang-undangan yang baik sebagaimana telah  diatur didalam Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan meliputi:  
 r. kejelasan tujuan;  
 s. kelembagaan atau pejabat pembentuk yang tepat;  
 t. kesesuaian antara jenis, hierarki, dan materi muatan;  
@@ -537,7 +539,7 @@ u. dapat dilaksanakan;
 v. kedayagunaan dan kehasilgunaan;  
 w. kejelasan rumusan; danx. keterbukaan.  
 
-Disamping asas pembentukan peraturan perundangundangan, perlu  juga memperhatikan asas materi muatan yang meliputi:
+Disamping asas pembentukan peraturan perundangundangan, perlu  juga memperhatikan asas materi muatan yang meliputi:  
 a. pengayoman;  
 b. kemanusiaan;  
 c. kebangsaan;  
@@ -548,7 +550,7 @@ g. keadilan;
 h. kesamaan kedudukan dalam hukum dan pemerintahan;  
 i. ketertiban dan kepastian hokum; dan/atauj. keseimbangan, keserasian, dan keselarasan.  
 
-Penyelenggaraan urusan pemerintahan bidang Pemberdayaan  Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya  Perlindungan hak perempuan, pemenuhan hak anak dan Perlindungan  Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia  usaha, media serta masyarakat dalam upaya Pemberdayaan Perempuan dan  Perlindungan Anak. Adapun materi pokok yang terkandung didalam batang  tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak meliputi:
+Penyelenggaraan urusan pemerintahan bidang Pemberdayaan  Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya  Perlindungan hak perempuan, pemenuhan hak anak dan Perlindungan  Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia  usaha, media serta masyarakat dalam upaya Pemberdayaan Perempuan dan  Perlindungan Anak. Adapun materi pokok yang terkandung didalam batang  tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak meliputi:  
 a. pemenuhan hak perempuan;  
 b. pemberdayaan perempuan;  
 c. perlindungan perempuan;  

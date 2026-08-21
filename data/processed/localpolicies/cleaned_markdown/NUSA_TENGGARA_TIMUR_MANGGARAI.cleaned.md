@@ -12,7 +12,8 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA E
 
 # BUPATI MANGGARAI,
 
-Menimbang Mengingat:
+Menimbang Mengingat:  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan atas pemenuhan Hak Asasi Manusia dan  segala bentuk tindak kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia sehingga  perlu dilindungi harga diri dan martabatnya serta dijamin  hak-haknya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Manggarai terus meningkat dan berdampak  pada terganggunya kehidupan sosial masyarakat, maka perlu mengatur penyelenggaraan perlindungannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
@@ -109,7 +110,7 @@ f. eksploitasi; dang. perdagangan perempuan dan anak.
 
 #### Pasal 5
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. perlindungan dan pendampingan;  
 b. bantuan hukum;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
@@ -206,7 +207,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 12
 
-Pendanaan penyelenggaraan perlindungan terhadap perempuan dan anak  bersumber dari:
+Pendanaan penyelenggaraan perlindungan terhadap perempuan dan anak  bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; dan/ataub. sumber pembiayaan lainnya yang sah dan tidak mengikat.  
 
 # BAB X

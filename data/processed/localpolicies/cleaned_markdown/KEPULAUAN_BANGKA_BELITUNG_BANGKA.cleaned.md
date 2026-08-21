@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara  optimal untuk berperan serta dalam pembangunan sesuai  dengan kodrat dan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penyiapan generasi yang  berkualitas, perlu mendapat jaminan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi  dalam rangka membangun masyarakat, bangsa dan  negara;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, mengamanatkan pemberdayaan  perempuan merupakan urusan wajib yang diselenggarakan oleh Pemerintah Daerah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -89,7 +91,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. Hak perempuan;  
 b. kewajiban dan tanggungjawab Pemerintah Daerah Kabupaten;  
 c. pemberdayaan perempuan;  
@@ -108,7 +110,7 @@ c. non diskriminasi; dand. kepentingan terbaik perempuan.
 
 #### Pasal 4
 
-Tujuan Peraturan Daerah ini adalah:
+Tujuan Peraturan Daerah ini adalah:  
 a. memberdayakan perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar mampu hidup lebih mandiri; dan b. mencegah dan menangani resiko kekerasan dan kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan dan  keadilan.  
 
 # BAB II
@@ -155,7 +157,7 @@ c. politik; dand. hukum.
 
 #### Pasal 8
 
-Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 7 huruf a dilaksanakan melalui:
+Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 7 huruf a dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -163,7 +165,7 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 9
 
-Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud  dalam Pasal 7 huruf b dilaksanakan melalui:
+Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud  dalam Pasal 7 huruf b dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi;  
 c. permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan  rehabilitative yang berkualitas utamanya dibidang kesehatan reproduksi;  
@@ -204,7 +206,7 @@ Umum
 
 #### Pasal 13
 
-Pelaksanaan perlindungan perempuan diberikan kepada:
+Pelaksanaan perlindungan perempuan diberikan kepada:  
 a. perempuan pekerja/buruh;  
 b. perempuan lanjut usia;  
 c. perempuan penyandang disabilitas;  
@@ -339,7 +341,7 @@ c. rehabilitasi dan reintegrasi sosial; dand. relayanan trauma dan kesehatan.
 
 #### Pasal 25
 
-Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan  dilakukan melalui tahapan:
+Mekanisme penyelenggaraan pemberdayaan dan perlindungan perempuan  dilakukan melalui tahapan:  
 a. perumusan kebijakan perencanaan program dan kegiatan;  
 b. penganggaran program dan kegiatan;  
 c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi dan pelaporan.  

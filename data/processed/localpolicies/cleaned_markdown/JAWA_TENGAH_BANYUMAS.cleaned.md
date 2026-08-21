@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan, terutama kekerasan berbasis gender dan anak merapakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan;  
 b. bahwa korban kekerasan berbasis gender dan anak di Daerah terus mengalami peningkatan;  
 c. bahwa korban kekerasan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -84,7 +85,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Asas Penyelenggaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak adalah:
+Asas Penyelenggaraan Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan Anak adalah:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi korban;  
 c. keadilan dan kesetaraan gender;  
@@ -101,7 +102,7 @@ m. pengambilan keputusan di tangan korban.
 
 #### Pasal 3
 
-Tujuan Perlindungan Korban adalah untuk:
+Tujuan Perlindungan Korban adalah untuk:  
 a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;Tb. memberikan perlindungan berupa layanan pengaduan, layanan kesehatan, layanan rehabilitasi sosial, layanan bantuan dan penegakan hukum, serta layanan pemulangan dan reintegrasi sosial;  
 c. mengupayakan peningkatan partisipasi masyarakat.  
 
@@ -115,7 +116,7 @@ Ruang lingkup perlindungan terhadap Korban meliputi upaya pencegahan, pelayanan 
 
 #### Pasal 5
 
-Bentuk-bentuk kekerasan yaitu:
+Bentuk-bentuk kekerasan yaitu:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -132,27 +133,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5 huruf b disebabkan karena pe
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;Tc. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan/atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumahtangganya; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di luar rumah sehingga korban berada di bawah kendali orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan keuntungan baik materiil maupun immateriil;  
 c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korban untuk rnendapatkan keuntungan, termasuk tetapi tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
 #### Pasal 11
 
-Kekerasan lainnya sebagaimana dimaksud dalarn Pasal 5 huruf f disebabkan karena:
+Kekerasan lainnya sebagaimana dimaksud dalarn Pasal 5 huruf f disebabkan karena:  
 a. ancaman kekerasan meliputi setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dirnana seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 # BAB IV
@@ -226,7 +227,7 @@ k. unsur Perguruan Tinggi.
 
 #### Pasal 16
 
-PPT PKBGA sebagaimana dimaksud dalam Pasal 14 huruf a mempunyai tugas:
+PPT PKBGA sebagaimana dimaksud dalam Pasal 14 huruf a mempunyai tugas:  
 a. mengupayakan pencegahan;  
 b. memberikan pelayanan pengaduan;  
 c. memberikan pelayanan kesehatan;  
@@ -243,7 +244,7 @@ Upaya Pencegahan
 
 #### Pasal 17
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 16 huruf a meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 16 huruf a meliputi:  
 a. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan berbasis gender dan anak;  
 b. menyosialisasikan peraturanperundang-undangan yang berkaitan dengan kekerasan berbasis gender dan anak.  
 
@@ -253,7 +254,7 @@ Pelayanan Pengaduan
 
 #### Pasal 18
 
-Pelayanan Pengaduan sebagaimana dimaksud dalam Pasal 16, huruf b meliputi:
+Pelayanan Pengaduan sebagaimana dimaksud dalam Pasal 16, huruf b meliputi:  
 a. pelayanan pengaduan langsung;  
 b. pelayanan pengaduan melalui telepon;  
 c. pelayanan pengaduan melalui surat;  
@@ -266,7 +267,7 @@ Pelayanan Kesehatan
 
 #### Pasal 19
 
-Pelayanan Kesehatan sebagaimana dimaksud dalam Pasal 16, huruf c meliputi:
+Pelayanan Kesehatan sebagaimana dimaksud dalam Pasal 16, huruf c meliputi:  
 a. pelayanan medis;  
 b. pelayanan medis psikiatrik;  
 c. pelayanan medicolegal, meliputi: visum et repertum (VER), visum et psikiatrum dan identifikasi DNA.  
@@ -277,7 +278,7 @@ Pelayanan Rehabilitasi Sosial
 
 #### Pasal 20
 
-Pelayanan Rehabilitasi Sosial sebagaimana dimaksud dalam Pasal 16, huruf d meliputi:
+Pelayanan Rehabilitasi Sosial sebagaimana dimaksud dalam Pasal 16, huruf d meliputi:  
 a. pelayanan konseling awal;  
 b. pelayanan konseling lanjutan;  
 c. penyediaan rumah aman;  
@@ -289,7 +290,7 @@ Pelayanan Bantuan dan Penegakan Hukum
 
 #### Pasal 21
 
-Pelayanan Bantuan dan Penegakan Hukum sebagaimana dimaksud dalam Pasal 16, huruf e meliputi:
+Pelayanan Bantuan dan Penegakan Hukum sebagaimana dimaksud dalam Pasal 16, huruf e meliputi:  
 a. pelayanan bantuan hukum meliputi bantuan pendampingan hukum litigasi dan bantuan pendampingan hukum non litigasi;  
 b. pelayanan penegakan hukum meliputi penegakan hukum di tingkat Kepolisian, penegakan hukum di tingkat Kejaksaan dan penegakan hukum di tingkat Pengadilan;  
 c. pelayanan penegakan hukum di tingkat kepolisian sebagaimana dimaksud pada huruf b meliputi penegakan hukum pada proses Penyelidikan dan/atau peyidikan;  
@@ -314,7 +315,7 @@ Koordinasi dan Kerjasama
 
 #### Pasal 23
 
-Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 16, huruf g meliputi:
+Koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 16, huruf g meliputi:  
 a. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan lembaga pelayanan pengaduan tingkat kecamatan;  
 b. melakukan koordinasi dan kerjasama dengan pusat pelayanan terpadu anta^abupaten/kota;  
 c. melakukan koordinasi dan kerjasama dengan lembaga-lembaga penyedia layanan bagi korban kekerasan berbasis gender dan anak;  
@@ -326,7 +327,7 @@ Upaya Peningkatan Partisipasi Masyarakat
 
 #### Pasal 24
 
-Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 16, huruf h dilakukan dengan cara:
+Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 16, huruf h dilakukan dengan cara:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus-kasus kekerasan berbasis gender dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan informasi dan melaporkan adanya kekerasan berbasis gender dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender dan anak;  
@@ -373,7 +374,7 @@ d. member! rujukan penanganan kasus kekerasan berbasis gender dan anak kepada PP
 
 #### Pasal 30
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 29, LPPTK berkewajiban:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 29, LPPTK berkewajiban:  
 a. berkoordinasi dan berkonsultasi dengan PPT PKBGA;  
 b. mendokumentasikan dan melaporkan setiap kasus kekerasan berbasis gender dan anak yang ditanganinya kepada PPT PKBGA.  
 

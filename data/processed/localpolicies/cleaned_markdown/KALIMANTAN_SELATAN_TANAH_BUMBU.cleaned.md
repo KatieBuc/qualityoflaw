@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa Perempuan dan Anak berhak mendapatkan perlindungan dari penyiksaan, ancaman, tekanan, serta berhak mendapatkan perlakuan dan kesempatan yang sama untuk mendapatkan keadilan dan kesejahteraan hidup sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa Pemberdayaan Perempuan dan melindungi hak-hak Anak menjadi kewajiban Pemerintah Daerah dan Masyarakat di Daerah;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b dan huruf H Pembagian Urusan Pemerintahan Bidang Pemberdayaan Perempuan dan Perlindungan Anak Lampiran Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, Pemerintah Daerah berwenang menyelenggarakan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,7 @@ Pemberdayaan
 
 #### Pasal 2
 
-Perempuan dan Perlindungan Anak diselenggarakan berdasarkan asas:
+Perempuan dan Perlindungan Anak diselenggarakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. kesetaraan gender;  
 c. non diskriminasi;  
@@ -128,7 +130,7 @@ Maksud ditetapkan Peraturan Daerah ini sebagai pedoman dalam penyelenggaraan Pem
 
 #### Pasal 4
 
-dan Perlindungan Pengaturan mengenai Pemberdayaan Perempuan dan Anak bertujuan untuk:
+dan Perlindungan Pengaturan mengenai Pemberdayaan Perempuan dan Anak bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak setiap Perempuan dan Anak atas kelangsungan hidup, tumbuh dan berkembang;  
 b. meningkatkan kualitas hidup Perempuan, Anak dan kualitas keluarga;  
 c. meningkatkan kapasitas kelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah, termasuk pengembangan sistem data gender dan Anak; dand. memberikan perlindungan hak Perempuan dan pemenuhan Hak Anak termasuk Perlindungan Khusus bagi Anak dari berbagai bentuk Kekerasan dan perlakuan diskriminatif lainnya.  
@@ -146,7 +148,7 @@ Pemberdayaan Perempuan Perlindungan Anak yang diatur dalam Peraturan Daerah ini 
 
 #### Pasal 6
 
-Ruang lingkup pengaturan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak meliputi:
+Ruang lingkup pengaturan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak meliputi:  
 a. Pemberdayaan Perempuan;  
 b. Perlindungan Perempuan;  
 c. Perlindungan Anak;  
@@ -177,7 +179,7 @@ b. komisi nasional Perempuan.
 
 #### Pasal 8
 
-Pemerintah Daerah berwenang:
+Pemerintah Daerah berwenang:  
 a. melakukan pelembagaan Pengarusutamaan Gender;  
 b. melakukan Pemberdayaan Pemberdayaan Perempuan Perempuan bidang politik, hukum, sosial dan ekonomi pada organisasi kemasyarakatan; danc. melakukan penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan.  
 
@@ -211,7 +213,7 @@ h. melakukan kerja sama dengan pemerintah, Pemerintah Daerah, Pemerintah Daerah 
 
 #### Pasal 12
 
-Pemerintah Daerah memberikan Perlindungan Perempuan dalam bentuk:
+Pemerintah Daerah memberikan Perlindungan Perempuan dalam bentuk:  
 a. pencegahan Kekerasan terhadap Perempuan;  
 b. penyediaan layanan bagi Perempuan korban Kekerasan yang memerlukan koordinasi tingkat Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan Perlindungan Perempuan.  
 
@@ -228,13 +230,13 @@ e. hukum; danf. ekonomi budaya dan sosial.
 
 #### Pasal 14
 
-Hak Perempuan bidang pendidikan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf a antara lain:
+Hak Perempuan bidang pendidikan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf a antara lain:  
 a. membuat kebijakan untuk mempermudah akses Perempuan dan mencabut kebijakan yang bersifat diskriminatif yang menghambat pemenuhan hak Perempuan atas pendidikan;  
 b. mendapatkan kesempatan yang sama dengan laki-laki untuk memperoleh pendidikan dan pengajaran di semua jenis dan jenjang jalur pendidikan.  
 
 #### Pasal 15
 
-Hak Perempuan bidang kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf b antara lain:
+Hak Perempuan bidang kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf b antara lain:  
 a. mendapatkan edukasi mengenai kesehatan reproduksi;  
 b. mendapatkan pelayanan kesehatan;  
 c. mendapatkan pelayanan keluarga berencana;  
@@ -242,25 +244,25 @@ d. mendapatkan pelayanan untuk ibu hamil; dane. pelayanan persalinan dan pasca p
 
 #### Pasal 16
 
-Hak Perempuan bidang ketenagakerjaan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c antara lain:
+Hak Perempuan bidang ketenagakerjaan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c antara lain:  
 a. adanya pemberdayaan wirausaha Perempuan;  
 b. mendapatkan pekerjaan yang layak; danc. mendapatkan perlindungan dari tindak pidana perdagangan orang.  
 
 #### Pasal 17
 
-Hak Perempuan bidang politik sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf d antara lain:
+Hak Perempuan bidang politik sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf d antara lain:  
 a. memfasilitasi peningkatan partisipasi politik Perempuan di lembaga legislatif;  
 b. memberikan sarana dan prasarana bagi organisasi Perempuan yang visi misinya memperjuangkan pemenuhan hak dan perlindungan terhadap Perempuan;  
 c. melaksanakan sosialisasi dalam rangka meningkatkan kesadaran atas hak Perempuan di bidang politik; dand. mendorong pembentukan organisasi forum Perempuan.  
 
 #### Pasal 18
 
-Hak Perempuan bidang hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e antara lain:
+Hak Perempuan bidang hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e antara lain:  
 a. memfasilitasi peningkatan pengetahuan dan kesadaran hukum bagi Perempuan; danb. mendorong pembentukan organisasi yang memberikan layanan hukum secara gratis bagi Perempuan.  
 
 #### Pasal 19
 
-Hak Perempuan bidang ekonomi budaya dan sosial sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf f antara lain:
+Hak Perempuan bidang ekonomi budaya dan sosial sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf f antara lain:  
 a. memfasilitasi Perempuan dalam peningkatan ekonomi keluarga;  
 b. mendorong aktivitas Perempuan sebagai agen perubahan;  
 c. memfasilitasi Perempuan dalam peningkatan aktivitas sosial;  
@@ -369,13 +371,13 @@ c. bimbingan mental dan spiritual; dand. pendampingan.
 
 #### Pasal 29
 
-Layanan bantuan pendampingan hukum/saksi ahli sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d angka 3 meliputi:
+Layanan bantuan pendampingan hukum/saksi ahli sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d angka 3 meliputi:  
 a. memastikan Anak didampingi oleh pendamping hukum; dan b. memfasilitasi pendampingan kepada Anak korban kekerasan, baik pada proses pemeriksaan di sidang pengadilan maupun di luar sidang pengadilan.  
 1. Reintegrasi sosial
 
 #### Pasal 30
 
-berupa dukungan layanan pasca rehabilitasi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf e meliputi:
+berupa dukungan layanan pasca rehabilitasi sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf e meliputi:  
 a. penelusuran anggota keluarga;  
 b. mempertemukan Anak korban dan anggota keluarga/keluarga pengganti dan/atau Masyarakat;  
 c. fasilitasi pemberian bantuan bagi keluarga psikososial;  
@@ -393,7 +395,7 @@ Perlindungan Anak Dalam Kandungan
 
 #### Pasal 32
 
-Perlindungan Anak dalam kandungan sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf a dilakukan melalui:
+Perlindungan Anak dalam kandungan sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf a dilakukan melalui:  
 a. penyediaan sarana dan fasilitas pemeriksaan Anak dalam kandungan;  
 b. penyediaan makan bergizi dan imunisasi bagi ibu hamil;  
 c. pemberian pelayanan pencegahan aborsi;  
@@ -408,7 +410,7 @@ Perlindungan Anak Balita
 
 1. Perlindungan Anak Balita sebagaimana dimaksud dalam
 
-#### Pasal 22 ayat (1) huruf b dilakukan melalui:
+#### Pasal 22 ayat (1) huruf b dilakukan melalui:  
 a. pemberian ASI yang sempurna;  
 b. pemberian makan bergizi dan imunisasi dasar yang lengkap;  
 c. pemberian pelayanan program tumbuh kembang Anak dan pola asuh Anak;  
@@ -453,7 +455,7 @@ Perlindungan Anak Yang Membutuhkan Perlindungan Khusus
 
 #### Pasal 36
 
-Anak yang membutuhkan Perlindungan Khusus sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf e terdiri atas:
+Anak yang membutuhkan Perlindungan Khusus sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf e terdiri atas:  
 a. Anak dalam situasi darurat dan Daerah konflik;  
 b. Anak yang berhadapan dengan hukum;  
 c. Anak dari komunitas adat terpencil;  
@@ -469,7 +471,7 @@ Anak Dalam Situasi Darurat dan Daerah Konflik
 
 #### Pasal 37
 
-Perlindungan Khusus bagi Anak dalam situasi darurat dan Daerah konflik sebagaimana dimaksud dalam Pasal 36 huruf a berupa pemenuhan kebutuhan dasar yang terdiri atas:
+Perlindungan Khusus bagi Anak dalam situasi darurat dan Daerah konflik sebagaimana dimaksud dalam Pasal 36 huruf a berupa pemenuhan kebutuhan dasar yang terdiri atas:  
 a. pelayanan sosial dasar;  
 b. pendidikan;  
 c. bimbingan agama;  
@@ -722,7 +724,7 @@ Pada saat Peraturan Daerah ini mulai berlaku, kebijakan Daerah mengenai Pemberda
 
 #### Pasal 58
 
-Pada saat ketentuan Pasal 624 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842) berlaku, maka:
+Pada saat ketentuan Pasal 624 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842) berlaku, maka:  
 a. pidana kurungan sebagaimana dimaksud dalam Pasal 56 ayat (1) diganti dengan pidana denda paling banyak kategori I; danb. pidana denda kategori I sebagaimana dimaksud pada huruf a sebesar Rp1.000.000,00 (satu juta rupiah).  
 
 # BAB XVIII
@@ -774,7 +776,7 @@ Penyusunan peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak
 
 Pembentukan peraturan Daerah ini berdasarkan asas pembentukan peraturan perundang-undangan yang baik dan asas materi muatan peraturan perundang-undangan.  
 
-Penyelenggaraan urusan pemerintahan pemerintahan bidang Pemberdayaan Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya Perlindungan hak Perempuan, pemenuhan Hak Anak dan Perlindungan Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia usaha, media serta Masyarakat dalam upaya Pemberdayaan Perempuan dan Perlindungan Anak. Adapun materi pokok yang terkandung di dalam batang tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan Perlindungan Perempuan dan Anak meliputi:
+Penyelenggaraan urusan pemerintahan pemerintahan bidang Pemberdayaan Perempuan dan Perlindungan Anak bertujuan meningkatkan upaya Perlindungan hak Perempuan, pemenuhan Hak Anak dan Perlindungan Khusus Anak dan meningkatkan peran Pemerintah Daerah dan dunia usaha, media serta Masyarakat dalam upaya Pemberdayaan Perempuan dan Perlindungan Anak. Adapun materi pokok yang terkandung di dalam batang tubuh Peraturan Daerah tentang Penyelenggaraan Pemberdayaan dan Perlindungan Perempuan dan Anak meliputi:  
 a. Pemberdayaan Perempuan;  
 b. Perlindungan Perempuan;  
 c. Perlindungan Anak;  

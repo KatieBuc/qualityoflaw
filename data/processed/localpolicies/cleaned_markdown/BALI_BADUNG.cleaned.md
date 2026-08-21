@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman dan  bebas dari segala bentuk Kekerasan;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang  cenderung mengalami Kekerasan yang merupakan tindakan yang melanggar hak asasi manusia perlu mendapat Perlindungan hukum;  
 c. bahwa penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan di Kabupaten Badung perlu didukung kelembagaan dan peraturan sehingga dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -89,7 +91,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan  berdasarkan asas:
+Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan  berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak Korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -97,7 +99,7 @@ d. kepentingan terbaik bagi Korban; dane. kepastian hukum.
 
 #### Pasal 3
 
-Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:
+Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
 a. mencegah segala bentuk Kekerasan terhadap Perempuan dan  Anak;  
 b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Kekerasan; danc. pemberdayaan Perempuan dan Anak Korban Kekerasan.  
 
@@ -171,7 +173,7 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PP
 
 #### Pasal 9
 
-SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:
+SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:  
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap  Perempuan dan Anak;  
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan;  
@@ -179,7 +181,7 @@ d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban Kekerasan; dane. p
 
 #### Pasal 10
 
-SPM sebagaimana dimaksud dalam Pasal 9 memiliki indikator kinerja  meliputi:
+SPM sebagaimana dimaksud dalam Pasal 9 memiliki indikator kinerja  meliputi:  
 a. cakupan Perempuan dan Anak Korban Kekerasan yang  mendapatkan penanganan pengaduan oleh petugas terlatih di  dalam unit pelayanan terpadu;  
 b. cakupan Perempuan dan Anak Korban Kekerasan yang  mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih  di Puskesmas dan di Rumah Sakit;  
 c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi Sosial terlatih bagi Perempuan dan Anak Korban Kekerasan di dalam unit pelayanan terpadu;  
@@ -220,7 +222,7 @@ g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; danh. ca
 
 #### Pasal 14
 
-Pendanaan untuk penyelenggaraan Perlindungan terhadap  Perempuan dan Anak dari tindak Kekerasan, bersumber dari:
+Pendanaan untuk penyelenggaraan Perlindungan terhadap  Perempuan dan Anak dari tindak Kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 # BAB X

@@ -107,7 +107,7 @@ PasaI 1 DaIam Peraturan Daerah ini, yang dimaksud dengan:
 
 ## ASASDANTUJUAN
 
-Pasal2 Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:
+Pasal2 Perlindungan perempuan dan anak dari tindak kekerasan diselenggarakan berdasarkan asas:  
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -124,7 +124,7 @@ e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang terjadi di 
 
 ## BABIII
 
-BENTUK-BENTUKEKERASANTERHADAPPEREMPUANDANANAK Pasal4 Bentuk kekerasan terhadap perempuan dan anak, antara lain:
+BENTUK-BENTUKEKERASANTERHADAPPEREMPUANDANANAK Pasal4 Bentuk kekerasan terhadap perempuan dan anak, antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -160,7 +160,7 @@ PasallO (1) Kekerasan lainnya sebagaimana dimaksud dalam pasal 4 huruf f merupak
 
 ## HAK-HAKKORBAN
 
-Pasalll Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:
+Pasalll Perempuan dan anak korban tindak kekerasan mendapatkan hak sebagai berikut:  
 a. Hak 9a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak pemulihan;  
 c. hak menentukan sendiri keputusannya;  
@@ -179,7 +179,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 ## KEWAJIBANDANTANGGUNGJAWAB
 
-Pasal13 Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan terhadap perempuan, dan anak merupakan tanggung jawab bersama:
+Pasal13 Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan terhadap perempuan, dan anak merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
 c. Masyarakat;  
@@ -187,7 +187,7 @@ d. Keluarga dan/ atau Orang Tua.
 
 ## Bagian Kesatu
 
-Kewajiban dan Tanggung Jawab Pemerintah Daerah Pasal14 (1) Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 13 huruf a, meliputi:
+Kewajiban dan Tanggung Jawab Pemerintah Daerah Pasal14 (1) Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud dalam Pasal 13 huruf a, meliputi:  
 a. menetapkan kebijakan perlindungan, pemberdayaan perempuan dan anak;  
 b. melaksanakan kebijakan, perlindungan, serta pemberdayaan perempuan dan anak dari tindak kekerasan sesuai dengan ketentuan peraturan perundang- undangan;  
 
@@ -229,7 +229,7 @@ d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindun
 e. membangun dan menyediakan sistem informasi yang mudah diakses;  
 f. membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan anak.  
 
-Pasal18 (1) Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak sebagaimana dimaksud dalam Pasal 17 dilaksanakan oleh Perangkat Daerah yang tugas dan fungsinya di bidang:
+Pasal18 (1) Pencegahan terjadinya tindak kekerasan terhadap perempuan dan anak sebagaimana dimaksud dalam Pasal 17 dilaksanakan oleh Perangkat Daerah yang tugas dan fungsinya di bidang:  
 a. sosial;  
 b. kesehatan;  
 c. pendidikan;  
@@ -259,7 +259,7 @@ e. Forum Anak Remaja Majalengkaif. Perlindungan Anak Terpadu Berbasis Masyarakat
 
 ## Bagian Kedua
 
-Bentuk dan Mekanisme Pelayanan Pasal21 Bentuk pelayanan terhadap korban yang diselenggarakan oleh UPTD PPA meliputi:
+Bentuk dan Mekanisme Pelayanan Pasal21 Bentuk pelayanan terhadap korban yang diselenggarakan oleh UPTD PPA meliputi:  
 a. pelayanan medis;  
 b. pelayanan medicolegal (visum);  
 c. pelayanan psikososial;  
@@ -280,7 +280,7 @@ Prinsip Pelayanan Pasal23 Penyelenggaraan pelayanan terhadap korban dilakukan de
 
 ## Bagian Kesatu
 
-Kerja sarna Pasal24 (1) Dalarn rangka mencapai tujuan perlindungan perempuan dan anak, maka dapat dilakukan keIja sarna dengan:
+Kerja sarna Pasal24 (1) Dalarn rangka mencapai tujuan perlindungan perempuan dan anak, maka dapat dilakukan keIja sarna dengan:  
 a. Pemerintah Pusat;  
 b. Pemerintah Provinsi;  
 c. Pemerintah KabupatenjKota lain;  
@@ -329,7 +329,7 @@ Pasal27 (1) Dalam rangka implementasi Konvensi Hak Anak dan berbagai peraturan p
 2. Untuk mewujudkan Kabupaten Layak Anak sebagaimana dimaksud pada ayat (1), Pemerintah Daerah, Swasta dan Lembaga Masyarakat memperhatikan hak anak yang berkaitan dengan hak hidup, tumbuh kembang, perlindungan dan partisipasi.  
 3. Pemerintah Daerah, Swasta dan mewujudkan Kabupaten Layak Anak Kabupaten Layak Anak.  
 
-Lembaga Masyarakat dalam tergabung dalam Gugus Tugas (4) Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3) bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan:
+Lembaga Masyarakat dalam tergabung dalam Gugus Tugas (4) Gugus Tugas Kabupaten Layak Anak sebagaimana dimaksud pada ayat (3) bertanggung jawab pada pemenuhan hak anak yang berkaitan dengan:  
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan altematif;  
 c. kesehatan dasar dan kesejahteraan;  
@@ -341,10 +341,10 @@ e. perlindungan khusus anak.
 
 ### PENDANAAN
 
-Pasal28 Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber dari:
+Pasal28 Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD);danb. sumber lain yang sah dan tidak mengikat.  
 
-Pasal29 (1) Pendanaan perlindungan bagi perempuan dan anak korban kekerasan meliputi:
+Pasal29 (1) Pendanaan perlindungan bagi perempuan dan anak korban kekerasan meliputi:  
 a. pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan, biaya rumah sakit, biaya obat-obatan dan biaya penunjang medik;  
 b. pelayanan medicolegal, yang meliputi pemeriksaan untuk Visum et Repertum dan Visum et Psikiatrikum;  
 c. pelayanan psikososial, yang terdiri dari konseling dan terapi psikologi serta rumah aman (shelter);  

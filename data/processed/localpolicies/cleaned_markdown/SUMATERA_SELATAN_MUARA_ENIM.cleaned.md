@@ -92,7 +92,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak berdasarkan  asas:
+Penyelenggaraan Perlindungan Perempuan dan Anak berdasarkan  asas:  
 a. kepentingan terbaik bagi perempuan dan Anak;  
 b. keadilan gender dan kesetaraan gender;  
 c. kearifan lokal;  
@@ -102,7 +102,7 @@ g. penghargaan terhadap pendapat Anak; danh. penegakan dan kepastian hukum.
 
 #### Pasal 3
 
-Peraturan Daerah ini bertujuan:
+Peraturan Daerah ini bertujuan:  
 a. menjamin terpenuhinya hak perempuan dan Anak di Kabupaten;  
 8.  b. sebagai pedoman bagi Daerah dalam perencanaan, kebijakan dan strategi Perlindungan Perempuan dan Anak;  
 c. melindungi dan mencegah perempuan dan Anak dari tindakan, keputusan dan kebijakan yang melanggar hak perempuan dan Anak;  
@@ -111,7 +111,7 @@ e. sebagai payung hukum bagi perangkat daerah yang membidangi perlindungan perem
 
 #### Pasal 4
 
-Ruang lingkup pengaturan Perlindungan Perempuan dan Anak  meliputi:
+Ruang lingkup pengaturan Perlindungan Perempuan dan Anak  meliputi:  
 a. perlindungan perempuan;  
 b. perlindungan Anak;  
 c. pemenuhan hak Anak;  
@@ -129,7 +129,7 @@ Umum
 
 #### Pasal 5
 
-( 1) Dalam rangka meningkatkan kualitas hid up perempuan, pemerintah daerah bertanggung jawab:
+( 1) Dalam rangka meningkatkan kualitas hid up perempuan, pemerintah daerah bertanggung jawab:  
 a. menghormati dan menjamin hak perempuan tanpa diskriminasi sesuai dengan harkat dan martabat kemanusiaan;  
 b. melaksanakan Pengarusutamaan Gender di Kabupaten;  
 c. membentuk pokja Pengarusutamaan Gender di Daerah;  
@@ -147,7 +147,7 @@ Peningkatan Peran, Kualitas dan Kemampuan Perempuan Bidang Politik
 
 #### Pasal 6
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang politik sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d  angka 1 meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang politik sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d  angka 1 meliputi:  
 a. melaksanakan sosialisasi untuk meningkatkan partisipasi politik perempuan dalam pemilihan umum;  
 b. melaksanakan program yang mendorong tingkat keterlibatan perempuan dalam proses politik dan jabatan publik;  
 c. melakukan fasilitasi pengembangan diri perempuan dalam berorganisasi, berserikat dan berkumpul; dand. melibatkan perempuan dalam pengambilan keputusan yang menyangkut kepentingan perempuan.  
@@ -158,7 +158,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Hukum
 
 #### Pasal 7
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d  angka 2 meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  bidang hukum sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf d  angka 2 meliputi:  
 a. melakukan sosialisasi untuk meningkatkan pengetahuan dan kesadaran hukum perempuan;  
 10.  b. melakukan pemetaan dan mereview kebijakan bias gender; dan  c. melibatkan organisasi perempuan dalam proses penyusunan dan  pembahasan produk hukum Daerah yang berkaitan dengan peran  serta perempuan.  
 
@@ -168,7 +168,7 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Sosial
 
 #### Pasal 8
 
-Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  biclang sosial sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf cl  angka 3 meliputi:
+Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam  biclang sosial sebagaimana dimaksud dalam Pasal 5 ayat (1) huruf cl  angka 3 meliputi:  
 a. peningkatan pengetahuan dan keterampilan untuk mendorong  pemenuhan pendidikan sesuai dengan potensi yang dimiliki;  
 b. peningkatan dan pemenuhan kualitas kesehatan terhaclap  perempuan;  
 c. peningkatan kesadaran dan pengetahuan tentang perencanaan  keluarga mandiri, sehat dan sejahtera termasuk akses layanan  konsultasi dan pencatatan perkawinan;  
@@ -214,7 +214,7 @@ Pencegahan Tindak Kekerasan Terhadap Perempuan
 
 #### Pasal 11
 
-Dalam rangka mencegah terjadinya tindak Kekerasan terhadap  perempuan, Pemerintah Kabupaten:
+Dalam rangka mencegah terjadinya tindak Kekerasan terhadap  perempuan, Pemerintah Kabupaten:  
 a. menyelenggarakan sosialisasi, mengenai pencegahan kekerasan  terhadap perempuan dengan mengoptimalkan peran lembaga adat,  budaya, agama dan organisasi kemasyarakatan;  
 b. membangun jejaring dan kerja sama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi dan berbagai  Lembaga Swadaya Masyarakat yang bergerak dan/ atau peduli  terhadap perempuan dan anak korban Kekerasan;  
 c. menyediakan fasilitas umum yang nyaman dan aman untuk  perempuan;  
@@ -248,7 +248,7 @@ k. empati; dan
 
 #### Pasal 13
 
-Bentuk layanan terpadu terhadap perempuan korban tindak  kekerasan meliputi:
+Bentuk layanan terpadu terhadap perempuan korban tindak  kekerasan meliputi:  
 a. penanganan pengaduan; ·b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
 d. pendampingan korban, penegakan dan bantuan hukum; dan  e. pemulangan dan reintegrasi sosial.  
@@ -259,7 +259,7 @@ Penanganan Pengaduan
 
 #### Pasal 14
 
-Layanan terpadu penanganan pengaduan sebagaimana dimaksud  dalam Pasal 13 huruf a dilaksanakan oleh:
+Layanan terpadu penanganan pengaduan sebagaimana dimaksud  dalam Pasal 13 huruf a dilaksanakan oleh:  
 a. Rumah Sakit, Pusat Kesehatan Masyarakat dan sarana pelayanan  kesehatan lainnya;  
 b. Unit Pelaksana Teknis Perlindungan Perempuan dan Anak;  
 c. Rumah Perlindungan Trauma Center,d. Women crisis centre;  
@@ -273,7 +273,7 @@ i. Kementerian Agama; dan/ atau J. Lembaga Bantuan Hukum.
 
 #### Pasal 15
 
-( 1) Pengaduan tindak kekerasan terhadap perempuan dapat dilakukan  oleh pelapor yang terdiri atas:
+( 1) Pengaduan tindak kekerasan terhadap perempuan dapat dilakukan  oleh pelapor yang terdiri atas:  
 a. korban;  
 b. keluarga;  
 c. masyarakat; dan/ ataud. organisasi kemasyarakatan di bidang perlindungan perempuan  dan anak.  
@@ -445,7 +445,7 @@ Supervisi sebagaimana dimaksud dalam Pasal 28 huruf c meliputi:  a. melakukan ev
 
 #### Pasal 33
 
-Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal  28 ayat (1) huruf b meliputi:
+Penyediaan layanan bagi keluarga sebagaimana dimaksud dalam Pasal  28 ayat (1) huruf b meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. alat dan obat kontrasepsi;  
 c. pencatatan dan pelaporan pelayanan keluarga berencana;  
@@ -585,7 +585,7 @@ Pemerintah Kabupaten melakukan pengawasan berkala pada  setiap orang/badan yang 
 
 #### Pasal 49
 
-Setiap orang/badan yang mempekerjakan anak harus  memperhatikan persyaratan:
+Setiap orang/badan yang mempekerjakan anak harus  memperhatikan persyaratan:  
 a. berusia paling rendah 15 (lima belas) tahun;  
 b. mendapat persetujuan tertulis dari orangtua/wali pekerja anak;  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang  tua/wali pekerja anak dan mendapat pengesahan dari instansi  yang berwenang;  
@@ -670,7 +670,7 @@ Dalam menjalankan tugasnya, Gugus Tugas KLA dapat  berkoordinasi dan bekerjasama
 
 #### Pasal 58
 
-Pemerintah Kabupaten, dalam rangka memberikan perlidungan  terhadap anak:
+Pemerintah Kabupaten, dalam rangka memberikan perlidungan  terhadap anak:  
 a. melaksanakan dan mendukung kebijakan nasional dalam  penyelenggaraan perlindungan anak di Kabupaten;  
 b. menjamin anak untuk mempergunakan haknya dalam  menyampaikan pendapat sesuai dengan usia dan tingkat  kecerdasan anak;  
 c. melakukan pencegahan kekerasan terhadap anak dengan  mengoptimalkan peran lembaga adat;  
@@ -720,12 +720,12 @@ Perlindungan khusus bagi anak yang menjadi pengungsi  sebagaimana dimaksud dalam
 
 #### Pasal 63
 
-Perlindungan khusus bagi anak korban kerusuhan, korban  bencana, dan anak dalam konflik bersenjata sebagaimana  dimaksud dalam Pasal 61 ayat (1) huruf b, huruf c, dan huruf d,  dilaksanakan melalui:
+Perlindungan khusus bagi anak korban kerusuhan, korban  bencana, dan anak dalam konflik bersenjata sebagaimana  dimaksud dalam Pasal 61 ayat (1) huruf b, huruf c, dan huruf d,  dilaksanakan melalui:  
 a. pemenuhan kebutuhan dasar yang terdiri atas pangan,  sandang, permukiman, pendidikan, kesehatan, belajar dan  berekreasi, jaminan keamanan, dan persamaan perlakuan;  danb. pemenuhan kebutuhan khusus bagi anak penyandang  disabilitas dan anak yang mengalami gangguan psikosial.  
 
 #### Pasal 64
 
-Perlindungan Khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf b  dilakukan melalui:
+Perlindungan Khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf b  dilakukan melalui:  
 a. perlakuan secara manus1awi dengan memperhatikan  kebutuhan sesuai dengan umumnya;  
 b. pemisahan dari orang dewasa;  
 c. pemberian bantuan hukum dan bantuan lain secara efektif;  
@@ -749,7 +749,7 @@ Perlindungan Khusus bagi Anak dari kelompok minoritas dan  terisolasi sebagaiman
 
 #### Pasal 66
 
-Perlindungan Khusus bagi anak yang dieksploitasi secara  ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal  60 ayat (1) huruf d dilakukan melalui:
+Perlindungan Khusus bagi anak yang dieksploitasi secara  ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal  60 ayat (1) huruf d dilakukan melalui:  
 a. penyebarluasan dan/ atau sosialisasi ketentuan peraturan  Perundang-undangan yang berkaitan dengan perlindungan  anak yang dieksploitasi secara ekonomi dan/ atau seksual.  b. pelibatan berbagai perusahaan, serikat pekerja, Lembaga  Swadaya Masyarakat, dan masyarakat dalam penghapusan  eksploitasi terhadap anak secara ekonomi dan/atau seksual.  
 35.  
 
@@ -778,21 +778,21 @@ a. penyebarluasan dan sosialisasi ketentuan peraturan  Perundang-undangan yang m
 
 #### Pasal 72
 
-Perlindungan Khusus bagi anak korban kejahatan seksual  sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf j dilakukan  melalui upaya:
+Perlindungan Khusus bagi anak korban kejahatan seksual  sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf j dilakukan  melalui upaya:  
 a. edukasi tentang kesehatan reproduksi, nilai agama, dan nilai  kesusilaan;  
 b. rehabilitasi sosial;  
 c. pendampingan psikososia pada saat pengobatan sampai  pemulihan; dand. pemberian perlindungan dan pendampingan pada setiap  tingkat pemeriksaan mulai dari penyidikan, penuntutan,  sampai dengan pemeriksaan di sidang Pengadilan.  
 
 #### Pasal 73
 
-Perlindungan Khusus bagi anak korban jaringan terorisme  sebagaimana dimaksud dalam Pasal 60 ayat ( 1) huruf k dilakukan  melalui upaya:
+Perlindungan Khusus bagi anak korban jaringan terorisme  sebagaimana dimaksud dalam Pasal 60 ayat ( 1) huruf k dilakukan  melalui upaya:  
 a. edukasi tentang pendidikan, ideologi, dan nilai nasionalisme;  
 b. konseling tentang bahaya terorisme;  
 c. rehabilitasi sosial; dand. pendampingan sosial.  
 
 #### Pasal 74
 
-Perlindungan K.husus bagi anak penyandang disabilitas  sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf 1 dilakukan  melalui upaya:
+Perlindungan K.husus bagi anak penyandang disabilitas  sebagaimana dimaksud dalam Pasal 60 ayat (1) huruf 1 dilakukan  melalui upaya:  
 a. perlakuan anak secara manusiawi sesuai dengan martabat dan  hak anak;  
 b. pemenuhan kebutuhan khusus;  
 c. perlakuan yang sama dengan anak lainnya untuk mencapai  integrasi sosial sepenuh mungkin dan pengembangan individu;  
@@ -856,13 +856,13 @@ Orang Tua dan/ a tau Keluarga
 
 #### Pasal 82
 
-Keluarga dalam upaya perlindungan terhadap hak perempuan  berperan:
+Keluarga dalam upaya perlindungan terhadap hak perempuan  berperan:  
 a. melindungi perempuan dari konflik dan kekerasan dalam  rumah tangga yang merendahkan rnartabat perempuan;  
 b. memberikan kesempatan yang sama pada perempuan  mengembangkan diri di bidang pendidikan, sosial, ekonomi,  politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan  dalam rumah tangga.  
 
 #### Pasal 83
 
-( 1) Orang tua dalam upaya perlindungan terhadap hak anak  berperan:
+( 1) Orang tua dalam upaya perlindungan terhadap hak anak  berperan:  
 a. mengasuh, memelihara, rnendidik, dan melindungi anak;  
 b. menumbuhkembangkan anak sesuai dengan  kemampuan, bakat, dan minatnya;  
 c. memberikan pendidikan formal dan non formal;  

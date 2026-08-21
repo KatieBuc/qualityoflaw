@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;  
 b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuarl perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 c. batrwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan hurrrf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
@@ -118,7 +119,7 @@ Bagtan Kedua Bidang PoltttL
 
 #### Pasal 5
 
-Dalam hal politik, perempuan berhak:
+Dalam hal politik, perempuan berhak:  
 a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan kepala daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung, lrmum, bebas, rahasia, jujur dan adil menurut perahrran penrndang-undangan yang berlaku; danb. untuk diangkat dalam setiap jabatan pemerintatran.  
 
 # BAB IV
@@ -235,7 +236,7 @@ Upaya pemberdaya€rn perempuan sebagaima.na dimaksud pada (2t ayat (1) dilakuka
 
 Peran serta masyarakat sebagaimana dimaksud pada ayat (1) (2t dapat dilakukan oleh perorangan, kelompok maupun organisasi so sial kemasyarakatan.  
 
-Peran serta masyarakat sebagaimana dimaksud pada ayat (l) (3) dapat berbentuk:
+Peran serta masyarakat sebagaimana dimaksud pada ayat (l) (3) dapat berbentuk:  
 a. kerjasama;  
 b. peran aktif dalam penJrusunan kebijakan; danc. pengaduan/laporan.  
 

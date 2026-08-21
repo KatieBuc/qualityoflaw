@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
@@ -26,6 +27,7 @@ bahwa berdasarkan Undang-undang Nomor 23 tahun  2002 tentang Perlindungan Anak d
 bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Perlindungan Terhadap  Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -96,7 +98,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan korban kekerasan berbasis gender dan anak berdasarkan Pancasila  dan berlandaskan Undang-Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:
+Perlindungan korban kekerasan berbasis gender dan anak berdasarkan Pancasila  dan berlandaskan Undang-Undang Dasar 1945, serta prinsip-prinsip dasar yang  meliputi:  
 a. Non diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kelangsungan hidup dan perkembangand. Penghargaan terhadap pendapat anake. Kerahasiaanf. Pemberdayaang. Tidak menyalahkan korbanh. Keputusan di tangan korbani. Keterpaduan
 
 #### Pasal 3
@@ -163,7 +165,7 @@ Pelayanan Terpadu
 
 #### Pasal 8
 
-Tugas pelayanan terpadu meliputi:
+Tugas pelayanan terpadu meliputi:  
 a. mengupayakan pencegahan;  
 b. pemulihan dan reintegrasi sosial;  
 c. memberikan perlindungan hukum;  
@@ -176,7 +178,7 @@ Prinsip-prinsip Pelayanan
 
 #### Pasal 9
 
-Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 8 pelayanan  terpadu menerapkan prinsip-prinsip sebagai berikut:
+Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 8 pelayanan  terpadu menerapkan prinsip-prinsip sebagai berikut:  
 a. mudah;  
 b. tepat; danc. nyaman;  
 
@@ -186,7 +188,7 @@ Upaya Pencegahan
 
 #### Pasal 10
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 8 huruf a meliputi:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 8 huruf a meliputi:  
 a. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan  berbasis gender dan anak; danb. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
 
 ## Bagian Kelima
@@ -195,7 +197,7 @@ Upaya Pemulihan dan Reintegritas Sosial
 
 #### Pasal 11
 
-Upaya Pemulihan dan Reintegritas Sosial sebagaimana dimaksud dalam Pasal 8  huruf b, meliputi:
+Upaya Pemulihan dan Reintegritas Sosial sebagaimana dimaksud dalam Pasal 8  huruf b, meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medicolegal;  
 c. membantu pemulangan korban;  
@@ -219,7 +221,7 @@ Mediasi, Koordinasi dan Kerjasama
 
 #### Pasal 13
 
-Mediasi, koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 8 huruf d  meliputi:
+Mediasi, koordinasi dan kerjasama sebagaimana dimaksud dalam Pasal 8 huruf d  meliputi:  
 a. melakukan mediasi dalam penyelesaian masalah dengan pihak-pihak yang  terkait;  
 b. melakukan koordinasi dan kerjasama penanganan kasus kekerasan dengan  pelayanan terpadu Provinsi;  
 c. melakukan koordinasi dan kerjasama dengan pelayanan terpadu antar  kabupaten;  
@@ -231,7 +233,7 @@ Partisipasi Masyarakat
 
 #### Pasal 14
 
-Partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8 huruf e dilakukan  melalui:
+Partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8 huruf e dilakukan  melalui:  
 a. memberikan perlindungan bagi korban;  
 b. memberikan pertolongan darurat;  
 c. memberikan advokasi terhadap korban dan atau masyarakat tentang  penanganan kasus kekerasan berbasis gender dan anak;  

@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan, peran dan  kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi serta diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa untuk melindungi masyarakat serta mewujudkan  pemerataan dan keadilan, sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan.  
 
 Mengingat:  
+ 
  
  
  
@@ -105,7 +107,7 @@ Umum
 
 #### Pasal 2
 
-Setiap Perempuan mempunyai hak:
+Setiap Perempuan mempunyai hak:  
 a. untuk hidup;  
 b. berkeluarga dan melanjutkan keturunan;  
 c. mengembangkan diri;  
@@ -152,7 +154,7 @@ i. mendapatkan kemudahan dalam proses peradilan; dan j. atas pendampingan.
 
 #### Pasal 5
 
-Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak sebagai manusia agar mampu berperan  dan berpartisipasi di bidang:
+Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak sebagai manusia agar mampu berperan  dan berpartisipasi di bidang:  
 a. ekonomi;  
 b. sosial budaya;  
 c. politik dan pemerintahan;  
@@ -167,7 +169,7 @@ Bidang Ekonomi
 
 #### Pasal 6
 
-Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:
+Pemberdayaan perempuan di bidang ekonomi dilaksanakan  melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -276,7 +278,7 @@ Perempuan Pekerja/Buruh
 
 1. Pelaksanaan perlindungan bagi perempuan pekerja/ buruh  untuk memberikan perlindungan dari tindakan eksploitasi  ekonomi dan perlakuan kejam, tidak manusiawi dan  mengusahakan penghargaan yang layak atas pekerjaan.  
 
-jdih.pangandarankab.go.id 10 (2) Perempuan pekerja/buruh sebagimana dimaksud pada ayat  (1) mendapatkan perlindungan atas:
+jdih.pangandarankab.go.id 10 (2) Perempuan pekerja/buruh sebagimana dimaksud pada ayat  (1) mendapatkan perlindungan atas:  
 a. pengakuan hak, upah dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan jaminan Sosial ketenagakerjaan;  
 c. akses informasi dan layanan konsultasi hukum;  
@@ -399,7 +401,7 @@ Umum
 
 #### Pasal 25
 
-Pemberdayaan dan perlindungan perempuan merupakan  kewajiban dan tanggung jawab bersama antara:
+Pemberdayaan dan perlindungan perempuan merupakan  kewajiban dan tanggung jawab bersama antara:  
 a. Pemerintah Daerah;  
 b. masyarakat,c. keluarga; dand. orang tua.  
 
@@ -506,7 +508,7 @@ Pencegahan Kekerasan Perempuan
 
 #### Pasal 33
 
-Pemerintah Daerah dalam mencegah terjadinya tindak  kekerasan terhadap perempuan:
+Pemerintah Daerah dalam mencegah terjadinya tindak  kekerasan terhadap perempuan:  
 a. melakukan penyusunan dan sosialisasi mengenai hal yang  berkenaan dengan kekerasan terhadap perempuan;  
 b. melakukan sosialisasi tehadap hak Perempuan;  
 c. mengupayakan peningkatan pendidikan bagi Perempuan;  
@@ -555,7 +557,7 @@ jdih.pangandarankab.go.id 19 (2) Pemerintah Daerah dalam memberikan pelayanan  p
 
 #### Pasal 37
 
-Setiap orang yang terkait dengan penyelenggaraan Perlindungan  Perempuan yang mengetahui terjadinya tindak Kekerasan  terhadap Perempuan tetapi membiarkan, tidak memberikan  Perlindungan kepada Korban, dan/atau tidak melaporkan  kepada instansi terkait dapat dikenai sanksi administratif  berupa:
+Setiap orang yang terkait dengan penyelenggaraan Perlindungan  Perempuan yang mengetahui terjadinya tindak Kekerasan  terhadap Perempuan tetapi membiarkan, tidak memberikan  Perlindungan kepada Korban, dan/atau tidak melaporkan  kepada instansi terkait dapat dikenai sanksi administratif  berupa:  
 a. peringatan tertulis;  
 b. penghentian sementara dari kegiatan;  
 c. pemutusan kerjasama;  
@@ -660,7 +662,7 @@ Ketentuan lebih lanjut mengenai pengawasan, evaluasi dan  pembinaan kebijakan, p
 
 #### Pasal 45
 
-Pembiayaan untuk pelaksanaan perlindungan Perempuan  bersumber dari:
+Pembiayaan untuk pelaksanaan perlindungan Perempuan  bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; dan b. sumber dana lain yang sah dan tidak mengikat.  
 
 #### Pasal 46

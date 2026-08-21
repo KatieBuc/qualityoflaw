@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa anak dan perempuan merupakan kelompok  rentan mengalami kekerasan dimana segala bentuk kekerasan terhadap anak dan perempuan merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan sehingga perlu perlindungan hukum untuk melindungi harga diri dan martabatnya serta menjamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap anak dan perempuan di  Kabupaten Konawe menunjukan angka yang cukup tinggi dan terus meningkat, sehingga diperlukan upaya perlindungan;  
@@ -26,6 +27,7 @@ e. bahwa penyelenggaraan Perlindungan Anak dan  Perempuan Korban Kekerasan di Ka
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b, huruf c, huruf d dan huruf e diatas, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan di Kabupaten Konawe;  
 
 Mengingat:  
+ 
  
  
  
@@ -101,7 +103,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Ko
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan;  
 c. nondiskriminasi; dand. perlindungan korban;  
@@ -137,21 +139,21 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 4 huruf b  disebabkan karena p
 
 #### Pasal 7
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 4 huruf c  disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial dan atau tujuan tertentu.  
 
 #### Pasal 8
 
-Penelantaran sebagaimana dimaksud dalam Pasal 4 bumf d  disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 4 bumf d  disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang  dilakukan oleh orang tua, wali, atau pihak lain maupun yang  bertanggung jawab atas pengasuhan;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan  penghidupan, perawatan, atau pemeliharaan kepada orang tersebut;  dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan  cara membatasi dan/atau melarang untuk bekerja yang layak di  dalam atau di luar rumah sehingga korban berada di bawah kendali  orang tersebut.  
 
 #### Pasal 9
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e disebabkan  karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 4 huruf e disebabkan  karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau pelayanan  paksa, perbudakan atau praktek serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan  hukum memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik  materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh  lain dari korban untuk mendapatkan keuntungan, termasuk tetapi  tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
 
@@ -161,7 +163,7 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak
 
 #### Pasal 10
 
-Setiap korban berhak untuk mendapatkan:
+Setiap korban berhak untuk mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -183,7 +185,7 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 
 #### Pasal 12
 
-Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap anak dan perempuan korban kekerasan merupakan tanggung  jawab bersama:
+Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap anak dan perempuan korban kekerasan merupakan tanggung  jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga dan orangtua.  
@@ -251,7 +253,7 @@ b. Pelatihan anggota PPT terkait tentang pelaksanaan tugasnya dalam  melakukan p
 
 #### Pasal 19
 
-Bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT  meliputi:
+Bentuk pelayanan terhadap korban yang diselenggarakan oleh PPT  meliputi:  
 a. Pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik  yang bertujuan untuk memulihkan kondisi fisik korban yang  dilakukan oleh tenaga medis dan paramedik;  
 b. Pelayanan medicolegal merupakan bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. Pelayanan psikososial merupakan pelayanan yang diberikan dalam  rangka memulihkan kondisi traumatis korban, termasuk  penyediaan rumah aman untuk melindungi korban dari berbagai  ancaman dan intimidasi bagi korban dan memberikan dukungan  secara sosial sehingga korban mempunyai rasa percaya diri,  kekuatan dan kemandirian, dalam menyelesaikan masalahnya;  
@@ -278,7 +280,7 @@ Prinsip-Prinsip Pelayanan dan Pendampingan
 
 #### Pasal 22
 
-Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:
+Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -337,7 +339,7 @@ c. pelayanan; dand. kinerja.
 
 #### Pasal 27
 
-Dana untuk penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 28

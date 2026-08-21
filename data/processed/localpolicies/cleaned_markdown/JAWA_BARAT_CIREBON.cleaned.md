@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa anak merupakan amanah dan karunia Tuhan Yang Maha  Esa yang dalam dirinya melekat harkat dan martabat sebagai  manusia seutuhnya, serta merupakan generasi penerus cita-cita  perjuangan bangsa, sehingga perlu mendapat perlindungan dan  kesempatan seluas-luasnya untuk kelangsungan hidup, tumbuh  dan berkembang secara wajar;  
 b. bahwa sehubungan dengan masih banyaknya perempuan dan  anak yang perlu mendapat perlindungan dari berbagai bentuk  tindak kekerasan, perlakuan salah, eksploitasi, dan  penelantaran, maka dipandang perlu adanya upaya strategis  dari Pemerintah Daerah dan pihak-pihak lain yang berkewajiban  untuk memberikan perlindungan terhadap perempuan anak  dimaksud;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia, dan  kejahatan kemanusiaan, oleh karenanya dalam rangka  pemenuhan hak-hak konstitusional perempuan dan anak sebagaimana dimaksud pada huruf b, maka Pemerintah Daerah dapat menyelenggarakan fungsi koordinasi secara terpadu  terhadap pelaksanaan tugas, wewenang, dan tanggung jawabnya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b, dan huruf c, maka perlu menetapkan  Peraturan Daerah tentang Perlindungan, Pemberdayaan  Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -92,7 +94,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan, pemberdayaan perempuan dan anak diselenggarakan  berdasarkan asas:
+Perlindungan, pemberdayaan perempuan dan anak diselenggarakan  berdasarkan asas:  
 a. Kemanusiaan;  
 b. Keadilan dan kesetaraan gender;  
 c. Pengayoman;  
@@ -135,7 +137,7 @@ e. Perlindungan khusus anak.
 
 #### Pasal 5
 
-Hak korban dan keluarganya untuk mendapatkan Kemudahan dalam proses  pelayanan terdiri dari/meliputi:
+Hak korban dan keluarganya untuk mendapatkan Kemudahan dalam proses  pelayanan terdiri dari/meliputi:  
 a. Hak atas pemulihan kesehatan dan hak atas pemulihan psikologis dari  penderitaan yang dialami korban;  
 b. Hak atas bantuan hukum;  
 c. Hak mendapatkan informasi;  
@@ -160,7 +162,7 @@ d. Hak bebas dari berbagai stigma; dane. Hak mendapatkan kebebasan.
 
 #### Pasal 7
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan terhadap perempuan, dan anak merupakan tanggung jawab  bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan Pemberdayaan terhadap perempuan, dan anak merupakan tanggung jawab  bersama:  
 a. Pemerintah/Pemerintah Daerah dan Lembaga Pemerintah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
 c. Masyarakat;  
@@ -252,7 +254,7 @@ Ketentuan lebih lanjut mengenai pelayanan pengaduan dan pelayanan sosial  sebaga
 
 #### Pasal 17
 
-Selain membentuk Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak (P2TP2A) atau dengan sebutan lain sebagaimana dimaksud dalam Pasal 16,  guna menunjang terlaksananya penyelenggaraan perlindungan kepada  perempuan dan anak dari tindak kekerasan, Bupati membentuk:
+Selain membentuk Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak (P2TP2A) atau dengan sebutan lain sebagaimana dimaksud dalam Pasal 16,  guna menunjang terlaksananya penyelenggaraan perlindungan kepada  perempuan dan anak dari tindak kekerasan, Bupati membentuk:  
 a. Gugus tugas tindak perdagangan orang;  
 b. Gugus tugas pencegahan perkawinan anak;  
 c. Komite aksi daerah penghapusan bentuk-bentuk pekerjaan terburuk untuk  anak;  
@@ -319,7 +321,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  pemberdayaan
 
 #### Pasal 23
 
-Pembiayaan penyelenggaraan perlindungan, Pemberdayaan perempuan dan  anak bersumber dari:
+Pembiayaan penyelenggaraan perlindungan, Pemberdayaan perempuan dan  anak bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara (APBN);  
 b. Anggaran Pendapatan dan Belanja Daerah (APBD); danc. Sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 

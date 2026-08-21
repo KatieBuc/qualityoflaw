@@ -18,10 +18,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan, setiap warga Negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia, berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan serta untuk meningkatkan kualitas hidup perempuan yang merupakan salah satu tanggung jawab Pemerintah Daerah;  
 b. bahwa dalam upaya pemenuhan hak perempuan perlu dilakukan upaya oleh k eluarga, masyarakat, dan Pemerintah Daerah, sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,7 @@ Pencegahan
 
 #### Pasal 4
 
-Setiap Perempuan berhak:
+Setiap Perempuan berhak:  
 a. untuk hidup serta mempertahankan hidup dan kehidupannya;  
 b. mendapatkan pendidikan dan memperoleh manfaat dari ilmu pengetahuan dan teknologi, seni dan budaya;  
 c. mendapatkan layanan kesehatan;  
@@ -134,7 +136,7 @@ b. membentuk dan mengembangkan strategi dan kebijakanperlindungan; danc. membent
 
 #### Pasal 6
 
-Peningkatan kualitas hidup perempuan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a dapat dilakukan melalui:
+Peningkatan kualitas hidup perempuan sebagaimana dimaksud dalam Pasal 5 ayat (2) huruf a dapat dilakukan melalui:  
 a. memberikan akses kepada perempuan terhadap layanan pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dalam berbagai kegiatan pembangunan;  
 c. memberikan pengetahuan, ketrampilan dan nilai karakter, budi pekerti dan ketahanan keluarga;  
@@ -142,7 +144,7 @@ d. mendorong program yang dapat meningkatkan kemandirian perempuan dalam berbaga
 
 #### Pasal 7
 
-Dalam membentuk dan mengembangkan strategi dan kebijakan perlindungan terhadap perempuan, sebagaiman dimaksud dalam Pasal 5 ayat (2) huruf b dapat dilakukan melalui:
+Dalam membentuk dan mengembangkan strategi dan kebijakan perlindungan terhadap perempuan, sebagaiman dimaksud dalam Pasal 5 ayat (2) huruf b dapat dilakukan melalui:  
 a. menyajikan materi komunikasi, informasi dan edukasi tentang pelindungan perempuan;  
 b. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka perlindungan perempuan baik kepada masyarakat maupun setiap unsur yang bertanggung jawab dalam rangka perlindungan terhadap perempuan;  
 c. menyelenggarakan kerjasama berkelanjutan dengan masyarakat dalam perlindungan perempuan;  
@@ -168,7 +170,7 @@ Bentuk Kekerasan
 
 #### Pasal 9
 
-Bentuk kekerasan terhadap perempuan berupa:
+Bentuk kekerasan terhadap perempuan berupa:  
 a. kekerasan fisikdisebabkan karena perbuatan yang mengakibatkan rasa sakit, cedera, luka atau cacat pada tubuh seseorang, gugurnya kandungan, pingsan dan/atau menyebabkan kematian;  
 b. kekerasan psikisdisebabkan karena perbuatan yang mengakibatkan ketakutan, hilangnya rasa percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak berdaya dan/atau penderitaan psikis berat pada seseorang;  
 c. kekerasan seksual disebabkan karena:
@@ -195,7 +197,7 @@ Hak Korban
 
 #### Pasal 10
 
-Setiap korban berhakmendapatkan:
+Setiap korban berhakmendapatkan:  
 a. perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan, advokat, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 b. pelayanan kesehatan sesuai dengan kebutuhan medis;  
 c. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
@@ -257,7 +259,7 @@ Pemberdayaan
 
 #### Pasal 18
 
-Penyelenggaraan pemberdayaan perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan dengan:
+Penyelenggaraan pemberdayaan perempuan di bidang ekonomi sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan dengan:  
 a. memberikan pengetahuan, keterampilan dan pelatihan kerja;  
 b. memfasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. memfasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
@@ -265,20 +267,20 @@ d. memfasilitasi dan bantuan permodalan; dan e. memfasilitasi pengembangan jarin
 
 #### Pasal 19
 
-Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan melalui:
+Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi.  c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 20
 
-Penyelenggaraan pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:
+Penyelenggaraan pemberdayaan perempuan di bidang politik sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:  
 a. pelibatan perempuan dalam pengambilan keputusan di berbagai level;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dan d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
 
 #### Pasal 21
 
-Penyelenggaraan pemberdayaan perempuan di bidang hukum sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:
+Penyelenggaraan pemberdayaan perempuan di bidang hukum sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:  
 a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi dan edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
 
 # BAB IV
@@ -319,7 +321,7 @@ Dunia Usaha
 
 #### Pasal 24
 
-Dunia usaha berkewajiban dan bertanggung jawab:
+Dunia usaha berkewajiban dan bertanggung jawab:  
 a. memberikan kontribusi dan jaminan dalam pelaksanaan penyelenggaraan perlindungan perempuan;  
 b. menyediakan sarana dan prasarana untuk meningkatkan upaya pemenuhan hak dan perlindungan perempuan; danc. bertanggung jawab untuk melakukan pencegahan, pengurangan resiko dan penanganan kasus perempuan korban kekerasan, eksploitasi, perdagangan orang.  
 

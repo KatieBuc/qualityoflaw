@@ -106,7 +106,7 @@ h. hak Korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan
 J. hak rasa arnan; dan
 k. hak restitusi.  
 
-Pasal3 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud t dalam Pasal4, juga mendapatkan hak khusus, meliputi:
+Pasal3 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud t dalam Pasal4, juga mendapatkan hak khusus, meliputi:  
 a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 
 f"fl
@@ -129,14 +129,14 @@ e. kekerasan psikis;
 f. penelantaran rumah tangga;  
 g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
 
-Paaal 5 Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan sebagaimana dimaksud dalam Pasal4 melakukan upaya untuk:
+Paaal 5 Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan sebagaimana dimaksud dalam Pasal4 melakukan upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
 c. memberikan pertolongan darurat; dand. membantu proses pengaduan dan pengajuan permohonan penetapan perlindungan.  
 
 ## Bagian Kedua
 
-Pencegahan Tindak Kekerasan Pasa16 (1) Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap perempuan dengan cara:
+Pencegahan Tindak Kekerasan Pasa16 (1) Pemerintah Daerah melakukan pencegahan tindak kekerasan terhadap perempuan dengan cara:  
 a. menyosialisasikan peraturan perundang-undangan;  
 b. melakukan pemberdayaan dan penyadaran kepada keluarga, orang tua dan masyarakat dengan memberikan informasi, bimbingan dan/ atau penyuluhan;  
 c. melakukan upaya peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan informal;  
@@ -162,7 +162,7 @@ h. lembaga sosial kemasyarakatan;
 
 ## Bagian Ketiga
 
-Pelayanan Terpadu Bagi.Korban Tindak Kekeraaan PaaalS (1) Pemerintah Daerah melaksanakan pelayanan secara terpadu bagi Korban tindak Kekerasan, melalui kegiatan:
+Pelayanan Terpadu Bagi.Korban Tindak Kekeraaan PaaalS (1) Pemerintah Daerah melaksanakan pelayanan secara terpadu bagi Korban tindak Kekerasan, melalui kegiatan:  
 a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. Konseling;  
@@ -200,13 +200,13 @@ f. merujuk ke fasilitas pelayanan kesehatan yang lebih memadai bila diperlukan d
 7. Untuk keperluan penyidikan, tenaga kesehatan yang berwenang harus membuat visum et repertum dan / atau visum et repertum psichiatricum. atau membuat surat keterangan medis.  
 8. Tenaga kesehatan berhak mendapatkan perlindungan hukum.  
 
-Pasalll Pelayanan bantuan dan perlindungan hukum sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf g meliputi:
+Pasalll Pelayanan bantuan dan perlindungan hukum sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf g meliputi:  
 a. memberi perlindungan di Rumah Arnan;  
 b. memberikan informasi hukum kepada Korban ;  
 c. melakukan Pendampingan untuk Korban sebagai saksi mulai dari proses penyidikan hingga putusan;  
 d. rnernberikan perlindungan hukum secara khusus bagi anak korban tindak kekerasan dapat dilakukan dengan penunjukkan perwalian sesuai dengan peraturan perundang-undangan.  
 
-Pasal12 (1) Pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf g dilaksanakan dengan prinsip sebagai berikut:
+Pasal12 (1) Pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf g dilaksanakan dengan prinsip sebagai berikut:  
 a. sukarela;  
 b. aman dan bermartabat; danc. penghormatan hak.  
 2. Dalam hal Pemerintah Daerah belum dapat melaksanakan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dapat meminta bantuan kepada pihak terkait.  
@@ -239,7 +239,7 @@ b. penanganan anak korban tindak kekerasan; danc. rehabilitasi anak korban tinda
 
 ### Paragraf 2
 
-Peneegahan Kekerasan Terhadap Anak Pasa115 (1) Pencegahan tindak kekerasan terhadap anak sebagaimana climaksud dalam Pasal 14 huruf a dilaksanakan dengan cara:
+Peneegahan Kekerasan Terhadap Anak Pasa115 (1) Pencegahan tindak kekerasan terhadap anak sebagaimana climaksud dalam Pasal 14 huruf a dilaksanakan dengan cara:  
 a. membentukjaringan kerja dalam upaya pencegahan kekerasan terhadap anak;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
 2. Pencegahan kekerasan terhadap anak sebagaimana climaksud pada ayat (1) dilakukan secara terpadu dan dikoordinasikan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang pemberdayaan perempuan dan pelindungan anak.  
@@ -261,7 +261,7 @@ k. lembaga lainnya lainnya yang bergerak dibidang peduli perlindungan anak. (2) 
 
 Penanganan Anak Korban Tindak Kekerasan Pasa117 Penanganan anak korban tindak kekerasan sebagaimana dimaksud dalam Pasal 14 huruf b dilaksanakan sesuai ketentuan peraturan perundang-undangan.  
 
-Paragraf4 RehabUitasi Anak Korban Tindak Kekerasan Pasa118 (1) Pelayanan rehabilitasi sebagaimana dimaksud dalam Pasal 14 huruf c dilakukan dalam bentuk:
+Paragraf4 RehabUitasi Anak Korban Tindak Kekerasan Pasa118 (1) Pelayanan rehabilitasi sebagaimana dimaksud dalam Pasal 14 huruf c dilakukan dalam bentuk:  
 a. layanan bantu an hukum;  
 b. layanan rehabilitasi kesehatan;  
 c. layanan rehabilitasi sosial;  
@@ -276,7 +276,7 @@ g. masyarakat; dan j atauh. keluarga.
 
 ## Bagian K.edua
 
-Perlindungan Khusua ADak Paaal 19 (1) Perlindungan khu sus anak diberikan kepada:
+Perlindungan Khusua ADak Paaal 19 (1) Perlindungan khu sus anak diberikan kepada:  
 a. anak dalarn situasi darurat;  
 b. anak yang berhadapan dengan hukurn;  
 c. anak dari kelompok minoritas dan terisolasi;  

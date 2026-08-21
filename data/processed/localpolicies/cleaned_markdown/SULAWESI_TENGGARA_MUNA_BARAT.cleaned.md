@@ -59,7 +59,7 @@ unsur-unsur tindak pidana yang ditentukan dalam Undang-Undang  Nomor 21 Tahun 20
 
 #### Pasal 2
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. Ketentuan umum;  
 b. Perlindungan perempuan;  
 c. Partisipasi masyarakat;  
@@ -68,7 +68,7 @@ e. Pembinaan dan pengawasan; danf. Sanksi.
 
 #### Pasal 3
 
-Perlindungan Perempuan dilaksanakan berdasarkan asas:
+Perlindungan Perempuan dilaksanakan berdasarkan asas:  
 a. Hak asasi manusia;  
 b. Kepastian hukum;  
 c. Keadilan;  
@@ -76,7 +76,7 @@ d. Kesetaraan gender; dane. Non diskrimintaif.
 
 #### Pasal 4
 
-Tujuan Peraturan Daerah ini adalah:
+Tujuan Peraturan Daerah ini adalah:  
 a. Melindungi perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar tercipta rasa aman dan pemenuhan hak haknya; danb. Mencegah dan menangani resiko kekerasan dan kerentanan perempuan  agar kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan  dan keadilan.  
 
 # BAB II
@@ -89,7 +89,7 @@ Hak-Hak Perempuan
 
 #### Pasal 5
 
-( 1) Setiap perempuan berhak untuk:
+( 1) Setiap perempuan berhak untuk:  
 a. Hidup dan mempertahankan hidup serta meningkatkan taraf  kehidupannya;  
 b. Memenuhi kebutuhan dasarnya untuk tumbuh dan berkembangan  secara layak, berkeluarga, dan melanjutkan keturunan;  
 c. Mengembangkan pribadinya, untuk memperoleh pendidikan, dan  meningkatkan kualitas hidupnya agar menjadi manusia yang  beriman, bertaqwa, bertanggungjawab, berakhlak mulia, bahagia,  dan sejahtera sesuai dengan hak asasi manusia;  
@@ -152,7 +152,7 @@ Kekerasan Terhadap Perempuan
 
 #### Pasal 9
 
-Setiap orang dilarang melakukan tindakan terhadap perempuan dalam  bentuk:
+Setiap orang dilarang melakukan tindakan terhadap perempuan dalam  bentuk:  
 a. Kekerasan fisik;  
 b. Kekerasan psikis;  
 c. Kekerasan seksual; dan/ a taud. Penelantaran dalam rumah tangga.  
@@ -196,7 +196,7 @@ Mekanisme Penyelenggaraan Perlindungan Perempuan
 
 #### Pasal 15
 
-( 1) Mekanisme penyelenggaraan perlindungan perempuan dilakukan  melalui tahapan:
+( 1) Mekanisme penyelenggaraan perlindungan perempuan dilakukan  melalui tahapan:  
 a. Perumusan kebijakan perencanaan program dan kegiatan;  
 b. Penganggaran program dan kegiatan;  
 c. Pelaksanaan program dan kegiatan; dand. Monitoring, evaluasi dan pelaporan.  

@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap  pemenuhan hak-haknya dan Perlindungan dari tindak  kekerasan dan diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi diri perempuan dalam masyarakat di Kota Pangkalpinang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b, perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -120,7 +122,7 @@ Hak Perempuan Penyandang Disabilitas
 
 #### Pasal 4
 
-Setiap perempuan penyandang disabilitas, berhak memperoleh:
+Setiap perempuan penyandang disabilitas, berhak memperoleh:  
 a. pendidikan pada semua satuan, jalur, jenis, dan jenjang pendidikan;  
 b. pekerjaan dan penghidupan yang layak sesuai dengan jenis dan derajat kecacatan, pendidikan, dan kemampuannya;  
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
@@ -168,7 +170,7 @@ Dalam melaksanakan kebijakan, program dan kegiatan pemberdayaan dan perlindungan
 
 #### Pasal 8
 
-Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak-hak sebagai manusia agar mampu  berperan dan berpartisipasi dibidang:
+Pemberdayaan perempuan diarahkan untuk memperoleh  kesempatan dan hak-hak sebagai manusia agar mampu  berperan dan berpartisipasi dibidang:  
 a. ekonomi;  
 b. sosial budaya;  
 c. politik dan pemerintahan;  
@@ -179,7 +181,7 @@ g. ketenagakerjaan; danh. jaminan sosial.
 
 #### Pasal 9
 
-Penyelenggaraan pemberdayaan perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a  dilaksanakan melalui:
+Penyelenggaraan pemberdayaan perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 8 huruf a  dilaksanakan melalui:  
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi  produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha  ekonomi produktif;  
@@ -187,14 +189,14 @@ d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pem
 
 #### Pasal 10
 
-Pemberdayaan perempuan dibidang sosial budaya  sebagaimana dimaksud dalam Pasal 8 huruf b dilaksanakan  melalui:
+Pemberdayaan perempuan dibidang sosial budaya  sebagaimana dimaksud dalam Pasal 8 huruf b dilaksanakan  melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk  mendorong pemenuhan pendidikan secara berjenjang  sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan  untuk mengatasi permasalahan kesehatan melalui upaya  promotif, preventif, kuratif, dan rehabilitatif yang  berkualitas utamanya dibidang kesehatan reproduksi;  
 c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, sehat dan sejahtera  termasuk akses layanan konsultasi dan pencatatan  perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengetahuan, teknologi, seni dan  budaya untuk kemajuan perempuan.  
 
 #### Pasal 11
 
-Penyelenggaraan pemberdayaan perempuan dibidang politik dan pemerintahan sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:
+Penyelenggaraan pemberdayaan perempuan dibidang politik dan pemerintahan sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:  
 a. pelibatan perempuan dalam pengambilan keputusan;  
 b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
 c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
@@ -207,7 +209,7 @@ b. fasilitasi akses dan layanan konsultasi hukum.
 
 #### Pasal 13
 
-Penyelenggaraan pemberdayaan perempuan dibidang  pendidikan sebagaimana dimaksud dalam Pasal 8 huruf e melalui:
+Penyelenggaraan pemberdayaan perempuan dibidang  pendidikan sebagaimana dimaksud dalam Pasal 8 huruf e melalui:  
 a. penyelenggaraan pendidikan formal dan nonformal;  
 b. pendidkan formal sebagaimana dimakud dalam huruf a  adalah sebagaimana yang diatur oleh pemerintah; dan c. pendidikan non formal sebagaimana dimaksud huruf a  meliputi pendidikan pemberdayaan perempuan,  pendidikan ketrampilan dan pelatihan kerja.  
 
@@ -410,7 +412,7 @@ d. perlindungan ekonomi; dane. perlindungan psikis.
 
 #### Pasal 33
 
-Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 27, Pemerintah Daerah Kota dapat melakukan upaya:
+Untuk memberikan Perlindungan sebagaimana dimaksud dalam Pasal 27, Pemerintah Daerah Kota dapat melakukan upaya:  
 a. memberikan pelayanan dan penanganan secepat mungkin kepada saksi dan/atau korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan dan bebas biaya bagi saksi dan/atau korban;  
 c. menjaga kerahasiaan saksi dan/atau korban;  

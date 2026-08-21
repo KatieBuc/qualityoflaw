@@ -16,7 +16,8 @@ Menimbang:
  
  
  
-a. bahwa Pancasila dan Undang-Undang Dasar Negera  Repuplik Indonesia Tahun 1945 menjamin atas hak setiap warga negara untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta mendapatkan rasa aman dan bebas dari segala bentuk kekerasan:
+ 
+a. bahwa Pancasila dan Undang-Undang Dasar Negera  Repuplik Indonesia Tahun 1945 menjamin atas hak setiap warga negara untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta mendapatkan rasa aman dan bebas dari segala bentuk kekerasan:  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi,c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusan pemerintahan konkuren yang diserahkan ke daerah untuk menjadi dasar pelaksanaan | otonomi daerah dan menjadi urusan pemerintahan wajib  | yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah,d. bahwa dalam rangka untuk memberikan penguatan regulasi, arah, dan landasan dalam perlindungan perempuan dan anak korban kekerasan, diperlukan pengaturan atau regulasi terkait dengan Perlindungan Perempuan dan Anak Korban Kekerasan, -D. cd Mengingat bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c, dan huruf d, perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Terhadap Tidank Kekerasan,
 
 #### Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945,
@@ -82,12 +83,12 @@ yang mempunyai hubungan keluarga karena hubungan  darah, perkawinan, persusuan, 
 
 #### Pasal 2
 
-Perlindungan Korban berasaskan:
+Perlindungan Korban berasaskan:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban,b. keadilan dan kesetaraan gender, Cc. non diskriminasi:d. kepentingan terbaik bagi korban, dane. pemberdayaan.  
 
 #### Pasal 3
 
-Perlindungan Korban bertujuan untuk:
+Perlindungan Korban bertujuan untuk:  
 a. mencegah kekerasan terhadap perempuan dan anak,b. memberikan pelayanan kepada Korban, danc. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
 #### Pasal 4
@@ -100,7 +101,7 @@ Ruang lingkup Peraturan Daerah ini meliputi upaya pencegahan, pelayanan dan pemb
 
 #### Pasal 5
 
-Bentuk kekerasan antara lain:
+Bentuk kekerasan antara lain:  
 a. kekerasan fisik,b. kekerasan psikis, Cc. kekerasan seksual,d. penelantaran,e. eksploitasi, dan/atau 1 kekerasan lainnya.  
 
 #### Pasal 6
@@ -113,22 +114,22 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5 huruf b disebabkan karena pe
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c disebabkan karena:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c disebabkan karena:  
 a. perbuatan yang berupa pelecehan seksual, pemaksaan hubungan seksual, Cc. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai, dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersial dan atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d disebabkan karena:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya,b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggung jawab atas pengasuhannya, Cc. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya, padahal menurut hukum yang berlaku baginya atau karena persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan, atau pemeliharaan kepada orang tersebut,dan/atau,d. -.8- perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada dibawah kendali orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e  disebabkan karena:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf e  disebabkan karena:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri atau  orang lain, perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh  pihak lain untuk mendapatkan keuntungan baik materiil  maupun immateriil,dan /atau segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan  pelacuran atau pencabulan.  
 
 #### Pasal 11
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f  disebabkan karena:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f  disebabkan karena:  
 a. ancaman kekerasan yang meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang,dan pemaksaan, meliputi: suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang  berlawanan dengan kehendak sendiri.  
 .9-
 
@@ -146,7 +147,7 @@ dialami korban: menentukan sendiri keputusannya, mendapatkan informasi, kerahasi
 
 #### Pasal 13
 
-Anak korban kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 12, juga mendapatkan hak khusus, yang  terdiri atas:
+Anak korban kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam Pasal 12, juga mendapatkan hak khusus, yang  terdiri atas:  
 a. penghormatan atas kelangsungan hidup, tumbuh dan  berkembang, pelayanan dasar, perlindungan yang sama, bebas dari berbagai stigma, dan/atau mendapatkan kebebasan.  
 
 # BAB IV
@@ -173,7 +174,7 @@ Masyarakat dan Keluarga
 
 #### Pasal 16
 
-Masyarakat dan keluarga mempunyai kewajiban dan tanggung  jawab yang meliputi:
+Masyarakat dan keluarga mempunyai kewajiban dan tanggung  jawab yang meliputi:  
 a. mencegah terjadinya kekerasan terhadap perempuan dan  anak,b. melaporkan bila terjadi kekerasan, melindungi korban: dand. memberikan pertolongan darurat.  
 
 # BAB V
@@ -237,7 +238,7 @@ P2TP2A sebagaimana dimaksud pada ayat (1) dapat  (2) menerima dan mengirim rujuk
 
 #### Pasal 24
 
-Penyelenggaraan pelayanan terhadap korban dilaksanakan  dengan:
+Penyelenggaraan pelayanan terhadap korban dilaksanakan  dengan:  
 a. cepat,b. aman dan nyaman, Cc  d.  
 
 —- rasa empati, non diskriminasi: mudah dijangkau, tidak dikenakan biaya, dan  dijamin kerahasiaannya.  
@@ -251,17 +252,17 @@ b. pelayanan kesehatan, pelayanan rehabilitasi sosial,d. pelayanan hukum, dan pe
 
 #### Pasal 26
 
-& Te dimaksud dalam Pasal 25 huruf a meliputi:
+& Te dimaksud dalam Pasal 25 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban,danb. persetujuan dilakukan tindakan.  
 
 #### Pasal 27
 
-Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 25 huruf b meliputi:
+Pelayanan pendampingan sebagaimana dimaksud dalam Pasal 25 huruf b meliputi:  
 a. mendampingi korban selama proses pemeriksaan dan pemulihan kesehatan,b. mendampingi korban selama proses medicolegal,c. mendampingi korban selama proses pemeriksaan di Kepolisian, Kejaksaan dan pengadilan,d. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di Kepolisan, Kejaksaan dan Pengadilan,e. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa,f. melakukan koordinasi dengan pendamping yang lain, dang. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 #### Pasal 28
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 25 huruf c meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 25 huruf c meliputi:  
 a. pertolongan pertama kepada korban:b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis, dan Cc. rujukan ke layanan kesehatan.  
 
 #### Pasal 29
@@ -294,22 +295,22 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 32
 
-Pemberdayaan perempuan terhadap korban kekerasan meliputi:
+Pemberdayaan perempuan terhadap korban kekerasan meliputi:  
 a. pelatihan kerja, “16 -b. usaha ekonomis produktif dan/atau kelompok usaha bersama, danc. bantuan permodalan.  
 
 #### Pasal 33
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 32 huruf a meliputi:
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 32 huruf a meliputi:  
 a. pelatihan keterampilan,b. praktek kerja lapangan,dan Cc. pemagangan.  
 
 #### Pasal 34
 
-Usaha ekonomis produktif dan/atau kelompok usaha bersama sebagaimana dimaksud dalam Pasal 32 huruf b meliputi:
+Usaha ekonomis produktif dan/atau kelompok usaha bersama sebagaimana dimaksud dalam Pasal 32 huruf b meliputi:  
 a. pelatihan keterampilan wirausaha,b. fasilitasi pembentukan kelompok usaha bersama, dan Cc. pendampingan pelaksanaan usaha.  
 
 #### Pasal 35
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 32 huruf c meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 32 huruf c meliputi:  
 a. bantuan sarana dan prasarana kerja, danb. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
@@ -335,7 +336,7 @@ Koordinasi Perlindungan Korban
 
 #### Pasal 38
 
-Tugas dan fungsi FPKK sebagaimana dimaksud dalam  Pasal 37 ayat (1) yaitu:
+Tugas dan fungsi FPKK sebagaimana dimaksud dalam  Pasal 37 ayat (1) yaitu:  
 a. mengoordinasikan dan menyinkronkan pencegahan,  pelayanan, dan pemberdayaan terhadap korban kekerasan  perempuan dan anak,b. memelihara dan mengembangkan FPKK dalam  pencegahan, pelayanan, dan pemberdayaan korban kekerasan  secara berjejaring serta sistem rujukan, Cc. melakukan pendidikan tentang nilai-nilai non  diskriminasi terhadap perempuan dan anak,d. melakukan sosialisasi peraturan perundang- undangan  yang berkaitan dengan penyelenggaraan perlindungan  perempuan dan anak korban kekerasan,e. mengumpulkan, menyusun, dan menyajikan laporan data  korban kekerasan, danf. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan.  
 
 218 -

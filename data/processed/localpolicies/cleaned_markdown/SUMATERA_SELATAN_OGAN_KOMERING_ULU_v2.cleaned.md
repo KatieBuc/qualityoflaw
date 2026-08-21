@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan hidup, tumbuh, dan berkembang secara wajar serta berhak atas perlindungan dari kekerasan dan diskriminasi sebagaimana diamanatkan dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa perlakuan diskriminatif dan kekerasan terhadap perempuan dan anak, akan berdampak terhadap kualitas sumber daya manusia di masa mendatang;  
 c. bahwa dalam rangka mewujudkan visi misi pembangunan di bidang pemberdayaan perempuandan perlindungan anak, perhormatan, perlindungan, pemenuhan, penegakan, dan pemajuan hak perempuan dananak, dipandang perlu menetapkan kebijakan yang dapat menjamin terselenggaranya pemberdayaan perempuan dan perlindungan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -142,7 +144,7 @@ Kewajiban Pemerintah Kabupaten
 
 ( 1 ) Pemerintah Kabupaten wajib menjamin perlindungan hak perempuan.  
 
-( 2 ) Perlindungan hak perempuan sebagaimana dimaksud pada ayat (1) dilakukan dengan:
+( 2 ) Perlindungan hak perempuan sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
 a. penyusunan kebijakan daerah yang responsif gender;  
 b. pelembagaan PUG di lingkungan Pemerintah Kabupaten;  
 c. pemberdayaan perempuan di bidang pendidikan, bidang kesehatan, bidang ketenagakerjaan, bidang politik, bidang hukum, bidang ekonomi budaya dan social pada organisasi kemasyarakatan tingkat Kabupaten; dand. penguatan dan pengembangan lembaga penyedia layanan pemberdayaan perempuan tingkat kabupaten.  
@@ -158,7 +160,7 @@ c. pemberdayaan perempuan di bidang pendidikan, bidang kesehatan, bidang ketenag
 
 #### Pasal 5
 
-Dalam rangka menjamin terwujudnya penyusunan kebijakan yang responsif gender sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a, PD yang melaksanakan urusan pemerintahan di bidang perencanaan pembangunan daerah wajib:
+Dalam rangka menjamin terwujudnya penyusunan kebijakan yang responsif gender sebagaimana dimaksud dalam Pasal 3 ayat (2) huruf a, PD yang melaksanakan urusan pemerintahan di bidang perencanaan pembangunan daerah wajib:  
 a. melibatkan PD yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dalamperumusan rencana pembangunan daerah; danb. mengevaluasi program dan kegiatan di tingkat PD yangtidak responsif gender.  
 
 #### Pasal 6
@@ -185,13 +187,13 @@ Pemberdayaan perempuan di bidang pendidikan, bidang kesehatan, bidang ketenagake
 
 #### Pasal 9
 
-Pemberdayaan perempuan di bidang pendidikan dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan di bidang pendidikan dilaksanakan dengan cara antara lain:  
 a. memfasilitasi perempuan untuk memperoleh pendidikan dan pengajaran disemua jenis, jenjang dan jalur pendidikan sesuai dengan persyaratan yang telah ditentukan;  
 b. kebijakan pendidikan sudah mendorong untuk terjadinya pemerataan, peningkatan dan mutu relevansi pendidikan untuk semua jenis kelamin; danc. pemerataan kesempatan belajar bagi Perempuan dan laki laki.  
 
 #### Pasal 10
 
-Pemberdayaan perempuan di bidang kesehatan dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan di bidang kesehatan dilaksanakan dengan cara antara lain:  
 a. memfasilitasi kesehatan perempuan melalui programkegiatan kesehatan yang dilaksanakan pemerintahan seperti:
 1. Program penurunan angka kematian ibu;  
 2. Program kesehatan ibu dan anak (KIA);  
@@ -205,7 +207,7 @@ c. Perempuan dieberikan hak khusus yang melekat padaa diri wanita dikarenakan fu
 
 #### Pasal 11
 
-Pemberdayaan perempuan di bidang ketenagakerjaan dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan di bidang ketenagakerjaan dilaksanakan dengan cara antara lain:  
 a. pengupahan sama bagi buruh laki-laki dan perempuan untuk pekerjaan yang sama;  
 b. larangan diskriminasi bagi pekerja wanita;  
 c. larangan PHK bagi pekerja perempuan yang menikah, hamil, dan melahirkan;  
@@ -215,7 +217,7 @@ f. larangan diskriminasi bagi pekerja perempuan dalamperaturan perusahaan; dang.
 
 #### Pasal 12
 
-Pemberdayaan perempuan di bidang politik dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan di bidang politik dilaksanakan dengan cara antara lain:  
 a. memfasilitasi peningkatan sumber daya manusia kepada bakal calon anggota legislatif tingkat kabupaten, dan anggota partai politik/organisasi masyarakat perempuan dalam rangka memenuhi keterwakilan perempuan di lembaga legislatif sesuai dengan peraturan perundang- undangan;  
 b. memfasilitasi peningkatan partisipasi politik perempuan di lembaga legislatif;  
 c. memberikan sarana dan prasarana bagi organisasi masyarakat perempuan atau organisasi masyarakat yang visi misinya memperjuangkan pemenuhan hak dan perlindungan perempuan di Kabupaten sesuai dengan kemampuan Keuangan Daerah;  
@@ -224,7 +226,7 @@ e. mendorong peningkatan keterlibatan perempuan dalamorganisasi kemasyarakatan d
 
 #### Pasal 13
 
-Pemberdayaan perempuan dalam bidang hukumdilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan dalam bidang hukumdilaksanakan dengan cara antara lain:  
 a. memfasilitasi peningkatan pengetahuan dan kesadaran hukum bagi perempuan; danb. mendorong pembentukan organisasi yang memberikan layanan hukum secara gratis bagi perempuan.  
 12-
 
@@ -236,13 +238,13 @@ b. dapat memberikan bantuan permodalan kepada perempuan, terutama buruh migran, 
 
 #### Pasal 15
 
-Pemberdayaan perempuan dalam bidang budaya dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan dalam bidang budaya dilaksanakan dengan cara antara lain:  
 a. memfasilitasi perempuan dalam melestarikan kebudayaan asli daerah;  
 b. mendorong aktivitas perempuan dalam berbagai kegiatan seni budaya.  
 
 #### Pasal 16
 
-Pemberdayaan perempuan dalam bidang sosial dilaksanakan dengan cara antara lain:
+Pemberdayaan perempuan dalam bidang sosial dilaksanakan dengan cara antara lain:  
 a. memfasilitasi perempuan dalam peningkatan aktivitas sosial di lingkungan masyarakat; danb. mendorong aktivitas perempuan sebagai agen perubahanpada masyarakat.  
 
 ## Bagian Ketiga
@@ -284,7 +286,7 @@ Penyediakan Layanan dan Penanganan Rujukan Lanjutan
 
 #### Pasal 20
 
-Penyediaan layanan dan penanganan rujukan lanjutan sebagaimana dimaksud dalam Pasal 17 huruf b diperuntukkan bagi:
+Penyediaan layanan dan penanganan rujukan lanjutan sebagaimana dimaksud dalam Pasal 17 huruf b diperuntukkan bagi:  
 a. perempuan korban kekerasan dalam rumah tangga;  
 b. perempuan korban tindak pidana perdagangan orang;  
 c. perempuan dalam situasi darurat dan kondisi khusus; dand. perempuan korban tindak kekerasan lainnya yang memerlukan koordinasi tingkat Kabupaten.  
@@ -292,7 +294,7 @@ c. perempuan dalam situasi darurat dan kondisi khusus; dand. perempuan korban ti
 
 #### Pasal 21
 
-( 1 ) Selain penyediaan layanan dan penanganan rujukan layanan sebagaimana dimaksud dalam Pasal 20, Pemerintah Kabupaten wajib menyediakan layanan khusus bagi:
+( 1 ) Selain penyediaan layanan dan penanganan rujukan layanan sebagaimana dimaksud dalam Pasal 20, Pemerintah Kabupaten wajib menyediakan layanan khusus bagi:  
 a. perempuan yang termasuk dalam kelompok rentan dan/atau minoritas;  
 b. perempuan lanjut usia; danc. perempuan berkebutuhan khusus.  
 2. Layanan khusus sebagaimana dimaksud pada ayat (1) diberikan dalam bentuk:a. kemudahan dalam memperoleh dan menikmati haknya sesuai dengan ketentuan peraturan perundang- undangan;  
@@ -313,7 +315,7 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan Perlindungan Perempuan
 
 #### Pasal 23
 
-Penguatan lembaga penyedia layanan perlindungan perempuan dilakukan dengan:
+Penguatan lembaga penyedia layanan perlindungan perempuan dilakukan dengan:  
 a. pembentukan forum koordinasi atau forum lainnya dalamrangka mendukung penanganan korban kekerasan terhadap perempuan;  
 b. penyediaan unit layanan dan pendampingan perlindungan hukum bagi perempuan korban kekerasan yang melakukan pendataan terkait kekerasan terhadap perempuan;  
 c. penyediaan komunikasi informasi edukasi, advokasi, sosialisasi, dan bimbingan teknis;  
@@ -360,7 +362,7 @@ h. pembinaan lembaga perlindungan anak; dan i. memberikan perlindungan khusus ba
 
 #### Pasal 27
 
-Kegiatan dalan Penyelenggaraan Perlindungan anak di Kabupaten meliputi:
+Kegiatan dalan Penyelenggaraan Perlindungan anak di Kabupaten meliputi:  
 a. pemenuhan hak anak; danb. perlindungan khusus anak.  
 
 ## Bagian Kedua
@@ -373,12 +375,12 @@ Pemenuhan hak anak menjadi kewajiban Pemerintah Kabupaten, Orangtua, dan masyara
 
 #### Pasal 29
 
-( 1 ) Pemerintah Kabupaten wajib memenuhi hak anak di bidang:
+( 1 ) Pemerintah Kabupaten wajib memenuhi hak anak di bidang:  
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejehteraan; dand. pendidikan, pemanfaatan waktu luang, dan kegiatan seni budaya.  
 
-( 2 ) Dalam memenuhi hak anak sebagaimana dimaksud pada ayat (1) huruf a Pemerintah Kabupaten berkewajiban:
+( 2 ) Dalam memenuhi hak anak sebagaimana dimaksud pada ayat (1) huruf a Pemerintah Kabupaten berkewajiban:  
 a. mengupayakan anak memperoleh akta kelahiran secara gratis;  
 b. menyediakan sarana prasarana yang dibutuhkan anak untuk berekspresi, berpikir, dan berkreasi; danc. menyediakan sarana prasarana agar anak dapat memperoleh ilmu pengetahuan yang dibutuhkan.  
 3. Dalam memenuhi hak anak sebagaimana dimaksud pada ayat (1) huruf b, Pemerintah Kabupaten melakukan upaya:a. pembinaan terhadap keluarga atau keluarga pengganti untuk memenuhi hak anak yang diperlukan selama dalam pengasuhannya;  
@@ -408,7 +410,7 @@ b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat, dan minatnya; danc. m
 #### Pasal 31
 
 ( 1 ) Pemerintah Kabupaten berkewajiban dan bertanggung jawab untuk melakukan pencegahan dan penanganan kasus anak korban penelantaran, kekerasan, diskriminasi, eksploitasi, perdagangan anak, perlakuan salah, narkotika, psikotropika, dan zat adiktif lainnya, dan/atau pornografi.  
-19- ( 2 ) Tanggung jawab sebagaimana dimaksud pada ayat (1) meliputi:
+19- ( 2 ) Tanggung jawab sebagaimana dimaksud pada ayat (1) meliputi:  
 a. menghormati, memenuhi, dan melindungi hak anak;  
 b. melakukan sosialisasi tentang dampak buruk penelantaran, kekerasan, diskriminasi, eksploitasi, perdagangan anak, perlakuan salah narkotika, psikotropika, dan zat adiktif lainnya, dan/atau pornografi;  
 c. membuat kebijakan dan/atau perubahan kebijakan tentang perlindungan anak;  
@@ -446,7 +448,7 @@ c. pemberian bantuan sosial bagi Anak yang berasal dari keluarga yang tidak mamp
 
 #### Pasal 33
 
-Pemerintahan Kabupaten dalam melaksanakan Perlindungan Khusus sebagaimana dimaksud pada Pasal 32 menyediakan:
+Pemerintahan Kabupaten dalam melaksanakan Perlindungan Khusus sebagaimana dimaksud pada Pasal 32 menyediakan:  
 a. pekerja sosial dan tenaga kesejahteraan sosial;;  
 b. tenaga kesehatan yang kompeten dan terlatih;  
 c. petugas pembimbing rohani/ibadah;  
@@ -573,7 +575,7 @@ Anak yang Dieksploitasi Secara Ekonomi dan/atau Seksual
 
 #### Pasal 44
 
-Perlindungan Khusus bagi Anak yang Dieksploitasi secara Ekonomi dan/atau Seksual sebagaimana dimaksud dalamPasal 32 ayat (1) huruf d dilakukan melalui:
+Perlindungan Khusus bagi Anak yang Dieksploitasi secara Ekonomi dan/atau Seksual sebagaimana dimaksud dalamPasal 32 ayat (1) huruf d dilakukan melalui:  
 a. penyebarluasan dan/atau sosialisasi ketentuan peraturan -27- perundang-undangan yang berkaitan dengan perlindungan Anak yang Dieksploitasi secara Ekonomi dan/atau Seksual;  
 b. pemantauan, pelaporan, dan pemberian sanksi; danc. pelibatan berbagai perusahaan, serikat pekerja, lembaga swadaya masyarakat, dan Masyarakat dalam penghapusan eksploitasi terhadap Anak secara ekonomi dan/atau seksual.  
 
@@ -595,7 +597,7 @@ c. pelaku yang diduga mengeksploitasi seksual Anak; dand. tindakan razia untuk m
 
 #### Pasal 47
 
-Pelibatan berbagai perusahaan, serikat pekerja, lembaga swadaya masyarakat, dan Masyarakat dalam penghapusan eksploitasi terhadap Anak secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 44 huruf c dilakukan melalui:
+Pelibatan berbagai perusahaan, serikat pekerja, lembaga swadaya masyarakat, dan Masyarakat dalam penghapusan eksploitasi terhadap Anak secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 44 huruf c dilakukan melalui:  
 a. penyusunan kebijakan tentang penghapusan eksploitasi secara ekonomi dan/atau seksual Anak di lingkungannya;  
 b. kerja sama untuk mencegah agar Anak tidak dieksploitasi secara ekonomi dan/atau seksual;  
 c. kampanye penghapusan eksploitasi secara ekonomi dan/ atau seksual terhadap Anak;  
@@ -604,7 +606,7 @@ e. dukungan perusahaan untuk penghapusan eksploitasi terhadap Anak melalui tangg
 
 #### Pasal 48
 
-Dalam ha1 Anak yang Dieksploitasi secara Ekonomi dan/ atau Seksual memerlukan pemulihan kondisi seperti semula harus diberikan layanan berupa:
+Dalam ha1 Anak yang Dieksploitasi secara Ekonomi dan/ atau Seksual memerlukan pemulihan kondisi seperti semula harus diberikan layanan berupa:  
 a. rehabilitasi medis;  
 b. rehabilitasi Sosial;  
 c. bantuan hukum dan bantuan sosial; dan/atau d. pemulangan dan Reintegrasi Sosial.  
@@ -625,7 +627,7 @@ b. pemantauan di lingkungan sekitar agar tidak terjadi peredaran atau penyalahgu
 
 #### Pasal 51
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 49 dilakukan dengan:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 49 dilakukan dengan:  
 a. komunikasi, informasi, dan edukasi tentang bahaya bagi Anak jika terlibat dalam produksi dan distribusi serta bahaya narkotika, alkohol, psikotropika, dan zat adiktif lainnya;  
 b. peningkatan peran orang tua, keluarga, Masyarakat, pendidik, tenaga kependidikan, tokoh agama, tokoh adat, tokoh Masyarakat dalam mendukung proses Reintegrasi Sosial Anak yang Menjadi Korban Penyalahgunaan Narkotika, Alkohol, Psikotropika, dan Zat Adiktif Lainnya;  
 c. pemberian pemahaman dan kesadaran terhadap Anak mengenai bahaya merokok;  
@@ -660,7 +662,7 @@ Anak yang Menjadi Korban Pornografi
 
 #### Pasal 56
 
-Pembinaan sebagaimana dimaksud dalam Pasal 55 ayat (1) dilakukan oleh Pemerintah Kabupaten sesuai kewenangannya dengan:
+Pembinaan sebagaimana dimaksud dalam Pasal 55 ayat (1) dilakukan oleh Pemerintah Kabupaten sesuai kewenangannya dengan:  
 a. melakukan koordinasi pencegahan dan penanganan pornografi Anak;  
 b. melakukan sosialisasi;  
 c. mengadakan pendidikan dan pelatihan;  
@@ -668,19 +670,19 @@ d. meningkatkan kesadaran dan tanggung jawab Masyarakat; dane. melakukan pembina
 
 #### Pasal 57
 
-Pendampingan sebagaimana dimaksud dalam Pasal 55 ayat (1) dilaksanakan dengan:
+Pendampingan sebagaimana dimaksud dalam Pasal 55 ayat (1) dilaksanakan dengan:  
 a. bimbingan dan Konseling; dan -31-b. kegiatan lain yang diperlukan.  
 
 #### Pasal 58
 
-Pemulihan sosial sebagaimana dimaksud dalam Pasal 55 ayat (1) diberikan dalam bentuk:
+Pemulihan sosial sebagaimana dimaksud dalam Pasal 55 ayat (1) diberikan dalam bentuk:  
 a. resosialisasi;  
 b. penyuluhan mengenai nilai-nilai moral yang bersumber dari ajaran agama sesuai dengan agama yang dianut Anak;  
 c. peningkatan kesadaran Masyarakat untuk dapat menerima kembali Anak yang menjadi korban atau pelaku pornografi; dand. pemantauan secara berkala.  
 
 #### Pasal 59
 
-Pemulihan kesehatan fisik dan mental sebagaimana dimaksud dalam Pasal 55 ayat (1) diberikan dalam bentuk:
+Pemulihan kesehatan fisik dan mental sebagaimana dimaksud dalam Pasal 55 ayat (1) diberikan dalam bentuk:  
 a. terapi psiko sosial;  
 b. konseling;  
 c. kegiatan yangbermanfaat;  
@@ -694,7 +696,7 @@ b. optimalisasi peran Gugus Tugas Pencegahan dan Penanganan Pornografi;
 c. peningkatan kapasitas Gugus Tugas Pencegahan dan Penanganan Pornografi Daerah;  
 d. penyusunan dan penyebarluasan materi komunikasi, informasi, dan edukasi terkait pencegahan pornografi di sekolah dan Masyarakat;  
 e. pembinaan kepada Masyarakat untuk tidak melakukan kegiatan yang mengarah pada pornografi;danf. pembinaan kepada PD, lembaga swadaya masyarakat, dan Masyarakat untuk meningkatkan upaya dan pencegahan dan penanganan pornografi.  
-32- (3) Upaya pencegahan oleh Masyarakat agar Anak tidak menjadi Korban Pornografi melalui:
+32- (3) Upaya pencegahan oleh Masyarakat agar Anak tidak menjadi Korban Pornografi melalui:  
 a. penyebarluasan materi komunikasi, informasi, dan edukasi terkait pencegahan pornografi di lingkungan sekitar;  
 b. penguatan kepada lingkungan sekitar untuk tidak melakukan kegiatan yang mengarah pada pornografi; danc. peningkatan upaya pencegahan dan penanganan pornografi di lingkungan sekitar.  
 4. Ketentuan mengenai tata cara upaya pencegahan sebagaimana dimaksud pada ayat (2) dan ayat (3) diatur dalam Peraturan Bupati.  
@@ -714,7 +716,7 @@ Perlindungan Khusus bagi Anak dengan HIV dan AIDS sebagaimana dimaksud dalam Pas
 
 #### Pasal 63
 
-Upaya pengawasan sebagaimana dimaksud dalam Pasal 62 dilakukan dalambentuk:
+Upaya pengawasan sebagaimana dimaksud dalam Pasal 62 dilakukan dalambentuk:  
 a. pemeriksaan secara berkala atau sewaktu-waktu maupun pemeriksaan terpadu tentang Anak dengan HIV danAIDS;  
 b. pengujian terhadap laporan berkala dan/ atau sewaktu- waktu terkait pencegahan, penanganan, dan perlindungan Anak dari HIV dan AIDS;  
 c. surveilans kesehatan berupa pencatatan, pelaporan, dan analisis data pada ibu, ibu hamil, atau Anak yang terindikasi HIV; dand. monitoring dan evaluasi pelaksanaan pencegahan, penanganan, dan perlindungan Anak dari HIV dan AIDS.  
@@ -722,7 +724,7 @@ c. surveilans kesehatan berupa pencatatan, pelaporan, dan analisis data pada ibu
 
 #### Pasal 64
 
-Upaya pencegahan sebagaimana dimaksud dalam Pasal 62 dilakukan dalam bentuk:
+Upaya pencegahan sebagaimana dimaksud dalam Pasal 62 dilakukan dalam bentuk:  
 a. menyusun dan melaksanakan kebijakan terkait rencana aksi tentang pencegahan dan penanganan Anak dengan HIV dan AIDS;  
 b. promosi kesehatan untuk meningkatkan pengetahuan Masyarakat tentang manfaat deteksi dini dan penularan HIV dan AIDS serta meningkatkan pengetahuan dan tanggung jawab ibu, ibu hamil, Anak, dan pasangan suami istri;  
 c. mencegah penularan HIV dan AIDS dari ibu ke Anak;  
@@ -773,7 +775,7 @@ Perlindungan Khusus bagi Anak Korban Penculikan, Penjualan, dan/ atau Perdaganga
 
 #### Pasal 71
 
-Pengawasan sebagaimana dimaksud dalam Pasal 70 dilakukan melalui:
+Pengawasan sebagaimana dimaksud dalam Pasal 70 dilakukan melalui:  
 a. penguatan terhadap keluarga dan Masyarakat agar Anak tidak menjadi korban penculikan, penjualan, dan/atau perdagangan;  
 b. pemantauan di lingkungan sekitar agar Anak tidak menjadi korban penculikan, penjualan, dan/atau perdagangan; danc. pelaporan kepada pejabat/instansi yang berwenang bila terjadi penculikan, penjualan, dan/atau perdagangan.  
 
@@ -783,7 +785,7 @@ Perlindungan sebagaimana dimaksud dalam Pasal 70 dilakukan dengan memberikan jam
 
 #### Pasal 73
 
-Pencegahan sebagaimana dimaksud dalam Pasal 70 dilakukan dengan cara:
+Pencegahan sebagaimana dimaksud dalam Pasal 70 dilakukan dengan cara:  
 a. melibatkan Masyarakat dalam melakukan Perlindungan Khusus Anak;  
 b. meningkatkan pemahaman terkait penculikan, penjualan, dan/atau perdagangan Anak;  
 c. menjalin kerja sama bilateral maupunmultilateral,baik nasional maupuninternasional;  
@@ -791,7 +793,7 @@ d. meningkatkan ketahanan keluarga untuk mencegah Anak dari penculikan, penjuala
 
 #### Pasal 74
 
-Perawatan dan rehabilitasi sebagaimana dimaksud dalamPasal 70 dilakukan dengan cara:
+Perawatan dan rehabilitasi sebagaimana dimaksud dalamPasal 70 dilakukan dengan cara:  
 a. rehabilitasi fisik danpsikis;  
 b. pelayanan pengobatan, seperti infeksi saluran reproduksi dan penyakit menular;  
 c. rehabilitasi kesehatan jiwa; dan/ataud. Rehabilitasi Sosial.  
@@ -878,13 +880,13 @@ f. dukungan aksesibilitas; dan/ataug. bentuk lainnya yang mendukung keberfungsia
 
 #### Pasal 84
 
-Pendampingan psikososial pada saat pengobatan sampai dengan pemulihan sebagaimana dimaksud dalam Pasal 81 huruf c dilakukan dengan cara:
+Pendampingan psikososial pada saat pengobatan sampai dengan pemulihan sebagaimana dimaksud dalam Pasal 81 huruf c dilakukan dengan cara:  
 a. meningkatkan kepercayaan diri pada Anak Korban Kejahatan Seksual;  
 b. menghilangkan rasa malu, keraguan, dan rasa bersalah pada Anak Korban Kejahatan Seksual; danc. mendorong Anak Korban Kejahatan Seksual untuk memiliki inisiatif.  
 
 #### Pasal 85
 
-Pemberian perlindungan dan pendampingan pada setiap tingkat pemeriksaan mulai dari penyidikan, penuntutan, sampai dengan pemeriksaan di sidang pengadilan sebagaimana dimaksud dalam Pasal 81 huruf d dilakukan melalui:
+Pemberian perlindungan dan pendampingan pada setiap tingkat pemeriksaan mulai dari penyidikan, penuntutan, sampai dengan pemeriksaan di sidang pengadilan sebagaimana dimaksud dalam Pasal 81 huruf d dilakukan melalui:  
 a. pemberian informasi tentang proses perkara Anak Korban Kejahatan Seksual dan hak untuk mendapatkan restitusi;  
 b. pemberian pendampingan di tingkat penyidikan, penuntutan, dan pemeriksaan pengadilan; danc. pemberian jaminan keamanan dan keselamatan Anak Korban Kejahatan Seksual.  
 
@@ -906,7 +908,7 @@ Anak Korban Jaringan Terorisme
 
 #### Pasal 88
 
-Perlindungan Khusus bagi Anak Korban Jaringan Terorisme sebagaimana dimaksud dalam Pasal 32 ayat (1) huruf k dilakukan melaluiupaya:
+Perlindungan Khusus bagi Anak Korban Jaringan Terorisme sebagaimana dimaksud dalam Pasal 32 ayat (1) huruf k dilakukan melaluiupaya:  
 a. edukasi tentang pendidikan, ideologi, dan nilai nasionalisme;  
 b. konseling tentang bahaya terorisme;  
 c. Rehabilitasi Sosial; dand. Pendampingan Sosial.  
@@ -950,7 +952,7 @@ f. menghubungkan ke lembaga yang menangani Anak Korban Jaringan Terorisme; dang.
 
 #### Pasal 93
 
-Perlindungan Khusus bagi Anak Korban Jaringan Terorisme juga diberikan dalam bentuk:
+Perlindungan Khusus bagi Anak Korban Jaringan Terorisme juga diberikan dalam bentuk:  
 a. pemenuhan hak Anak Korban Jaringan Terorisme atas pengasuhan dan pemulihan kesehatan psikis;  
 b. rehabilitasi medis;  
 c. reedukasi dan Reintegrasi Sosial;dand. jaminan keselamatan baik fisik, mental, maupun sosial bagi Anak Korban Jaringan Terorisme.  
@@ -973,32 +975,32 @@ Pargraf 12 Anak Penyandang Disabilitas
 
 #### Pasal 96
 
-Perlindungan Khusus bagi Anak Penyandang Disabilitas sebagaimana dimaksud dalam Pasal 32 ayat (1) huruf 1 dilakukan melalui upaya:
+Perlindungan Khusus bagi Anak Penyandang Disabilitas sebagaimana dimaksud dalam Pasal 32 ayat (1) huruf 1 dilakukan melalui upaya:  
 a. perlakuan secara manusiawi sesuai dengan martabat dan hak Anak;  
 b. pemenuhan kebutuhan khusus;  
 c. perlakuan yang sama dengan Anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu; dand. Pendampingan Sosial.  
 
 #### Pasal 97
 
-Perlakuan secara manusiawi sesuai dengan martabat dan hak Anak sebagaimana dimaksud dalam Pasal 96 huruf a dilakukan melalui:
+Perlakuan secara manusiawi sesuai dengan martabat dan hak Anak sebagaimana dimaksud dalam Pasal 96 huruf a dilakukan melalui:  
 a. pemenuhan hak Anak Penyandang Disabilitas;  
 b. perlindungan darikekerasan;  
 c. penghormatan atas integritas mental dan fisiknya berdasarkan kesamaan dengan orang lain;dand. perawatan dan pengasuhan oleh keluarga atau Keluarga Pengganti untuk tumbuh kembang secara optimal.  
 
 #### Pasal 98
 
-Pemenuhan kebutuhan khusus sebagaimana dimaksud -44- dalam Pasal 99 huruf b dilakukan melalui:
+Pemenuhan kebutuhan khusus sebagaimana dimaksud -44- dalam Pasal 99 huruf b dilakukan melalui:  
 a. aksesibilitas fisik dan nonfisik;danb. pemberian layanan yang dibutuhkan termasuk obat-obatan yang melekat pada Anak Penyandang Disabilitas.  
 
 #### Pasal 99
 
-Perlakuan yang sama dengan Anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu sebagaimana dimaksud dalam Pasal 96 huruf c dilakukan melalui:
+Perlakuan yang sama dengan Anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu sebagaimana dimaksud dalam Pasal 96 huruf c dilakukan melalui:  
 a. perlakuan nondiskriminasi;  
 b. pelibatan Anak Penyandang Disabilitas dalammenyampaikan pandangan sesuai kebutuhan; danc. pemberian akses bagi Anak Penyandang Disabilitas untuk mengembangkan diri serta mendayagunakan seluruh kemampuan sesuai bakat dan minat yang dimiliki.  
 
 #### Pasal 100
 
-Perlindungan Khusus bagi Anak Penyandang Disabilitas juga dapat dilakukan melalui:
+Perlindungan Khusus bagi Anak Penyandang Disabilitas juga dapat dilakukan melalui:  
 a. habilitasi dan rehabilitasi;danb. penyediaan akomodasi yang layak bagi Anak Penyandang Disabilitas sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 101
@@ -1020,14 +1022,14 @@ a. pemetaan terhadap Anak yang rentan diperlakukan salah dan ditelantarkan; danb
 
 #### Pasal 104
 
-Pencegahan sebagaimana dimaksud dalam Pasal 102 dilakukan dengan:
+Pencegahan sebagaimana dimaksud dalam Pasal 102 dilakukan dengan:  
 a. memberikan pembinaan kepada orang tua tentang hak Anak agar tidak diperlakukan salah dan ditelantarkan;  
 b. memberikan layanan kebutuhan dasar;  
 c. memberikan akses pendidikan; dand. memberikan pelatihan keterampilan atau kerja mandiri.  
 
 #### Pasal 105
 
-Perawatan sebagaimana dimaksud dalam Pasal 102 dilakukan dalam bentuk:
+Perawatan sebagaimana dimaksud dalam Pasal 102 dilakukan dalam bentuk:  
 a. rehabilitasi medis; dan/ataub. pengasuhan keluarga atau Keluarga Pengganti untuk tumbuh kembang secara optimal.  
 
 #### Pasal 106
@@ -1048,7 +1050,7 @@ Perlindungan Khusus bagi Anak dengan Perilaku Sosial Menyimpang sebagaimana dima
 
 #### Pasal 109
 
-Bimbingan nilai agama dan nilai sosial sebagaimana dimaksud dalam Pasal 108 diberikan dalam bentuk:
+Bimbingan nilai agama dan nilai sosial sebagaimana dimaksud dalam Pasal 108 diberikan dalam bentuk:  
 a. pengajaran untuk merijalankan perintah agama sesuai -46- keyakinan Anak dengan Perilaku Sosial yang Menyimpang;  
 b. pemahaman untuk berperilaku sesuai dengan norma kesusilaan dan kesopanan;  
 c. pemahaman untuk tidak melakukan kekerasan dan kerusakan; dand. peningkatan kepedulian terhadap lingkungan sekitar.  
@@ -1096,7 +1098,7 @@ Konseling, Rehabilitasi Sosial, dan Pendampingan Sosial sebagaimana dimaksud dal
 
 #### Pasal 118
 
-Untuk mencegah terjadinya stigmatisasi dari pelabelan terhadap Anak terkait kondisi orang tuanya, Pemerintah Kabupaten melakukan:
+Untuk mencegah terjadinya stigmatisasi dari pelabelan terhadap Anak terkait kondisi orang tuanya, Pemerintah Kabupaten melakukan:  
 a. pemberian edukasi kepada Masyarakat serta berperan aktif untuk menghilangkan stigma terhadap Anak yang dilabeli terkait kondisi orang tuanya;  
 
 b.pemberian ruang kepada Anak yang dilabeli terkait kondisi -48- orang tuanya untuk mendapatkan kegiatan rekreasional; dan
@@ -1108,7 +1110,7 @@ Layanan atau Penanganan Rujukan Lanjutan bagi Anak Korban Kekerasan
 
 #### Pasal 119
 
-Dalam rangka perlindungan anak, Pemerintah Kabupaten berkewajiban:
+Dalam rangka perlindungan anak, Pemerintah Kabupaten berkewajiban:  
 a. menyediakan layanan atau penanganan rujukan lanjutan; danb. melakukan penguatan dan pengembangan lembaga penyedialayanan perlindungan perempuan dan anak.  
 
 #### Pasal 120
@@ -1138,7 +1140,7 @@ d. meningkatkan ketahanan keluarga.
 
 #### Pasal 123
 
-Pencegahan perkawinan usia anak sebagaimana dimaksud dalamPasal 122 huruf a bertujuan:
+Pencegahan perkawinan usia anak sebagaimana dimaksud dalamPasal 122 huruf a bertujuan:  
 a. meningkatkan produkstivitas anak perempuan;  
 b. mengembangkan potensi diri anak perempuan;  
 c. mencegah kehamilan di usia terlalu muda;  
@@ -1147,18 +1149,18 @@ e. menurunkan angka kemiskinan; danf. mencegah terjadinya kekerasan dalam rumah 
 
 #### Pasal 124
 
-Pemenuhan hak anak atas ASI eksklusif sebagaimana dimaksud dalam Pasal 123 huruf b bertujuan:
+Pemenuhan hak anak atas ASI eksklusif sebagaimana dimaksud dalam Pasal 123 huruf b bertujuan:  
 a. menjamin hak setiap anak memperoleh ASI eksklusif;  
 b. menjamin kesehatan anak dan tumbuh kembang secara optimal, terutama pada usia emas; danc. mencegah gizi buruk.  
 
 #### Pasal 125
 
-Mendekatkan ibu pada pelayanan kesehatan sebagaimana dimaksud dalam Pasal 122 huruf c bertujuan:
+Mendekatkan ibu pada pelayanan kesehatan sebagaimana dimaksud dalam Pasal 122 huruf c bertujuan:  
 a. menjamin kesehatan ibu dan anak baik sebelum, pada saat, maupun pasca melahirkan; danb. meningkatkan wawasan dan pengetahuan ibu tentang kesehatan diri dan keluarga.  
 
 #### Pasal 126
 
-Ketahanan keluarga sebagaimana dimaksud dalam Pasal 122 huruf d bertujuan:
+Ketahanan keluarga sebagaimana dimaksud dalam Pasal 122 huruf d bertujuan:  
 a. memenuhi hak anggota keluarga;  
 b. meningkatan kualitas hidup anggota keluarga; dan c. meningkatkan kesejahteraan keluarga.  
 
@@ -1260,7 +1262,7 @@ d. pemantauan; dane. evaluasi.
 
 #### Pasal 137
 
-Pendanaan pelaksanaan pemberdayaan perempuan dan perlindungan anak bersumber dari:
+Pendanaan pelaksanaan pemberdayaan perempuan dan perlindungan anak bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; danb. sumber lain yang sah, sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB X
@@ -1269,7 +1271,7 @@ a. anggaran pendapatan dan belanja daerah; danb. sumber lain yang sah, sesuai de
 
 #### Pasal 138
 
-Setiap penyelenggara pendidikan di tingkat kabupaten dilarang:
+Setiap penyelenggara pendidikan di tingkat kabupaten dilarang:  
 a. membuat tata tertib sekolah yang berpotensi melanggar hak anak; dan/atau -54-b. mengeluarkan Anak dari lembaga pendidikan tanpa adanya jaminan terhadap keberlangsungan pendidikan Anak.  
 
 # BAB XI

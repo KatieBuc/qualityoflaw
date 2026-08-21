@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa penyelenggaraan  perlindungan perempuan dan anak korban kekerasan telah ditetapkan dengan Peraturan Daerah Kabupaten Gunungkidul Nomor 25 Tahun 2012;  
 b. bahwa sesuai dengan perkembangan sosial dan dalam rangka optimalisasi terhadap perlindungan perempuan dan anak korban kekerasan, maka Peraturan Daerah Nomor 25 Tahun 2012 perlu diubah dan disesuaikan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan terhadap Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -117,7 +119,7 @@ Jenis Kekerasan
 
 #### Pasal 5
 
-Jenis kekerasan antara lain:
+Jenis kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -134,27 +136,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5  huruf b adalah perbuatan ya
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal  5 huruf c meliputi:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal  5 huruf c meliputi:  
 a. perbuatan yang berupa pelecehan seksual:  b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar  atau tidak disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain  untuk tujuan komersial dan atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5  huruf d antara lain:
+Penelantaran sebagaimana dimaksud dalam Pasal 5  huruf d antara lain:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental,  spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk  memelihara, merawat, atau mengurus anak  sebagaimana mestinya yang dilakukan oleh orang  tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup  rumah tangganya, padahal menurut hukum yang  berlaku baginya atau karena persetujuan atau  perjanjian ia wajib memberikan kehidupan,  perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan  ekonomi dengan cara membatasi dan/atau melarang  untuk bekerja yang layak di dalam atau di luar  rumah sehingga korban berada di bawah kendali  orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf  e adalah:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf  e adalah:  
 a. perbuatan yang mengeksploitasi ekonomi atau  seksual dengan maksud untuk menguntungkan diri  sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan  korban yang meliputi tetapi tidak terbatas pada  pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh;  
 c. memanfaatkan tenaga atau kemampuan seseorang  oleh pihak lain untuk mendapatkan keuntungan  baik materiil maupun immateriil; dan/ataud. segala bentuk pemanfaatan organ tubuh seksual  atau organ tubuh lain dari korban untuk  mendapatkan keuntungan, termasuk tetapi tidak  terbatas pada semua kegiatan pelacuran atau  pencabulan.  
 
 #### Pasal 11
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal  5 huruf f yaitu:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal  5 huruf f yaitu:  
 a. ancaman kekerasan meliputi setiap perbuatan  secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang  menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
 
 ## Bagian Kedua
@@ -189,7 +191,7 @@ Hak-Hak Korban Kekerasan
 
 #### Pasal 15
 
-Perempuan dan anak korban tindak kekerasan berhak  mendapatkan:
+Perempuan dan anak korban tindak kekerasan berhak  mendapatkan:  
 a. Pelindungan;  
 b. informasi;  
 c. pelayanan prima;  
@@ -199,7 +201,7 @@ f. pendampingan secara psikologis dan hukum; dan  g. jaminan atas hak-hak yang b
 
 #### Pasal 16
 
-Selain mendapatkan hak sebagaimana dimaksud dalam  Pasal 15, anak korban kekerasan juga mendapatkan  hak khusus berupa:
+Selain mendapatkan hak sebagaimana dimaksud dalam  Pasal 15, anak korban kekerasan juga mendapatkan  hak khusus berupa:  
 a. hak atas penghormatan dan penggunaan  sepenuhnya untuk kelangsungan hidup, tumbuh,  dan berkembang;  
 b. hak pelayanan dasar ;  
 c. hak pelindungan yang sama;  
@@ -242,7 +244,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya
 
 #### Pasal 21
 
-Pelayanan pengaduan sebagaimana dimaksud dalam  Pasal 20 ayat (1) huruf a meliputi:
+Pelayanan pengaduan sebagaimana dimaksud dalam  Pasal 20 ayat (1) huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban; dan  b. persetujuan dilakukan tindakan.  
 
 #### Pasal 22
@@ -373,7 +375,7 @@ h. menerima rujukan dari FPKK Kapanewon dan/atau  FPKK Kalurahan; dan/ataui. mel
 
 #### Pasal 35
 
-Unsur FPKK Kabupaten sebagaimana dimaksud dalam  Pasal 32 ayat (2) huruf a meliputi:
+Unsur FPKK Kabupaten sebagaimana dimaksud dalam  Pasal 32 ayat (2) huruf a meliputi:  
 a. Instansi Pemerintah; danb. lembaga masyarakat.  
 
 #### Pasal 36
@@ -427,7 +429,7 @@ g. pamong Kalurahan; dan/atauh. organisasi/lembaga terkait lainnya.
 
 #### Pasal 42
 
-FPKK Kalurahan sebagaimana dimaksud dalam Pasal 32  ayat (2) huruf c bertugas antara lain:
+FPKK Kalurahan sebagaimana dimaksud dalam Pasal 32  ayat (2) huruf c bertugas antara lain:  
 a. menyusun program dan kegiatan dalam upaya  pencegahan dan penanganan kekerasan terhadap  perempuan dan anak dalam lingkup Kalurahan;  dan/ataub. merujuk kasus dan berkoordinasi dengan FPKK  Kapanewon atau FPKK Kabupaten dalam hal FPKK  Kalurahan mengalami kendala terkait penanganan  kasus.  
 
 # BAB VI
@@ -457,7 +459,7 @@ c. memberikan bantuan dalam penyelenggaraan  pelindungan perempuan dan anak seba
 
 #### Pasal 45
 
-Dalam rangka untuk mendukung terhadap  penyelenggaraan pelindungan bagi perempuan dan  anak korban tindak kekerasan maka diperlukan  pendanaan yang dapat bersumber dari:
+Dalam rangka untuk mendukung terhadap  penyelenggaraan pelindungan bagi perempuan dan  anak korban tindak kekerasan maka diperlukan  pendanaan yang dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD);  
 b. Anggaran Pendapatan dan Belanja Kalurahan  (APBKal); danc. sumber lain yang sah dan tidak mengikat sesuai  dengan peraturan perundang-undangan yang  berlaku.  
 

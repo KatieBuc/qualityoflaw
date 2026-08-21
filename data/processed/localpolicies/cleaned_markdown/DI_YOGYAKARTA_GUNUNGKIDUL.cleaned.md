@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan  terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa perlu adanya pengaturan upaya upaya sebagaimana tersebut dalam huruf b di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -95,7 +97,7 @@ Azas, Tujuan, dan Ruang Lingkup
 
 #### Pasal 2
 
-Asas perlindungan Korban adalah:
+Asas perlindungan Korban adalah:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -115,7 +117,7 @@ Ruang lingkup perlindungan terhadap Korban meliputi upaya  pencegahan, pelayanan
 
 #### Pasal 5
 
-Bentuk-bentuk kekerasan antara lain:
+Bentuk-bentuk kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -132,27 +134,27 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 5 huruf b  disebabkan oleh per
 
 #### Pasal 8
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c  disebabkan oleh:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 5 huruf c  disebabkan oleh:  
 a. perbuatan yang berupa pelecehan seksual;  
 b. pemaksaan hubungan seksual;  
 c. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/ataud. pemaksaan hubungan seksual dengan orang lain untuk  tujuan komersial dan atau tujuan tertentu.  
 
 #### Pasal 9
 
-Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d  disebabkan oleh:
+Penelantaran sebagaimana dimaksud dalam Pasal 5 huruf d  disebabkan oleh:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian ia wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada dibawah kendali orang tersebut.  
 
 #### Pasal 10
 
-Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf (e)  disebabkan oleh:
+Eksploitasi sebagaimana dimaksud dalam Pasal 5 huruf (e)  disebabkan oleh:  
 a. perbuatan yang mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri atau  orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tetapi tidak terbatas pada pelacuran, kerja atau  pelayanan paksa, perbudakan atau praktik serupa,  penindasan, pemerasan, pemanfaatan fisik, seksual, organ  reproduksi, atau secara melawan hukum memindahkan atau mentransplantasi organ dan/atau jaringan tubuh atau  memanfaatkan tenaga atau kemampuan seseorang oleh pihak  lain untuk mendapatkan keuntungan baik materiil maupun  immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ  tubuh lain dari korban untuk mendapatkan keuntungan,  termasuk tetapi tidak terbatas pada semua kegiatan  pelacuran atau pencabulan
 
 #### Pasal 11
 
-Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f  disebabkan oleh:
+Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f  disebabkan oleh:  
 a. ancaman kekerasan meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang berlawanan  dengan kehendak sendiri.  
 
 # BAB III
@@ -178,14 +180,14 @@ d. bidang pemulangan dan reintegrasi sosial; dane. bidang layanan bantuan hukum.
 
 #### Pasal 14
 
-Ketua Umum sebagaimana dimaksud dalam Pasal 13 ayat (1)  huruf a mempunyai tugas:
+Ketua Umum sebagaimana dimaksud dalam Pasal 13 ayat (1)  huruf a mempunyai tugas:  
 a. mengkoordinasikan perumusan kebijakan, strategi, program,  dan kegiatan serta langkah-langkah yang diperlukan dalam  penyelenggaraan P2TP2A Berjejaring;  
 b. melakukan pengawasan dan pembinaan atas pelaksanaan  perlindungan dan penanganan korban kekerasan;  
 c. melaksanakan kebijakan yang ditetapkan oleh Bupati; dan d. bertanggung jawab atas keseluruhan proses penyelenggaraan  perlindungan dan penanganan kekerasan terhadap korban  kekerasan.  
 
 #### Pasal 15
 
-Ketua pelaksana sebagaimana dimaksud dalam Pasal 13 ayat (1)  huruf b mempunyai tugas:
+Ketua pelaksana sebagaimana dimaksud dalam Pasal 13 ayat (1)  huruf b mempunyai tugas:  
 a. mengkoordinasikan tugas dan fungsi dari masing-masing  bidang layanan;  
 b. mengendalikan pelaksanaan program perlindungan dan  penanganan korban kekerasan;  
 c. melakukan koordinasi dan kerjasama dengan pihak eksternal  yang terkait;  
@@ -193,7 +195,7 @@ d. menghimpun dan memanfaatkan sumber daya secara efektif  dan efisien untuk keg
 
 #### Pasal 16
 
-Sekretaris sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  c mempunyai tugas:
+Sekretaris sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  c mempunyai tugas:  
 a. membantu pelaksanaan tugas dari Ketua Umum;  
 b. membantu menyiapkan kegiatan koordinasi dan tindak lanjut  perlindungan, penanganan korban kekerasan;  
 c. membantu menyiapkan rencana program kerja gugus tugas  pusat;  
@@ -202,20 +204,20 @@ e. menyelenggarakan pelayanan kegiatan pengumpulan,  pengolahan, dan penyajian d
 
 #### Pasal 17
 
-Bendahara sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  d mempunyai tugas:
+Bendahara sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  d mempunyai tugas:  
 a. membantu ketua umum dalam menyelenggarakan keuangan  P2TP2A Berjejaring;  
 b. melakukan segala sesuatu yang terkait dengan penerimaan  dan pengeluaran keuangan; danc. membuat laporan keuangan yang disampaikan kepada Ketua  Pelaksana dan Ketua Umum.  
 
 #### Pasal 18
 
-Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf a memiliki tugas:
+Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf a memiliki tugas:  
 a. melakukan wawancara dan observasi keadaan korban;  
 b. membuat rekomendasi layanan lanjutan;  
 c. melakukan koordinasi dan rujukan ke layanan lanjutan dan  pihak terkait; dand. melakukan administrasi proses pengaduan.  
 
 #### Pasal 19
 
-Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf b memiliki tugas:
+Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf b memiliki tugas:  
 a. melakukan pemeriksaan, pengobatan, dan perawatan  lanjutan terhadap korban;  
 b. melakukan koordinasi pelaksanaan rehabilitasi kesehatan  dan mediko-legal;  
 c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum;  
@@ -224,18 +226,18 @@ e. melakukan konsultasi kepada dokter ahli atau melakukan  rujukan; danf. membua
 
 #### Pasal 20
 
-Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 13 ayat (2) huruf c memiliki tugas:
+Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 13 ayat (2) huruf c memiliki tugas:  
 a. melakukan pendampingan selama proses penanganan kasus;  danb. melakukan konseling terhadap korban dan/atau pelaku  kekerasan.  
 
 #### Pasal 21
 
-Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 13 ayat (2) huruf d memiliki tugas:
+Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 13 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk  pemulangan korban;  
 b. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi sosial; danc. melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya.  
 
 #### Pasal 22
 
-Bidang layanan bantuan hukum sebagaimana dimaksud dalam  Pasal 13 ayat (2) huruf e memiliki tugas:
+Bidang layanan bantuan hukum sebagaimana dimaksud dalam  Pasal 13 ayat (2) huruf e memiliki tugas:  
 a. mendampingi setiap proses pelayanan hukum; dan b. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 23
@@ -319,7 +321,7 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 
 #### Pasal 29
 
-Dalam penyelenggaraan pelayanan secara terpadu, setiap korban  mendapatkan hak-hak sebagai berikut:
+Dalam penyelenggaraan pelayanan secara terpadu, setiap korban  mendapatkan hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai  manusia;  
 b. hak atas pemulihan kesehatan dan psikologis dari penderitaan  yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  

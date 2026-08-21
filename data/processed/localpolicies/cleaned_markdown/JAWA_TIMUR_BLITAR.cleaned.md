@@ -19,7 +19,7 @@ c. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan p
 d. bahwa perlindungan perempuan dan anak, terutama  korban kekerasan, merupakan salah satu kewajiban yang  harus dilakukan oleh Pemerintah Daerah sebagai salah  satu upaya mewujudkan kesejahteraan masyarakat;  
 e. bahwa untuk mewujudkan perlindungan bagi perempuan  dan anak korban kekerasan secara terpadu dan  berkelanjutan, diperlukan dukungan kelembagaan dan  peraturan perundang-undangan yang dapat menjamin  pelaksanaannya secara terkoordinasi dan terarah;  
 
-Mengingat::
+Mengingat::  
 f. bahwa berdasarkan pertimbangan a, b, c, d, dan e, maka  perlu segera ditetapkan Peraturan Daerah Kabupaten  Blitar tentang Perlindungan Perempuan dan Anak
 1. Pasal 18 ayat (6) Undang-Undang Dasar 1945; 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam  Lingkungan Provinsi Jawa Timur (Berita Negara Republik  Indonesia Tahun 1950 Nomor 41), sebagaimana telah  diubah dengan Undang – Undang Nomor 2 Tahun 1965  (Lembaran Negara Republik Indonesia Tahun 1965 Nomor  19, Tambahan Lembaran Negara Republic Indonesia  Nomor 3851);  
 3. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan  (Lembaran Negara Republik Indonesia Tahun 1974 Nomor  1, Tambahan Lembaran Negara Republik Indonesia Nomor  3019);  
@@ -100,7 +100,7 @@ Dalam Perda ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak berasaskan Pancasila  dan berlandaskan Undang-Undang Dasar Republik Indonesia Tahun 1945,  serta berprinsip dasar pada:
+Penyelenggaraan Perlindungan Perempuan dan Anak berasaskan Pancasila  dan berlandaskan Undang-Undang Dasar Republik Indonesia Tahun 1945,  serta berprinsip dasar pada:  
 a. penghormatan hak asasi manusia, hak asasi manusia perempuan dan  hak-hak asasi anak;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi,d. perlindungan untuk kerahasiaan, keamanan dan kenyamanan korban . e. kepentingan yang terbaik bagi anak;  
@@ -120,7 +120,7 @@ Tujuan penyelenggaraan perlindungan perempuan dan anak terutama  korban kekerasa
 
 #### Pasal 4
 
-Ruang lingkup penyelenggaraan perlindungan perempuan dan anak,  terutama korban kekerasan meliputi:
+Ruang lingkup penyelenggaraan perlindungan perempuan dan anak,  terutama korban kekerasan meliputi:  
 a. penyelenggaran perlindungan perempuan dan anak, baik sebelum, pada  saat maupun pasca terjadi kekerasan, serta pencegahan agar tidak terjadi  kekerasan;  
 b. pengaturan kelembagaan dan mekanisme penyelenggaraan perlindungan  perempuan dan anak, terutama korban kekerasan.  
 
@@ -216,7 +216,7 @@ e. melakukan monitoring dan evaluasi penyelenggaraan perlindungan,  korban keker
 
 #### Pasal 12
 
-Dalam melaksanakan kewajiban dan tanggungjawabnya Pemerintah Daerah  berwewenang:
+Dalam melaksanakan kewajiban dan tanggungjawabnya Pemerintah Daerah  berwewenang:  
 a. membuat kebijakan dan program;  
 b. merumuskan pedoman pelaksanaan;  
 c. menyelenggarakan layanan;  

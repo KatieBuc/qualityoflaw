@@ -18,10 +18,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat, harkat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi sebagai bentuk penghormatan, perlindungan dan penegakan Hak Asasi Manusia, khususnya hak-hak dasar perempuan dan Anak, sehingga perlu diatur mengenai penyelenggaraan perlindungan perempuan dan Anak Korban kekerasan di Kabupaten Blora;  
 b. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -100,7 +102,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Korban berasaskan Pancasila dan berlandaskan Undang Undang Dasar Negara Republik Indonesia Tahun 1945, serta prinsip prinsip dasar yang meliputi:
+Perlindungan Korban berasaskan Pancasila dan berlandaskan Undang Undang Dasar Negara Republik Indonesia Tahun 1945, serta prinsip prinsip dasar yang meliputi:  
 a. non diskriminasi;  
 b. kepentingan terbaik bagi Korban;  
 c. keadilan dan kesetaraan gender;  
@@ -116,7 +118,7 @@ l. kerahasiaan Korban; danm. pengambilan keputusan di tangan Korban.
 
 #### Pasal 3
 
-Tujuan penyelenggaraan perlindungan Korban adalah:
+Tujuan penyelenggaraan perlindungan Korban adalah:  
 a. mencegah Kekerasan Terhadap Perempuan dan Anak;  
 b. memberikan pelayanan kepada perempuan dan Anak Korban Kekerasan; danc. memberdayakan perempuan dan Anak Korban Kekerasan.  
 
@@ -134,7 +136,7 @@ Ruang lingkup penyelenggaraan perlindungan terhadap Korban meliputi  upaya pence
 
 #### Pasal 5
 
-Setiap Korban mendapatkan hak sebagai berikut:
+Setiap Korban mendapatkan hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabatnya sebagai manusia;  
 b. hak menentukan sendiri keputusannya;  
 c. hak mendapatkan informasi;  
@@ -213,7 +215,7 @@ d. bidang pelayanan penegakan hukum dan bantuan hukum; dan/  ataue. bidang pemul
 
 #### Pasal 9
 
-PPT sebagaimana dimaksud dalam Pasal 8 ayat (1) bertugas memberikan  perlindungan kepada Korban berupa:
+PPT sebagaimana dimaksud dalam Pasal 8 ayat (1) bertugas memberikan  perlindungan kepada Korban berupa:  
 a. mengupayakan pencegahan, penanganan dan rehabilitasi,  perlindungan hukum;  
 b. melakukan koordinasi dalam rangka penanganan pelayanan Korban  Kekerasan;  
 c. mengupayakan peningkatan partisipasi masyarakat; dan d. melakukan monitoring dan pelaporan.  
@@ -285,7 +287,7 @@ Pelayanan
 
 #### Pasal 17
 
-Penyelenggaraan pelayanan terhadap Korban dilaksanakan dengan  prinsip:
+Penyelenggaraan pelayanan terhadap Korban dilaksanakan dengan  prinsip:  
 a. cepat;  
 b. aman dan nyaman;  
 c. empati;  
@@ -336,13 +338,13 @@ b. praktek kerja lapangan.
 
 #### Pasal 21
 
-Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 19 huruf b antara lain:
+Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 19 huruf b antara lain:  
 a. pelatihan keterampilan wirausaha;  
 b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaan usaha.  
 
 #### Pasal 22
 
-Bantuan permodalan sebagaimana dimaksud dalam Pasal 19 huruf c  meliputi:
+Bantuan permodalan sebagaimana dimaksud dalam Pasal 19 huruf c  meliputi:  
 a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2

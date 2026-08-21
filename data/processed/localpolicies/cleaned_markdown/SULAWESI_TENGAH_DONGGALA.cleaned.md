@@ -24,6 +24,7 @@ e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c
  
  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
@@ -122,7 +123,7 @@ b. non diskriminasi:c. keadilan.
 
 #### Pasal 3
 
-Tujuan perlindungan perempuan dan anak untuk:
+Tujuan perlindungan perempuan dan anak untuk:  
 a. memberikan dan meningkatkan rasa aman bagi perempuan dan anal(:  
 b. membantu menc€gah tindak kekerasan terhadap perempuan dan anak;  
 c. membantu mencegah kegiatan eksploitasi terhadap perempuan dan anal( d. memberikan pelayanan k€pada perempuan dan anak dalam menghadapi oermasalahan.  e. membantu meningkatkan kualitas hidup anak
@@ -232,7 +233,7 @@ Tugas Pemerintah Daerah dalam Penyelenggaraan Pedindungan Perempuan meliputi: - 
 
 1. Pemerintah daerah melakukan Pencegahan atas tindakan kekerasan terhadap perempuan.  
 
-(21 UpaYa pencegahan atas tindak kekerasan terhadap perempuan dilakukan dengan bentuk kegialan Yang meliputi:
+(21 UpaYa pencegahan atas tindak kekerasan terhadap perempuan dilakukan dengan bentuk kegialan Yang meliputi:  
 a. R€ncana Aksi Daerahb. Sosialisasi;  
 c. Seminar alau lokal€rya;  
 d. Penyiapan sistim informasi yang efektif;  
@@ -329,7 +330,7 @@ aAB V I
 
 1. Bentuk peran serta masyarakat dapat berupa:a. Pengawasan; alaub. Pemberian bantuan;  
 
-(2) Pengawasan masya.akat meliputi kegiatan:
+(2) Pengawasan masya.akat meliputi kegiatan:  
 a. mengamatiatau melihat kondisi pemenuhan hak-hak perempuan dan anak; dan b. memberikan informasi setiap kondisi yang cenderung mengarah pada tindak kekerasan terhadap perempuan dan anak kepada aparat kepolisian dan/atau oemerintah daerah.  
 3. Pemberian banluan sebagaimana dimaksud pada ayat (1) huruf b berupa:  
 a. pengamanan alau Penampungan sementara bagi korban;  

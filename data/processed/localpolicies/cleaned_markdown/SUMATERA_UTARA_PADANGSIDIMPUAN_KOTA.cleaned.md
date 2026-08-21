@@ -117,7 +117,7 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Perlindungan Perempuan dan Anak  dilaksanakan berdasarkan asas:
+Penyelenggaraan Perlindungan Perempuan dan Anak  dilaksanakan berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -134,7 +134,7 @@ g. pemberdayaan.
 
 1. Maksud dibentuknya Peraturan Daerah ini adalah untuk  memberikan landasan kepastian hukum dalam kegiatan  Pemberdayaan Perempuan dan Perlindungan Anak di Daerah.  
 
-2021, No. 3 -78­ (2) Penyelenggaraan Perlindungan Perempuan dan Anak  bertujuan:
+2021, No. 3 -78­ (2) Penyelenggaraan Perlindungan Perempuan dan Anak  bertujuan:  
 a. meningkatkan kualitas hidup perempuan, anak, dan  kualitas keluarga;  
 b. meningkatkan kapasitas kelembagaan pemberdayaan  perempuan dan perlindungan anak termasuk  pengembangan sistem data gender dan anak;  
 c. memberikan perlindungan hak perempuan clan  pemenuhan hak anak termasuk perlindungan khusus bagi  anak dari berbagai bentuk kekerasan dan perlakuan  diskriminatif lainnya;  
@@ -146,7 +146,7 @@ d. memberi pedoman kepada pemerintah daerah, dalam  perencanaan kebijakan strate
 
 #### Pasal 4
 
-Ruang lingkup penyelenggaraan perlindungan perempuan dan  anak, meliputi:
+Ruang lingkup penyelenggaraan perlindungan perempuan dan  anak, meliputi:  
 a. hak dan kewajiban perempuan dan anak;  
 b. bentuk-bentuk kekerasan;  
 c. pencegahan;  
@@ -200,7 +200,7 @@ Kewajiban Pemerintah Daerah
 
 #### Pasal 6
 
-(l)Kewajiban Pemerintah Daerah dalam upaya perlindungan  terhadap perempuan meliputi:
+(l)Kewajiban Pemerintah Daerah dalam upaya perlindungan  terhadap perempuan meliputi:  
 a. menetapkan dan melaksanakan kebijakan program dan  kegiatan perlindungan terhadap hak perempuan;  
 b. melakukan kerjasama dengan masyarakat dan/ atau  Organisasi Kemasyarakatan dalam penyelenggaraan perlindungan perempuan sesuai peraturan perundang undangan;  
 c. melakukan rehabilitasi dan pemberdayaan terhadap  perempuan yang menjadi korban tindak kekerasan;  
@@ -235,7 +235,7 @@ Kewajiban Keluarga
 
 #### Pasal 8
 
-Keluarga dalam upaya perlindungan terhadap hak perempuan  berkewajiban:
+Keluarga dalam upaya perlindungan terhadap hak perempuan  berkewajiban:  
 a. melindungi perempuan dari konflik dan kekerasan dalam  rumah tangga yang merendahkan martabat perempuan;  
 b. memberikan kesempatan yang sama pada perempuan  mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan  dalam rumah tangga.  
 
@@ -253,14 +253,14 @@ d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada anak.
 
 #### Pasal 10
 
-Bentuk-bentuk kekerasan antara lain:
+Bentuk-bentuk kekerasan antara lain:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual; dan/ataud. penelantaran rumah tangga.  
 
 #### Pasal 11
 
-Kekerasan fisik sebagaimana dimaksud dalam Pasal 10 huruf a  mengakibatkan:
+Kekerasan fisik sebagaimana dimaksud dalam Pasal 10 huruf a  mengakibatkan:  
 a. korban mendapat jatuh sakit atau Iuka berat;  
 b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan  pekerjaan jabatan atau mata pencaharian atau kegiatan  sehari-hari.  
 
@@ -272,13 +272,13 @@ Kekerasan psikis sebagaimana dimaksud dalam Pasal 10 huruf b  mengakibatkan keta
 
 #### Pasal 13
 
-Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf  c berupa:
+Kekerasan seksual sebagaimana dimaksud dalam Pasal 10 huruf  c berupa:  
 a. perbuatan pelecehan seksual;  
 b. pemaksaan hubungan seksual dengan tidak wajar atau tidak  disukai; dan/atauc. pemaksaaan hubungan seksual dengan orang lain untuk  tujuan komersil dan/atau tujuan tertentu.  
 
 #### Pasal 14
 
-Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal  10 huruf d disebabkan karena:
+Penelantaran rumah tangga sebagaimana dimaksud dalam Pasal  10 huruf d disebabkan karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara,  merawat, atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun yang  bertanggung jawab atas pengasuhannya;  
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya  atau karena persetujuan atau perjanjian wajib memberikan  kehidupan, perawatan, atau pemeliharaan kepada orang  tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonorni  dengan cara membatasi dan/atau melarang untuk bekerja  yang layak di dalam atau di luar rumah sehingga korban  berada di bawah kendali orang tersebut.  
@@ -313,7 +313,7 @@ BABVIll
 
 #### Pasal 17
 
-Penyelenggaraan Kegiatan Pemulihan Karban Meliputi:
+Penyelenggaraan Kegiatan Pemulihan Karban Meliputi:  
 a. pelayanan kesehatan;  
 b. pendampingan korban;  
 c. konseling;  
@@ -337,7 +337,7 @@ d. bimbingan rohani; dane. resosialisasi;
 
 #### Pasal 19
 
-Penanggungjawab penyelenggaraan perlindungan perempuan dan  anak adaJah sebagai berikut:
+Penanggungjawab penyelenggaraan perlindungan perempuan dan  anak adaJah sebagai berikut:  
 a. Wali Kota Padang Sidempuan sebagai Pelindung  Penyelenggaraan Perlindungan Perempuan dan Anak;  
 b. Pimpinan OPD, Direktur Rumah Sakit Umum, Ketua  Gabungan Organisasi Wanita sebagai Pengarah  Penyelenggaraan Perlindungan Perempuan dan Anak;  
 c. KepaJa Dinas Pemberdayaan Perempuan dan Perlindungan  Anak Kota Padang Sidempuan sebagai Ketua  Penanggungjawab Penyelenggaraan Perlindungan Perempuan  dan Anak;  
@@ -379,12 +379,12 @@ k. Kepala Seksi Penanganan Masalah Sosial Anak Berkebutuhan  Khusus dan Kepala S
 1. Pedoman Penyelenggaraan Sistem Data Gender dan Anak  dimaksudkan sebagai acuan bagi kementerian/lembaga dan  daerah dalam menyediakan dan memanfaatkan data terpilah  untuk perencanaan, penyusunan, pelaksanaan, pemantauan,  evaluasi dan pelaporan kebijakan/program/kegiatan  pembangunan yang responsif gender dan peduli anak.  
 2. Meningkatkan ketersediaan dan pemanfaatan data, informasi  gender dan anak dalam penyusunan, perencanaan,  pelaksanaan, pemantauan dan evaluasi terhadap  program/kegiatan pembangunan.  
 
-Pasal22 (1) Pedoman Penyelenggaraan Sistem Data Gender dan Anak  bertujuan untuk:
+Pasal22 (1) Pedoman Penyelenggaraan Sistem Data Gender dan Anak  bertujuan untuk:  
 a. memperkuat dan mendorong kelembagaan (peraturan,  lembaga, mekanisme) sistem data dengan memilah menurut jenis kelamin dan umur di kementerian/lembaga dan daerah, yang terpercaya, dapat disajikan cepat, akurat konprehensif, dan mutakhir;  
 b. membangun atau memperkuat mekanisme koordinasi  antar kementerian/lembaga dan daerah dalarn pelaksanaan pengumpulan data terpilah;  
 c. meningkatkan ketersediaan dan pemanfaatan data  terpilah untuk perencanaan, pelaksanaan, pemantuan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli ana.k di kementerian/lembaga dan daerah.  
 
-2021, No. 3 -86­ (2) Penyelenggaraan Sistem Data Gender dan Anak berbasis  elektronik Kota Padang Sidempuan meliputi pengiriman,  verifikasi, penginputan dan publikasi data (3) Pemanfaatan Sistem Data Gender dan Anak Kota Padang  Sidempuan terdiri dari:
+2021, No. 3 -86­ (2) Penyelenggaraan Sistem Data Gender dan Anak berbasis  elektronik Kota Padang Sidempuan meliputi pengiriman,  verifikasi, penginputan dan publikasi data (3) Pemanfaatan Sistem Data Gender dan Anak Kota Padang  Sidempuan terdiri dari:  
 a. perangkat daerah di lingkungan Pemerintah Kota Padang  Sidempuan;  
 b. instansi yang berkedudukan di Kota Padang Sidempuan;  danc. masyarakat umum/publik.  
 
@@ -397,7 +397,7 @@ b. instansi yang berkedudukan di Kota Padang Sidempuan;  danc. masyarakat umum/p
 
 #### Pasal 24
 
-Pokja PUG sebagaimana dimaksud pada pasal 23 mempunyai  tugas:
+Pokja PUG sebagaimana dimaksud pada pasal 23 mempunyai  tugas:  
 a. mempromosikan dan menfasilitasi PUG kepada masing masing SKPD;  
 b. melaksanakan sosialisasi dan advokasi PUG kepada Camat,  Kepala Desa dan Lurah;  
 c. menyusun program kerja setiap tahun;  
@@ -460,7 +460,7 @@ c. bantuan dari Pemerintah Kata; dan/ ataud. sumber-sumber pembiayaan lainnya se
 
 #### Pasal 30
 
-Dalam rangka penyelenggaran Perlindungan Perempuan dan Anak dibentuk:
+Dalam rangka penyelenggaran Perlindungan Perempuan dan Anak dibentuk:  
 a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
 b. Lembaga Konsultasi Kesejahteraan Keluarga; danc. Lembaga lain sesuai dengan kebutuhan dan /atau ketentuan peraturan perundang-undangan.  
 
@@ -504,7 +504,7 @@ c. kolaborasi;
 
 #### Pasal 34
 
-Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Perlindungan Anak (P2TP2A) yang berfungsi sebagai:
+Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan  Perlindungan Anak (P2TP2A) yang berfungsi sebagai:  
 a. pusat informasi bagi perempuan dan anak;  
 
 2021, No. 3 -90­
@@ -534,7 +534,7 @@ Untuk menjamin terpenuhinya hak anak agar dapat hidup,  tumbuh, berkembang, dan 
 
 #### Pasal 38
 
-Pengembangan Kota Layak Anak sebagaimana dimaksud dalam  Pasal 37 dilaksanakan berdasarkan prinsip-prinsip sebagai  berikut:
+Pengembangan Kota Layak Anak sebagaimana dimaksud dalam  Pasal 37 dilaksanakan berdasarkan prinsip-prinsip sebagai  berikut:  
 a. tata pemerintahan yang baik, yaitu transparansi,  akuntabilitas, partisipasi, keterbukaan informasi, dan  supremasi hukum;  
 b. non-diskriminasi, yaitu tidak membedakan suku, ras, agama,  jenis kelamin, bahasa, paham politik, asal kebangsaan, status  ekonomi, kondisi fisik maupun psikis anak, atau faktor  lainnya;  
 c. kepentingan terbaik bagi anak, yaitu menjadikan ha! yang  paling baik bagi anak sebagai pertimbangan utarna dalam  setiap kebijakan, program, dan kegiatan;  
@@ -542,7 +542,7 @@ d. hak untuk hidup, kelangsungan hidup, dan perkembangan  anak, yaitu menjamin h
 
 #### Pasal 39
 
-Pengembangan Kata Layak Anak diarahkan pada pemenuhan hak  anak yang meliputi:
+Pengembangan Kata Layak Anak diarahkan pada pemenuhan hak  anak yang meliputi:  
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  

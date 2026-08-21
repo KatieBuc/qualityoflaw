@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  dan anak di Kabupaten Kutai Barat merupakan  pelanggaran hak asasi manusia sehingga perlu  dilindungi harga diri dan martabatnya serta dijamin  hak hidupnya sesuai dengan fitrah dan kodratnya  tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Kutai Barat terus meningkat, sehingga  diperlukan upaya perlindungan dalam bentuk  pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -76,7 +78,7 @@ Perda-Kubar/180/2019 -4-
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan  berdasarkan asas:
+Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan  berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak Korban kekerasan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi; dand. kepentingan yang terbaik bagi Korban.  
@@ -93,7 +95,7 @@ b. menyatukan kembali anak korban kekerasan dengan keluarga  dan/atau lingkungan
 
 #### Pasal 4
 
-Ruang Lingkup Peraturan Daerah ini terdiri atas:
+Ruang Lingkup Peraturan Daerah ini terdiri atas:  
 a. perlindungan Perempuan;  
 b. perlindungan Anak;  
 c. hak Korban;  
@@ -113,7 +115,7 @@ Umum
 
 #### Pasal 5
 
-Pemerintah Daerah bertanggungjawab dalam upaya melindungi  perempuan dari perbuatan tindak kekerasan yang terjadi di depan umum Perda-Kubar/180/2019 -5- atau kehidupan pribadi dalam bentuk:
+Pemerintah Daerah bertanggungjawab dalam upaya melindungi  perempuan dari perbuatan tindak kekerasan yang terjadi di depan umum Perda-Kubar/180/2019 -5- atau kehidupan pribadi dalam bentuk:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
 c. kekerasan ekonomi;  
@@ -124,13 +126,13 @@ g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.
 
 #### Pasal 6
 
-Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4 huruf a  meliputi:
+Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4 huruf a  meliputi:  
 a. pencegahan tindak kekerasan;  
 b. pelayanan terpadu bagi Korban kekerasan; danc. pemberdayaan terhadap Korban kekerasan.  
 
 #### Pasal 7
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya  Kekerasan sebagaimana dimaksud dalam Pasal 5 wajib melakukan upaya untuk:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya  Kekerasan sebagaimana dimaksud dalam Pasal 5 wajib melakukan upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada Korban Kekerasan;  
 c. memberikan pertolongan darurat; dan/ataud. membantu proses pengajuan permohonan penetapan perlindungan.  
@@ -179,7 +181,7 @@ d. bimbingan rohani;
 e. Pelayanan rehabilitasi sosial;  
 f. Pelayanan bantuan dan pendampingan hukum; dan/atau  g. pemulangan dan reintegrasi.  
 
-Perda-Kubar/180/2019 -7- (2) Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung  dengan fasilitas berupa:
+Perda-Kubar/180/2019 -7- (2) Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung  dengan fasilitas berupa:  
 a. ruang Pelayanan khusus dijajaran kepolisian;  
 b. tenaga ahli dan profesional;  
 c. pusat Pelayanan dan rumah aman; dan/ataud. sarana dan prasarana lain yang diperlukan untuk Pemulihan  Korban.  
@@ -216,7 +218,7 @@ b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi  sosial Anak terla
 
 #### Pasal 14
 
-Perlindungan Anak sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi:
+Perlindungan Anak sebagaimana dimaksud dalam Pasal 4 huruf b  meliputi:  
 a. perlindungan Anak yang menjadi Korban kekerasan; dan b. perlindungan Khusus Anak.  
 
 #### Pasal 15
@@ -344,7 +346,7 @@ Perda-Kubar/180/2019 -12-
 
 #### Pasal 25
 
-Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 24 ayat (2)  terdiri atas:
+Tugas dan fungsi FPKK sebagaimana dimaksud dalam Pasal 24 ayat (2)  terdiri atas:  
 a. memberikan masukan dalam penyusunan kebijakan;  
 b. melakukan koordinasi dengan Perangkat Daerah dan lembaga sosial  lainnya;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak dari tindak kekerasan;  
@@ -468,7 +470,7 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 
 #### Pasal 35
 
-Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak Korban  Kekerasan, dapat bersumber dari:
+Pembiayaan atas kegiatan Perlindungan Perempuan dan Anak Korban  Kekerasan, dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
 b. Anggaran Pendapatan dan Belanja Daerah; dan/atauc. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang undangan.  
 
@@ -560,7 +562,7 @@ Huruf d Yang dimaksud dengan “kekerasan sosial” adalah sebagai  perbuatan se
 
 Huruf e Yang dimaksud dengan “kekerasan psikis” adalah  perbuatan yang mengakibatkan ketakutan, hilangnya rasa  percaya diri, hilangnya kemampuan untuk bertindak, rasa  tidak berdaya dan atau penderitaan psikis berat pada  seseorang.  
 
-Huruf f Yang dimaksud dengan “Penelantaran Rumah Tangga”  adalah:
+Huruf f Yang dimaksud dengan “Penelantaran Rumah Tangga”  adalah:  
 a. tindakan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental,  spiritual maupun sosial;  
 b. tindakan mengabaikan dengan sengaja untuk  memelihara, merawat, atau mengurus anak  sebagaimana mestinya;  
 c. tindakan yang menelantarkan orang dalam lingkup  rumah tangganya, padahal menurut hukum yang  berlaku baginya atau karena persetujuan atau  perjanjian ia wajib memberikan kehidupan,  perawatan, atau pemeliharaan kepada orang  tersebut;  
@@ -664,7 +666,7 @@ Ayat (1) Cukup jelas.
 
 Ayat (2) Cukup jelas.  
 
-Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara  lain:
+Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara  lain:  
 a. pelaksanaan konseling dalam bidang hukum  dengan melibatkan kepolisian, kejaksaan, pengadilan negeri, pengadilan agama, lembaga advokasi hukum dan lembaga swadaya masyarakat;  
 b. pelaksanaan konseling dalam bidang kesehatan  dengan melibatkan dinas kesehatan, rumah sakit umum daerah, dan layanan kesehatan lainnya;  
 c. pelaksanaan konseling dalam bidang rohani  dengan melibatkan kementerian agama dan tokoh agama; dand. pelaksanaan konseling dalam bidang psikologi  dengan melibatkan pendamping psikologi dan/atau psikolog.  

@@ -80,7 +80,7 @@ Hak Perempuan
 
 #### Pasal 2
 
-Perempuan berhak mendapatkan:
+Perempuan berhak mendapatkan:  
 a. perlindungan dalam bidang ketenagakerjaan;  
 b. pelayanan dalam bidang kesehatan;  
 c. kesetaraan dalam bidang pendidikan;  
@@ -147,7 +147,7 @@ c. mencegah terjadinya perkawinan pada usia anak; dand. memberikan pendidikan ka
 
 #### Pasal 7
 
-Bentuk kekerasan terhadap perempuan dan anak meliputi:
+Bentuk kekerasan terhadap perempuan dan anak meliputi:  
 a. kekerasan nonfisik;  
 b. kekerasan fisik;  
 c. kekerasan seksual;  
@@ -160,7 +160,7 @@ h. pemaksaan atau perampasan kemerdekaan; dan
 
 #### Pasal 8
 
-Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 7 melakukan upaya:
+Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan  sebagaimana dimaksud dalam Pasal 7 melakukan upaya:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban tindak kekerasan;  
 c. memberikan pertolongan darurat; dan/ ataud. membantu proses pengajuan permohonan penetapan perlindungan
@@ -244,7 +244,7 @@ b. anak korban bencana alam; danc. anak korban kerusuhan.
 
 #### Pasal 14
 
-( 1) Perlindungan khusus diberikan terhadap Anak  dengan hukum meliputi:
+( 1) Perlindungan khusus diberikan terhadap Anak  dengan hukum meliputi:  
 a. anak sebagai pelaku tindak pidana;  
 b. anak sebagai korban tindak pidana; dan  c. anak sebagai saksi tindak pidana.  
 
@@ -256,12 +256,12 @@ c. menyediakan pendamping/ petugas layanan yang profesional dan  terlatih dalam 
 
 #### Pasal 15
 
-Perlindungan Khusus bagi Anak dari kelompok minoritas dan terisolasi  dilakukan melalui:
+Perlindungan Khusus bagi Anak dari kelompok minoritas dan terisolasi  dilakukan melalui:  
 a. penyediaan sarana dan prasarana untuk dapat menikmati budayanya  sendiri; danb. mengakui dan melaksanakan ajaran agamanya sendiri  menggunakan bahasanya sendiri tanpa mengabaikan  pembangunan masyarakat dan budaya.  
 
 #### Pasal 16
 
-serta  akses (1) Perlindungan khusus diberikan terhadap anak yang tereksploitasi secara  ekonomi dan/ atau seksual meliputi:
+serta  akses (1) Perlindungan khusus diberikan terhadap anak yang tereksploitasi secara  ekonomi dan/ atau seksual meliputi:  
 a. bentuk pekerjaan terburuk untuk Anak;  
 b. anak korban tindak pidana perdagangan orang;  
 c. prostitusi Anak;  
@@ -292,7 +292,7 @@ Komite Perlindungan Anak
 
 #### Pasal 19
 
-( 1) Dalam rangka mencapai tujuan perlindungan perempuan dan anak,  maka dapat dilakukan kerja sama dengan:
+( 1) Dalam rangka mencapai tujuan perlindungan perempuan dan anak,  maka dapat dilakukan kerja sama dengan:  
 a. perangkat Daerah lainya;  
 b. TNI/Polri;  
 c. advokat;  
@@ -329,7 +329,7 @@ d. kinerja;
 
 #### Pasal 21
 
-Dana untuk penyelenggaraan perlindungan terhadap Perempuan dan Anak  dari tindak kekerasan bersumber dari:
+Dana untuk penyelenggaraan perlindungan terhadap Perempuan dan Anak  dari tindak kekerasan bersumber dari:  
 a. anggaran pendapatan dan belanja Daerah; danb. sumber lain yang sah.  
 
 # BAB IX
@@ -352,7 +352,7 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 
 #### Pasal 23
 
-Setiap orang dilarang:
+Setiap orang dilarang:  
 a. memperlakukan perempuan dan anak secara diskriminatif yang  mengakibatkan perempuan dan anak mengalami kerugian, baik materiil  maupun moril sehingga menghambat fungsi sosialnya;  
 b. memperlakukan perempuan dan anak penyandang disabilitas secara  diskriminatif;  
 c. menempatkan, membiarkan, melibatkan, menyuruh melibatkan anak  dalam situasi perlakuan salah dan penelantaran;  

@@ -141,7 +141,7 @@ d. tidak diskriminatif; dane. kepentingan terbaik bagi korban.
 
 1. T\.rjuan penyelenggaraa"n perlindungan perempuan dan anak korban kekerasan untuk memberikan perlindungan dan pelayanan terhadap korban kekerasan yang berbasis gender dan kepentingan terbaik bagi perempuan dan anak yang terjadi di rumah dan/atau tempat publik.  
 
-(21 Kekerasan sebagaimana dimaksud pada ayat (1) dapat bempa:
+(21 Kekerasan sebagaimana dimaksud pada ayat (1) dapat bempa:  
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
@@ -153,7 +153,7 @@ d. penelantaran ekonomi; dane. pembatasan ruang gerak.
 
 #### Pasal 4
 
-setiap korban kekerasan berhak untuk mendapatkan:
+setiap korban kekerasan berhak untuk mendapatkan:  
 a. perlindungan dan pendampingan;  
 b. bantuan hukum;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
@@ -225,7 +225,7 @@ Penyelenggara atau Pengelola PPT atau Rumah Aman dilarang memungut biaya apapun 
 
 #### Pasal 10
 
-Penyelenggaraan perlindungan korban kekerasan merupakan tangggung jawab bersama:
+Penyelenggaraan perlindungan korban kekerasan merupakan tangggung jawab bersama:  
 a. pemerintah daerah kabupaten;  
 
 $d tar- ! -,: Ib. c.  
@@ -237,7 +237,7 @@ keluarga; dan orangtua.
 
 1. Pemerintah Daerah bertanggungiawab untuk melaksanakan upaya pencegahan terjadinya kekerasan dan perlindungan korban kekerasan.  
 
-(21 Pencegahan terjadinya kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:
+(21 Pencegahan terjadinya kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:  
 a. mengumpulkan data dan informasi tentang perempu€m dan anak serta peratur€m pertrndang-r-rndangan yang terkait;  
 b. melakukan pendidikan nilai-nilai anti kekerasan; danc. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pencegahan dan perlindungan korban kekerasa.n.  
 3. Perlindungan korban kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:a. mendirikan dan memfasilitasi terselenggarakannya lembaga layanan terpadu untuk korban dengan melibatkan dinas/instansi terkait dan unsur masyarakat;  
@@ -252,7 +252,7 @@ e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn ko
 
 #### Pasal 12
 
-Tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 1O huruf b diselenggarakan dalam bentuk:
+Tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 1O huruf b diselenggarakan dalam bentuk:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; danb. memberikan informasi danlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang benvenang.  
 
 #### Pasal 13
@@ -267,7 +267,7 @@ PENGAqIASAN
 
 Pengawasan penyelenggaraan perlindungan korban (1) kekerasan dilakukan oleh BPMP.  
 
-Dalam melakukan pengawasan sebagaimana (21 dimaksud pada ayat (1), BPMP berwenang:
+Dalam melakukan pengawasan sebagaimana (21 dimaksud pada ayat (1), BPMP berwenang:  
 a. menempatkan korban kekerasan di rumah aman;  
 b. memanggil dan menghadirkan keluarga korban kekerasan untuk didengarkan keterangannya; dan c. memerintahkan PPT untuk memberikan perlindungan terhadap seseorang yang menjadi korban kekerasan.  
 

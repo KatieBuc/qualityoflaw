@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Negara Kesatuan Republik Indonesia menjamin  kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak perempuan dan hak anak yang merupakan hak asasi manusia;  
 b. bahwa dalam rangka meningkatkan kedudukan, peran, dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara;  
 c. bahwa setiap anak adalah tunas, potensi, dan generasi  penerus perjuangan bangsa, dan diharapkan kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, sehingga perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;  
@@ -25,6 +26,7 @@ d. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan kemanusian y
 e. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -173,7 +175,7 @@ Hak dan Kewajiban Perempuan
 
 #### Pasal 5
 
-Setiap Perempuan berhak:
+Setiap Perempuan berhak:  
 a. untuk hidup serta berhak mempertahankan hidup dan  kehidupannya;  
 b. untuk membentuk keluarga dan melanjutkan keturunan  melalui perkawinan yang sah;  
 c. mengembangkan diri melalui pemenuhan kebutuhan dasarnya;  
@@ -248,7 +250,7 @@ Hak dan Kewajiban Anak
 
 #### Pasal 10
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. atas kelangsungan hidup, tumbuh, berkembang dan  berpartisipasi secara wajar sesuai dengan harkat dan  martabat kemanusiaan serta mendapat perlindungan dari  kekerasan dan diskriminasi;  
 b. atas suatu nama sebagai identitas diri dan status  kewarganegaraan;  
 c. untuk beribadah menurut agamanya, berpikir, dan  berekspresi sesuai dengan tingkat kecerdasan dan usianya,  dalam bimbingan orang tua;  
@@ -288,12 +290,12 @@ Setiap anak yang menjadi korban atau pelaku tindak pidana  berhak mendapatkan ba
 
 #### Pasal 15
 
-Khusus bagi anak yang menyandang cacat, selain mendapat hak  sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 12  dan Pasal 14, juga berhak:
+Khusus bagi anak yang menyandang cacat, selain mendapat hak  sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 12  dan Pasal 14, juga berhak:  
 a. memperoleh pendidikan luar biasa, sedangkan bagi anak yang  memiliki keunggulan juga berhak mendapatkan pendidikan  khusus; danb. memperoleh rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial.  
 
 #### Pasal 16
 
-Setiap anak wajib untuk:
+Setiap anak wajib untuk:  
 a. menghormati orangtua, wali, dan guru;  
 b. mencintai keluarga, masyarakat, dan menyayangi teman;  
 c. mencintai tanah air, bangsa dan negara;  
@@ -448,7 +450,7 @@ Pemerintah Daerah, keluarga, dan orang tua wajib memberikan  kesempatan yang sel
 
 #### Pasal 35
 
-Pendidikan sebagaimana dimaksud dalam Pasal 33 diarahkan  pada:
+Pendidikan sebagaimana dimaksud dalam Pasal 33 diarahkan  pada:  
 a. pengembangan sikap dan kemampuan kepribadian anak,  bakat, kemampuan mental dan fisik sampai mencapai potensi  mereka yang optimal;  
 b. pengembangan penghormatan atas hak asasi manusia dan  kebebasan asasi;  
 c. pengembangan rasa hormat terhadap orang tua, identitas  budaya, bahasa dan nilai-nilainya sendiri, nilai-nilai nasional  di mana anak bertempat tinggal, dari mana anak berasal, dan peradaban-peradaban yang berbeda-beda dari peradaban  sendiri;  
@@ -515,7 +517,7 @@ Pemerintah Daerah dan lembaga negara lainnya berkewajiban dan  bertanggung jawab
 
 #### Pasal 45
 
-Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal  44 terdiri atas:
+Anak dalam situasi darurat sebagaimana dimaksud dalam Pasal  44 terdiri atas:  
 a. anak yang menjadi pengungsi;  
 
 29 -
@@ -528,7 +530,7 @@ Perlindungan khusus bagi anak yang menjadi pengungsi  sebagaimana dimaksud dalam
 
 #### Pasal 47
 
-Perlindungan khusus bagi anak korban kerusuhan, korban  bencana, dan anak dalam situasi konflik bersenjata sebagaimana  dimaksud dalam Pasal 45 huruf b sampai dengan huruf d,  dilaksanakan melalui:
+Perlindungan khusus bagi anak korban kerusuhan, korban  bencana, dan anak dalam situasi konflik bersenjata sebagaimana  dimaksud dalam Pasal 45 huruf b sampai dengan huruf d,  dilaksanakan melalui:  
 a. pemenuhan kebutuhan dasar yang terdiri atas pangan,  sandang, pemukiman, pendidikan, kesehatan, belajar dan  berekreasi, jaminan keamanan, dan persamaan perlakuan;  sertab. pemenuhan kebutuhan khusus bagi anak yang menyandang  cacat dan anak yang mengalami gangguan psikososial.  
 
 #### Pasal 48
@@ -539,7 +541,7 @@ Setiap orang dilarang merekrut atau memperalat anak untuk  kepentingan militer d
 
 1. Perlindungan khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud dalam Pasal 44 meliputi anak  yang berkonflik dengan hukum dan anak korban tindak  pidana, merupakan kewajiban dan tanggung jawab  Pemerintah Daerah dan masyarakat.  
 
-30 - (2) Perlindungan khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud pada ayat (1) dilaksanakan  melalui:
+30 - (2) Perlindungan khusus bagi anak yang berhadapan dengan  hukum sebagaimana dimaksud pada ayat (1) dilaksanakan  melalui:  
 a. perlakuan atas anak secara manusiawi sesuai dengan  martabat dan hak-hak anak;  
 b. penyediaan petugas pendamping khusus anak sejak dini;  
 c. penyediaan sarana dan prasarana khusus;  
@@ -617,7 +619,7 @@ Hak Korban
 
 #### Pasal 59
 
-Setiap korban berhak:
+Setiap korban berhak:  
 a. mendapatkan perlindungan dari pihak keluarga, Pemerintah  Daerah, kepolisian, kejaksaan, pengadilan, advokat, lembaga  sosial atau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari Pengadilan;  
 b. mendapatkan pelayanan kesehatan sesuai dengan kebutuhan  medis;  
 c. mendapatkan penanganan secara khusus berkaitan dengan  kerahasiaan korban;  
@@ -737,7 +739,7 @@ Orang tua, keluarga, dan masyarakat bertanggung jawab untuk  menjaga dan memelih
 
 Peraturan Daerah ini menegaskan bahwa pertanggungjawaban orang  tua, keluarga, masyarakat, Pemerintah Daerah dan negara merupakan  rangkaian kegiatan yang dilaksanakan secara terus-menerus demi  terlindunginya hak-hak anak. Rangkaian kegiatan tersebut harus  berkelanjutan dan terarah guna menjamin pertumbuhan dan  perkembangan anak, baik fisik, mental, spiritual maupun sosial. Tindakan  ini dimaksudkan untuk mewujudkan kehidupan terbaik bagi anak yang  diharapkan sebagai penerus bangsa yang potensial, tangguh, memiliki  nasionalisme yang dijiwai oleh akhlak mulia dan nilai Pancasila, serta  berkemauan keras menjaga kesatuan dan persatuan bangsa dan negara.  
 
-Upaya perlindungan anak perlu dilaksanakan sedini mungkin, yakni  sejak dari janin dalam kandungan sampai anak berumur 18 (delapan  belas) tahun. Bertitik tolak dari konsepsi perlindungan anak yang utuh,  menyeluruh, dan komprehensif, Peraturan Daerah ini meletakkan  kewajiban memberikan perlindungan kepada anak berdasarkan asas-asas sebagai berikut:
+Upaya perlindungan anak perlu dilaksanakan sedini mungkin, yakni  sejak dari janin dalam kandungan sampai anak berumur 18 (delapan  belas) tahun. Bertitik tolak dari konsepsi perlindungan anak yang utuh,  menyeluruh, dan komprehensif, Peraturan Daerah ini meletakkan  kewajiban memberikan perlindungan kepada anak berdasarkan asas-asas sebagai berikut:  
 a. nondiskriminasi;  
 b. kepentingan yang terbaik bagi anak;  
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan; dan d. penghargaan terhadap pendapat anak.  

@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang memiliki harkat dan  martabat yang sama untuk hidup bermasyarakat, berbangsa dan bernegara serta berhak mendapatkan perlindungan hak asasi manusia dan kebebasan dasar manusia tanpa diskriminasi sebagai upaya mewujudkan kesetaraan dan keadilan gender dalam pembangunan nasional maupun daerah;  
 b. bahwa dalam rangka mewujudkan kesetaraan  dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara perlu adanya peningkatan efektifitas dan optimalisasi penyelenggaraan sub urusan pemberdayaan perempuan sebagai bagian yang tidak terpisahkan dari kegiatan fungsional lembaga pemerintah dan non pemerintah guna meningkatkan kedudukan, peran dan kualitas perempuan dalam pembangunan di Kabupaten Timor Tengah Utara;  
 c. bahwa untuk menjamin adanya kepastian  hukum dan untuk mengisi kekosongan hukum demi mewujudkan kesetaraan dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara, perlu adanya pengaturan dalam Peraturan Daerah tentang penyelenggaraan pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -83,7 +85,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Ruang lingkup penyelenggaraan Pemberdayaan Perempuan  meliputi:
+Ruang lingkup penyelenggaraan Pemberdayaan Perempuan  meliputi:  
 a. kualitas hidup perempuan;  
 b. perlindungan perempuan;  
 c. kualitas keluarga; dand. sistem data gender.  
@@ -98,7 +100,7 @@ Umum
 
 #### Pasal 3
 
-Kualitas Hidup Perempuan meliputi:
+Kualitas Hidup Perempuan meliputi:  
 a. pelembagaan PUG ;  
 b. Pemberdayaan Perempuan bidang politik, hukum, sosial dan  ekonomi pada organisasi kemasyarakatan; danc. penguatan dan pengembangan Lembaga penyedia layanan  pemberdayaan perempuan.  
 
@@ -108,7 +110,7 @@ Pelembagaan PUG Paragraf Umum
 
 #### Pasal 4
 
-Pelembagaan PUG meliputi:
+Pelembagaan PUG meliputi:  
 a. penetapan koordinator PUG;  
 b. pokja PUG;  
 c. Focal Point PUG;  
@@ -144,7 +146,7 @@ c. perwakilan pers paling banyak 5 (lima) orang; dand. perwakilan lembaga swaday
 
 #### Pasal 7
 
-Tugas Pokja PUG meliputi:
+Tugas Pokja PUG meliputi:  
 a. mempromosikan dan memfasilitasi dialog antar unit kerja lingkup  pemerintahan daerah;  
 b. mengembangkan jaringan kerja sesuai dengan tugas pokok, fungsi  dan kewenangan yang diberikan oleh pimpinan dalam upaya  mewujudkan kesetaraan dan keadilan gender;  
 c. menugaskan tim teknis untuk melakukan penyusunan RAD PUG  dalam rangka mewujudkan kesetaraan dan keadilan gender yang  disesuaikan dengan periodisasi RPJMD;  
@@ -194,7 +196,7 @@ b. koordinator oleh pejabat eselon IV B yang membidangi  perencanaan Puskesmas; 
 
 #### Pasal 12
 
-Tugas Focal Point PUG meliputi:
+Tugas Focal Point PUG meliputi:  
 a. membantu pengambil kebijakan unit kerja dalam ruang lingkup  tugas, pokok dan fungsi instansinya untuk secara terencana  mengambil langkah sepenuhnya apabila terdapat kesenjangan gender;  
 b. mendorong dan membantu unit kerja untuk mengevaluasi dan  memperbaiki mandat, kebijakan, program, proyek, kegiatan dan  anggaran agar lebih responsif gender;  
 c. memfasilitasi pelaksanaan pelatihan sensitifitas gender,  pelatihan analisis gender dan mengembangkan jaringan kerja  gender dengan instansi atau lembaga atau organisasi dan unit  kerja lainnya, baik pemerintah maupun non pemerintah;  
@@ -269,13 +271,13 @@ Pemantauan dan Evaluasi
 
 #### Pasal 18
 
-Pemantauan pelaksanaan PUG dilakukan melalui:
+Pemantauan pelaksanaan PUG dilakukan melalui:  
 a. pemantauan penyusunan dokumen perencanaan pembangunan responsive gender baik di tingkat PD maupun di tingkat daerah;  
 b. pemantauan RAD PUG; danc. verifikasi Laporan pelaksanaan RAD PUG.  
 
 #### Pasal 19
 
-Evaluasi pelaksanaan PUG dilakukan melalui:
+Evaluasi pelaksanaan PUG dilakukan melalui:  
 a. evaluasi capaian dan tantangan pelaksanaan RAD PUG;  
 b. penyusunan RAD PUG periode berikutnya;  
 c. evaluasi capaian dan tantangan pelaksanaan PUG tiap 6 (enam) bulan; dand. penyusunan rencana pelaksanaan PUG 6 (enam) bulan  berikutnya.  
@@ -314,7 +316,7 @@ Umum
 
 #### Pasal 22
 
-Upaya Pemberdayaan Perempuan bidang politik, hukum, sosial  budaya dan ekonomi pada organisasi kemasyarakatan meliputi  tahapan:
+Upaya Pemberdayaan Perempuan bidang politik, hukum, sosial  budaya dan ekonomi pada organisasi kemasyarakatan meliputi  tahapan:  
 a. perencanaan;  
 b. pelaksanaan; danc. pelaporan dan evaluasi.  
 
@@ -385,7 +387,7 @@ Umum
 
 #### Pasal 30
 
-Perlindungan Perempuan meliputi:
+Perlindungan Perempuan meliputi:  
 a. penguatan dan pengembangan lembaga penyedia layanan  perlindungan perempuan;  
 b. pencegahan kekerasan terhadap perempuan;dan c. penguatan dan pengembangan lembaga penyedia layanan  perlindungan perempuan korban kekerasan;  
 
@@ -468,7 +470,7 @@ Umum
 
 #### Pasal 37
 
-Kualitas Keluarga meliputi:
+Kualitas Keluarga meliputi:  
 a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender;danb. penguatan dan pengembangan lembaga penyedia layanan  peningkatan kualitas keluarga dalam mewujudkan kesetaraan  gender.  
 
 ## Bagian Kedua
@@ -509,7 +511,7 @@ Umum
 
 #### Pasal 40
 
-Sistem Data Gender meliputi:
+Sistem Data Gender meliputi:  
 a. pengumpulan data;  
 b. pengolahan data;danc. analisis dan penyajian data gender.  
 
@@ -544,7 +546,7 @@ Analisis Dan Penyajian Data Gender
 
 #### Pasal 44
 
-Kepada PD yang tidak membentuk Focal Point PUG sebagaimana dimaksud  dalam Pasal 8, Pasal 9, Pasal 10 dan Pasal 11 dikenakan sanksi administrasi  berupa:
+Kepada PD yang tidak membentuk Focal Point PUG sebagaimana dimaksud  dalam Pasal 8, Pasal 9, Pasal 10 dan Pasal 11 dikenakan sanksi administrasi  berupa:  
 a. teguran lisan;  
 b. teguran tertulis; atauc. pernyataan tidak puas.  
 

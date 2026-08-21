@@ -106,7 +106,7 @@ c. pengayoman;
 d. kepentingan terbaik bagi perempuan dan anak;  
 e. non diskriminasi; danf. pemberdayaan.  
 
-Pasal Peraturan Daerah ini dimaksudkan sebagai:
+Pasal Peraturan Daerah ini dimaksudkan sebagai:  
 a. pemenuhan hak anak dan perempuan dalam rangka perlindungan dan pencegahan kekerasan bagi anak dan perempuan di Daerah; danb. pedoman bagi Pemerintah Daerah dan masyarakat untuk melakukan perlindungan, pelayanan, rehabilitasi medik, rehabilitasi sosial dan pemberdayaan bagi perempuan dan anak korban tindak kekerasan.  
 
 Pasal Tujuan perlindungan perempuan dan anak dalam Peraturan Daerah ini adalah:  
@@ -194,7 +194,7 @@ g. pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan d
 
 #### Pasal 14
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. untuk hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat manusia; memperoleh perlindungan dari tindakan diskriminasi;  
 
 ¢. d. e.  
@@ -234,7 +234,7 @@ j. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan
 
 #### Pasal 16
 
-Perempuan dan anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 15 juga mendapatkan hak-hak khusus, sebagai berikut:
+Perempuan dan anak korban tindak kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 15 juga mendapatkan hak-hak khusus, sebagai berikut:  
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang;  
 
 hak pelayanan dasar;  
@@ -251,7 +251,7 @@ hak mendapatkan pemberdayaan; dan hak untuk diadili berdasarkan keadilan restora
 
 #### Pasal 17
 
-Perlindungan perempuan dan anak merupakan tanggung jawab bersama:
+Perlindungan perempuan dan anak merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Orang tua, Wali dan/atau Keluarga;  
 c. Masyarakat; dand. Dunia usaha/swasta.  
@@ -297,7 +297,7 @@ Penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak Kekerasan
 
 #### Pasal 22
 
-Pemerintah Daerah dalam melaksanakan penyelenggaraan perlindungan perempuan dan anak dari tindak melalui kekerasan kegiatan:
+Pemerintah Daerah dalam melaksanakan penyelenggaraan perlindungan perempuan dan anak dari tindak melalui kekerasan kegiatan:  
 a. pencegahan;  
 b. pelayanan; danc. pemberdayaan.  
 
@@ -321,7 +321,7 @@ f. mental dan spiritual.
 
 Perangkat Daerah dalam melakukan pencegahan tindak (3) kekerasan perempuan dan anak sebagaimana dimaksud pada ayat (1) dapat melibatkan instansi terkait.  
 
-Selain dilaksanakan oleh Perangkat Daerah dan instansi terkait sebagaimana dimaksud pada ayat (3), pencegahan (4) juga dilaksanakan oleh:
+Selain dilaksanakan oleh Perangkat Daerah dan instansi terkait sebagaimana dimaksud pada ayat (3), pencegahan (4) juga dilaksanakan oleh:  
 a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat, LSM, perguruan_ tinggi, organisasi masyarakat, organisasi sosial dan organisasi keagamaan; dan c. dunia usaha.  
 
@@ -331,14 +331,14 @@ Paragraf Pelayanan
 
 #### Pasal 24
 
-Pelayanan sebagaimana dimaksud dalam Pasal 22 huruf b, memperhatikan:
+Pelayanan sebagaimana dimaksud dalam Pasal 22 huruf b, memperhatikan:  
 a. b.  
 
 prinsip pelayanan; dan bentuk pelayanan terhadap korban.  
 
 #### Pasal 25
 
-Prinsip pelayanan sebagaimana dimaksud dalam Pasal 24 huruf a, terdiri atas:
+Prinsip pelayanan sebagaimana dimaksud dalam Pasal 24 huruf a, terdiri atas:  
 a. cepat;  
 
 aman dan nyaman;  
@@ -351,7 +351,7 @@ e. f. dijamin kerahasiaannya.
 
 #### Pasal 26
 
-Bentuk pelayanan terhadap korban sebagaimana dimaksud (1 dalam Pasal 24 huruf b, sebagai berikut:
+Bentuk pelayanan terhadap korban sebagaimana dimaksud (1 dalam Pasal 24 huruf b, sebagai berikut:  
 a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi:
 1. pelayanan pengaduan, konsultasi dan konseling; pelayanan pendampingan;  
 
@@ -381,7 +381,7 @@ e. melakukan koordinasi dengan pendamping yang lain; dan memberikan penanganan y
 
 #### Pasal 29
 
-Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi:
+Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka meliputi:  
 a. pertolongan pertama kepada korban oleh petugas yang berkompeten;  
 b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis, dan pelayanan kesehatan lainnya yang dibutuhkan dalam proses hukum;  
 c. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
@@ -421,7 +421,7 @@ Selain dilaksanakan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (4), re
 
 Bentuk pelayanan sebagaimana dimaksud dalam Pasal 26 (1) ayat (1), dilaksanakan oleh Perangkat Daerah sesuai dengan tugas dan fungsinya.  
 
-Perangkat Daerah sebagaimana dimaksud pada ayat (1) (2) merupakan Perangkat Daerah yang melaksanakan tugas dan fungsi dibidang:
+Perangkat Daerah sebagaimana dimaksud pada ayat (1) (2) merupakan Perangkat Daerah yang melaksanakan tugas dan fungsi dibidang:  
 a. pemberdayaan perempuan dan perlindungan anak;  
 b. sosial;  
 c. ketenagakerjaan;  
@@ -435,7 +435,7 @@ Paragraf Pemberdayaan
 
 #### Pasal 34
 
-Pemberdayaan sebagaimana dimaksud dalam Pasal 22 huruf dilakukan terhadap perempuan korban kekerasan, dalam bentuk:
+Pemberdayaan sebagaimana dimaksud dalam Pasal 22 huruf dilakukan terhadap perempuan korban kekerasan, dalam bentuk:  
 a. b.  
 
 ¢.  
@@ -446,7 +446,7 @@ usaha ekonomis produktif dan kelompok usaha bersama; dan bantuan permodalan.
 
 #### Pasal 35
 
-Pelatihan kerja sebagaimana dimaksud dalam Pasal 34 huruf meliputi:
+Pelatihan kerja sebagaimana dimaksud dalam Pasal 34 huruf meliputi:  
 a. pelatihan keterampilan;  
 b. praktek kerja lapangan; danc. pemagangan.  
 
@@ -539,7 +539,7 @@ Anggaran sebagaimana dimaksud pada ayat (1) dan ayat (2), digunakan untuk kegiat
 
 Selain Pejabat Penyidik Polisi Negara Republik Indonesia, penyidikan atas tindak pidana yang dimaksud dalam (1) Peraturan Daerah ini dapat dilakukan oleh Pegawai Negeri Sipil di Lingkungan Pemerintah Kabupaten Bengkalis yang pengangkatannya ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.  
 
-Penyidik Pegawai Negeri Sipil sebagaimana yang dimaksud (2) pada ayat (1), berwenang:
+Penyidik Pegawai Negeri Sipil sebagaimana yang dimaksud (2) pada ayat (1), berwenang:  
 a. melakukan pemeriksaan atas kebenaran laporan atau keterangan berkenaan dengan tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak;  
 b. melakukan pemeriksaan terhadap setiap orang dan/atau badan usaha yang diduga ikut serta dalam tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak di lingkungan dunia usaha;  
 c. meminta keterangan dari setiap orang dan/atau badan usaha sehubungan dengan peristiwa tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak;  

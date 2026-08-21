@@ -18,11 +18,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Labuhanbatu Selatan terus meningkat yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 b. bahwa dalam rangka mengoptimalkan penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan di Kabupaten Labuhanbatu Selatan perlu memberikan arah, landasan, dan kepastian hukum kepada semua pihak yang terlibat dalam penyelenggaraan perlindungan perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -89,7 +91,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 #### Pasal 2
 
-Perlindungan Perempuan dan Anak dari tindak Kekerasan dilaksanakan  berdasarkan asas:
+Perlindungan Perempuan dan Anak dari tindak Kekerasan dilaksanakan  berdasarkan asas:  
 a. penghormatan Hak Asasi Manusia;  
 b. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
 c. non diskriminasi;  
@@ -102,7 +104,7 @@ Peraturan Daerah ini dimaksudkan untuk memberikan landasan hukum bagi  Pemerinta
 
 #### Pasal 4
 
-Peraturan Daerah ini bertujuan untuk:
+Peraturan Daerah ini bertujuan untuk:  
 a. penghormatan dan perlindungan Hak Asasi Manusia;  
 b. menjamin hak-hak setiap Perempuan dan Anak atas kelangsungan hidup,  tumbuh dan berkembang;  
 c. nondiskriminasi;  
@@ -117,7 +119,7 @@ k. kepentingan yang terbaik bagi Anak; danl. mewujudkan daerah yang layak bagi P
 
 #### Pasal 5
 
-Ruang lingkup Peraturan Daerah ini meliputi:
+Ruang lingkup Peraturan Daerah ini meliputi:  
 a. bentuk Kekerasan;  
 b. hak Korban;  
 c. kewajiban dan tanggung jawab;  
@@ -174,7 +176,7 @@ b. perbuatan yang dengan atau tanpa persetujuan Korban yang meliputi tapi tidak 
 
 #### Pasal 12
 
-Setiap Korban berhak mendapatkan:
+Setiap Korban berhak mendapatkan:  
 a. perlindungan;  
 b. informasi;  
 c. pelayanan kesehatan sesuai dengan kebutuhan medis;  
@@ -276,7 +278,7 @@ Mekanisme Pencegahan dan Bentuk Pelayanan P2TP2A
 
 #### Pasal 21
 
-Pemerintah Daerah melakukan pencegahan terjadinya tindak Kekerasan terhadap  Perempuan dan Anak, melalui:
+Pemerintah Daerah melakukan pencegahan terjadinya tindak Kekerasan terhadap  Perempuan dan Anak, melalui:  
 a. kegiatan sosialisasi peraturan perundang-undangan kepada Masyarakat yang  berkaitan dengan perlindungan hak Perempuan dan Anak;  
 b. melakukan pemberdayaan dan penyadaran kepada Keluarga, orangtua dan  Masyarakat dengan memberikan informasi, bimbingan dan/atau penyuluhan. c. peningkatan jumlah dan mutu pendidikan baik formal maupun non formal dan  informal;  
 d. pembukaan aksebilitas untuk memperoleh pendidikan, pelatihan, pendanaan,  peningkatan pendapatan dan Pelayanan sosial;  
@@ -299,7 +301,7 @@ f. mental dan spiritual; dang. ketentraman dan ketertiban.
 
 #### Pasal 23
 
-Bentuk Pelayanan P2TP2A meliputi:
+Bentuk Pelayanan P2TP2A meliputi:  
 a. Pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik yang  bertujuan untuk memulihkan kondisi fisik Korban yang dilakukan oleh tenaga  medis dan paramedik;  
 b. Pelayanan psikososial merupakan pelayanan yang diberikan dalam rangka  memulihkan kondisi traumatis Korban, termasuk penyediaan Rumah Aman  untuk melindungi Korban dari berbagai ancaman dan intimidasi bagi Korban  dan memberikan dukungan secara sosial sehingga Korban mempunyai rasa  percaya diri, kekuatan dan kemandirian, dalam menyelesaikan masalahnya;  
 c. Pelayanan medico legal merupakan bentuk layanan medis untuk kepentingan  pembuktian di bidang hukum;  
@@ -321,7 +323,7 @@ Pelayanan dan Pendampingan
 
 #### Pasal 25
 
-Penyelenggaraan Pelayanan dan pendampingan terhadap Korban, dilakukan dengan  prinsip:
+Penyelenggaraan Pelayanan dan pendampingan terhadap Korban, dilakukan dengan  prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
 c. mudah dijangkau; dand. tidak dipungut biaya.  
@@ -413,7 +415,7 @@ Pengarusutamaan Gender
 
 #### Pasal 33
 
-Untuk melaksanakan perlindungan Perempuan dan Anak, Pemerintah Daerah  menyelenggarakan Pengarusutamaan Gender yang meliputi:
+Untuk melaksanakan perlindungan Perempuan dan Anak, Pemerintah Daerah  menyelenggarakan Pengarusutamaan Gender yang meliputi:  
 a. memberikan acuan bagi perangkat daerah dalam menyusun strategi  pengintegrasian Gender yang dilakukan melalui perencanaan, penyusunan,  pelaksanaan, penganggaran, pemantauan dan evaluasi atas kebijakan program  dan kegiatan pembangunan.  b. mengembangkan sistem informasi berbasis Gender;  
 c. memfasilitasi penguatan kelembagaan dan pengembangan mekanisme Pengarusutamaan Gender pada lembaga pemerintah, pusat studi wanita,  lembaga penelitian dan pengembangan, serta lembaga non pemerintah;  
 d. melaksanakan pembangunan, pendidikan, kesehatan, ekonomi, hukum, Hak  Asasi Manusia dan politik, lingkungan dan sosial yang memperhatikan aspek  Gender dan ramah Anak;  
@@ -586,7 +588,7 @@ c. Pelayanan; dand. kinerja.
 
 #### Pasal 47
 
-Dana untuk penyelenggaraan perlindungan Perempuan dan Anak dari tindak Kekerasan, bersumber dari:
+Dana untuk penyelenggaraan perlindungan Perempuan dan Anak dari tindak Kekerasan, bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 48

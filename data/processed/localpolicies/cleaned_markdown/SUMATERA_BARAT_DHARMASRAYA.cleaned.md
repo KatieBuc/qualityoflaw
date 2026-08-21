@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak mendapatkanrasaaman dan bebas dari segala bentuk penyiksaanatau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentanyangcenderung mengalami kekerasan, sehinggaperlu mendapatkan perlindungan yang optimal;  
 c. bahwa pemenuhan hak-hak konstitusional perempuandan anak serta peningkatan kualitas hidup perempuandananak, merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Daerah; d, bahwa berdasarkan pertimbangan sebagaimana dimaksuddalam huruf a, huruf b dan huruf c, perlumenetapkan Peraturan Daerah tentang Pemberdayaan PerempuandanPerlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,7 @@ e. meningkatkan peran dan nilai kearifan lokal sertaperananadat dalam perlindung
 
 #### Pasal 4
 
-Ruang lingkup pengaturan perlindungan perempuandananakmeliputi:
+Ruang lingkup pengaturan perlindungan perempuandananakmeliputi:  
 a. hak dan kewajiban;  
 b. peningkatan kualitas hidup perempuan;  
 c. perlindungan perempuan dan anak;  
@@ -135,7 +137,7 @@ Hak Perempuan
 
 #### Pasal 5
 
-Setiap perempuan berhak:
+Setiap perempuan berhak:  
 a. memperoleh perlindungan dari tindakan diskriminasi;  
 b. memperoleh perlindungan dari eksploitasi ekonomi daneksploitasi seksual;  
 c. memperoleh perlindungan dari kekerasan fisik, psikologis,seksual, dan penelantaran;  
@@ -150,7 +152,7 @@ Hak Anak
 
 #### Pasal 6
 
-Setiap anak berhak:
+Setiap anak berhak:  
 a. untuk hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan;  
 b. memperoleh perlindungan dari tindakan diskriminasi;  
 c. memperoleh perlindungan dari eksploitasi ekonomi daneksploitasi seksual;  
@@ -170,7 +172,7 @@ Kewajiban Pemerintah Daerah
 
 #### Pasal 7
 
-Kewajiban Pemerintah Daerah dalamupaya perlindunganterhadap perempuan meliputi:
+Kewajiban Pemerintah Daerah dalamupaya perlindunganterhadap perempuan meliputi:  
 a. menetapkan dan melaksanakan kebijakan programdankegiatan perlindungan terhadap hak perempuan;  
 b. melakukan kerjasama dengan masyarakat dan/atauOrganisasi Kemasyarakatan dalampenyelenggaraanperlindungan perempuan sesuai peraturan perundang-undangan;  
 c. melakukan rehabilitasi dan pemberdayaanterhadapperempuan yang menjadi korban tindak kekerasan;  
@@ -178,7 +180,7 @@ d. memberikan perlindungan khusus kepada perempuankorban tindak kekerasan dan pe
 
 #### Pasal 8
 
-Kewajiban Pemerintah Daerah dalamupaya perlindunganterhadap anak meliputi:
+Kewajiban Pemerintah Daerah dalamupaya perlindunganterhadap anak meliputi:  
 a. menjamin hak asasi setiap anak tanpa diskriminasi;  
 b. memberikan dukungan sarana dan prasaranadalampenyelenggaraan perlindungan anak;  
 c. menjamin hak anak untuk menyampaikanpendapatsesuai dengan usia dan tingkat kecerdasan anak;  
@@ -209,7 +211,7 @@ Kewajiban Terhadap Perlindungan Perempuan
 
 #### Pasal 10
 
-Keluarga dalam upaya perlindungan terhadap hak perempuanberkewajiban:
+Keluarga dalam upaya perlindungan terhadap hak perempuanberkewajiban:  
 a. melindungi perempuan dari konflik dan kekerasandalamrumah tangga yang merendahkan martabat perempuan;  
 b. memberikan kesempatan yang sama pada perempuanmengembangkan diri di bidang pendidikan, sosial, ekonomi,politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuandalam rumah tangga.  
 
@@ -303,7 +305,7 @@ Peningkatan Peran, Kualitas, dan KemampuanPerempuan di Bidang Politik
 
 #### Pasal 19
 
-Upaya peningkatan peran, kualitas dan kemampuanperempuan dalam bidang politik meliputi:
+Upaya peningkatan peran, kualitas dan kemampuanperempuan dalam bidang politik meliputi:  
 a. melaksanakan sosialisasi untuk meningkatkanpartisipasi politik perempuan dalam pemilihan umum;  
 b. melaksanakan program yang mendorong tingkatketerlibatan perempuan dalam proses politik danjabatanpublik;  
 c. melakukan fasilitasi pengembangan diri perempuandalamberorganisasi, berserikat dan berkumpul;  
@@ -326,7 +328,7 @@ Peningkatan Peran, Kualitas, dan KemampuanPerempuan Bidang Sosial
 
 #### Pasal 21
 
-Upaya peningkatan peran, kualitas dan kemampuanperempuandalam bidang sosial meliputi:
+Upaya peningkatan peran, kualitas dan kemampuanperempuandalam bidang sosial meliputi:  
 a. peningkatan pengetahuan dan keterampilanuntukmendorong pemenuhan pendidikan sesuai denganpotensi yang dimiliki;  
 b. peningkatan dan pemenuhan kualitas kesehatanterhadapperempuan;  
 c. peningkatan kesadaran dan pengetahuantentangperencanaan keluarga mandiri, sehat dan sejahteratermasukakses layanan konsultasi dan pencatatan perkawinan;  
@@ -342,7 +344,7 @@ Peningkatan Peran, Kualitas, dan KemampuanPerempuan Bidang Ekonomi
 
 #### Pasal 22
 
-Upaya peningkatan peran, kualitas dan kemampuanperempuandalam bidang meliputi:
+Upaya peningkatan peran, kualitas dan kemampuanperempuandalam bidang meliputi:  
 a. melaksanakan program, kegiatan, pelatihanuntukpeningkatan keterampilan dan keahlian perempuandalamrangka mewujudkan peningkatan kesejahteraan perempuan;  
 b. fasilitasi penguatan modal usaha bagi perempuanyangmemiliki ekonomi lemah;  
 c. pemasaran produk hasil usaha perempuan yang memiliki ekonomi lemah;  
@@ -380,7 +382,7 @@ c. menguatkan peran organisasi kemasyarakatan, keagamaandan lingkungan keluarga;
 
 #### Pasal 25
 
-Tanggungjawab orang tua dan keluarga untuk mencegahterjadinya tindak kekerasan terhadap perempuandananakmeliputi:
+Tanggungjawab orang tua dan keluarga untuk mencegahterjadinya tindak kekerasan terhadap perempuandananakmeliputi:  
 a. melindungi perempuan dan anak dari berbagai pelanggaranhak dalam rumah tangga;  
 b. mendorong terbentuknya keluarga yang harmonis, edukatifdan demokratis;  
 c. memberikan tauladan yang baik kepada anak sesuai ajaranagama dan adat;  
@@ -423,7 +425,7 @@ Pelayanan Pengaduan
 
 #### Pasal 29
 
-Pelayanan pengaduan sebagaimana dimaksud dalamPasal 26ayat (3) huruf a dapat dikoordinasikan oleh UPTDPPAdenganinstansi terkait yang terdiri dari:
+Pelayanan pengaduan sebagaimana dimaksud dalamPasal 26ayat (3) huruf a dapat dikoordinasikan oleh UPTDPPAdenganinstansi terkait yang terdiri dari:  
 a. rumah sakit;  
 b. pusat kesehatan masyarakat;  
 c. pusat pelayanan terpadu pemberdayaan perempuandananakd. rumah perlindungan trauma center;  
@@ -549,13 +551,13 @@ b. menyediakan layanan bagi keluarga dalammewujudkankesetaraan gender dan hak An
 
 #### Pasal 42
 
-Upaya peningkatan kualitas keluarga sebagaimana dimaksuddalam Pasal 41 ayat (1) huruf a meliputi:
+Upaya peningkatan kualitas keluarga sebagaimana dimaksuddalam Pasal 41 ayat (1) huruf a meliputi:  
 a. pembinaan;  
 b. bimbingan; danc. supervisi.  
 
 #### Pasal 43
 
-Pembinaan sebagaimana dimaksud dalamPasal 42huruf a,meliputi:
+Pembinaan sebagaimana dimaksud dalamPasal 42huruf a,meliputi:  
 a. tumbuh kembang Anak balita;  
 b. perlindungan terhadap kesehatan reproduksi remaja;  
 c. pendewasaan usia perkawinan;  
@@ -569,13 +571,13 @@ b. melakukan penyuluhan pranikah; dan c. fasilitasi penyelenggaraan pembangunan 
 
 #### Pasal 45
 
-Supervisi sebagaimana dimaksud dalamPasal 42huruf cmeliputi:
+Supervisi sebagaimana dimaksud dalamPasal 42huruf cmeliputi:  
 a. melakukan evaluasi data tumbuh kembang anak balita;  
 b. melakukan evaluasi data pasca perkawinan.  
 
 #### Pasal 46
 
-Penyediaan layanan bagi keluarga sebagaimana dimaksuddalamPasal 41 ayat (1) huruf b meliputi:
+Penyediaan layanan bagi keluarga sebagaimana dimaksuddalamPasal 41 ayat (1) huruf b meliputi:  
 a. komunikasi, informasi dan edukasi;  
 b. pencatatan dan pelaporan pelayanan keluarga berencana;  
 c. fasilitas sarana dan prasarana pelayanan kesehatanyangmemadai;dand. ruangan laktasi disetiap fasilitas umum.  
@@ -616,7 +618,7 @@ Pelaksanaan Sistem Data Gender Dan Anak
 
 #### Pasal 51
 
-Pokja data terpilah gender dan anak sebagaimana dimaksuddalam Pasal 50 mempunyai tugas:
+Pokja data terpilah gender dan anak sebagaimana dimaksuddalam Pasal 50 mempunyai tugas:  
 a. menyusun rencana kerja kelompok kerja data terpilahgenderdan anak dengan menggunakan indikator dan target terukuruntuk periode tertentu yang akan digunakanuntukmonitoring dan evaluasi kegiatan kelompok kerja dataterpilahgender dan anak;  
 b. meningkatkan kerjasama lintas sektor dalamrangkapenguatan data yang dihasilkan terkait denganpengadaandan pemanfaatan data;  
 c. melaksanakan koordinasi dan sinkronisasi denganinstansi terkait dalam rangka penyusunan data gender dananakuntuk tingkat Daerah; dand. menghimpun, mengolah, menyusun dan meningkatkankualitas data serta mempresentasikan data di organisasi perangkat daerah dan selanjutnya dijadikan data sekunderpada data Gender dan Anak secara berkesinambungan.  
@@ -718,7 +720,7 @@ f. menyediakan sarana sanitasi dan air bersihdisetiapsekolah; dang. menyediakan 
 
 #### Pasal 64
 
-Pemerintah Daerah wajib menyelenggarakan KesejahteraanSosial bagi:
+Pemerintah Daerah wajib menyelenggarakan KesejahteraanSosial bagi:  
 a. anak yang berhadapan dengan hukum;  
 b. anak korban kekerasan yang tereksploitasi secara ekonomi;  
 c. anak yang tidak mempunyai orang tua dan diasuholehpihak atau keluarga yang tidak mampu;  

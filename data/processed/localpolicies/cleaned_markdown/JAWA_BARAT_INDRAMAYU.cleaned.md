@@ -36,12 +36,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
 
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
+ 
  
  
  
@@ -117,14 +119,14 @@ Dalam Peraturan Daerah ini yang dimaksud  dengan:
 
 #### Pasal 2
 
-Penyelenggaraan Pencegahan, Perlindungan dan  Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:
+Penyelenggaraan Pencegahan, Perlindungan dan  Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:  
 a. Penghomatan terhadap hak-hak korban;  
 b. Keadilan dan kesejahteraan gender;  
 c. Non diskriminasi; dand. Kepentingan terbaik bagi korban.  
 
 #### Pasal 3
 
-Tujuan penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak sebagai  korban tindak kekerasan adalah memberikan  pencegahan dan perlindungan yang meliputi aspek:
+Tujuan penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak sebagai  korban tindak kekerasan adalah memberikan  pencegahan dan perlindungan yang meliputi aspek:  
 a. Pencegahan;  
 b. Pelayanan dan pendampingan;  
 c. Pemulihan; dand. Pemberdayaan.  
@@ -135,7 +137,7 @@ c. Pemulihan; dand. Pemberdayaan.
 
 #### Pasal 4
 
-Setiap korban berhak mendapatkan:
+Setiap korban berhak mendapatkan:  
 a. Perlindungan;  
 b. Informasi;  
 c. Pelayanan minimal sesuai Standar Pelayanan  Minimal (SPM);  
@@ -231,7 +233,7 @@ Prinsip-prinsip Pencegahan, Perlindungan  dan Pemulihan
 
 #### Pasal 12
 
-Penyelenggaraan pencegahan, perlindungan dan  pemulihan terhadap korban tindak kekerasan dilakukan dengan:
+Penyelenggaraan pencegahan, perlindungan dan  pemulihan terhadap korban tindak kekerasan dilakukan dengan:  
 a. Cepat, aman, empati;  
 b. Adanya jaminan kerahasiaan;  
 c. Mudah dijangkau; dand. Tidak dipungut biaya.  
@@ -256,7 +258,7 @@ Bentuk dan Mekanisme Pemulihan
 
 #### Pasal 14
 
-Bentuk pemulihan terhadap korban perempuan  dan anak yang dilakukan oleh P2TP2A dapat  dilaksanakan melalui:
+Bentuk pemulihan terhadap korban perempuan  dan anak yang dilakukan oleh P2TP2A dapat  dilaksanakan melalui:  
 a. kegiatan rehabilitasi dan pendampingan  dilaksanakan maksimal sampai satu bulan;  
 b. P2TP2A wajib menyediakan sumber daya yang  berkompeten seperti psikiater dan psikolog;  
 c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak kekerasan;  
@@ -274,7 +276,7 @@ c. P2TP2A wajib menyediakan test kesehatan fisik  dan psikis bagi korban tindak 
 
 #### Pasal 16
 
-Pembinaan, pengendalian dan pengawasan  sebagaimana dimaksud dalam Bab VII diarahkan  untuk:
+Pembinaan, pengendalian dan pengawasan  sebagaimana dimaksud dalam Bab VII diarahkan  untuk:  
 a. meningkatkan derajat kesadaran masyarakat  sehingga mampu mencegah, melindungi  dan/atau memulihkan kondisi fisik dan atau  psikis perempuan dan anak korban tindak  kekerasan;  
 b. terpenuhinya kebutuhan masyarakat akan  informasi dan pelayanan perlindungan bagi  perempuan dan anak korban tindak kekerasan;  
 c. memberikan kemudahan dalam rangka  menunjang peningkatan upaya kegiatan  penyelenggaraan pencegahan, perlindungan,  pemulihan perempuan dan anak korban tindak  kekerasan;  
@@ -474,7 +476,7 @@ Yang dimaksud dengan “Kepentingan  yang terbaik bagi korban” adalah semua  t
 
 #### Pasal 3
 
-Huruf a Aspek “pencegahan” adalah upaya strategi  perlindungan melalui:
+Huruf a Aspek “pencegahan” adalah upaya strategi  perlindungan melalui:  
 a. Pencegahan primer, semua orang,  keluarga, masyarakat dan negara  dalam upaya peningkatan kemampuan  pengetahuan, pemahaman dan  menjaga agar kekerasan terhadap  perempuan dan anak tidak terjadi,  meliputi sosialisasi kebijakan,  pelayanan yang memadai, kebijakan  tempat bekerja yang mendukung, serta  pelatihan live skill bagi perempuan dan  anak.  
 
 Yang dimaksud dengan pelatihan live  skill meliputi penyelesaian konflik  tanpa kekerasan, keterampilan  menangani stress, manajemen sumber  daya, membuat keputusan efektif,  komunikasi interpersonal secara  efektif, tuntunan perkembangan  psikososial perempuan dan anak.  

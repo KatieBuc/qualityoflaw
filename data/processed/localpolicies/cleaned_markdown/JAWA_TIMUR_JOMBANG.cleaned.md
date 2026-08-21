@@ -161,7 +161,7 @@ Bentuk dan mekanisme Pelayanan (1) Bentuk-bentuk
 
 #### Pasal 8
 
-pelayanan terhadap korban yang diselenggarakan oleh P2T-P2A meliputi:
+pelayanan terhadap korban yang diselenggarakan oleh P2T-P2A meliputi:  
 a. Pelayanan medis, berupa perawatan dan pemulihan luka- luka fisik yang bertujuan untuk memulihkan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 b. Pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan pembuktian di bidang hukum;  
 

@@ -32,12 +32,14 @@ Menimbang:
  
  
  
+ 
 a. , bahwa dalam diri setiap manusia melekat hale  asasimanusia yang wajib dihormati, dijunjung tinggi dandilindungi oleh negara, hukum, Pemerintah 1 Daerahdan setiap orang demi kehormatan sertaperlindungan terhadap harkat dan martabatmanusia;  
 b. .bahwa secara realitas jumlah anak di Kabupaten Bengkayang melebihi sepertiga jumlah penduduk, • sehingga Pemerintah Daerah berkewajiban memberikan  perlindungan kepada anak dari segala bentuk kekerasan, diskriminasi dan eksploitasi, agar terjamin I penghidupan dan kehidupan anak Kabupaten , Bengkayang yang layak dan bermartabat;  
 c. bahwa permasalahan anak harus ditangani secara komprehensif, terpadu, terarah dan berkesinambungan, sehinggaperlu mendapat dukungan kelembagaan melalui peraturan perundang-undangan guna mendukung Bengkayang sebagai Kabupaten Layak Anak;  
 d. ' bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan;  
 
 • Mengingat:  
+ 
  
  
  
@@ -220,7 +222,7 @@ Dalam menyelenggarakan perlindungan terhadap perempuan dan  anakkorban kekerasan
 
 #### Pasal 11
 
-P2TP2A sebagaimana dimaksud dalam Pasal 8, bertugas:
+P2TP2A sebagaimana dimaksud dalam Pasal 8, bertugas:  
 a. mengupayakan pencegahan;  
 b. mengupayakan pemulihan dan reintegrasi sosial;  
 c. memberikan perlindungan hukum;  
@@ -240,7 +242,7 @@ c. menyelenggarakan komunikasi, informasi, dan edukasi  I tentangkekerasan terha
 
 #### Pasal 13
 
-Selain upaya pencegahan yang dilakukan oleh Pemerintah  Daerahsebagaimana dimaksud dalam Pasal 12, upaya pencegahan juga  harusdilakukan oleh:
+Selain upaya pencegahan yang dilakukan oleh Pemerintah  Daerahsebagaimana dimaksud dalam Pasal 12, upaya pencegahan juga  harusdilakukan oleh:  
 a. keluarga dan kerabat terdekat;  
 b. masyarakat dan dunia usaha; dan
 
@@ -250,7 +252,7 @@ Paragraf2 Upaya Pemulihan dan Reintegrasi Sosial
 
 #### Pasal 14
 
-Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  11 huruf b, meliputi:
+Upaya pemulihan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  11 huruf b, meliputi:  
 a. memberikan pemulihan fisik di lembaga pelayanan kesehatan;  
 b. memberikan pelayanan medicolegal ;  
 c. membantu pemulangan korban;  
@@ -262,7 +264,7 @@ Paragraf3 Perlindungan Hukum
 
 #### Pasal 15
 
-Perlindungan hukum sebagaimana dimaksud dalam Pasal 11 huruf c  meliputi:
+Perlindungan hukum sebagaimana dimaksud dalam Pasal 11 huruf c  meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
 b. melakukan pendampingan dalam proses hukum; danc. memberikan perlindungan hukum secara khusus bagi anak  korbankekerasan dapat dilakukan dengan penunjukan perwalian sesuai  dengan ketentuan peraturan perundang-undangan.  
 12- Paragraf4 Koordinasi
@@ -279,7 +281,7 @@ Upaya Peningkatan Partisipasi Masyarakat
 
 #### Pasal 17
 
-Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal  11 huruf e, dilakukan dengan cara:
+Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal  11 huruf e, dilakukan dengan cara:  
 a. menumbuhkan kepedulian masyarakat terhadap kasus kekerasan  terhadap perempuan dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam  memberikaninformasi dan melaporkan adanya kekerasan terhadap  perempuan dananak;  
 c. menumbuhkan kearifan lokal dalam penanganan terhadap perempuan  dan anak korban kekerasan;  

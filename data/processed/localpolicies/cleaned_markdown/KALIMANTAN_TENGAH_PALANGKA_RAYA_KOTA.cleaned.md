@@ -116,7 +116,7 @@ Umum
 
 #### Pasal 6
 
-Perlindungan Perempuan meliputi:
+Perlindungan Perempuan meliputi:  
 a. pelayanan;  
 b. pemberdayaan;  
 c. pencegaha11; dan d . pemantauan.  
@@ -331,7 +331,7 @@ Pencegahan Kekerasan Pada Pcrempuan dan Anak
 
 #### Pasal 20
 
-(l) Pemcrintah Daerah berkewajiban dan hertanggung  jawab 1.mtuk melaksanakan upaya pencegahan  terjadinya kekerasan terhadap Perempuan dan Anak  sebagaimana dimaksud dalam Pasal 17 ayat (3) huruf e  dan ayat (4) huruf i dilakukan dalam bentuk:
+(l) Pemcrintah Daerah berkewajiban dan hertanggung  jawab 1.mtuk melaksanakan upaya pencegahan  terjadinya kekerasan terhadap Perempuan dan Anak  sebagaimana dimaksud dalam Pasal 17 ayat (3) huruf e  dan ayat (4) huruf i dilakukan dalam bentuk:  
 a. mengumpulkan data dan menyelenggarakan sistem  informasi Perlindungan Perempuan dan Anak korban  kekerasan;  
 b. melakukan pendidikan tentang nilai anti kekerasan  terhadap Perempuan dan Anak; danc. melakukan sosialis.u:.i peraturan perundang undangan yang bcrkaitan dengan pemberdayaan Perempuan dan Perlindungan Anak korban  kckerasan.  
 2. Pemerintah Daerah berkewajiban dan bertanggung  jawab untuk menyediakan dan menyelenggarakan  layanan bagi korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga  pelayanan teknis untuk korban dengan melibatkan  unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya  pelindungan terhadap korban kekcrasan.  
@@ -346,7 +346,7 @@ Kelem bagaan
 
 2. Dalam penyelenggaraan Perlindungan Perempuan dan  Anak dilaksanakan oleh Unit Pelaksana Teknis Daerah.  (3) Dalam ha! pelaksanaan pelayanan teknis sebagaimana  dimaksud pada ayat (1) Pemcrintah Daerah dapat  membentuk gugus tugas.  
 
-I 11 - 15 - (4) Gugus tugas sebagaimana dimaksud pada ayat (3) dapat  juga dilakukan penguatan kelembagaan melalui kerja  sama dan koordinasi dcngan:
+I 11 - 15 - (4) Gugus tugas sebagaimana dimaksud pada ayat (3) dapat  juga dilakukan penguatan kelembagaan melalui kerja  sama dan koordinasi dcngan:  
 a. gugus tugas KLA;  
 
 b . gugus tugas KRA;  
@@ -467,7 +467,7 @@ k. memberika.n pertolongan pertama pada saa.t te1jadi  pelanggaran terhadap hak 
 
 Perlindungan Perempuan dan (2) Pelaksa.naa.n pembinaan dan pengawasan sebagaimana  dimaksud pada ayat ( 1) dilaksanakan oleh PD yang  menyelenggarakan urusa.n di bidang pemberdayaan  Perempua.n dan Pcrlindungan Anak Korban Kekerasan.  
 
-I 11 • 19 - (3) Pembinaan dan pengawasan sebagaimana dimaksud  pada ayat (1) meliputi:
+I 11 • 19 - (3) Pembinaan dan pengawasan sebagaimana dimaksud  pada ayat (1) meliputi:  
 a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan;  
@@ -509,7 +509,7 @@ d. pemantauan clan evaluasi; dane. pelaporan.
 
 #### Pasal 34
 
-Pendanaan pelaksanaan Perlindungan Perempuan dan  Anak Korban Kekerasan bersumber dari:
+Pendanaan pelaksanaan Perlindungan Perempuan dan  Anak Korban Kekerasan bersumber dari:  
 a. anggaran pendapatan dan belanja daerah; dan  b. sumber lain yang sah dan tidak mengikat ses1.1ai  deng;,m kelcnluan Peraturan Pcnl!ldang-Undangan.  
 
 Pcraturan  ditetapkan - 22 -

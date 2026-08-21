@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa melindungi perempuan dan anak dari segala bentuk tindakan diskriminasi dan kekerasan merupakan bagian dari tanggung jawab pemerintah daerah dalam rangka pemajuan, penegakan, dan pemenuhan hak asasi manusia;  
 b. bahwa perlindungan perempuan dan anak menjadi bagian dari urusan wajib bagi setiap pemerintah daerah yang diamanatkan dalam Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah;  
 
@@ -123,7 +124,7 @@ oleh
 
 #### Pasal 2
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas:
+Penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dilaksanakan berdasarkan asas:  
 a. penghormatan terhadap hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. non-diskriminasi;  
@@ -135,7 +136,7 @@ Penyelenggaraan perlindungan perempuan dan anak korban kekerasan bermaksud untuk
 
 #### Pasal 4
 
-Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan bertujuan untuk:
+Penyelenggaraan perlindungan terhadap perempuan dan anak dari tindak kekerasan bertujuan untuk:  
 a. mencegah segala bentuk tindakan kekerasan termasuk perdagangan orang;  
 
 }
@@ -149,7 +150,7 @@ d. memberikan pelayanan kepada korban kekerasan; dane. menyelenggarakan pemuliha
 
 #### Pasal 5
 
-Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama:
+Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak korban kekerasan merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. instansi terkait dan aparat penegak hukum;  
 c. masyarakat;  
@@ -259,7 +260,7 @@ Ketentuan lebih lanjut mengenai pelayanan pengaduan dan pelayanan sosial sebagai
 
 #### Pasal 16
 
-Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut:
+Perempuan dan anak korban kekerasan mendapatkan hak-hak sebagai berikut:  
 a. hak untuk dihormati harkat dan martabat sebagai manusia;  
 b. hak atas pemulihan kesehatan psikologis dari penderitaan yang dialami korban;  
 c. hak menentukan sendiri keputusannya;  
@@ -304,7 +305,7 @@ Kemitraan
 
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalam perlindungan perempuan dan anak korban kekerasan.  
 
-( (2) Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:
+( (2) Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. pemberitahuan informasi perempuan korban kekerasan;  
 
 kesempatan kerja bagi
@@ -336,7 +337,7 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan perempuan dan
 
 #### Pasal 22
 
-Pengalokasian anggaran untuk penyelenggaraan perlindungan perempuan dan anak korban kekerasan bersumber dari:
+Pengalokasian anggaran untuk penyelenggaraan perlindungan perempuan dan anak korban kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
 b. Sumber pendapatan lain yang sah sesuai dengan Peraturan Perundang-undangan;  
 c. Sumber pendapatan lain yang sifatnya tidak mengikat.  
@@ -451,7 +452,7 @@ Huruf d Cukup jelas Huruf e Cukup jelas
 
 #### Pasal 6
 
-Ayat (1) Huruf a Yang dimaksud dengan menetapkan dan melaksakan kebijakan, program dan kegiatan perlindungan meliputi:
+Ayat (1) Huruf a Yang dimaksud dengan menetapkan dan melaksakan kebijakan, program dan kegiatan perlindungan meliputi:  
 a. Mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. Memberikan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
 c. Melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan penyelenggaraan perlindungan perempuan dan anak korban kekerasan;  
