@@ -55,8 +55,11 @@ Mengingat:
 16. Peraturan Daerah Propinsi Bali Nomor 6 Tahun 2014 tentang Perlindungan Anak (Lembaran Daerah Provinsi  Bali Tahun 2014 Nomor 6, Tambahan Lembaran Daerah  Provinsi Bali Nomor 6);  
 
 Dengan Persetujuan Bersama  
-DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TABANAN 
+
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN TABANAN  
+
 dan  
+
 BUPATI TABANAN  
 
 MEMUTUSKAN:  
