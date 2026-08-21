@@ -91,7 +91,7 @@ f. keadilan dan kesetaraan gender serta inklusi; g. profesionalitas, akuntabilit
 
 #### Pasal 3
 
-Pemberdayaan perempuan mempunyai tujuan:
+Pemberdayaan perempuan mempunyai tujuan:  
 a. mengakui adanya persamaan hak secara hukum sehingga meningkatkan partisipasi perempuan dalam tahapan pembangunan;  
 b. meningkatkan kualitas hidup perempuan agar mampu berperan seimbang dengan laki-laki dalam berbagai aspek kehidupan yang relevan;  
 c. memberikan jaminan kepada perempuan untuk dapat memenuhi hak- haknya sebagai manusia dalam segala aspek kehidupan;  
@@ -111,8 +111,9 @@ f. berdayaan dan perlindungan terhadap perempuan.
 
 #### Pasal 6
 
-Pemberdayaan perempuan didasarkan pada dua pilar yang terdiri atas:
-a. Perlindunganb. Pemberdayaan
+Pemberdayaan perempuan didasarkan pada dua pilar yang terdiri atas:  
+a. Perlindungan  
+b. Pemberdayaan
 
 # BAB II
 
