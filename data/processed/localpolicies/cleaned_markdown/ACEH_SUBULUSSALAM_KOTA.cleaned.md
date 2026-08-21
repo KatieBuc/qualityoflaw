@@ -167,7 +167,7 @@ f. Melakukan pemulangan dan reintegrasi sosial dengan membangun jejaring pengama
 g. Memberikan pemenuhan kebutuhan dasar dan kebutuhan spesifik perempuan;  
 h. Membuka informasi dan akses terhadap segala bentuk perlindungan atas tindakan yang merugikan perempuan, termasuk penggunaan informasi tehnologi, media sosial;  
 i. Memberikan perlindungan dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi perempuan;  
-j. Memberikan perlindungan bagi perempuan untuk melaksanakan syariat agamanya serta hak-hak yang mengikat dalam pelaksanaan syariat; dan
+j. Memberikan perlindungan bagi perempuan untuk melaksanakan syariat agamanya serta hak-hak yang mengikat dalam pelaksanaan syariat; dan  
 k. Dalam pelaksanaan kegiatan syariat agamanya sebagaimana dimaksud pada ayat k adalah bagi perempuan yang memeluk agama Islam dan agama lainnya.  
 
 ## Bagian 2
