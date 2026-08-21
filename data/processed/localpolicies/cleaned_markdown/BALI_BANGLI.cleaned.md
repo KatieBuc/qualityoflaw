@@ -358,169 +358,169 @@ Peraturan Daerah ini mengatur upaya perlindungan bagi Perempuan dan Anak korban 
 
 #### II. PASAL DEMI PASAL
 
-#### Pasal 1
+#### Pasal 1  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 2
+#### Pasal 2  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 3
+#### Pasal 3  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 4
+#### Pasal 4  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 5
+#### Pasal 5  
 
-Cukup jelas
+Cukup jelas  
 
 #### Pasal 6
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 7
+#### Pasal 7  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas   
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 8
+#### Pasal 8  
 
 Ayat (1) Yang dimaksud dengan sarana dan prasarana pendukung yang memadai adalah disesuaikan dengan standar pelayanan minimal dan standar operasional prosedur pemulangan dan reintegrasi sosial yang berlaku.  
 
 Ayat (2) Yang dimaksud dengan petugas pelaksana atau petugas fungsional meliputi tenaga kesehatan, psikolog, psikiater, pekerja sosial yang disediakan oleh instansi atau lembaga terkait.  
 
-Ayat (3) 
-Cukup jelas 
+Ayat (3)  
+Cukup jelas  
 
-Ayat (4) 
-Cukup jelas 
+Ayat (4)  
+Cukup jelas  
 
-Ayat (5) 
-Cukup jelas 
+Ayat (5)  
+Cukup jelas  
 
-Ayat (6) 
-Cukup jelas
+Ayat (6)  
+Cukup jelas  
 
-#### Pasal 9
+#### Pasal 9  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas 
+Ayat (2)  
+Cukup jelas  
 
-Ayat (3) 
-Cukup jelas
+Ayat (3)  
+Cukup jelas  
 
-#### Pasal 10
+#### Pasal 10  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 11
+#### Pasal 11  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 12
+#### Pasal 12  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas 
+Ayat (2)  
+Cukup jelas  
 
-Ayat (3) 
-Cukup jelas 
+Ayat (3)  
+Cukup jelas  
 
-Ayat (4) 
-Cukup jelas
+Ayat (4)  
+Cukup jelas  
 
-#### Pasal 13
+#### Pasal 13  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 14
+#### Pasal 14  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 15
+#### Pasal 15  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas 
+Ayat (2)  
+Cukup jelas  
 
-Ayat (3) 
-Cukup jelas
+Ayat (3)  
+Cukup jelas  
 
-#### Pasal 16
+#### Pasal 16  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas 
+Ayat (2)  
+Cukup jelas  
 
-Ayat (3) 
-Cukup jelas
+Ayat (3)  
+Cukup jelas  
 
-#### Pasal 17
+#### Pasal 17  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 18
+#### Pasal 18  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 19
+#### Pasal 19  
 
-Ayat (1) 
-Cukup jelas 
+Ayat (1)  
+Cukup jelas  
 
-Ayat (2) 
-Cukup jelas
+Ayat (2)  
+Cukup jelas  
 
-#### Pasal 20
+#### Pasal 20  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 21
+#### Pasal 21  
 
-Cukup jelas
+Cukup jelas  
 
-#### Pasal 22
+#### Pasal 22  
 
-Cukup jelas 
+Cukup jelas  
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 15
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 15  
