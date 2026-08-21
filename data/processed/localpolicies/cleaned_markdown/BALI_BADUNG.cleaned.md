@@ -36,7 +36,6 @@ Mengingat:
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
-
 2. Undang-Undang Nomor 69 Tahun 1958 tentang Pembentukan  Daerah-daerah Tingkat II dalam Wilayah Daerah-daerah Tingkat I Bali, Nusa Tenggara Barat dan Nusa Tenggara Timur (Lembaran Negara Republik Indonesia Tahun 1958 Nomor 122, Tambahan Lembaran Negara Republik Indonesia Nomor 1655);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia  (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235);  
@@ -45,7 +44,7 @@ Mengingat:
 7. Undang-Undang Nomor 21 Tahun 2007 tentang Pemberantasan  Tindak Pidana Perdagangan Orang (Lembaran Negara Republik  Indonesia Tahun 2007 Nomor 58, Tambahan Lembaran Negara  Republik Indonesia Nomor 4720);  
 8. Undang-Undang Nomor 12 Tahun 2011 tentang Pembentukan  Peraturan Perundang-undangan (Lembaran Negara Republik  Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara  Republik Indonesia Nomor 5234);  
 9. Peraturan Pemerintah Nomor 4 Tahun 2006 tentang Penyelenggaraan  dan Kerjasama Pemulihan Korban Kekerasan dalam Rumah Tangga  (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 15,  Tambahan Lembaran Negara Republik Indonesia Nomor 4604);  
-10. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia Nomor 4737 );  
+10. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang Pembagian  Urusan Pemerintahan Antara Pemerintah, Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah Kabupaten/Kota (Lembaran  Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan  Lembaran Negara Republik Indonesia Nomor 4737);  
 11. Peraturan Pemerintah Nomor 9 Tahun 2008 tentang Tata Cara dan  Mekanisme Pelayanan Terpadu bagi Saksi dan/atau Korban Tindak  Pidana Perdagangan Orang (Lembaran Negara Republik Indonesia  Tahun 2008 Nomor 22, Tambahan Lembaran Negara Republik  Indonesia Nomor 4818);  
 12. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 2 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Perempuan;  
 13. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Perlindungan Anak Nomor 3 Tahun 2008 tentang Pedoman  Pelaksanaan Perlindungan Anak;  
@@ -57,11 +56,11 @@ Mengingat:
 
 Dengan Persetujuan Bersama
 
-# DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BADUNG
+DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BADUNG
 
-# BUPATI BADUNG
+BUPATI BADUNG
 
-# MEMUTUSKAN:
+MEMUTUSKAN:
 
 MENETAPKAN: PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN.  
 
@@ -91,7 +90,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 16. Reintegrasi sosial adalah upaya penyatuan kembali Korban  dengan pihak keluarga, keluarga pengganti, atau masyarakat  yang dapat memberikan Perlindungan dan pemenuhan  kebutuhan bagi Korban.  
 17. Pusat Pelayanan Terpadu yang selanjutnya disingkat PPT adalah  suatu unit kerja fungsional yang menyelenggarakan pelayanan  terpadu untuk saksi dan/atau Korban tindak Kekerasan.  
 18. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak yang selanjutnya disebut P2TP2A adalah Unit Pelayanan Terpadu  yang dibentuk oleh Pemerintah Daerah untuk menyelenggarakan  fungsi dan tugas pokok pelayanan terpadu bagi Perempuan dan  Anak Korban Kekerasan, meliputi pelayanan pengaduan,  Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan, Reintegrasi  Sosial, dan Bantuan Hukum.  
-19. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah  tolok ukur kinerja pelayanan unit pelayanan terpadu dalam  memberikan pelayanan penanganan laporan/pengaduan,  pelayanan kesehatan, Rehabilitasi Sosial, penegakan dan bantuan  hukum, serta Pemulangan dan reintegrasi sosial bagi  Perempuan dan Anak Korban Kekerasan.  
+19. Standar Pelayanan Minimal yang selanjutnya disingkat SPM adalah  tolok ukur kinerja pelayanan unit pelayanan terpadu dalam  memberikan pelayanan penanganan laporan/pengaduan, pelayanan kesehatan, Rehabilitasi Sosial, penegakan dan bantuan  hukum, serta Pemulangan dan reintegrasi sosial bagi  Perempuan dan Anak Korban Kekerasan.  
 
 # BAB II
 
@@ -113,9 +112,9 @@ a. mencegah segala bentuk Kekerasan terhadap Perempuan dan  Anak;
 b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dan  
 c. pemberdayaan Perempuan dan Anak Korban Kekerasan.  
 
-# BAB III
+# BAB III  
 
-## HAK –HAK KORBAN
+## HAK –HAK KORBAN  
 
 #### Pasal 4
 
