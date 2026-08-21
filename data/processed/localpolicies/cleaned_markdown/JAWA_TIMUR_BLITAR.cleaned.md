@@ -1,0 +1,340 @@
+Menimbang : :
+
+# BUPATI BLITAR
+
+# PERATURAN DAERAH KABUPATEN BLITAR
+
+# NOMOR 11 TAHUN 2013
+
+# TENTANG
+
+# PERLINDUNGAN PEREMPUAN DAN ANAK
+
+# DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+# BUPATI BLITAR,
+
+   - a. bahwa perempuan dan anak adalah makhluk yang  diciptakan Tuhan Yang Maha Esa memiliki hak-hak dan  martabat yang mulia sesuai dengan kodratnya sebagai  manusia;
+   - b. bahwa masih banyak perempuan dan anak yang tidak  mendapatkan hak-hak asasinya secara utuh, terutama  perempuan dan anak korban kekerasan;
+   - c. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran Hak Asasi  Manusia, sehingga perempuan dan anak korban  kekerasan perlu mendapat perlindungan;
+   - d. bahwa perlindungan perempuan dan anak, terutama  korban kekerasan, merupakan salah satu kewajiban yang  harus dilakukan oleh Pemerintah Daerah sebagai salah  satu upaya mewujudkan kesejahteraan masyarakat;
+   - e. bahwa untuk mewujudkan perlindungan bagi perempuan  dan anak korban kekerasan secara terpadu dan  berkelanjutan, diperlukan dukungan kelembagaan dan  peraturan perundang-undangan yang dapat menjamin  pelaksanaannya secara terkoordinasi dan terarah;
+
+Mengingat : :
+
+   - f. bahwa berdasarkan pertimbangan a, b, c, d, dan e, maka  perlu segera ditetapkan Peraturan Daerah Kabupaten  Blitar tentang Perlindungan Perempuan dan Anak
+1. Pasal 18 ayat (6) Undang-Undang Dasar 1945; 2. Undang-Undang Nomor 12 Tahun 1950 tentang  Pembentukan Daerah-Daerah Kabupaten dalam  Lingkungan Provinsi Jawa Timur (Berita Negara Republik  Indonesia Tahun 1950 Nomor 41), sebagaimana telah  diubah dengan Undang – Undang Nomor 2 Tahun 1965  (Lembaran Negara Republik Indonesia Tahun 1965 Nomor  19, Tambahan Lembaran Negara Republic Indonesia  Nomor 3851);
+3. Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan  (Lembaran Negara Republik Indonesia Tahun 1974 Nomor  1, Tambahan Lembaran Negara Republik Indonesia Nomor  3019);
+4. Undang-Undang Nomor 4 Tahun 1979 tentang  Kesejahteraan Anak (Lembaran Negara Republik Indonesia  Tahun 1979 Nomor 32, Tambahan Lembaran Negara  Republik Indonesia Nomor 3143);
+5. Undang-UndangNomor 3 Tahun 1997 tentang Pengadilan  Anak (Lembaran Negara Republik Indonesia Tahun 1997  Nomor 3, Tambahan Lembaran Negara Republik Indonesia  Nomor 3668); sudah ada yang terbaru Nomor 11 th 2012  tentang Sistem Peradilan Anak
+6. Undang-Undang Nomor 20 Tahun 1999 tentang  Pengesahan ILO Convention No. 138 Concerning Minimum  Age for Admission to Employment (Konvensi mengenai Usia  Minimum Anak Diperbolehkan Bekerja) (Lembaran Negara  Republik Indonesia Tahun 1999 Nomor 56, Tambahan  Lembaran Negara Republik Indonesia Nomor 3835);
+7. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi  Manusia (Lembaran Negara Republik Indonesia Tahun  1999 Nomor 165, Tambahan Lembaran Negara Republik  Indonesia Nomor 3886);
+8. Undang-Undang Nomor 1 Tahun 2000 tentang Pengesahan  ILO Convention No. 182 Concerning The Prohibition and  Immediate Action for The Elimination of The Worst Forms of  Child Labour (Konvensi ILO Nomor 182 mengenai  Pelarangan dan Tindakan Segera Penghapusan Bentuk bentuk Pekerjaan Terburuk untuk Anak) (Lembaran  Negara Republik Indonesia Tahun 2000 Nomor 30,  Tambahan Lembaran Negara Republik Indonesia Nomor  3941));
+9. Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak (Lembaran Negara Nomor 109,  Tambahan Lembaran Negara Republik Indonesia Nomor  4235);
+10. Undang-Undang Nomor 13 Tahun 2003 tentang  Ketenagakerjaan (Lembaran Negara Republik Indonesia  Nomor 39, Tambahan Lembaran Negara Republik  Indonesia Nomor 4279);
+11. Undang-Undang Nomor 20 Tahun 2003 tentang Sistem  Pendidikan Nasional (Lembaran Negara Republik Indonesia  Tahun 2003 Nomor 78, Tambahan Lembaran Negara  Republik Indonesia Nomor 4301);
+12. Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 39,  Tambahan Lembaran Negara Republik Indonesia 4419);
+13. Undang-Undang Nomor 32 Tahun 2004 tentang  Pemerintah Daerah (Lembaran Negara Republik Indonesia  Nomor 125, Tambahan Lembaran Negara Republik  Indonesia Nomor 4437 ) sebagaimana telah diubah  beberapa kali, terakhir dengan Undang-Undang Nomor 12  Tahun 2008 tentang Pemerintah Daerah (Lembaran Negara  Republik Indonesia Tahun 2008 Nomor 59, Tambahan  Lembaran Negara Republik Indonesia Nomor 4844);
+14. Undang-Undang Nomor 13 Tahun 2006 tentang  Perlindungan Saksi dan Korban) Lembaran Negara  Republik Indonesia Tahun 2004 Nomor 64, Tambahan  Lembaran Negara Republik Indonesia Nomor 4635);
+15. Undang-Undang Nomor 21 Tahun 2007 tentang  Pemberantasan Tindak Pidana Perdagangan Orang  (Lembaran Negara Republik Indonesia Tahun 2007 Nomor  64, Tambahan Lembaran Negara Republik Indonesia  Nomor 4720);
+16. Undang – Undang Nomor 11 Tahun 2009 tentang  Kesejahteraan Sosial;
+17. Undang-Undang Nomor 12 Tahun 2011 tentang  Pembentukan Peraturan Perundang-undangan (Lembaran  Negara Republik Indonesia Tahun 2011 Nomor 82);
+18. Undang – Undang Nomor 11 Tahun 2012 tentang Sistem  Peradilan Pidana Anak;
+19. Peraturan Pemerintah Nomor 79 Tahun 2005 tentang  Pedoman Pembinaan dan Pengawasan Penyelenggaraan  Pemerintah Daerah;
+20. Peraturan Pemerintah Nomor 38 Tahun 2007 tentang  Pembagian Urusan Pemerintahan antara Pemerintah,  Pemerintahan Daerah Provinsi, dan Pemerintahan Daerah  Kabupaten/Kota (Lembaran Negara Republik Indonesia Tahun 2007 Nomor 82, Tambahan Lembaran Negara  Republik Indonesia Nomor 4737);
+21. Peraturan Pemerintah Nomor 39 Tahun 2012 tentang  Penyelenggaraan Kesejahteraan Sosial (Lembaran Negara  Republik Indonesia Tahun 2012 Nomor 68, Tambahan  Lembaran Negara Republik Indonesia Nomor 5294);
+22. Keputusan Presiden Nomor 36 Tahun 1990 tentang  Pengesahan Convention On the Rights of the Child  (Konvensi tentang Hak-hak Anak) (Lembaran Negara  Republik Indonesia Tahun 1990 Nomor 57);
+23. Peraturan Menteri Pemberdayaan Perempuan Nomor 6  Tahun 2009 tentang Data Terpilah Gender dan  Pengarusutamaan Hak Anak;
+24. Peraturan Menteri Negara Pemberdayaan Perempuan dan  Pemenuhan Anak Nomor 11 Tahun 2011 tentang  Kebijakan Pengembangan Kabupaten/Kota Layak Anak;
+25. Peraturan Menteri Negara Pemberdayaan Perempuan  Nomor 3 Tahun 2008 tentang Pedoman Pelaksanaan  Perlindungan Anak;
+26. Peraturan Menteri Dalam Negeri Nomor 15 Tahun 2008  tentang Pedoman Umum Penyusunan Pengarusutamaan  Gender (PUG) Dalam Pembangunan sebagaimana diubah  dengan Peraturan Menteri Dalam Negeri Nomor 67 Tahun  2011 tentang Perubahan Peraturan Menteri Dalam Negeri  Nomor 15 Tahun 2008 tentang Pedoman Umum  Penyusunan Pengarusutamaan Gender (PUG) Dalam  Pembangunan;
+27. Peraturan Menteri Dalam Negeri Nomor 1 Tahun 2014  tentang Pembentukan Produk Hukum Daerah;
+28. Peraturan Daerah Kabupaten Blitar Nomor 5 Tahun 2011  tentang Perubahan Atas Peraturan Daerah Nomor 19  Tahun 2008 tentang Organisasi dan Tata Kerja Dinas – Dinas Daerah.
+
+Dengan Persetujuan Bersama DEWAN PERWAKILAN RAKYAT DAERAH KABUPATEN BLITAR dan
+
+# BUPATI BLITAR
+
+# MEMUTUSKAN:
+
+Menetapkan : PERATURAN DAERAH TENTANG PERLINDUNGAN  PEREMPUAN DAN ANAK
+
+# BAB I
+
+## KETENTUAN UMUM
+
+#### Pasal 1
+
+Dalam Perda ini yang dimaksud dengan:
+
+1. Daerah adalah Kabupaten Blitar;
+2. Dewan Perwakilan Rakyat Daerah Kabupaten Blitar yang selanjutnya  disingkat DPRD adalah DPRD Kabupaten Blitar;
+3. Bupati adalah Bupati Blitar;
+4. Pemerintah Daerah adalah Pemerintah Kabupaten Blitar; 5. Masyarakat adalah perseorangan, keluarga, kelompok dan organisasi  sosial dan/atau organisasi kemasyarakatan;
+6. Perempuan adalah makhluk ciptaan Tuhan dengan jenis kelamin  perempuan,atau dengan organ reproduksi berupa ovarium atau indung  telur, ovum atau sel telur, rahim, dan selaput dara;
+7. Anak adalah seseorang yang belum berusia 18 (delapan belas) tahun,  termasuk anak yang masih dalam kandungan;
+8. Perlindungan perempuan dan anak adalah segala upaya untuk  melindungi perempuan dan anak, mulai dari tindakan pencegahan, penjagaan dan penanganan, yang ditujukan untuk memberikan rasa  aman dan nyaman kepada perempuan dan anak serta keluarganya,  terutama yang menjadi korban kekerasan;
+9. Korban kekerasan adalah perempuan dan anak yang mengalami  kekerasan dan/atau ancaman kekerasan baik fisik, psikis, seksual  maupun ekonomi baik di ranah domestik maupun ranah publik ;
+10. Kekerasan adalah setiap perbuatan atau pembiaran terhadap  kewajibannya yang mengakibatkan kesengsaraan atau penderitaan baik  fisik, mental, seksual dan ekonomi termasuk ancaman untuk  melakukan perbuatan, pemaksaan atau perampasan kemerdekaan  secara melawan hukum;
+11. Penelantaran adalah perbuatan yang mengakibatkan ketergantungan  ekonomi seseorang kepada orang lain dalam satu rumah tangga; 12. Pencegahan adalah segala upaya yang ditujukan untuk mencegah  terjadinya kekerasan dan ancaman kekerasan ;
+13. Penjagaan adalah segala upaya agar perempuan dan anak yang rentan  terhadap kekerasan tidak menjadi korban kekerasan;
+14. Penanganan adalah segala upaya yang ditujukan untuk menangani  kasus kekerasan terhadap perempuan dan anak serta keluarganya  meliputi layanan litigasi dan nonlitigasi;
+15. Perdagangan orang adalah tindakan perekrutan, pengangkutan,  penampungan, pengiriman, pemindahan, atau penerimaan seseorang  dengan ancaman kekerasan, penggunaan kekerasan, penculikan,  penyekapan, pemalsuan, penipuan, penyalahgunaan kekuasaan atau  posisi rentan, penjeratan utang atau memberi bayaran atau manfaat,  sehingga memperoleh persetujuan dari orang yang memegang kendali  atas orang lain tersebut, baik yang dilakukan di dalam negara maupun antar negara, untuk tujuan eksploitasi atau mengakibatkan orang  tereksploitasi.
+16. Eksploitasi seksual adalah segala bentuk pemanfaatan organ tubuh  seksual atau organ tubuh lain dari korban untuk mendapatkan  keuntungan, tetapi tidak terbatas pada semua kegiatan pelacuran dan  pencabulan.
+17. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A)  adalah salah satu bentuk wahana pelayanan bagi perempuan dan anak  yang terdiri dari unsur pemerintah dan non pemerintah dalam upaya  pemenuhan informasi dan kebutuhan di bidang pendidikan, kesehatan,  ekonomi, politik, hukum, pemenuhan dan penanggulangan tindak  kekerasan serta perdagangan terhadap perempuan dan anak.
+18. Rumah aman adalah tempat tinggal sementara yang digunakan untuk  memberikan pemenuhan terhadap korban sesuai dengan standar  operasional prosedur yang ditentukan.
+19. Anak dalam situasi normal atau regular adalah anak yang mendapat  kesempatan tumbuh kembang secara optimal.
+20. Anak sebagai korban kekerasan adalah anak yang menjadi korban dari  salah satu atau semua jenis kekerasan, baik fisik, psikis, seksual, maupun ditelantarkan oleh orang tua dan keluarganya termasuk korban  perdagangan orang ;
+21. Anak disabel adalah anak yang menyandang cacat;
+22. Orang tua adalah ayah dan/atau ibu kandung, atau ayah dan/atau ibu  tiri, ayah dan/atau ibu angkat;
+23. Keluarga adalah unit terkecil dalam masyarakat yang terdiri dari suami  istri, atau suami istri dan anaknya, atau ayah dan anaknya, atau ibu  dan anaknya, atau keluarga sedarah dalam garis lurus ke atas atau ke  bawah sampai dengan derajat ketiga;
+24. Wali adalah orang atau badan yang dalam kenyataannya menjalankan  kekuasaan asuh sebagai orang tua terhadap anak;
+25. Standart Pelayanan Minimal (SPM) adalah tolok ukur kinerja  pelayanan unit pelayanan terpadu dalam memberikan pelayanan  penanganan pengaduan, pelayanan kesehatan, rehabilitasi sosial,  penegakan dan bantuan hukum serta pemulangan-reintegrasi sosial  terutama bagi perempuan dan anak korban kekerasan
+26. Standart Operasional Prosedure (SOP) adalah pedoman teknis untuk  pelaksanaan penyelenggaraan perlindungan perempuan dan anak korban kekerasan yang disusun berdasarkan Standart Pelayanan  Minimal sesuai kemampuan keuangan daerah.
+27. Anak terlantar adalah anak yang tidak dipenuhi kebutuhan secara wajar  oleh yang berkewajiban sesuai kemampuannya baik fisik, mental dan  spiritual.
+28. SKPD terkait adalah SKPD yang di dalam tugas pokok dan fungsinya  menangani perlindungan perempuan dan anak.
+29. SKPD yang membidangi perencanaan pembangunan daerah adalah  Badan Perencanaan Pembangunan Daerah Kabupaten Blitar, yang  selanjutnya disingkat BAPEDA Kabupaten Blitar.
+30. SKPD yang membidangi pemberdayaan perempuan dan perlindungan  anak adalah Badan Pemberdayaan Perempuan dan Keluarga Berencana  Kabupaten Blitar.
+
+# BAB II
+
+## ASAS, LANDASAN DAN PRINSIP
+
+#### Pasal 2
+
+Penyelenggaraan Perlindungan Perempuan dan Anak berasaskan Pancasila  dan berlandaskan Undang-Undang Dasar Republik Indonesia Tahun 1945,  serta berprinsip dasar pada :
+
+   - a. penghormatan hak asasi manusia, hak asasi manusia perempuan dan  hak-hak asasi anak;
+   - b. keadilan dan kesetaraan gender;
+   - c. non diskriminasi,
+   - d. perlindungan untuk kerahasiaan, keamanan dan kenyamanan korban . e. kepentingan yang terbaik bagi anak;
+   - f. hak untuk hidup, kelangsungan tumbuh kembang, dan penghargaan  terhadap pendapat anak.
+
+# BAB III
+
+## TUJUAN
+
+#### Pasal 3
+
+Tujuan penyelenggaraan perlindungan perempuan dan anak terutama  korban kekerasan adalah untuk menjamin terlindunginya perempuan dan  anak, agar tidak menjadi korban kekerasan dan menjamin terpenuhinya  hak-hak perempuan dan anak serta keluarga, baik sebelum, pada saat  maupun pasca terjadi kekerasan, serta pencegahan agar tidak terjadi kekerasan, serta pencegahan agar tidak terjadi kekerasan sesuai dengan  peraturan perundang-undangan yang berlaku.
+
+# BAB IV
+
+## RUANG LINGKUP
+
+#### Pasal 4
+
+Ruang lingkup penyelenggaraan perlindungan perempuan dan anak,  terutama korban kekerasan meliputi:
+
+   - a. penyelenggaran perlindungan perempuan dan anak, baik sebelum, pada  saat maupun pasca terjadi kekerasan, serta pencegahan agar tidak terjadi  kekerasan;
+   - b. pengaturan kelembagaan dan mekanisme penyelenggaraan perlindungan  perempuan dan anak, terutama korban kekerasan.
+
+# BAB V
+
+PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK,  TERUTAMA KORBAN KEKERASAN
+
+## Bagian Kesatu
+
+Umum
+
+#### Pasal 5
+
+1. Penyelenggaraan perlindungan perempuan,anak dan keluarga korban  kekerasan merupakan sistem pencegahan komprehensif, mencakup perlindungan terhadap semua bentuk kekerasan, perdagangan  perempuan dan anak, eksplotasi ekonomi, eksploitasi seksual, perlakuan  salah, penelantaran dan atau pengabaian dalam semua situasi termasuk  perempuan dan anak disabel, anak keluarga TKI-TKW, anak berhadapan  dengan hukum, anak dalam situasi darurat dan yang rentan menjadi  korban kekerasan.
+2. Pemerintah daerah berkewajiban dan bertanggungjawab atas penyelenggaraan perlindungan, semua bentuk kekerasan kepada  perempuan dan anak serta keluarganya. .
+
+## Bagian kedua
+
+Bentuk - Bentuk Layanan
+
+#### Pasal 6
+
+1. Layanan pencegahan adalah segala bentuk layanan yang diberikan  kepada semua masyarakat pada umumnya, terutama perempuan dan anak baik secara hukum, sosial, budaya dan ekonomi yang berdampak  terhadap peningkatan pengetahuan, ketrampilan dan kesadaran sehingga  tidak menjadi korban dan pelaku kekerasan.
+2. Layanan penjagaan adalah segala bentuk layanan yang diberikan kepada  masyarakat terutama perempuan dan anak yang memiliki kerentanan  menjadi korban kekerasan, karena situasi dan kondisi mereka serta  keluarganya. Layanan yang diberikan meliputi layanan secara hukum,  sosial, budaya dan ekonomi yang berdampak terhadap peningkatan  pengetahuan, ketrampilan dan kesadaran sehingga tidak menjadi korban  dan pelaku kekerasan.
+3. Layanan penanganan, meliputi segala bentuk layanan minimal baik  layanan hukum, medis, psycososial, rehabilitasi dan reintegrasi sosial  yang diberikan perempuan dan anak yang menjadi korban kekerasan  fisik, psikis, seksual, perdagangan perempuan dan anak, penelantaran,  dan eksploitasi.
+4. Tata cara, mekanisme dan standar layanan pencegahan, penjagaan dan  penanganan, sebagaimana dimaksud pada ayat (1), (2) dan (3) diatur  lebih lanjut dengan Peraturan Bupati.
+
+## Bagian Ketiga
+
+Kelembagaan
+
+#### Pasal 7
+
+1. Penyelenggara perlindungan, pencegahan, penjagaan dan penanganan  perempuan dan anak, terutama korban kekerasan dilakukan secara  terpadu, meliputi aspek hukum, medis, medikolegal dan psikososial, oleh  Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak ( P2TP2A) atau nama lain yang mempunyai peran fungsi yang sama dengan P2TP2A. (2) Kelembagaan P2TP2A dan atau nama lain sejenis dibentuk dengan Surat  Keputusan Bupati.
+3. Penyelenggaraan pelayanan P2TP2A dan atau nama lain dilakukan  dengan berpedoman pada Standart Pelayanan Minimum (SPM) dan  Standar Operasional Prosedur (SOP) sesuai dengan ketentuan perundang undangan.
+
+## Bagian Keempat
+
+Bentuk dan Mekanisme Pelayanan Pencegahan dan Penjagaan
+
+#### Pasal 8
+
+1. Perumusan kebijakan, perencanaan program dan anggaran untuk  pelayanan pencegahan dan penjagaan dilaksanakan dengan mekanisme: a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan; b. koordinasi dan sinkronisasi perencanaan program dengan SKPD  terkait;
+   - c. penyusunan program dan kegiatan yang didukung penganggaran;  dan
+   - d. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Pelaksanaan Penyelenggaraan pencegahan dan penjagaan perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan  dilaksanakan dengan mekanisme:
+   - a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  pengganggaran SKPD;
+   - b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan  dengan SKPD terkait; dan
+   - c. monitoring, evaluasi dan pelaporan atas kebijakan, program dan  kegiatan penyelenggaraan perlindungan perempuan dan anak. (3) Mekanisme penyusunan kebijakan, program dan kegiatan dan layanan  diatur lebih lanjut dalam standar pelayanan minimum dan standar  operasional prosedur pada Peraturan Bupati.
+4. Perumusan kebijakan, program dan kegiatan penyelenggaraan penjagaan  perempuan dan anak rentan menjadi korban kekerasan dikoordinasikan  oleh SKPD yang membidangi Perencanaan Pembangunan Daerah.
+5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara: a. membentuk jaringan kerja dalam upaya pencegahan kekerasan; b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan antar pemangku kepentingan; c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dan
+   - d. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.
+
+## Bagian Kelima
+
+Bentuk dan Mekanisme Pelayanan Penanganan Korban kekerasan
+
+#### Pasal 9
+
+1. Bentuk pelayanan penanganan terhadap korban kekerasan yang  diselenggarakan oleh P2TP2A meliputi :
+   - a. pelayanan medis berupa perawatan dan pemulihan kondisi fisik yang  dilakukan oleh tenaga medis dan paramedis;
+   - b. pelayanan medicolegal merupakan bentuk layanan medis, terutama  Visum et Repertum dan Visum et Repertum Psichiatricum, untuk  kepentingan pembuktian di proses peradilan, mulai tingkat Kepolisian,  Kejaksaan dan Pengadilan;
+   - c. pelayanan bantuan hukum untuk membantu korban kekerasan dalam  menjalani proses peradilan;
+   - d. layanan spiritual untuk penguatan moral sesuai agama dan keyakinan  yang dianut;
+   - e. pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban; f. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga berkompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan P2TP2T atau nama lain;
+   - g. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri  secara ekonomi; dan
+   - h. pelayanan untuk kembali dan atau tetap dilembaga pendidikan bagi  anak korban kekerasan.
+2. Penyelenggaraan pelayanan penanganan perempuan dan anak korban  kekerasan dilaksanakan dengan: cepat, aman dan nyaman, rasa empati,  non diskriminasi, mudah dijangkau, tidak dikenakan biaya dan dijamin  kerahasiaannya.
+3. Mekanisme dan tata cara penyelenggaraan pelayanan penanganan secara  teknis bagi perempuan dan anak korban kekerasan sebagaimana  dimaksud pada ayat (1) dan (2) diselenggarakan menurut Standar  Operasional Prosedur (SOP) dan diatur lebih lanjut dengan Peraturan  Bupati.
+
+# BAB VI
+
+KEWAJIBAN DAN TANGGUNG JAWAB PEMERINTAH DAERAH, MASYARAKAT, DUNIA USAHA
+
+## Bagian Kesatu
+
+Umum
+
+#### Pasal 10
+
+Pemerintah Daerah, masyarakat, dan dunia usaha berkewajiban dan  bertanggung jawab terhadap penyelenggaraan perlindungan perempuan dan  anak, terutama korban kekerasan dan keluarganya.
+
+## Bagian Kedua
+
+Pemerintah Daerah
+
+#### Pasal 11
+
+Pemerintah Daerah berkewajiban dan bertanggung jawab :  a. membangun sistem penyelenggaraan perlindungan perempuan dan anak,  terutama korban kekerasan, dan keluarganya;
+
+   - b. menyediakan sarana prasarana antara lain rumah aman/shelter, Sumber  Daya Manusia yang meliputi lawyer, dokter dan psycolog-psyciater,  relawan pendamping, tokoh spiritual, ekonom, dan tenaga sosial;
+   - c. meningkatkan kapasitas kelembagaan penyelenggara perlindungan,  korban kekerasan terutama bagi perempuan, anak dan keluarganya; d. membangun pusat data dan informasi tentang perlindungan, korban  kekerasan terutama bagi perempuan, anak dan keluarganya;  e. melakukan monitoring dan evaluasi penyelenggaraan perlindungan,  korban kekerasan terutama bagi perempuan, anak dan keluarganya.
+
+#### Pasal 12
+
+Dalam melaksanakan kewajiban dan tanggungjawabnya Pemerintah Daerah  berwewenang:
+
+   - a. membuat kebijakan dan program;
+   - b. merumuskan pedoman pelaksanaan;
+   - c. menyelenggarakan layanan;
+   - d. mengkoordinasikan kebijakan, program, anggaran dan layanan; e. melakukan monitoring, supervisi dan evaluasi terhadap penyelenggaraan  perlindungan pencegahan korban kekerasan terutama bagi perempuan,  anak dan keluarganya.
+
+#### Pasal 13
+
+Dalam mengkoordinasikan penyelenggaraan perlindungan korban kekerasan  terutama bagi perempuan, anak dan keluarganya, Pemerintah Daerah  menunjuk Satuan Kerja Pemerintah Daerah (SKPD) yang membidangi  Pemberdayaan Perempuan dan Perlindungan Anak sebagai koordinator.
+
+## Bagian Ketiga
+
+Masyarakat
+
+#### Pasal 14
+
+1. Masyarakat dapat berperan dalam melaksanakan kewajiban dan  tanggung jawab terhadap penyelenggaraan perlindungan perempuan dan  anak, korban kekerasan terutama bagi perempuan, anak dan  keluarganya.
+2. Masyarakat yang mengetahui, mendengar, dan melihat terjadinya  kekerasan berkewajiban untuk memberikan pertolongan dan  perlindungan kepada korban kekerasan terutama perempuan, anak dan  keluarganya.
+
+## Bagian Keempat
+
+Dunia Usaha
+
+#### Pasal 15
+
+Dunia Usaha dapat berperan dalam melaksanakan kewajiban dan  tanggungjawab terhadap penyelenggaraan perlindungan korban kekerasan  terutama bagi perempuan, anak dan keluarganya.
+
+# BAB VII
+
+## PEMBIAYAAN
+
+#### Pasal 16
+
+1. Pembiayaan penyelenggaraan perlindungan perempuan dan anak,  pencegahan, penjagaan dan penanganan korban kekerasan terutama  perempuan dan anak, dibebankan pada Anggaran Pendapat dan Belanja  Daerah Kabupaten, melalui SKPD yang membidangi urusan perlindungan  perempuan dan anak.
+2. Pengelolaan anggaran penyelenggaraan perlindungan perempuan dan  anak korban kekerasan dilakukan dengan prinsip keadilan, efisiensi,  transparan dan akuntabel.
+
+# BAB VIII
+
+## EVALUASI, PELAPORAN DAN PERTANGGUNGJAWABAN
+
+#### Pasal 17
+
+1. Evaluasi, pelaporan dan pertanggungjawaban oleh P2TP2A atau nama  lain yang sejenis sebagai lembaga penyelenggara perlindungan,  perempuan dan anak korban kekerasan dilakukan secara periodik kepada  Bupati.
+2. Mekanisme evaluasi, pelaporan dan pengawasan penyelenggara  perlindungan perempuan dan anak, terutama korban kekerasan diatur  dengan Surat Keputusan Bupati.
+
+# BAB IX
+
+## KETENTUAN PENYIDIKAN
+
+## BAGI PNS
+
+#### Pasal 18
+
+1. Pejabat pegawai negeri sipil tertentu di lingkungan Pemerintah Kabupaten  diberi wewenang untuk melaksanakan penyidikan terhadap pelanggaran  ketentuan-ketentuan dalam Peraturan Daerah ini.
+2. Wewenang penyidik sebagaimana dimaksud pada ayat (1) adalah: a. menerima laporan atau pengaduan dari seseorang atau keluarga dan  orang lain, mengenai adanya tindakan atas pelanggaran Peraturan  Daerah;
+   - b. melakukan tindakan pertama dan pemeriksaan di tempat kejadian; c. mendatangkan ahli yang diperlukan dalam hubungannya dengan  pemeriksaan perkara;
+   - d. memanggil orang untuk didengar keterangannya dan diperiksa sebagai  saksi atau tersangka;
+   - e. melakukan tindakan menurut hukum yang dapat dipertanggung  jawabkan.
+
+##### B A B X
+
+##### KETENTUAN SANKSI
+
+#### Pasal 19
+
+Setiap orang yang dengan sengaja membiarkan terjadinya kekerasan terhadap perempuan dan anak dan/atau tidak melaporkan terjadinya  kekerasan terhadap perempuan dan anak, dikenakan sanksi sebagaimana  diatur dalam peraturan perundang-undangan yang berlaku.
+
+#### Pasal 20
+
+1. Setiap orang yang memberitahukan keberadaan korban kekerasan yang  tengah ditempatkan di tempat yang dirahasiakan, diancam dipidana  kurungan paling lama 3 (tiga) bulan atau denda paling banyak Rp.  50.000.000,- (lima puluh juta rupiah).
+2. Dalam hal perbuatan sebagaimana dimaksud pada ayat (1) dilakukan  oleh pejabat yang ditunjuk untuk menyelenggarakan perlindungan,  diancam dipidana kurungan paling lama 6 (enam) bulan atau denda  paling banyak Rp. 50.000.000,- (lima puluh juta rupiah).
+
+#### Pasal 21
+
+Peyelenggara atau pengelola P2TPA dan/atau Rumah Aman yang terbukti  memungut biaya terhadap korban kekerasan diancam dana kurungan paling  lama 6 (enam) bulan atau denda paling banyak Rp. 50.000.000,- (lima puluh  juta rupiah).
+
+#### Pasal 22
+
+Dalam hal perbuatan sebagaimana dimaksud dalam Pasal 21 dilakukan oleh  penyelenggara atau pengelola yang merupakan Pegawai Negeri Sipil,  sanksinya ditambah dengan sanksi kepegawaian sesuai dengan peraturan  perundang-undangan yang berlaku.
+
+# BAB XI
+
+## KETENTUAN PERALIHAN
+
+#### Pasal 23
+
+Pada saat ditetapkan dan diundangkan Peraturan Daerah ini, semua  ketentuan yang berkaitan dengan perlindungan perempuan dan anak,  terutama korban kekerasan tetap berlaku sepanjang tidak bertentangan  dengan Peraturan Daerah ini.
+
+# BAB XII
+
+## KETENTUAN PENUTUP
+
+#### Pasal 24
+
+Segala bentuk peraturan operasional untuk pelaksanaan Peraturan Daerah  ini harus sudah ada selambat – lambatnya 6 bulan setelah Peraturan Daerah  ini ditetapkan dan diundangkan.
+
+#### Pasal 25
+
+Peraturan Daerah ini mulai berlaku pada tanggal diundangkan. Agar setiap orang dapat mengetahuimya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Blitar.
+
+Disahkan di Blitar pada tanggal 16 Desember 2013
+
+##### BUPATI BLITAR
+
+Ttd.
+
+##### HERRY NOEGROHO
+
+Diundangkan di Blitar pada tanggal 27 Januari 2014
+
+##### SEKRETARIS DAERAH KABUPATEN BLITAR
+
+Ttd.
+
+##### PALAL ALI SANTOSO
+
+##### LEMBARAN DAERAH KABUPATEN BLITAR TAHUN 2013 NOMOR : 2/E
