@@ -14,6 +14,7 @@ b}UPATI KARANGANYAR, Menimbang:
  
  
  
+ 
 a. b.  
 c. bahwa setiap warga masyarakat berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan sesuai dengan falsafah Pancasila dan Undang-Undang Dasar Negara Republik lndonesia Tahun 1945;  
 

@@ -12,7 +12,7 @@ Menimbang Mengingat
 
 # DENGANRAHMATTUHANYANGMAHAESA
 
-# BUPATIMUSIBANYUASIN,
+# BUPATIMUSIBANYUASIN,  
 a. bahwa pemerintah memiliki kewajiban memberi penghormatan, perlindungan dan pemenuhan Hak Asasi Manusia setiap warga negara termasuk Hak Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami kekerasan dan diskriminasi sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa pemenuhan hak-hak konstitusional Perempuan dan Anak serta peningkatan kualitas hidup Perempuan dan Anak, merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Kabupaten;  

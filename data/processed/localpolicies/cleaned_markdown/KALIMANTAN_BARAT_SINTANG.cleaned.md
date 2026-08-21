@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya  pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan, sehingga tercapainya pemenuhan, pemajuan, penegakan dan perlindungan hak asasi manusia secara universal dan hakiki;  
 c. bahwa sehubungan dengan maksud pada huruf b dan  dalam upaya memberikan landasan hukum untuk pelaksanaannya di Kabupaten Sintang, maka perlu diatur perlindungan perempuan dan anak konban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah Kabupaten Sintang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

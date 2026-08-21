@@ -12,7 +12,7 @@
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI MUNA BARAT,
+# BUPATI MUNA BARAT,  
 a. bahwa setiap perempuan berhak untuk mendapatkan  perlindungan atas hak asasinya, bebas dari penyiksaan,  ancaman, tekanan, serta mendapat kemudahan,  perlakuan, kesempatan dan manfaat yang sama guna  mencapai keadilan dan kesejahteraan hidup;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindakan  kekerasan dan diskriminasi dalam rangka membangun  masyarakat, bangsa, dan negara;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan;  

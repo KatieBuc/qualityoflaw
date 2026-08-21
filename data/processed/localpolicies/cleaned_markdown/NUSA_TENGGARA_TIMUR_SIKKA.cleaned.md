@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa Kabupaten Sikka sebagai bagian integral dari  masyarakat dalam Negara Kesatuan Republik Indonesia yang menghormati, menghargai dan menjunjung tinggi nilai-nilai harkat dan martabat yang merupakan prinsip dan tujuan Hak Asasi Manusia dari segala bentuk tindakan diskriminasi dan kekerasan terhadap perempuan dan anak;  
 b. bahwa jumlah tindakan kekerasan terhadap perempuan  dan anak di Kabupaten Sikka yang masih tinggi dapat menimbulkan korban yang berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan;  
 c. bahwa demi melindungi kepentingan perempuan dan  anak korban kekerasan, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak, korban tindak kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b dan huruf c, perlu membentuk Peraturan Daerah Tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

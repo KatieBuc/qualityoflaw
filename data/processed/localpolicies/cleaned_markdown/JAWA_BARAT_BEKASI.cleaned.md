@@ -34,6 +34,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, d
  
  
  
+ 
 1.  
 
 2. 3.  
@@ -408,7 +409,7 @@ c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi 
 
 #### Pasal 30
 
-perlindungan terhadap perempuan korban Pemerintah Daerah wajib: kekerasan,
+perlindungan terhadap perempuan korban Pemerintah Daerah wajib: kekerasan,  
 a. menjamin terselenggaranya pemenuhan hak perempuan dan pemberian jaminan rasa aman dari tindakan kekerasan, dan upaya ekploitasi terhadap perempuan di daerah;  
 b. menetapkan kebijakan, program, kegiatan perlindungan perempuan dan jaminan penanganan korban untuk menghapus segala bentuk diskriminasi dan tindak kekerasan perempuan di daerah;  
 c. memberikan pembinaan dan pengawasan dalam upaya perlindungan perempuan yang dilakukan oleh Perangkat Daerah yang menangani Perlindungan dan Pemberdayaan Perempuan;  

@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai salah satu kelompok  masyarakat yang keberadaannya menjadi potensi dan aset pembangunan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak  kekerasan dan diskriminasi;  
 c. bahwa dalam rangka mengefektifkan sistem yang  komprehensif dan integratif dalam memberdayakan dan  melindungi perempuan di Kabupaten Karawang diperlukan pengaturan mengenai pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b,dan huruf c perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  

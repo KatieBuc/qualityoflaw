@@ -171,7 +171,7 @@ Umum
 1. Pemerintah Kota dalam upaya Perlindungan perempuan dan anak bertanggungjawab:a. menetapkan dan menyelenggarakan kebijakan, program dan kegiatan perlindungan perempuan dan anak,
 
 b.melakukan upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak termasuk tindak pidana perdagangan orang,  
-c. meningkatkan efektivitas layanan terhadap perempuan dan anak korban tindak Kekerasan,
+c. meningkatkan efektivitas layanan terhadap perempuan dan anak korban tindak Kekerasan,  
 d. meningkatkan upaya Perlindungan terhadap tenaga kerja perempuan,  
 e. menguatkan dan mengembangkan lembaga penyedia layanan Perlindungan perempuan dan anak,f. melakukan kerjasama dengan Pemerintah, Pemerintah Daerah lainnya, pihak swasta, dunia usaha dan/atau LSM dalam upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak, dang. melibatkan peran aktif keluarga, pemuka adat, pemuka agama, masyarakat, dan lembaga dibidang Perlindungan perempuan dan anak.  
 
@@ -211,7 +211,7 @@ J. cepat dan sederhana,k. empati, dan I. pemenuhan hak perempuan dan anak.
 #### Pasal 19
 
 Bentuk layanan terpadu terhadap perempuan dan anak korban tindak Kekerasan meliputi:  
-a. penanganan pengaduan, rehabilitasi kesehatan,
+a. penanganan pengaduan, rehabilitasi kesehatan,  
 b. rehabilitasi sosial, pendampingan korban, penegakan dan bantuan hukum, dan d.  e. pemulangan dan reintegrasi sosial.  
 
 ## Bagian Kedua
@@ -220,7 +220,7 @@ Penanganan Pengaduan
 
 #### Pasal 20
 
-Layanan terpadu penanganan pengaduan sebagaimana dimaksud dalam Pasal 19 huruf dilaksanakan oleh: rumah sakit,
+Layanan terpadu penanganan pengaduan sebagaimana dimaksud dalam Pasal 19 huruf dilaksanakan oleh: rumah sakit,  
 a. b. puskesmas, unit pelayanan perempuan dan anak, rumah Perlindungan trauma center,d. women crisis centre,e. badan penasehat pembinaan dan pelestarian perkawinan, kepolisian,h. kejaksaan,
 1. pengadilan, kementerian agama, dan/atau lembaga bantuan hukum.  
 
@@ -262,7 +262,7 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pelayanan (4) kesehatan se
 
 Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 19 huruf (1) ditujukan untuk memulihkan dan mengembangkan kemampuan terhadap perempuan dan anak korban tindak Kekerasan yang mengalami disfungsi sosial untuk dapat melaksanakan fungsi sosialnya dalam masyarakat secara wajar.  
 
-Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi (2) pelayanan: motivasi dan diagnosis psikososial,
+Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi (2) pelayanan: motivasi dan diagnosis psikososial,  
 a. perawatan dan pengasuhan,b. pelatihan vokasional dan pembinaan kewirausahaan, bimbingan mental spiritual:d. e. bimbingan fisik: bimbingan sosial dan konseling psikososial, pelayanan aksesibilitas, bantuan dan asistensi sosial: bimbingan resosialisasi, bimbingan lanjut, dan/atauk. rujukan.  
 3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2) diselenggarakan oleh:  
 a. PD yang mempunyai tugas dan fungsi dibidang sosial, (14
@@ -393,7 +393,7 @@ Tanggungjawab Pemerintah Kota dalam upaya peningkatan kualitas (2) keluarga seba
 
 #### Pasal 35
 
-Pemerintah Kota melakukan upaya peningkatan kualitas keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1) huruf meliputi a. pembinaan,
+Pemerintah Kota melakukan upaya peningkatan kualitas keluarga sebagaimana dimaksud dalam Pasal 34 ayat (1) huruf meliputi a. pembinaan,  
 b. bimbingan, supervisi, fasilitasi penyelenggaraan pembangunan keluarga, dand. meningkatkan kualitas kesehatan ibu hamil dan menyusui. €.  
 
 #### Pasal 36
@@ -439,7 +439,7 @@ Umum
 
 a.menetapkan dan melaksanakan kebijakan serta program/kegiatan perlindungan dan pemenuhan hak Anak,
 
-b.menghormati dan menjamin hak asasi setiap Anak dengan tidak membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum Anak, urutan kelahiran Anak, dan kondisi fisik dan/atau mental,
+b.menghormati dan menjamin hak asasi setiap Anak dengan tidak membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum Anak, urutan kelahiran Anak, dan kondisi fisik dan/atau mental,  
 c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga dalam mewujudkan hak Anak,  
 d. menjamin Perlindungan, pemeliharaan, dan kesejahteraan Anak dengan memperhatikan hak dan kewajiban orang tua, wali, atau orang lain yang secara hukum bertanggung jawab terhadap Anak,e. menyediakan sarana dan prasarana dalam penyelenggaraan pemenuhan hak Anak,f. menjamin hak Anak untuk menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasan Anak, sg. melakukan pengawasan dan pembinaan dalam rangka penyelenggaraan, dan
 

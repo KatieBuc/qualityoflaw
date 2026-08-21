@@ -14,7 +14,7 @@ Menimbang:
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI KONAWE KEPULAUAN,
+# BUPATI KONAWE KEPULAUAN,  
 a. bahwa setiap warga negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa perlindungan terhadap perempuan dan anak korban kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah daerah sebagaimana diamanatkan oleh undang-undang dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 c. bahwa Peraturan Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak Nomor 1 Tahun 2010 tentang Standar Pelayanan Minimal Bidang Layanan Terpadu bagi perempuan dan anak korban kekerasan maka perlu diatur tentang penanganan bagi perempuan dan anak korban kekerasan di daerah;  

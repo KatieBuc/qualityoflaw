@@ -109,13 +109,13 @@ Forum Partisipasi Publik untuk Kesejahteraan Perempuan dan Anak yang selanjutnya
 29. adalah kabupaten yang mempunyai sistem pembangunan berbasis hak anak melalui pengintegrasian komitmen dan kemampuan dan sumber daya pemerintah, masyarakat, dunia usaha yang terencana, berkelanjutan dalam kebijakan, program, kegiatan untuk menjamin terpenuhinya hak anak.  
 
 Pasal Pengaturan Pemberdayaan Perempuan dan Perlindungan Anak berasaskan:  
-a. penghormatan hak asasi manusia,
+a. penghormatan hak asasi manusia,  
 b. non diskriminasi:  
 C. keadilan dan Kesetaraan Gender:d. kepentingan terbaik bagi perempuan dan anak,  
 e. perlindungan korban, danf. kebersamaan.  
 
 Pasal Tujuan Pemberdayaan Perempuan dan Perlindungan Anak adalah:  
-a. meningkatkan kualitas hidup perempuan, anak, dan kualitas Keluarga,
+a. meningkatkan kualitas hidup perempuan, anak, dan kualitas Keluarga,  
 b. meningkatkan kapasitas kelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah, termasuk pengembangan sistim data Gender dan Anak, danc. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk Perlindungan Khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya. Pasal Ruang lingkup Peraturan Daerah ini mencakup:a. Pemberdayaan Perempuan:b. penyelenggaraan Perlindungan Anak, Cc. pelayanan perlindungan perempuan korban kekerasan dan Perlindungan Khusus Anak, peningkatan kualitas Keluarga, penguatan dan peningkatan kelembagaan, kerja sama, peran serta masyarakat, pembinaan dan pengawasan, sanksi, dan penutup.  
 
 # BAB II
@@ -156,7 +156,7 @@ a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunik
 Setiap perempuan mempunyai hak:  
 a. b.  
 
-memperoleh penghormatan terhadap harkat dan martabat sebagai manusia, memperoleh pekerjaan yang layak sesuai harkat, martabat dan kemampuannya,
+memperoleh penghormatan terhadap harkat dan martabat sebagai manusia, memperoleh pekerjaan yang layak sesuai harkat, martabat dan kemampuannya,  
 c. memperoleh hak khusus berkenaan dengan fungsi reproduksinya secara pribadi dan/atau ditempat kerja,  
 d. memperoleh perlindungan dari kekerasan fisik, psikologis, seksual, dan penelantaran,e. memperoleh identitas dan status perkawinan,  
 f. memperoleh pendidikan di setiap jenis dan jenjang pendidikan, memperoleh kebebasan dalam ranah publik dan politik, memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual, dani. memperoleh perlindungan dari tindakan Diskriminasi.  
@@ -283,7 +283,7 @@ Penyelenggaraan Kabupaten Layak Anak
 
 Upaya pemenuhan hak Anak diselenggarakan melalui KLA (1) berdasarkan asas Pancasila dan berlandaskan Undang- Undang Dasar Negara Republik Indonesia Tahun 1945. (2) Upaya KLA sebagaimana dimaksud pada ayat (1) dilaksanakan berdasarkan prinsip:  
 a. non-diskriminasi:  
-b. kepentingan terbaik bagi Anak,
+b. kepentingan terbaik bagi Anak,  
 c. hak untuk hidup, kelangsungan hidup, dan perkembangan Anak,  
 d. penghargaan terhadap pandangan Anak, dan e. tata pemerintahan yang baik.  
 3. Penyelenggaraan KLA sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai ketentuan perundang-undangan.  
@@ -467,7 +467,7 @@ pengaduan masyarakat, penjangkauan korban, pengelolaan kasus, penampungan sement
 #### Pasal 49
 
 UPTD PPA dalam memberikan pelayanan perlindungan terhadap perempuan korban kekerasan dan bagi Anak yang memerlukan Perlindungan Khusus berkoordinasi dengan:  
-a. rumah sakit, pusat kesehatan masyarakat serta fasilitas layanan kesehatan lainnya,
+a. rumah sakit, pusat kesehatan masyarakat serta fasilitas layanan kesehatan lainnya,  
 b. balai pemasyarakatan,c. kepolisian sektor,  
 d. kepolisian resor:e. kepolisian daerah,f. kejaksaan negeri,g. kejaksaan tinggi,  
 h.  
@@ -508,7 +508,7 @@ Bupati melakukan pemantauan, evaluasi, dan pelaporan peningkatan kualitas Keluar
 #### Pasal 55
 
 Ruang lingkup Peningkatan Kualitas Keluarga meliputi:  
-a. perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan peningkatan Kualitas Keluarga yang responsif Gender dan Hak Anak dalam kebijakan, program, dan kegiatan yang sasarannya ditujukan untuk Keluarga,
+a. perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan peningkatan Kualitas Keluarga yang responsif Gender dan Hak Anak dalam kebijakan, program, dan kegiatan yang sasarannya ditujukan untuk Keluarga,  
 b. penguatan dan pengembangan kelembagaan penyedia layanan peningkatan kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak: dan Cc. standardisasi lembaga penyedia layanan peningkatan kualitas Keluarga dalam mewujudkan Kesetaraan Gender dan hak Anak.  
 
 #### Pasal 56
@@ -572,7 +572,7 @@ Peningkatan kualitas Keluarga serta pemantauan, evaluasi dan pelaporan peningkat
 Penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud dalam Pasal 61 meliputi:  
 a. penguatan manajemen,  
 b. penyediaan data dan informasi,  
-C. pengembangan kemitraan,
+C. pengembangan kemitraan,  
 d. dukungan keahlian, program, dan pendampingan,  
 e. penguatan kepemimpinan dan kaderisasi:f. pemberian penghargaan, dan/ataug. fasilitasi penelitian dan pengembangan.  
 
@@ -671,7 +671,7 @@ Kepala Dinas mengoordinasikan Forum Puspa tingkat Daerah. (5)
 Forum Puspa tingkat Daerah sebagaimana dimaksud (1) dalam Pasal 73 mempunyai tugas mengoordinasikan dan menyinergikan partisipasi masyarakat dalam penyelenggaraan bidang Pemberdayaan Perempuan dan Perlindungan Anak di tingkat Daerah.  
 
 Dalam melaksanakan tugas mengoordinasikan (2) sebagaimana dimaksud pada ayat (1), Forum Puspa tingkat Daerah melakukan:  
-a. komunikasi,
+a. komunikasi,  
 b. perencanaan waktu dan jadwal kegiatan,c. fleksibilitas dalam perubahan, dand. pengendalian. Dalam melaksanakan tugas menyinergikan sebagaimana dimaksud pada ayat (1), Forum Puspa tingkat Daerah melakukan: (3)a. penyamaan visi, misi, dan tujuan,b. pemahaman kelebihan dan bakat rekan satu tim,  
 C. persamaan konsep dan cara berpikir,d. perencanaan yang baik,e. pembagian kerja dan peran yang jelas, dan f. upaya membangun komunikasi yang jujur dan saling terbuka.  
 
@@ -752,7 +752,7 @@ Selain oleh penyidik dari Kepolisian Republik Indonesia, penyidikan atas pelangg
 Dalam melaksanakan tugas penyidikan, Penyidik Pegawai Negeri Sipil sebagaimana dimaksud dalam Pasal 81 berwenang:  
 a. b.  c. d. e.  
 
-menerima, mencari, mengumpulkan dan meneliti keterangan atau laporan berkenaan dengan tindak pidana, meneliti, mencari dan mengumpulkan keterangan mengenai orang pribadi atau badan tentang kebenaran perbuatan yang dilakukan sehubungan dengan tindak pidana, meminta keterangan dan barang bukti dari orang pribadi atau badan sehubungan dengan tindak pidana, memeriksa buku-buku, catatan-catatan dan dokumen- dokumen lain berkenaan dengan tindak pidana, melakukan penggeledahan untuk mendapatkan barang bukti pembukuan, pencatatan dan dokumen-dokumen lain, serta melakukan penyitaan terhadap barang bukti tersebut, meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana, menyuruh berhenti, melarang seseorang meninggalkan ruangan atau tempat pada saat pemeriksaan sedang berlangsung dan memeriksa identitas orang dan atau dokumen yang dibawa sebagaimana dimaksud pada huruf e,
+menerima, mencari, mengumpulkan dan meneliti keterangan atau laporan berkenaan dengan tindak pidana, meneliti, mencari dan mengumpulkan keterangan mengenai orang pribadi atau badan tentang kebenaran perbuatan yang dilakukan sehubungan dengan tindak pidana, meminta keterangan dan barang bukti dari orang pribadi atau badan sehubungan dengan tindak pidana, memeriksa buku-buku, catatan-catatan dan dokumen- dokumen lain berkenaan dengan tindak pidana, melakukan penggeledahan untuk mendapatkan barang bukti pembukuan, pencatatan dan dokumen-dokumen lain, serta melakukan penyitaan terhadap barang bukti tersebut, meminta bantuan tenaga ahli dalam rangka pelaksanaan tugas penyidikan tindak pidana, menyuruh berhenti, melarang seseorang meninggalkan ruangan atau tempat pada saat pemeriksaan sedang berlangsung dan memeriksa identitas orang dan atau dokumen yang dibawa sebagaimana dimaksud pada huruf e,  
 h. 1.  
 
 mengambil sidik jari dan memotret seseorang yang berkaitan dengan tindak pidana, memanggil orang untuk didengar keterangannya dan diperiksa sebagai tersangka atau saksi, menghentikan penyidikan setelah mendapat petunjuk dari penyidik POLRI bahwa tidak terdapat cukup bukti atau peristiwa tersebut bukan merupakan tindak pidana dan selanjutnya melalui penyidik kepolisian memberitahukan hal tersebut kepada penuntut umum, tersangka atau

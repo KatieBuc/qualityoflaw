@@ -16,7 +16,7 @@ Menimbang  Mengingat
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI SAMBAS,
+# BUPATI SAMBAS,  
 a. bahwa setiap orang berhak untuk mendapatkan perlindungan dan jaminan atas hak asasinya, berhak untuk bebas dari penyiksaan, ancaman, tekanan yang merendahkan derajat manusia, serta berhak mendapat kemudahan dan perlakuan yang adil untuk memperoleh kesempatan dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa dalam rangka pemenuhan hak konstitusional perempuan dan anak yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup, perempuan dan anak di Kabupaten Sambas berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 c. bahwa Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak sebagaimana telah beberapa  kali diubah terakhir dengan Undang-undang Nomor 17  Tahun 2016, Undang-Undang Nomor 23 Tahun 2004  tentang Penghapusan Kekerasan Dalam Rumah Tangga,  dan Undang-Undang Nomor 23 Tahun 2014 tentang  Pemerintahan Daerah sebagaimana telah beberapa kali  diubah terakhir dengan Undang-Undang Nomor 1 Tahun  2022, memberikan kewenangan pada Pemerintah Daerah  dalam perlindungan dan pencegahan kekerasan terhadap  perempuan dan anak;  

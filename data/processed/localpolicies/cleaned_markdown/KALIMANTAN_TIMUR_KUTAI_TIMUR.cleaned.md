@@ -12,7 +12,7 @@ Menimbang Mengingat
 
 # DENGANRAHMATTUHANYANGMAHAESA
 
-BUPATIKUTAITlMUR,
+BUPATIKUTAITlMUR,  
 a. bahwa setiap perempuan berhak atas perlindungan diri pribadi, keluarga, kehormatan, martabat, dan harta benda yang dibawah kekuasaannya, serta berhak atas rasa aman dan perlindungan dari ancaman ketakutan untuk berbuat atau tidak berbuat sesuatu yang merupakan hak asasi;  
 b. bahwa untuk memberikan satu pedoman atau acuan bagi pemerintah daerah dan pemangku kepentingan terkait dengan peningkatan kualitas hidup perempuan dan perlindungan terhadap perempuan khususnya bagi perempuan korban kekerasan;  
 c. bahwa untuk memberikan arah, landasan dan kepastian hukum kepada semua pihak yang terlibat dalam pemberdayaan perempuan dan anak, maka diperlukan pengaturan tentang pembentukan Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak;  

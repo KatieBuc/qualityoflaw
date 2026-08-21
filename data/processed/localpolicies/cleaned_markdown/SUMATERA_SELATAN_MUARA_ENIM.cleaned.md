@@ -14,7 +14,7 @@ Menimbang  Mengingat
 
 # DENGAN RAHMATTUHAN YANG MAHA ESA
 
-# BUPATI MUARA ENIM,
+# BUPATI MUARA ENIM,  
 a. bahwa untuk menjarnin Perlindungan Perempuan dan Anak  sesuai dengan harkat dan martabatnya serta dijarnin hak  hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi  serta mendapat Perlindungan dari kekerasan, dan pelanggaran  lainnya perlu adanya suatu kepastian hukum;  
 b. bahwa untuk memberikan kepastian hukum dalam  penyelenggaraan Perlindungan Perempuan dan Anak serta  menjalankan urusan wajib pemerintahan Daerah, perlu adanya  pengaturan dalarn bentuk peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a dan huruf b, perlu menetapkan Peraturan Daerah ten tang  Perlindungan Perempuan dan Anak;  

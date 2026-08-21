@@ -12,7 +12,7 @@ Menimbang Mengingat
 
 PERLINDUNGAN DAN PEMBERDAYAAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI BOYOLALI,
+# BUPATI BOYOLALI,  
 a. bahwa perempuan memiliki kedudukan panting dalam pembangunan, berhak untuk mendapatkan rasa aman, babas dari ancaman katakutan, dan babas dari penyiksaan atau parlakuan yang merendahkan harkat dan martabat sebagaimana amanah dan karunia Tuhan Yang Maha Esa;  
 b. bahwa berbagai bentuk tindak kekerasan, perlakuan salah, eksploitasi, dan penelantaran terhadap perempuan yang terjadi di daerah diperlukan adanya upaya strategis dari Pemerintah daerah guna memberikan perlindungan terhadap perempuan;  
 c. bahwa dalam rangka mewujudkan kebijakan daerah untuk menyelenggarakan urusan pemerintahan yang menjadi kewenangan daerah di bidang perlindungan perempuan berdasarkan Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 11 Tahun 2020 tentang Cipta Keija, perlu ditetapkan dengan Peraturan Daerah;  

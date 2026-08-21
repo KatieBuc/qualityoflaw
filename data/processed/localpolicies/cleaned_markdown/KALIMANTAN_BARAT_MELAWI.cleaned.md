@@ -14,7 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN  DARI TINDAK KEKERASAN
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI MELAWI,
+# BUPATI MELAWI,  
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan  derajat martabat manusia serta berhak mendapatkn  rasa aman dari segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan merupakan pelanggaran hak azasi  manusia, sehingg perlu dilindungi harga diri dan  martabatnya, serta dijamin hak hidupnya sesuai  dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan terus  meningkat, sehingg diperlukan upaya perlindungan;  
@@ -175,7 +175,7 @@ Pemberdayaan
 
 #### Pasal 10
 
-Bentuk pemberdayaan bagi perempuan korban kekerasan meliputi:  a. membentuk..,
+Bentuk pemberdayaan bagi perempuan korban kekerasan meliputi:  a. membentuk..,  
 a. membentuk komunitas perempuan korban kekerasan;  
 
 b pelatihan kerja; . d · k · duktif dan kelompok usaha bersama, tan c. usaha elonom pro  d. bantuan permodalan.  

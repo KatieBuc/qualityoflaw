@@ -26,6 +26,7 @@ Mengingat:
  
  
  
+ 
   1.	Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 
 Undang-Undang Nomor 29 Tahun 1959 tentang Pembentukan Daerah-daerah Tingkat II di Sulawesi                (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 74, Tambahan Lembaran Negara Republik Indonesia Nomor  1822 );  

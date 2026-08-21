@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak memiliki hak yang sama untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa untuk menjamin pemberdayaan perempuan dan  perlindungan anak sesuai dengan bakat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran lainnya, pemberdayaan perempuan dan perlindungan anak harus dilakukan secara terpadu, berkesinambungan melalui percepatan pemenuhan dan perlindungan hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa sesuai ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan salah satu urusan pemerintahan wajib yang menjadi kewenangan pemerintah daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  

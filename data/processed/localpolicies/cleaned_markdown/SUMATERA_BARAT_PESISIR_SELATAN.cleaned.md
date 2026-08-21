@@ -34,6 +34,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa bahwa untuk menjamin pemberdayaan perempuan dan untuk menjamin pemberdayaan perempuan dan perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat perlindungan anak sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi, dan pelanggaran lainnya;  
 
 kekerasan, diskriminasi, dan pelanggaran lainnya;  
@@ -48,6 +49,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana bahwa berdasarkan pertimbangan seb
 Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  

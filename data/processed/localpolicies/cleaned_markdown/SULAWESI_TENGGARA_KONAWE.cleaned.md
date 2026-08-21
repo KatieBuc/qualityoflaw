@@ -20,6 +20,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa anak dan perempuan merupakan kelompok  rentan mengalami kekerasan dimana segala bentuk kekerasan terhadap anak dan perempuan merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan sehingga perlu perlindungan hukum untuk melindungi harga diri dan martabatnya serta menjamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap anak dan perempuan di  Kabupaten Konawe menunjukan angka yang cukup tinggi dan terus meningkat, sehingga diperlukan upaya perlindungan;  
@@ -28,6 +29,7 @@ e. bahwa penyelenggaraan Perlindungan Anak dan  Perempuan Korban Kekerasan di Ka
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b, huruf c, huruf d dan huruf e diatas, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan di Kabupaten Konawe;  
 
 Mengingat:  
+ 
  
  
  

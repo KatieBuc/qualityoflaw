@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang termasuk perempuan dan anak  berhak atas pemenuhan hak dan perlindungan dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminatif guna memberikan keamanan dan kenyamanan;  
 b. bahwa dalam rangka pemenuhan hak dan perlindungan  terhadap perempuan dan anak dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminasif di Kabupaten Bima diperlukan peran pemerintah daerah dalam penyelenggaraanya;  
 c. bahwa penyelengaraan perlindungan perempuan dan  anak, perlu diberikan arah dan landasan untuk menjamin kepastian hukum berdasarkan asas keadilan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  

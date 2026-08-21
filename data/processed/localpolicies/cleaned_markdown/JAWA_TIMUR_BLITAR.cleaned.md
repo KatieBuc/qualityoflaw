@@ -12,7 +12,7 @@ Menimbang::
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI BLITAR,
+# BUPATI BLITAR,  
 a. bahwa perempuan dan anak adalah makhluk yang  diciptakan Tuhan Yang Maha Esa memiliki hak-hak dan  martabat yang mulia sesuai dengan kodratnya sebagai  manusia;  
 b. bahwa masih banyak perempuan dan anak yang tidak  mendapatkan hak-hak asasinya secara utuh, terutama  perempuan dan anak korban kekerasan;  
 c. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran Hak Asasi  Manusia, sehingga perempuan dan anak korban  kekerasan perlu mendapat perlindungan;  

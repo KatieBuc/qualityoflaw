@@ -14,7 +14,7 @@ NOMOR tl TAHUN 2016
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# WALIKOTA PAYAKUMBUH,
+# WALIKOTA PAYAKUMBUH,  
 a. bahwa Negara Kesatuan Republik Indonesia menjamin kesejahteraan tiap warga negaranya, termasul< perlindungan Perempuan dan Anak dari segala bentuk kekerasan dan diskriminasi sebagaimana diamanatkan dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa maralnya kejahatan dan kekerasan terhadap perempuan dan anal< dimasyarakat, memerlukan peningkatan komitmen serta koordinasi dari Pemerintah, Pemerintah Daerah dan Masyarakat serta semua pemangku dalam rangka melakukan langkah-langkah penanganan dan pencegahan;  
 c. bahwa pemenuhan hak-hak konstitusional perempuan dan anak serta peningkatan lealitas hidup perempuan dan anak, merupakan salah satu urusar wajib yang merrjadi tugas, wewenang dal tanggung jawab Pemerintah Daerah;  

@@ -22,11 +22,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak mendapatkanrasaaman dan bebas dari segala bentuk penyiksaanatau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentanyangcenderung mengalami kekerasan, sehinggaperlu mendapatkan perlindungan yang optimal;  
 c. bahwa pemenuhan hak-hak konstitusional perempuandan anak serta peningkatan kualitas hidup perempuandananak, merupakan salah satu urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Daerah; d, bahwa berdasarkan pertimbangan sebagaimana dimaksuddalam huruf a, huruf b dan huruf c, perlumenetapkan Peraturan Daerah tentang Pemberdayaan PerempuandanPerlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  

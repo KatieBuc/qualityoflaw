@@ -17,6 +17,7 @@
 Menimbang:  
  
  
+ 
 a. bahwa untuk mewujudkan hak konstitusional setiap warga Negara sesuai dengan prinsip persamaan kedudukan dihadapan hukum, maka Pemerintah Daerah perlu berupaya untuk menjamin Perlindungan hak asasi manusia bagi Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami Kekerasan, sehingga perlu mendapatkan Perlindungan yang optimal;  
 c. bahwa Perlindungan sebagaimana dimaksud huruf b, termasuk dalam urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Daerah dan pencegahannya harus melibatkan semua pihak;  

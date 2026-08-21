@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa tujuan negara adalah melindungi seluruh  tumpah darah Bangsa Indonesia dengan memberikan  jaminan atas rasa aman, kesetaraan, dan kesejahteraan;  
 b. bahwa perempuan dan anak masih dalam posisi rentan  dari berbagai bentuk tindakan kekerasan, eksploitasi,  diskriminasi, perlakuan salah dan penelantaran sehingga  perlu ada upaya strategis dari Pemerintah Daerah bersama  pihak-pihak terkait untuk memberikan perlindungan yang  sistematis dan komprehensif;  
 c. bahwa untuk memberikan landasan hukum dan pedoman  dalam penyelengaraan perlindungan perempuan dan anak di Daerah, perlu adanya pengaturan yang terintegrasi dan  komprehensif untuk mewujudkan Kabupaten Purworejo  ramah perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

@@ -26,6 +26,7 @@ e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c
  
  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  

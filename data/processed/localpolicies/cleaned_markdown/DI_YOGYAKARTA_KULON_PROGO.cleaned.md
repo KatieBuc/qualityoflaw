@@ -4,6 +4,7 @@ Mengingat:
  
  
  
+ 
 1. 2. 3. 4. (5. (2
 
 # KABUPATEN KULON PROGO
@@ -23,6 +24,7 @@ Mengingat:
 # BUPATI KULON PROGO,
 
 Menimbang:  
+ 
  
  
  

@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Labuhanbatu Selatan terus meningkat yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 b. bahwa dalam rangka mengoptimalkan penyelenggaraan  perlindungan perempuan dan anak dari tindak kekerasan di Kabupaten Labuhanbatu Selatan perlu memberikan arah, landasan, dan kepastian hukum kepada semua pihak yang terlibat dalam penyelenggaraan perlindungan perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan.  
 
 Mengingat:  
+ 
  
  
  

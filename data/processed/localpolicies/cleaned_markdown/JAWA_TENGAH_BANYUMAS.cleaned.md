@@ -22,6 +22,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan, terutama kekerasan berbasis gender dan anak merapakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan;  
 b. bahwa korban kekerasan berbasis gender dan anak di Daerah terus mengalami peningkatan;  
 c. bahwa korban kekerasan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  

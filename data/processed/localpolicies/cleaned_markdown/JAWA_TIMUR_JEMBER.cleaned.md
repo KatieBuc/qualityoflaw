@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka mencegah dan menanggulangi kekerasan  terhadap perempuan dan anak di Kabupaten Jember agar terhindar  dari kekerasan, ancaman kekerasan, penyiksaan atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan, perlu pelayanan  dan perlindungan terhadap perempuan dan anak korban kekerasan di  Kabupaten Jember ;  
 b. bahwa agar penanganan kekerasan terhadap perempuan dan anak di  Kabupaten Jember dilakukan lebih berdaya guna dan berhasil guna  perlu mengatur perlindungan perempuan dan anak korban kekerasan  Kabupaten Jember ;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak Korban Kekerasan Kabupaten  Jember.  
 
 Mengingat:  
+ 
  
  
  

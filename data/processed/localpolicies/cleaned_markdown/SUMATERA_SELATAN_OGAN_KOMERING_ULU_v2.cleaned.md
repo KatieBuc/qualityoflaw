@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan hidup, tumbuh, dan berkembang secara wajar serta berhak atas perlindungan dari kekerasan dan diskriminasi sebagaimana diamanatkan dalam Undang- Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa perlakuan diskriminatif dan kekerasan terhadap perempuan dan anak, akan berdampak terhadap kualitas sumber daya manusia di masa mendatang;  
 c. bahwa dalam rangka mewujudkan visi misi pembangunan di bidang pemberdayaan perempuandan perlindungan anak, perhormatan, perlindungan, pemenuhan, penegakan, dan pemajuan hak perempuan dananak, dipandang perlu menetapkan kebijakan yang dapat menjamin terselenggaranya pemberdayaan perempuan dan perlindungan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  

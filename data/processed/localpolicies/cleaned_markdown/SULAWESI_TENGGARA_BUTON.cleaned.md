@@ -24,6 +24,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan kelompok rentan  yang cenderung mengalami tindak penyiksaan dan kekerasan sehingga harus mendapatkan perlindungan;  
 b. bahwa untuk memberikan arah, landasan dan kepastian  hukum kepada semua pihak dalam penyelenggaraan perlindungan perempuan dan anak di Kabupaten Buton,  perlu dilakukan pengaturan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  

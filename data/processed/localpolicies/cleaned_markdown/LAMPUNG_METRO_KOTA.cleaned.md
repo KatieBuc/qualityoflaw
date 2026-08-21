@@ -12,12 +12,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam diri setiap manusia melekat hak asasi manusia yang wajib dihormati, dijunjung tinggi dan dilindungi oleh negara, hukum Pemerintah Daerah dan setiap orang demi kehormatan serta perlindungan terhadap harkat dan martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung menjadi korban kekerasan, dan kejahatan kemanusiaan yang merupakan pelanggaran hak asasi manusia, sehingga perlu mendapatkan perlindungan dengan peraturan yang dapat memberikan pencegahan dan perlindungan terhadap korban kekerasan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c diatas, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

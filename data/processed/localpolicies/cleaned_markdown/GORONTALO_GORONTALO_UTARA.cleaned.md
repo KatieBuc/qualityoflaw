@@ -20,8 +20,10 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi perempuan  dan anak sesuai amanat Undang - Undang Dasar Negara  Republik Indonesia Tahun 1945 , Pemerintah Kabupaten  Gorontalo Utara ikut bertanggung jawab dalam  penyelenggaraan perlindungn perempuan dan anak  terhadap tindak kekerasan.  
 b. bahwa Kabupaten Gorontalo Utara yang memiliki Falsafah  Adat Bersendi Syara, Syara Bersendi Kitabullah,  menjunjung tinggi Nilai - nilai Agama dan Adat Istiadat  serta keluhuran Budi, Pemerintah Kabupaten Gorontalo  Utara secara moril bertanggung jawab penuh untuk  perlindungan perempuan dan anak tindak kekerasan.  c. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat,  harga diri dan martabat kemanusiaan serta berhak  mendapatkan rasa aman dan bebas dari segla bentuk  kekerasand. bahwa meningkatnya perlakuan kekerasan terhadap  peremuan dan anak di Kabupaten Gorontalo Utara  merupakan perbuatan yang merendahkan harkat  kemanusiaan, sehingga diperlakukan peran pemerintah  Kabupaten Gorontalo Utara agar perempuan dan anak  terlindungi dari tindak kekerasane. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalah huruf a, huruf b, dan huruf c, perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Terhadap Tindak Kekerasan Mengingat:  
+ 
  
  
  

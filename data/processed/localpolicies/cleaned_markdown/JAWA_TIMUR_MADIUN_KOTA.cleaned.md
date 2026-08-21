@@ -24,12 +24,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa bentuk kekerasan terhadap perempuan dan  anak merupakan salah satu bentuk pelanggaran atas hak asasi manusia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa tindakan kekerasan terhadap perempuan dan  anak akan berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan sehingga perlu diberikan rasa aman dan perlindungan;  
 c. bahwa pada saat ini belum ada Peraturan Daerah yang  menjamin perlindungan terhadap perempuan dan anak korban kekerasan di Kota Madiun;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

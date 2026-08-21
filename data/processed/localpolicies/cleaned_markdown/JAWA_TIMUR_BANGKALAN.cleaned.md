@@ -14,7 +14,7 @@ PERATURAN DAERAH KABUPATEN BANGKAlAN
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI BANGKALAN,
+# BUPATI BANGKALAN,  
 a. bahwa sampai saat ini jumlah kekerasan terhaclap perempuan dan anak di Kabupaten Bangkalan masih tinggi, sementara pelayanan dan perlindungan belum dilakukan secara optimal;  
 b. bahwa sehubungan dengan pertimbangan tersebut pada huruf a, dipandang perlu mengatur penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dengan Peraluran Daerah.  
 1. Undang-Undang Nomor 12 Tahun 1950 tenlang Pembentukan Daerah daerah Kabupalen Dalam Lingkungan Propinsi Jawa Timur (Berila Negara Republik Indonesia Tahun 1950 Nomor 41), sebagaimana telah diu bah dengan Undang-Undang Nomor 2 Tahun 1965 (Lembaran Negara Republik Indonesia Tahun 1965 Nomor 19, Tambahan Lembaran Negara Republik Indonesia Nomor 2730);  

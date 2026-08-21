@@ -12,7 +12,7 @@ PENYELENGGARAN PERLINDUNGAN PEREMPUAN  DAN ANAK KOREAN KEK~RASAN
 
 # DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-# BUPATI PRINGSEWU,
+# BUPATI PRINGSEWU,  
 a. bahwa setiap warga negara memiliki hak asasi yang  wajib dijamin oleh negara untuk mendapatkan rasa  aman, dilindungi dan terbebas dari segala bentuk  kekerasan.  b. bahwa perempuan dan anak termasuk kelompok  rentan, sehingga perlu mendapatkan perlindungan  dan pelayanan dari negara yang dapat memberikan  pencegahan, perlindungan dan pelayanan terhadap  korban kekerasan;  
 c. bahwa pemerintah daerah bersama masyarakat wajib  menyelenggarakan upaya pencegahan, perlindungan  dan pemulihan bagi anak dan perempuan korban  kekerasan demi kehormatan dan perlindungc n  terhadap harkat dan martabat kemanusiaan;  
 d. bahwa berdasarkan pertirnbangan sebagairnana  dimaksud dalam huruf a, huruf b dan huruf c, perlu  membentuk Peraturan Daerah ten tang  Penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan;  

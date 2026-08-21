@@ -34,6 +34,7 @@ Menimbang:
  
  
  
+ 
 a. , bahwa dalam diri setiap manusia melekat hale  asasimanusia yang wajib dihormati, dijunjung tinggi dandilindungi oleh negara, hukum, Pemerintah 1 Daerahdan setiap orang demi kehormatan sertaperlindungan terhadap harkat dan martabatmanusia;  
 b. .bahwa secara realitas jumlah anak di Kabupaten Bengkayang melebihi sepertiga jumlah penduduk, • sehingga Pemerintah Daerah berkewajiban memberikan  perlindungan kepada anak dari segala bentuk kekerasan, diskriminasi dan eksploitasi, agar terjamin I penghidupan dan kehidupan anak Kabupaten , Bengkayang yang layak dan bermartabat;  
 c. bahwa permasalahan anak harus ditangani secara komprehensif, terpadu, terarah dan berkesinambungan, sehinggaperlu mendapat dukungan kelembagaan melalui peraturan perundang-undangan guna mendukung Bengkayang sebagai Kabupaten Layak Anak;  
@@ -45,7 +46,8 @@ d. ' bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan An
  
  
  
--2- ,,
+ 
+-2- ,,  
 e. {bahwa berdasarkan pertimbangan  sebagaimanadimaksud dalam huruf a, huruf b, huruf c,  dan huruf d, perlu menetapkan Peraturan Daerah  tentangPenyelenggaraan Perlindungan Perempuan  danAnak Korban Kekerasan;  
 l. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 7 Tahun 1984  tentangpengesahan Convention on The Elimination of  AllForms of Discrimination Against Women  (Konvensimengenai Penghapusan Segala  BentukDiskriminasi Terhadap Wanita) (Lembaran  NegaraRepublik Indonesia Tahun 1984 Nomor  29,Tambahan Lembaran Negara Republik  3. IndonesiaNomor 3277);  

@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap anak dan perempuan berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak;  
 b. bahwa tindak kekerasan terhadap anak dan  perempuan terus meningkat, sehingga diperlukan upaya perlindungan yang komprehensif dan maksimal, adanya tindakan nyata, dukungan kelembagaan secara formal, peraturan yang dapat menjamin pelaksanaan dari Pemerintah Daerah dalam meningkatkan partisipasi masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

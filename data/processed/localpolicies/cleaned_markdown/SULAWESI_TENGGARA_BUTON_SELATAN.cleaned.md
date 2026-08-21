@@ -18,10 +18,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b,  Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali, terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Pemerintahan Daerah, Pemberdayaan Perempuan dan perlindungan Anak merupakan urusan pemerintahan wajib bagi Pemerintah daerah yang tidak berkaitan dengan pelayanan Dasar, maka dalam rangka pemenuhan hak asasi manusia atas tindak kekerasan perempuan dan anak, dipandang perlu dilakukan perlindungan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

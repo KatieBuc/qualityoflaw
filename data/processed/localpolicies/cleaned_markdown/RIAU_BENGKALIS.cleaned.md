@@ -203,7 +203,7 @@ f. g. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;
 
 memperoleh perlindungan dari kekerasan fisik, psikologis, seksual dan penelantaran; atas suatu) nama sebagai identitas diri dan status kewarganegaraan; memperoleh akta kelahiran secara bebas biaya; untuk memeluk agama dan beribadah menurut ajaran agama dengan bimbingan orang tua/wali; untuk tidak dipaksa berganti agama oleh orang tua asuh, orang tua angkat dan oleh siapapun;  
 
-1,
+1,  
 k. untuk diakui dan mengetahui orang tuanya, dibesarkan dan diasuh orang tuanya sendiri; memperoleh pelayanan kesehatan dan jaminan sosial sesuai dengan kebutuhan fisik, mental spiritual dan sosial;  
 
 memperoleh pendidikan dan pengajaran sesuai minat dengan dan bakatnya;  

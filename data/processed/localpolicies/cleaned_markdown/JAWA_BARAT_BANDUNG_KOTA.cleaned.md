@@ -10,7 +10,7 @@ WALl KOTA BANDUNG
 
 # TENTANG
 
-MenimbangMengingat PEMBERDAYAANDANPELlNDUNGANPEREMPUAN DENGANRAHMATTUHANYANGMAHAESA WALlKOTABANDUNG,
+MenimbangMengingat PEMBERDAYAANDANPELlNDUNGANPEREMPUAN DENGANRAHMATTUHANYANGMAHAESA WALlKOTABANDUNG,  
 a. bahwa perempuan mempunyai kedudukan strategis sebagai aset bangsa, sehingga pemberdayaan dan pelindungan perempuan harus dilakukan secara terpadu dan berkesinarnbungan melalui akselerasi pemenuhan pemberdayaan dan pelindungan perempuan dalam kehidupan bermasyarakat, berbangsa dan bernegara;  
 b. bahwa setiap perempuan berhak atas kelangsungan hidup, tumbuh, berkembang dan mendapatkan pelindungan dari an cam an ketakutan, perlakuan yang merendahkan derajat, harga diri, martabat kemanusiaan dan berhak untuk memperoleh akses, kontrol terhadap sumber daya, ekonomi, politik, sosial, budaya, agar perempuan dapat berperan dan berpartisipasi aktif dalam kehidupan sosial;  
 c. bahwa untuk menjarnin kepastian hukum dalam penyelenggaraan pemberdayaan dan pelindungan perempuan serta menjalankan urusan wajib pemerintahan daerah perlu adanya pengaturan dalam Peraturan Daerah;  

@@ -20,11 +20,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 b. bahwa seiring meningkatnya perlakuan kekerasan terhadap  perempuan dan anak di Kabupaten Sarolangun, merupakan  perbuatan yang merendahkan harkat dan martabat  kemanusiaan, sehingga diperlukan peran pemerintah  Kabupaten Sarolangun agar perempuan dan anak terlindungi  dari pelanggaran terhadap hak yang dijamin oleh Konstitusi;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

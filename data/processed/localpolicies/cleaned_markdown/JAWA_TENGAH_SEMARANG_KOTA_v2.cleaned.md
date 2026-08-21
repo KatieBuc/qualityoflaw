@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya untuk diberdayakan agar dapat mengaktualisasikan potensinya secara optimal dan mendapatkan jaminan perlindungan dari tindak kekerasan terhadap perempuan;  
 b. bahwa dalam rangka sarana aktualisasi diri perempuan  dan jaminan perlindungan dalam masyarakat di kota semarang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintah Daerah sebagaimana telah beberapa kali diubah terakhir dengan Undang Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang-Undang Nomor 2 Tahun 2022 tentang Cipta Kerja menjadi Undang-Undang, pemerintah daerah mempunyai kewenangan dalam penyelenggaraan urusan pemerintahan bidang pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  

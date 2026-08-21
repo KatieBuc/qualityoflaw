@@ -34,10 +34,11 @@ Menimbang:
 
 ### DENGAN RAHMAT TUHAN YANG MAHA ESA
 
-### BUPATI BUNGO,
+### BUPATI BUNGO,  
 a. bahwa setiap warga negara termasuk perempuan mempunyai hak yang sama untuk mendapatkan rasa aman dan bebas dari negara untuk melakukan aktifitas dalam berbagai aspek kehidupan sebagaimana dijamin dalam Pancasila dan Undang-Undang Dasar Negarai Republik Indonesia Tahun 1945;  
 b. bahwa masih banyak terjadi kekerasan berbasis gender kepada perempuan dan kekerasan yang memperlakukan perempuan secara tidak proporsional dalam berbagai aspek kehidupan sehingga perlu adanya jaminan terhadap hak-hak perempuan secara konkrit dari pemerintah selaku penyelenggara negara melalui pemerintah daerah yang didukung oleh berbagai pihak;  
 c. bahwa.....2 Mengingat:  
+ 
  
  
  

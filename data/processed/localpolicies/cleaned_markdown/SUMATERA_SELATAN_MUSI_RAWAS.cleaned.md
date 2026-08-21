@@ -16,6 +16,7 @@ Menimbang:
  
  
  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 

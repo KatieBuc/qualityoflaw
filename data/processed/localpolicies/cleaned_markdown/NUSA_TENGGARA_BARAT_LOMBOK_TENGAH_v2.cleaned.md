@@ -63,7 +63,7 @@ a. dan anak, memberikan Pelindungan dan pelayanan terhadapb. perempuan dan anak 
 
 #### Pasal 4
 
-Ruang lingkup Peraturan Daerah ini meliputi: Pemberdayaan Perempuan,
+Ruang lingkup Peraturan Daerah ini meliputi: Pemberdayaan Perempuan,  
 a. Pelindungan Perempuan,b. Pemenuhan hak Anak, dan Pelindungan khusus Anak.  
 
 # BAB II
@@ -76,14 +76,14 @@ Penyelenggaraan Pemberdayaan Perempuan, meliputi:  a. upaya penyadaran dan pembe
 
 #### Pasal 6
 
-Upaya penyadaran dan pembentukan perilaku perempuan  dalam kebutuhan peningkatan kapasitas diri sebagaimana  dimaksud dalam Pasal 5 huruf a, mencakup: |  a. pemahaman dan penyadaran atas hak-hak dasar  perempuan,
+Upaya penyadaran dan pembentukan perilaku perempuan  dalam kebutuhan peningkatan kapasitas diri sebagaimana  dimaksud dalam Pasal 5 huruf a, mencakup: |  a. pemahaman dan penyadaran atas hak-hak dasar  perempuan,  
 b. pemberian motivasi perempuan agar mempunyai  kemampuan atau keberdayaan, dan C. penumbuhan kesadaran pada diri perempuan tentang  kesetaraan dan kedudukannya.  
 
 Upaya penyadaran dan pembentukan perilaku perempuan (2) sebagaimana dimaksud pada ayat (1), dilaksanakan melalui  pembinaan kelompok masyarakat, wadah perempuan,  organisasi perempuan, dan lembaga perempuan.  Pembinaan sebagaimana dimaksud pada ayat (2), dilakukan (3) dalam bentuk edukasi, sosialisasi, dan advokasi.  
 
 #### Pasal 7
 
-Upaya pengembangan akses perempuan untuk berpartisipasi di  bidang ekonomi, politik, sosial dan budaya sebagaimana  dimaksud dalam Pasal 5 huruf b, mencakup: penumbuhkembangan kewirausahaan perempuan,
+Upaya pengembangan akses perempuan untuk berpartisipasi di  bidang ekonomi, politik, sosial dan budaya sebagaimana  dimaksud dalam Pasal 5 huruf b, mencakup: penumbuhkembangan kewirausahaan perempuan,  
 a. peningkatan Pemberdayaan Perempuan dalam berbagai  b.  
 
 profesi: peningkatan peran dan fungsi perempuan dalam organisasi  politik, . pelibatan perempuan untuk berpartisipasi aktif dalam  program pembangunan, pemberian akses bagi perempuan untuk berpartisipasi di  lingkungan Pemerintah Daerah Provinsi, pemberian kesempatan kepemimpinan perempuan,  g. penumbuhkembangan wadah atau lembaga perempuan  dalam rangka peningkatan Pemberdayaan Perempuan, dan  peningkatan Pemberdayaan Perempuan dalam seni dan  budaya.  
@@ -228,7 +228,7 @@ peningkatan aksesibilitas dan perluasan layanan,  penguatan regulasi dan kelemba
 1. Optimalisasi kapasitas sumberdaya anak sebagaimana  dimaksud dalam Pasal 4 huruf a dilakukan melalui:  a. peningkatan kesadaran dan sikap anak terkait hak  mendapatkan Pelindungan,b. peningkatan partisipasi anak dalam upaya Pelindungan  anak: dan Cc. peningkatan ruang dan komunitas yang mendukung  anak untuk tumbuh dan berkembang secara optimal,  baik dalam lingkungan formal maupun informal seiring  dengan perkembangan informasi, teknologi, dan situasi  anak.  
 2. (3) (1)  (2) (3) Peningkatan kesadaran dan sikap anak terkait hak  mendapatkan Pelindungan sebagaimana dimaksud pada  ayat (1) huruf a dilakukan dengan intervensi kebijakan  pemerintah daerah terhadap optimalisasi implementasi  Pelindungan anak dalam pendidikan di sekolah.  
 
-Peningkatan partisipasi anak dalam upaya Pelindungan  anak sebagaimana dimaksud pada ayat (1) huruf b,  dilakukan dengan intervensi kebijakan daerah:  a. menyediakan dan memperkuat konselor teman sebaya dan Posyandu Remaja mulai dari tingkat  desa/kelurahan hingga kabupaten yang terintegrasi  dengan sistem rujukan formal,
+Peningkatan partisipasi anak dalam upaya Pelindungan  anak sebagaimana dimaksud pada ayat (1) huruf b,  dilakukan dengan intervensi kebijakan daerah:  a. menyediakan dan memperkuat konselor teman sebaya dan Posyandu Remaja mulai dari tingkat  desa/kelurahan hingga kabupaten yang terintegrasi  dengan sistem rujukan formal,  
 b. menyediakan mekanisme partisipasi formal bagi anak  dan remaja untuk terlibat langsung dalam upaya  Pelindungan anak di berbagai tingkatan salah satunya  melalui Forum Anak, dan Cc. memperkuat Forum Anak sebagai pelopor dan pelapor.  
 
 #### Pasal 26
@@ -257,7 +257,7 @@ Peningkatan aksesibilitas dan perluasan layanan dapat  dilakukan dengan memperku
 
 #### Pasal 28
 
-Penguatan regulasi dan kelembagaan sebagaimana (1) dimaksud dalam Pasal 24 huruf d dilakukan melalui:  a. penguatan kapasitas kelembagaan Pelindungan dan  pemberdayaan anak dan satuan pendidikan,
+Penguatan regulasi dan kelembagaan sebagaimana (1) dimaksud dalam Pasal 24 huruf d dilakukan melalui:  a. penguatan kapasitas kelembagaan Pelindungan dan  pemberdayaan anak dan satuan pendidikan,  
 b. mendorong pembentukan peraturan desa dan  peraturan kepala desa tentang Pelindungan anak,  c. melakukan evaluasi terhadap peraturan desa, peraturan sekolah dan/atau awig-awig yang  mendorong terjadinya kekerasan dan kerantanan  anak, dan Penguatan kapasitas kelembagaan Pelindungan dan  pemberdayaan anak dan satuan pendidikan sebagaimana  dimaksud pada ayat (1) huruf a dilakukan dengan  intervensi kebijakan pemerintah daerah terhadap  peningkatan pengetahuan dan keterampilan aparat  penegak hukum, aparatur desa, petugas KUA, pemangku  adat, penyuluh dan guru.  
 
 #### Pasal 29
@@ -265,7 +265,7 @@ b. mendorong pembentukan peraturan desa dan  peraturan kepala desa tentang Pelin
 Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud dalam Pasal 24 huruf e dilakukan  melalui strategi yang difokuskan pada:  
 a. peningkatan kerja sama lintas sektor, bidang, dan  daerah,b. penguatan sistem data dan informasi, dan C. pengawasan, pemantauan, dan evaluasi.  
 
-Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud pada ayat (1) dilakukan dengan  intervensi kebijakan pemerintah daerah terhadap:  a. penguatan forum koordinasi perencanaan dan  pelaksanaan kebijakan Pelindungan anak,
+Penguatan koordinasi pemangku kepentingan  sebagaimana dimaksud pada ayat (1) dilakukan dengan  intervensi kebijakan pemerintah daerah terhadap:  a. penguatan forum koordinasi perencanaan dan  pelaksanaan kebijakan Pelindungan anak,  
 b. pemanfaatan data untuk penyempurnaan kebijakan,  dan Cc. membangun sistem data dan informasi sebagai dasar  pelaksanaan layanan rujukan bagi anak yang  membutuhkan Pelindungan khusus.  
 
 ## Bagian Ketiga

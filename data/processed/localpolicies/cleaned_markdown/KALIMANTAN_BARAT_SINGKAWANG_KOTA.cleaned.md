@@ -1153,7 +1153,7 @@ c. hak untuk hidup, kelangsunga.n hidup, dan perkemba.ngan; dan  d . pengha.rgaa
 
 Dalam Pasal 3 Undang-Unda.ng Nomor 23 Tahun 2004 tenta.ng  Penghapusan Kekerasan dalam Rumah Tangga bahwa penghapusan  kekerasan dalam rum.ah tangga dilaksanakan berdasarkan asas:  a . penghormata.n hak asasi manusia;  
 
-b . keadilan dan kesetaraan gender,
+b . keadilan dan kesetaraan gender,  
 c. nondiskriminasi; dan d . perlindungan korban.  
 
 Dalam Pasal 3 Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindunga.n Anak bahwa Perlindungan Anak bertujuan untuk  menjamin terpenuhinya hak-hak anak agar dapat hidup, tumbuh,  berkembang, dan berpa.rtisipasi seca.ra optimal sesuai dengan harkat  dan martabat kemanusiaan, serta mendapat perlindungan dari JDIH Kota Singkawang kekerasan dan diskriminasi, demi terwujudnya ana.k Indonesia yang  berkualitas, berakhlak mulia, dan sejahtera.  

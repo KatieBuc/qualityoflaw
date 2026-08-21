@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, penyiksaan atau perlakuan yang merendahkan derajat, martabat perempuan dan anak merupakan pelanggaran terhadap hak asasi manusia untuk itu perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan, penyiksaan atau perlakuan yang merendahkan derajat serta martabat perempuan dan anak terus meningkat sehingga wajib dilakukan upaya perlindungan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa Perempuan dan Anak berhak mendapatkan perlindungan dari penyiksaan, ancaman, tekanan, serta berhak mendapatkan perlakuan dan kesempatan yang sama untuk mendapatkan keadilan dan kesejahteraan hidup sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa Pemberdayaan Perempuan dan melindungi hak-hak Anak menjadi kewajiban Pemerintah Daerah dan Masyarakat di Daerah;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b dan huruf H Pembagian Urusan Pemerintahan Bidang Pemberdayaan Perempuan dan Perlindungan Anak Lampiran Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, Pemerintah Daerah berwenang menyelenggarakan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -307,7 +309,7 @@ c. mediasi keluarga; dand. dukungan ekonomi.  b. meningkatkan kesadaran dan sika
 1. Hak Anak, Perlindungan Anak, pencegahan perkawinan usia anak dan pengasuhan Anak; dan
 2. dampak kekerasan, buruk eksploitasi, dan penelantaran Anak.  
 
-perlakuan salah,
+perlakuan salah,  
 c. meningkatkan kapasitas pelayanan Perlindungan Anak yang meliputi pengembangan kapasitas kelembagaan dan tenaga penyedia layanan.  d. tenaga penyedia layanan sebagaimana dimaksud pada huruf c meliputi:
 1. kesehatan;  
 2. pendidikan;  

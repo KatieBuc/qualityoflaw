@@ -12,7 +12,7 @@ Menimbang Mengingat
 
 # PERLINDUNGAN PEREMPUAN DAN ANAK
 
-# DENGAN RAHMAT TUHAN YANG MAHA ESA WALI KOTA PEKANBARU,
+# DENGAN RAHMAT TUHAN YANG MAHA ESA WALI KOTA PEKANBARU,  
 a. bahwa pemenuhan hak-hak dasar atau hak-hak konstitusional Perempuan dan Anak, baik yang termasuk ke dalam kelompok hak-hak sipil dan politik maupun hak-hak ekonomi, pendidikan, sosial, dan kebudayaan perlu diupayakan secara berkelanjutan;  
 b. bahwa untuk melaksanakan pemenuhan segala hak- hak yang harus dimiliki Perempuan dan Anak secara berkelanjutan diperlukan landasan peraturan yang sesuai dengan kebutuhan Daerah;  
 c. bahwa_ berdasarkan pertimbangan sebagaimana dimaksud dalam huruf dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
@@ -283,7 +283,7 @@ memperoleh akses dalam memajukan usaha yang dijalaninya demi terciptanya peningk
 
 memperoleh cuti kerja dengan menerima upah/penghasilan sesuai ketentuan peraturan perundang-undangan;  
 
-mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi Perempuan,
+mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi Perempuan,  
 k. mendapatkan informasi dan pelayanan hukum sesuai dengan kebutuhannya;  
 13- menikmati lingkungan hidup yang baik dan sehat sesuai dengan standar dan ketentuan peraturan perundang- undangan;  
 

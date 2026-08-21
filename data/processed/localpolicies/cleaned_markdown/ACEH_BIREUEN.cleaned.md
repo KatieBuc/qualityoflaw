@@ -22,12 +22,14 @@ Menimbang:
  
  
  
+ 
 
 a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
 b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -356,7 +358,7 @@ Perempuan Lanjut Usia
 2. Perlindungan perempuan lanjut usia sebagaimana dimaksud pada ayat (1) lebih diutamakan perlindungan dari anak dan ahli warisnya.  
 3. Apabila perempuan lanjut usia tidak mendapat pelayanan dari anak dan ahli warisnya dan/atau tidak memiliki anak dan ahli waris lainnya sebagaimana dimaksud pada ayat (2), maka perlindungan perempuan lanjut usia menjadi tanggungjawab Pemerintah Kabupaten.  
 4. Perempuan lanjut usia sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:  
-a. layanan kesehatan dasar untuk memelihara dan meningkatkan derajat kesehatan termasuk layanan gerontologik/geriatric,
+a. layanan kesehatan dasar untuk memelihara dan meningkatkan derajat kesehatan termasuk layanan gerontologik/geriatric,  
 b. penggunaan fasilitas dan aksesibilitas sarana dan prasarana umum; dan c. layanan administrasi pemerintahan.  
 
 # BAB VII

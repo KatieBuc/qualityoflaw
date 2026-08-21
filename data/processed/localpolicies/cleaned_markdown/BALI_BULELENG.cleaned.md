@@ -36,12 +36,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

@@ -16,11 +16,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan  anak sebagai manusia;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a  dan huruf b, perlu menetapkan Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

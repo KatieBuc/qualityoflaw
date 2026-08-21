@@ -14,12 +14,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, perlu dilakukan upaya-upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten Enrekang terus meningkat dan meluas yang menyebabkan warga masyarakat tidak aman dalam menjalankan kehidupan, sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan dalam Pasal 12 Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan perlindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -427,7 +429,7 @@ Pelayanan penanganan pengaduan korban kekerasan terhadap perempuan dan anak dila
 a. Rumah Sakit;  
 b. Pusat Kesehatan Masyarakat;  
 
-##### P2TP2A,
+##### P2TP2A,  
 d. Kepolisian;  
 e. Kantor Urusan Agama;  
 f. Lembaga Bantuan Hukum;  

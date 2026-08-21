@@ -18,12 +18,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan terhadap hak asasi manusia  sehingga menjadi kewajiban negara untuk melindungi dari  segala bentuk kekerasan dan diskriminasi;  
 b. bahwa untuk memenuhi hak perempuan dan anak serta  bagian dari upaya pemerintah daerah untuk melindungi  perempuan dan anak dari eksploitasi, penelantaran dan  diskriminasi;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum dalam perlindungan perempuan dan anak  diperlukan pengaturan di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

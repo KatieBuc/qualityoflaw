@@ -18,9 +18,10 @@ Menimbang:
  
  
  
+ 
 Mengingat:
 
-# BUPATI LUWU,
+# BUPATI LUWU,  
 a. bahwa Perempuan dan Laki-Laki mempunyai hak yang sama dalam dalam berpartisipasi di berbagai bidang dalam kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat berperan dalam proses penciptaan dan pembangunan generasi yang berkualitas sehingga perlu mendapatkan tindak dari jaminan perlindungan diskriminasi serta perlu diberdayakan mengaktualisasikan potensinya secara optimal;  
 

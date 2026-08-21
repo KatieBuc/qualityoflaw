@@ -20,7 +20,9 @@ Menimbang:
  
  
  
+ 
 Mengingat:  
+ 
  
  
 a. bahwa hak setiap warga Negara untuk bebas dari  penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dan bebas dari  segala bentuk kekerasan;  

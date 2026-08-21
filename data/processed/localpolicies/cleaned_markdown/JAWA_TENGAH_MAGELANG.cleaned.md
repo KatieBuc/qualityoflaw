@@ -12,11 +12,13 @@ TERHADAP TINDAK KEKERASAN DAN DISKRIMINASI DENGAN RAHMAT TUHAN YANG MAHA ESA BUP
  
  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anakdari tindak kekerasan dan diskriminasi bertujuan untuk mewujudkan hak konstitusional dan hak asasi manusia sesuai dengan nilai-nilai Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa berdasarkan Undang-Undang Nomor 23Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, dan pemulihan terhadap perempuan dan anak korban kekerasan dan diskriminasi;  
 c. bahwa berdasarkan pertimbangan sebagaimanadimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Terhadap Tindak Kekerasan dan Diskriminasi;  
 
 Mengingat:  
+ 
  
  
  

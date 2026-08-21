@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Pancasila dan Undang-Undang Dasar Negera  Repuplik Indonesia Tahun 1945 menjamin atas hak setiap warga negara untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta mendapatkan rasa aman dan bebas dari segala bentuk kekerasan:  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi,c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusan pemerintahan konkuren yang diserahkan ke daerah untuk menjadi dasar pelaksanaan | otonomi daerah dan menjadi urusan pemerintahan wajib  | yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah,d. bahwa dalam rangka untuk memberikan penguatan regulasi, arah, dan landasan dalam perlindungan perempuan dan anak korban kekerasan, diperlukan pengaturan atau regulasi terkait dengan Perlindungan Perempuan dan Anak Korban Kekerasan, -D. cd Mengingat bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c, dan huruf d, perlu  membentuk Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Terhadap Tidank Kekerasan,
 
@@ -224,7 +225,7 @@ Pencegahan
 
 #### Pasal 22
 
-Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal 21 ayat (1) dilakukan oleh: keluarga dan/atau kerabat terdekat,
+Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam Pasal 21 ayat (1) dilakukan oleh: keluarga dan/atau kerabat terdekat,  
 a. masyarakat,b. lembaga pendidikan, dan Lembaga Swadaya Masyarakat.  
 
 ## Bagian Kedua
@@ -248,7 +249,7 @@ a. cepat,b. aman dan nyaman, Cc  d.
 
 Bentuk pelayanan terhadap korban meliputi: pelayanan pengaduan, konsultasi, dan konseling,  a.  
 
-pelayanan pendampingan,
+pelayanan pendampingan,  
 b. pelayanan kesehatan, pelayanan rehabilitasi sosial,d. pelayanan hukum, dan pelayanan pemulangan dan reintegrasi sosial.  Bb
 
 #### Pasal 26

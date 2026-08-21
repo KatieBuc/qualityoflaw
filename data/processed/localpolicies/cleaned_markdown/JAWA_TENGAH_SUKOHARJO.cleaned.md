@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah dan/atau  masyarakat agar terhindar dan terbebas dari kekerasan dan/atau  ancaman kekerasan dalam lingkup rumah tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang  Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004  tentang Penghapusan Kekerasan Dalam Rumah Tangga,  Pemerintah Daerah bersama masyarakat berkewajiban melakukan  upaya pencegahan, perlindungan, pemulihan terhadap korban  kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a,  huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang  Penyelengaraan Perlindungan Terhadap Korban Kekerasan Berbasis  Gender Dan Anak;  
 
 Mengingat:  
+ 
  
  
  

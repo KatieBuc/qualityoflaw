@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang termasuk perempuan dan anak berhak untuk mendapatkan perlindungan dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminatif guna memberikan keamanan dan kenyamanan;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak dari tindakan kekerasan, diskriminatif, eksploitasi, dan pelanggaran hak asasi manusia di Kota Solok belum optimal sehingga diperlukan peran Pemerintah Daerah dan masyarakat;  
 c. bahwa untuk mengisi kekosongan hukum terkait  penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan, diskriminasi, eksploitasi dan pelanggaran hak asasi manusia, perlu dibentuk peraturan daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

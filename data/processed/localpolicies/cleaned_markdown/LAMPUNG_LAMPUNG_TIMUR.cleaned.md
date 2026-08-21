@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 bahwa setiap orang berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 
 bahwa perempuan dan anak termasuk kelompok rentan yang sering mengalami diskriminasi dan kekerasan sehingga perlu mendapatkan perlindungan;  
@@ -27,6 +28,7 @@ bahwa dalam rangka menjamin tersedianya layanan perlindungan perempuan dan anak 
 bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, b, dan c, maka perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempaun dan Anak di Kabupaten Lampung Timur;  
 
 Mengingat:  
+ 
  
  
  

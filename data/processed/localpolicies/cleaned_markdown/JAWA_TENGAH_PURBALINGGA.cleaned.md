@@ -22,6 +22,7 @@ Menimbang:
  
  
  
+ 
 bahwa setiap orang berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak asasi manusia;  
 
 bahwa korban kekerasan berbasis gender dan anak mengalami peningkatan sehingga korban harus mendapatkan perlindungan dari kekerasan dan/atau ancaman kekerasan di dalam maupun di luar rumah tangga;  

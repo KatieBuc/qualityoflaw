@@ -20,12 +20,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan  hak asasi perempuan terhadap pemberdayaan dan  perlindungan perempuan merupakan salah satu nilai yang  tertuang dalam Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah sebagaimana dalam Lampiran  disebutkan bahwa pembagian urusan pemerintah dalam  bidang pemberdayaan perempuan dengan salah satu sub  urusan adalah perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  

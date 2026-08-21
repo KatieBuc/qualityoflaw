@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan dan jaminan atas hak asasinya, serta berhak  mendapat perlakukan yang adil untuk memperoleh kesempatan  dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa peraturan perundang-undangan yang mengatur  perlindungan perempuan dan anak dalam mengatur upaya upaya perempuan dan anak alami dari tindak kekerasan di  daerah sehingga perlu adanya peraturan yang dapat terjamin  pelaksanaannya;  
 c. bahwa segala bentuk tindak kekerasan terhadap warga negara khususnya perempuan dan anak merupakan salah satu bentuk pelanggaran atas hak-hak asasi manusia sehingga negara, pemerintah, masyarakat, dan keluarga berkewajiban dan bertanggung jawab terhadap perlindungan perempuan dan anak dari tindak kekerasan;  
