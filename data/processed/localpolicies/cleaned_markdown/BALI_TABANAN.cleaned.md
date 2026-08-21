@@ -155,7 +155,7 @@ c. peningkatan kemampuan aparatur dan para pemangku kepentingan lain.
 #### Pasal 6
 
 1. Bupati membentuk PPT;  
-2. PPT sebagaimana dimaksud pada ayat (1) berupa:
+2. PPT sebagaimana dimaksud pada ayat (1) berupa:  
 a. P2TP2A;  
 b. PPT berbasis rumah sakit;  
 c. PPT kecamatan; dan  
@@ -164,9 +164,9 @@ d. PPT Desa.
 
 #### Pasal 7
 
-1. Pelayanan PPT meliputi:
-a. memberikan pelayanan dan penanganan secepat mungkin  kepada korban;  
-b. memberikan kemudahan, kenyamanan, keselamatan, dan  bebas biaya bagi korban;  
+1. Pelayanan PPT meliputi:  
+a. memberikan pelayanan dan penanganan secepat mungkin kepada korban;  
+b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi korban;  
 c. menjaga kerahasiaan korban; dan  
 d. menjamin keadilan dan kepastian hukum bagi korban.
 2. Tata cara pelayanan PPT sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Bupati;  
