@@ -94,9 +94,10 @@ f. keadilan dan kesetaraan gender serta inklusi; g. profesionalitas, akuntabilit
 Pemberdayaan perempuan mempunyai tujuan:
 a. mengakui adanya persamaan hak secara hukum sehingga meningkatkan partisipasi perempuan dalam tahapan pembangunan;  
 b. meningkatkan kualitas hidup perempuan agar mampu berperan seimbang dengan laki-laki dalam berbagai aspek kehidupan yang relevan;  
-
-memberikan jaminan kepada perempuan untuk dapat memenuhi hak- haknya sebagai manusia dalam segala aspek kehidupan;  
-d. memberikan rasa aman kepada perempuan dalam segala aspek kehidupan; dane. menjadi pedoman bagi Pemerintah KotaSubulussalam dalam melakukan pem-f. berdayaan dan perlindungan terhadap perempuan.  
+c. memberikan jaminan kepada perempuan untuk dapat memenuhi hak- haknya sebagai manusia dalam segala aspek kehidupan;  
+d. memberikan rasa aman kepada perempuan dalam segala aspek kehidupan; dan  
+e. menjadi pedoman bagi Pemerintah KotaSubulussalam dalam melakukan pem-  
+f. berdayaan dan perlindungan terhadap perempuan.  
 
 #### Pasal 4
 
