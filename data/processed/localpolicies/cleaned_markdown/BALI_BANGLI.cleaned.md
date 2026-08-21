@@ -96,7 +96,6 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksAnakan berdasarkan asas:  
-
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
