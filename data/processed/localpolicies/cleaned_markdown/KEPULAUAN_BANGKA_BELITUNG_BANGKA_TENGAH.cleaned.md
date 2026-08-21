@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang  sama dalam berpartisipasi diberbagai bidang dalam  kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan  generasi yang berkualitas sehingga perlu mendapatkan  jaminan perlindungan dari tindak kekerasan dan  diskriminasi serta perlu diberdayakan agar dapat  mengaktualisasikan potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan  Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  

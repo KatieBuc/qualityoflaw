@@ -37,12 +37,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
 
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
+ 
  
  
  

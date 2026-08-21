@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak atas kelangsungan  hidup, tumbuh, dan berkembang, mendapatkan perlindungan diri pribadi, kehormatan dan martabat sebagai manusia seutuhnya dalam kehidupan keluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi;  
 c. bahwa segala bentuk tindakan kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -29,6 +30,7 @@ e. bahwa peraturan perundang-undangan mengenai  perlindungan perempuan dan anak 
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b , huruf c, huruf d dan huruf e perlu menetapkan Peraturan Daerah Kepahiang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

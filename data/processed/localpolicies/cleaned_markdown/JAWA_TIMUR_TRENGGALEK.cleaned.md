@@ -17,6 +17,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Negara Kesatuan Republik Indonesia menjamin  kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak perempuan dan hak anak yang merupakan hak asasi manusia;  
 b. bahwa dalam rangka meningkatkan kedudukan, peran, dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara;  
 c. bahwa setiap anak adalah tunas, potensi, dan generasi  penerus perjuangan bangsa, dan diharapkan kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, sehingga perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;  
@@ -26,6 +27,7 @@ d. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan kemanusian y
 e. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -705,7 +707,8 @@ LEMBARAN DAERAH KABUPATEN TRENGGALEK TAHUN 2012 NOMOR 3 SERI E Salinan sesuai de
 
 ##### KEPALA BAGIAN HUKUM
 
-ANIK SUWARNI, SH, M.Si Pembina Tk. I
+ANIK SUWARNI, SH,  
+M.Si Pembina Tk. I
 
 ##### NIP . 19650919199602 2 001
 

@@ -17,6 +17,7 @@ Menimbang:
  
  
  
+ 
 Mengingat:
 
 # BUPATI LUWU,
@@ -99,7 +100,8 @@ atau
 
 Perlindungan Perempuan dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
-b. keadilan dan kesetaraan gender, c. nondiskriminasi; dand. perlindungan korban.  
+b. keadilan dan kesetaraan gender,  
+c. nondiskriminasi; dand. perlindungan korban.  
 
 #### Pasal 3
 

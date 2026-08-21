@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup perempuan berhak mendapatatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga, memberi penegasan perlunya perlindungan dan pemberian rasa aman kepada perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

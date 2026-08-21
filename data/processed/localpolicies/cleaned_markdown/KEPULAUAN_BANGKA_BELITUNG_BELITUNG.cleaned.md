@@ -23,12 +23,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia dan  kejahatan kemanusiaan, serta tidak sesuai dengan  Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam rangka pemenuhan hak konstitusional  perempuan dan anak serta untuk meningkatkan kualitas  hidup perempuan dan anak merupakan salah satu urusan  wajib yang menjadi tugas, wewenang, dan tanggung jawab  Pemerintah Daerah;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Belitung cenderung meningkat dan meluas,  sehingga diperlukan upaya perlindungan secara terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah Kabupaten Belitung tentang  Perlindungan Hak Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

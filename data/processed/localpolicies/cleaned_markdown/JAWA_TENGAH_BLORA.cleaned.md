@@ -19,10 +19,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat, harkat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi sebagai bentuk penghormatan, perlindungan dan penegakan Hak Asasi Manusia, khususnya hak-hak dasar perempuan dan Anak, sehingga perlu diatur mengenai penyelenggaraan perlindungan perempuan dan Anak Korban kekerasan di Kabupaten Blora;  
 b. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

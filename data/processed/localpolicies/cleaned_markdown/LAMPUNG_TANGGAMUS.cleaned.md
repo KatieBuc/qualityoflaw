@@ -19,11 +19,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi  perempuan dan anak sesuai Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Pemerintah Daerah Wajib bertanggung jawab dalam penyelenggaraan perlindungan perempuan dan anak terhadap tindak kekerasan;  
 b. bahwa untuk memenuhi indikator- indikator Pelaksanaan Kabupaten Layak Anak, berkenaan dengan layanan Perlindungan, pencegahan kekerasan terhadap perempuan dan anak, maka diperlukan peraturan yang mengatur berbagai peran lembaga perangkat daerah dan lembaga lainnya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

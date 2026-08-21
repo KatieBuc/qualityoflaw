@@ -22,6 +22,7 @@ c. bahwa berdasarkan pertimbangan huruf a dan huruf b, perlu membentuk Peraturan
  
  
  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Tndnnpcio TobTin 1O/1K. Indonesia Tahun 1945; 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 55) dan , Undang-Undang Darurat Nomor 6 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 57) tentang Pembentukan Daerah Tingkat II termasuk Kotapraja Dalam Lingkungan Daerah Tingkat I Sumatera Selatan sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun 2016 (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946);  

@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman dan  bebas dari segala bentuk Kekerasan;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang  cenderung mengalami Kekerasan yang merupakan tindakan yang melanggar hak asasi manusia perlu mendapat Perlindungan hukum;  
 c. bahwa penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan di Kabupaten Badung perlu didukung kelembagaan dan peraturan sehingga dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

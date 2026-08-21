@@ -3,6 +3,7 @@ Mengingat:
  
  
  
+ 
 1. 2. 3. 4. (5. (2
 
 # KABUPATEN KULON PROGO
@@ -22,6 +23,7 @@ Mengingat:
 # BUPATI KULON PROGO,
 
 Menimbang:  
+ 
  
  
  
@@ -299,7 +301,8 @@ pemberdayaan  dan pelayanan, pencegahan, korban kekerasan secara berjejaring ser
 melakukan pendidikan tentang nilai-nilai non diskriminasi terhadap perempuan dan anak;  
 c. perundang peraturan sosialisasi melakukand. dengan  berkaitan yang undangan penyelenggaraan perlindungan perempuan dan anak korban kekerasan;  
 
-menyajikan  dan menyusun, mengumpulkan, e.  
+menyajikan  dan menyusun, mengumpulkan,  
+e.  
 
 laporan data korban kekerasan; dan melakukan pemantauan dan evaluasi terhadap  f.  
 

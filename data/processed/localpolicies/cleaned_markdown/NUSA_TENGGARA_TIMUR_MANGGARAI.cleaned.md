@@ -14,6 +14,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA E
 
 Menimbang Mengingat:  
  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan atas pemenuhan Hak Asasi Manusia dan  segala bentuk tindak kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia sehingga  perlu dilindungi harga diri dan martabatnya serta dijamin  hak-haknya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Manggarai terus meningkat dan berdampak  pada terganggunya kehidupan sosial masyarakat, maka perlu mengatur penyelenggaraan perlindungannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  

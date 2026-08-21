@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak berhak  memperoleh perlindungan atas setiap tindakan kekerasan  yang dilakukan terhadapnya yang dapat menimbulkan  korban kekerasan fisik, psikis, seksual, maupun  penelantaran rumah tangga;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh Negara;  
 c. bahwa pemerintah termasuk Pemerintah Daerah, keluarga,  organisasi sosial dan atau organisasi kemasyarakatan  lainnya mempunyai tanggung jawab untuk mencegah  terjadinya tindak kekerasan dan melindungi perempuan  dan anak korban kekerasan sesuai ketentuan Perundang undangan yang berlaku;  
 d. bahwa Peraturan Daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan  memerlukan perubahan yang substansial terkait kelembagaan untuk disesuaikan dengan peraturan peraturan terbaru di tingkat Nasional, serta belum  mengatur secara komprehensif tentang upaya-upaya  penyelenggaran perlindungan yang menjamin pemenuhan  hak korban atas kebenaran, keadilan, pemulihan dan  jaminan ketidakberulangan kasus, sehingga diperlukan  Peraturan Daerah yang baru yang dapat menjamin  pelaksanaannya.  e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c dan huruf d, perlu  menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

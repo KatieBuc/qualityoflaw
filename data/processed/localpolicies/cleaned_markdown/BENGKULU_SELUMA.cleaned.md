@@ -17,6 +17,7 @@ Menimbang:
  
  
  
+ 
 a.  
 b. c. d. bahwa Kabupaten Seluma sebagai bagian integral dari  masyarakat dalam Negara Kesatuan Republik Indonesia  yang menghormati, menghargai dan menjunjung tinggi  nilai-nilai harkat dan martabat yang merupakan prinsip  dan tujuan Hak Asasi Manusia dari segala bentuk  tindakan diskriminasi dan kekerasan terhadap  perempuan dan anak;  
 
@@ -25,6 +26,7 @@ bahwa tindakan kekerasan terhadap perempuan  dan anak yang dapat menimbulkan kor
 bahwa demi melindungi kepentingan perempuan dan  anak korban kekerasan, maka dipandang perlu ada  kepastian hukum yang menjamin perlindungan  terhadap perempuan dan anak, korban tindak  kekerasan;  
 
 bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b dan huruf c, perlu Mengingat:  
+ 
  
  
  

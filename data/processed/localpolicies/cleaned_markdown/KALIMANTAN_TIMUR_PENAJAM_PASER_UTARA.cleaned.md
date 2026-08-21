@@ -400,6 +400,7 @@ Sallnan sesuai cc ngan aslinya
 
 gian Hukum, +
 
-##### , S.H.,M.H.  
+##### ,  
+S.H.,M.H.  
 
 17 200604 1 008

@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak  berhak memperoleh perlindungan atas setiap tindakan kekerasan yang dilakukan terhadapnya yang  menimbulkan korban fisik maupun psykis, sebagai  bagian dari pengakuan dan penegakan hak asasi  manusia;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh pancasila sebagai falsafah negara, Undang-Undang  dasar Negara Republik Indonesia sebagai dasar hukum tertinggi dalam negara maupun berbagai peraturan  perundangan lainya;  
 c. bahwa perlindungan terhadap perempuan dan anak  korban kekerasan merupakan salah sat aspek dari tugas  dan tanggung jawab pemerintah daerah dalam  memberikan perlindungan dan pelayanan kepada  masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu ditetapkan dengan Peraturan Daerah Kota Tual tentang  Penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

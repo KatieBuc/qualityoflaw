@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses pembangunan nasional, penerusan dan penciptaan generasi yang berkualitas sehingga perlu mendapatkan jaminan perlindungan dari tindak kekerasan dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa guna menjamin pemenuhan hak-hak  konstitusional perempuan untuk dapat mengembangkan potensinya secara optimal sehingga dapat berpartisipasi di berbagai bidang dalam kehidupan sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan lainnya, perlu dilakukan upaya-upaya pemberdayaan dan perlindungan terhadap perempuan;  
@@ -28,6 +29,7 @@ d. bahwa Peraturan Daerah Kota Bekasi Nomor 12 Tahun 2012  yang mengatur Perlind
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  

@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan,  peran dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa dalam rangka melindungi masyarakat,  mewujudkan pemerataan, dan keadilan sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan perlindungan perempuan;  
 d. berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -441,7 +443,8 @@ NOREG PERATURAN DAERAH KABUPATEN BANDUNG, PROVINSI JAWA  BARAT: (22/340/2016) Sa
 
 ##### KEPALA BAGIAN HUKUM
 
-DICKY ANUGRAH, SH, M.Si Pembina Tk. I
+DICKY ANUGRAH, SH,  
+M.Si Pembina Tk. I
 
 ##### NIP. 19740717 199803 1 003
 

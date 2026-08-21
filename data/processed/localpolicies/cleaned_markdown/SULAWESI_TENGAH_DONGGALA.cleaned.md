@@ -25,6 +25,7 @@ e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c
  
  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
@@ -209,7 +210,8 @@ b. pelaksanaan dan pengawasan penyelenggaran perlindungan Anak.
 
 #### Pasal 12
 
-Pemerintah da€rah memberikan petlindungan khusus bagi anak korban kerusuhan alau::H::ffi::" H""ffian dasar vans terdiri 1t?" 911s31^indane' pemukiman' oendidikan, kesehalan, o.r"i", i"n Lr"rr"asi, jaminan keamanan' dan persamaan ,. fiHlll;lllbduhan khusus basi anak vans menvandans cacat dan anak vans mengalami gangguan Psikososial'
+Pemerintah da€rah memberikan petlindungan khusus bagi anak korban kerusuhan alau::H::ffi::" H""ffian dasar vans terdiri 1t?" 911s31^indane' pemukiman' oendidikan, kesehalan,  
+o.r"i", i"n Lr"rr"asi, jaminan keamanan' dan persamaan ,. fiHlll;lllbduhan khusus basi anak vans menvandans cacat dan anak vans mengalami gangguan Psikososial'
 
 #### Pasal t3
 
@@ -227,7 +229,8 @@ Paiag.at 2 Tugas Pemerintah dalam Penyelenggaraan Perlindungan PeremPuan
 
 Tugas Pemerintah Daerah dalam Penyelenggaraan Pedindungan Perempuan meliputi: - a. penwsunan rencana strategis Perlindungan Perempuan iangka panjang' menengan' ' dan- pendek sebagai bagian yang lerinlegrasi dengan Dokumen Perencanaan Pembangunan;  
 
-, b. pelaksanaan dan pengawasan Penyelenggaran Perlindungan perempuan'
+,  
+b. pelaksanaan dan pengawasan Penyelenggaran Perlindungan perempuan'
 
 #### Pasal 16
 

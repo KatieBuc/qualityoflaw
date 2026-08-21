@@ -19,11 +19,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa jumlah kekerasan terhadap perempuan  dan anak di Bangka Selatan terjadi peningkatan jumlah kejadian. Sementara perlindungan dan pelayan terhadap korban sudah dilakukan namun masih belum optimal;  
 b. bahwa di Kabupaten Bangka Selatan sudah terbentuk Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak (P2TP2A) bagi korban kekerasan tapi dasar pembentukannya masih menggunakan Peraturan Bupati yang didalamnya belum dicantumkan tentang mekanisme atau penyelenggaraan perlindungannya yang dapat memudahkan para korban dan penyelenggara perlindungan melaksanakannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

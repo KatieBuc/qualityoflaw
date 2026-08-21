@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 bahwa tindakan dan perlakuan kekerasan terhadap perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 
 bahwa penyelenggaraan pencegahan dan perlindungan terhadap perempuan dan anak sebagai korban tindak kekerasan di Kabupaten Tambrauw selama ini belum dilakukan optimal;  
@@ -365,7 +366,8 @@ NOREG PERATURAN DAERAH KABUPATEN TAMBRAUW, PROVINSI PAPUA BARAT ( 3/ 2016) Salin
 
 ##### SEKRETARIAT DAERAH KABUPATEN TAMBRAUW,
 
-SAUR SITUMORANG, S.Sos.  
+SAUR SITUMORANG,  
+S.Sos.  
 
 PEMBINA Tk.I, NIP. 19661005 198803 1 026
 

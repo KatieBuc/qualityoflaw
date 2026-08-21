@@ -19,10 +19,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa sampai saat ini jumlah kekerasan terhadap perempuan dan anak  masih tinggi, sementara pelayanan dan perlindungan belum dilakukan  secara optimal;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap  Perempuan dan Anak Korban Kekerasan yang ditetapkan dengan  Peraturan Daerah Kabupaten Madiun.  
 
 Mengingat:  
+ 
  
  
  
@@ -205,11 +207,13 @@ Disahkan di Madiun pada tanggal 11 April 2008
 
 ##### BUPATI MADIUN
 
-DJUNAEDI MAHENDRA, SH, M.Si Diundangkan di Madiun pada tanggal 9 Juni 2008
+DJUNAEDI MAHENDRA, SH,  
+M.Si Diundangkan di Madiun pada tanggal 9 Juni 2008
 
 ##### SEKRETARIS DAERAH
 
-Ir. SUKIMAN, M.Si Pembina Utama Muda
+Ir. SUKIMAN,  
+M.Si Pembina Utama Muda
 
 ##### NIP 010 170 361
 

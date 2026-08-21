@@ -14,9 +14,11 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP  KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 
 Menimbang:  
  
+ 
 a. b. bahwa segala bentuk Kekerasan,  terutama Kekerasan Berbasis Gender  dan Anak merupakan pelanggaran  hak asasi manusia dan kejahatan  terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
 bahwa perlakuan diskriminatif dan  Kekerasan Berbasis Gender dan Anak  di Kota Salatiga cenderung  mengalami peningkatan serta dapat  menimbulkan potensi menurunnya  kualitas kehidupan keluarga dan  masyarakat sehingga diperlukan Mengingat:  
+ 
  
 c. 1. 2. 3. 4. penanganan secara terpadu mencakup upaya pencegahan,  penanganan kasus, dan penanganan  pasca krisis terhadap Korban  Kekerasan;  
 

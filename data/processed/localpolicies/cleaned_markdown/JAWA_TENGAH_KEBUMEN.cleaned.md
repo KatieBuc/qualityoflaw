@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki hak asasi  manusia yang harus dilindungi, dihormati, dipertahankan, dan  tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun  sehingga perlu mendapatkan jaminan pelindungan dari tindak  kekerasan, eksploitasi, dan diskriminasi serta perlu diberdayakan  agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam masyarakat masih terdapat banyak perempuan  yang mengalami kekerasan, diskriminasi, dan ketidakadilan serta  sering menghadapi hambatan besar dalam mengakses layanan  pendidikan, kesehatan, dan pelindungan sosial yang memadai  yang berdampak negatif terhadap kesejahteraan dan  perkembangan diri mereka;  
 c. bahwa dalam rangka pelindungan dan sarana aktualisasi diri  perempuan dalam masyarakat di Kabupaten Kebumen,  diperlukan pengaturan mengenai pelindungan dan  pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pelindungan dan Pemberdayaan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -657,7 +659,8 @@ LEMBARAN DAERAH KABUPATEN KEBUMEN TAHUN 2025 NOMOR 01 NOREG PERATURAN DAERAH KAB
 
 ttd.  
 
-##### AKHMAD HARUN, S.H.  
+##### AKHMAD HARUN,  
+S.H.  
 
 Pembina Tk. I
 

@@ -19,6 +19,7 @@ C. Mengingat:
  
  
  
+ 
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Nomor 3277); 2. Undang-Undang Nomor 5 tahun 1998 Tentang Pengesahan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain Yang Kejam, Tidak Manusiawi Atau Merendahkan Martabat Manusia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Nomor 3783);  
 
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);  
@@ -160,7 +161,9 @@ Ditetapkan di Sumenep pada tanggal: 14 Pebruari 2011
 
 ##### BUPATI SUMENEP
 
-KH. A. BUSYRO KARIM, M.Si Drs. MOH. SALEH, M.Si Pembina Utama Muda
+KH. A. BUSYRO KARIM,  
+M.Si Drs. MOH. SALEH,  
+M.Si Pembina Utama Muda
 
 ##### NIP. 19560506 198002 1 004
 
@@ -192,4 +195,5 @@ KH. A. BUSYRO KARIM, M.Si Drs. MOH. SALEH, M.Si Pembina Utama Muda
 
 ##### BUPATI SUMENEP
 
-KH. BUSYRO KARIM, M.Si
+KH. BUSYRO KARIM,  
+M.Si

@@ -19,10 +19,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan, setiap warga Negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia, berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan serta untuk meningkatkan kualitas hidup perempuan yang merupakan salah satu tanggung jawab Pemerintah Daerah;  
 b. bahwa dalam upaya pemenuhan hak perempuan perlu dilakukan upaya oleh k eluarga, masyarakat, dan Pemerintah Daerah, sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  

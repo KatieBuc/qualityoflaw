@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak secara biologis dan  filosofis merupakan kelompok yang rentan dan mudah menjadi korban kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan serta bentuk diskriminasi yang harus dihapus;  
 c. bahwa perlindungan terhadap perempuan dan anak korban kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah daerah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, b, dan c, dipandang perlu untuk menetapkan Perlindungan Perempuan dan Anak Korban Kekerasan dengan Peraturan Daerah Kota Tangerang Selatan;  
 
 2 - Mengingat:  
+ 
  
  
  

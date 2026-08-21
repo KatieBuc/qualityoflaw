@@ -13,11 +13,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, dan huruf b, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan anak korban kekerasan di Kabupaten Muna.  
 
 Mengingat:  
+ 
  
  
  

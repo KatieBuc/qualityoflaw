@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka perlindungan hak-hak perempuan dananak sebagaimana amanat UUD Negara Republik Indonesia Tahun 1945, peningkatan kualitas hidup perempuan dan anak serta menanggulangi segala bentuk tindak kekerasan terhadap perempuan dan anak, perlu adanya kepedulian dari semua pihak baik masyarakat maupun lembaga lembaga pemerintah yang terkait dan aparat penegak hukum;  
 b. bahwa adanya kecenderungan peningkatan korban dan kasus-kasus kekerasan terhadap perempuan dan anak, yang belum tertangani secara maksimal sehingga diperlukan suatu pelayanan terpadu oleh instansi terkait dan lembaga/organisasi kemasyarakatan untuk memberikan perlindungan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam upaya memfasilitasi perempuan dan anak meningkatkan kemampuan keterampilan dan kemandirian serta mendapatkan pelayanan konsultasi dan pemecahan masalah yang dialami perempuan dan anak perlu wadah pusat pelayanan terpadu pemberdayaan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -519,7 +521,8 @@ Amuntai, Mei 2016 Salinan Sesuai Aslinya Kepala
 
 ## Bagian Hukum,
 
-Drs.H.SOFIAN SYAHRANI, M.Si Pembina Tingkat I ( IV/b)
+Drs.H.SOFIAN SYAHRANI,  
+M.Si Pembina Tingkat I ( IV/b)
 
 ### NIP.19660110 198602 1003
 

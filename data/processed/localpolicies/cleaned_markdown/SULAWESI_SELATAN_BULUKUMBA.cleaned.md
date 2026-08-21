@@ -14,12 +14,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 
 Menimbang:  
  
+ 
 a. bahwa sebagai warga Negara Kesatuan Republik Indonesia  perempuan dan anak berhak mendapatkan perlindungan,  rasa aman dan bebas dari segala bentuk kekerasan atau  perlakuan yang tidak manusiawi yang bertentangan dengan  nilai Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam perkembangannya masih banyak perempuan  dan anak yang perlu mendapatkan perlindungan dari  berbagai bentuk tindak kekerasan, perlakuan salah, eksploitasi, dan diskriminasi sehingga diperlukan upaya  strategis untuk memberikan perlindungan terhadap  perempuan dan anak;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah dalam melaksanakan urusan  pemerintahan konkuren Pemerintah Kabupaten mempunyai  kewenangan dalam penyelenggaraan urusan pemerintahan  bidang perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

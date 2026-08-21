@@ -15,11 +15,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan bentuk kejahatan kemanusiaan yang merupakan pelanggaran terhadap hak asasi manusia;  
 b. bahwa jumlah kasus dan korban kekerasan terhadap perempuan dan anak di Kota Ternate masih cukup tinggi, sedangkan pelayanan dan perlindungan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

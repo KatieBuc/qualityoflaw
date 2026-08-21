@@ -183,7 +183,8 @@ memperoleh perlindungan dari kekerasan fisik, psikologis, seksual dan penelantar
 
 memperoleh pekerjaan yang layak sesuai kemampuannya;  
 d. memperoleh cuti kerja dengan menerima upah/gaji sesuai peraturan perundang-undangan;  
-e. memperoleh pendidikan dan pengajaran di semua _jenis, f.  
+e. memperoleh pendidikan dan pengajaran di semua _jenis,  
+f.  
 
 jenjang dan jalur pendidikan;  
 

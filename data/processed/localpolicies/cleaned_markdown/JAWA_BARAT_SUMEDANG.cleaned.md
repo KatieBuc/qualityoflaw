@@ -17,10 +17,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang berhak untuk bebas dari perlakuan yang bersifat diskriminatif serta memperoleh kesempatan dan manfaat yang sama dalam berbagai bidang pembangunan di Kabupaten Sumedang: anak merupakan salah satu implementasi kebijakan penyelenggaraan urusan pemerintahan konkuren yang menjadi kewenangan pemerintahan daerah, yang menjadi kesatuan dimensi integral mulai dari perencanaan, penganggaran, pelaksanaan, pemantauan, evaluasi, pengawasan dan pelaporan atas kebijakan, program, serta kegiatan pembangunan daerah;  
 c. bahwa untuk mewujudkan kepastian hukum dan memberikan jaminan perlindungan hukum serta sinergitas dan keterpaduan dalam pelaksanaan kebijakan, program, dan kegiatan Pemberdayaan Perempuan dan Pelindungan Anak di Daerah Kabupaten Sumedang, perlu diatur dan ditetapkan dengan Peraturan Daerah:d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Pelindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -1103,7 +1105,9 @@ Diundangkan di Sumedang pada tanggal 17 Juli 2024 Pj. SEKRETARIS DAERAH KABUPATE
 
 ##### LEMBARAN DAERAH KABUPATEN SUMEDANG TAHUN 2024 NOMOR 5
 
-NOMOR REGISTER PERATURAN DAERAH KABUPATEN SUMEDANG, PROVINSI JAWA BARAT: (5/62/2024) Salinan sesuai dengan aslinya KEPALA BAGIAN HUKUM SEKRETARIAT DAERAH KABUPATEN SUMEDANG, Hj. LILIS KOMALA, S.H., M.H. NIP. 19670302 199703 2 002 PENJELASAN  ATAS  PERATURAN DAERAH KABUPATEN SUMEDANG  NOMOR 5 TAHUN 2024  TENTANG  PEMBERDAYAAN PEREMPUAN DAN PELINDUNGAN ANAK
+NOMOR REGISTER PERATURAN DAERAH KABUPATEN SUMEDANG, PROVINSI JAWA BARAT: (5/62/2024) Salinan sesuai dengan aslinya KEPALA BAGIAN HUKUM SEKRETARIAT DAERAH KABUPATEN SUMEDANG, Hj. LILIS KOMALA,  
+S.H.,  
+M.H. NIP. 19670302 199703 2 002 PENJELASAN  ATAS  PERATURAN DAERAH KABUPATEN SUMEDANG  NOMOR 5 TAHUN 2024  TENTANG  PEMBERDAYAAN PEREMPUAN DAN PELINDUNGAN ANAK
 
 ##### I. UMUM
 

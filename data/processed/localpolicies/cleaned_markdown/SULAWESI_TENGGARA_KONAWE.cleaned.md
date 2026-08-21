@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa anak dan perempuan merupakan kelompok  rentan mengalami kekerasan dimana segala bentuk kekerasan terhadap anak dan perempuan merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan sehingga perlu perlindungan hukum untuk melindungi harga diri dan martabatnya serta menjamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap anak dan perempuan di  Kabupaten Konawe menunjukan angka yang cukup tinggi dan terus meningkat, sehingga diperlukan upaya perlindungan;  
@@ -27,6 +28,7 @@ e. bahwa penyelenggaraan Perlindungan Anak dan  Perempuan Korban Kekerasan di Ka
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b, huruf c, huruf d dan huruf e diatas, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan di Kabupaten Konawe;  
 
 Mengingat:  
+ 
  
  
  
@@ -359,4 +361,5 @@ Ditetapkan di: Unaaha Pada Tanggal: 16 April 2018 Pit. BUPATI KONAWE PARINRINGI,
 
 ##### ;RAH KABUPATE N KONAW E
 
-. L, S.Sos.,M.Si ^l^MBARAN DAERA H KABUPATE N KONAW E TAHU N 2018 NOMO R  ••••••• NOMOR REGISTRASI PROVINSI SULAWESI TENGGARA  KABUPATEN KONAWE NOMOR 12/62/2018 Disahkan-sesuai dengan aslinya KEPALA^sAGiAI^ HUKUM SETDA KABUPATEN KONAWE  / I.M.Si ,19670712"! ^9803 1 013
+. L,  
+S.Sos.,M.Si ^l^MBARAN DAERA H KABUPATE N KONAW E TAHU N 2018 NOMO R  ••••••• NOMOR REGISTRASI PROVINSI SULAWESI TENGGARA  KABUPATEN KONAWE NOMOR 12/62/2018 Disahkan-sesuai dengan aslinya KEPALA^sAGiAI^ HUKUM SETDA KABUPATEN KONAWE  / I.M.Si ,19670712"! ^9803 1 013

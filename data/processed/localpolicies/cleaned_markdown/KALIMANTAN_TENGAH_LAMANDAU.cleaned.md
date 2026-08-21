@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak yang dapat menimbulkan korban fisik maupun psikis merupakan pelanggaran hak asasi manusia, diskriminasi  terhadap perempuan dan anak dan kejahatan terhadap  martabat manusia sehingga menghambat terciptanya keadilan  dan kesetaraan gender;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman dan bebas dari segala perbuatan kekerasan yang dijamin peraturan perundang-undangan;  
 c. bahwa pemerintah daerah berkewajiban untuk mengatur dan  mengurus penanganan serta memberikan pelayanan bagi  perempuan dan anak korban tindak kekerasan yang meliputi  dari segi penegakan hukum, perlindungan hukum, pelayanan  kesehatan, dan spiritual;  
@@ -26,6 +27,7 @@ d. bahwa untuk meningkatkan perlindungan bagi perempuan dan anak korban kekerasa
 e. bahwa berdasarkan pertimbangan sebagaimana tersebut pada huruf a, huruf b, huruf c dan huruf d, perlu menetapkan Peraturan Daerah Kabupaten Lamandau tentang Pelayanan Terpadu Pemberdayaan Perempuan dan  Anak.  
 
 Mengingat:  
+ 
  
  
  

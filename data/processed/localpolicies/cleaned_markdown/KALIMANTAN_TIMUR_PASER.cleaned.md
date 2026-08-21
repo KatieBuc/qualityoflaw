@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
 	a.	bahwa setiap orang berhak untuk mendapatkan perlindungan dan jaminan atas hak asasinya, berhak untuk bebas dari penyiksaan, ancaman, tekanan yang merendahkan derajat manusia, serta berhak mendapat kemudahan dan perlakuan yang adil untuk memperoleh kesempatan dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa di lingkungan keluarga dan masyarakat termasuk di daerah konflik dan di tempat kerja, perempuan termasuk kelompok rentan yang sering mengalami kekerasan dan diskriminasi, serta belum mendapatkan perlindungan dan pemberdayaan secara optimal, maka untuk menjamin terpenuhinya hak perempuan dan sebagai kelompok rentan dari segala bentuk tindak kekerasan dan eksploitasi diperlukan perlindungan terhadap perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Tindak Kekerasan.  

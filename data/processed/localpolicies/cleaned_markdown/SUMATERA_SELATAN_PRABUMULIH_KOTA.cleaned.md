@@ -101,7 +101,9 @@ Pembentukan Pokja Pemberdayaan Perempuan dan Perlindungan Anak di Kota Pasal (1)
 4. Pembentukan pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota ditetapkan dengan Keputusan Walikota.  
 
 Pasal Pokja Pemberdayaan Perempuan dan Perlindungan Anak Kota sebagaimana dimaksud dalam Pasal mempunyai tugas:  
-a. mempromosikan dan memfasilitasi Pemberdayaan Perempuan dan Perlindungan Anak kepada masing-masing PD,b. melaksanakan sosialisasi dan advokasi Pemberdayaan Perempuan dan Perlindungan Anak kepada camat, Lurah dan Kepala Desa, C. menyusun program kerja setiap tahun,d. mendorong terwujudnya perencanaan dan penganggaran yang Responsif atas Pemberdayaan Perempuan dan Perlindungan Anak,e. menyusun rencana kerja pokja Pemberdayaan Perempuan dan Perlindungan Anak setiap tahun,f. bertanggung jawab kepada Walikota melalui Wakil Walikota, merumuskan rekomendasi kebijakan kepada Walikota,g. menyusun profil Pemberdayaan Perempuan dan Perlindungan Anakh. Daerah,i. melakukan pemantauan pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak di masing-masing instansi,j. menetapkan tim teknis untuk melakukan analisis terhadap anggaran Daerah, k. menyusun rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Kota, dan I. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD.  
+a. mempromosikan dan memfasilitasi Pemberdayaan Perempuan dan Perlindungan Anak kepada masing-masing PD,b. melaksanakan sosialisasi dan advokasi Pemberdayaan Perempuan dan Perlindungan Anak kepada camat, Lurah dan Kepala Desa,  
+C. menyusun program kerja setiap tahun,d. mendorong terwujudnya perencanaan dan penganggaran yang Responsif atas Pemberdayaan Perempuan dan Perlindungan Anak,e. menyusun rencana kerja pokja Pemberdayaan Perempuan dan Perlindungan Anak setiap tahun,f. bertanggung jawab kepada Walikota melalui Wakil Walikota, merumuskan rekomendasi kebijakan kepada Walikota,g. menyusun profil Pemberdayaan Perempuan dan Perlindungan Anakh. Daerah,i. melakukan pemantauan pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak di masing-masing instansi,j. menetapkan tim teknis untuk melakukan analisis terhadap anggaran Daerah,  
+k. menyusun rencana aksi daerah Pemberdayaan Perempuan dan Perlindungan Anak Kota, dan I. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD.  
 
 #### Pasal 10
 
@@ -112,7 +114,9 @@ a. pemberdayaan perempuan dan perlindungan anak dalam peraturan perundang-undang
 #### Pasal 11
 
 1. Focal Point Pemberdayaan Perempuan dan Perlindungan Anak mendorong dilaksanakannya pemilihan dan penetapan Focal Point di masing-masing PD pada setiap PD terdiri dari pejabat dan/atau staf yang membidangi tugas perencanaan dan/atau program.  
-2. Focal Point Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1), mempunyai tugas:a. mempromosikan Pemberdayaan Perempuan dan Perlindungan Anak pada unit kerja,b. mernfasilitasi penyusunan rencana kerja dan penganggaran PD yang responsif atas Pemberdayaan Perempuan dan Perlindungan Anak, c. melaksanakan pelatihan, sosialisasi, advokasi Permberdayaan Perempuan dan Perlindungan Anak kepada seluruh pejabat dan staf di lingkungan PD, tuglaporkan pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak kepada pimpinan PD, e. mendorong pelaksanaan analisis Anggaran Permberdayaan Pererupuau dan Perlindungan Anak, dan memfasilitasi penyusunan data Pemberdayaan Perempuan dan Pertigaan Anak pada masing-masing PD, (31 Focal Port Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1), dipilih dan ditetapkan oleh pimpinan PD.  
+2. Focal Point Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1), mempunyai tugas:a. mempromosikan Pemberdayaan Perempuan dan Perlindungan Anak pada unit kerja,b. mernfasilitasi penyusunan rencana kerja dan penganggaran PD yang responsif atas Pemberdayaan Perempuan dan Perlindungan Anak,  
+c. melaksanakan pelatihan, sosialisasi, advokasi Permberdayaan Perempuan dan Perlindungan Anak kepada seluruh pejabat dan staf di lingkungan PD, tuglaporkan pelaksanaan Pemberdayaan Perempuan dan Perlindungan Anak kepada pimpinan PD,  
+e. mendorong pelaksanaan analisis Anggaran Permberdayaan Pererupuau dan Perlindungan Anak, dan memfasilitasi penyusunan data Pemberdayaan Perempuan dan Pertigaan Anak pada masing-masing PD, (31 Focal Port Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1), dipilih dan ditetapkan oleh pimpinan PD.  
 
 E)
 
@@ -132,7 +136,8 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Hukum
 #### Pasal 13
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang hukum sebagaimana dimaksud dalam Pasal ayat (1) huruf angka meliputi:  
-a. melakukan sosialisasi untuk meningkatkan pengetahuan dan kesadaran hukum perempuan, b. melakukan pemetaan dan mereview kebijakan bias gender, dan c. melibatkan organisasi perempuan dalam proses penyusunan dan pembahasan produk hukum Daerah yang berkaitan dengan peran serta perempuan.  
+a. melakukan sosialisasi untuk meningkatkan pengetahuan dan kesadaran hukum perempuan,  
+b. melakukan pemetaan dan mereview kebijakan bias gender, dan c. melibatkan organisasi perempuan dalam proses penyusunan dan pembahasan produk hukum Daerah yang berkaitan dengan peran serta perempuan.  
 
 ## Bagian Keenam
 
@@ -141,7 +146,8 @@ Peningkatan Peran, Kualitas, dan Kemampuan Perempuan Bidang Sosial
 #### Pasal 14
 
 Upaya peningkatan peran, kualitas dan kemampuan perempuan dalam bidang
-a. peningkatan pengetahuan dan keterampilan untuk mendorong pemenuhan pendidikan sesuai dengan potensi yang dimiliki,b. peningkatan dan pemenuhan kualitas kesehatan terhadap perempuan, C. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan,d. peningkatan kesadaran perempuan terhadap dampak pernikahan dini, (10) memfasilitasi dan mengupayakan pelestarian adat istiadat dane. pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan, melakukan peningkatan kesadaran dan pengetahuan perempuan terhadap perencanaan keluarga mandiri, sehat dan sejahtera, melakukan program dalam menurunkan angka kematian ibu melahirkan, danh. mendorong pembentukan organisasi perempuan di Kota.  
+a. peningkatan pengetahuan dan keterampilan untuk mendorong pemenuhan pendidikan sesuai dengan potensi yang dimiliki,b. peningkatan dan pemenuhan kualitas kesehatan terhadap perempuan,  
+C. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan,d. peningkatan kesadaran perempuan terhadap dampak pernikahan dini, (10) memfasilitasi dan mengupayakan pelestarian adat istiadat dane. pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan, melakukan peningkatan kesadaran dan pengetahuan perempuan terhadap perencanaan keluarga mandiri, sehat dan sejahtera, melakukan program dalam menurunkan angka kematian ibu melahirkan, danh. mendorong pembentukan organisasi perempuan di Kota.  
 
 ## Bagian Ketujuh
 
@@ -164,8 +170,10 @@ Umum
 
 1. Pemerintah Kota dalam upaya Perlindungan perempuan dan anak bertanggungjawab:a. menetapkan dan menyelenggarakan kebijakan, program dan kegiatan perlindungan perempuan dan anak,
 
-b.melakukan upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak termasuk tindak pidana perdagangan orang, c. meningkatkan efektivitas layanan terhadap perempuan dan anak korban tindak Kekerasan,
-d. meningkatkan upaya Perlindungan terhadap tenaga kerja perempuan, e. menguatkan dan mengembangkan lembaga penyedia layanan Perlindungan perempuan dan anak,f. melakukan kerjasama dengan Pemerintah, Pemerintah Daerah lainnya, pihak swasta, dunia usaha dan/atau LSM dalam upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak, dang. melibatkan peran aktif keluarga, pemuka adat, pemuka agama, masyarakat, dan lembaga dibidang Perlindungan perempuan dan anak.  
+b.melakukan upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak termasuk tindak pidana perdagangan orang,  
+c. meningkatkan efektivitas layanan terhadap perempuan dan anak korban tindak Kekerasan,
+d. meningkatkan upaya Perlindungan terhadap tenaga kerja perempuan,  
+e. menguatkan dan mengembangkan lembaga penyedia layanan Perlindungan perempuan dan anak,f. melakukan kerjasama dengan Pemerintah, Pemerintah Daerah lainnya, pihak swasta, dunia usaha dan/atau LSM dalam upaya pencegahan terjadinya tindak Kekerasan terhadap perempuan dan anak, dang. melibatkan peran aktif keluarga, pemuka adat, pemuka agama, masyarakat, dan lembaga dibidang Perlindungan perempuan dan anak.  
 
 (11 Tanggungjawab Pemerintah Kota dalam upaya Perlindungan perempuan (2) sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan fungsinya serta dapat berkoordinasi dengan instansi terkait.  
 
@@ -432,7 +440,8 @@ Umum
 a.menetapkan dan melaksanakan kebijakan serta program/kegiatan perlindungan dan pemenuhan hak Anak,
 
 b.menghormati dan menjamin hak asasi setiap Anak dengan tidak membedakan suku, agama, ras, golongan, jenis kelamin, etnik, budaya dan bahasa, status hukum Anak, urutan kelahiran Anak, dan kondisi fisik dan/atau mental,
-c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga dalam mewujudkan hak Anak, d. menjamin Perlindungan, pemeliharaan, dan kesejahteraan Anak dengan memperhatikan hak dan kewajiban orang tua, wali, atau orang lain yang secara hukum bertanggung jawab terhadap Anak,e. menyediakan sarana dan prasarana dalam penyelenggaraan pemenuhan hak Anak,f. menjamin hak Anak untuk menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasan Anak, sg. melakukan pengawasan dan pembinaan dalam rangka penyelenggaraan, dan
+c. menguatkan dan mengembangkan lembaga penyedia layanan peningkatan kualitas keluarga dalam mewujudkan hak Anak,  
+d. menjamin Perlindungan, pemeliharaan, dan kesejahteraan Anak dengan memperhatikan hak dan kewajiban orang tua, wali, atau orang lain yang secara hukum bertanggung jawab terhadap Anak,e. menyediakan sarana dan prasarana dalam penyelenggaraan pemenuhan hak Anak,f. menjamin hak Anak untuk menyampaikan pendapat sesuai dengan usia dan tingkat kecerdasan Anak, sg. melakukan pengawasan dan pembinaan dalam rangka penyelenggaraan, dan
 
 h.melakukankerjasama dengan pihak swasta dalam penyelenggaraan Perlindungan Anak.  
 
@@ -486,7 +495,8 @@ Pemerintah Kota menjamin terselenggaranya program wajib belajar (sembilan) tahun
 
 1. Upaya preventif pelayanan kesehatan dasar sebagaimana dimaksud dalam Pasal 48 ayat (2) huruf ditujukan untuk mencegah terjadinya penyakit atau permasalahan kesehatan.  
 2. Upaya sebagaimana dimaksud pada ayat (1) dilakukan dengan:  
-a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia (enam) bulan,b. pemberian imunisasi dan vitamin gratis pada bavi dan balita, Cc. pemberian makanan bergizi kepada balita dari keluarga kurang mampu, d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagiibu dan balita,e. melakukan pemeriksaan kesehatan secara berkala, danf. menyediakan sarana sanitasi dan air bersih disetiap sekolah.  
+a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia (enam) bulan,b. pemberian imunisasi dan vitamin gratis pada bavi dan balita, Cc. pemberian makanan bergizi kepada balita dari keluarga kurang mampu,  
+d. mengoptimalkan peran posyandu untuk pelayanan kesehatan bagiibu dan balita,e. melakukan pemeriksaan kesehatan secara berkala, danf. menyediakan sarana sanitasi dan air bersih disetiap sekolah.  
 
 #### Pasal 51
 
@@ -501,7 +511,8 @@ a. mewajibkan pada ibu untuk pemberian ASI ekslusif pada bayi sampai usia (enam)
 #### Pasal 53
 
 1. Penyelenggaraan kesejahteraan sosial ditujukan kepada:a. perseorangan,b. keluarga,c. kelompok: dan/ataud. masyarakat.  
-2. Penyelenggaraan kesejahteraan sosial sebagaimana dimaksud pada ayat (1) diprioritaskan kepada mereka yang memiliki kehidupan yang tidak layak secara kemanusiaan dan memiliki kriteria masalah sosial:a. kemiskinan,b. ketelantaran,c. kecacatan,d. keterpencilan, (221e. ketunaan sosial dan penyimpangan perilaku, I. korban bencana, dan/ataug. korban tindak kekerasan, eksploitasi dan diskriminasi.  
+2. Penyelenggaraan kesejahteraan sosial sebagaimana dimaksud pada ayat (1) diprioritaskan kepada mereka yang memiliki kehidupan yang tidak layak secara kemanusiaan dan memiliki kriteria masalah sosial:a. kemiskinan,b. ketelantaran,c. kecacatan,d. keterpencilan, (221e. ketunaan sosial dan penyimpangan perilaku,  
+I. korban bencana, dan/ataug. korban tindak kekerasan, eksploitasi dan diskriminasi.  
 3. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa penyediaan layanan:a. kesehatan:b. pendidikan, Cc. bantuan hukum:d. pendampingan,e. bimbingan sosial, mental dan spiritual:f. rehabilitasi sosial, dan/ataug. reintegrasi.  
 
 ## Bagian Kelima
@@ -515,7 +526,8 @@ Pemerintah Daerah melakukan pengawasan berkala pada setiap orang/badan yang memp
 #### Pasal 55
 
 Setiap orang/badan yang mempekerjakan Anak harus memperhatikan persyaratan:  
-a. berusia paling rendah 15 (lima belas) tahun, b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak:  
+a. berusia paling rendah 15 (lima belas) tahun,  
+b. mendapat persetujuan tertulis dari orangtua/wali pekerja Anak:  
 c. memiliki perjanjian kerja tertulis antara majikan dengan orang tua/wali pekerja Anak dan mendapat pengesahan dari instansi yang berwenang:  
 d. tidak mempekerjakan Anak pada malam hari: dane. waktu kerja paling lama (tiga) jam dalam sehari.  
 
@@ -576,7 +588,9 @@ Pembentukan dan susunan keanggotaan Gugus Tugas KLA ditetapkan (2) dengan Keputu
 
 Gugus Tugas KLA berkedudukan pada Kantor DPPKBPPPA.  
 
-3. Gugus Tugas KLA sebagaimana dimaksud pada ayat (1), mempunyai tugas (4 pokok:a. mengkoordinasikan pelaksanaan kebijakan dan pengembangan KLA, b. melakukan sosialisasi, advokasi dan komunikasi informasi dan edukasi kebijakan KLA, Cc. mengumpulkan data dasar pengembangan KLA,d. melakukan analisis kebutuhan yang bersumber dari data dasar, e. melakukan deseminasi data dasar,f. menentukan fokus dan prioritas program dalam mewujudkan KLA, yang disesuaikan dengan potensi daerah,g. menyusun rencana aksi daerah Kota Layak Anak (lima) tahunan dan mekanisme kerja, danh. melakukan monitoring, evaluasi dan pelaporan paling sedikit (satu) tahun sekali.  
+3. Gugus Tugas KLA sebagaimana dimaksud pada ayat (1), mempunyai tugas (4 pokok:a. mengkoordinasikan pelaksanaan kebijakan dan pengembangan KLA,  
+b. melakukan sosialisasi, advokasi dan komunikasi informasi dan edukasi kebijakan KLA, Cc. mengumpulkan data dasar pengembangan KLA,d. melakukan analisis kebutuhan yang bersumber dari data dasar,  
+e. melakukan deseminasi data dasar,f. menentukan fokus dan prioritas program dalam mewujudkan KLA, yang disesuaikan dengan potensi daerah,g. menyusun rencana aksi daerah Kota Layak Anak (lima) tahunan dan mekanisme kerja, danh. melakukan monitoring, evaluasi dan pelaporan paling sedikit (satu) tahun sekali.  
 
 #### Pasal 63
 
@@ -618,7 +632,8 @@ b.memberikan informasi dan/atau melaporkan terjadinya pelanggaran hak perempuan 
 
 1. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak perempuan, masyarakata. mengawasi berbagai kondisi yang terjadi di lingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan,
 
-b.meningkatkan kepedulian terhadap pelanggaran hak perempuan, c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga, dan
+b.meningkatkan kepedulian terhadap pelanggaran hak perempuan,  
+c. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga, dan
 d. melakukan pengawasan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak yang diselenggarakan oleh Pemerintah Kota (261 dengan mekanisme penyampaian aspirasi kepada Walikota atau Dewan Perwakilan Rakyat Daerah. Dalam rangka pencegahan terjadinya pelanggaran terhadap hak Anak, (2) masyarakat
 
 a.mengawasi berbagai kondisi yang terjadi dilingkungannya yang menimbulkan pelanggaran terhadap hak Anak:  

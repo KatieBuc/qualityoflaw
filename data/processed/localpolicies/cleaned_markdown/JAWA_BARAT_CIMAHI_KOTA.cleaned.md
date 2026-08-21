@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak  mendapatkan rasa aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan, sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa kekerasan terhadap perempuan dan anak terus meningkat sehingga perlu dilakukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  

@@ -21,10 +21,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa guna menjamin hak-hak perempuan dan anak agar  dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak.  
 b. bahwa agar upaya-upaya pencegahan dan  penanggulangan kekerasan terhadap perempuan dan anak memperoleh hasil yang optimal, serta dilaksanakan secara cepat, terencana, terpadu, menyeluruh dan terorganisasi dengan melibatkan seluruh unsur terkait di daerah, maka perlu adanya pengaturan tentang pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak korban kekerasan.  c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanggulangan Kekerasan Terhadap Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  

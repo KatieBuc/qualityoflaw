@@ -206,7 +206,8 @@ Diundangkan di Jombang pada tanggal 18 Nopember 2008 Plt. SEKRETARIS DAERAH KABU
 
 ##### SUYANTO
 
-##### M. MUNIF KUSNAN, SH, M.SI
+##### M. MUNIF KUSNAN, SH,  
+M.SI
 
 Pembina Utama Muda
 
@@ -220,7 +221,8 @@ Salinan sesuai aslinya ERINDRA SEetaris Daerah it. Asisten Tata Praja
 
 ##### DAERAH
 
-Dre. MACHMUD, M.Si Pembina Utama Muda 010 088 477 D:\PERDA 2008\SALINAN 14 TH 08 Perlindungan Perempuan dan Anak.doc
+Dre. MACHMUD,  
+M.Si Pembina Utama Muda 010 088 477 D:\PERDA 2008\SALINAN 14 TH 08 Perlindungan Perempuan dan Anak.doc
 
 ##### PENJELASAN ATAS
 

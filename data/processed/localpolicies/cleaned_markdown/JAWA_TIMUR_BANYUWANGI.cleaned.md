@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan pada perempuan dan anak serta  perdagangan orang merupakan tindakan merendahkan martabat dan derajad kemanusiaan sehingga kepada mereka perlu diberikan pelayanan dan perlindungan yang memadai;  
 b. bahwa tingkat perdagangan orang, kekerasan terha dap perempuan dan anak masih tinggi maka kewajiban pemerintah daerah untuk mengatur dan melayani kepentingan masyarakat dalam hal ini perempuan dan anak korban kekerasan dan perdagangan orang;  
 c. bahwa agar penanganan perdagangan orang, kekeras an terhadap perempuan dan anak yang dilaksanakan berdaya guna dan berhasil guna, perlu pengaturan perlindungan terhadap perempuan dan anak korban kekerasan dan perdagangan orang;  
 d. bahwa berdasarkan pertimbangan sebagaimana di maksud pada huruf a, b dan c maka perlu membentuk peraturan daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang.  
 
 Mengingat:  
+ 
  
  
  
@@ -437,7 +439,8 @@ Diundangkan di Banyuwangi pada tanggal 19 Agustus 2011
 
 ##### KABUPATEN BANYUWANGI
 
-Drs. Ec. H. SUKANDI, M.M.  
+Drs. Ec. H. SUKANDI,  
+M.M.  
 
 Pembina Utama Madya
 

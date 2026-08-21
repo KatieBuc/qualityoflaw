@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  dan anak di Kabupaten Kutai Barat merupakan  pelanggaran hak asasi manusia sehingga perlu  dilindungi harga diri dan martabatnya serta dijamin  hak hidupnya sesuai dengan fitrah dan kodratnya  tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Kutai Barat terus meningkat, sehingga  diperlukan upaya perlindungan dalam bentuk  pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -498,7 +500,15 @@ Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.
 
 Agar setiap orang mengetahuinya, memerintahkan pengundangan  Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah  Kabupaten Kutai Barat.  
 
-Ditetapkan di Sendawar, Nama Jabatan Paraf H. Edyanto Arkan, S.E. Wakil Bupati Drs. Yacob Tullur, M.M Sekda Dr. Misran Effendi, S.STP., M.Si. Plt. Ass. I Dra. Yohana, M.Si. Kepala DP2KBP3A Yosef Stevanson, S.H. Kabag. Hukum Pidesia, S.E., M.Si. Kasubbag. Kumdang Diundangkan di Sendawar, pada tanggal, 7 Januari 2019 pada tanggal, 7 Januari 2019 BUPATI KUTAI BARAT,
+Ditetapkan di Sendawar, Nama Jabatan Paraf H. Edyanto Arkan,  
+S.E. Wakil Bupati Drs. Yacob Tullur,  
+M.M Sekda Dr. Misran Effendi,  
+S.STP.,  
+M.Si. Plt. Ass. I Dra. Yohana,  
+M.Si. Kepala DP2KBP3A Yosef Stevanson,  
+S.H. Kabag. Hukum Pidesia,  
+S.E.,  
+M.Si. Kasubbag. Kumdang Diundangkan di Sendawar, pada tanggal, 7 Januari 2019 pada tanggal, 7 Januari 2019 BUPATI KUTAI BARAT,
 
 ##### FX. YAPAN
 

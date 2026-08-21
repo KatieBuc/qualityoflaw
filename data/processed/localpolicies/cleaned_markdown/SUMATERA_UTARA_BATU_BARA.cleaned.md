@@ -25,6 +25,7 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. bahwa setiap warga negara berhak mendapatkan rasa aman dan bebas dari segala bentuk Kekerasan;  
 

@@ -15,12 +15,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa masalah sosial perempuan dan anak di Kabupaten  Wonosobo terus meningkat dan semakin kompleks,  sehingga diperlukan upaya penanggulangan secara  menyeluruh, terpadu dan berkelanjutan yang  diselenggarakan oleh Pemerintah Daerah, masyarakat dan  dunia usaha;  
 b. bahwa penyelenggaraan perlindungan sosial bagi  perempuan dan anak masih terdapat kesenjangan dalam  penanganannya sehingga perlu mendapat prioritas sesuai  dengan yang dibutuhkan;  
 c. bahwa urusan sosial merupakan urusan wajib yang  menjadi tugas dan tanggung jawab Pemerintah Daerah,  sehingga diperlukan pengaturan mengenai perlindungan  sosial bagi perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf c maka perlu membentuk  Peraturan Daerah Kabupaten Wonosobo tentang  Perlindungan Sosial Bagi Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  

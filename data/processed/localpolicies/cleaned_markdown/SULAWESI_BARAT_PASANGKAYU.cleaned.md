@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan ciptaan Tuhan  Yang Maha Esa yang menjadi unsur penting dari masyarakat dan Bangsa Indonesia;  
 b. bahwa dalam kehidupan masyarakat seringkali perempuan  dan anak mendapatkan kekerasan atau perlakuan yang kurang menyenangkan;  
 c. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  

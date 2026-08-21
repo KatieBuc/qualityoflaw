@@ -82,7 +82,8 @@ f. atas pelayanan bimbingan rohani; dan g. menentukan sendiri keputusannya.
 2. Kewajibandan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1)meliputi:  
 a. melaksanakan kewajiban Perlindungan Perempuan dan Anak berdasarkan peraturan perundang-undangan;  
 b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak;  
-c. melengkapi sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak; .,---", d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak; dan e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak.  
+c. melengkapi sarana dan prasarana pelaksanaan Perlindungan Perempuan dan Anak; .,---",  
+d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak; dan e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Pasal6 (1) Masyarakat berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak.  
 
