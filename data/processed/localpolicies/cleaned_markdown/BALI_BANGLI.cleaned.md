@@ -183,13 +183,13 @@ d. bantuan Hukum;
 e. pemulangan; dan
 f. reintegrasi sosial.  
 5. Dalam memberikan perlindungan terhadap Perempuan dan Anak korban kekerasan PPT berkewajiban:  
-a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;
-b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, Rehabilitasi sosial, Pemulangan, Reintegrasi sosial dan Bantuan Hukum;
-c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
+b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, Rehabilitasi sosial, Pemulangan, Reintegrasi sosial dan Bantuan Hukum;  
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan kerjasama dengan lembaga perlindungan saksi dan korban, rumah perlindungan sosial atau pusat trauma milik pemerintah,masyarakat, atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban;  
 e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
 f. menjaga kerahasiaan korban;  
-g. memberikan pemenuhan bantuan hukum bagi korban; dan
+g. memberikan pemenuhan bantuan hukum bagi korban; dan  
 h. dalam hal ini penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT tetap bertanggungjawab atas keseluruhan proses rujukan pelayanan yang diperlukan korban.  
 6. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan SPM.  
 
