@@ -260,11 +260,9 @@ Kewajiban Pemerintah Terhadap Perempuan
 
 ## KELEMBAGAAN DAN KOORDINASI
 
-1. Walikota
-
 #### Pasal 22
 
-melakukan pengendalian, pembinaan, pengawasan penyelenggaraan program Pemenuhan hak perempuan.  
+1. Walikota melakukan pengendalian, pembinaan, pengawasan penyelenggaraan program Pemenuhan hak perempuan.  
 
 2. pengendalian, pembinaan, dan pengawasan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh SKPK yang membidangi urusan perempuan.  
 
