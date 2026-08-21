@@ -222,11 +222,11 @@ h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.
 2. Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak digunakan sebagai bahan  masukan bagi penyusunan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak untuk tahun berikutnya.  
 3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai  dengan ketentuan peraturan perundang-undangan.  
 
-# BAB VIII
+# BAB VIII  
 
-## PELAPORAN
+## PELAPORAN  
 
-#### Pasal 13
+#### Pasal 13  
 
 1. Bupati bertanggung jawab untuk membuat laporan pelaksanaan  SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban  Kekerasan di Daerah kepada Gubernur dengan tembusan  disampaikan kepada Menteri Negara Pemberdayaan Perempuan  dan Perlindungan Anak dan Menteri Dalam Negeri.  
 2. Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1)  dilakukan setiap tahun.  
@@ -256,7 +256,8 @@ b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan pe
 
 #### Pasal 16
 
-1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
+1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
 b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
 c. melakukan pertolongan pertama kepada Korban; dan  
 d. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
@@ -282,41 +283,37 @@ Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini
 
 Ditetapkan di Mangupura pada tanggal 19 Nopember 2013
 
-##### BUPATI BADUNG,
+BUPATI BADUNG,
 
 ttd.  
 
-ANAK tGUNG GDE AGUNG Diundangkan di Mangupura pada tanggal 19 Nopember 2013
+ANAK tGUNG GDE AGUNG 
 
-##### SEKRETARIS DAERAH KABUPATEN BADUNG,
+Diundangkan di Mangupura pada tanggal 19 Nopember 2013
+
+SEKRETARIS DAERAH KABUPATEN BADUNG,
 
 ttd.  
 
-##### KOMPYANG R. SWANDIKA
+KOMPYANG R. SWANDIKA
 
-##### LEMBARAN DAERAH KABUPATEN BADUNG TAHUN 2013 NOMOR 15
+LEMBARAN DAERAH KABUPATEN BADUNG TAHUN 2013 NOMOR 15
 
-Salinan sesuai dengan aslinya Kepala Bagian Hukum dan HAM Setda.Kab.Badung, ttd.  
+Salinan sesuai dengan aslinya Kepala Bagian Hukum dan HAM Setda.Kab.Badung, 
+
+ttd.  
 
 Komang Budhi Argawa,SH.,M.Si.  
 
 Pembina
 
-##### NIP. 19710901 199803 1 009
+NIP. 19710901 199803 1 009
 
-##### PENJELASAN
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BADUNG
 
-##### ATAS
+NOMOR 15 TAHUN 2013 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-##### PERATURAN DAERAH KABUPATEN BADUNG
-
-##### NOMOR 15 TAHUN 2013
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
-
-##### I. UMUM
+#### I. UMUM  
 
 Negara memiliki kewajiban memberikan Perlindungan kepada setiap warga  negara sesuai dengan pembukaan UUD Negara Republik Indonesia Tahun 1945. Bahwa  Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami Kekerasan  sehingga perlu mendapatkan Perlindungan. Kekerasan terhadap Perempuan dan Anak  tersebut merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri  dan martabatnya serta dijamin hak hidupnya tanpa adanya diskriminasi.  
 
@@ -326,7 +323,7 @@ Dalam rangka mencegah dan menanggulangi Kekerasan terhadap Perempuan  dan Anak d
 
 Peraturan Daerah ini mengatur upaya Perlindungan bagi Perempuan dan Anak  Korban Kekerasan khususnya dalam hal pelayanan, pemantauan dan evaluasi,  pelaporan, pendanaan, pembinaan dan pengawasan terhadap Perempuan dan Anak  Korban Kekerasan di Kabupaten Badung.  
 
-##### II. PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -358,9 +355,11 @@ Cukup jelas.
 
 #### Pasal 8
 
-Ayat (1) Yang dimaksud dengan “lembaga masyarakat” adalah lembaga yang  dibentuk oleh anggota masyarakat Warga Negara Indonesia secara sukarela  atas dasar kesamaan visi, misi, profesi, fungsi dan kegiatan untuk berperan  serta dalam pembangunan dalam rangka mencapai tujuan nasional dalam  wadah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila,  yang terdiri dari organisasi keagamaan, lembaga swadaya masyarakat,  organisasi profesi, organisasi swasta, organisasi sosial, organisasi politik,  media massa, dan bentuk organisasi lainnya.  
+Ayat (1)  
+Yang dimaksud dengan “lembaga masyarakat” adalah lembaga yang  dibentuk oleh anggota masyarakat Warga Negara Indonesia secara sukarela  atas dasar kesamaan visi, misi, profesi, fungsi dan kegiatan untuk berperan  serta dalam pembangunan dalam rangka mencapai tujuan nasional dalam  wadah Negara Kesatuan Republik Indonesia yang berdasarkan Pancasila,  yang terdiri dari organisasi keagamaan, lembaga swadaya masyarakat,  organisasi profesi, organisasi swasta, organisasi sosial, organisasi politik, media massa, dan bentuk organisasi lainnya.  
 
-Ayat (2) Cukup jelas.  
+Ayat (2)  
+Cukup jelas.  
 
 #### Pasal 9
 
@@ -402,4 +401,4 @@ Pada saat PPT terbentuk, P2TP2A merupakan bagian dari PPT.
 
 Cukup jelas.  
 
-##### TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15.  
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15.  
