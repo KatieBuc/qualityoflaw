@@ -114,7 +114,7 @@ c. pemberdayaan Perempuan dan Anak Korban Kekerasan.
 
 # BAB III  
 
-## HAK –HAK KORBAN  
+## HAK–HAK KORBAN  
 
 #### Pasal 4
 
