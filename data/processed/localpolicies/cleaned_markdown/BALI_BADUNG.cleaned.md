@@ -157,13 +157,15 @@ d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan di Daerah, Bupati dapat membentuk PPT.  
 2. Pembentukan dan pengembangan PPT disesuaikan dengan  perkembangan prioritas kebutuhan, dan kemampuan keuangan  Daerah serta kemampuan kelembagaan dan personil yang ada di  Daerah.  
 3. PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi  lembaga/ unit kerja yang memberikan pelayanan bagi Korban Kekerasan seperti P2TP2A, Rumah Aman, Rumah Perlindungan Sosial Anak, Rumah Perlindungan Trauma Center, Rumah  Perlindungan Sosial Wanita, Rumah Singgah dan lain-lain kegiatan  pelayanan sesuai peraturan perundang-undangan yang berlaku.  
-4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:  a. pengaduan;  
+4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:
+a. pengaduan;  
 b. rehabilitasi Kesehatan;  
 c. rehabilitasi Sosial;  
 d. bantuan hukum;  
 e. pemulangan; dan  
 f. reintegrasi sosial.  
-5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
+5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
 b. menyelenggarakan Perlindungan dan pemenuhan hak korban  atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penterjemah dan relawan pendamping yang  diperlukan bagi Korban;  
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta  untuk perawatan dan pemulihan kesehatan Korban serta  melakukan kerjasama dengan lembaga Perlindungan saksi dan  Korban, rumah Perlindungan sosial atau pusat trauma milik  pemerintah, masyarakat, atau lembaga-lembaga lainnya untuk  pemulihan kesehatan Korban;  
@@ -176,13 +178,13 @@ h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, PP
 #### Pasal 8
 
 1. Lembaga Masyarakat dapat membentuk PPT.  
-2. Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1)  berpedoman pada ketentuan peraturan perundang-undangan yang  berlaku.  
+2. Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1) berpedoman pada ketentuan peraturan perundang-undangan yang berlaku.  
 
 # BAB VI
 
 ## STANDAR PELAYANAN MINIMAL
 
-#### Pasal 9
+#### Pasal 9  
 
 SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:  
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap  Perempuan dan Anak;  
@@ -207,14 +209,14 @@ h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.
 
 ## PEMANTAUAN DAN EVALUASI
 
-#### Pasal 11
+#### Pasal 11  
 
 1. Untuk menjamin sinergi, kesinambungan, dan efektivitas langkah langkah secara terpadu dalam pelaksanaan kebijakan, program,  dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan,  Pemerintah Daerah melakukan pemantauan.  
 2. Pemantauan sebagaimana dimaksud pada ayat (1) adalah untuk  mengetahui perkembangan dan hambatan dalam pelaksanaan  kebijakan, program, dan kegiatan Perlindungan Perempuan dan  Anak Korban Kekerasan di Daerah.  
 3. Pemantauan dilakukan secara berkala melalui koordinasi dan  pemantauan langsung terhadap Satuan Kerja Perangkat Daerah yang melaksanakan kebijakan, program, kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 4. Pemantauan dilakukan mulai dari perencanaan sampai dengan  pelaksanaan kebijakan, program, dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan untuk tahun berjalan.  
 
-#### Pasal 12
+#### Pasal 12  
 
 1. Evaluasi pelaksanaan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak dilakukan setiap berakhirnya  tahun anggaran atau jika diperlukan sesuai kebutuhan.  
 2. Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak digunakan sebagai bahan  masukan bagi penyusunan kebijakan, program, dan kegiatan  Perlindungan Perempuan dan Anak untuk tahun berikutnya.  
