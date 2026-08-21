@@ -216,13 +216,13 @@ e. pemulangan dan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.
 #### Pasal 11
 
 1. SPM sebagaimana dimaksud dalam Pasal 10 memiliki indikator kinerja meliputi:  
-a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan terpadu;
-b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di Rumah Sakit;
-c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;
+a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan terpadu;  
+b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di Rumah Sakit;  
+c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;  
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus kekerasan terhadap Perempuan dan Anak;  
 f. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan bantuan hukum;  
-g. cakupan layanan pemulangan bagi Perempuan dan Anak korban kekerasan; dan
+g. cakupan layanan pemulangan bagi Perempuan dan Anak korban kekerasan; dan  
 h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
 2. Penetapan indikator kinerja SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai oleh unit pelayanan terpadu secara bertahap.  
 
@@ -277,7 +277,7 @@ h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.
 2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pemberian petunjuk pelaksanaan;  
 b. bimbingan;  
-c. supervisi; dan
+c. supervisi; dan  
 d. monitoring dan evaluasi pelaksanaan pelayanan bagi Perempuan dan Anak korban kekerasan, aparatur maupun masyarakat.  
 
 #### Pasal 18
@@ -291,10 +291,10 @@ Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM Bidang Layanan Te
 #### Pasal 19
 
 1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban kekerasan, masyarakat dapat:  
-a. membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;  
+a. membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;    
 b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dan
+d. melakukan pertolongan pertama kepada korban; dan  
 e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, Desa Pakraman, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
@@ -305,7 +305,7 @@ e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi ke
 #### Pasal 20
 
 Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak Korban kekerasan, bersumber dari:  
-a. anggaran pendapatan dan belanja daerah; dan 
+a. anggaran pendapatan dan belanja daerah; dan  
 b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB XIII
