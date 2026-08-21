@@ -129,47 +129,40 @@ j. pendanaan.
 
 ## HAK KORBAN
 
-#### Pasal 5
+#### Pasal 5  
 
-Setiap Perempuan dan Anak Korban Kekerasan berhak: untuk dihomati harkat dan martabatnya sebagai manusia;  
+Setiap Perempuan dan Anak Korban Kekerasan berhak:  
 
-untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan/atau pihak lain baik sementara maupun berdasarkan penetapan perintah Perlindungan dari Pengadilan;  
-
-atas Pemulihan pelayanan kesehatan fisik, fisikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;  
-
-penanganan secara khusus berkaitan dengan kerahasiaan korban;  
-
-pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang-undangan;  
-
-pelayanan bimbingan rohani; dan menentukan sendiri keputusannya.  
+a. untuk dihomati harkat dan martabatnya sebagai manusia;  
+b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah dan/atau pihak lain baik sementara maupun berdasarkan penetapan perintah Perlindungan dari Pengadilan;  
+c. atas Pemulihan pelayanan kesehatan fisik, fisikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;  
+d. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
+e. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang-undangan;  
+f. pelayanan bimbingan rohani; dan 
+g. menentukan sendiri keputusannya.  
 
 # BAB IV
 
 ## KEWAJIBAN DAN TANGGUNG JAWAB
 
-#### Pasal 6
+#### Pasal 6  
 
-Pemerintah Daerah berwenang dan bertanggungjawab atas Perlindungan Perempuan dan Anak Korban Kekerasan.  
-
-Kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1) meliputi: melaksanakan kebijakan perlindungan Perempuan dan Anak korban kekerasan berdasarkan peraturan perundang-undangan;  
-
-menetapkan kebijakan, program dan kegiatan perlindungan Perempuan dan Anak korban kekerasan;  
-
-memberikan dukungan sarana dan prasarana pelaksanaan perlindungan Perempuan dan Anak korban kekerasan;  
-
-mengalokasikan anggaran dalam penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan;  
-
-membina dan mengawasi penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan.  
+1. Pemerintah Daerah berwenang dan bertanggungjawab atas Perlindungan Perempuan dan Anak Korban Kekerasan.  
+2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1) meliputi:  
+a. melaksanakan kebijakan perlindungan Perempuan dan Anak korban kekerasan berdasarkan peraturan perundang-undangan;  
+b. menetapkan kebijakan, program dan kegiatan perlindungan Perempuan dan Anak korban kekerasan;  
+c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan Perempuan dan Anak korban kekerasan;  
+d. mengalokasikan anggaran dalam penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan;  
+e. membina dan mengawasi penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan.  
 
 #### Pasal 7
 
-Masyarakat berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
-
-Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) diselenggarakan dalam bentuk: mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
-
-memberikan informasi dan/atau melaporkan tindak kekerasan terhadap Perempuan dan Anak kepada pihak yang berwenang;  
-
-memberikan pertolongan darurat; dan memberikan perlindungan terhadap korban kekerasan.  
+1. Masyarakat berkewajiban dan bertanggung jawab dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
+2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) diselenggarakan dalam bentuk:  
+a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap Perempuan dan Anak kepada pihak yang berwenang;  
+c. memberikan pertolongan darurat; dan
+d. memberikan perlindungan terhadap korban kekerasan.  
 
 # BAB V
 
@@ -177,77 +170,59 @@ memberikan pertolongan darurat; dan memberikan perlindungan terhadap korban keke
 
 #### Pasal 8
 
-Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak Korban Kekerasan di Daerah, Bupati dapat membentuk PPT.  
-
-Pembentukan dan pengembangan PPT disesuaikan dengan perkembagan prioritas kebutuhan, dan kemampuan keuangan Daerah serta kemampuan kelembagaan dan personil yang ada di daerah.  
-
-PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi lembaga/unit kerja yang memeberikan pelayanan bagi korban kekerasan seperti P2TP2A, rumah aman,rumah perlindungan sosial Anak, rumah perlindungan trauma center, rumah perlindungan sosial wanita, rumah singgah dan lain-lain kegiatan pelayanan sesuai peraturan perundang-undangan yang berlaku.  
-
-Bentuk pelayanan yang dilaksAnakan PPT meliputi: pengaduan;  
-
-rehabilitasi kesehatan;  
-
-rehabilitasi sosial;  
-
-bantuan Hukum;  
-
-pemulangan; dan reintegrasi sosial.  
-
-Dalam memberikan perlindungan terhadap Perempuan dan Anak korban kekerasan PPT berkewajiban: memberikan layanan secepat mungkin dan tanpa biaya kepada korban;  
-
-menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, Rehabilitasi sosial, Pemulangan, Reintegrasi sosial dan Bantuan Hukum;  
-
-melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;  
-
-melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan kerjasama dengan lembaga perlindungan saksi dan korban, rumah perlindungan sosial atau pusat trauma milik pemerintah,masyarakat, atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban;  
-
-memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
-
-menjaga kerahasiaan korban;  
-
-memberikan pemenuhan bantuan hukum bagi korban; dan dalam hal ini penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT tetap bertanggungjawab atas keseluruhan proses rujukan pelayanan yang diperlukan korban.  
-
-Pemberian layanan terpadu sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan SPM.  
+1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak Korban Kekerasan di Daerah, Bupati dapat membentuk PPT.
+2. Pembentukan dan pengembangan PPT disesuaikan dengan perkembagan prioritas kebutuhan, dan kemampuan keuangan Daerah serta kemampuan kelembagaan dan personil yang ada di daerah.
+3. PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi lembaga/unit kerja yang memeberikan pelayanan bagi korban kekerasan seperti P2TP2A, rumah aman,rumah perlindungan sosial Anak, rumah perlindungan trauma center, rumah perlindungan sosial wanita, rumah singgah dan lain-lain kegiatan pelayanan sesuai peraturan perundang-undangan yang berlaku.
+4. Bentuk pelayanan yang dilaksAnakan PPT meliputi:  
+a. pengaduan;  
+b. rehabilitasi kesehatan;  
+c. rehabilitasi sosial;  
+d. bantuan Hukum;  
+e. pemulangan; dan
+f. reintegrasi sosial.  
+5. Dalam memberikan perlindungan terhadap Perempuan dan Anak korban kekerasan PPT berkewajiban:
+a. memberikan layanan secepat mungkin dan tanpa biaya kepada korban;
+b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kesehatan, Rehabilitasi sosial, Pemulangan, Reintegrasi sosial dan Bantuan Hukum;
+c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penterjemah dan relawan pendamping yang diperlukan bagi korban;
+d. melakukan jejaring dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan kerjasama dengan lembaga perlindungan saksi dan korban, rumah perlindungan sosial atau pusat trauma milik pemerintah,masyarakat, atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban;  
+e. memberikan kemudahan, kenyamanan, dan keselamatan bagi korban;  
+f. menjaga kerahasiaan korban;  
+g. memberikan pemenuhan bantuan hukum bagi korban; dan
+h. dalam hal ini penyelenggaraan pelayanan terpadu dilakukan secara berjejaring, PPT tetap bertanggungjawab atas keseluruhan proses rujukan pelayanan yang diperlukan korban.  
+6. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai dengan SPM.  
 
 #### Pasal 9
 
-Lembaga masyarakat dapat membentuk PPT.  
-
-Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1) berpedoman pada ketentuan peraturan perundang-undangan yang berlaku.  
-
-Ketentuan mengenai susunan keanggotaan, tugas dan tanggung jawab PPT sebagaimana dimaksud pada ayat (1) diatur dalam Keputusan Bupati.  
+1. Lembaga masyarakat dapat membentuk PPT.
+2. Dalam pembentukan PPT sebagaimana dimaksud pada ayat (1) berpedoman pada ketentuan peraturan perundang-undangan yang berlaku.
+3. Ketentuan mengenai susunan keanggotaan, tugas dan tanggung jawab PPT sebagaimana dimaksud pada ayat (1) diatur dalam Keputusan Bupati.  
 
 # BAB VI
 
 ## STANDAR PELAYANAN MINIMAL
 
-#### Pasal 10
+#### Pasal 10  
 
-SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan bertujuan menjamin Perempuan dan Anak korban kekerasan mendapatkan layanan minimal yang dibutuhkan.  
-
-SPM Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan: penanganan pengaduan/laporan korban kekerasan terhadap Perempuan dan Anak;  
-
-pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan;  
-
-rehabilitasi sosial bagi Perempuan dan Anak korban kekerasan;  
-
-penegakan dan bantuan hukum bagi Perempuan dan Anak korban kekerasan; dan pemulangan dan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
+1. SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan bertujuan menjamin Perempuan dan Anak korban kekerasan mendapatkan layanan minimal yang dibutuhkan.
+2. SPM Bidang Layanan Terpadu Bagi Perempuan dan Anak Korban Kekerasan, meliputi layanan:  
+a. penanganan pengaduan/laporan korban kekerasan terhadap Perempuan dan Anak;  
+b. pelayanan kesehatan bagi Perempuan dan Anak korban kekerasan;  
+c. rehabilitasi sosial bagi Perempuan dan Anak korban kekerasan;  
+d.penegakan dan bantuan hukum bagi Perempuan dan Anak korban kekerasan; dan
+e. pemulangan dan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
 
 #### Pasal 11
 
-SPM sebagaimana dimaksud dalam Pasal 10 memiliki indikator kinerja meliputi: cakupan Perempuan dan Anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan terpadu;  
-
-cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di Rumah Sakit: cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;  
-
-cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;  
-
-cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus kekerasan terhadap Perempuan dan Anak;  
-
-cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan bantuan hukum;  
-
-cakupan layanan pemulangan bagi Perempuan dan Anak korban kekerasan; dan cakupan layanan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
-
-Penetapan indikator kinerja SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai oleh unit pelayanan terpadu secara bertahap.  
+1. SPM sebagaimana dimaksud dalam Pasal 10 memiliki indikator kinerja meliputi:  
+a. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit pelayanan terpadu;
+b. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan terlatih di Puskesmas dan di Rumah Sakit;
+c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;
+d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak korban kekerasan di dalam unit pelayanan terpadu;  
+e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus kekerasan terhadap Perempuan dan Anak;  
+f. cakupan Perempuan dan Anak korban kekerasan yang mendapatkan layanan bantuan hukum;  
+g. cakupan layanan pemulangan bagi Perempuan dan Anak korban kekerasan; dan
+h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak korban kekerasan.  
+2. Penetapan indikator kinerja SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan sebagaimana dimaksud pada ayat (1) merupakan target minimal yang harus dicapai oleh unit pelayanan terpadu secara bertahap.  
 
 # BAB VII
 
@@ -255,13 +230,10 @@ Penetapan indikator kinerja SPM Bidang Layanan Terpadu bagi Perempuan dan Anak K
 
 #### Pasal 12
 
-Pemerintah Daerah wajib membentuk Rumah Perlindungan Sosial dan/atau Rumah Aman.  
-
-Rumah Perlindungan Sosial dan/atau Rumah Aman sebagaimana dimaksud pada ayat (1) menjamin dalam pelaksanaan pelayanan rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, dan reintegrasi sosial.  
-
-Dalam hal korban mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah wajib memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
-
-Untuk penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat mendayagunakan rumah perlindungan sosial dan/atau Rumah Aman milik masyarakat atau lembaga-lembaga pelayanan sosial lainnya.  
+1. Pemerintah Daerah wajib membentuk Rumah Perlindungan Sosial dan/atau Rumah Aman.
+2. Rumah Perlindungan Sosial dan/atau Rumah Aman sebagaimana dimaksud pada ayat (1) menjamin dalam pelaksanaan pelayanan rehabilitasi kesehatan, rehabilitasi sosial, pemulangan, dan reintegrasi sosial.
+3. Dalam hal korban mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah wajib memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.
+4. Untuk penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah Daerah dapat mendayagunakan rumah perlindungan sosial dan/atau Rumah Aman milik masyarakat atau lembaga-lembaga pelayanan sosial lainnya.  
 
 # BAB VIII
 
@@ -269,23 +241,19 @@ Untuk penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2), Pemerintah D
 
 #### Pasal 13
 
-Pemerintah Daerah melakukan pemantauan untuk menjamin sinergi, kesinambungan, dan efektivitas langkah-langkah secara terpadu dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan.  
-
-Pemantauan sebagaimana dimaksud pada ayat (1) adalah untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan di Daerah.  
+1. Pemerintah Daerah melakukan pemantauan untuk menjamin sinergi, kesinambungan, dan efektivitas langkah-langkah secara terpadu dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan.
+2. Pemantauan sebagaimana dimaksud pada ayat (1) adalah untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan di Daerah.  
 
 #### Pasal 14
 
-Pemantauan dilakukan melalui koordinasi dan pemantauan langsung terhadap Perangkat Daerah terkait secara berkala.  
-
-Pemantauan dilakukan mulai dari perencanaan sampai dengan pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan untuk tahun berjalan.  
+1. Pemantauan dilakukan melalui koordinasi dan pemantauan langsung terhadap Perangkat Daerah terkait secara berkala.  
+2. Pemantauan dilakukan mulai dari perencanaan sampai dengan pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak korban kekerasan untuk tahun berjalan.  
 
 #### Pasal 15
 
-Evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak dilakukan setiap berakhirnya tahun anggaran atau jika diperlukan sesuai kebutuhan.  
-
-Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak digunakan sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak untuk tahun berikutnya.  
-
-Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
+1. Evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak dilakukan setiap berakhirnya tahun anggaran atau jika diperlukan sesuai kebutuhan.
+2. Hasil evaluasi pelaksanaan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak digunakan sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan perlindungan Perempuan dan Anak untuk tahun berikutnya.
+3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB IX
 
@@ -293,11 +261,9 @@ Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan
 
 #### Pasal 16
 
-Bupati bertanggung jawab untuk membuat laporan pelaksanaan SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan disampaikan kepada Gubernur dengan tembusan disampaikan kepada Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak dan Menteri Dalam Negeri.  
-
-Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1) dilakukan setiap tahun.  
-
-Bentuk pelaporan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
+1. Bupati bertanggung jawab untuk membuat laporan pelaksanaan SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan dan disampaikan kepada Gubernur dengan tembusan disampaikan kepada Menteri Negara Pemberdayaan Perempuan dan Perlindungan Anak dan Menteri Dalam Negeri.
+2. Pelaporan pelaksanaan sebagaimana dimaksud pada ayat (1) dilakukan setiap tahun.
+3. Bentuk pelaporan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB X
 
@@ -305,13 +271,12 @@ Bentuk pelaporan sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan k
 
 #### Pasal 17
 
-Bupati melakukan pembinaan terhadap pengembangan PPT.  
-
-Pembinaan sebagaimana dimaksud pada ayat (1) meliputi: pemberian petunjuk pelaksanaan;  
-
-bimbingan;  
-
-supervisi; dan monitoring dan evaluasi pelaksanaan pelayanan bagi Perempuan dan Anak korban kekerasan, aparatur maupun masyarakat.  
+1. Bupati melakukan pembinaan terhadap pengembangan PPT.
+2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
+a. pemberian petunjuk pelaksanaan;  
+b. bimbingan;  
+c. supervisi; dan
+d. monitoring dan evaluasi pelaksanaan pelayanan bagi Perempuan dan Anak korban kekerasan, aparatur maupun masyarakat.  
 
 #### Pasal 18
 
@@ -323,15 +288,13 @@ Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM Bidang Layanan Te
 
 #### Pasal 19
 
-Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban kekerasan, masyarakat dapat: membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;  
-
-membentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
-
-melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
-
-melakukan pertolongan pertama kepada korban; dan melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
-
-Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, Desa Pakraman, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
+1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;  
+b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
+c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
+d. melakukan pertolongan pertama kepada korban; dan
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
+2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, Desa Pakraman, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB XII
 
@@ -339,7 +302,9 @@ Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh peroran
 
 #### Pasal 20
 
-Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak Korban kekerasan, bersumber dari: anggaran pendapatan dan belanja daerah; dan sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
+Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak Korban kekerasan, bersumber dari:  
+a. anggaran pendapatan dan belanja daerah; dan 
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB XIII
 
@@ -357,39 +322,29 @@ Dalam hal PPT sebagimana dimaksud dalam Pasal 8 ayat (1) belum terbentuk, P2TP2A
 
 Peraturan Daerah ini mulai berlaku pada tanggal diundangkan.  
 
-Agar setiap orang mengetahuinya,  memerintahkan  pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Bangli.  
+Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Daerah ini dengan penempatannya dalam Lembaran Daerah Kabupaten Bangli.  
 
 Ditetapkan di Bangli pada tanggal 30 Desember 2016
 
-##### BUPATI BANGLI,
+BUPATI BANGLI,  
 
-##### I MADE GIANYAR
+I MADE GIANYAR
 
 Diundangkan di Bangli pada tanggal 30 Desember 2016
 
-##### SEKRETARIS DAERAH KABUPATEN BANGLI.  
+SEKRETARIS DAERAH KABUPATEN BANGLI.  
 
-##### IDA BAGUS GDE GIRI PUTRA
+IDA BAGUS GDE GIRI PUTRA
 
-##### LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 18
+LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 18
 
-##### NOREG PERATURAN DAERAH KABUPATEN BANGLI, PROVINSI BALI:
+NOREG PERATURAN DAERAH KABUPATEN BANGLI, PROVINSI BALI: (18, 141/2016)
 
-(18, 141/2016)
+# PENJELASAN ATAS PERATURAN DAERAH KABUPATEN BANGLI
 
-##### PENJELASAN
+NOMOR 18 TAHUN 2016 TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 
-##### ATAS
-
-##### PERATURAN DAERAH KABUPATEN BANGLI
-
-##### NOMOR 18 TAHUN 2016
-
-##### TENTANG
-
-##### PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
-
-##### UMUM
+##### I. UMUM
 
 Kekerasan terhadap Perempuan dan Anak merupakan salah satu bentuk perbuatan yang melanggar hak asasi manusia. Sebagaimana diketahui bahwa hak asasi Perempuan dan Anak telah dijamin dan diatur dalam Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dan Undang-Undang tentang Hak Asasi Manusia. Oleh karena itu perlindungan hak Perempuan dan Anak dari kekerasan seharusnya dihormati, ditegakkan dan ditingkatkan martabat kemanusiaan tanpa diskriminasi, kesejahteraan dan keadilan terhadap Perempuan dan Anak.  
 
@@ -399,7 +354,7 @@ Dalam rangka mencegah dan menanggulangi kekerasan terhadap Perempuan dan Anak di
 
 Peraturan Daerah ini mengatur upaya perlindungan bagi Perempuan dan Anak korban kekerasan khususnya dalam hal pelayanan, pemantauan dan evaluasi, pelaporan, pendanaan, pembinaan dan pengawasan terhadap Perempuan dan Anak korban kekerasan di Kabupaten Bangli.  
 
-#### PASAL DEMI PASAL
+#### II. PASAL DEMI PASAL
 
 #### Pasal 1
 
@@ -423,11 +378,19 @@ Cukup jelas
 
 #### Pasal 6
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 7
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 8
 
@@ -435,43 +398,104 @@ Ayat (1) Yang dimaksud dengan sarana dan prasarana pendukung yang memadai adalah
 
 Ayat (2) Yang dimaksud dengan petugas pelaksana atau petugas fungsional meliputi tenaga kesehatan, psikolog, psikiater, pekerja sosial yang disediakan oleh instansi atau lembaga terkait.  
 
-Ayat (3) Cukup jelas Ayat (4) Cukup jelas Ayat (5) Cukup jelas Ayat (6) Cukup jelas
+Ayat (3) 
+Cukup jelas 
+
+Ayat (4) 
+Cukup jelas 
+
+Ayat (5) 
+Cukup jelas 
+
+Ayat (6) 
+Cukup jelas
 
 #### Pasal 9
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas 
+
+Ayat (3) 
+Cukup jelas
 
 #### Pasal 10
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 11
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 12
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas Ayat (4) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas 
+
+Ayat (3) 
+Cukup jelas 
+
+Ayat (4) 
+Cukup jelas
 
 #### Pasal 13
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 14
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 15
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas 
+
+Ayat (3) 
+Cukup jelas
 
 #### Pasal 16
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas Ayat (3) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas 
+
+Ayat (3) 
+Cukup jelas
 
 #### Pasal 17
 
-Ayat (1) Cukup jelas Ayat(2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 18
 
@@ -479,7 +503,11 @@ Cukup jelas
 
 #### Pasal 19
 
-Ayat (1) Cukup jelas Ayat (2) Cukup jelas
+Ayat (1) 
+Cukup jelas 
+
+Ayat (2) 
+Cukup jelas
 
 #### Pasal 20
 
@@ -491,4 +519,6 @@ Cukup jelas
 
 #### Pasal 22
 
-Cukup jelas TAMBAHAN LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 15
+Cukup jelas 
+
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BANGLI TAHUN 2016 NOMOR 15
