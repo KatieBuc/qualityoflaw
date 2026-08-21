@@ -303,7 +303,7 @@ f. menjaga kerahasiaan saksi dan/atau korban;
 g. memberikan pemenuhan bantuan hukum bagi saksi dan/atau  korban; dan  
 h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, bertanggung jawab atas keseluruhan proses rujukan  pelayanan yang diperlukan korban.  
 4. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai tugas:  
-a. memberikan layanan terpadu kepada korban kekerasan; dan
+a. memberikan layanan terpadu kepada korban kekerasan; dan  
 b. memberikan perlindungan terhadap korban tindak kekerasan, pelapor dan saksi.  
 5. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (4) huruf a  dilaksanakan sesuai dengan Standar Operasional Prosedur yang  ditetapkan Pemerintah Daerah.  
 6. Pengangkatan pengurus P2TP2A sebagaimana dimaksud pada ayat (1)  ditetapkan dengan Keputusan Bupati.  
