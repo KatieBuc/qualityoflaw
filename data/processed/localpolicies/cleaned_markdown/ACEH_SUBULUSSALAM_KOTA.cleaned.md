@@ -23,6 +23,8 @@ a. bahwa perempuan memiliki peran strategis dalam pembangunan sehingga peningkat
 b. bahwa berdasarkan mandat Qanun Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan Pasal 4 dan 5 yang mengatur tentang ruang lingkup pemberdayaan dan perlindungan perempuan yang menjadi kewenangan Pemerintah Kabupaten Kota;  
 c. bahwa dalam kenyataannya, kualitas hidup perempuan masih rendah dan rentan mendapatkan ancaman kekerasan, penganiayaan, penyiksaan, kekerasan dalam rumah tangga, perdagangan perempuan, eksploitasi dan diskriminasi terhadap perempuan perlu segera dihentikan dengan memberikan perlindungan sesuai dengan harkat dan martabat kemanusiaan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, perlu membentuk Qanun Kota Subulussalam tentang Pemberdayaan Perempuan;  
+
+Mengingat: 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 2. Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah dengan Undang-Undang Nomor 35 Tahun 2014 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2014 Nomor 297, Tambahan Lembaran Negara Republik Indonesia Nomor 5606);  
 3. Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh (Lembaran Negara Republik Indonesia Tahun 2006 Nomor 62, Tambahan Lembaran Negara Republik Indonesia Nomor 4633);  
@@ -30,21 +32,21 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, h
 
 Dengan Persetujuan Bersama
 
-# DEWAN PERWAKILAN RAKYAT KOTA SUBULUSSALAM
+DEWAN PERWAKILAN RAKYAT KOTA SUBULUSSALAM
 
-# WALIKOTA SUBULUSSALAM
+WALIKOTA SUBULUSSALAM
 
-# MEMUTUSKAN:
+MEMUTUSKAN:
 
 Menetapkan: QANUN
 
-# KOTA
+KOTA
 
-# SUBULUSSALAM
+SUBULUSSALAM
 
-# TENTANG
+TENTANG
 
-# PEMBERDAYAAN PEREMPUAN.  
+PEMBERDAYAAN PEREMPUAN.  
 
 # BAB I
 
