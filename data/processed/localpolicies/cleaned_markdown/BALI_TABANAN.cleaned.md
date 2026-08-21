@@ -206,7 +206,7 @@ f. dalam hal korban mengalami trauma atau penyakit yang  membahayakan dirinya ak
 
 #### Pasal 11
 
-1. SPM sebagaimana dimaksud dalam Pasal 10 memiliki indikator kinerja meliputi: 
+1. SPM sebagaimana dimaksud dalam Pasal 10 memiliki indikator kinerja meliputi:  
 a. cakupan perempuan dan anak korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih  di dalam unit pelayanan terpadu;  
 b. cakupan perempuan dan anak korban kekerasan yang mendapatkan layanan kesehatan oleh tenaga kesehatan  terlatih di Puskesmas dan di Rumah Sakit:  
 c. cakupan layanan rehabilitasi sosial yang diberikan oleh petugas rehabilitasi sosial terlatih bagi perempuan dan  anak korban kekerasan di dalam unit pelayanan terpadu:  
@@ -279,8 +279,8 @@ Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM Bidang Layanan Te
 
 #### Pasal 19
 
-1. Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban kekerasan, masyarakat dapat: 
-a. membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;  
+1. Dalam menyelenggarakan perlindungan terhadap perempuan dan anak korban kekerasan, masyarakat dapat:  
+a. membentuk mitra keluarga di tingkat kelurahan/desa berkoordinasi dengan Desa Pakraman;    
 b. membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
 d. melakukan pertolongan pertama kepada korban; dan  
