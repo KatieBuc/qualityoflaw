@@ -125,7 +125,11 @@ a. Perlindunganb. Pemberdayaan
 #### Pasal 8
 
 Hak perempuan sebagaimana yang dimaksud dalam pasal 7 ayat (1) meliputi:
-a. Perempuan memperoleh hak dan kewajiban yang sama atas kehidupan dalam perkawinan dan keluarga, baik sebagai orang tua terhadap anaknya, maupun pasangan suami-istri dan tidak boleh ada pemaksaan dalam perkawinan.  b. Perempuan memperoleh hak atas pendidikan dan pengajaran pada semua jenis, jenjang, dan jalur pendidikan, tanpa hambatan dan tekanan apapun dalam rangka meningkatkan keterampilan dan kualitas hidupnya. c. Perempuan memperoleh hak atas pekerjaan dan jabatan pada semua kelembagaan baik lembaga pemerintahan maupun non pemerintahan dan pada semua tingkatan demi peningkatan pendapatan dan kesejahteraan keluarga. d. Perempuan memperoleh hak atas perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya baik ranah publik maupun domestik terhadap hal-hal yang mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi.  e. Perempuan mendapatkan akses informasi dan pelayanan kesehatan yang optimal dan berkualitas.  
+a. Perempuan memperoleh hak dan kewajiban yang sama atas kehidupan dalam perkawinan dan keluarga, baik sebagai orang tua terhadap anaknya, maupun pasangan suami-istri dan tidak boleh ada pemaksaan dalam perkawinan.  
+b. Perempuan memperoleh hak atas pendidikan dan pengajaran pada semua jenis, jenjang, dan jalur pendidikan, tanpa hambatan dan tekanan apapun dalam rangka meningkatkan keterampilan dan kualitas hidupnya.  
+c. Perempuan memperoleh hak atas pekerjaan dan jabatan pada semua kelembagaan baik lembaga pemerintahan maupun non pemerintahan dan pada semua tingkatan demi peningkatan pendapatan dan kesejahteraan keluarga.  
+d. Perempuan memperoleh hak atas perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya baik ranah publik maupun domestik terhadap hal-hal yang mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi.  
+e. Perempuan mendapatkan akses informasi dan pelayanan kesehatan yang optimal dan berkualitas.  
 
 #### Pasal 9
 
