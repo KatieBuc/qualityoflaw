@@ -68,6 +68,7 @@ PERATURAN DAERAH TENTANG PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 #### Pasal 1
 
 Dalam Peraturan Daerah ini yang dimaksud dengan: 
+
 1. Daerah adalah Kabupaten Bangli.
 2. Pemerintah Daerah adalah Pemerintah Kabupaten Bangli.
 3. Bupati adalah Bupati Bangli.
@@ -96,6 +97,7 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksAnakan berdasarkan asas:  
+
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
@@ -105,6 +107,7 @@ e. kepastian hukum.
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
+
 a. mencegah segala bentuk kekerasan terhadap Perempuan dan Anak;  
 b. melindungi Perempuan dan Anak serta memberikan pelayanaan kepada Perempuan dan Anak Korban Kekerasan; dan 
 c. pemberdayaan Anak Korban Kekerasan.  
