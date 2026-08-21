@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka perlindungan hak-hak perempuan dananak sebagaimana amanat UUD Negara Republik Indonesia Tahun 1945, peningkatan kualitas hidup perempuan dan anak serta menanggulangi segala bentuk tindak kekerasan terhadap perempuan dan anak, perlu adanya kepedulian dari semua pihak baik masyarakat maupun lembaga lembaga pemerintah yang terkait dan aparat penegak hukum;  
 b. bahwa adanya kecenderungan peningkatan korban dan kasus-kasus kekerasan terhadap perempuan dan anak, yang belum tertangani secara maksimal sehingga diperlukan suatu pelayanan terpadu oleh instansi terkait dan lembaga/organisasi kemasyarakatan untuk memberikan perlindungan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam upaya memfasilitasi perempuan dan anak meningkatkan kemampuan keterampilan dan kemandirian serta mendapatkan pelayanan konsultasi dan pemecahan masalah yang dialami perempuan dan anak perlu wadah pusat pelayanan terpadu pemberdayaan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -149,7 +151,8 @@ c. melindungi dan memberikan rasa aman bagi perempuan dan anak;
 d. memberikan pelayanan kepada perempuan dan anak, pelapor, dansaksi;  
 
 Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak
-e. memberdayakan perempuan untuk pemenuhan hak-hak perempuandan anak; danf. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tanggauntuk mewujudkan keutuhan rumah tangga yang harmonis dansejahtera.  
+e. memberdayakan perempuan untuk pemenuhan hak-hak perempuandan anak; dan  
+f. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tanggauntuk mewujudkan keutuhan rumah tangga yang harmonis dansejahtera.  
 2. Tujuan penyelenggaraan perlindungan perempuan dan anak sebagaimanadimaksud pada ayat (1), meliputi aspek:a. pencegahan;  
 b. pelayanan dan pendampingan;  
 c. reunifikasi;  
@@ -175,7 +178,8 @@ Anak selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 4, jugamendapat
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsunganhidup, tumbuh, berkembang dan berpartisipasi;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB IV
 
@@ -186,7 +190,8 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 Kewajiban dan tanggung jawab dalam penyelenggaraan perlindunganperempuan dan anak merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
-c. keluarga; dand. orang tua.  
+c. keluarga; dan  
+d. orang tua.  
 
 #### Pasal 7
 
@@ -204,7 +209,8 @@ f. membina dan mengawasi penyelenggaraan perlindungan terhadapperempuan dan anak
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalamPasal 6 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadapperempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam memberikan bantuan dan/atau penanganan terhadapkorban tindak kekerasan.  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadapperempuan dan anak kepada penegak hukum atau pihak yang berwenang; dan  
+c. turut serta dalam memberikan bantuan dan/atau penanganan terhadapkorban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan peraturanperundang-undangan.  
 
 #### Pasal 9
@@ -221,9 +227,11 @@ Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak
 
 1. Pemerintah Daerah bertugas melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dan anak, dalam bentuk:a. mengumpulkan data dan informasi tentang perempuan dan anakkorban tindak kekerasan, dan peraturan perundang-undangan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitandengan penyelenggaraan perlindungan terhadap perempuan dan anak;  
-c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadapperempuan dan anak; dand. melakukan pemantauan dan evaluasi terhadap penyelenggaraanperlindungan terhadap perempuan dan anak.  
+c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadapperempuan dan anak; dan  
+d. melakukan pemantauan dan evaluasi terhadap penyelenggaraanperlindungan terhadap perempuan dan anak.  
 2. Pemerintah Daerah dalam mengantisipasi terjadinya tindak kekerasanterhadap perempuan dan anak, berwenang menyediakan danmenyelenggarakan layanan bagi korban dalam bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untukkorban tindak kekerasan dengan melibatkan lembaga dan unsur masyarakat;  
-b. mendorong kepedulian masyarakat akan pentingnya perlindunganterhadap korban; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindakkekerasan.  
+b. mendorong kepedulian masyarakat akan pentingnya perlindunganterhadap korban; dan  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindakkekerasan.  
 
 # BAB VI
 
@@ -250,7 +258,8 @@ Bentuk dan Mekanisme Pelayanan
 #### Pasal 12
 
 Bentuk pencegahan terjadinya tindak kekerasan terhadap perempuan dan anakyang dilakukan oleh P2TP2A dan PIK Keluarga, dapat dilaksanakan melalui:  
-a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; danb. pelatihan anggota P2TP2A dan PIK Keluarga terkait tentang pelaksanaantugasnya dalam melakukan pencegahan tindak kekerasan terhadapperempuan dan anak.  
+a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; dan  
+b. pelatihan anggota P2TP2A dan PIK Keluarga terkait tentang pelaksanaantugasnya dalam melakukan pencegahan tindak kekerasan terhadapperempuan dan anak.  
 
 #### Pasal 13
 
@@ -287,7 +296,8 @@ d. membangun partisipasi dan kepedulian masyarakat untukmelaksanakan pencegahan 
 e. membangun dan menyediakan sistem informasi yang lengkap danmudah diakses;  
 f. melakukan pembatasan jam malam bagi anak ( dibawah 18 tahun) keluar rumah pada malam hari tidak lebih dari jam 11.00 malam, bila lebih dari waktu tersebut harus didampingi orang tua atau keluarga;  
 g. pembatasan anak mengakses internet di warung internet (warnet) padawaktu jam sekolah;  
-h. membangun jejaring dan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dananak; dani. membuka pos pengaduan untuk perlindungan terhadap perempuan dananak dari tindak kekerasan.  
+h. membangun jejaring dan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dananak; dan  
+i. membuka pos pengaduan untuk perlindungan terhadap perempuan dananak dari tindak kekerasan.  
 
 #### Pasal 17
 
@@ -296,7 +306,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketenteraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh SKPD sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan berdasarkanRencana Aksi Daerah.  
 
 ## Bagian Keempat
@@ -317,7 +328,8 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukandengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
-c. mudah dijangkau; dand. tidak dipungut biaya.  
+c. mudah dijangkau; dan  
+d. tidak dipungut biaya.  
 
 ## Bagian Keenam
 
@@ -330,7 +342,8 @@ b. pelayanan kesehatan;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
-f. pelayanan identifikasi; dang. pelayanan psikologis.  
+f. pelayanan identifikasi; dan  
+g. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakansesuai standar pelayanan minimal yang ditetapkan Pemerintah dandilaksanakan oleh SKPD yang tugas dan fungsinya di bidang: Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anaka. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak; dan d. mental dan spiritual.  
@@ -378,11 +391,13 @@ Kerjasama
 1. Dalam rangka mencapai tujuan penyelenggaraan perlindungan terhadapperempuan dan anak dari tindak kekerasan sebagaimana dimaksud dalamPasal 3, Pemerintah Daerah bekerjasama dengan:a. pemerintah;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/ kota lain;  
-d. perguruan tinggi; dane. lembaga non pemerintah.  
+d. perguruan tinggi; dan  
+e. lembaga non pemerintah.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi:  
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai denganhukum yang berlaku.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai denganhukum yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkandalam bentuk kesepakatan bersama.  
 
 ## Bagian Kedua
@@ -396,7 +411,8 @@ Kemitraan
 Perda Kab. HSU Tahun 2016 Nomor 3 ttg Perlindungan Perempuan dan Anak (2) Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korbantindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasanyang terputus dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuankorban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasanyang terputus dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuankorban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkandalam bentuk perjanjian.  
 
 # BAB VIII
@@ -410,7 +426,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasanyang terput
 a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan denganprinsip:a. profesional;  
 
 b.transparan; dan
@@ -455,7 +472,8 @@ Dana untuk penyelenggaraan perlindungan terhadap perempuan dan anak, bersumber d
 a. anggaran pendapatan dan belanja negara;  
 b. anggaran pendapatan dan belanja daerah provinsi;  
 c. anggaran pendapatan dan belanja daerah kabupaten;  
-d. anggaran pendapatan dan belanja desa; dane. sumber lain yang sah sesuai dengan ketentuan Peraturan Perundang- undangan.  
+d. anggaran pendapatan dan belanja desa; dan  
+e. sumber lain yang sah sesuai dengan ketentuan Peraturan Perundang- undangan.  
 
 #### Pasal 32
 

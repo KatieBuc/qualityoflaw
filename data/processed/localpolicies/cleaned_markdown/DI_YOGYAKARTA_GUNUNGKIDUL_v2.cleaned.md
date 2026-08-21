@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa penyelenggaraan  perlindungan perempuan dan anak korban kekerasan telah ditetapkan dengan Peraturan Daerah Kabupaten Gunungkidul Nomor 25 Tahun 2012;  
 b. bahwa sesuai dengan perkembangan sosial dan dalam rangka optimalisasi terhadap perlindungan perempuan dan anak korban kekerasan, maka Peraturan Daerah Nomor 25 Tahun 2012 perlu diubah dan disesuaikan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pelindungan terhadap Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -94,7 +96,8 @@ Pelindungan perempuan dan anak bertujuan untuk:  a. menjamin terpenuhinya hak-ha
 b. memberikan pelindungan dan memberikan rasa  aman kepada perempuan dan anak dari segala  bentuk kekerasan dan diskriminasi;  
 c. mencegah dan menghapus segala bentuk kekerasan  dan ekspolitasi terhadap perempuan dan anak  termasuk perdagangan orang;  
 d. memberikan pelayanan kepada perempuan dan  anak korban kekerasan, pelapor, dan saksi;  
-e. memulihkan, menguatkan fisik dan mental  perempuan dan anak korban kekerasan; danf. meningkatkan kepedulian dan partisipasi  masyarakat dalam pencegahan kekerasan terhadap  perempuan dan anak.  
+e. memulihkan, menguatkan fisik dan mental  perempuan dan anak korban kekerasan; dan  
+f. meningkatkan kepedulian dan partisipasi  masyarakat dalam pencegahan kekerasan terhadap  perempuan dan anak.  
 
 # BAB II
 
@@ -110,7 +113,8 @@ b. layanan terhadap korban kekerasan; dan  c. penguatan dan pengembangan kelemba
 1. Dalam melaksanakan kewenangan sebagaimana  dimaksud dalam Pasal 3, Bupati menetapkan  program dan kegiatan pelindungan perempuan dan  anak dalam Rencana Aksi Daerah.  
 2. Rencana Aksi Daerah sebagaimana dimaksud pada  ayat (1) paling sedikit memuat:a. program dan kegiatan aksi pelindungan  perempuan dan anak dari kekerasan;  
 b. program dan kegiatan aksi daerah untuk  mencegah segala bentuk kekerasan dan  diskriminasi terhadap perempuan dan anak;  
-c. program dan kegiatan aksi perbaikan dan  peningkatan pelayanan pelindungan perempuan  dan anak dari kekerasan; dand. program dan kegiatan aksi pemberdayaan  perempuan dari kekerasan.  
+c. program dan kegiatan aksi perbaikan dan  peningkatan pelayanan pelindungan perempuan  dan anak dari kekerasan; dan  
+d. program dan kegiatan aksi pemberdayaan  perempuan dari kekerasan.  
 3. Ketentuan mengenai Rencana Aksi Daerah  sebagaimana dimaksud pada ayat (1) diatur lebih  lanjut dengan Peraturan Bupati.  
 
 # BAB III
@@ -161,7 +165,8 @@ c. memanfaatkan tenaga atau kemampuan seseorang  oleh pihak lain untuk mendapatk
 #### Pasal 11
 
 Kekerasan lainnya sebagaimana dimaksud dalam Pasal  5 huruf f yaitu:  
-a. ancaman kekerasan meliputi setiap perbuatan  secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang  menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
+a. ancaman kekerasan meliputi setiap perbuatan  secara melawan hukum berupa ucapan, tulisan,  gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang  menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
 
 ## Bagian Kedua
 
@@ -170,8 +175,10 @@ Upaya Pencegahan
 #### Pasal 12
 
 Pencegahan kekerasan sebagaimana dimaksud dalam  Pasal 3 ayat (2) huruf a dilaksanakan oleh:  a. Pemerintah Daerah;  
-b. keluarga; danc. Masyarakat;  
-d. media masa; dane. dunia usaha.  
+b. keluarga; dan  
+c. Masyarakat;  
+d. media masa; dan  
+e. dunia usaha.  
 
 #### Pasal 13
 
@@ -209,7 +216,8 @@ Selain mendapatkan hak sebagaimana dimaksud dalam  Pasal 15, anak korban kekeras
 a. hak atas penghormatan dan penggunaan  sepenuhnya untuk kelangsungan hidup, tumbuh,  dan berkembang;  
 b. hak pelayanan dasar ;  
 c. hak pelindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan sesuai dengan  hukum.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan sesuai dengan  hukum.  
 
 #### Pasal 17
 
@@ -238,13 +246,15 @@ b. kesehatan;
 c. bantuan hukum;  
 d. Rehabilitasi Sosial;  
 e. medikolegal;  
-f. psikologis; dang. pendampingan.  
+f. psikologis; dan  
+g. pendampingan.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1)  diselenggarakan dengan:a. cepat dan tepat;  
 b. aman dan nyaman;  
 c. rasa empati;  
 d. nondiskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya
 
 #### Pasal 21
 
@@ -254,14 +264,16 @@ a. identifikasi atau pencatatan awal korban; dan  b. persetujuan dilakukan tinda
 #### Pasal 22
 
 1. Pelayanan Kesehatan sebagaimana dimaksud pada  Pasal 20 ayat (1) huruf b meliputi:a. pertolongan pertama kepada korban;  
-b. perawatan dan pemulihan luka-luka fisik yang  bertujuan untuk pemulihan kondisi fisik korban  yang dilakukan oleh tenaga medis dan  paramedik; danc. rujukan ke fasilitas kesehatan sesuai dengan  standar profesinya;  
+b. perawatan dan pemulihan luka-luka fisik yang  bertujuan untuk pemulihan kondisi fisik korban  yang dilakukan oleh tenaga medis dan  paramedik; dan  
+c. rujukan ke fasilitas kesehatan sesuai dengan  standar profesinya;  
 2. Dalam hal perempuan dan anak korban kekerasan  memerlukan perawatan, tenaga kesehatan wajib  memberikan layanan pemulihan dan Rehabilitasi  Sosial kesehatan.  
 3. Pemberian layanan pemulihan dan Rehabilitasi  Sosial kesehatan sebagaimana dimaksud pada ayat  (2) dilaksanakan sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 23
 
 1. Pelayanan hukum sebagaimana dimaksud dalam  Pasal 20 ayat (1) huruf c untuk membantu korban  dalam menjalani proses peradilan dengan cara:  a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses  peradilan;  
-b. mendampingi korban di tingkat pelaporan,  penyidikan, penuntutan, dan pemeriksaan dalam  sidang pengadilan dan membantu korban untuk  secara lengkap memaparkan kekerasan yang  dialaminya; danc. melakukan koordinasi dengan sesama penegak  hukum, relawan pendamping, dan pekerja sosial  agar proses peradilan berjalan sebagaimana  mestinya.  
+b. mendampingi korban di tingkat pelaporan,  penyidikan, penuntutan, dan pemeriksaan dalam  sidang pengadilan dan membantu korban untuk  secara lengkap memaparkan kekerasan yang  dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak  hukum, relawan pendamping, dan pekerja sosial  agar proses peradilan berjalan sebagaimana  mestinya.  
 
 #### Pasal 24
 
@@ -285,7 +297,8 @@ f. modal usaha berupa alat penunjang usaha;  dan/ataug. pendampingan pelaksanaan
 #### Pasal 25
 
 1. Pelayanan medikolegal sebagaimana dimaksud  dalam Pasal 20 ayat (1) huruf e merupakan  pelayanan kedokteran untuk memberikan bantuan  profesional yang optimal dalam memanfaatkan ilmu  kedokteran untuk kepentingan penegakan hukum  dan keadilan.  
-2. Pelayanan medikolegal sebagaimana dimaksud pada  ayat (1) antara lain:a. visum et repertum; danb. visum et psikiatrikum.  
+2. Pelayanan medikolegal sebagaimana dimaksud pada  ayat (1) antara lain:a. visum et repertum; dan  
+b. visum et psikiatrikum.  
 
 #### Pasal 26
 
@@ -295,7 +308,8 @@ b. melakukan konseling psikologis individual bagi  perempuan dan anak korban kek
 c. melaksanakan konseling psikologis keluarga  perempuan dan anak korban kekerasan;  
 d. melakukan psikoterapi individual bagi perempuan  dan anak korban kekerasan dengan gangguan  psikologis terkait kekerasan yang dialaminya;  
 e. melakukan psikoterapi kelompok bagi perempuan  dan anak korban kekerasan dengan gangguan  psikologis terkait kekerasan yang dialaminya;  
-f. melakukan pendampingan psikologis bagi anak  yang berhadapan dengan hukum; dang. memberikan keterangan sebagai saksi fakta  dalam semua tingkat proses hukum (Berita Acara  Pemeriksaan, gelar perkara dan persidangan) (3) Selain pelayanan psikologis sebagaimana dimaksud  pada ayat (1), pelayanan psikologis dapat berupa  bimbingan rohani.  
+f. melakukan pendampingan psikologis bagi anak  yang berhadapan dengan hukum; dan  
+g. memberikan keterangan sebagai saksi fakta  dalam semua tingkat proses hukum (Berita Acara  Pemeriksaan, gelar perkara dan persidangan) (3) Selain pelayanan psikologis sebagaimana dimaksud  pada ayat (1), pelayanan psikologis dapat berupa  bimbingan rohani.  
 4. Pembimbing rohani sebagaimana dimaksud pada  ayat (3) memberikan pelayanan kepada perempuan  dan anak korban kekerasan dalam bentuk  pemberian konseling untuk menguatkan dan  memberikan rasa aman.  
 
 #### Pasal 27
@@ -349,7 +363,8 @@ d. sosial;
 e. pemberdayaan perempuan dan pelindungan  anak;  
 f. mental dan spiritual;  
 g. ketenteraman dan ketertiban.  h. kependudukan dan catatan sipil;  
-i. hukum; danj. koperasi dan UMKM.  
+i. hukum; dan  
+j. koperasi dan UMKM.  
 
 ## Bagian Kedua
 
@@ -359,7 +374,8 @@ Pengembangan Kelembagaan
 
 1. Pemerintah Daerah mengoptimalkan dan  memfasilitasi FPKK dalam pencegahan dan  pelayanan kepada perempuan dan anak korban  kekerasan.  
 2. FPKK sebagaimana dimaksud pada ayat (1) meliputi:  a. FPKK Kabupaten;  
-b. FPKK Kapanewon; danc. FPKK Kalurahan.  
+b. FPKK Kapanewon; dan  
+c. FPKK Kalurahan.  
 
 #### Pasal 33
 
@@ -380,7 +396,8 @@ h. menerima rujukan dari FPKK Kapanewon dan/atau  FPKK Kalurahan; dan/ataui. mel
 #### Pasal 35
 
 Unsur FPKK Kabupaten sebagaimana dimaksud dalam  Pasal 32 ayat (2) huruf a meliputi:  
-a. Instansi Pemerintah; danb. lembaga masyarakat.  
+a. Instansi Pemerintah; dan  
+b. lembaga masyarakat.  
 
 #### Pasal 36
 
@@ -447,7 +464,8 @@ a. menyusun program dan kegiatan dalam upaya  pencegahan dan penanganan kekerasa
 b. membentuk lembaga masyarakat yang bidang  kerjanya di bidang pelindungan perempuan dan  anak;  
 c. melakukan sosialisasi hak perempuan dan anak  secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan  indikasi kekerasan terhadap perempuan dan  anak di masyarakat;  
-e. melakukan pertolongan pertama pada perempuan  dan anak korban kekerasan; danf. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi kekerasan  terhadap perempuan dan anak.  
+e. melakukan pertolongan pertama pada perempuan  dan anak korban kekerasan; dan  
+f. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi kekerasan  terhadap perempuan dan anak.  
 3. Peran serta masyarakat sebagaimana dimaksud  pada ayat (1) dapat dilakukan oleh perorangan,  lembaga masyarakat, lembaga pendidikan, lembaga  keagamaan, dan dunia usaha.  
 
 #### Pasal 44
@@ -465,7 +483,8 @@ c. memberikan bantuan dalam penyelenggaraan  pelindungan perempuan dan anak seba
 
 Dalam rangka untuk mendukung terhadap  penyelenggaraan pelindungan bagi perempuan dan  anak korban tindak kekerasan maka diperlukan  pendanaan yang dapat bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah (APBD);  
-b. Anggaran Pendapatan dan Belanja Kalurahan  (APBKal); danc. sumber lain yang sah dan tidak mengikat sesuai  dengan peraturan perundang-undangan yang  berlaku.  
+b. Anggaran Pendapatan dan Belanja Kalurahan  (APBKal); dan  
+c. sumber lain yang sah dan tidak mengikat sesuai  dengan peraturan perundang-undangan yang  berlaku.  
 
 # BAB VIII
 

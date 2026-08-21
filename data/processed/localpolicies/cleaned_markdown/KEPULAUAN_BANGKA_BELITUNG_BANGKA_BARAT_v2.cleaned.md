@@ -21,10 +21,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa anak dan perempuan merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat perlindungan dari kekerasan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -110,7 +112,8 @@ b. informasi;
 c. pelayanan optimal;  
 d. penanganan berkelanjutan sampai tahap rehabilitasi;  
 e. penanganan secara rahasia;  
-f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status korban sebagai  anggota keluarga maupun anggota masyarakat.  
+f. pendampingan secara psikologis dan hukum; dan  
+g. jaminan atas hak-hak yang berkaitan dengan status korban sebagai  anggota keluarga maupun anggota masyarakat.  
 
 # BAB IV
 
@@ -120,9 +123,11 @@ f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang ber
 
 1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak Korban Kekerasan;  
-c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap  anak dan perempuan; dand. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
+c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap  anak dan perempuan; dan  
+d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
 2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, menyediakan dan menyelenggarakan layanan bagi korban dalam  bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu  untuk korban dengan melibatkan lembaga dan unsur masyarakat;  
-b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
+b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; dan  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
 
 # BAB V
 
@@ -133,7 +138,8 @@ b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap kor
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban  Kekerasan dapat melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan  Anak;  
-b. menyampaikan laporan kepada yang berwajib apabila terjadi  tindakan kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi  tindakan kekerasan terhadap Perempuan dan Anak; dan  
+c. memberikan bantuan terhadap korban.  
 
 #### Pasal 7
 
@@ -151,7 +157,8 @@ b. menyampaikan laporan kepada yang berwajib apabila terjadi  tindakan kekerasan
 b. penegak hukum;  
 c. sosial dan pemberdayaan;  
 d. pendidikan dan keagamaan;  
-e. Lembaga Swadaya Masyarakat; danf. swasta.  
+e. Lembaga Swadaya Masyarakat; dan  
+f. swasta.  
 3. Ketentuan lebih lanjut tentang PPT sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Bupati.  
 
 # BAB VII
@@ -201,7 +208,8 @@ d. psikologis; ataue. ekonomi.
 1. PPT wajib melaporkan secara tertulis pelaksanaan penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan kepada Bupati.  
 2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan sebagaimana dimaksud pada ayat (2) dilaksanakan  paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB X

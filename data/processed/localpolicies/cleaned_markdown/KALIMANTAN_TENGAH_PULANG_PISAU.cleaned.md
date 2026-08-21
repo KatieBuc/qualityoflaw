@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anak  merupakan bagian integral dari hak asasi manusia yang harus dijamin, dilindungi, dan dihormati oleh negara;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Daerah cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 2 - Mengingat:  
+ 
  
  
  
@@ -110,7 +112,8 @@ a. kemanusiaan;
 8 -
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
-d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.  
+d. kepentingan terbaik bagi perempuan dan anak; dan  
+e. non diskriminasi.  
 
 #### Pasal 3
 
@@ -118,7 +121,8 @@ Pengaturan pokok-pokok penyelenggaraan PPA bertujuan:
 a. mencegah tindak kekerasan, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat terhadap  perempuan dan anak;  
 b. menghapus segala bentuk kekerasan, eksploitasi, diskriminasi, perlakuan  salah dan/atau perlakuan yang merendahkan derajat dan martabat  perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
-d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
+d. memberikan pelayanan kepada perempuan dan anak korban tindak  kekerasan, pelapor, dan saksi; dan  
+e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera.  
 
 # BAB II
 
@@ -140,7 +144,8 @@ j. Hak atas rehabilitasi sosial;
 k. Hak atas penanganan pengaduan;  
 
 9 -
-l. Hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradilan; danm. Hak atas pendampingan.  
+l. Hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradilan; dan  
+m. Hak atas pendampingan.  
 
 #### Pasal 5
 
@@ -151,7 +156,8 @@ c. Hak perlindungan yang sama;
 d. Hak bebas dari berbagai stigma;  
 e. Hak atas ketenagakerjaan;  
 f. Hak atas rumah dan lingkungan yang layak huni;  
-g. Hak atas pemberdayaan Perempuan; danh. Hak atas pencegahan kekerasan.  
+g. Hak atas pemberdayaan Perempuan; dan  
+h. Hak atas pencegahan kekerasan.  
 
 # BAB III
 
@@ -163,7 +169,8 @@ Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  peremp
 a. pemerintah daerah;  
 b. masyarakat;  
 c. keluarga;  
-d. orang tua; dane. lembaga non pemerintah termasuk Kelembagaan Adat dan Badan Usaha.  
+d. orang tua; dan  
+e. lembaga non pemerintah termasuk Kelembagaan Adat dan Badan Usaha.  
 
 #### Pasal 7
 
@@ -174,12 +181,14 @@ a. melaksanakan kebijakan perlindungan terhadap perempuan dan anak dari  tindaka
 b. menetapkan kebijakan, program, dan kegiatan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  terhadap perempuan dan anak dari tindakan kekerasan dalam berbagai  bentuk, eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan  yang merendahkan derajat dan martabat kemanusiaan;  
-e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan terhadap perempuan  dan anak sesuai kemampuan keuangan daerah; danf. membina dan mengawasi penyelenggaraan dan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan.  
+e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan terhadap perempuan  dan anak sesuai kemampuan keuangan daerah; dan  
+f. membina dan mengawasi penyelenggaraan dan perlindungan terhadap  perempuan dan anak dari tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan.  
 
 #### Pasal 8
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud Pasal 6  huruf b diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadi tindakan kekerasan dalam berbagai bentuk,  eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan terhadap perempuan  dan anak;  
-b. memberikan informasi dan/atau melaporkan tindakan kekerasan  dalam berbagai bentuk, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan terhadap perempuan dan anak kepada penegak hukum  atau pihak yang berwenang; danc. turut serta dalam memberikan bantuan dan/atau penanganan  terhadap korban tindakan kekerasan dalam berbagai bentuk, - 11 - eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan terhadap perempuan  dan anak.  
+b. memberikan informasi dan/atau melaporkan tindakan kekerasan  dalam berbagai bentuk, eksploitasi, diskriminasi, perlakuan salah  dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan terhadap perempuan dan anak kepada penegak hukum  atau pihak yang berwenang; dan  
+c. turut serta dalam memberikan bantuan dan/atau penanganan  terhadap korban tindakan kekerasan dalam berbagai bentuk, - 11 - eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan yang  merendahkan derajat dan martabat kemanusiaan terhadap perempuan  dan anak.  
 3. Bentuk peran serta, dilaksanakan secara bertanggungjawab sesuai  ketentuan peraturan perundang-undangan.  
 
 #### Pasal 9
@@ -204,7 +213,8 @@ e. memberikan pemberdayaan terhadap perempuan dan anak sebagai  tanggung jawab b
 f. mengadakan program penyuluhan di komunitas sekitar perusahaan  untuk meningkatkan kesadaran tentang PPA;  
 g. membuat kebijakan, program, dan kegiatan PPA;  
 h. mendukung program-program sosial yang meningkatkan kemandirian  ekonomi perempuan dan mendukung pendidikan anak-anak;  
-i. mendukung pendirian pusat perlindungan dan layanan bagi korban  kekerasan perempuan dan anak; danj. mendukung program PPA di Kabupaten Pulang Pisau melalui  instrument Corporate Social Responsibility dan/atau bantuan dalam  bentuk lainnya sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
+i. mendukung pendirian pusat perlindungan dan layanan bagi korban  kekerasan perempuan dan anak; dan  
+j. mendukung program PPA di Kabupaten Pulang Pisau melalui  instrument Corporate Social Responsibility dan/atau bantuan dalam  bentuk lainnya sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
 
 13 -
 
@@ -219,7 +229,8 @@ a. mengumpulkan data dan informasi tentang Perempuan dan Anak Korban  tindakan k
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan PPA;  
 c. mengadakan pendidikan tentang nilai-nilai anti kekerasan dalam berbagai  bentuk, eksploitasi, diskriminasi, perlakuan salah dan/atau perlakuan  yang merendahkan derajat dan martabat kemanusiaan terhadap  perempuan dan anak terhadap anak dan perempuan;  
 d. melakukan pencegahan pernikahan usia anak;  
-e. menyediakan fasilitas rehabilitasi; danf. mengadakan pemantauan dan evaluasi terhadap PPA terhadap tindakan  kekerasan dalam berbagai bentuk, eksploitasi, diskriminasi, perlakuan  salah dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan.  
+e. menyediakan fasilitas rehabilitasi; dan  
+f. mengadakan pemantauan dan evaluasi terhadap PPA terhadap tindakan  kekerasan dalam berbagai bentuk, eksploitasi, diskriminasi, perlakuan  salah dan/atau perlakuan yang merendahkan derajat dan martabat  kemanusiaan.  
 
 # BAB V
 
@@ -252,7 +263,8 @@ b. cepat;
 c. aman;  
 d. empati;  
 e. non diskriminasi;  
-f. mudah dijangkau; dang. kerahasiaan.  
+f. mudah dijangkau; dan  
+g. kerahasiaan.  
 
 # BAB VI
 
@@ -281,7 +293,8 @@ e. ditindaklanjuti sesuai dengan hukum yang berlaku; dan f. Upaya pencegahan unt
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk perjanjian.  
 
 # BAB VII
@@ -297,7 +310,8 @@ b. bimbingan teknis dan pelatihan;
 c. penyediaan fasilitas;  
 
 16 -
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2), dalam rangka  mewujudkan tujuan PPA yang sesuai dengan standar pelayanan minimal.  
 
 #### Pasal 19
@@ -320,7 +334,8 @@ Pendampingan dilakukan oleh orang atau lembaga yang mempunyai keahlian  untuk me
 
 1. Masyarakat berperan serta dalam serta dalam PPA baik secara perorangan  maupun kelompok.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
-b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; dan  
+c. memberikan bantuan terhadap korban.  
 
 #### Pasal 22
 
@@ -356,7 +371,8 @@ Pendanaan penyelenggaraan PPA bersumber dari:
 2. Laporan sebagaimana dimaksud pada ayat (1) tersebut meliputi:  
 a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan sebagaimana dimaksud pada ayat (1) dan ayat (2)  dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB XII

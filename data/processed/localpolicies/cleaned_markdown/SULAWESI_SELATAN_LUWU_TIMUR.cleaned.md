@@ -23,11 +23,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan yang bebas dari penyiksaan dan perlakuan yang merendahkan derajat martabat manusia serta untuk meningkatkan kualitas hidup perempuan berhak mendapatatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa Undang-Undang Nomor 23 Tahun 2004 tentang  Penghapusan Kekerasan Dalam Rumah Tangga, memberi penegasan perlunya perlindungan dan pemberian rasa aman kepada perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan Terhadap Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -147,7 +149,8 @@ PencegahanKekerasan
 a. mensosialisasikan peraturan perundang-undangan;  
 b. memberikan edukasi bahaya kekerasan terhadap perempuan;  
 c. melakukan seminar/lokakarya atau sejenisnya;  
-d. menjalin kerja sama dengan instansi pemerintah atau lembaga non pemerintah dalam upaya pencegahan kekerasan; dane. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan  terjadinya kekerasan.  
+d. menjalin kerja sama dengan instansi pemerintah atau lembaga non pemerintah dalam upaya pencegahan kekerasan; dan  
+e. membentuk sistem pencegahan, pemetaan lokasi atau wilayah rawan  terjadinya kekerasan.  
 3. Pencegahan kekerasan sebagaimana dimaksud pada ayat (2) dapat berkoordinasi dengan lembaga lain.  
 
 ## Bagian Ketiga
@@ -161,7 +164,8 @@ b. cepat;
 c. aman dan nyaman;  
 d. rasa empati;  
 e. tidak menghakimi;  
-f. tidak diskriminasi; dang. dijamin kerahasiannya.  
+f. tidak diskriminasi; dan  
+g. dijamin kerahasiannya.  
 
 #### Pasal 9
 
@@ -171,7 +175,8 @@ b. pelayanan pendampingan;
 c. pelayanan bantuan hukum;  
 d. pelayanan kesehatan;  
 e. pelayanan rehabilitasi sosial;  
-f. pelayanan pemulangan; dang. pelayanan reintegrasi sosial.  
+f. pelayanan pemulangan; dan  
+g. pelayanan reintegrasi sosial.  
 
 #### Pasal 10
 
@@ -192,7 +197,8 @@ Pelayanan Pengaduan dan Konsultasi
 
 Pelayanan pengaduan dan konsultasi sebagaimana dimaksud dalam Pasal 9  huruf a, meliputi:  
 a. melakukan proses administrasi pelayanan pelapor;  
-b. melakukan wawancara kepada pelapor; danc. persetujuan dilakukan tindakan.  
+b. melakukan wawancara kepada pelapor; dan  
+c. persetujuan dilakukan tindakan.  
 
 ### Paragraf 2
 
@@ -208,7 +214,8 @@ Pelayanan Pendampingan
 a. tenaga kesehatan;  
 b. advokat;  
 c. pekerja sosial;  
-d. pembimbing rohani; dane. psikolog atau psikiater.  
+d. pembimbing rohani; dan  
+e. psikolog atau psikiater.  
 
 ### Paragraf 3
 
@@ -230,7 +237,8 @@ Pelayanan Kesehatan
 1. Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 9 huruf d,  dilakukan oleh tenaga kesehatan.  
 2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dilakukan  disarana kesehatan milik pemerintah daerah atau swasta.  
 3. Pelayanan kesehatan sebagaimana dimaksud pada ayat (2) bertujuan  untuk memulihkan kondisi korban.  
-4. Pemulihan kondisi korban sebagaimana dimaksud pada ayat (3)  meliputi:a. pertolongan pertama kepada korban; danb. pelayanan lanjutan berupa rawat jalan, rawat inap sesuai ketentuan  medis.  
+4. Pemulihan kondisi korban sebagaimana dimaksud pada ayat (3)  meliputi:a. pertolongan pertama kepada korban; dan  
+b. pelayanan lanjutan berupa rawat jalan, rawat inap sesuai ketentuan  medis.  
 
 #### Pasal 16
 
@@ -247,7 +255,8 @@ Pelayanan Rehabilitasi Sosial
 2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1)  dilakukan di rumah aman atau tempat lainnya yang ditentukan oleh  UPTD PPA.  
 3. Pelayanan rehabilitasi sosial dilakukan dengan cara:a. memberikan bimbingan kerohanian kepada korban;  
 b. membangun komunikasi yang empatik terhadap korban;  
-c. memberikan layanan konseling sesuai dengan kebutuhan korban. d. pemulihan kondisi psikis korban yang dilakukan oleh psikolog  dan/atau psikiater; dane. terapi psikologis secara berkala.  
+c. memberikan layanan konseling sesuai dengan kebutuhan korban. d. pemulihan kondisi psikis korban yang dilakukan oleh psikolog  dan/atau psikiater; dan  
+e. terapi psikologis secara berkala.  
 
 #### Pasal 18
 
@@ -270,7 +279,8 @@ Pelayanan Reintegrasi Sosial
 
 1. Pelayanan reintegrasi sosial sebagaimana dimaksud dalam Pasal 9 huruf  g, dilakukan oleh UPTD PPA bersama dengan instansi lain dan  masyarakat.  
 2. Reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan  dengan cara:a. menyatukan kembali korban dengan keluarga dan masyarakat;  
-b. monitoring/bimbingan lanjut; danc. melakukan pemantaun paling kurang 3 (tiga) bulan setelah korban  kembali pada keluarganya.  
+b. monitoring/bimbingan lanjut; dan  
+c. melakukan pemantaun paling kurang 3 (tiga) bulan setelah korban  kembali pada keluarganya.  
 
 # BAB V
 
@@ -282,11 +292,13 @@ b. monitoring/bimbingan lanjut; danc. melakukan pemantaun paling kurang 3 (tiga)
 a. Kementerian;  
 b. Pemerintah Daerah Provinsi;  
 c. Pemerintah Daerah Kabupaten/kota;  
-d. Perguruan tinggi; dane. Lembaga non pemerintah.  
+d. Perguruan tinggi; dan  
+e. Lembaga non pemerintah.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegritasi sosial; dand. penyediaan barang bukti dan saksi.  
+c. pemulangan dan reintegritasi sosial; dan  
+d. penyediaan barang bukti dan saksi.  
 
 # BAB VI
 
@@ -302,7 +314,8 @@ Pembinaan
 
 #### Pasal 23
 
-1. Pembinaan pemerintah daerah meliputi:a. pedoman perlindungan perempuan; danb. bimbingan teknis dan pelatihan.  
+1. Pembinaan pemerintah daerah meliputi:a. pedoman perlindungan perempuan; dan  
+b. bimbingan teknis dan pelatihan.  
 2. Pembinaan sebagaimana dimaksud pada ayat (1) dapat dilakukan  pemerintah daerah paling sedikit satu kali dalam setahun.  
 
 ## Bagian Kedua
@@ -362,7 +375,8 @@ Masyarakat dapat melakukan pengawasan perlindungan perempuan dengan  menyampaika
 #### Pasal 31
 
 1. Pemerintah Daerah dapat memberikan penghargaan kepada setiap orang  dan/atau lembaga yang secara komitmen memberikan perhatian penuh  dalam perlindungan perempuan.  
-2. Penghargaan sebagaimana dimaksud pada ayat (1) berupa pemberian  dalam bentuk:a. piagam; danb. bentuk lain.  
+2. Penghargaan sebagaimana dimaksud pada ayat (1) berupa pemberian  dalam bentuk:a. piagam; dan  
+b. bentuk lain.  
 
 # BAB X
 
@@ -371,7 +385,8 @@ Masyarakat dapat melakukan pengawasan perlindungan perempuan dengan  menyampaika
 #### Pasal 32
 
 Pembiayaan perlindungan perempuan bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. Sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 # BAB XI
 

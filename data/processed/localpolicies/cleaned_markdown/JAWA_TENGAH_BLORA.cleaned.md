@@ -21,10 +21,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat, harkat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi sebagai bentuk penghormatan, perlindungan dan penegakan Hak Asasi Manusia, khususnya hak-hak dasar perempuan dan Anak, sehingga perlu diatur mengenai penyelenggaraan perlindungan perempuan dan Anak Korban kekerasan di Kabupaten Blora;  
 b. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -118,13 +120,15 @@ h. keterbukaan;
 i. keterpaduan;  
 j. tidak menyalahkan Korban;  
 k. memberdayakan;  
-l. kerahasiaan Korban; danm. pengambilan keputusan di tangan Korban.  
+l. kerahasiaan Korban; dan  
+m. pengambilan keputusan di tangan Korban.  
 
 #### Pasal 3
 
 Tujuan penyelenggaraan perlindungan Korban adalah:  
 a. mencegah Kekerasan Terhadap Perempuan dan Anak;  
-b. memberikan pelayanan kepada perempuan dan Anak Korban Kekerasan; danc. memberdayakan perempuan dan Anak Korban Kekerasan.  
+b. memberikan pelayanan kepada perempuan dan Anak Korban Kekerasan; dan  
+c. memberdayakan perempuan dan Anak Korban Kekerasan.  
 
 # BAB III
 
@@ -149,7 +153,8 @@ e. hak atas penanganan pengaduan;
 f. hak atas pemulihan kesehatan dan psikologis dari penderitaan yang  dialami Korban;  
 g. hak untuk mendapatkan kemudahan dalam proses peradilan;  
 h. hak untuk mendapatkan upaya pemulangan dan reintegrasi sosial;  
-i. hak atas rehabilitasi sosial; danj. hak untuk mendapatkan pendampingan pada pemulihan psikologis,  layanan hukum dan layanan kesehatan.  
+i. hak atas rehabilitasi sosial; dan  
+j. hak untuk mendapatkan pendampingan pada pemulihan psikologis,  layanan hukum dan layanan kesehatan.  
 
 # BAB V
 
@@ -164,7 +169,8 @@ b. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan pen
 b. memberikan dukungan sarana dan prasaranac. meningkatkan kapasitas lembaga penyedia layanan;  
 d. melakukan koordinasi dan kerjasama dalam pelayanan  terhadap perempuan dan Anak Korban kekerasan;  
 e. melakukan monitoring dan evaluasi;  
-f. mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap Korban; dang. melakukan pemberdayaan terhadap Korban.  
+f. mendorong kepedulian masyarakat akan pentingnya  perlindungan terhadap Korban; dan  
+g. melakukan pemberdayaan terhadap Korban.  
 
 # BAB VI
 
@@ -177,7 +183,8 @@ a. kekerasan fisik;
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. penelantaran;  
-e. eksploitasi; danf. perlakuan salah.  
+e. eksploitasi; dan  
+f. perlakuan salah.  
 2. Kekerasan fisik sebagaimana dimaksud pada ayat (1) huruf a  adalah perbuatan yang mengakibatkan rasa sakit, cedera, luka, atau  cacat pada tubuh seseorang, gugurnya kandungan, pingsan  dan/atau menyebabkan kematian.  
 3. Kekerasan psikis sebagaimana dimaksud pada ayat (1) huruf b  adalah perbuatan yang mengakibatkan ketakutan, hilangnya rasa  percaya diri, hilangnya kemampuan untuk bertindak, rasa tidak  berdaya dan/atau penderitaan psikis berat pada Korban.  
 4. Kekerasan seksual sebagaimana dimaksud pada ayat (1) huruf c  adalah:a. perbuatan yang berupa pelecehan seksual baik fisik maupun  psikis;  
@@ -212,7 +219,8 @@ c. Organisasi Masyarakat;
 d. masyarakat yang memiliki kompetensi dalam penyelenggaraan perlindungan Korban kekerasan.  
 3. Susunan keanggotaan PPT sebagaimana dimaksud pada ayat (2)  terdiri dari:a. Ketua;  
 b. Wakil Ketua;  
-c. Sekretaris; dand. Bidang-bidang (4) Bidang-bidang sebagaimana dimaksud pada ayat (3) sekurang kurangnya terdiri dari:a. bidang pelayanan pengaduan;  
+c. Sekretaris; dan  
+d. Bidang-bidang (4) Bidang-bidang sebagaimana dimaksud pada ayat (3) sekurang kurangnya terdiri dari:a. bidang pelayanan pengaduan;  
 b. bidang pelayanan kesehatan;  
 c. bidang pelayanan rehabilitasi sosial dan bimbingan rohani;  
 d. bidang pelayanan penegakan hukum dan bantuan hukum; dan/  ataue. bidang pemulangan dan reintegrasi sosial.  
@@ -245,9 +253,11 @@ c. mengupayakan peningkatan partisipasi masyarakat; dan d. melakukan monitoring 
 
 1. Susunan keanggotaan UPPA sebagaimana dimaksud dalam Pasal 11  ayat (1) terdiri dari:a. Ketua;  
 b. Wakil Ketua;  
-c. Sekretaris; dand. Seksi-seksi.  
+c. Sekretaris; dan  
+d. Seksi-seksi.  
 2. Seksi-seksi UPPA sebagaimana dimaksud pada ayat (1) sekurang kurangnya terdiri dari:a. seksi pencegahan;  
-b. seksi penanganan kasus; danc. seksi pengembangan kemitraan.  
+b. seksi penanganan kasus; dan  
+c. seksi pengembangan kemitraan.  
 
 #### Pasal 13
 
@@ -265,7 +275,8 @@ Umum
 
 Penyelenggaraan perlindungan Korban Kekerasan dilakukan melalui:  
 a. upaya pencegahan;  
-b. pelayanan; danc. pemberdayaan.  
+b. pelayanan; dan  
+c. pemberdayaan.  
 
 ## Bagian Kedua
 
@@ -275,10 +286,12 @@ Upaya Pencegahan
 
 1. Upaya pencegahan Kekerasan Terhadap Perempuan dan Anak  dilakukan oleh:a. Pemerintah Daerah yang dikoordinasikan oleh Perangkat Daerah  yang membidangi urusan pemberdayaan dan perlindungan  perempuan dan Anak;  
 b. keluarga dan kerabat terdekat;  
-c. masyarakat; dand. lembaga pendidikan.  
+c. masyarakat; dan  
+d. lembaga pendidikan.  
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan Kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
-c. membentuk sistem pencegahan Kekerasan; dand. melakukan sosialisasi tentang pencegahan Kekerasan Terhadap  Perempuan dan Anak, serta pemenuhan hak-hak Anak.  
+c. membentuk sistem pencegahan Kekerasan; dan  
+d. melakukan sosialisasi tentang pencegahan Kekerasan Terhadap  Perempuan dan Anak, serta pemenuhan hak-hak Anak.  
 
 ## Bagian Ketiga
 
@@ -297,7 +310,8 @@ b. aman dan nyaman;
 c. empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 18
 
@@ -305,20 +319,25 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayanan rehabilitasi sosial;  
-e. pelayanan hukum; danf. pelayanan pemulangan dan reintegrasi sosial.  
+e. pelayanan hukum; dan  
+f. pelayanan pemulangan dan reintegrasi sosial.  
 2. Pelayanan pengaduan sebagaimana dimaksud pada ayat (1) huruf a  antara lain:a. identifikasi atau pencatatan awal Korban;  
-b. informed consent; danc. konseling dasar, mediasi, penjangkauan dan/atau rujukan.  
+b. informed consent; dan  
+c. konseling dasar, mediasi, penjangkauan dan/atau rujukan.  
 3. Pelayanan pendampingan sebagaimana dimaksud pada ayat (1) huruf  b antara lain:a. pendampingan Korban selama proses pemeriksaan dan  pemulihan kesehatan;  
 b. pendampingan Korban selama proses medicolegal;  
 c. pendampingan Korban selama proses pemeriksaan di Kepolisian,  Kejaksaan dan Pengadilan;  
 d. pemantauan kepentingan dan hak-hak Korban dalam proses  pemeriksaan di Kepolisian, Kejaksaan dan Pengadilan;  
 e. menjaga privasi dan kerahasiaan Korban dari semua pihak yang  tidak berkepentingan, termasuk pemberitaan oleh media massa;  
 f. melakukan koordinasi dengan pendamping yang lain; dan g. memberikan penanganan yang berkelanjutan hingga tahap  rehabilitasi.  
-4. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) huruf c  antara lain:a. pelayanan medis kepada Korban; danb. pelayanan medicolegal.  
-5. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1)  huruf d antara lain:a. bimbingan rohani kepada Korban; danb. pemulihan kejiwaan Korban.  
+4. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) huruf c  antara lain:a. pelayanan medis kepada Korban; dan  
+b. pelayanan medicolegal.  
+5. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1)  huruf d antara lain:a. bimbingan rohani kepada Korban; dan  
+b. pemulihan kejiwaan Korban.  
 6. Pelayanan hukum sebagaimana dimaksud pada ayat (1) huruf e  antara lain:a. memberikan konsultasi hukum yang mencakup informasi  mengenai hak Korban dan proses peradilan;  
 b. pendampingan Korban di tingkat penyidikan, penuntutan, dan  pemeriksaan dalam sidang pengadilan dan membantu Korban  untuk secara lengkap memaparkan kekerasan yang dialaminya;  danc. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial.  
-7. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud  pada ayat (1) huruf f dapat berkoordinasi dengan:a. Pemerintah Provinsi Jawa Tengah dan pemerintah  kabupaten/kota lain; danb. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
+7. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud  pada ayat (1) huruf f dapat berkoordinasi dengan:a. Pemerintah Provinsi Jawa Tengah dan pemerintah  kabupaten/kota lain; dan  
+b. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
 
 ## Bagian Keempat
 
@@ -349,7 +368,8 @@ b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaa
 #### Pasal 22
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 19 huruf c  meliputi:  
-a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja.  
+a. bantuan sarana dan prasarana kerja; dan  
+b. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
 

@@ -21,10 +21,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa sampai saat ini jumlah kekerasan terhadap perempuan dan anak  masih tinggi, sementara pelayanan dan perlindungan belum dilakukan  secara optimal;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap  Perempuan dan Anak Korban Kekerasan yang ditetapkan dengan  Peraturan Daerah Kabupaten Madiun.  
 
 Mengingat:  
+ 
  
  
  

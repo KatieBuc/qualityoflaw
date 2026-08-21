@@ -25,12 +25,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa bentuk kekerasan terhadap perempuan dan  anak merupakan salah satu bentuk pelanggaran atas hak asasi manusia berdasarkan Pancasila dan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa tindakan kekerasan terhadap perempuan dan  anak akan berdampak pada fisik, psikis, seksual, sosial dan ekonomi yang berkepanjangan sehingga perlu diberikan rasa aman dan perlindungan;  
 c. bahwa pada saat ini belum ada Peraturan Daerah yang  menjamin perlindungan terhadap perempuan dan anak korban kekerasan di Kota Madiun;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -116,7 +118,8 @@ a. penghormatan hak asasi manusia;
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
 d. perlindungan korban;  
-e. kepentingan terbaik bagi korban; danf. pemberdayaan.  
+e. kepentingan terbaik bagi korban; dan  
+f. pemberdayaan.  
 
 #### Pasal 3
 
@@ -124,11 +127,13 @@ e. kepentingan terbaik bagi korban; danf. pemberdayaan.
 b. melindungi korban kekerasan;  
 
 7 -
-c. menindak pelaku kekerasan; dand. memelihara keutuhan rumah tangga yang  harmonis dan sejahtera.  
+c. menindak pelaku kekerasan; dan  
+d. memelihara keutuhan rumah tangga yang  harmonis dan sejahtera.  
 2. Kekerasan sebagaimana dimaksud pada ayat (1) dapat  berupa:a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran ekonomi; dane. pembatasan ruang gerak.  
+d. penelantaran ekonomi; dan  
+e. pembatasan ruang gerak.  
 
 # BAB III
 
@@ -161,7 +166,8 @@ c. keluarga; dan/ataud. orangtua.
 
 1. Pemerintah Daerah melaksanakan upaya pencegahan  terjadinya kekerasan terhadap perempuan dan anak,  dengan cara:a. mengumpulkan data dan informasi tentang perempuan dan anak korban kekerasan;  
 b. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap perempuan dan anak;  
-c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan perempuan dan anak korban  kekerasan; dand. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
+c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan  perlindungan perempuan dan anak korban  kekerasan; dan  
+d. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
 
 9 - (2) Untuk mengantisipasi terjadinya kekerasan, Pemerintah Daerah berkewajiban menyediakan dan  menyelenggarakan layanan bagi perempuan dan anak  korban kekerasan dengan cara:  
 a. mendirikan dan memfasilitasi terselenggaranya lembaga layanan terpadu untuk korban dengan melibatkan unsur masyarakat;  
@@ -260,7 +266,8 @@ SPM Bidang Layanan Terpadu bagi perempuan dan anak  korban kekerasan, meliputi:
 a. penanganan pengaduan/laporan;  
 b. pelayanan kesehatan;  
 c. rehabilitasi sosial;  
-d. penegakan dan bantuan hukum; dane. pemulangan dan reintegrasi sosial.  
+d. penegakan dan bantuan hukum; dan  
+e. pemulangan dan reintegrasi sosial.  
 
 13 -
 
@@ -272,7 +279,8 @@ c. cakupan layanan rehabilitasi sosial yang diberikan  oleh petugas rehabilitasi
 d. cakupan layanan bimbingan rohani yang diberikan  oleh petugas bimbingan rohani terlatih bagi  perempuan dan anak korban kekerasan di dalam  unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan  sampai dengan putusan pengadilan atas kasus kasus kekerasan terhadap perempuan dan anak;  
 f. cakupan perempuan dan anak korban kekerasan  yang mendapat bantuan hukum;  
-g. cakupan layanan pemulangan bagi perempuan dan  anak korban kekerasan; danh. cakupan layanan reintegrasi sosial bagi perempuan  dan anak korban kekerasan.  
+g. cakupan layanan pemulangan bagi perempuan dan  anak korban kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi perempuan  dan anak korban kekerasan.  
 2. Ketentuan lebih lanjut mengenai SPM sebagaimana  dimaksud pada ayat (1) diatur dengan Peraturan  Walikota.  
 
 # BAB VIII
@@ -289,7 +297,8 @@ Langkah pelaksanaan pemberdayaan perempuan korban kekerasan meliputi:
 a. pelatihan kerja;  
 
 14 -
-b. usaha ekonomi produktif dan/atau kelompok usaha  bersama; danc. bantuan permodalan.  
+b. usaha ekonomi produktif dan/atau kelompok usaha  bersama; dan  
+c. bantuan permodalan.  
 
 #### Pasal 19
 
@@ -298,7 +307,8 @@ a. mengusahakan kebutuhan yang diperlukan bagi  pelatihan kewirausahaan bagi per
 b. memfasilitasi terlaksananya berbagai pelatihan kerja  dan pelatihan keterampilan;  
 c. melakukan pendampingan dalam mengembangkan  usaha ekonomi produktif;  
 d. menjajaki kerjasama dengan perusahaan kecil,  menengah dan besar serta lembaga keuangan untuk  mengembangkan usaha perempuan korban kekerasan;  
-e. mengupayakan penyediaan modal bagi perempuan  korban kekerasan; danf. memperluas akses informasi dan mempromosikan hasil usaha ekonomi produktif perempuan korban kekerasan.  
+e. mengupayakan penyediaan modal bagi perempuan  korban kekerasan; dan  
+f. memperluas akses informasi dan mempromosikan hasil usaha ekonomi produktif perempuan korban kekerasan.  
 
 ## Bagian Kedua
 
@@ -363,7 +373,8 @@ c. supervisi; dan/ataud. monitoring, dan evaluasi pelaksanaan bagi  perempuan da
 b. melakukan sosialisasi hak perempuan dan anak  secara mandiri;  
 
 17 -
-c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi kekerasan  terhadap perempuan dan anak.  
+c. melakukan pertolongan pertama kepada korban; dan  
+d. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi kekerasan  terhadap perempuan dan anak.  
 2. Peran serta masyarakat sebagaimana dimaksud pada  ayat (1) dilakukan oleh:a. perorangan;  
 b. lembaga sosial kemasyarakatan;  
 c. lembaga swadaya masyarakat;  
@@ -570,7 +581,8 @@ Pelayanan kesehatan yang dimaksud adalah pelayanan yang  meliputi aspek promotif
 
 Pelayanan kesehatan bagi perempuan dan anak korban  kekerasan dapat diukur melalui indikator penunjang:  a. cakupan puskesmas mampu tata laksana KtP;  
 b. cakupan RSUD/RSU vertical/RSUD/RS swasta/RS Polri  yang melaksanakan pelayanan terpadu bagi perempuan  dan anak korban kekerasan;  
-c. cakupan tenaga kesehatan terlatih tentang tata laksana  kasus korban kekerasan terhadap perempuan dan anak  di puskesmas; dand. cakupan tenaga kesehatan yang terlatih tentang tata  laksana kasus korban kekerasan terhadap perempuan  dan anak di RS.  
+c. cakupan tenaga kesehatan terlatih tentang tata laksana  kasus korban kekerasan terhadap perempuan dan anak  di puskesmas; dan  
+d. cakupan tenaga kesehatan yang terlatih tentang tata  laksana kasus korban kekerasan terhadap perempuan  dan anak di RS.  
 
 huruf c Rehabilitasi sosial bagi perempuan dan anak korban  kekerasan dengan indikator utama yaitu cakupan layanan  rehabilitasi sosial yang diberikan oleh petugas rehabilitasi  sosial terlatih bagi perempuan dan anak korban kekerasan  di dalam unit pelayanan terpadu dan cakupan layanan  bimbingan rohani yang diberikan oleh petugas bimbingan  rohani terlatih bagi perempuan dan anak korban kekerasan  di dalam unit pelayanan terpadu.  
 
@@ -585,7 +597,8 @@ a. cakupan penyelesaian penanganan kasus kekerasan terhadap perempuan dan anak d
 b. cakupan ketersediaan unit pelayanan perempuan dan  anak ( UPPA ) di Polda dan Polres/ta;  
 c. cakupan ketersediaan sarana dan prasarana di UPPA;  
 d. cakupan ketersediaan Polisi yang terlatih dalam  memberikan layanan yang sensitive gender;  
-e. cakupan ketersediaan jaksa yang terlatih dalam  penuntutan kasus kekerasan terhadap perempuan dan  anak; danf. cakupan ketersediaan hakim yang terlatih dalam  menangani perkara kekerasan terhadap perempuan dan  anak.  
+e. cakupan ketersediaan jaksa yang terlatih dalam  penuntutan kasus kekerasan terhadap perempuan dan  anak; dan  
+f. cakupan ketersediaan hakim yang terlatih dalam  menangani perkara kekerasan terhadap perempuan dan  anak.  
 
 Selanjutnya, untuk layanan bantuan hukum juga dapat  diukur melalui indikator penunjang yaitu cakupan  ketersediaan petugas pendamping hukum atau advokat yang  mempunyai kemampuan pendampingan pada saksi  dan/atau korban kekerasan terhadap perempuan dan anak.  
 

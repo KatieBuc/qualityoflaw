@@ -101,14 +101,16 @@ c. Non ...
 ##### PROVINSI KALIMANTAN TIMUR
 
 6-
-c. non diskriminasi; dand. kepentingan terbaik perempuan.  
+c. non diskriminasi; dan  
+d. kepentingan terbaik perempuan.  
 
 Pasal3 Peraturan Daerah ini bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan;  
 b. mencegah segala bentuk Kekerasan terhadap Perempuan;  
 c. memberikan perlindungan dan rasa aman bagi perempuan korban kekerasan dan diskriminasisi;  
 d. menjamin terlaksananya kebijakan, program, dan kegiatan perlindungan perempuan oleh daerah secara sistemis, komprehensif, berkesinambungan, dan terpad u;  
-e. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan, program dan kegiatan perlindungan perempuan; danf. mendorong kelembagaan yang menangani tugas dan fungsi pemberdayaan perempuan di Pemerintah Daerah maupun lembaga masyarakat di daerah untuk meningkatkan kinerja dalam upaya perlindungan perempuan.  
+e. meningkatkan komitmen Pemerintah Daerah dalam melaksanakan kebijakan, program dan kegiatan perlindungan perempuan; dan  
+f. mendorong kelembagaan yang menangani tugas dan fungsi pemberdayaan perempuan di Pemerintah Daerah maupun lembaga masyarakat di daerah untuk meningkatkan kinerja dalam upaya perlindungan perempuan.  
 
 Pasa14 Ruang lingkup Peraturan Daerah ini meliputi:  
 a. hak-hak perempuan korban kekerasan;  
@@ -125,7 +127,8 @@ d. pelaksanaan;
 e. pemantauan dan evaluasi;  
 f. pelaporan;  
 g. pembinaan dan pengawasan;  
-h. peran serta masyarakat; dani. pendanaan.  
+h. peran serta masyarakat; dan  
+i. pendanaan.  
 
 # BAB II
 
@@ -137,7 +140,8 @@ b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah d
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami Perempuan Korban Kekerasan;  
 d. atas penanganan secara khusus berkaitan dengan kerahasiaan Perempuan Korban Kekerasan;  
 e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang undangan;  
-f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.  
+f. atas pelayanan bimbingan rohani; dan  
+g. menentukan sendiri keputusannya.  
 
 ## BABA III ...  
 
@@ -153,7 +157,8 @@ f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.
 
 Pasal6 (1) Pemerintah Daerah berwenang dalam Perlindungan Perempuan. (2) Kewenangan sebagaimana dimaksud pada ayat (1)meliputi:  
 a. pencegahan kekerasan terhadap perempuan yang melibatkan para pihak lingkup Daerah;  
-h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi tingkat Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.  
+h. penyediaan layanan bagi perempuan Korban kekerasan yang memerlukan koordinasi tingkat Daerah; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan.  
 
 ## BABIV
 
@@ -174,7 +179,8 @@ c. Rencana ...
 
 9-
 c. Rencana Strategis Satuan Kerja Perangkat Daerah;  
-d. Rencana Kerja Pemerintah Daerah; dane. Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah.  
+d. Rencana Kerja Pemerintah Daerah; dan  
+e. Rencana Kerja dan Anggaran Satuan Kerja Perangkat Daerah.  
 2. Penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1) diselaraskan antar tingkatan dan susunan pemerintahan.  
 3. Dinas memfasilitasi pengintegrasian kebijakan, program, dan kegiatan Perlindungan Perempuan ke dalam penyusunan dokumen perencanaan dan anggaran sebagaimana dimaksud pada ayat (1).  
 4. Dalam melaksanakan fasilitasi sebagaimana dimaksud pada ayat (3), Dinas berkoordinasi dengan Badan Perencanaan Pembangunan Daerah Kabupaten Kutai Timur.  
@@ -227,7 +233,8 @@ Pelayanan Perlindungan Perempuan Korban Kekerasan
 11-
 a. memberikan Pelayanan dan penanganan secepat mungkin kepada Perempuan Korban Kekerasan;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;  
-c. menjaga kerahasiaan Perempuan Korban Kekerasan; dand. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
+c. menjaga kerahasiaan Perempuan Korban Kekerasan; dan  
+d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
 
 ## Bagian Keempat
 
@@ -240,7 +247,8 @@ Kelembagaan
 1. Dalam mendukung pelaksanaan Perlindungan Perempuan, Bupati membentuk PPT.  
 2. PPT sebagaimana dimaksud pada ayat (1) berupa:a. UPTD PPA;  
 b. PPT berbasis rumah sakit;  
-c. PPT kecamatan; dand. PPT Desa/Icelurahan.  
+c. PPT kecamatan; dan  
+d. PPT Desa/Icelurahan.  
 3. Ketentuan lebih lanjut mengenai tata cara pembentukan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 Pasal13 ( 1) Pelayanan PPT melipu ti:  
@@ -252,12 +260,14 @@ b. memberikan ...
 ##### PROVINSIKALIMANTANTIMUR
 12-
 b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Perempuan Korban Kekerasan;  
-c. menjaga kerahasiaan Perempuan Karban Kekerasan; dand. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
+c. menjaga kerahasiaan Perempuan Karban Kekerasan; dan  
+d. menjamin keadilan dan kepastian hukum bagi Perempuan Korban Kekerasan.  
 2. Ketentuan lebih lanjut mengenai tata cara Pelayanan PPT sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 Pasal14 Penyelenggaraan PPT memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
-b. petugas pelaksana; danc. petugas fungsional.  
+b. petugas pelaksana; dan  
+c. petugas fungsional.  
 
 #### Pasal 15
 
@@ -284,7 +294,8 @@ e. Reintegrasi Sosial, danf. Bantuan Hukum.
 b. pelayanan kesehatan bagi perempuan Korban kekerasan;  
 c. rehabilitasi sosial bagi perempuan Korban kekerasan;  
 d. penegakan dan Bantuan Hukum bagi perempuan Korban kekerasan;  
-e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; danf. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
+e. Pemulangan dan Reintegrasi Sosial bagi perempuan Korban kekerasan; dan  
+f. dalam hal Perempuan Korban Kekerasan mengalami trauma atau penyakit yang membahayakan dirinya akibat tindak kekerasan sehingga memerlukan pertolongan segera, Pemerintah Daerah berkewajiban memberikan pertolongan pertama paling lambat 7 (tujuh) hari setelah pengaduan diajukan.  
 
 Pasal17 (1) SPM sebagaimana dimaksud dalam Pasal 16 memiliki erempuan kinerja meliputi:  
 a. cakupan erempuan korban kekerasan yang mendapatkan penanganan pengaduan oleh petugas terlatih di dalam unit Pelayanan terpadu;  
@@ -357,7 +368,8 @@ a. pemberian ...
 17-
 a. pemberian petunjuk pelaksanaan;  
 b. bimbingan;  
-c. supervisi; dand. monitoring dan evaluasi pelaksanaan pelayanan bagi perempuan korban kekerasan, aparatur maupun masyarakat.  
+c. supervisi; dan  
+d. monitoring dan evaluasi pelaksanaan pelayanan bagi perempuan korban kekerasan, aparatur maupun masyarakat.  
 
 Pasal24 Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM bidang layanan terpadu bagi Perempuan Korban Kekerasan di Daerah.  
 
@@ -370,7 +382,8 @@ a. membentuk mitra keluarga di tingkat kelurahan / desa;
 b. membentuk unit perlindungan perempuan di dalam orgamsasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan secara mandiri;  
 d. melakukan pertolongan pertama kepada Perempuan Korban Kekerasan;  
-e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi kekerasan terhadap Perempuan.  f. mencegah terjadinya tindak kekerasan terhadap perempuan.  g. memberikan informasi darr/atau melaporkan tindak kekerasan terhadap perempuan kepada pihak yang berwenang; danh. bentuk ...  
+e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi kekerasan terhadap Perempuan.  f. mencegah terjadinya tindak kekerasan terhadap perempuan.  g. memberikan informasi darr/atau melaporkan tindak kekerasan terhadap perempuan kepada pihak yang berwenang; dan  
+h. bentuk ...  
 
 ## BUPATI KUTAI TIMUR
 
@@ -383,7 +396,8 @@ b. lembaga sosial kemasyarakatan;
 c. lembaga swadaya Masyarakat;  
 d. lembaga pendidikan;  
 e. lembaga keagamaan;  
-f. swasta; dang. media massa.  
+f. swasta; dan  
+g. media massa.  
 
 ## BABX
 

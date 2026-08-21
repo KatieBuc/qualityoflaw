@@ -23,6 +23,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Pancasila dan Undang-Undang Dasar Negera  Republik Indonesia Tahun 1945 menjamin atas hak setiap  warga negara untu k bebas dar i penyiksaan atau  perlakukan yang merendgihkan derajat martabat manusia  serta mendapatkan rasa aman dan bebas dar i segala  bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi  manusia sehingga perlu dilindung i harga dir i dan  martabatnya serta dijamin hak hidupny a siesuai dengan  fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa pemberdayaan perempuan dan perlindungan anak  merupakan urusa n ptjmerintahan konkuren yang  diserahkan ke daerah untu k menjadi dasar pelaksanaan  otonomi daerah dan menjadi urusa n pemerintahan wajib  yang tidak berkaitan dengan pelayanan dasar  sebagaimana dimaksud dalam Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah;  
@@ -32,6 +33,7 @@ d. bahwa dalam rangka untu k memberikan penguatan  regulasi, arah, dan kmdasan d
 e. bahwa berdasarkan pertiimbangan sebagaimana dimaksud  dalam huru f a, huru f b, huru f e huru f d perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -97,13 +99,15 @@ Perlindungan Korban berasaskan:
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi korban; dane. pemberdayaan.  
+d. kepentingan terbaik bagi korban; dan  
+e. pemberdayaan.  
 
 #### Pasal 3
 
 Perlindungan Korban bertujuan untuk:  
 a. mencegah kekerasan terhadap perempuan dan anak;  
-b. memberikan pelayanan kepada Korban; danc. melakukan pemberdayaan kepada peremjDuan korban kekerasan.  
+b. memberikan pelayanan kepada Korban; dan  
+c. melakukan pemberdayaan kepada peremjDuan korban kekerasan.  
 
 #### Pasal 4
 
@@ -216,7 +220,8 @@ Masyarakat dan keluarga mempunya i kewxijiban dan tanggung jawab yang  meliputi:
 a. menceigah terjadinya kekerasan terhadaf) perempuan dan anak;  
 1 1 -
 b. melaporkan bila terjadi kekerasan;  
-e. melindung i korban; dand. memberikan pertolongan darurat.  
+e. melindung i korban; dan  
+d. memberikan pertolongan darurat.  
 
 # BAB V
 
@@ -249,7 +254,8 @@ e. bendahara;dand. ketua pelaksana yang membawahi bidang.
 
 1. P2TP2A yang dibentuk oleh Pemerintah Daerah paling kuran g memiliki  tiga konselor.  
 2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:  a. konselor dalam bidang hukum ;  
-b. konselor dalam bidang kesehatan; dane. konselor dalam bidang psikologi.  
+b. konselor dalam bidang kesehatan; dan  
+e. konselor dalam bidang psikologi.  
 3. Pelaksjinaan konseling yang dilaksanakan oleh konselor dapat  dilaksajiakan secara berjejaring sebagai berikut:a. konseling dalam bidang huku m dengein melibatkan  kepolisian, kejaksaan, pengadilan negeri, pengadilan agama, lembaga  advokasi huku m dan Lembaga Swadaya Masyarakat;  
 b. konseling dalam bidang kesehat£in dengan melibatkan Dinas  Kesehatan, Rumah Sakit Umu m Daerah dan layanan kesehatan  lainnya;  
 c. konseling dalam bidang psikologi dxmgan melibatkan pendamping  psikologi dan/atau psikolog.  
@@ -270,14 +276,16 @@ b. me;lakukan koordinasi, integrasi, sinkronisasi pencegalian kekerasan  berdasa
 
 13 -
 c. membentuk sistem pencegahan kekerasan;  
-d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan finak korban  kel:erasan; dane. memberikan pendidikan kriti s tentang hak-hak perempuan dan anak  bagi masyarakat.  
+d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan finak korban  kel:erasan; dan  
+e. memberikan pendidikan kriti s tentang hak-hak perempuan dan anak  bagi masyarakat.  
 
 #### Pasal 22
 
 Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam  Pasal 21 ayat (1) dilakukan oleh:  
 a. keluarga dan/atau kerabat terdekat;  
 b. masyarakat;  
-c. lembag£i pendidikan; dand. Lembaga Swadaya Masyarakat.  
+c. lembag£i pendidikan; dan  
+d. Lembaga Swadaya Masyarakat.  
 
 ## Bagian Kedua
 
@@ -295,7 +303,8 @@ b. aman clan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. muda h dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 14 -
 
@@ -306,7 +315,8 @@ a. pelayanan pengaduan, konsultasi, dan konseling;
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayarian rehabilitasi sosial;  
-e. pelayanan hukum ; danf. pelayanan pemulangan dan reintegrasi sosial.  
+e. pelayanan hukum ; dan  
+f. pelayanan pemulangan dan reintegrasi sosial.  
 
 #### Pasal 26
 
@@ -329,7 +339,8 @@ f. melakukan koordinasi dengan pendamping yang lain; dan  g. memberikan penangan
 
 Pelayanan kesehatan sebagaimana dimaksiud dalam Pasal 25 huru f e  meliputi:  
 a. pertoloiigan pertama kepada korban;  
-b. perawatan dan pemulihan luka-luk a fisik yang bertujuan untu k  pemulilian kondis i fisik korban yang dilakukan oleh tenaga medis dan  paramedis; dane. rujuka n ke layanan kesehatan.  
+b. perawatan dan pemulihan luka-luk a fisik yang bertujuan untu k  pemulilian kondis i fisik korban yang dilakukan oleh tenaga medis dan  paramedis; dan  
+e. rujuka n ke layanan kesehatan.  
 
 #### Pasal 29
 
@@ -371,12 +382,14 @@ b. praktek kerja lapangan;danc. pemag;angan.
 
 Usaha ekonomis produktif dan/atau kelomf)ok usaha bersam£i sebagaimana  dimaksud dalam Pasal 32 huru f b meliputi:  
 a. pelatilian keterampilan wirausaha;  
-b. fasilitasi pembentukan kelompok usaha bersama; danc. pendampingan pelaksanaan usaha.  
+b. fasilitasi pembentukan kelompok usaha bersama; dan  
+c. pendampingan pelaksanaan usaha.  
 
 #### Pasal 35
 
 Bantuan permodalan sebagaimana dimak:sud dalam Pasal 32 huru f c  meliputi:  
-a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja.  
+a. bantuan sarana dan prasarana kerja; dan  
+b. fasilitasi bantuan modal kerja.  
 
 17 -
 
@@ -397,7 +410,8 @@ Koordinasi Perlindungan Korban
 
 1. Dalam upaya melindung i dan menyelenggarakan penang;anan layanan  bagi korban, Pemerintah Daerah membentuk FPKK.  
 2. FPKK sebagaimana dimaksud pada ayat (1) terdir i atas:  a. FPKK Daerah;  
-b. FPKK Keeamatan; dane. FPKK Kelurahan.  
+b. FPKK Keeamatan; dan  
+e. FPKK Kelurahan.  
 3. Pembentukan FPKK Daerah sebagaimeina dimaksud pada ayat (2) huru f  a ditetapkan dengan keputusan Walikota.  
 4. Pembxmtukan FPKK Keeamatan sebagaimana dimaksud pada  ayat (2) huru f b ditetapkan dengan Kxjputusan eamat.  
 5. Pembxmtukan FPKK Kelurahan sebagaimana dimaksud pada ayat (2)  huru f e ditetapkan dengan keputusan lurah .  
@@ -412,7 +426,8 @@ a. mengoordinasikan dan menjdnkronkan pencegatian, pelayanan,  dan pemberdayaan 
 b. memelihara dan mengembangkan FPKK: dalam pencegahan, pelayanan,  dan piemberdayaan korban kekerasan secara berjejaring serta sistem  rujukan ;  
 c. melakukan pendidikan tentang nilai-nilai non diskriminas i terhadap  perempuan dan anak;  
 d. melakukan sosialisasi peraturan perundang- undangan yang berkaitan  dengan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan;  
-e. mengumpulkan, menyusun, dan menyajikan laporan data korban  kekenisan; danf. melakukan pemantauan dan evaluasi terhadap pemyelenggaraan  perliniiungan perempuan dan anak korban kekerasan.  
+e. mengumpulkan, menyusun, dan menyajikan laporan data korban  kekenisan; dan  
+f. melakukan pemantauan dan evaluasi terhadap pemyelenggaraan  perliniiungan perempuan dan anak korban kekerasan.  
 
 # BAB Vl l
 
@@ -424,7 +439,8 @@ e. mengumpulkan, menyusun, dan menyajikan laporan data korban  kekenisan; danf. 
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  a. mc:mbentuk mitr a keluarga di tingkat; kelurahan oleh masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak d i dalam  organisasi kemasyarakatan;  
 c. mxdakukan sosialisasi hak perempuan dan anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instans i yang berwenang apabila di  lingkungannya terjadi kekerasan terhiadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instans i yang berwenang apabila di  lingkungannya terjadi kekerasan terhiadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat; (1) dilakukan  oleh jDerorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan  media massa.  
 
 19 -

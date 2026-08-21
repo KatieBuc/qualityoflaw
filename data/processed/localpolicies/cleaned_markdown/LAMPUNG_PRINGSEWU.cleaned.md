@@ -213,7 +213,8 @@ b. mendorong kepedulian masyarakat ten.tang  pentingnya perlindungan terhadap ko
 c. penegak hukum;  
 d. sosial dan pernberdayaan;  
 e. pendidikan dan keagamaan;  
-f. lembaga swadaya masyarakat; dang. swasta.  
+f. lembaga swadaya masyarakat; dan  
+g. swasta.  
 3. Ketentuan lebih lanjut tentang PPT sebagaimana  dirnaksud pada ayat (1) diatur dengan Peraturan  Bupati.  
 
 # BAB VIII

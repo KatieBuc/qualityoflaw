@@ -113,14 +113,16 @@ b. keadilan dan kesetaraan gender;
 c. non diskriminasi;  
 d. ketertiban 7 _d. ketertiban dan kepastian hukum;  
 e. keterbukaan;  
-f. pengayoman; dang. kepentingan terbaik bagi korban.  
+f. pengayoman; dan  
+g. kepentingan terbaik bagi korban.  
 
 Pasal3 Tujuan perlindungan perempuan dan anak dari tindak kekerasan adalah:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak korban kekerasan yang berbasis gender;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
 d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban kekerasan;  
-e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang terjadi di ranah domestik dan/ atau publik; danf. menindak pelaku kekerasan terhadap perempuan dan anak.  
+e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang terjadi di ranah domestik dan/ atau publik; dan  
+f. menindak pelaku kekerasan terhadap perempuan dan anak.  
 
 ## BABIII
 
@@ -169,11 +171,13 @@ e. hak atas kerahasiaan;
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan secara tepat, nyaman, dan sesuai kebutuhan;  
 h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan;  
-i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut:  
+i. hak atas pendampingan; dan  
+j. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi. Pasal12 Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud dalam Pasalll, juga mendapatkan hak khusus, sebagai berikut:  
 a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 ## BABV
 
@@ -195,7 +199,8 @@ C. melakukan 10
 c. melakukan keIja sama dalam penyelenggaraan perlindungan pemberdayaan perempuan dan anak;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan pemberdayaan perempuan dan anak;  
 e. mengalokasikan anggaran penye1enggaraan perlindungan pemberdayaan perempuan dan anak, sesuai kemampuan keuangan daerah;  
-f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan perempuan dan anak; dang. mewujudkan Kabupaten LayakAnak.  
+f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan perempuan dan anak; dan  
+g. mewujudkan Kabupaten LayakAnak.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), Bupati menetapkan program dan kegiatan aksi perlindungan pemberdayaan perempuan dan anak dalam Rencana Aksi Daerah sebagai dasar bagi Perangkat Daerah dalam melaksanakan perlindungan pemberdayaan perempuan dan anak.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan bagian RPJMD.  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), diatur dengan Peraturan Bupati.  
@@ -205,7 +210,8 @@ f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan perempuan dan
 Kewajibandan Tanggung Jawab Swasta dan Masyarakat Pasa115 (1) Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana dimaksud dalam Pasal 13 huruf b dan huruf c, diselenggarakan dalam bentuk peran serta swasta dan masyarakat.  
 
 2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (1),meliputi:a. mencegah teIjadi tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau me1aporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan.  
+b. memberikan informasi dan/atau me1aporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dan  
+c. berpartisipasi dalam tindak penanganan korban kekerasan.  
 3. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
 
 ## Bagian Ketiga
@@ -238,7 +244,8 @@ e. kependudukan dan pencatatan sipil;
 f. hukum;  
 g. pemberdayaan perempuan dan perlindungan anak;  
 h. koperasi dan usaha mikro;  
-i. mental dan spiritual; danj. ketenteraman dan ketertiban.  
+i. mental dan spiritual; dan  
+j. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan berdasarkan RPJPD dan RPJMD.  
 
 #### Pasal 19 12
@@ -249,7 +256,8 @@ Pasal19 (1) Dalam rangka pelayanan perlindungan kepada perempuan dan anak dari t
 b. penjangkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
-e. mediasi; danf. pendampingan korban.  
+e. mediasi; dan  
+f. pendampingan korban.  
 3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati.  
 4. Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat membentuk:a. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang;  
 b. Gugus Tugas Pencegahan Perkawinan Anak;  
@@ -264,7 +272,8 @@ a. pelayanan medis;
 b. pelayanan medicolegal (visum);  
 c. pelayanan psikososial;  
 d. pelayanan hukum;  
-e. pelayanan kemandirian ekonomi; danf. pelayanan kerohanian.  
+e. pelayanan kemandirian ekonomi; dan  
+f. pelayanan kerohanian.  
 
 Pasal22 Ketentuan lebih lanjut mengenai mekanisme pelayanan menurut standar prosedur operasional diatur dalam Peraturan Bupati.  
 
@@ -291,7 +300,8 @@ f. Perguruan Tinggi;dang. Media Massa.
 a. pertukaran data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
-d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum yang berlaku.  
+d. penyediaan barang bukti dan saksi; dan  
+e. ditindaklanjuti sesuai dengan hukum yang berlaku.  
 3. KeIja sarna sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan dalarn bentuk Perjanjian Kerja Sarna sesuai dengan ketentuan peraturan perundang- undangan.  
 
 ## Bagian Kedua

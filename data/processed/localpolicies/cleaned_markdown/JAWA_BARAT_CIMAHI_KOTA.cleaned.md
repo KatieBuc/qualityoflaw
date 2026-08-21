@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak  mendapatkan rasa aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan, sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa kekerasan terhadap perempuan dan anak terus meningkat sehingga perlu dilakukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -114,7 +116,8 @@ b. kepentingan terbaik bagi perempuan dan anak;
 c. keadilan dan kesetaraan gender;  
 d. penghargaan kepada pendapat anak;  
 e. penghormatan terhadap hak-hak korban;  
-f. kepastian hukum; dang. kearifan lokal.  
+f. kepastian hukum; dan  
+g. kearifan lokal.  
 
 #### Pasal 3
 
@@ -122,7 +125,8 @@ f. kepastian hukum; dang. kearifan lokal.
 b. memberikan pelayanan kepada korban kekerasan, pelapor dan  saksi;  
 c. pemberdayaan perempuan dan anak terhadap korban tindak  kekerasan.  
 2. Tujuan penyelenggaraan perlindungan perempuan dan anak  sebagaimana dimaksud pada ayat (1) meliputi:a. pencegahan;  
-b. pengurangan resiko; danc. penanganan
+b. pengurangan resiko; dan  
+c. penanganan
 
 # BAB III
 
@@ -131,7 +135,8 @@ b. pengurangan resiko; danc. penanganan
 #### Pasal 4
 
 Ruang Lingkup Peraturan Daerah ini terdiri dari:  
-a. perlindungan perempuan; danb. perlindungan anak.  
+a. perlindungan perempuan; dan  
+b. perlindungan anak.  
 
 #### Pasal 5
 
@@ -151,13 +156,15 @@ b. kekerasan seksual;
 c. kekerasan ekonomi;  
 d. kekerasan sosial;  
 e. kekerasan psikis;  
-f. penelantaran rumah tangga; dang. ekploitasi;  
+f. penelantaran rumah tangga; dan  
+g. ekploitasi;  
 
 #### Pasal 7
 
 1. Kekerasan Fisik sebagaimana dimaksud pada Pasal 6 huruf a adalah  perbuatan yang mengakibatkan rasa sakit, cidera, luka, atau cacat  pada tubuh seseorang, gugurnya kandungan, pingsan, dan yang  menyebabkan kematian.  
 2. Kekerasan Seksual sebagaimana dimaksud dalam Pasal 6 huruf b  adalah perbuatan yang disebabkan karena:a. pelecehan seksual;  
-b. pemaksaan hubungan seksual yang tidak wajar atau tidak  disukai; danc. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial atau tujuan tertentu.  
+b. pemaksaan hubungan seksual yang tidak wajar atau tidak  disukai; dan  
+c. pemaksaan hubungan seksual dengan orang lain untuk tujuan  komersial atau tujuan tertentu.  
 3. Kekerasan Ekonomi sebagaimana dimaksud dalam Pasal 6 huruf c  adalah perbuatan suatu tindakan yang membatasi istri untuk bekerja  didalam atau diluar rumah untuk menghasilkan uang dan barang,  termasuk membiarkan istri yang bekerja untuk di eksploitasi,  sementara suami tidak memenuhi kebutuhan ekonomi secara  keluarga. kekerasan ekonomi dapat juga berupa:a. suami yang tidak memberikan nafkah kepada istirinya karena  istrinya berpenghasilan;  
 b. suami menyembunyikan penghasilannya;  
 c. mengambil harta istri;  
@@ -180,14 +187,16 @@ b. informasi;
 c. pelayanan optimal;  
 d. penanganan berkelanjutan sampai tahap rehabilitasi;  
 e. penanganan secara rahasia;  
-f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga maupun anggota masyarakat.  
+f. pendampingan secara psikologis dan hukum; dan  
+g. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga maupun anggota masyarakat.  
 
 #### Pasal 9
 
 Anak korban kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam Pasal 8 juga mendapatkan hak khusus sebagai berikut:  a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB VI
 
@@ -198,7 +207,8 @@ d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.
 Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap perempuan dan anak korban kekerasan merupakan tanggung  jawab bersama:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
-c. keluarga; dand. orangtua.  
+c. keluarga; dan  
+d. orangtua.  
 
 #### Pasal 11
 
@@ -206,7 +216,8 @@ c. keluarga; dand. orangtua.
 b. menetapkan kebijakan, program, dan kegiatan perlindungan  terhadap perempuan dan anak korban kekerasan;  
 c. pembentukan P2TP2A;  
 d. menjamin terlaksananya kemudahan pelayanan kepada korban;  
-e. mengupayakan efektivitas dan efisiensi bagi proses pemulihan  korban; danf. mengupayakan terciptanya kerjasama dan koordinasi dalam  upaya pemulihan korban.  
+e. mengupayakan efektivitas dan efisiensi bagi proses pemulihan  korban; dan  
+f. mengupayakan terciptanya kerjasama dan koordinasi dalam  upaya pemulihan korban.  
 2. Pemerintah Daerah dalam melaksanakan kewajiban dan tanggung  jawab sebagaimana dimaksud pada ayat (1) huruf b, menetapkan  program dan kegiatan aksi perlindungan terhadap perempuan dan  anak dalam 1 (satu) Rencana Aksi Daerah.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2) sebagai  dasar bagi Perangkat Daerah dalam melaksanakan perlindungan  terhadap perempuan dan anak korban kekerasan.  
 4. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2)  merupakan bagian RPJMD.  
@@ -244,13 +255,15 @@ e. Dinas Kependudukan Dan Pencatatan Sipil;
 f. Satuan Polisi Pamong Praja dan Pemadam Kebakaran;  
 g. Rumah Sakit Umum Daerah;  
 h. Kepolisian Resor Kota;  
-i. Lembaga Swadaya Masyarakat; danj. perguruan tinggi.  
+i. Lembaga Swadaya Masyarakat; dan  
+j. perguruan tinggi.  
 4. P2TP2A sebagaimana dimaksud pada ayat (2) menyelenggarakan  pelayanan terhadap korban kekerasan yang dilakukan secara terpadu.  
 5. P2TP2A sebagaimana dimaksud pada ayat (4) dapat menerima dan  mengirim rujukan kasus dari atau kepada unit pelayanan lainnya  secara berjejaring.  
 6. P2TP2A memberikan pelayanan dan perlindungan sementara berupa  rumah aman.  
 7. Dalam hal P2TP2A belum memiliki rumah aman, maka P2TP2A dapat  merujuk korban kekerasan pada P2TP2A yang memiliki rumah aman.  (8) P2TP2A memiliki bidang konseling yang paling sedikit terdiri dari:  a. bidang hukum;  
 b. bidang kesehatan;  
-c. bidang rohani; dand. bidang sosial.  
+c. bidang rohani; dan  
+d. bidang sosial.  
 9. Ketentuan lebih lanjut mengenai struktur organisasi P2TP2A diatur  dalam Peraturan Wali Kota.  
 
 ## Bagian Kedua
@@ -273,7 +286,8 @@ Bentuk pelayanan terhadap korban yang diselenggarakan oleh P2TP2A  meliputi:
 a. pelayanan medis, berupa perawatan dan pemulihan luka-luka fisik  yang bertujuan untuk memulihkan kondisi fisik korban yang  dilakukan oleh tenaga medis dan paramedik;  
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk  kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang diberikan dalam  rangka memulihkan kondisi traumatis korban, termasuk penyediaan  rumah aman untuk melindungi korban dari berbagai ancaman dan  intimidasi bagi korban dan memberikan dukungan secara sosial  sehingga korban mempunyai rasa percaya diri, kekuatan dan  kemandirian, dalam menyelesaikan masalahnya;  
-d. pelayanan hukum untuk membantu korban dalam menjalani proses  hukum; dane. pelayanan kemandirian ekonomi berupa pelatihan ketrampilan dan  memberikan akses ekonomi agar korban dapat mandiri.  
+d. pelayanan hukum untuk membantu korban dalam menjalani proses  hukum; dan  
+e. pelayanan kemandirian ekonomi berupa pelatihan ketrampilan dan  memberikan akses ekonomi agar korban dapat mandiri.  
 
 #### Pasal 18
 
@@ -292,7 +306,8 @@ b. pembukaan aksebilitas untuk memperoleh pendidikan,  pelatihan, pendanaan, pen
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat untuk  melaksanakan pencegahan dan perlindungan terhadap  perempuan dan anak dari kekerasan;  
 e. membangun dan menyediakan system informasi yang lengkap  dan mudah diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi dan berbagai  lembaga swadaya masyarakat yang bergerak dan/atau peduli  terhadap perempuan dan anak; dang. membuka pos pengaduan untuk perlindungan terhadap  perempuan dan anak dari kekerasan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi dan berbagai  lembaga swadaya masyarakat yang bergerak dan/atau peduli  terhadap perempuan dan anak; dan  
+g. membuka pos pengaduan untuk perlindungan terhadap  perempuan dan anak dari kekerasan.  
 
 #### Pasal 20
 
@@ -301,7 +316,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan kekerasan oleh perangkat daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan  berdasarkan Rencana Aksi Daerah.  
 
 ## Bagian Keempat
@@ -322,7 +338,8 @@ Prinsip-Prinsip Pelayanan dan Pendampingan
 Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
-c. mudah dijangkau; dand. tidak dipungut biaya.  
+c. mudah dijangkau; dan  
+d. tidak dipungut biaya.  
 
 ## Bagian Keenam
 
@@ -335,7 +352,8 @@ b. pelayanan kesehatan;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
-f. pelayanan identifikasi; dang. pelayanan psikologis.  
+f. pelayanan identifikasi; dan  
+g. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1) dilaksanakan  sesuai standar pelayanan minimal yang ditetapkan Pemerintah  Daerah dan dilaksanakan oleh perangkat daerah yang memiliki tugas  dan fungsinya di bidang:a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak; dan  d. mental dan spiritual.  
@@ -352,9 +370,11 @@ c. pemberdayaan perempuan dan perlindungan anak; dan  d. mental dan spiritual.
 2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan  prinsip:a. profesional;  
-b. transparan; danc. akuntabel.  
+b. transparan; dan  
+c. akuntabel.  
 
 #### Pasal 25
 
@@ -368,7 +388,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 24 ayat  (2) dan ayat 
 
 1. P2TP2A melaporkan pelaksanaan penyelenggaraan perlindungan  terhadap perempuan dan anak korban kekerasan kepada Wali Kota.  (2) Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada  ayat (2), dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB X

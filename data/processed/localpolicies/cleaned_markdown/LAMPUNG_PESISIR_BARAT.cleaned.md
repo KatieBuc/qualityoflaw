@@ -23,9 +23,11 @@ Menimbang:
  
  
  
+ 
 bahwa untuk melaksanakan ketentuan angka I huruf H angka 2  dan angka 6 kolom 5 lampiran Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang Nomor  11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan Anak  dari Tindakan Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -132,7 +134,8 @@ a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;
 b. memberikan perlindungan dan pelayanan terhadap perempuan dan anak  korban kekerasan yang berbasis gender;  
 c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan;  
 d. memulihkan kondisi fisik, psikis dan ekonomi Perempuan dan anak korban  kekerasan;  
-e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang  terjadi di ranah domestik dan/ atau publik; danf. memberikan kepastian pendampingan pada pihak korban pada proses  hukum atas pelaku kekerasan terhadap perempuan dan anak.  
+e. kepentingan terbaik bagi perempuan dan anak korban kekerasan yang  terjadi di ranah domestik dan/ atau publik; dan  
+f. memberikan kepastian pendampingan pada pihak korban pada proses  hukum atas pelaku kekerasan terhadap perempuan dan anak.  
 
 ## Bagian Kedua
 
@@ -187,7 +190,8 @@ d. pemaksaan sterilisasi;
 e. pemaksaan perkawinan;  
 f. penyiksaan seksual;  
 g. eksploitasi seksual;  
-h. perbudakan seksual; dani. kekerasan seksual berbasis elektronik (2) Selain Tindak Pidana Kekerasan Seksual sebagaimana dimaksud pada ayat  (1), Tindak Pidana Kekerasan Seksual juga meliputi:a. perkosaan;  
+h. perbudakan seksual; dan  
+i. kekerasan seksual berbasis elektronik (2) Selain Tindak Pidana Kekerasan Seksual sebagaimana dimaksud pada ayat  (1), Tindak Pidana Kekerasan Seksual juga meliputi:a. perkosaan;  
 b. perbuatan cabul;  
 c. persetubuhan terhadap Anak, perbuatan cabul terhadap Anak, dan/ atau  eksploitasi seksual terhadap Anak;  
 
@@ -199,7 +203,8 @@ e. pornografi yang melibatkan Anak atau pornografi yang secara eksplisit  memuat
 f. pemaksaan pelacuran;  
 g. tindak pidana perdagangan orang yang ditujukan untuk eksploitasi  seksual;  
 h. kekerasan seksual dalam lingkup rumah tangga;  
-i. tindak pidana pencucian uang yang tindak pidana asalnya merupakan  Tindak Pidana Kekerasan Seksual; danj. tindak pidana lain yang dinyatakan secara tegas sebagai Tindak Pidana  Kekerasan Seksual sebagaimana diatur dalam ketentuan peraturan  perundang-undangan.  
+i. tindak pidana pencucian uang yang tindak pidana asalnya merupakan  Tindak Pidana Kekerasan Seksual; dan  
+j. tindak pidana lain yang dinyatakan secara tegas sebagai Tindak Pidana  Kekerasan Seksual sebagaimana diatur dalam ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 8
 
@@ -239,7 +244,8 @@ e. hak atas kerahasiaan;
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan secara tepat, nyaman, dan sesuai kebutuhan;  
 h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan;  
-i. hak atas pendampingan; danj. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi.  
+i. hak atas pendampingan; dan  
+j. mendapatkan penanganan berkelanjutan sampai tahap rehabilitasi.  
 
 #### Pasal 12
 
@@ -247,7 +253,8 @@ Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam 
 a. hak untuk kelangsungan hidup, tumbuh, dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 https://jdih.pesisirbaratkab.go.id
 
@@ -276,7 +283,8 @@ b. melaksanakan kebijakan, perlindungan, serta pemberdayaan perempuan  dan anak 
 c. melakukan kerjasama dalam penyelenggaraan perlindungan pemberdayaan perempuan dan anak;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  pemberdayaan perempuan dan anak;  
 e. mengalokasikan anggaran penyelenggaraan perlindungan pemberdayaan  perempuan dan anak, sesuai kemampuan keuangan daerah;  
-f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan  perempuan dan anak; dang. mewujudkan Kabupaten Layak Anak.  
+f. membina dan mengawasi penyelenggaraan perlindungan pemberdayaan  perempuan dan anak; dan  
+g. mewujudkan Kabupaten Layak Anak.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Bupati menetapkan program dan kegiatan aksi  perlindungan pemberdayaan perempuan dan anak dalam Rencana Aksi  Daerah sebagai dasar bagi Perangkat Daerah dalam melaksanakan  perlindungan pemberdayaan perempuan dan anak.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2) merupakan  bagian RPJMD.  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), diatur dengan Peraturan Bupati.  
@@ -293,7 +301,8 @@ Kewajiban dan Tanggung Jawab Swasta dan Masyarakat
 
 1. Kewajiban dan tanggung jawab swasta dan masyarakat sebagaimana dimaksud dalam Pasal 14 huruf b dan huruf c, diselenggarakan dalam bentuk peran serta swasta dan masyarakat.  
 2. Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada  ayat (1), meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
+c. berpartisipasi dalam tindak penanganan korban kekerasan. (3) Bentuk peran serta swasta dan masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan perundang- undangan.  
 
 ## Bagian Ketiga
 
@@ -335,7 +344,8 @@ e. kependudukan dan pencatatan sipil;
 f. hukum;  
 g. pemberdayaan perempuan dan perlindungan anak;  
 h. koperasi dan usaha mikro;  
-i. mental dan spiritual; danj. ketenteraman dan ketertiban.  k. Perberdayaan masyarakat dan pekon (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan berdasarkan RPJPD dan RPJMD.  
+i. mental dan spiritual; dan  
+j. ketenteraman dan ketertiban.  k. Perberdayaan masyarakat dan pekon (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan berdasarkan RPJPD dan RPJMD.  
 
 #### Pasal 19
 
@@ -343,7 +353,8 @@ i. mental dan spiritual; danj. ketenteraman dan ketertiban.  k. Perberdayaan mas
 b. penjangkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
-e. mediasi; danf. pendampingan korban.  
+e. mediasi; dan  
+f. pendampingan korban.  
 3. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPTD PPA sebagaimana dimaksud pada ayat (1) ditetapkan dengan Peraturan Bupati.  
 
 https://jdih.pesisirbaratkab.go.id
@@ -372,7 +383,8 @@ a. pelayanan medis;
 b. pelayanan medicolegal (visum);  
 c. pelayanan psikososial;  
 d. pelayanan hukum;  
-e. pelayanan kemandirian ekonomi; danf. pelayanan kerohanian.  
+e. pelayanan kemandirian ekonomi; dan  
+f. pelayanan kerohanian.  
 
 #### Pasal 22
 
@@ -405,12 +417,14 @@ b. Pemerintah Provinsi;
 c. Pemerintah Kabupaten Kota lain;  
 d. Lembaga Non Pemerintah;  
 e. Masyarakat;  
-f. Perguruan Tinggi; dang. Media Massa.  
+f. Perguruan Tinggi; dan  
+g. Media Massa.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pertukaran data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
-d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum yang berlaku.  
+d. penyediaan barang bukti dan saksi; dan  
+e. ditindaklanjuti sesuai dengan hukum yang berlaku.  
 3. Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan dalam bentuk Perjanjian Kerja Sama sesuai dengan ketentuan peraturan  perundang- undangan.  
 
 ## Bagian Kedua
@@ -443,7 +457,8 @@ d. mendampingi korban selama proses medicolegal;
 e. mendampingi korban selama proses pemeriksaan di  Kepolisian,Kejaksaan dan Pengadilan;  
 f. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan  di Kepolisan, Kejaksaan dan Pengadilan;  
 g. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
-h. melakukan koordinasi dengan pendamping yang lain; dani. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
+h. melakukan koordinasi dengan pendamping yang lain; dan  
+i. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 # BAB IX
 
@@ -472,7 +487,8 @@ e. perlindungan khusus anak.
 #### Pasal 28
 
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak  bersumberdari:  
-a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. sumber lain yang sah dan tidak mengikat.  
+a. Anggaran Pendapatan dan Belanja Daerah (APBD); dan  
+b. sumber lain yang sah dan tidak mengikat.  
 
 #### Pasal 29
 

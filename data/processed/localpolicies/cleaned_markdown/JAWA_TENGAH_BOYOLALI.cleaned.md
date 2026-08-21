@@ -115,14 +115,16 @@ Asas, Tujuan, dan Ruang Lingkup
 Perlindungan dan Pemberdayaan Perempuan, dilaksanakan berdasarkan asas:  
 a. penghormatan Hak Asasi Manusia;  
 b. keadiian dan Kesetaraan Gender;  
-c. nondiskriminasi; dand. perlindungan korban.  
+c. nondiskriminasi; dan  
+d. perlindungan korban.  
 
 #### Pasal 3
 
 Perlindungan dan Pemberdayaan Perempuan bertujuan untuk:  
 a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
-c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada perempuan dari berbagai tindak kekerasan.  
+c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai manusia; dan  
+d. memberikan rasa aman dengan meningkatkan perlindungan kepada perempuan dari berbagai tindak kekerasan.  
 
 #### Pasal 4
 
@@ -163,7 +165,8 @@ g. memperoleh perlindungan diri pribadi, Keluarga, kehormatan, martabat dan hak 
 h. mendapatkan kesejahteraan dan kehidupan yang layak;  
 i. berpartisipasi dalam politik;  
 j. melakukan perbuatan hukum;  
-k. bebas memilih pasangan dalam perkawinannya; danl. mendapatkan perlindungan khusus dalam pelaksanaan pekeijaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi wanita.  
+k. bebas memilih pasangan dalam perkawinannya; dan  
+l. mendapatkan perlindungan khusus dalam pelaksanaan pekeijaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi wanita.  
 2. Setiap istri selama dalam ikatan perkawinan mempunyai hak dan tanggung jawab yang sama dengan suaminya atassemua hal yang berkenaan dengan kehidupan perkawinannya, hubungan dengan anak-anaknya, dan kepemilikan serta pengelolaan harta bersama sesuai dengan ketentuan peraturan perundang-undangan.  
 3. Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan suaminya atas semua hal yang berkenaan dengan anak dengan memperhatikan kepentingan terbaik bagi anak.  
 
@@ -187,7 +190,8 @@ f. perempuan.
 7-
 f. perempuan penyangga ekonomi Keluarga;  
 g. perempuan mantan warga binaan lembaga permasyarakatan;  
-h. perempuan korban Bencana; dani. perempuan korban kekerasan.  
+h. perempuan korban Bencana; dan  
+i. perempuan korban kekerasan.  
 
 ## Bagian Kedua
 
@@ -199,7 +203,8 @@ Perempuan Pekerja/Buruh
 2. Perempuan Pekeija/Buruh sebagaimana dimaksud pada ayat (1) mendapatkan perlindungan atas:a. pengakuan hak, upah, dan kondisi kerja yang layak;  
 b. jaminan kesehatan dan jaminan sosial ketenagakeijaan;  
 c. akses informasi dan layanan konsultasi hukum;  
-d. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status; dane. kekerasan ditempat bekerja.  
+d. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status; dan  
+e. kekerasan ditempat bekerja.  
 
 ## Bagian Ketiga
 
@@ -210,7 +215,8 @@ Perempuan Lanjut Usia
 1. Pelaksanaan perlindungan bagi perempuan Lanjut Usia dalam rangka memperpanjang usia harapan hidup agar dapat melaksanakan fungsi sosialnya dan berperan aktif secara wajar dalam kehidupan sosialnya.  
 2. Perempuan Lanjut Usia sebagaimana dimaksud pada ayat (1) mendapatkan hak Perlindungan atas:a. jaminan keberlangsungan dan pengembangan diri pribadi;  
 b. partisipasi di bidang pendidikan, kesehatan, pekerjaan, politik, seni dan budaya serta pemanfaatan teknologi informasi dan komunikasi;  
-c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial, fasilitas umum, dan bangunan; dand. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
+c. aksesibilitas informasi, bantuan hukum, mobilitas, layanan sosial, fasilitas umum, dan bangunan; dan  
+d. upaya intervensi dini termasuk pengobatan dan rehabilitasi untuk peningkatan fungsi dan kapasitasnya.  
 
 ## Bagian Keempat.  
 8-
@@ -236,7 +242,8 @@ Perempuan Tuna Wisma
 2. Perempuan tuna wisma sebagaimana dimaksud pada ayat (1) mendapat hak perlindungan atas:a. tempat tinggal yang layak;  
 b. jaminan kesehatan dan sosial;  
 c. pencatatan administrasi kependudukan;  
-d. kesempatan memperoleh keterampilan untuk meningkatkan status ekonomi; dane. akses informasi dan layanan konsultasi hukum.  
+d. kesempatan memperoleh keterampilan untuk meningkatkan status ekonomi; dan  
+e. akses informasi dan layanan konsultasi hukum.  
 
 ## Bagian Keenam
 
@@ -249,7 +256,8 @@ Perempuan Pekeija Rumah Tangga
 9- (2) Perempuan pekeija rumah tangga sebagaimana dimaksud pada ayat (1) mendapat perlindungan atas:  
 a. pengakuan hak, upah, dan kondisi keija yang layak;  
 b. jaminan kesehatan dan sosial ketenagakerjaan;  
-c. akses informasi dan layanan konsultasi hukum; dand. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
+c. akses informasi dan layanan konsultasi hukum; dan  
+d. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
 
 ## Bagian Ketujuh
 
@@ -259,7 +267,8 @@ Perempuan Penyangga Ekonomi Keluarga
 
 1. Pelaksanaaan perlindungan bagi perempuan penyangga ekonomi Keluarga dalam rangka memberikan perlindungan dan pencegahan terhadap bentuk Diskriminasi, stigma negatif dan pemberdayaan ekonomi bagi perempuan penyangga ekonomi Keluarga.  
 2. Perempuan penyangga ekonomi Keluarga sebagaimana dimaksud pada ayat (1) mendapatkan hak perlindungan atas:a. tindakan Diskriminasi dan upaya pelemahan fungsi perempuan sebagai penyangga ekonomi Keluarga;  
-b. penguatan kemampuan dan pengakuan sebagai penyangga ekonomi Keluarga di lingkungannya; danc. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
+b. penguatan kemampuan dan pengakuan sebagai penyangga ekonomi Keluarga di lingkungannya; dan  
+c. aksesibilitas terhadap lembaga ekonomi dan keuangan.  
 
 ## Bagian Kedelapan
 
@@ -268,7 +277,8 @@ Perempuan Mantan Warga Binaan Lembaga Pemasyarakatan
 #### Pasal 13
 
 1. Pelaksanaan perlindungan bagi perempuan mantan warga binaan lembaga pemasyarakatan dalam rangka memberikan perlindungan dari hambatan untuk menyesuaikan diri dalam kehidupan Masyarakat, sehingga dapat melaksanakan kehidupan secara normal.  
-2. Perempuan mantan warga binaan lembaga pemasyarakatan sebagaimana dimaksud pada ayat (1) mendapatkan perlindungan atas:a. rehabilitasi sosial dan reintegrasi sosial; danb. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
+2. Perempuan mantan warga binaan lembaga pemasyarakatan sebagaimana dimaksud pada ayat (1) mendapatkan perlindungan atas:a. rehabilitasi sosial dan reintegrasi sosial; dan  
+b. kesempatan memperoleh pengetahuan dan keterampilan untuk meningkatkan status ekonomi.  
 
 ## Bagian Kesembilan.  
 10-
@@ -286,11 +296,13 @@ b. akses tempat tinggal sementara yang layak;
 c. layanan Kesehatan;  
 d. jaminan rasa aman;  
 e. kebutuhan spesifik wanita;  
-f. kebutuhan pelayanan psikososial; dang. pemulihan pasca Bencana.  
+f. kebutuhan pelayanan psikososial; dan  
+g. pemulihan pasca Bencana.  
 4. Bupati mengoordinasikan Perlindungan Perempuan korban Bencana di tingkat Daerah sebagaimana dimaksud pada ayat (2) dengan cara:a. menyediakan informasi dan data terpilah berdasarkan jenis kelamin, usia, dan jenis kerentanan KBG;  
 b. membangun komitmen pemangku kepentingan terhadap pencegahan, penanganan, dan perlindungan dari KBG dalam Bencana;  
 c. menyediakan fasilitas ruang ramah Perempuan, serta sarana dan prasarana yang responsif Gender pada kondisi tanggap darurat dan rehabilitasi yang mengakomodasi sumber daya lokal;  
-d. menyediakan layanan pengaduan, penanganan, dan rujukan yang dibutuhkan perempuan korban kekerasan yang mengakomodasi kearifan lokal; dane. memastikan korban atau penyintas mendapatkan layanan pemberdayaan sesuai potensi, kemampuan, dan kebutuhannya agar cepat pulih, mandiri, dan produktif.  
+d. menyediakan layanan pengaduan, penanganan, dan rujukan yang dibutuhkan perempuan korban kekerasan yang mengakomodasi kearifan lokal; dan  
+e. memastikan korban atau penyintas mendapatkan layanan pemberdayaan sesuai potensi, kemampuan, dan kebutuhannya agar cepat pulih, mandiri, dan produktif.  
 5. Pelaksanaan Perlindungan Perempuan dari korban Bencana mengacu pada pedoman dan standar yang ditetapkan berdasarkan ketentuan peraturan perundang-undangan.  
 
 ## Bagian Kesepuluh.................  
@@ -305,7 +317,8 @@ Perempuan Korban Kekerasan
 1. Pelaksanaan perlindungan bagi perempuan korban kekerasan dalam rangka memberikan perlindungan hukum dan/atau pemulihan kesehatan. (2) Perlindungan bagi perempuan korban kekerasan sebagaimana dimaksud pada ayat (1) meliputi:a. penyediaan rumah aman atau tempat tinggal altematif;  
 b. bantuan hukum;  
 c. pendampingan pasca terjadinya tindak kekerasan;  
-d. rehabilitasi dan reintegrasi sosial sesuai dengan kewenangan Daerah; dane. pelayanan kesehatan.  
+d. rehabilitasi dan reintegrasi sosial sesuai dengan kewenangan Daerah; dan  
+e. pelayanan kesehatan.  
 
 # BAB IV
 
@@ -324,7 +337,8 @@ c. poUtik dan pemerintahan;
 d. hukum;  
 e. pendidikan;  
 f. kesehatan;  
-g. ketenagakeijaan; danh. jaminan sosial.  
+g. ketenagakeijaan; dan  
+h. jaminan sosial.  
 
 ## Bagian Kedua
 
@@ -338,7 +352,8 @@ b. fasilitasi pembentukan kelompok usaha ekonomi produktif;
 c. fasilitasi.  
 12-
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomi produktif;  
-d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+d. fasilitasi dan bantuan permodalan; dan  
+e. fasilitasi pengembangan jaringan pemasaran.  
 
 ## Bagian Ketiga
 
@@ -361,7 +376,8 @@ Bidang Politik dan Pemerintahan
 Pemberdayaan Perempuan di bidang politik dan pemerintahan meliputi: (1)
 a. pelibatan perempuan dalam pengambilan keputusan di bidang pembangunan dan kehidupan di berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
-c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat, berkumpul, dan mengeluarkan pendapat.  
+c. partisipasi dalam pemilihan umum; dan  
+d. pengembangan diri melalui organisasi untuk berserikat, berkumpul, dan mengeluarkan pendapat.  
 
 Pemberdayaan Perempuan di bidang p>olitik dan pemerintahan (2) sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan pemndang-undangan.  
 
@@ -378,7 +394,8 @@ Bidang Hukum
 
 #### Pasal 20
 
-1. Pemberdayaan Perempuan di bidang hukum meliputi:a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi, dan edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
+1. Pemberdayaan Perempuan di bidang hukum meliputi:a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi, dan edukasi; dan  
+b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan Perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang undangan.  
 
 ## Bagian Keenam
@@ -401,7 +418,8 @@ Bidang Kesehatan
 a. pelayanan kesehatan masa sebelum hamil, hamil, persalinan, dan sesudah melahirkan;  
 b. pengaturan....................  
 14-
-b. pengaturan kehamilan, pelayanan kontrasepsi, dan kesehatan seksual; danc. pelayanan kesehatan reproduksi.  
+b. pengaturan kehamilan, pelayanan kontrasepsi, dan kesehatan seksual; dan  
+c. pelayanan kesehatan reproduksi.  
 
 Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dilaksanakan (3) melalui pendekatan promotif, preventif, kuratif, dan rehabilitatif.  
 
@@ -433,7 +451,8 @@ Bidang Jaminan Sosial
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap perlindungan dan Pemberdayaan Perempuan.  
 2. Upaya perlindungan dan Pemberdayaan Perempuan sebagaimana dimaksud pada ayat (1), meliputi:a. penetapan kebijakan, program, dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
-c. penyelenggaraan layanan; dand. koordinasi kebijakan, program, dan kegiatan.  
+c. penyelenggaraan layanan; dan  
+d. koordinasi kebijakan, program, dan kegiatan.  
 3. Upaya...................  
 15- (3) Upaya perlindungan dan Pemberdayaan Perempuan sebagaimana dimaksud pada ayat (2) dilakukan secara terpadu sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -457,13 +476,15 @@ c. penyelenggaraan layanan; dand. koordinasi kebijakan, program, dan kegiatan.
 Mekanisme penyelenggaraan Perlindungan dan Pemberdayaan Perempuan dilakukan melalui tahapan:  
 a. perumusan kebijakan perencanaan program dan kegiatan;  
 b. penganggaran program dan kegiatan;  
-c. pelaksanaan program dan kegiatan; dand. monitoring, evaluasi, dan pelaporan.  
+c. pelaksanaan program dan kegiatan; dan  
+d. monitoring, evaluasi, dan pelaporan.  
 
 #### Pasal 28
 
 1. Perumusan kebijakan perencanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf a, dilaksanakan terdiri atas:  
 a. pemetaan, pengumpulan, pengolahan dan penyajian data;  
-b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; danc. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
+b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan dengan Perangkat Daerah terkait; dan  
+c. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Perumusan kebijakan perencanaan program dan kegiatan diatur lebih lanjut dalam standar pelayanan minimal dan standar operasional prosedur.  
 3. Perumusan................  
 16- (3) Perumusan kebijakan perencanaan program dan kegiatan penyelenggaraan perlindungan dan Pemberdayaan Perempuan, dikoordinasikan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang perencanaan.  
 
@@ -471,7 +492,8 @@ b. koordinasi dan sinkronisasi penyusunan perencanaan program dan kegiatan denga
 5. Pelaksanaan program dan kegiatan sebagaimana dimaksud dalam Pasal 27 huruf c, dilaksanakan terdiri atas:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen anggaran satuan kerja Perangkat Daerah;  
 b. koordinasi dan sinkronisasi pelaksanaan program kegiatan dengan Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang Pemberdayaan Perempuan dan perlindungan anak.  
 6. Pelaksanaan monitoring, evaluasi, dan pelaporan sebagaimana dimaksud dalam Pasal 27 huruf d, dilaksanakan terdiri atas:a. melakukan monitoring dan evaluasi secara berkala terhadap pelaksanaan program dan kegiatan yang telah dilaksanakan;  
-b. membuat laporan secara berkala; danc. hasil evaluasi sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan tahun berikutnya.  
+b. membuat laporan secara berkala; dan  
+c. hasil evaluasi sebagai bahan masukan bagi penyusunan kebijakan, program, dan kegiatan tahun berikutnya.  
 
 # BAB VIII
 
@@ -479,7 +501,8 @@ b. membuat laporan secara berkala; danc. hasil evaluasi sebagai bahan masukan ba
 
 #### Pasal 29
 
-1. Dalam rangka penyelenggaraan perlindungan dan Pemberdayaan Perempuan Pemerintah Daerah membentuk:a. Pusat Pelayanan Terpadu; danb. Unit Pelaksama Teknis Daerah.  
+1. Dalam rangka penyelenggaraan perlindungan dan Pemberdayaan Perempuan Pemerintah Daerah membentuk:a. Pusat Pelayanan Terpadu; dan  
+b. Unit Pelaksama Teknis Daerah.  
 2. Dalam penyelenggaraan pelayanan perempuan korban, Pemerintah Daerah membentuk Pusat Pelayanan Terpadu sebagai jejaring pelayanan korban. (3) Pembentukan Pusat Pelayanan Terpadu sebagaimana dimaksud pada ayat (2) agar perempuan korban memperoleh pelayanan yang komprehensif, terintegrasi, berkualitas, inklusif dan berkelanjutan.  
 
 {4) Pada Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan perempuan dan perlindungan anak dibentuk Unit Pelaksana Teknis Daerah untuk melaksanakan kegiatan teknis operasional dan/atau kegiatan teknis penunjang tertentu pelaksanaan urusan pemberdayaan perempuan dan perlindungan anak.  
@@ -570,7 +593,8 @@ c. fasilitasi..................
 c. fasilitasi peningkatan kapasitas lembaga penyelenggara perlindungan dan Pemberdayaan Perempuan;  
 d. fasilitasi forum partisipasi perempuan dan organisasi perempuan;  
 e. fasilitasi layanan rehabilitasi dan reintegrasi perempuan korban Bencana dan korban kekerasan;  
-f. mengoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bantuan intemasional bagi perlindungan dan Pemberdayaan Perempuan; dang. memberikan penghargaan kepada Masyarakat dan dunia usaha baik secara individu maupun kelembagaan yang telah melakukan upaya perlindungan dan Pemberdayaan Perempuan.  
+f. mengoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bantuan intemasional bagi perlindungan dan Pemberdayaan Perempuan; dan  
+g. memberikan penghargaan kepada Masyarakat dan dunia usaha baik secara individu maupun kelembagaan yang telah melakukan upaya perlindungan dan Pemberdayaan Perempuan.  
 
 #### Pasal 39
 

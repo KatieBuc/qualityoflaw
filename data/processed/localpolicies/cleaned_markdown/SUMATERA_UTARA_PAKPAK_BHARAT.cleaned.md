@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan  dan anak merupakan pelanggaran hak asasi manusia, dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional  perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang, dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -174,7 +176,8 @@ f. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak korban
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan  terhadap perempuan dan anak kepada penegak hukum atau pihak  yang berwenang;  
 c. turut serta dalam penanganan korban tindak kekerasan;  
-d. memberikan perlindungan terhadap korban; dane. memberikan pertolongan darurat.  
+d. memberikan perlindungan terhadap korban; dan  
+e. memberikan pertolongan darurat.  
 
 jdih.pakpakbharatkab.go.id - 7 -
 
@@ -194,7 +197,8 @@ b. pembukaan aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, pen
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak; dang. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/ atau peduli terhadap perempuan dan  anak; dan  
+g. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan.  
 
 #### Pasal 10
 
@@ -290,7 +294,8 @@ jdih.pakpakbharatkab.go.id - 10 -
 #### Pasal 17
 
 Pendanaan untuk penyelenggaraan perlindungan terhadap perempuan dan  anak dari tindak kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. Sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
 
 # BAB XI
 

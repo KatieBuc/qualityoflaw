@@ -13,11 +13,13 @@ TERHADAP TINDAK KEKERASAN DAN DISKRIMINASI DENGAN RAHMAT TUHAN YANG MAHA ESA BUP
  
  
  
+ 
 a. bahwa perlindungan terhadap perempuan dan anakdari tindak kekerasan dan diskriminasi bertujuan untuk mewujudkan hak konstitusional dan hak asasi manusia sesuai dengan nilai-nilai Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa berdasarkan Undang-Undang Nomor 23Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, dan pemulihan terhadap perempuan dan anak korban kekerasan dan diskriminasi;  
 c. bahwa berdasarkan pertimbangan sebagaimanadimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Terhadap Tindak Kekerasan dan Diskriminasi;  
 
 Mengingat:  
+ 
  
  
  
@@ -92,7 +94,8 @@ a. penghormatan hak asasi manusia;
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
 d. perlindungan korban;  
-e. pemberdayaan; danf. keterpaduan.  
+e. pemberdayaan; dan  
+f. keterpaduan.  
 
 #### Pasal 3
 
@@ -100,7 +103,8 @@ Tujuan perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi unt
 a. mencegah tindak kekerasan dan diskriminasi terhadap perempuandan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan, diskriminasi dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi perempuan dan anak dari tindakan kekerasan dandiskriminasi dalam mendapatkan hak-haknya yang sah secarakonstitusid. melindungi, memberikan rasa aman bagi perempuan dan anak;  
-e. memberikan pelayanan dan perlindungan kepada perempuan dananak korban tindak kekerasan dan diskriminasi, pelapor, dan saksi; danf. memfasilitasi dan melakukan mediasi terhadap sengketa rumahtangga untuk mewujudkan keutuhan rumah tangga yang harmonisdan sejahtera.  
+e. memberikan pelayanan dan perlindungan kepada perempuan dananak korban tindak kekerasan dan diskriminasi, pelapor, dan saksi; dan  
+f. memfasilitasi dan melakukan mediasi terhadap sengketa rumahtangga untuk mewujudkan keutuhan rumah tangga yang harmonisdan sejahtera.  
 6-
 
 # BAB III
@@ -116,7 +120,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, pe
 c. memfasilitasi pemenuhan lapangan kerja bagi perempuan;  
 d. mendorong partisipasi dan kepedulian masyarakat terhadappencegahan perlindungan perempuan dan anak dari tindakkekerasan dan diskriminasi;  
 e. membangun dan menyediakan sistem informasi yang lengkapdan mudah di akses;  
-f. membangun jejaring dan kerja sama dengan aparatur penegakhukum, aparatur pemerintah, lembaga pendidikan dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dang. membuka sistem pelayanan terpadu bagi perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi di setiap desa.  
+f. membangun jejaring dan kerja sama dengan aparatur penegakhukum, aparatur pemerintah, lembaga pendidikan dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dan  
+g. membuka sistem pelayanan terpadu bagi perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi di setiap desa.  
 
 #### Pasal 5
 
@@ -125,7 +130,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. kesejahteraan rakyat; dang. ketenteraman dan ketertiban.  
+f. kesejahteraan rakyat; dan  
+g. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimanadimaksud pada ayat (1), dilaksanakan secara terpadu danberkesinambungan berdasarkan Rencana Aksi Daerah.  
 7-
 
@@ -150,7 +156,8 @@ i. hak atas pendampingan;
 j. hak atas penghormatan bagi kelangsungan hidup, tumbuh danberkembang;  
 k. hak pelayanan dasar;  
 l. hak perlindungan yang sama;  
-m. hak bebas dari berbagai stigma; dann. hak mendapatkan kebebasan.  
+m. hak bebas dari berbagai stigma; dan  
+n. hak mendapatkan kebebasan.  
 
 # BAB V
 
@@ -185,7 +192,8 @@ d. pemberdayaan perempuan dan perlindungan anak; dan e. mental dan spiritual.
 Kewajiban dan tanggung jawab dalam memberikan perlindunganterhadap perempuan dan anak dari tindak kekerasan dan diskriminasi merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
-c. Masyarakat; dand. Keluarga.  
+c. Masyarakat; dan  
+d. Keluarga.  
 
 #### Pasal 10
 
@@ -209,7 +217,8 @@ a. melaksanakan kebijakan perlindungan perempuan dan anak dari tindak kekerasan 
 b. melakukan kerja sama dalam penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi;  
 c. memberikan dukungan sarana dan prasarana pelaksanaanperlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
 d. mengalokasikan anggaran penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi sesuai kemampuan keuangan desa;  
-e. membina dan mengawasi penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi; danf. mendorong dan meningkatkan partisipasi masyarakat.  
+e. membina dan mengawasi penyelenggaraan perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi; dan  
+f. mendorong dan meningkatkan partisipasi masyarakat.  
 
 #### Pasal 12
 
@@ -222,7 +231,8 @@ c. melaporkan kepada pihak berwenang jika terjadi pelanggarantindak kekerasan da
 d. berperan aktif dalam proses rehabilitasi dan reintegrasi sosial bagi perempuan dan anak korban tindak kekerasan dandiskriminasi;  
 e. melakukan pemantauan dan pengawasan terhadap perlindunganperempuan dan anak tindak kekerasan dan diskriminasi;  
 f. menyediakan sarana dan prasarana dalam rangka mendukung perlindungan perempuan dan anak dari tindak kekerasan dandiskriminasi;  
-g. berperan aktif dengan menghilangkan pelabelan negatif terhadapperempuan dan anak korban tindak kekerasan dan diskriminasi; danh. memberikan ruang kepada perempuan dan anak untuk dapat berpartisipasi dan menyampaikan pendapat.  
+g. berperan aktif dengan menghilangkan pelabelan negatif terhadapperempuan dan anak korban tindak kekerasan dan diskriminasi; dan  
+h. memberikan ruang kepada perempuan dan anak untuk dapat berpartisipasi dan menyampaikan pendapat.  
 
 #### Pasal 13
 
@@ -237,7 +247,8 @@ Kewajiban keluarga sebagaimana dimaksud dalam Pasal 10 huruf dmemiliki tanggung 
 1. Dalam rangka pelayanan terhadap perempuan dan anak korbantindak kekerasan dan diskriminasi sebagaimana dimaksud dalamPasal 7, Pemerintah Daerah membentuk Kelembagaan dengannama Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan -11- Anak (P2TP2A) atau lembaga sejenisnya yang memiliki fungsi danperan yang sama sebagai pusat pelayanan dalam perlindunganperempuan dan anak dari tindak kekerasan dan diskriminasi.  
 2. P2TP2A sebagaimana dimaksud pada ayat (1), berfungsi sebagai:  
 a. pusat informasi bagi perempuan dan anak;  
-b. pusat pelayanan bagi perempuan dan anak korban kekerasan; danc. pusat pemberdayaan bagi perempuan dan anak.  
+b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  
+c. pusat pemberdayaan bagi perempuan dan anak.  
 3. P2TP2A sebagaimana dimaksud pada ayat (1) berkedudukan di Daerah dan Kecamatan.  
 4. Dalam rangka pelayanan perlindungan perempuan dan anak dari tindak kekerasan di tingkat desa dibentuk Pusat PelayananTerpadu.  
 5. Ketentuan lebih lanjut mengenai struktur organisasi dan tata kerjaP2TP2A sebagaimana dimaksud pada ayat (1) diatur denganPeraturan Bupati.  
@@ -273,7 +284,8 @@ Kerjasama
 b. Pemerintah Provinsi;  
 c. Pemerintah Kabupaten/Kota Lain;  
 d. Pemerintah Desa;  
-e. Masyarakat; danf. Media Massa.  
+e. Masyarakat; dan  
+f. Media Massa.  
 2. Kerjasama sebagaimana dimaksud pada ayat (1) dapat dituangkandalam bentuk Kesepakatan Bersama sesuai ketentuan peraturanperundang-undangan.  
 
 ## Bagian Kedua
@@ -288,7 +300,8 @@ a. pemberitahuan informasi kesempatan kerja bagi perempuankorban tindak kekerasa
 b. pendidikan dan pelatihan bagi perempuan korban tindakkekerasan;  
 13-
 c. bantuan pendidikan bagi perempuan dan anak korban tindakkekerasan yang tercabut dari pendidikannya;  
-d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan; dane. penghapusan bentuk-bentuk pekerjaan terburuk bagi anak.  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan; dan  
+e. penghapusan bentuk-bentuk pekerjaan terburuk bagi anak.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk perjanjian sesuai ketentuan peraturanperundang-undangan.  
 
 # BAB IX
@@ -301,7 +314,8 @@ d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak keke
 2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  
 a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
-c. pemantauan; dand. evaluasi.  
+c. pemantauan; dan  
+d. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) dilakukan dalamrangka mewujudkan tujuan perlindungan perempuan dan anakdari tindak kekerasan sesuai standar pelayanan minimal yangdilaksanakan Perangkat Daerah yang menyelenggarakan urusanpemerintahan di bidang pemberdayaan perempuan danperlindungan anak.  
 
 #### Pasal 21

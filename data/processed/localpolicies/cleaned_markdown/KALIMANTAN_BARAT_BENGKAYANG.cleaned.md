@@ -35,12 +35,14 @@ Menimbang:
  
  
  
+ 
 a. , bahwa dalam diri setiap manusia melekat hale  asasimanusia yang wajib dihormati, dijunjung tinggi dandilindungi oleh negara, hukum, Pemerintah 1 Daerahdan setiap orang demi kehormatan sertaperlindungan terhadap harkat dan martabatmanusia;  
 b. .bahwa secara realitas jumlah anak di Kabupaten Bengkayang melebihi sepertiga jumlah penduduk, • sehingga Pemerintah Daerah berkewajiban memberikan  perlindungan kepada anak dari segala bentuk kekerasan, diskriminasi dan eksploitasi, agar terjamin I penghidupan dan kehidupan anak Kabupaten , Bengkayang yang layak dan bermartabat;  
 c. bahwa permasalahan anak harus ditangani secara komprehensif, terpadu, terarah dan berkesinambungan, sehinggaperlu mendapat dukungan kelembagaan melalui peraturan perundang-undangan guna mendukung Bengkayang sebagai Kabupaten Layak Anak;  
 d. ' bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan;  
 
 • Mengingat:  
+ 
  
  
  
@@ -195,7 +197,8 @@ b. menjadi saksj bila tidak membahayakan diri sendiri dan bila ada  jaminan keam
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
-e. melakukan kerja sama dengan penyedia layanan dalam  upayapencegahan, perlindungan dan pemulihan korban kekerasan.  f. memfasilitasi terbentuknya P2TP2A yang berbasis Rumah Sakit,Puskesmas, Rumah Perlindungan Trauma Center, dan  lembagapendukung lain; dang. mengawasi penyelenggaraan pelayanan terhadap korban,  denganstandar pelayanan yang melibatkan masyarakat.  
+e. melakukan kerja sama dengan penyedia layanan dalam  upayapencegahan, perlindungan dan pemulihan korban kekerasan.  f. memfasilitasi terbentuknya P2TP2A yang berbasis Rumah Sakit,Puskesmas, Rumah Perlindungan Trauma Center, dan  lembagapendukung lain; dan  
+g. mengawasi penyelenggaraan pelayanan terhadap korban,  denganstandar pelayanan yang melibatkan masyarakat.  
 2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah berwenang:a. merumuskan kebijakan dan program tentang penghapusankerasan  terhadap perempuan dan anak;  
 b. membentuk P2TP2A;  
 c. memfasilitasi terselenggaranya kegiatan P2TP2A;  
@@ -203,7 +206,8 @@ d. menyediakan sarana dan prasarana;
 e. meningkatkan kapasitas lembaga penyedia layanan;  
 
 • melakukan koordinasi dan kerja sama dalam  penyelenggaraanperlindungan terhadap korban kekerasan terhadap  I perempuan dananak;  
-g. mendorong partisipasi masyarakat; danh. melakukan monitoring dan evaluasi.  
+g. mendorong partisipasi masyarakat; dan  
+h. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban  sebagaimanadimaksud pada ayat (1) dan ayat (2) harus memperhatikan  hak dankewajiban orang tua, wali, suami, istri atau orang lain yang  secarahukum bertanggung jawab kepada korban.  
 
 ##### BABVI
@@ -270,14 +274,16 @@ Paragraf3 Perlindungan Hukum
 
 Perlindungan hukum sebagaimana dimaksud dalam Pasal 11 huruf c  meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
-b. melakukan pendampingan dalam proses hukum; danc. memberikan perlindungan hukum secara khusus bagi anak  korbankekerasan dapat dilakukan dengan penunjukan perwalian sesuai  dengan ketentuan peraturan perundang-undangan.  
+b. melakukan pendampingan dalam proses hukum; dan  
+c. memberikan perlindungan hukum secara khusus bagi anak  korbankekerasan dapat dilakukan dengan penunjukan perwalian sesuai  dengan ketentuan peraturan perundang-undangan.  
 12- Paragraf4 Koordinasi
 
 #### Pasal 16
 
 Koordinasi sebagaimana dimaksud dalam Pasal 11 huruf d, meliputi:  a. melakukan koordinasi penanganan kasus kekerasan denganpelayanan  terpadu provinsi;  
 b. melakukan koordinasi dengan pelayanan terpadu daerah lain;  
-c. melakukan koordinasi dengan lembaga penyedia layanan bagiperempuan  dan anak korban kekerasan; dand. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
+c. melakukan koordinasi dengan lembaga penyedia layanan bagiperempuan  dan anak korban kekerasan; dan  
+d. melakukan koordinasi dan konsultasi dengan Pemerintah Daerah.  
 
 ### Paragraf 5
 

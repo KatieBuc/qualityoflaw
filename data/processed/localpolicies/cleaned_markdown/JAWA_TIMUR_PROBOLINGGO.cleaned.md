@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak adalah makhluk Tuhan Yang  Maha Esa yang memiliki hak asasi yang dijamin oleh Undang-Undang Dasar Negera Republik Indonesia Tahun 1945, karenanya perempuan dan anak wajib dilindungi dari segala bentuk kekerasan dan diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di Daerah  cenderung mengalami peningkatan, maka Pemerintah Daerah dan/atau masyarakat perlu berperan aktif secara optimal untuk memberikan perlindungan, agar perempuan dan anak terhindar dan terbebas dari kekerasan atau ancaman kekerasan, penyiksaan, atau perlakuan yang merendahkan derajat dan martabat kemanusiaan;  
 c. bahwa perlindungan terhadap perempuan dan anak  merupakan urusan konkuren wajib yang menjadi kewenangan, kewajiban, dan tanggung jawab Pemerintah Daerah, sehingga diperlukan pengaturan sebagai dasar penyelenggaran perlindungan terhadap perempuan dan anak yang komprehensif dan terpadu;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -108,7 +110,8 @@ Penyelenggaraan perlindungan perempuan dan anak bertujuan untuk:
 a. menjamin terpenuhinya hak-hak perempuan dan anak agar dapat berpartisipasi  secara optimal dalam masyarakat sesuai harkat dan martabat kemanusiaan;  
 b. memberikan perlindungan dan memberikan rasa aman kepada perempuan dan  anak dari segala bentuk kekerasan dan diskriminasi;  
 c. mencegah dan menghapus segala bentuk kekerasan dan ekspolitasi terhadap  perempuan dan anak termasuk perdagangan orang;  
-d. memberikan pelayanan kepada perempuan dan anak korban kekerasan, pelapor,  dan saksi; dane. memberdayakan perempuan dan anak korban kekerasan.  
+d. memberikan pelayanan kepada perempuan dan anak korban kekerasan, pelapor,  dan saksi; dan  
+e. memberdayakan perempuan dan anak korban kekerasan.  
 
 # BAB III
 
@@ -126,7 +129,8 @@ b. melaksanakan kebijakan perlindungan perempuan dan anak yang ditetapkan  oleh 
 c. koordinasi pelaksanaan kebijakan, program, dan kegiatan perlindungan hak hak perempuan dan anak antara organisasi perangkat daerah;  
 d. kerjasama dengan daerah lain untuk pelaksanaan kebijakan, program, dan  kegiatan perlindungan hak-hak perempuan dan anak;  
 e. penguatan kelembagaan pengarusutamaan Gender dan pengarusutamaan hak  anak untuk pelaksanaan kebijakan, program, dan kegiatan perlindungan  hak-hak perempuan dan anakf. membentuk PPT di Daerah;  
-g. menjamin terlaksananya pelayanan yang prima dalamperlindungan perempuan  dan anak, termasuk terhadap perempuan dan anak korban kekerasan; danh. penyusunan sistem pendataan perlindungan perempuan dan anak, termasuk  pendataan kekerasan terhadap perempuan dan anak;  
+g. menjamin terlaksananya pelayanan yang prima dalamperlindungan perempuan  dan anak, termasuk terhadap perempuan dan anak korban kekerasan; dan  
+h. penyusunan sistem pendataan perlindungan perempuan dan anak, termasuk  pendataan kekerasan terhadap perempuan dan anak;  
 i. pembentukan dan pengembangan Kabupaten Layak Anak;  
 
 # BAB IV
@@ -143,7 +147,8 @@ Bupati menetapkan kebijakan dasar penyelenggaraan perlindungan perempuan dan  an
 2. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) terintegrasi dengan  dokumen Rencana Pembangunan Jangka Panjang Daerah, Rencana  Pembangunan Jangka Menengah Daerah dan Rencana Kerja Pemerintah  Daerah.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1) sekurang-kurangnya  memuat:a. program dan kegiatan aksi perlindungan perempuan dan anak, termasuk  perempuan dan anak korban kekerasan;  
 b. program dan kegiatan aksi daerah untuk mencegah segala bentuk kekerasan  dan diskriminasi terhadap perempuan dan anak;  
-c. program dan kegiatan aksi perbaikan dan peningkatan pelayanan  perlindungan perempuan dan anak korban kekerasan; dand. program dan kegiatan aksi pemberdayaan perempuan dan anak korban  kekerasan.  
+c. program dan kegiatan aksi perbaikan dan peningkatan pelayanan  perlindungan perempuan dan anak korban kekerasan; dan  
+d. program dan kegiatan aksi pemberdayaan perempuan dan anak korban  kekerasan.  
 4. Ketentuan mengenai Rencana Aksi Daerah sebagaimana dimaksud pada ayat (1)  diatur lebih lanjut dengan Peraturan Bupati.  
 
 #### Pasal 8
@@ -177,7 +182,8 @@ Kekerasan terhadap perempuan dan anak dapat berupa:
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran; dane. eksploitasi.  
+d. penelantaran; dan  
+e. eksploitasi.  
 
 #### Pasal 11
 
@@ -217,7 +223,8 @@ b. informasi;
 c. pelayanan prima;  
 d. penanganan berkelanjutan sampai tahap rehabilitasi;  
 e. penanganan secara rahasia;  
-f. pendampingan secara psikologis dan hukum; dang. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga  maupun anggota masyarakat.  
+f. pendampingan secara psikologis dan hukum; dan  
+g. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga  maupun anggota masyarakat.  
 
 #### Pasal 17
 
@@ -225,7 +232,8 @@ Selain mendapatkan hak sebagaimaana dimaksud dalam Pasal 16, anak korban  kekera
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 #### Pasal 18
 
@@ -255,7 +263,8 @@ Ruang Lingkup
 
 Perlindungan perempuan dan anak korban kekerasan meliputi:  
 a. pencegahan;  
-b. pelayanan; danc. pemberdayaan.  
+b. pelayanan; dan  
+c. pemberdayaan.  
 
 #### Pasal 22
 
@@ -284,7 +293,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. nondiskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 3. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan secara terpadu  oleh PPT.  
 
 #### Pasal 24
@@ -293,10 +303,13 @@ f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.
 b. usaha ekonomis produktif dan kelompok usaha bersama; dan c. bantuan permodalan.  
 2. Pelatihan kerja sabagaimana dimaksud pada ayat (1) huruf a meliputi:  
 a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
-3. Usaha ekonomis produktif dan kelompok usaha bersama sabagaimana  dimaksud pada ayat (1) huruf b meliputi:a. pelatihan keterampilan wirausaha; danb. pendampingan pelaku usaha.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
+3. Usaha ekonomis produktif dan kelompok usaha bersama sabagaimana  dimaksud pada ayat (1) huruf b meliputi:a. pelatihan keterampilan wirausaha; dan  
+b. pendampingan pelaku usaha.  
 4. Bantuan permodalan sabagaimana dimaksud pada ayat (1) huruf c meliputi:  
-a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.  
+a. bantuan sarana dan prasarana; dan  
+b. fasilitas bantuan modal kerja/usaha.  
 5. Pemberdayaan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh PPT.  
 
 ## Bagian Ketiga
@@ -319,7 +332,8 @@ j. anak korban kejahatan seksual;
 k. anak korban jaringan terorisme;  
 l. anak penyandang disabilitas;  
 m. anak korban perlakuan salah dan penelantaran;  
-n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengankondisi  orang tuanya.  
+n. anak dengan perilaku sosial menyimpang; dan  
+o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengankondisi  orang tuanya.  
 3. Ketentuan mengenai tata cara perlindungan khusus anak sebagaimana  dimaksud pada ayat (2) diatur lebih lanjut dengan Peraturan Bupati.  
 
 ## Bagian Keempat
@@ -373,7 +387,8 @@ j. pemberdayaan perempuan dan perlindungan anak;
 k. ketentraman dan ketertiban umum;  
 l. rumah sakit umum daerah;  
 m. kepolisian;  
-n. lembaga swadaya masyarakat; dano. perguruan tinggi.  
+n. lembaga swadaya masyarakat; dan  
+o. perguruan tinggi.  
 3. PPT sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati. (4) Ketentuan mengenai struktur organisasi, tugas dan fungsi PPT diatur lebih  lanjut dengan Peraturan Bupati.  
 
 # BAB VII
@@ -390,7 +405,8 @@ e. tenaga kesehatan;
 f. pekerja sosial;  
 g. relawan pendamping;  
 h. pembimbing rohani;  
-i. lembaga swadaya masyarakat yang bergerak di bidang perlindungan  perempuan dan anak; danj. masyarakat.  
+i. lembaga swadaya masyarakat yang bergerak di bidang perlindungan  perempuan dan anak; dan  
+j. masyarakat.  
 2. Kerjasama sebagaimana dimaksud pada ayat (1) berupa:a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. pelayanan kesehatan;  
@@ -414,7 +430,8 @@ a. membentuk mitra keluarga ditingkat kelurahan/desa;
 b. membentuk lembaga swadaya masyarakat yang bidang kerjanya di bidang  perlindungan perempuan dan anak;  
 c. melakukan sosialisasi hak perempuan secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan indikasi kekerasan terhadap  perempuan dan anak di masyarakat;  
-e. melakukan pertolongan pertama pada perempuan dan anak korban kekerasan; danf. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi  kekerasan terhadap perempuan dan anak.  
+e. melakukan pertolongan pertama pada perempuan dan anak korban kekerasan; dan  
+f. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi  kekerasan terhadap perempuan dan anak.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan  oleh perorangan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga  keagamaan, dan dunia usaha.  
 
 #### Pasal 33
@@ -442,7 +459,8 @@ c. memberikan bantuan dalam penyelenggaraan perlindungan perempuan dan  anak seb
 #### Pasal 36
 
 1. Pengawasan sebagaimana dimaksud dalam Pasal 35 dilakukan terhadap:  
-a. pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak; danb. pemenuhan pedoman dan standar pelayanan minimal dalam pelaksanaan  pencegahan, pelayanan dan pemberdayaan perempuan dan anak korban  kekerasan.  
+a. pelaksanaan kebijakan, program dan kegiatan perlindungan perempuan dan  anak; dan  
+b. pemenuhan pedoman dan standar pelayanan minimal dalam pelaksanaan  pencegahan, pelayanan dan pemberdayaan perempuan dan anak korban  kekerasan.  
 2. Pengawasan dilakukan setiap berakhirnya tahun anggaran dan hasilnya  digunakan sebagai bahan masukan bagi penyusunan kebijakan, program,  kegiatan perlindungan perempuan dan anak untuk tahun berikutnya.  
 
 #### Pasal 37
@@ -458,7 +476,8 @@ Ketentuan mengenai pembinaan dan pengawasan penyelenggaraan perlindungan  peremp
 1. PPT wajib melaporkan pelaksanaan penyelenggaraan perlindungan terhadap  perempuan dan anak kepada Bupati melalui Dinas.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2),  dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB XI

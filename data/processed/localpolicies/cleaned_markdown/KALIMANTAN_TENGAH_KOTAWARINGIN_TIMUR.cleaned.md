@@ -25,12 +25,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga Negara berhak atas rasa aman dan bebas dari segala bentuk tindak kekerasan terhadap perempuan dan anak yang merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan  dan anak di daerah terus meningkat, sehingga diperlukan upaya perlindungan;  
 c. bahwa peraturan perundang-undangan yang mengatur mengenai perlindungan perempuan dan anak korban kekerasan belum mengatur upaya-upaya perlindungan di daerah sehingga diperlukan dukungan kelembagaan dan peraturan yang dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b dan huruf c tersebut diatas, perlu diatur dan ditetapkan dengan Peraturan Daerah Kabupaten Kotawaringin Timur tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -110,13 +112,15 @@ a. K e m a n u s i a a n ;
 b. Penghormatan dan pemenuhan terhadap hak-hak korban;  
 c. Keadilan dan kesetaraan gender;  
 d. Non diskriminasi;  
-e. Kepentingan terbaik bagi korban; danf. Pemberdayaan.  
+e. Kepentingan terbaik bagi korban; dan  
+f. Pemberdayaan.  
 
 #### Pasal 3
 
 Tujuan Perlindungan Korban adalah:  
 a. Mencegah kekerasan terhadap perempuan dan anak;  
-b. Memberikan pelayanan kepada Korban; danc. Melakukan pemberdayaan dan rehabilitasi kepada korban  kekerasan.  
+b. Memberikan pelayanan kepada Korban; dan  
+c. Melakukan pemberdayaan dan rehabilitasi kepada korban  kekerasan.  
 
 #### Pasal 4
 
@@ -169,7 +173,8 @@ c. segala bentuk pemanfaatan organ tubuh seksual atau  organ tubuh lain dari kor
 #### Pasal 11
 
 Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f disebabkan karena:  
-a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa  menggunakan sarana yang menimbulkan rasa takut  atau mengekang kebebasan hakiki seseorang; danb. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
+a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa  menggunakan sarana yang menimbulkan rasa takut  atau mengekang kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh melakukan sesuatu  sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 # BAB IV
 
@@ -211,17 +216,20 @@ Kewajiban Pemerintah Daerah
 b. Membentuk FKPKK;  
 c. Menyusun perencanaan program dan kegiatan;  
 d. Memberikan dukungan sarana dan prasarana;  
-e. Mengalokasikan anggaran; danf. melakukan pembinaan dan pengawasan perlindungan  perempuan dan anak melalui dinas terkait.  
+e. Mengalokasikan anggaran; dan  
+f. melakukan pembinaan dan pengawasan perlindungan  perempuan dan anak melalui dinas terkait.  
 2. Dalam hal pelaksanaan kewajiban dan tanggungjawab Pemerintah Daerah sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah menyusun Rencana Aksi Daerah untuk perlindungan korban.  
 
 #### Pasal 15
 
 Pemerintah Daerah menyelenggaraan layanan bagi korban dalam bentuk:  
-a. Memfasilitasi sarana dan prasarana P2TP2A sesuai kemampuan; danb. Memfasilitasi FPKK sebagai wadah jejaring penanganan korban.  
+a. Memfasilitasi sarana dan prasarana P2TP2A sesuai kemampuan; dan  
+b. Memfasilitasi FPKK sebagai wadah jejaring penanganan korban.  
 
 #### Pasal 16
 
-1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:a. Mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar pelayanan minimal; danb. Menyediakan dana untuk perlindungan korban melalui APBD dalam bentuk hibah kepada P2TP2A.  
+1. Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:a. Mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar pelayanan minimal; dan  
+b. Menyediakan dana untuk perlindungan korban melalui APBD dalam bentuk hibah kepada P2TP2A.  
 2. Pendanaan atas kegiatan perlindungan bagi korban yang dilakukan oleh Pemerintah Daerah dibebankan pada APBD  dan/atau sumber lain yang sah sesuai dengan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 17
@@ -237,7 +245,8 @@ Kewajiban Masyarakat dan Keluarga
 Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai berikut:  
 a. Mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. Melaporkan bila terjadi kekerasan;  
-c. Melindungi korban; dand. Memberikan pertolongan darurat.  
+c. Melindungi korban; dan  
+d. Memberikan pertolongan darurat.  
 
 # BAB VI
 
@@ -266,11 +275,13 @@ PUSAT PELAYANAN TERPADU PERLINDUNGAN PEREMPUAN DAN ANAK  (P2TP2A)
 
 1. Struktur organisasi P2TP2A yang dibentuk oleh  Pemerintah Daerah sebagaimana dimaksud dalam Pasal 19  ayat (1) terdiri dari:a. Ketua Umum atau sebutan lain yang setingkat;  
 b. Sekretaris;  
-c. Bendahara; dand. Ketua Pelaksana yang membawahi bidang-bidang.  
+c. Bendahara; dan  
+d. Ketua Pelaksana yang membawahi bidang-bidang.  
 2. Bidang-Bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang- kurangnya meliputi:a. Bidang layanan pengaduan;  
 b. Bidang layanan kesehatan;  
 c. Bidang layanan rehabilitasi sosial;  
-d. B idang pemulangan dan reintegrasi sosial; dane. Bidang layanan bantuan hukum.  
+d. B idang pemulangan dan reintegrasi sosial; dan  
+e. Bidang layanan bantuan hukum.  
 
 #### Pasal 22
 
@@ -286,30 +297,35 @@ a. Melakukan pemeriksaan, pengobatan, dan perawatan lanjutan terhadap korban;
 b. Melakukan koordinasi pelaksanaan rehabilitasi kesehatan  dan mediko- legal;  
 c. Melakukan pemeriksaan mediko-legal meliputi pengumpulan barang bukti pada korban dan pembuatan visum et repertum;  
 d. Melakukan pemeriksaan penunjang dan laboratorium terhadap barang bukti;  
-e. Melakukan konsultasi kepada dokter ahli atau melakukan rujukan; danf. Membuat laporan kasus.  
+e. Melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan  
+f. Membuat laporan kasus.  
 
 #### Pasal 24
 
 Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 21 ayat (2) huruf c memiliki tugas:  
-a. Melakukan pendampingan selama proses penanganan kasus; danb. Melakukan konseling.  
+a. Melakukan pendampingan selama proses penanganan kasus; dan  
+b. Melakukan konseling.  
 
 #### Pasal 25
 
 Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 21 ayat (2) huruf d memiliki tugas:  
 a. Melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
-b. Membuat laporan perkembangan proses pendampingan pemulangan dan rehabilitasi sosial; danc. Melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya.  
+b. Membuat laporan perkembangan proses pendampingan pemulangan dan rehabilitasi sosial; dan  
+c. Melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya.  
 
 #### Pasal 26
 
 Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 21 ayat (2) huruf e memiliki tugas:  
-a. Mendampingi dan membela setiap proses pelayanan hukum; danb. Membuat laporan perkembangan penanganan hukum.  
+a. Mendampingi dan membela setiap proses pelayanan hukum; dan  
+b. Membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 27
 
 1. P2TP2A yang dibentuk oleh Pemerintah Daerah sekurang kurangnya memiliki tiga konselor.  
 2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:  
 a. Konselor dalam bidang hukum;  
-b. Konselor dalam bidang kesehatan; danc. Konselor dalam bidang psikologi.  
+b. Konselor dalam bidang kesehatan; dan  
+c. Konselor dalam bidang psikologi.  
 
 # BAB VIII
 
@@ -325,13 +341,15 @@ Pencegahan
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1)  dilaksanakan dengan cara:a. Membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. Melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 c. Membentuk sistem pencegahan kekerasan;  
-d. Melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan; dane. Memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.  f. Memberlakukan jam malam bagi anak-anak yang akan  diatur lebih lanjut dengan Peraturan Bupati Kotawaringin  Timur.  
+d. Melakukan sosialisasi tentang peraturan perundang undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan; dan  
+e. Memberikan pendidikan kritis tentang hak-hak perempuan dan anak bagi masyarakat.  f. Memberlakukan jam malam bagi anak-anak yang akan  diatur lebih lanjut dengan Peraturan Bupati Kotawaringin  Timur.  
 
 #### Pasal 29
 
 Disamping upaya pencegahan yang dilakukan oleh Pemerintah Daerah sebagaimana dimaksud dalam Pasal 28, upaya pencegahan juga harus dilakukan oleh:  
 a. Keluarga dan/atau kerabat terdekat;  
-b. Masyarakat; danc. Lembaga pendidikan.  
+b. Masyarakat; dan  
+c. Lembaga pendidikan.  
 
 ## Bagian Kedua
 
@@ -350,7 +368,8 @@ b. Aman dan nyaman;
 c. Rasa empati;  
 d. non diskriminasi;  
 e. Mudah dijangkau;  
-f. Tidak dikenakan biaya; dang. Dijamin kerahasiaannya.  
+f. Tidak dikenakan biaya; dan  
+g. Dijamin kerahasiaannya.  
 
 #### Pasal 32
 
@@ -359,7 +378,8 @@ a. Pelayanan pengaduan, konsultasi, dan konseling;
 b. Pelayanan pendampingan;  
 c. Pelayanan kesehatan;  
 d. Pelayanan rehabilitasi sosial;  
-e. Pelayanan hukum; danf. Pelayanan pemulangan dan reintegrasi sosial.  
+e. Pelayanan hukum; dan  
+f. Pelayanan pemulangan dan reintegrasi sosial.  
 
 #### Pasal 33
 
@@ -374,13 +394,15 @@ b. Mendampingi korban selama proses medicolegal;
 c. Mendampingi korban selama proses pemeriksaan di  Kepolisian, Kejaksaan dan pengadilan;  
 d. Memantau kepentingan dan hak-hak korban dalam proses pemeriksaan di Kepolisan, Kejaksaan dan Pengadilan;  
 e. Menjaga privasi dan kerahasiaan korban dari semua  pihak yang tidak berkepentingan, termasuk pemberitaan oleh media massa;  
-f. Melakukan koordinasi dengan pendamping yang lain; dang. Memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
+f. Melakukan koordinasi dengan pendamping yang lain; dan  
+g. Memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 #### Pasal 35
 
 Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 32 huruf c meliputi:  
 a. Pertolongan pertama kepada korban;  
-b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. Rujukan ke layanan kesehatan.  
+b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan  
+c. Rujukan ke layanan kesehatan.  
 
 #### Pasal 36
 
@@ -411,13 +433,15 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
 a. Pelatihan kerja;  
-b. Usaha ekonomis produktif dan kelompok usaha bersama; danc. Bantuan permodalan.  
+b. Usaha ekonomis produktif dan kelompok usaha bersama; dan  
+c. Bantuan permodalan.  
 
 #### Pasal 40
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 39 huruf a meliputi:  
 a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 41
 
@@ -428,7 +452,8 @@ b. Fasilitasi pembentukan kelompok usaha bersama; dan  c. Pendampingan pelaksana
 #### Pasal 42
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 39 huruf c meliputi:  
-a. Bantuan sarana dan prasarana kerja; danb. Fasilitasi bantuan modal kerja.  
+a. Bantuan sarana dan prasarana kerja; dan  
+b. Fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
 
@@ -448,12 +473,14 @@ Kooordinasi Perlindungan Korban
 1. Dalam upaya menyediakan dan menyelenggarakan penanganan layanan bagi korban, Pemerintah Daerah membentuk FPKK.  
 2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
 a. Mengoordinasikan dan mensingkronisasikan penanganan pelayanan P2TP2A;  
-b. Memelihara dan mengembangkan jejaring serta sistem rujukan; danc. Mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
+b. Memelihara dan mengembangkan jejaring serta sistem rujukan; dan  
+c. Mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
 3. Kepungurusan dan keanggotaan FPKK sebagaimana dimaksud pada ayat (1) ditetapkan dengan Keputusan Bupati.  
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3)  dikelompokkan dalam peran sebagai berikut:a. P eran kesehatan;  
 b. Peran psikologi;  
 c. Peran hukum;  
-d. Peran sosial; dane. Peran ekonomi.  
+d. Peran sosial; dan  
+e. Peran ekonomi.  
 
 # BAB IX
 
@@ -474,7 +501,8 @@ d. Peran sosial; dane. Peran ekonomi.
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap pelaksanaan standar pelayanan minimal P2TP2A.  
 2. Pembinaan dan Pengawasan sebagaimana dimaksud  pada ayat (1) meliputi:a. K oordinasi;  
 b. Bimbingan;  
-c. Pendidikan dan pelatihan; dand. Pemantauan dan evaluasi.  
+c. Pendidikan dan pelatihan; dan  
+d. Pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a mencakup aspek yang berkaitan dengan perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b mencakup aspek yang berkaitan dengan perencanaan,  pelaksanaan, tata laksana, pendanaan, kualitas, pengendalian dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaimana dimaksud pada ayat (2) huruf c dilakukan sesuai peraturan perundang undangan.  

@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapat jaminan terhadap  pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi dalam rangka membangun masyarakat, bangsa dan negara;  
 b. bahwa seiring meningkatnya perlakuan kekerasan terhadap  perempuan dan anak di Kabupaten Sarolangun, merupakan  perbuatan yang merendahkan harkat dan martabat  kemanusiaan, sehingga diperlukan peran pemerintah  Kabupaten Sarolangun agar perempuan dan anak terlindungi  dari pelanggaran terhadap hak yang dijamin oleh Konstitusi;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan dan  Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -100,14 +102,16 @@ d. keadilan dan kepastian hukum;
 e. kemanfaatan;  
 f. partisipatif;  
 g. kepentingan terbaik bagi anak;  
-h. akuntabilitas; dani. rensponsif gender.  
+h. akuntabilitas; dan  
+i. rensponsif gender.  
 
 #### Pasal 3
 
 Pengaturan mengenai Pemberdayaan dan Perlindungan Perempuan dan Anak bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak setiap perempuan dan anak atas kelangsungan hidup, tumbuh dan berkembang;  
 b. meningkatkan kualitas hidup perempuan, anak dan kualitas keluarga;  
-c. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender dan anak; dand. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya.  
+c. meningkatkan kapasitas kelembagaan pemberdayaan perempuan dan perlindungan anak di daerah, termasuk pengembangan sistem data gender dan anak; dan  
+d. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlindungan khusus bagi anak dari berbagai bentuk kekerasan dan perlakuan diskriminatif lainnya.  
 
 #### Pasal 4
 
@@ -121,7 +125,8 @@ f. rumah aman;
 g. kabupaten layak anak;  
 h. pembinaan dan pengawasan;  
 i. peran serta masyarakat;  
-j. penghargaan; dank. pembiayaan.  
+j. penghargaan; dan  
+k. pembiayaan.  
 
 # BAB II
 
@@ -142,7 +147,8 @@ f. bebas dari perbudakan atau diperhamba dan ancaman;
 g. memperoleh perlindungan diri pribadi, keluarga, kehormatan, martabat dan hak miliknya;  
 h. mendapatkan kesejahteraan dan kehidupan yang layak;  
 i. berpartisipasi dalam politik serta memperoleh kesempatan yang sama dalam pemerintahan;  
-j. melakukan perbuatan hukum; dank. bebas memilih pasangan dalam perkawinannya.  
+j. melakukan perbuatan hukum; dan  
+k. bebas memilih pasangan dalam perkawinannya.  
 2. Selain hak sebagaimana dimaksud pada ayat (1), khusus bagi perempuan penyandang disabilitas, berhak untuk mendapatkan kemudahan dan perlakuan khusus dalam pelayanan publik.  
 
 #### Pasal 6
@@ -155,7 +161,8 @@ j. melakukan perbuatan hukum; dank. bebas memilih pasangan dalam perkawinannya.
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab terhadap pemberdayaan dan perlindungan perempuan.  
 2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan peningkatan kualitas hidup perempuan terkait dengan bidang pembangunan, pendidikan, kesehatan, ekonomi, hukum, Hak Asasi Manusia dan politik, lingkungan dan sosial budaya;  
-b. penyelenggaraan layanan terhadap perempuan terutama terhadap korban kekerasan, tenaga kerja perempuan, perempuan lanjut usia, dan perempuan penyandang cacat, korban konflik dan korban terkena bencana; danc. pelaksanaan pengarusutamaan gender pada lembaga pemerintah, pusat studi wanita, lembaga penelitian dan pengembangan, lembaga non pemerintah.  
+b. penyelenggaraan layanan terhadap perempuan terutama terhadap korban kekerasan, tenaga kerja perempuan, perempuan lanjut usia, dan perempuan penyandang cacat, korban konflik dan korban terkena bencana; dan  
+c. pelaksanaan pengarusutamaan gender pada lembaga pemerintah, pusat studi wanita, lembaga penelitian dan pengembangan, lembaga non pemerintah.  
 3. Upaya pemberdayaan dan perlindungan perempuan sebagaimana dimaksud pada ayat (2) dilakukan secara terpadu sesuai dengan peraturan perundang-undangan yang berlaku.  
 4. Pemberdayaan dan perlindungan perempuan dikoordinasikan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan daerah dibidang pemberdayaan perempuan dan perlindungan anak.  
 
@@ -168,7 +175,8 @@ Pemberdayaan Perempuan
 Pemberdayaan perempuan diarahkan untuk memperoleh kesempatan dan hak hak sebagai manusia agar mampu berperan dan berpartisipasi dibidang:  
 a. ekonomi;  
 b. sosial budaya;  
-c. politik; dand. hukum.  
+c. politik; dan  
+d. hukum.  
 
 #### Pasal 9
 
@@ -176,25 +184,29 @@ Pemberdayaan perempuan dibidang ekonomi sebagaimana dimaksud dalam Pasal 8 huruf
 a. pemberian keterampilan dan pelatihan kerja;  
 b. fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 c. fasilitasi penguatan dan pengembangan kelompok usaha ekonomiproduktif;  
-d. fasilitasi dan bantuan permodalan; dane. fasilitasi pengembangan jaringan pemasaran.  
+d. fasilitasi dan bantuan permodalan; dan  
+e. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 10
 
 Pemberdayaan perempuan dibidang sosial budaya sebagaimana dimaksud dalam Pasal 8 huruf b dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi;  
-c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
+c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dan  
+d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 11
 
 1. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud dalam Pasal 8 huruf c meliputi:a. pelibatan perempuan dalam pengambilan keputusan diberbagaitingkatan;  
 b. pemberian kesempatan bagi perempuan untuk menduduki jabatan publik;  
-c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
+c. partisipasi dalam pemilihan umum; dan  
+d. pengembangan diri melalui organisasi untuk berserikat, berkumpul dan mengeluarkan pendapat.  
 2. Pemberdayaan perempuan dibidang politik sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang- undangan yang berlaku.  
 
 #### Pasal 12
 
-1. Pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 8 huruf d meliputi:a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
+1. Pemberdayaan perempuan dibidang hukum sebagaimana dimaksud dalam Pasal 8 huruf d meliputi:a. peningkatan kesadaran dan pengetahuan dibidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
+b. fasilitasi akses dan layanan konsultasi hukum.  
 2. Pemberdayaan perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan peraturan perundang- undangan yang berlaku.  
 
 ## Bagian Ketiga
@@ -204,7 +216,8 @@ Perlindungan Perempuan
 #### Pasal 13
 
 1. Perlindungan perempuan meliputi:a. perlindungan sosial;  
-b. perlindungan ekonomi; danc. perlindungan hukum.  
+b. perlindungan ekonomi; dan  
+c. perlindungan hukum.  
 2. Perlindungan sosial sebagaimana dimaksud pada ayat (1) huruf a untuk menjamin kelangsungan hidup perempuan dalam bentuk perlindungan sosial guna menjamin terpenuhinya kebutuhan hidup yang layak.  
 3. Perlindungan ekonomi sebagaimana dimaksud pada ayat (1) huruf b untuk  mencegah dan menangani resiko kerentanan akibat dari guncangan dan kerentanan sosial seseorang, keluarga, kelompok dan/atau masyarakat untuk kelangsungan hidup perempuan.  
 4. Perlindungan hukum sebagaimana dimaksud pada ayat (1) huruf c dilaksanakan dalam hal memberikan perlindungan terhadap perempuan yang menjadi saksi dan korban tindak kekerasan dan diskriminasi.  
@@ -244,7 +257,8 @@ Dalam memenuhi Hak Sipil dan Kebebasan Anak, Keluarga:
 a. mengurus akte kelahiran anak setelah anak dilahirkan;  
 b. mengupayakan kartu identitas anak;  
 c. memberikan ruang untuk berkumpul dan berorganisasi serta mendengarkan anak untuk mengeluarkan pendapatnya;  
-d. mengawasi anak dalam mengakses berbagai informasi serta menyediakan informasi yang sehat dan aman; dane. melindungi kehidupan pribadi anak dan tidak mengekspose tanpa seizin anak.  
+d. mengawasi anak dalam mengakses berbagai informasi serta menyediakan informasi yang sehat dan aman; dan  
+e. melindungi kehidupan pribadi anak dan tidak mengekspose tanpa seizin anak.  
 
 #### Pasal 17
 
@@ -253,7 +267,8 @@ a. menyelenggarakan pelayanan yang cepat dan mudah dalam pembuatan akte kelahira
 b. melibatkan anak melalui forum anak di tingkat desa/kelurahan, kecamatan dan kota dalam musyawarah rencana pembangunan atau forum-forum lainnya yang sejenis;  
 c. menyediakan call center anak sebagai sarana komunikasi interaktif atau pengaduan yang berkaitan dengan kepentingan anak;  
 d. menyediakan fasilitas informasi yang sehat dan aman dengan melakukan pengawasan terhadap penyelenggara jasa internet;  
-e. menyediakan kartu identitas anak; danf. menyediaan ruang baca atau pojok baca diruang publik.  
+e. menyediakan kartu identitas anak; dan  
+f. menyediaan ruang baca atau pojok baca diruang publik.  
 
 ## Bagian Ketiga
 
@@ -267,7 +282,8 @@ b. tidak dipisahkan dari orangtuanya, kecuali pemisahan tersebut untuk kepenting
 c. mendapatkan pola asuh yang baik, santun dan penuh kasih sayang;  
 d. mendapatkan pola asuh yang seimbang dari kedua orangtuanya;  
 e. mendapatkan dukungan kesejahteraan meskipun orangtuanya tidak mampu;  
-f. mendapatkan pengasuhan alternatif dalam hal kedua orangtuanya meninggal atau menderita penyakit yang tidak memungkinkan untuk mengasuh anak; dang. mendapatkan keharmonisan keluarga.  
+f. mendapatkan pengasuhan alternatif dalam hal kedua orangtuanya meninggal atau menderita penyakit yang tidak memungkinkan untuk mengasuh anak; dan  
+g. mendapatkan keharmonisan keluarga.  
 
 #### Pasal 19
 
@@ -275,7 +291,8 @@ Dalam memenuhi hak dalam lingkungan keluarga dan pengasuhan alternatif, Keluarga
 a. memberikan pola asuh, kasih sayang, perhatian, perlindungan, fasilitas, menjaga keharmonisan keluarga, dengan selalu mempertimbangkan yang terbaik bagi anak, sesuai kondisi dan kemampuan orang tua;  
 b. mencegah terjadinya pernikahan pada usia anak serta menjaga anak untuk tidak terjebak dalam pergaulan bebas, budaya permisivisme, danterhindar dari NAPZA, HIV dan AIDS serta terlindung dari pornografi;  
 c. memberikan pendidikan keagamaan dan menanamkan nilai luhur sejak dini kepada anak;  
-d. memberikan wawasan kebangsaan, kepahlawanan dan bela negara sejak dini kepada anak; dane. memberikan dukungan kesejahteraan.  
+d. memberikan wawasan kebangsaan, kepahlawanan dan bela negara sejak dini kepada anak; dan  
+e. memberikan dukungan kesejahteraan.  
 
 #### Pasal 20
 
@@ -302,7 +319,8 @@ d. imunisasi dasar lengkap;
 e. pemeriksaan kesehatan balita secara berkala;  
 f. lingkungan bebas asap rokok;  
 g. kesediaan air bersih;  
-h. akses jaminan sosial; dani. perlindungan dan rehabilitasi dari NAPZA, HIV dan AIDS.  
+h. akses jaminan sosial; dan  
+i. perlindungan dan rehabilitasi dari NAPZA, HIV dan AIDS.  
 
 #### Pasal 22
 
@@ -313,7 +331,8 @@ c. memenuhi imunisasi dasar lengkap;
 d. melaksanakan pemeriksaan kesehatan balita secara berkala;  
 e. membebaskan anak dari asap rokok;  
 f. memenuhi kebutuhan akan air bersih;  
-g. mengupayakan jaminan sosial; danh. mencegah anak dari NAPZA, HIV dan AIDS.  
+g. mengupayakan jaminan sosial; dan  
+h. mencegah anak dari NAPZA, HIV dan AIDS.  
 
 #### Pasal 23
 
@@ -323,7 +342,8 @@ b. penyediaan ruang menyusui di Kantor Pemerintah maupun swasta;
 c. penyelenggaraan dan fasilitasi sarana dan prasana Posyandu disetiap banjar dinas/lingkungan;  
 d. penyediaan air bersih;  
 e. penataan ruang terbuka hijau serta lingkungan yang bersih, sehat dan nyaman;  
-f. penyediaan ruang publik tanpa asap rokok; dang. fasilitas yang bertujuan menurunkan angka kematian ibu melahirkan dan angka kematian anak serta meningkatkan usia harapan hidup, standar gizi dan standar kesehatan.  
+f. penyediaan ruang publik tanpa asap rokok; dan  
+g. fasilitas yang bertujuan menurunkan angka kematian ibu melahirkan dan angka kematian anak serta meningkatkan usia harapan hidup, standar gizi dan standar kesehatan.  
 
 ## Bagian Kelima
 
@@ -335,7 +355,8 @@ Setiap Anak berhak mendapatkan hak atas pendidikan, pemanfaatan waktu  luang dan
 a. berpartisipasi pada pendidikan anak usia dini;  
 b. mendapatkan kesempatan yang seluas-luasnya untuk memperolehpendidikan;  
 c. hak mengembangkan bakat, minat dan kemampuan kreativitas;  
-d. berekreasi; dane. memiliki waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga.  
+d. berekreasi; dan  
+e. memiliki waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga.  
 
 #### Pasal 25
 
@@ -343,7 +364,8 @@ Dalam memenuhi hak pendidikan, pemanfaatan waktu luang dan kegiatan budaya, kelu
 a. menjamin kelangsungan pendidikan anak sejak usia dini;  
 b. memberikan kesempatan yang seluas-luasnya kepada anak untuk memperoleh pendidikan dan membangun komunikasi terkait kegiatan belajar mengajar di sekolah dengan pihak sekolah;  
 c. mengarahkan dan memberikan kesempatan anak untuk mengembangkan minat, bakat dan kreativitas;  
-d. memberikan waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga; dane. meluangkan waktu untuk berekreasi bersama anak-anak sesuai situasi dan kondisi orang tua.  
+d. memberikan waktu luang untuk beristirahat dan melakukan berbagai kegiatan seni, budaya dan olah raga; dan  
+e. meluangkan waktu untuk berekreasi bersama anak-anak sesuai situasi dan kondisi orang tua.  
 
 #### Pasal 26
 
@@ -358,7 +380,8 @@ g. memberikan beasiswa bagi siswa keluarga tidak mampu;
 h. memfasilitasi siswa putus sekolah di Sekolah Terbuka atau Pusat Kegiatan Belajar Masyarakat;  
 i. memberikan penghargaan kepada siswa berprestasi dalam bidang akademik, seni budaya dan olah raga;  
 j. mengeluarkan kebijakan untuk penyelenggara pendidikan agar tidak mengeluarkan siswa dari lembaga pendidikan, dengan melakukan pembinaan, kecuali terlibat tindak pidana;  
-k. menyelenggarakan masa orientasi peserta didik yang edukatif dan tanpa kekerasan; danl. membentuk pusat kreatifitas anak.  
+k. menyelenggarakan masa orientasi peserta didik yang edukatif dan tanpa kekerasan; dan  
+l. membentuk pusat kreatifitas anak.  
 
 ## Bagian Keenam
 
@@ -382,7 +405,8 @@ k. anak korban kejahatan seksual;
 l. anak korban jaringan terorisme;  
 m. anak pelaku jaringan terorisme:n. anak penyandang disabilitas;  
 o. anak korban perlakuan salah dan penelantaran;  
-p. anak dengan perilaku sosial menyimpang; danq. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+p. anak dengan perilaku sosial menyimpang; dan  
+q. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
 
 #### Pasal 28
 
@@ -392,7 +416,8 @@ Setiap keluarga menjalankan fungsi dan tanggungjawabnya dalam hal pemenuhan hak 
 
 Pemerintah Daerah mengupayakan pemenuhan Hak Perlindungan Khusus terhadap anak dengan:  
 a. menyusun program untuk mencegah agar anak tidak terlibat dalam situasi dan kondisi sebagaimana dimaksud dalam Pasal 27 ayat (3);  
-b. memberikan akses layanan publik dan jaminan sosial bagi anak penyandang disabilitas; danc. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam,  Rumah Singgah,panti rehabilitasi dan panti asuhan.  
+b. memberikan akses layanan publik dan jaminan sosial bagi anak penyandang disabilitas; dan  
+c. menyediakan fasilitas pelayanan pengaduan 24 (dua puluh empat) jam,  Rumah Singgah,panti rehabilitasi dan panti asuhan.  
 
 # BAB IV
 
@@ -436,7 +461,8 @@ b. menyediakan buku, leaflet, brosur mengenai pemberdayaan perempuan  dan perlin
 c. fasilitasi peningkatan kapasitas lembaga pemberdayaan perempuan dan perlindungan anak;  
 d. fasilitasi forum partisipasi perempuan dan organisasi perempuan dan anak;  
 e. fasilitasi layanan rehabilitasi dan reintegrasi perempuan dan anak korban diskriminasi, tindak kekerasan dan bencana;  
-f. mengkoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bantuan internasional bagi pemberdayaan perempuan dan perlindungan anak; dang. memberikan penghargaan kepada masyarakat dan dunia usaha baik secara individu maupun kelembagaan yang telah melakukan upaya pemberdayaan perempuan dan perlindungan anak.  
+f. mengkoordinasikan peran serta dunia usaha dan kelembagaan lain, termasuk bantuan internasional bagi pemberdayaan perempuan dan perlindungan anak; dan  
+g. memberikan penghargaan kepada masyarakat dan dunia usaha baik secara individu maupun kelembagaan yang telah melakukan upaya pemberdayaan perempuan dan perlindungan anak.  
 2. Bentuk pengawasan sebagaimana dimaksud dalam Pasal 32 dapat berupa kegiatan monitoring dan evaluasi atas pelaksanaan kebijakan, program dan kegiatan pemberdayaan perempuan dan perlindungan anak.  
 
 # BAB VII
@@ -455,9 +481,11 @@ f. fasilitasi;
 g. pelayanan;  
 h. kajian;  
 i. pelatihan;  
-j. permodalan; dank. penyediaan sarana prasarana.  
+j. permodalan; dan  
+k. penyediaan sarana prasarana.  
 3. Penguatan partisipasi masyarakat sebagaimana dimaksud pada ayat (1)dapat dilakukan dengan:a. penguatan kerjasama;  
-b. penguatan kapasitas kelembagaan pencegahan dan layanan dari masyarakat, pesantren dan dunia usaha; danc. dukungan pembiayaan.  
+b. penguatan kapasitas kelembagaan pencegahan dan layanan dari masyarakat, pesantren dan dunia usaha; dan  
+c. dukungan pembiayaan.  
 
 #### Pasal 35
 
@@ -467,7 +495,8 @@ b. pemberdayaan;
 c. peningkatan kapasitas;  
 d. media publikasi dan informasi;  
 e. penyediaan sarana prasarana;  
-f. pembentukan kelembagaan khusus untuk pencegahan dan pelayanan pengaduan kekerasan; dang. bantuan sosial yang tidak mengikat.  
+f. pembentukan kelembagaan khusus untuk pencegahan dan pelayanan pengaduan kekerasan; dan  
+g. bantuan sosial yang tidak mengikat.  
 
 # BAB VIII
 
@@ -541,7 +570,8 @@ s. kelembagaan atau pejabat pembentuk yang tepat;
 t. kesesuaian antara jenis, hierarki, dan materi muatan;  
 u. dapat dilaksanakan;  
 v. kedayagunaan dan kehasilgunaan;  
-w. kejelasan rumusan; danx. keterbukaan.  
+w. kejelasan rumusan; dan  
+x. keterbukaan.  
 
 Disamping asas pembentukan peraturan perundangundangan, perlu  juga memperhatikan asas materi muatan yang meliputi:  
 a. pengayoman;  
@@ -565,7 +595,8 @@ g. rumah aman;
 h. kabupaten layak anak;  
 i. pembinaan dan pengawasan;  
 j. peran serta masyarakat;  
-k. penghargaan; danl. pembiayaan.  
+k. penghargaan; dan  
+l. pembiayaan.  
 
 ### B. PENJELASAN PASAL DEMI PASAL
 

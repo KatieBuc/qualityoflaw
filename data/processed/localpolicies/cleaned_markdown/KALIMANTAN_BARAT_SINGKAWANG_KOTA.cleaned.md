@@ -147,7 +147,8 @@ d . hidup berkeluarga dalam ikatan perkawinan yang sah berdasarkan  ketentuan Pe
 e . memperoleh pekerjaan sesuai kemampuan, syarat serta upah yang  layak dan adil;  
 f. khusus bagi perempuan penyandang disabilita.s, berhak untuk  mendapatkan kemudahan dan perlakuan khusus dalam pelayanan  publik;  
 g. berperan aktif di bidang politik dan pemerintahan sesuai dengan  potensi dan kemampuan yang dimilikinya;  
-h. mendapatkan informasi dan pelayanan hukum; dani. memperoleh hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan.  
+h. mendapatkan informasi dan pelayanan hukum; dan  
+i. memperoleh hak lain sesuai dengan martabat kemanusiaannya dan  berdasarkan ketentuan Peraturan Perundang-undangan.  
 3. Setiap korban berhak mendapatkan:a. perlindungan;  
 b. informasi;  
 c. pelayanan optimal;  
@@ -221,12 +222,14 @@ JDIH Kota Singkawang
 
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1), dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan  anak;  
 b. menyampaikan laporan kepada yang berwajib apabila terjadi  tindakan kekerasan terhadap perempuan dan anak;  
-c. memberikan bantuan terhadap korban; dand. berperan aktif dalam upaya peningkatan pemenuhan hak anak dan  pemberdayaan perempuan.  
+c. memberikan bantuan terhadap korban; dan  
+d. berperan aktif dalam upaya peningkatan pemenuhan hak anak dan  pemberdayaan perempuan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, orgarusas1  kemasyarakatan, organisasi profesi, lem baga pendidikan, lembaga  keagamaan, swasta, media massa, dan dunia usaha.  
 4. Peran organisasi kemasyarakatan, organisasi profesi, dan lembaga  pendidikan dilakukan dengan cara mengambil langkah yang diperlukan  sesuai tugas, fungsi, kewenangan, dan kompetensi masing-masing untuk  membantu penyelenggaraan perlindungan anak dan perempuan.  
 5. Peran serta media massa dilakukan melalui penyebarluasan informasi,  dan materi edukasi terkait penyelenggaraan perlindungan anak dan  perempuan dengan memperhatikan kepentingan terbaik bagi anak  dan/ atau korban.  
 6. Peran dunia usaha dilakukan melalui:a. kebijakan perusahaan yang berperspektif anak dan perempuan;  
-b. produk ditujukan harus aman bagi anak; danc. berkontribusi dalam pemenuhan hak anak dan pemberdayaan  perempuan melalui tanggungjawab sosial perusahaan.  
+b. produk ditujukan harus aman bagi anak; dan  
+c. berkontribusi dalam pemenuhan hak anak dan pemberdayaan  perempuan melalui tanggungjawab sosial perusahaan.  
 7. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai dengan ketentuan  Peraturan Perundang-undangan.  
 
 JDIH Kota Singkawang
@@ -529,7 +532,8 @@ k. anak korban jaringan terorisme;
 
 I. anak berkebutuhan khusus;  
 m. anak korban perlakuan salah dan penelantaran;  
-n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+n. anak dengan perilaku sosial menyimpang; dan  
+o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
 
 #### Pasal 42
 
@@ -578,7 +582,8 @@ k. pemberian advokasi sosial;
 I. pemberian kehidupan pribadi;  
 m. pemberian aksesibilitas terutama untuk anak penyandang disabilitas;  
 n. pemberian pendidikan;  
-o. pemberian pelayanan kesehatan; danp. pemberian hak lain sesuai dengan ketentuan Peraturan Perundang undangan.  
+o. pemberian pelayanan kesehatan; dan  
+p. pemberian hak lain sesuai dengan ketentuan Peraturan Perundang undangan.  
 
 JDIH Kota Singkawang
 
@@ -589,7 +594,8 @@ Perlindungan khusus bagi anak dati kelompok minoritas dan terisolasi  sebagaiman
 #### Pasal 48
 
 Perlindungan khusus bagi anak yang diekspolitasi secara ekonomi dan/atau  sosial sebagaimana dimaksud dalam Pasal 41 huruf d dilakukan melalui:  a. penyebarluasan dan/ atau sosialisasi ketentuan Peraturan Perundang undangan yang berkaitan dengan perlindungan anak yang dieksploitasi  secara ekonomi dan/ atau seksual;  
-b. pemantauan, pelaporan, dan pemberian sanksi; danc. pelibatan berbagai lembaga atau instansi pemerintah, perusahaan, serikat  pekerja, lembaga sosial kemasyarakatan, dan masyarakat dalam  penghapusan eksploitasi terhadap anak secara ekonomi dan/atau  seksual.  
+b. pemantauan, pelaporan, dan pemberian sanksi; dan  
+c. pelibatan berbagai lembaga atau instansi pemerintah, perusahaan, serikat  pekerja, lembaga sosial kemasyarakatan, dan masyarakat dalam  penghapusan eksploitasi terhadap anak secara ekonomi dan/atau  seksual.  
 
 #### Pasal 49
 
@@ -666,7 +672,8 @@ a. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, p
 b. pembukaan lapangan kerja bagi perempuan;  
 c. membangun partisipasi dan kepedulian masyarakat untuk  melaksanakan pencegahan dan perlindungan perempuan dari tindak  kekerasan;  
 d. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
-e. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tingg:i dan berbagai lembaga  swadaya masyarakat yang bergerak dan/atau peduli terhadap  perempuan; danf. membuka pos pengaduan untuk perlindungan terhadap perempuan  dari tindak kekerasan.  
+e. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tingg:i dan berbagai lembaga  swadaya masyarakat yang bergerak dan/atau peduli terhadap  perempuan; dan  
+f. membuka pos pengaduan untuk perlindungan terhadap perempuan  dari tindak kekerasan.  
 
 Bagi.an Ketujuh Perlindungan di Tempat Kerja
 
@@ -692,7 +699,8 @@ g. memberi kesempatan untuk bersosialisasi dengan keluarga dan  lingkungan sekit
 
 h . memberi kesempatan untuk mendapat pendidikan sesuai dengan  bakat dan minatnya;  
 t. dipekerjakan un tuk jenis pekerjaan yang ringan; dan J. memberi perlindungan kesehatan bagi anak dan kesempatan libur  satu hari dalam seminggu.  
-2. Perlindungan kepada pekerja anak pada pekerjaan sektor informal  sebagaimana dimaksud pada ayat (1), bertujuan untuk: a . mencegah segala bentuk eksploitasi, diskriminasi, pelecehan dan  kekerasan terhadap anak; danb. melindungi anak dari kegiatan yang dapat mengganggu proses  tumbuh kembang anak, baik fisik, mental, moral dan intelektual  maupun kesehatan anak.  
+2. Perlindungan kepada pekerja anak pada pekerjaan sektor informal  sebagaimana dimaksud pada ayat (1), bertujuan untuk: a . mencegah segala bentuk eksploitasi, diskriminasi, pelecehan dan  kekerasan terhadap anak; dan  
+b. melindungi anak dari kegiatan yang dapat mengganggu proses  tumbuh kembang anak, baik fisik, mental, moral dan intelektual  maupun kesehatan anak.  
 3. Upaya perlindungan kepada pekerja anak pada pekerjaan sektor informal  sebagaimana dimaksud pada ayat (2), antara lain berupa: a . memberikan penyuluhan kepada masyarakat tentang hak anak;  
 b. memberikan bantuan berupa layanan psikologi, medis dan hukum  terhadap pekerja anak pada pekerjaan sektor informal yang  mengalami eksploitasi, diskriminasi, pelecehan dan kekerasan;  
 c. memberdayakan keluarga melalui pemberian pelatihan ketrampilan  dan pengurangan pengeluaran;  
@@ -708,7 +716,8 @@ d . memberikan beasiswa kepada pekerja anak pada pekerjaan sektor  informal yang
 JDIH Kota Singkawang (3) Perusahaan dilarang membuat kebijakan yang menimbulkan diskriminasi  terhadap pekerja perempuan.  
 
 4. Perusahaan yang melanggar ketentuan sebagaimana dimaksud pada ayat  (1), ayat (2), dan ayat (3), dapat dikenakan sanksi administratif berupa:  a. teguran lisan;  
-b. teguran tertulis; danc. sanksi administratif lain sesuai dengan ketentuan Peraturan  Perundang-undangan.  
+b. teguran tertulis; dan  
+c. sanksi administratif lain sesuai dengan ketentuan Peraturan  Perundang-undangan.  
 
 ## Bagian Kedelapan
 
@@ -731,7 +740,8 @@ i. anak yang memiliki perilaku sosial menyimpang;
 J. anak yang mengalami stigmatisasi karena perilaku orang tuanya;  
 k. anak dan perempuan yang menjadi korban tindak perdagangan  orang;  
 
-1. anak dan perempuan yang berada dalam situasi yang sifat dan  keadaan tempat pekerjaan dapat membahayakan kesehatan,  keselamatan dan moral; danm. perempuan korban kekerasan fisik, mental dan seksual.  (2) Penanganan sebagaimana dimaksud pada ayat ( 1) harus dilakukan  dengan segera meliputi:a. proses identifikasi dan penerimaan pengaduan/laporan;  
+1. anak dan perempuan yang berada dalam situasi yang sifat dan  keadaan tempat pekerjaan dapat membahayakan kesehatan,  keselamatan dan moral; dan  
+m. perempuan korban kekerasan fisik, mental dan seksual.  (2) Penanganan sebagaimana dimaksud pada ayat ( 1) harus dilakukan  dengan segera meliputi:a. proses identifikasi dan penerimaan pengaduan/laporan;  
 b. tindakan penyelamatan;  
 c. penempatan anak dan perempuan di rumah perlindungan sementara;  d . rehabilitasi meliputi: JDIH Kota Singkawang
 1. layanan pemulihan kesebatan;  
@@ -769,7 +779,8 @@ b. layanan pemberian uisum et repertum atau uisum psikiatrikum sesuai  dengan ke
 c. layanan lanjutan berupa rawat jalan dan/atau rawat inap sesuai  dengan ketentuan medis;  
 d. layanan pembuktian deoxyribose nucleic acid;  
 e. layanan proses persalinan untuk kehamilan sebagai akibat drui  kekerasan seksual dan/ atau perkosaan;  
-f. layanan pemberian rujukan lanjutan sesuai dengan keadaan dan  kondisi korban; dang. layanan penyediaan ruang khusus yang terpisah dengan pas1en  um um.  
+f. layanan pemberian rujukan lanjutan sesuai dengan keadaan dan  kondisi korban; dan  
+g. layanan penyediaan ruang khusus yang terpisah dengan pas1en  um um.  
 2. OPD yang membidangi urusan kesehatan berkewajiban untuk  menyelenggarakan layanan pemulihan kesehatan.  
 
 #### Pasal 71
@@ -834,7 +845,8 @@ c. pengembangan metode yang efektif melalui dukungan informasi,  fasilitas dan a
 d. penyediaan dan pemberian layanan bantuan hukum dan psik:ososial  dalam mewujudkan proses keadilan restorasi dan diversi bagi anak  yang berhadapan dengan hukum;  
 e. mendorong perubahan paradigma masyarakat terhadap anak yang  berhadapan dengan hukum;  
 f. mengembangkan mekanisme diversi bagi anak yang berhadapan  dengan hukurn sesuai dengan Peraturan Perundang-undangan;  
-g. mengembangkan kerja sama dengan instansi atau lembaga terkait dalam menyelenggarakan program pendidikan, pembinaan dan  bimbingan untuk penanganan anak yang melakukan tindak pidana,  khususnya anak yang berusia di bawah 12 (dua belas) tahun untuk  mencapai perkembangan yang optimal; danh. penyediaan sarana dan prasarana penunjang proses peradilan anak  dengan mengedepankan kepentingan yang terbaik bagi anak sesuai  dengan ketentuan Peraturan Perundang-undangan.  
+g. mengembangkan kerja sama dengan instansi atau lembaga terkait dalam menyelenggarakan program pendidikan, pembinaan dan  bimbingan untuk penanganan anak yang melakukan tindak pidana,  khususnya anak yang berusia di bawah 12 (dua belas) tahun untuk  mencapai perkembangan yang optimal; dan  
+h. penyediaan sarana dan prasarana penunjang proses peradilan anak  dengan mengedepankan kepentingan yang terbaik bagi anak sesuai  dengan ketentuan Peraturan Perundang-undangan.  
 3. Ketentuan lebih lanjut mengenai fasilitasi peradilan pidana anak  sebagaimana dimaksud pada ayat (1), dan ayat (2) diatur dengan  Peraturan Wali kota.  
 
 ## Bagian Kesebelas
@@ -1007,7 +1019,8 @@ c. Anggaran Pendapatan dan Belanja Nasional; dan d . sumber lain yang sah dan ti
 b. bimbingan teknis dan pelatihan;  
 
 c . penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 
 JDIH Kota Singkawang (3) Dalam rangka pembinaan sebagaimana dimaksud pada ayat (2),  Pemerintah Daerah dapat bekerja sama dengan Pemerintah Pusat,  Pemerintah Daerah lain, Lembaga Swadaya Masyarakat, dunia usaha dan  perguruan tinggi.  
 
@@ -1060,7 +1073,8 @@ JDIH Kota Singkawang n . menghalang-halangi anak untuk menikmati budayanya sendi
 o. merekrut atau memperalat anak untuk kepentingan militer dan/atau  lainnya, dan membiarkan anak tanpa perlindungan jiwa;  
 
 p . menempatkan, membiarkan, melakukan, menyuruh melakukan,atau  turut serta melakukan eksploitasi secara ekonomi dan/atau seksual  terhadap anak;  
-q. dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh  melibatkan anak dalam penyalahgunaan, serta produksi dan distribusi  narkotika dan/ atau psikotropika; danr. dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh  melibatkan anak dalam penyalahgunaan, serta produksi dan distribusi  alkohol dan zat adiktif lainnya.  
+q. dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh  melibatkan anak dalam penyalahgunaan, serta produksi dan distribusi  narkotika dan/ atau psikotropika; dan  
+r. dengan sengaja menempatkan, membiarkan, melibatkan, menyuruh  melibatkan anak dalam penyalahgunaan, serta produksi dan distribusi  alkohol dan zat adiktif lainnya.  
 
 # BAB XVII
 

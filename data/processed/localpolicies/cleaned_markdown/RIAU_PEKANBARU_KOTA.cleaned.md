@@ -382,7 +382,8 @@ Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal 18 diselenggarakan melal
 
 Sistem pemberdayaan Perempuan bertujuan untuk: os -17-
 a. meningkatkan kualitas hidup Perempuan, dan Keluarga;  
-b. meningkatkan kapasitas kelembagaan pemberdayaan Perempuan di Daerah, termasuk pengembangan sistem gendernya; danc. memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya.  
+b. meningkatkan kapasitas kelembagaan pemberdayaan Perempuan di Daerah, termasuk pengembangan sistem gendernya; dan  
+c. memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya.  
 
 #### Pasal 21
 
@@ -390,7 +391,8 @@ Dalam rangka mewujudkan tujuan meningkatkan kualitas hidup Perempuan, dan keluar
 a. memberikan akses kepada Perempuan untuk menikmati layanan pendidikan, kesehatan, dan bidang strategis lainnya;  
 b. mendorong' keterlibatan Perempuan dalam proses pembangunan;  
 c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti, dan ketahanan kKeluarga;  
-d. mendorong program-program yang dapat meningkatkan kemandirian Perempuan di bidang ekonomi, politik, hukum, sosial, budaya, serta bidang strategis lainnya; dane. memberikan kesempatan dan peluang kepada setiap Perempuan untuk menduduki berbagai posisi dan jabatan dalam berbagai lapangan pekerjaan, termasuk posisi stretegis sepanjang sesuai dengan kapasitas dan kemampuannya.  
+d. mendorong program-program yang dapat meningkatkan kemandirian Perempuan di bidang ekonomi, politik, hukum, sosial, budaya, serta bidang strategis lainnya; dan  
+e. memberikan kesempatan dan peluang kepada setiap Perempuan untuk menduduki berbagai posisi dan jabatan dalam berbagai lapangan pekerjaan, termasuk posisi stretegis sepanjang sesuai dengan kapasitas dan kemampuannya.  
 
 #### Pasal 22
 
@@ -407,7 +409,8 @@ Paragraf Cara Memberikan Perlindungan Hak Perempuan Dari Berbagai Bentuk Kekeras
 Dalam rangka menyelenggarakan tujuan memberikan perlindungan hak Perempuan dari berbagai bentuk kekerasan dan perlakukan diskriminatif lainnya sebagaimana dimaksud dalam Pasal 20 huruf dilakukan melalui:  
 a. upaya promotif;  
 b. upaya preventif;  
-c. upaya kuratif; dand. wupaya rehabilitatif, sesuai dengan ketentuan peraturan perundang-undangan.  
+c. upaya kuratif; dan  
+d. wupaya rehabilitatif, sesuai dengan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 24
 
@@ -469,7 +472,8 @@ Sistem pemberdayaan Perempuan dan Anak diwujudkan salah satunya melalui pembentu
 
 1. UPT PPA sebagaimana dimaksud dalam Pasal 30, berfungsi sebagai:  
 a. pusatinformasi bagi Perempuan dan Anak;  
-b. pusat pelayanan bagi Perempuan dan Anak korban kekerasan; danc. pusat pemberdayaan bagi Perempuan dan Anak.  
+b. pusat pelayanan bagi Perempuan dan Anak korban kekerasan; dan  
+c. pusat pemberdayaan bagi Perempuan dan Anak.  
 2. Untuk melaksanakan fungsi sebagaimana dimaksud pada ayat (1), UPT PPA wajib memiliki SOP dalam rangka melaksanakan tugas teknis operasional tertentu, dengan indikator dokumen SOP yang sudah ditandatangani oleh Kepala Dinas.  
 3. Ketentuan lebih lanjut mengenai UPT PPA diatur dalam Peraturan Wali Kota.  
 
@@ -552,7 +556,8 @@ Untuk maksud peningkatan kualitas hidup Perempuan di Daerah, Pemerintah Daerah m
 
 Penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah sebagaimana dimaksud dalam Pasal 50 dilaksanakan oleh Pemerintah Daerah dengan melakukan hal-hal sebagai berikut:  
 a. menjalin kerjasama antara Perangkat Daerah yang menyelenggarakan urusan pemerintahan di bidang pemberdayaan Perempuan dan Anak dengan berbagai jejaring kemitraan baik yang berasal dari masyarakat, LSM, yayasan, perguruan tinggi, dan lembaga-lembaga lainnya yang bergerak dalam bidang penyediaan layanan pemberdayaan Perempuan di Daerah;  
-b. mengupayakan kecukupan anggaran melalui peyediaan yang proporsional dalam APBD dan sumber lainnya yang tidak mengikat berdasarkan peraturan perundang-undangan; danc. melakukan pendekatan dan merangkul berbagai kalangan struktural dan non struktural dengan latar belakang sebagai berikut:
+b. mengupayakan kecukupan anggaran melalui peyediaan yang proporsional dalam APBD dan sumber lainnya yang tidak mengikat berdasarkan peraturan perundang-undangan; dan  
+c. melakukan pendekatan dan merangkul berbagai kalangan struktural dan non struktural dengan latar belakang sebagai berikut:
 1. kalangan profesi;  
 2. akademisi; dan
 3. tokoh masyarakat, untuk berkontribusi di dalam pengembangan kelembagaan UPT PPA.  d. Mengadakan berbagai pelatihan, bimbingan teknis, lokakarya, dan FGD dan bentuk-bentuk lainnya yang terkait dengan upaya penguatan dan pengembangan Lembaga Penyedia Layanan Pemberdayaan Perempuan di Daerah.  
@@ -568,7 +573,8 @@ Umum
 Perlindungan Perempuan diselenggara-kan oleh Pemerintah Daerah dengan mengikutsertakan secara aktif berbagai komponen berikut:  
 a. Keluarga;  
 b. lembaga adat;  
-c. masyarakat; dand. organisasi kemasyarakatan.  
+c. masyarakat; dan  
+d. organisasi kemasyarakatan.  
 
 #### Pasal 43
 
@@ -637,7 +643,8 @@ Pemberdayaan Perempuan korban kekerasan sebagaimana dimaksud dalam Pasal 47 dapa
 a. pelatihan keterampilan kerja;  
 b. pengembangan usaha ekonomi produktif baik perorangan maupun kelompok;  
 c. bantuan permodalan dengan mengupayakan kredit lunak;  
-d. mempermudah akses ke dunia perbankan dan non- perbankan; dane. bantuan pemasaran berbagai produk yang dihasilkan Perempuan korban kekerasan.  
+d. mempermudah akses ke dunia perbankan dan non- perbankan; dan  
+e. bantuan pemasaran berbagai produk yang dihasilkan Perempuan korban kekerasan.  
 
 #### Pasal 49
 
@@ -648,7 +655,8 @@ a. pelatihan berbagai ragam keterampilan kerja; dan b. mencarikan tempat untuk m
 
 Pengembangan usaha ekonomi produktif baik perorangan maupun kelompok sebagaimana dimaksud dalam Pasal 58 huruf diselenggarakan dengan cara:  
 a. memberikan pelatihan kewirausahaan;  
-b. pendampingan dalam menjalankan wirausaha; itc. pembinaan secara berkelanjutan; dand. fasilitasi pembentukan kelompok wirausaha.  
+b. pendampingan dalam menjalankan wirausaha; itc. pembinaan secara berkelanjutan; dan  
+d. fasilitasi pembentukan kelompok wirausaha.  
 
 #### Pasal 51
 
@@ -733,20 +741,23 @@ Paragraf Rehabilitasi Kesehatan
 Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 54 huruf merupakan upaya yang meliputi aspek:  
 a. preventif;  
 b. promotif;  
-c. kuratif; dand. rehabilitatif.  
+c. kuratif; dan  
+d. rehabilitatif.  
 
 #### Pasal 61
 
 Rehabilitasi kesehatan sebagaimana dimaksud dalam Pasal 60 dilakukan dengan standar dan ketentuan sebagai berikut:  
 a. secara komprehensif;  
 b. dapat diakses 24 (dua puluh empat) jam di RSUD dan rumah sakit swasta lainnya;  
-c. berkualitas; dand. dilakukan sesuai dengan standar pelayanan kesehatan.  
+c. berkualitas; dan  
+d. dilakukan sesuai dengan standar pelayanan kesehatan.  
 
 #### Pasal 62
 
 Perempuan korban kekerasan memiliki hak terhadap pelayanan kesehatan secara bebas biaya, meliputi:  
 a. pelayanan medis;  
-b. pelayanan medikolegal; danc. visum.  
+b. pelayanan medikolegal; dan  
+c. visum.  
 
 #### Pasal 63
 
@@ -762,7 +773,8 @@ Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 54 huruf ditujukan untuk me
 
 Rehabilitasi sosial sebagaimana dimaksud pada Pasal 54 huruf diberikan dalam bentuk pelayanan sebagai berikut:  
 a. konseling;  
-b. penyediaan rumah aman; danc. bimbingan rohani.  
+b. penyediaan rumah aman; dan  
+c. bimbingan rohani.  
 
 #### Pasal 66
 
@@ -832,7 +844,8 @@ Bimbingan rohani sebagaimana dimaksud dalam Pasal 65 huruf bertujuan untuk pemul
 #### Pasal 78
 
 Bimbingan rohani sebagaimana dimaksud dalam Pasal 77 dilaksanakan berdasarkan prinsip:  
-a. tidak memaksakan agama atau keyakinan apapun kepada Perempuan korban kekerasan; danb. menyerahkan putusan akhir ditangan Perempuan korban kekerasan.  
+a. tidak memaksakan agama atau keyakinan apapun kepada Perempuan korban kekerasan; dan  
+b. menyerahkan putusan akhir ditangan Perempuan korban kekerasan.  
 
 #### Pasal 79
 
@@ -843,7 +856,8 @@ Bimbingan rohani dilakukan oleh petugas bimbingan rohani sesuai dengan agama dan
 Petugas bimbingan rohani sebagaimana dimaksud dalam Pasal 79 terdiri dari:  
 a. konsultan Badan Penasehat;  
 b. petugas pembinaan dan Pelestarian Perkawinan;  
-c. petugas Kantor Urusan Agama; dand. pemuka agama yang memiliki kepekaan gender atau kesadaran gender.  
+c. petugas Kantor Urusan Agama; dan  
+d. pemuka agama yang memiliki kepekaan gender atau kesadaran gender.  
 
 Paragraf Penegakan dan Bantuan Hukum
 
@@ -865,7 +879,8 @@ Pelayanan bantuan hukum sebagaimana dimaksud dalam Pasal 83 meliputi
 a. bantuan hukum dalam proses pelaporan dan pembuatan berita acara pemeriksaan;  
 b. bantuan hukum dalam proses penuntutan di kejaksaan;  
 c. bantuan hukum dalam proses pemeriksaan di pengadilan;  
-d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. bantuan hukum dalam proses mediasi.  
+d. bantuan hukum dalam proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dan  
+e. bantuan hukum dalam proses mediasi.  
 
 #### Pasal 85
 
@@ -966,7 +981,8 @@ Pengusaha dilarang mempekerjakan pekerja/karyawan Perempuan hamil yang menurut k
 #### Pasal 99
 
 Pengusaha yang memperkerjakan pekerja/karyawan Perempuan antara pukul 23.00 WIB sampai dengan 07.00 WIB, wajib:  
-a. memberikan makanan dan minuman yang mengandung gizi yang cukup; danb. menjaga kehormatan, kesusilaan dan keamanan pekerja/karyawan Perempuan selama berada di tempat kerja.  
+a. memberikan makanan dan minuman yang mengandung gizi yang cukup; dan  
+b. menjaga kehormatan, kesusilaan dan keamanan pekerja/karyawan Perempuan selama berada di tempat kerja.  
 
 #### Pasal 100
 
@@ -984,7 +1000,8 @@ Pemerintah Daerah berkewajiban melaksanakan penguatan dan pengembangan lembaga p
 
 Penguatan dan pengembangan lembaga penyedia layanan perlindungan Perempuan sebagaimana dimaksud dalam Pasal 101 dimaksudkan agar kasus-kasus kekerasan terhadap Perempuan dapat ditangani dengan:  
 a. tepat sasaran;  
-b. inovatif; danc. ditangani secara profesional, oleh tenaga-tenaga terampil yang memiliki kepekaan gender atau kesadaran gender.  
+b. inovatif; dan  
+c. ditangani secara profesional, oleh tenaga-tenaga terampil yang memiliki kepekaan gender atau kesadaran gender.  
 
 # BAB VI
 
@@ -1068,7 +1085,8 @@ b. melakukan evaluasi dan monitoring terhadap program perlindungan Anak dan peng
 c. melakukan evaluasi dan monitoring terhadap peningkatan kualitas remaja;  
 d. melakukan evaluasi data pasca perkawinan;  
 e. melakukan evaluasi dan monitoring terhadap peningkatan kemampuan dan keterampilan keluarga;  
-f. melakukan evaluasi dan monitoring terhadap peningkatan ekonomi keluarga; dang. melakukan evaluasi dan monitoring terhadap peningkatan kualitas hidup lanjut usia.  
+f. melakukan evaluasi dan monitoring terhadap peningkatan ekonomi keluarga; dan  
+g. melakukan evaluasi dan monitoring terhadap peningkatan kualitas hidup lanjut usia.  
 
 ## Bagian Ketiga
 
@@ -1078,13 +1096,15 @@ Penyediaan Layanan Bagi Keluarga
 
 Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan hak Anak sebagaimana dimaksud dalam Pasal 104 huruf dilakukan melalui:  
 a. pelaksanaan penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak yang di daerah;  
-b. pendampingan pelaksanaan layanan peningkatan kualitas keluarga di daerah; danc. penyediaan sarana dan prasarana layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak di daerah.  
+b. pendampingan pelaksanaan layanan peningkatan kualitas keluarga di daerah; dan  
+c. penyediaan sarana dan prasarana layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak di daerah.  
 
 #### Pasal 111
 
 Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk:  
 a. jalinan komunikasi;  
-b. pemberian informasi; danc. pemberian edukasi.  
+b. pemberian informasi; dan  
+c. pemberian edukasi.  
 
 #### Pasal 112
 
@@ -1095,14 +1115,16 @@ Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindu
 Pendampingan pelaksanaan layanan peningkatan kualitas keluarga di daerah dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk:  
 a. pendampingan dalam omendapatkan akses kepada perbankan;  
 b. pendampingan dalam pengurusan perizinan usaha di instansi pemerintah Daerah;  
-c. pendampingan dalam pelaporan keuangan terkait dengan modal kerja yang didapatkan dari Pemerintah Daerah dan lembaga non-pemerintah; dand. pendampingan terkait dengan kesulitan orang tua dalam pengurusan birokrasi pendidikan Anak.  
+c. pendampingan dalam pelaporan keuangan terkait dengan modal kerja yang didapatkan dari Pemerintah Daerah dan lembaga non-pemerintah; dan  
+d. pendampingan terkait dengan kesulitan orang tua dalam pengurusan birokrasi pendidikan Anak.  
 
 #### Pasal 114
 
 Penyediaan sarana dan prasarana layanan bagi keluarga dalam mewujudkan kesetaraan gender dan perlindungan Anak sebagaimana dimaksud dalam Pasal 110 huruf diwujudkan dalam bentuk:  
 a. pembagian alat dan obat kontrasepsi;  
 b. pencatatan dan pelaporan pelayanan keluarga berencana;  
-c. penyediaan kelengkapan fasilitas sarana dan prasarana pelayanan kesehatan yang memadai; dand. ruangan pojok ASI yang harus tersedia disetiap fasilitas umum.  
+c. penyediaan kelengkapan fasilitas sarana dan prasarana pelayanan kesehatan yang memadai; dan  
+d. ruangan pojok ASI yang harus tersedia disetiap fasilitas umum.  
 
 #### Pasal 115
 
@@ -1181,7 +1203,8 @@ Pemerintah Daerah wajib menyelenggarakan layanan kesehatan yang komprehensif bag
 #### Pasal 128
 
 Layanan kesehatan yang komprehensif sebagaimana dimaksud dalam Pasal 127 meliputi:  
-a. upaya preventif, promotif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar; danb. pembebasan dari beban biaya bagi Anak gizi buruk, Anak penyandang disabilitas, Anak berkebutuhan khusus, Anak yang terinfeksi HIV/AIDS, pekerja Anak, Anak korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya, Anak yang menjadi korban kekerasan, dan Anak korban perdagangan orang.  
+a. upaya preventif, promotif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar; dan  
+b. pembebasan dari beban biaya bagi Anak gizi buruk, Anak penyandang disabilitas, Anak berkebutuhan khusus, Anak yang terinfeksi HIV/AIDS, pekerja Anak, Anak korban penyalahgunaan narkotika, alkohol, psikotropika, dan zat adiktif lainnya, Anak yang menjadi korban kekerasan, dan Anak korban perdagangan orang.  
 
 #### Pasal 129
 
@@ -1311,7 +1334,8 @@ a. penyediaan pendamping atau relawan Anak pada saat pemeriksaan oleh penyidik;
 
 memberikan layanan bantuan hukum dam psikolog;  
 c. melibatkan anggota/penyidik kepolisian setempat dalam upaya pencegahan terjadinya tindak pidana yang dilakukan oleh Anak, Anak sebagai korban maupun Anak sebagai saksi;  
-d. mewujudkan proses keadilan restorative justice bagi Anak yang berhadapan dengan hukum; dane. pelayanan rehabilitasi dan reintegrasi sosial.  
+d. mewujudkan proses keadilan restorative justice bagi Anak yang berhadapan dengan hukum; dan  
+e. pelayanan rehabilitasi dan reintegrasi sosial.  
 
 #### Pasal 148
 
@@ -1351,7 +1375,8 @@ Dalam rangka pemenuhan hak Anak secara terpadu dan sistematis dan berkelanjutan 
 
 Rencana Aksi Daerah Pembangunan Kota Layak Anak memuat tentang:  
 a. konsep Kota Layak Anak menyangkut dengan tujuan, strategi dan peranan para pihak terkait;  
-b. hak Anak; danc. pendekatan pengembangan Kota Layak Anak.  
+b. hak Anak; dan  
+c. pendekatan pengembangan Kota Layak Anak.  
 
 #### Pasal 156
 
@@ -1359,7 +1384,8 @@ Rencana Aksi Daerah Pembangunan Kota Layak Anak diarahkan pada pemenuhan hak Ana
 a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dane. perlindungan khusus.  
+d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dan  
+e. perlindungan khusus.  
 
 #### Pasal 157
 
@@ -1591,7 +1617,8 @@ Perlindungan Khusus’ bagi Anak dengan HIV/AIDS sebagaimana dimaksud dalam Pasa
 a. pengawasan;  
 b. pencegahan;  
 c. pengobatan;  
-d. perawatan; dane. rehabilitasi.  
+d. perawatan; dan  
+e. rehabilitasi.  
 
 Paragraf Anak Korban Penculikan, Penjualan dan/atau Perdagangan Orang
 
@@ -1731,7 +1758,8 @@ Penguatan dan pengembangan lembaga penyedia layanan bagi Anak yang memerlukan pe
 a. peningkatan kapasitas sumber daya lembaga penyedia layanan perlindungan dan penanganan bagi Anak yang memerlukan perlindungan khusus di Daerah;  
 b. penyediaan kebutuhan spesifik bagi Anak dalam situasi dan kondisi khusus di Daerah;  
 c. penyediaan komunikasi, informasi, dan edukasi perlindungan Anak yang memerlukan perlindungan khusus di Daerah;  
-d. penguatan jejaring antar lembaga penyedia layanan perlindungan bagi Anak yang memerlukan perlindungan khusus di Daerah; dane. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan perlindungan Anak yang memerlukan perlindungan khusus di Daerah.  
+d. penguatan jejaring antar lembaga penyedia layanan perlindungan bagi Anak yang memerlukan perlindungan khusus di Daerah; dan  
+e. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan perlindungan Anak yang memerlukan perlindungan khusus di Daerah.  
 
 # BAB IX
 
@@ -1749,7 +1777,8 @@ Penyelenggaraan Sistem Data Gender dimaksudkan sebagai acuan bagi Daerah dalam m
 
 Penyelenggaraan Sistem Data Gender dan Anak bertujuan untuk:  
 a. memperkuat dan mendorong kelembagaan (peraturan, lembaga, mekanisme) sistem data dengan memilah menurut jenis kelamin dan kondisi umum di Daerah, yang terpercaya, dapat disajikan cepat, akurat, komprehensif, dan mutakhir;  
-b. membangun atau memperkuat mekanisme koordinasi antar Daerah, dalam pelaksanaan pengumpulan dan pengolahan data terpilih; danc. meningkatkan ketersediaan dan pemanfaatan data terpilih untuk perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli Anak di Daerah.  
+b. membangun atau memperkuat mekanisme koordinasi antar Daerah, dalam pelaksanaan pengumpulan dan pengolahan data terpilih; dan  
+c. meningkatkan ketersediaan dan pemanfaatan data terpilih untuk perencanaan, pelaksanaan, pemantauan, evaluasi, dan pelaporan hasil kebijakan/program/kegiatan pembangunan yang responsif gender dan peduli Anak di Daerah.  
 
 #### Pasal 190
 
@@ -1773,13 +1802,15 @@ melakukan pemantauan dan evaluasi penyelenggaraan sistem data gender dan Anak pa
 Implementasi Sistem Data Gender dan Anak meliputi seluruh aspek kegiatan berikut ini:  
 a. pengumpulan;  
 b. pengolahan;  
-c. analisa; dand. penyajian data terpilih.  
+c. analisa; dan  
+d. penyajian data terpilih.  
 
 #### Pasal 193
 
 Untuk kepentingan efektifitas penyelenggaraan Sistem Data Gender dan Anak di Daerah, Pemerintah Daerah menggandeng dan melibatkan lembaga-lembaga berikut:  
 a. lembaga-lembaga akademik;  
-b. Lembaga Swadaya Masyarakat (LSM); danc. Kelompok masyarakat terkait.  
+b. Lembaga Swadaya Masyarakat (LSM); dan  
+c. Kelompok masyarakat terkait.  
 
 #### Pasal 194
 

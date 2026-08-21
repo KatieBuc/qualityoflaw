@@ -167,12 +167,14 @@ Bentuk dan Mekanisme Pelayanan Pencegahan dan Penjagaan
 a. pemetaan, pengumpulan, pengolahan dan penyajian data perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan;  
 b. koordinasi dan sinkronisasi perencanaan program dengan SKPD  terkait;  
 c. penyusunan program dan kegiatan yang didukung penganggaran;  dand. penetapan program dan kegiatan dalam dokumen perencanaan. (2) Pelaksanaan Penyelenggaraan pencegahan dan penjagaan perempuan  dan anak secara umum dan yang rentan menjadi korban kekerasan  dilaksanakan dengan mekanisme:a. pelaksanaan program dan kegiatan yang tertuang dalam dokumen  pengganggaran SKPD;  
-b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan  dengan SKPD terkait; danc. monitoring, evaluasi dan pelaporan atas kebijakan, program dan  kegiatan penyelenggaraan perlindungan perempuan dan anak. (3) Mekanisme penyusunan kebijakan, program dan kegiatan dan layanan  diatur lebih lanjut dalam standar pelayanan minimum dan standar  operasional prosedur pada Peraturan Bupati.  
+b. koordinasi dan sinkronisasi pelaksanaan program dan kegiatan  dengan SKPD terkait; dan  
+c. monitoring, evaluasi dan pelaporan atas kebijakan, program dan  kegiatan penyelenggaraan perlindungan perempuan dan anak. (3) Mekanisme penyusunan kebijakan, program dan kegiatan dan layanan  diatur lebih lanjut dalam standar pelayanan minimum dan standar  operasional prosedur pada Peraturan Bupati.  
 4. Perumusan kebijakan, program dan kegiatan penyelenggaraan penjagaan  perempuan dan anak rentan menjadi korban kekerasan dikoordinasikan  oleh SKPD yang membidangi Perencanaan Pembangunan Daerah.  
 5. Upaya pencegahan dan penjagaan terhadap perempuan dan anak secara  umum dan yang rentan korban dilaksanakan dengan cara:  
 a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan antar pemangku kepentingan;  
-c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dand. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.  
+c. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dan  
+d. melakukan sosialisasi tentang pencegahan kekerasan terhadap  perempuan, serta pemenuhan hak-hak anak dan perempuan.  
 
 ## Bagian Kelima
 
@@ -186,7 +188,8 @@ c. pelayanan bantuan hukum untuk membantu korban kekerasan dalam  menjalani pros
 d. layanan spiritual untuk penguatan moral sesuai agama dan keyakinan  yang dianut;  
 e. pertolongan psikososial pertama pada korban dilakukan untuk  identifikasi terjadinya kekerasan dan traumatis yang dialami korban;  
 f. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga berkompeten yang mempunyai keahlian untuk melakukan  konseling, terapi dan advokasi guna penguatan dan pemulihan korban  kekerasan dan telah bekerjasama dengan P2TP2T atau nama lain;  
-g. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri  secara ekonomi; danh. pelayanan untuk kembali dan atau tetap dilembaga pendidikan bagi  anak korban kekerasan.  
+g. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan  ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri  secara ekonomi; dan  
+h. pelayanan untuk kembali dan atau tetap dilembaga pendidikan bagi  anak korban kekerasan.  
 2. Penyelenggaraan pelayanan penanganan perempuan dan anak korban  kekerasan dilaksanakan dengan: cepat, aman dan nyaman, rasa empati,  non diskriminasi, mudah dijangkau, tidak dikenakan biaya dan dijamin  kerahasiaannya.  
 3. Mekanisme dan tata cara penyelenggaraan pelayanan penanganan secara  teknis bagi perempuan dan anak korban kekerasan sebagaimana  dimaksud pada ayat (1) dan (2) diselenggarakan menurut Standar  Operasional Prosedur (SOP) dan diatur lebih lanjut dengan Peraturan  Bupati.  
 

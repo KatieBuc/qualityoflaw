@@ -19,11 +19,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindakan kekerasan yang terjadi terhadap perempuan dan anak dapat menimbulkan korban yang berdampak pada traumatik yang berkepanjangan;  
 b. bahwa demi melindungi kepentingan perempuan dan anak, maka dipandang perlu ada kepastian hukum yang menjamin perlindungan terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan, Pelayanan dan Pemulihan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -134,7 +136,8 @@ c. Memberikan pelayanan pemulihan kepada korban kekerasan; dan d. Menyelenggarak
 a. Pusat Pelayanan Terpadu Perempuan dan Anak disingkat P2TPA;  
 b. Tenaga Ahli dan Profesional ;  
 c. Pusat Pelayanan Terpadu ( PPT ) dan atau Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak ( P2TP2A );  
-d. Rumah Aman ; dane. Sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  
+d. Rumah Aman ; dan  
+e. Sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  
 4. PPT dan atau P2TP2A adalah sebuah wadah pendampingan yang dikelola secara terpadu yang terdiri dari tenaga kesehatan, tenaga pendidikan, lembaga sosial, aparat penegak hukum, psikolog, psikiater, relawan pendamping dan atau pembimbing rohani dan melibatkan peran serta masyarakat ;  
 5. PPT dan atau P2TP2A mencari dan menerima laporan, pengaduan dan atau rujukan dari masyarakat ;  
 6. Pengaturan tentang PPt dan atau P2TP2A akan diatur lebih lanjut dengan Peaturan Bupati.  
@@ -165,7 +168,8 @@ e. Komisi Perlindungan Anak Indonesia ( KPAI ); dan f. Pihak tertentu yang diing
 
 Pemulihan yang dimaksudkan meliputi:  
 a. Pemulihan kesehatan ;  
-b. Pendidikan bagi anak korban kekerasan dapat berupa pendidikan formal, informal dan non formal ; danc. Kemandirian ekonomi berupa pelatihan keterampilan, memberikan akses dan penguatan ekonomi agar korban dapat mandiri
+b. Pendidikan bagi anak korban kekerasan dapat berupa pendidikan formal, informal dan non formal ; dan  
+c. Kemandirian ekonomi berupa pelatihan keterampilan, memberikan akses dan penguatan ekonomi agar korban dapat mandiri
 
 ##### B A B IV
 
@@ -177,7 +181,8 @@ b. Pendidikan bagi anak korban kekerasan dapat berupa pendidikan formal, informa
 b. Melibatkan Lembaga Swadaya Masyarakat, Organisasi Perempuan, Tokoh Agama, Tokoh Adat, Tokoh Masyarakat, dalam penyelenggaraan perlindungan dan layanan terhadap korban ;  
 c. Menyediakan anggaran sesuai program dan kebutuhan ;  
 d. Menjamin terlaksananya kemudahan pelayanan kepada korban ;  
-e. Mengupayakan efektifitas dan efisiensi bagi proses pemulihan korban ; danf. Mengupayakan terciptanya kerjasama dan koordinasi dalam upaya pemulihan korban.  
+e. Mengupayakan efektifitas dan efisiensi bagi proses pemulihan korban ; dan  
+f. Mengupayakan terciptanya kerjasama dan koordinasi dalam upaya pemulihan korban.  
 2. Pemerintah Daerah berkoordinasi antar instansi dan lembaga sosial lainnya yang bertanggung jawab penuh dalam melaksanakan kewajibannya sebagaimana dimaksud pada ayat (1) sesuai dengan peraturan perundang – undangan yang berlaku.  
 
 ##### B A B V
@@ -198,7 +203,8 @@ Setiap korban berhak mendapatkan jaminan atas hak – haknya sebagai Warga Negar
 #### Pasal 11
 
 Segala biaya untuk penyelenggaraan perlindungan, pelayanan dan pemulihan yang dilakukan oleh Pemerintah Daerah terhadap korban kekerasan dibebankan kepada:  
-a. Anggaran Pendapatan dan Belanja Daerahb. Sumber pendapatan lain yang sah sesuai dengan Peraturan Perundang – undangan ; danc. Sumber pendapatan lain yang tidak mengikat.  
+a. Anggaran Pendapatan dan Belanja Daerahb. Sumber pendapatan lain yang sah sesuai dengan Peraturan Perundang – undangan ; dan  
+c. Sumber pendapatan lain yang tidak mengikat.  
 
 # BAB VII
 

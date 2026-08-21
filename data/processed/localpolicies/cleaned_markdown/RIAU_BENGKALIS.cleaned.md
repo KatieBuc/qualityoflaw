@@ -104,10 +104,12 @@ Pasal Perlindungan perempuan dan anak dilakukan berdasarkan asas: kemanusiaan;
 keadilan dan kesetaraan gender;  
 c. pengayoman;  
 d. kepentingan terbaik bagi perempuan dan anak;  
-e. non diskriminasi; danf. pemberdayaan.  
+e. non diskriminasi; dan  
+f. pemberdayaan.  
 
 Pasal Peraturan Daerah ini dimaksudkan sebagai:  
-a. pemenuhan hak anak dan perempuan dalam rangka perlindungan dan pencegahan kekerasan bagi anak dan perempuan di Daerah; danb. pedoman bagi Pemerintah Daerah dan masyarakat untuk melakukan perlindungan, pelayanan, rehabilitasi medik, rehabilitasi sosial dan pemberdayaan bagi perempuan dan anak korban tindak kekerasan.  
+a. pemenuhan hak anak dan perempuan dalam rangka perlindungan dan pencegahan kekerasan bagi anak dan perempuan di Daerah; dan  
+b. pedoman bagi Pemerintah Daerah dan masyarakat untuk melakukan perlindungan, pelayanan, rehabilitasi medik, rehabilitasi sosial dan pemberdayaan bagi perempuan dan anak korban tindak kekerasan.  
 
 Pasal Tujuan perlindungan perempuan dan anak dalam Peraturan Daerah ini adalah:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
@@ -121,7 +123,8 @@ memberikan pelayanan kepada perempuan dan anak korban
 d. tindak kekerasan dan melakukan_ rehabilitasi serta reintegrasi terhadap perempuan dan anak korban tindak kekerasan dengan pelibatan pelaku usaha;  
 
 meningkatkan kerja sama dan kemitraan dengan
-e. keterlibatan dari perusahaan-perusahaan untuk melaksanakan pemberdayaan dan perlindungan perempuan dan anak dari berbagai tindak kekerasan; melaksanakan pemberdayaan perempuan untuk meningkatkan kualitas hidup perempuan; danf. menetapkan dan melaksanakan kebijakan serta program/ kegiatan pemenuhan hak anak. Pasal Ruang lingkup penyelenggaraan perlindungan perempuan dan anak yang diatur dalam Peraturan Daerah ini meliputi: pencegahan kekerasan terhadap perempuan dan anak;  
+e. keterlibatan dari perusahaan-perusahaan untuk melaksanakan pemberdayaan dan perlindungan perempuan dan anak dari berbagai tindak kekerasan; melaksanakan pemberdayaan perempuan untuk meningkatkan kualitas hidup perempuan; dan  
+f. menetapkan dan melaksanakan kebijakan serta program/ kegiatan pemenuhan hak anak. Pasal Ruang lingkup penyelenggaraan perlindungan perempuan dan anak yang diatur dalam Peraturan Daerah ini meliputi: pencegahan kekerasan terhadap perempuan dan anak;  
 a. b. penyediaan layanan bagi perempuan dan anak korban kekerasan;  
 
 kelembagaan;  
@@ -255,7 +258,8 @@ hak mendapatkan pemberdayaan; dan hak untuk diadili berdasarkan keadilan restora
 Perlindungan perempuan dan anak merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. Orang tua, Wali dan/atau Keluarga;  
-c. Masyarakat; dand. Dunia usaha/swasta.  
+c. Masyarakat; dan  
+d. Dunia usaha/swasta.  
 
 ### Paragraf Pemerintah Daerah
 
@@ -300,7 +304,8 @@ Penyelenggaraan Perlindungan Perempuan dan Anak dari Tindak Kekerasan
 
 Pemerintah Daerah dalam melaksanakan penyelenggaraan perlindungan perempuan dan anak dari tindak melalui kekerasan kegiatan:  
 a. pencegahan;  
-b. pelayanan; danc. pemberdayaan.  
+b. pelayanan; dan  
+c. pemberdayaan.  
 
 Paragraf Pencegahan
 
@@ -392,7 +397,8 @@ c. rujukan ke pelayanan kesehatan sesuai kebutuhan.
 1. Pelayanan bantuan hukum sebagaimana dimaksud dalam Pasal 26 ayat (1) huruf angka untuk membantu korban dalam menjalani proses peradilan.  
 2. Pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap menjelaskan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
+b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap menjelaskan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 31
 
@@ -414,7 +420,8 @@ d. pemberian pembinaan dan pendidikan keterampilan; dan €. pemberian bantuan m
 
 Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) dilaksanakan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi dibidang: (4)
 a. sosial;  
-b. Cc.  d. pemberdayaan perempuan dan perlindungan anak; pendidikan kesehatan; dane. mental dan spiritual.  
+b. Cc.  d. pemberdayaan perempuan dan perlindungan anak; pendidikan kesehatan; dan  
+e. mental dan spiritual.  
 
 Selain dilaksanakan oleh Perangkat Daerah sebagaimana dimaksud pada ayat (4), rehabilitasi sosial juga dapat dilaksanakan oleh masyarakat atau lembaga pelayanan (5) sosial.  
 
@@ -428,7 +435,8 @@ b. sosial;
 c. ketenagakerjaan;  
 d. kesehatan;  
 e. pendidikan;  
-f. keamanan dan ketertiban; dang. mental dan spiritual.  
+f. keamanan dan ketertiban; dan  
+g. mental dan spiritual.  
 
 Dalam melaksanakan tugas dan fungsi sebagaimana dimaksud pada ayat (1) Perangkat Daerah dapat (3) bekerjasama dengan instansi pemerintah, pemerintah provinsi, pemerintah kabupaten/kota lain dan masyarakat serta dunia usaha.  
 
@@ -449,7 +457,8 @@ usaha ekonomis produktif dan kelompok usaha bersama; dan bantuan permodalan.
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 34 huruf meliputi:  
 a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 36
 
@@ -469,7 +478,8 @@ b. fasilitasi bantuan modal kerja.
 
 Dalam rangka penguatan dan pengembangan lembaga penyedia layanan perlindungan perempuan dan anak Pemerintah Daerah membentuk:  
 a. UPT PPA;  
-b. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang; danc. Satuan Tugas Perlindungan Perempuan dan Anak.  
+b. Gugus Tugas Pencegahan dan Penanganan Tindak Pidana Perdagangan Orang; dan  
+c. Satuan Tugas Perlindungan Perempuan dan Anak.  
 
 #### Pasal 39
 
@@ -498,7 +508,8 @@ Dalam rangka mencapai tujuan perlindungan perempuan dan anak sebagaimana dimaksu
 Kerja sama sebagaimana dimaksud pada ayat (1) meliputi: (2)
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi.  
 
 Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat (3) (2) dituangkan dalam _bentuk Kesepakatan Bersama dan/atau Perjanjian Kerja Sama sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -547,7 +558,8 @@ c. meminta keterangan dari setiap orang dan/atau badan usaha sehubungan dengan p
 d. melakukan pemeriksaan atas bahan bukti, catatan, atau dokumen lain berkenaan dengan tindak pidana yang berkaitan dengan kekerasan terhadap Perempuan dan anak;  
 e. melakukan pemeriksaan ditempat tertentu yang diduga terdapat bahan bukti;  
 f. melakukan penyitaan terhadap barang dan bahan hasil pelanggaran yang dapat dijadikan bukti dalam perkara tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak;  
-g. meminta bantuan tenaga ahli dalam rangka pelaksanan tugas penyidikan berkenaan dengan tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak; danh. menghentikan penyidikan apabila tidak terdapat cukup bukti tentang adanya tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak.  
+g. meminta bantuan tenaga ahli dalam rangka pelaksanan tugas penyidikan berkenaan dengan tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak; dan  
+h. menghentikan penyidikan apabila tidak terdapat cukup bukti tentang adanya tindak pidana yang berkaitan dengan kekerasan terhadap perempuan dan anak.  
 
 Dalam melaksanakan wewenangnya, Penyidik Pegawai Negeri Sipil sebagaimana dimaksud pada ayat (1) berkoordinasi dengan Polri sesuai dengan ketentuan (3) peraturan perundang-undangan.  
 

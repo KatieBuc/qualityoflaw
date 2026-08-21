@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan ciptaan Tuhan  Yang Maha Esa yang menjadi unsur penting dari masyarakat dan Bangsa Indonesia;  
 b. bahwa dalam kehidupan masyarakat seringkali perempuan  dan anak mendapatkan kekerasan atau perlakuan yang kurang menyenangkan;  
 c. bahwa segala bentuk kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -90,7 +92,8 @@ Tujuan perlindungan Perempuan dan Anak adalah untuk:
 ##### JDIH KABUPATEN PASANGKAYU
 a. memberikan dan meningkatkan rasa aman bagi Perempuan  dan Anak;  
 b. membantu mencegah tindak Kekerasan terhadap Perempuan  dan Anak;  
-c. membantu mencegah kegiatan eksploitasi terhadap  Perempuan dan Anak.  d. memberikan Pelayanan kepada Perempuan dan Anak dalam  menghadapi permasalahan hukum; dane. membantu meningkatkan kualitas hidup Perempuan dan  Anak.  
+c. membantu mencegah kegiatan eksploitasi terhadap  Perempuan dan Anak.  d. memberikan Pelayanan kepada Perempuan dan Anak dalam  menghadapi permasalahan hukum; dan  
+e. membantu meningkatkan kualitas hidup Perempuan dan  Anak.  
 
 #### Pasal 3
 
@@ -99,7 +102,8 @@ b. hak-hak Perempuan dan Anak;
 c. tugas dan wewenang;  
 d. penanganan tindak Kekerasan;  
 e. pendanaan;  
-f. pembinaan dan pengawasan; dang. peran serta masyarakat.  
+f. pembinaan dan pengawasan; dan  
+g. peran serta masyarakat.  
 
 # BAB III
 
@@ -176,7 +180,8 @@ c. suatu akta kelahiran yang diperoleh dan/atau diusahakan  oleh orang tuanya se
 d. mendapatkan perlindungan dari keluarga, masyarakat  dan Pemerintah Daerah terhadap perlakuan diskriminasi  dan eksploitasi baik secara ekonomi maupun sosial,  penelantaran, kekejaman, kekerasan, penganiayaan,  ketidak-adilan dan perlakuan salah lainnya;  
 e. mendapatkan kembali pendidikan formal atau nonformal  bagi Anak putus sekolah;  
 f. memperoleh Pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental spritual dan sosial;  
-g. memperoleh pendidikan dan pengajaran sesuai  kemampuan, minat dan bakatnya; danh. memperoleh hak lainnya sesuai dengan ketentuan  peraturan perundang-undangan.  
+g. memperoleh pendidikan dan pengajaran sesuai  kemampuan, minat dan bakatnya; dan  
+h. memperoleh hak lainnya sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 # BAB V
 
@@ -206,7 +211,8 @@ Perlindungan Perempuan jangka panjang, jangka menengah,  dan jangka pendek.
 
 1. Pemerintah Daerah wajib melakukan pencegahan atas  tindakan Kekerasan terhadap Perempuan.  
 2. Pencegahan atas tindak Kekerasan terhadap Perempuan  sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan:a. Rencana Aksi Daerah;  
-c. penyiapan sistem informasi yang efektif; dand. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak Kekerasan terhadap  Perempuan.  
+c. penyiapan sistem informasi yang efektif; dan  
+d. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak Kekerasan terhadap  Perempuan.  
 
 #### Pasal 14
 
@@ -253,14 +259,16 @@ Pemerintah Daerah memberikan pembinaan dan bimbingan bagi  Anak untuk memeluk ag
 
 #### Pasal 20
 
-1. Pemerintah Daerah wajib memberikan Perlindungan khusus  bagi Anak Korban kerusuhan atau Korban bencana alam.  (2) Perlindungan khusus sebagaimana dimaksud pada ayat (1)  berupa pemenuhan kebutuhan:a. dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan  keamanan, dan persamaan perlakuan; danb. khusus bagi Anak yang menyandang cacat dan Anak yang  mengalami gangguan psikososial.  
+1. Pemerintah Daerah wajib memberikan Perlindungan khusus  bagi Anak Korban kerusuhan atau Korban bencana alam.  (2) Perlindungan khusus sebagaimana dimaksud pada ayat (1)  berupa pemenuhan kebutuhan:a. dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan, kesehatan, belajar dan berekreasi, jaminan  keamanan, dan persamaan perlakuan; dan  
+b. khusus bagi Anak yang menyandang cacat dan Anak yang  mengalami gangguan psikososial.  
 
 #### Pasal 21
 
 1. Pemerintah Daerah wajib melakukan pencegahan atas upaya  dan tindakan kekerasan terhadap Anak.  
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan bentuk kegiatan yang meliputi:  a. deteksi dan intervensi dini;  
 b. sosialisasi, seminar atau lokakarya;  
-c. penyiapan sistem informasi yang efektif; dand. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak kekerasan terhadap Anak.  
+c. penyiapan sistem informasi yang efektif; dan  
+d. kerja sama dengan lembaga yang mempunyai kegiatan  dalam pencegahan tindak kekerasan terhadap Anak.  
 
 #### Pasal 22
 
@@ -272,7 +280,8 @@ Wewenang
 
 #### Pasal 23
 
-1. Pemerintah Daerah berwenang:a. menampung Korban tindak Kekerasan terhadap  Perempuan dan Anak; danb. menampung dan/atau mengasuh Anak terlantar.  (2) Pemerintah Daerah dalam melaksanakan kewenangan  sebagaimana dimaksud pada ayat (1) dapat melakukan kerja  sama dengan pihak terkait.  
+1. Pemerintah Daerah berwenang:a. menampung Korban tindak Kekerasan terhadap  Perempuan dan Anak; dan  
+b. menampung dan/atau mengasuh Anak terlantar.  (2) Pemerintah Daerah dalam melaksanakan kewenangan  sebagaimana dimaksud pada ayat (1) dapat melakukan kerja  sama dengan pihak terkait.  
 
 ##### JDIH KABUPATEN PASANGKAYU
 
@@ -280,7 +289,8 @@ Wewenang
 
 1. Pihak terkait sebagaimana dimaksud dalam Pasal 23 ayat (2)  adalah:a. organisasi sosial kemasyarakatan, lembaga atau panti  asuhan yang mempunyai kegiatan terkait dengan  perlindungan, pengasuhan, penampungan, bimbingan,  pemberdayaan Anak dan/atau Perempuan;  
 b. pekerja sosial atau relawan;  
-c. advokat; dand. rohaniawan.  
+c. advokat; dan  
+d. rohaniawan.  
 2. Kerja sama sebagaimana dimaksud dalam Pasal 23 ayat (2)  dilakukan dengan bentuk perjanjian kerjasama.  
 
 # BAB VI
@@ -304,7 +314,8 @@ c. advokat; dand. rohaniawan.
 
 ##### JDIH KABUPATEN PASANGKAYU
 b. memberikan informasi mengenai hak Korban untuk  mendapatkan Perlindungan dari kepolisian dan penetapan  perintah Perlindungan dari pengadilan;  
-c. mengantarkan Korban ke Rumah Aman atau tempat  tinggal alternatif; dand. melakukan koordinasi terpadu dalam memberikan  layanan kepada Korban dengan instansi atau pihak terkait  yang dibutuhkan Korban.  
+c. mengantarkan Korban ke Rumah Aman atau tempat  tinggal alternatif; dan  
+d. melakukan koordinasi terpadu dalam memberikan  layanan kepada Korban dengan instansi atau pihak terkait  yang dibutuhkan Korban.  
 
 #### Pasal 28
 
@@ -321,7 +332,8 @@ c. mengantarkan Korban ke Rumah Aman atau tempat  tinggal alternatif; dand. mela
 #### Pasal 30
 
 Rohaniawan sebagaimana dimaksud dalam Pasal 24 ayat (1)  huruf d bertugas:  
-a. memberi bimbingan rohani atau penguatan iman dan taqwa  kepada Korban; danb. memberikan penjelasan mengenai hak dan kewajiban Korban.  
+a. memberi bimbingan rohani atau penguatan iman dan taqwa  kepada Korban; dan  
+b. memberikan penjelasan mengenai hak dan kewajiban Korban.  
 
 # BAB VII
 
@@ -369,7 +381,8 @@ c. mempromosikan Perlindungan Perempuan dan Anak.
 #### Pasal 34
 
 1. Pendanaan atas penyelenggaraan Perlindungan Perempuan  dan Anak dibebankan pada:a. anggaran pendapatan dan belanja negara;  
-b. anggaran pendapatan dan belanja daerah; danc. sumber lain yang sah dan tidak mengikat.  
+b. anggaran pendapatan dan belanja daerah; dan  
+c. sumber lain yang sah dan tidak mengikat.  
 2. Pendanaan sebagaimana dimaksud pada ayat (1) huruf a  dianggarkan pada Perangkat Daerah yang menyelenggarakan  urusan pemerintahan dibidang pemberdayaan Perempuan dan Anak.  
 
 # BAB X

@@ -135,7 +135,8 @@ Penyelenggaraan perlindungan perempuan dan anak korban kekerasan dilaksanakan be
 a. penghormatan hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. perlindungan terhadap hak korban;  
-d. tidak diskriminatif; dane. kepentingan terbaik bagi korban.  
+d. tidak diskriminatif; dan  
+e. kepentingan terbaik bagi korban.  
 
 #### Pasal 3
 
@@ -145,7 +146,8 @@ d. tidak diskriminatif; dane. kepentingan terbaik bagi korban.
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran ekonomi; dane. pembatasan ruang gerak.  
+d. penelantaran ekonomi; dan  
+e. pembatasan ruang gerak.  
 
 # BAB III
 
@@ -158,7 +160,8 @@ a. perlindungan dan pendampingan;
 b. bantuan hukum;  
 c. pelayanan kesehatan sesuai kebutuhan medis;  
 d. pelayanan psikososial;  
-e. informasi; danf. pelayanan terpadu.  
+e. informasi; dan  
+f. pelayanan terpadu.  
 
 #### Pasal 5
 
@@ -206,7 +209,8 @@ pertolongan psikososial pertama pada korban
 d. dilakukan untuk identifikasi terjadinya kekerasan dan traumatis yang dialami korban;  
 
 pendampingan korban kekerasan yang dilakukan
-e. oleh orang atau lembaga kompeten yang mempunyai keahlian untuk melakukan konseling, terapi dan advokasi guna penguatan dan pemulihan korban kekerasan dan telah bekerjasama dengan PPT; danf. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri.  
+e. oleh orang atau lembaga kompeten yang mempunyai keahlian untuk melakukan konseling, terapi dan advokasi guna penguatan dan pemulihan korban kekerasan dan telah bekerjasama dengan PPT; dan  
+f. pelayanan kemandirian ekonomi berupa layanan untuk pelatihan ketrampilan dan pemberian akses ekonomi agar korban dapat mandiri.  
 2. Mekanisme pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan menurut Standar Operasional Prosedur (SOP) yang diatur dengan Peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -239,12 +243,14 @@ keluarga; dan orangtua.
 
 (21 Pencegahan terjadinya kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:  
 a. mengumpulkan data dan informasi tentang perempu€m dan anak serta peratur€m pertrndang-r-rndangan yang terkait;  
-b. melakukan pendidikan nilai-nilai anti kekerasan; danc. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pencegahan dan perlindungan korban kekerasa.n.  
+b. melakukan pendidikan nilai-nilai anti kekerasan; dan  
+c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pencegahan dan perlindungan korban kekerasa.n.  
 3. Perlindungan korban kekerasan sebagaimana dimaksud pada ayat (1) dalam bentuk:a. mendirikan dan memfasilitasi terselenggarakannya lembaga layanan terpadu untuk korban dengan melibatkan dinas/instansi terkait dan unsur masyarakat;  
 b. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
 c. menyediakan tempat tinggal baik rumah aman maupun tempat tinggal alternatif beserta mekanisme penanganan, pelayanan, dan psikososial;  
 d. melakukan penanganan berkelanjutan sampai pada tahap rehabilitasi dan reintegrasi sosial;  
-e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn korban kekerasan; danf. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban kekerasan.  
+e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn korban kekerasan; dan  
+f. mendorong kepedulian masyarakat akan pentingnya perlindungan terhadap korban kekerasan.  
 
 (41 Dalam rangka melaksanakan tanggungjawab sebagaimana dimaksud pada ayat (1), Pemerintah I t,vI a, Daerah menetapkan program dan kegiatan aksi perlindungan terhadap perempuan dan anak dalam satu Rencana Aksi Daerah Perlindungan Terhadap Perempuan dan Anak Korban Kekerasan.  
 
@@ -253,7 +259,8 @@ e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan perlindung€rn ko
 #### Pasal 12
 
 Tanggungjawab masyarakat sebagaimana dimaksud dalam Pasal 1O huruf b diselenggarakan dalam bentuk:  
-a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; danb. memberikan informasi danlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang benvenang.  
+a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak; dan  
+b. memberikan informasi danlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang benvenang.  
 
 #### Pasal 13
 

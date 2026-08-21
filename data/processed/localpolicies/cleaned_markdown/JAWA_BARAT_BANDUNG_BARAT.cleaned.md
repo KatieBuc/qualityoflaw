@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang  berperan dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap pemenuhan  hak-haknya dan perlindungan dari tindak kekerasan dan  diskriminasi;  
 b. bahwa berdasarkan Pasal 7 ayat (2) huruf n Peraturan  Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah, Pemerintahan Daerah  Provinsi dan Pemerintahan Daerah Kabupaten/Kota,  Pemberdayaan Perempuan dan Perlindungan anak merupakan  urusan pemerintahan yang wajib diselenggarakan oleh  Pemerintahan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan  Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -162,7 +164,8 @@ a. Pengarusutamaan Gender;
 b. Peningkatan Kualitas Hidup Perempuan;  
 c. Perlindungan Perempuandan Anak;  
 d. Kabupaten Layak Anak (KLA);  
-e. pembinaan dan pengawasan; danf. pembiayaan.  
+e. pembinaan dan pengawasan; dan  
+f. pembiayaan.  
 
 # BAB II
 
@@ -175,7 +178,8 @@ Kebijakan Pelaksanaan PUG
 #### Pasal 5
 
 1. Pemerintah Daerah menyusun kebijakan, program, dan kegiatan  pembangunan Responsif Gender yang dituangkan dalam:a. Rencana Pembangunan Jangka Menengah Daerah (RPJMD);  
-b. Rencana Strategis SKPD; danc. Rencana Kerja SKPD.  
+b. Rencana Strategis SKPD; dan  
+c. Rencana Kerja SKPD.  
 2. Penyusunan kebijakan, program, dan kegiatan pembangunan Responsif  Gender sebagaimana dimaksud pada ayat (1) dilakukan melalui Analisis  Gender.  
 
 #### Pasal 6
@@ -206,11 +210,13 @@ g. merumuskan rekomendasi kebijakan kepada Bupati;
 h. menyusun Profil Gender Daerah;  
 i. melakukan pemantauan pelaksanaan PUG di masing-masing instansi;  
 j. menetapkan tim teknis untuk melakukan analisis terhadap anggaran  daerah;  
-k. menyusun Rencana Aksi Daerah (RAD) PUG di Daerah; danl. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di  masing-masing SKPD.  
+k. menyusun Rencana Aksi Daerah (RAD) PUG di Daerah; dan  
+l. mendorong dilaksanakannya pemilihan dan penetapan Focal Point di  masing-masing SKPD.  
 2. Tim Teknis sebagaimana dimaksud pada ayat (1) huruf j beranggotakan  aparatur yang memahami analisis Anggaran Responsif Gender.  
 3. Rencana Aksi Daerah (RAD) PUG sebagaimana dimaksud pada ayat (1) huruf k  memuat:a. PUG dalam peraturan perundang-undangan di Daerah;  
 b. PUG dalam siklus pembangunan di Daerah;  
-c. penguatan kelembagaan PUG di Daerah; dand. penguatan peran serta masyarakat di Daerah.  
+c. penguatan kelembagaan PUG di Daerah; dan  
+d. penguatan peran serta masyarakat di Daerah.  
 
 ## Bagian Ketiga
 
@@ -223,7 +229,8 @@ Focal Point PUG
 b. memfasilitasi penyusunan rencana kerja dan penganggaran SKPD yang  Responsif Gender;  
 c. melaksanakan pelatihan, sosialisasi, advokasi Pengarusutamaan Gender  kepada seluruh pejabat dan staf di lingkungan SKPD;  
 d. melaporkan pelaksanaan PUG kepada pimpinan SKPD;  
-e. mendorong pelaksanaan Analisis Gender terhadap kebijakan, program,  dan kegiatan pada unit kerja; danf. memfasilitasi penyusunan data gender pada masing-masing SKPD.  
+e. mendorong pelaksanaan Analisis Gender terhadap kebijakan, program,  dan kegiatan pada unit kerja; dan  
+f. memfasilitasi penyusunan data gender pada masing-masing SKPD.  
 3. Focal Point PUG sebagaimana dimaksud pada ayat (1), dipilih dan ditetapkan  oleh kepala/pimpinan SKPD.  
 
 ## Bagian Keempat
@@ -238,7 +245,8 @@ a. pelaksanaan program dan kegiatan;
 b. instansi yang terlibat dalam pelaksanaan kegiatan;  
 c. sasaran kegiatan;  
 d. penggunaan anggaran yang bersumber dari APBD atau sumber lain;  
-e. permasalahan yang dihadapi; danf. upaya yang telah dilakukan.  
+e. permasalahan yang dihadapi; dan  
+f. upaya yang telah dilakukan.  
 3. Tata cara pelaporan pelaksanaan PUG di daerah diatur lebih lanjut dalam  Peraturan Bupati.  
 
 #### Pasal 11
@@ -259,7 +267,8 @@ Bupati melakukan pembinaan terhadap pelaksanaan PUG yang meliputi:
 a. penetapan panduan teknis pelaksanaan PUG skala Kabupaten, Kecamatan,  dan Desa;  
 b. penguatan kapasitas kelembagaan melalui pelatihan, konsultasi, advokasi,  dan koordinasi;  
 c. pemantauan dan evaluasi pelaksanaan PUG di Daerah;  
-d. peningkatan kapasitas Pokja PUG dan focal point; dane. strategi pencapaian kinerja.  
+d. peningkatan kapasitas Pokja PUG dan focal point; dan  
+e. strategi pencapaian kinerja.  
 
 # BAB III
 
@@ -277,7 +286,8 @@ b. kerjasama dengan Pemerintah Daerah lainnya dalam pelaksanaan kebijakan,  prog
 c. penguatan kapasitas kelembagaan PUG untuk pelaksanaan PKHP;  
 d. fasilitasi pelayanan PKHP;  
 e. penyediaan pelayanan PKHP;  
-f. pelaksanaan aksi afirmasi PKHP; dang. penyusunan sistem pendataan PKHP.  
+f. pelaksanaan aksi afirmasi PKHP; dan  
+g. penyusunan sistem pendataan PKHP.  
 
 #### Pasal 15
 
@@ -295,12 +305,14 @@ h. pembangunan pusat pelayanan terpadu berbasis rumah sakit, dan berbasis  masya
 Pemerintah Daerah melaksanakan fasilitasi pembentukan dan pengembangan  model-model pembangunan PKHP, yang meliputi:  
 a. BKB;  
 b. GSI;  
-c. Desa PRIMA; dand. P2WKSS.  
+c. Desa PRIMA; dan  
+d. P2WKSS.  
 
 #### Pasal 17
 
 1. Pemerintah Daerah menyediakan pelayanan PKHP berupa:a. pelayanan sosial dasar terutama pendidikan dan kesehatan;  
-b. informasi: ekonomi, pendidikan, kesehatan, ketenagakerjaan, hukum,  politik, ilmu pengetahuan dan teknologi, dan lain-lain; danc. pelatihan: keterampilan, manajemen, kepemimpinan, kewirausahaan,  keuangan, dan lain-lain.  
+b. informasi: ekonomi, pendidikan, kesehatan, ketenagakerjaan, hukum,  politik, ilmu pengetahuan dan teknologi, dan lain-lain; dan  
+c. pelatihan: keterampilan, manajemen, kepemimpinan, kewirausahaan,  keuangan, dan lain-lain.  
 2. Penyediaan pelayanan PKHP dilaksanakan melalui P2TP2A yang  dikoordinasikan oleh BP3AKB.  
 
 # BAB IV
@@ -316,7 +328,8 @@ Kewajiban dan Tanggung Jawab
 Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
-c. keluarga; dand. orang tua.  
+c. keluarga; dan  
+d. orang tua.  
 
 #### Pasal 19
 
@@ -324,7 +337,8 @@ c. keluarga; dand. orang tua.
 b. menetapkan kebijakan program, dan kegiatan perlindungan terhadap  perempuan dan anak di Daerah;  
 c. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  terhadap perempuan dan anak dari tindak kekerasan;  
-e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan sesuai kemampuan  keuangan daerah; danf. membina dan mengawasi penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan.  
+e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan sesuai kemampuan  keuangan daerah; dan  
+f. membina dan mengawasi penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah menetapkan program dan  kegiatan perlindungan terhadap perempuan dan anak dalam Rencana Aksi  Daerah sebagai dasar bagi Pemerintah Daerah dalam melaksanakan  perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), ditetapkan dengan  Peraturan Bupati.  
 
@@ -332,7 +346,8 @@ e. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan 
 
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 18 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadi tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; danc. turut serta dalam memberikan bantuan dan/atau penanganan terhadap  korban tindak kekerasan.  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
+c. turut serta dalam memberikan bantuan dan/atau penanganan terhadap  korban tindak kekerasan.  
 
 #### Pasal 21
 
@@ -346,9 +361,11 @@ Tugas dan Wewenang Pemerintah Daerah
 
 1. Pemerintah Daerah mempunyai tugas melaksanakan upaya pencegahan terjadinya kekerasan terhadap perempuan dan anak, meliputi:a. mengelola data dan informasi tentang perlindungan perempuan dan anak  korban tindak kekerasan;  
 b. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan penyelenggaraan perlindungan terhadap perempuan dan anak  dari tindak kekerasan;  
-c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap  perempuan dan anak; dand. melakukan pemantauan dan evaluasi terhadap penyelengaraan  perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
+c. melakukan pendidikan tentang nilai-nilai anti kekerasan terhadap  perempuan dan anak; dan  
+d. melakukan pemantauan dan evaluasi terhadap penyelengaraan  perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 2. Pemerintah Daerah dalam melaksanakan tugas sebagaimana dimaksud pada  ayat (1), berwenang menyediakan dan menyelenggarakan layanan bagi korban kekerasan, antara lain:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban tindak kekerasan dengan melibatkan lembaga dan unsur  masyarakat;  
-b. mendorong keperdulian masyarakat akan pentingnya perlindungan  terhadap perempuan dan anak; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan terhadap perempuan dan anak.  
+b. mendorong keperdulian masyarakat akan pentingnya perlindungan  terhadap perempuan dan anak; dan  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan terhadap perempuan dan anak.  
 
 ## Bagian Ketiga
 
@@ -366,7 +383,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, p
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat untuk melaksanakan  pencegahan dan perlindungan terhadap perempuan dan anak dari tindak  kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan mudah  diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dang. membuka pos pengaduan untuk perlindungan terhadap perempuan dan  anak dari tindak kekerasan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dan  
+g. membuka pos pengaduan untuk perlindungan terhadap perempuan dan  anak dari tindak kekerasan.  
 3. Pencegahan tindak kekerasan sebagaimana dimaksud pada ayat (1),  dilaksanakan secara terpadu dan berkesinambungan berdasarkan Rencana  Aksi Daerah.  
 
 ### Paragraf 2
@@ -409,7 +427,8 @@ Kelembagaan Perlindungan Perempuan dan Anak
 
 1. P2TP2A mempunyai tugas pokok melaksanakan sebagian tugas Pemerintah  Daerah dalam menyelenggarakan pelayanan secara cepat, tepat dan terpadu  dalam upaya Pemberdayaan Perempuan serta Perlindungan Anak dari tindak  kekerasan, diskriminasi dan perdagangan orang.  
 2. Dalam melaksanakan tugas sebagaimana dimaksud pada ayat (1), P2TP2A  mempunyai fungsi:a. melaksanakan fasilitasi dan penyediaan pelayanan perlindungan  perempuan dan anak dari diskriminasi dan tindak kekerasan, termasuk  perdagangan orang, yang bersifat darurat secara cepat meliputi berbagai  layanan yaitu informasi, rujukan medis, hukum, psikologis, psikis, rumah  aman (shelter), kunjungan rumah (home visit) dan pelatihan keterampilan  serta bentuk layanan lainnya yang mendukung pelaksanaan kegiatan  P2TP2A;  
-b. melaksanakan koordinasi dan membangun jejaring kerja yang bersinergi  dengan Perangkat Daerah, Instansi terkait, dan/atau lembaga lain yang  memiliki tugas dan fungsi di bidang Pemberdayaan Perempuan serta  Perlindungan Perempuan dan Anak; danc. pemantauan terhadap korban pasca penanganan P2TP2A dan/atau mitra  kerja.  
+b. melaksanakan koordinasi dan membangun jejaring kerja yang bersinergi  dengan Perangkat Daerah, Instansi terkait, dan/atau lembaga lain yang  memiliki tugas dan fungsi di bidang Pemberdayaan Perempuan serta  Perlindungan Perempuan dan Anak; dan  
+c. pemantauan terhadap korban pasca penanganan P2TP2A dan/atau mitra  kerja.  
 
 ### Paragraf 2
 
@@ -462,7 +481,8 @@ d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya; dan e. perlindungan
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:a. penyediaan pedoman dan pemenuhan Standar Pelayanan Minimal  Pemberdayaan Perempuan dan Perlindungan Anak;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Ketentuan lebih lanjut mengenai pembinaan dan pengawasan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Bupati.  
 
 #### Pasal 34
@@ -476,7 +496,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 33, dilaksanakan  dala
 #### Pasal 35
 
 Pembiayaan penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak,  bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang undangan.  
 
 # BAB VIII
 

@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekeraslan, eksploitasi, dan diskriminasi yang menyampingkan dan merendahkan derajatnya setragai mariusia;  
 b. bahwa perilaku negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanal atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum seharusnya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap marnpu menjalankan kehidupannya dalam pergauian sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyeienggarakan perlindungan perempuan dan anak;  
@@ -160,7 +161,8 @@ Pasa] 2 (1) Penyelenggaraan perlindungan perempuan dan anak, dilaksanakan berdas
 a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi dalam pemberdayaan perempuan dan afiak;  
-d. kepentingan yarrg terbaik bagi perempuan dan anak; dane. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang mengalami tindak kekerasan atau Penelanta-ran' (2) Tujuan penyelengga-raan perlindungan perempuan dan anak, meliPuti:a. mencegah tindak kekerasal atau penelaltaran terhadap perempuan dan anak termasuk perdagangan orang;  
+d. kepentingan yarrg terbaik bagi perempuan dan anak; dan  
+e. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang mengalami tindak kekerasan atau Penelanta-ran' (2) Tujuan penyelengga-raan perlindungan perempuan dan anak, meliPuti:a. mencegah tindak kekerasal atau penelaltaran terhadap perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak:c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 
 d,. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelapor, dan saksi;  
@@ -225,7 +227,8 @@ hak pelayanan dasar;
 b. hak perlindungan Yang sama;  
 
 C. hak bebas dari berbagai stigma;  
-d. hak mendapatkan kebebasan; dane. hak mendapatkan ganti kerugian dari pelaku' f.  
+d. hak mendapatkan kebebasan; dan  
+e. hak mendapatkan ganti kerugian dari pelaku' f.  
 
 # BAB V
 
@@ -261,7 +264,8 @@ c. perlindungan p.'.g1qggljgl _?11E.-!Hi_ggrk kekerasan;
 d. e. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak dari tindak kekerasan;  
 
 menyediakan Rumah Aman untuk perempuan dan anak korban kekerasan;  
-f. mengalokasikan anggafarl penyelengga-raan perlindunganperempuandananakdaritindak kekerasan sesuai kemampuan keuangan daerah; dang. membina dan mengawasi penyelenggaraan perlindunganperempuandananakdaritindak kekerasan;  
+f. mengalokasikan anggafarl penyelengga-raan perlindunganperempuandananakdaritindak kekerasan sesuai kemampuan keuangan daerah; dan  
+g. membina dan mengawasi penyelenggaraan perlindunganperempuandananakdaritindak kekerasan;  
 h. membentuk unit pelaksana teknis daerah perlindungan perempuarl dan anak berdasarkan ketentuan peraturan perundang-undangan'
 
 #### Pasal 7
@@ -269,7 +273,8 @@ h. membentuk unit pelaksana teknis daerah perlindungan perempuarl dan anak berda
 1. kewqjiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk perall serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada aYat (1), meliPuti:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anakb. memberikan perlindungan terhadap korban;  
 c. memberikan pertolongal darurat;  
-d. memberikan informasi derrtlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang, dan/atau Dinas terkait melalui UPTD PPA; dane. turut serta dalam penanganan korban tindak kekerasan.  
+d. memberikan informasi derrtlatau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang, dan/atau Dinas terkait melalui UPTD PPA; dan  
+e. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2l1, dilaksanakan secara bertalggungjawab sesuai ketentuan Peraturan Perundang-undangan.  
 
 #### Pasal B
@@ -336,7 +341,8 @@ b. koordinasi antar instansi pemerintah;
 C.  
 
 adanya jaminan kerahasiaan ;  
-d. mudah dijangkau; dane. tidak dipungut biaya.  
+d. mudah dijangkau; dan  
+e. tidak dipungut biaya.  
 
 f.  
 
@@ -380,7 +386,8 @@ Kerjasama dilakukan dengan: {2J
 a. pemerintah;  
 b. pemerintah provinsi;  
 c. pemerintah kabupatenl kota lain;  
-d. lembaga non Pemerintah; dane. lembaga internasional yang diakui keberadaannya.  
+d. lembaga non Pemerintah; dan  
+e. lembaga internasional yang diakui keberadaannya.  
 3. Kerja sama sebagaimana dimaksud pada ayat {2), meliputi: pertukaran data dan informasi;  
 a.  
 
@@ -404,7 +411,8 @@ Kemitraan
 
 2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak kekerasart;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan' (3) Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2], dituangkan dalam bentuk pedanjian kerjasama.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan' (3) Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2], dituangkan dalam bentuk pedanjian kerjasama.  
 
 # BAB IX
 
@@ -500,7 +508,8 @@ a. proses hukum dilakukan secara manusia dengan memand,ang anak masih memiliki l
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  
 d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan penga\ff asan dan penj agaan ;  
-e. proses persidangan dilaksanakan seca-ra khusus dalam ruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasya-rakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
+e. proses persidangan dilaksanakan seca-ra khusus dalam ruang sidang pengadilan anak; dan  
+f. proses penghukuman anak ditempatkan pada lembaga pemasya-rakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
 
 #### Pasal 28
 

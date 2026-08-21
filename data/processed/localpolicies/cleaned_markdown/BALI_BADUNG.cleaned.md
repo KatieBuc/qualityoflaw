@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman dan  bebas dari segala bentuk Kekerasan;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang  cenderung mengalami Kekerasan yang merupakan tindakan yang melanggar hak asasi manusia perlu mendapat Perlindungan hukum;  
 c. bahwa penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan di Kabupaten Badung perlu didukung kelembagaan dan peraturan sehingga dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -99,13 +101,15 @@ Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan  berdasarkan asas
 a. penghormatan dan pemenuhan terhadap hak-hak Korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi Korban; dane. kepastian hukum.  
+d. kepentingan terbaik bagi Korban; dan  
+e. kepastian hukum.  
 
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
 a. mencegah segala bentuk Kekerasan terhadap Perempuan dan  Anak;  
-b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Kekerasan; danc. pemberdayaan Perempuan dan Anak Korban Kekerasan.  
+b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dan  
+c. pemberdayaan Perempuan dan Anak Korban Kekerasan.  
 
 # BAB III
 
@@ -119,7 +123,8 @@ b. untuk mendapatkan Perlindungan dari keluarga, masyarakat,  Pemerintah Daerah 
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami Korban Kekerasan;  
 d. atas penanganan secara khusus berkaitan dengan kerahasiaan  Korban;  
 e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada  setiap tingkat proses pemeriksaan sesuai dengan ketentuan  peraturan perundang-undangan;  
-f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.  
+f. atas pelayanan bimbingan rohani; dan  
+g. menentukan sendiri keputusannya.  
 
 # BAB IV
 
@@ -155,7 +160,8 @@ d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan 
 b. rehabilitasi Kesehatan;  
 c. rehabilitasi Sosial;  
 d. bantuan hukum;  
-e. pemulangan; danf. reintegrasi sosial.  
+e. pemulangan; dan  
+f. reintegrasi sosial.  
 5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
 b. menyelenggarakan Perlindungan dan pemenuhan hak korban  atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penterjemah dan relawan pendamping yang  diperlukan bagi Korban;  
@@ -181,7 +187,8 @@ SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan, meliputi la
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap  Perempuan dan Anak;  
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan;  
-d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban Kekerasan; dane. pemulangan dan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
+d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban Kekerasan; dan  
+e. pemulangan dan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
 
 #### Pasal 10
 
@@ -192,7 +199,8 @@ c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas  bimbingan rohani terlatih bagi Perempuan dan Anak Korban Kekerasan di dalam unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan  putusan pengadilan atas kasus-kasus Kekerasan terhadap  Perempuan dan Anak;  
 f. cakupan Perempuan dan Anak Korban Kekerasan yang  mendapatkan layanan bantuan hukum;  
-g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; danh. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
+g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
 
 # BAB VII
 
@@ -227,7 +235,8 @@ g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; danh. ca
 #### Pasal 14
 
 Pendanaan untuk penyelenggaraan Perlindungan terhadap  Perempuan dan Anak dari tindak Kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 # BAB X
 
@@ -246,7 +255,8 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak 
 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh  masyarakat;  
 b. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
-c. melakukan pertolongan pertama kepada Korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
+c. melakukan pertolongan pertama kepada Korban; dan  
+d. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi Kekerasan terhadap Korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dilakukan oleh perorangan, lembaga sosial kemasyarakatan,  lembaga swadaya masyarakat, lembaga pendidikan, lembaga  keagamaan, swasta, dan media massa.  
 
 # BAB XII

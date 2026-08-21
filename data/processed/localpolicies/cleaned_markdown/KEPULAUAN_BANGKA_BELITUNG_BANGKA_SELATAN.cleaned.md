@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa jumlah kekerasan terhadap perempuan  dan anak di Bangka Selatan terjadi peningkatan jumlah kejadian. Sementara perlindungan dan pelayan terhadap korban sudah dilakukan namun masih belum optimal;  
 b. bahwa di Kabupaten Bangka Selatan sudah terbentuk Pusat Pelayanan Terpadu Perlindungan Perempuan dan Anak (P2TP2A) bagi korban kekerasan tapi dasar pembentukannya masih menggunakan Peraturan Bupati yang didalamnya belum dicantumkan tentang mekanisme atau penyelenggaraan perlindungannya yang dapat memudahkan para korban dan penyelenggara perlindungan melaksanakannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -141,9 +143,11 @@ Dalam hal terjadi kekerasan, setiap korban berhak mendapatkan  pendampingan baik
 
 1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap Perempuan dan Anak, dengan melakukan:a. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan;  
 b. melakukan sosialisasi Peraturan Perundang-undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan;  
-c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap anak dan perempuan; dand. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan.  
+c. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap anak dan perempuan; dan  
+d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan.  
 2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan, penanganan dan pemulihan korban kekerasan terhadap perempuan dan anak, menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
-b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  
+b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korban; dan  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindak kekerasan.  
 
 # BAB V
 
@@ -154,7 +158,8 @@ b. mendorong kepedulian masyarakat tentang pentingnya perlindungan terhadap korb
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban  Kekerasan dengan melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan oleh perorangan, kelompok maupun organisasi sosial kemasyarakatan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
-b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap perempuan dan anak; danc. memberikan bantuan terhadap korban.  
+b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap perempuan dan anak; dan  
+c. memberikan bantuan terhadap korban.  
 
 #### Pasal 12
 
@@ -172,7 +177,8 @@ b.menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan 
 b. penegak hukum;  
 c. sosial dan pemberdayaan;  
 d. pendidikan dan keagamaan;  
-e. Lembaga Swadaya Masyarakat (LSM); danf. swasta.  
+e. Lembaga Swadaya Masyarakat (LSM); dan  
+f. swasta.  
 3. Ketentuan lebih lanjut tentang P2TP2A sebagaimana dimaksud pada ayat  (1) diatur dengan Peraturan Bupati.  
 
 # BAB VII
@@ -230,7 +236,8 @@ Pengelola P2TP2A berkewajiban menyelenggarakan layanan sebagaimana  yang diatur 
 
 1. P2TP2A wajib melaporkan secara tertulis pelaksanaan penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan kepada Bupati. (2) Laporan sebagaimana dimaksud pada ayat (1) meliputi:  a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan sebagaimana dimaksud pada ayat (2) dilaksanakan  paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB X

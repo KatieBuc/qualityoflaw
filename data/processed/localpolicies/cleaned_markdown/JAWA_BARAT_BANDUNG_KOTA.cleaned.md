@@ -81,7 +81,8 @@ c. kekeluargaan;
 d. inklusivitas;  
 e. sinergitas;  
 f. ketertiban dan kepastian hukum;  
-g. keberlanjutan; danh. akuntabilitas.  
+g. keberlanjutan; dan  
+h. akuntabilitas.  
 
 ## Bagian Kedua
 
@@ -93,7 +94,8 @@ Tujuan Pasal4 Tujuan dibentuknya Peraturan Daerah ini adalah sebagai berikut:
 a. menjadi panduan bagi penyelenggaraan Pemberdayaan Perempuan dan Pelindungan Perempuan oleh Pemerintah Daerah, dunia usaha dan Masyarakat;  
 b. menjamin kepastian hukum pelaksanaan penyelenggaraan Pemberdayaan dan Pelindungan Perempuan oleh Pemerintah Daerah, dunia usaha dan Masyarakat;  
 c. mewujudkan sinergitas antara Pemerintah Daerah, dunia usaha dan Masyarakat dalam menyelenggarakan layanan penanganan Pemberdayaan dan Pelindungan Perempuan korban tindak kekerasan yang efektif, efisien, transparan dan akuntabel;  
-d. memberdayakan Perempuan baik secara individual, keluargay kelompok dan Masyarakat agar mampu hidup mandiri; dane. mencegah, melayani dan menangani Perempuan korban tindak kekerasan dan Perempuan yang mengalami kerentanan untuk mencapai kemandirian.  
+d. memberdayakan Perempuan baik secara individual, keluargay kelompok dan Masyarakat agar mampu hidup mandiri; dan  
+e. mencegah, melayani dan menangani Perempuan korban tindak kekerasan dan Perempuan yang mengalami kerentanan untuk mencapai kemandirian.  
 6-
 
 ## Bagian Keempat Ruang Lingkup
@@ -102,7 +104,8 @@ Pasa15 Ruang lingkup Peraturan Daerah In! adalah sebagai berikut:
 a. hak Perempuan;  
 b. Pemberdayaan Perempuan;  
 c. Pelindungan Perempuan;  
-d. pembinaan dan pengawasan; dane. peran serta Masyarakat.  
+d. pembinaan dan pengawasan; dan  
+e. peran serta Masyarakat.  
 
 ### BABIII
 
@@ -114,7 +117,8 @@ b. berkeluarga dan melanjutkan keturunan;
 c. mengembangkan diri;  
 d. memperoleh keadilan;  
 e. atas rasa aman;  
-f. atas kesejahteraan; dang. turut serta dalam pemerintahan.  
+f. atas kesejahteraan; dan  
+g. turut serta dalam pemerintahan.  
 
 Pasa17 (1) Hak untuk hidup sebagaimana dimaksud dalam Pasal 6 huruf a, meliputi:  
 a. hak mempertahankan hidup dan meningkatkan taraf kehidupan;  
@@ -128,11 +132,14 @@ e. hak untuk mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyampaika
 f. hak untuk memperjuangkan pengembangan diri, baik secara pribadi maupun kolektif, untuk membangun masyarakat, bangsa, dan negara sesuai norma agama, sosial, dan hukum;  
 g. hak berpartisipasi dalam melakukan kegiatan sosial sesuai norma agama, sosial, dan hukum;  
 h. hak berpartisipasi dalam perencanaan dan pelaksanaan kebijakan pemerintah sesuai peraturan perundang- undangan;  
-i. hak berkumpul dan berserikat sesuai peraturan perundang-undangan; danj. hak memperoleh pendidikan dan pengajaran sesuai norma agama, sosial, dan hukum.  
-4. Hak memperoleh keadilan sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:a. hak mendapatkan perlakuan yang sarna tanpa diskriminasi; danb. hak untuk mengajukan permohonan, pengaduan, dan gugatan, baik dalam perkara pidana, perdata, maupun administrasi;  
+i. hak berkumpul dan berserikat sesuai peraturan perundang-undangan; dan  
+j. hak memperoleh pendidikan dan pengajaran sesuai norma agama, sosial, dan hukum.  
+4. Hak memperoleh keadilan sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:a. hak mendapatkan perlakuan yang sarna tanpa diskriminasi; dan  
+b. hak untuk mengajukan permohonan, pengaduan, dan gugatan, baik dalam perkara pidana, perdata, maupun administrasi;  
 5. Hak atas rasa aman sebagaimana dimaksud dalam Pasal 6 huruf e, meliputi:a. hak atas pelindungan diri pribadi, keluarga, kehormatan, martabat, dan hak milik;  
 b. hak atas pelindungan dari kekerasan di ruang digital termasuk pelecehan siber (cyber harassment) ;  
-c. hak atas pengakuan di depan hukum sebagai manusia pribadi; dand. hak bebas dari ancaman yang melanggar norma agama, sosial, dan hukum.  
+c. hak atas pengakuan di depan hukum sebagai manusia pribadi; dan  
+d. hak bebas dari ancaman yang melanggar norma agama, sosial, dan hukum.  
 6. Hak atas kesejahteraan sebagaimana dimaksud dalam Pasal 6 huruf f, meliputi:a. hak melakukan pekerjaan dan mendapatkan upah yang adil sesuai dengan peraturan perundang undangan;  
 b. hak cuti melahirkan, diberikan untuk Ibu yang bekerja paling singkat 3 (tiga) bulan pertama, dan 3 (tiga) bulan berikutnya jika terdapat kondisi khusus yang dibuktikan dengan surat keterangan dokter;  
 c. hak mendapatkan waktu istirahat, diberikan untuk Ibu yang bekerja 1,5 (satu setengah) bulan atau sesuai dengan surat keterangan dokter, atau bidan apabila mengalami keguguran;  
@@ -151,7 +158,8 @@ b. hak untuk berkarier dalam pemerintahan; dan c. hak untuk menyampaikan asprras
 Penyelenggaraan Pemberdayaan Pasal8 (1) Pemerintah Daerah berkewajiban dan bertanggung jawab dalam upaya Pemberdayaan Perempuan. (2) Upaya Pemberdayaan Perempuan sebagaimana dimaksud pada ayat (1) dilakukan secara terpadu sesuai dengan peraturan perundang-undangan. (3) Pemberdayaan Perempuan sebagaimana dimaksud pada ayat (1),meliputi:  
 a. sosial budaya;  
 b. ekonomi;  
-c. hukum; dand. politik.  
+c. hukum; dan  
+d. politik.  
 
 Pasal9 (1) Pemberdayaan Perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal 8 ayat (3) huruf a dilaksanakan oleh Perangkat Daerah yang membidangi urusan Pemberdayaan Perempuan, sosial, budaya, pendidikan, kesehatan, pariwisata dengan peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
 
@@ -161,7 +169,8 @@ b. peningkatan kesadaran, kernauan dan kernarnpuan untuk rnengatasi rna salah ke
 c. penguatan kapasitas perernpuan rnelalui lernbaga sosial darr/ atau Lernbaga pusat pelestarian budaya;  
 d. peningkatan kesadaran dan pengetahuan ten tang perencanaan keluarga rnandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan;  
 e. peran serta aktif perernpuan dalarn rnensosialisasikan dan rnengedukasi Masyarakat untuk rnengernbangkan diri dibidang sosial dan budaya;  
-f. rnengikutsertakan perernpuan dalarn berbagai event sosial budaya dan pariwisata pada berbagai tingkatan baik lokal, nasional rnaupun internasional; dang. fasilitasi dan upaya pelestarian adat istiadat dan pengernbangan ilrnu pengetahuan, teknologi, olah raga, seru dan budaya untuk kernajuan Perernpuan.  
+f. rnengikutsertakan perernpuan dalarn berbagai event sosial budaya dan pariwisata pada berbagai tingkatan baik lokal, nasional rnaupun internasional; dan  
+g. fasilitasi dan upaya pelestarian adat istiadat dan pengernbangan ilrnu pengetahuan, teknologi, olah raga, seru dan budaya untuk kernajuan Perernpuan.  
 
 #### Pasal 10
 
@@ -171,19 +180,25 @@ c. Perangkat Daerah yang rnernbidangi urusan perindustrian dan perdagangan;
 d. Perangkat Daerah yang rnernbidangi urusan pariwisata dan budaya;  
 e. Perangkat Daerah yang rnernbidangi urusan koperasi dan usaha rnikro, kecil dan rnenengah;  
 f. Unit Kerja yang rnernbidangi urusan ekonorni;  
-g. Unit Kerja yang rnernbidangi urusan kesejahteraan; danh. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
+g. Unit Kerja yang rnernbidangi urusan kesejahteraan; dan  
+h. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
 2. Pernberdayaan Perernpuan di bidang ekonorni sebagairnana dirnaksud pada ayat (1) dilaksanakan rnelalui:a. pelatihan kerja;  
 b. usaha ekonorni produktif dan usaha ekonorni bersarna;  
-c. fasilitasi perrnodalan dan aksesibilitas ketenagakerjaan; dand. fasilitasi pengembangan jaringan pemasaran.  
+c. fasilitasi perrnodalan dan aksesibilitas ketenagakerjaan; dan  
+d. fasilitasi pengembangan jaringan pemasaran.  
 10- (3) Pe1atihan kerja sebagaimana dimaksud pada ayat (2) huruf a meliputi:  
 a. pembekalan, workshop, pembimbingan bagi perempuan untuk siap kerja;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 4. Usaha ekonomi produktif dan usaha ekonomi bersama sebagaimana dimaksud pada ayat (2) huruf b meliputi:a. pe1atihan keterampilan wirausaha;  
-b. fasilitasi pembentukan kelompok usaha bersama; danc. pendampingan pelaksanaan usaha.  
+b. fasilitasi pembentukan kelompok usaha bersama; dan  
+c. pendampingan pelaksanaan usaha.  
 5. Fasilitasi permodalan dan aksesibilitas ketenagakerjaan sebagaimana dimaksud pada ayat (2) huruf c meliputi:a. bantuan saran a dan prasarana kerja;  
-b. fasilitasi modal kerja; danc. aksesibilitasi ketenagakerjaan yang bagi perempuan.  
+b. fasilitasi modal kerja; dan  
+c. aksesibilitasi ketenagakerjaan yang bagi perempuan.  
 6. Fasilitasi pengembangan jaringan berkeadilan pemasaran sebagaimana dimaksud pada ayat (2) meliputi: huruf da. fasilitasi pemasaran produk usaha perempuan;  
-b. fasilitasi pemasaran produk usaha perempuan di dalam dan luar negeri; danc. pengikutsertaan kelompok perempuan dalam promosi ekonomi, industri dan perdagangan.  
+b. fasilitasi pemasaran produk usaha perempuan di dalam dan luar negeri; dan  
+c. pengikutsertaan kelompok perempuan dalam promosi ekonomi, industri dan perdagangan.  
 
 #### Pasal 11
 
@@ -194,7 +209,8 @@ b. memfasilitasi akses dan layanan konsultasi dan bantuan hukum;
 c. melakukan sosialisasi dan edukasi mengenai hak hak Perempuan dan kewajiban Perempuan;  
 11-
 d. memberikan penguatan kapasitas kepada Perempuan agar dapat melakukan perbuatan hukum secara mandiri dan bertanggung jawab;  
-e. fasilitasi aktifitas diskusi, FGD, pelatihan yang mengangkat isujpermasalahan mengenai hukum dalam perspektif lokal, nasional dan internasional; danf. mendorong Perempuan agar terlibat aktif dan berkontribusi dalam pendidikan advokasi, dan pemerintahan maupun dunia usaha.  
+e. fasilitasi aktifitas diskusi, FGD, pelatihan yang mengangkat isujpermasalahan mengenai hukum dalam perspektif lokal, nasional dan internasional; dan  
+f. mendorong Perempuan agar terlibat aktif dan berkontribusi dalam pendidikan advokasi, dan pemerintahan maupun dunia usaha.  
 3. Penyelenggaraan Pemberdayaan Perempuan di bidang hukum sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 12
@@ -204,7 +220,8 @@ b. Unit Kerja yang membidangi urusan pemerintahan umum;
 c. peran serta perorangan, Masyarakat, dunia pendidikan dan dunia usaha.  
 2. Pemberdayaaan Perempuan di bidang politik sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:a. pelibatan Perempuan dalam pengambilan keputusan di berbagai tingkatan;  
 b. pemberian kesempatan bagi Perempuan untuk menduduki jabatan publik;  
-c. partisipasi dalam aktifitas politik di berbagai kegiatan politik; dand. pengembangan diri melalui pendidikan politik. (3) Pemerintah Daerah harus memberikan presentase tertentu kepada Aparatur Sipil Negara Perempuan untuk jabatan manajerial, sesuai dengan kebutuhan dengan melalui mekanisme yang telah ditetapkan.  
+c. partisipasi dalam aktifitas politik di berbagai kegiatan politik; dan  
+d. pengembangan diri melalui pendidikan politik. (3) Pemerintah Daerah harus memberikan presentase tertentu kepada Aparatur Sipil Negara Perempuan untuk jabatan manajerial, sesuai dengan kebutuhan dengan melalui mekanisme yang telah ditetapkan.  
 
 Pasal13 Dalam rangka mewujudkan terselenggaranya Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal 5 huruf b dilakukan melalui:  
 a. memberikan akses kepada Perempuan terhadap layanan pendidikan, kesehatan, pelayanan sosial dan layanan strategis lainnya;  
@@ -254,7 +271,8 @@ Bentuk Tindak Kekerasan Terhadap Perempuan
 1. Bentuk Kekerasan terhadap Perempuan meliputi:  
 a. kekerasan fisik;  
 b. kekerasan seksual;  
-c. kekerasan ekonomi; dand. kekerasan psikis.  
+c. kekerasan ekonomi; dan  
+d. kekerasan psikis.  
 2. Bentuk kekerasan fisik sebagaimana dimaksud pada ayat (1) huruf a, diantaranya berupa setiap perbuatan yang mengakibatkan rasa sakit, cidera, luka atau cacat pada tubuh seseorang, pingsan dan/ atau menyebabkan kematian.  
 3. Bentuk kekerasan seksual sebagaimana dimaksud pada ayat (1) huruf b, diantaranya berupa pelecehan seksual, pemaksaan hubungan seksual, pemaksaan hubungan dengan orang lain untuk tujuan komersial dan/ atau tujuan non komersil lainnya.  
 4. Bentuk kekerasan ekonomi sebagaimana dimaksud pada ayat (1) huruf c, diantaranya berupa penelantaran Perempuan dengan tidak memberikan nafkah kehidupan secara layak.  
@@ -274,9 +292,11 @@ a. mengumpulkan data dan informasi kekerasan beserta korban tindak kekerasan dal
 b. melakukan sosialisasi kepada Masyarakat tentang nilai-nilai anti kekerasan terhadap Perempuan;  
 c. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan penyelenggaraan pelindungan korban tindak kekerasan;  
 d. menetapkan standar layanan Pelindungan Perempuan korban tindak kekerasan;  
-e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan Pelindungan Perempuan korban tindak kekerasan; danf. menyusun laporan penyelenggaraan pencegahan Pelindungan Perempuan korban tindak kekerasan.  
+e. melakukan pemantauan dan evaluasi terhadap penyelenggaraan Pelindungan Perempuan korban tindak kekerasan; dan  
+f. menyusun laporan penyelenggaraan pencegahan Pelindungan Perempuan korban tindak kekerasan.  
 4. Pemerintah Daerah bertanggung jawab menyediakan dan menyelenggarakan layanan bagi Perempuan korban tindak kekerasan dalam bentuk:a. Lembaga layanan untuk Perempuan korban tindak kekerasan;  
-b. mendorong kepedulian Masyarakat tentang kepentingan pelindungan terhadap Perempuan korban tindak kekerasan; danc. menyusun laporan penyelenggaraan Pelindungan Perempuan korban kekerasan.  
+b. mendorong kepedulian Masyarakat tentang kepentingan pelindungan terhadap Perempuan korban tindak kekerasan; dan  
+c. menyusun laporan penyelenggaraan Pelindungan Perempuan korban kekerasan.  
 
 layanan tindak (5) Pemerintah Daerah dalam melaksanakan tanggungjawabnya sebagaimana dimaksud pada ayat (3) dan ayat (4) harus memperhatikan hak-hak korban, keluarga korban danj atau pihak lain yang secara hukum terkait dengan korban.  
 
@@ -287,7 +307,8 @@ d. mengupayakan peningkatan Pemberdayaan dan Pelindungan Perempuan;
 15-
 e. memfasilitasi danj atau membuka akses pada pelatihan keterampilan guna menunjang kesejahteraan keluarga korban tindak kekerasan;  
 f. melakukan sosialisasi kepada individu, keluargajkelompok dan Masyarakat tentang tata cara pelaporan jika terjadi kekerasan terhadap Perempuan;  
-g. memberdayakan kelembagaan sosial kemasyarakatan dan organisasi perempuan untuk melakukan pencegahan tindak kekerasan terhadap Perempuan; danh. membentuk jejaring sosial (networking) dalam upaya pencegahan dan penanganan Perempuan korban tindak kekerasan.  
+g. memberdayakan kelembagaan sosial kemasyarakatan dan organisasi perempuan untuk melakukan pencegahan tindak kekerasan terhadap Perempuan; dan  
+h. membentuk jejaring sosial (networking) dalam upaya pencegahan dan penanganan Perempuan korban tindak kekerasan.  
 
 ## Bagian Keempat
 
@@ -296,7 +317,8 @@ Pelindungan Perempuan Korban Tindak Kekerasan Pasal19 (1) Pemerintah Daerah memb
 2. Pelindungan korban tindak kekerasan sebagaimana dimaksud pada ayat (1)meliputi:a. pelindungan sosial;  
 b. pelindungan medis;  
 c. pelindungan hukum;  
-d. pelindungan ekonomi; dane. pelindungan psikis.  
+d. pelindungan ekonomi; dan  
+e. pelindungan psikis.  
 
 Pasa120 (1) Pelindungan Sosial sebagaimana dimaksud dalam Pasal 19 ayat (2) huruf a berupa dukungan untuk menjamin kelangsungan hidup Perempuan dari kerentanan sosial guna menjamin terpenuhinya kebutuhan hidup yang layak.  
 
@@ -312,7 +334,8 @@ e. pengalaman dalam mengikuti pelatihan; darr/ atau f. riwayat pekerjaan.
 6. Pelindungan psikis lainnya berupa Pendampingan korban untuk memulihkan kondisi traumatis. (7) Penyediaan tempat penampungan sementara yang ditujukan untuk melindungi korban dari berbagai ancaman dan intimidasi serta untuk memudahkan dalam pendataan dan penggalian informasi korban. (8) Penempatan korban di tempat penampungan sementara dengan memperhatikan:a. tingkat ancaman terhadap korban yang membahayakan jiwa;  
 b. keamanan dan keselamatan korban;  
 c. percepatan penanganan dan pemulihan korban;  
-d. kemudahan akses dalam pendampingan korban; dane. penyiapan pemulangan korban sebelum kembali ke daerah asal.  
+d. kemudahan akses dalam pendampingan korban; dan  
+e. penyiapan pemulangan korban sebelum kembali ke daerah asal.  
 
 Pasal21 Pelindungan sebagaimana dimaksud dalam Pasal 19 dilakukan melalui upaya memberikan layanan dan penanganan cepat kepada saksi darr/ atau korban, adalah sebagai berikut:  
 a. memberikan layanan dan penanganan cepat kepada saksi dan / atau korban;  
@@ -320,7 +343,8 @@ b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi saksi dar
 c. menjaga kerahasiaan saksi dan Zatau korban;  
 d. menjamin keadilan dan kepastian hukum bagi saksi dan/ atau korban;  
 e. penyediaan tenaga kesehatan, pekerja sosial, pembimbing rohani, psikolog, dan penasehat hukum;  
-f. membentuk dan mengembangkan program layanan Pelindungan Perempuan korban tindak kekerasan dengan melibatkan dunia usaha dan Masyarakat untuk memudahkan Masyarakat menjangkau layanan; dang. memberikan pelindungan bagi Pendamping, saksi, korban dan keluarganya.  
+f. membentuk dan mengembangkan program layanan Pelindungan Perempuan korban tindak kekerasan dengan melibatkan dunia usaha dan Masyarakat untuk memudahkan Masyarakat menjangkau layanan; dan  
+g. memberikan pelindungan bagi Pendamping, saksi, korban dan keluarganya.  
 17- Pasa122 Penye1enggaraan layanan Pelindungan Perempuan korban tindak kekerasan tidak dipungut biaya dan dilasanakan secara tepat, cermat dan mudah dijangkau masyaraka t.  
 
 ## Bagian Kelima
@@ -351,7 +375,8 @@ Pasa124 (1) Pemerintah Daerah membentuk satuan tugas layanan Pelindungan Perempu
 
 2. Dalam rangka mewujudkan Pelindungan Perempuan korban dilakukan melalui: terselenggaranya tindak kekerasana. menyediakan akses kepada Perempuan korban tindak kekerasan untuk memperoleh layanan pendidikan, kesehatan, Pelayanan sosial dan layanan strategis lainnya;  
 b. mendorong keterlibatan Perempuan korban tindak kekerasan dalam proses penuntasan masalah dan pemulihan korban secara psiologis dan phsikologis sebagai individu, anggota keluarga, kelompok dan masyarakat;  
-c. memberikan pengetahuan, keterampilan, nilai nilai karakter, budi pekerti, dan ketahanan diri pribadi, ketahanan keluarga dan ketahanan Masyarakat; dand. mendorong program-program yang dapat meningkatkan kemandirian Perempuan di bidang ekonomi, politik, hukum, sosial, budaya, serta bidang strategis lainnya.  
+c. memberikan pengetahuan, keterampilan, nilai nilai karakter, budi pekerti, dan ketahanan diri pribadi, ketahanan keluarga dan ketahanan Masyarakat; dan  
+d. mendorong program-program yang dapat meningkatkan kemandirian Perempuan di bidang ekonomi, politik, hukum, sosial, budaya, serta bidang strategis lainnya.  
 
 Pasa126 Ketentuan lebih lanjut mengenai tata cara pelaksanaan Pemberdayaan dan Pelindungan Perempuan diatur dengan Peraturan Wali Kota.  
 

@@ -23,10 +23,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa guna menjamin hak-hak perempuan dan anak agar  dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak.  
 b. bahwa agar upaya-upaya pencegahan dan  penanggulangan kekerasan terhadap perempuan dan anak memperoleh hasil yang optimal, serta dilaksanakan secara cepat, terencana, terpadu, menyeluruh dan terorganisasi dengan melibatkan seluruh unsur terkait di daerah, maka perlu adanya pengaturan tentang pencegahan dan penanggulangan kekerasan terhadap perempuan dan anak korban kekerasan.  c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pencegahan dan Penanggulangan Kekerasan Terhadap Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -167,7 +169,8 @@ b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat,  atau menguru
 c. perbuatan yang menelantarkan orang dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau  karena persetujuan atau perjanjian ia wajib memberikan kehidupan,  perawatan, atau pemeliharaan kepada orang tersebut; dan/ataud. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam  atau di luar rumah sehingga korban berada dibawah kendali orang  tersebut.  
 6. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf e disebabkan  karena:a. perbuatan yang mengeksploitasi ekonomi atau seksual dengan  maksud untuk menguntungkan diri sendiri atau orang lain;  
 b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi  tapi tidak terbatas pada pelacuran, kerja atau pelayanan paksa,  perbudakan atau praktik serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau secara melawan  hukum memindahkan atau mentransplantasi organ dan/atau  jaringan tubuh atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan keuntungan baik  materiil maupun immateriil; dan/atauc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh  lain dari korban untuk mendapatkan keuntungan, termasuk tetapi  tidak terbatas pada semua kegiatan pelacuran atau pencabulan.  
-7. Kekerasan lainnya sebagaimana dimaksud pada ayat (1) huruf f  disebabkan karena:a. ancaman kekerasan meliputi: setiap perbuatan secara melawan  hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh,  baik dengan atau tanpa menggunakan sarana yang menimbulkan  rasa takut atau mengekang kebebasan hakiki seseorang; danb. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban  disuruh melakukan sesuatu sedemikian rupa sehingga orang itu  melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
+7. Kekerasan lainnya sebagaimana dimaksud pada ayat (1) huruf f  disebabkan karena:a. ancaman kekerasan meliputi: setiap perbuatan secara melawan  hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh,  baik dengan atau tanpa menggunakan sarana yang menimbulkan  rasa takut atau mengekang kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban  disuruh melakukan sesuatu sedemikian rupa sehingga orang itu  melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 # BAB IV
 
@@ -190,7 +193,8 @@ j. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga m
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma;  
-e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.  
+e. hak mendapatkan kebebasan; dan  
+f. hak mendapatkan ganti kerugian dari pelaku.  
 
 # BAB V
 
@@ -201,7 +205,8 @@ e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.
 Kewajiban dan tanggung jawab dalam melakukan pencegahan dan  penanggulangan berupa perlindungan dan pelayanan terhadap perempuan  dan anak dari tindak kekerasan merupakan tanggung jawab bersama oleh:  
 a. pemerintah daerah;  
 b. masyarakat;  
-c. keluarga; dand. orang tua.  
+c. keluarga; dan  
+d. orang tua.  
 
 #### Pasal 8
 
@@ -218,7 +223,8 @@ f. mengalokasikan anggaran penyelenggaraan perlindungan perempuan  dan anak dari
 1. kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat. (2) Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak di dalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan Peraturan  Perundang-undangan.  
 
@@ -227,7 +233,8 @@ d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi
 Kewajiban dan tanggung jawab keluarga dan orangtua terhadap anak  sebagaimana dimaksud dalam Pasal 7 huruf c dan huruf d dalam bentuk:  
 a. mengasuh, memelihara, mendidik dan melindungi anak;  
 b. mencegah terjadinya perkawinan pada usia dini;  
-c. menjamin keberlangsungan pendidikan anak sesuai kemampuan, bakat  dan minat anak; dand. dalam hal orang tua tidak ada atau tidak diketahui keberadaannya atau  karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud  pada ayat (1) dapat beralih kepada keluarga sebagai wali anak, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan  yang berlaku.  
+c. menjamin keberlangsungan pendidikan anak sesuai kemampuan, bakat  dan minat anak; dan  
+d. dalam hal orang tua tidak ada atau tidak diketahui keberadaannya atau  karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud  pada ayat (1) dapat beralih kepada keluarga sebagai wali anak, yang dilaksanakan sesuai dengan ketentuan peraturan perundang-undangan  yang berlaku.  
 
 # BAB VI
 
@@ -251,7 +258,8 @@ a. kepolisian;
 b. kejaksaan;  
 c. pengadilan;  
 d. rumah sakit/puskesmas;  
-e. psikiater; danf. lembaga lain yang memiliki kesamaan tujuan.  
+e. psikiater; dan  
+f. lembaga lain yang memiliki kesamaan tujuan.  
 
 #### Pasal 13
 
@@ -324,7 +332,8 @@ a. non diskriminasi;
 b. cepat, aman, dan empati;  
 c. koordinasi antar instansi pemerintah;  
 d. adanya jaminan kerahasiaan;  
-e. mudah dijangkau; danf. tidak dipungut biaya.  
+e. mudah dijangkau; dan  
+f. tidak dipungut biaya.  
 
 #### Pasal 22
 
@@ -357,11 +366,13 @@ Kerjasama
 a. pemerintah;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/ kota lain;  
-d. lembaga non pemerintah; dane. lembaga internasional yang diakui keberadaannya.  
+d. lembaga non pemerintah; dan  
+e. lembaga internasional yang diakui keberadaannya.  
 3. Kerjasama sebagaimana dimaksud pada ayat (2), meliputi:  
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan  ketentuan peraturan perundang-undangan.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan  ketentuan peraturan perundang-undangan.  
 4. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk kesepakatan bersama.  
 
 ## Bagian Kedua
@@ -374,7 +385,8 @@ Kemitraan
 2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan  dalam bentuk perjanjian.  
 
 # BAB IX
@@ -398,9 +410,11 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang terc
 a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan  prinsip:a. profesional;  
-b. transparan; danc. akuntabel.  
+b. transparan; dan  
+c. akuntabel.  
 4. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (2) dan  ayat (3), dalam rangka mewujudkan tujuan penyelenggaraan  perlindungan terhadap perempuan dan anak dari tindak kekerasan  sesuai standar pelayanan minimal yang dilaksanakan SKPD/UKPD dan  masyarakat.  
 5. Bupati dapat menunjuk BKKBD yang lingkup tugas dan  tanggungjawabnya meliputi perlindungan perempuan dan anak untuk  melakukan pembinaan dan pengawasan.  
 
@@ -418,7 +432,8 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  terhadap per
 2. Pelaporan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan dimaksud pada ayat (2) dilakukan secara tertulis  dan dilaksanakan paling sedikit 1 (satu) kali dalam 3 (tiga) bulan.  
 
 # BAB XII
@@ -471,7 +486,8 @@ a. proses hukum dilakukan secara manusia dengan memandang anak  masih memiliki h
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus  untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim  advokasi dan orang tua/wali anak;  
 d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum,  melainkan dititipkan pada keluarganya dengan pengawasan dan  penjagaan;  
-e. proses persidangan dilaksanakan secara khusus dalam ruang sidang  pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan  khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
+e. proses persidangan dilaksanakan secara khusus dalam ruang sidang  pengadilan anak; dan  
+f. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan  khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
 
 #### Pasal 35
 

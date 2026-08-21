@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan  prinsip kemanusiaan, kesetaraan, dan keadilan;  
 b. bahwa pemberdayaan perempuan dilakukan agar perempuan  dapat mengaktualisasikan potensinya secara optimal untuk  berperan serta dalam pembangunan sesuai dengan  kapasitasnya;  
 c. bahwa perempuan yang merupakan kelompok rentan perlu  mendapatkan perlindungan khusus agar tidak mengalami  kekerasan dan dapat menjalani hidup layak sesuai prinsip  kemanusiaan kesetaraan dan keadilan;  
@@ -126,7 +127,8 @@ c. memberikan perlindungan hak perempuan dan pemenuhan hak anak  termasuk perlin
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3  huruf a dilakukan melalui upaya:  
 a. memberikan akses kepada perempuan dan anak terhadap layanan  pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
-c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
+c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan  ketahanan keluarga; dan  
+d. mendorong program-program yang dapat meningkatkan kemandirian  perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 

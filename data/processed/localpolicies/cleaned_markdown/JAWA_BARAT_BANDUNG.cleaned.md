@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka meningkatkan kedudukan,  peran dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran terhadap hak asasi manusia sehingga perempuan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa dalam rangka melindungi masyarakat,  mewujudkan pemerataan, dan keadilan sebagai kewajiban pemerintah daerah guna memberikan perlindungan dan kesejahteraan terhadap perempuan diperlukan landasan hukum dalam penyelenggaraan perlindungan perempuan;  
 d. berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -96,7 +98,8 @@ c. mengembangkan diri;
 d. memperoleh keadilan;  
 e. atas kebebasan pribadi;  
 f. atas rasa aman;  
-g. atas kesejahteraan; danh. turut serta dalam pemerintahan.  
+g. atas kesejahteraan; dan  
+h. turut serta dalam pemerintahan.  
 
 ## Bagian Kedua
 
@@ -109,7 +112,8 @@ a. pendidikan pada semua satuan, jalur, jenis, dan  jenjang pendidikan;
 b. pekerjaan dan penghidupan yang layak sesuai dengan  jenis dan derajat kecacatan, pendidikan, dan  kemampuannya;  
 c. perlakuan yang sama untuk berperan dalam pembangunan dan menikmati hasilnya;  
 d. aksebilitas dalam rangka kemandiriannya;  
-e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf  kesejahteraan sosial; danf. hak yang sama untuk menumbuhkembangkan bakat,  kemampuan, dan kehidupan sosialnya.  
+e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf  kesejahteraan sosial; dan  
+f. hak yang sama untuk menumbuhkembangkan bakat,  kemampuan, dan kehidupan sosialnya.  
 
 ## Bagian Ketiga
 
@@ -142,7 +146,8 @@ b. Kekerasan psikis;
 c. Kekerasan seksual;  
 d. Penelantaran Rumah Tangga;  
 e. perdagangan Perempuan;  
-f. eksploitasi; dang. pembatasan ruang gerak.  
+f. eksploitasi; dan  
+g. pembatasan ruang gerak.  
 
 # BAB IV
 
@@ -157,7 +162,8 @@ Umum
 Perlindungan Perempuan di Daerah merupakan kewajiban  dan tanggung jawab bersama antara:  
 a. Pemerintah Daerah;  
 b. Masyarakat;  
-c. Keluarga; dand. Orang Tua.  
+c. Keluarga; dan  
+d. Orang Tua.  
 
 ## Bagian Kedua
 
@@ -170,14 +176,16 @@ b. menetapkan kebijakan, program, dan kegiatan  Perlindungan Perempuan;
 c. mengumpulkan data dan informasi tentang  Perempuan Korban Kekerasan dan Diskriminasi  Terhadap Perempuan serta peraturan  pendukungnya;  
 d. melakukan pendidikan tentang hal yang  berkaitan dengan Perlindungan Perempuan Korban Kekerasan dan Diskriminasi Terhadap  Perempuan;  
 e. melakukan sosialisasi peraturan perundang undangan yang berkaitan dengan Perlindungan  Perempuan Korban Kekerasan dan Diskriminasi  Terhadap Perempuan;  
-f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan  Korban Kekerasan dan Diskriminasi Terhadap  Perempuan; dang. memberikan dukungan sarana dan prasarana  dalam penyelenggaraan Perlindungan Perempuan. (2) Untuk mengantisipasi terjadinya tindak Kekerasan,  Pemerintah Daerah:a. mendirikan dan memfasilitasi terselenggaranya  lembaga layanan terpadu untuk Korban dengan  melibatkan unsur masyarakat;  
+f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan  Korban Kekerasan dan Diskriminasi Terhadap  Perempuan; dan  
+g. memberikan dukungan sarana dan prasarana  dalam penyelenggaraan Perlindungan Perempuan. (2) Untuk mengantisipasi terjadinya tindak Kekerasan,  Pemerintah Daerah:a. mendirikan dan memfasilitasi terselenggaranya  lembaga layanan terpadu untuk Korban dengan  melibatkan unsur masyarakat;  
 b. memfasilitasi pendampingan bantuan hukum dan  pelayanan hukum sesuai kebutuhan Korban;  
 c. menyediakan rumah aman atau tempat tinggal  alternatif beserta tata cara penanganan,  pelayanan, psikososial, dan spiritual;  
 d. melakukan penanganan berkelanjutan sampai  pada tahap rehabilitasi dan Reintegrasi Sosial;  
 e. melakukan pemantauan dan eveluasi terhadap  penyelenggaraan perlindungan Korban;  
 f. mendorong kepedulian masyarakat akan  pentingnya Perlindungan terhadap Korban;  
 g. membuat pos pelayanan terpadu untuk menerima  pengaduan di setiap kecamatan;  
-h. memfasilitasi layanan kesehatan yang  menyeluruh termasuk didalamnya layanan visum  et repertum dan layanan psikologis; dani. memfasilitasi jaminan Perlindungan yang  dibutuhkan korban pada saat pendampingan  terhadap Korban.  
+h. memfasilitasi layanan kesehatan yang  menyeluruh termasuk didalamnya layanan visum  et repertum dan layanan psikologis; dan  
+i. memfasilitasi jaminan Perlindungan yang  dibutuhkan korban pada saat pendampingan  terhadap Korban.  
 3. Dalam melaksanakan kewajiban sebagaimana  dimaksud pada ayat (1) dan ayat (2), Pemerintah  Daerah memperhatikan hak dan kewajiban Orang Tua,  wali, suami, atau orang lain yang secara hukum  bertanggungjawab terhadap Korban.  
 4. Untuk melaksanakan kewajiban dan tanggungjawab  sebagaimana dimaksud pada ayat (1) sampai dengan  ayat (3) Pemerintah Daerah menyusun rencana aksi  Perlindungan tehadap Perempuan Korban Kekerasan.  
 5. Ketentuan mengenai rencana aksi Perlindungan  tehadap Perempuan Korban Kekerasan sebagaimana  dimaksud pada ayat (4) diatur dengan Peraturan  Bupati.  
@@ -201,7 +209,8 @@ c. koordinasi dan komunikasi;
 d. sosialisasi;  
 e. edukasi;  
 f. pelatihan;  
-g. fasilitasi; danh. penyediaan pelayanan.  
+g. fasilitasi; dan  
+h. penyediaan pelayanan.  
 
 #### Pasal 10
 
@@ -210,7 +219,8 @@ b. kerjasama dengan pemerintah pusat, pemerintah  provinsi, dan pemerintah kabup
 c. penguatan kapasitas kelembagaan Gender;  
 d. fasilitasi pelayanan Perlindungan Perempuan;  
 e. penyediaan pelayanan Perlindungan Perempuan;  
-f. pelaksanaan aksi afirmasi Perlindungan  Perempuan; dang. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan  Kekerasan Terhadap Perempuan.  
+f. pelaksanaan aksi afirmasi Perlindungan  Perempuan; dan  
+g. penyusunan sistem pendataan Perlindungan  Perempuan termasuk sistem pendataan  Kekerasan Terhadap Perempuan.  
 2. Pelaksanaan kebijakan, program, dan kegiatan  sebagaimana dimaksud pada ayat (1) dikoordinasikan  oleh Wakil Bupati.  
 
 ## Bagian Ketiga
@@ -275,7 +285,8 @@ e. penyediaan ruang pelayanan khusus di kantor  Kepolisian Republik Indonesia;
 f. penyediaan aparat, tenaga kesehatan, pekerja  sosial, dan pembimbing rohani;  
 g. pembuatan dan pengembangan sistem dan tata  cara kerjasama pelaksanaan program pelayanan  yang melibatkan pihak yang mudah diakses oleh  Korban;  
 h. memberikan perlindungan bagi pedamping, saksi,  Keluarga, dan teman Korban;  
-i. memberikan pekerjaan dan penghidupan yang  layak sesuai dengan jenis dan derajat disabilitas,  pendidikan, dan kemampuan; danj. memberikan perlindungan bagi pekerja atau  buruh Perempuan sesuai dengan ketentuan  perlindungan bagi buruh atau pekerja sesuai  dengan ketentuan perundang-undangan.  
+i. memberikan pekerjaan dan penghidupan yang  layak sesuai dengan jenis dan derajat disabilitas,  pendidikan, dan kemampuan; dan  
+j. memberikan perlindungan bagi pekerja atau  buruh Perempuan sesuai dengan ketentuan  perlindungan bagi buruh atau pekerja sesuai  dengan ketentuan perundang-undangan.  
 2. Pemerintah Daerah dalam memberikan pelayanan  Perlindungan sebagaimana dimaksud pada ayat (1)  dapat melakukan kerjasama dengan pemerintah  pusat, pemerintah provinsi, pemerintah  kabupaten/kota lain, masyarakat, dan/atau lembaga  sosial lainnya.  
 3. Kerjasama sebagaimana dimaksud pada ayat (2)  dituangkan dalam perjanjian kerjasama.  
 
@@ -293,11 +304,14 @@ Pemulihan
 1. Untuk kepentingan pemulihan, Korban berhak  memperoleh:a. pelayanan kesehatan;  
 b. pendampingan Korban;  
 c. konseling;  
-d. bimbingan rohani; dane. resosialisasi; danf. pemberdayaan ekonomi .  
+d. bimbingan rohani; dan  
+e. resosialisasi; dan  
+f. pemberdayaan ekonomi .  
 2. Untuk kepentingan pemulihan sebagaimana dimaksud  pada ayat (1) Pemerintah Daerah wajib menyediakan:  
 a. ruang pelayanan khusus di kantor Kepolisian  Republik Indonesia;  
 b. tenaga yang ahli dan profesional;  
-c. pusat pelayanan dan rumah aman; dand. sarana dan prasarana lain yang diperlukan untuk  pemulihan Korban.  
+c. pusat pelayanan dan rumah aman; dan  
+d. sarana dan prasarana lain yang diperlukan untuk  pemulihan Korban.  
 3. Tenaga yang ahli dan profesional sebagaimana  dimaksud pada ayat (2) huruf b terdiri atas:a. tenaga kesehatan;  
 b. pekerja sosial;  
 c. relawan pendamping; dan/ataud. pembimbing rohani; dan/ataue. psikolog.  
@@ -308,7 +322,8 @@ b. penghentian sementara dari kegiatan;
 c. pemutusan kerjasama;  
 d. pencabutan surat keterangan terdaftar;  
 e. pencabutan izin operasional;  
-f. penarikan fasilitas; dang. denda administratif.  
+f. penarikan fasilitas; dan  
+g. denda administratif.  
 7. Ketentuan mengenai tata cara penerapan sanksi  administratif sebagaimana dimaksud pada ayat (6)  diatur dalam Peraturan Bupati.  
 
 #### Pasal 18
@@ -325,7 +340,8 @@ Ketentuan lebih lanjut mengenai tata cara pencegahan,  pelayanan perlindungan, d
 b. psikologi;  
 c. hukum;  
 d. rohaniwan;  
-e. sosial; danf. ekonomi.  
+e. sosial; dan  
+f. ekonomi.  
 3. Ketentuan mengenai pembentukan P2TP2A  sebagaimana dimaksud pada ayat (1) diatur dengan  Peraturan Bupati.  
 
 #### Pasal 20
@@ -335,7 +351,8 @@ e. sosial; danf. ekonomi.
 b. Kementerian yang menyelenggarakan urusan  pemerintahan di bidang agama;  
 c. Kepolisian Negara Republik Indonesia;  
 d. Kejaksaan;  
-e. lembaga swadaya masyarakat; danf. tim penggerak pembinaan kesejahteraan  keluarga.  
+e. lembaga swadaya masyarakat; dan  
+f. tim penggerak pembinaan kesejahteraan  keluarga.  
 3. Ketentuan mengenai pembentukan, susunan  organisasi, tugas, dan fungsi gugus tugas  sebagaimana dimaksud pada ayat (2) diatur dengan  Peraturan Bupati.  
 
 # BAB VII
@@ -346,7 +363,8 @@ e. lembaga swadaya masyarakat; danf. tim penggerak pembinaan kesejahteraan  kelu
 
 1. Peran serta masyarakat dalam Perlindungan  Perempuan dapat berupa:a. pemberian penyuluhan mengenai hak  Perempuan;  
 b. pemberian pelatihan keterampilan untuk  menunjang perekonomian Keluarga;  
-c. pembentukan lembaga sosial kemasyarakatan  untuk menolong Korban Kekerasan; dand. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi Kekerasan Terhadap Perempuan.  
+c. pembentukan lembaga sosial kemasyarakatan  untuk menolong Korban Kekerasan; dan  
+d. melaporkan kepada instansi yang berwenang  apabila di lingkungannya terjadi Kekerasan Terhadap Perempuan.  
 2. Peran serta masyarakat sebagaimana dimaksud pada  ayat (1) dapat dilakukan oleh perorangan, lembaga  sosial kemasyarakatan, lembaga swadaya masyarakat,  lembaga pendidikan, lembaga keagamaan, swasta, dan  media massa.  
 
 #### Pasal 22
@@ -357,7 +375,8 @@ c. penghentian sementara dari kegiatan;
 d. pemutusan kerjasama;  
 e. pencabutan surat keterangan terdaftar;  
 f. pencabutan izin operasional;  
-g. penarikan fasilitas; danh. denda administratif.  
+g. penarikan fasilitas; dan  
+h. denda administratif.  
 2. Ketentuan mengenai tata cara penerapan sanksi  administratif sebagaimana dimaksud pada ayat (1)  diatur dalam Peraturan Bupati.  
 
 # BAB VIII
@@ -470,7 +489,8 @@ Dalam rangka melindungi masyarakat, mewujudkan pemerataan,  dan keadilan sebagai
 a. Perlindungan;  
 b. Penghormatan hak asasi manusia;  
 c. Keadilan dan kesetaraan gender;  
-d. Nondiskriminasi; dane. Kepentingan terbaik bagi perempuan.  
+d. Nondiskriminasi; dan  
+e. Kepentingan terbaik bagi perempuan.  
 
 Adapun tujuan dari dibentuknya Peraturan Daerah tentang  Perlindungan Perempuan adalah:  
 a. Menjamin terpenuhinya hak-hak perempuan agar dapat hidup dan  berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan;  

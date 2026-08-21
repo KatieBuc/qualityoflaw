@@ -21,8 +21,10 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka melindungi hak konstitusi perempuan  dan anak sesuai amanat Undang - Undang Dasar Negara  Republik Indonesia Tahun 1945 , Pemerintah Kabupaten  Gorontalo Utara ikut bertanggung jawab dalam  penyelenggaraan perlindungn perempuan dan anak  terhadap tindak kekerasan.  
 b. bahwa Kabupaten Gorontalo Utara yang memiliki Falsafah  Adat Bersendi Syara, Syara Bersendi Kitabullah,  menjunjung tinggi Nilai - nilai Agama dan Adat Istiadat  serta keluhuran Budi, Pemerintah Kabupaten Gorontalo  Utara secara moril bertanggung jawab penuh untuk  perlindungan perempuan dan anak tindak kekerasan.  c. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat,  harga diri dan martabat kemanusiaan serta berhak  mendapatkan rasa aman dan bebas dari segla bentuk  kekerasand. bahwa meningkatnya perlakuan kekerasan terhadap  peremuan dan anak di Kabupaten Gorontalo Utara  merupakan perbuatan yang merendahkan harkat  kemanusiaan, sehingga diperlakukan peran pemerintah  Kabupaten Gorontalo Utara agar perempuan dan anak  terlindungi dari tindak kekerasane. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalah huruf a, huruf b, dan huruf c, perlu membentuk  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Terhadap Tindak Kekerasan Mengingat:  
+ 
  
  
  
@@ -97,7 +99,8 @@ Perlindungan Perempuan dan Anak dari Tindak Kekerasan,  dilaksanakan berdasarkan
 a. penghormatan dan pemenuhan terhadap hak KorbanTindak  Kekerasan;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. bagi Korban tindak kekerasan; dane. kepastian hukum.  
+d. bagi Korban tindak kekerasan; dan  
+e. kepastian hukum.  
 
 #### Pasal 3
 
@@ -112,7 +115,8 @@ b. melindungi Perempuan dan memberikan pelayanan kepada  Perempuan dan Anak Korb
 #### Pasal 4
 
 Ruang Lingkup Peraturan Daerah ini terdiri dari:  
-a. perlindungan perempuan; danb. perlindungan anak.  
+a. perlindungan perempuan; dan  
+b. perlindungan anak.  
 
 #### Pasal 5
 
@@ -251,7 +255,8 @@ j . Anak korban kejahatan seksual;
 k. Anak korban jaringan terorisme;  
 1. Anak Penyandang Disabilitas;  
 m. Anak korban perlakuan salah dan penelantaran;  
-n. Anak dengan perilaku sosial menyimpang; dano. Anak yang menjadi korban stigmatisasi dari pelabelan terkait  Dengan kondisi Orang Tuanya.  
+n. Anak dengan perilaku sosial menyimpang; dan  
+o. Anak yang menjadi korban stigmatisasi dari pelabelan terkait  Dengan kondisi Orang Tuanya.  
 2. Pemerintah Daerah dalam melaksanakan penanganan terhadap  perlindungan khusus anak sebagaimana dimaksud pada ayat (1)  sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB VI
@@ -291,7 +296,8 @@ c. kelompok kerja pelayanan;dand. kelompok kerja data, informasi, monitoring dan
 b. melakukan koordinasi dengan Perangkat Daerah dan lembaga  sociallainnya;  
 c. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak dari tindak  kekerasan;  
 d. mengumpulkan dan mengembangkan data dan informasi yang  terkait dengan perlindungan perempuan dan anak dari tindak  kekerasan;  
-e. melakukakan penelaahan, pemantauan, evaluasi, dan pengawasan  terhadap penyelenggaraan perlindungan perempuan dan anak dari  tindak kekerasan; danf. memberikan laporan, saran, masukan, dan pertimbangan kepada  Bupati.  
+e. melakukakan penelaahan, pemantauan, evaluasi, dan pengawasan  terhadap penyelenggaraan perlindungan perempuan dan anak dari  tindak kekerasan; dan  
+f. memberikan laporan, saran, masukan, dan pertimbangan kepada  Bupati.  
 
 #### Pasal 20
 

@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak untuk mendapatkan perlindungan atas hak asasinya, bebas dari penyiksaan, ancaman, tekanan, serta mendapat kemudahan, perlakuan, kesempatan dan manfaat yang sarna guna mencapai keadilan dan kesejahteraan hidup;  
 b. bahwa peningkatan kualitas hidup perempuan dan anak merupakan urusan wajib yang menjadi tanggungjawab Pemerintah Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan Dari Tindak Kekerasan; Mengingat 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lernbaran: Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  
@@ -81,11 +82,13 @@ c. kekerasan psikologis;
 d. intimidasi;  
 e. pengusiran paksa;  
 f. perampasan kemerdekaan;  
-g. penelantaran; danh. eksploitasiy perdagangan orang.  
+g. penelantaran; dan  
+h. eksploitasiy perdagangan orang.  
 3. Perlindungan perempuan dan anak dari tindak kekerasan merupakan tanggungjawab bersama Pemerintah Daerah, masyarakat, keluarga, dan orang tua.  
 4. Perlindungan perempuan dari tindak kekerasan sebagaimana dimaksud pada ayat (2)meliputi:  
 a. pencegahan tindak kekerasan pada perempuan dan anak;  
-b. pelayanan bagi perempuan dan anak korban tindak kekerasan; danc. pemberdayaan perempuan dan anak korban tindak kekerasan.  
+b. pelayanan bagi perempuan dan anak korban tindak kekerasan; dan  
+c. pemberdayaan perempuan dan anak korban tindak kekerasan.  
 
 # BAB IV PENCEGAHAN
 

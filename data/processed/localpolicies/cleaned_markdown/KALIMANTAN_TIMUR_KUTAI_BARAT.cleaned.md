@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  dan martabat manusia serta berhak mendapatkan rasa  aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa segala bentuk kekerasan terhadap perempuan  dan anak di Kabupaten Kutai Barat merupakan  pelanggaran hak asasi manusia sehingga perlu  dilindungi harga diri dan martabatnya serta dijamin  hak hidupnya sesuai dengan fitrah dan kodratnya  tanpa diskriminasi;  
 c. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Kutai Barat terus meningkat, sehingga  diperlukan upaya perlindungan dalam bentuk  pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan  Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -85,13 +87,15 @@ Perda-Kubar/180/2019 -4-
 Perlindungan Perempuan dan Anak Korban Kekerasan dilaksanakan  berdasarkan asas:  
 a. penghormatan dan pemenuhan terhadap hak Korban kekerasan;  
 b. keadilan dan kesetaraan gender;  
-c. non diskriminasi; dand. kepentingan yang terbaik bagi Korban.  
+c. non diskriminasi; dan  
+d. kepentingan yang terbaik bagi Korban.  
 
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan untuk:  
 a. memberikan rehabilitasi sosial anak;  
-b. menyatukan kembali anak korban kekerasan dengan keluarga  dan/atau lingkungan.  c. melindungi Perempuan dan memberikan Pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dand. pemberdayaan Perempuan dan Anak Korban Tindak Kekerasan.  
+b. menyatukan kembali anak korban kekerasan dengan keluarga  dan/atau lingkungan.  c. melindungi Perempuan dan memberikan Pelayanan kepada  Perempuan dan Anak Korban Kekerasan; dan  
+d. pemberdayaan Perempuan dan Anak Korban Tindak Kekerasan.  
 
 # BAB II
 
@@ -107,7 +111,8 @@ d. kewajiban dan tanggung jawab Pemerintah Daerah;
 e. kelembagaan;  
 f. kerjasama dan koordinasi perlindungan Perempuan dan Anak dari  tindak kekerasan;  
 g. peran serta masyarakat dan dunia usaha;  
-h. sistem informasi dan pelaporan; dani. pembinaan dan pengawasan.  
+h. sistem informasi dan pelaporan; dan  
+i. pembinaan dan pengawasan.  
 
 # BAB III
 
@@ -126,13 +131,15 @@ c. kekerasan ekonomi;
 d. kekerasan sosial;  
 e. kekerasan psikis;  
 f. penelantaran rumah tangga;  
-g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
+g. pemaksaan atau perampasan kemerdekaan; dan  
+h. ancaman tindakan tertentu.  
 
 #### Pasal 6
 
 Perlindungan perempuan sebagaimana dimaksud dalam Pasal 4 huruf a  meliputi:  
 a. pencegahan tindak kekerasan;  
-b. pelayanan terpadu bagi Korban kekerasan; danc. pemberdayaan terhadap Korban kekerasan.  
+b. pelayanan terpadu bagi Korban kekerasan; dan  
+c. pemberdayaan terhadap Korban kekerasan.  
 
 #### Pasal 7
 
@@ -155,12 +162,14 @@ e. membentuk jaringan kerja dalam upaya pencegahan Kekerasan;
 f. melakukan koordinasi, integrasi, sinkronisasi pencegahan  Kekerasan berdasarkan pola kemitraan;  
 
 Perda-Kubar/180/2019 -6-
-g. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; danh. meningkatkan kesadaran Masyarakat dalam berprilaku yang  sesuai dengan norma agama.  
+g. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya kekerasan; dan  
+h. meningkatkan kesadaran Masyarakat dalam berprilaku yang  sesuai dengan norma agama.  
 2. Selain Pemerintah Daerah pencegahan sebagaimana dimaksud pada  ayat (1) harus dilaksanakan oleh:a. Keluarga dan/atau kerabat terdekat;  
 b. Masyarakat;  
 c. lembaga pendidikan;  
 d. lembaga kesehatan;  
-e. lembaga sosial kemasyarakatan; danf. dunia usaha dan lembaga lainnya.  
+e. lembaga sosial kemasyarakatan; dan  
+f. dunia usaha dan lembaga lainnya.  
 
 #### Pasal 9
 
@@ -218,7 +227,9 @@ Perlindungan Anak Yang Menjadi Korban Kekerasan
 2. Perlindungan Anak Korban kekerasan sebagaimana dimaksud pada  ayat (1) dilaksanakan dengan cara:a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan,  Penanganan Korban dan sistem data dan informasi Anak;  
 
 Perda-Kubar/180/2019 -8-
-b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi  sosial Anak terlantar, baik di dalam lembaga maupun di luar  lembaga; danc. menyediakan tempat penampungan, pemeliharaan dan perawatan  Anak terlantar; dand. menyelenggarakan Perlindungan Khusus kepada Anak.  
+b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi  sosial Anak terlantar, baik di dalam lembaga maupun di luar  lembaga; dan  
+c. menyediakan tempat penampungan, pemeliharaan dan perawatan  Anak terlantar; dan  
+d. menyelenggarakan Perlindungan Khusus kepada Anak.  
 
 #### Pasal 14
 
@@ -251,7 +262,8 @@ l. Anak Penyandang Disabilitas;
 
 Perda-Kubar/180/2019 -9-
 m. Anak Korban perlakuan salah dan penelantaran;  
-n. Anak dengan perilaku sosial menyimpang; dano. Anak yang menjadi Korban stigmatisasi dari pelabelan terkait  dengan kondisi Orang Tua.  
+n. Anak dengan perilaku sosial menyimpang; dan  
+o. Anak yang menjadi Korban stigmatisasi dari pelabelan terkait  dengan kondisi Orang Tua.  
 2. Pemerintah Daerah dalam melaksanakan penanganan terhadap  Perlindungan Khusus Anak sebagaimana dimaksud pada ayat (1)  sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB V
@@ -283,8 +295,10 @@ d. hak bebas dari berbagai stigma; dan/ataue. hak mendapatkan kebebasan.
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  melaksanakan upaya pencegahan terjadinya Kekerasan Terhadap  Perempuan dan Anak, dalam bentuk:a. mengumpulkan data dan menyelenggarakan sistem informasi  perlindungan perempuan dan Anak Korban kekerasan;  
 
 Perda-Kubar/180/2019 -10-
-b. melakukan pendidikan tentang nilai anti Kekerasan Terhadap  Perempuan dan Anak; danc. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan pemberdayaan perempuan dan pelindungan  Anak Korban kekerasan.  
-2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  menyediakan dan menyelenggarakan layanan bagi Korban dalam  bentuk:a. mendirikan dan menyelenggarakan lembaga Pelayanan teknis  untuk Korban dengan melibatkan unsur Masyarakat; danb. mendorong kepedulian Masyarakat akan pentingnya perlindungan  terhadap Korban kekerasan.  
+b. melakukan pendidikan tentang nilai anti Kekerasan Terhadap  Perempuan dan Anak; dan  
+c. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan pemberdayaan perempuan dan pelindungan  Anak Korban kekerasan.  
+2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  menyediakan dan menyelenggarakan layanan bagi Korban dalam  bentuk:a. mendirikan dan menyelenggarakan lembaga Pelayanan teknis  untuk Korban dengan melibatkan unsur Masyarakat; dan  
+b. mendorong kepedulian Masyarakat akan pentingnya perlindungan  terhadap Korban kekerasan.  
 
 # BAB VII
 
@@ -319,7 +333,8 @@ Lembaga Pelayanan teknis untuk Korban Kekerasan dilaksanakan oleh  P2TP2A dan FP
 b. kesehatan;  
 
 Perda-Kubar/180/2019 -11-
-c. rohani; dand. psikologi.  
+c. rohani; dan  
+d. psikologi.  
 3. Pelaksanaan konseling dilakukan oleh konselor dan dapat  dilaksanakan secara berjejaring dengan melibatkan pihak terkait.  
 
 #### Pasal 23
@@ -328,7 +343,8 @@ c. rohani; dand. psikologi.
 b. Pelayanan medicolegal;  
 c. Pelayanan psikososial;  
 d. Pelayanan hukum;  
-e. Pelayanan reintegrasi sosial; danf. Pelayanan kemandirian ekonomi.  
+e. Pelayanan reintegrasi sosial; dan  
+f. Pelayanan kemandirian ekonomi.  
 2. Perangkat Daerah melakukan pembinaan terhadap P2TP2A dalam  melaksanakan Pelayanan sebagaimana dimaksud pada ayat (1).  
 3. Ketentuan lebih lanjut mengenai mekanisme Pelayanan sebagaimana  dimaksud pada ayat (1) diatur dalam Peraturan Bupati.  
 
@@ -340,7 +356,8 @@ e. Pelayanan reintegrasi sosial; danf. Pelayanan kemandirian ekonomi.
 
 1. Dalam rangka melindungi dan menjamin hak Perempuan dan Anak dari tindak kekerasan termasuk melakukan kerjasama dan koordinasi  dibentuk FPKK.  
 2. FPKK sebagaimana dimaksud pada ayat (1) terdiri dari:  a. FPKK Daerah;  
-b. FPKK kecamatan; danc. FPKK kelurahan/kampung.  
+b. FPKK kecamatan; dan  
+c. FPKK kelurahan/kampung.  
 3. Pembentukan FPKK Daerah sebagaimana dimaksud pada ayat (2)  huruf a ditetapkan oleh Bupati.  
 4. Pembentukan FPKK Kecamatan sebagaimana dimaksud pada ayat (2) huruf b ditetapkan oleh camat.  
 5. Pembentukan FPKK Desa sebagaimana dimaksud pada ayat (2) huruf  c ditetapkan oleh kepala desa.  
@@ -355,7 +372,8 @@ a. memberikan masukan dalam penyusunan kebijakan;
 b. melakukan koordinasi dengan Perangkat Daerah dan lembaga sosial  lainnya;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak dari tindak kekerasan;  
 d. mengumpulkan dan mengembangkan data dan informasi yang terkait  dengan perlindungan Perempuan dan Anak dari tindak kekerasan;  
-e. melakukakan penelaahan, pemantauan, evaluasi, dan pengawasan terhadap penyelenggaraan perlindungan Perempuan dan Anak dari  tindak kekerasan; danf. memberikan laporan, saran, masukan, dan pertimbangan kepada  Bupati.  
+e. melakukakan penelaahan, pemantauan, evaluasi, dan pengawasan terhadap penyelenggaraan perlindungan Perempuan dan Anak dari  tindak kekerasan; dan  
+f. memberikan laporan, saran, masukan, dan pertimbangan kepada  Bupati.  
 
 #### Pasal 26
 
@@ -409,7 +427,8 @@ Koordinasi
 b. pemerintah provinsi;  
 c. instansi vertikal lainnya;  
 d. pemerintah kabupaten/kota lain;  
-e. lembaga pendidikan; danf. lembaga kemasyarakatan.  
+e. lembaga pendidikan; dan  
+f. lembaga kemasyarakatan.  
 2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi:  a. urusan keagamaan;  
 b. urusan kesehatan;  
 c. urusan pendidikan;  
@@ -417,7 +436,8 @@ d. urusan sosial;
 e. urusan hukum;  
 
 Perda-Kubar/180/2019 -14-
-f. urusan tenagakerja; dang. urusan lainnya.  
+f. urusan tenagakerja; dan  
+g. urusan lainnya.  
 
 # BAB IX
 
@@ -439,7 +459,8 @@ Dalam hal lembaga sosial Masyarakat melaksanakan Perlindungan  Terhadap Perempua
 #### Pasal 32
 
 1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam  Perlindungan Terhadap Perempuan dan Anak dari tindak kekerasan;  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai  bahaya tindak Kekerasan Terhadap Perempuan dan Anak; danb. bantuan lain sebagai bentuk tanggung jawab sosial perusahaan.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai  bahaya tindak Kekerasan Terhadap Perempuan dan Anak; dan  
+b. bantuan lain sebagai bentuk tanggung jawab sosial perusahaan.  
 
 # BAB X
 
@@ -461,7 +482,8 @@ Perda-Kubar/180/2019 -15-
 1. Pemerintah Daerah melaksanakan pembinaan dan pengawasan  terhadap FPKK dan Lembaga sosial lainnya;  
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  oleh Perangkat Daerah yang melaksanakan urusan pemberdayaan  Perempuan dan Anak (3) Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 4. Koordinasi sebagaimana dimaksud pada ayat (3) huruf a mencakup  aspek yang berkaitan dengan perencanaan dan pelaksanaan;  
 5. Bimbingan sebagaimana dimaksud pada ayat (3) huruf b mencakup  aspek yang berkaitan dengan perencanaan, pelaksanaan, tata  laksana, pendanaan, kualitas, pengendalian dan pengawasan;  
 6. Pendidikan dan pelatihan sebagaiamana dimaksud pada ayat (3)  huruf c dilakukan sesuai dengan peraturan perundang-undangan;  
@@ -681,7 +703,8 @@ Ayat (2) Cukup jelas.
 Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara  lain:  
 a. pelaksanaan konseling dalam bidang hukum  dengan melibatkan kepolisian, kejaksaan, pengadilan negeri, pengadilan agama, lembaga advokasi hukum dan lembaga swadaya masyarakat;  
 b. pelaksanaan konseling dalam bidang kesehatan  dengan melibatkan dinas kesehatan, rumah sakit umum daerah, dan layanan kesehatan lainnya;  
-c. pelaksanaan konseling dalam bidang rohani  dengan melibatkan kementerian agama dan tokoh agama; dand. pelaksanaan konseling dalam bidang psikologi  dengan melibatkan pendamping psikologi dan/atau psikolog.  
+c. pelaksanaan konseling dalam bidang rohani  dengan melibatkan kementerian agama dan tokoh agama; dan  
+d. pelaksanaan konseling dalam bidang psikologi  dengan melibatkan pendamping psikologi dan/atau psikolog.  
 
 #### Pasal 23
 

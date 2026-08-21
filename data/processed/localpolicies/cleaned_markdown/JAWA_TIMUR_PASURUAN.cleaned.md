@@ -19,11 +19,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat penghormatan dan perlindungan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga pemberdayaan perempuan dan pelindungan anak harus dilakukan secara terpadu dan berkesinambungan melalui akselerasi pemenuhan dan perlindungan hak-hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -115,7 +117,8 @@ d. keadilan dan kepastian hukum;
 e. kemanfaatan;  
 f. partisipatif;  
 g. kepentingan terbaik bagi anak;  
-h. akuntabilitas; dani. rensponsif gender.  
+h. akuntabilitas; dan  
+i. rensponsif gender.  
 
 #### Pasal 3
 
@@ -129,7 +132,8 @@ c. memberikan perlindungan hak perempuan dan pemenuhan hak anak termasuk perlind
 Dalam rangka mewujudkan tujuan sebagaimana dimaksud dalam Pasal 3 huruf  a dilakukan melalui:  
 a. memberikan akses kepada perempuan dan anak terhadap layanan pendidikan, kesehatan dan bidang strategis lainnya;  
 b. mendorong keterlibatan perempuan dan anak dalam proses pembangunan;  
-c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan ketahanan keluarga; dand. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
+c. memberikan pengetahuan, keterampilan, nilai-nilai karakter, budi pekerti dan ketahanan keluarga; dan  
+d. mendorong program-program yang dapat meningkatkan kemandirian perempuan di bidang ekonomi, politik, hukum, sosial, budaya serta bidang  strategis lainnya.  
 
 #### Pasal 5
 
@@ -146,7 +150,8 @@ Dalam rangka menyelenggarakan tujuan sebagaimana dimaksud dalam Pasal 3  huruf c
 
 Upaya promotif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. memperkuat mekanisme koordinasi dan jejaring kerja antar unit layanan  dalam upaya penanganan kasus-kasus kekerasan;  
-b. menyediakan materi-materi Komunikasi, Informasi dan Edukasi (KIE) terkait pencegahan dan penanganan kekerasan; danc. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  pencegahan dan penanganan kekerasan.  
+b. menyediakan materi-materi Komunikasi, Informasi dan Edukasi (KIE) terkait pencegahan dan penanganan kekerasan; dan  
+c. menyelenggarakan sosialisasi, advokasi dan kampanye sosial dalam rangka  pencegahan dan penanganan kekerasan.  
 
 #### Pasal 8
 
@@ -159,12 +164,14 @@ c. menanamkan nilai-nilai karakter, budi pekerti, dan ketahanan keluarga;  dand.
 
 Upaya kuratif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
 a. mengoptimalkan unit layanan teknis terkait pengaduan kekerasan terhadap perempuan dan anak;  
-b. menyediakan sarana dan prasarana yang memadai untuk penanganan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, bantuan hukum,  pemulangan, reintegrasi sosial; danc. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat dan akurat oleh aparat penegak hukum.  
+b. menyediakan sarana dan prasarana yang memadai untuk penanganan pengaduan, rehabilitasi kesehatan, rehabilitasi sosial, bantuan hukum,  pemulangan, reintegrasi sosial; dan  
+c. melakukan penanganan bagi korban kejahatan dan kekerasan secara cepat,  tepat dan akurat oleh aparat penegak hukum.  
 
 #### Pasal 10
 
 Upaya rehabilitatif sebagaimana dimaksud dalam Pasal 6 adalah sebagai berikut:  
-a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan,  yang meliputi antara lain tenaga psikolog, psikiater, rohaniwan/pendamping  spiritual, pengacara, tenaga medis; danb. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
+a. menyediakan tenaga pendamping bagi korban kejahatan dan kekerasan,  yang meliputi antara lain tenaga psikolog, psikiater, rohaniwan/pendamping  spiritual, pengacara, tenaga medis; dan  
+b. memperkuat jejaring kerja dan koordinasi dalam proses reintegrasi serta  pemulangan korban kepada keluarga dan/atau lingkungan sosialnya.  
 
 # BAB III
 
@@ -197,7 +204,8 @@ d. beribadah menurut agamanya, berpikir, dan berekspresi sesuai dengan  tingkat 
 e. memperoleh pendidikan dan pengajaran dalam rangka pengembangan  pribadinya dan tingkat kecerdasannya sesuai dengan minat dan bakat;  
 f. mendapatkan perlindungan di satuan pendidikan dari kejahatan seksual  dan kekerasan yang dilakukan oleh pendidik, tenaga kependidikan, sesama  peserta didik, dan/atau pihak lain;  
 g. penyandang disabilitas berhak memperoleh pendidikan luar biasa dan anak  yang memiliki keunggulan berhak mendapatkan pendidikan khusus;  
-h. penyandang disabilitas berhak memperoleh rehabilitasi, bantuan sosial, dan  pemeliharaan taraf kesejahteraan sosial; dani. diasuh oleh orang tuanya sendiri, kecuali jika ada alasan dan/atau aturan  hukum yang sah menunjukkan bahwa pemisahan itu adalah demi  kepentingan terbaik bagi anak dan merupakan pertimbangan terakhir.  
+h. penyandang disabilitas berhak memperoleh rehabilitasi, bantuan sosial, dan  pemeliharaan taraf kesejahteraan sosial; dan  
+i. diasuh oleh orang tuanya sendiri, kecuali jika ada alasan dan/atau aturan  hukum yang sah menunjukkan bahwa pemisahan itu adalah demi  kepentingan terbaik bagi anak dan merupakan pertimbangan terakhir.  
 
 # BAB IV
 
@@ -226,7 +234,8 @@ a. Pusat Pelayanan Terpadu, dapat berbentuk:
 2. PUSYAN GATRA; dan
 
 ##### 3. PUSPAGA.  
-b. Komisi Perlindungan Anak Daerah; danc. Lembaga lain sesuai kebutuhan dan/atau ketentuan Peraturan Perundang undangan.  
+b. Komisi Perlindungan Anak Daerah; dan  
+c. Lembaga lain sesuai kebutuhan dan/atau ketentuan Peraturan Perundang undangan.  
 
 ## Bagian Kedua
 
@@ -256,7 +265,8 @@ b. pusat pelayanan bagi perempuan dan anak korban kekerasan; dan  c. pusat pembe
 2. PUSYAN GATRA berada di bawah koordinasi OPD atau unit kerja yang  menangani ketahanan kesejahteraan keluarga dan penggerakan.  
 3. PUSYAN GATRA sebagaimana dimaksud ayat (1) memiliki kewenangan membantu merumuskan kebijakan pembangunan kesejahteraan keluarga.  
 4. PUSYAN GATRA adalah salah satu bentuk unit pelayanan terpadu, yang  berfungsi sebagai:a. pelayanan Informasi dan Dokumentasi KKB (kependudukan dan  keluarga berencana);  
-b. pusat konseling keluarga; danc. pusat pembinaaan usaha ekonomi keluarga.  
+b. pusat konseling keluarga; dan  
+c. pusat pembinaaan usaha ekonomi keluarga.  
 
 #### Pasal 19
 
@@ -315,7 +325,8 @@ d. kemampuan meningkatkan partisipasi anak dalam keluarga; dan e. konseling bagi
 #### Pasal 25
 
 Pendanaan pelaksanaan kebijakan, program dan kegiatan pemberdayaan perempuan dan pelindungan anak di Daerah bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah dan tidak mengikat.  
 
 # BAB IX
 
@@ -326,14 +337,16 @@ a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak 
 1. Masyarakat dan Dunia Usaha dapat berperan serta dalam kegiatan  penyelenggaraan pemberdayaan perempuan.  
 2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat dilakukan oleh perorangan, kelompok masyarakat,  organisasi kemasyarakatan dan Perusahaan.  
 3. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1) dapat berbentuk:a. kerjasama;  
-b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.  
+b. peran aktif dalam penyusunan kebijakan; dan  
+c. pengaduan/laporan.  
 4. Ketentuan lebih lanjut mengenai tata cara peran serta masyarakat dan  Dunia Usaha sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 
 #### Pasal 27
 
 1. Masyarakat dan Dunia Usaha dapat berperan serta dalam pemenuhan hak anak termasuk:a. upaya pencegahan;  
 b. pengurangan risiko dan penanganan anak korban kekerasan;  
-c. eksploitasi; dand. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
+c. eksploitasi; dan  
+d. perlakuan salah dan penelantaran, baik melalui upaya perseorangan  maupun lembaga.  
 2. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (1), diwujudkan dengan dukungan pemenuhan hak anak termasuk:  
 a. memberikan informasi dan atau melaporkan setiap situasi kerentanan  dan kekerasan yang diketahuinya;  
 b. memfasilitasi atau melakukan kegiatan pencegahan dan pengurangan  risiko;  
@@ -343,7 +356,8 @@ e. membantu proses pemulangan, rehabilitasi dan reintegrasi sosial;
 f. dukungan dalam proses pemenuhan hak-hak anak lainnya;  
 g. pembentukan pusat pelayanan terpadu anak;  
 h. pemberian beasiswa pendidikan;  
-i. pemberian bantuan biaya kesehatan; danj. pemberian bantuan hukum terhadap anak yang mengalami masalah  hukum.  
+i. pemberian bantuan biaya kesehatan; dan  
+j. pemberian bantuan hukum terhadap anak yang mengalami masalah  hukum.  
 3. Peran serta masyarakat dan Dunia Usaha sebagaimana dimaksud pada  ayat (2) dapat dilakukan oleh perseorangan, keluarga, organisasi  kemasyarakatan dan perusahaan.  
 4. Ketentuan lebih lanjut mengenai tata cara peran serta masyarakat dan  Dunia Usaha sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 

@@ -16,6 +16,7 @@ Menimbang Mengingat:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan atas pemenuhan Hak Asasi Manusia dan  segala bentuk tindak kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia sehingga  perlu dilindungi harga diri dan martabatnya serta dijamin  hak-haknya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan dan anak di  Kabupaten Manggarai terus meningkat dan berdampak  pada terganggunya kehidupan sosial masyarakat, maka perlu mengatur penyelenggaraan perlindungannya;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
@@ -80,7 +81,8 @@ h. keterpaduan;
 i. kelangsungan hidup ibu;  
 j. kelangsungan hidup, tumbuh dan berkembang anak;  
 k. perlindungan korban;  
-l. kepastian hukum; danm. penghormatan terhadap hak-hak perempuan dan anak sebagai hak asasi  manusia.  
+l. kepastian hukum; dan  
+m. penghormatan terhadap hak-hak perempuan dan anak sebagai hak asasi  manusia.  
 
 ## Bagian Kedua
 
@@ -90,7 +92,8 @@ Tujuan
 
 Tujuan penyelenggaraan perlindungan perempuan dan anak adalah untuk:  a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. mendampingi perempuan dan anak korban kekerasan dalam proses hukum baik litigasi maupun non litigasi sesuai dengan ketentuan peraturan  perundang-undangan;  
-c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; dand. memulihkan kondisi fisik dan psikis perempuan dan anak korban kekerasan.  
+c. memberikan rasa aman terhadap perempuan dan anak korban kekerasan; dan  
+d. memulihkan kondisi fisik dan psikis perempuan dan anak korban kekerasan.  
 
 # BAB III
 
@@ -104,7 +107,8 @@ b. kekerasan psikis;
 c. kekerasan seksual;  
 d. penelantaran;  
 e. pembatasan ruang gerak;  
-f. eksploitasi; dang. perdagangan perempuan dan anak.  
+f. eksploitasi; dan  
+g. perdagangan perempuan dan anak.  
 
 # BAB IV
 
@@ -123,7 +127,8 @@ g. pelayanan terpadu;
 h. dihormati harkat dan martabatnya sebagai manusia;  
 i. kerahasiaan identitas;  
 j. penanganan pengaduan;  
-k. pemulangan dan reintegrasi sosial; danl. rehabilitasi sosial.  
+k. pemulangan dan reintegrasi sosial; dan  
+l. rehabilitasi sosial.  
 
 # BAB V
 
@@ -133,9 +138,11 @@ k. pemulangan dan reintegrasi sosial; danl. rehabilitasi sosial.
 
 1. Pemerintah Daerah bertugas melakukan upaya-upaya pencegahan,  penanganan dan pemulihan korban kekerasan terhadap Perempuan dan  Anak, dengan melakukan:a. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan perlindungan Perempuan dan Anak Korban Kekerasan;  
 b. mengadakan pendidikan tentang nilai-nilai anti kekerasan terhadap  perempuan dan anak;  
-c. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan; dand. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
+c. mengumpulkan data dan informasi tentang Perempuan dan Anak  Korban Kekerasan; dan  
+d. mengadakan pemantauan dan evaluasi terhadap penyelenggaraan  perlindungan Perempuan dan Anak korban kekerasan.  
 2. Pemerintah Daerah berkewajiban melakukan upaya-upaya pencegahan,  penanganan, pemulihan dan rehabilitasi korban kekerasan terhadap Perempuan dan Anak, menyediakan dan menyelenggarakan layanan bagi  korban dalam bentuk:a. menyediakan dan memfasilitasi terbentuknya pelayanan terpadu untuk  korban dengan melibatkan lembaga dan unsur masyarakat;  
-b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; danc. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
+b. mendorong kepedulian masyarakat tentang pentingnya perlindungan  terhadap korban; dan  
+c. melakukan pemberdayaan masyarakat untuk pencegahan tindak  kekerasan.  
 3. Ketentuan lebih lanjut mengenai tugas Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) dan kewajiban Pemerintah Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Bupati.  
 
 # BAB VI
@@ -153,7 +160,8 @@ e. rumah perlindungan sosial wanita;
 f. rumah singgah; ataug. kegiatan pelayanan sesuai ketentuan peraturan perundang-undangan. (3) Bentuk pelayanan yang dilaksanakan Pusat Pelayanan Terpadu sebagaimana  dimaksud pada ayat (1), meliputi:a. pengaduan;  
 b. rehabilitasi kesehatan;  
 c. rehabilitasi sosial;  
-d. bantuan hukum; dane. pemulangan dan reintegrasi sosial.  
+d. bantuan hukum; dan  
+e. pemulangan dan reintegrasi sosial.  
 4. Ketentuan lebih lanjut mengenai Pusat Pelayanan Terpadu sebagaimana  dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 # BAB VII
@@ -165,7 +173,8 @@ d. bantuan hukum; dane. pemulangan dan reintegrasi sosial.
 1. Pemerintah Daerah dalam penyelenggaraan perlindungan Korban Kekerasan  dapat melibatkan peran serta masyarakat.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, kelompok maupun organisasi sosial  kemasyarakatan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2) dapat  dilakukan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
-b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; danc. memberikan bantuan terhadap korban.  
+b. menyampaikan laporan kepada yang berwajib apabila terjadi tindakan  kekerasan terhadap Perempuan dan Anak; dan  
+c. memberikan bantuan terhadap korban.  
 
 # BAB VIII
 
@@ -200,7 +209,8 @@ Pelaporan
 1. Pusat Pelayanan Terpadu wajib melaporkan secara tertulis pelaksanaan  penyelenggaraan perlindungan Perempuan dan Anak korban kekerasan  kepada Bupati.  
 2. Laporan sebagaimana dimaksud pada ayat (1) meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan sebagaimana dimaksud pada ayat (2) dilaksanakan  paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB IX

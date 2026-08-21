@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan  hak asasi perempuan terhadap pemberdayaan dan  perlindungan perempuan merupakan salah satu nilai yang  tertuang dalam Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah sebagaimana dalam Lampiran  disebutkan bahwa pembagian urusan pemerintah dalam  bidang pemberdayaan perempuan dengan salah satu sub  urusan adalah perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -80,7 +82,8 @@ Dalam peraturan daerah ini, yang dimaksud dengan:
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab  terhadap pemberdayaan dan Perlindungan Perempuan. (2) Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) meliputi:a. penetapan kebijakan, program, dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
-c. penyelenggaraan layanan; danb. koordinasi kebijakan, program dan kegiatan. (3) Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (2) dilakukan secara  terpadu sesuai dengan peraturan perundang- undangan  yang berlaku.  
+c. penyelenggaraan layanan; dan  
+b. koordinasi kebijakan, program dan kegiatan. (3) Upaya Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (2) dilakukan secara  terpadu sesuai dengan peraturan perundang- undangan  yang berlaku.  
 
 # BAB III
 
@@ -97,7 +100,8 @@ f. bebas dari perbudakan atau diperhambag. bebas dari ancaman;
 h. memperoleh perlindungan diri pribadi, keluarga,  kehormatan, martabat dan hak miliknya;  
 i. mendapatkan kesejahteraan dan kehidupan yang layak;  
 j. berpartisipasi dalam bidang politik, ekonomi, sosial  budaya;  
-k. melakukan perbuatan hukum; danl. bebas memilih pasangan dalam perkawinannya. (2) Setiap istri selama dalam ikatan perkawinan mempunyai  hak dan tanggung jawab yang sama dengan suaminya atas  semua hal yang berkenaan dengan kehidupan  perkawinannya, hubungan dengan anak-anaknya, dan  kepemilikan serta pengelolaan harta bersama sesuai  dengan peraturan perundang-undangan yang berlaku. (3) Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan  suaminya atas semua hal yang berkenaan dengan anak  dengan memperhatikan kepentingan terbaik bagi anak.  
+k. melakukan perbuatan hukum; dan  
+l. bebas memilih pasangan dalam perkawinannya. (2) Setiap istri selama dalam ikatan perkawinan mempunyai  hak dan tanggung jawab yang sama dengan suaminya atas  semua hal yang berkenaan dengan kehidupan  perkawinannya, hubungan dengan anak-anaknya, dan  kepemilikan serta pengelolaan harta bersama sesuai  dengan peraturan perundang-undangan yang berlaku. (3) Setelah putusnya perkawinan, seorang perempuan mempunyai hak dan tanggung jawab dengan mantan  suaminya atas semua hal yang berkenaan dengan anak  dengan memperhatikan kepentingan terbaik bagi anak.  
 
 # BAB IV
 
@@ -130,7 +134,8 @@ Koordinator penyelenggaraan PUG di daerah adalah PD yang  membidangi urusan peme
 #### Pasal 7
 
 1. Dalam upaya percepatan pelembagaan PUG sebagaimana  dimaksud dalam Pasal 4 ayat (1) huruf b, dibentuk pokja  PUG.  
-2. Anggota pokja PUG adalah seluruh kepala/pimpinan PD. (3) Bupati menetapkan:a. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang perencanaan pembangunan daerah sebagai ketua pokja PUG; danb. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan  perlindungan anak sebagai kepala sekretariat pokja  PUG.  
+2. Anggota pokja PUG adalah seluruh kepala/pimpinan PD. (3) Bupati menetapkan:a. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang perencanaan pembangunan daerah sebagai ketua pokja PUG; dan  
+b. kepala PD yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan  perlindungan anak sebagai kepala sekretariat pokja  PUG.  
 4. Pembentukan pokja PUG sebagaimana dimaksud pada ayat  (1) ditetapkan dengan Keputusan Bupati.  
 
 #### Pasal 8
@@ -146,7 +151,8 @@ Pemberdayaan Perempuan
 Pemberdayaan Perempuan sebagaimana dimaksud dalam Pasal  5 ayat (1) huruf c diarahkan untuk memperoleh kesempatan  dan hak sebagai manusia agar mampu berperan dan  berpartisipasi dalam bidang:  
 a. politik;  
 b. hukum;  
-c. sosial budaya; dand. ekonomi.  
+c. sosial budaya; dan  
+d. ekonomi.  
 
 ### Paragraf 1
 
@@ -156,7 +162,8 @@ Bidang Politik
 
 1. Pemberdayaan perempuan di bidang politik sebagaimana  dimaksud dalam Pasal 9 huruf a meliputi:a. pelibatan perempuan dalam pengambilan keputusan di  berbagai tingkatan;  
 b. pemberian kesempatan bagi perempuan untuk  menduduki jabatan publik;  
-c. partisipasi dalam pemilihan umum; dand. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
+c. partisipasi dalam pemilihan umum; dan  
+d. pengembangan diri melalui organisasi untuk berserikat,  berkumpul dan mengeluarkan pendapat.  
 2. Pemberdayaan perempuan di bidang politik sebagaimana  dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan yang berlaku.  
 3. Pemerintah Daerah memberikan jaminan kepada  perempuan untuk memilih dan/atau dipilih dalam:  
 a. pemilihan umum;  
@@ -186,7 +193,8 @@ Bidang Sosial
 Pemberdayaan perempuan di bidang sosial dilaksanakan  melalui;  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk  mendorong pemenuhan pendidikan secara berjenjang  sesuai dengan potensi untuk meningkatkan status sosial;  
 b. peningkatan kesadaran, kemauan dan kemampuan untuk  mengatasi permasalahan kesehatan melalui upaya  promotif, preventif, kuratif, dan rehabilitatif yang  berkualitas utamanya di bidang kesehatan reproduksi;  
-c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, sehat dan sejahtera  termasuk akses layanan konsultasi dan pencatatan  perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengetahuan, teknologi, seni dan  budaya untuk kemajuan perempuan.  
+c. peningkatan kesadaran dan pengetahuan tentang  perencanaan keluarga mandiri, sehat dan sejahtera  termasuk akses layanan konsultasi dan pencatatan  perkawinan; dan  
+d. fasilitasi dan upaya pelestarian adat istiadat dan  pengembangan ilmu pengetahuan, teknologi, seni dan  budaya untuk kemajuan perempuan.  
 
 ### Paragraf 4
 
@@ -212,7 +220,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Pemberdayaan Perempuan
 2. Penguatan dan pengembangan lembaga penyedia layanan  pemberdayaan perempuan sebagaimana dimaksud pada  ayat (1) meliputi:a. sosialisasi;  
 b. koordinasi;  
 c. komunikasi, informasi dan edukasi;  
-d. pelatihan; dane. peningkatan partisipasi angota masyarakat.  
+d. pelatihan; dan  
+e. peningkatan partisipasi angota masyarakat.  
 
 # BAB V
 
@@ -235,7 +244,8 @@ g. lembaga layanan;
 h. pesantren;  
 i. organisasi kepemudaan;  
 j. organisasi bantuan hukum;  
-k. komunitas; danl. media.  
+k. komunitas; dan  
+l. media.  
 
 #### Pasal 16
 
@@ -249,7 +259,8 @@ g. perempuan pekerja rumah tangga;
 h. perempuan pekerja rumahan;  
 i. perempuan lanjut usia;  
 j. perempuan pekerja informal;  
-k. perempuan dalam situasi intoleransi; danl. kelompok perempuan rentan lainnya.  
+k. perempuan dalam situasi intoleransi; dan  
+l. kelompok perempuan rentan lainnya.  
 
 #### Pasal 17
 
@@ -273,7 +284,8 @@ q. koperasi, usaha kecil dan menengah;
 r. kepemudaan dan olah raga;  
 s. kebudayaan;  
 t. pariwisata;  
-u. perdagangan dan perindustrian; danv. bidang lainnya yang terkait.  
+u. perdagangan dan perindustrian; dan  
+v. bidang lainnya yang terkait.  
 2. Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud pada ayat (1) dilakukan dalam bentuk sebagai  berikut:a. mengembangkan media komunikasi, informasi, edukasi  dan kampanye publik melalui media;  
 b. mengembangkan materi dan kurikulum pendidikan;  
 c. mengembangkan sistem transportasi dan ruang publik  yang aman;  
@@ -326,7 +338,8 @@ j. organisasi sosial masyarakat;
 k. lembaga layanan milik pemerintah dan lembaga layanan  milik masyarakat;  
 l. organisasi bantuan hukum;  
 m. organisasi perempuan;  
-n. perguruan tinggi; dano. media penyiaran dan/atau media massa.  
+n. perguruan tinggi; dan  
+o. media penyiaran dan/atau media massa.  
 
 #### Pasal 22
 
@@ -343,7 +356,8 @@ f. pemberdayaan;
 g. keputusan berdasarkan korban;  
 h. kejujuran;  
 i. profesional;  
-j. keterpaduan; dank. keberlanjutan.  
+j. keterpaduan; dan  
+k. keberlanjutan.  
 2. Pelayanan kepada perempuan korban kekerasan harus  mempertimbangkan kondisi dan kebutuhan khusus  berdasarkan kerentanan yang dialami perempuan sebagaimana dimaksud dalam Pasal 20
 
 #### Pasal 24
@@ -360,7 +374,8 @@ b. pengaduan khusus;
 c. pemberian informasi;  
 d. penjangkauan;  
 e. pelayanan krisis atau kegawatdaruratan;  
-f. asesmen; dang. bentuk pelayanan pengaduan lainnya yang  dibutuhkan korban.  
+f. asesmen; dan  
+g. bentuk pelayanan pengaduan lainnya yang  dibutuhkan korban.  
 2. Pelayanan pengaduan sebagaimana dimaksud pada ayat  (1) dilakukan oleh petugas terlatih di ruang khusus yang  aman dan nyaman.  
 3. Ketentuan lebih lanjut mengenai pelayanan pengaduan  diatur dengan Peraturan Bupati.  
 
@@ -371,7 +386,8 @@ b. pemeriksaan dan pemulihan psikologis;
 c. pelayanan kehamilan, persalinan, dan kesehatan  reproduksi;  
 d. resume medis dan hasil pemeriksaan psikologi;  
 e. visum et repertum dan visum et psikiatrikum;  
-f. tes Deoxyribo Nucleic Acid; dang. bentuk pelayanan kesehatan lainnya yang dibutuhkan  korban.  
+f. tes Deoxyribo Nucleic Acid; dan  
+g. bentuk pelayanan kesehatan lainnya yang dibutuhkan  korban.  
 2. Pelayanan kesehatan bagi perempuan korban dilakukan  oleh petugas terlatih di ruang khusus yang aman dan  nyaman.  
 3. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1)  dilakukan melalui mekanisme khusus pelayanan terpadu  berbasis rumah sakit dan menjadi tanggung jawab  Perangkat Daerah yang membidangi urusan kesehatan.  
 4. Ketentuan lebih lanjut mengenai pelayanan kesehatan  diatur dengan Peraturan Bupati.  
@@ -400,7 +416,8 @@ d. keadilan restoratif;
 e. bantuan hukum;  
 f. tenaga ahli;  
 g. restitusi;  
-h. perlindungan keamanan; dani. bentuk pelayanan bantuan dan penegakan hukum  lainnya yang dibutuhkan korban.  
+h. perlindungan keamanan; dan  
+i. bentuk pelayanan bantuan dan penegakan hukum  lainnya yang dibutuhkan korban.  
 2. Dalam melaksanakan keterpaduan pelayanan bantuan  dan penegakan hukum sebagaimana dimaksud pada ayat  (1), Bupati bertanggungjawab mengoordinir kerjasama  antara:a. perangkat daerah;  
 b. lembaga layanan;  
 c. organisasi bantuan hukum;  
@@ -435,7 +452,8 @@ d. urusan koperasi usaha kecil dan menengah;
 e. urusan pendidikan;  
 f. urusan kesehatan;  
 g. urusan pekerjaan umum dan penataan ruang;  
-h. urusan pertanahan, urusan pemberdayaan  perempuan dan perlindungan anak; dani. urusan lainnya yang terkait.  
+h. urusan pertanahan, urusan pemberdayaan  perempuan dan perlindungan anak; dan  
+i. urusan lainnya yang terkait.  
 5. Ketentuan lebih lanjut mengenai pelayanan pemulangan  dan reintegrasi sosial diatur dengan Peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -454,7 +472,8 @@ Penguatan dan Pengembangan Lembaga Penyedia Layanan  Perlindungan Perempuan
 #### Pasal 31
 
 1. Untuk meningkatkan kualitas keluarga, Pemerintah Daerah  bertanggung jawab dalam:a. peningkatan kualitas keluarga dalam mewujudkan  kesetaraan gender dan hak anak;  
-b. penguatan dan pengembangan lembaga penyedia  layanan peningkatan kualitas keluarga dalam  mewujudkan kesetaraan gender; danc. penyediaan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak.  
+b. penguatan dan pengembangan lembaga penyedia  layanan peningkatan kualitas keluarga dalam  mewujudkan kesetaraan gender; dan  
+c. penyediaan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak.  
 2. Upaya peningkatan kualitas keluarga sebagaimana  dimaksud pada ayat (1) dilaksanakan oleh PD sesuai  dengan tugas dan fungsinya.  
 
 ## Bagian Kesatu
@@ -473,7 +492,8 @@ d. fasilitas penyelenggaraan pembangunan keluarga; dan e. peningkatan kualitas k
 
 Pembinaan sebagaimana dimaksud dalam Pasal 32 huruf a meliputi:  
 a. pemberian akses informasi;  
-b. pendidikan; danc. konseling.  
+b. pendidikan; dan  
+c. konseling.  
 
 tentang kehidupan berkeluarga program bina keluarga.  
 
@@ -483,7 +503,8 @@ Bimbingan sebagaimana dimaksud dalam Pasal 32 huruf b  meliputi:
 a. memberikan perlindungan dan bantuan untuk  mengembangkan diri melalui peningkatan kemampuan dan  keterampilan keluarga;  
 b. melakukan penyuluhan peningkatan kualitas hidup  perempuan;  
 c. melakukan penyuluhan peningkatan kesetaraan gender  dalam kehidupan keluarga masyarakat;  
-d. melakukan peningkatan akses dan peluang terhadap  penerimaan informasi dan sumber daya ekonomi melalui  usaha peningkatan pendapatan keluarga sejahtera dan  peningkatan produktivitas ekonomi perempuan; dane. melakukan upaya pemberdayaan perempuan kepala  keluarga.  
+d. melakukan peningkatan akses dan peluang terhadap  penerimaan informasi dan sumber daya ekonomi melalui  usaha peningkatan pendapatan keluarga sejahtera dan  peningkatan produktivitas ekonomi perempuan; dan  
+e. melakukan upaya pemberdayaan perempuan kepala  keluarga.  
 
 #### Pasal 35
 
@@ -493,7 +514,8 @@ Supervisi sebagaimana dimaksud dalam Pasal 32 huruf c yaitu  melakukan evaluasi 
 
 Penyediaan layanan bagi keluarga dalam mewujudkan kesetaraan gender meliputi:  
 a. komunikasi, informasi dan edukasi;  
-b. alat dan obat kontrasepsi; danc. pencatatan dan pelaporan pelayanan keluarga berencana  keluarga berencana difasilitas sarana dan prasarana  pelayanan kesehatan yang memadai ruang pojok ASI di  setiap fasilitas umum.  
+b. alat dan obat kontrasepsi; dan  
+c. pencatatan dan pelaporan pelayanan keluarga berencana  keluarga berencana difasilitas sarana dan prasarana  pelayanan kesehatan yang memadai ruang pojok ASI di  setiap fasilitas umum.  
 
 ## Bagian Kedua
 
@@ -502,7 +524,8 @@ Penyediaan Layanan Bagi Keluarga Dalam Mewujudkan  Kesetaraan Gender
 #### Pasal 37
 
 1. Dalam rangka meningkatkan kualitas keluarga, Pemerintah  Daerah bertanggung jawab:a. melakukan upaya peningkatan kualitas keluarga untuk  mewujudkan kesetaraan gender dan hak anak;  
-b. menyediakan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak; danc. menguatkan dan mengembangkan lembaga penyediaan  layanan peningkatan kualitas keluarga.  
+b. menyediakan layanan bagi keluarga dalam mewujudkan  kesetaraan gender dan hak anak; dan  
+c. menguatkan dan mengembangkan lembaga penyediaan  layanan peningkatan kualitas keluarga.  
 2. Tanggung jawab Pemerintah Daerah dalam upaya  peningkatan kualitas keluarga sebagaimana dimaksud pada  ayat (1) dilaksanakan oleh PD sesuai dengan tugas dan  fungsinya.  
 
 ## Bagian Ketiga
@@ -548,7 +571,8 @@ e. menyediakan sarana dan mekanisme pengelolaan  penanganan pengaduan atau keluh
 f. uji akses layanan;  
 g. pemetaan dan kajian;  
 h. penyelesaian perselisihan antar lembaga;  
-i. monitoring dan evaluasi; danj. pelaporan.  
+i. monitoring dan evaluasi; dan  
+j. pelaporan.  
 2. Pembinaan dan pengawasan dilaksanakan paling sedikit 1  (satu) kali dalam 1 (satu) tahun.  
 3. Hasil pelaksanaan pembinaan dan pengawasan dilaporkan  kepada Bupati.  
 

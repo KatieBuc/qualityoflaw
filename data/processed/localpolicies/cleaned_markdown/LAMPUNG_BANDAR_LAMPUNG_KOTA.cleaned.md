@@ -21,10 +21,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka pemenuhan hak konstitusional perempuan, setiap warga Negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia, berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan serta untuk meningkatkan kualitas hidup perempuan yang merupakan salah satu tanggung jawab Pemerintah Daerah;  
 b. bahwa dalam upaya pemenuhan hak perempuan perlu dilakukan upaya oleh k eluarga, masyarakat, dan Pemerintah Daerah, sebagaimana dimaksud pada huruf a, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -99,7 +101,8 @@ c. non diskriminasi;
 d. kepentingan terbaik bagi perempuan;  
 e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
 f. pemberdayaan;  
-g. kepastian hukum; danh. partisipasi.  
+g. kepastian hukum; dan  
+h. partisipasi.  
 2. Perlindungan perempuan bertujuan untuk menjamin terpenuhinya hak agar dapat hidup, tumbuh, berkembang dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan serta mendapat perlindungan dari kekerasan, diskriminasi, eksploitasi dan perdagangan orangdemi terwujudnya perempuan berkualitas dan sejahtera.  
 
 # BAB III
@@ -110,7 +113,8 @@ g. kepastian hukum; danh. partisipasi.
 
 Ruang Lingkup Perlindungan Perempuan meliputi:  
 a. Pencegahan;  
-b. Pelayanan; danc. Pemberdayaan.  
+b. Pelayanan; dan  
+c. Pemberdayaan.  
 
 ## Bagian Kesatu
 
@@ -136,7 +140,8 @@ l. perlindungan khusus dalam kondisi/keadaan darurat.
 
 1. Pencegahan dalam rangka perlindungan meliputi bidang pendidikan, infrastruktur, pelayanan publik dan tata ruang, pemerintahan dan tata kelola kelembagaan, ekonomi, ketenagakerjaan, sosial dan budaya;  
 2. Upaya pencegahan sebagaimana dimaksud ayat (1) dilaksanakan melalui:a. peningkatan kualitas hidup;  
-b. membentuk dan mengembangkan strategi dan kebijakanperlindungan; danc. membentuk dan mengembangkan kapasitas kelembagaan yang berkaitan dengan perlindungan perempuan.  
+b. membentuk dan mengembangkan strategi dan kebijakanperlindungan; dan  
+c. membentuk dan mengembangkan kapasitas kelembagaan yang berkaitan dengan perlindungan perempuan.  
 
 #### Pasal 6
 
@@ -205,7 +210,8 @@ Setiap korban berhakmendapatkan:
 a. perlindungan dari pihak keluarga, kepolisian, kejaksaan, pengadilan, advokat, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 b. pelayanan kesehatan sesuai dengan kebutuhan medis;  
 c. penanganan secara khusus berkaitan dengan kerahasiaan korban;  
-d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang- undangan; dane. pelayanan bimbingan rohani.  
+d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang- undangan; dan  
+e. pelayanan bimbingan rohani.  
 
 ### Paragraf Ketiga
 
@@ -250,7 +256,8 @@ c. melakukan pemantauan sekurang- kurangnya tiga bulan setelah korban dipulangka
 
 1. Reintegrasi sosial merupakan upaya penyatuan kembali korban dengan pihak keluarga, keluarga pengganti, atau masyarakat yang dapat memberikan perlindungan dan pemenuhan kebutuhan bagi korban.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) berupa:a. Pemberdayaan ekonomi dan sosial;  
-b. Pendidikan; danc. Monitoring dan/atau bimbingan lanjut.  
+b. Pendidikan; dan  
+c. Monitoring dan/atau bimbingan lanjut.  
 
 ## Bagian Ketiga
 
@@ -273,7 +280,8 @@ d. memfasilitasi dan bantuan permodalan; dan e. memfasilitasi pengembangan jarin
 
 Pemberdayaan perempuan di bidang sosial budaya sebagaimana dimaksud dalam Pasal 17 ayat (2) dilaksanakan melalui:  
 a. peningkatan pengetahuan, sikap dan keterampilan untuk mendorong pemenuhan pendidikan secara berjenjang sesuai dengan potensi untuk meningkatkan status sosial;  
-b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi.  c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dand. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
+b. peningkatan kesadaran, kemauan dan kemampuan untuk mengatasi permasalahan kesehatan melalui upaya promotif, preventif, kuratif, dan rehabilitatif yang berkualitas utamanya di bidang kesehatan reproduksi.  c. peningkatan kesadaran dan pengetahuan tentang perencanaan keluarga mandiri, sehat dan sejahtera termasuk akses layanan konsultasi dan pencatatan perkawinan; dan  
+d. fasilitasi dan upaya pelestarian adat istiadat dan pengembangan ilmu pengetahuan, teknologi, seni dan budaya untuk kemajuan perempuan.  
 
 #### Pasal 20
 
@@ -285,7 +293,8 @@ c. partisipasi dalam pemilihan umum; dan d. pengembangan diri melalui organisasi
 #### Pasal 21
 
 Penyelenggaraan pemberdayaan perempuan di bidang hukum sebagaimana dimaksud dalam Pasal 17 ayat (2) meliputi:  
-a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi dan edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
+a. peningkatan kesadaran dan pengetahuan di bidang hukum melalui layanan komunikasi, informasi dan edukasi; dan  
+b. fasilitasi akses dan layanan konsultasi hukum.  
 
 # BAB IV
 
@@ -306,7 +315,8 @@ f. melakukan pendataan dan inventarisasi data perempuan;
 g. menyediakan rumah aman.  
 2. Pemerintah Daerah berwenang:a. menyusun pedoman operasional standar pelayanan minimal bagi usaha pemenuhan hak dan perlindungan bagi perempuan;  
 b. melaksanakan pelayanan pemenuhan hak dan perlindungan terhadap perempuan;  
-c. melakukan pengawasan terhadap usaha pemenuhan hak perempuan dan pelayanan perlindungan perempuan; dand. mengembangkan jejaring kerjasama antar lembaga pemerintah maupun dengan Perguruan Tinggi, masyarakat dan Dunia Usaha.  
+c. melakukan pengawasan terhadap usaha pemenuhan hak perempuan dan pelayanan perlindungan perempuan; dan  
+d. mengembangkan jejaring kerjasama antar lembaga pemerintah maupun dengan Perguruan Tinggi, masyarakat dan Dunia Usaha.  
 
 ## Bagian Kedua
 
@@ -317,7 +327,8 @@ Masyarakat
 1. Masyarakat bertanggung jawab untuk melakukan pencegahan, pengurangan resiko dan penanganan kasus perempuan korban kekerasan, eksploitasi, perdagangan orang.  
 2. Tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan;  
 b. memberikan informasi dan/atau melaporkan bila terjadi tindak kekerasankepada penegak hukum atau pihak yang berwenang;  
-c. melindungi korban; dand. memberikan pertolongan darurat.  
+c. melindungi korban; dan  
+d. memberikan pertolongan darurat.  
 
 ## Bagian Ketiga
 
@@ -327,7 +338,8 @@ Dunia Usaha
 
 Dunia usaha berkewajiban dan bertanggung jawab:  
 a. memberikan kontribusi dan jaminan dalam pelaksanaan penyelenggaraan perlindungan perempuan;  
-b. menyediakan sarana dan prasarana untuk meningkatkan upaya pemenuhan hak dan perlindungan perempuan; danc. bertanggung jawab untuk melakukan pencegahan, pengurangan resiko dan penanganan kasus perempuan korban kekerasan, eksploitasi, perdagangan orang.  
+b. menyediakan sarana dan prasarana untuk meningkatkan upaya pemenuhan hak dan perlindungan perempuan; dan  
+c. bertanggung jawab untuk melakukan pencegahan, pengurangan resiko dan penanganan kasus perempuan korban kekerasan, eksploitasi, perdagangan orang.  
 
 # BAB V
 

@@ -138,7 +138,8 @@ g. pemberdayaan.
 a. meningkatkan kualitas hidup perempuan, anak, dan  kualitas keluarga;  
 b. meningkatkan kapasitas kelembagaan pemberdayaan  perempuan dan perlindungan anak termasuk  pengembangan sistem data gender dan anak;  
 c. memberikan perlindungan hak perempuan clan  pemenuhan hak anak termasuk perlindungan khusus bagi  anak dari berbagai bentuk kekerasan dan perlakuan  diskriminatif lainnya;  
-d. memberi pedoman kepada pemerintah daerah, dalam  perencanaan kebijakan strategi perlindungan perempuan  dan anak; dane. mencegah terjadinya pelanggaran hak perempuan dan  anak.  
+d. memberi pedoman kepada pemerintah daerah, dalam  perencanaan kebijakan strategi perlindungan perempuan  dan anak; dan  
+e. mencegah terjadinya pelanggaran hak perempuan dan  anak.  
 
 # BAB IV
 
@@ -159,7 +160,8 @@ j. peran serta masyarakat;
 k. kerjasama;  
 1. pembinaan dan pengawasan;  
 m. pendanaan;  
-n. ketentuan pidana; dano. ketentuan Penutup.  
+n. ketentuan pidana; dan  
+o. ketentuan Penutup.  
 
 # BAB V
 
@@ -179,7 +181,8 @@ d. memperoleh pekerjaan yang layak sesuai kemampuannya;
 2021, No. 3 -79­
 e. memperoleh cuti kerja dengan menerima upah/gaji sesuai peraturan perundang-undangan;  
 f. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan jalur pendidikan;  
-g. mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi perempuan; danh. pemilikan dan pengelolaan harta bersama dalam perkawinan sesuai dengan peraturan perundang undangan.  
+g. mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi perempuan; dan  
+h. pemilikan dan pengelolaan harta bersama dalam perkawinan sesuai dengan peraturan perundang undangan.  
 2. Setiap anak berhak untuk:a. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan;  
 b. memperoleh perlindungan dari tindakan diskriminasi;  
 c. memperoleh perlindungan dari eksploitasi ekonomi dan eksploitasi seksual;  
@@ -192,7 +195,8 @@ i. untuk diakui dan mengetahui orang tuanya, dibesarkan  dan diasuh oleh orang t
 j. memperoleh pelayanan kesehatan dan jaminan sosial  sesuai dengan kebutuhan fisik, mental, spiritual, dan sosial;  
 k. memperoleh pendidikan dan pengajaran sesuai dengan  minat dan bakatnya;  
 l. memperoleh perawatan, pendidikan, pelatihan,  meningkatkan diri dan kemampuan berpartisipasi dalam kehidupan bermasyarakat dan bemegara bagi anak penyandang disabilitas fisik, mental dan berkebutuhan khusus;  
-m. menyampaikan dan didengar pendapatnya; dann. beristirahat dan memanfaatkan waktu luang demi  pengembangan diri.  
+m. menyampaikan dan didengar pendapatnya; dan  
+n. beristirahat dan memanfaatkan waktu luang demi  pengembangan diri.  
 
 ## Bagian Kedua
 
@@ -237,7 +241,8 @@ Kewajiban Keluarga
 
 Keluarga dalam upaya perlindungan terhadap hak perempuan  berkewajiban:  
 a. melindungi perempuan dari konflik dan kekerasan dalam  rumah tangga yang merendahkan martabat perempuan;  
-b. memberikan kesempatan yang sama pada perempuan  mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan  dalam rumah tangga.  
+b. memberikan kesempatan yang sama pada perempuan  mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; dan  
+c. mencegah terjadinya pelanggaran terhadap hak perempuan  dalam rumah tangga.  
 
 #### Pasal 9
 
@@ -262,7 +267,8 @@ c. kekerasan seksual; dan/ataud. penelantaran rumah tangga.
 
 Kekerasan fisik sebagaimana dimaksud dalam Pasal 10 huruf a  mengakibatkan:  
 a. korban mendapat jatuh sakit atau Iuka berat;  
-b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan  pekerjaan jabatan atau mata pencaharian atau kegiatan  sehari-hari.  
+b. matinya korban; dan  
+c. menimbulkan penyakit atau halangan untuk menjalankan  pekerjaan jabatan atau mata pencaharian atau kegiatan  sehari-hari.  
 
 #### Pasal 12
 
@@ -304,7 +310,8 @@ b. ketenagakerjaan;
 c. kesehatan;  
 d. sosial;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketenteraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Dinas PPPA dan perangkat  daerah/lembaga terkait sebagaimana dimaksud pada ayat (1),  dilaksanakan secara terpadu dan berkesinambungan.  
 
 BABVIll
@@ -317,7 +324,8 @@ Penyelenggaraan Kegiatan Pemulihan Karban Meliputi:
 a. pelayanan kesehatan;  
 b. pendampingan korban;  
 c. konseling;  
-d. bimbingan rohani; dane. resosialisasi;  
+d. bimbingan rohani; dan  
+e. resosialisasi;  
 
 #### Pasal 18
 
@@ -419,7 +427,8 @@ k. menyusun Rencana Aksi Daerah (RANDA) PUG dan;  1. mendorong dilaksanakannya p
 2. Focal Point PUG sebagaimana dimaksud pada ayat (1),  mempunyai tugas:a. mempromosikan pengarustamaan gender pada unit kerja;  
 b. memfasilitasi penyusunan rencana kerja dan  penganggaran SKPD yang responsif Gender;  
 c. melaksanakan pelatihan, sosialisasi, advokasi  pengarustamaan gender kepada seluruh pejabat dan staf di lingkungan SKPD;  
-d. mendorong pelaksanaan analisis gender terhadap  kebijakan, program, dan kegiatan pada unit kerja; dane. memfalitasi penyusunan data gender pada masing-masing  SKPD;  
+d. mendorong pelaksanaan analisis gender terhadap  kebijakan, program, dan kegiatan pada unit kerja; dan  
+e. memfalitasi penyusunan data gender pada masing-masing  SKPD;  
 3. Focal Point PUG sebagaimana dimaksud pada ayat (1), dipilih  dan ditetapkan oleh kepala/pimpinan SKPD.  
 
 #### Pasal 26
@@ -462,7 +471,8 @@ c. bantuan dari Pemerintah Kata; dan/ ataud. sumber-sumber pembiayaan lainnya se
 
 Dalam rangka penyelenggaran Perlindungan Perempuan dan Anak dibentuk:  
 a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
-b. Lembaga Konsultasi Kesejahteraan Keluarga; danc. Lembaga lain sesuai dengan kebutuhan dan /atau ketentuan peraturan perundang-undangan.  
+b. Lembaga Konsultasi Kesejahteraan Keluarga; dan  
+c. Lembaga lain sesuai dengan kebutuhan dan /atau ketentuan peraturan perundang-undangan.  
 
 #### Pasal 31
 
@@ -485,7 +495,8 @@ h. melaksanakan koordinasi dengan instansi terkait, dunia  usaha dan masyarakat;
 b. konseling;  
 c. informasi;  
 d. advokasi;  
-e. rujukan; danf. penjangkauan (3) Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (1) terdiri dari atas:a. potensi dan sumber kesejahteraan sosial;  
+e. rujukan; dan  
+f. penjangkauan (3) Jejaring kerja dan kemitraan sebagaimana dimaksud pada  ayat (1) terdiri dari atas:a. potensi dan sumber kesejahteraan sosial;  
 b. Rumah Sakit;  
 c. Kepolisian Republik Indonesia;  
 d. Biro/Lembaga/Pos Bantuan Hukum;  
@@ -554,7 +565,8 @@ d. pendidikan, pemanfaatan waktu luang, dan kegiatan budaya;  dane. perlindungan
 b. perencanaan;  
 c. pelaksanaan;  
 d. pemantauan;  
-e. evaluasi; danf. pelaporan.  
+e. evaluasi; dan  
+f. pelaporan.  
 2. Dalam setiap tahapan pengembangan Kota Layak Anak, wajib  mempertimbangkan pandangan anak yang diperoleh melalui  konsultasi anak.  
 
 #### Pasal 41
@@ -568,7 +580,8 @@ e. evaluasi; danf. pelaporan.
 b. menyusun Rencana Aksi Daerah Pembangunan Kota Layak  Anak;  
 c. melaksanakan sosialisasi, advokasi dan komunikasi  pengembangan Kata Layak Anak;  
 d. melakukan pemantauan terhadap pelaksanaan kebijakan,  program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kata Layak Anak;  
-e. melakukan evaluasi setiap akhir tahun terhadap  pelaksanaan kebijakan, program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kata Layak Anak; danf. menyampaikan laporan kepada Wali Kota.  
+e. melakukan evaluasi setiap akhir tahun terhadap  pelaksanaan kebijakan, program dan kegiatan dalam Rencana Aksi Daerah Pembangunan Kata Layak Anak; dan  
+f. menyampaikan laporan kepada Wali Kota.  
 2. Ketentuan lebih Ianjut mengenai Gugus Togas Kota Layak  Anak diatur dengan Peraturan Wali Kata.  
 
 2021, No. 3 -92­
@@ -591,7 +604,8 @@ e. melakukan evaluasi setiap akhir tahun terhadap  pelaksanaan kebijakan, progra
 1. Masyarakat dapat berperan serta dalarn kegiatan  penyelenggaraan pemberdayaan perempuan.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat dilakukan oleh perorangan, kelompok masyarakat dan  organisasi kemasyarakatan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat berbentuk:a. kerjasarna;  
-b. peran aktif dalarn penyusunan kebijakan; danc. pengaduan/laporan.  
+b. peran aktif dalarn penyusunan kebijakan; dan  
+c. pengaduan/laporan.  
 4. Tata cara peran serta masyarakat sebagaimana dimaksud  pada ayat(3) diatur dengan Peraturan Wali Kota.  
 
 # BAB XVI
@@ -603,7 +617,8 @@ b. peran aktif dalarn penyusunan kebijakan; danc. pengaduan/laporan.
 1. Kerjasarna daerah adalah usaha bersarna antar daerah  dengan daerah lain, antara daerah dengan pihak ketiga,  dan/atau antara daerah dan lembaga atau pemerintah daerah  di luar negeri yang didasarkan pada perimbangan efisiensi  dan efiktifitas pelayanan publik serta saling menguntungkan.  
 2. Kerjasarna daerah dengan pihak ketiga, yang selanjutnya  disingkat KSDPK adalah usaha bersarna yang dilakukan oleh  daerah dengan pihak ketiga dalam rangka penyelenggaraan  urusan pemerintahan yang menjadi kewenangan daerah  untuk meningkatkan kesejahteraan masyarakat dan  percepatan pemenuhan pelayanan publik.  
 3. Dalarn rangka mencapai tujuan perlindungan hak perempuan  dan anak dari tindak kekerasan pemerintah daerah  bekerjasarna dengan:a. provinsi lain;  
-b. kabupaten/Kota; danc. lembaga non pemerintah (4) Kerjasama sebagaimana dimaksud pada ayat (3) meliputi:  a. pertukaran data dan informasib. rehabilitasi korban tindak kekerasan 2021 , No. 3 -93­c. pemulangan dan reintegrasi sosial, dand. penyediaan barang bukti dan saksi yang ditindaklanjuti  sesuai dengan hukum yang berlaku.  
+b. kabupaten/Kota; dan  
+c. lembaga non pemerintah (4) Kerjasama sebagaimana dimaksud pada ayat (3) meliputi:  a. pertukaran data dan informasib. rehabilitasi korban tindak kekerasan 2021 , No. 3 -93­c. pemulangan dan reintegrasi sosial, dand. penyediaan barang bukti dan saksi yang ditindaklanjuti  sesuai dengan hukum yang berlaku.  
 
 #### Pasal 46
 

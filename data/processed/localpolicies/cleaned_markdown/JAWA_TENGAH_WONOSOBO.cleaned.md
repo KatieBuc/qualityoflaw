@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa masalah sosial perempuan dan anak di Kabupaten  Wonosobo terus meningkat dan semakin kompleks,  sehingga diperlukan upaya penanggulangan secara  menyeluruh, terpadu dan berkelanjutan yang  diselenggarakan oleh Pemerintah Daerah, masyarakat dan  dunia usaha;  
 b. bahwa penyelenggaraan perlindungan sosial bagi  perempuan dan anak masih terdapat kesenjangan dalam  penanganannya sehingga perlu mendapat prioritas sesuai  dengan yang dibutuhkan;  
 c. bahwa urusan sosial merupakan urusan wajib yang  menjadi tugas dan tanggung jawab Pemerintah Daerah,  sehingga diperlukan pengaturan mengenai perlindungan  sosial bagi perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf c maka perlu membentuk  Peraturan Daerah Kabupaten Wonosobo tentang  Perlindungan Sosial Bagi Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -155,7 +157,8 @@ c. pengayoman;
 d. kepentingan terbaik bagi perempuan dan anak;  
 e. non diskriminasi;  
 f. partisipasi;  
-g. profesional; danh. kemitraan.  
+g. profesional; dan  
+h. kemitraan.  
 
 #### Pasal 6
 
@@ -336,13 +339,15 @@ d. Organisasi sosial kemasyarakatan;
 e. Lembaga swadaya masayarakat;  
 f. Organisasi profesi;  
 g. Badan usaha;  
-h. Lembaga kesejahteraan sosial; dang. Lembaga kesejahteraan sosial asing.  
+h. Lembaga kesejahteraan sosial; dan  
+g. Lembaga kesejahteraan sosial asing.  
 
 #### Pasal 25
 
 Organisasi profesi sebagaimana dimaksud dalam Pasal 24 ayat (2) huruf f  meliputi:  
 a. ikatan pekerja sosial profesional;  
-b. lembaga pendidikan pekerjaan sosial; danc. lembaga kesejahteraan sosial.  
+b. lembaga pendidikan pekerjaan sosial; dan  
+c. lembaga kesejahteraan sosial.  
 
 #### Pasal 26
 

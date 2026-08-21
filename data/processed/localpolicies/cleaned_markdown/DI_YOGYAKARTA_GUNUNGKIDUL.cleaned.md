@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan  terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa perlu adanya pengaturan upaya upaya sebagaimana tersebut dalam huruf b di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -105,7 +107,8 @@ Asas perlindungan Korban adalah:
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi korban; dane. pemberdayaan.  
+d. kepentingan terbaik bagi korban; dan  
+e. pemberdayaan.  
 
 #### Pasal 3
 
@@ -159,7 +162,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tetapi tid
 #### Pasal 11
 
 Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruf f  disebabkan oleh:  
-a. ancaman kekerasan meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang berlawanan  dengan kehendak sendiri.  
+a. ancaman kekerasan meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang berlawanan  dengan kehendak sendiri.  
 
 # BAB III
 
@@ -176,11 +180,13 @@ a. ancaman kekerasan meliputi setiap perbuatan secara  melawan hukum berupa ucap
 
 1. Struktur organisasi P2TP2A Berjejaring sebagaimana  dimaksud dalam Pasal 12 ayat (2) terdiri dari:a. Ketua Umum;  
 b. Ketua Pelaksana yang membawahi bidang-bidang;  
-c. Sekretaris; dand. Bendahara.  
+c. Sekretaris; dan  
+d. Bendahara.  
 2. Bidang-bidang sebagaimana dimaksud pada ayat (1) huruf d,  sekurang-kurangnya meliputi:a. bidang layanan pengaduan;  
 b. bidang layanan kesehatan;  
 c. bidang layanan rehabilitasi sosial;  
-d. bidang pemulangan dan reintegrasi sosial; dane. bidang layanan bantuan hukum.  
+d. bidang pemulangan dan reintegrasi sosial; dan  
+e. bidang layanan bantuan hukum.  
 
 #### Pasal 14
 
@@ -195,7 +201,8 @@ Ketua pelaksana sebagaimana dimaksud dalam Pasal 13 ayat (1)  huruf b mempunyai 
 a. mengkoordinasikan tugas dan fungsi dari masing-masing  bidang layanan;  
 b. mengendalikan pelaksanaan program perlindungan dan  penanganan korban kekerasan;  
 c. melakukan koordinasi dan kerjasama dengan pihak eksternal  yang terkait;  
-d. menghimpun dan memanfaatkan sumber daya secara efektif  dan efisien untuk kegiatan perlindungan dan penanganan  korban kekerasan; dane. memberikan pelaporan secara periodik kepada Bupati khusus  untuk korban tindak pidana perdagangan orang maka  tembusan pelaporan diberikan juga kepada gugus tugas  pencegahan dan penanganan tindak pidana perdagangan  orang.  
+d. menghimpun dan memanfaatkan sumber daya secara efektif  dan efisien untuk kegiatan perlindungan dan penanganan  korban kekerasan; dan  
+e. memberikan pelaporan secara periodik kepada Bupati khusus  untuk korban tindak pidana perdagangan orang maka  tembusan pelaporan diberikan juga kepada gugus tugas  pencegahan dan penanganan tindak pidana perdagangan  orang.  
 
 #### Pasal 16
 
@@ -204,20 +211,23 @@ a. membantu pelaksanaan tugas dari Ketua Umum;
 b. membantu menyiapkan kegiatan koordinasi dan tindak lanjut  perlindungan, penanganan korban kekerasan;  
 c. membantu menyiapkan rencana program kerja gugus tugas  pusat;  
 d. memberikan pelayanan administrasi dalam kerjasama Gugus  Tugas pusat dengan Kementerian/Lembaga dan Lembaga  masyarakat yang menjadi anggota Gugus Tugas Pusat;  
-e. menyelenggarakan pelayanan kegiatan pengumpulan,  pengolahan, dan penyajian data serta penyusunan laporan  kegiatan sekretariat; danf. membina dan melaksanakan hubungan kerja sama dengan  Kementerian/Lembaga dan Lembaga Masyarakat terkait  dalam penyelenggaraan pencegahan dan penanganan tindak  pidana perdagangan orang.  
+e. menyelenggarakan pelayanan kegiatan pengumpulan,  pengolahan, dan penyajian data serta penyusunan laporan  kegiatan sekretariat; dan  
+f. membina dan melaksanakan hubungan kerja sama dengan  Kementerian/Lembaga dan Lembaga Masyarakat terkait  dalam penyelenggaraan pencegahan dan penanganan tindak  pidana perdagangan orang.  
 
 #### Pasal 17
 
 Bendahara sebagaimana dimaksud dalam Pasal 13 ayat (1) huruf  d mempunyai tugas:  
 a. membantu ketua umum dalam menyelenggarakan keuangan  P2TP2A Berjejaring;  
-b. melakukan segala sesuatu yang terkait dengan penerimaan  dan pengeluaran keuangan; danc. membuat laporan keuangan yang disampaikan kepada Ketua  Pelaksana dan Ketua Umum.  
+b. melakukan segala sesuatu yang terkait dengan penerimaan  dan pengeluaran keuangan; dan  
+c. membuat laporan keuangan yang disampaikan kepada Ketua  Pelaksana dan Ketua Umum.  
 
 #### Pasal 18
 
 Bidang layanan pengaduan sebagaimana dimaksud dalam Pasal  13 ayat (2) huruf a memiliki tugas:  
 a. melakukan wawancara dan observasi keadaan korban;  
 b. membuat rekomendasi layanan lanjutan;  
-c. melakukan koordinasi dan rujukan ke layanan lanjutan dan  pihak terkait; dand. melakukan administrasi proses pengaduan.  
+c. melakukan koordinasi dan rujukan ke layanan lanjutan dan  pihak terkait; dan  
+d. melakukan administrasi proses pengaduan.  
 
 #### Pasal 19
 
@@ -226,7 +236,8 @@ a. melakukan pemeriksaan, pengobatan, dan perawatan  lanjutan terhadap korban;
 b. melakukan koordinasi pelaksanaan rehabilitasi kesehatan  dan mediko-legal;  
 c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum;  
 d. melakukan pemeriksaan penunjang dan laboratorium  terhadap barang bukti;  
-e. melakukan konsultasi kepada dokter ahli atau melakukan  rujukan; danf. membuat laporan kasus.  
+e. melakukan konsultasi kepada dokter ahli atau melakukan  rujukan; dan  
+f. membuat laporan kasus.  
 
 #### Pasal 20
 
@@ -237,7 +248,8 @@ a. melakukan pendampingan selama proses penanganan kasus;  danb. melakukan konse
 
 Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 13 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk  pemulangan korban;  
-b. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi sosial; danc. melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya.  
+b. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi sosial; dan  
+c. melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya.  
 
 #### Pasal 22
 
@@ -253,7 +265,8 @@ Struktur organisasi PPT yang dibentuk oleh Instansi Vertikal di  Daerah dan lemb
 1. P2TP2A Berjejaring sekurang-kurangnya memiliki tiga  konselor.  
 2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:  
 a. konselor dalam bidang hukum;  
-b. konselor dalam bidang kesehatan; danc. konselor dalam bidang psikologi.  
+b. konselor dalam bidang kesehatan; dan  
+c. konselor dalam bidang psikologi.  
 2. Pelaksanaan konseling yang dilakukan oleh P2TP2A Berjejaring sebagaimana dimaksud pada ayat (1) termasuk  memberikan konseling perubahan perilaku.  
 
 #### Pasal 25
@@ -267,14 +280,17 @@ d. Ketua;
 e. Wakil Ketua;  
 f. Sekretaris;  
 g. Koordinator Bidang;  
-h. Anggota; dani. Staf Sekretariat.  
+h. Anggota; dan  
+i. Staf Sekretariat.  
 4. Pembentukan FPK2PA Kabupaten sebagaimana dimaksud  pada ayat (2) ditetapkan dengan Keputusan Bupati. (5) Pembentukan FPK2PA Kecamatan sebagaimana dimaksud  pada ayat (2) ditetapkan dengan Keputusan Camat. (6) Tugas dan Fungsi FPK2PA sebagaimana dimaksud ayat (2)  adalah:a. mengkoordinasikan dan mensinkronkan penanganan  pelayanan PPT;  
-b. memelihara dan mengembangkan jejaring serta sistem  rujukan; danc. mengumpulkan, menyusun, dan menyajikan laporan  kekerasan.  
+b. memelihara dan mengembangkan jejaring serta sistem  rujukan; dan  
+c. mengumpulkan, menyusun, dan menyajikan laporan  kekerasan.  
 7. FPK2PA sebagaimana dimaksud pada ayat (2) dapat  menerima dan mengirim rujukan kasus dari atau kepada unit  pelayanan lainnya secara berjejaring.  
 8. Anggota FPK2PA sebagaimana dimaksud pada ayat (3) huruf  h terdiri dari Satuan Kerja Perangkat Daerah yang memiliki  tugas dan fungsi di bidang sosial, penanganan perempuan  dan anak, kesehatan, pendidikan, pemuda dan olahraga,  agama, kependudukan, ketenagakerjaan, dan/atau  perindustrian dan perdagangan, serta Lembaga Vertikal  maupun Lembaga masyarakat yang dikelompokkan dalam  bidang sebagai berikut:a. bidang kesehatan;  
 b. bidang psikologi;  
 c. bidang hukum;  
-d. bidang sosial; dane. bidang ekonomi.  
+d. bidang sosial; dan  
+e. bidang ekonomi.  
 
 # BAB IV
 
@@ -321,7 +337,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non-diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 29
 
@@ -394,7 +411,8 @@ Pelaksanaan Perlindungan dilakukan secara terpadu dan  terintegrasi dalam wadah 
 1. Setiap orang berperan serta melakukan perlindungan  terhadap perempuan dan anak korban kekerasan. (2) Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat berupa:a. membentuk lembaga perlindungan perempuan dan anak di  desa yang tugasnya melakukan pencegahan, pelayanan,  dan pengawasan;  
 b. melakukan sosialisasi hak perempuan dan anak;  
 c. melakukan pertolongan kepada korban;  
-d. melaporkan dan merujuk kepada instansi/lembaga yang  berwenang di Kecamatan apabila di lingkungannya terjadi  kekerasan terhadap korban; dane. Instansi/Lembaga yang berwenang di Kecamatan, apabila  diperlukan dapat merujuk ke Instansi/lembaga lain.  
+d. melaporkan dan merujuk kepada instansi/lembaga yang  berwenang di Kecamatan apabila di lingkungannya terjadi  kekerasan terhadap korban; dan  
+e. Instansi/Lembaga yang berwenang di Kecamatan, apabila  diperlukan dapat merujuk ke Instansi/lembaga lain.  
 
 # BAB IX
 

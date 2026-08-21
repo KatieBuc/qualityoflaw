@@ -23,6 +23,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak atas kelangsungan  hidup, tumbuh, dan berkembang, mendapatkan perlindungan diri pribadi, kehormatan dan martabat sebagai manusia seutuhnya dalam kehidupan keluarga, bermasyarakat, berbangsa dan bernegara;  
 b. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan dan diskriminasi;  
 c. bahwa segala bentuk tindakan kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -31,6 +32,7 @@ e. bahwa peraturan perundang-undangan mengenai  perlindungan perempuan dan anak 
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b , huruf c, huruf d dan huruf e perlu menetapkan Peraturan Daerah Kepahiang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -106,7 +108,8 @@ Asas perlindungan anak dan perempuan yang menjadi korban kekerasan  adalah:
 a. penghormatan dan pemenuhan hak korban sebagai hak asasi manusia;  
 b. keadilan dan kesetaraan;  
 c. non diskriminasi;  
-d. penanganan berbasiskan hak; dane. kepentingan terbaik bagi korban.  
+d. penanganan berbasiskan hak; dan  
+e. kepentingan terbaik bagi korban.  
 
 #### Pasal 3
 
@@ -115,7 +118,8 @@ a. mencegah tindak kekerasan terhadap perempuan dan anak;
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi, dan memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak baik sebagai korban tindak kekerasan, maupun sebagai pelapor,dan saksi;  
-e. menjamin penanganan dan penyelesaian tindak kekerasan terhadap  perempuan dan anak secara adil dan bermartabat; danf. melakukan pemulihan dan pemberdayaan kepada perempuan dan anak  korban tindak kekerasan.  
+e. menjamin penanganan dan penyelesaian tindak kekerasan terhadap  perempuan dan anak secara adil dan bermartabat; dan  
+f. melakukan pemulihan dan pemberdayaan kepada perempuan dan anak  korban tindak kekerasan.  
 
 #### Pasal 4
 
@@ -144,7 +148,8 @@ Anak korban kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasa
 a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB III
 
@@ -179,7 +184,8 @@ c. pemaksaan hubungan seksual dengan tidak wajar; dan/atau d. pemaksaan hubungan
 Penelantaran sebagaimana dimaksud dalam Pasal 7 huruf d disebabkan  karena:  
 a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak  secara wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan  oleh orang tua, wali, atau pihak lain manapun yang bertanggungjawab  atas pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali, atau pihak lain manapun yang bertanggungjawab atas  pengasuhannya;  
-c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hukum yang berlaku baginya atau karena persetujuan  atau perjanjian ia wajib memberikan kehidupan, perawatan, atau  pemeliharaan kepada orang tersebut; dand. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di  luar rumah sehingga korban berada dibawah kendali orang tersebut.  
+c. perbuatan yang menelantarkan orang dalam lingkup rumah tangganya,  padahal menurut hukum yang berlaku baginya atau karena persetujuan  atau perjanjian ia wajib memberikan kehidupan, perawatan, atau  pemeliharaan kepada orang tersebut; dan  
+d. perbuatan yang mengakibatkan ketergantungan ekonomi dengan cara  membatasi dan/atau melarang untuk bekerja yang layak di dalam atau di  luar rumah sehingga korban berada dibawah kendali orang tersebut.  
 
 #### Pasal 12
 
@@ -221,7 +227,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 17
 
@@ -230,12 +237,14 @@ a. pelayanan pengaduan, konsultasi, dan konseling;
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayanan pemulihan sosial;  
-e. pelayanan hukum; danf. pelayanan pemulangan dan penyatuan kembali dalam masyarakat.  
+e. pelayanan hukum; dan  
+f. pelayanan pemulangan dan penyatuan kembali dalam masyarakat.  
 
 #### Pasal 18
 
 Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 17 huruf a meliputi:  
-a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (inf ormed consent).  
+a. identifikasi atau pencatatan awal korban; dan  
+b. persetujuan dilakukan tindakan (inf ormed consent).  
 
 #### Pasal 19
 
@@ -288,7 +297,8 @@ b. usaha ekonomi produktif dan kelompok usaha bersama; dan  c. bantuan permodala
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 24 huruf a meliputi:  
 a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 26
 
@@ -299,7 +309,8 @@ b. fasilitasi pembentukan kelompok usaha bersama;danc. pendampingan pelaksanaan 
 #### Pasal 27
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 24 huruf c  meliputi:  
-a. bantuan sarana dan prasarana kerja; danb. fasilitasi bantuan modal kerja
+a. bantuan sarana dan prasarana kerja; dan  
+b. fasilitasi bantuan modal kerja
 
 # BAB IV
 
@@ -311,7 +322,8 @@ Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan  terhadap peremp
 a. Pemerintah Daerah;  
 b. Pemerintah Desa dan Lembaga Adat Kutei Desa/Kelurahan c. masyarakat;  
 d. keluarga;  
-e. orangtua; danf. lembaga terkait baik langsung maupun tidak langsung.  
+e. orangtua; dan  
+f. lembaga terkait baik langsung maupun tidak langsung.  
 
 ## Bagian Pertama
 
@@ -326,7 +338,8 @@ d. melakukan kerjasama dalam penyelenggaraan perlindungan terhadap  perempuan da
 e. memberikan dukungan sarana dan prasarana pelaksanaan  perlindungan terhadap perempuan dan anak dari tindak kekerasan;  
 f. mengalokasikan anggaran penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan sesuai kemampuan  keuangan daerah;  
 g. membina dan mengawasi penyelenggaraan perlindungan terhadap  perempuan dan anak dari tindak kekerasan;  
-h. melakukan kerjasama penanganan tindak kekerasan terhadap  perempuan dan anak dengan Daerah lain atau lembaga dan pihak  terkait; dani. melakukan evaluasi atas program dan kegiatan perlindungan  perempuan dan anak terhadap tindak kekerasan.  
+h. melakukan kerjasama penanganan tindak kekerasan terhadap  perempuan dan anak dengan Daerah lain atau lembaga dan pihak  terkait; dan  
+i. melakukan evaluasi atas program dan kegiatan perlindungan  perempuan dan anak terhadap tindak kekerasan.  
 2. SKPD yang mempunyai tugas pokok dan fungsi dibidang pemberdayaan  perempuan, keluarga berencana dan perlindungan anak melakukan  koordinasi, sinkronisasi dan evaluasi perlindungan perempuan dan anak  terhadap tindak kekerasan dengan melibatkan pihak-pihak terkait paling  sedikit 6 (enam) bulan sekali.  
 3. Dalam rangka melaksanakan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1), Pemerintah Daerah menetapkan  program dan kegiatan aksi perlindungan terhadap perempuan dan anak  dalam 1 (satu) Rencana Aksi Daerah sebagai dasar bagi SKPD terkait dalam melaksanakan perlindungan terhadap perempuan dan anak dari  tindak kekerasan.  
 4. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (3), merupakan  bagian Rencana Pembangunan Jangka Menengah Daerah (RPJMD). (5) Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (4), diatur dengan Peraturan Bupati.  
@@ -334,7 +347,8 @@ h. melakukan kerjasama penanganan tindak kekerasan terhadap  perempuan dan anak 
 #### Pasal 30
 
 Pemerintah Daerah berkewajiban dan bertanggungjawab untuk:  
-a. mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar  pelayanan minimal; danb. menyediakan dana untuk perlindungan korban melalui APBD dan/atau  sumber keuangan daerah lainnya yang sah.  
+a. mengawasi penyelenggaraan pelayanan terhadap korban, dengan standar  pelayanan minimal; dan  
+b. menyediakan dana untuk perlindungan korban melalui APBD dan/atau  sumber keuangan daerah lainnya yang sah.  
 
 ## Bagian Kedua
 
@@ -387,7 +401,8 @@ d. memberikan pengaman bagi pelaku yang tertangkap tangan; dan e. memberikan per
 1. Struktur organisasi P2TP2A yang dibentuk oleh Pemerintah Daerah  sebagaimana dimaksud dalam Pasal 19 ayat (1) terdiri dari:  
 a. ketua umum atau sebutan lain yang setingkat;  
 b. sekretaris;  
-c. bendahara; dand. ketua pelaksana yang membawahi bidang-bidang.  
+c. bendahara; dan  
+d. ketua pelaksana yang membawahi bidang-bidang.  
 2. Bidang-Bidang sebagaimana dimaksud pada ayat (1) huruf d, sekurang kurangnya meliputi:a. bidang layanan pengaduan;  
 b. bidang layanan kesehatan;  
 c. bidang layanan pemulihan sosial;  
@@ -414,13 +429,15 @@ e. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan  f. membu
 
 Bidang layanan pemulihan sosial sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf c memiliki tugas:  
 a. melakukan pendampingan selama proses penanganan kasus;  
-b. melakukan konseling; danc. memfasilitasi untuk mendapatkan surat keterangan psikis korban.  
+b. melakukan konseling; dan  
+c. memfasilitasi untuk mendapatkan surat keterangan psikis korban.  
 
 #### Pasal 43
 
 Bidang pemulangan dan penyatuan kembali dalam masyarakat sebagaimana dimaksud dalam Pasal 39 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
-b. membuat laporan perkembangan proses pendampingan pemulangan dan  pemulihan sosial; danc. melakukan pemantauan sekurang-kurangnya tiga bulan setelah korban  dipulangkan kekeluarganya.  
+b. membuat laporan perkembangan proses pendampingan pemulangan dan  pemulihan sosial; dan  
+c. melakukan pemantauan sekurang-kurangnya tiga bulan setelah korban  dipulangkan kekeluarganya.  
 
 #### Pasal 44
 
@@ -485,7 +502,8 @@ c. pendidikan dan pelatihan;dand. pemantauan dan evaluasi.
 a. membentuk mitra keluarga di tingkat Kelurahan/Desa;  
 b. membentuk unit perlindungan perempuan dan anak didalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila dilingkungannya  terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila dilingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, dan media massa.  
 
 # BAB XII

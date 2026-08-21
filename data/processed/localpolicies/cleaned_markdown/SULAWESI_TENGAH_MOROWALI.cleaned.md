@@ -19,8 +19,10 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. Mengingat:  
+ 
  
  
  
@@ -88,7 +90,8 @@ e. pelayanan korban tindak Kekerasan;
 f. pemberdayaan;  
 g. kerjasama;  
 h. pembinaan dan Pengawasan;  
-i. pendanaan; danj. ketentuan pidana.  
+i. pendanaan; dan  
+j. ketentuan pidana.  
 
 # BAB II
 
@@ -105,7 +108,8 @@ c. kekerasan s,eksual; dan/ ataud. penelantaran rumah tangga.
 
 Kekerasan fisik sebagaimana dimaksud dalam Pasal 3 huruf a mengakibatkan:  
 a. korban mendapat rasa sakit atau luka berat;  
-b. matinya korban; danc. menimbulkan penyakit atau halangan untuk menjalankan pekerjaan jabatan atau mata pencaharian atau kegiatan sehari-hari.  
+b. matinya korban; dan  
+c. menimbulkan penyakit atau halangan untuk menjalankan pekerjaan jabatan atau mata pencaharian atau kegiatan sehari-hari.  
 
 #### Pasal 5
 
@@ -120,7 +124,8 @@ d. rasa tidak berdaya; dan/ ataue. penderitaan psikis berat pada seseorang.
 dalam Pasal a huruf b Kekerasan seksual sebagaimana dimaksud dalam Pasal 3 huruf c meliputi:  
 a. perbuatan pelecehan seksual;  
 b. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  
-c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau tujuan tertentu; dand. kekerasan seksual melalui media sosial.  
+c. pemaksaan hubungan seksual dengan orang lain untuk tujuan komersil dan/ atau tujuan tertentu; dan  
+d. kekerasan seksual melalui media sosial.  
 
 #### Pasal 7
 
@@ -178,7 +183,8 @@ Pemerintah Daerah
 #### Pasal 12
 
 1. Pemerintah Daerah berkewaj iban:a. melaksanakan kebijakan perlindungan Perempuan dan Anak darl tindak Kekerasan yang ditetapkan pemerintah;  
-b. menetapkan kebijakan, pro€fam, dan kegiatan perlindungan Perempuan dan Anak <iari tinriak kekerasan; danc. melakukan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, serta lembaga pendidikan, kesehatan, rumah sakit, dan berbagai Lembaga Swadaya Masyarakat yang peduli terhadap Perempuan dan Anak dalam penyelengg€rraan perlindungan Perempuan dan Anak dari tindak Kekerasan.  
+b. menetapkan kebijakan, pro€fam, dan kegiatan perlindungan Perempuan dan Anak <iari tinriak kekerasan; dan  
+c. melakukan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, serta lembaga pendidikan, kesehatan, rumah sakit, dan berbagai Lembaga Swadaya Masyarakat yang peduli terhadap Perempuan dan Anak dalam penyelengg€rraan perlindungan Perempuan dan Anak dari tindak Kekerasan.  
 2. Pemerintah Daerah bertanggungiawab:a. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan Perempuan dan Anak dari tindak Kekerasan; dan b. mengalokasikan anggaran penyelenggaraan perlindungan Perempuan dan Anak dari tindak Kekerasan sesuai kemampuan keuangan Daerah. (3) Dalam hal pelaksanaan kewajiban Pemerintah Daerah sebagaimala dimalsud pada ayat (1) dan pelaksanaan tanggung -iawab Pemerintah Daerah sebagaimana dimaksud pada ayat l2\, Pemerintah Daerah men1rusun Rencana Aksi Daerah untuk perlindungan korban. (4) Rencana Aksi Daerah sebagaimana dimaksud pada ayat (3) merupakan bagran Rencana Pembangunan Jangka Menengah.  
 
 #### Pasal 13
@@ -194,7 +200,8 @@ Masyarakat dan Keluarga
 1. Masyarakat dan keluarga mempunyai kewajiban dan tanggung jawab sebagai berikut:a. mencegah terjadinya Kekerasan terhadap Perempuan dan Anak;  
 b. memberikan informasi dan/ atau melaporkan tindak Kekerasan terhadap Perempuan dan Anak kepada penegak hukum atau pihak yang berwenang;  
 c. turut serta dalam pendampingan penang€rnurn korban tindak Kekerasan;  
-d. melindungi korban; dane. memberikan pertolongan darurat.  
+d. melindungi korban; dan  
+e. memberikan pertolongan darurat.  
 2. Bentuk peran serta masyarakat dan keluarga dilaksanakan secara bertanggung jawab sesuai ketentuan peraturan pe r.rndalg-undangan.  
 
 # BAB V
@@ -208,7 +215,8 @@ d. melindungi korban; dane. memberikan pertolongan darurat.
 b. membangun partisipasi dan kepedulian masyarakat, keluarga, terhadap pencegahan dan perlindungan Perempuan dan Anak dari tindak Kekerasan;  
 c. membentuk sistem pencegahan kekerasan yang menyediakan sistem informasi yang lengkap dan mudah diakses;  
 d. melakukan sosialisasi tentang peraturan perundang-undalgan yang berkaitan dengan perlindungan Perempuan dan Anak korban Kekerasan;  
-e. memberikal pendidikan kritis tentang hak-hak Perempuan dan Anak sebagai korban Kekerasan kepada masyarakat; danf. membuka pos pengaduan perlindungan Perempuan darr Anak dari tindak Kekerasan.  
+e. memberikal pendidikan kritis tentang hak-hak Perempuan dan Anak sebagai korban Kekerasan kepada masyarakat; dan  
+f. membuka pos pengaduan perlindungan Perempuan darr Anak dari tindak Kekerasan.  
 
 #### Pasal 16
 
@@ -219,7 +227,8 @@ c. kesehatan;
 d. sosial;  
 e. pemberdayaan perempuan dan perlindungan anak;  
 f. mental dan spiritual;  
-g. ketenteraman dan ketertiban; danh. komunikasi dan informasi.  
+g. ketenteraman dan ketertiban; dan  
+h. komunikasi dan informasi.  
 2. Pencegahan tindak Kekerasan oleh Dinas PMDP3A dan Perangkat Daerah terkait sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan.  
 
 # BAB VI
@@ -232,19 +241,22 @@ g. ketenteraman dan ketertiban; danh. komunikasi dan informasi.
 b. pelayanan kesehatan;  
 c. bantuan hukum;  
 d. layanan kerohaniawan;  
-e. pemulangan dan reintegrasi sosial; danf. rehabilitasi.  
+e. pemulangan dan reintegrasi sosial; dan  
+f. rehabilitasi.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), Pemerintah Daerah bekerjasama dengan Perangkat Daerah / lembaga terkait dilaksanakan sesuai standar pelayanan minimal yang ditetapkan Pemerintah Daerah dan dilaksanakan oleh Perangkat Daerah/lembaga terkait yang tugas dan fungsinya di bidang:a. pendidikan;  
 b. ketenagakerjaan;  
 c. kesehatan;  
 d. sosial;  
 e. pemberdayaan Perempuan dan perlindungan Anak;  
-f. mental dan spiritual; dang. ketenteraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketenteraman dan ketertiban.  
 3. Dalam pelaksanaan tugas dan fungsi sebagaimana dimaksud pada ayat (1), Pemerintah Daerah dapat bekerjasama dengan kmbaga terkait, Pemerintah Daerah lain, dan pihak masyarakat.  
 
 #### Pasal 18
 
 Pelayanan pengaduan sebagaimana dimaksud da.lam Pasal 17 ayat (l) huruf a meliputi:  
-a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan.  
+a. identifikasi atau pencatatan awal korban; dan  
+b. persetujuan dilakukan tindakan.  
 
 #### Pasal 19
 
@@ -258,7 +270,8 @@ b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan kondisi fis
 
 Bantuan hukum sebagaimana dimaksud dalam Pasal 17 ayat (1) huruf c untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat pelaporan, penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan Kekerasal yang dialaminya; danc. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
+b. mendampingi korban di tingkat pelaporan, penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan Kekerasal yang dialaminya; dan  
+c. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 2 1
 
@@ -283,7 +296,8 @@ b. praktek kerja lapangan;
 c. pemagangan;  
 d. pelatihan keterampilan wirausaha;  
 e. fasilitasi pembentukan kelompok usaha bersama;  
-f. modal usaha berupa alat penunjang usaha; dang. pendampingan pelaksanaan usaha.  
+f. modal usaha berupa alat penunjang usaha; dan  
+g. pendampingan pelaksanaan usaha.  
 
 #### Pasal 23
 
@@ -297,7 +311,8 @@ c. arnan dan nyaman;
 d. rasa empati;  
 e. non diskriminasi;  
 f. penjangkauan;  
-g. tidak dikenakan biaya; danh. dijamin kerahasiannya.  
+g. tidak dikenakan biaya; dan  
+h. dijamin kerahasiannya.  
 2. Penyelenggara atau pengelola pelayanan dilarang memungut biaya apapun terhadap korban kekerasan.  
 
 #### Pasal 25
@@ -318,7 +333,8 @@ g. tidak dikenakan biaya; danh. dijamin kerahasiannya.
 a. membentuk mitra keluarga di tingkat RT/RW atau Kelurahan/Desa oleh masyarakat;  
 b. mcmbentuk unit perlindungan Perempuan dan Anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada Perangkat Daerah /lembaga terkdt yang berwenang apabila di lingkungannya te4adi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dirnaksud pada ayat (1) dilakukan oleh perorangan. lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga pembinaan menta-l dan spiritual, swasta, dan media massa.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada Perangkat Daerah /lembaga terkdt yang berwenang apabila di lingkungannya te4adi kekerasan terhadap korban. (3) Peran serta masyarakat sebagaimana dirnaksud pada ayat (1) dilakukan oleh perorangan. lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga pembinaan menta-l dan spiritual, swasta, dan media massa.  
 
 # BAB VII
 
@@ -336,12 +352,14 @@ b. usaha ekonomis produktif dan keluarga usaha bersama; dan c. baltuan permodala
 
 #### Pasal 29
 
-1. Datam rangka mencapai tujuan perlindungan hak Perempuan dari tindak Kekerasan Pemerintah Daerah bekerja sama dengan:a. Pemerintah Daerah lain; danb. kmbaga non pemerintah.  
+1. Datam rangka mencapai tujuan perlindungan hak Perempuan dari tindak Kekerasan Pemerintah Daerah bekerja sama dengan:a. Pemerintah Daerah lain; dan  
+b. kmbaga non pemerintah.  
 
 (21 Ker;,a sama sebagaimana dimaksud pada ayat (1) meliputi:  
 a. perhrkaran data dan informasi;  
 b. rehabilitasi korban lindak Kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi yang ditindaklanjuti sesuai dengan hukum yang berlaku.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi yang ditindaklanjuti sesuai dengan hukum yang berlaku.  
 
 # BAB IX
 
@@ -352,7 +370,8 @@ c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi ya
 1. Pemerintah Daerah berkewajiban melakukan pembinaan dan pengawasan penyelenggaraan perlindungan Perempuan dan Anak dan tindak Kekerasan.  
 2. Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1) meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Pembinaan dan pengawasan sebagaimana dimaksud ayat (2) dalam rangka mewujudkan tujuan perlindungan Perempuan dan Anak dari tindak Kekerasan sesuai standar pelayanan minimal yang dilaksanakan Dinas PMDPSA dan masyarakat.  
 4. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (3) dilakukan dengan prinsip profesional dan tranparan.  
 5. Dinas PMDP3A wajib melaporkan secara berkala kepada Bupati mengenai penyelenggaraan perlindungan Perempuan dan Anak korban Kekerasan.  
@@ -364,7 +383,8 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 #### Pasal 31
 
 Biaya kegiatan yang terkait dengan penyelenggaraan perlindungan Perempuan dan Anak dibebarikari pada:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. penerimaan lain yang sah sesuai dengan peraturan perundang-undangan yang berlaku.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. penerimaan lain yang sah sesuai dengan peraturan perundang-undangan yang berlaku.  
 
 # BAB xI
 

@@ -16,12 +16,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga Negara Kesatuan Republik Indonesia  perempuan dan anak berhak mendapatkan perlindungan,  rasa aman dan bebas dari segala bentuk kekerasan atau  perlakuan yang tidak manusiawi yang bertentangan dengan  nilai Pancasila dan Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa dalam perkembangannya masih banyak perempuan  dan anak yang perlu mendapatkan perlindungan dari  berbagai bentuk tindak kekerasan, perlakuan salah, eksploitasi, dan diskriminasi sehingga diperlukan upaya  strategis untuk memberikan perlindungan terhadap  perempuan dan anak;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2014  tentang Pemerintahan Daerah dalam melaksanakan urusan  pemerintahan konkuren Pemerintah Kabupaten mempunyai  kewenangan dalam penyelenggaraan urusan pemerintahan  bidang perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Penyelenggaraan Perlindungan  Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -125,7 +127,8 @@ c. penguatan kelembagaan;
 5 -
 d. kewajiban dan tanggung jawab;  
 e. kerja sama;  
-f. partisipasi masyarakat; dang. pendanaan.  
+f. partisipasi masyarakat; dan  
+g. pendanaan.  
 
 # BAB IV
 
@@ -134,14 +137,18 @@ f. partisipasi masyarakat; dang. pendanaan.
 #### Pasal 5
 
 1. Pencegahan kekerasan sebagaimana dimaksud dalam Pasal 4 huruf a dilaksanakan melalui:a. perencanaan dan pelaksanaan kebijakan, program, dan kegiatan;  
-b. pemberian edukasi; danc. peningkatan partisipasi masyarakat.  
+b. pemberian edukasi; dan  
+c. peningkatan partisipasi masyarakat.  
 2. Pencegahan kekerasan sebagaimana dimaksud pada ayat (1), dilaksanakan  oleh Pemerintah Daerah secara terpadu dan berkesinambungan  berdasarkan Rencana Pembangunan Jangka Panjang Daerah dan Rencana  Pembangunan Jangka Menengah Daerah.  
-3. Perencanaan dan Pelaksanaan kebijakan, program dan kegiatan  sebagaimana dimaksud pada ayat (1) huruf a yakni:a. mengintegrasikan isu perlindungan perempuan dan anak ke dalam  kebijakan, program dan kegiatan Perangkat Daerah; danb. menjadikan isu perlindungan perempuan dan anak sebagai salah satu  prioritas pembangunan daerah.  
+3. Perencanaan dan Pelaksanaan kebijakan, program dan kegiatan  sebagaimana dimaksud pada ayat (1) huruf a yakni:a. mengintegrasikan isu perlindungan perempuan dan anak ke dalam  kebijakan, program dan kegiatan Perangkat Daerah; dan  
+b. menjadikan isu perlindungan perempuan dan anak sebagai salah satu  prioritas pembangunan daerah.  
 4. Pemberian edukasi sebagaimana dimaksud pada ayat (1) huruf b yakni:  
 a. memberikan informasi, bimbingan dan/atau penyuluhan;  
 b. penyediaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, peningkatan pendapatan dan pelayanan sosial;  
-c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi  perempuan; dand. membangun serta menyediakan sistem informasi yang mudah diakses; (5) Peningkatan partisipasi Masyarakat melalui pelibatan para pihak  sebagaimana dimaksud pada ayat (1) huruf c, yakni:a. membangun dan meningkatkan partisipasi serta kepedulian  masyarakat terhadap pencegahan perlindungan perempuan dan anak;  
-b. membuat regulasi daerah dan mendorong Pemerintah Desa untuk  membuat Peraturan Desa terkait perlindungan terhadap perempuan  dan anak; danc. membangun jaringan dan kerja sama dengan aparatur penegak  hukum, swasta/dunia usaha, perguruan tinggi, media massa, dan  lembaga swadaya masyarakat serta lembaga kemasyarakatan yang  bergerak dan peduli terhadap perempuan dan anak.  
+c. menciptakan suasana lingkungan kerja yang ramah dan aman bagi  perempuan; dan  
+d. membangun serta menyediakan sistem informasi yang mudah diakses; (5) Peningkatan partisipasi Masyarakat melalui pelibatan para pihak  sebagaimana dimaksud pada ayat (1) huruf c, yakni:a. membangun dan meningkatkan partisipasi serta kepedulian  masyarakat terhadap pencegahan perlindungan perempuan dan anak;  
+b. membuat regulasi daerah dan mendorong Pemerintah Desa untuk  membuat Peraturan Desa terkait perlindungan terhadap perempuan  dan anak; dan  
+c. membangun jaringan dan kerja sama dengan aparatur penegak  hukum, swasta/dunia usaha, perguruan tinggi, media massa, dan  lembaga swadaya masyarakat serta lembaga kemasyarakatan yang  bergerak dan peduli terhadap perempuan dan anak.  
 
 # BAB V
 
@@ -154,13 +161,15 @@ b. membuat regulasi daerah dan mendorong Pemerintah Desa untuk  membuat Peratura
 b. penjangkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
-e. mediasi; danf. pendampingan korban.  
+e. mediasi; dan  
+f. pendampingan korban.  
 
 6 - (3) Dalam melaksanakan fungsi layanan sebagaimana dimaksud pada ayat (2)  UPT PPA memerlukan dukungan:  
 a. infrastruktur sarana dan prasarana;  
 b. jumlah tenaga pengelola yang cukup;  
 c. sumber daya manusia yang kompeten;  
-d. anggaran; dane. fasilitas rumah aman.  
+d. anggaran; dan  
+e. fasilitas rumah aman.  
 4. Ketentuan lebih lanjut mengenai organisasi dan tata kerja UPT PPA  sebagaimana dimaksud pada ayat (1) diatur dalam Peraturan Bupati.  
 
 #### Pasal 7
@@ -190,7 +199,8 @@ b. assesment;
 c. perencanaan intervensi;  
 d. pelaksanaan intervensi;  
 e. pemantauan dan evaluasi;  
-f. tindak lanjut; dang. terminasi kasus.  
+f. tindak lanjut; dan  
+g. terminasi kasus.  
 3. Tata cara pelaksanaan pendekatan manajemen kasus sebagaimana  dimaksud pada ayat (2) ditetapkan dengan standar operasional prosedur.  
 
 #### Pasal 10
@@ -204,7 +214,8 @@ c. tenaga kesehatan;
 d. media massa; dan/ataue. pemerhati kelompok rentan.  
 3. Syarat anggota TRC yakni:a. warga negara Indonesia dibuktikan dengan identitas kependudukan;  
 b. memiliki perspektif perempuan dan anak yang baik;  
-c. sehat jasmani dan rohani; dand. mempunyai kemampuan berkomunikasi yang baik diutamakan yang  mampu berbahasa isyarat.  
+c. sehat jasmani dan rohani; dan  
+d. mempunyai kemampuan berkomunikasi yang baik diutamakan yang  mampu berbahasa isyarat.  
 4. TRC sebagaimana dimaksud pada ayat (1) mempunyai tugas dan fungsi  melakukan penjangkauan dan pendampingan korban.  
 5. TRC melaporkan hasil pelaksanaan tugas kepada kepala Dinas yang  membidangi perempuan dan anak melalui kepala UPT PPA.  
 
@@ -222,7 +233,8 @@ h. koperasi dan usaha mikro;
 i. pemberdayaan Masyarakat;  
 j. keagamaan;  
 k. perencanaan dan penelitian;  
-l. bencana dan kedaruratan; danm. ketenteraman dan ketertiban.  
+l. bencana dan kedaruratan; dan  
+m. ketenteraman dan ketertiban.  
 3. Gugus Tugas Perlindungan Perempuan dan Anak ditetapkan dalam Keputusan Bupati.  
 
 #### Pasal 12
@@ -232,7 +244,8 @@ a. mempromosikan Perlindungan Perempuan dan Anak kepada  masyarakat secara berke
 b. melaksanakan sosialisasi dan advokasi Perlindungan Perempuan dan  Anak kepada aparat pemerintah dan masyarakat;  
 c. menyusun rencana aksi daerah Perlindungan Perempuan dan Anak;  
 d. menyusun program kerja tahunan;  
-e. mendorong terwujudnya perencanaan dan penganggaran yang  mendukung Perlindungan Perempuan dan anak; danf. merumuskan rekomendasi kebijakan bupati.  
+e. mendorong terwujudnya perencanaan dan penganggaran yang  mendukung Perlindungan Perempuan dan anak; dan  
+f. merumuskan rekomendasi kebijakan bupati.  
 2. Gugus Tugas sebagaimana dimaksud pada ayat (1) bertanggung jawab  kepada Bupati.  
 
 8 -
@@ -245,7 +258,8 @@ b. cepat;
 c. aman;  
 d. empati;  
 e. non diskriminasi;  
-f. mudah dijangkau; dang. kerahasiaan.  
+f. mudah dijangkau; dan  
+g. kerahasiaan.  
 
 # BAB VI
 
@@ -287,7 +301,8 @@ f. mendorong peran swasta dan lembaga kemasyarakatan untuk terlibat  dalam mendu
 
 9 -
 g. mendorong lahirnya kelembagaan lokal di tingkat kelurahan dan/atau  desa untuk melakukan perlindungan terhadap perempuan dan anak;  danh. mendorong lahirnya regulasi di tingkat desa yang mengatur tentang  perlindungan perempuan dan anak;  
-i. membina dan mengawasi penyelenggaraan perlindungan perempuan  dan anak; danj. mewujudkan Kabupaten Layak Anak.  
+i. membina dan mengawasi penyelenggaraan perlindungan perempuan  dan anak; dan  
+j. mewujudkan Kabupaten Layak Anak.  
 2. Selain kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat  (1), Pemerintah Daerah mempunyai kewajiban dan tanggung jawab untuk  memberikan perlindungan khusus kepada Anak.  
 3. Perlindungan Khusus kepada Anak sebagaimana dimaksud pada ayat (2)  diberikan kepada:a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
@@ -302,7 +317,8 @@ j. anak korban kejahatan seksual;
 k. anak korban jaringan terorisme;  
 l. anak penyandang disabilitas;  
 m. anak korban perlakuan salah dan penelantaran;  
-n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+n. anak dengan perilaku sosial menyimpang; dan  
+o. anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
 4. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam Pasal ini dilaksanakan oleh Perangkat Daerah atau Pejabat yang  ditunjuk.  
 
 #### Pasal 17
@@ -326,7 +342,8 @@ d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan 
 e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak, sesuai kemampuan keuangan desa;  
 f. melibatkan lembaga kemasyarakatan di tingkat desa dalam mendukung  perlindungan perempuan dan anak;  
 g. membuat kelembagaan di tingkat desa untuk melakukan perlindungan  terhadap perempuan dan anak;  
-h. menyusun regulasi di tingkat desa yang mengatur tentang perlindungan  perempuan dan anak; dani. mewujudkan desa ramah perempuan dan peduli anak.  
+h. menyusun regulasi di tingkat desa yang mengatur tentang perlindungan  perempuan dan anak; dan  
+i. mewujudkan desa ramah perempuan dan peduli anak.  
 
 ## Bagian Ketiga
 
@@ -336,7 +353,8 @@ Swasta
 
 1. Kewajiban dan tanggung jawab swasta sebagaimana dimaksud dalam Pasal  15 huruf c diselenggarakan dalam bentuk peran serta swasta. (2) Peran swasta sebagaimana dimaksud pada ayat (1) terdiri atas:  
 a. memberikan perlindungan bagi perempuan dan anak melalui program tanggung jawab sosial dan lingkungan perusahaan;  
-b. memberi dukungan kepada pemerintah, lembaga kemasyarakatan,  organisasi masyarakat sipil dan masyarakat dalam rangka perlindungan  terhadap perempuan dan anak; danc. terlibat aktif dalam organisasi pengusaha yang mempunyai komitmen  terhadap perlindungan perempuan dan anak.  
+b. memberi dukungan kepada pemerintah, lembaga kemasyarakatan,  organisasi masyarakat sipil dan masyarakat dalam rangka perlindungan  terhadap perempuan dan anak; dan  
+c. terlibat aktif dalam organisasi pengusaha yang mempunyai komitmen  terhadap perlindungan perempuan dan anak.  
 
 ## Bagian Keempat
 
@@ -348,7 +366,8 @@ Kewajiban dan tanggung jawab Lembaga Kemasyarakatan dan Organisasi  Masyarakat S
 a. memberikan informasi dan/atau melaporkan setiap terjadinya risiko  kerentanan dan kekerasan yang diketahuinya;  
 b. memberikan perlindungan bagi perempuan dan anak;  
 c. memberikan pertolongan darurat;  
-d. mendampingi korban, menyediakan rumah perlindungan dan/atau rumah  aman yang diinisiasi oleh lembaga kemasyarakatan atau organisasi  masyarakat sipil; dane. membantu proses pemulangan, rehabilitasi sosial dan reintegrasi sosial.  
+d. mendampingi korban, menyediakan rumah perlindungan dan/atau rumah  aman yang diinisiasi oleh lembaga kemasyarakatan atau organisasi  masyarakat sipil; dan  
+e. membantu proses pemulangan, rehabilitasi sosial dan reintegrasi sosial.  
 
 ## Bagian Kelima
 
@@ -359,7 +378,8 @@ Keluarga, Orang Tua atau Wali
 Kewajiban dan tanggung jawab keluarga, orang tua atau wali sebagaimana  dimaksud dalam Pasal 15 huruf e meliputi:  
 a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan Anak sesuai dengan kemampuan, bakat, dan  minatnya;  
-c. mencegah terjadinya perkawinan pada usia Anak; dand. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada  Anak - 11 -
+c. mencegah terjadinya perkawinan pada usia Anak; dan  
+d. memberikan pendidikan karakter dan penanaman nilai budi pekerti pada  Anak - 11 -
 
 # BAB VII
 
@@ -373,7 +393,8 @@ c. pemerintah kabupaten/kota lain;
 d. lembaga non pemerintah;  
 e. masyarakat;  
 f. swasta;  
-g. perguruan tinggi; danh. media massa.  
+g. perguruan tinggi; dan  
+h. media massa.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pengintegrasian data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
@@ -382,7 +403,8 @@ d. pendanaan;
 e. penampungan sementara korban;  
 f. pendampingan rujukan;  
 g. penyediaan bahasa isyarat untuk disabilitas;  
-h. penyediaan barang bukti dan saksi; dani. ditindaklanjuti sesuai dengan hukum yang berlaku.  
+h. penyediaan barang bukti dan saksi; dan  
+i. ditindaklanjuti sesuai dengan hukum yang berlaku.  
 
 #### Pasal 23
 
@@ -416,7 +438,8 @@ d. berpartisipasi dalam perlindungan perempuan dan anak melalui  kelembagaan lay
 
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak bersumber  dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
-b. Anggaran Pendapatan dan Belanja Desa; danc. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
+b. Anggaran Pendapatan dan Belanja Desa; dan  
+c. sumber lain yang sah dan tidak mengikat sesuai ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 27
 
@@ -426,7 +449,8 @@ c. pelayanan medis, yang meliputi pemeriksaan dokter, biaya tindakan,  biaya rum
 d. pelayanan medicolegal, yang meliputi pemeriksaan untuk visum et  repertum, visum et repertum psikiatrikum, dan tes Deoxyribonucleic Acid;  
 e. pelayanan psikososial, yang terdiri dari konseling dan terapi psikologi,  rumah aman dan pengelolaan rumah aman;  
 f. pelayanan dan bantuan hukum meliputi biaya pendampingan di  kepolisian, kejaksaan, dan pengadilan;  
-g. operasional lembaga layanan, meliputi tranportasi penjangkauan,  tranportasi pendampingan, dan pemenuhan kebutuhan korban selama  berada di lembaga layanan; danh. petugas lembaga layanan, meliputi honorarium dan peningkatan  kapasitas.  
+g. operasional lembaga layanan, meliputi tranportasi penjangkauan,  tranportasi pendampingan, dan pemenuhan kebutuhan korban selama  berada di lembaga layanan; dan  
+h. petugas lembaga layanan, meliputi honorarium dan peningkatan  kapasitas.  
 2. Pengelolaan pendanaan sebagaimana dimaksud pada ayat (1) dilaksakan  sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB X
@@ -438,7 +462,8 @@ g. operasional lembaga layanan, meliputi tranportasi penjangkauan,  tranportasi 
 1. Pejabat yang ditunjuk, sebagaimana dimaksud dalam Pasal 16 ayat (4)  apabila tidak melaksanakan kewajiban dan tanggung jawab dikenakan  tindakan dan/atau sanksi administratif.  
 2. Sanksi administratif sebagaimana dimaksud pada ayat (1) berupa:  
 a. teguran lisan;  
-b. teguran tertulis; danc. sanksi administratif lainnya sesuai dengan ketentuan perundang undangan.  
+b. teguran tertulis; dan  
+c. sanksi administratif lainnya sesuai dengan ketentuan perundang undangan.  
 3. Ketentuan lebih lanjut mengenai pemberian sanksi administratif  sebagaimana dimaksud pada ayat (1) diatur dalam peraturan bupati.  
 
 13 -

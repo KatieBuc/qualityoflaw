@@ -27,6 +27,7 @@ e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c
  
  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  
@@ -175,7 +176,8 @@ Dalam penyerenggaraan perrindungan perempuan di daerah, perempuan berhak atas:
 a. kebutuhan dasar;  
 o. rasa nyaman;  
 d. rasa aman: p€layanan k€sshatan maksimal dalam menghadapi tindak kekarasan;  
-e. layanan pendampingan, bantuan hukum dan bimbingan rohani dalam menghadapi tindak kekerasan; dang. kerahasiaan atas masatah yang dihadapi. a7
+e. layanan pendampingan, bantuan hukum dan bimbingan rohani dalam menghadapi tindak kekerasan; dan  
+g. kerahasiaan atas masatah yang dihadapi. a7
 
 # BAB IV
 

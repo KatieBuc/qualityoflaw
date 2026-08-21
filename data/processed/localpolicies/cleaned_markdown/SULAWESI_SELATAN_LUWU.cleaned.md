@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 Mengingat:
 
 # BUPATI LUWU,  
@@ -102,7 +103,8 @@ atau
 Perlindungan Perempuan dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender,  
-c. nondiskriminasi; dand. perlindungan korban.  
+c. nondiskriminasi; dan  
+d. perlindungan korban.  
 
 #### Pasal 3
 
@@ -111,7 +113,8 @@ a. meningkatkan peran serta perempuan baik secara individual maupun secara kelom
 b. mencegah segala bentuk Diskriminasi;  
 c. memberdayakan perempuan baik individual maupun kelompok dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannnya secara mandiri;  
 d. mencegah dan menangani risiko dari kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai dengan kebutuhan dasar minimal;  
-e. menurunnya kesenjangan kesempatan antara perempuan dan laki-laki dalam pencapaian pembangunan; danf. menurunnya tindak Kekerasan terhadap perempuan.  
+e. menurunnya kesenjangan kesempatan antara perempuan dan laki-laki dalam pencapaian pembangunan; dan  
+f. menurunnya tindak Kekerasan terhadap perempuan.  
 
 # BAB III
 
@@ -142,7 +145,8 @@ b. Hak berkeluarga dan melanjutkan keturunan;
 c. Hak mengembangkan diri;  
 d. Hak memperoleh keadilan;  
 e. Hak atas kebebasan pribadi,f. Hak atas rasa aman;  
-g. Hak atas kesejahteraan; danh. Hak turut serta dalam pemerintahan.  
+g. Hak atas kesejahteraan; dan  
+h. Hak turut serta dalam pemerintahan.  
 
 #### Pasal 7
 

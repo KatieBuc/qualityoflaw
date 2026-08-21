@@ -23,6 +23,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa melindungi perempuan dan anak dari segala bentuk tindakan diskriminasi dan kekerasan merupakan bagian dari tanggung jawab pemerintah daerah dalam rangka pemajuan, penegakan, dan pemenuhan hak asasi manusia;  
 b. bahwa perlindungan perempuan dan anak menjadi bagian dari urusan wajib bagi setiap pemerintah daerah yang diamanatkan dalam Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah;  
 
@@ -130,7 +131,8 @@ Penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan dilaks
 a. penghormatan terhadap hak asasi manusia;  
 b. kesetaraan dan keadilan gender;  
 c. non-diskriminasi;  
-d. kepentingan yang terbaik bagi korban; dane. penghormatan terhadap hak-hak perempuan dan anak.  
+d. kepentingan yang terbaik bagi korban; dan  
+e. penghormatan terhadap hak-hak perempuan dan anak.  
 
 #### Pasal 3
 
@@ -144,7 +146,8 @@ a. mencegah segala bentuk tindakan kekerasan termasuk perdagangan orang;
 }
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi, memberi rasa aman bagi korban tindak kekerasan;  
-d. memberikan pelayanan kepada korban kekerasan; dane. menyelenggarakan pemulihan secara menyeluruh kepada korban.  
+d. memberikan pelayanan kepada korban kekerasan; dan  
+e. menyelenggarakan pemulihan secara menyeluruh kepada korban.  
 
 # BAB III
 
@@ -156,7 +159,8 @@ Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan da
 a. pemerintah daerah;  
 b. instansi terkait dan aparat penegak hukum;  
 c. masyarakat;  
-d. keluarga; dane. orang tua.  
+d. keluarga; dan  
+e. orang tua.  
 
 #### Pasal 6
 
@@ -176,7 +180,8 @@ e. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak korban 
 b. menumbuh kembangkan anak sesuai dengan kemampuan, bakat dan minatnya;  
 c. mencegah terjadinya perkawinan pada usia anak-anak;  
 d. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
-e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak korban kekerasan kepada penegak hukum atau pihak yang berwenang; danf. turut serta dalam penanganan korban tindak kekerasan.  
+e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak korban kekerasan kepada penegak hukum atau pihak yang berwenang; dan  
+f. turut serta dalam penanganan korban tindak kekerasan.  
 3. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1), dapat beralih kepada keluarga, yang dilaksanakan sesuai dengan ketentuan Peraturan Perundang-undangan.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2) dilaksanakan secara bertanggung jawab sesuai dengan Peraturan Perundang-undangan.  
 
@@ -199,7 +204,8 @@ c. membuka lapangan kerja bagi perempuan;
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindakan kekerasan;  
 
 }
-e. membangun dan menyediakan sistem informasi yang lengkap dan mudah diakses; danf. membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak korban kekerasan.  
+e. membangun dan menyediakan sistem informasi yang lengkap dan mudah diakses; dan  
+f. membangun jejaring dan kerja sama dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak korban kekerasan.  
 
 #### Pasal 10
 
@@ -208,7 +214,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Instansi Daerah sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan berdasarkan Rencana Aksi Daerah.  
 
 # BAB V
@@ -223,7 +230,8 @@ c. bantuan hukum;
 d. pemulangan;  
 
 (
-e. rehabilitasi, reintegrasi sosial, dan medikolegal; danf. pelayanan psikologis.  
+e. rehabilitasi, reintegrasi sosial, dan medikolegal; dan  
+f. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai dengan standard pelayanan minimal yang ditetapkan Pemerintah Daerah dan dilaksanakan oleh Instansi Daerah yang tugas dan fungsinya di bidang:a. Sosial;  
 b. Kesehatan;  
 c. Pemberdayaan perempuan dan perlindungan anak; dan d. Mental dan spiritual.  
@@ -271,7 +279,8 @@ e. hak atas kerahasiaan;
 f. hak atas rehabilitasi sosial;  
 g. hak atas kompensasi;  
 h. hak atas penanganan pengaduan;  
-i. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan; danj. hak atas pendampingan.  
+i. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan; dan  
+j. hak atas pendampingan.  
 
 #### Pasal 17
 
@@ -279,7 +288,8 @@ Anak yang menjadi korban tindak kekerasan, selain mendapatkan hak-hak sebagaiman
 a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB VIII
 
@@ -293,10 +303,12 @@ Kerjasama
 
 1. Dalam rangka mencapai tujuan perlindungan perempuan dan anak korban kekerasan sebagaimana dimaksud dalam Pasal 4, Pemerintah Daerah dapat bekerjasama dengan:a. pemerintah;  
 b. pemerintah provinsi;  
-c. pemerintahkabupaten/kota lain; dand. lembaga non pemerintah.  
+c. pemerintahkabupaten/kota lain; dan  
+d. lembaga non pemerintah.  
 2. Kerjasama sebagaimana dimaksud pada ayat (1) meliputi:a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi sesuai dengan hukum yang berlaku.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi sesuai dengan hukum yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk Perjanjian Kerjasama.  
 
 ## Bagian Kedua
@@ -312,7 +324,8 @@ a. pemberitahuan informasi perempuan korban kekerasan;
 
 kesempatan kerja bagi
 b. pendidikan dan pelatihan bagi perempuan korban kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang terputusdari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang terputusdari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk Perjanjian.  
 
 # BAB IX
@@ -325,7 +338,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang terputusdari
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), meliputi:a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi (3) Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan tujuan perlindungan perempuan dan anak korban kekerasan sesuai standar pelayanan minimal.  
+d. pemantauan; dan  
+e. evaluasi (3) Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan tujuan perlindungan perempuan dan anak korban kekerasan sesuai standar pelayanan minimal.  
 
 #### Pasal 21
 

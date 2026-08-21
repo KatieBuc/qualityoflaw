@@ -106,7 +106,8 @@ e. Pelayanan bimbingan rohani; dartf. Korban memiliki hak menentukan sendiri kep
 1. Pemerintah Daerah berwenang dan bertanggung jawab atas Perlindungan Perempuan Korban Kekerasan.  
 2. Kewenangan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. kegiatan Pelayanan terhadap Perempuan Korban Kekerasan;  
-b. pemantauan, penguatan terhadap korban Kekerasan; danc. peningkatan kemarnpual aparatur dan para pemangku kepentingan lain.  
+b. pemantauan, penguatan terhadap korban Kekerasan; dan  
+c. peningkatan kemarnpual aparatur dan para pemangku kepentingan lain.  
 
 # BAB IV
 
@@ -121,14 +122,16 @@ b. pemantauan, penguatan terhadap korban Kekerasan; danc. peningkatan kemarnpual
 
 1. Pelayanan UPID PPA meliputi:a. memberikan Pelayanan dan penanganan secepat mungkin kepada Korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan bebas biaya bagi Korban;  
-c. menjaga kerahasiaan Korban; dand. menjamin keadilan dan kepastian hukum bagi Korban.  
+c. menjaga kerahasiaan Korban; dan  
+d. menjamin keadilan dan kepastian hukum bagi Korban.  
 2. Ketentuan lebih lanjut mengenai tata cara Pelayanan UPID PPA sebagaimana dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 #### Pasal 7
 
 Penyelenggaraan UPTD PPA memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
-b. petugas pelaksana; danc. petugas fungsional.  
+b. petugas pelaksana; dan  
+c. petugas fungsional.  
 
 #### Pasal 8
 
@@ -137,7 +140,8 @@ b. petugas pelaksana; danc. petugas fungsional.
 b. penj angkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
-e. mediasi; danf. pendampingal korban.  
+e. mediasi; dan  
+f. pendampingal korban.  
 3. UPTD PPA dalam melaksalakan fungsi sebagaimana dimaksud pada ayat (21 dilakukan untuk Layanan dasar dalam 1 (satu) Kabupaten.  
 6-
 
@@ -219,7 +223,8 @@ dan kegiatan Perlindungan tahun anggar€rn atau jika (2) Hasil evaluasi pelaksa
 1. Bupati melakukan pembinaan terhadap pengembangan UPTD PPA. (2) Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pemberian petunjuk pelaksanaan;  
 b. bimbingan;  
-c. supervise; dand. monitoring dan evaluasi pelaksanaan Pelayanan bagi Perempuan Korban Kekerasan, aparatur maupun masyarakat.  
+c. supervise; dan  
+d. monitoring dan evaluasi pelaksanaan Pelayanan bagi Perempuan Korban Kekerasan, aparatur maupun masyarakat.  
 
 #### Pasal 17
 
@@ -234,7 +239,8 @@ Bupati melakukan pembinaan dan pengawasan atas pelaksanaan SPM bidang layanan te
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan Korban Kekerasan, masyarakat dapat:a. membentuk mitra Keluarga di tingkat kelurahan/Desa;  
 b. membentuk unit Perlindungan Perempuan di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan secara mandiri;  
-d. melakukan pertolongan pertama kepada Korban; dane. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi Kekerasan terhadap Korbal.  
+d. melakukan pertolongan pertama kepada Korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila dilingkungannya terjadi Kekerasan terhadap Korbal.  
 
 (21 Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosia-l kemasyarakatan, lembaga swadaya Masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 9-

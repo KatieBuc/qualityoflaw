@@ -33,12 +33,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan berbasis  gender dan anak adalah pelanggaran hak asasi manusia dan  kejahatan terhadap martabat kemanusiaan serta bentuk  diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak harus  mendapatkan perlindungan, baik dari pemerintah daerah  dan/atau masyarakat agar terhindar dan terbebas dari  kekerasan dan/atau ancaman kekerasan dalam lingkup rumah  tangga dan masyarakat;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002  tentang Perlindungan Anak dan Undang-Undang Nomor 23  Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah  Tangga, Pemerintah Daerah bersama masyarakat berkewajiban  melakukan upaya pencegahan, perlindungan, pemulihan  terhadap korban kekerasan berbasis gender dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf b dan huruf c, perlu menetapkan Peraturan Daerah  Kabupaten Ogan Komering Ulu tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis Gender dan  Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -123,7 +125,8 @@ h. keterbukaan;
 i. keterpaduan;  
 j. tidak menyalahkan korban;  
 k. memberdayakan;  
-l. kerahasiaan korban; danm. pengambilan keputusan di tangan korban.  
+l. kerahasiaan korban; dan  
+m. pengambilan keputusan di tangan korban.  
 
 #### Pasal 3
 
@@ -131,7 +134,8 @@ Tujuan perlindungan korban kekerasan berbasis gender dan anak adalah:
 a. mencegah segala bentuk kekerasan berbasis gender dan kekerasan terhadap  anak, yang terjadi di lingkup rumah tangga dan/atau masyarakat;  
 b. memberikan perlindungan;  
 c. memberikan pendampingan hukum;  
-d. mengupayakan pemulihan dan reintegrasi sosial; dane. meningkatkan partisipasi masyarakat.  
+d. mengupayakan pemulihan dan reintegrasi sosial; dan  
+e. meningkatkan partisipasi masyarakat.  
 
 # BAB III
 
@@ -229,7 +233,8 @@ Perlindungan Hukum
 
 Perlindungan hukum sebagaimana dimaksud dalam Pasal 8 meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
-b. melakukan pendampingan dalam proses hukum pada tingkat peradilan  tinggi; danc. memberikan perlindungan hukum secara khusus bagi anak korban  kekerasan dapat dilakukan dengan penunjukan perwalian sesuai dengan  peraturan yang berlaku.  
+b. melakukan pendampingan dalam proses hukum pada tingkat peradilan  tinggi; dan  
+c. memberikan perlindungan hukum secara khusus bagi anak korban  kekerasan dapat dilakukan dengan penunjukan perwalian sesuai dengan  peraturan yang berlaku.  
 
 ### Paragraf 4
 
@@ -252,7 +257,8 @@ Peningkatan partisipasi masyarakat sebagaimana dimaksud dalam Pasal 8  dilakukan
 a. gender dan anak;  
 b. mendorong masyarakat untuk berpartisipasi aktif dalam memberikan  informasi dan melaporkan adanya kekerasan berbasis gender dan anak;  
 c. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
-d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; dane. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
+d. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; dan  
+e. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
 
 Paragarf 6 Monitoring dan Pelaporan
 
@@ -278,14 +284,16 @@ Penyelenggaraan pelayanan terpadu pelaksanaannya dikoordinasikan oleh  Satuan Ke
 Tugas KPK2BGA sebagaimana dimaksud dalam Pasal 16 adalah:  
 a. melakukan mediasi perselisihan antar lembaga penyedia layanan terpadu  kekerasan berbasis gender dan anak;  
 b. melakukan advokasi kebijakan dan program perlindungan korban kekerasan  berbasis gender dan anak;  
-c. melakukan pengawasan terhadap proses penanganan kasus yang sedang  berjalan; dand. melakukan pemantauan dan pengawasan terhadap penyelenggaran pelayanan  terpadu korban kekerasan berbasis gender dan anak.  
+c. melakukan pengawasan terhadap proses penanganan kasus yang sedang  berjalan; dan  
+d. melakukan pemantauan dan pengawasan terhadap penyelenggaran pelayanan  terpadu korban kekerasan berbasis gender dan anak.  
 
 #### Pasal 18
 
 Untuk menyelenggarakan tugas sebagaimana dimaksud dalam Pasal 17 KPK2BGA mempunyai fungsi:  
 a. menyiapkan bahan perumusan kebijakan dan program perlindungan  terhadap korban kekerasan berbasis gender dan anak;  
 b. pengkoordinasian perselisihan antar lembaga penyedia layanan terpadu  terhadap korban kekerasan berbasis gender dan anak;  
-c. pengembangan sistem perlindungan korban kekerasan berbasis gender dan  anak; dand. pemantauan, pengawasan dan pelaporan perlindungan terhadap korban  kekerasan berbasis gender dan anak.  
+c. pengembangan sistem perlindungan korban kekerasan berbasis gender dan  anak; dan  
+d. pemantauan, pengawasan dan pelaporan perlindungan terhadap korban  kekerasan berbasis gender dan anak.  
 
 #### Pasal 19
 
@@ -331,7 +339,8 @@ e. membantu proses pengajuan permohonan penetapan perlindungan; dan f. membantu 
 1. Untuk mencegah terjadi tindak kekerasan terhadap perempuan dan anak,  Pemerintah Daerah melakukan sosialisasi, pemberdayaan, dan penyadaran  kepada keluarga, orangtua, dan masyarakat dengan memberikan informasi,  bimbingan dan/atau penyuluhan.  
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah melakukan upaya sebagai berikut:a. peningkatan jumlah dan mutu pendidikan baik formal maupun non  formal dan informal;  
 b. pembukaan lapangan kerja bagi perempuan;  
-c. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; dand. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak.  
+c. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan; dan  
+d. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak.  
 
 # BAB VIII
 

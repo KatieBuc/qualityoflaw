@@ -95,7 +95,8 @@ b. hak korban;
 c. kewajiban dan tanggung jawab;  
 d. penyelenggaraan perlindungan;  
 e. pembinaan dan pengawasan;  
-f. pelaporan; dang. pendanaan;  
+f. pelaporan; dan  
+g. pendanaan;  
 
 # BAB III
 
@@ -107,7 +108,8 @@ Bentuk kekerasan terhadap perempuan dan anak berupa:
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran; dane. eksploitasi.  
+d. penelantaran; dan  
+e. eksploitasi.  
 7-
 
 #### Pasal 4
@@ -192,7 +194,8 @@ penyelenggaraan
 b. membentuk posko pengaduan di tingkat kelurahan/desa;  
 c. membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
 d. melakukan sosialisasi hak perempuan dan hak anak secara mandiri;  
-e. melakukan pertolongan pertama kepada korban; danf. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
+e. melakukan pertolongan pertama kepada korban; dan  
+f. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -257,7 +260,8 @@ c. cakupan layanan Rehabilitasi Sosial yang diberikan petugas Rehabilitasi Sosia
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi Perempuan dan Anak Korban Kekerasan di dalam unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus Kekerasan terhadap Perempuan dan Anak;  
 f. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan layanan bantuan hukum;  
-g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; danh. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
+g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban Kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban Kekerasan.  
 
 ## Bagian Ketiga
 
@@ -266,7 +270,8 @@ Bentuk dan Mekanisme Pencegahan
 #### Pasal 18
 
 Pusat Pelayanan TerpaduBentuk pencegahan terjadinya kekerasan terhadap perempuan dan anak yang dilakukan oleh Pusat Pelayanan Terpadu, dapat dilaksanakan melalui:  
-a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; danb. pelatihan anggota Pusat Pelayanan Terpadu terkait tentang pelaksanaan tugasnya dalam melakukan pencegahan kekerasan terhadap anak dan perempuan.  
+a. kegiatan sosialisasi peraturan perundang-undangan kepada masyarakat yang berkaitan dengan perlindungan hak-hak perempuan dan anak; dan  
+b. pelatihan anggota Pusat Pelayanan Terpadu terkait tentang pelaksanaan tugasnya dalam melakukan pencegahan kekerasan terhadap anak dan perempuan.  
 
 #### Pasal 19
 
@@ -285,10 +290,12 @@ b. pelayanan kesehatan;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
-f. pelayanan psikologis; dang. pemberdayaan ekonomi.  
+f. pelayanan psikologis; dan  
+g. pemberdayaan ekonomi.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan sesuai standar pelayanan minimal yang ditetapkan pemerintah dan dilaksanakan oleh perangkat daerah yang tugas dan fungsinya di bidang:a. sosial;  
 b. kesehatan;  
-c. pemberdayaan perempuan dan perlindungan anak; dand. mental dan spiritual.  
+c. pemberdayaan perempuan dan perlindungan anak; dan  
+d. mental dan spiritual.  
 3. Dalam melaksanakan tugas dan fungsi sebagaimana dimaksud pada ayat (2), pemerintah daerah bekerjasama dengan instansi pemerintah, pemerintah provinsi, pemerintah kabupaten/kota lain, masyarakat, keluarga dan orang tua.  
 4. Ketentuan lebih lanjut menganai tata cara pelayanan, dan penanganan terhadap perempuan dan anak korban kekerasan sebagaimana dimaksud pada ayat (1), ayat (2), dan ayat (3), diatur dengan Peraturan Bupati.  
 
@@ -316,7 +323,8 @@ Prinsip-prinsip Pelayanan dan Pendampingan
 Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
-c. mudah dijangkau; dand. tidak dipungut biaya.  
+c. mudah dijangkau; dan  
+d. tidak dipungut biaya.  
 
 # BAB VII
 
@@ -329,9 +337,11 @@ c. mudah dijangkau; dand. tidak dipungut biaya.
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
 16-
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan dengan prinsip:a. profesional;  
-b. transparan; danc. akuntabel.  
+b. transparan; dan  
+c. akuntabel.  
 
 #### Pasal 25
 
@@ -346,7 +356,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 24 ayat (2) dan ayat (
 1. Pusat Pelayanan Terpadu melaporkan pelaksanaan penyelenggaraan perlindungan terhadap perempuan dan anak korban kekerasan kepada Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2), dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 17 -
@@ -358,7 +369,8 @@ c. pelayanan; dand. kinerja.
 #### Pasal 27
 
 Dana untuk penyelenggaraan perlindungan perempuan dan anak korban kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang- undangan.  
 
 #### Pasal 28
 

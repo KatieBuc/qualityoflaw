@@ -31,10 +31,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa berdasarkan klarifikasi dari Gubernur Daerah  Istimewa Yogyakarta, beberapa ketentuan dalam Peraturan  Daerah Kabupaten Bantul Nomor 15 Tahun 2013 tentang  Perlindungan Anak dan Perempuan Korban Kekerasan perlu  disempurnakan dengan perubahan Peraturan Daerah;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perubahan Atas Peraturan Daerah Kabupaten Bantul Nomor  15 Tahun 2013 tentang Perlindungan Anak dan Perempuan  Korban Kekerasan;  
 
 2 2015 Mengingat:  
+ 
  
  
  
@@ -145,7 +147,8 @@ Asas penyelenggaraan perlindungan anak dan perempuan dari tindak  kekerasan adal
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan yang terbaik bagi korban; dane. pemberdayaan.  
+d. kepentingan yang terbaik bagi korban; dan  
+e. pemberdayaan.  
 3. Ketentuan Pasal 3 diubah, sehingga berbunyi sebagai berikut:
 
 #### Pasal 3
@@ -162,7 +165,8 @@ d. melakukan pemberdayaan kepada perempuan korban kekerasan;  dane. meningkatkan
 3. Penyelenggaraan perlindungan anak dan perempuan dari tindak  kekerasan sebagaimana dimaksud pada ayat (1), meliputi aspek:  
 a. pencegahan;  
 b. pelayanan dan pendampingan;  
-c. reintegrasi sosial; dand. pemberdayaan.  
+c. reintegrasi sosial; dan  
+d. pemberdayaan.  
 
 9 2015
 
@@ -174,7 +178,8 @@ Penyelenggaraan perlindungan terhadap anak dan perempuan korban  kekerasan menja
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
 c. masyarakat;  
-d. keluarga; dane. orangtua.  
+d. keluarga; dan  
+e. orangtua.  
 5. Ketentuan huruf d dan huruf e ayat (1) Pasal 7 diubah, sehingga berbunyi  sebagai berikut:
 
 #### Pasal 7
@@ -184,7 +189,8 @@ b. menyusun perencanaan program dan kegiatan;
 c. memberikan dukungan sarana dan prasarana;  
 d. mengalokasikan anggaran khusus responsif gender yang mendukung  perlindungan anak dan perempuan korban kekerasan ;  
 e. membentuk dan memfasilitasi PPT;  
-f. membentuk dan memfasilitasi FPKK; dang. melakukan monitoring dan evaluasi.  
+f. membentuk dan memfasilitasi FPKK; dan  
+g. melakukan monitoring dan evaluasi.  
 2. Dalam hal pelaksanaan kewajiban Pemerintah Daerah sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah menyusun Rencana Aksi  Daerah sebagai dasar bagi SKPD dalam melaksanakan perlindungan  terhadap korban.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan  bagian Rencana Pembangunan Jangka Menengah Daerah (RPJMD).  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (2), diatur lebih lanjut dengan Peraturan Bupati.  
@@ -213,7 +219,8 @@ Ketentuan lebih lanjut mengenai pengembangan, mekanisme dan  hubungan kerja berj
 
 Upaya pencegahan juga dilakukan oleh:  
 a. masyarakat;  
-b. keluarga; danc. lembaga pendidikan.  
+b. keluarga; dan  
+c. lembaga pendidikan.  
 
 11 2015
 
@@ -230,7 +237,8 @@ c. memelihara dan mengembangkan jejaring serta sistem rujukan; dan d. mengumpulk
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3)  dikelompokkan dalam peran sebagai berikut:a. peran kesehatan;  
 b. peran psikologi;  
 c. peran hukum;  
-d. peran sosial; dane. peran ekonomi.  
+d. peran sosial; dan  
+e. peran ekonomi.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas, pokok, dan  fungsi serta keanggotaan FPKK sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Bupati.  
 11. Ketentuan Pasal 44 diubah menjadi Pasal 43, sehingga berbunyi sebagai  berikut:
 
@@ -245,7 +253,8 @@ d. peran sosial; dane. peran ekonomi.
 12 2015 (2) Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:  
 a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a mencakup  aspek yang berkaitan dengan perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b mencakup  aspek yang berkaitan dengan perencanaan, pelaksanaan, tata  laksana, pendanaan, kualitas, pengendalian dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaimana dimaksud pada ayat (2) huruf  c dilakukan oleh SKPD yang membidangi pemerdayaan perempuan  dan perlindungan anak.  
@@ -261,7 +270,8 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 1. PPT dan FPKK membuat pelaporan perlindungan Anak dan  Perempuan korban tindak kekerasan kepada Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian pelaporan secara tertulis sebagaimana dimaksud pada  ayat (2), dilaksanakan paling sedikit 3 (tiga) bulan sekali dan  diselenggarakan sesuai ketentuan peraturan perundang-undangan.  
 
 13 2015

@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak berhak mendapatkan rasa  aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia; ·
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa berdasarkan Pasal 12 Undang-Undang Nomor  23 Tahun 2014 ten tang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 d. bahwa berdasarkan pertirnbangan sebagairnana  dimaksud pada huruf a, b, dan c perlu membentuk Peraturan Daerah Kabupaten Halmahera Timur tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -115,7 +117,8 @@ b. keadilan dan kesetaraan gender;
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Anak;  
 e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
-f. pemberdayaan; dang. kepastian hukum.  
+f. pemberdayaan; dan  
+g. kepastian hukum.  
 
 #### Pasal 3
 
@@ -256,7 +259,8 @@ Hak dan Kewajiban Anak
 Setiap anak berhak mendapatkan:  
 a. pencatatan kelahiran;  
 b. kesehatan;  
-c. pendidikan; dand. kesejahteraan sosial.  
+c. pendidikan; dan  
+d. kesejahteraan sosial.  
 
 #### Pasal 14
 
@@ -265,7 +269,8 @@ a. menghormati orang tua, wali dan guru;
 b. mencintai keluarga, masyarakat dan menyayangi teman;  
 c. mencintai tanah air, bangsa dan negara;  
 d. menunaikan ibadah sesuai dengan agama dan kepercayaannya;  
-e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat,  minatnya; danf. berbudi pekerti luhur.  
+e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat,  minatnya; dan  
+f. berbudi pekerti luhur.  
 
 ### Paragraf 2
 
@@ -433,7 +438,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban antara lain  pelacuran, k
 #### Pasal 33
 
 Kekerasan lainnya sebagaimana dimaksud dalam Pasal 27 huruf f  disebabkan karena:  
-a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum  berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang menimbulkan rasa takut atau  mengekang ke bebasan hakiki seseorang; danb. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh  melakukan sesuatu sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
+a. ancaman kekerasan meliputi: setiap perbuatan secara melawan hukum  berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan  atau tanpa menggunakan sarana yang menimbulkan rasa takut atau  mengekang ke bebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi: suatu keadaan dimana seseorang/korban disuruh  melakukan sesuatu sedemikian rupa sehingga orang itu melakukan  sesuatu yang berlawanan dengan kehendak sendiri.  
 
 ## Bagian Keempat
 
@@ -446,14 +452,16 @@ Pencegahan Kekerasan terhadap Perempuan dan Anak
 b. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
 d. membentuk sistem pencegahan kekerasan;  
-e. melakukan sosialisasi mengenai peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak korban  kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak perempuan dan  anak bagi masyarakat.  
+e. melakukan sosialisasi mengenai peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak korban  kekerasan; dan  
+f. memberikan pendidikan kritis mengenai hak-hak perempuan dan  anak bagi masyarakat.  
 
 #### Pasal 35
 
 Selain Pemerintah Daerah, upaya pencegahan sebagaimana dimaksud dalam  Pasal 34 ayat ( 1) dilakukan oleh:  
 a. keluarga dan/ atau kerabat terdekat;  
 b. masyarakat;  
-c. lembaga pendidikan; dand. Lembaga Swadaya Masyarakat.  
+c. lembaga pendidikan; dan  
+d. Lembaga Swadaya Masyarakat.  
 
 ## Bagian Kelima
 
@@ -467,7 +475,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 37
 
@@ -476,13 +485,15 @@ a. pelayanan pengaduan, konsultasi, dan konseling;
 b. pelayanan pendampingan;  
 c. pelayanan rehabilitasi medis;  
 d. pelayanan rehabilitasi sosial;  
-e. pelayanan hukum; danf. pelayanan reintegrasi sosial.  
+e. pelayanan hukum; dan  
+f. pelayanan reintegrasi sosial.  
 
 #### Pasal 38
 
 Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 37 huruf a meliputi:  
 a. identifikasi atau pencatatan awal korban;  
-b. identifikasi Kasus; danc. p ri;. tujua.n dilaku kan tindakan.  
+b. identifikasi Kasus; dan  
+c. p ri;. tujua.n dilaku kan tindakan.  
 
 #### Pasal 39
 
@@ -491,7 +502,8 @@ a. mendampingi korban selama proses pemeriksaan dan pemulihan  kesehatan;
 b. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan  dan pengadilan;  
 c. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan  di kepolisan, kejaksaan dan pengadilan;  
 d. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa;  
-e. memberikan rasa aman kepada korban; danf. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
+e. memberikan rasa aman kepada korban; dan  
+f. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 #### Pasal 40
 
@@ -503,12 +515,14 @@ b. perawatan dan pemulihan Iuka fisik yang bertujuan untuk pemulihan  kondisi fi
 
 1. Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 37 huruf  d merupakan pelayanan yang diberikan dalam rangka memulihkan  kondisi traumatis korban.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat ( 1) melalui dukungan  secara sosial.  
-3. Dukungan secara sosial sebagaimana dimaksud pada ayat (2) dilakukan  melalui:a. bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
+3. Dukungan secara sosial sebagaimana dimaksud pada ayat (2) dilakukan  melalui:a. bimbingan kerohanian kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 
 #### Pasal 42
 
 Pelayanan hukum sebagaimana dimaksud dalam Pasal 37 huruf e adalah  untuk membantu korban dalam menjalani proses peradilan dengan cara:  a. memberikan konsultasi hukum yang mencakup informasi mengenai hak hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
+b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
 
 #### Pasal 43
 
@@ -527,7 +541,8 @@ b. menyelenggarakan perlindungan dan pemenuhan hak korban  atas rehabilitasi kes
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penerjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. melakukan jaringan dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan  kerjasama dengan lembaga perlindungan saksi dan korban, rumah  perlindungan sosial atau pusat trauma milik pemerintah, masyarakat  atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban;  
 e. memberikan kemudahan, kenyamanan dan keselamatan bagi korban;  
-f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi korban.  
+f. menjaga kerahasiaan korban; dan  
+g. memberikan pemenuhan bantuan hukum bagi korban.  
 4. Ketentuan lebih lanjut mengenai pembentukan, tata cara dan mekanisme  penyelenggaraan P2TP2A diatur dengan Peraturan Bupati.  
 
 ##### BABV
@@ -553,7 +568,8 @@ J. hak atas pendampingan oleh pekerja sosial dan bantuan hukum pada  setiap ting
 
 Perempuan dan anak korban kekerasan selain mendapatkan hak-hak  sebagaimana dimaksud dalam Pasal 45, juga mendapatkan hak-hak khusus  se bagai beriku t: '  a. hak atas kelangsungan hidup;  
 b. hak atas tumbuh dan berkembang;  
-c. hak untuk mendapatkan perlindungan yang sama; dand. hak untuk berpartisipasi dalam kehidupan bermasyarakat.  
+c. hak untuk mendapatkan perlindungan yang sama; dan  
+d. hak untuk berpartisipasi dalam kehidupan bermasyarakat.  
 
 # BAB VI
 
@@ -629,7 +645,8 @@ a. Anggaran pendapatan dan belanja daerah; dan/ a taub. Sumber lain yang sah dan
 
 1. Dalam penyelenggaraan Perlindungan terhadap Perempuan dan anak,  masyarakat dapat:a. membentuk mitra keluarga di tingkat Kelurahan/Desa oleh  masyarakat;  
 b. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
-c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
+c. melakukan pertolongan pertama kepada korban; dan  
+d. melaporkan kepada instansi yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta dan/atau  media massa.  
 
 # BAB XI

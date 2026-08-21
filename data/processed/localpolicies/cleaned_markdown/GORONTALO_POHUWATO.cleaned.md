@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk memulihkan harga diri dan Mengingat martabat perempuan dan anak korban kekerasan serta untuk mengembalikan fungsi sosialnya perlu melakukan upaya pelindungan, pemberdayaan perempuan, dan rehabilitasi anak korban kekerasan;  
 b. bahwa berdasarkan Pasal 12 Undang-Undang 23 Tahun 2014 tentang Pemerintahan Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan wajib bagi pemerintah daerah;  
 
@@ -142,7 +143,8 @@ e. Hak atas kerahasiaan;
 f. Hak atas rehabilitasi sosial;  
 g. Hak atas penanganan pengaduan secara cepat, tepat, nyaman dan sesuai kebutuhan;  
 h. Hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses peradilan;  
-i. Hak atas pendampingan; danj. Hak rasa aman.  
+i. Hak atas pendampingan; dan  
+j. Hak rasa aman.  
 
 #### Pasal 6
 
@@ -189,7 +191,8 @@ g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai langkah perli
 Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak kekerasan;  
-c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dand. turut serta dalam penanganan korban tindak kekerasan.  
+c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dan  
+d. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan perundang-undangan.  
 
 #### Pasal 10
@@ -248,7 +251,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, pe
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan mudah di akses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, lembaga pendidikan,dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dang. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan anak dari tindak kekerasan di setiap kelurahan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak hukum, aparatur pemerintah, lembaga pendidikan,dan berbagai lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dan  
+g. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan anak dari tindak kekerasan di setiap kelurahan.  
 
 #### Pasal 16
 
@@ -259,7 +263,8 @@ d. ketenagakerjaan;
 e. kependudukan dan pencatatan sipil:f. hukum;  
 g. pemberdayaan perempuan dan perlindungan anak;  
 h. koperasi dan Usaha Mikro Kecil Menengah;  
-i. mental dan spiritual; danj. ketenteraman dan ketertiban.  
+i. mental dan spiritual; dan  
+j. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerahsebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadudan berkesinambungan berdasarkan Rencana Pembangunan Jangka Panjang Daerah dan Rencana Pembangunan Jangka Menengah Daerah.  
 
 ## Bagian Kedua Perlindungan Hukum
@@ -340,7 +345,8 @@ Kemitraan
 
 1. Pemerintah Daerah dapat menyelenggarakan kemitraan dengan dunia usaha dalam perlindungan perempuan dan anak dari tindak kekerasan; (2) Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan sesuai ketentuan Perundang-undangan.  
 
 # BAB IX

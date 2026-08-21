@@ -17,6 +17,7 @@ Menimbang:
  
  
  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 
@@ -140,7 +141,8 @@ ll.Kekerasan seksual adalah perbuatan yang berupa pelecehan seksual, pemaksaan h
 penyelenggaxaan perlindungan terhadap Perempuan korban kekerasart dilaksanakan berdasarkan asas:  
 a. penghormatant hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
-c. non diskriminasi; dand. kepentingan terbaik bagi korban
+c. non diskriminasi; dan  
+d. kepentingan terbaik bagi korban
 
 #### Pasal 3
 
@@ -158,7 +160,8 @@ d. menyediakan fasilitas yang diperlukan unhrk pemulihan korban, meliputi:
 Unhrk penyelenggaraan pelayanan terhadap korban, Instansi Pemerintah dan pemerintah Daerah sesuai dengan fungsi dan hrgas masing-masing dapat melakukan uPaya:  
 a. penyediaan ruang pelayanan khusus di kantor kepolisian;  
 b. penyediaan aparat, tenaga kesehatan, pekerja sosial, dan pembimbing rohani;  
-c. pembuatal dan pengembangan sistem dan mekanisme kerja sama program pelayanan yang melibatkan pihak yang mudah diakses oleh korban; dand. memberikal perlindungan bagi pendamping, saksi, keluarga, dan teman korban.  
+c. pembuatal dan pengembangan sistem dan mekanisme kerja sama program pelayanan yang melibatkan pihak yang mudah diakses oleh korban; dan  
+d. memberikal perlindungan bagi pendamping, saksi, keluarga, dan teman korban.  
 
 #### Pasal 8
 
@@ -180,7 +183,8 @@ Tujuan dibentuknya Peraturan Daerah ini adalah untuk memberikan perlindungan dan
 Setiap perempuan dan anak Korban kekerasan berhah mendapatkan a. perlindungan dari pihak keluarga, kepolisian, kejaksa.an, pengadilan, advokat, lembaga sosial, atau pihak lainnya baik sementara maupun berdasarkan penetapan perintah perlindungan dari pengadilan;  
 b. pelayanan kesehatan sesuai dengan kebutuhan medis;  
 c. penanganan secara khusus berkaitan dengan keratrasiaan korban;  
-d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peratrrran perundang-undangan; dane. pelayanan bimbingan rohani
+d. pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peratrrran perundang-undangan; dan  
+e. pelayanan bimbingan rohani
 
 # BAB III
 
@@ -195,7 +199,8 @@ pemerintah l(abupaten dan masyarakat Kabupaten wajib dan bertanggung jawab melak
 Setiap orang yang mendengar, melihat, atau mengetahui terjadinya kekerasan dalam nrmah tangga wajib melalnrkan upaya-upaya sesuai dengan batas kemampuannya untrrk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
-c. memberikan pertolongan darurat; dand. membantu proses pengajuan permohonan penetapan perlindungan'
+c. memberikan pertolongan darurat; dan  
+d. membantu proses pengajuan permohonan penetapan perlindungan'
 
 # BAB TV
 
@@ -231,7 +236,8 @@ b. €unan;
 c. empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tanpa biaya; dang. adanya jaminan kerahasiaan.  
+f. tanpa biaya; dan  
+g. adanya jaminan kerahasiaan.  
 
 /
 
@@ -279,7 +285,8 @@ Negara, pemerintah, keluarga, dan orang tua wajib mengUsahakan agar anek yang la
 #### Pasal 18
 
 1. Negara, pemerintah, keluarga, dan orang tua wqiib melindungi anak dari upaya transplantasi organ tubuhnya untuk pihak lain' (2) Negara, pemerintah, keluarga, dan orang tua wajib melindungi anak dari perbuatan:a. pengambilan organ tubuh anak dan/atau jaringan tubuh anak tanpa memperhatikan kesehatan anak;  
-b. jual beli organ dan/atau jaringan tubuh anak; danc. penelitian kesehatan yang menggunakan anak sebagai objek penelitian tanpa seizin orang tua dan tidak mengutamakan kepentingan yang terbaik bagi anak.  
+b. jual beli organ dan/atau jaringan tubuh anak; dan  
+c. penelitian kesehatan yang menggunakan anak sebagai objek penelitian tanpa seizin orang tua dan tidak mengutamakan kepentingan yang terbaik bagi anak.  
 
 ## Bagian Ketiga
 
@@ -334,7 +341,8 @@ a. berpartisipasi;
 b. bebas menyatakan pendapat dan berpikir sesuai dengan hati nurani dan agamanya;  
 c. bebas menerirna informasi lisan atau tertulis sesuai dengan tahapan usia dan perkembangan anak;  
 d. bebas berserikat dan berlnrmpul;  
-e. bebas beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya; danf. memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan.  
+e. bebas beristirahat, bermain, berekreasi, berkreasi, dan berkarya seni budaya; dan  
+f. memperoleh sarana bermain yang memenuhi syarat kesehatan dan keselamatan.  
 2. Upaya sebagaimana dimaksud disesuaikan dengan usia, lingkungannya agar tidak perkembangan anak.  
 
 pada ayat (1) dikembangkan dan tingkat kemampuan anak, dan menghambat dan mengganggu
@@ -359,7 +367,8 @@ Pemerintah dan lembaga negara lainnya berkewajiban dan bertanggung jawab untuk m
 Pasa1 31 Anak dalam situasi danrrat sebagaimana dirnaksud dafam Pasal 3O terdiri ata-s:  
 a. anak yang menjadi pengungsi;  
 b. anak korban kenrsuhan;  
-c. anak korban bencana alam; dand. anak dalam situasi konflik bersenjata.  
+c. anak korban bencana alam; dan  
+d. anak dalam situasi konflik bersenjata.  
 
 #### Pasal 32
 
@@ -368,7 +377,8 @@ perlindungan khusus bagi anak yang menjadi pengungsi sebagaimana dimaksud dalam 
 #### Pasal 33
 
 perlindungan khusus bagi anak korban kerusuhan, korban bencana, dan anak dalam situasi konflik bersenjata sebagaimana dimaksud dalam Pasal 3O huruf b, huruf c, dan huruf d, dilaksanakan melalui:  
-a. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan,kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; danb. pemenuhan kebutuhan khusus bagi anak yang menyandang Disabilitas dan anak yang mengalami gangguan psikososial.  
+a. pemenuhan kebutuhan dasar yang terdiri atas pangan, sandang, pemukiman, pendidikan,kesehatan, belajar dan berekreasi, jaminan keamanan, dan persamaan perlakuan; dan  
+b. pemenuhan kebutuhan khusus bagi anak yang menyandang Disabilitas dan anak yang mengalami gangguan psikososial.  
 
 #### Pasal 34
 
@@ -383,11 +393,13 @@ b. penyediaan petugas pendamping khusus anak sejak dini;
 c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi anak;  
 e. pemantauan dan pencatatan terus menerus terhadap perkembangan anak yang berhadapan dengan hukum;  
-f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media rrassa dan untrrk menghindarilabelisasi.  
+f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dan  
+g. perlindungan dari pemberitaan identitas melalui media rrassa dan untrrk menghindarilabelisasi.  
 3. perlindungan khusus bagi anak yang menjadi korban tindak pidana sebagaimana dimaksud pada ayat (1) dilaksanakan melalui:  
 a. upala rehabilitasi, baik dalam lembaga maupun di luar lembaga;  
 b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
-c. pemberian jaminan keselamatan bagr saksi korban dan saksi ahli, baik frsik, mental, nraupun sosial; dand. pemberian aksesibilitas unttrk mendapatkan informasi mengenai perkembangan Perkara.  
+c. pemberian jaminan keselamatan bagr saksi korban dan saksi ahli, baik frsik, mental, nraupun sosial; dan  
+d. pemberian aksesibilitas unttrk mendapatkan informasi mengenai perkembangan Perkara.  
 
 #### Pasal 36
 
@@ -398,7 +410,8 @@ c. pemberian jaminan keselamatan bagr saksi korban dan saksi ahli, baik frsik, m
 
 1. perlindungan khusus bagi anak yang dieksploitasi secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 3O mempakan kewajiban dan tanggung jawab pemerintah dan masyarakat.  
 2. Perlindungan khusus bagi anak yang dieksploitasi sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. Pen5rebarluasan dan/atau sosialisasi ketentuan peraturan penrndang-undangan yang berkaitan dengan perlindungan anak yang dieksploitasi secara ekonomi dan/atau seksual;  
-b. pemantauan, pelaporan, dan pemberian sanksi; danc. pelibatan berbagai instansi pemerintah, petttsahaant, serikat pekerja, lembaga swadaya masyarakat, dan masyarakat dalam penghapusan eksploitasi terhadap anak secara ekonomi dan/atau seksual.  
+b. pemantauan, pelaporan, dan pemberian sanksi; dan  
+c. pelibatan berbagai instansi pemerintah, petttsahaant, serikat pekerja, lembaga swadaya masyarakat, dan masyarakat dalam penghapusan eksploitasi terhadap anak secara ekonomi dan/atau seksual.  
 3. Setiap orang dilarang menempatkan, membiarkan, melakukan, merr5pruh melakukan, atau turut serta melakukan eksploitasi terhadap anak sebagaimana dimahsud pada ayat (1).  
 
 #### Pasal 38
@@ -421,7 +434,8 @@ Setiap orang dilarang menempatkan, membiarkan, melakukan, (21 menyuruh melakukan
 
 Perlindungan khusus bagl anak yang men5randang cacat sebagaimana (1) dimaksud dalam Pasal 30 dilakukan melalui upaya:  
 a. per}akuan anak secara manusiawi sesuai dengan martabat dan hak anak;  
-b. pemenuhan kebuhrhan-kebutuhan khusus; danc. memperoleh perlakuan yang sama dengan anak lainnya untuk Elencapai integrasi sosial sepenuh mungkin dan pengembangan individu.  
+b. pemenuhan kebuhrhan-kebutuhan khusus; dan  
+c. memperoleh perlakuan yang sama dengan anak lainnya untuk Elencapai integrasi sosial sepenuh mungkin dan pengembangan individu.  
 
 Setiap orang dilarang memperlakukan anak dengan mengabaikan (21 pandangan mereka secara diskriminatif, termasuk labelisasi dan penyetaraan dalam pendidikan bagi anak-anak yang menyandang cacat.  
 
@@ -533,7 +547,8 @@ h. keperdataan di dalam dan di luar pengadilan; dan dilindungi hak kekayaan inte
 Hak pendidikan unttrk Penyandang Disabilitas meliputi hak:  
 a. mendapatkan pendidikan yang bermuhr pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan secara inklusif dan khusus;  
 b. mempunyai Kesamaan Kesempatan untuk menjadi pendidik atau tenaga kependidikan pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan;  
-c. mempunyai Kesamaan Kesempatan sebagai penyelenggara pendidikan yang bermutu pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan; dand. mendapatkan Akomodasi yang Layak sebagai peserta didik.  
+c. mempunyai Kesamaan Kesempatan sebagai penyelenggara pendidikan yang bermutu pada satuan pendidikan di semua jenis, jalur, dan jenjang pendidikan; dan  
+d. mendapatkan Akomodasi yang Layak sebagai peserta didik.  
 
 # BAB VII
 
@@ -559,7 +574,8 @@ Perempuan yang telah dewasa dan atau telah menikah berhak unhrk melakukan perbua
 
 Dalam pemeriksaan perkara Perempuan Berhadapan dengan Hukum, hakim tidak boleh:  
 a. menunjukan sikap atau mengeluarkan pernyataan yang merendahkan, menyalahkan dan/atau mengintimidasi Perempuan Berhadapan dengan Hukum.  b. membenarkan terjadinya Diskriminasi Terhadap Perempuan dengan menggunakan kebudayaan, aturan adat dan praktik trdisional lainya rraupun menggtrnakan penafsiran ahli yang bias Gender;  
-c. mempertanyakan dan/atau mempertimbangkan mengenai pengalaman atau latar belakang seksualitas korban sebagai dasar untuk membebaskan pelaku atau meringankan huktrman pelalar; dand. mengeluarkan pernyataan atau pandangan yang mengandung stereotif Gender.  
+c. mempertanyakan dan/atau mempertimbangkan mengenai pengalaman atau latar belakang seksualitas korban sebagai dasar untuk membebaskan pelaku atau meringankan huktrman pelalar; dan  
+d. mengeluarkan pernyataan atau pandangan yang mengandung stereotif Gender.  
 
 #### Pasal 55
 
@@ -713,7 +729,8 @@ Hak-hak korban KDRT adalah mendapatkan: (U perlindungan dari pihak keluarga, kep
 Kew4jiban membenttrk Perda tentang Perlindungan Perempuan dan Anak Korban Kekerasan, sinkron dengan ketentuan Undang Undang Nomor 23 Tahun 2Ol4 tentang Pemerintahan Daeratr. Pada Undang-Undang ini ditetapkan bahwa kewenangan untuk melakukan pemberdayaan perempuan dan perlindungan anak diserahkan kepada Pemerintah Daerah, sehingga mempakan kesempatan yang sangat bagus bagi Pemerintah Daerah termasuk Pemerintah Daerah I(abupaten Musi Rawas, dewasa ini untuk membentuk Perda yang berperspektif kesetaraan dan keadilan gender dan hak anak.  
 
 Perda Perlindungan Perempuan dan Anak Korban Kekerasan hi, dibentuk sesuai dengan ketentuan Undang-Undang Nomor 12 Tahun 2Ol1 tentang Pembentukan Peraturan Perundang-undangan. Materi Undang-undang ini memberikan petunjuk secara lengkap
-o. memperoleh pelayanan kesehatan; danp. memperoleh hak lain sesuai dengan ketentuan peraturan perundang-undangan.  
+o. memperoleh pelayanan kesehatan; dan  
+p. memperoleh hak lain sesuai dengan ketentuan peraturan perundang-undangan.  
 
 Perda Perlindungan Perempuan dan Anak Korban Kekerasan bukan hanya untuk perempuan dan anak korban kekerasan dalam kondisi normal, tetapi jtrga untuk perempuan dan anak penyandang disabilitas sebagaimana diatur dengan Undang-Undang Nomor 8 Tahun 2016 tentang Penyandang Disabilitas, yang pada Pasal 5 menetapkan bahwa: Penyandang Disabilitas memiliki hak:  
 a. hidup;  
@@ -736,7 +753,8 @@ q. konsesi;
 r. pendataan;  
 s. hidup secara mandiri dan dilibatkan dalam masyarakat;  
 t. berekspresi, berkomunikasi, dan memperoleh informasi;  
-u. berpindah tempat dan kewarganegaraan; danv. bebas dari tindakan Diskriminasi, penelantaran, penyiksaan, dart eksploitasi.  
+u. berpindah tempat dan kewarganegaraan; dan  
+v. bebas dari tindakan Diskriminasi, penelantaran, penyiksaan, dart eksploitasi.  
 
 tentang persyaratan yuridis formal dan yuridis material yang hartrs dipenuhi apabila kita mau membentuk peraturan perundang undangan, termasuk Perda, mulai dari penyusunan Naskatr Akademik (NA), hingga Rancangal Peraturan Daerah KabupatenlKota. Dengan adanya UU ini,maka semua pihak wajib menjadikan dasar dalam pembentukan maupun pada saat konsultasi publik, agff mematuhi ketentuan Undang-Undang ini, sehingga kita semua dapat focus ke format maupun substansi Raperda yang dibahas.  
 

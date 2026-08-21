@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
@@ -29,6 +30,7 @@ bahwa berdasarkan Undang-undang Nomor 23 tahun  2002 tentang Perlindungan Anak d
 bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Perlindungan Terhadap  Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -109,7 +111,8 @@ a. Non diskriminasib. Kepentingan yang terbaik bagi anakc. Hak untuk hidup, kela
 
 Tujuan perlindungan korban kekerasan berbasis gender dan anak meliputi:  
 a. memberikan rasa aman bagi korban;  
-b. mendapatkan penanganan hukum; danc. mengupayakan pemulihan dan reintegrasi sosial.  
+b. mendapatkan penanganan hukum; dan  
+c. mengupayakan pemulihan dan reintegrasi sosial.  
 
 # BAB II
 
@@ -125,7 +128,8 @@ d. mendapatkan pelayanan terpadu yang cepat, tepat, nyaman, dan sesuai  kebutuha
 e. pemulihan dan reintegrasi sosial;  
 f. mendapatkan pendampingan hukum, psikologis, bimbingan rohani,  ekonomi, sosial dan penterjemah;  
 g. penanganan khusus berkaitan dengan kerahasiaan korban;  
-h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai isteri/ibu, suami/bapak, anak dan anggota rumah tangga serta  anggota masyarakat; dani. mendapatkan informasi tentang peraturan perundang-undangan yang  melindungi korban.  
+h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai isteri/ibu, suami/bapak, anak dan anggota rumah tangga serta  anggota masyarakat; dan  
+i. mendapatkan informasi tentang peraturan perundang-undangan yang  melindungi korban.  
 2. Hak Korban sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB III
@@ -138,12 +142,14 @@ h. mendapatkan jaminan atas hak-haknya yang berkaitan dengan statusnya  sebagai 
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi sosial bagi korban;  
 d. mendorong dan meningkatkan partisipasi masyarakat;  
-e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan,  perlindungan dan pemulihan korban kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap korban yang melibatkan  masyarakat.  
+e. melakukan kerjasama dengan penyedia layanan dalam upaya pencegahan,  perlindungan dan pemulihan korban kekerasan; dan  
+f. mengawasi penyelenggaraan pelayanan terhadap korban yang melibatkan  masyarakat.  
 2. Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah mempunyai kewenangan untuk:a. merumuskan kebijakan dan program tentang penghapusan kekerasan  berbasis gender dan anak;  
 b. memfasilitasi terselenggaranya pelayanan terpadu;  
 c. menyediakan sarana dan prasarana;  
 d. meningkatkan kapasitas lembaga penyedia layanan;  
-e. melakukan koordinsi dan kerjasama dalam penyelenggaraan perlindungan  terhadap korban kekerasan berbasis gender dan anak; danf. melakukan monitoring dan evaluasi.  
+e. melakukan koordinsi dan kerjasama dalam penyelenggaraan perlindungan  terhadap korban kekerasan berbasis gender dan anak; dan  
+f. melakukan monitoring dan evaluasi.  
 3. Pemerintah daerah dalam melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1) dan ayat (2) harus memperhatikan hak dan kewajiban orang tua,  wali, suami, istri atau orang lain yang secara hukum bertanggung jawab  kepada korban.  
 
 # BAB IV
@@ -174,7 +180,8 @@ a. mengupayakan pencegahan;
 b. pemulihan dan reintegrasi sosial;  
 c. memberikan perlindungan hukum;  
 d. melakukan mediasi, koordinasi dan kerjasama;  
-e. mengupayakan peningkatan partisipasi masyarakat; danf. monitoring dan evaluasi.  
+e. mengupayakan peningkatan partisipasi masyarakat; dan  
+f. monitoring dan evaluasi.  
 
 ## Bagian Ketiga
 
@@ -184,7 +191,8 @@ Prinsip-prinsip Pelayanan
 
 Dalam melaksanakan tugas sebagaimana dimaksud dalam Pasal 8 pelayanan  terpadu menerapkan prinsip-prinsip sebagai berikut:  
 a. mudah;  
-b. tepat; danc. nyaman;  
+b. tepat; dan  
+c. nyaman;  
 
 ## Bagian Keempat
 
@@ -193,7 +201,8 @@ Upaya Pencegahan
 #### Pasal 10
 
 Upaya pencegahan sebagaimana dimaksud dalam Pasal 8 huruf a meliputi:  
-a. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan  berbasis gender dan anak; danb. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
+a. menyelenggarakan komunikasi, informasi, dan edukasi tentang kekerasan  berbasis gender dan anak; dan  
+b. sosialisasi peraturan perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
 
 ## Bagian Kelima
 
@@ -207,7 +216,8 @@ b. memberikan pelayanan medicolegal;
 c. membantu pemulangan korban;  
 d. memberikan perlindungan sementara di rumah aman (shelter);  
 e. memberikan pemulihan dan pendampingan psikososial;  
-f. memberikan pelayanan bimbingan rohani; dang. melakukan penyiapan keluarga dan masyarakat, pemberdayaan ekonomi dan  pengembalian ke sekolah dan/atau lembaga pendidikan lainnya.  
+f. memberikan pelayanan bimbingan rohani; dan  
+g. melakukan penyiapan keluarga dan masyarakat, pemberdayaan ekonomi dan  pengembalian ke sekolah dan/atau lembaga pendidikan lainnya.  
 
 ## Bagian Keenam
 
@@ -244,7 +254,8 @@ c. memberikan advokasi terhadap korban dan atau masyarakat tentang  penanganan k
 d. membantu proses pengajuan permohonan penetapan perlindungan;  
 e. menyampaikan informasi kepada aparat yang berwenang terkait dengan kasus  kekerasan berbasis gender dan anak;  
 f. menumbuhkan kearifan lokal dalam penanganan kekerasan berbasis gender  dan anak;  
-g. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; danh. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak;  
+g. menyelenggarakan penguatan kelompok-kelompok masyarakat dalam  penanganan kekerasan berbasis gender dan anak; dan  
+h. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak;  
 
 ## Bagian Kesembilan
 

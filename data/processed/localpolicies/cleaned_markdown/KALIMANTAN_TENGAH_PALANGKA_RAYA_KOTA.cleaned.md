@@ -87,7 +87,8 @@ Perlindungan Perernpuan dan Anak diselenggarakan  berdasarkan a sas: a . penghor
 Perlindungan Perempuan dan Anak Korban Kekerasan  dilaksanakan berdasarkan prinsip: a . responsif atas hak;  
 b. non diskriminasi;  
 c. rnenjaga kerahasiaan;  
-d. pemberdayaan; dane. partisipasi.  
+d. pemberdayaan; dan  
+e. partisipasi.  
 
 I 11 - 6 - Pasal4 Tujuan Perlindungan Perempuan dan Anak Korban  Kekerasan meliputi: a . menjamin terpenuhinya hak;  
 b. memberikan keadilan dan kesetaraan hak;  
@@ -140,7 +141,8 @@ I 11 - 7 - (2) Pelayanan bimbingan pra perkawinan sebagaimana  dimaksud pada aya
 3. Bimbingan  dilakukan scbagaimana dimaksud pada ayat (2)  untuk memberikan pemahaman dan pengetahuan rnengenai ketahanan kduarga, kesehatan,  psikologi, agama, sosial dan budaya.  
 4. Bimbingan sebagaimana dimaksud pada ayat (3)  dilaksanakan oleh PD yang menyelenggarakan urusan  di bidai1g pemberdayaan Perempttan dan Perlindungan  Anak.  
 5. Dalam melaksanakan bimbingan sehagaimana  dimaksud pada ayat (4) PD dapat mengikutsertakan:  a . instansi terkait;  
-b. tokoh agama; danc. tokoh adal.  
+b. tokoh agama; dan  
+c. tokoh adal.  
 6. Ketentuan lebih lanjut mengenai standar pelayanan  minimal perlindungan Perempuan diatur dengan  Peraturan Walikota.  
 
 ## Bagian Ketiga
@@ -149,7 +151,8 @@ Pemberdayaan
 
 #### Pasal 8
 
-1. Bentuk pemberdayaan Perlindungan Perempuan  sebagaimana dimaksud dalam Pasa1 6 huruf b meliputi:  a . pelatihan kerja; danb. usaha ekonomis produktif dan kelompok usaha  bersama.  
+1. Bentuk pemberdayaan Perlindungan Perempuan  sebagaimana dimaksud dalam Pasa1 6 huruf b meliputi:  a . pelatihan kerja; dan  
+b. usaha ekonomis produktif dan kelompok usaha  bersama.  
 2. Pelaksanaan pemberdayaan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) dilaksanakan oleh  PD sesuai dengan tugas pokok dan fungsinya.  
 3. Ketentuan lebih lanjut mengenai tata cara  pemberdayaan Perlindungan Perempuan d iatur dalam  Peraturan \Valikota.  
 
@@ -198,7 +201,8 @@ Pelayanan
 #### Pasal 12
 
 1. Bentuk pelayanan P,;:rlindungan Anak scbagaimana  dimaksud da!.am Pasal 11 huruf a meliputi:a. bantuan hukum;  
-b. pelayanan rehabilitasi sosial; danc. pelayanan reintegrasi sosial.  
+b. pelayanan rehabilitasi sosial; dan  
+c. pelayanan reintegrasi sosial.  
 2. Ketentuan lebih Janjut mengenai standar pelayanan  minimal pelayanan Perlindungan Anak sebagaimana  dimaksud pada ayat (1) diatur dengan Pcraturan  Walikota
 
 ## Bagian Ketiga
@@ -262,7 +266,8 @@ Pemantauan PasaJ 15 Ketcntuan mengenai pemantauan sebagaimana dimaksud  dalain P
 #### Pasal 16
 
 1. Penyelenggaraan koordinasi dan kerjasama terhadap  Perlindungan Perempuan dan Anak Korban Kekerasan  bertujuan untuk:a. meningkatkan upaya pemenuhan hak Perempuan  dan Anak;  
-b. meningkatkan hubungan kerja yang sinergi dan  harmonis; danc. memperoleh data dan informasi dalam  penyelenggaraan Perlindungan Perempuan dan  Anak.  
+b. meningkatkan hubungan kerja yang sinergi dan  harmonis; dan  
+c. memperoleh data dan informasi dalam  penyelenggaraan Perlindungan Perempuan dan  Anak.  
 2. Dalam rangka mencapai tujuan sebagairnana dimaksud  pada ayat ( J) Pemerintah Daerah bekerjasama dengan:  a. Pemerint.ah Daerah lain;  
 b. instansi terkait;  
 c. lembaga non pemerintah;  
@@ -289,7 +294,8 @@ I 11 - 12 - (2) Tanggung jawab sebagaimana dimaksud pada ayat (1)  meliputi: a .
 b. kesehatan· 'c. politik;  
 d. hukum;  
 e. ekono1ni;  
-f. budaya; dang. sosial.  
+f. budaya; dan  
+g. sosial.  
 3. Tanggung jawab Pemerintah Daerah tcrhadap  perlindungan hak Perempuan sebagairnana dh,1aksud  pada ayat (1) dilaku.kan dengan:a. penyusunan kebijakan Daerah yang rcsponsif  gender;  
 b. pelem bagaan pengarusutamaan gender di  lingkungan Pemerintah Daerah;  
 c. pembcrdayaan Perempuan di bidang politik, hukum,  ekonomi, budaya dan sosial pada organisasi  kemasyarakatan Lingkat kota;  
@@ -333,8 +339,10 @@ Pencegahan Kekerasan Pada Pcrempuan dan Anak
 
 (l) Pemcrintah Daerah berkewajiban dan hertanggung  jawab 1.mtuk melaksanakan upaya pencegahan  terjadinya kekerasan terhadap Perempuan dan Anak  sebagaimana dimaksud dalam Pasal 17 ayat (3) huruf e  dan ayat (4) huruf i dilakukan dalam bentuk:  
 a. mengumpulkan data dan menyelenggarakan sistem  informasi Perlindungan Perempuan dan Anak korban  kekerasan;  
-b. melakukan pendidikan tentang nilai anti kekerasan  terhadap Perempuan dan Anak; danc. melakukan sosialis.u:.i peraturan perundang undangan yang bcrkaitan dengan pemberdayaan Perempuan dan Perlindungan Anak korban  kckerasan.  
-2. Pemerintah Daerah berkewajiban dan bertanggung  jawab untuk menyediakan dan menyelenggarakan  layanan bagi korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga  pelayanan teknis untuk korban dengan melibatkan  unsur masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya  pelindungan terhadap korban kekcrasan.  
+b. melakukan pendidikan tentang nilai anti kekerasan  terhadap Perempuan dan Anak; dan  
+c. melakukan sosialis.u:.i peraturan perundang undangan yang bcrkaitan dengan pemberdayaan Perempuan dan Perlindungan Anak korban  kckerasan.  
+2. Pemerintah Daerah berkewajiban dan bertanggung  jawab untuk menyediakan dan menyelenggarakan  layanan bagi korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga  pelayanan teknis untuk korban dengan melibatkan  unsur masyarakat; dan  
+b. mendorong kepedulian masyarakat akan pentingnya  pelindungan terhadap korban kekcrasan.  
 
 ## Bagian Ketiga
 
@@ -355,7 +363,8 @@ c. sekolah dan/atau lembaga pendidikan;
 d . forum Anak;  
 e. sanggar anak;  
 f. organisasi kemasyarakatan;  
-g. organisasi Pcrcmpuan; danh. lembaga lain yang peduli pada pemenuhan hak dan  Perlindungan Annk.  
+g. organisasi Pcrcmpuan; dan  
+h. lembaga lain yang peduli pada pemenuhan hak dan  Perlindungan Annk.  
 5. Gugus lugas sebagaimana dimaksud pada ayat (4)  merupakan lembaga koordinatif tingkat kota, kecamatan  dan kelurahan yang mengoordinasikan kebijakan,  program dan kegjat.an untuk mewujudkan kecamatan,  kelurahnn ra.mah Anak.  
 6. Ketentuan lcbih lanjul n1engenai pelayanan teknis  sebagaimana dimaksud pada ayat (3) d.iatur dengan  Peraturan Walikota.  
 
@@ -391,7 +400,8 @@ Bentuk pelayanan terhadap korban yang diselenggarakan  oleh P2TP2A meliputi: a .
 b. pelayanan medicolegal;  
 c. pelayanan psikososial;  
 d. pelayanan hukum;  
-e. pelayanan reintegrasi sosial; danf. pelayanan kemandirian ekonomi.  
+e. pelayanan reintegrasi sosial; dan  
+f. pelayanan kemandirian ekonomi.  
 
 #### Pasal 26
 
@@ -405,7 +415,8 @@ Ketentuan lebih lanjut mengenai P2TP2A sebagaimana  dimaksud dalam Pasal 22 ayat
 
 1. Dalam rangka melindungi dan menjamin hak  Perempuan dan Anak dari lindak kekeras an dibentuk  FPK2PA.  
 2. FPK2PA sebagaimana dimaksud pada ayat (1) terdiri  dari: a . FPK2PA Daerah;  
-b. FPK2PA kecamatan; danc. FPK2PA kelurahan.  
+b. FPK2PA kecamatan; dan  
+c. FPK2PA kelurahan.  
 3. Pembentukan FPK2PA Daerah sebagaimana dimaksud  pada ayat (2) hi.in.if a ditctapkan Oleh Walikota.  
 
 ##### I II
@@ -471,7 +482,8 @@ I 11 • 19 - (3) Pembinaan dan pengawasan sebagaimana dimaksud  pada ayat (1) m
 a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan;  
-d. pemantauan clan evaluasi; dane. pelaporan.  
+d. pemantauan clan evaluasi; dan  
+e. pelaporan.  
 4. Pembinaan clan pcngawasan sebagaimana dimaksud  pada ayat (1) untuk mevrojudkan tujuan Perlindungan  Perempuan dan Anak sesuai norma standar prosedu,  dan kriteria yang dilaksanakan oleh PD yang  menyelenggarakan urusan di bidang pcmberdayaan  Perempuan dan Perlindungan Anak.  
 5. Pembinaan dan pengawasan sebagaimana dimaksud  pada ayat ( 1) dilakukan dcngan prinsip profesional dan  transparan.  
 6. Dalam melaksanakan pembinaan dan pengawasan  sebagaimana dimaksud pada ayat (1), PD yang  menyelenggarakan urusan di bidang pemberdayaan  Perempuan dan Perlindungan Anak wajib melaporkan  secara berkala kepada \Valikota.  

@@ -18,6 +18,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk mewujudkan hak konstitusional setiap warga Negara sesuai dengan prinsip persamaan kedudukan dihadapan hukum, maka Pemerintah Daerah perlu berupaya untuk menjamin Perlindungan hak asasi manusia bagi Perempuan dan Anak;  
 b. bahwa Perempuan dan Anak termasuk kelompok rentan yang cenderung mengalami Kekerasan, sehingga perlu mendapatkan Perlindungan yang optimal;  
 c. bahwa Perlindungan sebagaimana dimaksud huruf b, termasuk dalam urusan wajib yang menjadi tugas, wewenang dan tanggung jawab Pemerintah Daerah dan pencegahannya harus melibatkan semua pihak;  
@@ -245,7 +246,8 @@ e. memperoleh pekerjaan sesuai kemampuan, syarat-syarat serta upah yang layak da
 f. khusus bagi Perempuan penyandang disabilitas, berhak untuk mendapatkan kemudahan dan perlakuan khusus dalam pelayanan publik;  
 g. berperan aktif di bidang politik dan pemerintahan sesuai dengan potensi dan kemampuan yang dimilikinya;  
 h. mendapatkan informasi dan pelayanan hukum;  
-i. memperoleh pelayanan untuk meningkatkan pendapatannya; danj. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan berdasarkan ketentuan peraturan perundang-undangan.  
+i. memperoleh pelayanan untuk meningkatkan pendapatannya; dan  
+j. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan berdasarkan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 11
 
@@ -254,7 +256,8 @@ a. memperoleh pendidikan dan pengajaran sesuai dengan tingkat umur, kondisi fisi
 b. hidup, tumbuh, berkembang dan berpartisipasi secara wajar sesuai harkat dan martabat kemanusiaan, serta mendapat Perlindungan dari tindak Kekerasan, eksploitasi, diskriminasi dan penelantaran;  
 c. dipenuhi kebutuhannya oleh keluarga;  
 d. mendapat bimbingan agama;  
-e. mendapatkan identitasnya; danf. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan berdasarkan ketentuan peraturan perundang-undangan.  
+e. mendapatkan identitasnya; dan  
+f. memperoleh hak-hak lain sesuai dengan martabat kemanusiaannya dan berdasarkan ketentuan peraturan perundang-undangan.  
 
 #### Pasal 12
 
@@ -271,7 +274,8 @@ a. pencegahan dan Perlindungan;
 b. Penanganan, pemulihan korban Kekerasan;  
 c. Rehabilitasi, Reintegrasi dan pemberdayaan;  
 d. pelayanan penegakan hukum dan bantuan hukum;  
-e. fasilitasi peradilan Anak; danf. pembudayaan sistem sosial yang berkeadilan gender.  
+e. fasilitasi peradilan Anak; dan  
+f. pembudayaan sistem sosial yang berkeadilan gender.  
 
 ### Paragraf 1
 
@@ -298,7 +302,8 @@ r. jaminan Perlindungan dan pemenuhan hak Anak sejak dalam kandungan dan hak Per
 s. pemenuhan kebutuhan Anak sesuai dengan usia Anak;  
 t. Pendampingan dan layanan kesehatan reproduksi dan psikis bagi Anak usia remaja dan Perempuan;  
 u. pengembangan Program Pendewasaan usia perkawinan;  
-v. penguatan fungsi Lembaga atau organisasi non pemerintah yang bergerak dibidang pemberdayaan Anak; danw. mendorong dan memfasilitasi pengembangan Kabupaten Layak Anak.  
+v. penguatan fungsi Lembaga atau organisasi non pemerintah yang bergerak dibidang pemberdayaan Anak; dan  
+w. mendorong dan memfasilitasi pengembangan Kabupaten Layak Anak.  
 2. Pelaksanaan pencegahan sebagaimana dimaksud pada ayat (1) dapat bekerja sama dengan Lembaga Pendidikan, Lembaga Keagamaan, Media, Badan Usaha dan/atau LSM.  
 
 #### Pasal 15
@@ -315,7 +320,8 @@ Penanganan, Pemulihan Korban Kekerasan
 1. SKPD terkait yang membidangi sosial, kesehatan, dan Perlindungan Perempuan dan Anak, menyelenggarakan Penanganan dan Pemulihan dalam bentuk:a. melakukan Pendampingan proses hukum;  
 b. melakukan mediasi dan /atau penyelesaian sengketa;  
 c. mendampingi rujukan, pemulihan psikologis dan medis;  
-d. mendampingi proses identitas hukum bagi Perempuan dan Anak; dane. melakukan konseling.  
+d. mendampingi proses identitas hukum bagi Perempuan dan Anak; dan  
+e. melakukan konseling.  
 2. Pelaksanaan Penanganan dan Pemulihan sebagaimana dimaksud pada ayat (1) dapat bekerja sama dengan, Kepolisian, Rumah Sakit, Pusat Pelayanan Terpadu, Lembaga Bantuan Hukum, Badan Usaha dan/atau LSM.  
 
 ### Paragraf 3
@@ -330,7 +336,8 @@ c. penyembuhan atau pemulihan;
 d. pengembalian kepada keluarga dan Masyarakat;  
 e. memfasilitasi pengembangan minat dan bakat bagi Perempuan dan Anak;  
 f. mengembangkan usaha ekonomi bagi Perempuan dewasa;  
-g. mengembangkan ruang-ruang kreatifitas bagi Anak; danh. melakukan Pengawasan, monitoring dan evaluasi terhadap proses Rehabilitasi, Reintegrasi dan Pemberdayaan.  
+g. mengembangkan ruang-ruang kreatifitas bagi Anak; dan  
+h. melakukan Pengawasan, monitoring dan evaluasi terhadap proses Rehabilitasi, Reintegrasi dan Pemberdayaan.  
 2. Pelaksanaan Rehabilitasi, Reintegrasi dan Pemberdayaan sebagaimana dimaksud pada ayat (1) huruf a, sampai dengan huruf d dapat bekerja sama dengan Lembaga pendidikan, tempat-tempat Rehabilitasi, Rumah aman, Lembaga swasta dan/atau LSM.  
 3. Mekanisme Penyelenggaraan Perlindungan Kekerasan terhadap Perempuan dan Anak diselenggarakan menurut Standar Operasional Prosedur (SOP) dan Standar Pelayanan (SP) yang akan diatur lebih lanjut dengan Peraturan Bupati.  
 
@@ -342,7 +349,8 @@ Bantuan Hukum
 
 Pelayanan bantuan hukum ditujukan untuk memberikan Pendampingan dan Perlindungan terhadap Perempuan dan Anak korban Kekerasan dengan pendekatan responsif gender agar korban dan pelaku mendapatkan keadilan dan kepastian hak-hak hukumnya.  
 
-2. Jenis pelayanan bantuan hukum meliputi:a. bantuan hukum litigasi; danb. bantuan hukum non litigasi.  
+2. Jenis pelayanan bantuan hukum meliputi:a. bantuan hukum litigasi; dan  
+b. bantuan hukum non litigasi.  
 3. Pemerintah Daerah menyelenggarakan bantuan hukum sesuai peraturan perundang-undangan yang berlaku.  
 4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Daerah bekerjasama dengan organisasi advocad  yang ada di Daerah.  
 
@@ -358,11 +366,13 @@ b. peningkatan koordinasi dengan aparat penegak hukum;
 c. penyediaan sarana dan prasarana penunjang pelaksanaan sistem peradilan pidana Anak;  
 d. pengembangan metode yang efektif melalui dukungan informasi, fasilitas dan aktifitas positif serta melakukan tindakan segera pada kesenjangan yang mendorong Anak dan/atau kelompok Anak melakukan pelanggaran hukum;  
 e. penyediaan dan pemberian layanan bantuan hukum dan psikososial dalam mewujudkan proses keadilan restorasi dan diversi bagi Anak yang berhadapan dengan hukum;  
-f. mendorong perubahan paradigma Masyarakat terhadap Anak yang berhadapan dengan hukum; dang. mengembangkan mekanisme diversi bagi Anak yang berhadapan dengan hukum sesuai dengan peraturan Perundang-undangan yang berlaku.  
+f. mendorong perubahan paradigma Masyarakat terhadap Anak yang berhadapan dengan hukum; dan  
+g. mengembangkan mekanisme diversi bagi Anak yang berhadapan dengan hukum sesuai dengan peraturan Perundang-undangan yang berlaku.  
 3. SKPD terkait yang membidangi sosial dan pendidikan menyelenggarakan Rehabilitasi sosial dan pendidikan Anak yang berhadapan dengan hukum dalam bentuk:a. penyediaan Rumah aman;  
 b. Rehabilitasi psikososial;  
 c. Rehabilitasi mental spiritual;  
-d. pemenuhan hak pendidikan; dane. Reintegrasi sosial.  
+d. pemenuhan hak pendidikan; dan  
+e. Reintegrasi sosial.  
 
 ### Paragraf 6
 
@@ -371,7 +381,8 @@ Pembudayaan Sistem Sosial Yang Berkeadilan Gender
 #### Pasal 20
 
 1. Pembudayaan sistem sosial yang berkeadilan gender meliputi:a. sistem perencanaan, anggaran dan pembangunan berbasis gender;  
-b. pembangunan kapasitas SDM berbasis gender; danc. hak politik berbasis gender.  
+b. pembangunan kapasitas SDM berbasis gender; dan  
+c. hak politik berbasis gender.  
 2. Ketentuan yang dimaksud pada ayat (1) dilaksAnakan dalam bentuk pengarusutamaan gender dalam setiap kebijakan dan kehidupan Masyarakat.  
 
 #### Pasal 21
@@ -421,7 +432,8 @@ g. membentuk sistem pencegahan Kekerasan, pemetaan lokasi atau wilayah rawan ter
 b. Masyarakat;  
 c. Lembaga pendidikan;  
 d. Lembaga kesehatan;  
-e. Lembaga sosial keMasyarakatan; danf. dunia usaha dan Lembaga lainnya.  
+e. Lembaga sosial keMasyarakatan; dan  
+f. dunia usaha dan Lembaga lainnya.  
 
 #### Pasal 25
 
@@ -458,7 +470,8 @@ PENGUATAN DAN PENGEMBANGAN LEMBAGA PENYEDIA LAYANAN PERLINDUNGAN PEREMPUAN DAN A
 #### Pasal 28
 
 Dalam rangka Perlindungan Perempuan dan Anak, di Daerah dibentuk: Pusat Pelayanan Terpadu, yang berbentuk Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A);  
-b. Lembaga Perlindungan Anak (LPA); danc. Lembaga lain sesuai kebutuhan dan/atau ketentuan peraturan perundang-undangan.  
+b. Lembaga Perlindungan Anak (LPA); dan  
+c. Lembaga lain sesuai kebutuhan dan/atau ketentuan peraturan perundang-undangan.  
 
 #### Pasal 29
 
@@ -506,7 +519,8 @@ Partisipasi Masyarakat
 
 1. Masyarakat dapat berperan serta dalam Perlindungan Perempuan dan Anak.  
 2. Peran serta Masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan dalam bentuk:a. membantu Pemerintah Daerah dalam bentuk Pengawasan Perlindungan terhadap Penyelenggaraan Perlindungan Perempuan dan Anak;  
-b. melaporkan kepada pihak yang berwenang apabila mengetahui Perempuan dan Anak yang mengalami Kekerasan; danc. berpartisipasi dalam proses pencegahan, pemulihan, Rehabilitasi, Reintegrasi dan Pemberdayaan korban.  
+b. melaporkan kepada pihak yang berwenang apabila mengetahui Perempuan dan Anak yang mengalami Kekerasan; dan  
+c. berpartisipasi dalam proses pencegahan, pemulihan, Rehabilitasi, Reintegrasi dan Pemberdayaan korban.  
 
 ## Bagian Kedua
 

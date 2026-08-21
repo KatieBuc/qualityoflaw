@@ -19,6 +19,7 @@ Menimbang Mengingat:
  
  
  
+ 
 a. bahwa dengan ditetapkannya Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014  tentang Perubahan atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak dan Undang-Undang  Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga maka dipandang perlu mencegah dan  menanggulangi kekerasan terhadap Perempuan dan Anak  melalui perlindungan hukum terhadap Perempuan dan Anak  korban kekerasan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempuan dan Anak korban kekerasan;  
 
@@ -103,13 +104,15 @@ c. non diskriminasi;
 d. kepentingan terbaik bagi korban;  
 e. kearifan lokal;  
 f. hak untuk hidup, kelangsungan hidup dan perkembangan anak;  
-g. penghargaan terhadap pendapat korban; danh. kepastian hukum.  
+g. penghargaan terhadap pendapat korban; dan  
+h. kepastian hukum.  
 
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak korban kekerasan bertujuan:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
-b. melindungi perempuan dan anak serta memberikan pelayanan kepada  perempuan dan Anak korban kekerasan; danc. pemberdayaan perempuan dan Anak korban kekerasan.  
+b. melindungi perempuan dan anak serta memberikan pelayanan kepada  perempuan dan Anak korban kekerasan; dan  
+c. pemberdayaan perempuan dan Anak korban kekerasan.  
 
 #### Pasal 4
 
@@ -121,7 +124,8 @@ d. standar pelayanan minimal;
 e. rumah perlindungan sosial;  
 f. pelaporan;  
 g. pembinaan dan pengawasan;  
-h. peran serta masyarakat; dani. pendanaan.  
+h. peran serta masyarakat; dan  
+i. pendanaan.  
 
 # BAB III
 
@@ -141,7 +145,8 @@ f. mendapatkan pelayanan bimbingan rohani.
 
 Anak korban kekerasan, selain mendapatkan hak-hak sebagaimana dimaksud dalam Pasal 5, juga mendapatkan hak-hak khusus sebagai berikut:  
 a. penghormatan atas kelangsungan hidup, tumbuh dan berkembang;  
-b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; danc. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
+b. untuk pendidikan, kesehatan dan akses kepada orang tua selama proses  penanganan berlangsung; dan  
+c. mendapatkan perlindungan yang sama berkaitan dengan status,  kewarganegaraan, ras, warna kulit, jenis kelamin, bahasa, agama, politik,  disabilitas, kelahiran atau status lain.  
 
 6 -
 
@@ -168,7 +173,8 @@ i. melakukan tindakan preventive dalam rangka mencegah terjadinya  pelanggaran t
 1. Masyarakat dapat berpartisipasi dan bertanggung jawab dalam pelayanan,  pencegahan, pendampingan, pemulihan dan pemantauan terhadap korban  kekerasan.  
 2. Partisipasi masyarakat dan tanggung jawab sebagaimana dimaksud pada ayat (1)  diselenggarakan dalam bentuk:a. mencegah terjadinya tindak kekerasan terhadap Perempuan dan Anak;  
 b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  Perempuan dan Anak kepada pihak yang berwenang;  
-c. memberikan pertolongan darurat; dand. memberikan perlindungan terhadap korban kekerasan.  
+c. memberikan pertolongan darurat; dan  
+d. memberikan perlindungan terhadap korban kekerasan.  
 
 # BAB V
 
@@ -184,7 +190,8 @@ d. bantuan hukum;
 e. pemulihan/layanan psikologis;  
 
 7 -
-f. mediasi; dang. pemulangan dan reintegrasi sosial.  
+f. mediasi; dan  
+g. pemulangan dan reintegrasi sosial.  
 3. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (2) dilaksanakan  sesuai dengan SPM.  
 
 # BAB VI
@@ -200,7 +207,8 @@ b. rehabilitasi kesehatan bagi perempuan dan anak korban kekerasan;
 c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
 d. bantuan hukum bagi perempuan dan anak korban kekerasan;  
 e. pemulihan/ layanan psikologis bagi perempuan dan anak korban kekerasan;  
-f. mediasi bagi perempuan dan anak korban kekerasan; dang. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+f. mediasi bagi perempuan dan anak korban kekerasan; dan  
+g. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
 #### Pasal 11
 
@@ -244,7 +252,8 @@ Rumah Perlindungan Sosial dan atau Rumah Aman sebagaimana dimaksud ( 2) pada aya
 b. bimbingan teknis dan pelatihan;  
 c. supervisi;  
 d. penyediaan fasilitas;  
-e. monitoring; danf. evaluasi.  
+e. monitoring; dan  
+f. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan  tujuan perlindungan perempuan dan Anak korban kekerasan sesuai standar  pelayanan minimal.  
 
 # BAB X
@@ -256,7 +265,8 @@ e. monitoring; danf. evaluasi.
 1. Dalam menyelenggarakan perlindungan terhadap Perempuan dan Anak korban  kekerasan, masyarakat dapat:a. membentuk mitra keluarga ditingkat kelurahan dan desa berkoordinasi  dengan Damang atau Mantir Adat dan Tokoh Masyarakat;  
 b. membentuk unit perlindungan Perempuan dan Anak di dalam organisasi  kemasyarakatan;  
 c. melakukan sosialisasi hak Perempuan dan Anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya teijadi  kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya teijadi  kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh  perorangan, mitra keluarga, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 
 # BAB XI
@@ -266,7 +276,8 @@ d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi
 #### Pasal 16
 
 * \ Dana penyelenggaraan perlindungan terhadap Perempuan dan Anak korban  kekerasan, bersumber dari: - 9 -
-a. APBNb. APBD; danc. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
+a. APBNb. APBD; dan  
+c. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB XII
 

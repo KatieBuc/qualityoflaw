@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak  berhak memperoleh perlindungan atas setiap tindakan kekerasan yang dilakukan terhadapnya yang  menimbulkan korban fisik maupun psykis, sebagai  bagian dari pengakuan dan penegakan hak asasi  manusia;  
 b. bahwa perlindungan bagi perempuan dan anak korban  kekerasan adalah upaya untuk memberikan rasa aman  dan bebas dari segala perbuatan kekerasan yang dijamin  oleh pancasila sebagai falsafah negara, Undang-Undang  dasar Negara Republik Indonesia sebagai dasar hukum tertinggi dalam negara maupun berbagai peraturan  perundangan lainya;  
 c. bahwa perlindungan terhadap perempuan dan anak  korban kekerasan merupakan salah sat aspek dari tugas  dan tanggung jawab pemerintah daerah dalam  memberikan perlindungan dan pelayanan kepada  masyarakat;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu ditetapkan dengan Peraturan Daerah Kota Tual tentang  Penyelenggaraan Perlindungan Perempuan dan Anak  Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -104,7 +106,8 @@ b. Non-diskriminasi;
 c. Kepentingan yang terbaik bagi perempuan dan atau anak;  
 d. Hak untuk hidup, kelangsungan hidup, dan perkembangan;  
 e. Penghargaan terhadap pendapat perempuan dan anak;  
-f. Keadilan dan kesetaraan gender; dang. Perlindungan korban.  
+f. Keadilan dan kesetaraan gender; dan  
+g. Perlindungan korban.  
 
 #### Pasal 2
 
@@ -114,7 +117,8 @@ Tujuan penyelenggaraan perlindungan perempuan dan anak korban  kekerasan adalah 
 
 Adapun kegiatan pencegahan terjadinya kekerasan sebagaimana dimaksud  pada pasal 3 meliputi:  
 a. Sosialisasi;  
-b. Diseminasi; danc. Pelatihan;  
+b. Diseminasi; dan  
+c. Pelatihan;  
 
 #### Pasal 4
 
@@ -122,7 +126,8 @@ Adapun kegiatan perlindungan dan pelayanan terhadap korban sebagaimana  dimaksud
 a. Pengaduan;  
 b. Pelayanan Kesehatan;  
 c. Pelayanan Rehabilitasi social;  
-d. Layanan Bantuan Hukum; dane. Layanan Pemulangan dan Reintegrasi Sosial.  
+d. Layanan Bantuan Hukum; dan  
+e. Layanan Pemulangan dan Reintegrasi Sosial.  
 
 # BAB II
 
@@ -137,7 +142,8 @@ c. mendapatkan informasi;
 d. pelayanan optimal;  
 e. pelayanan berkelanjutan sampai dengan tahap rehabilitas;  
 f. penanganan rahasia;  
-g. pendampingan psykologis dan bantuan hukum; danh. menetukan keputusan sendiri;  
+g. pendampingan psykologis dan bantuan hukum; dan  
+h. menetukan keputusan sendiri;  
 
 # BAB III
 
@@ -203,7 +209,8 @@ Penanganan dan Mekanisme
 2. Penyelenggaraan perlindungan kepada korban sebagaimana dimaksud  pada ayat (1), harus memeperhatikan norma-norma agama serta hak dan  kewajiban orang tua, wali, suami atau orang lain yang secara hukum  bertanggungjawab terhadap korban.  
 3. Prinsip pelayanan dan pendampingan:c. cepat, aman dan empati;  
 d. adanya jaminan kerahasiaan;  
-e. mudah dijangkau; danf. tidak dipungut biaya.  
+e. mudah dijangkau; dan  
+f. tidak dipungut biaya.  
 4. Mekanisme penanganan perlindungan sebagaimana dimaksud ayat (1),  dilksanakan sesuai standar operasional prosedur.  
 
 # BAB V
@@ -258,7 +265,8 @@ Pembinaan
 
 1. Pemerintah Daerah berkewajiban melakukan pembinaan  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  (2) Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
-c. penyediaan fasilitas; dand. pemantauan dan evaluasi.  
+c. penyediaan fasilitas; dan  
+d. pemantauan dan evaluasi.  
 
 ## Bagian Kedua
 
@@ -267,7 +275,8 @@ Pengawasan
 #### Pasal 18
 
 1. Pemerintah daerah berkewajiban melakukan pengawasan terhadap  penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  (2) Pengawasan sebagaimana dimaksud pada ayat (1) dilakukan dengan  prinsip:a. profesional;  
-b. transparan; danc. akuntabel.  
+b. transparan; dan  
+c. akuntabel.  
 
 # BAB VIII
 

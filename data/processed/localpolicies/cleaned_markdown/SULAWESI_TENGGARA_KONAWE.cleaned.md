@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 b. bahwa anak dan perempuan merupakan kelompok  rentan mengalami kekerasan dimana segala bentuk kekerasan terhadap anak dan perempuan merupakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan sehingga perlu perlindungan hukum untuk melindungi harga diri dan martabatnya serta menjamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 c. bahwa kekerasan terhadap anak dan perempuan di  Kabupaten Konawe menunjukan angka yang cukup tinggi dan terus meningkat, sehingga diperlukan upaya perlindungan;  
@@ -29,6 +30,7 @@ e. bahwa penyelenggaraan Perlindungan Anak dan  Perempuan Korban Kekerasan di Ka
 f. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b, huruf c, huruf d dan huruf e diatas, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan di Kabupaten Konawe;  
 
 Mengingat:  
+ 
  
  
  
@@ -110,17 +112,20 @@ Dalam Peraturan Daerah ini, yang dimaksud dengan:  1. Daerah adalah Kabupaten Ko
 Penyelenggaraan perlindungan perempuan dan anak korban  kekerasan, dilaksanakan berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan;  
-c. nondiskriminasi; dand. perlindungan korban;  
+c. nondiskriminasi; dan  
+d. perlindungan korban;  
 
 #### Pasal 3
 
 1. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, adalah untuk:a. mencegah kekerasan terhadap anak dan perempuan;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap  anak dan perempuan;  
 c. melindungi dan memberikan rasa aman bagi anak dan  perempuan;  
-d. memberikan pelayanan kepada anak dan perempuan korban  kekerasan, pelapor, dan saksi; dane. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang  harmonis dan sejahtera.  
+d. memberikan pelayanan kepada anak dan perempuan korban  kekerasan, pelapor, dan saksi; dan  
+e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah  tangga untuk mewujudkan keutuhan rumah tangga yang  harmonis dan sejahtera.  
 2. Tujuan penyelenggaraan perlindungan anak dan perempuan  korban kekerasan sebagaimana dimaksud pada ayat (1), meliputi  aspek:a. pencegahan;  
 h. pelayanan dan pendampingan;  
-c. reunifikasi; dand. pemberdayaan.  
+c. reunifikasi; dan  
+d. pemberdayaan.  
 
 # BAB II I
 
@@ -131,7 +136,8 @@ c. reunifikasi; dand. pemberdayaan.
 Bentuk-bentuk kekerasan terhadap anak dan perempuan berupa:  a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran; dane. eksploitasi.  
+d. penelantaran; dan  
+e. eksploitasi.  
 
 #### Pasal 5
 
@@ -181,7 +187,8 @@ g. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota  keluarga m
 Anak korban kekerasan, selain mendapat hak sebagaimana dimaksud  dalam Pasal 10, juga mendapatkan hak khusus sebagai berikut:  a. hak atas penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB V
 
@@ -200,7 +207,8 @@ c. keluarga dan orangtua.
 b. menetapkan kebijakan, program, dan kegiatan perlindungan  terhadap anak dan perempuan korban kekerasan;  
 c. pembentukan PPT;  
 d. menjamin terlaksananya kemudahan pelayanan kepada  korban;  
-e. mengupayakan efektivitas dan efisiensi bagi proses pemulihan  korban; danf. mengupayakan terciptanya kerjasama dan koordinasi dalam  upaya pemulihan korban.  
+e. mengupayakan efektivitas dan efisiensi bagi proses pemulihan  korban; dan  
+f. mengupayakan terciptanya kerjasama dan koordinasi dalam  upaya pemulihan korban.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1) huruf b, pemerintah daerah  menetapkan program dan kegiatan aksi perlindungan terhadap  anak dan perempuan dalam 1 (satu) Rencana Aksi Daerah sebagai  dasar bagi perangkat daerah dalam melaksanakan perlindungan  terhadap perempuan dan anak korban kekerasan.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2),  merupakan bagian Rencana Pembangunan Jangka Menengah  Daerah (RPJMD).  
 4. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), diatur  lebih lanjut dengan Peraturan Bupati.  
@@ -238,7 +246,8 @@ Kelembagaan
 7. Dalam hal PPT belum memiliki rumah aman, maka korban  kekerasan dirujuk pada PPT yang memiliki rumah aman.  (8) PPT terdiri dari beberapa bidang konseling.  
 9. Bidang konseling sebagaimana dimaksud pada ayat (8) paling  kurang terdiri dari:a. bidang hukum;  
 b. bidang kesehatan;  
-c. bidang rohani; dand. bidang psikologi.  
+c. bidang rohani; dan  
+d. bidang psikologi.  
 10. Ketentuan lebih lanjut mengenai struktur organisasi PPT diatur  dengan Peraturan Bupati.  
 
 ## Bagian Kedua
@@ -287,7 +296,8 @@ Prinsip-Prinsip Pelayanan dan Pendampingan
 Penyelenggaraan pelayanan dan pendampingan terhadap korban,  dilakukan dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
-c. mudah dijangkau; dand. tidak dipungut biaya.  
+c. mudah dijangkau; dan  
+d. tidak dipungut biaya.  
 
 ## Bagian Kelima
 
@@ -300,7 +310,8 @@ b. pelayanan kesehatan;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
-f. pelayanan identifikasi; dang. pelayanan psikologis.  
+f. pelayanan identifikasi; dan  
+g. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1),  dilaksanakan sesuai standar pelayanan minimal yang ditetapkan  pemerintah dan dilaksanakan oleh perangkat daerah yang tugas dan  fungsinya di bidang:a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak; dan  14d. mental dan spiritual.  
@@ -317,9 +328,11 @@ c. pemberdayaan perempuan dan perlindungan anak; dan  14d. mental dan spiritual.
 2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dimaksud pada ayat (1), dilakukan  dengan prinsip:a. profesional;  
-b. transparan; danc. akuntabel.  
+b. transparan; dan  
+c. akuntabel.  
 
 #### Pasal 25
 
@@ -334,7 +347,8 @@ Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 24  ayat (2) dan ayat 
 1. PPT melaporkan pelaksanaan penyelenggaraan perlindungan  terhadap anak dan perempuan korban kekerasan kepada Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada  ayat (2), dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB VII I
@@ -344,7 +358,8 @@ c. pelayanan; dand. kinerja.
 #### Pasal 27
 
 Dana untuk penyelenggaraan perlindungan anak dan perempuan  korban kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 28
 

@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan  anak agar dapat berpartisipasi secara optimal sesuai dengan  harkat dan martabat kemanusiaan, serta mendapat perlindungan  dari kekerasan, perlu dilakukan upaya-upaya perlindungan  terhadap perempuan dan anak secara optimal melalui  peningkatan peran serta masyarakat secara luas;  
 b. bahwa maraknya kasus kekerasan terhadap perempuan dan  anak di Kabupaten Garut diperlukan penanganan dan tindakan  nyata dari Pemerintah Daerah untuk menyusun kebijakan dan  program untuk menghapuskan segala bentuk kekerasan  terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -125,7 +127,8 @@ Perlindungan perempuan dan anak dari kekerasan berdasarkan asas:
 a. kemanusiaan;  
 b. keadilan dan kesetaraan gender;  
 c. pengayoman;  
-d. kepentingan terbaik bagi perempuan dan anak; dane. non diskriminasi.  
+d. kepentingan terbaik bagi perempuan dan anak; dan  
+e. non diskriminasi.  
 
 #### Pasal 3
 
@@ -138,7 +141,8 @@ a. mencegah kekerasan terhadap perempuan dan anak;
 b. menghapus segala bentuk kekerasan terhadap perempuan dan anak;  
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak korban kekerasan;  
-e. melakukan rehabilitasi dan reintegrasi terhadap perempuan dan anak korban  kekerasan; danf. melakukan pemberdayaan perempuan dan anak korban kekerasan.  
+e. melakukan rehabilitasi dan reintegrasi terhadap perempuan dan anak korban  kekerasan; dan  
+f. melakukan pemberdayaan perempuan dan anak korban kekerasan.  
 
 # BAB III
 
@@ -155,7 +159,8 @@ e. kelembagaan;
 f. kerjasama dan kemitraan;  
 g. pemantauan dan evaluasi;  
 h. pelaporan;  
-i. pendanaan; danj. Sanksi.  
+i. pendanaan; dan  
+j. Sanksi.  
 
 # BAB IV
 
@@ -185,7 +190,8 @@ c. pemaksaan hubungan seksual dengan tidak wajar atau tidak disukai;  dan/ataud.
 4. Penelantaran sebagaimana dimaksud dalam Pasal 6 huruf d, meliputi:a. perbuatan yang mengakibatkan tidak terpenuhinya kebutuhan anak secara  wajar, baik fisik, mental, spiritual maupun sosial yang dilakukan oleh orang  tua, wali, atau pihak lain manapun yang bertanggung jawab atas  pengasuhannya;  
 b. perbuatan mengabaikan dengan sengaja untuk memelihara, merawat, atau  mengurus anak sebagaimana mestinya yang dilakukan oleh orang tua, wali,  atau pihak lain manapun yang bertanggung jawab atas pengasuhannya; dan/atauc. perbuatan mengabaikan perempuan dengan sengaja dalam lingkup rumah  tangganya, padahal menurut hukum yang berlaku baginya atau karena  persetujuan atau perjanjian ia wajib memberikan kehidupan, perawatan,  atau pemeliharaan kepada perempuan tersebut.  
 5. Eksploitasi sebagaimana dimaksud dalam Pasal 6 huruf e, meliputi:a. perbuatan mengeksploitasi ekonomi atau seksual dengan maksud untuk  menguntungkan diri sendiri atau orang lain;  
-b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual,  organ reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan  tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materil maupun immateril; danc. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari  korban untuk mendapatkan keuntungan, tetapi tidak terbatas pada  kegiatan pelacuran atau pencabulan.  
+b. perbuatan yang dengan atau tanpa persetujuan korban yang meliputi tapi  tidak terbatas pada pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan, pemanfaatan fisik, seksual,  organ reproduksi, atau secara melawan hukum memindahkan atau  mentransplantasi organ dan/atau jaringan tubuh atau memanfaatkan  tenaga atau kemampuan seseorang oleh pihak lain untuk mendapatkan  keuntungan baik materil maupun immateril; dan  
+c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari  korban untuk mendapatkan keuntungan, tetapi tidak terbatas pada  kegiatan pelacuran atau pencabulan.  
 6. Kekerasan lainnya sebagaimana dimaksud dalam Pasal 6 huruf f merupakan  ancaman kekerasan dan pemaksaan.  
 7. Ancaman kekerasan sebagaimana dimaksud pada ayat (6) meliputi setiap  perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau  gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang  menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang.  
 8. Pemaksaan sebagaimana dimaksud pada ayat (6) meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang  itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
@@ -206,7 +212,8 @@ f. hak kompensasi;
 g. hak atas rehabilitasi sosial;  
 h. hak atas penanganan pengaduan;  
 i. hak atas pendampingan;  
-j. hak untuk mendapatkan visum et repertum secara cuma-cuma; dank. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan.  
+j. hak untuk mendapatkan visum et repertum secara cuma-cuma; dan  
+k. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan.  
 
 #### Pasal 9
 
@@ -215,7 +222,8 @@ a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan  hidup, tu
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma;  
-e. hak mendapatkan kebebasan; danf. hak untuk diadili berdasarkan azas restorative justice.  
+e. hak mendapatkan kebebasan; dan  
+f. hak untuk diadili berdasarkan azas restorative justice.  
 
 # BAB VI
 
@@ -230,7 +238,8 @@ Umum
 Kewajiban dan tanggung jawab dalam penyelenggaraan perlindungan terhadap  perempuan dan anak dari kekerasan merupakan tanggungjawab bersama:  
 a. Pemerintah Daerah;  
 b. Pemerintah Desa;  
-c. Masyarakat; dand. Orangtua, Wali dan/atau Keluarga.  
+c. Masyarakat; dan  
+d. Orangtua, Wali dan/atau Keluarga.  
 
 ## Bagian Kedua
 
@@ -240,7 +249,8 @@ Pemerintah Daerah
 
 1. Pemerintah Daerah sebagaimana dimaksud dalam Pasal 10 huruf a,  berkewajiban dan bertanggung jawab untuk:a. menyusun dan melaksanakan program dan kegiatan terkait perlindungan  perempuan dan anak;  
 b. melaksanakan perlindungan perempuan dan anak dari kekerasan;  
-c. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar  pelayanan minimal sesuai ketentuan peraturan perundang-undangan; dand. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari  kekerasan sesuai kemampuan keuangan daerah.  
+c. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar  pelayanan minimal sesuai ketentuan peraturan perundang-undangan; dan  
+d. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari  kekerasan sesuai kemampuan keuangan daerah.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah menyusun program dan kegiatan  aksi perlindungan perempuan dan anak dalam rencana aksi daerah yang  merupakan bagian dari Rencana Pembangunan Jangka Menengah Daerah
 
 ##### (RPJMD).  
@@ -253,7 +263,8 @@ Pemerintah Desa
 
 1. Pemerintah Desa sebagaimana dimaksud dalam Pasal 10 huruf b, berkewajiban  dan bertanggung jawab untuk:a. menyusun dan melaksanakan program dan kegiatan terkait perlindungan  perempuan dan anak;  
 b. melaksanakan perlindungan perempuan dan anak dari kekerasan;  
-c. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar  pelayanan minimal sesuai ketentuan peraturan perundang-undangan; dand. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari  kekerasan sesuai kemampuan keuangan desa.  
+c. mengawasi pelayanan terhadap korban kekerasan berdasarkan standar  pelayanan minimal sesuai ketentuan peraturan perundang-undangan; dan  
+d. mengalokasikan anggaran perlindungan terhadap perempuan dan anak dari  kekerasan sesuai kemampuan keuangan desa.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Pemerintah Desa menyusun program dan kegiatan aksi  perlindungan perempuan dan anak dalam rencana aksi Desa yang merupakan  bagian dari Rencana Pembangunan Jangka Menengah Desa (RPJMDes).  
 
 ## Bagian Keempat
@@ -265,7 +276,8 @@ Masyarakat
 1. Masyarakat sebagaimana dimaksud dalam Pasal 10 huruf c berkewajiban dan  bertanggung jawab terhadap perlindungan perempuan dan anak melalui kegiatan  peran serta masyarakat dalam perlindungan perempuan dan anak.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:  
 a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam penanganan korban tindak kekerasan.  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dan  
+c. turut serta dalam penanganan korban tindak kekerasan.  
 
 ## Bagian Kelima
 
@@ -289,7 +301,8 @@ Umum
 Pemerintah Daerah melaksanakan kegiatan penyelenggaraan perlindungan  perempuan dan anak dari kekerasan, yang meliputi:  
 a. pencegahan;  
 b. pelayanan;  
-c. rehabilitasi sosial; dand. pemberdayaan.  
+c. rehabilitasi sosial; dan  
+d. pemberdayaan.  
 
 ## Bagian Kedua
 
@@ -300,15 +313,18 @@ Pencegahan
 1. Pencegahan sebagaimana dimaksud dalam Pasal 15 huruf a, dilaksanakan  dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan  berdasarkan pola kemitraan;  
 c. membentuk sistem pencegahan kekerasan;  
-d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak korban kekerasan; dane. memberikan pengetahuan tentang pencegahan dan mekanisme  penanggulangan kekerasan pada perempuan dan anak.  
+d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan perempuan dan anak korban kekerasan; dan  
+e. memberikan pengetahuan tentang pencegahan dan mekanisme  penanggulangan kekerasan pada perempuan dan anak.  
 2. Pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan secara terpadu  oleh Perangkat Daerah Kabupaten dan instansi terkait yang mempunyai tugas  pokok dan fungsinya di bidang:a. pemberdayaan perempuan dan perlindungan anak;  
 b. pendidikan;  
 c. kesehatan;  
 d. sosial;  
 e. ketenagakerjaan;  
-f. pemuda dan olah raga; dang. mental dan spritual.  
+f. pemuda dan olah raga; dan  
+g. mental dan spritual.  
 3. Selain dilaksanakan oleh Perangkat Daerah Kabupaten dan instansi terkait  sebagaimana dimaksud pada ayat (2), pencegahan juga dilaksanakan oleh:a. keluarga dan/atau kerabat terdekat;  
-b. masyarakat, LSM, organisasi masyarakat, organisasi sosial dan organisasi  keagamaan; danc. dunia usaha.  
+b. masyarakat, LSM, organisasi masyarakat, organisasi sosial dan organisasi  keagamaan; dan  
+c. dunia usaha.  
 
 ## Bagian Ketiga
 
@@ -328,7 +344,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 19
 
@@ -347,7 +364,8 @@ a. pelayanan terhadap perempuan dan anak korban tindak kekerasan, meliputi: 1. p
 #### Pasal 20
 
 Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 18 huruf a angka 1, meliputi:  
-a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (informed consent).  
+a. identifikasi atau pencatatan awal korban; dan  
+b. persetujuan dilakukan tindakan (informed consent).  
 
 #### Pasal 21
 
@@ -358,19 +376,22 @@ c. mendampingi korban selama proses medicolegal;
 d. mendampingi korban selama proses pemeriksaan di kepolisian, kejaksaan dan  pengadilan;  
 e. memantau kepentingan dan hak-hak korban dalam proses pemeriksaan  di kepolisian, kejaksaan dan pengadilan;  
 f. menjaga privasi dan kerahasiaan korban dari semua pihak yang tidak  berkepentingan, termasuk pemberitaan oleh media massa;  
-g. melakukan koordinasi dengan pendamping yang lain; danh. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
+g. melakukan koordinasi dengan pendamping yang lain; dan  
+h. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.  
 
 #### Pasal 22
 
 Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 19 huruf a angka 3  meliputi:  
 a. pertolongan pertama kepada korban oleh petugas yang berkompeten;  
-b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
+b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan  
+c. rujukan ke pelayanan kesehatan sesuai kebutuhan.  
 
 #### Pasal 23
 
 1. Pelayanan bantuan hukum sebagaimana dimaksud dalam Pasal 19 huruf a  angka 4 untuk membantu korban dalam menjalani proses peradilan.  
 2. Pelayanan bantuan hukum sebagaimana dimaksud pada ayat (1) dilakukan  dengan cara:a. memberikan konsultasi hukum yang mencakup informasi mengenai  hak-hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  menjelaskan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping,  dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
+b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  menjelaskan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak hukum, relawan pendamping,  dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 24
 
@@ -384,7 +405,8 @@ b. sosial;
 c. ketenagakerjaan;  
 d. kesehatan;  
 e. pendidikan;  
-f. keamanan dan ketertiban; dang. mental dan spiritual.  
+f. keamanan dan ketertiban; dan  
+g. mental dan spiritual.  
 2. Dalam pelaksanaan tugas dan fungsi sebagaimana dimaksud pada ayat (1)  Pemerintah Daerah bekerjasama dengan Pemerintah, Pemerintah Provinsi,  Pemerintah Kabupaten/Kota lain, dan masyarakat.  
 
 ## Bagian Keempat
@@ -396,12 +418,15 @@ Rehabilitasi Sosial
 1. Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 15 huruf c merupakan  pelayanan yang diberikan oleh pendamping untuk memulihkan kondisi traumatis  korban.  
 2. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) dilakukan dengan cara:a. memberikan bimbingan dan konseling terhadap korban dan orang tua  korban;  
 b. pemulihan kejiwaan korban;  
-c. pendampingan korban dan orang tua korban di lingkungan keluarga dan  masyarakat; dand. menyediakan rumah aman bagi korban kekerasan yang membutuhkan  penanganan berkelanjutan.  
+c. pendampingan korban dan orang tua korban di lingkungan keluarga dan  masyarakat; dan  
+d. menyediakan rumah aman bagi korban kekerasan yang membutuhkan  penanganan berkelanjutan.  
 3. Rehabilitasi sosial khusus bagi perempuan korban kekerasan dalam rumah  tangga dan perdagangan orang dilakukan dengan cara:a. pemberian bimbingan dan konseling;  
-b. pemulihan kejiwaan korban; danc. pendampingan korban di lingkungan keluarga dan masyarakat.  
+b. pemulihan kejiwaan korban; dan  
+c. pendampingan korban di lingkungan keluarga dan masyarakat.  
 4. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) dilaksanakan oleh  Perangkat Daerah Kabupaten yang mempunyai tugas pokok dan fungsi dibidang:a. sosial;  
 b. pemberdayaan perempuan dan perlindungan anak;  
-c. kesehatan; dand. mental dan spiritual.  
+c. kesehatan; dan  
+d. mental dan spiritual.  
 5. Selain dilaksanakan oleh Perangkat Daerah Kabupaten sebagaimana dimaksud  pada ayat (4), rehabilitasi sosial juga dapat dilaksanakan oleh masyarakat atau  lembaga pelayanan sosial.  
 
 ## Bagian Kelima
@@ -412,7 +437,8 @@ Pemberdayaan
 
 Pemberdayaan perempuan sebagaimana dimaksud dalam Pasal 15 huruf d, meliputi:  
 a. meningkatkan ketahanan hidup;  
-b. meningkatkan usaha ekonomi; danc. meningkatkan partisipasi perempuan sebagai pembangun, penengah dan  perunding perdamaian.  
+b. meningkatkan usaha ekonomi; dan  
+c. meningkatkan partisipasi perempuan sebagai pembangun, penengah dan  perunding perdamaian.  
 
 #### Pasal 28
 
@@ -423,12 +449,14 @@ Meningkatkan ketahanan hidup sebagaimana dimaksud dalam Pasal 27 huruf a  dilaku
 Meningkatkan usaha ekonomi sebagaimana dimaksud dalam Pasal 27 huruf b dengan  memberikan:  
 a. pelatihan keterampilan kerja;  
 b. pelatihan usaha ekonomi produktif;  
-c. pendampingan dalam pengembangan usaha ekonomi produktif; dand. kemudahan akses informasi dan promosi pemasaran hasil produk usaha  ekonomi produktif.  
+c. pendampingan dalam pengembangan usaha ekonomi produktif; dan  
+d. kemudahan akses informasi dan promosi pemasaran hasil produk usaha  ekonomi produktif.  
 
 #### Pasal 30
 
 Meningkatkan partisipasi perempuan sebagai pembangun, penengah dan perunding  perdamaian sebagaimana dimaksud dalam Pasal 27 huruf c dilakukan dengan  melibatkan perempuan:  
-a. dalam pelatihan sebagai pembangun, penengah dan perunding perdamaian; danb. sebagai inisiator, penengah dan perunding dalam proses membangun  perdamaian.  
+a. dalam pelatihan sebagai pembangun, penengah dan perunding perdamaian; dan  
+b. sebagai inisiator, penengah dan perunding dalam proses membangun  perdamaian.  
 
 # BAB VIII
 
@@ -443,7 +471,8 @@ Umum
 Untuk membantu perlindungan perempuan dan anak, Pemerintah Daerah dapat  membentuk:  
 a. P2TP2A di tingkat Daerah;  
 b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan;  
-c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan; dand. Lembaga atau organisasi lain sesuai ketentuan peraturan  perundang-undangan.  
+c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan; dan  
+d. Lembaga atau organisasi lain sesuai ketentuan peraturan  perundang-undangan.  
 
 ## Bagian Kedua
 
@@ -457,7 +486,8 @@ b. akademisi;
 c. ahli hukum;  
 d. psikolog;  
 e. psikiater;  
-f. tokoh agama; dang. unsur masyarakat.  
+f. tokoh agama; dan  
+g. unsur masyarakat.  
 3. Tugas pokok dari P2TP2A sebagaimana dimaksud pada ayat (1) adalah:  
 a. memberikan perlindungan terhadap perempuan dan anak; dan b. meningkatkan kualitas hidup perempuan dan anak.  
 4. Ketentuan lebih lanjut mengenai pembentukan P2TP2A ditetapkan dengan  Keputusan Bupati.  
@@ -474,11 +504,13 @@ b. dinas/instansi tingkat Kecamatan;
 c. unsur Kepolisian Sektor (Polsek);  
 d. unsur Komando Rayon Militer (Koramil);  
 e. tokoh masyarakat/tokoh agama;  
-f. unsur pemuda; dang. unsur Tim Penggerak PKK Kecamatan.  
+f. unsur pemuda; dan  
+g. unsur Tim Penggerak PKK Kecamatan.  
 3. Tugas pokok Gugus Tugas Perlindungan Perempuan dan Anak Tingkat  Kecamatan sebagaimana dimaksud pada ayat (1) adalah:a. memberikan pelayanan dalam rangka perlindungan perempuan dan anak;  
 b. menerima pengaduan masyarakat mengenai kasus kekerasan terhadap  perempuan dan anak di wilayah Kecamatan dan Kelurahan/Desa;  
 c. memfasilitasi perempuan dan anak yang menjadi korban kekerasan dalam  menyelesaikan permasalahannya;  
-d. mensosialisasikan kepada masyarakat tentang perlindungan perempuan dan  anak; dane. memberikan pendampingan bagi korban atau merujuk ke P2TP2A,  Kepolisian Sektor (Polsek)/Kepolisian Resor (Polres), rumah sakit atau  lembaga lain yang diperlukan.  
+d. mensosialisasikan kepada masyarakat tentang perlindungan perempuan dan  anak; dan  
+e. memberikan pendampingan bagi korban atau merujuk ke P2TP2A,  Kepolisian Sektor (Polsek)/Kepolisian Resor (Polres), rumah sakit atau  lembaga lain yang diperlukan.  
 4. Ketentuan lebih lanjut mengenai pembentukan, tugas, dan fungsi Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan sebagaimana dimaksud  pada ayat (1), ditetapkan dengan Keputusan Camat.  
 
 ## Bagian Keempat
@@ -492,10 +524,12 @@ Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan
 b. unsur Bintara Pembina Desa (Babinsa)/Kelurahan;  
 c. unsur Bintara Pembina Masyarakat (Babinmas);  
 d. tokoh masyarakat/tokoh agama;  
-e. unsur pemuda; danf. unsur Tim Penggerak PKK Desa/Kelurahan (3) Tugas pokok Satuan Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan sebagaimana dimaksud pada ayat (1) adalah:a. memberikan pelayanan dalam rangka perlindungan perempuan dan anak;  
+e. unsur pemuda; dan  
+f. unsur Tim Penggerak PKK Desa/Kelurahan (3) Tugas pokok Satuan Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan sebagaimana dimaksud pada ayat (1) adalah:a. memberikan pelayanan dalam rangka perlindungan perempuan dan anak;  
 b. menerima pengaduan masyarakat mengenai kasus kekerasan terhadap perempuan dan anak di wilayah Desa/Kelurahan;  
 c. memfasilitasi perempuan dan anak yang menjadi korban kekerasan dalam  menyelesaikan permasalahannya;  
-d. mensosialisasikan kepada masyarakat tentang perlindungan perempuan dan  anak; dane. memberikan pendampingan bagi korban atau merujuk ke gugus tugas  perlindungan perempuan dan anak tingkat Kecamatan.  
+d. mensosialisasikan kepada masyarakat tentang perlindungan perempuan dan  anak; dan  
+e. memberikan pendampingan bagi korban atau merujuk ke gugus tugas  perlindungan perempuan dan anak tingkat Kecamatan.  
 4. Ketentuan lebih lanjut mengenai pembentukan, tugas dan fungsi Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan sebagaimana  dimaksud pada ayat (1), ditetapkan dengan Keputusan Kepala Desa/Lurah.  
 
 # BAB IX
@@ -513,7 +547,8 @@ b. Pemerintah Daerah lain; dan/atauc. Lembaga non pemerintah.
 2. Kerja sama sebagaimana dimaksud pada ayat (1), meliputi:a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
-d. penyediaan barang bukti dan saksi; dane. pemberdayaan.  
+d. penyediaan barang bukti dan saksi; dan  
+e. pemberdayaan.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan dalam  bentuk Kesepakatan Bersama dan/atau Perjanjian Kerjasama sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 ## Bagian Kedua
@@ -525,7 +560,8 @@ Kemitraan
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha, LSM/organisasi  sosial pemerhati perempuan dan anak dalam perlindungan perempuan dan anak  terhadap tindak kekerasan.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan dan anak korban kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang  tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban  kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban kekerasan yang  tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban  kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan dalam  bentuk perjanjian sesuai dengan ketentuan peraturan perundang-undangan.  
 
 # BAB X
@@ -543,10 +579,12 @@ Evaluasi penyelenggaraan sistem pemberdayaan perempuan dan perlindungan anak  di
 #### Pasal 39
 
 1. Pelaporan pelaksanaan penyelenggaraan perlindungan terhadap perempuan dan  anak dari kekerasan, dilakukan oleh:a. P2TP2A kepada Bupati;  
-b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan kepada  Camat; danc. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan  kepada Kepala Desa/Lurah.  
+b. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat Kecamatan kepada  Camat; dan  
+c. Satuan Tugas Perlindungan Perempuan dan Anak Tingkat Desa/Kelurahan  kepada Kepala Desa/Lurah.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara tertulis,  meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2),  dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB XI
@@ -557,7 +595,8 @@ c. pelayanan; dand. kinerja.
 
 Pendanaan perlindungan perempuan dan anak bersumber dari:  
 a. APBD;  
-b. APBDes; danc. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
+b. APBDes; dan  
+c. sumber lain yang sah sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB XII
 

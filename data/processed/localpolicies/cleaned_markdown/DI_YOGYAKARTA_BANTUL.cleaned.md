@@ -17,11 +17,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap anak dan perempuan berhak untuk bebas  dari penyiksaan atau perlakuan yang merendahkan derajat martabat manusia serta berhak mendapatkan rasa aman, bebas dari segala bentuk tindak kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak;  
 b. bahwa tindak kekerasan terhadap anak dan  perempuan terus meningkat, sehingga diperlukan upaya perlindungan yang komprehensif dan maksimal, adanya tindakan nyata, dukungan kelembagaan secara formal, peraturan yang dapat menjamin pelaksanaan dari Pemerintah Daerah dalam meningkatkan partisipasi masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Anak dan Perempuan Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Asas penyelenggaraan perlindungan Anak dan Perempuan dari tindak  kekerasan adalah:  
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
-c. non diskriminasi; dand. pemberdayaan yang terbaik bagi korban.  
+c. non diskriminasi; dan  
+d. pemberdayaan yang terbaik bagi korban.  
 
 #### Pasal 3
 
@@ -122,7 +125,8 @@ c. memberikan pelayanan kepada anak dan perempuan korban tindak  kekerasan, pela
 d. melakukan pemberdayaan kepada perempuan korban kekerasan; dan e. meningkatkan partisipasi masyarakat.  
 2. Penyelenggaraan perlindungan anak dan perempuan dari tindak kekerasan  sebagaimana dimaksud pada ayat (1), meliputi aspek:a. pencegahan;  
 b. pelayanan dan pendampingan;  
-c. reintegrasi sosial; dand. pemberdayaan.  
+c. reintegrasi sosial; dan  
+d. pemberdayaan.  
 
 # BAB II
 
@@ -141,7 +145,8 @@ g. hak atas kompensasi;
 h. hak penanganan berkelanjutan sampai tahap rehabilitasi sosial;  
 i. hak atas penanganan pengaduan;  
 j. hak untuk mendapatkan kemudahan dalam proses peradilan;  
-k. hak atas pendampingan psikologis dan hukum; danl. hak atas perlindungan dan pelayanan hukum.  
+k. hak atas pendampingan psikologis dan hukum; dan  
+l. hak atas perlindungan dan pelayanan hukum.  
 
 #### Pasal 5
 
@@ -150,7 +155,8 @@ a. hak penghormatan atas kelangsungan hidup, tumbuh dan berkembang;
 b. hak pelayanan dasar dalam bidang pendidikan;  
 c. hak pelayanan dasar dalam bidang kesehatan;  
 d. hak perlindungan yang sama;  
-e. hak bebas dari berbagai stigma; danf. hak mendapatkan kebebasan.  
+e. hak bebas dari berbagai stigma; dan  
+f. hak mendapatkan kebebasan.  
 
 # BAB III
 
@@ -161,7 +167,8 @@ e. hak bebas dari berbagai stigma; danf. hak mendapatkan kebebasan.
 Kewajiban dan tanggungjawab dalam penyelenggaraan perlindungan terhadap  anak dan perempuan korban kekerasan adalah:  
 a. Pemerintah Daerah;  
 b. masyarakat;  
-c. keluarga; dand. orangtua.  
+c. keluarga; dan  
+d. orangtua.  
 
 #### Pasal 7
 
@@ -170,7 +177,8 @@ b. menyusun perencanaan program dan kegiatan;
 c. memberikan dukungan sarana dan prasarana;  
 d. mengalokasikan anggaran khusus yang responsif gender;  
 e. membentuk PPT dan/atau Rumah Aman;  
-f. membentuk dan memfasilitasi FPKK; dang. melakukan monitoring dan evaluasi.  
+f. membentuk dan memfasilitasi FPKK; dan  
+g. melakukan monitoring dan evaluasi.  
 2. Dalam hal pelaksanaan kewajiban Pemerintah Daerah sebagaimana  dimaksud pada ayat (1), Pemerintah Daerah menyusun Rencana Aksi  Daerah sebagai dasar bagi SKPD dalam melaksanakan perlindungan  terhadap korban.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan  bagian Rencana Pembangunan Jangka Menengah Daerah (RPJMD).  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (2), diatur lebih lanjut dengan Peraturan Bupati.  
@@ -197,7 +205,8 @@ Kewajiban dan tanggung jawab masyarakat terhadap perlindungan anak dan  Perempua
 a. mencegah terjadinya kekerasan terhadap anak dan perempuan;  
 b. memberikan pendidikan budaya damai dan kesetaraan gender;  
 c. memberikan informasi dan/ atau melaporkan bila terjadi tindak kekerasan terhadap anak dan perempuan kepada aparat penegak hukum atau pihak  yang berwenang;  
-d. melindungi korban; dane. memberikan pertolongan darurat.  
+d. melindungi korban; dan  
+e. memberikan pertolongan darurat.  
 
 #### Pasal 12
 
@@ -223,13 +232,15 @@ Kelembagaan
 
 1. Struktur organisasi PPT yang dibentuk oleh Bupati sebagaimana dimaksud  dalam Pasal 12 ayat (1) terdiri dari:a. Ketua atau sebutan lain yang setingkat;  
 b. Sekretaris;  
-c. Bendahara; dand. Ketua Pelaksana yang membawahi bidang-bidang.  
+c. Bendahara; dan  
+d. Ketua Pelaksana yang membawahi bidang-bidang.  
 2. Bidang-Bidang sebagaimana dimaksud pada ayat (1) huruf d, paling sedikit meliputi:a. bidang layanan pengaduan;  
 b. bidang layanan kesehatan;  
 c. bidang layanan rehabilitasi sosial;  
 d. bidang pemulangan dan reintegrasi sosial;  
 e. bidang layanan bantuan hukum;  
-f. bidang kerohanian; dang. bidang psikologi
+f. bidang kerohanian; dan  
+g. bidang psikologi
 
 #### Pasal 15
 
@@ -251,30 +262,35 @@ e. melakukan konsultasi kepada dokter ahli atau melakukan rujukan; dan f. membua
 
 Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 14  ayat (2) huruf c memiliki tugas:  
 a. melakukan pendampingan selama proses penanganan kasus;  
-b. melakukan konseling; danc. melaksanakan fungsi sosial.  
+b. melakukan konseling; dan  
+c. melaksanakan fungsi sosial.  
 
 #### Pasal 18
 
 Bidang pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal  14 ayat (2) huruf d memiliki tugas:  
 a. melakukan koordinasi dengan instansi terkait untuk pemulangan korban;  
-b. membuat laporan perkembangan proses pendampingan pemulangan dan  rehabilitasi sosial; danc. melakukan pemantauan paling lama 3 (tiga) bulan setelah korban  dipulangkan ke keluarganya.  
+b. membuat laporan perkembangan proses pendampingan pemulangan dan  rehabilitasi sosial; dan  
+c. melakukan pemantauan paling lama 3 (tiga) bulan setelah korban  dipulangkan ke keluarganya.  
 
 #### Pasal 19
 
 Bidang layanan bantuan hukum sebagaimana dimaksud dalam Pasal 14 ayat  (2) huruf e memiliki tugas:  
-a. mendampingi dan membela setiap proses hukum; danb. membuat laporan perkembangan penanganan hukum.  
+a. mendampingi dan membela setiap proses hukum; dan  
+b. membuat laporan perkembangan penanganan hukum.  
 
 #### Pasal 20
 
 Bidang kerohanian sebagaimana dimaksud dalam Pasal 14 ayat (2) huruf f memiliki tugas:  
 a. melakukan bimbingan rohani kepada korban;  
-b. melakukan koordinasi dengan pihak terkait; danc. membuat laporan dan rekomendasi layanan lanjutan;  
+b. melakukan koordinasi dengan pihak terkait; dan  
+c. membuat laporan dan rekomendasi layanan lanjutan;  
 
 #### Pasal 21
 
 Bidang psikologi sebagaimana yang dimaksud dalam pasal 14 ayat (2) huruf g  memiliki tugas:  
 a. melakukan bimbingan psikologi kepada korban;  
-b. membuat rekomendasi layanan lanjutan; danc. melakukan koordinasi dan rujukan ke layanan lanjutan
+b. membuat rekomendasi layanan lanjutan; dan  
+c. melakukan koordinasi dan rujukan ke layanan lanjutan
 
 #### Pasal 22
 
@@ -282,7 +298,8 @@ b. membuat rekomendasi layanan lanjutan; danc. melakukan koordinasi dan rujukan 
 2. Konselor sebagaimana dimaksud pada ayat (1) meliputi:a. konselor dalam bidang hukum;  
 b. konselor dalam bidang kesehatan;  
 c. konselor dalam bidang psikologi;  
-d. konselor dalam bidang sosial; dane. konselor dalam bidang kerohanian.  
+d. konselor dalam bidang sosial; dan  
+e. konselor dalam bidang kerohanian.  
 
 #### Pasal 23
 
@@ -306,13 +323,15 @@ Pencegahan
 2. Upaya pencegahan sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan kekerasan dan  penanganan tindak kekerasan secara koordinasi, integrasi,  sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 b. membentuk sistem pencegahan kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya tindak kekerasan;  
 c. menyelenggarakan komunikasi, informasi, dan pendidikan kritis  tentang hak-hak anak dan perempuan bagi masyarakat;  
-d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan anak dan perempuan; dane. upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan  secara terpadu yang dikoordinasi oleh SKPD yang membidangi  pemerdayaan perempuan dan perlindungan anak.  
+d. melakukan sosialisasi tentang peraturan perundang-undangan yang  berkaitan dengan perlindungan anak dan perempuan; dan  
+e. upaya pencegahan sebagaimana dimaksud pada ayat (1) dilakukan  secara terpadu yang dikoordinasi oleh SKPD yang membidangi  pemerdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 26
 
 Upaya pencegahan juga dilakukan oleh:  
 a. masyarakat;  
-b. keluarga; danc. orangtua.  
+b. keluarga; dan  
+c. orangtua.  
 
 ## Bagian Kedua
 
@@ -332,7 +351,8 @@ c. aman dan nyaman;
 d. empati;  
 e. non diskriminasi;  
 f. terpadu;  
-g. mudah dijangkau; danh. dijamin kerahasiaannya.  
+g. mudah dijangkau; dan  
+h. dijamin kerahasiaannya.  
 
 #### Pasal 29
 
@@ -342,12 +362,14 @@ b. pelayanan pendampingan;
 c. pelayanan kesehatan;  
 d. pelayanan rehabilitasi sosial;  
 e. pelayanan hukum;  
-f. pelayanan pemulangan dan reintegrasi sosial; dang. pelayanan psikologi.  
+f. pelayanan pemulangan dan reintegrasi sosial; dan  
+g. pelayanan psikologi.  
 
 #### Pasal 30
 
 Pelayanan pengaduan, konsultasi, dan konseling sebagaimana dimaksud  dalam Pasal 29 huruf a meliputi:  
-a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan.  
+a. identifikasi atau pencatatan awal korban; dan  
+b. persetujuan dilakukan tindakan.  
 
 #### Pasal 31
 
@@ -368,19 +390,22 @@ b. perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan  kondi
 #### Pasal 33
 
 Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 29 huruf d  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman  untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban  dan memberikan dukungan secara sosial sehingga korban mempunyai rasa  percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya,  dengan cara:  
-a. memberikan bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
+a. memberikan bimbingan kerohanian kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 
 #### Pasal 34
 
 Pelayanan hukum sebagaimana dimaksud dalam Pasal 29 huruf e untuk  membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
+b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan  dalam sidang pengadilan dan membantu korban untuk secara lengkap  memaparkan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan berjalan  sebagaimana mestinya.  
 
 #### Pasal 35
 
 1. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud  dalam Pasal 29 huruf f bertujuan untuk mengembalikan korban kepada  keluarga dan lingkungan sosialnya.  
 2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
-a. Pemerintah Daerah lain; danb. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
+a. Pemerintah Daerah lain; dan  
+b. instansi dan lembaga terkait baik pemerintah maupun non  pemerintah.  
 
 #### Pasal 36
 
@@ -418,9 +443,11 @@ Perlindungan dan Pemenuhan Hak Anak
 b. penyediaan petugas pendamping khusus anak sejak dini;  
 c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan terbaik bagi anak;  
-e. pemantauan dan pencatatan terus menerus terhadap perkembangan  anak yang berhadapan dengan hukum.  f. pemberian jaminan untuk mempertahankan hubungan dengan orang  tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan  untuk menghindari labelisasi.  
+e. pemantauan dan pencatatan terus menerus terhadap perkembangan  anak yang berhadapan dengan hukum.  f. pemberian jaminan untuk mempertahankan hubungan dengan orang  tua atau keluarga; dan  
+g. perlindungan dari pemberitaan identitas melalui media massa dan  untuk menghindari labelisasi.  
 2. Bentuk pemenuhan hak-hak anak korban tindak kekerasan, meliputi:  a. upaya rehabilitasi baik dalam lembaga maupun diluar lembaga;  
-b. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli baik  fisik, mental, maupun sosial; danc. pemberian aksesibilitas untuk mendapatkan informasi mengenai  pengembangan perkara.  
+b. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli baik  fisik, mental, maupun sosial; dan  
+c. pemberian aksesibilitas untuk mendapatkan informasi mengenai  pengembangan perkara.  
 3. PPT dan masyarakat berkewajiban melakukan pemenuhan hak-hak anak  korban tindak kekerasan.  
 
 #### Pasal 39
@@ -445,7 +472,8 @@ b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan c. mengumpulk
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3) dikelompokkan  dalam peran sebagai berikut:a. peran kesehatan;  
 b. peran psikologi;  
 c. peran hukum;  
-d. peran sosial; dane. peran ekonomi.  
+d. peran sosial; dan  
+e. peran ekonomi.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas, pokok, dan fungsi  serta keanggotaan FPKK sebagaimana dimaksud pada ayat (1) diatur lebih  lanjut dengan Peraturan Bupati.  
 
 # BAB VI
@@ -460,11 +488,13 @@ Kerja sama
 
 1. Dalam rangka mencapai tujuan perlindungan anak dan perempuan dari  tindak kekerasan sebagaimana dimaksud dalam Pasal 3, Pemerintah  Daerah bekerjasama dengan:a. Pemerintah;  
 b. Pemerintah Provinsi;  
-c. Kabupaten/Kota lain; dand. lembaga non Pemerintah.  
+c. Kabupaten/Kota lain; dan  
+d. lembaga non Pemerintah.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai dengan  hukum yang berlaku.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi, serta ditindaklanjuti sesuai dengan  hukum yang berlaku.  
 3. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk Kesepakatan Bersama.  
 
 ## Bagian Kedua
@@ -477,7 +507,8 @@ Kemitraan
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. sistem informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
 b. pendidikan dan pelatihan bagi anak dan perempuan korban tindak  kekerasan;  
-c. bantuan pendidikan bagi anak dan perempuan korban tindak  kekerasan yang rawan putus sekolah; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi anak dan perempuan korban tindak  kekerasan yang rawan putus sekolah; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk kesepakatan bersama.  
 
 # BAB VII
@@ -489,7 +520,8 @@ c. bantuan pendidikan bagi anak dan perempuan korban tindak  kekerasan yang rawa
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap  pelaksanaan Standar Pelayanan Minimal PPT.  
 2. Pembinaan dan Pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a mencakup aspek  yang berkaitan dengan perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b mencakup aspek  yang berkaitan dengan perencanaan, pelaksanaan, tata laksana,  pendanaan, kualitas, pengendalian dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaimana dimaksud pada ayat (2) huruf c  dilakukan oleh SKPD yang membidangi pemerdayaan perempuan dan  perlindungan anak.  
@@ -504,7 +536,8 @@ c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.
 1. PPT dan FPKK membuat pelaporan perlindungan Anak dan Perempuan  korban tindak kekerasan kepada Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) disampaikan secara  tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian pelaporan secara tertulis sebagaimana dimaksud pada ayat  (2), dilaksanakan paling sedikit 3 (tiga) bulan sekali dan diselenggarakan  sesuai ketentuan peraturan perundang-undangan.  
 
 # BAB IX
@@ -526,7 +559,8 @@ c. pelayanan; dand. kinerja.
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) berupa:  a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
 b. membentuk unit perlindungan Anak dan Perempuan di dalam  organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak Anak dan Perempuan secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media  massa.  
 
 # BAB XI

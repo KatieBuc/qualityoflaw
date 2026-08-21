@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia ;  
 b. bahwa penyelenggaraan pencegahan dan perlindungan  perempuan dan anak sebagai korban kekerasan di Kabupaten Sorong selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -99,7 +101,8 @@ a. kemanusiaan ;
 b. penghormatan terhadap hak-hak korban;  
 c. keadilan dan kesetaraan gender;  
 d. pengayoman;  
-e. non diskriminasi; danf. kepentingan terbaik bagi korban.  
+e. non diskriminasi; dan  
+f. kepentingan terbaik bagi korban.  
 
 #### Pasal 3
 
@@ -108,7 +111,8 @@ a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan o
 b. menghapus segala bentuk kekerasan dan diskriminasi terhadap perempuan  dan anak ;  
 c. memberikan rasa aman bagi perempuan dan anak dari korban kekerasan,  pelapor, dan saksi;  
 d. memberikan pelayanan kepada perempuan dan anak dari korban tindak  kekerasan;  
-e. memfasilitasi dan melakukan mediasi terhadap kasus kekerasan dalam rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan  sejahtera; danf. pemberdayaan.  
+e. memfasilitasi dan melakukan mediasi terhadap kasus kekerasan dalam rumah  tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan  sejahtera; dan  
+f. pemberdayaan.  
 
 # BAB III
 
@@ -126,14 +130,16 @@ d. hak untuk mendapatkan informasi;
 e. hak atas penanganan secara rahasia;  
 f. hak atas rehabilitasi sosial;  
 g. hak atas penanganan pengaduan;  
-h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan; dani. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga  dan masyarakat.  
+h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan; dan  
+i. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga  dan masyarakat.  
 
 #### Pasal 5
 
 Anak korban tindak kekerasan selain mendapatkan hak-hak sebagaimana dimaksud dalam pasal 4, juga mendapatkan hak-hak khusus sebagai berikut:  
 a. hak atas kelangsungan hidup,tumbuh dan berkembang;  
 b. hak atas kebutuhan pelayanan dasar;  
-c. hak perlindungan yang sama; dand. hak mendapatkan kebebasan;  
+c. hak perlindungan yang sama; dan  
+d. hak mendapatkan kebebasan;  
 
 # BAB IV
 
@@ -150,9 +156,11 @@ c. keluarga;dand. orang tua.
 
 1. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana dimaksud  dalam pasal 6 huruf a, meliputi:a. menetapkan kebijakan, program, dan kegiatan perlindungan perempuan dan  anak dari tindak kekerasan;  
 b. melakukan kerja sama dalam penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
-c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan dan anak dari tindak kekerasan; dand. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan sesuai kemampuan keuangan daerah. (2) Tugas Pemerintah Daerah dalam perlindungan terhadap perempuan dan anak  dari tindak kekerasan dalam bentuk:a. Melaksanakan kebijakan perlindungan perempuan dan anak dari tindak  kekerasan yang ditetapkan oleh pemerintah;  
+c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan  perempuan dan anak dari tindak kekerasan; dan  
+d. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan sesuai kemampuan keuangan daerah. (2) Tugas Pemerintah Daerah dalam perlindungan terhadap perempuan dan anak  dari tindak kekerasan dalam bentuk:a. Melaksanakan kebijakan perlindungan perempuan dan anak dari tindak  kekerasan yang ditetapkan oleh pemerintah;  
 b. Mengumpulkan data dan informasi tentang perempuan dan anak dalam  rangka upaya melindungi dari tindak kekerasan;  
-c. Melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan pencegahan dan perlindungan perempuan dan anak dari tindak  kekerasan; dand. Melakukan pemantauan dan evaluasi penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan.  
+c. Melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan pencegahan dan perlindungan perempuan dan anak dari tindak  kekerasan; dan  
+d. Melakukan pemantauan dan evaluasi penyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan.  
 
 #### Pasal 8
 
@@ -176,7 +184,8 @@ Kewajiban keluarga dan / atau orang tua sebagaimana dimaksud dalam pasal 6  huru
 1. Untuk mencegah terjadi tindak kekerasan terhadap perempuan dan anak,  Pemerintah Daerah melakukan sosialisasi, pemberdayaan, dan penyadaran  kepada keluarga, orang tua, dan masyarakat dengan memberikan informasi,  bimbingan dan / atau penyuluhan.  
 2. Selain pemberdayaan dan penyadaran sebagaimana dimaksud pada ayat (1),  Pemerintah Daerah melakukan upaya sebagai berikut:a. peningkatan jumlah dan mutu Pendidikan baik formal maupun non formal  maupun informal;  
 b. pembukaan lapangan kerja bagi perempuan;  
-c. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan  perlindungan perempuan dan anak dari tindak kekerasan; dand. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan / atau peduli terhadap perempuan dan anak.  
+c. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan  perlindungan perempuan dan anak dari tindak kekerasan; dan  
+d. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan / atau peduli terhadap perempuan dan anak.  
 
 #### Pasal 11
 
@@ -185,7 +194,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh SKPD sebagaimana dimaksud pada ayat  (1),dilaksanakan secara terpadu dan berkesinambungan.  
 
 ##### BABVI
@@ -195,12 +205,15 @@ f. mental dan spiritual; dang. ketentraman dan ketertiban.
 #### Pasal 12
 
 1. Bentuk pelayanan yang diberikan kepada perempuan dan anak korban tindak  kekerasan,sebagai berikut:a. pelayanan pengaduan;  
-b. pelayanan medis; danc. pelayanan medikolegal untuk kepentingan pembuktian dibidang hukum. (2) Pelayanan bantuan hukum:a. pelayanan kemandirian atau pemberdayaan; danb. pelayanan rehabilitasi sosial.  
+b. pelayanan medis; dan  
+c. pelayanan medikolegal untuk kepentingan pembuktian dibidang hukum. (2) Pelayanan bantuan hukum:a. pelayanan kemandirian atau pemberdayaan; dan  
+b. pelayanan rehabilitasi sosial.  
 3. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan oleh  SKPD terkait sesuai dengan program, kegiatan, dan anggaran yang tersedia di  masing-masing dalam bidang:a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak;  
 d. mental dan spriritual;  
-e. ketenagakerjaan; danf. pendidikan.  
+e. ketenagakerjaan; dan  
+f. pendidikan.  
 
 # BAB VII
 
@@ -233,5 +246,6 @@ e. ketenagakerjaan; danf. pendidikan.
 1. P2TP2A Kabupaten Sorong wajib melaporkan pelaksanaan penyelenggaraan  pencegahan dan perlindungan perempuan dan anak tindak kekerasan kepada  Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat (1) meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2)  dilaksanakan paling sedikit tiga (3) bulan sekali.  

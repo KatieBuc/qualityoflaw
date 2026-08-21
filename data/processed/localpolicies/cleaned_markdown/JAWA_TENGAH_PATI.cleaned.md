@@ -23,12 +23,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 b. bahwa korban kekerasan berbasis gender dan anak  harus mendapatkan perlindungan atas ancaman  kekerasan dalam lingkup rumah tangga dan masyarakat dari Pemerintah Daerah;  
 c. bahwa berdasarkan Pasal 59 Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak, Pemerintah dan  lembaga negara lainnya berkewajiban dan bertanggung  jawab untuk memberikan perlindungan khusus kepada  anak dalam situasi darurat, anak yang berhadapan  dengan hukum, anak dari kelompok minoritas dan  terisolasi, anak tereksploitasi secara ekonomi dan/atau  seksual, anak yang diperdagangkan, anak yang menjadi  korban penyalahgunaan narkotika, alkohol, psikotropika,  dan zat adiktif lainnya (napza), anak korban penculikan,  penjualan dan perdagangan, anak korban kekerasan  baik fisik dan/atau mental, anak yang menyandang  cacat, dan anak korban perlakuan salah dan  penelantaran;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud huruf a, huruf b dan huruf c, perlu  menetapkan Peraturan Daerah tentang Penyelenggaraan  Perlindungan Terhadap Korban Kekerasan Berbasis  Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -119,7 +121,8 @@ h. keterbukaan;
 i. keterpaduan;  
 j. tidak menyalahkan korban;  
 k. memberdayakan;  
-l. kerahasiaan korban; danm. pengambilan keputusan ditangan korban.  
+l. kerahasiaan korban; dan  
+m. pengambilan keputusan ditangan korban.  
 
 #### Pasal 3
 
@@ -141,7 +144,8 @@ b. untuk ikut serta dalam proses memilih dan  menentukan bentuk perlindungan dan
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan  kasus dan putusan pengadilan;  
 e. mendapatkan pelayanan terpadu yang cepat, tepat,  nyaman, dan sesuai kebutuhan;  
-f. pemulihan dan reintegrasi sosial; dang. mendapatkan pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial dan penterjemah. (2) Hak korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan.  
+f. pemulihan dan reintegrasi sosial; dan  
+g. mendapatkan pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial dan penterjemah. (2) Hak korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan.  
 3. Ketentuan lebih lanjut mengenai tata cara memperoleh  Hak sebagaimana dimaksud pada ayat (1) di atur dengan Peraturan Bupati.  
 
 # BAB IV
@@ -154,13 +158,15 @@ f. pemulihan dan reintegrasi sosial; dang. mendapatkan pendampingan hukum, psiko
 b. memberikan perlindungan bagi korban kekerasan;  
 c. menyediakan layanan pemulihan dan reintegrasi  sosial bagi korban;  
 d. mendorong dan meningkatkan partisipasi  masyarakat;  
-e. melakukan kerjasama dengan penyedia layanan  dalam upaya pencegahan, perlindungan dan  pemulihan korban kekerasan; danf. mengawasi penyelenggaraan pelayanan terhadap  korban yang melibatkan masyarakat.  
+e. melakukan kerjasama dengan penyedia layanan  dalam upaya pencegahan, perlindungan dan  pemulihan korban kekerasan; dan  
+f. mengawasi penyelenggaraan pelayanan terhadap  korban yang melibatkan masyarakat.  
 2. Untuk melaksanakan kewajiban sebagaimana dimaksud  pada ayat (1), Pemerintah Daerah mempunyai  kewenangan untuk:a. merumuskan kebijakan dan program tentang  penghapusan kekerasan berbasis gender dan anak;  
 b. memfasilitasi terselenggaranya pelayanan terpadu;  
 c. menyediakan sarana dan prasarana;  
 d. meningkatkan kapasitas lembaga penyedia layanan;  
 e. melakukan koordinasi dan kerjasama dalam  penyelenggaraan perlindungan terhadap korban  kekerasan berbasis gender dan anak;  
-f. mendorong partisipasi masyarakat; dang. melakukan monitoring dan evaluasi.  
+f. mendorong partisipasi masyarakat; dan  
+g. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam melaksanakan kewajiban dan  kewenangan sebagaimana dimaksud pada ayat (1) dan  ayat (2) harus memperhatikan hak dan kewajiban orang tua, wali, suami, istri atau orang lain yang secara hukum  bertanggung jawab kepada korban.  
 
 # BAB V
@@ -200,7 +206,8 @@ Upaya Pencegahan
 #### Pasal 10
 
 Upaya pencegahan sebagaimana dimaksud dalam Pasal 9 meliputi:  
-a. menyelenggarakan komunikasi, informasi, edukasi dan  meningkatkan Capacity building tentang kekerasan  berbasis gender dan anak; danb. sosialisasi peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
+a. menyelenggarakan komunikasi, informasi, edukasi dan  meningkatkan Capacity building tentang kekerasan  berbasis gender dan anak; dan  
+b. sosialisasi peraturan perundang-undangan yang  berkaitan dengan kekerasan berbasis gender dan anak.  
 
 ## Bagian Keempat
 
@@ -224,7 +231,8 @@ Perlindungan Hukum
 
 Perlindungan hukum sebagaimana dimaksud dalam Pasal 9 meliputi:  
 a. memberi perlindungan di rumah aman (shelter);  
-b. melakukan pendampingan selama proses hukum pada  setiap tahap pemeriksaan; danc. menunjuk perwalian bagi anak korban kekerasan sesuai  dengan ketentuan yang berlaku.  
+b. melakukan pendampingan selama proses hukum pada  setiap tahap pemeriksaan; dan  
+c. menunjuk perwalian bagi anak korban kekerasan sesuai  dengan ketentuan yang berlaku.  
 
 ## Bagian Keenam
 
@@ -234,7 +242,8 @@ Koordinasi dan Kerjasama
 
 Koordinasi dan kerjasama sebagaimana dimaksud dalam  Pasal 9 meliputi:  
 a. melakukan koordinasi dan kerjasama dengan pelayanan  terpadu antar kabupaten/kota;  
-b. melakukan koordinasi dan kerjasama dengan lembaga lembaga penyedia layanan bagi korban kekerasan  berbasis gender dan anak; danc. melakukan koordinasi dan konsultasi dengan  Pemerintah Provinsi Jawa Tengah.  
+b. melakukan koordinasi dan kerjasama dengan lembaga lembaga penyedia layanan bagi korban kekerasan  berbasis gender dan anak; dan  
+c. melakukan koordinasi dan konsultasi dengan  Pemerintah Provinsi Jawa Tengah.  
 
 ## Bagian Ketujuh
 

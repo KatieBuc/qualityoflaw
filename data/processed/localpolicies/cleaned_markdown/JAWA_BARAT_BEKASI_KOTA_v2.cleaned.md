@@ -23,6 +23,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama untuk  menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses pembangunan nasional, penerusan dan penciptaan generasi yang berkualitas sehingga perlu mendapatkan jaminan perlindungan dari tindak kekerasan dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 c. bahwa guna menjamin pemenuhan hak-hak  konstitusional perempuan untuk dapat mengembangkan potensinya secara optimal sehingga dapat berpartisipasi di berbagai bidang dalam kehidupan sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan lainnya, perlu dilakukan upaya-upaya pemberdayaan dan perlindungan terhadap perempuan;  
@@ -30,6 +31,7 @@ d. bahwa Peraturan Daerah Kota Bekasi Nomor 12 Tahun 2012  yang mengatur Perlind
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, huruf c dan huruf d perlu menetapkan Peraturan Daerah tentang Pemberdayaan dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -105,7 +107,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 b. kepentingan terbaik bagi perempuan;  
 c. keadilan dan kesetaraan gender;  
 d. perlindungan terhadap hak perempuan;  
-e. nondiskriminatif; danf. kepastian hukum.  
+e. nondiskriminatif; dan  
+f. kepastian hukum.  
 2. Penyelenggaraan Pemberdayaan dan Perlindungan Perempuan  dilaksanakan bertujuan untuk:a. menjamin terpenuhinya hak perempuan agar dapat hidup dan  berpartisipasi secara optimal sesuai dengan harkat dan martabat  kemanusiaan;  
 b. memberikan keadilan dan kesetaraan gender;  
 c. meningkatkan kualitas hidup perempuan:d. melakukan pemberdayaan kepada perempuan baik secara individual  maupun kelompok sebagai potensi dan sumber daya dalam  penyelenggaraan hidup sosial kemasyarakatan;  
@@ -121,7 +124,8 @@ d. perlindungan dan Pencegahan Tindak Kekerasan;
 e. perlindungan khusus bagi perempuan;  
 f. peran serta masyarakat;  
 g. pendanaan;  
-h. monitoring, evaluasi dan pelaporan; dani. sanksi.  
+h. monitoring, evaluasi dan pelaporan; dan  
+i. sanksi.  
 
 # BAB III
 
@@ -141,7 +145,8 @@ d. hak memperoleh keadilan;
 e. hak atas kebebasan pribadi;  
 f. hak atas rasa aman;  
 g. hak atas kesehatan;  
-h. hak atas kesejahteraan; dani. hak turut serta dalam pemerintahan dan pembangunan.  
+h. hak atas kesejahteraan; dan  
+i. hak turut serta dalam pemerintahan dan pembangunan.  
 
 #### Pasal 4
 
@@ -158,7 +163,8 @@ j. memperoleh pendidikan dan pengajaran di semua jenis, jenjang dan  jalur pendi
 k. memperoleh lingkungan yang sehat dan bersih;  
 l. mengembangkan pribadinya dan meningkatkan kualitas hidupnya agar  menjadi manusia yang beriman, bertakwa, bertanggung jawab,  berakhlak mulia, bahagia dan sejahtera sesuai hak asasi manusia;  
 m. bebas memilih dan/atau dipilih dalam pemilihan umum, pemilihan  kepala daerah, dan/atau pemilihan jabatan politik lainnya berdasarkan  persamaan hak menurut peraturan perundang-undangan;  
-n. mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau  profesinya terhadap hal-hal yang dapat mengancam keselamatan  dan/atau kesehatannya berkenaan dengan fungsi reproduksi wanita; dano. hak khusus yang melekat pada diri wanita dikarenakan fungsi  reproduksinya dijamin dan dilindungi oleh hukum.  
+n. mendapatkan perlindungan khusus dalam pelaksanaan pekerjaan atau  profesinya terhadap hal-hal yang dapat mengancam keselamatan  dan/atau kesehatannya berkenaan dengan fungsi reproduksi wanita; dan  
+o. hak khusus yang melekat pada diri wanita dikarenakan fungsi  reproduksinya dijamin dan dilindungi oleh hukum.  
 2. Perempuan yang telah dewasa dan atau telah menikah berhak untuk  melakukan perbuatan hukum sendiri kecuali ditentukan lain oleh hukum  agamanya.  
 3. Perkawinan yang sah hanya dapat berlangsung atas kehendak bebas dari  pihak perempuan dan pihak laki-laki sesuai dengan peraturan  perundang-undangan.  
 4. Seorang istri selama dalam ikatan perkawinan mempunyai hak dan  tanggung jawab yang sama dengan suaminya atas semua hal yang  berkenaan dengan kehidupan perkawinannya, hubungan dengan anak anaknya dan hak pemilikan serta pengelolaan harta bersama.  
@@ -180,7 +186,8 @@ d. penyediaan layanan aksesibilitas dalam rangka kemandiriannya (seperti  penyia
 e. rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial;  
 f. hak yang sama untuk menumbuhkembangkan bakat, kemampuan, dan  kehidupan sosialnya;  
 g. layanan khusus pada fasilitas-fasilitas publik dan sentra perniagaan  (seperti penanda jalan pada trotoar, penyediaan parkir khusus perempuan  dan disabilitas di Mal, penyediaan toilet khusus untuk disabilitas);  
-h. perlakuan dan fasilitas khusus untuk memperoleh layanan kesehatan,  kependudukan dan urusan lainnya (seperti ruang tunggu yang  diperuntukkan khusus disabilitas, layanan mobil keliling khusus  disabilitas untuk pengurusan dokumen kependudukan, dan lain-lain); dani. berpartisipasi aktif dalam kegiatan sosial, seni, olahraga, perekonomian  termasuk dalam berpolitik.  
+h. perlakuan dan fasilitas khusus untuk memperoleh layanan kesehatan,  kependudukan dan urusan lainnya (seperti ruang tunggu yang  diperuntukkan khusus disabilitas, layanan mobil keliling khusus  disabilitas untuk pengurusan dokumen kependudukan, dan lain-lain); dan  
+i. berpartisipasi aktif dalam kegiatan sosial, seni, olahraga, perekonomian  termasuk dalam berpolitik.  
 
 ## Bagian Ketiga
 
@@ -233,7 +240,8 @@ Umum
 2. Upaya pemberdayaan dan perlindungan perempuan sebagaimana  dimaksud pada ayat (1), meliputi:a. penetapan kebijakan, program dan kegiatan;  
 b. penetapan pedoman pelaksanaan;  
 c. penyelenggaraan layanan oleh Perangkat Daerah terkait;  
-d. koordinasi kebijakan, program dan kegiatan; dane. penyediaan sarana, Prasarana dan fasilitasi.  
+d. koordinasi kebijakan, program dan kegiatan; dan  
+e. penyediaan sarana, Prasarana dan fasilitasi.  
 
 ## Bagian Kedua
 
@@ -258,7 +266,8 @@ a. melakukan kerja sama dengan dunia usaha, lembaga nonpemerintah,  perusahaan s
 b. melakukan kerja sama daerah, sesuai dengan ketentuan peraturan  perundang-undangan;  
 c. menyediakan dan memfasilitasi pelayanan pemberdayaan dan  perlindungan perempuan;  
 d. menyusun sistem pendataan pemberdayaan dan perlindungan  perempuan;  
-e. menyusun program pencegahan melalui edukasi dan sosialisasi secara  komprehensif dalam rangka mencegah terjadinya kekerasan terhadap  perempuan; danf. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  pemberdayaan dan perlindungan perempuan antar Perangkat Daerah.  
+e. menyusun program pencegahan melalui edukasi dan sosialisasi secara  komprehensif dalam rangka mencegah terjadinya kekerasan terhadap  perempuan; dan  
+f. melaksanakan koordinasi pelaksanaan kebijakan, program dan kegiatan  pemberdayaan dan perlindungan perempuan antar Perangkat Daerah.  
 
 ## Bagian Keempat
 
@@ -283,7 +292,8 @@ g. perempuan pengungsi;
 h. korban eksploitasi seksual;  
 i. perempuan kepala keluarga;  
 j. daerah rawan konflik dan bencana;  
-k. perempuan pekerja; danl. kelompok rentan lainnya.  
+k. perempuan pekerja; dan  
+l. kelompok rentan lainnya.  
 
 # BAB V
 
@@ -303,7 +313,8 @@ c. politik dan pemerintahan;
 d. hukum;  
 e. pendidikan;  
 f. kesehatan;  
-g. ketenagakerjaan; danh. jaminan sosial.  
+g. ketenagakerjaan; dan  
+h. jaminan sosial.  
 
 ## Bagian Kedua
 
@@ -317,9 +328,11 @@ b. usaha ekonomi produktif dan usaha ekonomi bersama;
 c. bantuan permodalan dan aksesibilitas ketenagakerjaan;  
 d. fasilitas pengembangan jaringan pemasaran.  
 3. Pelatihan kerja sebagaimana dimaksud pada ayat (2) huruf a meliputi:  a. pembekalan, workshop, pembimbingan bagi perempuan untuk siap kerja;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 4. Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud pada ayat (2) huruf b meliputi:a. pelatihan keterampilan wirausaha;  
-b. fasilitas pembentukan kelompok usaha bersama; danc. pendampingan pelaksanaan usaha.  
+b. fasilitas pembentukan kelompok usaha bersama; dan  
+c. pendampingan pelaksanaan usaha.  
 5. Bantuan permodalan dan aksesibilitas ketenagakerjaan menjadi tanggung  jawab lembaga keuangan daerah dengan difasilitasi oleh Perangkat  Daerah yang membidangi koperasi dan usaha mikro, kecil dan menengah  sebagaimana dimaksud pada (2) huruf c meliputi:a. bantuan sarana dan prasarana kerja;  
 b. memfasilitasi bantuan modal kerja oleh Perangkat Daerah yang  membidangi koperasi dan usaha mikro, kecil dan menengah; dan  c. aksesibilitas ketenagakerjaan yang berkeadilan bagi perempuan.  
 6. Fasilitas pengembangan jaringan pemasaran sebagaimana dimaksud pada  ayat (2) huruf d meliputi:a. bantuan pemasaran produk usaha perempuan melalui program  pemerintah;  
@@ -367,7 +380,8 @@ Pemberdayaan di Bidang Hukum
 b. memfasilitasi akses dan layanan konsultasi dan bantuan hukum;  
 c. melakukan sosialisasi dan edukasi mengenai hak-hak perempuan dan  kewajiban perempuan;  
 d. memberikan penguatan kapasitas kepada perempuan agar dapat  melakukan perbuatan hukum secara mandiri dan bertanggung jawab;  
-e. penggalakkan aktifitas diskusi, FGD, pelatihan yang mengangkat  isu/permasalahan mengenai hukum dalam perspektif lokal, nasional  dan internasional; danf. mendorong perempuan agar terlibat aktif dalam pendidikan advokasi,  dan pemerintah maupun dunia usaha berkontribusi dalam  penyelenggaraannya.  
+e. penggalakkan aktifitas diskusi, FGD, pelatihan yang mengangkat  isu/permasalahan mengenai hukum dalam perspektif lokal, nasional  dan internasional; dan  
+f. mendorong perempuan agar terlibat aktif dalam pendidikan advokasi,  dan pemerintah maupun dunia usaha berkontribusi dalam  penyelenggaraannya.  
 3. Penyelenggaraan pemberdayaaan perempuan di bidang hukum  sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan  peraturan perundang-undangan.  
 
 ## Bagian Kelima
@@ -434,7 +448,8 @@ c. membentuk sistem pencegahan kekerasan;
 d. melakukan sosialisasi mengenai peraturan perundang-undangan yang  berkaitan dengan perlindungan hak perempuan korban kekerasan;  
 e. pembukaan aksesibilitas untuk memperoleh pendidikan, kesehatan, ketenagakerjaan, pelatihan dan pendanaan, peningkatan  kesejahteraan dan pelayanan sosial;  
 f. memberikan edukasi mengenai hak perempuan bagi masyarakat  g. membangun partisipasi dan kepedulian masyarakat terhadap  perlindungan perempuan dari tindak kekerasan;  
-h. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses; dani. menyediakan lembaga pelayanan terpadu bagi korban kekerasan  terhadap perempuan dalam bentuk UPTD PPA (Perlindungan Perempuan  dan Anak).  
+h. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses; dan  
+i. menyediakan lembaga pelayanan terpadu bagi korban kekerasan  terhadap perempuan dalam bentuk UPTD PPA (Perlindungan Perempuan  dan Anak).  
 
 #### Pasal 22
 
@@ -443,14 +458,16 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. perlindungan perempuan dan pemberdayaan perempuan;  
-f. mental dan spiritual; dang. ketenteraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan.  
 
 #### Pasal 23
 
 Upaya perlindungan hak perempuan dan pencegahan pelanggaran hak  perempuan yang dilakukan oleh Pemerintah Daerah sebagaimana dimaksud  dalam Pasal 22, upaya perlindungan dan pencegahan juga dilakukan oleh:  a. keluarga dan/atau kerabat terdekat;  
 b. tokoh masyarakat dan/atau tokoh adat;  
-c. lembaga pendidikan; dand. pihak swasta.  
+c. lembaga pendidikan; dan  
+d. pihak swasta.  
 
 ## Bagian Kedua
 
@@ -471,12 +488,14 @@ Pelayanan terhadap perempuan korban kekerasan meliputi:  a. pelayanan pengaduan,
 b. pelayanan pendampingan;  
 c. pelayanan kesehatan;  
 d. pelayanan rehabilitasi sosial;  
-e. pelayanan hukum dan/atau bantuan hukum; danf. pelayanan pemulangan dan reintegrasi sosial.  
+e. pelayanan hukum dan/atau bantuan hukum; dan  
+f. pelayanan pemulangan dan reintegrasi sosial.  
 
 #### Pasal 26
 
 Pelayanan pengaduan, konsultasi dan konseling sebagaimana dimaksud dalam  Pasal 25 huruf a meliputi:  
-a. identifikasi atau pencatatan awal korban; danb. persetujuan dilakukan tindakan (Informed consent).  
+a. identifikasi atau pencatatan awal korban; dan  
+b. persetujuan dilakukan tindakan (Informed consent).  
 
 #### Pasal 27
 
@@ -493,11 +512,13 @@ Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 25 huruf c meliputi:  a. pe
 b. perawatan dan pemulihan luka fisik yang bertujuan untuk pemulihan  kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis;  
 c. pelaksanaan visum guna keperluan penyidikan menjadi tanggung jawab dan dilaksanakan oleh Rumah Sakit Umum Daerah Kota Bekasi dan  Rumah Sakit swasta;  
 d. pembiayaan pelaksanaan visum guna keperluan penyidikan menjadi  tanggung jawab Perangkat Daerah yang berwenang untuk bidang kesehatan;  
-e. pemberian pelayanan sesuai dengan SOP kepada perempuan korban  kekerasan; danf. rujukan ke layanan kesehatan kepada perempuan sesuai dengan  ketentuan yang berlaku.  
+e. pemberian pelayanan sesuai dengan SOP kepada perempuan korban  kekerasan; dan  
+f. rujukan ke layanan kesehatan kepada perempuan sesuai dengan  ketentuan yang berlaku.  
 
 #### Pasal 29
 
-1. Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 25 huruf  d meliputi:a. pemberian bimbingan rohani kepada korban; danb. pemulihan kejiwaan korban.  
+1. Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 25 huruf  d meliputi:a. pemberian bimbingan rohani kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 2. Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1)  merupakan pelayanan yang diberikan oleh pendamping dalam rangka  memulihkan kondisi traumatis korban, termasuk penyediaan rumah  aman untuk melindungi saksi dan korban dari berbagai ancaman dan  intimidasi.  
 
 #### Pasal 30
@@ -531,7 +552,8 @@ b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan  c. mengumpul
 1. Perempuan mempunyai hak untuk mendapatkan perlindungan khusus  dari hal-hal yang mengancam keselamatan dan/atau kesehatannya.  (2) Perlindungan khusus diberikan kepada perempuan karena fungsi  reproduksinya dijamin dan dilindungi oleh hukum.  
 3. Perlindungan khusus sebagaimana dimaksud pada ayat (2) terdiri dari  pelayanan kesehatan yang berkaitan dengan:a. menstruasi;  
 b. hamil;  
-c. melahirkan; dand. menyusui.  
+c. melahirkan; dan  
+d. menyusui.  
 4. Perempuan diberikan perlindungan khusus untuk mengambil cuti  melahirkan/haid.  
 5. Mekanisme dan durasi cuti diatur lebih lanjut dalam Peraturan Wali Kota.  
 

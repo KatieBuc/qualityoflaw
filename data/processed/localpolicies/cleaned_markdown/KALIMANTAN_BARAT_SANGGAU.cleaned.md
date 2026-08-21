@@ -13,6 +13,7 @@ PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA B
  
  
  
+ 
 Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
 
 # YOHANES
@@ -28,6 +29,7 @@ Sanggau,
 # YAKOBUS, SH,  MH
 
 NIP. 19700223 Mengingat:  
+ 
  
  
  
@@ -104,7 +106,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 
 Ruang lingkup Perlindungan Perempuan dari tindak Kekerasan meliputi:  
 a. pencegahan;  
-b. Pelayanan/Penanganan; danc. pemberdayaan.  
+b. Pelayanan/Penanganan; dan  
+c. pemberdayaan.  
 
 ## Bagian Kesatu
 
@@ -137,7 +140,8 @@ Bentuk Pelayanan/Penanganan terhadap Korban meliputi:
 a. Penanganan Pengaduan;  
 b. pelayanan rehabilitasi kesehatan/medis;  
 c. pelayanan Rehabilitasi Sosial;  
-d. pelayanan Penegakan dan Bantuan Hukum; dane. pelayanan Pemulangan dan Reintegrasi Sosial.  
+d. pelayanan Penegakan dan Bantuan Hukum; dan  
+e. pelayanan Pemulangan dan Reintegrasi Sosial.  
 
 #### Pasal 7
 
@@ -147,7 +151,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. nondiskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 ## Bagian Ketiga
 
@@ -164,17 +169,20 @@ c. usaha ekonomi produktif dan kelompok usaha bersama; dan d. bantuan permodalan
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 8 huruf b meliputi:  
 a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 10
 
 Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 8 huruf c meliputi:  
-a. pelatihan keterampilan wirausaha; danb. Pendampingan pelaksanaan usaha.  
+a. pelatihan keterampilan wirausaha; dan  
+b. Pendampingan pelaksanaan usaha.  
 
 #### Pasal 11
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 8 huruf d  meliputi:  
-a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha.  
+a. bantuan sarana dan prasarana; dan  
+b. fasilitas bantuan modal kerja/usaha.  
 
 # BAB III
 
@@ -253,7 +261,8 @@ Pemerintah Daerah
 a. membentuk PPT;  
 b. perumusan kebijakan;  
 c. menyusun perencanaan dan melaksanakan program dan kegiatan;  
-d. memberikan dukungan sarana dan prasarana; dane. mengawasi penyelenggaraan pelayanan terhadap Korban dengan  standar pelayanan minimal.  
+d. memberikan dukungan sarana dan prasarana; dan  
+e. mengawasi penyelenggaraan pelayanan terhadap Korban dengan  standar pelayanan minimal.  
 2. Dalam melaksanakan tanggung jawab sebagaimana dimaksud pada  ayat (1), Pemerintah Daerah menyusun Rencana Aksi Daerah  Perlindungan Perempuan.  
 3. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Bupati.  
 
@@ -270,7 +279,8 @@ Masyarakat dan Keluarga
 Masyarakat dan Keluarga mempunyai kewajiban dan tanggung jawab:  
 a. mencegah terjadinya Kekerasan Terhadap Perempuan;  
 b. melaporkan bila terjadi Kekerasan;  
-c. melindungi Korban; dand. memberikan pertolongan darurat.  
+c. melindungi Korban; dan  
+d. memberikan pertolongan darurat.  
 
 ## Bagian Ketiga
 
@@ -281,7 +291,8 @@ Koordinasi Perlindungan Korban
 1. Upaya menyediakan dan menyelenggarakan Pelayanan/Penanganan bagi Korban dilakukan secara berjejaring.  
 2. Jejaring sebagaimana dimaksud pada ayat (1) bertujuan untuk:  
 a. mengkoordinasikan dan mensinkronisasikan penanganan  pelayanan PPT;  
-b. mengembangkan jejaring serta sistem rujukan; danc. mengumpulkan, menyusun dan menyajikan laporan Kekerasan. (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas  dan fungsinya sesuai dengan bentuk pelayanan sebagaimana  dimaksud dalam Pasal 6.  
+b. mengembangkan jejaring serta sistem rujukan; dan  
+c. mengumpulkan, menyusun dan menyajikan laporan Kekerasan. (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas  dan fungsinya sesuai dengan bentuk pelayanan sebagaimana  dimaksud dalam Pasal 6.  
 
 # BAB VI
 
@@ -321,7 +332,8 @@ a. membentuk mitra keluarga ditingkat kelurahan/desa oleh  masyarakat;
 b. membentuk unit perlindungan perempuan dalam organisasi  kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan secara mandiri;  
 d. melakukan upaya pencegahan jika menemukan indikasi  Kekerasan Terhadap Perempuan di masyarakat;  
-e. melakukan pertolongan pertama pada Korban; danf. melaporkan kepada instansi yang berwenang apabila  dilingkungannya terjadi Kekerasan Terhadap Perempuan. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan,  swasta, dan/atau media massa.  
+e. melakukan pertolongan pertama pada Korban; dan  
+f. melaporkan kepada instansi yang berwenang apabila  dilingkungannya terjadi Kekerasan Terhadap Perempuan. (3) Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dapat  dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan,  swasta, dan/atau media massa.  
 
 # BAB X
 
@@ -332,7 +344,8 @@ e. melakukan pertolongan pertama pada Korban; danf. melaporkan kepada instansi y
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap  pelaksanaan Perlindungan Perempuan.  
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a mencakup  perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b mencakup  perencanaan, pelaksanaan, tatalaksana, pendanaan, kualitas,  pengendalian, dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaimana dimaksud pada ayat (2)  huruf c dilakukan sesuai dengan ketentuan peraturan perundang undangan.  

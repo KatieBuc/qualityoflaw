@@ -23,6 +23,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan, terutama kekerasan berbasis gender dan anak merapakan pelanggaran hak asasi manusia dan kejahatan terhadap martabat kemanusiaan;  
 b. bahwa korban kekerasan berbasis gender dan anak di Daerah terus mengalami peningkatan;  
 c. bahwa korban kekerasan perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
@@ -156,7 +157,8 @@ c. segala bentuk pemanfaatan organ tubuh seksual atau organ tubuh lain dari korb
 #### Pasal 11
 
 Kekerasan lainnya sebagaimana dimaksud dalarn Pasal 5 huruf f disebabkan karena:  
-a. ancaman kekerasan meliputi setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dirnana seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
+a. ancaman kekerasan meliputi setiap perbuatan secara melawan hukum berupa ucapan, tulisan, gambar, simbol, atau gerakan tubuh, baik dengan atau tanpa menggunakan sarana yang menimbulkan rasa takut atau mengekang kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi suatu keadaan dirnana seseorang/korban disuruh melakukan sesuatu sedemikian rupa sehingga orang itu melakukan sesuatu yang berlawanan dengan kehendak sendiri.  
 
 # BAB IV
 
@@ -192,7 +194,8 @@ Masyarakat, Keluarga dan Orang Tua
 Dalam Upaya Pemberian perlindungan korban kekerasan, Masyarakat, Keluarga dan Orang Tua mempunyai kewajiban dan tanggungjawab:  
 a. mencegah terjadinya kekerasan terhadap perempuan dan anak;  
 b. melaporkan bila terjadi kekerasan;  
-c. melindungi korban; dand. memberikan pertolongan darurat.  
+c. melindungi korban; dan  
+d. memberikan pertolongan darurat.  
 
 # BAB V
 

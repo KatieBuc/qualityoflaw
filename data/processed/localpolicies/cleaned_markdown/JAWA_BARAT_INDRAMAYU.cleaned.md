@@ -39,12 +39,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap  perempuan dan anak merupakan tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa penyelenggaraan pencegahan, perlindungan dan pemulihan perempuan dan anak sebagai korban kekerasan di Kabupaten Indramayu selama ini belum dilakukan secara optimal;  
 
 c.bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a dan huruf b tersebut diatas, perlu membentuk Peraturan Daerah tentang Pencegahan, Perlindungan dan Pemulihan Perempuan dan Anak sebagai Korban Tindak Kekerasan di Kabupaten Indramayu.  
 
 Mengingat:  
+ 
  
  
  
@@ -126,14 +128,16 @@ Dalam Peraturan Daerah ini yang dimaksud  dengan:
 Penyelenggaraan Pencegahan, Perlindungan dan  Pemulihan Perempuan dan Anak sebagai Korban  Tindak Kekerasan dilaksanakan berdasarkan asas:  
 a. Penghomatan terhadap hak-hak korban;  
 b. Keadilan dan kesejahteraan gender;  
-c. Non diskriminasi; dand. Kepentingan terbaik bagi korban.  
+c. Non diskriminasi; dan  
+d. Kepentingan terbaik bagi korban.  
 
 #### Pasal 3
 
 Tujuan penyelenggaraan pencegahan, perlindungan  dan pemulihan perempuan dan anak sebagai  korban tindak kekerasan adalah memberikan  pencegahan dan perlindungan yang meliputi aspek:  
 a. Pencegahan;  
 b. Pelayanan dan pendampingan;  
-c. Pemulihan; dand. Pemberdayaan.  
+c. Pemulihan; dan  
+d. Pemberdayaan.  
 
 # BAB III
 
@@ -147,7 +151,8 @@ b. Informasi;
 c. Pelayanan minimal sesuai Standar Pelayanan  Minimal (SPM);  
 d. Penanganan berkelanjutan sampai tahap  rehabilitasi;  
 e. Penanganan secara rahasia;  
-f. Pendampingan secara psikologis dan hukum; dang. Jaminan atas hak-hak yang berkaitan dengan  status sebagai anggota keluarga maupun  anggota masyarakat.  
+f. Pendampingan secara psikologis dan hukum; dan  
+g. Jaminan atas hak-hak yang berkaitan dengan  status sebagai anggota keluarga maupun  anggota masyarakat.  
 
 # BAB IV
 
@@ -240,7 +245,8 @@ Prinsip-prinsip Pencegahan, Perlindungan  dan Pemulihan
 Penyelenggaraan pencegahan, perlindungan dan  pemulihan terhadap korban tindak kekerasan dilakukan dengan:  
 a. Cepat, aman, empati;  
 b. Adanya jaminan kerahasiaan;  
-c. Mudah dijangkau; dand. Tidak dipungut biaya.  
+c. Mudah dijangkau; dan  
+d. Tidak dipungut biaya.  
 
 # BAB VI
 

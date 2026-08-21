@@ -90,7 +90,8 @@ Bentuk kekerasan terhadap Perempuan dan Anak berupa:
 a. Kekerasan Fisik;  
 b. Kekerasan Psikis;  
 c. Kekerasan Seksual;  
-d. Penelantaran; dane. Eksploitasi.  
+d. Penelantaran; dan  
+e. Eksploitasi.  
 
 #### Pasal 3
 
@@ -139,7 +140,8 @@ g. pendampingan bantuan hukum yang diberikan oleh orang dan/atau  lembaga bantua
 h.jaminan atas hak yang berkaitan dengan status korban.  
 
 2. Setiap anak yang berhadapan dengan hukum berhak untuk mendapatkan:  a. berhak untuk dirahasiakan dan tidak diungkapkan identitasnya;  
-b. berhak untuk mendapatkan Bantuan Hukum pada setiap tahapan pemeriksaan, mulai dari penyelidikan sampai tahap penjatuhan  putusan; danc. berhak mendapatkan pendamping pada setiap tahapan pemeriksaan,  mulai dari penyelidikan sarnpai tahap penjatuhan putusan.  
+b. berhak untuk mendapatkan Bantuan Hukum pada setiap tahapan pemeriksaan, mulai dari penyelidikan sampai tahap penjatuhan  putusan; dan  
+c. berhak mendapatkan pendamping pada setiap tahapan pemeriksaan,  mulai dari penyelidikan sarnpai tahap penjatuhan putusan.  
 
 # BAB IV
 
@@ -148,7 +150,8 @@ b. berhak untuk mendapatkan Bantuan Hukum pada setiap tahapan pemeriksaan, mulai
 #### Pasal 9
 
 Kewajiban dan tanggung jawab dalam penyelenggaraan Perlindungan terhadap  Perempuan dan Anak korban kekerasan merupakan tanggung jawab bersarna:  a. Pemerintah Daerah;  
-b. masyarakat; danc. keluarga dan orang tua.  
+b. masyarakat; dan  
+c. keluarga dan orang tua.  
 
 #### Pasal 10
 
@@ -160,7 +163,8 @@ c. mengumpulkan data dan informasi tentang perempuan dan anak korban  kekerasan;
 d. memberikan dukungan sarana dan prasarana pelaksanaan  Perlindungan Perempuan dan Anak Korban Kekerasan;  
 e. membentuk PPT;  
 10-
-f. mengalokasikan anggaran dalam penyelenggaraan Perlindungan  Perempuan dan Anak Korban Kekerasan; dang. membina, mengawasi dan mengevaluasi penyelenggaraan  Perlindungan Perempuan dan Anak Korban Kekerasan.  
+f. mengalokasikan anggaran dalam penyelenggaraan Perlindungan  Perempuan dan Anak Korban Kekerasan; dan  
+g. membina, mengawasi dan mengevaluasi penyelenggaraan  Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 #### Pasal 11
 
@@ -168,7 +172,8 @@ f. mengalokasikan anggaran dalam penyelenggaraan Perlindungan  Perempuan dan Ana
 b. membentuk posko pengaduan di tingkat kelurahan/ desa;  
 c. membentuk unit Perlindungan Perempuan dan Anak di dalam  organisasikemasyarakatan;  
 d. melakukan sosialisasi hak Perempuan dan hak Anak secara mandiri;  
-e. melakukan pertolongan pertama kepada korban; danf. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
+e. melakukan pertolongan pertama kepada korban; dan  
+f. melaporkan kepada instansi yang berwenang apabila di lingkungannya  terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan  oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya  masyarakat, lembaga pendidikan, lembaga keagamaan, lembaga adat,  swasta, dan media massa.  
 4. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai dengan ketentuan  peraturan perundang-undangan.  
 
@@ -214,7 +219,8 @@ SPM Bidang Layanan Terpadu bagi Perempuan dan Anak, meliputi layanan:  a. penang
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. penegakan dan bantuan hukurn bagi Perempuan dan Anak Korban  Kekerasan;  
 d. pemulangan bagi Perempuan dan Anak Korban Kekerasan;  
-e. rehabilitasi, reintegrasi sosial, dan medikolegal bagi Perempuan dan Anak  Korban Kekerasan; danf. pelayanan psikologis bagi Perempuan dan Anak Karban Kekerasan;  
+e. rehabilitasi, reintegrasi sosial, dan medikolegal bagi Perempuan dan Anak  Korban Kekerasan; dan  
+f. pelayanan psikologis bagi Perempuan dan Anak Karban Kekerasan;  
 
 #### Pasal 16
 
@@ -262,7 +268,8 @@ f. pelayanan psikologis dan;
 g. pemberdayaan ekonomi.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai standar pelayanan minimal yang ditetapkan pemerintah dan  dilaksanakan oleh Perangkat Daerah yang tugas dan fungsinya dibidang:  a. sosial;  
 b. kesehatan;  
-c. pemberdayaan perempuan dan perlindungan anak; dand. mental dan spiritual.  
+c. pemberdayaan perempuan dan perlindungan anak; dan  
+d. mental dan spiritual.  
 3. Dalam melaksanakan tugas dan fungsi sebagaimana dimaksud pada  ayat (2), Pemerintah Daerah bekerjasama dengan instansi pemerintah,  pemerintah provmsi, pemerintah kabupaten/kota lain, masyarakat,  keluarga dan orang tua.  
 4. Ketentuan lebih lanjut menganai tata cara pelayanan, dan penanganan  terhadap perempuan dan anak korban kekerasan sebagaimana dimaksud  pada ayat {l), ayat {2), dan ayat (3), diatur dengan Peraturan Bupati.  
 
@@ -290,7 +297,8 @@ Prinsip Pelayanan dan Pendampingan
 Penyelenggaraan pelayanan dan pendampingan terhadap korban, dilakukan  dengan prinsip:  
 a. cepat, aman, dan empati;  
 b. adanya jaminan kerahasiaan;  
-c. mudah dijangkau; dand. tidak dipungut biaya.  
+c. mudah dijangkau; dan  
+d. tidak dipungut biaya.  
 
 # BAB VI
 
@@ -301,9 +309,11 @@ Pasa.123 ( 1) Pemerintab Daerah melakukan pembinaan dan pengawasan  penyelenggar
 2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pengawasan sebagaimana dirnaksud pada ayat (1), dilakukan dengan  prinsip:a. profesional;  
-b. transparan; danc. akun tabel.  
+b. transparan; dan  
+c. akun tabel.  
 
 Pasal24 Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 23 ayat (2)  dan ayat (3), dilakukan dalam rangka mewujudkan tujuan penyelenggaraan  perlindungan terhadap Perempuan dan Anak korban kekerasan sesuai SPM  yang ditetapkan oleh ketentuan peraturan perundang-undangan.  
 16-
@@ -317,7 +327,8 @@ Pasal24 Pembinaan dan pengawasan sebagaimana dimaksud dalam Pasal 23 ayat (2)  d
 1. PPT melaporkan pelaksanaan penyelenggaraan perlindungan terhadap  Perempuan dan Anak korban kekerasan kepada Bupati.  
 2. Pelaporan sebagaimana dimaksud pada ayat ( 1) disampaikan secara  tertulis, meliputi:a. administrasi;  
 b. keuangan;  
-c. pelayanan; dand. kinerja.  
+c. pelayanan; dan  
+d. kinerja.  
 3. Penyampaian laporan secara tertulis sebagaimana dimaksud pada ayat (2),  dilaksanakan paling sedikit 3 (tiga) bulan sekali.  
 
 # BAB VIII

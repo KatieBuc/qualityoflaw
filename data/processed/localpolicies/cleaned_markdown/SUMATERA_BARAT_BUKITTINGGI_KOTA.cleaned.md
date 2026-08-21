@@ -21,11 +21,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa dalam rangka menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapatkan perlindungan dari kekerasan, diskriminasi dan pelanggaran perlu dilakukan upaya-upaya perlindungan;  
 b. bahwa agar upaya perlindungan terhadap perempuan  dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah serta peran serta masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -199,7 +201,8 @@ f. pemberian fasilitas yang layak bagi setiap posyandu  serta Bina Keluarga Bali
 g. menjamin kualitas pengetahuan kader posyandu dan  kader bina keluarga balita sesuai dengan standar  pemerintah;  
 h. pemberian edukasi kepada masyarakat tentang menjadi  orangtua hebat, untuk menjamin kesehatan anak, baik  di posyandu, bina keluarga balita bersama-sama  dengan mitra kerja pemerintah dan masyarakat;  
 i. penyediaan tempat bermain dan penitipan anak yang  dikelola oleh pemerintah daerah atau organisasi yang  berada di bawah naungan Pemerintah Daerah;  
-j. penyediaan Pojok ASI di perkantoran yang memiliki  tenaga perempuan; dank. pemberian perhatian dan kasih sayang dari keluarga. (3) Perlindungan bagi anak usia sekolah:a. melarang adanya tindakan bullying kepada anak di  sekolah;  
+j. penyediaan Pojok ASI di perkantoran yang memiliki  tenaga perempuan; dan  
+k. pemberian perhatian dan kasih sayang dari keluarga. (3) Perlindungan bagi anak usia sekolah:a. melarang adanya tindakan bullying kepada anak di  sekolah;  
 b. menjamin tidak adanya tindakan penindasan (bullying) antar anak, guru ke anak, orang tua ke anak dan  masyarakat ke anak baik di sekolah, di rumah maupun  di tengah-tengah masyarakat;  
 c. memberikan edukasi kepada sekolah, keluarga dan  masyarakat tentang sekolah ramah anak;  
 d. mewajibkan setiap sekolah di semua tingkatan  memennuhi kriteria sekolah ramah anak;  
@@ -207,13 +210,15 @@ e. mendapat perhatian dan kasih sayang yang penuh dari  keluarga dan masyarakat;
 f. mendapat bimbingan agama dan adat istiadat/budaya  lokal termasuk sumbang 12 (dua baleh);  
 g. mendapat pendidikan wajib belajar dua belas tahun;  
 h. menyediakan program beasiswa bagi anak kurang  mampu dan anak yang berprestasi;  
-i. menyediakan sarana penunjang untuk kegiatan ekstra kurikuler seperti untuk mata pelajaran olah raga,  kesenian dan muatan lokal lainnya serta guru  pembimbing kegiatan; danj. melarang anak sekolah berada di warnet pada jam  sekolah dan setelah jam 18.00 WIB.  
+i. menyediakan sarana penunjang untuk kegiatan ekstra kurikuler seperti untuk mata pelajaran olah raga,  kesenian dan muatan lokal lainnya serta guru  pembimbing kegiatan; dan  
+j. melarang anak sekolah berada di warnet pada jam  sekolah dan setelah jam 18.00 WIB.  
 4. Setiap orang dan/atau pihak manapun wajib melindungi  anak usia sekolah dari tindakan kekerasan di lingkungan  keluarga, sekolah dan masyarakat.  
 5. Perlindungan terhadap anak terlantar:a. pemerintah daerah, LSM/Oganisasi sosial dan  masyarakat berkewajiban memberi perlindungan  terhadap anak terlantar yang berdomisili di Daerah  sesuai dengan peraturan perundang-undangan;  
 b. pemerintah daerah menjamin anak tidak hidup di  jalanan;  
 c. perlindungan bagi anak terlantar yang orang tuanya  tidak punya kemampuan dan/atau melakukan  pembiaraan serta anak yang tidak punya orang tua,  yang dilaksanakan melalui pelayanan panti dan non  panti oleh pemerintah daerah dan masyarakat;  
 d. bentuk pelayanan panti sebagaimana dimaksud pada  huruf (c), dilaksanakan dalam suasana kekeluargaan  dan di lingkungan terdekat anak dikelola oleh  masyarakat dan berbentuk lembaga;  
-e. bentuk pelayanan non panti sebagaimana dimaksud  pada huruf (c) dilaksanakan dalam suasana  kekeluargaan yang dikelola oleh masyarakat dan tidak  berbentuk lembaga; danf. panti milik masyarakat sebagaimana dimaksud pada  huruf (d) harus memenuhi persyaratan sesuai dengan  peraturan perundang-undangan yang berlaku.  
+e. bentuk pelayanan non panti sebagaimana dimaksud  pada huruf (c) dilaksanakan dalam suasana  kekeluargaan yang dikelola oleh masyarakat dan tidak  berbentuk lembaga; dan  
+f. panti milik masyarakat sebagaimana dimaksud pada  huruf (d) harus memenuhi persyaratan sesuai dengan  peraturan perundang-undangan yang berlaku.  
 
 # BAB V
 
@@ -253,7 +258,8 @@ Keluarga, pengasuh, panti dan lembaga adat wajib berperan  aktif dalam memberika
 #### Pasal 17
 
 1. Perlindungan perempuan dan anak dilakukan dalam  bentuk perlindungan:a. preventif;  
-b. represif; danc. postremedial.  
+b. represif; dan  
+c. postremedial.  
 2. Perlindungan preventif sebagaimana dimaksud pada ayat  (1) huruf a dilaksanakan melalui sosialisasi dan  pengarahan kepada orangtua, kepala keluarga, ibu rumah  tangga, wali, tenaga pengajar/pendidik, tenaga ahli,  pengasuh (pemilik dan petugas panti asuhan) dan  masyarakat hukum adat tentang kewajiban mereka dalam  perlindungan perempuan dan anak.  
 3. Perlindungan represif sebagaimana dimaksud pada ayat  (1) huruf b dilaksanakan melalui penegakkan hukum oleh  penegak hukum untuk menetapkan dan melaksanakan  sanksi hukum kepada orang-orang yang melakukan  pelanggaran hak anak dan perempuan tertentu.  
 4. Perlindungan postremedial sebagaimana dimaksud pada  ayat (1) huruf c dilaksanakan melalui upaya  pendampingan dalam penegakkan hukum oleh pengacara,  bimbingan psikologis oleh psikolog dan atau rohaniwan,  dan penempatan korban di rumah aman.  
@@ -310,7 +316,8 @@ PELAKSANAAN PENANGANAN KORBAN PELANGGARAN HAK PEREMPUAN DAN ANAK
 3. Pengurus P2TP2A dibentuk dengan Keputusan Walikota  dengan masa kepengurusan selama 2 (dua) tahun.  
 4. Dalam melaksanakan tugas pokok dan fungsinya P2TP2A  dibiayai dengan APBD atau sumber lain yang sah.  
 5. Pelayanan Penanganan Pengaduan dilakukan dalam  bentuk:a. pelapor (korban atau keluarga, masyarakat dan/atau  lembaga) datang secara langsung, melalui telepon dan/ atau surat melaporkan tindak kekerasan;  
-b. pelapor dirujuk oleh LSM, Organisasi sosial,  masyarakat ataupun media massa; danc. dalam hal tertentu petugas dapat mendatangi korban  (pelapor) secara langsung.  
+b. pelapor dirujuk oleh LSM, Organisasi sosial,  masyarakat ataupun media massa; dan  
+c. dalam hal tertentu petugas dapat mendatangi korban  (pelapor) secara langsung.  
 
 #### Pasal 24
 
@@ -342,10 +349,12 @@ Setiap perempuan atau anak yang menjadi korban  pelanggaran hak-hak perempuan da
 #### Pasal 29
 
 1. Kebijakan pengembangan KLA memuat tentang:  a. konsep KLA;  
-b. hak anak; danc. pendekatan pengembangan KLA.  
+b. hak anak; dan  
+c. pendekatan pengembangan KLA.  
 2. Konsep KLA sebagaimana pada ayat (1) huruf a, meliputi:  a. pengertian;  
 b. tujuan;  
-c. strategi; dand. peran para pihak.  
+c. strategi; dan  
+d. peran para pihak.  
 3. Pendekatan pengembangan KLA sebagaimana dimaksud  pada ayat (1) huruf c dan ayat (2) diatur lebih lanjut  dengan Peraturan Walikota.  
 
 #### Pasal 30
@@ -354,7 +363,8 @@ c. strategi; dand. peran para pihak.
 2. Pemenuhan hak anak sebagaimana pada ayat (1), terdiri  dari:a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan dan sekolah ramah anak, pemanfaatan  waktu luang, dan kegiatan budaya; dane. perlindungan khusus.  
+d. pendidikan dan sekolah ramah anak, pemanfaatan  waktu luang, dan kegiatan budaya; dan  
+e. perlindungan khusus.  
 3. Pemenuhan hak anak sebagaimana dimaksud pada ayat  (2), mekanisme dan pelaksanaannya diatur lebih lanjut  dengan Peraturan Walikota.  
 
 #### Pasal 31
@@ -368,7 +378,8 @@ d. mengumpulkan data dasar;
 e. melakukan analisis kebutuhan yang bersumber dari  data dasar;  
 f. melakukan deseminasi data dasar;  
 g. menentukan fokus dan prioritas program dalam  mewujudkan KLA, yang disesuaikan dengan potensi  daerah;  
-h. menyusun rencana aksi daerah KLA 5 (lima) tahunan  dan mekanisme kerja; dani. melakukan monitoring, evaluasi dan pelaporan paling  kurang 1 (satu) tahun sekali.  
+h. menyusun rencana aksi daerah KLA 5 (lima) tahunan  dan mekanisme kerja; dan  
+i. melakukan monitoring, evaluasi dan pelaporan paling  kurang 1 (satu) tahun sekali.  
 4. Keanggotaan Gugus Tugas KLA ditetapkan dengan  Keputusan Walikota.  
 
 #### Pasal 32

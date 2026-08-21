@@ -44,6 +44,7 @@ c. bahwa.....2 Mengingat:
  
  
  
+ 
 2-c. bahwa Pemerintah Kabupaten Bungo selaku penyelenggara pemerintahan daerah belum memiliki produk hukum daerah dalam menjamin hak-hak perempuan pada berbagai aspek kehidupan dalam Kabupaten Bungo sehingga perlu adanya peraturan mengenai perlindungan perempuan perempuan sebagai dasar hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c maka perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan;  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
@@ -128,7 +129,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. perlindungan;  
-e. penghormatan hak asasi manusia; danf. kepentingan terbaik bagi perempuan.  
+e. penghormatan hak asasi manusia; dan  
+f. kepentingan terbaik bagi perempuan.  
 
 #### Pasal 3
 
@@ -219,7 +221,8 @@ Kewajiban Dan Tanggung Jawab Pemerintah Daerah
 b. melaksanakan kebijakan, perlindungan, perempuan dari tindak kekerasan sesuai dengan ketentuan peraturan perundang-undangan;  
 c. melakukan perlindungan kerjasama dalam perempuan;  
 d. memberikan ΠΑΓΩΤΑ dukungan prasarana perlindungan perempuan;  
-e. mengalokasikan....13 -13-e. mengalokasikan anggaran perlindungan pemberdayaan penyelenggaraan perempuan kemampuan keuangan Daerah; danf. membina dan mengawasi perlindungan perempuan.  
+e. mengalokasikan....13 -13-e. mengalokasikan anggaran perlindungan pemberdayaan penyelenggaraan perempuan kemampuan keuangan Daerah; dan  
+f. membina dan mengawasi perlindungan perempuan.  
 
 sesuai penyelenggaraan (2) Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) Bupati menetapkan program dan kegiatan aksi perlindungan perempuan dalam rencana aksi Daerah sebagai dasar bagi Perangkat Daerah dalam melaksanakan perlindungan perempuan.  
 
@@ -248,7 +251,8 @@ Umum
 
 1. Perlindungan Perempuan yang diberikan oleh Pemerintah Daerah meliputi:a. pencegahan;  
 b. pelayanan;  
-c. pemberdayaan; dand. koordinasi Perlindungan Perempuan.  
+c. pemberdayaan; dan  
+d. koordinasi Perlindungan Perempuan.  
 2. Perlindungan Perempuan sebagaimana dimaksud pada ayat (1) dilakukan secara terpadu oleh Pemerintah Daerah melalui Perangkat Daerah vang menyelenggarakan urusan pemerintahan yang menjadi kewenangan Daerah bidang pemberdayaan perempuan.  
 3. Perangkat Daerah yang menyelenggarakan urusan pemerintahan yang menjadi kewenangan Daerah bidang pemberdayaan perempuan dalam memberikan Perlindungan Perempuan sebagaimana dimaksud pada ayat (1) membentuk UPTD PPA.  
 4. Ketentuan lebih lanjut mengenai UPTD PPAA sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Bupati.  
@@ -269,7 +273,8 @@ e. pembukaan aksebilitas untuk memperoleh peningkatan pendidikan, pelatihan, pen
 f. memberikan pendidikan kritis tentang hak-hak perempuan bagi masyarakat;  
 g. pembukaan lapangan kerja bagi perempuan;  
 h. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan perlindungan perempuan dari tindak kekerasan;  
-i. membangun dan menyediakan sistem informasi yang lengkap dan mudah di akses; danj. membuka pos pengaduan perlindungan perempuan dari tindak kekerasan disetiap kecamatan.  
+i. membangun dan menyediakan sistem informasi yang lengkap dan mudah di akses; dan  
+j. membuka pos pengaduan perlindungan perempuan dari tindak kekerasan disetiap kecamatan.  
 2. Pencegahan.....16 -16- (2) Pencegahan sebagaimana dimaksud pada ayat (1) dilakukan dengan berkoordinasi kepada Perangkat Daerah terkait dan/atau instansi yang berwenang.  
 
 ## Bagian Ketiga
@@ -290,7 +295,8 @@ Pengaduan, konsultasi,
 #### Pasal 14
 
 konseling sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf a meliputi:  
-a. Identifikasi atau pencatatan awal korban; danb. Persetujuan dilakukan tindakan.  
+a. Identifikasi atau pencatatan awal korban; dan  
+b. Persetujuan dilakukan tindakan.  
 
 #### Pasal 15
 
@@ -311,21 +317,24 @@ g. memberikan penanganan yang berkelanjutan hingga tahap rehabilitasi.
 
 Kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c meliputi:  
 a. Pertolongan pertama kepada korban;  
-b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; danc. Rujukan ke fasilitas layanan kesehatan.  
+b. Perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis; dan  
+c. Rujukan ke fasilitas layanan kesehatan.  
 
 #### Pasal 17
 
 1. Rehabilitasi sosial sebagaimana dimaksud dalam Pasal 13.  
 
 ayat (2) huruf d meliputi:  
-a. pemberian.....18 - 18 -a. pemberian bimbingan rohani kepada korban; danb. pemulihan kejiwaan korban.  
+a. pemberian.....18 - 18 -a. pemberian bimbingan rohani kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 2. Rehabilitasi sosial sebagaimana dimaksud pada ayat (1) merupakan pelayanan yang diberikan oleh pendamping dalam rangka memulihkan kondisi traumatis korban, termasuk penyediaan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi bagi korban dan memberikan dukungan secara sosial sehingga korban mempunyai rasa percaya diri, kekuatan, dan kemandirian dalam menyelesaikan masalahnya.  
 
 #### Pasal 18
 
 Hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. Memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korban dan proses peradilan;  
-b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. Melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
+b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; dan  
+c. Melakukan koordinasi dengan sesama penegak hukum, relawan pendamping, dan pekerja sosial agar proses peradilan berjalan sebagaimana mestinya.  
 1. Pemulangan
 
 #### Pasal 19
@@ -333,7 +342,8 @@ b. Mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam s
 dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf f bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya.  
 
 2. Pemulangan.....19.  
-2. Pemulangan -19- dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:a. Pemerintah Kabupaten/Kota dalam satu wilayah provinsi atau berbeda provinsi; danb. instansi dan lembaga terkait baik pemerintah maupun non pemerintah.  
+2. Pemulangan -19- dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh Pemerintah Daerah berkoordinasi dengan:a. Pemerintah Kabupaten/Kota dalam satu wilayah provinsi atau berbeda provinsi; dan  
+b. instansi dan lembaga terkait baik pemerintah maupun non pemerintah.  
 
 ## Bagian Keempat
 
@@ -350,13 +360,15 @@ c. Bantuan permodalan.
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 20 huruf a meliputi:  
 a. Pelatihan keterampilan;  
-b. Praktek kerja lapangan; danc. Pemagangan.  
+b. Praktek kerja lapangan; dan  
+c. Pemagangan.  
 
 #### Pasal 22
 
 Usaha ekonomis produktif dan kelompok usaha bersama sebagaimana dimaksud dalam Pasal 20 huruf b meliputi:  
 a. Pelatihan keterampilan wirausaha;  
-b. Fasilitasi pembentukan kelompok usaha bersama; danc. Pendampingan pelaksanaan usaha.  
+b. Fasilitasi pembentukan kelompok usaha bersama; dan  
+c. Pendampingan pelaksanaan usaha.  
 
 #### Pasal 23.....20
 
@@ -365,7 +377,8 @@ b. Fasilitasi pembentukan kelompok usaha bersama; danc. Pendampingan pelaksanaan
 #### Pasal 23
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 20 huruf e meliputi:  
-a. Bantuan sarana dan prasarana kerja; danb. Fasilitasi bantuan modal kerja.  
+a. Bantuan sarana dan prasarana kerja; dan  
+b. Fasilitasi bantuan modal kerja.  
 
 ## Bagian Kelima
 
@@ -376,7 +389,8 @@ Koordinasi Perlindungan Perempuan
 1. UPTD PPA sebagaimana dimaksud dalam Pasal 11 ayat (3) mengoptimalkan Perlindungan Perempuan di Daerah. (2) Optimalisasi sebagaimana dimaksud pada ayat (1) meliputi:a. mengkoordinasikan Perlindungan Perempuan;  
 
 mensingkronisasikan
-b. memelihara dan mengembangkan jejaring serta sistem rujukan; danc. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
+b. memelihara dan mengembangkan jejaring serta sistem rujukan; dan  
+c. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  
 3. Optimalisasi Perlindungan Perempuan oleh UPTD PPA sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai kode etik UPTD PPA.  
 4. Ketentuan lebih lanjut mengenai kode etik sebagaimana dimaksud pada ayat (3) diatur dengan peraturan Bupati.  
 
@@ -408,7 +422,8 @@ Kemitraan
 
 1. Pemerintah Daerah berdasarkan kerjasama sebagaimana dimaksud dalam Pasal 25 membentuk kemitraan dalam memberikan Perlindungan Perempuan.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. pemberian informasi kesempatan kerja bagi perempuan korban kekerasan,b. pendidikan dan pelatihan bagi perempuan korban kekerasan;  
-c. bantuan.....22 -22-c. bantuan pendidikan bagi perempuan korban kekerasan; dand. menumbuhkan dan meningkatkan kemandirian ekonomi bagi perempuan korban kekerasan.  
+c. bantuan.....22 -22-c. bantuan pendidikan bagi perempuan korban kekerasan; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi bagi perempuan korban kekerasan.  
 
 # BAB VIII
 
@@ -422,7 +437,8 @@ Umum (1) Bupati
 
 melakukan pembinaan pengawasan pelaksanaan Perlindungan Perempuan di Daerah.  
 
-2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan melalui: sistem informasi dan pelaporan; danb. tim pembinaan dan pengawasan.  
+2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) dilakukan melalui: sistem informasi dan pelaporan; dan  
+b. tim pembinaan dan pengawasan.  
 
 ## Bagian Kedua
 
@@ -433,7 +449,8 @@ Sistem Informasi Dan Pelaporan
 1. Pemerintah Daerah melalui UPTD PPA dalam melakukan Perlindungan Perempuan mendayagunakan sistem informasi dan pelaporan.  
 2. Sistem informasi dan pelaporan sebagaimana dimaksud pada ayat (1) paling sedikit memuat:a. data mitra Perlindungan Perempuan;  
 b. pelaporan tindak kekerasan Perempuan;  
-c. proses pelaksanaan Perlindungan Perempuan; dand. kegiatan Perlindungan Perempuan.  
+c. proses pelaksanaan Perlindungan Perempuan; dan  
+d. kegiatan Perlindungan Perempuan.  
 3. Pendayagunaan.....23 23- (3) Pendayagunaan sistem informasi dan pelaporan sebagaimana dimaksud pada ayat (1) dilakukan sesuai ketentuan peraturan perundang-undangan.  
 
 ## Bagian Ketiga
@@ -448,7 +465,8 @@ c. Perangkat Daerah yang menyelenggarakan urusan pemerintahan yang menjadi kewen
 d. Perangkat Daerah yang menyelenggarakan urusan pemerintahan yang menjadi kewenangan Daerah bidang sosial;  
 e. Perangkat Daerah yang menyelenggarakan urusan pemerintahan yang menjadi kewenangan Daerah bidang ketertiban masyarakat;  
 f. Kejaksaan....24 -24-f. Kejaksaan Republik Indonesia;  
-g. Kepolisian Republik Indonesia; danh. UPTD PPA.  
+g. Kepolisian Republik Indonesia; dan  
+h. UPTD PPA.  
 
 #### Pasal 30
 

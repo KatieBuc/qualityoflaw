@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk mendapatkan  perlindungan dan jaminan atas hak asasinya, serta berhak  mendapat perlakukan yang adil untuk memperoleh kesempatan  dan manfaat yang sama dalam mencapai kesejahteraan hidup;  
 b. bahwa peraturan perundang-undangan yang mengatur  perlindungan perempuan dan anak dalam mengatur upaya upaya perempuan dan anak alami dari tindak kekerasan di  daerah sehingga perlu adanya peraturan yang dapat terjamin  pelaksanaannya;  
 c. bahwa segala bentuk tindak kekerasan terhadap warga negara khususnya perempuan dan anak merupakan salah satu bentuk pelanggaran atas hak-hak asasi manusia sehingga negara, pemerintah, masyarakat, dan keluarga berkewajiban dan bertanggung jawab terhadap perlindungan perempuan dan anak dari tindak kekerasan;  
@@ -95,12 +96,14 @@ a. penghormatan dan pemenuhan terhadap hak-hak korban·b. keadilan dan kesetaraa
 c. kearifan lokal;  
 d. non diskriminasi;  
 e. kepentingan terbaik bagi perempuan dan anak;  
-f. partisipasi aktif; dang. memulihkan keadaan.  
+f. partisipasi aktif; dan  
+g. memulihkan keadaan.  
 
 #### Pasal 3
 
 Pengaturan perlindungan perempuan dan anak dari tindak  kekerasan bertujuan:  
-a. mencegah kekerasan terhadap perempuan dan anakb. melindungi, memberikan rasa aman bagi perempuad dan anak·c. memberikan pelayanan kepada perempuan dan anak korban  tindak kekerasan; dand. melakukan pemberdayaan kepada perempuan korban kekerasan.  
+a. mencegah kekerasan terhadap perempuan dan anakb. melindungi, memberikan rasa aman bagi perempuad dan anak·c. memberikan pelayanan kepada perempuan dan anak korban  tindak kekerasan; dan  
+d. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
 #### Pasal 4
 
@@ -108,7 +111,8 @@ a. mencegah kekerasan terhadap perempuan dan anakb. melindungi, memberikan rasa 
 a. bentuk tindak kekerasan·'b. hak dan kewajiban;  
 
 dungan perempuan dan anak;  
-c. perlin_d. pemb1naan dan pengawasan; dane. pendanaan.  
+c. perlin_d. pemb1naan dan pengawasan; dan  
+e. pendanaan.  
 
 # BAB II .....  
 
@@ -124,7 +128,8 @@ Bentuk-bentuk tindak kekerasan antara lain:
 a. kekerasan fisik;  
 b. kekerasan psikis;  
 c. kekerasan seksual;  
-d. penelantaran; dane. eksploitasi.  
+d. penelantaran; dan  
+e. eksploitasi.  
 
 #### Pasal 6
 
@@ -177,7 +182,8 @@ b. menetapkan dan melaksanakan kebijakan program dan kegiatan perlindungan terha
 c. memfasilitasi pembentukan organisasi masyarakat peduli perempuan dan anak;  
 d. melakukan kerja sama dengan masyarakat dan/atau organisasi kemasyarakatan dan swasta dalam penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. melakukan rehabilitasi dan pemberdayaan terhadap perempuan dan anak yang menjadi korban tindak kekerasan;  
-f. memberikan perlindungan khusus kepada perempuan dan anak korban dari berbagai tindak kekerasan; dang. melakukan tindakan preventif dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak. (2) Tanggung jawab dalam upaya perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh perangkat daerah sesuai dengan tugas dan fungsinya.  
+f. memberikan perlindungan khusus kepada perempuan dan anak korban dari berbagai tindak kekerasan; dan  
+g. melakukan tindakan preventif dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan dan anak. (2) Tanggung jawab dalam upaya perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud pada ayat (1) dilaksanakan oleh perangkat daerah sesuai dengan tugas dan fungsinya.  
 3. Ketentuan lebih lanjut mengenai kewajiban Pemerintah Kota sebagaimana dimaksud pada ayat ( 1) diatur dengan Peraturan Walikota.  
 
 ### Paragraf 2
@@ -203,7 +209,8 @@ Keluarga
 
 Keluarga dalam upaya perlindungan terhadap hak perempuan dan  anak bertanggung jawab:  
 a. melindungi perempuan dan anak dari konflik dan kekerasan dalam rumah tangga yang merendahkan martabat perempuan dan anak;  
-b. memberikan kesempatan yang sama pada perempuan dan anak mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; danc. mencegah terjadinya pelanggaran terhadap hak perempuan dan anak dalam rumah tangga.  
+b. memberikan kesempatan yang sama pada perempuan dan anak mengembangkan diri di bidang pendidikan, sosial, ekonomi, politik dan budaya; dan  
+c. mencegah terjadinya pelanggaran terhadap hak perempuan dan anak dalam rumah tangga.  
 
 # BAB IV
 
@@ -219,7 +226,8 @@ Pencegahan
 a. menyelenggarakan sosialisasi mengenai pencegahan  kekerasan terhadap perempuan dan anak dengan  mengoptimalkan peran kesatuan masyarakat, tokoh  masyarakat, tokoh agama, organisasi kemasyarakatan dan  media massa;  
 b. menyediakan pedoman tentang penanganan tindak  kekerasan terhadap perempuan dan anak;  
 c. mengembangkan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap perempuan dan anak;  
-d. penguatan fungsi organisasi kemasyarakatan yang bergerak dibidang perlindungan dan advokasi terhadap perempuan dan anak; dane. menyediakan fasilitas umum yang nyaman dan aman bagi perempuan dan anak.  
+d. penguatan fungsi organisasi kemasyarakatan yang bergerak dibidang perlindungan dan advokasi terhadap perempuan dan anak; dan  
+e. menyediakan fasilitas umum yang nyaman dan aman bagi perempuan dan anak.  
 2. Tanggung jawab Pemerintah Kota dalam upaya perlindungan perempuan dan anak dari tindak kekerasan sebagaimana dimaksud pada ayat ( 1) dilaksanakan oleh perangkat daerah perempuan dan anak sesuai dengan tugas dan fungsinya.  
 3. Ketentuan lebih lanjut mengenai perencanaan pencegahan terjadinya pelanggaran terhadap hak perempuan dan anak diintegrasikan Pemerintah Kota ke dalam perencanaan pembangunan daerah.  
 
@@ -230,12 +238,14 @@ d. penguatan fungsi organisasi kemasyarakatan yang bergerak dibidang perlindunga
 #### Pasal 12
 
 Dalam rangka pencegahan terjadinya pelanggaran terhadap hak perempuan dan anak dari tindak kekera�, ma�y�akat: . . . a. berperan aktif mengawasi berbagru. kond1s1 yang teI]ad1 d1 lingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan dan anak;  
-b. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danc. mencegah terjadinya perkawinan dibawah tangan dan perkawinan anak.  
+b. menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
+c. mencegah terjadinya perkawinan dibawah tangan dan perkawinan anak.  
 
 #### Pasal 13
 
 Dalam rangka mencegah terjadinya pelanggaran terhadap hak  perempuan dan anak dari tindak kekerasan, keluarga:  a. melindungi perempuan dan anak dari berbagai pelanggaran hak dalam rumah tangga;  
-b. mendorong terbentuknya keluarga yang harmonis, edukatif, mandiri dan pen uh rasa tanggung jawab; danc. menjadi tempat konseling dan mediasi awal bagi setiap anggota keluarga yang terduga terjadi pelanggaran terhadap hak perempuan dan anak.  
+b. mendorong terbentuknya keluarga yang harmonis, edukatif, mandiri dan pen uh rasa tanggung jawab; dan  
+c. menjadi tempat konseling dan mediasi awal bagi setiap anggota keluarga yang terduga terjadi pelanggaran terhadap hak perempuan dan anak.  
 
 ## Bagian Kedua
 
@@ -245,7 +255,8 @@ Penanganan
 
 ( 1) Pelaksanaan penanganan perempuan dan anak korban dari tindak kekerasan meliputi:  
 a. penanganan pengaduan korban kekerasan;  
-b. pelayanan kesehatan; danc. penegakan dan bantuan hukum.  
+b. pelayanan kesehatan; dan  
+c. penegakan dan bantuan hukum.  
 2. Pelaksanaan penanganan perempuan dan anak korban dari tindak kekerasan sebagaimana dimaksud pada ayat ( 1) dilaksanakan melalui pelayanan terpadu.  
 3. Pelayanan terpadu sebagaimana dimaksud pada ayat (2) bagi perempuan dan anak korban dari tindak kekerasan dijalankan dengan prinsip:a. responsif;  
 b. non diskriminasi;  
@@ -259,7 +270,8 @@ h. menghormati pilihan dan keputusan korban;
 J. menggunakan bahasa yang sesuai dan dimengerti oleh korban;  
 k. cepat dan sederhana;  
 1. empati;  
-m. pemen�han hak perempuan dan anak; dann. kepastian hukum.  
+m. pemen�han hak perempuan dan anak; dan  
+n. kepastian hukum.  
 
 #### Pasal 15 .....  
 
@@ -285,7 +297,8 @@ k. Lembaga Bantuan Hukum; dan
 
 1. Pengaduan tindak kekerasan terhadap perempuan dan anak dapat dilakukan oleh pelapor yang terdiri atas korban, keluarga, masyarakat dan/ atau organisasi kemasyarakatan.  
 2. Pelapor sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan pengaduan:a. secara langsung atau temuan langsung;  
-b. melalui telpon atau sejenisnya; danc. melalui surat.  
+b. melalui telpon atau sejenisnya; dan  
+c. melalui surat.  
 3. Selain penanganan pengaduan yang disampaikan oleh pelapor, petugas pada lembaga pelayanan juga berwenang melakukan penanganan perempuan dan anak korban dari tindak kekerasan yang diperoleh melalui informasi lainnya.  
 4. Ketentuan lebih lanjut mengenai tata cara pelayanan penanganan pengaduan diatur dengan Peraturan Walikota.  
 
@@ -294,7 +307,8 @@ b. melalui telpon atau sejenisnya; danc. melalui surat.
 ( 1) Pelayanan kesehatan dalam penanganan perempuan dan anak korban dari tindak kekerasan sebagaimana dimaksud dalam Pasal 14 ayat (1) huruf b bagi perempuan dan anak korban dari tindak kekerasan dilakukan secara komprehensif, dapat diakses 24 jam, berkualitas dan dilakukan dengan standar pelayanan kesehatan maksimal.  
 
 2. Perempuan dan anak korban dari tindak kekerasan memiliki hak terhadap pelayanan kesehatan, meliputi:a. pelayanan medis;  
-b. pelayanan mediko-legal; danc. konseling psikososial.  
+b. pelayanan mediko-legal; dan  
+c. konseling psikososial.  
 3. Pelayanan medis sebagaimana dimaksud pada ayat (2) huruf a, berupa perawatan dan pemulihan luka-luka fisik yang bertujuan untuk pemulihan kondisi fisik korban yang dilakukan oleh tenaga medis dan paramedis.  
 4. Pelayanan mediko-legal sebagaimana dimaksud pada ayat (2) huruf b, merupakan bentuk layanan medis untuk kepentingan pembuktian dibidang hukum.  
 5. Pelayanan .....  
@@ -302,20 +316,25 @@ b. pelayanan mediko-legal; danc. konseling psikososial.
 12 - (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pelayanan konseling;  
 b. penyediaan rumah aman;  
-c. bimbingan rohani; dand. pemulihan ekonomi.  
+c. bimbingan rohani; dan  
+d. pemulihan ekonomi.  
 3. Penyelenggaraan pelayanan sebagaimana dimaksud pada ayat (2), diselenggarakan oleh:a. UPT PPA bertugas melaksanakan kegiatan teknis operasional di wilayah kerjanya dalam memberikan layanan bagi perempuan dan anak korban dari tindak kekerasan, diskriminasi, perlindungan khusus, dan masalah lainnya;  
-b. kedudukan UPT PPA berada dibawah dan bertanggung jawab kepada Kepala Dinas yang menyelenggarakan urusan pemerintahan dibidang pemberdayaan perempuan dan perlindungan anak di tingkat kota; danc. instansi keagamaan.  
+b. kedudukan UPT PPA berada dibawah dan bertanggung jawab kepada Kepala Dinas yang menyelenggarakan urusan pemerintahan dibidang pemberdayaan perempuan dan perlindungan anak di tingkat kota; dan  
+c. instansi keagamaan.  
 
 #### Pasal 21
 
 ( 1) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 20 ayat (2) huruf a bertujuan untuk:  
 a. membantu korban mengenali permasalahannya dan menemukan cara-cara yang efektif untuk mengatasinya sendiri;  
 b. memberdayakan korban untuk menentukan masa depannya;  
-c. memberikan dukungan moral bagi korban dalam menghadapi proses hukum yang dijalaninya; dand. membuat korban merasa diterima di lingkungan masyarakat. (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsive gender, terdiri atas:a. konselor yang telah memiliki sertifikat;  
-b. psikolog; danc. psikiater.  
+c. memberikan dukungan moral bagi korban dalam menghadapi proses hukum yang dijalaninya; dan  
+d. membuat korban merasa diterima di lingkungan masyarakat. (2) Pelayanan konseling dilakukan oleh petugas rehabilitasi sosial yang responsive gender, terdiri atas:a. konselor yang telah memiliki sertifikat;  
+b. psikolog; dan  
+c. psikiater.  
 3. Pelayanan konseling dilakukan di tempat yang menjamin rasa aman, nyaman dan kerahasiaan informasi dari korban. (4) Tahapan pelayanan konseling meliputi:a. konseling awal;  
 b. konseling lanjutan;  
-c. pembahasan kasus; dand. kunjungan ke lokasi.  
+c. pembahasan kasus; dan  
+d. kunjungan ke lokasi.  
 
 #### Pasal 22
 

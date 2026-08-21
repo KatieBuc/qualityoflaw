@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak konstitusional dan perlindungan hak  asasi perempuan terhadap pemberdayaan dan perlindungan  perempuan merupakan salah satu nilai yang tertuang dalam  Pancasila dan Undang-Undang Dasar 1945;  
 b. bahwa perempuan sangat berperan dalam proses penerusan  dan penciptaan generasi yang berkualitas sehingga  memerlukan rasa aman, mendapatkan jaminan  perlindungan dari tindak kekerasan dan diskriminasi serta  perlu diberdayakan agar dapat mengaktualisasikan  potensinya secara optimal;  
 c. bahwa upaya pemberdayaan dan perlindungan perempuan  di Kabupaten Klaten perlu arah pengaturan dan kepastian  hukum;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan Perlindungan  Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -84,7 +86,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Pemberdayaan dan Perlindungan Perempuan bertujuan untuk:  
 a. meningkatkan partisipasi perempuan dalam proses pembangunan;  
 b. meningkatkan kualitas hidup perempuan;  
-c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai  manusia; dand. memberikan rasa aman dengan meningkatkan perlindungan kepada  perempuan dari berbagai tindak kekerasan.  
+c. memberikan jaminan kepada perempuan dalam pemenuhan hak sebagai  manusia; dan  
+d. memberikan rasa aman dengan meningkatkan perlindungan kepada  perempuan dari berbagai tindak kekerasan.  
 
 # BAB II
 
@@ -121,7 +124,8 @@ Bidang Kesehatan
 2. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) meliputi:  
 a. pelayanan kesehatan reproduksi remaja;  
 b. pelayanan kesehatan reproduksi usia subur;  
-c. pelayanan kesehatan masa sebelum hamil, hamil, persalinan dan sesudah  persalinan; dand. pengaturan kehamilan, pelayanan kontrasepsi dan pelayanan kesehatan  seksual;  
+c. pelayanan kesehatan masa sebelum hamil, hamil, persalinan dan sesudah  persalinan; dan  
+d. pengaturan kehamilan, pelayanan kontrasepsi dan pelayanan kesehatan  seksual;  
 3. Perempuan mempunyai hak untuk mendapat pelayanan kesehatan sesuai  siklus kehidupan perempuan.  
 4. Pelayanan kesehatan sebagaimana dimaksud pada ayat (1) dan ayat (3)  dilaksanakan melalui pendekatan promotif, preventif, kuratif dan  rehabilitatif.  
 
@@ -154,7 +158,8 @@ Bidang Ekonomi
 b. Kemudahan dalam memperoleh pekerjaan;  
 c. Fasilitasi pembentukan kelompok usaha ekonomi produktif;  
 d. kemudahan permodalan usaha;  
-e. fasilitasi pengembangan jaringan pemasaran; danf. Kemudahan akses informasi dan teknologi.  
+e. fasilitasi pengembangan jaringan pemasaran; dan  
+f. Kemudahan akses informasi dan teknologi.  
 4. Ketentuan lebih lanjut mengenai pelaksanaan kemandirian ekonomi  perempuan sebagaimana dimaksud pada ayat (3) diatur dalam Peraturan  Bupati.  
 
 ## Bagian Keenam
@@ -208,7 +213,8 @@ d. menyusun sistem pendataan perlindungan perempuan; dan e. melakukan kerjasama 
 
 1. Untuk mengefektifkan dan menjamin pelaksanaan perlindungan  sebagaimana dimaksud dalam Pasal 11 ayat (1), Pemerintah Daerah  membentuk lembaga perlindungan perempuan dan anak sebagai berikut:  
 a. Pusat Pelayanan Terpadu Pemberdayaan Perempuan dan Anak (P2TP2A)  di tingkat Daerah;  
-b. Pusat Pelayanan Terpadu (PPT) Tingkat Kecamatan; danc. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan.  
+b. Pusat Pelayanan Terpadu (PPT) Tingkat Kecamatan; dan  
+c. Gugus Tugas Perlindungan Perempuan dan Anak Tingkat  Desa/Kelurahan.  
 2. Lembaga perlindungan perempuan dan anak sebagaimana dimaksud pada  ayat (1) beranggotakan wakil dari Pemerintah Daerah, penegak hukum,  organisasi masyarakat, lembaga swadaya masyarakat, organisasi profesi dan  peneliti/akademisi.  
 3. Ketentuan lebih lanjut mengenai pembentukan, tugas dan fungsi lembaga  perlindungan perempuan dan anak diatur dalam Peraturan Bupati.  
 
@@ -229,7 +235,8 @@ b. Pusat Pelayanan Terpadu (PPT) Tingkat Kecamatan; danc. Gugus Tugas Perlindung
 
 Pendanaan pelaksanaan kebijakan program dan kegiatan pemberdayaan dan  perlindungan perempuan di Daerah bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Negara;  
-b. Anggaran Pendapatan dan Belanja Daerah; danc. Sumber dana lain yang sah dan tidak mengikat.  
+b. Anggaran Pendapatan dan Belanja Daerah; dan  
+c. Sumber dana lain yang sah dan tidak mengikat.  
 
 # BAB VI
 

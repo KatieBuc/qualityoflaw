@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga Negara berhak untuk bebas dari tindak  kekerasan atau perlakuan yang merendahkan derajat martabat  manusia serta berhak mendapatkan rasa aman terlebih lagi bagi  perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten  Hulu Sungai Selatan terus meningkat dan meluas yang  menyebabkan rasa tidak aman dalam menjalankan kehidupan,  sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak sebagaimana telah diubah  beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun  2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas  Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak Menjadi UndangUndang dan ketentuan Undang-Undang  Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga, Pemerintah Daerah berkewajiban dan  bertanggungjawab terhadap peneyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -112,7 +114,8 @@ a. kemanusiaan;
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
 d. ketertiban dan kepastian hukum;  
-e. keterbukaan; danf. pengayoman.  
+e. keterbukaan; dan  
+f. pengayoman.  
 
 #### Pasal 3
 
@@ -120,7 +123,8 @@ Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:
 a. mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. melindungi, memberikan rasa aman bagi perempuan dan anak;  
-d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dane. menguatkan perempuan dan anak korban tindak kekerasan agar lebih berdaya  baik fisik, psikis, sosial, dan ekonomi.  
+d. memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dan  
+e. menguatkan perempuan dan anak korban tindak kekerasan agar lebih berdaya  baik fisik, psikis, sosial, dan ekonomi.  
 
 6 -
 
@@ -134,7 +138,8 @@ d. hak perempuan dan anak dari tindak kekerasan;
 e. kelembagaan;  
 f. kerja sama dan kemitraan;  
 g. pembinaan dan pengawasan;  
-h. penghargaan; dani. pendanaan;  
+h. penghargaan; dan  
+i. pendanaan;  
 
 # BAB II
 
@@ -159,7 +164,8 @@ Pemerintah Daerah dalam penyelenggaraan Perlindungan Perempuan dan Anak dari Tin
 a. pencegahan tindak kekerasan terhadap perempuan dan anak;  
 b. perlindungan hukum;  
 c. Pemulihan;  
-d. koordinasi; dane. mendorong partisipasi Masyarakat.  
+d. koordinasi; dan  
+e. mendorong partisipasi Masyarakat.  
 
 ## Bagian Kedua
 
@@ -174,7 +180,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, p
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap pencegahan  perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan mudah  di akses;  
-f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, lembaga pendidikan, dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dang. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari tindak kekerasan di setiap kelurahan.  
+f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, lembaga pendidikan, dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dan  
+g. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari tindak kekerasan di setiap kelurahan.  
 
 #### Pasal 8
 
@@ -183,7 +190,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. administrasi kependudukan dan pencatatan sipil:f. pemberdayaan perempuan, perlindungan perempuan dan anak;  
-g. koperasi dan Usaha Mikro Kecil Menengah; danh. ketenteraman, ketertiban umum, dan perlindungan masyarakat (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan  berdasarkan RPJPD dan RPJMD.  
+g. koperasi dan Usaha Mikro Kecil Menengah; dan  
+h. ketenteraman, ketertiban umum, dan perlindungan masyarakat (2) Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana dimaksud  pada ayat (1), dilaksanakan secara terpadu dan berkesinambungan  berdasarkan RPJPD dan RPJMD.  
 
 ## Bagian Ketiga
 
@@ -243,7 +251,8 @@ e. menyebarluaskan informasi tentang peraturan perundang-undangan yang  berkaita
 #### Pasal 13
 
 Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
-a. Pemerintah Daerah; danb. Masyarakat.  
+a. Pemerintah Daerah; dan  
+b. Masyarakat.  
 
 ## Bagian Kedua
 
@@ -256,7 +265,8 @@ b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak  dari tin
 c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan sesuai kemampuan keuangan daerah;  
 d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan  anak dari tindak kekerasan;  
 e. menyediakan pelayanan perlindungan perempuan dan anak korban tindak  kekerasan;  
-f. mendorong dan meningkatkan partisipasi masyarakat; dang. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perlindungan untuk anak yang menjadi korban tindak kekerasan.  
+f. mendorong dan meningkatkan partisipasi masyarakat; dan  
+g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perlindungan untuk anak yang menjadi korban tindak kekerasan.  
 2. Dalam rangka melaksanakan kewajiban dan tanggung jawab sebagaimana  dimaksud pada ayat (1), Bupati menetapkan program dan kegiatan aksi  perlindungan perempuan dan anak dalam Rencana Aksi Daerah sebagai dasar  bagi Perangkat Daerah dalam melaksanakan perlindungan perempuan dan  anak dari tindak kekerasan.  
 3. Rencana Aksi Daerah sebagaimana dimaksud pada ayat (2), merupakan  bagian RPJMD.  
 4. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana dimaksud  pada ayat (2) diatur dengan Peraturan Bupati.  
@@ -319,7 +329,8 @@ Anak korban tindak kekerasan selain mendapatkan hak sebagaimana dimaksud  dalam 
 a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak Perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 #### Pasal 20
 
@@ -361,7 +372,8 @@ e. Lembaga Sosial Dan Keagamaan;
 f. Lembaga Swadaya Masyarakat; dan/ataug. Media.  
 4. Kerja sama sebagaimana dimaksud pada ayat (2) meliputi:a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi.  
 5. Kerja sama sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai  ketentuan peraturan perundang-undangan.  
 
 ## Bagian Kedua
@@ -374,7 +386,8 @@ Kemitraan
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dalam rangka mencapai  tujuan perlindungan perempuan dan anak dari tindak kekerasan sesuai  ketentuan peraturan perundang-undangan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak  kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 4. Kemitraan sebagaimana dimaksud pada ayat (3) dilaksanakan sesuai  ketentuan peraturan perundang-undangan.  
 
 # BAB VIII
@@ -389,7 +402,8 @@ a. pedoman dan standar pemenuhan;
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
 d. pemantauan;  
-e. evaluasi; danf. pelaporan.  
+e. evaluasi; dan  
+f. pelaporan.  
 
 13 -
 
@@ -409,9 +423,11 @@ Ketentuan lebih lanjut mengenai tata cara pelaksanaan pembinaan dan  pengawasan 
 
 1. Pemerintah Daerah memberikan penghargaan kepada setiap orang atau badan  yang berperan serta dalam upaya perlindungan perempuan dan anak dari  tindak kekerasan di Daerah.  
 2. Penghargaan sebagaimana dimaksud pada ayat (1) diberikan berupa:  
-a. sertifikat/plakat; danb. insentif Daerah.  
+a. sertifikat/plakat; dan  
+b. insentif Daerah.  
 3. Insentif sebagaimana dimaksud pada ayat (2) huruf b dapat berupa:  
-a. fiskal; danb. non fiskal.  
+a. fiskal; dan  
+b. non fiskal.  
 4. Insentif fiskal sebagaimana dimaksud pada ayat (3) huruf a dapat berupa:  
 a. pengurangan atau pembebasan pajak daerah; dan/ataub. pengurangan retribusi daerah.  
 5. Insentif non fiskal sebagaimana dimaksud pada ayat (3) huruf b dapat berupa  kemudahan perizinan daerah sesuai dengan ketentuan peraturan perundang undangan.  

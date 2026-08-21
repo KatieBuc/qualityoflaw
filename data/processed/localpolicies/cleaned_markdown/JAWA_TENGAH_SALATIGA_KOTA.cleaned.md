@@ -16,9 +16,11 @@ Menimbang:
  
  
  
+ 
 a. b. bahwa segala bentuk Kekerasan,  terutama Kekerasan Berbasis Gender  dan Anak merupakan pelanggaran  hak asasi manusia dan kejahatan  terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
 bahwa perlakuan diskriminatif dan  Kekerasan Berbasis Gender dan Anak  di Kota Salatiga cenderung  mengalami peningkatan serta dapat  menimbulkan potensi menurunnya  kualitas kehidupan keluarga dan  masyarakat sehingga diperlukan Mengingat:  
+ 
  
  
  
@@ -111,7 +113,8 @@ h. keterbukaan;
 i. keterpaduan;  
 j. tidak menyalahkan korban;  
 k. memberdayakan;  
-l. kerahasiaan korban; danm. pengambilan keputusan di tangan korban.  
+l. kerahasiaan korban; dan  
+m. pengambilan keputusan di tangan korban.  
 
 #### Pasal 3
 
@@ -130,7 +133,8 @@ b. kewajiban dan tanggung jawab Pemerintah Daerah,  masyarakat, keluarga, dan or
 c. penyelenggaraan;  
 d. pengorganisasian;  
 e. sumber daya;  
-f. peran serta masyarakat; dang. pembinaan, pengendalian, dan pengawasan.  
+f. peran serta masyarakat; dan  
+g. pembinaan, pengendalian, dan pengawasan.  
 
 # BAB II
 
@@ -143,12 +147,14 @@ b. untuk ikut serta dalam proses memilih dan  menentukan bentuk Perlindungan dan
 c. bebas dari pertanyaan yang menjerat;  
 d. mendapatkan informasi mengenai perkembangan  kasus dan putusan pengadilan;  
 e. mendapatkan pelayanan yang cepat, tepat, nyaman,  dan sesuai kebutuhan;  
-f. Pemulihan dan Reintegrasi Sosial; dang. mendapatkan Pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial, dan penerjemah.  (2) Hak Korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan yang berlaku.  
+f. Pemulihan dan Reintegrasi Sosial; dan  
+g. mendapatkan Pendampingan hukum, psikologis,  bimbingan rohani, ekonomi, sosial, dan penerjemah.  (2) Hak Korban sebagaimana dimaksud pada ayat (1)  dilaksanakan sesuai dengan ketentuan peraturan  perundang-undangan yang berlaku.  
 
 #### Pasal 6
 
 Setiap Korban Kekerasan Berbasis Gender dan Anak  berkewajiban:  
-a. memberikan keterangan yang benar dan dapat  dipertanggungjawabkan kepada pihak yang  berkepentingan; danb. bersedia menjadi saksi apabila tidak membahayakan  diri sendiri serta mendapatkan jaminan keamanan.  
+a. memberikan keterangan yang benar dan dapat  dipertanggungjawabkan kepada pihak yang  berkepentingan; dan  
+b. bersedia menjadi saksi apabila tidak membahayakan  diri sendiri serta mendapatkan jaminan keamanan.  
 
 # BAB III
 
@@ -166,9 +172,11 @@ c. menyediakan layanan Pemulihan dan Reintegrasi  Sosial;
 d. memfasilitasi terselenggaranya pelayanan terpadu;  
 e. menyediakan sarana dan prasarana;  
 f. meningkatkan kapasitas lembaga penyedia layanan;  
-g. mendorong dan meningkatkan partisipasi  masyarakat; danh. melakukan kerja sama dengan lembaga penyedia  layanan dalam upaya pencegahan, perlindungan  dan Pemulihan Korban Kekerasan.  
+g. mendorong dan meningkatkan partisipasi  masyarakat; dan  
+h. melakukan kerja sama dengan lembaga penyedia  layanan dalam upaya pencegahan, perlindungan  dan Pemulihan Korban Kekerasan.  
 2. Untuk menjalankan kewajiban dan tanggung jawab  sebagaimana dimaksud pada ayat (1), Pemerintah  Daerah berwenang:a. merumuskan kebijakan dan program tentang  Penghapusan Kekerasan Berbasis Gender dan  Anak;  
-b. membentuk lembaga pelayanan bagi Korban  Kekerasan Berbasis Gender dan Anak; danc. melakukan monitoring dan evaluasi.  
+b. membentuk lembaga pelayanan bagi Korban  Kekerasan Berbasis Gender dan Anak; dan  
+c. melakukan monitoring dan evaluasi.  
 3. Pemerintah Daerah dalam menjalankan kewajiban dan  tanggung jawab serta wewenang sebagaimana  dimaksud pada ayat (1) dan ayat (2) harus  memperhatikan hak dan kewajiban orang tua, keluarga  atau orang lain yang secara hukum bertanggung jawab  kepada Korban.  
 
 #### Pasal 9
@@ -187,14 +195,16 @@ a. pencegahan;
 b. penanganan kasus;  
 c. penanganan pasca krisis;  
 d. koordinasi dan kerja sama;  
-e. peningkatan partisipasi masyarakat; danf. monitoring dan pelaporan.  
+e. peningkatan partisipasi masyarakat; dan  
+f. monitoring dan pelaporan.  
 
 #### Pasal 11
 
 Pencegahan sebagaimana dimaksud dalam Pasal 10 huruf  a, meliputi:  
 a. membentuk jaringan pencegahan dan penanganan  Kekerasan secara terkoordinasi, terintegrasi, dan  tersinkronisasi berdasarkan pola kemitraan;  
 b. membentuk sistem pencegahan Kekerasan, pemetaan  lokasi atau wilayah rawan terjadinya Kekerasan;  
-c. menyelenggarakan komunikasi, informasi, dan edukasi  mengenai Kekerasan Berbasis Gender dan Anak beserta  upaya pencegahan dan penanganannya; dand. menyelenggarakan sosialisasi Peraturan Perundang undangan yang berkaitan dengan Kekerasan Berbasis  Gender dan Anak.  
+c. menyelenggarakan komunikasi, informasi, dan edukasi  mengenai Kekerasan Berbasis Gender dan Anak beserta  upaya pencegahan dan penanganannya; dan  
+d. menyelenggarakan sosialisasi Peraturan Perundang undangan yang berkaitan dengan Kekerasan Berbasis  Gender dan Anak.  
 
 #### Pasal 12
 
@@ -202,7 +212,8 @@ Penanganan kasus sebagaimana dimaksud dalam Pasal 10  huruf b, meliputi:
 a. menyediakan layanan Pengaduan kasus Kekerasan  Berbasis Gender dan Anak;  
 b. memberikan Perlindungan sementara di rumah aman  (shelter);  
 c. memberikan pelayanan Medicolegal;  
-d. melakukan Pendampingan hukum dalam penanganan  dan penyelesaian kasus Kekerasan Berbasis Gender  dan Anak, baik didalam maupun diluar pengadilan; dane. memberikan Perlindungan hukum secara khusus bagi  Anak Korban Kekerasan sesuai dengan ketentuan  Peraturan Perundang-undangan.  
+d. melakukan Pendampingan hukum dalam penanganan  dan penyelesaian kasus Kekerasan Berbasis Gender  dan Anak, baik didalam maupun diluar pengadilan; dan  
+e. memberikan Perlindungan hukum secara khusus bagi  Anak Korban Kekerasan sesuai dengan ketentuan  Peraturan Perundang-undangan.  
 
 #### Pasal 13
 
@@ -211,7 +222,8 @@ a. memberikan Pemulihan fisik di lembaga Pelayanan  kesehatan;
 b. membantu pemulangan Korban;  
 c. memberikan Pemulihan dan Pendampingan psikososial;  
 d. memberikan Pelayanan bimbingan rohani;  
-e. melakukan penyiapan keluarga dan masyarakat dalam  proses reintegrasi sosial; danf. memberikan layanan pelatihan keterampilan dan  peningkatan akses ekonomi.  
+e. melakukan penyiapan keluarga dan masyarakat dalam  proses reintegrasi sosial; dan  
+f. memberikan layanan pelatihan keterampilan dan  peningkatan akses ekonomi.  
 
 #### Pasal 14
 
@@ -221,9 +233,11 @@ b. melakukan koordinasi dan kerja sama dengan  lembaga yang menangani isu-isu Ge
 #### Pasal 15
 
 Peningkatan partisipasi masyarakat sebagaimana  dimaksud dalam Pasal 10 huruf e, meliputi:  
-a. menumbuhkan kepedulian masyarakat terhadap kasus  Kekerasan Berbasis Gender dan Anak; danb. mendorong masyarakat untuk berpartisipasi aktif  dalam memberikan informasi dan melaporkan adanya  Kekerasan Berbasis Gender dan Anak;  
+a. menumbuhkan kepedulian masyarakat terhadap kasus  Kekerasan Berbasis Gender dan Anak; dan  
+b. mendorong masyarakat untuk berpartisipasi aktif  dalam memberikan informasi dan melaporkan adanya  Kekerasan Berbasis Gender dan Anak;  
 c. menumbuhkan kearifan lokal dalam penanganan  terhadap Korban Kekerasan Berbasis Gender dan Anak;  
-d. melakukan penguatan kelompok masyarakat dalam  penanganan terhadap Korban Kekerasan Berbasis  Gender dan Anak; dane. menyebarluaskan informasi tentang Peraturan  Perundang-undangan yang berkaitan dengan Kekerasan  Berbasis Gender dan Anak.  
+d. melakukan penguatan kelompok masyarakat dalam  penanganan terhadap Korban Kekerasan Berbasis  Gender dan Anak; dan  
+e. menyebarluaskan informasi tentang Peraturan  Perundang-undangan yang berkaitan dengan Kekerasan  Berbasis Gender dan Anak.  
 
 #### Pasal 16
 
@@ -239,7 +253,8 @@ Monitoring dan pelaporan sebagaimana dimaksud dalam  Pasal 10 huruf f meliputi p
 2. Lembaga non struktural sebagaimana dimaksud pada  ayat (1) terdiri dari unsur Pemerintah Daerah, unsur  instansi vertikal dibidang penegakan hukum, unsur  masyarakat, dan unsur pemangku kepentingan terkait.  
 3. Lembaga non struktural sebagaimana dimaksud pada  ayat (1) bertugas:a. menyelenggarakan upaya Perlindungan terhadap  Korban Kekerasan Berbasis Gender dan Anak,  mencakup pencegahan, penanganan kasus,  penanganan pasca krisis, serta monitoring dan  pelaporan;  
 b. menyusun rencana aksi, program, dan kegiatan  Penyelenggaraan Perlindungan terhadap Korban  Kekerasan Berbasis Gender dan Anak;  
-c. menyusun standar pelayanan Penyelenggaraan  Perlindungan terhadap Korban Kekerasan Berbasis  Gender dan Anak; dand. melaporkan hasil pelaksanaan tugas dan  bertanggung jawab kepada Walikota.  
+c. menyusun standar pelayanan Penyelenggaraan  Perlindungan terhadap Korban Kekerasan Berbasis  Gender dan Anak; dan  
+d. melaporkan hasil pelaksanaan tugas dan  bertanggung jawab kepada Walikota.  
 4. Ketentuan lebih lanjut mengenai pembentukan,  keanggotaan, dan uraian tugas serta tata kerja lembaga  non struktural sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Walikota.  
 
 # BAB VI
@@ -249,7 +264,8 @@ c. menyusun standar pelayanan Penyelenggaraan  Perlindungan terhadap Korban Keke
 #### Pasal 18
 
 Sumber daya Penyelenggaraan Perlindungan Korban  Kekerasan Berbasis Gender dan Anak terdiri atas:  a. sumber daya manusia;  
-b. sarana dan prasarana pendukung; danc. pembiayaan.  
+b. sarana dan prasarana pendukung; dan  
+c. pembiayaan.  
 
 #### Pasal 19
 
@@ -276,7 +292,8 @@ Peran serta masyarakat dalam Penyelenggaraan  Perlindungan Korban Kekerasan Berb
 a. memberikan informasi dan/atau melaporkan setiap  peristiwa Kekerasan yang diketahuinya;  
 b. memberikan Perlindungan bagi Korban;  
 c. memberikan pertolongan darurat;  
-d. memberikan Pendampingan terhadap Korban dan/atau  masyarakat dalam penanganan dan penyelesaian kasus  Kekerasan Berbasis Gender dan Anak; dane. membantu dalam proses pemulangan dan Reintegrasi  Sosial.  
+d. memberikan Pendampingan terhadap Korban dan/atau  masyarakat dalam penanganan dan penyelesaian kasus  Kekerasan Berbasis Gender dan Anak; dan  
+e. membantu dalam proses pemulangan dan Reintegrasi  Sosial.  
 
 # BAB VIII
 
@@ -287,7 +304,8 @@ d. memberikan Pendampingan terhadap Korban dan/atau  masyarakat dalam penanganan
 Pembinaan dan pengendalian terhadap Penyelenggaraan  Perlindungan terhadap Korban Kekerasan Berbasis Gender  dan Anak meliputi:  
 a. pemberian pedoman, petunjuk, bimbingan dan arahan,  serta supervisi;  
 b. pengoordinasian penyusunan dan pelaksanaan rencana  aksi, program, dan kegiatan;  
-c. pemberian konsultasi pelaksanaan program dan  kegiatan serta pemberian solusi atas kendala yang  dihadapi; dand. pelaksanaan monitoring dan evaluasi.  
+c. pemberian konsultasi pelaksanaan program dan  kegiatan serta pemberian solusi atas kendala yang  dihadapi; dan  
+d. pelaksanaan monitoring dan evaluasi.  
 
 #### Pasal 24
 

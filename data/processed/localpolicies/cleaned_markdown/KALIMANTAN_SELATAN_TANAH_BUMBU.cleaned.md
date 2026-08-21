@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa Perempuan dan Anak berhak mendapatkan perlindungan dari penyiksaan, ancaman, tekanan, serta berhak mendapatkan perlakuan dan kesempatan yang sama untuk mendapatkan keadilan dan kesejahteraan hidup sesuai dengan amanat Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  
 b. bahwa Pemberdayaan Perempuan dan melindungi hak-hak Anak menjadi kewajiban Pemerintah Daerah dan Masyarakat di Daerah;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b dan huruf H Pembagian Urusan Pemerintahan Bidang Pemberdayaan Perempuan dan Perlindungan Anak Lampiran Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 6 Tahun 2023 tentang Penetapan Peraturan Pemerintah Pengganti Undang- Undang Nomor 2 Tahun 2022 tentang Cipta Kerja Menjadi Undang-Undang, Pemerintah Daerah berwenang menyelenggarakan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -126,7 +128,8 @@ d. keadilan dan kepastian hukum;
 e. kemanfaatan;  
 f. partisipatif;  
 g. kepentingan terbaik bagi Anak;  
-h. akuntabilitas; dani. responsif gender.  
+h. akuntabilitas; dan  
+i. responsif gender.  
 
 #### Pasal 3
 
@@ -137,7 +140,8 @@ Maksud ditetapkan Peraturan Daerah ini sebagai pedoman dalam penyelenggaraan Pem
 dan Perlindungan Pengaturan mengenai Pemberdayaan Perempuan dan Anak bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak setiap Perempuan dan Anak atas kelangsungan hidup, tumbuh dan berkembang;  
 b. meningkatkan kualitas hidup Perempuan, Anak dan kualitas keluarga;  
-c. meningkatkan kapasitas kelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah, termasuk pengembangan sistem data gender dan Anak; dand. memberikan perlindungan hak Perempuan dan pemenuhan Hak Anak termasuk Perlindungan Khusus bagi Anak dari berbagai bentuk Kekerasan dan perlakuan diskriminatif lainnya.  
+c. meningkatkan kapasitas kelembagaan Pemberdayaan Perempuan dan Perlindungan Anak di Daerah, termasuk pengembangan sistem data gender dan Anak; dan  
+d. memberikan perlindungan hak Perempuan dan pemenuhan Hak Anak termasuk Perlindungan Khusus bagi Anak dari berbagai bentuk Kekerasan dan perlakuan diskriminatif lainnya.  
 1. Penyelenggaraan
 
 #### Pasal 5
@@ -164,7 +168,8 @@ h. penghargaan;
 i. partisipasi Masyarakat;  
 j. pembiayaan;  
 k. larangan;  
-1. ketentuan penyidikan; danm. ketentuan pidana.  
+1. ketentuan penyidikan; dan  
+m. ketentuan pidana.  
 
 # BAB IV
 
@@ -185,7 +190,8 @@ b. komisi nasional Perempuan.
 
 Pemerintah Daerah berwenang:  
 a. melakukan pelembagaan Pengarusutamaan Gender;  
-b. melakukan Pemberdayaan Pemberdayaan Perempuan Perempuan bidang politik, hukum, sosial dan ekonomi pada organisasi kemasyarakatan; danc. melakukan penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan.  
+b. melakukan Pemberdayaan Pemberdayaan Perempuan Perempuan bidang politik, hukum, sosial dan ekonomi pada organisasi kemasyarakatan; dan  
+c. melakukan penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan Perempuan.  
 
 #### Pasal 9
 
@@ -212,14 +218,16 @@ d. meningkatkan efektivitas layanan terhadap Perempuan dan Anak korban tindak ke
 e. meningkatkan upaya perlindungan terhadap tenaga kerja Perempuan;  
 f. menguatkan dan mengembangkan lembaga penyediaan layanan perlindungan tenaga kerja Perempuan;  
 g. menguatkan dan mengembangkan lembaga penyedia layanan Perlindungan Perempuan;  
-h. melakukan kerja sama dengan pemerintah, Pemerintah Daerah, Pemerintah Daerah lainnya, pihak swasta, dunia usaha, dan/atau lembaga swadaya Masyarakat dalam upaya pencegahan terjadinya tindak Kekerasan terhadap Perempuan; dani. melibatkan peran aktif keluarga, pemuka agama, Masyarakat dan lembaga bidang Perlindungan Perempuan.  
+h. melakukan kerja sama dengan pemerintah, Pemerintah Daerah, Pemerintah Daerah lainnya, pihak swasta, dunia usaha, dan/atau lembaga swadaya Masyarakat dalam upaya pencegahan terjadinya tindak Kekerasan terhadap Perempuan; dan  
+i. melibatkan peran aktif keluarga, pemuka agama, Masyarakat dan lembaga bidang Perlindungan Perempuan.  
 2. Tanggung jawab sebagaimana dimaksud pada ayat (1), dilaksanakan oleh Perangkat Daerah yang menyelenggarakan urusan pemerintahan sesuai dengan tugas dan fungsinya.  
 
 #### Pasal 12
 
 Pemerintah Daerah memberikan Perlindungan Perempuan dalam bentuk:  
 a. pencegahan Kekerasan terhadap Perempuan;  
-b. penyediaan layanan bagi Perempuan korban Kekerasan yang memerlukan koordinasi tingkat Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan Perlindungan Perempuan.  
+b. penyediaan layanan bagi Perempuan korban Kekerasan yang memerlukan koordinasi tingkat Daerah; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan Perlindungan Perempuan.  
 
 ## Bagian Kedua Perlindungan Hak Perempuan
 
@@ -230,7 +238,8 @@ b. penyediaan layanan bagi Perempuan korban Kekerasan yang memerlukan koordinasi
 b. kesehatan;  
 c. ketenagakerjaan;  
 d. politik;  
-e. hukum; danf. ekonomi budaya dan sosial.  
+e. hukum; dan  
+f. ekonomi budaya dan sosial.  
 
 #### Pasal 14
 
@@ -244,25 +253,29 @@ Hak Perempuan bidang kesehatan sebagaimana dimaksud dalam Pasal 13 ayat (2) huru
 a. mendapatkan edukasi mengenai kesehatan reproduksi;  
 b. mendapatkan pelayanan kesehatan;  
 c. mendapatkan pelayanan keluarga berencana;  
-d. mendapatkan pelayanan untuk ibu hamil; dane. pelayanan persalinan dan pasca persalinan.  
+d. mendapatkan pelayanan untuk ibu hamil; dan  
+e. pelayanan persalinan dan pasca persalinan.  
 
 #### Pasal 16
 
 Hak Perempuan bidang ketenagakerjaan sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf c antara lain:  
 a. adanya pemberdayaan wirausaha Perempuan;  
-b. mendapatkan pekerjaan yang layak; danc. mendapatkan perlindungan dari tindak pidana perdagangan orang.  
+b. mendapatkan pekerjaan yang layak; dan  
+c. mendapatkan perlindungan dari tindak pidana perdagangan orang.  
 
 #### Pasal 17
 
 Hak Perempuan bidang politik sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf d antara lain:  
 a. memfasilitasi peningkatan partisipasi politik Perempuan di lembaga legislatif;  
 b. memberikan sarana dan prasarana bagi organisasi Perempuan yang visi misinya memperjuangkan pemenuhan hak dan perlindungan terhadap Perempuan;  
-c. melaksanakan sosialisasi dalam rangka meningkatkan kesadaran atas hak Perempuan di bidang politik; dand. mendorong pembentukan organisasi forum Perempuan.  
+c. melaksanakan sosialisasi dalam rangka meningkatkan kesadaran atas hak Perempuan di bidang politik; dan  
+d. mendorong pembentukan organisasi forum Perempuan.  
 
 #### Pasal 18
 
 Hak Perempuan bidang hukum sebagaimana dimaksud dalam Pasal 13 ayat (2) huruf e antara lain:  
-a. memfasilitasi peningkatan pengetahuan dan kesadaran hukum bagi Perempuan; danb. mendorong pembentukan organisasi yang memberikan layanan hukum secara gratis bagi Perempuan.  
+a. memfasilitasi peningkatan pengetahuan dan kesadaran hukum bagi Perempuan; dan  
+b. mendorong pembentukan organisasi yang memberikan layanan hukum secara gratis bagi Perempuan.  
 
 #### Pasal 19
 
@@ -297,15 +310,18 @@ Pelaksanaan Perlindungan Anak
 1. Pemerintah Daerah, LSM/Orsos, Masyarakat dan orang tua/keluarga berkewajiban memberi Perlindungan Anak yang terdiri atas:a. Anak dalam kandungan;  
 b. Anak Balita;  
 c. Anak Usia Sekolah;  
-d. Anak Terlantar dan jalanan; dane. Anak yang memerlukan Perlindungan Khusus.  
+d. Anak Terlantar dan jalanan; dan  
+e. Anak yang memerlukan Perlindungan Khusus.  
 2. Penyelenggaraan Perlindungan Anak sebagaimana dimaksud pada ayat (1) dilakukan melalui:a. kebijakan, program, dan mekanisme tentang:
 1. pencegahan, pengawasan, pengaduan/pelaporan, dan pengembangan sistem informasi data Anak;  
 2. penanganan secara terpadu untuk Anak yang menjadi korban kekerasan, perlakuan salah, eksploitasi dan penelantaran;  
 3. jaminan pemenuhan hak setiap Anak yang menjadi korban kejahatan, kekerasan, perlakuan salah, eksploitasi dan penelantaran meliputi:a. layanan pemulihan dan pemeliharaan kesehatan; b) kelangsungan layanan pendidikan;  
-c. layanan psikososial; dand. layanan bantuan hukum.  
+c. layanan psikososial; dan  
+d. layanan bantuan hukum.  
 4. penyelenggaraan dukungan keluarga meliputi:a. konseling;  
 b. pendidikan pengasuhan Anak;  
-c. mediasi keluarga; dand. dukungan ekonomi.  b. meningkatkan kesadaran dan sikap Masyarakat melalui sosialisasi, edukasi, dan informasi mengenai:
+c. mediasi keluarga; dan  
+d. dukungan ekonomi.  b. meningkatkan kesadaran dan sikap Masyarakat melalui sosialisasi, edukasi, dan informasi mengenai:
 1. Hak Anak, Perlindungan Anak, pencegahan perkawinan usia anak dan pengasuhan Anak; dan
 2. dampak kekerasan, buruk eksploitasi, dan penelantaran Anak.  
 
@@ -329,7 +345,8 @@ d. Anak korban Kekerasan fisik, mental dan/atau seksual;
 e. Anak perlakuan salah dan penelantaran;  
 f. Anak korban eksploitasi ekonomi;  
 g. Anak yang menjadi korban tindak pidana perdagangan orang;  
-h. Anak yang menjadi korban perjudian, penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya (Napza); dani. Anak yang berada dalam situasi yang sifat dan keadaan tempat pekerjaan dapat membahayakan kesehatan, keselamatan, dan moral Anak.  
+h. Anak yang menjadi korban perjudian, penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya (Napza); dan  
+i. Anak yang berada dalam situasi yang sifat dan keadaan tempat pekerjaan dapat membahayakan kesehatan, keselamatan, dan moral Anak.  
 2. Penanganan sebagaimana dimaksud pada ayat (1) harus dilakukan dengan segera meliputi:a. mengidentifikasi dan menerima pengaduan/laporan;  
 b. tindakan penyelamatan;  
 c. penempatan Anak di rumah perlindungan sementara;  
@@ -341,7 +358,8 @@ d. rehabilitasi meliputi:
 #### Pasal 24
 
 1. Pengidentifikasian dan penerimaan pengaduan/laporan sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf a meliputi:a. memastikan kesiapan layanan pengaduan masalah Perlindungan Anak;  
-b. menindaklanjuti informasi atau pengaduan/laporan yang diterima mengenai masalah Perlindungan Anak; danc. mengidentifikasi jenis masalah, kebutuhan, dan rencana penanganan.  
+b. menindaklanjuti informasi atau pengaduan/laporan yang diterima mengenai masalah Perlindungan Anak; dan  
+c. mengidentifikasi jenis masalah, kebutuhan, dan rencana penanganan.  
 2. SKPD yang membidangi urusan Perlindungan Anak harus mengidentifikasi masalah dan menerima pengaduan/ laporan.  
 
 #### Pasal 25
@@ -363,14 +381,16 @@ c. Anakb. Anak tidak memiliki keluarga/pengasuh atau wali; dan tidak dapat diper
 
 1. Layanan pemulihan kesehatan sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d angka 1 meliputi:a. layanan gawat darurat;  
 b. memberikan visum et repertum atau visum psikiatricum atas permintaan atau keterangan polisi;  
-c. pelayanan lanjutan berupa rawat jalan dan/atau rawat inap sesuai dengan ketentuan medis; dand. memberikan rujukan lanjutan sesuai dengan keadaan dan kondisi korban.  
+c. pelayanan lanjutan berupa rawat jalan dan/atau rawat inap sesuai dengan ketentuan medis; dan  
+d. memberikan rujukan lanjutan sesuai dengan keadaan dan kondisi korban.  
 2. SKPD yang membidangi urusan kesehatan harus untuk menyelenggarakan layanan pemulihan kesehatan.  
 
 #### Pasal 28
 
 1. Layanan pemulihan psikososial sebagaimana sebagaimana dimaksud dalam Pasal 23 ayat (2) huruf d angka 2 meliputi:a. konseling;  
 b. terapi psikososial;  
-c. bimbingan mental dan spiritual; dand. pendampingan.  
+c. bimbingan mental dan spiritual; dan  
+d. pendampingan.  
 2. SKPD yang membidangi urusan sosial harus untuk menyelenggarakan layanan pemulihan psikososial.  
 
 #### Pasal 29
@@ -385,7 +405,8 @@ berupa dukungan layanan pasca rehabilitasi sebagaimana dimaksud dalam Pasal 23 a
 a. penelusuran anggota keluarga;  
 b. mempertemukan Anak korban dan anggota keluarga/keluarga pengganti dan/atau Masyarakat;  
 c. fasilitasi pemberian bantuan bagi keluarga psikososial;  
-d. dukungan akses layanan pendidikan atau kesehatan lanjutan; dane. monitoring dan evaluasi.  
+d. dukungan akses layanan pendidikan atau kesehatan lanjutan; dan  
+e. monitoring dan evaluasi.  
 2. SKPD yang membidangi urusan sosial menyelenggarakan reintegrasi sosial.  
 
 #### Pasal 31
@@ -404,7 +425,8 @@ a. penyediaan sarana dan fasilitas pemeriksaan Anak dalam kandungan;
 b. penyediaan makan bergizi dan imunisasi bagi ibu hamil;  
 c. pemberian pelayanan pencegahan aborsi;  
 d. pemberian pelayanan proses persalinan yang tepat dan cepat;  
-e. pemberian pelayanan kesehatan yang terbaik bagi ibu dan Anak saat proses persalinan dan pasca persalinan; danf. penyelenggaraan Perlindungan Anak dalam kandungan terhadap ibu hamil yang bermasalah.  
+e. pemberian pelayanan kesehatan yang terbaik bagi ibu dan Anak saat proses persalinan dan pasca persalinan; dan  
+f. penyelenggaraan Perlindungan Anak dalam kandungan terhadap ibu hamil yang bermasalah.  
 
 ## Bagian Kelima
 
@@ -419,11 +441,13 @@ a. pemberian ASI yang sempurna;
 b. pemberian makan bergizi dan imunisasi dasar yang lengkap;  
 c. pemberian pelayanan program tumbuh kembang Anak dan pola asuh Anak;  
 d. penyediaan tempat penitipan Anak;  
-e. penyediaan tempat bermain; danf. penyediaan ruangan khusus menyusui pada tempat tertentu.  
+e. penyediaan tempat bermain; dan  
+f. penyediaan ruangan khusus menyusui pada tempat tertentu.  
 2. Perlindungan Anak Balita dapat dilaksanakan melalui model PSTPA dan kelompok bermain.  
 3. PSTPA dan/atau kelompok bermain sebagaimana dimaksud pada ayat (2) harus memenuhi persyaratan sebagai berikut:  
 a. telah terdaftar dan mendapat rekomendasi dari SKPD terkait di lingkungan Pemerintah Daerah;  
-b. memiliki sumber daya manusia dan sumber dana yang memadai untuk mengelola PSTPA dan/atau kelompok bermain; danc. memiliki sarana dan prasarana sesuai dengan pedoman pelayanan di PSTPA dan/atau kelompok bermain.  
+b. memiliki sumber daya manusia dan sumber dana yang memadai untuk mengelola PSTPA dan/atau kelompok bermain; dan  
+c. memiliki sarana dan prasarana sesuai dengan pedoman pelayanan di PSTPA dan/atau kelompok bermain.  
 4. Perlindungan Anak Balita dapat dilaksanakan jika dalam kondisi khusus atau urgen.  
 
 ## Bagian Keenam
@@ -440,7 +464,8 @@ d. mendapat pelayanan pencegahan, rehabilitasi kesehatan;
 perawatan dan
 e. mendapat pendidikan wajib belajar paling singkat 9 (sembilan) tahun dan dapat menyelesaikan sekolah menengah atas yang didukung oleh lingkungan yang ramah dan kondusif;  
 f. mendapatkan jaminan pendidikan;  
-g. mendapatkan bimbingan dan konseling; danh. menyediakan tempat bermain dan berolah raga yang memadai.  
+g. mendapatkan bimbingan dan konseling; dan  
+h. menyediakan tempat bermain dan berolah raga yang memadai.  
 2. Setiap orang dan/atau pihak mana pun wajib melindungi Anak Usia Sekolah dari tindakan kekerasan, pelecehan seksual dan makanan yang mengandung zat berbahaya di lingkungan keluarga, sekolah, Dinas/instansi/lembaga dan Masyarakat.  
 3. Setiap orang dan/atau pihak mana pun wajib melindungi Anak Usia Sekolah dari tindakan memberhentikan dan/atau mengeluarkan Anak dari sekolah dan/atau menyebabkan Anak putus sekolah.  
 
@@ -451,7 +476,8 @@ g. mendapatkan bimbingan dan konseling; danh. menyediakan tempat bermain dan ber
 1. Perlindungan Anak Terlantar sebagaimana dimaksud dalam Pasal 22 ayat (1) huruf d yaitu Anak yang orang tuanya tidak mempunyai kemampuan untuk memelihara Anak, dilaksanakan melalui bentuk pelayanan panti dan non panti; (2) Bentuk pelayanan panti sebagaimana dimaksud pada ayat (2) dilaksanakan oleh Rumah Perlindungan Anak atau PSAA baik milik Pemerintah Daerah maupun Masyarakat.  
 3. Bentuk pelayanan non panti sebagaimana dimaksud pada ayat (2) dilaksanakan dalam lingkungan keluarga atau Masyarakat yang tidak berbentuk lembaga.  
 4. Rumah Perlindungan Anak atau PSAA milik Masyarakat sebagaimana dimaksud pada ayat (2) harus memenuhi persyaratan sebagai berikut:a. telah terdaftar dan mendapat rekomendasi dari SKPD terkait di lingkungan Pemerintah Daerah dan/atau pemerintah Kabupaten/Kota;  
-b. memiliki sumber daya manusia dan sumber dana yang memadai untuk mengelola Rumah Perlindungan Anak atau PSAA; danc. memiliki sarana dan prasarana yang telah ditentukan dalam pedoman pelayanan Rumah Perlindungan Anak atau PSAA.  
+b. memiliki sumber daya manusia dan sumber dana yang memadai untuk mengelola Rumah Perlindungan Anak atau PSAA; dan  
+c. memiliki sarana dan prasarana yang telah ditentukan dalam pedoman pelayanan Rumah Perlindungan Anak atau PSAA.  
 
 ## Bagian Kedelapan
 
@@ -467,7 +493,8 @@ d. Anak yang tereksploitasi secara ekonomi dan/atau seksual;
 e. Anak korban penyalahgunaan Napza termasuk ngelem beraroma yang dapat menimbulkan efek halusinasi dan sejenisnya;  
 f. Anak korban penculikan, penjualan, dan perdagangan;  
 g. Anak korban Kekerasan fisik dan/atau psikis;  
-h. Anak yang berkebutuhan khusus; dani. Anak korban perlakuan salah dan penelantaran.  
+h. Anak yang berkebutuhan khusus; dan  
+i. Anak korban perlakuan salah dan penelantaran.  
 
 ### Paragraf 1
 
@@ -481,7 +508,8 @@ b. pendidikan;
 c. bimbingan agama;  
 d. pelayanan kesehatan;  
 e. konseling psikologi dan/atau psikoterapi;  
-f. bantuan hukum; dang. kegiatan rekreatif dan edukatif.  
+f. bantuan hukum; dan  
+g. kegiatan rekreatif dan edukatif.  
 
 ### Paragraf 2
 
@@ -496,10 +524,12 @@ b. penyediaan petugas pendamping khusus Anak sejak dini;
 c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang terbaik bagi Anak;  
 e. pemantauan dan pencatatan terus menerus terhadap perkembangan Anak yang berhadapan dengan hukum;  
-f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.  
+f. pemberian jaminan untuk mempertahankan hubungan dengan orang tua atau keluarga; dan  
+g. perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi.  
 4. Dalam hal seorang Anak yang berhadapan dengan hukum, aparat penegak hukum tidak melakukan pemeriksaan justicia Anak tanpa sepengetahuan orang tua atau wali, dan dilakukan dengan:a. upaya rehabilitasi melalui lembaga khusus untuk kepentingan terbaik bagi Anak;  
 b. upaya perlindungan dari pemberitaan identitas melalui media massa dan untuk menghindari labelisasi;  
-c. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, mental maupun sosial; dand. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.  
+c. pemberian jaminan keselamatan bagi saksi korban dan saksi ahli, baik fisik, mental maupun sosial; dan  
+d. pemberian aksesibilitas untuk mendapatkan informasi mengenai perkembangan perkara.  
 
 ### Paragraf 3
 
@@ -518,7 +548,8 @@ Anak yang Tereksploitasi Secara Ekonomi dan/atau Seksual
 
 1. Perlindungan Khusus bagi Anak yang dieksploitasi secara ekonomi dan/atau seksual sebagaimana dimaksud dalam Pasal 36 huruf d dilakukan melalui:a. pencegahan Anak bagi pengawasan yang dimanfaatkan oleh pihak tertentu sebagai objek eksploitasi;  
 b. menyebarluaskan dan/atau sosialisasi peraturan perundang-undangan yang berkaitan dengan Perlindungan Anak yang dieksploitasi secara ekonomi dan/atau seksual;  
-c. pemantauan, pelaporan dan pemberian sanksi; dand. melibatkan berbagai instansi pemerintah, perusahaan, dalam serikat pekerja, LSM, dan Masyarakat penghapusan eksploitasi terhadap Anak.  
+c. pemantauan, pelaporan dan pemberian sanksi; dan  
+d. melibatkan berbagai instansi pemerintah, perusahaan, dalam serikat pekerja, LSM, dan Masyarakat penghapusan eksploitasi terhadap Anak.  
 2. Setiap orang dan/atau pihak mana pun dilarang melakukan eksploitasi ekonomi dan/atau seksual terhadap Anak sebagaimana dimaksud pada ayat (1).  
 
 ### Paragraf 5
@@ -559,7 +590,8 @@ Anak Yang Berkebutuhan Khusus
 #### Pasal 44
 
 1. Perlindungan Khusus bagi Anak yang berkebutuhan khusus sebagaimana dimaksud dalam Pasal 36 huruf h dilakukan melalui upaya:a. perlakuan Anak secara manusiawi sesuai dengan martabat dan Hak Anak;  
-b. pemenuhan kebutuhan khusus; danc. memperoleh perlakuan yang sama dengan Anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu.  
+b. pemenuhan kebutuhan khusus; dan  
+c. memperoleh perlakuan yang sama dengan Anak lainnya untuk mencapai integrasi sosial sepenuh mungkin dan pengembangan individu.  
 2. Setiap orang orang dan/atau pihak mana pun dilarang memperlakukan Anak berkebutuhan khusus secara diskriminatif, dengan mengabaikan pandangan mereka termasuk labelisasi dan penyetaraan dalam pendidikan bagi Anak yang berkebutuhan khusus.  
 
 ### Paragraf 9
@@ -614,12 +646,14 @@ d. instansi vertikal;
 e. advokat;  
 f. pekerja sosial;  
 g. relawan pendamping;  
-h. pembimbing rohani; dani. lembaga swadaya Masyarakat yang bergerak dibidang Pemberdayaan Perempuan dan Perlindungan Anak.  
+h. pembimbing rohani; dan  
+i. lembaga swadaya Masyarakat yang bergerak dibidang Pemberdayaan Perempuan dan Perlindungan Anak.  
 3. Bentuk kerja sama sebagaimana dimaksud pada ayat (1) berupa:a. sosialisasi;  
 b. pemberian bantuan hukum;  
 c. pelayanan kesehatan;  
 d. pendampingan korbane. konseling;  
-f. rehabilitasi sosial; dang. bimbingan rohani.  
+f. rehabilitasi sosial; dan  
+g. bimbingan rohani.  
 4. Tata cara pelaksanaan kerja sama sebagaimana dimaksud pada ayat (1) sesuai ketentuan peraturan perundang- undangan.  
 
 # BAB XI PENGHARGAAN
@@ -653,9 +687,11 @@ f. fasilitasi;
 g. pelayanan;  
 h. kajian;  
 i. pelatihan;  
-j. permodalan; dank. penyediaan sarana prasarana.  
+j. permodalan; dan  
+k. penyediaan sarana prasarana.  
 3. Penguatan partisipasi Masyarakat sebagaimana dimaksud pada ayat (1) dapat dilakukan dengan:a. penguatan kerja sama;  
-b. penguatan kapasitas kelembagaan pencegahan dan layanan dari Masyarakat, pesantren dan dunia usaha; danc. dukungan pembiayaan.  
+b. penguatan kapasitas kelembagaan pencegahan dan layanan dari Masyarakat, pesantren dan dunia usaha; dan  
+c. dukungan pembiayaan.  
 
 #### Pasal 52
 
@@ -665,7 +701,8 @@ b. pemberdayaan;
 c. peningkatan kapasitas;  
 d. media publikasi dan informasi;  
 e. penyediaan sarana prasarana;  
-f. pembentukan kelembagaan khusus untuk pencegahan dan pelayanan pengaduan kekerasan; dang. bantuan sosial yang tidak mengikat.  
+f. pembentukan kelembagaan khusus untuk pencegahan dan pelayanan pengaduan kekerasan; dan  
+g. bantuan sosial yang tidak mengikat.  
 
 # BAB XIII
 
@@ -729,7 +766,8 @@ Pada saat Peraturan Daerah ini mulai berlaku, kebijakan Daerah mengenai Pemberda
 #### Pasal 58
 
 Pada saat ketentuan Pasal 624 Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana (Lembaran Negara Republik Indonesia Tahun 2023 Nomor 1, Tambahan Lembaran Negara Republik Indonesia Nomor 6842) berlaku, maka:  
-a. pidana kurungan sebagaimana dimaksud dalam Pasal 56 ayat (1) diganti dengan pidana denda paling banyak kategori I; danb. pidana denda kategori I sebagaimana dimaksud pada huruf a sebesar Rp1.000.000,00 (satu juta rupiah).  
+a. pidana kurungan sebagaimana dimaksud dalam Pasal 56 ayat (1) diganti dengan pidana denda paling banyak kategori I; dan  
+b. pidana denda kategori I sebagaimana dimaksud pada huruf a sebesar Rp1.000.000,00 (satu juta rupiah).  
 
 # BAB XVIII
 
@@ -792,7 +830,8 @@ h. penghargaan;
 i. partisipasi Masyarakat;  
 j. pembiayaan;  
 k. larangan;  
-1. ketentuan penyidikan; danm. ketentuan pidana.  
+1. ketentuan penyidikan; dan  
+m. ketentuan pidana.  
 
 ##### II. PASAL DEMI PASAL
 

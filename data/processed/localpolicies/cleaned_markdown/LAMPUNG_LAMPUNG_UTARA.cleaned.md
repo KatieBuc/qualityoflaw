@@ -24,6 +24,7 @@ c. bahwa berdasarkan pertimbangan huruf a dan huruf b, perlu membentuk Peraturan
  
  
  
+ 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Tndnnpcio TobTin 1O/1K. Indonesia Tahun 1945; 2. Undang-Undang Nomor 28 Tahun 1959 tentang Penetapan Undang-Undang Darurat Nomor 4 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 55) dan , Undang-Undang Darurat Nomor 6 Tahun 1956 (Lembaran Negara Republik Indonesia Tahun 1956 Nomor 57) tentang Pembentukan Daerah Tingkat II termasuk Kotapraja Dalam Lingkungan Daerah Tingkat I Sumatera Selatan sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 73, Tambahan Lembaran Negara Republik Indonesia Nomor 1821);  
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886);  
 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia Tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun 2016 (Lembaran Negara Republik Indonesia Tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946);  
@@ -75,7 +76,8 @@ a. penghormatan dan pemenuhan terhadap hak Korban Tindak Kekerasan;
 b. keadilan dan kesetaraan gender;  
 
 C. non diskriminasi;  
-d. kepentingan yang terbaik bagi Korban tindak kekerasan; dane. Asas hak untuk hidup, kelangsungan hidup dan perkembangan,
+d. kepentingan yang terbaik bagi Korban tindak kekerasan; dan  
+e. Asas hak untuk hidup, kelangsungan hidup dan perkembangan,
 
 #### Pasal 3
 
@@ -86,7 +88,8 @@ a.mencegah kekerasan terhadap perempuan dan anak termasuk perdagangan orang;
 b.menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak;  
 c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 d.memberikan pelayanan dan Pemberdayaan kepada perempuan dan anak korban kekerasan, pelapor dan saksi;  
-e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera; danf. Memfasilitasi guna pemulihan hak, martabat dan nilai pribadi korban.  
+e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga untuk mewujudkan keutuhan rumah tangga yang harmonis dan sejahtera; dan  
+f. Memfasilitasi guna pemulihan hak, martabat dan nilai pribadi korban.  
 
 # BAB III
 
@@ -263,7 +266,8 @@ b. instansi vertikal;
 c. lembaga pendidikan;  
 d. lembaga kesehatan;  
 e. lembaga sosial;  
-f. lembaga ketenagakerjaan; dang. organisasi masyarakat yang peduli terhadap perlindungan perempuan dan anak dari tindak kekerasan. ‘ (3) Susunan Kelengkapan Organisasi FP2ATK sebagaimana pada ayat (2) terdiri atas:
+f. lembaga ketenagakerjaan; dan  
+g. organisasi masyarakat yang peduli terhadap perlindungan perempuan dan anak dari tindak kekerasan. ‘ (3) Susunan Kelengkapan Organisasi FP2ATK sebagaimana pada ayat (2) terdiri atas:
 
 a.kelompok keija penyusunan kebijakan;  
 
@@ -279,7 +283,8 @@ a. memberikan masukan dalam penyusunan kebijakan;
 b. melakukan koordinasi dengan Organisasi Perangkat Daerah dan lembaga sosial lainnya;  
 c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan perempuan dan anak dari tindak kekerasan;  
 d. mengumpulkan dan mengembangkan data dan informasi yang terkait dengan perlindungan perempuan dan anak dari tindak kekerasan;  
-e. melakukan penelaahan, pemantauan, evaluasi dan pengawasan terhadap penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan; danf. memberikan laporan, saran, masukan dan pertimbangan kepada Bupati.  
+e. melakukan penelaahan, pemantauan, evaluasi dan pengawasan terhadap penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan; dan  
+f. memberikan laporan, saran, masukan dan pertimbangan kepada Bupati.  
 
 #### Pasal 18
 
@@ -332,7 +337,8 @@ Koordinasi
 a. pemerintah;  
 b. pemerintah daerah Kabupaten/lain;  
 c. instansi vertikal;  
-d. lembaga pendidikan; dane. lembaga kemasyarakatan.  
+d. lembaga pendidikan; dan  
+e. lembaga kemasyarakatan.  
 2. Koordinasi sebagaimana dimaksud pada ayat (1) meliputi:  
 a. urusan keagamaan;  
 b. urusan kesehatan;  
@@ -361,7 +367,8 @@ i *
 #### Pasal 25
 
 1. Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
-2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; dan  
+b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 # BAB VIII
 

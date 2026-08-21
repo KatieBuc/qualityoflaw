@@ -5,6 +5,7 @@ Mengingat:
  
  
  
+ 
 1. 2. 3. 4. (5. (2
 
 # KABUPATEN KULON PROGO
@@ -24,6 +25,7 @@ Mengingat:
 # BUPATI KULON PROGO,
 
 Menimbang:  
+ 
  
  
  
@@ -100,7 +102,8 @@ a. terwujud keluarga yang harmonis;
 mencegah kekerasan terhadap perempuan dan anak;  
 b. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 c. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan;  
-d. memberikan perlindungan kepada pelapor dan saksi; dane. melakukan pemberdayaan kepada perempuan korban kekerasan.  
+d. memberikan perlindungan kepada pelapor dan saksi; dan  
+e. melakukan pemberdayaan kepada perempuan korban kekerasan.  
 
 f.  
 
@@ -291,7 +294,8 @@ sebagai berikut: dalam konseling a.
 
 melibatkan pengadilan advokasi lembaga
 b. melibatkan Daerah Umum lainnya;  
-c. melibatkan agama; dand. melibatkan psikolog.  
+c. melibatkan agama; dan  
+d. melibatkan psikolog.  
 2. Dalam (2 (1 menyinkronkan  dan mengoordinasikan a.  
 
 pemberdayaan  dan pelayanan, pencegahan, terhadap korban kekerasan perempuan dan anak;  

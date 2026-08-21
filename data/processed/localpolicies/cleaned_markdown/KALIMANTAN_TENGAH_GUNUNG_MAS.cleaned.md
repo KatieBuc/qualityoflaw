@@ -79,14 +79,16 @@ b. kepastian hukum.
 Perlindungan Perempuan dan Anak dilaksanakan berdasarkan prinsip:  a. responsif atas hak;  
 b. non diskriminasi;  
 c. menjaga kerahasiaan;  
-d. pemberdayaan; dane. partisipasi.  
+d. pemberdayaan; dan  
+e. partisipasi.  
 
 #### Pasal 4
 
 Tujuan Perlindungan Perempuan dan Anak meliputi:  
 a. menjamin terpenuhinya hak;  
 b. memberikan keadilan dan kesetaraan hak;  
-c. memberikan perlindungan dan rasa aman; dand. melakukan pemberdayaan.  
+c. memberikan perlindungan dan rasa aman; dan  
+d. melakukan pemberdayaan.  
 
 #### Pasal 5
 
@@ -98,7 +100,8 @@ d. tanggung jawab Pemerintah Daerah;
 e. peran serta Masyarakat;  
 f. pembinaan dan pengawasan;  
 g. evaluasi;  
-h. pelaporan; dani. pendanaan.  
+h. pelaporan; dan  
+i. pendanaan.  
 
 6 -
 
@@ -115,7 +118,8 @@ Umum
 Perlindungan Perempuan meliputi:  
 a. pelayanan;  
 b. pemberdayaan;  
-c. pencegahan; dand. pemantauan.  
+c. pencegahan; dan  
+d. pemantauan.  
 
 ## Bagian Kedua
 
@@ -134,7 +138,8 @@ f. pelayanan bimbingan pra perkawinan.
 3. Bimbingan sebagaimana dimaksud pada ayat (2) dilalrukan untuk  m emberikan pem ahaman dan pengetahuan mengenai ketahanan  keluarga, kesehatan, psikologi, agam a, sosia l dan budaya.  
 4. Bimbingan sebagaimana dimaksud pada ayat (3) dilaksanakan oleh  Perangkat Daerah yang menyelenggarakan urusan pemerintahan  di bidang pemberdayaan Perempuan dan Perlindungan Anak.  
 5. Dalam m elaksanakan bimbingan sebagaimana dimaksud pada ayat  (4) Perangkat Daerah dapat m engikutsertakan: a . instansi terkait;  
-b. tokoh agama; danc. tokoh adat.  
+b. tokoh agama; dan  
+c. tokoh adat.  
 6. Ketentuan lebih lanjut mengenai tata cara pelayanan Perlindungan  Perempuan diatur dengan Peraturan Bupati.  
 
 8 -
@@ -164,7 +169,8 @@ Pelayanan
 
 ( 1) Bentuk pelayanan Perlindungan Anak sebagaimana dimaksud  dalam Pasal 11 huruf a meliputi:  
 a. bantuan hukum;  
-b. pelayanan rehabilitasi sosial; danc. pelayanan reintegrasi sosial.  
+b. pelayanan rehabilitasi sosial; dan  
+c. pelayanan reintegrasi sosial.  
 2. Ketentuan lebih lanjut mengenai pelayanan Perlindungan Anak  sebagaimana dimaksud pada ayat ( 1) diatur dalam Peraturan  Bupati.  
 
 ## Bagian Ketiga
@@ -177,7 +183,8 @@ Pemenuhan Hak Anak
 a. jaminan atas hak sipil dan kebebasan;  
 b. jaminan lingkungan keluarga dan pengasuhan alternatif;  
 c. jaminan kesehatan dasar dan kesejehteraan;  
-d. pendidikan, waktu luang, budaya dan rekreasi; dane. perlindungan khusus.  
+d. pendidikan, waktu luang, budaya dan rekreasi; dan  
+e. perlindungan khusus.  
 2. Perlindungan khusus sebagaimana dimaksud pada ayat (1) huruf e,  dilakukan terhadap:a. anak dalam situasi darurat;  
 b. anak yang berhadapan dengan hukum;  
 c. anak dari kelompok minoritas dan terisolasi;  
@@ -194,7 +201,8 @@ j. anak korban kejahatan seksual;
 k. anak korban jaringan terorisme;  
 1. anak penyandang disabilitas;  
 m. anak korban perlakuan salah dan penelantaran;  
-n. anak dengan perilaku sosial menyimpang; dano. anak yang menjadi korban stigmatisasi dari pelabelan terkait  dengan kondisi orang tuanya.  
+n. anak dengan perilaku sosial menyimpang; dan  
+o. anak yang menjadi korban stigmatisasi dari pelabelan terkait  dengan kondisi orang tuanya.  
 3. Pengaturan mengenai pemenuhan hak Anak diselenggarakan sesuai  dengan ketentuan Peraturan Perundang-undangan.  
 
 ## Bagian Keempat
@@ -205,12 +213,14 @@ Pencegahan
 
 1. Pen cegahan pelanggaran terhadap hak Anak dilaksanakan oleh  Pemerintah Daerah dan Masyarakat.  
 2. Pencegahan pelanggaran terhadap h ak Anak yang dilaksanakan  Pemerintah Daerah sebagaimana dimaksud pada ayat I])  dilaksanakan dengan:a. membentuk jaringan kerja;  
-b. melakukan koordinasi, integrasi, sinkronisasi Pencegahan  berdasarkan pola kemitraan dengan Masyarakat, swasta, lembaga  swadaya Masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan terkait  Perlindungan Anak.  
+b. melakukan koordinasi, integrasi, sinkronisasi Pencegahan  berdasarkan pola kemitraan dengan Masyarakat, swasta, lembaga  swadaya Masyarakat; dan  
+c. melakukan sosialisasi peraturan perundang-undangan terkait  Perlindungan Anak.  
 3. Pencegahan pelanggaran terhadap hak Anak yang dilaksanakan  Masyarakat sebagaimana dimaksud pada ayat (1) dilaksanakan  dengan: a . meningkatkan produktifitas Anak;  
 
 b . mengembangkan potensi diri Anak;  
 c. mencegah kehamilan di usia muda;  
-d. menurunkan angka kematian ibu dan bayi; dane. mencegah terjadinya Kekerasan dalam rumah tangga.  
+d. menurunkan angka kematian ibu dan bayi; dan  
+e. mencegah terjadinya Kekerasan dalam rumah tangga.  
 4. Pembentukan jaringan kerja sebagaimana dimaksud pada ayat (2)  huruf a, meliputi mitra kerja Pemerintah Daerah dalam pelaksanaan  Pencegahan pelanggaran hak berbentuk mitra keluarga.  
 5. Ketentuan lebih lanjut mengenai Pencegahan pelanggaran terhadap  hak Anak sebagaimana dimaksud pada ayat (3) diatur dalam  Peraturan Bupati.  
 -----------I - 10 -
@@ -242,7 +252,8 @@ d . perguruan tinggi; dan
 e. lembaga swadaya Masyarakat.  
 3. Kerja sama sebagaimana dimaksud pada ayat (2) meliputi: a . pertukaran data dan informasi;  
 b. sosialisasi atau ceramah penyuluhan hukum;  
-c. rehabilitasi korban tindak Kekerasan; dand. pemulangan dan reintegrasi sosial.  
+c. rehabilitasi korban tindak Kekerasan; dan  
+d. pemulangan dan reintegrasi sosial.  
 
 # BAB V
 
@@ -260,7 +271,8 @@ b. kesehatan;
 c. politik;  
 d. hukum;  
 e. ekonomi;  
-f. budaya; dang. sosial.  
+f. budaya; dan  
+g. sosial.  
 3. Tanggung jawab Pemerintah Daerah terhadap perlindungan hak  Perempuan sebagaimana dimaksud pada ayat (1) dilakukan dengan:  a. penyusunan kebijakan Daerah yang responsif gender;  
 b. pelembagaan pengarusutamaan gender di lingkungan Pemerintah  Daerah;  
 c. pemberdayaan Perempuan di bidang politik, hukum, ekonomi,  budaya dan sosial pada organisasi kemasyarakatan tingkat  kabupaten;  
@@ -273,7 +285,8 @@ d. fasilitasi terselenggaranya forum Anak Daerah;
 e. peningkatan peran serta Masyarakat dalam penyelenggaraan dan  perlindungan hak Anak;  
 f. monitoring dan evaluasi terhadap pelaksanaan program  pemenuhan dan Perlindungan Anak;  
 g. pembinaan lembaga Perlindungan Anak;  
-h. memberikan perlindungan khusus bagi Anak; dani. melaksanakan upaya Pencegahan terjadinya Kekerasan pada  Anak.  
+h. memberikan perlindungan khusus bagi Anak; dan  
+i. melaksanakan upaya Pencegahan terjadinya Kekerasan pada  Anak.  
 
 #### Pasal 18
 
@@ -296,7 +309,8 @@ Pencegahan Kekerasan Pada Perempuan dan Anak
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  m ela1<sanakan upaya Pencegahan terjadinya Kekerasan terhadap  Perempuan dan Anak sebagaimana dimaksud dalam Pasal 17 ayat  (3) huruf e dan ayat (4) huruf i dilakukan dalam bentuka. mengumpulkan data dan menyelenggarakan sistem informasi  Perlindungan Perempuan dan Anak korban Kekerasan;  
 b. melakukan pendidikan tentang nilai anti Kekerasan terhadap  Perempuan dan Anak; dan ~ l - 13 - c . melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan pemberdayaan Perempuan dan Perlindungan  Anak korban Kekerasan.  
-2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga pelayanan teknis  untuk korban dengan melibatkan unsur Masyarakat; danb. mendorong kepedulian Masyarakat akan pentingnya pelindungan  terhadap korban Kekerasan.  
+2. Pemerintah Daerah berkewajiban dan bertanggung jawab untuk  menyediakan dan menyelenggarakan layanan bagi korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga pelayanan teknis  untuk korban dengan melibatkan unsur Masyarakat; dan  
+b. mendorong kepedulian Masyarakat akan pentingnya pelindungan  terhadap korban Kekerasan.  
 
 ## Bagian Ketiga
 
@@ -314,7 +328,8 @@ d. sekolah dan/ atau lembaga pendidikan;
 e. forum Anak;  
 f. sanggar anak;  
 g. organisasi kemasyarakatan;  
-h. organisasi Perempuan; dani. lembaga lain yang peduli pada pemenuhan hak dan Perlindungan  Anak.  
+h. organisasi Perempuan; dan  
+i. lembaga lain yang peduli pada pemenuhan hak dan Perlindungan  Anak.  
 6. Gugus tugas sebagaimana dimaksud pada ayat (4) merupakan  lembaga koordinatif tingkat kabupaten dan kecamatan yang  mengoordinasikan kebijakan, program dan kegiatan untuk  mewujudkan kecamatan, kelurahan/desa ramah Anak.  
 7. Ketentuan lebih lanjut mengenai pelayanan teknis sebagaimana  dimaksud pada ayat (3) diatur dengan Peraturan Bupati.  
 
@@ -347,7 +362,8 @@ a. pelayanan medis;
 b. pelayanan medicolegal;  
 c. pelayanan psikososial;  
 d. pelayanan hukum;  
-e. pelayanan reintegrasi sosial; danf. pelayanan kemandirian ekonorni.  
+e. pelayanan reintegrasi sosial; dan  
+f. pelayanan kemandirian ekonorni.  
 
 15 -
 
@@ -363,7 +379,8 @@ Ketentuan mengenai penyelenggaraan pelayanan oleh P2TP2A  sebagaimana dirnaksud 
 
 1. Dalam rangka melindungi dan menjamin hak Perempuan dan Anak  dari tindak Kekerasan dibentuk FPK2PA.  
 2. FPK2PA sebagaimana dimaksud pada ayat (1) terdiri dari:  a. FPK2 PA Daer ah;  
-b. FPK2PA kecamatan; danc. FPK2PA kelurahan/ desa.  
+b. FPK2PA kecamatan; dan  
+c. FPK2PA kelurahan/ desa.  
 3. Pembentukan FPK2PA Daerah sebagaimana dimaksud pada ayat (2)  huruf a ditetapkan oleh Bupati.  
 4. Pembentukan FPK2PA kecamatan sebagaimana dimaksud pada ayat  (2) huruf b ditetapkan oleh camat.  
 5. Pembentukan FPK2PA Kelurahan/desa sebagaimana dimaksud  pada ayat (2) huruf c ditetapkan oleh lurah/kepala desa.  (6) Ketentuan lebih lanjut mengenai FPK2PA sebagaimana dimaksud  pada ayat (1) diatur dalam Peraturan Bupati.  
@@ -384,7 +401,8 @@ b. menumbuhkembangkan anggota keluarga  kemampuan, bakat, dan minatnya; dan  c. 
 
 Pasal29 melindungi anggota  sesua1 dengan Peningkatan peran serta keluarga dalam Perlindungan Perempuan dan  Anak dilakukan melalui:  
 a. Pencegahan perkawinan pada usia Anak;  
-b. mendekatkan Perempuan pada pelayanan kesehatan; danc. meningkatkan ketahanan keluarga.  
+b. mendekatkan Perempuan pada pelayanan kesehatan; dan  
+c. meningkatkan ketahanan keluarga.  
 
 16 -
 
@@ -402,7 +420,8 @@ g. pendirian dan pengelolaan panti asuhan;
 
 h . pendirian tempat rehabilitasi Anak;  
 i. penyediaan rumah singgah dan/atau sosial;  
-j. pelatihan keterampilan kerja; dank. memberikan pertolongan pertama pada saat terjadi pelanggaran  terhadap hak Perempuan dan Anak.  
+j. pelatihan keterampilan kerja; dan  
+k. memberikan pertolongan pertama pada saat terjadi pelanggaran  terhadap hak Perempuan dan Anak.  
 4. Ketentuan lebih la njut mengen a i pera n serta Masyarakat diatur  dengan Peraturan Bupati.  
 
 # BAB Vil
@@ -418,7 +437,8 @@ j. pelatihan keterampilan kerja; dank. memberikan pertolongan pertama pada saat 
 a. koordinasi;  
 b. bimbingan;  
 c. pendidikan dan pelatihan;  
-d. pemantauan dan evaluasi; dane. pelaporan.  
+d. pemantauan dan evaluasi; dan  
+e. pelaporan.  
 4. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  untuk mewujudkan tujuan Perlindungan Perempuan dan Anak  sesuai norma standar prosedur dan kriteria yang dilaksanakan oleh  Perangkat Daerah yang menyelenggarakan urusan pemerintahan  di bidang pemberdayaan Perempuan dan Perlindu ngan Anak.  
 5. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  dilakukan dengan prinsip profesional dan transparan.  
 6. Dalam melaksanakan pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1), Perangkat Daerah yang menyelenggarakan  urusan pemerintahan di bidang pemberdayaan Perempuan dan  Perlindungan Anak wajib melaporkan secara berkala kepada Bupati.  
@@ -452,7 +472,8 @@ BABlX
 ## PENDANAAN
 
 Pasa l 34 Pendanaan pelaksan aan Perlindungan Perempuan dan Anak bersumber  dari:  
-a. anggaran pendapatan dan belanja daerah ; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
+a. anggaran pendapatan dan belanja daerah ; dan  
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan  peraturan perundang-undangan.  
 
 # BAB XI
 

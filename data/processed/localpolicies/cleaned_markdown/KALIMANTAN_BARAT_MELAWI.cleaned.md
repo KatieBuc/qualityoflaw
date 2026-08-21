@@ -95,12 +95,14 @@ d ak yang mempunyai 27 R mah Tangga adalah suami, istri an an , orang  . h bunga
 Penyelenggaraan Perlindungan Perempuan korban kekerasan berasaskan:  a. penghormatan dan pemenuhan terhadap hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
-d. kepentingan terbaik bagi korban; dane. pemberdayaan
+d. kepentingan terbaik bagi korban; dan  
+e. pemberdayaan
 
 #### Pasal 3
 
 Penyelenggaraan Perlindungan Perempuan korban kekerasan bertujuan:  a. mencegah kekerasan terhadap perempuan;  
-b. memberikan pelayanan/penanganan kepada korban; danc. melakukan pemberdayaan kepada perempuan korban kekerasan dan  kelompok rentan;  
+b. memberikan pelayanan/penanganan kepada korban; dan  
+c. melakukan pemberdayaan kepada perempuan korban kekerasan dan  kelompok rentan;  
 d. menghapus segala bentuk kekerasan dan eksploitasi terhadap  perempuan.  
 
 # BAB III
@@ -167,7 +169,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. nondiskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya;  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya;  
 
 ## Bagian Ketiga
 
@@ -183,17 +186,20 @@ b pelatihan kerja; . d · k · duktif dan kelompok usaha bersama, tan c. usaha e
 #### Pasal 11
 
 Pelatihan kerja sebagaiman dimaksud dalam Pasadl 10 huruf b meliputi:  a. pelatihan keterampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 12
 
 Usaha ekonomi produktif dan kelompok usaha bersama sebagaimana  dimaksud dalam Pasal 10 huruf c meliputi:  
-a. pelatihan keterampilan wirausaha; danb. pendampingan pelaksanaan usaha.  
+a. pelatihan keterampilan wirausaha; dan  
+b. pendampingan pelaksanaan usaha.  
 
 #### Pasal 13
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 10 huruf d  meliputi:  
-a. bantuan sarana dan prasarana; danb. fasilitas bantuan modal kerja/usaha
+a. bantuan sarana dan prasarana; dan  
+b. fasilitas bantuan modal kerja/usaha
 
 # BAB IV
 
@@ -266,7 +272,8 @@ Pemerintah Daerah
 
 1. Pemerintah Daerah berkewajiban  melaksanakan dan memberikan dan bertanggung jawab dalam  upaya perlindungan terhadap perempuan korban kekerasan dalam bentuk:a. membentuk PPT;  
 b. perumusan kebijakan; .  c. menyusun perencanaan dan melaksanakan program dan kegiatan;  
-d. memberikan dukungan sarana dan prasarana; dane. mengawasi penyelenggaraan pelayanan terhadap korban dengan  standar pelayanan minimal.  
+d. memberikan dukungan sarana dan prasarana; dan  
+e. mengawasi penyelenggaraan pelayanan terhadap korban dengan  standar pelayanan minimal.  
 2. Dalam hal pelaksanaan kewajiban dan tanggung jawab Pemerintah  Daerah sebagaimana dimaksud pada ayat (1), Pemerintah daerah  menyusun Rencana Aksi Daerah Perlindungan Perempuan.  
 3. Ketentuan lebih lanjut mengenai Rencana Aksi Daerah sebagaimana  dimaksud pada ayat (2) diatur dengan Peraturan Gubemur.  
 
@@ -293,7 +300,8 @@ Koordinasi Perlindungan Korban
 
 1. Upaya menyediakan dan menyelenggarakan Layanan/penanganan bagi  korban dilakukan secara berjejaring.  
 2. Jejaring sebagaimana dimaksud pada ayat (1) bertujuan untuk:  a. mengkoordinasikan dan mensinkronisasi penanganan pelayanan PPT;  
-b. mengembangkan jejaring serta system rujukan; danc. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas dan  fungsinya sesuai dengan bentuk pelayanan sebagaimana dimaksud dalam  Pasal 8.  
+b. mengembangkan jejaring serta system rujukan; dan  
+c. mengumpulkan, menyusun dan menyajikan laporan kekerasan.  (3) Jejaring sebagaimana dimaksud pada ayat (2) melaksanakan tugas dan  fungsinya sesuai dengan bentuk pelayanan sebagaimana dimaksud dalam  Pasal 8.  
 
 # BAB VII
 
@@ -332,7 +340,8 @@ Z.am«pre"?:.I"hzz.,
 
 ( 1) Masyarakat berperan serta dalam penyelenggaraan perlindungan
 a. membentuk mitra keluarga ditingkat elur masyarakat; dalam organisasi  b. membentuk unit perlindungan perempuan kemasyarakatan; . .  c. melakukan sosialisai hak perempuan secara mandiri,d. melakukan upaya pencegahan jika menemukan indikasi kekerasan  terhadap perempuan di masyarakat;  
-e. melakukan pertolongan pertama pada korban; danf. melaporkan kepada instansi yang berwenang apabila dilingkungannya  terjadi kekerasan terhadap perempuan.  
+e. melakukan pertolongan pertama pada korban; dan  
+f. melaporkan kepada instansi yang berwenang apabila dilingkungannya  terjadi kekerasan terhadap perempuan.  
 3. Peran serta masyarakat sebagaiman dimaksud pada ayat (1) dapat  dilakukan oleh perorangan lembaga sosial kemasyarakatan, lembaga  swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta,  dan/ atau media massa.  
 
 # BAB XI
@@ -344,7 +353,8 @@ e. melakukan pertolongan pertama pada korban; danf. melaporkan kepada instansi y
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan terhadap  pelaksanaan perlindungan perempuan.  
 2. Pembinaan dan pengawasan sebagaiman dimaksud pada ayat (1)  meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a rnencakup  perencanaan dan pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud sebagaimana pada ayat (2) huruf b  mencakup perencanaan, pelaksanaan, tatalaksana, pendanaan, kualitas,  pengendalian, dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaimana dimaksud pada ayat (2) huruf c  dilakukan sesuai dengan ketentuan peraturan perundang-undangan.  (6) Pemantauan dan evaluasi sebagaiman dimaksud pada ayat (2) huruf d  dilakukan berdasarkan ketentuan peraturan perundang-undangan secara  berkala setiap 6 (enam) bulan sekali.  

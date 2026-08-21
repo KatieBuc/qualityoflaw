@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa Negara Kesatuan Republik Indonesia menjamin  kesejahteraan tiap-tiap warga negaranya, termasuk perlindungan terhadap hak perempuan dan hak anak yang merupakan hak asasi manusia;  
 b. bahwa dalam rangka meningkatkan kedudukan, peran, dan kualitas perempuan merupakan upaya mewujudkan kesetaraan dan keadilan gender dalam kehidupan berkeluarga, bermasyarakat, berbangsa, dan bernegara;  
 c. bahwa setiap anak adalah tunas, potensi, dan generasi  penerus perjuangan bangsa, dan diharapkan kelak mampu memikul tanggung jawab tersebut, maka ia perlu mendapat kesempatan yang seluas-luasnya untuk tumbuh dan berkembang secara optimal, baik fisik, mental maupun sosial, dan berakhlak mulia, sehingga perlu dilakukan upaya perlindungan serta untuk mewujudkan kesejahteraan anak dengan memberikan jaminan terhadap pemenuhan hak-haknya serta adanya perlakuan tanpa diskriminasi;  
@@ -28,6 +29,7 @@ d. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan kemanusian y
 e. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, huruf c, dan huruf d perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -153,19 +155,22 @@ b. keadilan dan kesetaraan gender;
 c. non diskriminasi; dan - 11 -d. perlindungan korban.  
 2. Penyelenggaran perlindungan anak berasaskan Pancasila  dan Undang-Undang Dasar Negara Republik Indonesia  Tahun 1945 serta prinsip-prinsip dasar Konvensi Hak-Hak  Anak meliputi:a. non diskriminasi;  
 b. kepentingan yang terbaik bagi anak;  
-c. hak untuk hidup, kelangsungan hidup, dan perkem bangan; dand. penghargaan terhadap pendapat anak.  
+c. hak untuk hidup, kelangsungan hidup, dan perkem bangan; dan  
+d. penghargaan terhadap pendapat anak.  
 
 #### Pasal 3
 
 Tujuan penyelenggaraan perlindungan perempuan adalah:  
 a. menjamin terpenuhinya hak-hak perempuan;  
-b. melindungi perempuan dan mencegah segala bentuk kekerasan dan diskriminasi terhadap perempuan; danc. memelihara keutuhan rumah tangga yang harmonis dan  sejahtera.  
+b. melindungi perempuan dan mencegah segala bentuk kekerasan dan diskriminasi terhadap perempuan; dan  
+c. memelihara keutuhan rumah tangga yang harmonis dan  sejahtera.  
 
 #### Pasal 4
 
 Tujuan penyelenggaraan perlindungan anak adalah:  
 a. menjamin terpenuhinya hak-hak anak agar dapat hidup,  tumbuh berkembang, dan berpartisipasi secara optimal sesuai  dengan harkat dan martabat kemanusiaan;  
-b. melindungi anak dan mencegah segala bentuk kekerasan dan  diskriminasi terhadap anak; danc. mewujudkan anak yang berkualitas, berakhlak mulia, dan  sejahtera.  
+b. melindungi anak dan mencegah segala bentuk kekerasan dan  diskriminasi terhadap anak; dan  
+c. mewujudkan anak yang berkualitas, berakhlak mulia, dan  sejahtera.  
 
 12 -
 
@@ -199,7 +204,8 @@ n. atas kebersamaan kedudukannya di dalam hukum dan pemerintahan;
 o. atas pekerjaan dan penghidupan yang layak bagi kemanusiaan;  
 p. dalam upaya pembelaan negara;  
 q. untuk berkomunikasi dan memperoleh informasi untuk  mengembangkan pribadi dan lingkungan sosialnya, serta  berhak untuk mencari, memperoleh, memiliki, menyimpan,  mengolah, dan menyampaikan informasi dengan menggunakan  segala jenis saluran yang tersedia;  
-r. memeluk agamanya masing-masing dan untuk beribadat  menurut agamnya dan kepercayaannya itu; dans. mendapat pendidikan.  
+r. memeluk agamanya masing-masing dan untuk beribadat  menurut agamnya dan kepercayaannya itu; dan  
+s. mendapat pendidikan.  
 
 #### Pasal 6
 
@@ -230,7 +236,8 @@ h. menyelenggarakan perlindungan perempuan terutama  perlindungan terhadap korba
 i. memfasilitasi pengintegrasian perlindungan perempuan  terutama perlindungan terhadap korban kekerasan,  tenaga kerja perempuan, perempuan lanjut usia dan  perempuan penyandang cacat, didaerah konflik dan  daerah yang terkena bencana;  
 j. mengoordinasikan perlindungan perempuan terutama  perlindungan terhadap korban kekerasan, tenaga kerja  perempuan, perempuan lanjut usia dan perempuan  penyandang cacat;  
 k. memfasilitasi penguatan dan pengembangan jaringan  kerja lembaga atau organisasi kemasyarakatan dan  dunia usaha untuk pelaksanaan pengarusutamaan  gender;  
-l. mengembangkan sistem infomasi berbasis gender; danm. menyediakan dan menyelenggarakan layanan terpadu ataupun tidak terpadu terhadap perempuan korban  kekerasan, tenaga kerja perempuan, perempuan lanjut  usia, dan perempuan penyandang cacat.  
+l. mengembangkan sistem infomasi berbasis gender; dan  
+m. menyediakan dan menyelenggarakan layanan terpadu ataupun tidak terpadu terhadap perempuan korban  kekerasan, tenaga kerja perempuan, perempuan lanjut  usia, dan perempuan penyandang cacat.  
 2. Ketentuan lebih lanjut mengenai bentuk-bentuk  perlindungan perempuan dan mekanisme pengarusutamaan  gender sebagaimana dimaksud pada ayat (1) diatur dengan  Peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -266,7 +273,8 @@ h. untuk beristirahat dan memanfaatkan waktu luang, bergaul  dengan anak yang se
 i. mendapat perlindungan dari perlakuan diskriminasi,  eksploitasi, baik ekonomi maupun seksual, penelantaran,  kekerasan, penganiayaan, ketidakadilan, perlakuan salah  lainnya, selama dalam pengasuhan dari orang tua, wali, atau  pihak lain mana pun yang bertanggung jawab atas  pengasuhan;  
 
 17 -
-j. untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau aturan hukum yang sah menunjukkan  bahwa pemisahan itu adalah demi kepentingan terbaik bagi  anak dan merupakan pertimbangan terakhir; dank. untuk memperoleh perlindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  pelibatan dalam kerusuhan sosial, pelibatan dalam peristiwa  yang mengandung unsur kekerasan dan pelibatan dalam  peperangan.  
+j. untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau aturan hukum yang sah menunjukkan  bahwa pemisahan itu adalah demi kepentingan terbaik bagi  anak dan merupakan pertimbangan terakhir; dan  
+k. untuk memperoleh perlindungan dari penyalahgunaan dalam  kegiatan politik, pelibatan dalam sengketa bersenjata,  pelibatan dalam kerusuhan sosial, pelibatan dalam peristiwa  yang mengandung unsur kekerasan dan pelibatan dalam  peperangan.  
 
 #### Pasal 11
 
@@ -278,7 +286,8 @@ j. untuk diasuh oleh orang tuanya sendiri, kecuali jika ada  alasan dan/atau atu
 
 1. Setiap anak yang dirampas kebebasannya berhak untuk:  
 a. mendapatkan perlakuan secara manusiawi dan  penempatannya dipisahkan dari orang dewasa;  
-b. memperoleh bantuan hukum atau bantuan lainnya  secara efektif dalam setiap tahapan upaya hukum yang  berlaku; danc. membela diri dan memperoleh keadilan di depan  pengadilan anak yang objektif dan tidak memihak dalam  sidang tertutup untuk umum.  
+b. memperoleh bantuan hukum atau bantuan lainnya  secara efektif dalam setiap tahapan upaya hukum yang  berlaku; dan  
+c. membela diri dan memperoleh keadilan di depan  pengadilan anak yang objektif dan tidak memihak dalam  sidang tertutup untuk umum.  
 2. Setiap anak yang menjadi korban atau pelaku kekerasan  seksual atau yang berhadapan dengan hukum berhak  dirahasiakan.  
 
 18 -
@@ -295,7 +304,8 @@ Setiap anak yang menjadi korban atau pelaku tindak pidana  berhak mendapatkan ba
 #### Pasal 15
 
 Khusus bagi anak yang menyandang cacat, selain mendapat hak  sebagaimana dimaksud dalam Pasal 10 sampai dengan Pasal 12  dan Pasal 14, juga berhak:  
-a. memperoleh pendidikan luar biasa, sedangkan bagi anak yang  memiliki keunggulan juga berhak mendapatkan pendidikan  khusus; danb. memperoleh rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial.  
+a. memperoleh pendidikan luar biasa, sedangkan bagi anak yang  memiliki keunggulan juga berhak mendapatkan pendidikan  khusus; dan  
+b. memperoleh rehabilitasi, bantuan sosial, dan pemeliharaan taraf kesejahteraan sosial.  
 
 #### Pasal 16
 
@@ -379,7 +389,8 @@ Kewajiban dan Tanggung Jawab Keluarga dan Orang Tua
 
 1. Orang tua berkewajiban dan bertanggung jawab untuk:  
 a. mengasuh, memelihara, mendidik, dan melindungi  anak;  
-b. menumbuhkembangkan anak sesuai dengan  kemampuan, bakat, dan minatnya; danc. mencegah terjadinya perkawinan pada usia anak-anak. (2) Dalam hal orang tua tidak ada, atau tidak diketahui  keberadaannya, atau karena suatu sebab, tidak dapat  melaksanakan kewajiban dan tanggung jawabnya, maka  kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih kepada keluarga, yang dilaksanakan  sesuai dengan ketentuan Peraturan Perundang-undangan.  
+b. menumbuhkembangkan anak sesuai dengan  kemampuan, bakat, dan minatnya; dan  
+c. mencegah terjadinya perkawinan pada usia anak-anak. (2) Dalam hal orang tua tidak ada, atau tidak diketahui  keberadaannya, atau karena suatu sebab, tidak dapat  melaksanakan kewajiban dan tanggung jawabnya, maka  kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapat beralih kepada keluarga, yang dilaksanakan  sesuai dengan ketentuan Peraturan Perundang-undangan.  
 
 ## Bagian Ketiga
 
@@ -497,7 +508,8 @@ Sosial
 b. bebas menyatakan pendapat dan berpikir sesuai dengan  hati nurani dan agamanya;  
 c. bebas menerima informasi lisan atau tertulis sesuai  dengan tahapan usia dan perkembangan anak;  
 d. bebas berserikat dan berkumpul;  
-e. bebas beristirahat, bermain, berekreasi, berkreasi, dan  berkarya seni budaya; danf. memperoleh sarana bermain yang memenuhi syarat  kesehatan dan keselamatan.  
+e. bebas beristirahat, bermain, berekreasi, berkreasi, dan  berkarya seni budaya; dan  
+f. memperoleh sarana bermain yang memenuhi syarat  kesehatan dan keselamatan.  
 2. Upaya sebagaimana dimaksud pada ayat (1) dikembangkan  dan disesuaikan dengan usia, tingkat kemampuan anak, dan  lingkungannya agar tidak menghambat dan mengganggu  perkembangan anak.  
 
 28 -
@@ -526,7 +538,8 @@ a. anak yang menjadi pengungsi;
 
 29 -
 b. anak korban kerusuhan;  
-c. anak korban bencana alam; dand. anak dalam situasi konflik bersenjata.  
+c. anak korban bencana alam; dan  
+d. anak dalam situasi konflik bersenjata.  
 
 #### Pasal 46
 
@@ -551,10 +564,12 @@ b. penyediaan petugas pendamping khusus anak sejak dini;
 c. penyediaan sarana dan prasarana khusus;  
 d. penjatuhan sanksi yang tepat untuk kepentingan yang  terbaik bagi anak;  
 e. pemantauan dan pencatatan terus menerus terhadap  perkembangan anak yang berhadapan dengan hukum;  
-f. pemberian jaminan untuk mempertahankan hubungan  dengan orang tua atau keluarga; dang. perlindungan dari pemberitaan identitas melalui media  massa dan untuk menghindari labelisasi.  
+f. pemberian jaminan untuk mempertahankan hubungan  dengan orang tua atau keluarga; dan  
+g. perlindungan dari pemberitaan identitas melalui media  massa dan untuk menghindari labelisasi.  
 3. Perlindungan khusus bagi anak yang menjadi korban tindak  pidana sebagaimana dimaksud pada ayat (1) dilaksanakan  melalui:a. upaya rehabilitasi, baik dalam lembaga maupun di luar  lembaga;  
 b. upaya perlindungan dari pemberitaan identitas melalui  media massa dan untuk menghindari labelisasi;  
-c. pemberian jaminan keselamatan bagi saksi korban dan  saksi ahli, baik fisik, mental, maupun sosial; dand. pemberian aksesibilitas untuk mendapatkan informasi  mengenai perkembangan perkara.  
+c. pemberian jaminan keselamatan bagi saksi korban dan  saksi ahli, baik fisik, mental, maupun sosial; dan  
+d. pemberian aksesibilitas untuk mendapatkan informasi  mengenai perkembangan perkara.  
 
 #### Pasal 50
 
@@ -627,10 +642,12 @@ Setiap korban berhak:
 a. mendapatkan perlindungan dari pihak keluarga, Pemerintah  Daerah, kepolisian, kejaksaan, pengadilan, advokat, lembaga  sosial atau pihak lain baik sementara maupun berdasarkan penetapan perintah perlindungan dari Pengadilan;  
 b. mendapatkan pelayanan kesehatan sesuai dengan kebutuhan  medis;  
 c. mendapatkan penanganan secara khusus berkaitan dengan  kerahasiaan korban;  
-d. mendapatkan pendampingan oleh pekerja sosial dan bantuan  hukum pada setiap tingkat proses pemeriksaan sesuai dengan  ketentuan Peraturan Perundang-undangan; dane. mendapatkan pelayanan bimbingan rohani;  
+d. mendapatkan pendampingan oleh pekerja sosial dan bantuan  hukum pada setiap tingkat proses pemeriksaan sesuai dengan  ketentuan Peraturan Perundang-undangan; dan  
+e. mendapatkan pelayanan bimbingan rohani;  
 f. memperoleh perlindungan dari ancaman yang membahayakan  diri, jiwa dan / atau hartanya baik sebelum, selama maupun  sesudah proses pemeriksaan perkara dari pihak Kepolisian;  
 g. memperoleh rehabilitasi kesehatan, rehabilitasi sosial,  pemulangan dan reintegrasi sosial apabila yang bersangkutan  mengalami penderitaan baik fisik maupun psikis;  
-h. memperoleh restitusi bagi korban tindak pidana perdagangan  orang atau ahli warisnya sesuai ketentuan Peraturan  Perundang-undangan; dani. hak-hak lain yang diatur dalam ketentuan Peraturan  Perundang-undangan.  
+h. memperoleh restitusi bagi korban tindak pidana perdagangan  orang atau ahli warisnya sesuai ketentuan Peraturan  Perundang-undangan; dan  
+i. hak-hak lain yang diatur dalam ketentuan Peraturan  Perundang-undangan.  
 
 35 -
 
@@ -660,7 +677,8 @@ c. menyelenggarakan komunikasi, informasi, edukasi,  sosialisasi, dan advokasi t
 d. membentuk kelembagaan sebagai wadah kerjasama  perlindungan dan pemulihan korban;  
 e. melaksanakan mekanisme pelayanan medis, pelayanan  medicolegal, pelayanan psikososial, pelayanan hukum,  pelayanan pendampingan, pelayanan bimbingan rohani, dan pelayanan pemulihan korban;  
 f. menyediakan sarana prasarana untuk perlindungan dan  pemulihan korban;  
-g. memfasilitasi resosialisasi korban, agar korban dapat  kembali melaksanakan fungsi sosialnya dalam  masyarakat; danh. menyelenggarakan pelayanan rehabilitasi kesehatan,  rehabilitasi sosial, pemulangan, dan reintegrasi sosial  untuk korban tindak pidana perdagangan orang terhadap  perempuan dan anak.  
+g. memfasilitasi resosialisasi korban, agar korban dapat  kembali melaksanakan fungsi sosialnya dalam  masyarakat; dan  
+h. menyelenggarakan pelayanan rehabilitasi kesehatan,  rehabilitasi sosial, pemulangan, dan reintegrasi sosial  untuk korban tindak pidana perdagangan orang terhadap  perempuan dan anak.  
 2. Ketentuan lebih lanjut mengenai bentuk-bentuk dan  mekanisme perlindungan korban sebagaimana dimaksud pada  ayat (1) diatur dengan Peraturan Bupati.  
 
 #### Pasal 64

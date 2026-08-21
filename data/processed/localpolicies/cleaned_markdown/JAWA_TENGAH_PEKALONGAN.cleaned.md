@@ -19,10 +19,12 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat, harkat  dan martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan dan diskriminasi  sebagai bentuk penghormatan, perlindungan dan penegakan  Hak Asasi Manusia, khususnya hak-hak dasar perempuan  dan anak, sehingga perlu diatur mengenai penyelenggaraan  perlindungan terhadap korban tindak kekerasan berbasis  gender dan anak di Kabupaten Pekalongan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah  Kabupaten Pekalongan tentang Penyelenggaran Perlindungan  Terhadap Korban Tindak Kekerasan Berbasis Gender dan  Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -240,11 +242,13 @@ Pusat Pelayanan Terpadu
 
 1. Struktur organisasi PPT sebagaimana dimaksud dalam Pasal  14 terdiri dari:a. Ketua;  
 b. Wakil Ketua;  
-c. Sekretaris; dand. Anggota.  
+c. Sekretaris; dan  
+d. Anggota.  
 2. Bidang–bidang dalam struktur organisasi PPT sekurang kurangnya meliputi:a. bidang layanan pengaduan;  
 b. bidang layanan kesehatan;  
 c. bidang layanan bantuan hukum dan penegakan hukum;  
-d. bidang layanan rehabilitasi sosial; dane. bidang pemulangan dan reintegrasi sosial.  
+d. bidang layanan rehabilitasi sosial; dan  
+e. bidang pemulangan dan reintegrasi sosial.  
 
 #### Pasal 16
 
@@ -258,7 +262,8 @@ Bidang layanan kesehatan sebagaimana dimaksud dalam Pasal  15 ayat (2) huruf b m
 a. melakukan pemeriksaan, pengobatan, dan perawatan  lanjutan terhadap korbanb. melakukan koordinasi pelaksanan rehabilitasi kesehatan dan  mediokolegal;  
 c. melakukan pemeriksaan mediko-legal meliputi pengumpulan  barang bukti pada korban dan pembuatan visum et repertum;  
 d. melakukan pemeriksaan penunjang dan laboratorium  terhadap barang bukti;  
-e. melakukan konsultasi kepada dokter ahli atau melakuklan  rujukan; danf. membuat laporan kasus.  
+e. melakukan konsultasi kepada dokter ahli atau melakuklan  rujukan; dan  
+f. membuat laporan kasus.  
 
 #### Pasal 18
 
@@ -270,7 +275,8 @@ a. memberikan bantuan hukum kepada korban kekerasan baik  litigasi maupun non li
 Bidang layanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 15 ayat (2) huruf d memiliki tugas:  
 a. memberikan pendampingan psikologis dan konseling sosial  oleh psikolog, konselor dan pekerja sosial;  
 b. melakukan bimbingan rohani oleh pembimbing rohani;  
-c. melakukan pendampingan selama proses penanganan kasus; dand. penyelenggaraan rehabilitasi sosial dilakukan pada  “shelter/rumah aman”.  
+c. melakukan pendampingan selama proses penanganan kasus; dan  
+d. penyelenggaraan rehabilitasi sosial dilakukan pada  “shelter/rumah aman”.  
 
 #### Pasal 20
 
@@ -279,7 +285,8 @@ a. mengkoordinasikan dan memfasilitasi proses pemulangan  korban dan/atau fasili
 
 jdih.pekalongankab.go.id
 b. memfasilitasi proses reintegrasi korban kekerasan kepada  keluarga, wali, keluarga pengganti, masyarakat, lembaga  pendidikan atau lembaga-lembaga sosial;  
-c. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi sosial; danc. melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya, wali, keluarga  pengganti, masyarakat.  
+c. membuat laporan perkembangan proses pendampingan  pemulangan dan rehabilitasi sosial; dan  
+c. melakukan pemantauan sekurang-kurangnya tiga bulan  setelah korban dipulangkan ke keluarganya, wali, keluarga  pengganti, masyarakat.  
 
 #### Pasal 21
 
@@ -326,7 +333,8 @@ b. memberikan pertolongan darurat;
 c. memberikan advokasi terhadap korban dan atau  masyarakat tentang penanganan kasus kekerasan  berbasis gender dan anak;  
 d. membantu proses pengajuan permohonan penetapan  perlindungan;  
 e. menyampaikan informasi kepada aparat yang berwenang  terkait dengan kasus kekerasan berbasis gender dan  anak;  
-f. menyelenggarakan penguatan kelompok-kelompok  masyarakat dalam penanganan kekerasan berbasis  gender dan anak; dang. menyebarluaskan informasi tentang peraturan  perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
+f. menyelenggarakan penguatan kelompok-kelompok  masyarakat dalam penanganan kekerasan berbasis  gender dan anak; dan  
+g. menyebarluaskan informasi tentang peraturan  perundang-undangan yang berkaitan dengan kekerasan  berbasis gender dan anak.  
 
 # BAB XI
 

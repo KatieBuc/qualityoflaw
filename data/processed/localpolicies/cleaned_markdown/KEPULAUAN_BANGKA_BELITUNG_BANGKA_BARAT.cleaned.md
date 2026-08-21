@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak merupakan kejahatan  kemanusiaan yang merupakan pelanggaran Hak Asasi Manusia;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kabupaten Bangka  Barat masih sering terjadi sedangkan pelayanan dan perlindungan terhadap  perempuan dan anak di Kabupaten Bangka Barat belum dilaksanakan secara  optimal;  
 c. bahwa dalam rangka pelaksanaan otonomi daerah, maka pengaturan dan  pelayanan masyarakat khususnya terhadap perempuan dan anak korban  tindak kekerasan merupakan tugas pokok dan fungsi pemerintah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Kerjasama Penyelenggaraan Perlindungan Perempuan dan Anak Korban Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -114,7 +116,8 @@ Penyelenggara Perlindungan terhadap korban tindak kekerasan dilaksanakan  oleh i
 Fasilitas sebagaimana dimaksud pada pasal (5) meliputi:  
 a. ruang pelayanan khusus di jajaran kepolisian;  
 b. tenaga yang ahli dan professional;  
-c. pusat pelayanan dan rumah aman; dand. sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  
+c. pusat pelayanan dan rumah aman; dan  
+d. sarana dan prasarana lain yang diperlukan untuk pemulihan korban.  
 
 #### Pasal 7
 
@@ -144,7 +147,8 @@ a. kepolisian, untuk melaporkan dan memproses pelaku tindak pidana  kekerasan da
 b. advokat, untuk membantu korban dalam proses peradilan;  
 c. penegak hukum lainnya, untuk membantu korban dalam proses di sidang  pengadilan;  
 d. Komisi Nasional Anti Kekerasan Terhadap Perempuan;  
-e. Komisi Perlindungan Anak Indonesia (KPAI); danf. pihak tertentu yang diinginkan demi kepentingan korban.  
+e. Komisi Perlindungan Anak Indonesia (KPAI); dan  
+f. pihak tertentu yang diinginkan demi kepentingan korban.  
 
 # BAB V
 

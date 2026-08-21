@@ -37,12 +37,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap warga negara berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan yang merendahkan  derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan  yang cenderung mengalami kekerasan, sehingga perlu  mendapatkan perlindungan yang optimal;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang-Undang 23 Tahun 2014 tentang Pemerintahan  Daerah sebagaimana telah diubah beberapa kali, terakhir  dengan Undang-Undang Nomor 9 Tahun 2015 tentang  Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun  2014 tentang Pemerintahan Daerah, pemberdayaan  perempuan dan perlindungan anak merupakan urusan  pemerintah wajib bagi pemerintah daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b, dan huruf b, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Dari  Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -145,7 +147,9 @@ b. untuk mendapatkan Perlindungan dari keluarga, masyarakat, Pemerintah  Daerah 
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai  penderitaan yang dialami korban kekerasan;  
 d. atas penanganan secara khusus berkaitan dengan kerahasiaan Korban;  
 e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap  tingkat proses pemeriksaan sesuai dengan ketentuan peraturan  perundang-undangan;  
-f. atas pelayanan bimbingan rohani; dang. atas penyelesaian melalui mediasi, jika merupakan penyelesaian terbaik  bagi kepentingan korban; danh. menentukan sendiri keputusannya.  
+f. atas pelayanan bimbingan rohani; dan  
+g. atas penyelesaian melalui mediasi, jika merupakan penyelesaian terbaik  bagi kepentingan korban; dan  
+h. menentukan sendiri keputusannya.  
 
 # BAB IV
 
@@ -164,7 +168,8 @@ c. kekerasan ekonomi;
 d. kekerasan sosial;  
 e. kekerasan psikis;  
 f. penelantaran rumah tangga;  
-g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
+g. pemaksaan atau perampasan kemerdekaan; dan  
+h. ancaman tindakan tertentu.  
 
 #### Pasal 6
 
@@ -180,7 +185,8 @@ jdih.bulelengkab.go.id
 Perlindungan anak korban tindak kekerasan dilaksanakan dengan cara:  
 a. merumuskan kebijakan pencegahan, Pengurangan resiko rentan,  Penanganan korban dan sistem data dan informasi anak;  
 b. menyelenggarakan pemeliharaan, perawatan, dan rehabilitasi sosial anak  terlantar, baik di dalam lembaga maupun di luar lembaga;  
-c. menyediakan tempat penampungan, pemeliharaan dan perawatan anak  terlantar; dand. menyelenggarakan perlindungan khusus kepada anak.  
+c. menyediakan tempat penampungan, pemeliharaan dan perawatan anak  terlantar; dan  
+d. menyelenggarakan perlindungan khusus kepada anak.  
 
 ## Bagian Kedua
 
@@ -224,7 +230,8 @@ b. pelayanan kesehatan;
 c. konseling;  
 d. bimbingan rohani;  
 e. pelayanan rehabilitasi sosial;  
-f. pelayanan bantuan dan pendampingan hukum; dang. pemulangan dan reintegrasi.  
+f. pelayanan bantuan dan pendampingan hukum; dan  
+g. pemulangan dan reintegrasi.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) harus didukung dengan  fasilitas berupa:a. ruang pelayanan khusus di jajaran kepolisian;  
 b. tenaga ahli dan professional;  
 c. pusat pelayanan dan rumah aman;dan/ataud. sarana dan prasarana lain yang diperlukan untuk pemulihan korban. (3) Pelayanan sebagaimana dimaksud pada ayat (1), termasuk pembuatan  visum et repertum, dilakukan tanpa biaya.  
@@ -267,7 +274,8 @@ j. Anak korban kejahatan seksual;
 k. Anak korban jaringan terorisme;  
 l. Anak penyandang disabilitas;  
 m. Anak korban perlakuan salah dan penelantaran;  
-n. Anak dengan perilaku sosial menyimpang; dano. Anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
+n. Anak dengan perilaku sosial menyimpang; dan  
+o. Anak yang menjadi korban stigmatisasi dari pelabelan terkait dengan  kondisi orang tuanya.  
 2. Pemerintah Daerah melaksanakan perlindungan khusus anak  sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan Peraturan  Perundang-undangan.  
 
 # BAB V
@@ -301,7 +309,8 @@ b. menyelenggarakan perlindungan dan pemenuhan hak saksi dan/atau  korban atas r
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan  penterjemah dan relawan pendamping yang diperlukan bagi saksi  dan/atau korban;  
 d. melakukan jejaring dengan rumah sakit pemerintah atau swasta  untuk perawatan dan pemulihan kesehatan korban serta melakukan  kerjasama dengan lembaga perlindungan saksi dan korban, rumah  perlindungan sosial atau pusat trauma milik pemerintah masyarakat  atau lembaga-lembaga lainnya untuk pemulihan kesehatan korban.  e. memberikan kemudahan, kenyamanan, dan keselamatan bagi saksi  dan/atau korban;  
 f. menjaga kerahasiaan saksi dan/atau korban;  
-g. memberikan pemenuhan bantuan hukum bagi saksi dan/atau  korban; danh. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, bertanggung jawab atas keseluruhan proses rujukan  pelayanan yang diperlukan korban.  
+g. memberikan pemenuhan bantuan hukum bagi saksi dan/atau  korban; dan  
+h. dalam hal penyelenggaraan pelayanan terpadu dilakukan secara  berjejaring, bertanggung jawab atas keseluruhan proses rujukan  pelayanan yang diperlukan korban.  
 4. P2TP2A sebagaimana dimaksud pada ayat (1) mempunyai tugas:  
 a. memberikan layanan terpadu kepada korban kekerasan; dan b. memberikan perlindungan terhadap korban tindak kekerasan,  pelapor dan saksi.  
 5. Pemberian layanan terpadu sebagaimana dimaksud pada ayat (4) huruf a  dilaksanakan sesuai dengan Standar Operasional Prosedur yang  ditetapkan Pemerintah Daerah.  
@@ -348,7 +357,8 @@ a. urusan keagamaan;
 b. urusan kesehatan;  
 c. urusan pendidikan;  
 d. urusan sosial;  
-e. urusan hukum; danf. urusan ketenagakerjaan.  
+e. urusan hukum; dan  
+f. urusan ketenagakerjaan.  
 
 jdih.bulelengkab.go.id
 
@@ -382,7 +392,8 @@ SPM Bidang Layanan Terpadu bagi Perempuan dan Anak Korban Kekerasan,  meliputi l
 a. penanganan pengaduan/laporan Korban Kekerasan terhadap Perempuan  dan Anak;  
 b. pelayanan kesehatan bagi Perempuan dan Anak Korban Kekerasan;  
 c. rehabilitasi Sosial bagi Perempuan dan Anak Korban Kekerasan;  
-d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban  Kekerasan; dane. pemulangan dan reintegrasi sosial bagi Perempuan dan AnakKorban  Kekerasan.  
+d. penegakan dan bantuan hukum bagi Perempuan dan Anak Korban  Kekerasan; dan  
+e. pemulangan dan reintegrasi sosial bagi Perempuan dan AnakKorban  Kekerasan.  
 
 jdih.bulelengkab.go.id
 
@@ -395,7 +406,8 @@ c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas  Rehabilitasi
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas  bimbingan rohani terlatih bagi Perempuan dan Anak Korban Kekerasan di  dalam unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan  putusan pengadilan atas kasus-kasus Kekerasan terhadap Perempuan  dan Anak;  
 f. cakupan Perempuan dan Anak Korban Kekerasan yang mendapatkan  layanan bantuan hukum;  
-g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban  Kekerasan; danh. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban  Kekerasan.  
+g. cakupan layanan Pemulangan bagi Perempuan dan Anak Korban  Kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi Perempuan dan Anak Korban  Kekerasan.  
 
 # BAB VIII
 

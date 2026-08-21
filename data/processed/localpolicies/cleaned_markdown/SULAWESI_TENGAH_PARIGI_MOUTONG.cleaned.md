@@ -112,7 +112,8 @@ a. hak untuk kelangsungan hidup, tumbuh dan berkembang;
 f"fl
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sarna;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 BABm
 
@@ -127,12 +128,14 @@ c. kekerasan ekonorni;
 d. kekerasan sosial;  
 e. kekerasan psikis;  
 f. penelantaran rumah tangga;  
-g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
+g. pemaksaan atau perampasan kemerdekaan; dan  
+h. ancaman tindakan tertentu.  
 
 Paaal 5 Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan sebagaimana dimaksud dalam Pasal4 melakukan upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
-c. memberikan pertolongan darurat; dand. membantu proses pengaduan dan pengajuan permohonan penetapan perlindungan.  
+c. memberikan pertolongan darurat; dan  
+d. membantu proses pengaduan dan pengajuan permohonan penetapan perlindungan.  
 
 ## Bagian Kedua
 
@@ -144,7 +147,8 @@ d. melakukan upaya membangun partisipasi dan kepedulian masyarakat untuk melaksa
 e. membangun jejaring dan kerja sarna dengan aparatur penegak hukum, aparatur pemerintah, perguruan tinggi, lembaga /organisasi keagamaan dan berbagai lembaga swadaya masyarakat dalam upaya mencegahan Kekerasan terhadap perempuan dan anak;  
 f. membentuk sistem pencegahan Kekerasan, pemetaan lokasi atau wilayah rawan terjadinya kekerasan;  
 g. meningkatkan kesadaran masyarakat yang menghargai perempuan dan melindungi anak;  
-h. membentuk UPTDPPAdi setiap Kecamatan, dan Pos Pelayanan Perlindungan Perempuan dan Anak tingkat Desa dan Kelurahan; dani. membentuk satuan tugas perlindungan perempuan dan anak.  
+h. membentuk UPTDPPAdi setiap Kecamatan, dan Pos Pelayanan Perlindungan Perempuan dan Anak tingkat Desa dan Kelurahan; dan  
+i. membentuk satuan tugas perlindungan perempuan dan anak.  
 2. Selain Pemerintah Daerah, pencegahan sebagaimana dimaksud pada ayat (1) harus dilaksanakan oleh:a. keluarga dan/ atau kerabat terdekat;  
 b. masyarakat;  
 c. instansi vertikal;  
@@ -152,7 +156,8 @@ d. aparatur penegak hukum:e. lembaga pendidikan;
 f. lembaga kesehatan;  
 g. lembaga/orgarusasi keagamaan;  
 h. lembaga sosial kemasyarakatan;  
-1. dunia usaha; danj. lembaga lainnya.  
+1. dunia usaha; dan  
+j. lembaga lainnya.  
 3. Pencegahan tindak kekerasan terhadap perempuan sebagaimana dimaksud pada ayat (I) dilakukan secara terpadu dan dikoordinasikan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang pemberdayaan perempuan dan pelindungan anak.  
 
 #### Pasal 7
@@ -208,7 +213,8 @@ d. rnernberikan perlindungan hukum secara khusus bagi anak korban tindak kekeras
 
 Pasal12 (1) Pemulangan dan reintegrasi sosial sebagaimana dimaksud dalam Pasal 8 ayat (1) huruf g dilaksanakan dengan prinsip sebagai berikut:  
 a. sukarela;  
-b. aman dan bermartabat; danc. penghormatan hak.  
+b. aman dan bermartabat; dan  
+c. penghormatan hak.  
 2. Dalam hal Pemerintah Daerah belum dapat melaksanakan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) dapat meminta bantuan kepada pihak terkait.  
 3. Pelayanan sosial untuk menyelenggarakan kesejahteraan sosial bagi Anak yang bermasalah dengan hukum dilakukan oleh Pemerintah Daerah bersama LPKS dengan lembaga sosial lainnya.  
 4. LPKS dan lembaga sosial lainnya sebagaimana dimaksud pada ayat (3) adalah tempat rehabilitasi dan penampungan sementara bagi anak bermasalah dengan hukum sebelum dilaksanakan pemulangan dan reintegrasi sosial.  
@@ -235,13 +241,15 @@ Perlindungan Anak Korban Tindak Kekerasan
 
 Tahapan Perlindungan Anak Korban Tindak Kekerasan Pasa114 Tahapan pelindungan terhadap anak korban tindak kekerasan, meliputi:  
 a. pencegahan tindak kekerasan terhadap anak;  
-b. penanganan anak korban tindak kekerasan; danc. rehabilitasi anak korban tindak kekerasan.  
+b. penanganan anak korban tindak kekerasan; dan  
+c. rehabilitasi anak korban tindak kekerasan.  
 
 ### Paragraf 2
 
 Peneegahan Kekerasan Terhadap Anak Pasa115 (1) Pencegahan tindak kekerasan terhadap anak sebagaimana climaksud dalam Pasal 14 huruf a dilaksanakan dengan cara:  
 a. membentukjaringan kerja dalam upaya pencegahan kekerasan terhadap anak;  
-b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan dengan masyarakat, swasta dan lembaga swadaya masyarakat; dan  
+c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan dengan perlindungan anak korban kekerasan.  
 2. Pencegahan kekerasan terhadap anak sebagaimana climaksud pada ayat (1) dilakukan secara terpadu dan dikoordinasikan oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang pemberdayaan perempuan dan pelindungan anak.  
 
 Pasa116 (1) Pencegahan tindak kekerasan terhadap anak selain dilaksanakan oleh Perangkat Daerah sebagaimana climaksud dalam Pasal 14 ayat (2), juga melibatkan pihak:  
@@ -290,7 +298,8 @@ h. anak korban penculikan, penjualan, dan Zatau perdagangan;
 J. anak korban kejahatan seksual;  
 k. anak korban jaringan terorisme;  
 1. anak penyandang disabilitas:m. anak korban perlakuan salah dan penelantaran;  
-n. anak dengan perilaku sosial menyimpang; dano. anak yang menjacli korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya .  
+n. anak dengan perilaku sosial menyimpang; dan  
+o. anak yang menjacli korban stigmatisasi dari pelabelan terkait dengan kondisi orang tuanya .  
 
 .J (2) Pernerintah Daerah dalarn melaksanakan penanganan terhadap perlindungan khusus anak sebagaimana dimaksud pada ayat (1) sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -305,14 +314,16 @@ Paaal 20 (1) Dalarn rangka pelayanan korban tindak kekerasan, Pemerintah Daerah 
 #### Pasal 21
 
 1. P2TP2A sebagaimaria dimaksud c1alamPasal 20 bertugas:a. memberikan pelayanan;  
-b. memberikan perlindungan terhadap korban tindak kekerasan, pelapor dan saksi; danc. melakukan pemberdayaan terhadap korban tindak kekerasan.  
+b. memberikan perlindungan terhadap korban tindak kekerasan, pelapor dan saksi; dan  
+c. melakukan pemberdayaan terhadap korban tindak kekerasan.  
 2. Pelayanan sebagaimana dirnaksud pada ayat (1)huruf a meliputi:  
 a. menerima pengaduarr/Iaporan Kekerasan terhadap perempuan danj atau anak, konsultasi, dan konseling;  
 b. menerima dan mengirimkan rujukan kasus dari Pemerintah Daerah KabupatenjKota lain atau lembaga yang dibentuk oleh Pemerintah Daerah KabupatenjKota lain;  
 c. memberikan bantuan pendampingan hukum;  
 d. kesehatan;  
 e. rehabilitasi sosial;  
-f. pelayanan bantuan hukum; dang. pemulangan dan reintegrasi sosial.  
+f. pelayanan bantuan hukum; dan  
+g. pemulangan dan reintegrasi sosial.  
 
 ##### BABVI
 
@@ -360,7 +371,8 @@ b. memfasilitasi pendirian kelembagaan perlindungan perempuan dan anak dari tind
 c. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan Daerah;  
 d. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. menyediakan pelayanan perlindungan perempuan dan anak korban tindak kekerasan;  
-f. mendorong dan meningkatkan partisipasi masyarakat; dang. menunjuk orang tua dan/ atau pengasuh keluarga pengganti sebagai langkah perlindungan untuk anak yang menjadi korban tindak kekerasan.  
+f. mendorong dan meningkatkan partisipasi masyarakat; dan  
+g. menunjuk orang tua dan/ atau pengasuh keluarga pengganti sebagai langkah perlindungan untuk anak yang menjadi korban tindak kekerasan.  
 
 ### BABVD
 
@@ -379,7 +391,8 @@ f. melakukan penguatan lembaga sosial masyarakat dalam penanganan tindak kekeras
 Pasa126 (1) Pemerintah Daerah mendorong dunia usaha berpartisipasi dalam perlindungan terhadap perempuan dan anak dari tindak kekerasan.  
 
 2. Partisipasi sebagaimana dimaksud pada ayat (1) dapat berupa:  
-a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; danb. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
+a. sosialisasi kepada pegawai dilingkungan perusahaan mengenai bahaya tindak kekerasan terhadap perempuan dan anak; dan  
+b. bantuan sebagai bentuk tanggung jawab sosial perusahaan.  
 
 ### BABVID
 

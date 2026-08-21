@@ -64,7 +64,8 @@ b. keadilan dan kesetaraan gender;
 c. non diskriminasi;  
 d. kepentingan terbaik bagi Anak;  
 e. hak untuk hidup, kelangsungan hidup, dan perkembangan;  
-f. Pemberdayaan; dang. kepastian hukum.  
+f. Pemberdayaan; dan  
+g. kepastian hukum.  
 
 Pasa13 Perlindungan Perempuan dan Anak bertujuan untuk:  
 a. menjamin terpenuhinya hak-hak Perempuan dan Anak;  
@@ -102,7 +103,8 @@ n. atas kebersamaan kedudukannya di dalarn hukum dan pemerintahan;
 o. atas pekerjaan dan penghidupan yang layak bagi kemanusiaan;  
 p. dalam upaya pembelaan negara;  
 q. untuk berkomunikasi dan memperoleh informasi untuk mengembangkan pribadi dan lingkungan sosialnya, serta berhak untuk mencari, memperoleh, memiliki, menyimpan, mengolah, dan menyarnpaikan informasi dengan menggunakan segalajenis saluran yang tersedia;  
-r. memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu; dans. mendapat pendidikan.  
+r. memeluk agamanya masing-masing dan untuk beribadat menurut agamanya dan kepercayaannya itu; dan  
+s. mendapat pendidikan.  
 
 ## Bagian Kedua
 
@@ -113,14 +115,16 @@ Pemenuhan Hak Anak
 Hak dan KewajibanAnak PasalS Setiap Anak berhak:  
 a. atas pencatatan kelahiran;  
 b. mendapatkan kesehatan;  
-c. memperoleh pendidikan; dand. kesejahteraan sosial.  
+c. memperoleh pendidikan; dan  
+d. kesejahteraan sosial.  
 
 Pasal6 Setiap Anak wajib:  
 a. menghormati orang tua, wali dan guru;  
 b. mencintai keluarga, masyarakat dan menyayangi ternan;  
 c. mencintai tanah air, bangsa dan negara;  
 d. menunaikan ibadah sesuai dengan agama dan kepercayaannya;  
-e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat, minatnya; danf. berbudi pekerti luh ur.  
+e. belajar dan mengembangkan diri sesuai dengan kemampuan dan bakat, minatnya; dan  
+f. berbudi pekerti luh ur.  
 
 Paragraf2 Pencatatan Kelahiran
 
@@ -132,7 +136,8 @@ Pencatatan kelahiran anak sebagaimana dimaksud dalam Pasal 5 huruf a, Pemerintah
 
 Kesehatan Pasal8 (1) Penyelenggaraan Pemenuhan Hak Anak dibidang kesehatan sebagaimana dimaksud dalam Pasal 5 huruf b, Pemerintah Kabupaten wajib menyediakan fasilitas dan menyelenggarakan layanan kesehatan yang komprehensif bagi anak.  
 
-2. Layanan kesehatan yang komprehensif sebagaimana dimaksud pada ayat (1)meliputi:a. upaya promotif, preventif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar; danb. pembebasan dari beban biaya bagi anak gizi buruk, Anak penyandang disabilitas, anak berkebutuhan khusus, anak jalanan, anak yang terinfeksi HIVj AIDS,pekerja anak, anak korban penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya (NAPZA)Anak , yang menjadi korban kekerasan, seperti penelantaran, tereksploitasi secara ekonomi, seksual dan korban perdagangan orang.  
+2. Layanan kesehatan yang komprehensif sebagaimana dimaksud pada ayat (1)meliputi:a. upaya promotif, preventif, kuratif dan rehabilitatif untuk pelayanan kesehatan dasar; dan  
+b. pembebasan dari beban biaya bagi anak gizi buruk, Anak penyandang disabilitas, anak berkebutuhan khusus, anak jalanan, anak yang terinfeksi HIVj AIDS,pekerja anak, anak korban penyalahgunaan narkotika, alkohol, psikotropika dan zat adiktif lainnya (NAPZA)Anak , yang menjadi korban kekerasan, seperti penelantaran, tereksploitasi secara ekonomi, seksual dan korban perdagangan orang.  
 3. Pembebasan dari beban biaya bagi Anak sebagaimana dimaksud pada ayat (2) huruf b merupakan Anak dari keluarga miskin kecuali diatur berbeda sesuai dengan program pembiayaan kesehatan yang ditetapkan pemerintah.  
 
 Pasal9 Pemerintah Kabupaten bersama dengan masyarakat, keluarga dan orang tua wajib mengusahakan agar Anak yang lahir terhindar dari penyakit yang mengancam kelangsungan hidup danj atau menimbulkan kecacatan.  
@@ -151,7 +156,8 @@ Pasal13 Anak penyandang disabilitas dan Anak berkebutuhan khusus diberikan kesem
 a. formal;  
 b. nonformal;  
 c. informal;  
-d. pendidikan luar biasa; dane. inklusi.  
+d. pendidikan luar biasa; dan  
+e. inklusi.  
 
 Pasal14 Pendidikan Anak Usia Dini usia 0 (nol) sampai dengan 3 (tiga) tahun dan 4 (empat) sampai dengan 6 (enam) tahun dapat diselenggarakan oleh:  
 a. lembaga Posyandu;  
@@ -172,7 +178,8 @@ h. anak jalanan;
 i. anak korban bencana alam atau bencana sosial;  
 j. anak penyandang disabilitas fisik dan mental;  
 k. anak keluarga buruh migran;  
-l. anak yang hidup di dalam atau di sekitar lokasi prostitusi; danm. anak korban perlakuan salah lainnya.  
+l. anak yang hidup di dalam atau di sekitar lokasi prostitusi; dan  
+m. anak korban perlakuan salah lainnya.  
 2. Kesejahteraan sosial sebagaimana dimaksud pada ayat (1) dapat berupa kemudahan untuk mendapatkan akses layanan:  
 a. kesehatan;  
 b. pendidikan;  
@@ -222,12 +229,14 @@ e. eksploitasi; dan Iatauf. kekerasan lainnya.
 b. membentuk jaringan kerja dalarn upaya pencegahan kekerasan;  
 c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 d. membentuk sistem pencegahan kekerasan;  
-e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan Perempuan dan Anak korban kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak Perempuan dan Anak bagi masyarakat.  
+e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan Perempuan dan Anak korban kekerasan; dan  
+f. memberikan pendidikan kritis mengenai hak-hak Perempuan dan Anak bagi masyarakat.  
 
 Pasal20 Upaya pencegahan kekerasan terhadap Perempuan dan Anak sebagaimana dimaksud dalam Pasal 19 ayat (1) selain Pemerintah Kabupaten dilaksanakan juga oleh:  
 a. keluarga danIatau kerabat terdekat;  
 b. masyarakat;  
-c. lembaga pendidikan; dand. lembaga Swadaya Masyarakat.  
+c. lembaga pendidikan; dan  
+d. lembaga Swadaya Masyarakat.  
 
 ## Bagian Kelima
 
@@ -237,19 +246,22 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 Pasal22 Bentuk penanganan terhadap Perempuan dan Anak korban kekerasan sebagaimana dimaksud dalam Pasal 21 meliputi pelayanan:  
 a. pengaduan, konsultasi, dan konseling;  
 b. pendampingan;  
 c. rehabilitasi medis;  
 d. rehabilitasi sosial;  
-e. hukum; danf. reintegrasi sosial.  
+e. hukum; dan  
+f. reintegrasi sosial.  
 
 ## Bagian Keenam
 
 Pernbiayaan Pasal23 Pembiayaan yang diperlukan bagi pelaksanaan Perlindungan Perempuan dan Anak dibebankan pada:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. Sumber dana lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-undangan yang berlaku.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. Sumber dana lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-undangan yang berlaku.  
 
 # BAB III
 
@@ -261,7 +273,8 @@ b. menyelenggarakan perlindungan dan pemenuhan hak korban atas rehabilitasi kese
 c. melakukan kerjasama dengan lembaga tertentu dalam penyediaan penerjemah dan relawan pendamping yang diperlukan bagi korban;  
 d. melakukan jaringan dengan rumah sakit pemerintah atau swasta untuk perawatan dan pemulihan kesehatan korban serta melakukan kerjasama dengan lembaga perlindungan saksi dan korban, rumah perlindungan sosial atau pusat trauma milik pemerintah, masyarakat atau lembaga lainnya untuk pemulihan kesehatan korban;  
 e. memberikan kemudahan, kenyamanan dan keselamatan bagi korban;  
-f. menjaga kerahasiaan korban; dang. memberikan pemenuhan bantuan hukum bagi korban. (4) Ketentuan lebih lanjut mengenai tata cara dan mekanisme penyelenggaraanPPTdiatur dengan Peraturan Bupati.  
+f. menjaga kerahasiaan korban; dan  
+g. memberikan pemenuhan bantuan hukum bagi korban. (4) Ketentuan lebih lanjut mengenai tata cara dan mekanisme penyelenggaraanPPTdiatur dengan Peraturan Bupati.  
 
 ## BABIV
 
@@ -282,7 +295,8 @@ k. atas pelayanan bimbingan rohani.
 Pasal26 Perempuan dan anak korban kekerasan selain berhak sebagaimana dimaksud dalam Pasal 25, juga mendapatkan hak khusus sebagai berikut:  
 a. hak atas kelangsungan hidup;  
 b. tumbuh dan berkembang;  
-c. mendapatkan perlindungan yang sarna; dand. berpartisipasi dalam kehidupan bennasyarakat.  
+c. mendapatkan perlindungan yang sarna; dan  
+d. berpartisipasi dalam kehidupan bennasyarakat.  
 --------------------------
 
 ## BABV
@@ -295,7 +309,8 @@ Pasal27 (1) Pemerintah Kabupaten melakukan pemantauan untuk menjamin sinergi, ke
 3. Pemantauan sebagaimana dirnaksud pada ayat (1) adalah untuk mengetahui perkembangan dan hambatan dalam pelaksanaan kebijakan, program dan kegiatan Perlindungan Perempuan Dan Anak.  
 4. Pemantauan dilakukan secara berkala melalui koordinasi dan pemantauan langsung terhadap Perangkat Daerah yang melaksanakan kebijakan, kegiatan Perlindungan Perempuan Dan Anak.  
 5. Tahapan Pemantauan sebagaimana dimaksud pada ayat (1) meliputi:a. perencanaanb. pelaksanaan kebijakan;  
-c. pelaksanaan program; dand. kegiatan Perlindungan Perempuan Dan Anak setiap tahun. Pasal28 (1) Evaluasi pelaksanaan kebijakan, program dan kegiatan Perlindungan Perempuan Dan Anak dilakukan setiap berakhimya tahun Anggaran atau jika diperlukan sesuai kebutuhan.  
+c. pelaksanaan program; dan  
+d. kegiatan Perlindungan Perempuan Dan Anak setiap tahun. Pasal28 (1) Evaluasi pelaksanaan kebijakan, program dan kegiatan Perlindungan Perempuan Dan Anak dilakukan setiap berakhimya tahun Anggaran atau jika diperlukan sesuai kebutuhan.  
 2. Hasil evaluasi pelaksanaan kebijakan, program dan kegiatan Perlindungan Perempuan Dan Anak sebagaimana dimaksud pada ayat (1) digunakan sebagai bahan masukan bagi penyusunan kebijakan, program dan kegiatan untuk tahun berikutnya.  
 3. Evaluasi sebagaimana dimaksud pada ayat (1) dilaksanakan sesuai dengan ketentuan peraturan Perundang-undangan.  
 

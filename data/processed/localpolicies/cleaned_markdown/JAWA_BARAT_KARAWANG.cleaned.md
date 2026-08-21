@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai salah satu kelompok  masyarakat yang keberadaannya menjadi potensi dan aset pembangunan perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak  kekerasan dan diskriminasi;  
 c. bahwa dalam rangka mengefektifkan sistem yang  komprehensif dan integratif dalam memberdayakan dan  melindungi perempuan di Kabupaten Karawang diperlukan pengaturan mengenai pemberdayaan dan perlindungan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud pada huruf a, huruf b,dan huruf c perlu  menetapkan Peraturan Daerah tentang Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -79,14 +81,16 @@ d. berkeluarga dan melanjutkan keturunan;
 e. atas pekerjaan dan mendapatkan upak kerja yang adil atas  pekerjaannya;  
 f. mendapatkan pendidikan yang layak;  
 g. memperoleh perawatan, pendidikan, pelatihan dan/atau  bantuan khusus;  
-h. atas kebebasan pribadi; dani. atas kesehatan.  
+h. atas kebebasan pribadi; dan  
+i. atas kesehatan.  
 
 #### Pasal 3
 
 Hak Perempuan dalam Ketenagakerjaan meliputi:  
 a. Memiliki kesempatan kerja yang sama dengan laki-laki;  
 b. Kesempatan yang sama dari proses seleksi, fasilitas kerja,  tunjangan hingga hak untuk menerima upah yang setara;  
-c. Mendapatkan masa cuti yang dibayar termasuk saat cuti  melahirkan; dand. Perempuan tidak bisa diberhentikan oleh pihak pemberi tenaga  kerja dengan alasan kehmilan maupun status pernikahan.  
+c. Mendapatkan masa cuti yang dibayar termasuk saat cuti  melahirkan; dan  
+d. Perempuan tidak bisa diberhentikan oleh pihak pemberi tenaga  kerja dengan alasan kehmilan maupun status pernikahan.  
 
 #### Pasal 4
 
@@ -143,11 +147,13 @@ g. edukasi;
 h. pelatihan;  
 i. fasilitas pelayanan;  
 j. penyediaan pelayanan;  
-k. pembangunan model; danl. kegiatan lain.  
+k. pembangunan model; dan  
+l. kegiatan lain.  
 5. Pengintegrasian kebijakan, program dan kegiatan pemberdayaan  dan Perlindungan Perempuan sebagaimana dimaksud pada ayat  (1) dituangkan dalam dokumen:a. Rencana pembangunan jangka panjang daerah;  
 b. Rencana pembangunan jangka menengah daerah;  
 c. Rencana strategis Perangkat Daerah;  
-d. Rencana kerja Pemerintah Daerah; dane. rencana kerja dan anggaran Perangkat Daerah.  
+d. Rencana kerja Pemerintah Daerah; dan  
+e. rencana kerja dan anggaran Perangkat Daerah.  
 6. Ketentuan mengenai menetapkan kebijakan, program dan  kegiatan pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) ditetapkan dengan  Keputusan Bupati.  
 
 #### Pasal 12
@@ -163,7 +169,8 @@ b. bantuan hukum;
 c. rehabilitasi medis;  
 d. rehabilitasi psikososial;  
 e. reintegrasi sosial;  
-f. bantuan pemulangan; dang. bentuk lainnya.  
+f. bantuan pemulangan; dan  
+g. bentuk lainnya.  
 2. Pelayanan Pemberdayaan dan Perlindungan Perempuan  sebagaimana dimaksud pada ayat (1) diberikan terhadap perempuan:a. korban kekerasan;  
 b. korban perdagangan orang;  
 c. daerah rawan konflik dan bencana;  
@@ -172,7 +179,8 @@ e. lanjut usia;
 f. penyandang disabilitas;  
 g. korban eksploitasi seksual;  
 h. yang menjadi kepala keluarga;  
-i. hamil dan/atau sedang menyusui; danj. korban rentan lainnya.  
+i. hamil dan/atau sedang menyusui; dan  
+j. korban rentan lainnya.  
 
 # BAB IV
 
@@ -183,7 +191,8 @@ i. hamil dan/atau sedang menyusui; danj. korban rentan lainnya.
 1. Masyarakat dapat berperan serta dalam penyelenggaraan  Pemberdayaan dan Perlindungan Perempuan.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1)  dapat dilakukan oleh perorangan, kelompok dan/atau organisasi  sosial kemasyarakatan.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat (2)  dapat berbentuk:a. kerja sama;  
-b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.  
+b. peran aktif dalam penyusunan kebijakan; dan  
+c. pengaduan/laporan.  
 4. Ketentuan lebih lanjut mengenai tata cara peran serta masyarakat sebagaimana dimaksud pada ayat (3) diatur dengan Peraturan Bupati.  
 
 # BAB V
@@ -208,7 +217,8 @@ b. peran aktif dalam penyusunan kebijakan; danc. pengaduan/laporan.
 #### Pasal 17
 
 Pendanaan penyelenggaraan Pemberdayaan dan Perlindungan  Perempuan bersumber dari:  
-a. Anggaran pendapatan dan belanja daerah; danb. Sumber lain yang sah dan tidak mengikat, sesuai dengan  ketentuan peraturan perundang-undangan.  
+a. Anggaran pendapatan dan belanja daerah; dan  
+b. Sumber lain yang sah dan tidak mengikat, sesuai dengan  ketentuan peraturan perundang-undangan.  
 
 # BAB VII
 

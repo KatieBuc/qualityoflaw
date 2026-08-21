@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak  merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan kodratnya tanpa diskriminasi;  
 b. bahwa untuk mencegah dan menanggulangi kekerasan  terhadap perempuan dan anak perlu dilakukan perlindungan hukum terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam rangka penyelenggaraan perlindungan  perempuan dan anak korban kekerasan di Kabupaten Tabanan belum memiliki dasar pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -100,7 +102,8 @@ pemulangan; reintegrasi sosial, dan bantuan hukum. 21. Standar Pelayanan Minimal
 
 Asas penyelenggaraan perlindungan perempuan dan anak  korban kekerasan adalah:  
 a. keadilan dan kesetaraan gender;  
-b. nondiskriminasi; danc. kepastian hukum.  
+b. nondiskriminasi; dan  
+c. kepastian hukum.  
 
 #### Pasal 3
 
@@ -123,7 +126,8 @@ e. perlindungan dari advokat,f. perlindungan dari lembaga sosial, atau pihak lai
 g. pelayanan kesehatan sesuai dengan kebutuhan medis;  
 h. penanganan secara khusus berkaitan dengan kerahasiaan  korban;  
 i. pendampingan oleh pekerja sosial dan bantuan hukum  pada setiap tingkat proses pemeriksaan sesuai dengan  ketentuan peraturan perundang-undangan;  
-j. pelayanan bimbingan rohani; dank. korban memiliki hak menentukan sendiri keputusannya terkait pilihan mana yang akan dilaksanakan.  
+j. pelayanan bimbingan rohani; dan  
+k. korban memiliki hak menentukan sendiri keputusannya terkait pilihan mana yang akan dilaksanakan.  
 
 # BAB IV
 
@@ -146,20 +150,23 @@ c. peningkatan kemampuan aparatur dan para pemangku  kepentingan lain.
 1. Bupati membentuk PPT;  
 2. PPT sebagaimana dimaksud pada ayat (1) berupa:a. P2TP2A;  
 b. PPT berbasis rumah sakit;  
-c. PPT kecamatan; dand. PPT Desa.  
+c. PPT kecamatan; dan  
+d. PPT Desa.  
 3. Tata cara pembentukan PPT ditetapkan dengan Peraturan Bupati.  
 
 #### Pasal 7
 
 1. Pelayanan PPT meliputi:a. memberikan pelayanan dan penanganan secepat mungkin  kepada korban;  
 b. memberikan kemudahan, kenyamanan, keselamatan, dan  bebas biaya bagi korban;  
-c. menjaga kerahasiaan korban; dand. menjamin keadilan dan kepastian hukum bagi korban.  (2) Tata cara pelayanan PPT sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Bupati;  
+c. menjaga kerahasiaan korban; dan  
+d. menjamin keadilan dan kepastian hukum bagi korban.  (2) Tata cara pelayanan PPT sebagaimana dimaksud pada ayat (1)  diatur dengan Peraturan Bupati;  
 
 #### Pasal 8
 
 Penyelenggaraan PPT memerlukan:  
 a. sarana dan prasarana pendukung yang memadai;  
-b. petugas pelaksana; danc. petugas fungsional.  
+b. petugas pelaksana; dan  
+c. petugas fungsional.  
 
 #### Pasal 9
 
@@ -181,14 +188,16 @@ e. reintegrasi sosial, danf. bantuan hukum.
 b. pelayanan kesehatan bagi perempuan dan anak korban  kekerasan;  
 c. rehabilitasi sosial bagi perempuan dan anak korban  kekerasan;  
 d. penegakan dan bantuan hukum bagi perempuan dan anak  korban kekerasan;  
-e. pemulangan dan reintegrasi sosial bagi perempuan dan anak  korban kekerasan; danf. dalam hal korban mengalami trauma atau penyakit yang  membahayakan dirinya akibat tindak kekerasan sehingga  memerlukan pertolongan segera, pemerintah daerah  berkewajiban memberikan pertolongan pertama paling  lambat 7 (tujuh) hari setelah pengaduan diajukan.  
+e. pemulangan dan reintegrasi sosial bagi perempuan dan anak  korban kekerasan; dan  
+f. dalam hal korban mengalami trauma atau penyakit yang  membahayakan dirinya akibat tindak kekerasan sehingga  memerlukan pertolongan segera, pemerintah daerah  berkewajiban memberikan pertolongan pertama paling  lambat 7 (tujuh) hari setelah pengaduan diajukan.  
 
 #### Pasal 11
 
 1. SPM sebagaimana dimaksud dalam Pasal 10 memiliki  indikator kinerja meliputi:a. cakupan perempuan dan anak korban kekerasan yang  mendapatkan penanganan pengaduan oleh petugas terlatih  di dalam unit pelayanan terpadu;  
 b. cakupan perempuan dan anak korban kekerasan yang  mendapatkan layanan kesehatan oleh tenaga kesehatan  terlatih di Puskesmas dan di Rumah Sakit:c. cakupan layanan rehabilitasi sosial yang diberikan oleh  petugas rehabilitasi sosial terlatih bagi perempuan dan  anak korban kekerasan di dalam unit pelayanan terpadu:d. cakupan layanan bimbingan rohani yang diberikan oleh  petugas bimbingan rohani terlatih bagi perempuan dan  anak korban kekerasan di dalam unit pelayanan terpadu:e. cakupan penegakan hukum dari tingkat penyidikan  sampai dengan putusan pengadilan atas kasus-kasus  kekerasan terhadap perempuan dan anak;  
 f. cakupan perempuan dan anak korban kekerasan yang  mendapatkan layanan bantuan hukum;  
-g. cakupan layanan pemulangan bagi perempuan dan anak  korban kekerasan; danh. cakupan layanan reintegrasi sosial bagi perempuan dan  anak korban kekerasan.  
+g. cakupan layanan pemulangan bagi perempuan dan anak  korban kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi perempuan dan  anak korban kekerasan.  
 2. Penetapan indikator kinerja SPM Bidang Layanan Terpadu bagi  Perempuan dan Anak Korban Kekerasan sebagaimana  dimaksud pada ayat (1) merupakan target minimal yang harus  dicapai oleh unit pelayanan terpadu secara bertahap.  
 
 # BAB VII
@@ -266,7 +275,8 @@ d. melakukan pertolongan pertama kepada korban; dan e. melaporkan kepada instans
 #### Pasal 20
 
 Penyelenggaraan perlindungan terhadap perempuan dan anak  Korban kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah.  
 
 # BAB XIII
 

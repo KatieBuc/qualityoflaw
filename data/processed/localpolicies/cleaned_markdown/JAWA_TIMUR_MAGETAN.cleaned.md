@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan tindalan yang melanggar hak dan martabat perempuan dan anak sebagai manusia;  
 b. bahwa upaya perlindungan terhadap perempuan dan anak korban kekerasan di Daerah belum optimal, sehingga perlu penguatan kelembagaan dan adanya pengaturan yang dapat menjamin pelaksanaannya sesuai ketentuaa yang berlaku darr;  
 c. bahwa berdasarkan Undang_Undang Nomor 23 Tahun 2O14 tentang pemerintahan Daerah sebagaimana diubah beberapa kali terakhir dengan Undaag_Undang Nomor 9 Tahun 2015, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh pemerintahan Daerah;  
@@ -105,7 +106,8 @@ Penyelenggaraan perlindungan perempuan dan anak korban kekerasan berasaskan:
 a. penghormatan dan pemenuhan terhadap hak-hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi korban; dane. pemberdayaan.  
+d. kepentingan terbaik bagi korban; dan  
+e. pemberdayaan.  
 
 #### Pasal 3
 
@@ -182,7 +184,8 @@ Bagran Kesatu Pencegahan
 b. membentuk jaringan kerja dalam upaya pencegahan kekerasan;  
 c. melakukan koordinasi, integrasi, sinkronisasi pencegahan kekerasan berdasarkan pola kemitraan;  
 d. membentuk sistem pencegahan kekerasan;  
-e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan; danf. memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat.  
+e. melakukan sosialisasi mengenai peraturan perundang undangan yang berkaitan dengan perlindungan perempuan dan anak korban kekerasan; dan  
+f. memberikan pendidikan kritis mengenai hak-hak perempuan dan anak bagi masyarakat.  
 
 #### Pasal 1O
 
@@ -203,7 +206,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dljangkau;  
-f. tidakdikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidakdikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 
 #### Pasal 12
 
@@ -227,13 +231,15 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 Bentuk pemberdayaan perempuan korban kekerasan meliputi:  
 a. pelatihan keda;  
-b. usaha ekonomi produktif dan/atau kelompok usaha bersama; danc. bantuan permodalan.  
+b. usaha ekonomi produktif dan/atau kelompok usaha bersama; dan  
+c. bantuan permodalan.  
 
 #### Pasal 14
 
 Pelatihan kerja sebagaimana dimaksud dalam Pasal 13 huruf a meliputi:  
 a. pelatihan keterampilan;  
-b. praktek ke{a lapangan; danc. pemagangan.  
+b. praktek ke{a lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 15
 
@@ -244,7 +250,8 @@ b. fasilitasi pembentukan kelompok usaha bersama; dan c. pendampingan pelaksanaa
 #### Pasal 16
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 13 huruf c meliputi:  
-a. bantuan sarana dan prasarana keda; danb. fasilitasi bantuan modal kerja.  
+a. bantuan sarana dan prasarana keda; dan  
+b. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
 
@@ -499,24 +506,28 @@ f. melakukan koordinasi dengan pendamping yang lain; dan g. memberikan penangana
 
 Huruf c Pelayanan kesehatan meliputi:  
 a. pertolongan pertama kepada korban;  
-b. perawatan dan pemulihan luka frsik yang bertujuan untuk pemulihan kondisi {isik korban yang dilakukan oleh tenaga medis dan paramedis; danc. rujukan ke layanan kesehatan.  
+b. perawatan dan pemulihan luka frsik yang bertujuan untuk pemulihan kondisi {isik korban yang dilakukan oleh tenaga medis dan paramedis; dan  
+c. rujukan ke layanan kesehatan.  
 
 Huruf d Pelayanan rehabilitasi sosial merupakan pelayanan yang diberikan oleh pendamping dafam rangka memulihkan kondisi traumatis korban.  
 
 Bentuk pelayanan rehabilitasi sosial melalui penyediaan rumah aman dan dukungan secara sosial.  
 
 Dukungan secara sosial dilakukan melalui:  
-a. bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
+a. bimbingan kerohanian kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 
 Rumah Arnan (Shelter/ adalah tempat tinggal sementara yang digunalan untuk memberikan perlindungan terhadap korban sesuai dengan standar operasional yang ditentukan. Huruf e Pelayanan hukum untuk membantu korban dalam menjalani proses peradilan dengan cara:  
 a. memberikan konsultasi hukum yang mencakup informasi mengenai hak-hak korbaa dan proses peradilan;  
-b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan peke{a sosial agar proses peradilan berjalan sebagaimana mestinya.  
+b. mendampingi korban di tingkat penyidikan, penuntutan, dan pemeriksaan dalam sidang pengadilan dan membantu korban untuk secara lengkap memaparkan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesarna penegak hukum, relawan pendamping, dan peke{a sosial agar proses peradilan berjalan sebagaimana mestinya.  
 
 Huruf f Pelayanan reintegrasi sosial bertujuan untuk mengembalikan korban kepada keluarga dan lingkungan sosialnya.  
 
 Pelayanan reintegrasi sosial dilakukan oleh Pemerintah Daerah berkoordinasi dengan:  
 a. Pemerintah Kabupaten / Kota dalam satu wilayah Daerah Provinsi Jawa Timur;  
-b. instansi dan lembaga terkait baik pemerintah maupun non pemerintah; danc. Iembrga kemasyarakatan desa dan/atau tokoh masyarakat setempat.  
+b. instansi dan lembaga terkait baik pemerintah maupun non pemerintah; dan  
+c. Iembrga kemasyarakatan desa dan/atau tokoh masyarakat setempat.  
 
 Huruf g Pelayanan kemandirian ekonomi melalui pemberian akses ekonomi diberikan pada korban kekerasan, khususnya perempuan korban kekerasan agar dapat mandiri dalam menjalankan dan mempertahankan hidupnya. Pelayanan ekonomi tersebut dapat dilakukan dengan memberikan pelatihan-pelatihan yang sesuai dengan keterampilan atau bakat yang dimiliki oleh korban, sehingga korban dapat mengembangkan keterampilan atau bakat yang dimilikinya pada saat korban berada kembali dalam kehidupan bermasyarakat. Selain itu, PPT dapat menyediakan informasi usaha maupun lowongan pekerjaan yang berkaitan dengan keterampilan atau kemampuan yang dimiliki oleh korban kekerasan.  
 

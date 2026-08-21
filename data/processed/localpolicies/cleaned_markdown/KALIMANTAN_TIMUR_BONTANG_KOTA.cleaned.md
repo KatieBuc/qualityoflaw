@@ -17,11 +17,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak secara biologis dan filosofis  merupakan kelompok yang rentan terhadap tindak kekerasan, baik kekerasan yang terjadi dalam rumah tangga maupun yang dilakukan di luar rumah tangga;  
 b. bahwa perlindungan terhadap perempuan dan anak  korban tindak kekerasan merupakan salah satu aspek dari tugas dan tanggung jawab pemerintah dalam memberikan perlindungan dan pelayanan kepada masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan terhadap Perempuan dan Anak Korban Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -135,13 +137,15 @@ Lingkup Tindak Kekerasan
 
 #### Pasal 9
 
-1. Lingkup tindak kekerasan terhadap perempuan dan anak  meliputi:a. tindak kekerasan yang terjadi di dalam rumah tangga; danb. tindak kekerasan yang terjadi di luar rumah tangga.  
+1. Lingkup tindak kekerasan terhadap perempuan dan anak  meliputi:a. tindak kekerasan yang terjadi di dalam rumah tangga; dan  
+b. tindak kekerasan yang terjadi di luar rumah tangga.  
 2. Tindak kekerasan yang terjadi di dalam rumah tangga  sebagaimana dimaksud pada ayat (1) huruf a terjadi dalam  rumah tangga yang dilakukan oleh:a. suami atau isteri di dalam perkawinan;  
 b. mempunyai hubungan keluarga sedarah, perkawinan,  adat, adopsi; atauc. bekerja pada orang lain atau yang tinggal dan menetap  pada orang lain.  
 3. Tindak kekerasan yang terjadi di luar rumah tangga  sebagaimana dimaksud pada ayat (1) huruf b terjadi di luar  rumah tangga meliputi:a. pelecehan;  
 b. diskriminasi kekerasan di tempat kerja;  
 c. kekerasan di wilayah konflik;  
-d. kekerasan di media massa; dane. perdagangan orang.  
+d. kekerasan di media massa; dan  
+e. perdagangan orang.  
 
 # BAB IV
 
@@ -166,7 +170,8 @@ Anak korban tindak kekerasan, selain mendapatkan hak  sebagaimana dimaksud dalam
 a. penghormatan dan penggunaan sepenuhnya untuk  kelangsungan hidup, tumbuh dan berkembang;  
 b. pelayanan dasar terutama pendidikan wajib belajar 12  tahun;  
 c. perlindungan yang sama;  
-d. bebas dari berbagai stigma; dane. mendapatkan kebebasan.  
+d. bebas dari berbagai stigma; dan  
+e. mendapatkan kebebasan.  
 
 # BAB V
 
@@ -176,7 +181,8 @@ d. bebas dari berbagai stigma; dane. mendapatkan kebebasan.
 
 Kewajiban dan tanggung jawab dalam memberikan perlindungan  terhadap perempuan dan anak dari korban tindak kekerasan  merupakan tanggung jawab bersama:  
 a. Pemerintah Daerah;  
-b. Masyarakat; danc. Keluarga dan/atau orang tua.  
+b. Masyarakat; dan  
+c. Keluarga dan/atau orang tua.  
 
 #### Pasal 13
 
@@ -217,7 +223,8 @@ b. membuka aksesibilitas untuk memperoleh pendidikan,  pelatihan, pendanaan, dan
 c. membuka lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat  terhadap pencegahan dan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang  lengkap dan mudah diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur  penegak hukum, aparatur pemerintah, perguruan tinggi dan lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dang. membuka pos pangaduan perlindungan perempuan dan  anak dari tindak kekerasan.  
+f. membangun jejaring dan kerjasama dengan aparatur  penegak hukum, aparatur pemerintah, perguruan tinggi dan lembaga swadaya masyarakat yang bergerak dan/atau peduli terhadap perempuan dan anak; dan  
+g. membuka pos pangaduan perlindungan perempuan dan  anak dari tindak kekerasan.  
 
 #### Pasal 17
 
@@ -230,7 +237,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh SKPD sebagaimana  dimaksud pada ayat (1), dilaksanakan secara terpadu dan  berkesinambungan berdasarkan Rencana Aksi Daerah.  
 
 # BAB VII
@@ -247,7 +255,8 @@ Bentuk Pelayanan
 b. pelayanan medico legal merupakan bentuk layanan medis  untuk kepentingan pembuktian di bidang hukum;  
 c. pelayanan psikososial merupakan pelayanan yang  diberikan oleh pendamping dalam rangka pemulihan kondisi traumatis korban, dengan menyediakan rumah aman untuk melindungi korban dari berbagai ancaman dan intimidasi;  
 d. pemberian dukungan moral/mental untuk  mengembalikan rasa percaya diri, kekuatan sikap mental dan kemandirian dalam menghadapi dan menyelesaikan permasalahan yang menimpanya;  
-e. pemberian pelayanan dan bantuan hukum untuk  membantu korban dalam menjalani proses hukum berkaitan dengan kasus kekerasan yang dihadapinya; danf. pelayanan kemandirian ekonomi berupa pelayanan untuk  pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
+e. pemberian pelayanan dan bantuan hukum untuk  membantu korban dalam menjalani proses hukum berkaitan dengan kasus kekerasan yang dihadapinya; dan  
+f. pelayanan kemandirian ekonomi berupa pelayanan untuk  pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1),  dilaksanakan sesuai standar pelayanan minimal yang  ditetapkan Pemerintah;  
 3. Ketentuan mengenai tata cara pelayanan terhadap perempuan dan anak korban tindak kekerasan diatur dalam  Peraturan Walikota.  
 
@@ -303,7 +312,8 @@ Pemerintah Daerah wajib memfasilitasi pemberian bantuan  hukum baik di dalam mau
 
 1. Pemerintah Daerah menyediakan rumah aman yang  dirahasiakan dengan seluruh fasilitasnya yang  pembiayaannya dibebankan kepada APBD;  
 2. Pelayanan pada rumah aman diberikan kepada korban  dengan memenuhi persyaratan sebagai berikut:a. mengisi form identitas diri dan pemenuhan kebutuhan  korban;  
-b. menandatangani surat perjanjian atas kerahasiaan  keberadaan rumah aman; danc. menaati ketentuan yang ada di rumah aman.  
+b. menandatangani surat perjanjian atas kerahasiaan  keberadaan rumah aman; dan  
+c. menaati ketentuan yang ada di rumah aman.  
 3. Pelayanan yang diberikan di rumah aman meliputi konseling  kegiatan pemberdayaan dan kemandirian korban;  
 4. Fasilitas pelayanan di rumah aman juga diberikan bagi anak  korban sesuai dengan kebutuhan;  
 5. Ketentuan lebih lanjut tentang pelayanan di rumah aman  ditetapkan dalam Standar Operasional Prosedur Rumah  Aman.  
@@ -351,7 +361,8 @@ Mekanisme Pelayanan
 #### Pasal 33
 
 Penanganan anak yang berhadapan dengan hukum meliputi:  a. anak sebagai pelaku;  
-b. anak sebagai korban; danc. anak sebagai saksi tindak pidana.  
+b. anak sebagai korban; dan  
+c. anak sebagai saksi tindak pidana.  
 
 #### Pasal 34
 
@@ -363,14 +374,16 @@ d. proses penyidikan dan penyerahan berkas perkara kepada Jaksa Penuntut Umum di
 e. dalam hal Jaksa Penuntut Umum berpendapat bahwa dari  hasil penyidikan dan hasil penelitian kemasyarakatan dapat  dilakukan penuntutan dengan cara pendekatan keadilan  restoratif, maka Jaksa Penuntut Umum segera melimpahkan  berkas perkara ke Pengadilan Negeri;  
 f. setelah menerima pelimpahan dari Jaksa Penuntut Umum,  Hakim segera melaksanakan sidang anak dengan acara  pendekatan keadilan restoratif;  
 g. apabila putusan pengadilan berupa tindakan, maka Balai  Pemasyarakatan wajib melakukan pembimbingan dan  pengawasan;  
-h. pembimbingan, pembinaan dan perawatan di Balai  Pemasyarakatan, Rumah Tahanan dan Lembaga  Pemasyarakatan dilaksanakan secara terpadu dengan  melibatkan instansi terkait; dani. dalam hal putusan pengadilan menyerahkan anak yang  berhadapan dengan hukum kepada Dinas Sosial, maka  Dinas Sosial wajib menerima dan menyiapkan saranan dan  prasarana dalam rangka pemulihan dan rehabilitasi sosial  anak.  
+h. pembimbingan, pembinaan dan perawatan di Balai  Pemasyarakatan, Rumah Tahanan dan Lembaga  Pemasyarakatan dilaksanakan secara terpadu dengan  melibatkan instansi terkait; dan  
+i. dalam hal putusan pengadilan menyerahkan anak yang  berhadapan dengan hukum kepada Dinas Sosial, maka  Dinas Sosial wajib menerima dan menyiapkan saranan dan  prasarana dalam rangka pemulihan dan rehabilitasi sosial  anak.  
 
 #### Pasal 35
 
 Perlakuan terhadap anak sebagai korban tindak pidana  sebagaimana dimaksud dalam Pasal 33 huruf b, sebagai berikut:  
 a. segera setelah menerima laporan dari korban tindak pidana, penyidik melakukan interview awal;  
 b. dalam melakukan wawancara, penyidik memperhatikan  situasi dan kondisi korban;  
-c. apabila korban memerlukan perawatan lebih lanjut, setelah  wawancara awal maka korban dapat dirawat atau  ditempatkan pada ruang khusus (sementara) untuk  pelayanan lain yang diperlukan seperti perawatan medik,  psikologi atau pemeriksaan dalam rangka proses  penyelidikan dan penyidikan; dand. setelah korban sembuh dan seluruh pelayanan termasuk  proses hukumnya selesai, korban dapat dipulangkan atau  dititipkan pada rumah perlindungan sosial anak, rumah  aman, pusat trauma, untuk rehabilitasi sosial dan mental.  
+c. apabila korban memerlukan perawatan lebih lanjut, setelah  wawancara awal maka korban dapat dirawat atau  ditempatkan pada ruang khusus (sementara) untuk  pelayanan lain yang diperlukan seperti perawatan medik,  psikologi atau pemeriksaan dalam rangka proses  penyelidikan dan penyidikan; dan  
+d. setelah korban sembuh dan seluruh pelayanan termasuk  proses hukumnya selesai, korban dapat dipulangkan atau  dititipkan pada rumah perlindungan sosial anak, rumah  aman, pusat trauma, untuk rehabilitasi sosial dan mental.  
 
 #### Pasal 36
 
@@ -398,7 +411,8 @@ b. Pemerintah Provinsi;
 c. Pemerintah Kabupaten/Kota lain; dan/ataud. Lembaga non pemerintah.  
 2. Kerja sama sebagaimana dimaksud pada ayat (1)  ditindaklanjuti sesuai dengan hukum yang berlaku, meliputi:a. pertukaran data dan informasi;  
 b. penyediaan barang bukti dan saksi;  
-c. rehabilitasi korban tindak kekerasan; dand. pemulangan dan reintegrasi sosial.  
+c. rehabilitasi korban tindak kekerasan; dan  
+d. pemulangan dan reintegrasi sosial.  
 3. Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat (2)  dituangkan dalam bentuk Kesepakatan Bersama.  
 
 ## Bagian Kedua
@@ -432,7 +446,8 @@ c. bantuan pendidikan bagi anak korban tindak kekerasan;  dand. menumbuhkan dan 
 2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  a. pedoman dan standar pelayanan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) dalam  rangka mewujudkan tujuan perlindungan perempuan dan  anak korban tindak kekerasan sesuai standar pelayanan  minimal yang dilaksanakan SKPD/P2TP2A dan masyarakat.  
 
 #### Pasal 41

@@ -214,7 +214,8 @@ Tanggung jawab terhadap Perlindungan anak
 a. Mengasuh, memelihara, mendidik dan melindungi anak;  
 b. Menumbuhkembangkan anak sesuai dengan kemampuan, bakat dan minatnya;  
 c. Memberikan pendidikan formal dan non formal;  
-d. Membimbing anak berprilaku sesuai dengan agama, etika dan moral serta adat istiadat; dane. Mencegah terjadinya perkawinan pada usia anak' (2)Dalamhalorangtuatidakada,ataulidakdiketahuikeberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapal beralih pada keluarga' ,llL I
+d. Membimbing anak berprilaku sesuai dengan agama, etika dan moral serta adat istiadat; dan  
+e. Mencegah terjadinya perkawinan pada usia anak' (2)Dalamhalorangtuatidakada,ataulidakdiketahuikeberadaannya, atau karena suatu sebab, tidak dapat melaksanakan kewajiban dan tanggung jawabnya, maka kewajiban dan tanggung jawab sebagaimana dimaksud pada ayat (1) dapal beralih pada keluarga' ,llL I
 
 # BAB V
 
@@ -231,13 +232,15 @@ b. Menyediakaa pedoman tentang penanganan tindakan kekerasan terhadap perempuan;
 c. Melibatkan peran serta masyarakat dalam pemulihan dan reintegrasi sosial;  
 d. Mengembangkan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap perempuan;  
 e. Mengembangkan program pemberdayaan keluarga;  
-f. Penguatan fungsi organisasi kemasyarakatan yalg bergerak dibidang pembe rdayaan perempuan; dang. Menyediakan fasilitas umum yang nyaman dan aman untuk perempuan.  
+f. Penguatan fungsi organisasi kemasyarakatan yalg bergerak dibidang pembe rdayaan perempuan; dan  
+g. Menyediakan fasilitas umum yang nyaman dan aman untuk perempuan.  
 2. Dalam rangka mencegah terjadinya pelanggaran terhadap hak anak, Pemerintah Daerah:a. Melakukan upaya pencegahan tindak kekerasan terhadap anak dengan mengoptimalkan peran lembaga adat, budaya, agama dan organisasi kemasYarakatan ;  
 b. Mengembangkan sekolah ramah anak;  
 c. Mendorong peningkatan partisipasi anak meialui pembentukan forum anak;  
 d. Menyediakan p"do*un tentang penanganan tindak kekerasan terhadap anak;  
 e. Melibatkan peran serta masyarakat dalam layanan pemulihan dan reintegrasi anak korban kekerasan.  f. Mengembangkan database dan sistem informasi yang terintegrasi tentang tindak kekerasan terhadap anak;  
-g. Penguatan fungsi organisasi kemasyarakatan yang bergerak dibidang perlindungan anak; danh. Mewujudkan pengembangan Kota Layak Anak' Mewujudkan Ruang Publik Terbuka Ramah Anak (RPTRA).  
+g. Penguatan fungsi organisasi kemasyarakatan yang bergerak dibidang perlindungan anak; dan  
+h. Mewujudkan pengembangan Kota Layak Anak' Mewujudkan Ruang Publik Terbuka Ramah Anak (RPTRA).  
 
 ## Bagian kedua
 
@@ -246,8 +249,10 @@ Masyarakat
 #### Pasal 14
 
 1. Dalam rangka pencegahan terjadinya pelaaggaran terhadap hal< perempuan, masyarakat:a. Mengawasi berbagai kondisi yang terjadi dilingkungannya yang dapat menimbulkan pelanggaran terhadap hak perempuan;  
-b. Menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; danc. Mencegah pemikahan dibawah tangan/ nikah siri (2) Dalam rangka pencegahan terjadinya pelanggaran terhadap hak anak, masyarakat:a. Mengawasi berbagai kondisi yang terjadi dilingkungan yang menimbulkan pelanggaran terhadap hak anak;  
-b. Menguatkan peran organisasi kemasyarakatan, keagamaan dan iingkungan keluarga; danc. Mencegah terjadinya perkawinan pada usia anak.  
+b. Menguatkan peran organisasi kemasyarakatan, keagamaan dan lingkungan keluarga; dan  
+c. Mencegah pemikahan dibawah tangan/ nikah siri (2) Dalam rangka pencegahan terjadinya pelanggaran terhadap hak anak, masyarakat:a. Mengawasi berbagai kondisi yang terjadi dilingkungan yang menimbulkan pelanggaran terhadap hak anak;  
+b. Menguatkan peran organisasi kemasyarakatan, keagamaan dan iingkungan keluarga; dan  
+c. Mencegah terjadinya perkawinan pada usia anak.  
 
 ## Bagian ketiga
 
@@ -257,8 +262,10 @@ Orang tua, keluarga dan/atau wali
 
 1. Dalam rangka mencegah terjadinya pelanggaran terhadap hak anak, orang tua atau wali:a. Memberikan tauladan yang baik kepada anak sesuai ajaran agama dan adat;  
 b. Mengawasi anak dalam tieraktifitas di dalam ataupun diluar rumah;  
-c. Memberikan peluang bagi anak berdialog menyarnpaikar pendapat secara demokratis; dand. Melindungi anak dari berbagai tindak pelanggaran hak anak dalam rumah tangga.  
-2. Dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan, keluarga:a. Melindungi perempuan dari berbagai pelanggaran hak dalam rumah tangga; danb. Mendorong terbentuknya keluarga yang harmonis, edukatif dan demokratis.  
+c. Memberikan peluang bagi anak berdialog menyarnpaikar pendapat secara demokratis; dan  
+d. Melindungi anak dari berbagai tindak pelanggaran hak anak dalam rumah tangga.  
+2. Dalam rangka mencegah terjadinya pelanggaran terhadap hak perempuan, keluarga:a. Melindungi perempuan dari berbagai pelanggaran hak dalam rumah tangga; dan  
+b. Mendorong terbentuknya keluarga yang harmonis, edukatif dan demokratis.  
 
 # BAB VI
 
@@ -311,7 +318,8 @@ d. Semua pekerjaan yang membahayakan kesehatan, keselamatan dan moral perempuan,
 
 1. Pekerja/ buruh perempuan yang berumur kurang dari 18 (delapan belas) tahun dilarang dipekerjakan antara pukui 23.00 WIB sampai dengan 07.00 wIB.  
 2. Pengusaha dilarang mempekerjakan pekerja/buruh perempuan hamil yang menurut keterangan dokter berbahaya bagi kesehatan dan keselamatan kandungannya maupun dirinya apabila bekerja antara pukui 23.00 WIB sampai dengan 07.00 WIB.  
-3. Pengusaha yarg mempekerjakan pekerja/buruh perempuan antara pukul 23.00 WIB sampai dengan 07.00 WIB, wajib:a. Memberikan makanan minuman bergizi; danb. Menjaga kesusilaan dan keamanan selama di tempat kerja' (4) Pengusaha wajib menyediakan angkutan antar .jemput bagi pekerja/ buruh perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB samPai dengan 05.00 WIB.  
+3. Pengusaha yarg mempekerjakan pekerja/buruh perempuan antara pukul 23.00 WIB sampai dengan 07.00 WIB, wajib:a. Memberikan makanan minuman bergizi; dan  
+b. Menjaga kesusilaan dan keamanan selama di tempat kerja' (4) Pengusaha wajib menyediakan angkutan antar .jemput bagi pekerja/ buruh perempuan yang berangkat dan pulang bekerja antara pukul 23.00 WIB samPai dengan 05.00 WIB.  
 
 ### Paragraf 5
 
@@ -459,7 +467,8 @@ Penanganan Perempuan dan anak korban kekerasan
 
 1. Pengaduan tindak kekerasan terhadap perempuar dan anak dapat dilakukan oleh pelapor yang terdiri atas korban, keluargil, masyarakat danlatau organisasi kemasyarakatan di bidang perlindungan perempuan dan aaak.  
 2. Pelapor sebagaimana dimaksud pada ayat (1) dapat melakukan pengaduan;  
-a. Secara langsung.  b. Melalui teiePon; danc. Melalui surat.  
+a. Secara langsung.  b. Melalui teiePon; dan  
+c. Melalui surat.  
 3. Selain penanganan pengaduan yang disampaikan oleh peiapor , petugas pada lembaga pelayanan sebagaimana dimaksud dalam Pasal 43, juga berwenang melakukan penanganan korban kekerasan perempuan dan anak yang diperoleh melalui informasi lainnya.  
 4. Ketentuan lebih lanjut mengenai tata cara pelayanan penangaran pengaduan sebagaimana dimaksud pada ayat ( 1) dan ayat (2) diatur dengan peraturan Walikota.  
 
@@ -546,7 +555,8 @@ Pelayanan Penegakan dan Bantuan Hukum
 #### Pasal 5 1
 
 1. Pelayanan penegakan dan bantuan hukum ditujukan untuk memberikan pendampingan dan perlindungan terhadap perempuan dan anak korban kekerasan dan saksi dengan pendekatan responsif gender agar korban mendapatkan keadilan dan kepastian hak-hak hukumnya.  
-2. Jenis pelayanan bantuan hukum meliputi:a. Bantuan hukum dan proses pelaporan dan pembuatan BAP.  b. Bantuan hukum dan proses penuntutan di Kejaksaan.  c. Bantuan hukum dan proses pemeriksaan di Pengadilan.  d. Bantuan hukum dan proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dane. Bantuan hukurn dalam proses Mediasi.  f. Bantuan hukum dalam proses Diversi.  
+2. Jenis pelayanan bantuan hukum meliputi:a. Bantuan hukum dan proses pelaporan dan pembuatan BAP.  b. Bantuan hukum dan proses penuntutan di Kejaksaan.  c. Bantuan hukum dan proses pemeriksaan di Pengadilan.  d. Bantuan hukum dan proses putusan sidang pengadilan sampai adanya keputusan hukum tetap; dan  
+e. Bantuan hukurn dalam proses Mediasi.  f. Bantuan hukum dalam proses Diversi.  
 3. Pemerintah Daerah memberikan bantuan hukum kepada anak dan perempuan korban kekerasan.  
 4. Dalam pemberian bantuan hukum sebagaimana dimaksud pada ayat (3) Pemerintah Daerah dapat bekerjasama dengan Lembaga Bantuan Hukum ( LBH ), Women Crisis Centre ( WCC ) Advokat dan/atau pendamping hukum lainnya yang responsif gender.  
 

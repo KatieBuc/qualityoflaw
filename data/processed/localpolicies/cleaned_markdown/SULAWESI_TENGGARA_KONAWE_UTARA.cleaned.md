@@ -84,7 +84,8 @@ Perempuan berhak mendapatkan:
 a. perlindungan dalam bidang ketenagakerjaan;  
 b. pelayanan dalam bidang kesehatan;  
 c. kesetaraan dalam bidang pendidikan;  
-d. perlindungan dalam perkawinan dan keluarga; dane. kesetaraan kehidupan publik dan politik.  
+d. perlindungan dalam perkawinan dan keluarga; dan  
+e. kesetaraan kehidupan publik dan politik.  
 
 ## Bagian Kedua
 
@@ -138,7 +139,8 @@ Orang Tua dan Keluarga
 
 1. Orang tua wajib:a. mengasuh, memelihara, mendidik, dan melindungi Anak;  
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat dan  minatnya;  
-c. mencegah terjadinya perkawinan pada usia anak; dand. memberikan pendidikan karakter dan penanaman nilai budi pekerti  padaAnak.  
+c. mencegah terjadinya perkawinan pada usia anak; dan  
+d. memberikan pendidikan karakter dan penanaman nilai budi pekerti  padaAnak.  
 2. Dalam hal orang tua tidak ada, atau tidak diketahui keberadaannya, atau  karena suatu sebab tidak dapat melaksanakan kewajiban dan  tanggungjawabnya, maka kewajiban dan tanggungjawab dimaksud pada  ayat (1) dapat beralih kepada keluarga pengganti.  
 
 # BAB IV
@@ -197,13 +199,15 @@ h. layanan informasi mengenai putusan pengadilan;
 
 J. layanan pendampingan kompensasi dan restitusi;  
 k. layanan rumah aman;  
-1. layanan perlindungan khusus anak; danm. layanan reintegrasi sosial.  
+1. layanan perlindungan khusus anak; dan  
+m. layanan reintegrasi sosial.  
 2. Penyelenggaraan layanan terhadap korban, dilakukan dengan prinsip:  a. cepat, aman, dan empati;  
 b. mengutamakan kepentingan korban;  
 c. kepentingan terbaik bagi anak;  
 d. tidak membeda-bedakan asal usul Korban/non-diskriminasi;  
 e. adanya jaminan kerahasiaan;  
-f. mudah dijangkau; dang. tidak dipungut biaya.  
+f. mudah dijangkau; dan  
+g. tidak dipungut biaya.  
 3. Ketentuan lebih lanjut menganai tata cara dan standar operasioal  prosedur layanan perlindungan terhadap Korban sebagaimana dimaksud  pada ayat (1) diatur dalam Peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -218,7 +222,8 @@ b. pembukaan aksebilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, pen
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat untuk melaksan  akan pencegahan dan perlindungan terhadap per empuan dan anak  dari kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga  swadaya masyarakat yang bergerak dan/ atau peduli terhadap  perempuan dan anak; dang. membuka layanan pengaduan untuk perlindungan terhadap  perempuandan anak dari kekerasan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi dan berbagai lembaga  swadaya masyarakat yang bergerak dan/ atau peduli terhadap  perempuan dan anak; dan  
+g. membuka layanan pengaduan untuk perlindungan terhadap  perempuandan anak dari kekerasan.  
 
 #### Pasal 12
 
@@ -227,7 +232,8 @@ b. kesehatan;
 c. pendidikan;  
 d. ketenagakerjaan;  
 e. pemberdayaan perempuan dan perlindungan anak;  
-f. mental dan spiritual; dang. ketentraman dan ketertiban.  
+f. mental dan spiritual; dan  
+g. ketentraman dan ketertiban.  
 2. Pencegahan kekerasan oleh perangkat Daerah sebagaimana dimaksud  pada ayat ( 1), wajib disusun oleh Pemerintah Daerah dan  dilaksanakan secara terpadu dan berkesinambungan berdasarkan  Rencana Aksi Daerah sebagai perwujudan dari penerapan Rencana  Kerja dan Rencana Strategis Perangkat Daerah berupa program dan  kegiatan yang tertuang dalam Rencana Pembangunan Jangka Panjang  Daerah dan Rencana Pembangunan Jangka Menengah Daerah.  
 
 ## Bagian Keempat
@@ -237,7 +243,8 @@ Perlindungan Khusus Anak
 #### Pasal 13
 
 1. Perlindungan Khusus diberikan terhadap Anak dalam situasi darurat  yang meliputi:a. pengungsi anak;  
-b. anak korban bencana alam; danc. anak korban kerusuhan.  
+b. anak korban bencana alam; dan  
+c. anak korban kerusuhan.  
 2. Penanganan perlindungan khusus terhadap Anak dalam situasi darurat  sebagaimana dimaksud pada ayat (1) dilakukan secara koordinatif antara  Pemerintah Provinsi, Kabupaten/Kota dan masyarakat.  
 3. Penanganan pengungsi Anak sebagaimana dimaksud pada ayat ( 1) huruf  a dilakukan tanpa memandang status kewarganegaraan dan berhak  mendapat pelayanan dasar.  
 4. Penanganan Anak sebagaimana dimaksud pada ayat (1) huruf b dan  huruf c mencakup tempat tinggal yang layak, pemulihan baik fisik  maupun kejiwaan, pemenuhan nutrisi, pendidikan, kesehatan, tempat  bermain Anak, dan pencegahan dari kekerasan dan eksploitasi.  
@@ -252,12 +259,14 @@ yang berhadapan (2) Pemerintah Daerah wajib memberikan perlindungan clan fasilit
 
 3. Perlindungan dan fasilitas sebagaimana dimaksud pada ayat (2) meliputi:  a. perlindungan dari pelabelan negatif, publikasi, ancaman dan bentuk  lain yang merugikan Anak;  
 b. fasilitas pelayanan kesehatan fisik dan psikis, pendidikan dan  pelatihan, tempat tinggal yang aman atau rumah sosial perlindungan  Anak;  
-c. menyediakan pendamping/ petugas layanan yang profesional dan  terlatih dalam mendampingi kasus Anak; dand. menyediakan unit layanan khusus berbentuk rumah perlindungan  sosial bagi Anak.  
+c. menyediakan pendamping/ petugas layanan yang profesional dan  terlatih dalam mendampingi kasus Anak; dan  
+d. menyediakan unit layanan khusus berbentuk rumah perlindungan  sosial bagi Anak.  
 
 #### Pasal 15
 
 Perlindungan Khusus bagi Anak dari kelompok minoritas dan terisolasi  dilakukan melalui:  
-a. penyediaan sarana dan prasarana untuk dapat menikmati budayanya  sendiri; danb. mengakui dan melaksanakan ajaran agamanya sendiri  menggunakan bahasanya sendiri tanpa mengabaikan  pembangunan masyarakat dan budaya.  
+a. penyediaan sarana dan prasarana untuk dapat menikmati budayanya  sendiri; dan  
+b. mengakui dan melaksanakan ajaran agamanya sendiri  menggunakan bahasanya sendiri tanpa mengabaikan  pembangunan masyarakat dan budaya.  
 
 #### Pasal 16
 
@@ -265,7 +274,8 @@ serta  akses (1) Perlindungan khusus diberikan terhadap anak yang tereksploitasi
 a. bentuk pekerjaan terburuk untuk Anak;  
 b. anak korban tindak pidana perdagangan orang;  
 c. prostitusi Anak;  
-d. pornografi Anak; dane. pernikahan usia Anak.  
+d. pornografi Anak; dan  
+e. pernikahan usia Anak.  
 2. Pemerintah Daerah wajib memberikan perlindungan dan fasilitasiterhadap  anak yang tereksploitasi secara ekonomi dan/atau seksual.  (3) Perlindungan bagi anak yang tereksploitasi secara ekonomi dan/atau  seksual sebagaimana dimaksud pada ayat (2) dilakukan dengan  meliputi penyelamatan, pemulihan, dan reintegrasi.  
 4. Ketentuan mengenai prosedur dan tata cara pemberian perlindungan dan  fasilitas sebagaimana dimaksud pada ayat ( 1) dan ayat (2) diatur dengan  Peraturan Bupati.  
 
@@ -307,7 +317,8 @@ k. relawan pendamping;
 m. lembaga non pemerintah;  
 n. pemerintah kabupaten/kota lain;  
 o. masyarakat;  
-p. perguruan tinggi; danq. media massa.  
+p. perguruan tinggi; dan  
+q. media massa.  
 2. Kerjasama sebagaimana dimaksud pada ayat (1) dituangkan dalam  bentuk perjanjian kerjasama sesuai dengan ketentuan peraturan  perundang-undangan.  
 
 # BAB VII
@@ -330,7 +341,8 @@ d. kinerja;
 #### Pasal 21
 
 Dana untuk penyelenggaraan perlindungan terhadap Perempuan dan Anak  dari tindak kekerasan bersumber dari:  
-a. anggaran pendapatan dan belanja Daerah; danb. sumber lain yang sah.  
+a. anggaran pendapatan dan belanja Daerah; dan  
+b. sumber lain yang sah.  
 
 # BAB IX
 
@@ -341,7 +353,8 @@ a. anggaran pendapatan dan belanja Daerah; danb. sumber lain yang sah.
 1. Pemerintah Daerah wajib melakukan pembinaan dan pengawasan  penyelenggaran perlindungan perem puan dan anak.  
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1)  meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (2) dalam  rangka mewujudkan tujuan perlindungan perempuan dan anak sesuai  standar pelayanan minimal yang dilaksanakan perangkat  daerah/lembaga terkait dan masyarakat.  
 4. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (3)  dilakukan dengan prinsip profesional dan transparan.  
 5. Dinas terkait wajib melaporkan secara berkala kepada Bupati  mengenai penyelenggaraan perlindungan perempuan dan anak.  
@@ -423,7 +436,8 @@ Tujuan penyelenggaran perlindungan perempuan dan anak adalah:  a. Mecegah segala
 b. Memberikan perlindungan dan pelayanan terhadap perempuan dan  anak korban kekerasan;  
 c. Memberikan rasa aman terhadap perempuan dan anak korban  kekerasan;  
 d. Memulihkan kondisi fisik, psikis dan ekonomi perempuan dan anak  korban kekerasan;  
-e. Kepentingan terbaik bagi perempuan dan anak korban kekerasan  yang terjadi di ranah domestik dan/ atau publik; danf. Menindak pelaku kekerasan terhadap perempuan dan anak.  Melalui pengaturan perlindungan terhadap Perempuan dan Anak diharapkan  semua pihak dapat lebih mengimplementasikan pemenuhan hak-hak  perempuan dan anak serta perlindungannya sehingga dapat dilaks anakan  lebih komprehensif, terintegrasi dan berkesinambungan baik unsur  pemerintah, keluarga dan masyarakat serta lembaga-lembaga lain yang  terkait dengan usaha perlindungan Perempuan dan Anak.  
+e. Kepentingan terbaik bagi perempuan dan anak korban kekerasan  yang terjadi di ranah domestik dan/ atau publik; dan  
+f. Menindak pelaku kekerasan terhadap perempuan dan anak.  Melalui pengaturan perlindungan terhadap Perempuan dan Anak diharapkan  semua pihak dapat lebih mengimplementasikan pemenuhan hak-hak  perempuan dan anak serta perlindungannya sehingga dapat dilaks anakan  lebih komprehensif, terintegrasi dan berkesinambungan baik unsur  pemerintah, keluarga dan masyarakat serta lembaga-lembaga lain yang  terkait dengan usaha perlindungan Perempuan dan Anak.  
 
 Peraturan Daerah ini mengatur upaya penyelenggaraan perlindungan bagi  perempuan dan anak khususnya dalam hal pelayanan, pemantauan dan  evaluasi, pelaporan, pendanaan, pembinaan dan pengawasan terhadap  perempuan dan anak korban kekerasan di Kabupaten Konawe Utara.  
 

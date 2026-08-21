@@ -25,11 +25,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak berhak  memperoleh perlindungan atas setiap tindakan kekerasan yang  dilakukan terhadapnya yang dapat menimbulkan korban fisik  maupun psikhis, sebagai bagian dari pengakuan dan penegakan  Hak Asasi Manusia;  
 b. bahwa jumlah tindakan kekerasan terhadap perempuandan anak di  Kabupaten Maluku Tenggara Barat cukup tinggi, sedangkan  perlindungan dan pelayanan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuandan Anak Korban  Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -139,7 +141,8 @@ e. pelayanan psikososial;
 f. informasi;  
 g. pelayanan identifikasi;  
 h. rehabilitasi sosial;  
-i. pemulangan; danj. reintegrasisosial.  
+i. pemulangan; dan  
+j. reintegrasisosial.  
 
 #### Pasal 5
 
@@ -180,7 +183,8 @@ Pasal9 (1) Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pa
 b. menumbuhkembangkan anak sesuai dengan kemampuan, bakat dan  minatnya;  
 c. mencegah terjadinya perkawinan pada usia anak-anak;  
 d. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
-e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak korban kekerasan kepada penegak hukum atau pihak  yangberwenang; danf. turut serta dalam penanganan korban tindak kekerasan.  
+e. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak korban kekerasan kepada penegak hukum atau pihak  yangberwenang; dan  
+f. turut serta dalam penanganan korban tindak kekerasan.  
 2. Dalam ha! orang tua tidak ada, atau tidak diketahui keberadaannya, atau karena  suatu sebab, tidak dapat meaksanakan kewajiban dan tanggungjawabnya, maka  kewajiban dan tanggung jawabnya sebagaimana dimaksud pada ayat (1), dapat  beralih kepala keluarga, yang dilaksanakan sesuai dengan ketentuan Peraturan  Perundang-undangan yang berlaku;  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2) dilaksanakan secara bertanggungjawab sesuai dengan Peraturan Perundang • undangan.  
 
@@ -212,7 +216,8 @@ a. pelayanan medis berupa perawatan dan pemulihan kondisi fisik yang  dilakukan 
 b. pelayanan medicolegal merupakan bentuk layanan medis untuk kepentingan  pembuktian di bidang hukum;  
 c. pertolongan psikososial pertama pada korban dilakukan untuk identifikasi  terjadinya kekerasan dan traumatis yang dialami korban;  
 d. pelayanan hukum untuk membantu korban dalam menjalani proses  peradilan;  
-e. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga  kompeten yang mempunyai keahlian untuk melakukan konseling, terapi dan  advokasi guna penguatan dan pemulihan korban kekerasan dan telah  bekerjasama dengan P2TP2A; danf. pelayanankemandirian ekonomi berupa layanan untuk pelatihan ketrampilan  dan memberikan akses ekonomi agar korban dapat mandiri.  
+e. pendampingan korban kekerasan yang dilakukan oleh orang atau lembaga  kompeten yang mempunyai keahlian untuk melakukan konseling, terapi dan  advokasi guna penguatan dan pemulihan korban kekerasan dan telah  bekerjasama dengan P2TP2A; dan  
+f. pelayanankemandirian ekonomi berupa layanan untuk pelatihan ketrampilan  dan memberikan akses ekonomi agar korban dapat mandiri.  
 2. Mekanisme pelayanan sebagaimana dimaksud pada ayat (l), diselenggarakan  menurut Standar Operasional Prosedur (SOP) dan diatur lebih lanjut dengan  peraturan Bupati.  
 
 ## Bagian Ketiga
@@ -245,7 +250,8 @@ b. Mernberikan rnasukan dalarn perurnusan kebijakan yang terkait  perlindungan a
 c. Melaporkan kepada pihak berwenang jika terjadi pelanggaran hak anak dan  perernpuan korban kekerasan;  
 d. Berperan aktif dalarn proses rehabilitasi dan reintegrasi sosial bagi anak dan  perernpuan korban kekerasan;  
 e. Melakukan pernantauan, pengawasan, dan ikut bertanggungjawab terhadap  penyelenggaraan perlindungan anak dan perempuan korban kekerasan;  
-f. Berperan aktif dengan rnenghilangkan pelabelan negatif terhadap anak dan  perernpuan korban kekerasan; dang. Mernberikan ruang kepada anak dan perernpuan korban kekerasan untuk  dapat berpartisipasi dan rnenyampaikan pendapat.  
+f. Berperan aktif dengan rnenghilangkan pelabelan negatif terhadap anak dan  perernpuan korban kekerasan; dan  
+g. Mernberikan ruang kepada anak dan perernpuan korban kekerasan untuk  dapat berpartisipasi dan rnenyampaikan pendapat.  
 4. Peran organisasi kernasyarakatan dan lernbaga pendidikan sebagairnana  dirnaksud pada ayat (2) dilakukan dengan cara rnengambil langkah yang  diperlukan sesuai tugas, fungsi, dan kewenangan rnasing-rnasing untuk  rnernbantu penyelenggaraan anak dan perernpuan korban kekerasan.  
 5. Peran media masa sebagaimana dimaksud pada ayat (2) dilakukan melalui  penyebarluasan informasi dan materi edukasi yang bermanfaat dari aspek sosial,  budaya, pendidikan, agama, dan kesehatan anak dan perempuan korban  kekerasan dengan memperhatikan kepentingan anak dan perempun korban  kekerasan.  
 6. Peran dunia usaha sebagaimana dimaksud pada ayat (2) dilakukan melalui:  a. Kebijakan perusahaan yang prespektif anak dan perempuan korban  kekerasan;  
@@ -262,7 +268,8 @@ c. Berkontribusi dalam pemenuhan hak anak dan perempuan korban  kekerasan melalu
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat (1) meliputi:  a. Pedoman dan standar pemulihan;  
 b. Bimbingan teknis dan pelatihan;  
 c. Penyediaan fasilitas;  
-d. Pemantauan; dane. Evaluasi.  
+d. Pemantauan; dan  
+e. Evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2) dalam rangka mewujudkan  tujuan perlindungan perempuan dan anak korban kekerasan sesuai standar  pelayanan minimal;  
 4. Pengawasan terhadap pelaksanaan Peraturan Daerah ini dilakukan oleh  Pemerintah Daerah dan/ atau masyarakat sesuai ketentuan peraturan  perundang-undangan yang berlaku.  
 

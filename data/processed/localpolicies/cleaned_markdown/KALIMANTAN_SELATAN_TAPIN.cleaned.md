@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan dalam proses penerusan dan penciptaan generasi yang berkualitas perlu mendapatkan jaminan terhadap pemenuhan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi;  
 b. bahwa selain perlindungan sebagaimana dimaksud dalam huruf a, perempuarl perlu diberdayakan agar dapat mengakhralisasikan potensinya secara optimal untuk berperan serta dalam pembangunan;  
 c. batrwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan hurrrf b, perlu menetapkan Peraturan Daerah tentang Perlindungan dan Pemberdayaan Perempuan;  
@@ -89,13 +90,15 @@ ll.Disabilitas adalah kelainan fisik, mentel dan intelektual, atau sensorik seca
 Perlindungan dan Pemberdayaan Perempuan berasaskan pada:  
 a. penghormatan terhadap Hak Asasi Manusia;  
 b. keadilan dan kesetaraan gender;  
-c. non diskriminasi; dand. perlindungan.  
+c. non diskriminasi; dan  
+d. perlindungan.  
 
 #### Pasal 3
 
 T\rjuan Perlindungan dan Pemberdayaan Perempuan adalatr untuk:  
 a. mencegah dan menangani risiko dari kerentanan perempuan agar kelangsungan hidupnya dapat dipenuhi sesuai dengan kebutuhan dasar minimal;  
-b. rn-emberdayakan perempuan baik secara individual maupun kelompok, dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannya secara mandiri; danc. meningkatkan peran serta perempuan baik secara individual maupun kelompok sebagai potensi dan sumber daya dalam penyelenggaraan hidup sosial kemasyarakatan.  
+b. rn-emberdayakan perempuan baik secara individual maupun kelompok, dan masyarakat yang mengalami masalah gender agar mampu memenuhi kebutuhannya secara mandiri; dan  
+c. meningkatkan peran serta perempuan baik secara individual maupun kelompok sebagai potensi dan sumber daya dalam penyelenggaraan hidup sosial kemasyarakatan.  
 
 # BAB III
 
@@ -122,7 +125,8 @@ Bagtan Kedua Bidang PoltttL
 #### Pasal 5
 
 Dalam hal politik, perempuan berhak:  
-a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan kepala daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung, lrmum, bebas, rahasia, jujur dan adil menurut perahrran penrndang-undangan yang berlaku; danb. untuk diangkat dalam setiap jabatan pemerintatran.  
+a. memilih dan/atau dipilih dalam pemilihan umum, pemilihan kepala daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung, lrmum, bebas, rahasia, jujur dan adil menurut perahrran penrndang-undangan yang berlaku; dan  
+b. untuk diangkat dalam setiap jabatan pemerintatran.  
 
 # BAB IV
 
@@ -240,7 +244,8 @@ Peran serta masyarakat sebagaimana dimaksud pada ayat (1) (2t dapat dilakukan ol
 
 Peran serta masyarakat sebagaimana dimaksud pada ayat (l) (3) dapat berbentuk:  
 a. kerjasama;  
-b. peran aktif dalam penJrusunan kebijakan; danc. pengaduan/laporan.  
+b. peran aktif dalam penJrusunan kebijakan; dan  
+c. pengaduan/laporan.  
 
 Tata cara peran serta masyarakat sebagaimana dimaksud pada (4) ayat (3) diattr dengan Perattrran Bupati.  
 

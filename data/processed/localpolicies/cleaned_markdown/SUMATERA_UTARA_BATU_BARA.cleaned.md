@@ -27,6 +27,7 @@ Menimbang:
  
  
  
+ 
 a. b.  
 c. d. bahwa setiap warga negara berhak mendapatkan rasa aman dan bebas dari segala bentuk Kekerasan;  
 
@@ -106,13 +107,15 @@ Perlindungan Perempuan dan Anak Korban Kekerasan, dilaksanakan berdasarkan asas:
 a. penghormatan dan pemenuhan terhadap hak-hak Korban;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi;  
-d. kepentingan terbaik bagi korban; dane. kepastian hukum.  
+d. kepentingan terbaik bagi korban; dan  
+e. kepastian hukum.  
 
 #### Pasal 3
 
 Perlindungan Perempuan dan Anak Korban Kekerasan bertujuan:  
 a. mencegah segala bentuk kekerasan terhadap perempuan dan anak;  
-b. melindungi perempuan dan memberikan pelayanan kepada perempuan dan anak korban kekerasan; danc. pemberdayaan perempuan dan anak korban kekerasan.  
+b. melindungi perempuan dan memberikan pelayanan kepada perempuan dan anak korban kekerasan; dan  
+c. pemberdayaan perempuan dan anak korban kekerasan.  
 
 # BAB III
 
@@ -128,7 +131,8 @@ b. untuk mendapatkan perlindungan dari keluarga, masyarakat, Pemerintah Daerah d
 c. atas pemulihan kesehatan fisik, psikologis maupun seksual sesuai penderitaan yang dialami korban kekerasan;  
 t.: l H .  d. atas penanganan secara khusus berkaitan dengan kerahasiaan korban;  
 e. atas pendampingan oleh pekerja sosial dan bantuan hukum pada setiap tingkat proses pemeriksaan sesuai dengan ketentuan peraturan perundang-undangan;  
-f. atas pelayanan bimbingan rohani; dang. menentukan sendiri keputusannya.  
+f. atas pelayanan bimbingan rohani; dan  
+g. menentukan sendiri keputusannya.  
 
 # BAB IV
 
@@ -149,7 +153,8 @@ e. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak korban 
 2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud pada ayat (1) diselenggarakan dalam bentuk:a. mencegah teijadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan terhadap korban;  
 c. memberikan pertolongan darurat;  
-d. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada. pihak yang berwenang; dane. turut serta dalam penanganan korban kekerasan.  
+d. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada. pihak yang berwenang; dan  
+e. turut serta dalam penanganan korban kekerasan.  
 
 # BAB V
 
@@ -192,7 +197,8 @@ SPM Bidang Layanan Terpadu bagi perempuan dan anak korban kekerasan, meliputi la
 a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
 c. rehabilitasi Sosial bagi perempuan dan anak korban kekerasan;  
-d. penegakan dan bantuan hukum bagi perempuan dan anak korban kekerasan; dane. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
+d. penegakan dan bantuan hukum bagi perempuan dan anak korban kekerasan; dan  
+e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
 
 S'
 
@@ -205,7 +211,8 @@ c. cakupan layanan Rehabilitasi Sosial yang diberikan oleh petugas Rehabilitasi 
 d. cakupan layanan bimbingan rohani yang diberikan oleh petugas bimbingan rohani terlatih bagi perempuan dan anak —* korban kekerasan di dalam unit pelayanan terpadu;  
 e. cakupan penegakan hukum dari tingkat penyidikan sampai dengan putusan pengadilan atas kasus-kasus kekerasan terhadap perempuan dan anak;  
 f. cakupan perempuan dan anak korban kekerasan yang mendapatkan layanan bantuan hukum;  
-g. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan; danh. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
+g. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan; dan  
+h. cakupan layanan reintegrasi sosial bagi perempuan dan anak korban kekerasan.  
 
 # BAB VII
 
@@ -240,7 +247,8 @@ g. cakupan layanan pemulangan bagi perempuan dan anak korban kekerasan; danh. ca
 #### Pasal 14
 
 Pendanaan untuk penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan, bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah; danb. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah; dan  
+b. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan peraturan perundang-undangan.  
 
 I
 
@@ -261,7 +269,8 @@ I
 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan, masyarakat dapat:a. membentuk mitra keluarga di tingkat Kelurahan/Desa oleh masyarakat;  
 b. melakukan sosialisasi hak Perempuan dan Anak secara ' mandiri;  
-c. melakukan pertolongan pertama kepada korban; dand. melaporkan kepada instansi yang berwenang apabila dilingkungannya teijadi kekerasan terhadap korban.  
+c. melakukan pertolongan pertama kepada korban; dan  
+d. melaporkan kepada instansi yang berwenang apabila dilingkungannya teijadi kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB XII

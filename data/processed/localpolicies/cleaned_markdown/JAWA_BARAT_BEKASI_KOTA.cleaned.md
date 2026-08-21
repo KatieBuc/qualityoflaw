@@ -23,11 +23,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa guna menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan, diskriminasi dan pelanggaran hak-hak perempuan dan anak lainnya, perlu dilakukan upaya upaya perlindungan terhadap perempuan dan anak;  
 b. bahwa agar upaya-upaya perlindungan terhadap  perempuan dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari Pemerintah Daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, maka perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
  
@@ -586,7 +588,8 @@ e. memfasilitasi dan melakukan mediasi terhadap sengketa rumah tangga  untuk mew
 Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap  perempuan dan anak dari tindak kekerasan, perdagangan dan eksploitasi  merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
-c. keluarga; dand. orang tua.  
+c. keluarga; dan  
+d. orang tua.  
 
 #### Pasal 41
 
@@ -626,7 +629,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan,  pendanaan, p
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perempuan dan anak dari tindak kekerasan, perdagangan  dan eksploitasi;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah diakses;  
-f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dang. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan, perdagangan dan eksploitasi.  
+f. membangun jejaring dan kerja sama dengan aparatur penegak hukum,  aparatur pemerintah, perguruan tinggi dan berbagai lembaga swadaya  masyarakat yang bergerak dan/atau peduli terhadap perempuan dan  anak; dan  
+g. membuka pos pengaduan perlindungan perempuan dan anak dari  tindak kekerasan, perdagangan dan eksploitasi.  
 
 #### Pasal 45
 
@@ -636,7 +640,8 @@ c. kesehatan;
 d. pendidikan;  
 e. ketenagakerjaan;  
 f. pemberdayaan perempuan dan pelindungan anak;  
-g. mental dan spiritual; danh. keamanan, ketentraman dan ketertiban.  
+g. mental dan spiritual; dan  
+h. keamanan, ketentraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Instansi dan lembaga terkait  sebagaimana dimaksud pada ayat (1), dilaksanakan secara terpadu dan  berkesinambungan berdasarkan Rencana Aksi Daerah.  
 
 # BAB XIV
@@ -652,7 +657,8 @@ b. pelayanan kesehatan;
 c. bantuan hukum;  
 d. pemulangan;  
 e. rehabilitasi, reintegrasi sosial, dan medikolegal;  
-f. pelayanan identifikasi; dang. pelayanan psikologis.  
+f. pelayanan identifikasi; dan  
+g. pelayanan psikologis.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat (1), dilaksanakan  sesuai standar pelayanan minimal yang ditetapkan pemerintah dan  dilaksanakan oleh SKPD dan lembaga yang tugas dan fungsinya di  bidang:a. sosial;  
 b. kesehatan;  
 c. pemberdayaan perempuan dan perlindungan anak;  
@@ -731,7 +737,8 @@ Kemitraan
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha dalam  perlindungan perempuan dan anak dari tindak kekerasan.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan dan anak korban tindak  kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2) dituangkan  dalam bentuk perjanjian.  
 
 # BAB XVII
@@ -744,7 +751,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak  kekerasan yang terc
 2. Pembinaan sebagaimana dimaksud pada ayat (1), meliputi:  a. pedoman dan standar pemenuhan;  
 b. bimbingan teknis dan pelatihan;  
 c. penyediaan fasilitas;  
-d. pemantauan; dane. evaluasi.  
+d. pemantauan; dan  
+e. evaluasi.  
 3. Pembinaan sebagaimana dimaksud pada ayat (2), dalam rangka  mewujudkan tujuan perlindungan perempuan dan anak dari tindak  kekerasan sesuai standar pelayanan minimal yang dilaksanakan SKPD  dan masyarakat.  
 4. SKPD sebagaimana dimaksud ayat (3) adalah Satuan Kerja Perangkat  Daerah di Lingkungan Pemerintah Kota Bekasi yang ada kaitannya  dengan Perlindungan Perempuan dan anak.  
 
@@ -764,7 +772,8 @@ Masyarakat dapat melakukan pengawasan penyelenggaraan perlindungan  perempuan da
 #### Pasal 58
 
 Pembiayaan penyelenggaraan perlindungan perempuan dan anak dari tindak  kekerasan bersumber dari:  
-a. Anggaran Pendapatan dan Belanja Daerah (APBD); danb. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
+a. Anggaran Pendapatan dan Belanja Daerah (APBD); dan  
+b. sumber lain yang sah sesuai dengan ketentuan peraturan perundang undangan.  
 
 #### Pasal 59
 

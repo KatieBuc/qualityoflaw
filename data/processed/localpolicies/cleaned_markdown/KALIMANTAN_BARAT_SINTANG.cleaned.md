@@ -23,12 +23,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya  pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan, sehingga tercapainya pemenuhan, pemajuan, penegakan dan perlindungan hak asasi manusia secara universal dan hakiki;  
 c. bahwa sehubungan dengan maksud pada huruf b dan  dalam upaya memberikan landasan hukum untuk pelaksanaannya di Kabupaten Sintang, maka perlu diatur perlindungan perempuan dan anak konban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah Kabupaten Sintang tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -258,7 +260,8 @@ Mekanisme pelayanan diselenggarakan sesuai dengan Standar Operasional Prosedur (
 
 1. Pendampingan terhadap korban antara lain dilakukan oleh:  a. Kepolisian;  
 b. Kejaksaan;  
-c. Advokat; dand. Pekerja Sosial.  
+c. Advokat; dan  
+d. Pekerja Sosial.  
 2. Pendampingan oleh Kepolisian, Kejaksaan, dan Advokat  sebagaimana dimaksud pada ayat (1) huruf a, huruf b, dan  huruf c, sesuai dengan ketentuan peraturan perundang undangan yang berlaku.  
 3. Tugas pekerja sosial sebagaimana dimaksud pada ayat (1) huruf d sebagai pendamping adalah sebagai berikut:a. memberikan informasi yang cukup kepada korban tentang  hak-haknya;  
 b. memberikan layanan psikososial kepada korban sehingga  korban merasa aman dan nyaman;  

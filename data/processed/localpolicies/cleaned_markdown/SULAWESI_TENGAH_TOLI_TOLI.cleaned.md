@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak  merupakan kejahatan terhadap hak asasi manusia  sehingga menjadi kewajiban negara untuk melindungi dari  segala bentuk kekerasan dan diskriminasi;  
 b. bahwa untuk memenuhi hak perempuan dan anak serta  bagian dari upaya pemerintah daerah untuk melindungi  perempuan dan anak dari eksploitasi, penelantaran dan  diskriminasi;  
 c. bahwa untuk memberikan arah, landasan dan kepastian  hukum dalam perlindungan perempuan dan anak  diperlukan pengaturan di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan  Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -87,9 +89,11 @@ c. perlindungan anak;
 d. P2TP2A;  
 e. kerja sama, kewajiban dan tanggungjawab;  
 f. sistem informasi dan pelaporan;  
-g. pembinaan dan pengawasan; danh. pendanaan.  
+g. pembinaan dan pengawasan; dan  
+h. pendanaan.  
 2. Perlindungan Perempuan sebagaimana dimaksud pada ayat (1) huruf b,  meliputi:a. pencegahan tindak Kekerasan;  
-b. pelayanan terpadu bagi Korban tindak Kekerasan; danc. pemberdayaan terhadap Korban tindak Kekerasan.  
+b. pelayanan terpadu bagi Korban tindak Kekerasan; dan  
+c. pemberdayaan terhadap Korban tindak Kekerasan.  
 3. Perlindungan Anak sebagaimana dimaksud pada ayat (1) huruf c,  meliputi:a. Perlindungan Anak yang menjadi Korban tindak Kekerasan; dan b. Perlindungan Khusus anak.  
 
 # BAB II
@@ -108,7 +112,8 @@ f. hak atas Rehabilitasi sosial;
 g. hak atas penanganan pengaduan secara cepat, tepat, nyaman dan sesuai  kebutuhan;  
 h. hak korban dan keluarganya untuk mendapatkan kemudahan dalam  proses peradilan;  
 i. hak atas pendampingan;  
-j. hak rasa aman; dank. hak restitusi.  
+j. hak rasa aman; dan  
+k. hak restitusi.  
 
 #### Pasal 4
 
@@ -116,7 +121,8 @@ Anak Korban tindak Kekerasan selain mendapatkan hak sebagaimana  dimaksud dalam 
 a. hak untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar kependudukan;  
 c. hak perlindungan yang sama;  
-d. hak bebas dari berbagai stigma; dane. hak mendapatkan kebebasan.  
+d. hak bebas dari berbagai stigma; dan  
+e. hak mendapatkan kebebasan.  
 
 # BAB III
 
@@ -135,14 +141,16 @@ c. kekerasan ekonomi;
 d. kekerasan sosial;  
 e. kekerasan psikis;  
 f. penelantaran rumah tangga;  
-g. pemaksaan atau perampasan kemerdekaan; danh. ancaman tindakan tertentu.  
+g. pemaksaan atau perampasan kemerdekaan; dan  
+h. ancaman tindakan tertentu.  
 
 #### Pasal 6
 
 Setiap orang yang mendengar, melihat atau mengetahui terjadinya Kekerasan  sebagaimana dimaksud dalam Pasal 5 melakukan upaya untuk:  
 a. mencegah berlangsungnya tindak pidana;  
 b. memberikan perlindungan kepada korban;  
-c. memberikan pertolongan darurat; dand. membantu proses pengaduan dan pengajuan permohonan penetapan  perlindungan.  
+c. memberikan pertolongan darurat; dan  
+d. membantu proses pengaduan dan pengajuan permohonan penetapan  perlindungan.  
 
 ## Bagian Kedua
 
@@ -157,14 +165,16 @@ d. melakukan upaya membangun partisipasi dan kepedulian masyarakat  untuk melaks
 e. membangun jejaring dan kerja sama dengan aparatur penegak  hukum, aparatur pemerintah, perguruan tinggi, lembaga/organisasi  keagamaan dan berbagai lembaga swadaya masyarakat dalam upaya  mencegahan Kekerasan terhadap Perempuan dan Anak;  
 f. membentuk sistem pencegahan Kekerasan, pemetaan lokasi atau  wilayah rawan terjadinya Kekerasan;  
 g. meningkatkan kesadaran masyarakat yang menghargai Perempuan  dan melindungi Anak;  
-h. membentuk P2TP2A di tingkat Kabupaten dan Pos Pelayanan  Perlindungan Perempuan dan Anak tingkat Kecamatan, Desa dan  Kelurahan; dani. membentuk satgas perlindungan Perempuan dan Anak.  
+h. membentuk P2TP2A di tingkat Kabupaten dan Pos Pelayanan  Perlindungan Perempuan dan Anak tingkat Kecamatan, Desa dan  Kelurahan; dan  
+i. membentuk satgas perlindungan Perempuan dan Anak.  
 2. Selain Pemerintah Daerah, pencegahan sebagaimana dimaksud pada ayat  (1) harus dilaksanakan oleh:a. Keluarga dan/atau kerabat terdekat;  
 b. Masyarakat;  
 c. instansi vertikal;  
 d. aparatur penegak hukum;  
 e. lembaga pendidikan;  
 f. lembaga kesehatan;  
-g. lembaga/organisasi keagamaanh. lembaga sosial kemasyarakatan; dani. dunia usaha dan lembaga lainnya.  
+g. lembaga/organisasi keagamaanh. lembaga sosial kemasyarakatan; dan  
+i. dunia usaha dan lembaga lainnya.  
 3. Pencegahan tindak Kekerasan terhadap Perempuan sebagaimana  dimaksud pada ayat (1) dilakukan secara terpadu dan dikoordinasikan  oleh Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang  pemberdayaan Perempuan dan pelindungan Anak.  
 
 #### Pasal 8
@@ -259,7 +269,8 @@ Tahapan Perlindungan Anak Korban Tindak Kekerasan
 #### Pasal 15
 
 Tahapan pelindungan terhadap Anak Korban tindak Kekerasan, meliputi:  a. pencegahan tindak Kekerasan terhadap Anak;  
-b. penanganan Anak Korban tindak Kekerasan; danc. rehabilitasi Anak Korban tindak Kekerasan.  
+b. penanganan Anak Korban tindak Kekerasan; dan  
+c. rehabilitasi Anak Korban tindak Kekerasan.  
 
 ### Paragraf 2
 
@@ -268,7 +279,8 @@ Pencegahan Kekerasan Terhadap Anak
 #### Pasal 16
 
 1. Pencegahan tindak Kekerasan terhadap Anak sebagaimana dimaksud  dalam Pasal 15 huruf a dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan Kekerasan  terhadap Anak;  
-b. melakukan koordinasi, integrasi, sinkronisasi pencegahan Kekerasan  berdasarkan pola kemitraan dengan masyarakat, swasta dan Lembaga  Swadaya Masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan pelindungan Anak Korban Kekerasan.  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan Kekerasan  berdasarkan pola kemitraan dengan masyarakat, swasta dan Lembaga  Swadaya Masyarakat; dan  
+c. melakukan sosialisasi peraturan perundang-undangan yang berkaitan  dengan pelindungan Anak Korban Kekerasan.  
 2. Pencegahan tindak Kekerasan terhadap Anak sebagaimana dimaksud  pada ayat (1) dilakukan secara terpadu dan dikoordinasikan oleh  Perangkat Daerah yang mempunyai tugas pokok dan fungsi di bidang  pemberdayaan Perempuan dan pelindungan Anak.  
 
 #### Pasal 17
@@ -339,14 +351,16 @@ m. Anak Korban Penculikan, Penjualan dan/atau Perdagangan; dan n. Anak yang menj
 
 1. P2TP2A sebagaimana dimaksud dalam Pasal 21 bertugas:  
 a. memberikan pelayanan;  
-b. memberikan perlindungan terhadap Korban tindak Kekerasan, pelapor  dan saksi; danc. melakukan pemberdayaan terhadap Korban tindak Kekerasan.  
+b. memberikan perlindungan terhadap Korban tindak Kekerasan, pelapor  dan saksi; dan  
+c. melakukan pemberdayaan terhadap Korban tindak Kekerasan.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) huruf a meliputi:  
 a. menerima pengaduan/laporan Kekerasan terhadap Perempuan  dan/atau Anak , konsultasi, dan konseling;  
 b. menerima dan mengirimkan rujukan kasus dari Pemerintah Daerah  Kabupaten/Kota atau lembaga yang dibentuk oleh Pemerintah Daerah  Kabupaten/Kota;  
 c. memberikan bantuan Pendampingan hukum;  
 d. kesehatan;  
 e. rehabilitasi sosial;  
-f. pelayanan hukum; dang. pemulangan dan reintegrasi sosial.  
+f. pelayanan hukum; dan  
+g. pemulangan dan reintegrasi sosial.  
 
 # BAB VI
 
@@ -363,7 +377,8 @@ a. instansi vertikal;
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/kota lainnya;  
 d. pemerintah desa;  
-e. lembaga swadaya masyarakat; danf. pihak swasta;  
+e. lembaga swadaya masyarakat; dan  
+f. pihak swasta;  
 
 #### Pasal 24
 

@@ -23,12 +23,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap orang termasuk perempuan dan anak  berhak atas pemenuhan hak dan perlindungan dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminatif guna memberikan keamanan dan kenyamanan;  
 b. bahwa dalam rangka pemenuhan hak dan perlindungan  terhadap perempuan dan anak dari kekerasan, eksploitasi, dan perlakuan yang bersifat diskriminasif di Kabupaten Bima diperlukan peran pemerintah daerah dalam penyelenggaraanya;  
 c. bahwa penyelengaraan perlindungan perempuan dan  anak, perlu diberikan arah dan landasan untuk menjamin kepastian hukum berdasarkan asas keadilan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -99,7 +101,8 @@ c. nondiskriminasi;
 d. perlindungan korban;  
 e. kepentingan terbaik bagi anak;  
 f. kelangsungan hidup dan perkembangan anak;  
-g. partisipasi anak; danh. kemanfaatan.  
+g. partisipasi anak; dan  
+h. kemanfaatan.  
 
 #### Pasal 3
 
@@ -117,7 +120,8 @@ c. meningkatkan kualitas dan peran perempuan dan anak; dan d. tersedianya data u
 1. Penyelenggaraan Pemberdayaan Perempuan dan Perlindungan Anak di  Daerah dilaksanakan oleh Pemerintah Daerah.  
 2. Dalam melaksanakan penyelenggaraan Pemberdayaan Perempuan dan  Perlindungan Anak, Bupati berwenang:a. melaksanakan kebijakan Pemberdayaan Perempuan dan Perlindungan  Anak di tingkat kabupaten;  
 b. menyediakan sumberdaya manusia yang memiliki perspektif gender  dan hak anak, sarana, prasarana dan infrastruktur yang ramah,  aman, dan nyaman bagi perempuan dan Anak;  
-c. melakukan koordinasi dan kerja sama dengan pemangku kepentingan  yang bersifat lintas sektor di Daerah; dand. melakukan pembinaan dan pengawasan teknis di Daerah. (3) Bupati dalam melaksanakan kewenangannya sebagaimana dimaksud  pada ayat (2), dapat menugaskan Sekretaris Daerah atau Perangkat  Daerah yang menyelenggarakan urusan pemerintahan di bidang  Pemberdayaan Perempuan dan Perlindungan Anak Daerah.  
+c. melakukan koordinasi dan kerja sama dengan pemangku kepentingan  yang bersifat lintas sektor di Daerah; dan  
+d. melakukan pembinaan dan pengawasan teknis di Daerah. (3) Bupati dalam melaksanakan kewenangannya sebagaimana dimaksud  pada ayat (2), dapat menugaskan Sekretaris Daerah atau Perangkat  Daerah yang menyelenggarakan urusan pemerintahan di bidang  Pemberdayaan Perempuan dan Perlindungan Anak Daerah.  
 
 #### Pasal 5
 
@@ -126,7 +130,8 @@ c. melakukan koordinasi dan kerja sama dengan pemangku kepentingan  yang bersifa
 b. penjangkauan korban;  
 c. pengelolaan kasus;  
 d. penampungan sementara;  
-e. mediasi; danf. pendampingan korban.  
+e. mediasi; dan  
+f. pendampingan korban.  
 3. Dalam pelaksanaan fungsi layanan sebagaimana dimaksud dalam ayat (2)  huruf b, dapat membentuk satuan tugas pemberdayaan perempuan dan  perlindungan anak yang difasilitasi oleh Perangkat Daerah yang  membidangi Pemberdayaan Perempuan dan Perlindungan Anak.  
 4. Fungsi layanan yang diberikan oleh UPTD P3AP2KB sebagaimana  dimaksud pada ayat (2) mengacu kepada standar layanan yang telah  ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.  
 
@@ -150,7 +155,8 @@ Kualitas Hidup Perempuan
 
 Penyelenggaraan peningkatan Kualitas Hidup perempuan dilakukan dengan  cara:  
 a. pelembagaan PUG pada lembaga Pemerintah Daerah;  
-b. Pemberdayaan Perempuan bidang politik, hukum, sosial, dan ekonomi  pada organisasi kemasyarakatan tingkat Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan  Perempuan tingkat Daerah.  
+b. Pemberdayaan Perempuan bidang politik, hukum, sosial, dan ekonomi  pada organisasi kemasyarakatan tingkat Daerah; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan Pemberdayaan  Perempuan tingkat Daerah.  
 
 #### Pasal 8
 
@@ -159,7 +165,8 @@ Pelembagaan PUG pada lembaga pemerintah sebagaimana dimaksud dalam  Pasal 7 huru
 #### Pasal 9
 
 Pemberdayaan Perempuan bidang politik, hukum, sosial, dan ekonomi pada  organisasi kemasyarakatan sebagaimana dimaksud dalam Pasal 7 huruf b  dilakukan melalui:  
-a. peningkatan kualitas dan kuantitas perempuan bidang politik, hukum,  sosial, dan ekonomi pada organisasi kemasyarakatan tingkat daerah; danb. pelibatan perempuan dalam pengambilan keputusan bidang politik,  hukum, sosial, dan ekonomi pada organisasi kemasyarakatan tingkat  daerah.  
+a. peningkatan kualitas dan kuantitas perempuan bidang politik, hukum,  sosial, dan ekonomi pada organisasi kemasyarakatan tingkat daerah; dan  
+b. pelibatan perempuan dalam pengambilan keputusan bidang politik,  hukum, sosial, dan ekonomi pada organisasi kemasyarakatan tingkat  daerah.  
 
 #### Pasal 10
 
@@ -168,7 +175,8 @@ a. peningkatan kapasitas sumber daya lembaga penyedia layanan  Pemberdayaan Pere
 b. pendampingan pelaksanaan layanan Pemberdayaan Perempuan tingkat  daerah;  
 c. pengembangan Komunikasi, Informasi, dan Edukasi Pemberdayaan  Perempuan tingkat daerah;  
 d. penguatan jejaring antar lembaga penyedia layanan Pemberdayaan  Perempuan tingkat daerah;  
-e. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan  Pemberdayaan Perempuan tingkat daerah; danf. pengembangan lembaga penyedia layanan Pemberdayaan Perempuan  tingkat daerah.  
+e. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan  Pemberdayaan Perempuan tingkat daerah; dan  
+f. pengembangan lembaga penyedia layanan Pemberdayaan Perempuan  tingkat daerah.  
 
 ## Bagian Ketiga
 
@@ -178,14 +186,16 @@ Perlindungan Perempuan
 
 Penyelenggaraan perlindungan perempuan dilakukan dengan cara:  
 a. pencegahan kekerasan terhadap perempuan yang melibatkan para pihak di  Daerah;  
-b. penyediaan layanan bagi perempuan korban kekerasan yang memerlukan  koordinasi antara Perangkat Daerah, Instansi Vertikal, dan lembaga lembaga lain di Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan perlindungan  perempuan di Daerah.  
+b. penyediaan layanan bagi perempuan korban kekerasan yang memerlukan  koordinasi antara Perangkat Daerah, Instansi Vertikal, dan lembaga lembaga lain di Daerah; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan perlindungan  perempuan di Daerah.  
 
 #### Pasal 12
 
 Pencegahan kekerasan terhadap perempuan sebagaimana dimaksud dalam  Pasal 11 huruf a dilakukan melalui:  
 a. pelaksanaan kebijakan, program dan kegiatan pencegahan kekerasan  terhadap perempuan yang melibatkan para pihak lingkup daerah;  
 b. pemberian edukasi pencegahan kekerasan terhadap perempuan di daerah;  
-c. peningkatan peran serta masyarakat, dunia usaha, dan media dalam  pencegahan kekerasan terhadap perempuan di daerah; dand. pembuatan dan/atau pemanfaatan aplikasi Sistim Informasi Warga dalam  penyampaian laporan kasus kekerasan perempuan dan anak.  
+c. peningkatan peran serta masyarakat, dunia usaha, dan media dalam  pencegahan kekerasan terhadap perempuan di daerah; dan  
+d. pembuatan dan/atau pemanfaatan aplikasi Sistim Informasi Warga dalam  penyampaian laporan kasus kekerasan perempuan dan anak.  
 
 #### Pasal 13
 
@@ -208,7 +218,8 @@ i. penyediaan sarana prasarana informasi yang tersedia di ruang publik; dan  j. 
 
 Penguatan dan pengembangan lembaga penyedia layanan perlindungan  perempuan sebagaimana dimaksud dalam Pasal 11 huruf c dilakukan melalui:  
 a. peningkatan kapasitas sumber penyedia layanan penanganan dan  perlindungan hak perempuan korban kekerasan di daerah;  
-b. penyediaan kebutuhan spesifik bagi perempuan dalam situasi darurat dan  kondisi khusus di daerah; danc. pengembangan Komunikasi, Informasi, dan Edukasi perlindungan hak  perempuan di daerah.  
+b. penyediaan kebutuhan spesifik bagi perempuan dalam situasi darurat dan  kondisi khusus di daerah; dan  
+c. pengembangan Komunikasi, Informasi, dan Edukasi perlindungan hak  perempuan di daerah.  
 
 ## Bagian Keempat
 
@@ -223,14 +234,16 @@ b. penguatan dan pengembangan lembaga penyedia layanan peningkatan  kualitas kel
 #### Pasal 17
 
 Peningkatan kualitas keluarga sebagaimana dimaksud dalam Pasal 16 huruf a  dilakukan melalui:  
-a. pelaksanaan kebijakan, program dan kegiatan peningkatan kualitas  keluarga untuk mewujudkan kesetaraan gender dan perlindungan anak di  daerah; danb. pengembangan materi dan pelaksanaan Komunikasi, Informasi, dan  Edukasi kesetaraan gender dan perlindungan anak bagi keluarga di  daerah.  
+a. pelaksanaan kebijakan, program dan kegiatan peningkatan kualitas  keluarga untuk mewujudkan kesetaraan gender dan perlindungan anak di  daerah; dan  
+b. pengembangan materi dan pelaksanaan Komunikasi, Informasi, dan  Edukasi kesetaraan gender dan perlindungan anak bagi keluarga di  daerah.  
 
 #### Pasal 18
 
 Penguatan dan pengembangan lembaga penyedia layanan peningkatan kualitas  keluarga sebagaimana dimaksud dalam Pasal 16 huruf b dilakukan melalui:  
 a. peningkatan kapasitas sumber daya lembaga penyedia layanan  peningkatan kualitas keluarga di daerah;  
 b. penguatan jejaring antar lembaga penyedia layanan peningkatan kualitas  keluarga di daerah;  
-c. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan peningkatan  kualitas keluarga di daerah; dand. pengembangan lembaga penyedia layanan peningkatan kualitas keluarga di  daerah.  
+c. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan peningkatan  kualitas keluarga di daerah; dan  
+d. pengembangan lembaga penyedia layanan peningkatan kualitas keluarga di  daerah.  
 
 #### Pasal 19
 
@@ -253,7 +266,8 @@ Sistem Data Gender dan Anak
 
 Penyelenggaraan Sistem Data Gender dan Anak sebagaimana dimaksud dalam  Pasal 20 ayat (3) dilakukan melalui:  
 a. penyediaan data gender dan anak di daerah;  
-b. penyajian dan pemanfaatan data gender dan anak dalam kelembagaan data  di tingkat daerah; danc. pelaksanaan sistem data gender dan Anak mengacu kepada pedoman yang  telah ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.  
+b. penyajian dan pemanfaatan data gender dan anak dalam kelembagaan data  di tingkat daerah; dan  
+c. pelaksanaan sistem data gender dan Anak mengacu kepada pedoman yang  telah ditetapkan sesuai dengan ketentuan peraturan perundang-undangan.  
 
 ## Bagian Keenam
 
@@ -271,7 +285,8 @@ Pelembagaan pemenuhan hak Anak sebagaimana dimaksud dalam Pasal 22 huruf a dilak
 a. pelaksanaan kebijakan, program dan kegiatan pemenuhan hak Anak dalam  upaya pencegahan pelanggaran hak Anak di daerah;  
 b. peningkatan partisipasi dan peran forum anak atau sejenisnya di daerah;  
 c. memfasilitasi penguatan kelembagaan dan sumber daya lembaga  pemerintah, nonpemerintah, media dan dunia usaha di daerah;  
-d. memfasilitasi penguatan jejaring antar lembaga pemerintah,  nonpemerintah, media, dan dunia usaha di daerah; dane. penguatan kerjasama lintas lembaga pemerintah, nonpemerintah, media,  dan dunia usaha untuk mewujudkan Kabupaten Layak Anak (KLA),  Kecamatan Layak Anak (Kelana), dan Desa Layak Anak (Dela).  
+d. memfasilitasi penguatan jejaring antar lembaga pemerintah,  nonpemerintah, media, dan dunia usaha di daerah; dan  
+e. penguatan kerjasama lintas lembaga pemerintah, nonpemerintah, media,  dan dunia usaha untuk mewujudkan Kabupaten Layak Anak (KLA),  Kecamatan Layak Anak (Kelana), dan Desa Layak Anak (Dela).  
 
 #### Pasal 24
 
@@ -280,7 +295,8 @@ a. peningkatan kapasitas sumber daya lembaga penyedia layanan  peningkatan kuali
 b. pendampingan pelaksanaan layanan peningkatan kualitas hidup anak di  daerah;  
 c. pengembangan materi dan pelaksanaan Komunikasi, Informasi, dan  Edukasi pemenuhan hak Anak bagi lembaga penyedia layanan peningkatan  kualitas hidup anak di daerah;  
 d. penguatan jejaring antar lembaga penyedia layanan peningkatan kualitas  hidup Anak di daerah;  
-e. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan peningkatan  kualitas hidup Anak di daerah; danf. pengembangan lembaga penyedia layanan peningkatan kualitas hidup  anak di daerah.  
+e. fasilitasi pelaksanaan standarisasi lembaga penyedia layanan peningkatan  kualitas hidup Anak di daerah; dan  
+f. pengembangan lembaga penyedia layanan peningkatan kualitas hidup  anak di daerah.  
 
 ## Bagian Ketujuh
 
@@ -290,14 +306,16 @@ Perlindungan Khusus Anak
 
 Penyelenggaraan Perlindungan Khusus Anak dilakukan dengan cara:  
 a. pencegahan kekerasan terhadap Anak;  
-b. penyediaan layanan bagi Anak yang memerlukan perlindungan khusus  melalui koordinasi para pihak baik lembaga pemerintah maupun non  pemerintah di Daerah; danc. penguatan dan pengembangan lembaga penyedia layanan bagi Anak yang  memerlukan perlindungan khusus di Daerah.  
+b. penyediaan layanan bagi Anak yang memerlukan perlindungan khusus  melalui koordinasi para pihak baik lembaga pemerintah maupun non  pemerintah di Daerah; dan  
+c. penguatan dan pengembangan lembaga penyedia layanan bagi Anak yang  memerlukan perlindungan khusus di Daerah.  
 
 #### Pasal 26
 
 Pencegahan kekerasan terhadap Anak sebagaimana dimaksud dalam Pasal 25 huruf a dilakukan melalui:  
 a. pelaksanaan kebijakan, program dan kegiatan pencegahan kekerasan  terhadap Anak yang memerlukan perlindungan khusus yang melibatkan  lembaga pemerintah maupun non pemerintah di daerah;  
 b. pemberian edukasi pencegahan kekerasan terhadap Anak yang  memerlukan perlindungan khusus di daerah;  
-c. peningkatan peran serta masyarakat melalui gerakan Perlindungan Anak  Terpadu Berbasis Masyarakat (PATBM), dunia usaha, media dan anak  dalam pencegahan kekerasan di daerah; dand. penguatan kerjasama untuk mewujudkan Kabupaten Layak Anak (KLA),  Kecamatan Layak Anak (Kelana), dan Desa Layak Anak (Dela).  
+c. peningkatan peran serta masyarakat melalui gerakan Perlindungan Anak  Terpadu Berbasis Masyarakat (PATBM), dunia usaha, media dan anak  dalam pencegahan kekerasan di daerah; dan  
+d. penguatan kerjasama untuk mewujudkan Kabupaten Layak Anak (KLA),  Kecamatan Layak Anak (Kelana), dan Desa Layak Anak (Dela).  
 
 #### Pasal 27
 
@@ -308,7 +326,8 @@ c. penyediaan layanan penjangkauan bagi Anak yang memerlukan  perlindungan khusu
 d. penyediaan layanan pengelolaan kasus bagi Anak yang memerlukan  perlindungan khusus di daerah;  
 e. penyediaan layanan penampungan sementara bagi Anak yang memerlukan  perlindungan khusus di daerah;  
 f. penyediaan layanan mediasi bagi Anak yang memerlukan perlindungan  khusus di daerah;  
-g. penyediaan layanan pendampingan bagi anak yang memerlukan  perlindungan khusus di daerah; danh. penyediaan sarana dan prasarana layanan bagi anak yang memerlukan  perlindungan khusus di daerah.  
+g. penyediaan layanan pendampingan bagi anak yang memerlukan  perlindungan khusus di daerah; dan  
+h. penyediaan sarana dan prasarana layanan bagi anak yang memerlukan  perlindungan khusus di daerah.  
 
 #### Pasal 28
 
@@ -359,7 +378,8 @@ Penyelenggaraan KLA sebagaimana dimaksud dalam Pasal 33 ayat (1)  dilaksanakan d
 a. perencanaan KLA;  
 b. praKLA;  
 c. Rencana Aksi Daerah KLA;  
-d. pelaksanaan KLA; dane. evaluasi KLA.  
+d. pelaksanaan KLA; dan  
+e. evaluasi KLA.  
 
 #### Pasal 35
 
@@ -431,12 +451,14 @@ Ketentuan lebih lanjut mengenai penyelenggaraan KLA diatur dengan  Peraturan Bup
 1. Masyarakat, Keluarga dan/ atau orang tua dapat berperan serta dalam  penyelenggaraan pemberdayaan perempuan dan perlindungan anak. (2) Masyarakat sebagaimana dimaksud dalam ayat (1) dilakukan secara  perorangan maupun kelembagaan.  
 3. Peran serta Masyarakat sebagaimana dimaksud pada ayat (1) antara lain  dilakukan dengan cara:a. membentuk unit pemberdayaan dan perlindungan anak di dalam  organisasi kemasyarakatan, perlindungan anak yang berbasis  masyarakat, atau organisasi profesi;  
 b. melakukan sosialisasi tentang pemberdayaan perempuan, pencegahan  kekerasan bagi perempuan dan anak serta perlindungan anak;  
-c. melakukan pencegahan terjadinya tindak kekerasan dalam lingkungan  masyarakat; dand. memberikan informasi dan/atau melaporkan terjadinya kekerasan,  diskriminasi, eksploitasi, dan pelanggaran hak asasi terhadap  perempuan dan Anak kepada pihak yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap perempuan dan Anak;  
+c. melakukan pencegahan terjadinya tindak kekerasan dalam lingkungan  masyarakat; dan  
+d. memberikan informasi dan/atau melaporkan terjadinya kekerasan,  diskriminasi, eksploitasi, dan pelanggaran hak asasi terhadap  perempuan dan Anak kepada pihak yang berwenang apabila di  lingkungannya terjadi kekerasan terhadap perempuan dan Anak;  
 e. mengoptimalkan fungsi organisasi masyarakat seperti PKK, lembaga  layanan terpadu perlindungan perempuan dan anak di Daerah;  
 f. melakukan sosialisasi dan edukasi peraturan perundang-undangan  terkait pemberdayaan perempuan, perlindungan perempuan dan  Anak, seperti pencegahan perkawinan di bawah tangan dan bahaya  perkawinan usia anak;  
 g. memberikan masukan dalam proses penyusunan peraturan  perundang-undangan di daerah;  
 h. melarang terjadinya perkawinan di bawah tangan;  
-i. menyediakan ruang untuk berkumpul dan berorganisasi bagi Anak  untuk berekspresi dan menyampaikan pendapatnya; danj. mengawasi Anak dalam mengakses berbagai informasi.  
+i. menyediakan ruang untuk berkumpul dan berorganisasi bagi Anak  untuk berekspresi dan menyampaikan pendapatnya; dan  
+j. mengawasi Anak dalam mengakses berbagai informasi.  
 
 # BAB IX
 

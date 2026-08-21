@@ -15,11 +15,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, dan huruf b, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan anak korban kekerasan di Kabupaten Muna.  
 
 Mengingat:  
+ 
  
  
  
@@ -140,7 +142,8 @@ d. orang tua.
 b. menetapkan kebijakan, program dan kegiatan perlindungan perempuan dan anak korban kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak korban kekerasan;  
 d. memfasilitasi pendampingan, bantuan hukum dan pelayanan hukum sesuai kebutuhan korban;  
-e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari korban kekerasan sesuai kemampuan keuangan daerah; danf. membina dan mengawasasi penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
+e. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari korban kekerasan sesuai kemampuan keuangan daerah; dan  
+f. membina dan mengawasasi penyelenggaraan perlindungan perempuan dan anak korban kekerasan.  
 3. Kewajiban Pemerintah Desa sebagaimana dimaksud dalam Pasal 5 huruf a meliputi:a. menetapkan kebijakan untuk perlindungan perempuan dan anak korban kekerasan, seperti Peraturan Desa tentang Perlindungan Perempuan dan Anak atau Peraturan Kepala Desa;  
 b. memasukan program perlindungan perempuan dan anak dalam Rencana Pembangunan Jangka Menengah Desa;  
 c. mengalokasikan anggaran untuk kegiatan penyelenggaraan perlindungan perempuan dan anak dalam Anggaran Pendapatan dan Belanja Desa;  
@@ -175,7 +178,8 @@ Kewajiban keluarga dan/atau orang tua sebagaimana dimaksud dalam Pasal 5 huruf c
 1. Pencegahan dimaksudkan untuk mengurangi potensi resiko dan kerentanan perempuan dan anak dari segala bentuk kekerasan baik yang terjadi dalam ranah rumah tangga maupun publik, termasuk mencegah keberulangan kekerasan yang dialami korban.  
 2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
 b. pencegahan kekerasan di lingkungan pendidikan;  
-c. pencegahan kekerasan di lingkungan tempat kerja; dand. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
+c. pencegahan kekerasan di lingkungan tempat kerja; dan  
+d. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
 d. membentuk posko desa untuk pelayanan terpadu bagi perempuan dan anak korban kekerasan;  
 e. menyediakan program layanan bagi perempuan dan anak korban kekerasan di desa;  
 f. mengangkat pengurus dan petugas pendamping korban untuk posko desa;  
@@ -207,7 +211,8 @@ Kewajiban keluarga dan/atau orang tua sebagaimana dimaksud dalam Pasal 5 huruf c
 1. Pencegahan dimaksudkan untuk mengurangi potensi resiko dan kerentanan perempuan dan anak dari segala bentuk kekerasan baik yang terjadi dalam ranah rumah tangga maupun publik, termasuk mencegah keberulangan kekerasan yang dialami korban.  
 2. Pencegahan kekerasan terhadap perempuan dan anak meliputi:a. pencegahan kekerasan di lingkungan keluarga dan masyarakat termasuk desa;  
 b. pencegahan kekerasan di lingkungan pendidikan;  
-c. pencegahan kekerasan di lingkungan tempat kerja; dand. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
+c. pencegahan kekerasan di lingkungan tempat kerja; dan  
+d. pencegahan kekerasan di transportasi umum (3) Pencegahan kekerasan terhadap perempuan dan anak sebagaimana dimaksud pada ayat (2) dapat dilakukan dalam bentuk:a. sosialisasi terutama kepada kelompok-kelompok yang rentan;  
 b. publikasi, pentas budaya, jambore remaja dan kampanye;  
 c. pelatihan:d. membentuk dan memfasilitasi kelompok atau forum anak, remaja, perempuan dan masyarakat;  
 e. mendorong/menjadikan lembaga pendidikansebagai kawasan anti kekerasan terhadap perempuan dan anak;  
@@ -231,14 +236,16 @@ b. layanan medis;
 c. layanan psikologis;  
 d. layanan rehabilitasi sosial;  
 e. layanan penegakan dan bantuan hukum;  
-f. layanan pemulangan dan reintegrasi sosial; dang. layanan pendampingan;  
+f. layanan pemulangan dan reintegrasi sosial; dan  
+g. layanan pendampingan;  
 
 #### Pasal 11
 
 1. Layanan pengaduan sebagaimana dimaksud dalam Pasal 10 huruf a, meliputi ;  
 a. layanan pemberian informasi mengenai hak-hak dan layanan yang disediakan kepada korban;  
 b. layanan telpon pengaduan bebas pulsa;  
-c. layanan penjangkauan; dand. layanan konsultasi.  
+c. layanan penjangkauan; dan  
+d. layanan konsultasi.  
 2. Layanan pengaduan sebagaimana dimaksud pada ayat (1) menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan pemberdayaan perempuan dan perlindungan anak.  
 
 #### Pasal 12
@@ -248,7 +255,8 @@ a. layanan konsultasi;
 b. layanan kegawat daruratan;  
 c. layanan pemeriksaan;  
 d. layanan pengobatan dan perawatan, baik rawat jalan maupun rawat inap;  
-e. layanan rujukan; danf. layanan medis yang terkait hukum seperti visum dan tes DNA.  
+e. layanan rujukan; dan  
+f. layanan medis yang terkait hukum seperti visum dan tes DNA.  
 2. Layanan medis sebagaimana dimaksud pada ayat (1) dilakukan melalui;  
 a. mekanisme khusus di instalansi gawat darurat;  
 b. petugas medis khusus yang telah dilatih mengenai pelayanan medis untuk perempuan dan anak korban kekerasan;  
@@ -261,7 +269,8 @@ c. koordinasi dengan Pusat Pelayanan Terpadu, Organisasi Perangkat Daerah, apara
 1. Layanan psikologis sebagaimana dimaksud dalam Pasal 10 huruf c, meliputi;  
 a. layanan konseling;  
 b. layanan pemeriksaan psikologis;  
-c. layanan psikologis klinis; dand. layanan psikiatet.  
+c. layanan psikologis klinis; dan  
+d. layanan psikiatet.  
 2. Layanan psikologis sebagaimana dimaksud pada ayat (1) dilakukan oleh petugas khusus yang telah dilatih.  
 3. Layanan psikologis sebagaimana dimaksud pada ayat (1) menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan kesehatan dan urusan pemberdayaan perempuan dan perlindungan anak dan dapat bekerjasama dengan organisasi profesi dan pihak lainnya yang terkait.  
 
@@ -270,7 +279,8 @@ c. layanan psikologis klinis; dand. layanan psikiatet.
 1. Layanan rehabilitasi sosial sebagaimana dimaksud dalam Pasal 10 huruf d, meliputi ;  
 a. layanan shelter atau rumah aman;  
 b. layanan pendampingan oleh pekerja sosial;  
-c. layanan peer group; dand. layanan penguatan keluarga korban.  
+c. layanan peer group; dan  
+d. layanan penguatan keluarga korban.  
 2. Layanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) dilakukan oleh petugas khusus yang telah dilatih.  
 3. Layanan rehabilitasi sosial sebagaimana dimaksud pada ayat (1) menjadi tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan sosial.  
 
@@ -279,7 +289,8 @@ c. layanan peer group; dand. layanan penguatan keluarga korban.
 1. Layanan penegakan dan bantuan hukum sebagaimana dimaksud dalam Pasal 10 huruf e, meliputia. lavanan konsultasi hukum:b. pendampingan oleh kuasa hukum;  
 c. perlindungan sementara dari pihak kepolisian terhadap ancaman ancaman dan balas dendam yang dialami oleh korban;  
 d. perlindungan rumah aman dari Lembaga Perlindugan Saksi Korban dan/atau Pusat Pelayanan Terpadu;  
-e. pendampingan disetiap proses hukum dari lembaga pendamping korban dan/atau dari keluarga; danf. pendampingan ahli bahasa atau penerjemah termasuk bahasa isyarat;  
+e. pendampingan disetiap proses hukum dari lembaga pendamping korban dan/atau dari keluarga; dan  
+f. pendampingan ahli bahasa atau penerjemah termasuk bahasa isyarat;  
 2. Layanan penegakan dan bantuan hukum sebagaimana dimaksud pada ayat (1) dilakukan oleh petugas yang telah dilatih.  
 3. Layanan penegakan dan bantuan hukum sebagaimana dimaksud pada ayat (1) merupakan tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan hukum dan yang membidangi urusan pemberdayaan perempuan dan perlindungan anak yang dalam pelaksanaanya dapat bekerjasama dengan lembaga profesi advokat, organisasi bantuan hukum, lembaga pendamping korban, lembaga penegak hukum, Kantor Wilayah Hukum dan HAM serta pihak lainnya yang terkait.  
 
@@ -291,7 +302,8 @@ c. lavanan pengasuhan;
 d. lavanan pemberian beasiswa sekolah;  
 e. layanan peningkatan keterampilan dan pemberdayaan ekonomi;  
 f. layanan penguatan dan/atau konseling keluarga;  
-g. layanan penguatan dan/atau konseling masyarakat atau penyelenggara lembaga pendidikan; danh. layanan pemberian program perlindungan sosial di bidang pendidikan, kesehatan, ekonomi, sosial dan perumahan.  
+g. layanan penguatan dan/atau konseling masyarakat atau penyelenggara lembaga pendidikan; dan  
+h. layanan pemberian program perlindungan sosial di bidang pendidikan, kesehatan, ekonomi, sosial dan perumahan.  
 2. Layanan pemulangan dan reintegrasi sosial sebagaimana dimaksud pada ayat (1) merupakan tanggungjawab Organisasi Perangkat Daerah yang membidangi urusan sosial, urusan pendidikan, urusan kesehatan, urusan pemukiman dan pekerjaan umum, urusan ketenagakerjaan dan urusan koperasi dan UKM, urusan pemberdayaan masyarakat dan desa, urusan perdagangan dan perindustrian, dan urusan kependudukan.  
 3. Pelaksanaan layanan pemulangan dan reintegrasi sebagaimana dimaksud pada ayat (1) dapat bekerjasama dengan dunia usaha, badan zakat, organisasi masyarakat, lembaga swadaya masyarakat dan pihak-pihak lainya yang terkait.  
 
@@ -315,7 +327,8 @@ Biaya layanan sebagaimana dimaksud dalam pasal 10 merupakan kewajiban pemerintah
 1. Pelayanan kepada perempuan dan anak korban kekerasan sebagaimana dimaksud dalam Pasal 10 dilakukan secara komprehensif dan terpadu antar lintas sektor, profesi, dan disiplin pengetahuan.  
 2. Pelayanan sebagaimana dimaksud pada ayat (1) diselenggarakan dengan prinsip:a. non diskriminasi;  
 b. kesetaraan:c. perlindungan dan kerahasiaan;  
-d. kejujuran:e. pemberdayaan; danf. keterpaduan.  
+d. kejujuran:e. pemberdayaan; dan  
+f. keterpaduan.  
 3. Pelayanan kepada perempuan dan anak korban kekerasan dilakukan berdasarkan standar pelayanan sesuai dengan peraturan perundang- undangan.  
 4. Mekanisme pelayanan kepada perempuan dan anak korban kekerasan diselenggarakan menurut standar operasional prosedur.  
 5. Standar operasional prosedur sebagaimana dimaksud pada ayat (4) diatur lebih lanjut dengan Peraturan Bupati.  
@@ -349,7 +362,8 @@ g. organisasi keagamaan;
 h. organisasi masyarakat;  
 i. organisasi profesi;  
 j. pemberdayaan dan kesejahteraan keluarga;  
-k. lembaga pendamping korban; danl. lembaga swadaya masyarakat.  
+k. lembaga pendamping korban; dan  
+l. lembaga swadaya masyarakat.  
 5. Struktur Pusat Pelayanan Terpadu perlindungan perempuan dan anak (PPTPPA) sebagaimana dimaksud pada ayat (1) terdiri dari:a. penasehat;  
 b. ketua;  
 c. sekretaris;  
@@ -455,7 +469,8 @@ e. pelaporan.
 
 Biaya penyelenggaraan perlindungan perempuan dan anak korban kekerasan bersumber dari:  
 a. Anggaran Pendapatan dan Belanja Daerah;  
-b. Anggaran Pendapatan dan Belanja Desa; danc. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
+b. Anggaran Pendapatan dan Belanja Desa; dan  
+c. sumber lain yang sah dan tidak mengikat sesuai dengan ketentuan Peraturan Perundang-Undangan.  
 
 #### Pasal 30
 

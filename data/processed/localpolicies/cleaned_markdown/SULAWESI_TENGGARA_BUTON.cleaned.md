@@ -25,6 +25,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak merupakan kelompok rentan  yang cenderung mengalami tindak penyiksaan dan kekerasan sehingga harus mendapatkan perlindungan;  
 b. bahwa untuk memberikan arah, landasan dan kepastian  hukum kepada semua pihak dalam penyelenggaraan perlindungan perempuan dan anak di Kabupaten Buton,  perlu dilakukan pengaturan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
@@ -121,13 +122,15 @@ Perlindungan perempuan dan anak korban kekerasan  diselenggarakan berdasarkan as
 a. penghormatan dan pemenuhan terhadap hak korban;  
 b. keadilan dan kesetaraan gender;  
 c. nondiskriminasi;  
-d. kepentingan terbaik bagi korban; dane. pemberdayaan.  
+d. kepentingan terbaik bagi korban; dan  
+e. pemberdayaan.  
 
 #### Pasal 3
 
 Perlindungan perempuan dan anak korban kekerasan bertujuan  untuk:  
 a. mencegah segala bentuk kekerasan terhadap perempuan  dan anak;  
-b. memberikan pelayanan kepada korban; danc. melakukan pemberdayaan kepada perempuan korban  kekerasan.  
+b. memberikan pelayanan kepada korban; dan  
+c. melakukan pemberdayaan kepada perempuan korban  kekerasan.  
 
 Pasal4 Ruang lingkup pengaturan penyelenggaraan perlindungan  terhadap perempuan dan anak korban kekerasan dalam  peraturan daerah ini meliputi upaya pencegahan, pelayanan,  dan pemberdayaan terhadap korban kekerasan di Daerah.  
 
@@ -179,7 +182,8 @@ b. perbuatan yang dengan atau tanpa persetujuan korban yang  meliputi tapi tidak
 #### Pasal 1l
 
 Kekerasan lainnya sebagaimana dimaksud dalam Pasal 5 huruff  disebabkan karena:  
-a. ancaman kekerasan, meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; danb. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang  berlawanan dengan kehendak sendiri.  
+a. ancaman kekerasan, meliputi setiap perbuatan secara  melawan hukum berupa ucapan, tulisan, gambar, simbol,  atau gerakan tubuh, baik dengan atau tanpa menggunakan  sarana yang menimbulkan rasa takut atau mengekang  kebebasan hakiki seseorang; dan  
+b. pemaksaan, meliputi suatu keadaan dimana  seseorang/korban disuruh melakukan sesuatu sedemikian  rupa sehingga orang itu melakukan sesuatu yang  berlawanan dengan kehendak sendiri.  
 
 # BAB IV
 
@@ -226,7 +230,8 @@ Pemerintah Daerah
 b. penetapan kebijakan;  
 c. penyusunan rencana program dan kegiatan;  
 d. pemberian dukungan sarana dan prasarana;  
-e. pengawasan penyelenggaraan pelayanan terhadap  korban sesuai standar pelayanan minimal; danf. pengalokasian anggaran.  
+e. pengawasan penyelenggaraan pelayanan terhadap  korban sesuai standar pelayanan minimal; dan  
+f. pengalokasian anggaran.  
 3. Dalam melaksanakan kewajiban dan tangguung jawab  sebagaimana dimaksud pada ayat (1), Pemerintah Daerah  menyusun Rencana Aksi Daerah untuk perlindungan  korban.  
 4. Rencana Aksi Daerah untuk  sebagaimana dimaksud pada ayat  Peraturan Bupati.  
 
@@ -240,7 +245,8 @@ Masyarakat dan Keluarga
 
 Dalam upaya perlindungan korban, masyarakat dan keluarga  mempunyai kewajiban dan tanggung jawab sebagai berikut:  a. mencegah terjadinya kekerasan terhadap perempuan dan  anak;  
 b. melaporkan bila terjadi kekerasan;  
-c. melindungi korban; dand. membetikan pertolongan darurat.  
+c. melindungi korban; dan  
+d. membetikan pertolongan darurat.  
 
 # BAB VI
 
@@ -256,7 +262,8 @@ Pencegahan
 2. Upaya pencegahan sebagaimana dimaksud pada ayat ( 1)  dilaksanakan dengan cara:a. membentuk jaringan kerja dalam upaya pencegahan  kekerasan;  
 b. melakukan koordinasi, integrasi, sinkronisasi  pencegahan kekerasan berdasarkan pola kemitraan;  
 c. memberikan konseling/bimbingan;  
-d. melakukan sosialisasi tentang peraturan perundang  undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan; dane. memberikan pendidikan kritis tentang hak perempuan  dan anak bagi masyarakat.  
+d. melakukan sosialisasi tentang peraturan perundang  undangan yang berkaitan dengan perlindungan  perempuan dan anak korban kekerasan; dan  
+e. memberikan pendidikan kritis tentang hak perempuan  dan anak bagi masyarakat.  
 
 #### Pasal 18
 
@@ -287,7 +294,8 @@ b. pelayanan pendampingan;
 c. pelayanan Kesehatan;  
 d. pelayanan rehabilitasi sosial;  
 e. pelayanan bantuan hukum;  
-f. pelayanan psikologis; dang. pelayanan pemulangan dan reintegrasi sosial.  
+f. pelayanan psikologis; dan  
+g. pelayanan pemulangan dan reintegrasi sosial.  
 2. Bentuk pelayanan sebagaimana dimaksud pada ayat ( 1)  dilaksanakan oleh UPTD-PPA dan dapat bekerja sama  dengan Perangkat Daerah terkait dan masyarakat.  
 
 #### Pasal 21
@@ -299,7 +307,8 @@ b. identifikasi atau pencatatan awal korban;
 12 ­
 c. persetujuan untuk dilakukan tindakan;  
 d. rekomendasi layanan lanjutan;  
-e. koordinasi dan rujukan ke layanan lanjutan dan pihak  terkait; danf. pengadministrasian proses pengaduan.  
+e. koordinasi dan rujukan ke layanan lanjutan dan pihak  terkait; dan  
+f. pengadministrasian proses pengaduan.  
 
 #### Pasal 22
 
@@ -325,24 +334,28 @@ g. konsultasi dokter ahli atau melakukan rujukan; dan  h. pelaporan kasus.
 #### Pasal 24
 
 (I) Pelayanan rehabilitasi sosial sebagaimana dimaksud dalam  Pasal 20 huruf d merupakan pelayanan yang diberikan  pendamping dalam rangka:  
-a. memulihkan kondisi traumatis korban, termasuk  penyediaan rumah aman untuk melindungi korban dari  berbagai ancaman dan intimidasi; danb. memberikan dukungan secara sosial sehingga korban  mempunyai rasa percaya diri, kekuatan dan kemandiriam  dalam menyelesaikan masalah.  
+a. memulihkan kondisi traumatis korban, termasuk  penyediaan rumah aman untuk melindungi korban dari  berbagai ancaman dan intimidasi; dan  
+b. memberikan dukungan secara sosial sehingga korban  mempunyai rasa percaya diri, kekuatan dan kemandiriam  dalam menyelesaikan masalah.  
 
 13­ (2) Pelayanan rehabilitasi sosial sebagaimana dimaksud pada  ayat (1) dilakukan dengan cara:  
-a. bimbingan kerohanian kepada korban; danb. pemulihan kejiwaan korban.  
+a. bimbingan kerohanian kepada korban; dan  
+b. pemulihan kejiwaan korban.  
 
 #### Pasal 25
 
 {1) Pelayanan bantuan hukum sebagaimana dimaksud dalam  Pasal 20 huruf e merupakan jasa yang diberikan untuk  membantu korban dalam menjalani proses peradilan.  
 
 2. Pelayanan sebagaimana dimaksud dalam ayat (1) berupa:  a. konsultasi hukum yang mencakup informasi mengenai  hak korban dan proses peradilan;  
-b. pendampingan korban di tingkat penyidikan, penuntutan  dan pemeriksaan dalam sidang pengadilan dan  membantu korban untuk secara lengkap memaparkan  kekerasan yang dialaminya,c. koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan  berjalan sebagaimana mestinya; dand. pelaporan perkembangan kasus.  
+b. pendampingan korban di tingkat penyidikan, penuntutan  dan pemeriksaan dalam sidang pengadilan dan  membantu korban untuk secara lengkap memaparkan  kekerasan yang dialaminya,c. koordinasi dengan sesama penegak hukum, relawan  pendamping, dan pekerja sosial agar proses peradilan  berjalan sebagaimana mestinya; dan  
+d. pelaporan perkembangan kasus.  
 
 #### Pasal 26
 
 1. Pelayanan pemulangan Korban dan reintegrasi sosial  sebagaimana dimaksud dalam Pasal 20 huruf f bertujuan  untuk mengembalikan korban kepada keluarga dan  lingkungan sosialnya.  
 2. Pelayanan pemulangan dan reintegrasi sosial sebagaimana  dimaksud pada ayat (l) dilakukan setelah terlaksananya  sosialisasi terkait hak-hak perempuan sebagai korban.  
 3. Pelayanan pemulangan dan reintegrasi sosial sebagaimana  dimaksud pada ayat (I) dilakukan oleh Pemerintah Daerah  berkoordinasi dengan:a. Pemerintah Daerah Provinsi;  
-b. Pemerintah Daerah lainnya; danc. instansi dan lembaga pemerintah maupun  nonpemerintah terkait.  
+b. Pemerintah Daerah lainnya; dan  
+c. instansi dan lembaga pemerintah maupun  nonpemerintah terkait.  
 
 #### Pasal 27
 
@@ -351,7 +364,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiannya.  
 2. Penyelenggara atau pengelola pelayanan dilarang memungut  biaya apapun terhadap korban.  
 
 14 ­
@@ -373,7 +387,8 @@ b. usaha ekonomi produktif dan kelompok usaha bersama; dan  c. bantuan permodala
 
 Pelatihan kerja sebagaimana dimakasud dalam Pasal 28 huruf a,  meliputi:  
 a. pelatihan ketrampilan;  
-b. praktek kerja lapangan; danc. pemagangan.  
+b. praktek kerja lapangan; dan  
+c. pemagangan.  
 
 #### Pasal 30
 
@@ -383,7 +398,8 @@ b. fasilitasi pembentukan kelompok usaha bersama; dan  c. pendarnpingan pelaksan
 #### Pasal 31
 
 Bantuan permodalan sebagaimana dimaksud dalam Pasal 28  huruf c, meliputi:  
-a. bantuan sarana dan prasarana; danb. fasilitasi bantuan modal kerja.  
+a. bantuan sarana dan prasarana; dan  
+b. fasilitasi bantuan modal kerja.  
 
 ### Paragraf 2
 
@@ -399,16 +415,19 @@ Pemenuhan Hak Anak
 
 15­ {2) Kebijakan pengembangan KLA sebagaimana dimaksud pada  ayat (1) memuat ten tang:  
 a. konsep KLA;  
-b. hak anak; danc. pendekatan pengembangan KLA.  
+b. hak anak; dan  
+c. pendekatan pengembangan KLA.  
 3. Kebijakan pengembangan KLA sebagaimana dimaksud pada  ayat (1) diarahkan pada pemenuhan hak anak, meliputi:  a. hak sipil dan kebebasan;  
 b. lingkungan keluarga dan pengasuhan alternatif;  
 c. kesehatan dasar dan kesejahteraan;  
-d. pendidikan, pemanfaatan waktu luang, dan kegiatan  budaya; dane. perlindungan khusus.  
+d. pendidikan, pemanfaatan waktu luang, dan kegiatan  budaya; dan  
+e. perlindungan khusus.  
 4. Tahap pengembangan KLA sebagaimana dimaksud pada ayat  (1), meliputi:a. persiapan;  
 b. perencanaan;  
 c. pelaksanaan;  
 d. pemantauan;  
-e. evaluasi; danf. pelaporan.  
+e. evaluasi; dan  
+f. pelaporan.  
 
 (SJ Ketentuan lebih lanjut mengenai kebijakan pengembangan  KLA diatur dengan Peraturan Bupati.  
 
@@ -423,7 +442,8 @@ f. melakukan disemmasi data dasar;
 g. menentukan fokus dan prioritas  mewujudkan KLA, yang disesuaikan  Daerah;  
 
 program  dengan dalam  potensi
-h. menyusun rencana aksi daerah dan mekanisme kerja  KLA 5 (lima) tahunan; dani. melakukan monitoring, evaluasi dan pelaporan paling  sedikit 1 (satu) tahun sekali.  
+h. menyusun rencana aksi daerah dan mekanisme kerja  KLA 5 (lima) tahunan; dan  
+i. melakukan monitoring, evaluasi dan pelaporan paling  sedikit 1 (satu) tahun sekali.  
 3. Ketentuan lebih lanjut mengenai tata cara pengangkatan dan  pemberhentian keanggotaan Gugus Tugas KLA diatur  dengan Peraturan Bupati.  
 
 #### Pasal 35
@@ -443,12 +463,14 @@ Koordinasi Perlindungan Korban
 {l) Dalam upaya menyediakan dan menyelenggarakan  penanganan layanan bagi korban, Pemerintah Daerah dapat  membentuk FPKK.  
 
 2. FPKK sebagaimana dimaksud pada ayat (1) bertujuan untuk:  a. mengkoordinasikan dan mensingkronisasikan  penanganan pelayanan UPTD-PPA;  
-b. memelihara dan mengembangkan jejaring serta sistem  rujukan; danc. mengumpulkan, menyusun dan menyajikan laporan  kekerasan.  
+b. memelihara dan mengembangkan jejaring serta sistem  rujukan; dan  
+c. mengumpulkan, menyusun dan menyajikan laporan  kekerasan.  
 3. Kepungurusan dan keanggotaan FPKK sebagaimana  dimaksud pada ayat (1) ditetapkan dengan Keputusan  Bupati.  
 4. Keanggotaan FPKK sebagaimana dimaksud pada ayat (3)  dikelompokkan dalam peran sebagai berikut:a. peran kesehatan;  
 b. peran psikologi;  
 c. peran hukum;  
-d. peran sosial; dane. peran ekonomi.  
+d. peran sosial; dan  
+e. peran ekonomi.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas,  pokok, dan fungsi serta keanggotaan FPKK sebagaimana  dimaksud pada ayat (1) diatur dengan Peraturan Bupati.  
 
 # BAB VII
@@ -469,7 +491,8 @@ d. peran sosial; dane. peran ekonomi.
 1. Pemerintah Daerah melakukan pembinaan dan pengawasan  terhadap pelaksanaan perlindungan perempuan dan anak  korban kekerasan di daerah.  
 2. Pembinaan dan Pengawasan sebagaimana dimaksud pada  ayat (1) meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a  mencakup aspek yang berkaitan dengan perencanaan dan  pelaksanaan.  
 
 {4) Bimbingan sebagaimana dimaksud pada ayat (2) huruf b  mencakup aspek yang berkaitan dengan perencanaan,  pelaksanaan, tata laksana, pendanaan, kualitas,  pengendalian dan pengawasan.  
@@ -524,7 +547,8 @@ Ditetapkan di Pasarwajo pada tanggal 23 Fkra»; 2021
 
 18­
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 3. Peran serta masyarakat sebagaimana dimaksud pada ayat  (1) dilakukan o\eh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB XI

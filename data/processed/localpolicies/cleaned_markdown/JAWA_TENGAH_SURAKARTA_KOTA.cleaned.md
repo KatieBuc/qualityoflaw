@@ -19,6 +19,7 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki  hak asasi manusia yang harus dilindungi, dihormati, dipertahankan, dan tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun sehingga perlu mendapatkan jaminan pelindungan dari tindak kekerasan, eksploitasi dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam rangka mewujudkan pemenuhan hak hak konstitusional perempuan yang bebas dari tindak kekerasan, eksploitasi dan diskriminasi, serta untuk meningkatkan kualitas hidup perempuan perlu mendapatkan pelindungan dan pemberdayaan dari Pemerintah Daerah;  
 c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanakan secara maksimal dan disertai masih terjadinya tindak kekerasan, eksploitasi dan diskriminasi terhadap perempuan sehingga diperlukan suatu pengaturan yang komprehensif untuk memberikan arah, landasan, dan kepastian hukum;  
@@ -27,6 +28,7 @@ c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanak
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -134,7 +136,8 @@ c. kewajiban dan tanggungjawab Pemerintah Daerah;
 d. kelembagaan.  e. koordinasi dan kerjasama;  
 f. peran serta;  
 g. pemantauan, evaluasi dan pelaporan;  
-h. penghargaan; dani. pembiayaan.  
+h. penghargaan; dan  
+i. pembiayaan.  
 
 # BAB II
 
@@ -154,9 +157,11 @@ c. mengembangkan diri;
 d. memperoleh keadilan;  
 e. atas kebebasan pribadi;  
 f. atas rasa aman;  
-g. atas kesejahteraan; danh. turut serta dalam pemerintahan.  
+g. atas kesejahteraan; dan  
+h. turut serta dalam pemerintahan.  
 2. Hak untuk hidup sebagaimana dimaksud pada ayat (1)  huruf a meliputi:a. hak mempertahankan hidup dan meningkatkan  taraf kehidupannya;  
-b. hak memperoleh rasa tenteram, rasa aman, rasa  damai, kebahagiaan, kesejahteraan lahir dan  batin; danc. hak atas lingkungan hidup yang baik dan sehat. (3) Hak berkeluarga dan melanjutkan keturunan  sebagaimana dimaksud pada ayat (1) huruf b, yaitu hak  membentuk suatu keluarga dan melanjutkan  keturunan melalui perkawinan yang sah sesuai agama  dan ketentuan peraturan perundang-undangan. (4) Hak mengembangkan diri sebagaimana dimaksud pada  ayat (1) huruf c, meliputi:a. hak atas pemenuhan kebutuhan dasarnya untuk  tumbuh dan berkembang secara layak;  
+b. hak memperoleh rasa tenteram, rasa aman, rasa  damai, kebahagiaan, kesejahteraan lahir dan  batin; dan  
+c. hak atas lingkungan hidup yang baik dan sehat. (3) Hak berkeluarga dan melanjutkan keturunan  sebagaimana dimaksud pada ayat (1) huruf b, yaitu hak  membentuk suatu keluarga dan melanjutkan  keturunan melalui perkawinan yang sah sesuai agama  dan ketentuan peraturan perundang-undangan. (4) Hak mengembangkan diri sebagaimana dimaksud pada  ayat (1) huruf c, meliputi:a. hak atas pemenuhan kebutuhan dasarnya untuk  tumbuh dan berkembang secara layak;  
 b. hak atas pelindungan bagi pengembangan  pribadinya, untuk memperoleh pendidikan,  mencerdaskan diri dan meningkatkan kualitas  hidup agar menjadi manusia yang beriman,  bertaqwa, bertanggung jawab, berakhlak mulia,  bahagia, dan Sejahtera sesuai dengan hak asasi  manusia;  
 c. hak untuk mengembangkan dan memperoleh  manfaat dari ilmu pengetahuan dan teknologi, seni  dan budaya sesuai dengan martabat manusia demi  kesejahteraan pribadinya, bangsa, dan umat  manusia;  
 
@@ -166,16 +171,21 @@ e. hak untuk mencari, memperoleh, memiliki,  menyimpan, mengolah, dan menyampaik
 f. hak untuk memperjuangkan hak pengembangan  dirinya, baik secara pribadi maupun kolektif,  untuk membangun masyarakat, bangsa, dan  negaranya sesuai norma agama, sosial, dan  hukum;  
 g. hak untuk melakukan pekerjaan sosial sesuai  norma agama, sosial, dan hukum;  
 h. hak untuk berpartisipasi dalam perencanaan dan pelaksanaan kebijakan pemerintah sesuai  ketentuan peraturan perundang-undangan;  
-i. hak untuk berorganisasi dan membentuk  organisasi sesuai ketentuan peraturan perundang undangan; danj. hak untuk menyelenggarakan pendidikan dan  pengajaran sesuai norma agama, sosial, dan  hukum.  
+i. hak untuk berorganisasi dan membentuk  organisasi sesuai ketentuan peraturan perundang undangan; dan  
+j. hak untuk menyelenggarakan pendidikan dan  pengajaran sesuai norma agama, sosial, dan  hukum.  
 5. Hak memperoleh keadilan sebagaimana dimaksud pada ayat (1) huruf d, meliputi:a. hak mendapatkan perlakuan yang sama tanpa  diskriminasi;  
 b. hak untuk memperoleh keadilan;  
-c. hak untuk mengajukan permohonan, pengaduan,  dan gugatan, baik dalam perkara pidana, perdata,  maupun administrasi; dand. hak untuk diadili melalui proses peradilan yang  bebas dan tidak memihak, sesuai dengan hukum  acara yang menjamin pemeriksaan yang obyektif - 13 - oleh hakim yang jujur dan adil untuk memperoleh  putusan yang adil dan benar.  
+c. hak untuk mengajukan permohonan, pengaduan,  dan gugatan, baik dalam perkara pidana, perdata,  maupun administrasi; dan  
+d. hak untuk diadili melalui proses peradilan yang  bebas dan tidak memihak, sesuai dengan hukum  acara yang menjamin pemeriksaan yang obyektif - 13 - oleh hakim yang jujur dan adil untuk memperoleh  putusan yang adil dan benar.  
 6. Hak atas kebebasan pribadi sebagaimana dimaksud  pada ayat (1) huruf e, meliputi:a. hak untuk tidak diperbudak atau diperhamba,  diperdagangkan, dan segala perbuatan yang  tujuannya serupa;  
 b. hak atas keutuhan pribadi, baik rohani maupun  jasmani;  
-c. hak untuk tidak menjadi obyek penelitian tanpa  persetujuan darinya; dand. hak untuk bebas mengeluarkan dan  menyampaikan pendapat dengan memperhatikan  nilai-nilai agama, kesusilaan, ketertiban,  kepentingan umum, dan keutuhan bangsa.  
+c. hak untuk tidak menjadi obyek penelitian tanpa  persetujuan darinya; dan  
+d. hak untuk bebas mengeluarkan dan  menyampaikan pendapat dengan memperhatikan  nilai-nilai agama, kesusilaan, ketertiban,  kepentingan umum, dan keutuhan bangsa.  
 7. Hak atas rasa aman sebagaimana dimaksud pada ayat  (1) huruf f, meliputi:a. hak atas pelindungan diri pribadi, keluarga,  kehormatan, martabat, dan hak miliknya;  
-b. hak atas pengakuan di depan hukum sebagai  manusia pribadi; danc. hak bebas dari ancaman untuk berbuat atau tidak  berbuat sesuatu yang melanggar norma agama,  sosial, dan hukum.  
-8. Hak atas kesejahteraan sebagaimana dimaksud pada ayat (1) huruf g, meliputi:a. hak memiliki kesejahteraan, baik sendiri maupun  bersamasama; danb. hak melakukan pekerjaan dan mendapatkan upah  yang adil sesuai sesuai dengan pekerjaannya yang  sebanding dan sepadan dengan martabat  kemanusiannya dengan ketentuan peraturan  perundang-undangan.  
+b. hak atas pengakuan di depan hukum sebagai  manusia pribadi; dan  
+c. hak bebas dari ancaman untuk berbuat atau tidak  berbuat sesuatu yang melanggar norma agama,  sosial, dan hukum.  
+8. Hak atas kesejahteraan sebagaimana dimaksud pada ayat (1) huruf g, meliputi:a. hak memiliki kesejahteraan, baik sendiri maupun  bersamasama; dan  
+b. hak melakukan pekerjaan dan mendapatkan upah  yang adil sesuai sesuai dengan pekerjaannya yang  sebanding dan sepadan dengan martabat  kemanusiannya dengan ketentuan peraturan  perundang-undangan.  
 9. Hak turut serta dalam pemerintahan sebagaimana  dimaksud pada ayat (1) huruf h, meliputi:a. hak untuk dipilih dan memilih dalam pemilihan  umum; pemilihan kepala daerah, dan/atau - 14 - pemilihan jabatan politik lainnya berdasarkan  persamaan hak melalui pemungutan suara yang  langsung, umum, bebas, rahasia, jujur dan adil  menurut peraturan perundang-undangan yang  berlaku;  
 b. hak untuk berkarier dalam pemerintahan; dan  c. hak untuk menyampaikan aspirasi secara  langsung maupun melalui perantara dalam  pemerintahan.  
 
@@ -186,13 +196,15 @@ Hak Perempuan Korban Kekerasan, Eksploitasi dan  Diskriminasi
 #### Pasal 5
 
 1. Setiap Perempuan korban Kekerasan, Eksploitasi dan  Diskriminasi memiliki:a. hak atas penanganan;  
-b. hak Korban atas Pelindungan; danc. hak Korban atas pemulihan.  
+b. hak Korban atas Pelindungan; dan  
+c. hak Korban atas pemulihan.  
 2. Hak atas penanganan sebagaimana dimaksud pada  ayat (1) huruf a meliputi:a. hak atas informasi terhadap seluruh proses dan  hasil Penanganan, Pelindungan, dan Pemulihan;  
 b. hak mendapatkan dokumen hasil penanganan;  
 c. hak atas layanan hukum;  
 d. hak atas penguatan psikologis;  
 e. hak atas pelayanan kesehatan meliputi  pemeriksaan, tindakan, dan perawatan medis;  
-f. hak atas layanan dan fasilitas sesuai dengan  kebutuhan khusus korban; dang. hak atas penghapusan konten bermuatan seksual  untuk kasus kekerasan seksual dengan media  elektronik.  
+f. hak atas layanan dan fasilitas sesuai dengan  kebutuhan khusus korban; dan  
+g. hak atas penghapusan konten bermuatan seksual  untuk kasus kekerasan seksual dengan media  elektronik.  
 
 15 - (3) Hak Korban atas Pelindungan sebagaimana dimaksud  pada ayat (1) huruf b meliputi:  
 a. penyediaan informasi mengenai hak dan fasilitas  Pelindungan;  
@@ -204,7 +216,8 @@ f. pelindungan dari kehilangan pekerjaan, mutasi  pekerjaan, Pendidikan, atau ak
 b. rehabilitasi mental dan sosial;  
 c. pemberdayaan sosial;  
 d. restitusi dan/atau kompensasi;  
-e. reintegrasi sosial; danf. mendapatkan pelatihan ketrampilan untuk  peningkatan ekonomi untuk perempuan rentan.  
+e. reintegrasi sosial; dan  
+f. mendapatkan pelatihan ketrampilan untuk  peningkatan ekonomi untuk perempuan rentan.  
 
 #### Pasal 6
 
@@ -212,12 +225,15 @@ e. reintegrasi sosial; danf. mendapatkan pelatihan ketrampilan untuk  peningkata
 b. kekerasan psikis;  
 c. kekerasan seksual;  
 d. kekerasan ekonomi;  
-e. eksploitasi; danf. KBGO.  
+e. eksploitasi; dan  
+f. KBGO.  
 
 16 - (2) Kekerasan Ekonomi sebagaimana dimaksud pada ayat  (1) huruf d meliputi:  
-a. mengambil alih kendali penuh atas pendapatan  korban, termasuk gaji, tabungan, atau bantuan  keuangan lain yang diterima korban:b. membatasi atau melarang korban untuk memiliki  atau menggunakan uang, sehingga korban  bergantung sepenuhnya pada pelaku untuk  kebutuhan finansial:c. melarang atau menghalangi korban untuk bekerja  atau melanjutkan pendidikan dengan tujuan  membatasi kemandirian finansial korban:d. menggunakan aset atau harta korban untuk  keuntungan pribadi atau merusak aset tersebut  sebagai bentuk hukuman; dane. membuat semua keputusan finansial tanpa  melibatkan korban, sehingga korban tidak  memiliki kendali atas keuangan rumah tangga.  
+a. mengambil alih kendali penuh atas pendapatan  korban, termasuk gaji, tabungan, atau bantuan  keuangan lain yang diterima korban:b. membatasi atau melarang korban untuk memiliki  atau menggunakan uang, sehingga korban  bergantung sepenuhnya pada pelaku untuk  kebutuhan finansial:c. melarang atau menghalangi korban untuk bekerja  atau melanjutkan pendidikan dengan tujuan  membatasi kemandirian finansial korban:d. menggunakan aset atau harta korban untuk  keuntungan pribadi atau merusak aset tersebut  sebagai bentuk hukuman; dan  
+e. membuat semua keputusan finansial tanpa  melibatkan korban, sehingga korban tidak  memiliki kendali atas keuangan rumah tangga.  
 3. Eksploitasi sebagaimana dimaksud pada ayat (1) huruf  e paling sedikit:a. memanfaatkan tenaga kerja perempuan dengan  memberikan upah yang tidak layak, memaksakan  jam kerja yang berlebihan, atau tidak memberikan  kondisi kerja yang aman dan sehat;  
-b. memanfaatkan perempuan untuk tujuan seksual,  dengan paksaan, penipuan, atau tekanan.  Termasuk perdagangan manusia untuk tujuan  prostitusi atau produksi pornografi; danc. memanfaatkan perempuan secara tidak adil dalam  transaksi ekonomi, seperti memberikan pinjaman  dengan bunga yang sangat tinggi atau  memanipulasi pasar untuk keuntungan pribadi.  
+b. memanfaatkan perempuan untuk tujuan seksual,  dengan paksaan, penipuan, atau tekanan.  Termasuk perdagangan manusia untuk tujuan  prostitusi atau produksi pornografi; dan  
+c. memanfaatkan perempuan secara tidak adil dalam  transaksi ekonomi, seperti memberikan pinjaman  dengan bunga yang sangat tinggi atau  memanipulasi pasar untuk keuntungan pribadi.  
 4. KBGO sebagaimana dimaksud pada ayat (1) huruf f, meliputi:a. komentar atau pesan yang bersifat menghina,  merendahkan, atau meremehkan perempuan;  
 
 17 -
@@ -225,7 +241,8 @@ b. pesan atau komentar yang mengancam akan  melakukan kekerasan fisik atau seksu
 c. menyebarluaskan informasi pribadi korban  (seperti alamat, nomor telepon, atau identitas  lainnya) tanpa izin dengan tujuan mengintimidasi  atau merugikan korban;  
 d. pemerasan yang melibatkan ancaman untuk  menyebarkan gambar atau video intim korban  kecuali korban memenuhi tuntutan pelaku;  
 e. menyebarkan foto atau video pribadi yang bersifat  intim tanpa persetujuan dari perempuan yang ada  dalam konten tersebut;  
-f. penggunaan teknologi untuk menguntit atau  mengawasi korban secara terus-menerus, sering  kali dengan tujuan menakut-nakuti atau  mengendalikan korban; dang. mengubah gambar atau video perempuan secara  digital untuk tujuan menghina, mempermalukan,  atau mengeksploitasi secara seksual.  
+f. penggunaan teknologi untuk menguntit atau  mengawasi korban secara terus-menerus, sering  kali dengan tujuan menakut-nakuti atau  mengendalikan korban; dan  
+g. mengubah gambar atau video perempuan secara  digital untuk tujuan menghina, mempermalukan,  atau mengeksploitasi secara seksual.  
 
 # BAB III
 
@@ -279,7 +296,8 @@ n. mengembangkan sistem pelindungan dan  dukungan khusus bagi kelompok perempuan
 o. melakukan penyadaran bagi pelaku;  
 
 20 -
-p. meningkatkan kapasitas Perangkat Daerah,  instansi pemerintah, lembaga pendidikan, lembaga  keagamaan, Lembaga penyelenggara pelayanan  kesehatan, lembaga profesi, dunia usaha, lembaga  layanan, pesantren, organisasi kepemudaan,  organisasi bantuan hukum, media, tokoh agama,  tokoh masyarakat dan komunitas; danq. membentuk jaringan kerjasama dalam upaya  pencegahan dari tindak kekerasan, eksploitasi dan  diskriminasi dengan aparatur penegak hukum,  instansi pemerintah, Perangkat Daerah, lembaga  masyarakat, lembaga pendidikan, tokoh  masyarakat, lembaga keagamaan, Lembaga  penyelenggara pelayanan kesehatan, lembaga  profesi, dunia usaha, lembaga layanan, pesantren,  organisasi kepemudaan, organisasi bantuan  hukum, komunitas, dan media.  
+p. meningkatkan kapasitas Perangkat Daerah,  instansi pemerintah, lembaga pendidikan, lembaga  keagamaan, Lembaga penyelenggara pelayanan  kesehatan, lembaga profesi, dunia usaha, lembaga  layanan, pesantren, organisasi kepemudaan,  organisasi bantuan hukum, media, tokoh agama,  tokoh masyarakat dan komunitas; dan  
+q. membentuk jaringan kerjasama dalam upaya  pencegahan dari tindak kekerasan, eksploitasi dan  diskriminasi dengan aparatur penegak hukum,  instansi pemerintah, Perangkat Daerah, lembaga  masyarakat, lembaga pendidikan, tokoh  masyarakat, lembaga keagamaan, Lembaga  penyelenggara pelayanan kesehatan, lembaga  profesi, dunia usaha, lembaga layanan, pesantren,  organisasi kepemudaan, organisasi bantuan  hukum, komunitas, dan media.  
 5. Upaya pencegahan Kekerasan, Eksploitasi dan  Diskriminasi terhadap perempuan secara terpadu  sebagaimana dimaksud pada ayat (1) dikoordinasikan  oleh Perangkat Daerah yang menyelenggarakan urusan  pemerintahan di bidang pemberdayaan perempuan dan  pelindungan anak serta urusan pemerintahan bidang  pengendalian penduduk dan keluarga berencana.  
 6. Upaya pencegahan sebagaimana dimaksud pada ayat  (3) huruf a dapat melibatkan Perangkat Daerah,  instansi, lembaga masyarakat, lembaga pendidikan,  tokoh masyarakat, pos pelayanan terpadu, pusat  pembelajaran keluarga, lembaga keagamaan, lembaga  penyelenggara pelayanan kesehatan, lembaga profesi,  dunia usaha, lembaga layanan, pesantren, organisasi  kepemudaan, organisasi bantuan hukum, komunitas,  dan media.  
 
@@ -305,7 +323,8 @@ o. pekerjaan umum dan penataan ruang;
 p. perumahan rakyat dan kawasan pemukiman;  
 q. pemberdayaan perempuan dan pelindungan anak;  
 r. administrasi kependudukan dan pencatatan sipil;  
-s. pengendalian penduduk dan keluarga berencana; dant. bidang lainnya yang terkait.  
+s. pengendalian penduduk dan keluarga berencana; dan  
+t. bidang lainnya yang terkait.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah  sebagaimana dimaksud pada ayat (1), dilaksanakan  secara terpadu dan berkesinambungan berdasarkan  Rencana Aksi Daerah yang dikoordinasikan oleh  Perangkat Daerah yang menyelenggarakan urusan  pemerintahan di bidang Pelindungan dan  Pemberdayaan Perempuan.  
 
 22 -
@@ -325,7 +344,8 @@ f. pemberdayaan;
 g. keputusan berdasarkan korban;  
 h. kejujuran;  
 i. profesional;  
-j. keterpaduan; dank. keberlanjutan.  
+j. keterpaduan; dan  
+k. keberlanjutan.  
 2. Penyelenggaraan pelayanan terhadap korban dilakukan  secara terpadu oleh UPTD PPA.  
 3. Dalam penyelenggaraan pelayanan sebagaimana  dimaksud pada ayat (1), UPTD PPA dapat bekerjasama  dengan:a. pusat kesehatan masyarakat, rumah sakit, dan  fasilitas layanan kesehatan lainnya;  
 b. unit pelaksana teknis yang membidangi urusan di  bidang sosial;  
@@ -372,7 +392,8 @@ e. ketenagakerjaan;
 f. politik;  
 g. pemerintahan;  
 h. sosial;  
-i. budaya; danj. lingkungan hidup.  
+i. budaya; dan  
+j. lingkungan hidup.  
 
 #### Pasal 13
 
@@ -382,7 +403,8 @@ i. budaya; danj. lingkungan hidup.
 
 3. Pelayanan kesehatan sebagaimana dimaksud pada ayat  (2) meliputi:a. pelayanan kesehatan masa sebelum hamil, hamil,  persalinan dan sesudah melahirkan;  
 b. pengaturan kehamilan, pelayanan kontrasepsi dan  kesehatan seksual;  
-c. pelayanan kesehatan reproduksi; dand. pelayanan dan penyediaan ruang laktasi yang  memadai pada setiap instansi pemerintah Daerah,  sarana publik dan industri.  
+c. pelayanan kesehatan reproduksi; dan  
+d. pelayanan dan penyediaan ruang laktasi yang  memadai pada setiap instansi pemerintah Daerah,  sarana publik dan industri.  
 4. Pelayanan kesehatan sebagaimana dimaksud pada ayat  (2) dilaksanakan melalui pendekatan promotif,  preventif, kuratif dan rehabilitatif.  
 
 #### Pasal 14
@@ -395,12 +417,14 @@ c. pelayanan kesehatan reproduksi; dand. pelayanan dan penyediaan ruang laktasi 
 
 Penyelenggaraan Pemberdayaan Perempuan di bidang  ekonomi sebagaimana dimaksud dalam Pasal 12 ayat (2)  huruf c dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang usaha - 26 - mikro kecil menengah dan instansi terkait lainnya dalam  bentuk:  
 a. pemberian keterampilan dan pelatihan kerja;  
-b. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; danc. fasilitasi pengembangan jaringan pemasaran.  
+b. fasilitasi pembentukan dan penguatan kelompok usaha  ekonomi produktif; dan  
+c. fasilitasi pengembangan jaringan pemasaran.  
 
 #### Pasal 16
 
 Penyelenggaraan Pemberdayaan Perempuan di bidang  hukum sebagaimana dirnaksud dalam Pasal 13 ayat (2)  huruf d dilaksanakan oleh Perangkat Daerah dan lembaga  terkait lainnya dalam bentuk:  
-a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; danb. fasilitasi akses dan layanan konsultasi hukum.  
+a. peningkatan kesadaran dan pengetahuan di bidang  hukum melalui layanan komunikasi, informasi dan  edukasi; dan  
+b. fasilitasi akses dan layanan konsultasi hukum.  
 
 #### Pasal 17
 
@@ -414,7 +438,8 @@ a. perempuan memiliki kesempatan yang sama tanpa  diskriminasi untuk memperoleh 
 1. Penyelenggaraan Pemberdayaan Perempuan di bidang  politik dan pemerintahan sebagaimana dimaksud  dalam Pasal 12 ayat (2) huruf f dan huruf g dilaksanakan oleh Perangkat Daerah yang  menyelenggarakan urusan pemerintahan di bidang  kesatuan bangsa dan politik, Perangkat Daerah dan  instansi terkait lainnya dalam bentuk:a. pengembangan kapasitas perempuan;  
 b. pengembangan diri melalui organisasi untuk  berserikat, berkumpul dan mengeluarkan  pendapat;  
 c. pelibatan perempuan dalam pengambilan  keputusan di berbagai tingkatan;  
-d. pemberian akses bagi perempuan untuk  menduduki jabatan publik; dane. partisipasi dalam pemilihan umum, pemilihan  kepala daerah dan jabatan politik lainnya di  daerah.  
+d. pemberian akses bagi perempuan untuk  menduduki jabatan publik; dan  
+e. partisipasi dalam pemilihan umum, pemilihan  kepala daerah dan jabatan politik lainnya di  daerah.  
 2. Pemerintah Daerah memberikan jaminan kepada  perempuan untuk mempunyai hak memilih dan/atau  dipilih dalam pemilihan umum, pemilihan kepala  daerah, dan/atau pemilihan jabatan politik lainnya  berdasarkan persamaan hak melalui pemungutan  suara yang langsung, umum, bebas, rahasia, jujur dan  adil sesuai dengan ketentuan peraturan perundang undangan.  
 3. Pemerintah Daerah memberikan kesempatan pada  perempuan untuk diangkat sebagai pejabat Pemerintah  Daerah dan menempati posisi strategis dalam  pemerintahan daerah.  
 4. Pemerintah Daerah dan/atau Partai Politik  bertanggungjawab memberikan pendidikan politik bagi  perempuan.  
@@ -427,7 +452,8 @@ Penyelenggaraan Pemberdayaan Perempuan di bidang sosial  sebagaimana dimaksud da
 a. upaya penyadaran dan peningkatan kapasitas diri di  bidang sosial;  
 b. pemberian dan pengembangan akses bagi perempuan  untuk berpartisipasi pada bidang sosial;  
 c. peningkatan kompetensi perempuan melalui pelatihan  dan pendidikan sosial bagi perempuan;  
-d. pelibatan perempuan dalam kegiatan sosial; dane. penumbuhkembangan wadah atau lembaga perempuan  pada bidang sosial.  
+d. pelibatan perempuan dalam kegiatan sosial; dan  
+e. penumbuhkembangan wadah atau lembaga perempuan  pada bidang sosial.  
 
 #### Pasal 20
 
@@ -445,7 +471,8 @@ Penyelenggaraan Pemberdayaan Perempuan di bidang  lingkungan hidup sebagaimana d
 a. penyadaran dan pembentukan perilaku perempuan  sadar lingkungan hidup;  
 b. peningkatan kapasitas dan kompetensi perempuan  melalui pelatihan dan pendidikan lingkungan hidup;  
 c. pemberian dan pengembangan akses perempuan untuk  berpartisipasi di bidang lingkungan hidup;  
-d. pelibatan perempuan dalam kegiatan lingkungan  hidup; dane. penumbuhkembangan wadah atau lembaga perempuan  pada bidang lingkungan hidup.  
+d. pelibatan perempuan dalam kegiatan lingkungan  hidup; dan  
+e. penumbuhkembangan wadah atau lembaga perempuan  pada bidang lingkungan hidup.  
 
 ## Bagian Kelima
 
@@ -476,7 +503,8 @@ Ketentuan mengenai upaya Pelindungan Perempuan melalui  peningkatan kualitas Kel
 
 Dalam upaya pelindungan terhadap perempuan korban  kekerasan, Pemerintah Daerah wajib:  
 a. menjamin terselenggaranya pemenuhan hak  perempuan dan pemberian jaminan rasa aman dari  tindakan kekerasan, eksploitasi dan diskriminasi  terhadap perempuan di daerah;  
-b. menetapkan kebijakan, program, kegiatan pelindungan  perempuan dan jaminan penanganan korban untuk  menghapus segala bentuk tindak kekerasan,  eksploitasi dan diskriminasi terhadap perempuan di  daerah; danc. memberikan pembinaan dan pengawasan dalam upaya  pelindungan perempuan yang dilakukan oleh Perangkat  Daerah yang menangani urusan pemerintahan di  bidang Perlindungan dan Pemberdayaan Perempuan.  
+b. menetapkan kebijakan, program, kegiatan pelindungan  perempuan dan jaminan penanganan korban untuk  menghapus segala bentuk tindak kekerasan,  eksploitasi dan diskriminasi terhadap perempuan di  daerah; dan  
+c. memberikan pembinaan dan pengawasan dalam upaya  pelindungan perempuan yang dilakukan oleh Perangkat  Daerah yang menangani urusan pemerintahan di  bidang Perlindungan dan Pemberdayaan Perempuan.  
 
 #### Pasal 25
 
@@ -504,7 +532,8 @@ i. memfasilitasi kebutuhan Korban Penyandang  Disabilitas;
 j. mengoordinasikan dan bekerja stuna atas  pemenuhan hak Korban dengan lembaga lainnya;  dan - 32 -k. memantau pemenuhan hak Korban oleh aparatur  penegak hukum selama proses acara peradilan. (4) UPTD PPA sebagaimana dimaksud pada ayat (1)  dikelompokkan dalam peran sebagai berikut:a. kesehatan;  
 b. psikologi;  
 c. sosial-pendidikan;  
-d. hukum; dane. ekonomi.  
+d. hukum; dan  
+e. ekonomi.  
 5. Ketentuan lebih lanjut mengenai pembentukan, tugas  pokok dan fungsi serta kepengurusan UPTD PPA  sebagaimana dimaksud pada ayat (1) diatur dengan  Peraturan Wali Kota.  
 
 #### Pasal 27

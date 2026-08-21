@@ -21,6 +21,7 @@ Menimbang:
  
  
  
+ 
  Mengingat bahwa perempuan dan anak adalah aset yang sangat  berharga untuk menjamin kelangsungan eksistensi bangsa,  maka perlu adanya perlindungan dari segala bentuk  kekerasan dan ketidakadilan;  
 
 . bahwa perlindungan dilakukan untuk menjamin hak-hak  konstitusional dan pemenuhan hak-hak perempuan dan  anak yang bebas dari kekerasan dan perlakuan yang  merendahkan derajat martabat perempuan dan anak;  
@@ -249,19 +250,22 @@ terhadap Anak, dan/atau eksploitasi seksual terhadap  Anak;
 
 perbuatan melanggar kesusilaan yang bertentangan  dengan kehendak Korban;  
 e. pornografi yang melibatkan Anak atau pornografi yang  secara eksplisit memuat Kekerasan dan eksploitasi  seksual,f. pemaksaan pelacuran,g. tindak pidana perdagangan orang yang ditujukan  untuk eksploitasi seksual,h. kekerasan seksual dalam lingkup rumah tangga;  
-i. tindak pidana pencucian uang yang tindak pidana  asalnya merupakan TPKS; danj. tindak pidana lain yang dinyatakan secara tegas  sebagai TPKS sebagaimana diatur dalam ketentuan  peraturan perundang-undangan.  
+i. tindak pidana pencucian uang yang tindak pidana  asalnya merupakan TPKS; dan  
+j. tindak pidana lain yang dinyatakan secara tegas  sebagai TPKS sebagaimana diatur dalam ketentuan  peraturan perundang-undangan.  
 
 #### Pasal 9
 
 Penelantaran dalam rumah tangga sebagaimana dimaksud  dalam Pasal 5 huruf d, meliputi:  
 a. perbuatan mengabaikan perempuan dengan sengaja  dalam lingkup rumah tangganya, padahal menurut  hukum yang berlaku baginya atau karena persetujuan  atau perjanjian ia wajib memberikan kehidupan,  perawatan kepada perempuan tersebut;  
 b. perbuatan yang mengakibatkan tidak terpenuhinya  kebutuhan anak secara wajar, baik fisik, mental, spiritual  maupun sosial yang dilakukan oleh orang tua, wali, atau  pihak lain maupun yang bertanggung jawab atas  pengasuhannya;  
-c. perbuatan mengabaikan dengan sengaja untuk merawat  atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya; dand. pengabaian dengan sengaja anak yang masih  membutuhkan pengasuhan oleh ibu kandungnya untuk  menjadi Pekerja Migran Indonesia di luar negeri.  
+c. perbuatan mengabaikan dengan sengaja untuk merawat  atau mengurus anak sebagaimana mestinya yang  dilakukan oleh orang tua, wali, atau pihak lain manapun  yang bertanggung jawab atas pengasuhannya; dan  
+d. pengabaian dengan sengaja anak yang masih  membutuhkan pengasuhan oleh ibu kandungnya untuk  menjadi Pekerja Migran Indonesia di luar negeri.  
 
 #### Pasal 10
 
 1. Eksploitasi sebagaimana yang dimaksud dalam Pasal 5  huruf e, meliputi:a. perbuatan mengeksploitasi ekonomi atau seksual  dengan maksud untuk menguntungkan diri sendiri  atau orang lain;  
-b. perbuatan yang dengan atau tanpa persetujuan  korban yang meliputi tapi tidak terbatas pada  pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau  mentransplantasikan organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan  keuntungan baik material maupun immaterial; danc. perbuatan mengeksploitasi anak dalam kegiatan  pacuan kuda sebagai joki dengan mengabaikan hak hak anak dan/atau dengan maksud memanfaatkan  tenaga atau kemampuan anak untuk mendapatkan  keuntungan baik material maupun inmaterial.  
+b. perbuatan yang dengan atau tanpa persetujuan  korban yang meliputi tapi tidak terbatas pada  pelacuran, kerja atau pelayanan paksa, perbudakan  atau praktik serupa, penindasan, pemerasan,  pemanfaatan fisik, seksual, organ reproduksi, atau  secara melawan hukum memindahkan atau  mentransplantasikan organ dan/atau jaringan tubuh  atau memanfaatkan tenaga atau kemampuan  seseorang oleh pihak lain untuk mendapatkan  keuntungan baik material maupun immaterial; dan  
+c. perbuatan mengeksploitasi anak dalam kegiatan  pacuan kuda sebagai joki dengan mengabaikan hak hak anak dan/atau dengan maksud memanfaatkan  tenaga atau kemampuan anak untuk mendapatkan  keuntungan baik material maupun inmaterial.  
 
 Pelibatan Anak pada kegiatan pacuan kuda sebagai joki (2) sebagaimana dimaksud pada ayat (1) huruf c, diatur lebih  lanjut dalam Peraturan Bupati.  
 
@@ -331,7 +335,8 @@ Penyelenggaraan dan/atau pengelolaan rumah aman  @) sebagaimana dimaksud pada ay
 Penyelenggaraan Pelindungan Perempuan dan Anak Korban  Tindak Kekerasan merupakan kewajiban dan tanggung jawab  bersama:  
 a. Pemerintah Daerah;  
 b. Swasta dan Lembaga Kemasyarakatan;  
-c. Masyarakat; dand. Keluarga dan/atau Orang tua.  
+c. Masyarakat; dan  
+d. Keluarga dan/atau Orang tua.  
 
 #### Pasal 17
 
@@ -340,7 +345,8 @@ b. melaksanakan kebijakan pelindungan perempuan dan  anak dari tindakan kekerasa
 c. melakukan Kkerjasama dengan aparatur penegak  hukum, aparatur pemerintah, serta lembaga  pendidikan, kesehatan, rumah sakit, dan berbagai  lembaga swadaya masyarakat yang peduli terhadap  perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana  pelaksanaan pelindungan perempuan dan anak dari  tindak kekerasan;  
 e. mengalokasikan anggaran penyelenggaraan  pelindungan perempuan dan anak, sesuai dengan  kemampuan keuangan daerah;  
-f. membina dan mengawasi penyelenggaraan  pelindungan perempuan dan anak; dang. mewujudkan Kabupaten Layak Anak.  
+f. membina dan mengawasi penyelenggaraan  pelindungan perempuan dan anak; dan  
+g. mewujudkan Kabupaten Layak Anak.  
 
 Dalam rangka melaksanakan kewajiban dan tanggung  (2) jawab sebagaimana dimaksud pada ayat (1), Bupati  menetapkan program dan Kkegiatan aksi pelindungan  korban dalam Rencana Aksi Daerah dan Indikator Kinerja  Utama dalam mendukung program utama daerah sebagai  dasar bagi Daerah dalam melaksanakan pelindungan  perempuan dan anak.  
 
@@ -486,7 +492,8 @@ a. identifikasi atau pencatatan awal korban; dan  b. persetujuan dilakukan tinda
 
 Pelayanan kesehatan sebagaimana dimaksud dalam Pasal 28  ayat (1) huruf b, meliputi:  
 a. pertolongan pertama kepada korban;  
-b. perawatan dan pemulihan luka-luka fisik yang bertujuan  untuk pemulihan kondisi fisik korban yang dilakukan  oleh tenaga medis dan paramedik; danc. rujukan ke layanan kesehatan.  d. medicolegal;  
+b. perawatan dan pemulihan luka-luka fisik yang bertujuan  untuk pemulihan kondisi fisik korban yang dilakukan  oleh tenaga medis dan paramedik; dan  
+c. rujukan ke layanan kesehatan.  d. medicolegal;  
 
 pendampingan psikologis.  
 
@@ -494,7 +501,8 @@ pendampingan psikologis.
 
 1. Pelayanan bantuan hukum sebagaimana dimaksud dalam  Pasal 28 ayat (1) huruf c, bertujuan membantu korban  dalam menjalani proses peradilan.  
 2. Pelayanan bantuan hukum sebagaimana dimaksud pada  ayat (1) dilakukan dengan cara:a. memberikan konsultasi hukum yang mencakup  informasi mengenai hak korban dan proses peradilan;  
-b. mendampingi korban di tingkat pelaporan, penyidikan,  penuntutan, dan pemeriksaan dalam sidang  pengadilan dan membantu korban untuk secara  lengkap memaparkan kekerasan yang dialaminya; danc. melakukan koordinasi dengan sesama penegak  hukum, relawan pendamping, dan pekerja sosial agar  proses peradilan berjalan sebagaimana mestinya.  
+b. mendampingi korban di tingkat pelaporan, penyidikan,  penuntutan, dan pemeriksaan dalam sidang  pengadilan dan membantu korban untuk secara  lengkap memaparkan kekerasan yang dialaminya; dan  
+c. melakukan koordinasi dengan sesama penegak  hukum, relawan pendamping, dan pekerja sosial agar  proses peradilan berjalan sebagaimana mestinya.  
 
 #### Pasal 32
 
@@ -557,7 +565,8 @@ b. aman dan nyaman;
 c. rasa empati;  
 d. non diskriminasi;  
 e. mudah dijangkau;  
-f. tidak dikenakan biaya; dang. dijamin kerahasiaannya.  
+f. tidak dikenakan biaya; dan  
+g. dijamin kerahasiaannya.  
 2. (1)  ) (3) (1)  (2) Penyelenggara atau pengelola pelayanan dilarang  memungut biaya apapun terhadap korban kekerasan.  
 
 ## Bagian Keempat
@@ -595,7 +604,8 @@ Anak Korban Jaringan Terorisme;
 
 3. Pelindungan Khusus bagi Anak dilakukan melalui upaya:  a. penanganan yang cepat, termasuk pengobatan  dan/atau rehabilitasi secara fisik, psikis, dan sosial,  serta pencegahan penyakit dan gangguan kesehatan  lainnya;  
 b. pendampingan psikososial pada saat pengobatan  sampai pemulihan;  
-c. pemberian bantuan sosial bagi Anak yang berasal dari  keluarga tidak mampu; dand. pemberian pelindungan dan pendampingan pada  setiap proses peradilan.  
+c. pemberian bantuan sosial bagi Anak yang berasal dari  keluarga tidak mampu; dan  
+d. pemberian pelindungan dan pendampingan pada  setiap proses peradilan.  
 4. Pelindungan Khusus Kepada Anak sebagaimana dimaksud  pada ayat (1) diberikan di UPTD PPA yang telah dibentuk  dengan mengacu kepada standar layanan yang telah  ditetapkan.  
 5. Pelindungan Khusus kepada Anak sebagaimana dimaksud  pada ayat (1) dilaksanakan secara cepat, komprehensif dan  terintegrasi.  
 
@@ -603,7 +613,8 @@ c. pemberian bantuan sosial bagi Anak yang berasal dari  keluarga tidak mampu; d
 
 1. Pelindungan Khusus kepada Anak dalam Situasi Darurat  sebagaimana dimaksud dalam Pasal 38 ayat (2) huruf a,  diberikan kepada:a. Anak yang menjadi pengungsi;  
 b. Anak korban kerusuhan;  
-c. Anak korban bencana alam; dand. Anak dalam situasi konflik bersenjata.  
+c. Anak korban bencana alam; dan  
+d. Anak dalam situasi konflik bersenjata.  
 2. Selain kepada anak sebagaimana dimaksud pada ayat (1)  Pelindungan Khusus Anak dalam Situasi Darurat juga  diberikan terhadap:a. Anak korban bencana sosial;  
 
 Anak korban bencana non alam; dan  b.  
@@ -705,7 +716,8 @@ Pelindungan Khusus bagi Anak Korban Penculikan, Penjualan,  dan/atau Perdagangan
 
 #### Pasal 47
 
-1. Pelindungan Khusus bagi Anak Korban Kekerasan Fisik  dan/atau Psikis sebagaimana dimaksud dalam Pasal 38  ayat (2) huruf i, dilakukan melalui upaya:a. penyebarluasan dan sosialisasi ketentuan peraturan  perundang-undangan yang melindungi Anak korban  tindak kekerasan; danb. pemantauan, pelaporan, dan pemberian sanksi.  28 (2) Pelindungan Khusus sebagaimana dimaksud pada ayat (1)  dilakukan dalam bentuk:
+1. Pelindungan Khusus bagi Anak Korban Kekerasan Fisik  dan/atau Psikis sebagaimana dimaksud dalam Pasal 38  ayat (2) huruf i, dilakukan melalui upaya:a. penyebarluasan dan sosialisasi ketentuan peraturan  perundang-undangan yang melindungi Anak korban  tindak kekerasan; dan  
+b. pemantauan, pelaporan, dan pemberian sanksi.  28 (2) Pelindungan Khusus sebagaimana dimaksud pada ayat (1)  dilakukan dalam bentuk:
 
 ##### P  P
 
@@ -764,7 +776,8 @@ Ketentuan lebih lanjut mengenai Pelindungan Khusus Anak  sebagaimana dimaksud da
 1. Bupati melakukan pembinaan dan pengawasan atas  penyelenggaraan pelindungan perempuan dan anak korban  tindak kekerasan di daerah.  
 2. Pembinaan sebagaimana dimaksud pada ayat (1) meliputi:  a. pemberian petunjuk pelaksanaan;  
 b. bimbingan teknis dan pelatihan;  
-c. supervisi,d. monitoring; dane. evaluasi pelaksanaan pelayanan.  
+c. supervisi,d. monitoring; dan  
+e. evaluasi pelaksanaan pelayanan.  
 
 # BAB VIII
 
@@ -783,13 +796,15 @@ c. pemerintah kabupaten/kota lain;
 d. institusi penegak hukum/ dan/atau aparat penegak  hukum;  
 e. lembaga non pemerintah;  
 f. masyarakat;  
-g. perguruan tinggi/ akademisi; danh. media masa.  
+g. perguruan tinggi/ akademisi; dan  
+h. media masa.  
 
 Kerja sama sebagaimana dimaksud pada ayat (1) meliputi:  (2)
 a. pertukaran data dan informasi;  
 b. pemulihan korban tindak kekerasan;  
 c. pemulangan dan reintegrasi sosial;  
-d. penyediaan barang bukti dan saksi; dane. ditindaklanjuti sesuai dengan hukum yang berlaku.  Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat  (3) (2) dituangkan dalam bentuk perjanjian kerja sama sesuai  dengan ketentuan peraturan perundang- undangan.  
+d. penyediaan barang bukti dan saksi; dan  
+e. ditindaklanjuti sesuai dengan hukum yang berlaku.  Kerja sama sebagaimana dimaksud pada ayat (1) dan ayat  (3) (2) dituangkan dalam bentuk perjanjian kerja sama sesuai  dengan ketentuan peraturan perundang- undangan.  
 
 ## Bagian Kedua
 

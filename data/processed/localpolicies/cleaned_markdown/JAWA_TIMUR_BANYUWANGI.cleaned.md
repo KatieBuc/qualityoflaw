@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa kekerasan pada perempuan dan anak serta  perdagangan orang merupakan tindakan merendahkan martabat dan derajad kemanusiaan sehingga kepada mereka perlu diberikan pelayanan dan perlindungan yang memadai;  
 b. bahwa tingkat perdagangan orang, kekerasan terha dap perempuan dan anak masih tinggi maka kewajiban pemerintah daerah untuk mengatur dan melayani kepentingan masyarakat dalam hal ini perempuan dan anak korban kekerasan dan perdagangan orang;  
 c. bahwa agar penanganan perdagangan orang, kekeras an terhadap perempuan dan anak yang dilaksanakan berdaya guna dan berhasil guna, perlu pengaturan perlindungan terhadap perempuan dan anak korban kekerasan dan perdagangan orang;  
 d. bahwa berdasarkan pertimbangan sebagaimana di maksud pada huruf a, b dan c maka perlu membentuk peraturan daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan Perdagangan Orang.  
 
 Mengingat:  
+ 
  
  
  
@@ -227,7 +229,8 @@ Sistem Perlindungan
 
 #### Pasal 9
 
-1. Sistem penyelenggaraan perlindungan terhadap korban perdagangan orang  dan kekerasan terhadap perempuan dan anak dilakukan melalui 2 (dua) cara,  yaitu:a. Cara preventif atau pencegahan; danb. Cara represif atau penanganan (2) Cara preventif atau pencegahan dilakukan melalui berbagai bentuk  perlindungan, baik oleh masyarakat maupun pemerintah yang dimaksudkan  untuk mencegah timbulnya tindak pidana perdagangan orang dan kekerasan  atau korban kekerasan terhadap perempuan dan anak.  
+1. Sistem penyelenggaraan perlindungan terhadap korban perdagangan orang  dan kekerasan terhadap perempuan dan anak dilakukan melalui 2 (dua) cara,  yaitu:a. Cara preventif atau pencegahan; dan  
+b. Cara represif atau penanganan (2) Cara preventif atau pencegahan dilakukan melalui berbagai bentuk  perlindungan, baik oleh masyarakat maupun pemerintah yang dimaksudkan  untuk mencegah timbulnya tindak pidana perdagangan orang dan kekerasan  atau korban kekerasan terhadap perempuan dan anak.  
 3. Cara represif atau penanganan dilakukan melalui berbagai bentuk  perlindungan yang dilakukan oleh pemerintah melalui kegiatan pengaturan,  pelaksanaan dan penegakan peraturan perundang-undangan yang mengatur  tentang Perlindungan Perempuan dan Anak Korban Kekerasan dan  Perdagangan Orang.  
 4. Pedoman dan Teknis Perlindungan Perempuan dan Anak Korban Kekerasan  dan Perdagangan Orang diatur lebih lanjut melalui Peraturan Bupati.  
 
@@ -254,7 +257,8 @@ c. Aman;
 d. Empati;  
 e. Tidak menghakimi (non judgemental)f. Non diskriminasi;  
 g. Mudah dijangkau;  
-h. Rahasia; dani. Terpadu.  
+h. Rahasia; dan  
+i. Terpadu.  
 
 ## Bagian Keempat
 
@@ -341,7 +345,8 @@ Bupati dalam melaksanakan kebijakan, program, dan kegiatan perlindungan  perempu
 a. koordinasi pelaksanaan kebijakan, program, dan kegiatan antar SKPD;  
 b. kerjasama dengan kabupaten dan kota lain dalam satu provinsi, dan dengan  kabupaten dan kota di provinsi lain, dalam pelaksanaan kebijakan, program dan  kegiatan sesuai dengan ketentuan peraturan perundang undangan;  
 c. fasilitasi dan penyediaan pelayanan;  
-d. pelaksanaan aksi afirmasi perlindungan perempuan dan anak serta  perdagangan orang; dane. penyusunan sistem pendataan perlindungan perempuan dan anak, termasuk  sistem pendataan kekerasan terhadap perempuan dan anak serta perdagangan  orang.  
+d. pelaksanaan aksi afirmasi perlindungan perempuan dan anak serta  perdagangan orang; dan  
+e. penyusunan sistem pendataan perlindungan perempuan dan anak, termasuk  sistem pendataan kekerasan terhadap perempuan dan anak serta perdagangan  orang.  
 
 #### Pasal 22
 
@@ -379,7 +384,8 @@ Fasilitasi dan penyediaan pelayanan sebagaimana dimaksud pada pasal 22 ayat (2) 
 2. Standar Pelayanan Minimal sebagaimana dimaksud pada ayat (1), meliputi  layanan:a. penanganan pengaduan/laporan korban kekerasan terhadap perempuan  dan anak;  
 b. pelayanan kesehatan bagi perempuan dan anak korban kekerasan;  
 c. rehabilitasi sosial bagi perempuan dan anak korban kekerasan;  
-d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan; dane. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
+d. penegakan dan bantuan hukum bagi perempuan dan anak korban  kekerasan; dan  
+e. pemulangan dan reintegrasi sosial bagi perempuan dan anak korban  kekerasan.  
 
 # BAB X
 

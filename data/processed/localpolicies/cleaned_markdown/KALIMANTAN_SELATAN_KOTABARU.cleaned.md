@@ -21,12 +21,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang mengenyampingkan dan merendahkan derajatnya sebagai manusia;  
 b. bahwa perilaku dan budaya negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanan atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum semestinya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap mampu menjalankan kehidupannya dalam pergaulan sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
  
@@ -133,7 +135,8 @@ Dalam Peraturan Derah ini, yang dimaksud dengan:
 1. Penyelenggaraan perlindungan perempuan dan anak, dilaksanakan berdasarkan asas:a. penghormatan terhadap hak-hak perempuan dan anak;  
 b. keadilan dan kesetaraan gender;  
 c. non diskriminasi dalam pemberdayaan perempuan dan anak;  
-d. kepentingan yang terbaik bagi perempuan dan anak; dane. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang mengalami tindak kekerasan atau penelantaran.  
+d. kepentingan yang terbaik bagi perempuan dan anak; dan  
+e. pemulihan hak sosial dan ekonomi bagi perempuan dan anak yang mengalami tindak kekerasan atau penelantaran.  
 2. Tujuan penyelenggaraan perlindungan perempuan dan anak, meliputi:a. mencegah tindak kekerasan atau penelantaran terhadap perempuan dan anak termasuk perdagangan orang;  
 b. menghapus segala bentuk kekerasan dan eksploitasi terhadap perempuan dan anak:c. melindungi dan memberikan rasa aman bagi perempuan dan anak;  
 d. memberikan pelayanan kepada perempuan dan anak korban tindak kekerasan, pelapor, dan saksi;  
@@ -169,12 +172,14 @@ g. penanganan berkelanjutan sampai tahap Rehabilitasi;
 9 -
 h. pendampingan secara psikologis untuk memulihkan kondisi traumatis korban dan mengembalikan kepercayaan diri korban;  
 i. bantuan pendampingan untuk proses hukum dan perolehan hak ganti rugi atau kompensasi;  
-j. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga maupun anggota masyarakat (reintegrasi sosial); dank. pelayanan kemandirian ekonomi berupa pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
+j. jaminan atas hak-hak yang berkaitan dengan status sebagai anggota keluarga maupun anggota masyarakat (reintegrasi sosial); dan  
+k. pelayanan kemandirian ekonomi berupa pelatihan keterampilan dan memberikan akses ekonomi agar korban dapat mandiri.  
 3. Dalam hal korban adalah seorang anak, selain mendapatkan hak-hak sebagaimana dimaksud pada ayat (2), juga mendapatkan hak-hak khusus meliputi:a. hak atas penghormatan dan penggunaan sepenuhnya untuk kelangsungan hidup, tumbuh dan berkembang;  
 b. hak pelayanan dasar;  
 c. hak perlindungan yang sama;  
 d. hak bebas dari berbagai stigma;  
-e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.  
+e. hak mendapatkan kebebasan; dan  
+f. hak mendapatkan ganti kerugian dari pelaku.  
 
 # BAB V
 
@@ -185,7 +190,8 @@ e. hak mendapatkan kebebasan; danf. hak mendapatkan ganti kerugian dari pelaku.
 Kewajiban dan tanggung jawab dalam memberikan perlindungan terhadap perempuan dan anak dari tindak kekerasan merupakan tanggung jawab bersama:  
 a. pemerintah daerah;  
 b. masyarakat;  
-c. keluarga; dand. orang tua.  
+c. keluarga; dan  
+d. orang tua.  
 
 #### Pasal 6
 
@@ -197,13 +203,15 @@ b. menetapkan kebijakan, program dan kegiatan perlindungan perempuan dan anak da
 c. melakukan kerjasama dalam penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan;  
 d. memberikan dukungan sarana dan prasarana pelaksanaan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. menyediakan rumah singgah untuk perempuan dan anak korban kekerasan;  
-f. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah; dang. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.  
+f. mengalokasikan anggaran penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan sesuai kemampuan keuangan daerah; dan  
+g. membina dan mengawasi penyelenggaraan perlindungan perempuan dan anak dari tindak kekerasan.  
 
 #### Pasal 7
 
 1. kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam Pasal 5 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1), meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
-b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; danc. turut serta dalam penanganan korban tindak kekerasan.  
+b. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap perempuan dan anak kepada penegak hukum atau pihak yang berwenang; dan  
+c. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2), dilaksanakan secara bertanggungjawab sesuai ketentuan Peraturan Perundang-undangan.  
 
 #### Pasal 8
@@ -243,12 +251,14 @@ c. Koordinator;
 d. Ketua;  
 e. Wakil Ketuaf. Sekretaris;  
 g. Wakil Sekretaris;  
-h. Bendahara; dani. Anggota.  
+h. Bendahara; dan  
+i. Anggota.  
 2. Koordinator terdiri:a. Divisi Pendampingan dan Advokasi;  
 b. Divisi Pelayanan dan Pemulihan;  
 c. Divisi Penguatan Jejaring dan Informasi;  
 d. Divisi Pendidikan dan Pelatihan;  
-e. Manajer Kasus; danf. Tim Ahli.  
+e. Manajer Kasus; dan  
+f. Tim Ahli.  
 3. Ketentuan lebih lanjut mengenai struktur organisasi P2TP2A dan uraian tugas koordinator diatur lebih lanjut dengan Peraturan Bupati.  
 
 #### Pasal 12
@@ -329,7 +339,8 @@ a. non diskriminasi;
 b. cepat, aman, dan empati;  
 c. koordinasi antar instansi pemerintah;  
 d. adanya jaminan kerahasiaan;  
-e. mudah dijangkau; danf. tidak dipungut biaya.  
+e. mudah dijangkau; dan  
+f. tidak dipungut biaya.  
 
 ## Bagian Keempat
 
@@ -344,7 +355,8 @@ b. memfasilitasi terlaksananya berbagai pelatihan kerja dan pelatihan keterampil
 15 -
 c. melakukan pendampingan dalam mengembangkan usaha ekonomi produktif;  
 d. menjajaki kerjasama dengan perusahaan kecil, menengah dan besar, serta lembaga keuangan untuk mengembangkan usaha korban tindak kekerasan;  
-e. mengupayakan penyediaan modal bagi korban tindak kekerasan; danf. memperluas akses informasi dan mempromosikan hasil-hasil produk korban tindak kekerasan.  
+e. mengupayakan penyediaan modal bagi korban tindak kekerasan; dan  
+f. memperluas akses informasi dan mempromosikan hasil-hasil produk korban tindak kekerasan.  
 
 # BAB VIII
 
@@ -360,10 +372,12 @@ Kerjasama
 2. Kerjasama dilakukan dengan:a. pemerintah;  
 b. pemerintah provinsi;  
 c. pemerintah kabupaten/ kota lain;  
-d. lembaga non pemerintah; dane. lembaga internasional yang diakui keberadaannya.  
+d. lembaga non pemerintah; dan  
+e. lembaga internasional yang diakui keberadaannya.  
 3. Kerja sama sebagaimana dimaksud pada ayat (2), meliputi:a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan ketentuan peraturan perundang-undangan.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi, serta ditindaklanjuti berdasarkan ketentuan peraturan perundang-undangan.  
 4. Kerjasama sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk kesepakatan bersama.  
 
 ## Bagian Kedua
@@ -375,7 +389,8 @@ Kemitraan
 1. Pemerintah Daerah membentuk kemitraan dengan dunia usaha untuk dukungan penyelenggaraan perlindungan terhadap perempuan dan anak di wilayah daerah.  
 2. Kemitraan sebagaimana dimaksud pada ayat (1), dilakukan melalui: - 16 -a. pemberitahuan informasi kesempatan kerja bagi perempuan korban tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dituangkan dalam bentuk perjanjian.  
 
 # BAB IX
@@ -387,7 +402,8 @@ c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan yang terca
 1. Dalam menyelenggarakan perlindungan terhadap perempuan dan anak, masyarakat dapat:a. membentuk mitra keluarga di tingkat kelurahan/desa oleh masyarakat;  
 b. membentuk unit perlindungan perempuan dan anak di dalam organisasi kemasyarakatan;  
 c. melakukan sosialisasi hak perempuan dan anak secara mandiri;  
-d. melakukan pertolongan pertama kepada korban; dane. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
+d. melakukan pertolongan pertama kepada korban; dan  
+e. melaporkan kepada instansi yang berwenang apabila di lingkungannya terjadi kekerasan terhadap korban.  
 2. Peran serta masyarakat sebagaimana dimaksud pada ayat (1) dilakukan oleh perorangan, lembaga sosial kemasyarakatan, lembaga swadaya masyarakat, lembaga pendidikan, lembaga keagamaan, swasta, dan media massa.  
 
 # BAB X
@@ -452,7 +468,8 @@ h. menghentikan penyidikan setelah mendapat petunjuk dari Penyidik Umum bahwa ti
 1. Penanganan kasus hukum pada proses penyidikan oleh aparat penegak hukum harus ditangani oleh penyidik khusus yang telah ditetapkan sesuai kompetensinya oleh institusi penegakan hukum untuk bidang perlindungan perempuan dan anak.  
 2. Penyidik khusus sebagaimana dimaksud pada ayat (1) adalah: - 19 -a. pada kasus penyidikan untuk perempuan atau anak perempuan korban kekerasan harus ditangani penyidik wanita;  
 b. proses pelaksanaan sebagaimana dimaksud pada huruf a wajib dalam ruang tertutup yang hanya dihadiri oleh orang tua korban atau walinya beserta tim advokasi dan psikologi dari P3A yang memiliki jenis kelamin sama;  
-c. pada kasus penyidikan untuk anak laki-laki korban kekerasan dapat dilakukan oleh penyidik laki-laki atau wanita, diutamakan sama jenis kelamin dan dilaksanakan sebagaimana dimaksud pada huruf b; dand. Proses sidang tidak terbuka untuk umum.  
+c. pada kasus penyidikan untuk anak laki-laki korban kekerasan dapat dilakukan oleh penyidik laki-laki atau wanita, diutamakan sama jenis kelamin dan dilaksanakan sebagaimana dimaksud pada huruf b; dan  
+d. Proses sidang tidak terbuka untuk umum.  
 
 #### Pasal 31
 
@@ -465,7 +482,8 @@ a. proses hukum dilakukan secara manusia dengan memandang anak masih memiliki ha
 b. Penyidik harus orang yang memiliki kompetensi pada penyidikan khusus untuk kasus penanganan anak;  
 c. Penyidikan dilakukan diruang tertutup dan hanya dihadiri oleh tim advokasi dan orang tua/wali anak;  
 d. pada proses penyidikan, anak tidak ditempatkan pada tahanan umum, melainkan dititipkan pada keluarganya dengan pengawasan dan penjagaan;  
-e. proses persidangan dilaksanakan secara khusus dalamruang sidang pengadilan anak; danf. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
+e. proses persidangan dilaksanakan secara khusus dalamruang sidang pengadilan anak; dan  
+f. proses penghukuman anak ditempatkan pada lembaga pemasyarakatan khusus anak, dengan masa transisi dapat didampingi oleh orang tuanya.  
 
 #### Pasal 33
 

@@ -19,12 +19,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan  hidup, tumbuh, dan berkembang secara wajar serta berhak atas  perlindungan dari kekerasan dan diskriminasi sebagaimana  diamanatkan dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kota  Banjar dari tahun ke tahun semakin meningkat sehingga  menjadi tanggung jawab Pemerintah Daerah Kota Banjar untuk  menjamin perlindungan, pemenuhan, dan penghormatan hak  perempuan dan anak;  
 c. bahwa Kota Banjar belum memiliki peraturan daerah yang mengatur tentang penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sehingga diperlukan dasar hukum  yang komprehensif dalam rangka pemenuhan perempuan dan Anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b dan huruf c perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan;  
 
 Mengingat:  
+ 
  
  
  
@@ -85,7 +87,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 #### Pasal 2
 
 Perlindungan perempuan dan anak korban kekerasan  dilaksanakan berdasarkan asas:  
-a. penghormatan dan pengakuan atas hak; danb. martabat kemanusiaan yang sama.  
+a. penghormatan dan pengakuan atas hak; dan  
+b. martabat kemanusiaan yang sama.  
 
 #### Pasal 3
 
@@ -101,14 +104,17 @@ h. menghormati pilihan dan keputusan korban;
 i. peka terhadap latar belakang dan kondisi korban;  
 j. pemakaian bahasa yang sesuai dan dimengerti oleh korban;  
 k. cepat dan sederhana;  
-l. empati; danm. kepentingan terbaik bagi korban.  
+l. empati; dan  
+m. kepentingan terbaik bagi korban.  
 
 #### Pasal 4
 
 1. Tujuan perlindungan perempuan korban kekerasan diarahkan  untuk:a. menciptakan kondisi yang mendukung pengembangan  potensi perempuan korban kekerasan;  
-b. memperkuat potensi yang telah dimiliki oleh perempuan  korban kekerasan; danc. meningkatkan keterampilan kerja perempuan korban  kekerasan.  
+b. memperkuat potensi yang telah dimiliki oleh perempuan  korban kekerasan; dan  
+c. meningkatkan keterampilan kerja perempuan korban  kekerasan.  
 2. Tujuan perlindungan anak korban kekerasan diarahkan  untuk:a. memberikan rehabilitasi sosial bagi anak korban  kekerasan;  
-b. menyatukan kembali anak korban kekerasan dengan  keluarga dan/atau lingkungan; danc. meningkatkan keberdayaan anak korban kekerasan.  
+b. menyatukan kembali anak korban kekerasan dengan  keluarga dan/atau lingkungan; dan  
+c. meningkatkan keberdayaan anak korban kekerasan.  
 
 # BAB III
 
@@ -141,13 +147,15 @@ Pencegahan Kekerasan Terhadap Perempuan
 b. masyarakat;  
 c. swasta;  
 d. lembaga masyarakat;  
-e. lembaga sosial; danf. lembaga pendidikan.  
+e. lembaga sosial; dan  
+f. lembaga pendidikan.  
 
 #### Pasal 7
 
 Pencegahan kekerasan terhadap perempuan sebagaimana  dimaksud dalam Pasal 6 dilaksanakan antara lain dengan:  
 a. membentuk jaringan kerja dalam upaya pencegahan kekerasan  terhadap perempuan;  
-b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  kekerasan berdasarkan pola kemitraan dengan masyarakat,  swasta dan lembaga swadaya masyarakat; danc. melakukan sosialisasi peraturan perundang-undangan terkait  perlindungan perempuan.  
+b. melakukan koordinasi, integrasi, sinkronisasi pencegahan  kekerasan berdasarkan pola kemitraan dengan masyarakat,  swasta dan lembaga swadaya masyarakat; dan  
+c. melakukan sosialisasi peraturan perundang-undangan terkait  perlindungan perempuan.  
 
 ### Paragraf 2
 
@@ -160,7 +168,8 @@ Pelayanan Perlindungan Perempuan Korban Kekerasan
 b. aman;  
 c. rasa empati;  
 d. non diskriminasi;  
-e. mudah dijangkau; danf. dijamin kerahasiaannya.  
+e. mudah dijangkau; dan  
+f. dijamin kerahasiaannya.  
 
 #### Pasal 9
 
@@ -179,9 +188,11 @@ Pemberdayaan Perempuan Korban Kekerasan
 
 #### Pasal 10
 
-1. Pemberdayaan perempuan korban kekerasan sebagaimana  dimaksud dalam Pasal 5 huruf c dilaksanakan melalui upaya  antara lain:a. pelatihan kerja; danb. usaha ekonomis produktif dan kelompok usaha bersama. (2) Penyelenggaraan pemberdayaan perempuan korban kekerasan  dilaksanakan dengan prinsip:a. kesetaraan dan keadilan hak;  
+1. Pemberdayaan perempuan korban kekerasan sebagaimana  dimaksud dalam Pasal 5 huruf c dilaksanakan melalui upaya  antara lain:a. pelatihan kerja; dan  
+b. usaha ekonomis produktif dan kelompok usaha bersama. (2) Penyelenggaraan pemberdayaan perempuan korban kekerasan  dilaksanakan dengan prinsip:a. kesetaraan dan keadilan hak;  
 b. tanggung jawab;  
-c. kedayagunaan dan kehasilgunaan; dand. penghormatan dan penegakan hak asasi manusia. (3) Pelaksanaan pemberdayaan perempuan korban kekerasan  sebagaimana dimaksud pada ayat (1) dilaksanakan oleh  Perangkat Daerah terkait sesuai tugas pokok dan fungsinya.  
+c. kedayagunaan dan kehasilgunaan; dan  
+d. penghormatan dan penegakan hak asasi manusia. (3) Pelaksanaan pemberdayaan perempuan korban kekerasan  sebagaimana dimaksud pada ayat (1) dilaksanakan oleh  Perangkat Daerah terkait sesuai tugas pokok dan fungsinya.  
 
 # BAB IV
 
@@ -195,7 +206,8 @@ Tahapan
 
 Tahapan perlindungan terhadap anak korban kekerasan meliputi:  
 a. pencegahan kekerasan terhadap anak;  
-b. penanganan anak korban kekerasan; danc. rehabilitasi anak korban kekerasan.  
+b. penanganan anak korban kekerasan; dan  
+c. rehabilitasi anak korban kekerasan.  
 
 ## Bagian Kedua
 
@@ -282,8 +294,10 @@ d. hak bebas dari berbagai stigma; dan/ataue. hak mendapatkan kebebasan.
 #### Pasal 17
 
 1. Pemerintah Daerah Kota melaksanakan upaya pencegahan  terjadinya kekerasan terhadap Perempuan dan Anak dalam  bentuk:a. mengumpulkan data dan menyelenggarakan sistem  informasi Perlindungan Perempuan dan Anak Korban  Kekerasan;  
-b. melakukan pendidikan tentang nilai anti kekerasan  terhadap Perempuan dan Anak; danc. melakukan sosialisasi peraturan perundang-undangan  yang berkaitan dengan Pemberdayaan Perempuan dan  Perlindungan Anak Korban Kekerasan.  
-2. Pemerintah Daerah Kota berkewajiban dan bertanggung jawab  untuk menyediakan dan menyelenggarakan layanan bagi  Korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga pelayanan  teknis untuk Korban dengan melibatkan unsur  masyarakat; danb. mendorong kepedulian masyarakat akan pentingnya  perindungan terhadap Korban kekerasan.  
+b. melakukan pendidikan tentang nilai anti kekerasan  terhadap Perempuan dan Anak; dan  
+c. melakukan sosialisasi peraturan perundang-undangan  yang berkaitan dengan Pemberdayaan Perempuan dan  Perlindungan Anak Korban Kekerasan.  
+2. Pemerintah Daerah Kota berkewajiban dan bertanggung jawab  untuk menyediakan dan menyelenggarakan layanan bagi  Korban dalam bentuk:a. mendirikan dan menyelenggarakan lembaga pelayanan  teknis untuk Korban dengan melibatkan unsur  masyarakat; dan  
+b. mendorong kepedulian masyarakat akan pentingnya  perindungan terhadap Korban kekerasan.  
 
 # BAB VII
 
@@ -316,7 +330,8 @@ Lembaga pelayanan teknis untuk Korban dilaksanakan oleh  P2TP2A dan FPKK yang di
 1. P2TP2A terdiri dari beberapa bidang konseling.  
 2. Bidang konseling sebagaimana dimaksud pada ayat (1) paling  sedikit terdiri dari:a. hukum;  
 b. kesehatan;  
-c. rohani; dand. psikologi.  
+c. rohani; dan  
+d. psikologi.  
 3. Pelaksanaan konseling dilakukan oleh konselor dan dapat  dilaksanakan secara berjejaring dengan melibatkan pihak  terkait.  
 
 #### Pasal 22
@@ -325,7 +340,8 @@ c. rohani; dand. psikologi.
 b. pelayanan medico legal;  
 c. pelayanan psikososial;  
 d. pelayanan hukum;  
-e. pelayanan reintegrasi sosial; danf. pelayanan kemandirian ekonomi.  
+e. pelayanan reintegrasi sosial; dan  
+f. pelayanan kemandirian ekonomi.  
 2. Ketentuan mengenai mekanisme pelayanan terhadap korban  yang diselenggarakan oleh P2TP2A sebagaimana dimaksud  pada ayat (1) diatur dengan Peraturan Wali Kota.  
 
 ## Bagian Ketiga
@@ -337,7 +353,8 @@ e. pelayanan reintegrasi sosial; danf. pelayanan kemandirian ekonomi.
 1. Dalam rangka melindungi dan menjamin hak perempuan dan  anak dari tindak kekerasan dibentuk FPKK.  
 2. FPKK sebagaimana dimaksud pada ayat (1) terdiri dari:  
 a. FPKK Daerah Kota;  
-b. FPKK Kecamatan; danc. FPKK Desa.  
+b. FPKK Kecamatan; dan  
+c. FPKK Desa.  
 3. Ketentuan mengenai tata cara pembentukan, struktur  organisasi, dan unsur FPKK sebagaimana dimaksud pada ayat  (2) diatur dengan Peraturan Wali Kota.  
 
 #### Pasal 24
@@ -347,7 +364,8 @@ a. mengkoordinasikan dan menyinkronkan pencegahan,  pelayanan, dan pemberdayaan 
 b. memelihara dan mengembangkan FPKK dalam pencegahan,  pelayanan, dan pemberdayaan korban secara berjejaring serta  sistem rujukan;  
 c. melakukan pendidikan tentang nilai non diskriminasi terhadap  perempuan dan anak;  
 d. melakukan sosialisasi peraturan perundang-undangan yang  berkaitan dengan penyelenggaraan Perlindungan Perempuan  dan Anak Korban Kekerasan;  
-e. mengumpulkan, menyusun, dan menyajikan laporan data  korban kekerasan; danf. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan dan Anak Korban  Kekerasan.  
+e. mengumpulkan, menyusun, dan menyajikan laporan data  korban kekerasan; dan  
+f. melakukan pemantauan dan evaluasi terhadap  penyelenggaraan Perlindungan Perempuan dan Anak Korban  Kekerasan.  
 
 # BAB VIII
 
@@ -361,7 +379,8 @@ c. pendirian tempat rehabilitasi anak;
 d. pengawasan secara aktif terhadap kekerasan terhadap  perempuan dan anak dan melaporkan kepada pihak yang  berwenang;  
 e. melakukan pertolongan pertama kepada korban;  
 f. melaporkan terjadinya kekerasan terhadap perempuan dan  anak serta memberikan perlindungan;  
-g. membentuk mitra keluarga di tingkat desa oleh  masyarakat; danh. bentuk peran serta masyarakat lainnya yang berkaitan  dengan penyelenggaraan perlindungan perempuan dan  perlindungan anak.  
+g. membentuk mitra keluarga di tingkat desa oleh  masyarakat; dan  
+h. bentuk peran serta masyarakat lainnya yang berkaitan  dengan penyelenggaraan perlindungan perempuan dan  perlindungan anak.  
 
 #### Pasal 26
 
@@ -391,7 +410,8 @@ Monitoring, Evaluasi, dan Pelaporan Perlindungan perempuan dan  anak korban keke
 1. Pembinaan dan pengawasan penyelenggaraan Perlindungan  Perempuan dan Anak Korban Kekerasan dilakukan oleh  Perangkat Daerah yang membidangi Pemberdayaan Perempuan  dan Perlindungan Anak.  
 2. Pembinaan dan pengawasan sebagaimana dimaksud pada ayat  (1) meliputi:a. koordinasi;  
 b. bimbingan;  
-c. pendidikan dan pelatihan; dand. pemantauan dan evaluasi.  
+c. pendidikan dan pelatihan; dan  
+d. pemantauan dan evaluasi.  
 3. Koordinasi sebagaimana dimaksud pada ayat (2) huruf a  mencakup aspek yang berkaitan dengan perencanaan dan  pelaksanaan.  
 4. Bimbingan sebagaimana dimaksud pada ayat (2) huruf b  mencakup aspek yang berkaitan dengan perencanaan,  pelaksanaan, tata laksana, pendanaan, kualitas, pengendalian  dan pengawasan.  
 5. Pendidikan dan pelatihan sebagaiamana dimaksud pada ayat  (2) huruf c dilakukan sesuai peraturan perundang-undangan. (6) Pemantauan dan evaluasi sebagaimana dimaksud pada ayat (2)  huruf d dilakukan secara berkala setiap 3 (tiga) bulan sekali.  
@@ -585,7 +605,8 @@ Ayat (2) Cukup jelas.
 Ayat (3) Yang dimaksud dengan “pihak terkait” adalah antara lain:  
 a. pelaksanaan konseling dalam bidang hukum dengan  melibatkan kepolisian, kejaksaan, pengadilan  negeri,pengadilan agama, lembaga advokasi hukum dan  lembaga swadaya masyarakat;  
 b. pelaksanaan konseling dalam bidang kesehatan dengan  melibatkan dinas kesehatan, rumah sakit umum daerah, dan layanan kesehatan lainnya;  
-c. pelaksanaan konseling dalam bidang rohani dengan  melibatkan kementerian agama dan tokoh agama; dand. pelaksanaan konseling dalam bidang psikologi dengan  melibatkan pendamping psikologi dan/atau psikolog.  
+c. pelaksanaan konseling dalam bidang rohani dengan  melibatkan kementerian agama dan tokoh agama; dan  
+d. pelaksanaan konseling dalam bidang psikologi dengan  melibatkan pendamping psikologi dan/atau psikolog.  
 
 #### Pasal 22
 

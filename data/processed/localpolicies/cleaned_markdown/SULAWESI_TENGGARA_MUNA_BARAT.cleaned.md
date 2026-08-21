@@ -64,7 +64,8 @@ a. Ketentuan umum;
 b. Perlindungan perempuan;  
 c. Partisipasi masyarakat;  
 d. Pembiayaan;  
-e. Pembinaan dan pengawasan; danf. Sanksi.  
+e. Pembinaan dan pengawasan; dan  
+f. Sanksi.  
 
 #### Pasal 3
 
@@ -72,12 +73,14 @@ Perlindungan Perempuan dilaksanakan berdasarkan asas:
 a. Hak asasi manusia;  
 b. Kepastian hukum;  
 c. Keadilan;  
-d. Kesetaraan gender; dane. Non diskrimintaif.  
+d. Kesetaraan gender; dan  
+e. Non diskrimintaif.  
 
 #### Pasal 4
 
 Tujuan Peraturan Daerah ini adalah:  
-a. Melindungi perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar tercipta rasa aman dan pemenuhan hak haknya; danb. Mencegah dan menangani resiko kekerasan dan kerentanan perempuan  agar kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan  dan keadilan.  
+a. Melindungi perempuan baik secara individual maupun kelompok dan  masyarakat secara luas agar tercipta rasa aman dan pemenuhan hak haknya; dan  
+b. Mencegah dan menangani resiko kekerasan dan kerentanan perempuan  agar kelangsungan hidupnya dapat dipenuhi sesuai prinsip kesetaraan  dan keadilan.  
 
 # BAB II
 
@@ -126,7 +129,8 @@ Pelaksanaan Perlindungan Perempuan
 #### Pasal 7
 
 1. Perlindungan perempuan meliputi:a. Perlindungan sosial;  
-b. Perlindungan ekonomi; danc. Perlindungan hukum.  
+b. Perlindungan ekonomi; dan  
+c. Perlindungan hukum.  
 2. Perlindungan sosial sebagaimana dimaksud pada ayat (1) huruf a  diberikan dalam bentuk jaminan kelangsungan hidup bagi perempuan  dan menjamin terpenuhinya kebutuhan hidup yang layak.  
 3. Perlindungan ekonomi sebagaimana dimaksud pada ayat (1) huruf b  diberikan dalam bentuk pemberdayaan perempuan untuk mencegah  dan menangani resiko kerentanan akibat dari guncangan ekonomi dan  kerentanan sosial seseorang, keluarga, kelompok dan/ atau masyarakat  untuk kelangsungan hidup perempuan.  
 4. Perlindungan hukum sebagaimana dimaksud pada ayat (1) huruf c  dilaksanakan dalam bentuk layanan konsultasi hukum, pendampingan  hukum dan pemberian bantuan hukum terhadap perempuan yang  menjadi saksi dan korban tindak kekerasan dan diskriminasi.  
@@ -167,7 +171,8 @@ Kekerasan psikis sebagaimana dimaksud dalam pasal 9 huruf b adalah  perbuatan ya
 
 #### Pasal 12
 
-1. Kekerasan seksual sebagaimana dimaksud dalam pasal 9 huruf c  meliputi:a. Kekerasan seksual dalam rumah tangga; danb. Kekerasan seksual diluar rumah tangga.  
+1. Kekerasan seksual sebagaimana dimaksud dalam pasal 9 huruf c  meliputi:a. Kekerasan seksual dalam rumah tangga; dan  
+b. Kekerasan seksual diluar rumah tangga.  
 2. Kekerasan seksual dalam rumah tangga sebagaimana dimaksud pada  ayat (1) huruf a meliputi:a. Pemaksaan hubungan seksual yang dilakukan terhadap orang  yang menetap dalam lingkup rumah tangga tersebut; dan  b. Pemaksaan hubungan seksual terhadap salah seorang dalam  lingkup rumah tangganya dengan orang lain untuk tujuan  komersial dan/atau tujuan tertentu.  
 3. Kekerasan seksual diluar rumah tangga sebagaimana dimaksud pada  ayat ( 1) huruf b adalah kekerasan seksual terhadap perempuan yang  tidak mempunyai keterkaitan dengan lingkup rumah tangga pelaku.  
 
@@ -199,7 +204,8 @@ Mekanisme Penyelenggaraan Perlindungan Perempuan
 ( 1) Mekanisme penyelenggaraan perlindungan perempuan dilakukan  melalui tahapan:  
 a. Perumusan kebijakan perencanaan program dan kegiatan;  
 b. Penganggaran program dan kegiatan;  
-c. Pelaksanaan program dan kegiatan; dand. Monitoring, evaluasi dan pelaporan.  
+c. Pelaksanaan program dan kegiatan; dan  
+d. Monitoring, evaluasi dan pelaporan.  
 2. Ketentuan lebih lanjut mengenai mekanisme penyelenggaraan  perlindungan perempuan sebagaimana dimaksud pada ayat (1) diatur  dengan Peraturan Bu pati.  
 
 # BAB III

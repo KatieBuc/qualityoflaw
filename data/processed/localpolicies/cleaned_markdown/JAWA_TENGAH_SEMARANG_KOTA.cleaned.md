@@ -17,12 +17,14 @@ Menimbang:
  
  
  
+ 
 a. bahwa pemenuhan hak-hak konstitusional dan  perlindungan hak asasi manusia perempuan dan anak  terhadap tindak kekerasan merupakan salah satu nilai  yang tertuang dalam Pancasila dan Undang-Undang Dasar  1945;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kota  Semarang terus meningkat dan meluas yang  menyebabkan warga masyarakat tidak aman dalam  menjalankan kehidupan, sehingga diperlukan upaya  perlindungan secara terpadu;  
 c. bahwa untuk memberikan arah dan kepastian hukum  kepada semua yang terlibat dalam upaya memberikan  perlindungan hukum, maka diperlukan pengaturan  tentang perlindungan perempuan dan anak dari tindak  kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c maka perlu  membentuk Peraturan Daerah Kota Semarang tentang  Perlindungan Perempuan dan Anak Dari Tindak  Kekerasan.  
 
 Mengingat:  
+ 
  
  
  
@@ -110,7 +112,8 @@ Tujuan perlindungan perempuan dan anak dari tindak kekerasan, untuk:
 a. Mencegah tindak kekerasan terhadap perempuan dan anak termasuk  perdagangan orang;  
 b. Menghapus segala bentuk tindak kekerasan dan eksploitasi terhadap  perempuan dan anak;  
 c. Melindungi, memberikan rasa aman bagi perempuan dan anak;  
-d. Memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dane. Menguatkan perempuan dan anak korban tindak kekerasan agar lebih  berdaya baik fisik, psikis, sosial, dan ekonomi.  
+d. Memberikan pelayanan kepada perempuan dan anak dari tindak kekerasan,  pelapor, dan saksi; dan  
+e. Menguatkan perempuan dan anak korban tindak kekerasan agar lebih  berdaya baik fisik, psikis, sosial, dan ekonomi.  
 
 # BAB III
 
@@ -143,7 +146,8 @@ e. Hak atas kerahasiaan;
 f. Hak atas rehabilitasi sosial;  
 g. Hak atas penanganan pengaduan secara cepat, tepat, nyaman dan sesuai  kebutuhan;  
 h. Hak korban dan keluarganya untuk mendapatkan kemudahan dalam proses  peradilan;  
-i. Hak atas pendampingan; danj. Hak rasa aman.  
+i. Hak atas pendampingan; dan  
+j. Hak rasa aman.  
 
 #### Pasal 6
 
@@ -181,7 +185,8 @@ g. menunjuk orang tua dan/atau pengasuh keluarga pengganti sebagai  langkah perl
 1. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud dalam  Pasal 7 huruf b, diselenggarakan dalam bentuk peran serta masyarakat.  
 2. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (1),  meliputi:a. mencegah terjadinya tindak kekerasan terhadap perempuan dan anak;  
 b. memberikan perlindungan kepada perempuan dan anak dari tindak  kekerasan;  
-c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dand. turut serta dalam penanganan korban tindak kekerasan.  
+c. memberikan informasi dan/atau melaporkan tindak kekerasan terhadap  perempuan dan anak kepada penegak hukum atau pihak yang  berwenang; dan  
+d. turut serta dalam penanganan korban tindak kekerasan.  
 3. Bentuk peran serta masyarakat sebagaimana dimaksud pada ayat (2),  dilaksanakan secara bertanggungjawab sesuai ketentuan peraturan  perundang-undangan.  
 
 #### Pasal 10
@@ -235,7 +240,8 @@ b. pembukaan aksesibilitas untuk memperoleh pendidikan, pelatihan, pendanaan, pe
 c. pembukaan lapangan kerja bagi perempuan;  
 d. membangun partisipasi dan kepedulian masyarakat terhadap  pencegahan perlindungan perempuan dan anak dari tindak kekerasan;  
 e. membangun dan menyediakan sistem informasi yang lengkap dan  mudah di akses;  
-f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, lembaga pendidikan,dan berbagai lembaga  swadaya masyarakat yang bergerak dan/atau peduli terhadap  perempuan dan anak; dang. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari tindak kekerasan di setiap kelurahan.  
+f. membangun jejaring dan kerjasama dengan aparatur penegak hukum,  aparatur pemerintah, lembaga pendidikan,dan berbagai lembaga  swadaya masyarakat yang bergerak dan/atau peduli terhadap  perempuan dan anak; dan  
+g. membuka sistem pelayanan terpadu bagi perlindungan perempuan dan  anak dari tindak kekerasan di setiap kelurahan.  
 
 #### Pasal 16
 
@@ -246,7 +252,8 @@ d. ketenagakerjaan;
 e. kependudukan dan pencatatan sipil:f. hukum;  
 g. pemberdayaan perempuan dan perlindungan anak;  
 h. koperasi dan Usaha Mikro Kecil Menengah;  
-i. mental dan spiritual; danj. ketenteraman dan ketertiban.  
+i. mental dan spiritual; dan  
+j. ketenteraman dan ketertiban.  
 2. Pencegahan tindak kekerasan oleh Perangkat Daerah sebagaimana  dimaksud pada ayat (1), dilaksanakan secara terpadu dan  berkesinambungan berdasarkan Rencana Pembangunan Jangka Panjang  Daerah dan Rencana Pembangunan Jangka Menengah Daerah.  
 
 ## Bagian Kedua
@@ -318,7 +325,8 @@ e. Lembaga sosial dan keagamaan;
 f. Lembaga Swadaya Masyarakat; dan/ataug. Media.  
 3. Kerjasama sebagaimana dimaksud pada ayat (2) meliputi:  a. pertukaran data dan informasi;  
 b. rehabilitasi korban tindak kekerasan;  
-c. pemulangan dan reintegrasi sosial; dand. penyediaan barang bukti dan saksi.  
+c. pemulangan dan reintegrasi sosial; dan  
+d. penyediaan barang bukti dan saksi.  
 4. Kerjasama sebagaimana dimaksud pada ayat (2) dilaksanakan sesuai  ketentuan Perundang-undangan
 
 ## Bagian Kedua
@@ -331,7 +339,8 @@ Kemitraan
 2. Kemitraan sebagaimana dimaksud pada ayat (1) dilakukan melalui:  
 a. pemberitahuan informasi kesempatan kerja bagi perempuan korban  tindak kekerasan;  
 b. pendidikan dan pelatihan bagi perempuan korban tindak kekerasan;  
-c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dand. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
+c. bantuan pendidikan bagi perempuan dan anak korban tindak kekerasan  yang tercabut dari pendidikannya; dan  
+d. menumbuhkan dan meningkatkan kemandirian ekonomi perempuan  korban tindak kekerasan.  
 3. Kemitraan sebagaimana dimaksud pada ayat (1) dan ayat (2), dilaksanakan  sesuai ketentuan Perundang-undangan.  
 
 # BAB IX
@@ -346,7 +355,8 @@ a. pedoman dan standar pemenuhan;
 b. bimbingan teknis dan pelatihan;  
 c. koordinasi;  
 d. pemantauan;  
-e. evaluasi; danf. pelaporan.  
+e. evaluasi; dan  
+f. pelaporan.  
 
 #### Pasal 24
 

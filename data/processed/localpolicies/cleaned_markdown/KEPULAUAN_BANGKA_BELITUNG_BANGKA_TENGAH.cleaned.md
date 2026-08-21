@@ -23,11 +23,13 @@ Menimbang:
  
  
  
+ 
 a. bahwa perempuan dan laki-laki mempunyai hak yang  sama dalam berpartisipasi diberbagai bidang dalam  kehidupan;  
 b. bahwa perempuan merupakan aset bangsa yang sangat  berperan dalam proses penerusan dan penciptaan  generasi yang berkualitas sehingga perlu mendapatkan  jaminan perlindungan dari tindak kekerasan dan  diskriminasi serta perlu diberdayakan agar dapat  mengaktualisasikan potensinya secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan  Peraturan Daerah tentang Pemberdayaan dan  Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
  
@@ -88,7 +90,8 @@ Dalam Peraturan Daerah ini yang dimaksud dengan:
 Pemberdayaan dan Perlindungan Perempuan, dilaksanakan  berdasarkan asas:  
 a. penghormatan hak asasi manusia;  
 b. keadilan dan kesetaraan gender;  
-c. nondiskriminasi; dand. perlindungan korban.  
+c. nondiskriminasi; dan  
+d. perlindungan korban.  
 
 #### Pasal 3
 
@@ -97,7 +100,8 @@ a. meningkatkan peran serta perempuan baik secara  individual maupun secara kelo
 b. mencegah segala bentuk diskriminasi;  
 c. memberdayakan perempuan baik secara individual  maupun kelompok dan masyarakat yang mengalami  masalah gender agar mampu memenuhi kebutuhannnya  secara mandiri;  
 d. mencegah dan menangani resiko dari kerentanan  perempuan agar kelangsungan hidupnya dapat dipenuhi  sesuai dengan kebutuhan dasar minimal;  
-e. menurunnya kesenjangan kesempatan antara perempuan  dan laki-laki dalam pencapaian pembangunan; danf. menurunnya tindak kekerasan terhadap perempuan.  
+e. menurunnya kesenjangan kesempatan antara perempuan  dan laki-laki dalam pencapaian pembangunan; dan  
+f. menurunnya tindak kekerasan terhadap perempuan.  
 
 # BAB III
 
@@ -126,7 +130,8 @@ e. memperoleh pendidikan dan pengajaran di semua jenis,  jenjang dan jalur pendi
 f. lingkungan yang sehat dan bersih;  
 g. mendapatkan upah kerja yang adil sesuai dengan  pekerjaannya yang sebanding dan sepadan dengan martabat kemanusiannya;  
 h. memilih dan/atau dipilih dalam pemilihan umum,  pemilihan kepala daerah, pemilihan kepala desa dan/atau pemilihan jabatan politik lainnya berdasarkan persamaan hak melalui pemungutan suara yang langsung, umum, bebas, rahasia, jujur dan adil menurut peraturan perundang-undangan yang berlaku;  
-i. mendapatkan perlindungan khusus dalam pelaksanaan  pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi wanita; danj. hak khusus yang melekat pada diri wanita dikarenakan  fungsi reproduksinya dijamin dan dlindungi oleh hukum.  
+i. mendapatkan perlindungan khusus dalam pelaksanaan  pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan/atau kesehatannya berkenaan dengan fungsi reproduksi wanita; dan  
+j. hak khusus yang melekat pada diri wanita dikarenakan  fungsi reproduksinya dijamin dan dlindungi oleh hukum.  
 2. Perempuan yang telah dewasa dan atau telah menikah  berhak untuk melakukan perbuatan hukum sendiri  kecuali ditentukan lain oleh hukum agamanya.  
 3. Perkawinan yang sah hanya dapat berlangsung atas  kehendak bebas dari pihak perempuan dan pihak laki-laki  sesuai dengan peraturan perundang-undangan.  
 4. Seorang istri selama dalam ikatan perkawinan  mempunyai hak dan tanggung jawab yang sama dengan  suaminya atas semua hal yang berkenaan dengan  kehidupan perkawinannya, hubungan dengan anak anaknya dan hak pemilikan serta pengelolaan harta  bersama.  
@@ -156,7 +161,8 @@ i. mendapatkan perlindungan khusus dalam pelaksanaan  pekerjaan atau profesinya 
 2. Perlindungan khusus diberikan kepada perempuan  karena fungsi reproduksinya dijamin dan dilindungi oleh  hukum.  
 3. Perlindungan khusus sebagaimana dimaksud pada ayat  (2) terdiri dari pelayanan kesehatan yang berkaitan  dengan:a. menstruasi;  
 b. hamil;  
-c. melahirkan; dand. menyusui.  
+c. melahirkan; dan  
+d. menyusui.  
 
 #### Pasal 8
 
@@ -205,7 +211,8 @@ d. disabilitas;
 e. korban eksploitasi seksual;  
 f. kepala keluarga;  
 g. daerah rawan konflik dan bencana;  
-h. pekerja; dani. kelompok rentan lainnya.  
+h. pekerja; dan  
+i. kelompok rentan lainnya.  
 
 # BAB VI
 
