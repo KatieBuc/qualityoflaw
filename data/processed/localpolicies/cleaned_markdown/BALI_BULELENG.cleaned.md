@@ -215,7 +215,7 @@ Pelayanan Terpadu Bagi Korban Tindak Kekerasan
 
 #### Pasal 11
 
-1. Pemerintah Daerah melaksanakan pelayanan terpadu bagi korban tindak  kekerasan melalui kegiatan:
+1. Pemerintah Daerah melaksanakan pelayanan terpadu bagi korban tindak  kekerasan melalui kegiatan:  
 a. pelayanan pengaduan;  
 b. pelayanan kesehatan;  
 c. konseling;  
