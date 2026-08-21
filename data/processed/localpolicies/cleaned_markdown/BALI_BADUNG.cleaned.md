@@ -134,7 +134,8 @@ g. menentukan sendiri keputusannya.
 #### Pasal 5
 
 1. Pemerintah Daerah berkewajiban dan bertanggung jawab dalam  memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
-2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) meliputi:a. melaksanakan kebijakan Perlindungan Perempuan dan Anak Korban Kekerasan berdasarkan peraturan perundang-undangan;  
+2. Kewajiban dan tanggung jawab Pemerintah Daerah sebagaimana  dimaksud pada ayat (1) meliputi:  
+a. melaksanakan kebijakan Perlindungan Perempuan dan Anak Korban Kekerasan berdasarkan peraturan perundang-undangan;  
 b. menetapkan kebijakan, program dan kegiatan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 c. memberikan dukungan sarana dan prasarana pelaksanaan  Perlindungan Perempuan dan Anak Korban Kekerasan;  
 d. mengalokasikan anggaran dalam penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan;  
@@ -143,7 +144,8 @@ e. membina dan mengawasi penyelenggaraan Perlindungan Perempuan dan Anak Korban 
 #### Pasal 6
 
 1. Masyarakat berkewajiban dan bertanggung jawab dalam  memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan.  
-2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  pada ayat (1) diselenggarakan dalam bentuk:a. mencegah terjadinya tindak Kekerasan terhadap Perempuan dan  Anak;  
+2. Kewajiban dan tanggung jawab masyarakat sebagaimana dimaksud  pada ayat (1) diselenggarakan dalam bentuk:  
+a. mencegah terjadinya tindak Kekerasan terhadap Perempuan dan  Anak;  
 b. memberikan Perlindungan terhadap Korban;  
 c. memberikan pertolongan darurat;  
 d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan dan Anak kepada pihak yang berwenang;  dane. turut serta dalam penanganan Korban Kekerasan.  
@@ -157,7 +159,7 @@ d. memberikan informasi dan/atau melaporkan tindak Kekerasan terhadap perempuan 
 1. Dalam menyelenggarakan Perlindungan terhadap Perempuan dan  Anak Korban Kekerasan di Daerah, Bupati dapat membentuk PPT.  
 2. Pembentukan dan pengembangan PPT disesuaikan dengan  perkembangan prioritas kebutuhan, dan kemampuan keuangan  Daerah serta kemampuan kelembagaan dan personil yang ada di  Daerah.  
 3. PPT sebagaimana dimaksud pada ayat (1) dapat mewadahi  lembaga/ unit kerja yang memberikan pelayanan bagi Korban Kekerasan seperti P2TP2A, Rumah Aman, Rumah Perlindungan Sosial Anak, Rumah Perlindungan Trauma Center, Rumah  Perlindungan Sosial Wanita, Rumah Singgah dan lain-lain kegiatan  pelayanan sesuai peraturan perundang-undangan yang berlaku.  
-4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:
+4. Bentuk pelayanan yang dilaksanakan PPT, meliputi:  
 a. pengaduan;  
 b. rehabilitasi Kesehatan;  
 c. rehabilitasi Sosial;  
@@ -401,4 +403,4 @@ Pada saat PPT terbentuk, P2TP2A merupakan bagian dari PPT.
 
 Cukup jelas.  
 
-TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15.  
+TAMBAHAN LEMBARAN DAERAH KABUPATEN BADUNG NOMOR 15  
