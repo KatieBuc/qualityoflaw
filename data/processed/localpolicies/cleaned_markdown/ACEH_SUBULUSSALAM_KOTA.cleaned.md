@@ -81,7 +81,7 @@ Dalam Qanun ini yang dimaksud dengan: 1. Kota adalah Kota Subulussalam.
 
 #### Pasal 2
 
-Pemberdayaan perempuan dilaksanakan berdasarkan asas
+Pemberdayaan perempuan dilaksanakan berdasarkan asas  
 a. penghargaan terhadap nilai-nilai syariat islam dan adat Aceh;  
 b. kepastian hukum;  
 c. kepentingan umum;  
