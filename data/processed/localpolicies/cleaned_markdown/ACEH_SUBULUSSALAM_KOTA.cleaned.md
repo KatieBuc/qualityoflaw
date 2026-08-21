@@ -156,7 +156,9 @@ Maksud dan Tujuan
 #### Pasal 11
 
 1. Perlindungan dimaksudkan adalah segala upaya yang ditujukan untuk melindungi perempuan dan memberikan rasa aman dalam pemenuhan hak- haknya dengan memberikan perhatian yang konsisten dan sistematis yang ditujukan untuk mencapai kesetaraan gender.  
-2. Perlindungan sebagaimana yang dimaksud pada ayat (1) meliputi memberikan jaminan dalam pemenuhan hak dasar serta meningkatkan akses dan kualitas berbagai layanan yang dibutuhkan perempuan berupa:a. Memberikan layanan penanganan pengaduan/laporan korban kekerasan terhadap perempuan;  
+2. Perlindungan sebagaimana yang dimaksud pada ayat (1) meliputi memberikan jaminan dalam pemenuhan hak dasar serta meningkatkan akses dan kualitas berbagai layanan yang dibutuhkan perempuan berupa:
+
+a. Memberikan layanan penanganan pengaduan/laporan korban kekerasan terhadap perempuan;  
 b. Memberikan layanan khusus bagi perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan minoritas, perempuan korban kekerasan, perempuan korban konflik dan bencana alam;  
 c. Memberikan pelayanan kesehatan bagi perempuan, perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam mulai tingkat dasar sampai rujukan lanjutan.;  
 d. Memberikan rehabilitasi sosial bagi perempuan disabilitas, perempuan dalam HIV/Aids, perempuan minoritas, perempuan miskin, perempuan korban kekerasan, perempuan korban konflik dan bencana alam;  
@@ -165,7 +167,8 @@ f. Melakukan pemulangan dan reintegrasi sosial dengan membangun jejaring pengama
 g. Memberikan pemenuhan kebutuhan dasar dan kebutuhan spesifik perempuan;  
 h. Membuka informasi dan akses terhadap segala bentuk perlindungan atas tindakan yang merugikan perempuan, termasuk penggunaan informasi tehnologi, media sosial;  
 i. Memberikan perlindungan dalam pelaksanaan pekerjaan atau profesinya terhadap hal-hal yang dapat mengancam keselamatan dan atau kesehatannya berkenaan dengan fungsi reproduksi perempuan;  
-j. Memberikan perlindungan bagi perempuan untuk melaksanakan syariat agamanya serta hak-hak yang mengikat dalam pelaksanaan syariat; dank. Dalam pelaksanaan kegiatan syariat agamanya sebagaimana dimaksud pada ayat k adalah bagi perempuan yang memeluk agama Islam dan agama lainnya.  
+j. Memberikan perlindungan bagi perempuan untuk melaksanakan syariat agamanya serta hak-hak yang mengikat dalam pelaksanaan syariat; dan
+k. Dalam pelaksanaan kegiatan syariat agamanya sebagaimana dimaksud pada ayat k adalah bagi perempuan yang memeluk agama Islam dan agama lainnya.  
 
 ## Bagian 2
 
