@@ -15,10 +15,12 @@ KORBAN TINDAK KEKERASAN BERBASIS GENDER DAN ANAK  DENGAN RAHMAT TUHAN YANG MAHA 
 Menimbang:  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat, harkat  dan martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan dan diskriminasi  sebagai bentuk penghormatan, perlindungan dan penegakan  Hak Asasi Manusia, khususnya hak-hak dasar perempuan  dan anak, sehingga perlu diatur mengenai penyelenggaraan  perlindungan terhadap korban tindak kekerasan berbasis  gender dan anak di Kabupaten Pekalongan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah  Kabupaten Pekalongan tentang Penyelenggaran Perlindungan  Terhadap Korban Tindak Kekerasan Berbasis Gender dan  Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang–Undang Dasar Negara Republik  Indonesia Tahun 1945;  

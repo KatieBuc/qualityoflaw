@@ -15,6 +15,7 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN BERBASIS GENDER DAN ANAK
 Menimbang:  
  
  
+ 
 a. b.  
 c. d. bahwa segala bentuk kekerasan, terutama kekerasan  berbasis gender dan anak adalah pelanggaran hak asasi  manusia dan kejahatan terhadap martabat kemanusiaan  serta bentuk diskriminasi;  
 
@@ -25,6 +26,7 @@ bahwa berdasarkan Undang-undang Nomor 23 tahun  2002 tentang Perlindungan Anak d
 bahwa berdasarkan pertimbangan sebagaimana dimaksud  huruf a, huruf b dan huruf c, perlu menetapkan Peraturan  Daerah tentang Penyelenggaraan Perlindungan Terhadap  Korban Kekerasan Berbasis Gender dan Anak;  
 
 Mengingat:  
+ 
  
  
 1 Pasal 18 ayat (6) Undang – Undang Dasar Negara Republik  Indonesia Tahun 1945;  

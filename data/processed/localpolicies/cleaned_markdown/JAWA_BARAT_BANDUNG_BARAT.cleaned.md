@@ -17,11 +17,13 @@
 Menimbang:  
  
  
+ 
 a. bahwa perempuan dan anak merupakan aset bangsa yang  berperan dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap pemenuhan  hak-haknya dan perlindungan dari tindak kekerasan dan  diskriminasi;  
 b. bahwa berdasarkan Pasal 7 ayat (2) huruf n Peraturan  Pemerintah Nomor 38 Tahun 2007 tentang Pembagian Urusan  Pemerintahan Antara Pemerintah, Pemerintahan Daerah  Provinsi dan Pemerintahan Daerah Kabupaten/Kota,  Pemberdayaan Perempuan dan Perlindungan anak merupakan  urusan pemerintahan yang wajib diselenggarakan oleh  Pemerintahan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, dan huruf b, perlu membentuk Peraturan  Daerah tentang Penyelenggaraan Pemberdayaan Perempuan dan  Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

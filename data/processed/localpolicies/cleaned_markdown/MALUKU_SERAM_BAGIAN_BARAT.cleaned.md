@@ -15,6 +15,7 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 Menimbang:  
  
  
+ 
 a. bahwa setiap warga negara berhak untuk bebas dari  penyiksaan atau perlakuan yang merendahkan derajat  martabat manusia serta berhak mendapatkan rasa aman  dan bebas dari segala bentuk kekerasan;  
 b. bahwa perempuan dan anak sebagai warga negara,  termasuk kelompok rentan yang cenderung mengalami  kekerasan yang merupakan tindakan yang melanggar hak  asasi manusia perlu mendapatkan perlindungan;  
 c. bahwa jumlah kekerasan terhadap perempuan dan anak di  Kabupaten Seram Bagian Barat masih terus meningkat dan  meluas sedangkan perlindungan terhadap perempuan dan  anak belum dilakukan secara optimal;  
@@ -22,6 +23,7 @@ d. bahwa peraturan perundangan yang mengatur mengenai  perlindungan perempuan da
 e. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a,huruf b, huruf c, dan huruf d, perlu  menetapkan peraturan daerah tentang penyelenggaraan  perlindungan perempuan dan anak korban kekerasan.  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

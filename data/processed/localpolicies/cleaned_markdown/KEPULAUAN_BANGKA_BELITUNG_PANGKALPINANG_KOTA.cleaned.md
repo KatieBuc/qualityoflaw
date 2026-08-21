@@ -15,11 +15,13 @@ PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG MAHA ESA
 Menimbang:  
  
  
+ 
 a. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penciptaan generasi yang  berkualitas perlu mendapatkan jaminan terhadap  pemenuhan hak-haknya dan Perlindungan dari tindak  kekerasan dan diskriminasi;  
 b. bahwa dalam rangka Perlindungan dan sarana aktualisasi diri perempuan dalam masyarakat di Kota Pangkalpinang, perlu adanya suatu peraturan daerah yang mengatur tentang pemberdayaan dan perlindungan perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b, perlu membentuk Peraturan Daerah tentang Pemberdayaan dan Perempuan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

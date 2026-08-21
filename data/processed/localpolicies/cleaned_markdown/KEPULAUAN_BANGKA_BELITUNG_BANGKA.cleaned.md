@@ -17,12 +17,14 @@ PENYELENGGARAAN PEMBERDAYAAN DAN PERLINDUNGAN PEREMPUAN DENGAN RAHMAT TUHAN YANG
 Menimbang:  
  
  
+ 
 a. bahwa pemberdayaan perempuan dilakukan agar  perempuan dapat mengaktualisasikan potensinya secara  optimal untuk berperan serta dalam pembangunan sesuai  dengan kodrat dan kapasitasnya;  
 b. bahwa perempuan sebagai aset bangsa yang berperan  dalam proses penerusan dan penyiapan generasi yang  berkualitas, perlu mendapat jaminan hak-haknya dan perlindungan dari tindak kekerasan dan diskriminasi  dalam rangka membangun masyarakat, bangsa dan  negara;  
 c. bahwa berdasarkan ketentuan Pasal 12 ayat (2) huruf b  Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, mengamanatkan pemberdayaan  perempuan merupakan urusan wajib yang diselenggarakan oleh Pemerintah Daerah Kabupaten;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan  dan Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

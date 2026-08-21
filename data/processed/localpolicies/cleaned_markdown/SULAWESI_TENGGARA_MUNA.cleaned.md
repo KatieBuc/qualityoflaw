@@ -11,11 +11,13 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DI KABUPATEN MUNA
 Menimbang:  
  
  
+ 
 a. bahwa diskriminasi dan kekerasan terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia dan kejahatan kemanusiaan;  
 b. bahwa dalam rangka pemenuhan hak-hak konstitusional perempuan dan anak serta meningkatkan kualitas hidup, perlu diatur tugas, wewenang dan tanggungjawab Pemerintah Daerah dalam perlindungan perempuan dan anak korban kekerasan;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a, dan huruf b, dipandang perlu untuk menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan anak korban kekerasan di Kabupaten Muna.  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; 2. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Convention on the Elimination of all Forms of Discrimination Againts Women)(Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277); 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Republik Indonesia Nomor 3886); 4. Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2002 Nomor 109, Tambahan Lembaran Negara Republik Indonesia Nomor 4235) sebagaimana telah diubah beberapa kali terakhir dengan Undang- Undang Nomor 17 tahun 2016 tentang penetapan peraturan pemerintah tentang pengganti Undang-Undang Nomor 1 Tahun 2016 Tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak (Lembaran Negara Republik Indonesia tahun 2016 Nomor 237, Tambahan Lembaran Negara Republik Indonesia Nomor 5946);  

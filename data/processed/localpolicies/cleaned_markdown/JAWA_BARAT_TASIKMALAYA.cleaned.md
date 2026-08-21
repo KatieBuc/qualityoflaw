@@ -19,12 +19,14 @@ Revisi Hasil Pembahasan 22 mei 2019
 Menimbang:  
  
  
+ 
 a. bahwa setiap warga negara memiliki hak yang sama dan  setara untuk menjalankan kehidupan yang bermartabat sesuai dengan prinsip kemanusiaan, kesetaraan dan keadilan;  
 b. bahwa perempuan dan anak merupakan kelompok  masyarakat yang rentan terhadap tindakan ketidakadilan dan ketidaksetaraan serta tindak kekerasan yang dapat mencederai hak dan martabatnya sebagai manusia;  
 c. bahwa maraknya kasus kekerasan terhadap perempuan dan anak di Kabupaten Tasikmalaya diperlukan penanganan dan tindakan nyata dari Pemerintah Daerah untuk menghapuskan segala bentuk kekerasan terhadap perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

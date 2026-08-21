@@ -15,6 +15,7 @@
 Menimbang:  
  
  
+ 
 Mengingat:
 
 # BUPATI LUWU,

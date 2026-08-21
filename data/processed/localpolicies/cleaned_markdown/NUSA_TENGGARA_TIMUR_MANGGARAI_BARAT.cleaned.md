@@ -15,6 +15,7 @@ PELAYANAN DAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 Menimbang:  
  
  
+ 
 a.  
 b. c. bahwa kekerasan dan diskriminasi dalam bentuk apapun,  terhadap perempuan dan anak adalah merupakan  pelanggaran terhadap Hak Asasi Manusia, oleh karena itu  kekerasan dan diskriminasi terhadap perempuan dan  anak yang terjadi di Kabupaten Manggarai Barat, harus  mendapatkan pelayanan dan perlindungan secara  optimal;  
 
@@ -23,6 +24,7 @@ bahwa penyediaan layanan bagi perempuan korban  kekerasan dan perlindungan anak 
 bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu membentuk  Peraturan Daerah tentang Pelayanan dan Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 www.jdih.manggaraibaratkab.go.id Mengingat:  
+ 
  
  
 1. 2.  

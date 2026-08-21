@@ -15,12 +15,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DENGAN RAHMAT TUHAN YANG 
 Menimbang:  
  
  
+ 
 a. bahwa perempuan dan anak berhak  mendapatkan rasa aman dan bebas dari segala bentuk penyiksaan atau perlakuan yang merendahkan derajat martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung mengalami kekerasan, sehingga perlu mendapatkan perlindungan yang optimal;  
 c. bahwa kekerasan terhadap perempuan dan anak terus meningkat sehingga perlu dilakukan upaya perlindungan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar  Negara Repulik Indonesia Tahun 1945;  

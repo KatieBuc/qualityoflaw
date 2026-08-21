@@ -17,12 +17,14 @@
 Menimbang:  
  
  
+ 
 a. bahwa perempuan dan anak dengan martabatnya memiliki hak untuk dilindungi dari berbagai tindakan kekerasan, eksploitasi, dan diskriminasi yang mengenyampingkan dan merendahkan derajatnya sebagai manusia;  
 b. bahwa perilaku dan budaya negatif serta tindakan yang dapat mengakibatkan perempuan dan anak berada dalam posisi tekanan atau ketidakberdayaan pada lingkup sosial kemasyarakatan, ataupun lingkup proses hukum semestinya diberikan perlakuan khusus yang menjaga stabilitas jiwa dan rohaninya untuk tetap mampu menjalankan kehidupannya dalam pergaulan sosial;  
 c. bahwa Pemerintah Daerah berkewajiban untuk menyelenggarakan perlindungan perempuan dan anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

@@ -17,10 +17,12 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 Menimbang:  
  
  
+ 
 a. bahwa sampai saat ini jumlah kekerasan terhadap perempuan dan anak  masih tinggi, sementara pelayanan dan perlindungan belum dilakukan  secara optimal;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a,  dipandang perlu mengatur Penyelenggaraan Perlindungan terhadap  Perempuan dan Anak Korban Kekerasan yang ditetapkan dengan  Peraturan Daerah Kabupaten Madiun.  
 
 Mengingat:  
+ 
  
  
 1. Undang-undang Nomor 12 Tahun 1950 tentang Pembentukan Daerah daerah Kabupaten dalam Lingkungan Propinsi Jawa Timur (Lembaran  Negara Tahun 1950 Nomor 19, Tambahan Lembaran Negara Nomor 9);  

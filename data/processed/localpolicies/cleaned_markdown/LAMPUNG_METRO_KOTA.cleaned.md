@@ -9,12 +9,14 @@ PROVINSI LAMPUNG PERATURAN DAERAH KOTA METRO NOMOR 03 TAHUN 2014 PENYELENGGARAAN
 Menimbang:  
  
  
+ 
 a. bahwa dalam diri setiap manusia melekat hak asasi manusia yang wajib dihormati, dijunjung tinggi dan dilindungi oleh negara, hukum Pemerintah Daerah dan setiap orang demi kehormatan serta perlindungan terhadap harkat dan martabat manusia;  
 b. bahwa perempuan dan anak termasuk kelompok rentan yang cenderung menjadi korban kekerasan, dan kejahatan kemanusiaan yang merupakan pelanggaran hak asasi manusia, sehingga perlu mendapatkan perlindungan dengan peraturan yang dapat memberikan pencegahan dan perlindungan terhadap korban kekerasan;  
 c. bahwa berdasarkan Undang-Undang Nomor 23 Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b, dan huruf c diatas, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Convention on The Elimination of All Forms of Discrimination Against Women (Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Perempuan) (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  

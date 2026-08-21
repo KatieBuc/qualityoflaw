@@ -17,6 +17,7 @@ b. bahwa dalam rangka pelaksanaan otonomi daerah, maka pengaturan dan pelayanan 
 C. Mengingat:  
  
  
+ 
 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lembaran Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Nomor 3277); 2. Undang-Undang Nomor 5 tahun 1998 Tentang Pengesahan Konvensi Menentang Penyiksaan dan Perlakuan atau Penghukuman Lain Yang Kejam, Tidak Manusiawi Atau Merendahkan Martabat Manusia (Lembaran Negara Republik Indonesia Tahun 1998 Nomor 164, Tambahan Lembaran Negara Nomor 3783);  
 
 3. Undang-Undang Nomor 39 Tahun 1999 tentang Hak Asasi Manusia (Lembaran Negara Republik Indonesia Tahun 1999 Nomor 165, Tambahan Lembaran Negara Nomor 3886);  

@@ -15,11 +15,13 @@
 Menimbang:  
  
  
+ 
 a. bahwa perempuan dan anak merupakan makhluk ciptaan  Tuhan Yang Maha Esa yang perlu mendapat penghormatan dan perlindungan demi harkat dan martabatnya sebagai manusia;  
 b. bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga pemberdayaan perempuan dan pelindungan anak harus dilakukan secara terpadu dan berkesinambungan melalui akselerasi pemenuhan dan perlindungan hak-hak perempuan dan anak dalam kehidupan pribadinya, keluarga, bermasyarakat, berbangsa dan bernegara;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a dan huruf b perlu membentuk Peraturan Daerah tentang Pemberdayaan Perempuan dan Perlindungan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

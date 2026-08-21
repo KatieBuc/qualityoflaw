@@ -21,12 +21,14 @@ WALIKOTA SUBULUSSALAM,
 Menimbang:  
  
  
+ 
 a. bahwa perempuan memiliki peran strategis dalam pembangunan sehingga peningkatan kualitas hidup Mengingat perempuan perlu mendapatkan pengakuan sesuai kearifan lokal dan tuntunan Syariat Islam;  
 b. bahwa berdasarkan mandat Qanun Nomor 6 Tahun 2009 tentang Pemberdayaan dan Perlindungan Perempuan Pasal 4 dan 5 yang mengatur tentang ruang lingkup pemberdayaan dan perlindungan perempuan yang menjadi kewenangan Pemerintah Kabupaten Kota;  
 c. bahwa dalam kenyataannya, kualitas hidup perempuan masih rendah dan rentan mendapatkan ancaman kekerasan, penganiayaan, penyiksaan, kekerasan dalam rumah tangga, perdagangan perempuan, eksploitasi dan diskriminasi terhadap perempuan perlu segera dihentikan dengan memberikan perlindungan sesuai dengan harkat dan martabat kemanusiaan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, huruf c, perlu membentuk Qanun Kota Subulussalam tentang Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
 
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

@@ -19,9 +19,11 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAKAN KEKERASAN DENGAN RAHMAT TUHAN YANG
 Menimbang:  
  
  
+ 
 bahwa untuk melaksanakan ketentuan angka I huruf H angka 2  dan angka 6 kolom 5 lampiran Undang-Undang Nomor 23  Tahun 2014 tentang Pemerintahan Daerah sebagaimana telah  diubah beberapa kali terakhir dengan Undang-Undang Nomor  11 Tahun 2020 tentang Cipta Kerja, perlu menetapkan  Peraturan Daerah tentang Perlindungan Perempuan dan Anak  dari Tindakan Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

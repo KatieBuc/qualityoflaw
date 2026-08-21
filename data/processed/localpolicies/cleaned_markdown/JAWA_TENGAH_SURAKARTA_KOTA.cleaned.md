@@ -15,6 +15,7 @@
 Menimbang:  
  
  
+ 
 a. bahwa perempuan adalah warga negara yang memiliki  hak asasi manusia yang harus dilindungi, dihormati, dipertahankan, dan tidak boleh diabaikan, dikurangi, atau dirampas oleh siapapun sehingga perlu mendapatkan jaminan pelindungan dari tindak kekerasan, eksploitasi dan diskriminasi serta perlu diberdayakan agar dapat mengaktualisasikan potensinya secara optimal;  
 b. bahwa dalam rangka mewujudkan pemenuhan hak hak konstitusional perempuan yang bebas dari tindak kekerasan, eksploitasi dan diskriminasi, serta untuk meningkatkan kualitas hidup perempuan perlu mendapatkan pelindungan dan pemberdayaan dari Pemerintah Daerah;  
 c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanakan secara maksimal dan disertai masih terjadinya tindak kekerasan, eksploitasi dan diskriminasi terhadap perempuan sehingga diperlukan suatu pengaturan yang komprehensif untuk memberikan arah, landasan, dan kepastian hukum;  
@@ -23,6 +24,7 @@ c. bahwa penyelenggaraan pelindungan perempuan di  Daerah belum dapat dilaksanak
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  

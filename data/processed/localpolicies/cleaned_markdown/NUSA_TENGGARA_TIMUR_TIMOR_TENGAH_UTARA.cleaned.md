@@ -15,12 +15,14 @@ PERATURAN DAERAH KABUPATEN TIMOR TENGAH UTARA  NOMOR 3 TAHUN 2020
 Menimbang:  
  
  
+ 
 a. bahwa setiap orang memiliki harkat dan  martabat yang sama untuk hidup bermasyarakat, berbangsa dan bernegara serta berhak mendapatkan perlindungan hak asasi manusia dan kebebasan dasar manusia tanpa diskriminasi sebagai upaya mewujudkan kesetaraan dan keadilan gender dalam pembangunan nasional maupun daerah;  
 b. bahwa dalam rangka mewujudkan kesetaraan  dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara perlu adanya peningkatan efektifitas dan optimalisasi penyelenggaraan sub urusan pemberdayaan perempuan sebagai bagian yang tidak terpisahkan dari kegiatan fungsional lembaga pemerintah dan non pemerintah guna meningkatkan kedudukan, peran dan kualitas perempuan dalam pembangunan di Kabupaten Timor Tengah Utara;  
 c. bahwa untuk menjamin adanya kepastian  hukum dan untuk mengisi kekosongan hukum demi mewujudkan kesetaraan dan keadilan gender dalam pembangunan di Kabupaten Timor Tengah Utara, perlu adanya pengaturan dalam Peraturan Daerah tentang penyelenggaraan pemberdayaan perempuan;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Pemberdayaan Perempuan;  
 
 Mengingat:  
+ 
  
  
 1 Pasal 18 ayat (6) Undang - Undang Dasar Negara Republik Indonesia Tahun 1945;  

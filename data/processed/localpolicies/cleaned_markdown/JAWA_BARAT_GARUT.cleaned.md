@@ -17,11 +17,13 @@
 Menimbang:  
  
  
+ 
 a. bahwa untuk menjamin dan melindungi hak-hak perempuan dan  anak agar dapat berpartisipasi secara optimal sesuai dengan  harkat dan martabat kemanusiaan, serta mendapat perlindungan  dari kekerasan, perlu dilakukan upaya-upaya perlindungan  terhadap perempuan dan anak secara optimal melalui  peningkatan peran serta masyarakat secara luas;  
 b. bahwa maraknya kasus kekerasan terhadap perempuan dan  anak di Kabupaten Garut diperlukan penanganan dan tindakan  nyata dari Pemerintah Daerah untuk menyusun kebijakan dan  program untuk menghapuskan segala bentuk kekerasan  terhadap perempuan dan anak;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang  Perlindungan Perempuan dan Anak dari Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

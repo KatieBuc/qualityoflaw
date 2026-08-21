@@ -21,12 +21,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK  KORBAN KEKERASAN
 Menimbang:  
  
  
+ 
 a. bahwa setiap warga Negara berhak atas rasa aman dan bebas dari segala bentuk tindak kekerasan terhadap perempuan dan anak yang merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa kekerasan terhadap perempuan  dan anak di daerah terus meningkat, sehingga diperlukan upaya perlindungan;  
 c. bahwa peraturan perundang-undangan yang mengatur mengenai perlindungan perempuan dan anak korban kekerasan belum mengatur upaya-upaya perlindungan di daerah sehingga diperlukan dukungan kelembagaan dan peraturan yang dapat menjamin pelaksanaannya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada huruf a, huruf b dan huruf c tersebut diatas, perlu diatur dan ditetapkan dengan Peraturan Daerah Kabupaten Kotawaringin Timur tentang Penyelenggaraan Perlindungan Perempuan dan Anak Korban Kekerasan.  
 
 Mengingat:  
+ 
  
  
 1. Undang-Undang Nomor 27 Tahun 1959 tentang  Penetapan Undang-Undang Darurat Nomor 3 Tahun 1953 tentang Pembentukan Daerah Tingkat II di Kalimantan (Lembaran Negara Republik Indonesia Tahun 1953 Nomor 9, Tambahan Lembaran Negara Republik Indonesia Nomor 352) Sebagai Undang-Undang (Lembaran Negara Republik Indonesia Tahun 1959 Nomor 72, Tambahan Lembaran negara Republik Indonesia 1820);  

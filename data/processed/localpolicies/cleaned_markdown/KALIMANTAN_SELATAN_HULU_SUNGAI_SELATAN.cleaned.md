@@ -15,12 +15,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 Menimbang:  
  
  
+ 
 a. bahwa setiap warga Negara berhak untuk bebas dari tindak  kekerasan atau perlakuan yang merendahkan derajat martabat  manusia serta berhak mendapatkan rasa aman terlebih lagi bagi  perempuan dan anak;  
 b. bahwa kekerasan terhadap perempuan dan anak di Kabupaten  Hulu Sungai Selatan terus meningkat dan meluas yang  menyebabkan rasa tidak aman dalam menjalankan kehidupan,  sehingga diperlukan upaya perlindungan secara terpadu;  
 c. bahwa berdasarkan ketentuan Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak sebagaimana telah diubah  beberapa kali terakhir dengan Undang-Undang Nomor 17 Tahun  2016 tentang Penetapan Peraturan Pemerintah Pengganti Undang Undang Nomor 1 Tahun 2016 tentang Perubahan Kedua Atas  Undang-Undang Nomor 23 Tahun 2002 Tentang Perlindungan  Anak Menjadi UndangUndang dan ketentuan Undang-Undang  Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam  Rumah Tangga, Pemerintah Daerah berkewajiban dan  bertanggungjawab terhadap peneyelenggaraan perlindungan  perempuan dan anak dari tindak kekerasan di Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak dari Tindak  Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

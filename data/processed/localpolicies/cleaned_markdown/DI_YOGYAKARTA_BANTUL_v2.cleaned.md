@@ -27,10 +27,12 @@ PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN BANTUL NOMOR 15  TAHUN 2013 TENTANG PE
 Menimbang:  
  
  
+ 
 a. bahwa berdasarkan klarifikasi dari Gubernur Daerah  Istimewa Yogyakarta, beberapa ketentuan dalam Peraturan  Daerah Kabupaten Bantul Nomor 15 Tahun 2013 tentang  Perlindungan Anak dan Perempuan Korban Kekerasan perlu  disempurnakan dengan perubahan Peraturan Daerah;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perubahan Atas Peraturan Daerah Kabupaten Bantul Nomor  15 Tahun 2013 tentang Perlindungan Anak dan Perempuan  Korban Kekerasan;  
 
 2 2015 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

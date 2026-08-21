@@ -9,6 +9,7 @@
 PERLINDUNGAN PEREMPUAN DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA ESA BUPATI SANGGAU, Menimbang:  
  
  
+ 
 Dirancang oleh: Kepala DINSOSP3AKB Kab. Sanggau,
 
 # YOHANES
@@ -24,6 +25,7 @@ Sanggau,
 # YAKOBUS, SH,  MH
 
 NIP. 19700223 Mengingat:  
+ 
  
  
 Disetujui oleh:

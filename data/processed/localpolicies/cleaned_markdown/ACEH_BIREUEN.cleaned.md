@@ -19,12 +19,14 @@ BUPATI BIREUEN,
 Menimbang:  
  
  
+ 
 
 a. bahwa perempuan sebagai makhluk mulia dan bermartabat perlu diberdayakan kemampuannya serta berhak mendapat perlindungan sesuai dengan Syari'at Islam;  
 b. bahwa berdasarkan Pasal 231 Undang-Undang Nomor 11 Tahun 2006 tentang Pemerintahan Aceh, menyebutkan Pemerintah Kabupaten berkewajiban memajukan dan melindungi hak-hak perempuan dan anak serta melakukan upaya pemberdayaan yang bermartabat;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Qanun tentang Perlindungan Perempuan;  
 
 Mengingat:  
+ 
  
  
 
@@ -225,7 +227,7 @@ Perempuan Sebagai Ibu Rumah Tangga
 
 #### Pasal 10
 
-Pelaksanaan perlindungan bagi perempuan sebagai ibu rumah tangga sebagaimana dimaksud dalam Pasal 9 huruf a, dalam hal sebagai berikut: 
+Pelaksanaan perlindungan bagi perempuan sebagai ibu rumah tangga sebagaimana dimaksud dalam Pasal 9 huruf a, dalam hal sebagai berikut:  
 a. nafkah lahir batin;  
 b. kepala keluarga memberikan perlindungan khusus kepada ibu rumah tangga saat masa kehamilan; dan
 c. ibu rumah tangga yang telah melahirkan harus mendapat perlindungan dari kepala keluarga untuk mengurangi beban sebagai ibu rumah tangga.  

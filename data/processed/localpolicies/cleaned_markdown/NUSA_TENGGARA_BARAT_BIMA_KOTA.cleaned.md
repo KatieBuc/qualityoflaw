@@ -17,6 +17,7 @@ NOMOR:  203                                   TAHUN  2018                       
 Menimbang:  
  
  
+ 
 a.	bahwa setiap warga negara berhak untuk bebas dari penyiksaan atau perlakuan yang merendahkan derajat dan martabat manusia serta berhak mendapatkan rasa aman dan bebas dari segala bentuk kekerasan;  
 
 bahwa segala bentuk kekerasan terhadap perempuan  merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  

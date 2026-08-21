@@ -15,12 +15,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 Menimbang:  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak atas kelangsungan  hidup, tumbuh, dan berkembang secara wajar serta berhak atas  perlindungan dari kekerasan dan diskriminasi sebagaimana  diamanatkan dalam Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 b. bahwa tindak kekerasan terhadap perempuan dan anak di Kota  Banjar dari tahun ke tahun semakin meningkat sehingga  menjadi tanggung jawab Pemerintah Daerah Kota Banjar untuk  menjamin perlindungan, pemenuhan, dan penghormatan hak  perempuan dan anak;  
 c. bahwa Kota Banjar belum memiliki peraturan daerah yang mengatur tentang penyelenggaraan perlindungan perempuan  dan anak korban kekerasan sehingga diperlukan dasar hukum  yang komprehensif dalam rangka pemenuhan perempuan dan Anak;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b dan huruf c perlu menetapkan Peraturan  Daerah tentang Perlindungan Perempuan dan Anak Korban  Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

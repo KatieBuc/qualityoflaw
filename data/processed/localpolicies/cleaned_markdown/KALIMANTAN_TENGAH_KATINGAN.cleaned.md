@@ -15,6 +15,7 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN  DENGAN RAHMAT TUHAN YANG MAHA 
 Menimbang Mengingat:  
  
  
+ 
 a. bahwa dengan ditetapkannya Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak sebagaimana telah  diubah dengan Undang-Undang Nomor 35 Tahun 2014  tentang Perubahan atas Undang-Undang Nomor 23 Tahun  2002 tentang Perlindungan Anak dan Undang-Undang  Nomor 24 Tahun 2004 tentang Penghapusan Kekerasan  Dalam Rumah Tangga maka dipandang perlu mencegah dan  menanggulangi kekerasan terhadap Perempuan dan Anak  melalui perlindungan hukum terhadap Perempuan dan Anak  korban kekerasan;  
 b. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, perlu menetapkan Peraturan Daerah tentang  Perlindungan Perempuan dan Anak korban kekerasan;  
 

@@ -17,6 +17,7 @@
 Menimbang:  
  
  
+ 
 Mengingat:
 a. bahwa hak setiap warga Negara untuk bebas dari  penyiksaan atau perlakuan yang  merendahkan derajat martabat manusia serta  berhak mendapatkan rasa aman dan bebas dari  segala bentuk kekerasan;  
 b. bahwa segala bentuk tindak kekerasan terhadap  perempuan dan anak merupakan pelanggaran  hak asasi manusia sehingga perlu dilindungi harga  diri dan martabatnya serta dijamin hak hidupnya  sesuai dengan fitrah dan kodratnya tanpa  diskriminasi;  

@@ -15,6 +15,7 @@
 Menimbang:  
  
  
+ 
 a. bahwa setiap perempuan dan anak berhak untuk mendapatkan perlindungan atas hak asasinya, bebas dari penyiksaan, ancaman, tekanan, serta mendapat kemudahan, perlakuan, kesempatan dan manfaat yang sarna guna mencapai keadilan dan kesejahteraan hidup;  
 b. bahwa peningkatan kualitas hidup perempuan dan anak merupakan urusan wajib yang menjadi tanggungjawab Pemerintah Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan Dari Tindak Kekerasan; Mengingat 1. Undang-Undang Nomor 7 Tahun 1984 tentang Pengesahan Konvensi Mengenai Penghapusan Segala Bentuk Diskriminasi Terhadap Wanita (Lernbaran: Negara Republik Indonesia Tahun 1984 Nomor 29, Tambahan Lembaran Negara Republik Indonesia Nomor 3277);  

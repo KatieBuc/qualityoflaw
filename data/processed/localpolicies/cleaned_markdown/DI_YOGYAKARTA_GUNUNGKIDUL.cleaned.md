@@ -15,12 +15,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 Menimbang:  
  
  
+ 
 a. bahwa segala bentuk tindak kekerasan  terhadap perempuan dan anak merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan fitrah dan kodratnya tanpa diskriminasi;  
 b. bahwa selain upaya perlindungan, diperlukan adanya pencegahan, pelayanan, dan pemberdayaan terhadap perempuan dan anak korban kekerasan;  
 c. bahwa perlu adanya pengaturan upaya upaya sebagaimana tersebut dalam huruf b di daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang Undang Dasar  Negara Republik Indonesia Tahun 1945;  

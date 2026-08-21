@@ -13,6 +13,7 @@ PEI{YELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN
 Menimbang:  
  
  
+ 
 Mengingat bahwa perempuan dan anak termasuk kelompok
 a. rentan yang cenderung mengalami kekerasan sehingga perlu mendapatkan perlindungan;  
 

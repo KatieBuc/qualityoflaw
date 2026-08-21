@@ -17,12 +17,14 @@
 Menimbang:  
  
  
+ 
 a. bahwa Negara Republik Indonesia adalah Negara yang menjunjung tinggi harkat dan martabat setiap manusia, memberi jaminan atas hak dan rasa aman bagi perempuan dan anak serta bebas dari segala bentuk kekerasan, perlakuan salah, eksploitasi, trafficking dan penelantaran;  
 b. bahwa agar upaya-upaya perlindungan terhadap anak dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah dan perlu meningkatkan peran serta masyarakat secara luas;  
 c. bahwa berdasarkan Pasal 12 ayat (2) huruf b Undang- Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah sebagaimana telah diubah beberapa kali terakhir dengan Undang-Undang Nomor 9 Tahun 2015 tentang Perubahan Kedua Atas Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintah Daerah, pemberdayaan perempuan dan pelindungan anak merupakan urusan pemerintahan yang wajib dilaksanakan oleh Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b dan huruf c di atas, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

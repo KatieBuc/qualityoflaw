@@ -23,6 +23,7 @@ d. bahwa dalam kehidupan masyarakat seringkali perempuan dan anak di Kabupaten D
 e. berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a. huruf b. huruf c. dan huruf d dibentuk Peraturan Daerah Mengingat:  
  
  
+ 
 1. 6.  
 
 Kabupaten Donggala tentang Perlindungan Bagi Perempuan dan Anak.  

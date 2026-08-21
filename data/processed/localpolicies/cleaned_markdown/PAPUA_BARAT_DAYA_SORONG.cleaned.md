@@ -17,11 +17,13 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 Menimbang:  
  
  
+ 
 a. bahwa kekerasan terhadap perempuan dan anak merupakan  tindakan yang melanggar hak dan martabat perempuan dan anak sebagai manusia ;  
 b. bahwa penyelenggaraan pencegahan dan perlindungan  perempuan dan anak sebagai korban kekerasan di Kabupaten Sorong selama ini belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak dari Tindak Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang – Undang Dasar Negara Republik  Indonesia Tahun 1945;  

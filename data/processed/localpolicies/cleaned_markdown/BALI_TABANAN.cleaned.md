@@ -15,12 +15,14 @@ PERLINDUNGAN PEREMPUAN DAN ANAK KORBAN KEKERASAN DENGAN RAHMAT TUHAN YANG MAHA E
 Menimbang:  
  
  
+ 
 a. bahwa tindak kekerasan terhadap perempuan dan anak  merupakan pelanggaran hak asasi manusia sehingga perlu dilindungi harga diri dan martabatnya serta dijamin hak hidupnya sesuai dengan kodratnya tanpa diskriminasi;  
 b. bahwa untuk mencegah dan menanggulangi kekerasan  terhadap perempuan dan anak perlu dilakukan perlindungan hukum terhadap perempuan dan anak korban kekerasan;  
 c. bahwa dalam rangka penyelenggaraan perlindungan  perempuan dan anak korban kekerasan di Kabupaten Tabanan belum memiliki dasar pengaturan;  
 d. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a, huruf b, dan huruf c, perlu membentuk Peraturan Daerah tentang Perlindungan Perempuan dan Anak Korban Kekerasan;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

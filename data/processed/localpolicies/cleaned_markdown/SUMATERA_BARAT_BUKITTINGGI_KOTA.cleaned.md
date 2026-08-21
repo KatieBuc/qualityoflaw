@@ -17,11 +17,13 @@
 Menimbang:  
  
  
+ 
 a. bahwa dalam rangka menjamin dan melindungi hak-hak  perempuan dan anak agar dapat berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapatkan perlindungan dari kekerasan, diskriminasi dan pelanggaran perlu dilakukan upaya-upaya perlindungan;  
 b. bahwa agar upaya perlindungan terhadap perempuan  dan anak dapat memperoleh hasil yang optimal, perlu adanya tindakan nyata dari pemerintah daerah serta peran serta masyarakat;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indoensia Tahun 1945;  

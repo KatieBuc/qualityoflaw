@@ -17,12 +17,14 @@ PERLINDUNGAN, PEMBERDAYAAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ESA
 Menimbang:  
  
  
+ 
 a. bahwa anak merupakan amanah dan karunia Tuhan Yang Maha  Esa yang dalam dirinya melekat harkat dan martabat sebagai  manusia seutuhnya, serta merupakan generasi penerus cita-cita  perjuangan bangsa, sehingga perlu mendapat perlindungan dan  kesempatan seluas-luasnya untuk kelangsungan hidup, tumbuh  dan berkembang secara wajar;  
 b. bahwa sehubungan dengan masih banyaknya perempuan dan  anak yang perlu mendapat perlindungan dari berbagai bentuk  tindak kekerasan, perlakuan salah, eksploitasi, dan  penelantaran, maka dipandang perlu adanya upaya strategis  dari Pemerintah Daerah dan pihak-pihak lain yang berkewajiban  untuk memberikan perlindungan terhadap perempuan anak  dimaksud;  
 c. bahwa diskriminasi dan kekerasan terhadap perempuan dan  anak merupakan pelanggaran hak asasi manusia, dan  kejahatan kemanusiaan, oleh karenanya dalam rangka  pemenuhan hak-hak konstitusional perempuan dan anak sebagaimana dimaksud pada huruf b, maka Pemerintah Daerah dapat menyelenggarakan fungsi koordinasi secara terpadu  terhadap pelaksanaan tugas, wewenang, dan tanggung jawabnya;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud pada  huruf a, huruf b, dan huruf c, maka perlu menetapkan  Peraturan Daerah tentang Perlindungan, Pemberdayaan  Perempuan dan Anak.  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

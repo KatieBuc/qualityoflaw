@@ -17,11 +17,13 @@ PELINDUNGAN PEREMPUAN DARI KEKERASAN, EKSPLOITASI DAN  DISKRIMINASI
 Menimbang:  
  
  
+ 
 a. bahwa setiap perempuan berhak untuk mendapatkan  rasa aman dan pelindungan dari segala bentuk kekerasan, eksploitasi, penyiksaan, diskriminasi, dan perlakuan salah lainnya yang merendahkan harkat dan martabat manusia serta melanggar hak asasi manusia;  
 b. bahwa untuk memastikan pencegahan dan penanganan  tindak kekerasan terhadap perempuan secara cepat, akurat, menyeluruh, dan terintegrasi, diperlukan pengaturan mengenai pelindungan terhadap perempuan;  
 c. bahwa berdasarkan pertimbangan sebagaimana  dimaksud dalam huruf a dan huruf b, perlu menetapkan Peraturan Daerah tentang Pelindungan Perempuan dari Kekerasan, Eksploitasi dan Diskriminasi;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

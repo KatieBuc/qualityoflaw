@@ -15,8 +15,10 @@ PERLINDUNGAN PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN DENGAN RAHMAT TUHAN YANG M
 Menimbang:  
  
  
+ 
 a. b.  
 c. d. Mengingat:  
+ 
  
  
 1. 2.  

@@ -25,6 +25,7 @@ TERHADAP PEREMPUAN DAN ANAK DARI TINDAK KEKERASAN  DI KOTA BITUNG
 Menimbang:  
  
  
+ 
 a. bahwa penjaminan atas penghormatan, perlindungan dan  pemenuhan Hak Asasi Manusia bagi setiap Warga Negara Indonesia yang ada di Daerah merupakan tugas yang harus dilaksanakan oleh Pemerintah Daerah;  
 b. bahwa Kota Bitung sebagai kota industri yang berkembang  dengan pesat sebagai salah satu pusat ekonomi di Provinsi Sulawesi Utara, telah menciptakan banyak lapangan kerja sehingga banyak masyarakat dari berbagai daerah di luar Kota Bitung yang datang bekerja di dalam wilayah Kota Bitung dan berpotensi memunculkan gesekan sosial sehingga dapat berimbas pada rentannya perempuan dan anak untuk menjadi korban dari tindak kekerasan;  
 c. bahwa dalam rangka penyelenggaraan otonomi daerah yang  mengacu pada Pasal 12 ayat (2) huruf b dan
@@ -35,6 +36,7 @@ Undang-Undang Nomor 23 Tahun 2014 tentang Pemerintahan Daerah, khususnya dalam b
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  dalam huruf a, huruf b dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan terhadap Perempuan dan Anak dari Tindak Kekerasan di Kota Bitung;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  

@@ -15,11 +15,13 @@ PENYELENGGARAAN PERLINDUNGAN TERHADAP KORBAN KEKERASAN  BERBASIS GENDER DAN ANAK
 Menimbang:  
  
  
+ 
 a. bahwa berdasarkan Undang-Undang Nomor 23  Tahun 2002 tentang Perlindungan Anak dan Undang-Undang Nomor 23 Tahun 2004 tentang Penghapusan Kekerasan Dalam Rumah Tangga, Pemerintah Daerah bersama masyarakat berkewajiban melakukan upaya pencegahan, perlindungan, pemulihan terhadap korban kekerasan berbasis gender dan anak;  
 b. bahwa untuk mewujudkan pemberian perlindungan terhadap korban kekerasan yang berbasis gender dan anak serta untuk memberikan kepastian hukum khususnya dalam penyelenggaraan perlindungan anak di Kabupaten Wonogiri, maka perlu diatur dalam Peraturan Daerah;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah tentang Penyelenggaraan Perlindungan Terhadap Korban Kekerasan berbasis Gender dan Anak.  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara  Republik Indonesia Tahun 1945;  

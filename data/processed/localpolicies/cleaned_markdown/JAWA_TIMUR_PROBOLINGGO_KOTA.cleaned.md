@@ -13,12 +13,14 @@ PENYELENGGARAAN PERLINDUNGAN PEREMPUAN DAN ANAK DENGAN RAHMAT TUHAN YANG MAHA ES
 Menimbang:  
  
  
+ 
 a bahwa perempuan dan anak mempunyai kedudukan yang  strategis sebagai aset bangsa, sehingga penyelenggaraan  perlindungan perempuan dan anak harus dilakukan secara  terpadu dan berkesinambungan melalui pemenuhan dan  perlindungan hak-hak perempuan dan anak dalam kehidupan  pribadinya, keluarga, bermasyarakat, berbangsa dan  bernegara;  
 b. bahwa penyelenggaraan perlindungan perempuan dan anak di  Kota probolinggo belum dilaksanakan secara menyeluruh  sehingga pemenuhan dan perlindungan hak perempuan dan  anak belum dilaksanakan secara optimal;  
 c. bahwa dalam Undang-Undang tentang Pemerintahan Daerah menyatakan bahwa pemberdayaan perempuan dan  perlindungan anak merupakan salah satu urusan  pemerintahan wajib yang tidak berkaitan dengan pelayanan  dasar dan menjadi kewenangan Pemerintah Daerah;  
 d. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a, huruf b, dan huruf c, perlu menetapkan Peraturan Daerah tentang Penyelenggaraan Perlindungan Perempuan dan Anak;  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945;  

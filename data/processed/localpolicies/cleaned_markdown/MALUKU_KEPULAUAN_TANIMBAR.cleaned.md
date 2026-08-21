@@ -21,11 +21,13 @@
 Menimbang:  
  
  
+ 
 a. bahwa sebagai warga negara, perempuan dan anak berhak  memperoleh perlindungan atas setiap tindakan kekerasan yang  dilakukan terhadapnya yang dapat menimbulkan korban fisik  maupun psikhis, sebagai bagian dari pengakuan dan penegakan  Hak Asasi Manusia;  
 b. bahwa jumlah tindakan kekerasan terhadap perempuandan anak di  Kabupaten Maluku Tenggara Barat cukup tinggi, sedangkan  perlindungan dan pelayanan belum dilakukan secara optimal;  
 c. bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam  huruf a, dan huruf b perlu membentuk Peraturan Daerah tentang  Penyelenggaraan Perlindungan Perempuandan Anak Korban  Kekerasan.  
 
 Mengingat:  
+ 
  
  
 1. Pasal 18 ayat (6) Undang-Undang Dasar Negara Republik Indonesia  Tahun 1945;  

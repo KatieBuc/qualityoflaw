@@ -21,6 +21,7 @@ d. bahwa berdasarkan pertimbangan sebagaimana dimaksud  pada huruf a, huruf b da
 Mengingat:  
  
  
+ 
 1. Pasal18 Ayat (6) Undang-Undang Dasar Negara Republik  Indonesia Tahun 1945;  
 
 2. Undang-Undang Nomor 29 Tahun 1959 tentang  Pembentukan Daerah Tingkat II di Sulawesi (Lembaran  Negara Republik Indonesia Tahun 1959 Nomor 74,  Tambahan Lembaran Negara Republik Indonesia Nomor  1822);  
