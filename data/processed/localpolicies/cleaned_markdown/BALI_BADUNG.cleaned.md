@@ -164,7 +164,7 @@ c. rehabilitasi Sosial;
 d. bantuan hukum;  
 e. pemulangan; dan  
 f. reintegrasi sosial.  
-5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:
+5. Dalam memberikan Perlindungan terhadap Perempuan dan Anak Korban Kekerasan PPT berkewajiban:  
 a. memberikan layanan secepat mungkin dan tanpa biaya kepada  Korban;  
 b. menyelenggarakan Perlindungan dan pemenuhan hak korban  atas Rehabilitasi Kesehatan, Rehabilitasi Sosial, Pemulangan,  reintegrasi sosial dan bantuan hukum;  
 c. melakukan kerjasama dengan lembaga tertentu dalam  penyediaan penterjemah dan relawan pendamping yang  diperlukan bagi Korban;  
